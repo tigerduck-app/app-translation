@@ -19,9 +19,9 @@ This folder is the shared translation source for both Android and iOS.
 2. Run:
 
 ```bash
-python3 tools/localization/sync_localizations.py
+python3 tools/localization/generate_localizations.py
 ```
 
-This regenerates shared Android/iOS files under `generated/`, and also syncs Android app runtime files under `app/src/main/res/values*/strings.xml`.
+This regenerates Android/iOS localization artifacts under `generated/`.
 
-If you want to publish only translations in a separate repository, push this `localization/` folder.
+If you want to publish only translations in a separate repository, push this folder.

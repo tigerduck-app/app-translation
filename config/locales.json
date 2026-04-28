@@ -1,0 +1,57 @@
+{
+  "canonicalLocale": "en",
+  "android": {
+    "generateAllIso639_1": true,
+    "defaultDirLocale": "zh-Hant",
+    "specialLocaleToDir": {
+      "zh-Hant": "values",
+      "en": "values-en",
+      "tl": "fil",
+      "zh": "zh-Hans",
+      "zh-Hans": "values-zh-rCN",
+      "pt-BR": "values-pt-rBR",
+      "pt-PT": "values-pt-rPT",
+      "he": "values-iw",
+      "id": "values-in",
+      "nb": "values-nb",
+      "no": "values-no"
+    },
+    "aliases": {
+      "en-GB": "en",
+      "en-AU": "en",
+      "en-CA": "en",
+      "en-IN": "en",
+      "es-MX": "es",
+      "fr-CA": "fr",
+      "pt": "pt-PT",
+      "zh-TW": "zh-Hant",
+      "tl": "fil",
+      "zh": "zh-Hans",
+      "zh-HK": "zh-Hant",
+      "zh-MO": "zh-Hant",
+      "zh-CN": "zh-Hans",
+      "zh-SG": "zh-Hans",
+      "nb": "no"
+    }
+  },
+  "ios": {
+    "generateAllIso639_1": true,
+    "aliases": {
+      "en-GB": "en",
+      "en-AU": "en",
+      "en-CA": "en",
+      "en-IN": "en",
+      "es-MX": "es",
+      "fr-CA": "fr",
+      "pt": "pt-PT",
+      "zh-TW": "zh-Hant",
+      "zh-HK": "zh-Hant",
+      "zh-MO": "zh-Hant",
+      "zh-CN": "zh-Hans",
+      "zh-SG": "zh-Hans",
+      "nb": "no",
+      "no": "no"
+    }
+  }
+}
+
