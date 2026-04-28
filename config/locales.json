@@ -32,7 +32,7 @@
       "nb": "no"
     }
   },
-  "ios": {
+  "apple": {
     "generateAllIso639_1": false,
     "aliases": {
       "en-CA": "en",

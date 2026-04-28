@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Generate Android/iOS localization artifacts from source JSON.
+"""Generate Android/apple localization artifacts from source JSON.
 
 This repo is the source of truth: `source/<locale>.json`.
 
 Outputs:
 - `generated/android/values-*/strings.xml`
-- `generated/ios/<locale>.lproj/Localizable.strings`
+- `generated/apple/<locale>.lproj/Localizable.strings`
 
 Generation is config-driven via `config/locales.json`.
 """
@@ -100,7 +100,7 @@ def _escape_android(value: str) -> str:
     return value
 
 
-def _escape_ios(value: str) -> str:
+def _escape_apple(value: str) -> str:
     value = value.replace("\\", "\\\\")
     value = value.replace('"', "\\\"")
     value = value.replace("\n", "\\n")
@@ -119,8 +119,8 @@ class LocaleConfig:
     android_special_locale_to_dir: dict[str, str]
     android_aliases: dict[str, str]
     android_generate_all_iso_639_1: bool
-    ios_aliases: dict[str, str]
-    ios_generate_all_iso_639_1: bool
+    apple_aliases: dict[str, str]
+    apple_generate_all_iso_639_1: bool
 
 
 def _load_config() -> LocaleConfig:
@@ -129,7 +129,7 @@ def _load_config() -> LocaleConfig:
     canonical = raw.get("canonicalLocale", "en")
 
     android = raw.get("android", {})
-    ios = raw.get("ios", {})
+    apple = raw.get("apple", {})
 
     return LocaleConfig(
         canonical_locale=canonical,
@@ -137,8 +137,8 @@ def _load_config() -> LocaleConfig:
         android_special_locale_to_dir=dict(android.get("specialLocaleToDir", {})),
         android_aliases=dict(android.get("aliases", {})),
         android_generate_all_iso_639_1=bool(android.get("generateAllIso639_1", False)),
-        ios_aliases=dict(ios.get("aliases", {})),
-        ios_generate_all_iso_639_1=bool(ios.get("generateAllIso639_1", False)),
+        apple_aliases=dict(apple.get("aliases", {})),
+        apple_generate_all_iso_639_1=bool(apple.get("generateAllIso639_1", False)),
     )
 
 
@@ -226,11 +226,11 @@ def _render_android_strings_xml(strings: OrderedDict[str, str]) -> str:
     return "\n".join(lines)
 
 
-def _render_ios_strings(strings: OrderedDict[str, str]) -> str:
+def _render_apple_strings(strings: OrderedDict[str, str]) -> str:
     lines: list[str] = []
     lines.append("/* Generated from localization/source/*.json. Do not edit directly. */")
     for key, raw_value in strings.items():
-        value = _escape_ios(raw_value)
+        value = _escape_apple(raw_value)
         lines.append(f"\"{key}\" = \"{value}\";")
     lines.append("")
     return "\n".join(lines)
@@ -267,11 +267,11 @@ def generate(*, validate_only: bool) -> None:
     _validate_sources(sources, canonical_locale=cfg.canonical_locale)
 
     android_extras: list[str] = []
-    ios_extras: list[str] = []
+    apple_extras: list[str] = []
     if cfg.android_generate_all_iso_639_1:
         android_extras.extend(ISO_639_1)
-    if cfg.ios_generate_all_iso_639_1:
-        ios_extras.extend(ISO_639_1)
+    if cfg.apple_generate_all_iso_639_1:
+        apple_extras.extend(ISO_639_1)
 
     android_outputs = _resolve_output_locales(
         source_locales,
@@ -279,17 +279,17 @@ def generate(*, validate_only: bool) -> None:
         android_extras,
         fallback_source_locale=cfg.canonical_locale,
     )
-    ios_outputs = _resolve_output_locales(
+    apple_outputs = _resolve_output_locales(
         source_locales,
-        cfg.ios_aliases,
-        ios_extras,
+        cfg.apple_aliases,
+        apple_extras,
         fallback_source_locale=cfg.canonical_locale,
     )
 
     if validate_only:
         print(
-            "Validation OK. Source locales: %d, Android outputs: %d, iOS outputs: %d"
-            % (len(source_locales), len(android_outputs), len(ios_outputs))
+            "Validation OK. Source locales: %d, Android outputs: %d, apple outputs: %d"
+            % (len(source_locales), len(android_outputs), len(apple_outputs))
         )
         return
 
@@ -302,12 +302,12 @@ def generate(*, validate_only: bool) -> None:
         content = _render_android_strings_xml(sources[base_locale])
         _atomic_write_text(out_path, content)
 
-    # iOS
-    for out_locale, base_locale in sorted(ios_outputs.items()):
+    # apple
+    for out_locale, base_locale in sorted(apple_outputs.items()):
         if base_locale not in sources:
-            raise SystemExit(f"iOS alias '{out_locale}' points to missing source locale '{base_locale}'")
-        out_path = GENERATED_DIR / "ios" / f"{out_locale}.lproj" / "Localizable.strings"
-        content = _render_ios_strings(sources[base_locale])
+            raise SystemExit(f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
+        out_path = GENERATED_DIR / "apple" / f"{out_locale}.lproj" / "Localizable.strings"
+        content = _render_apple_strings(sources[base_locale])
         _atomic_write_text(out_path, content)
 
 
