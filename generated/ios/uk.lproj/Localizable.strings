@@ -320,7 +320,7 @@
 "settings_language" = "Мова";
 "settings_language_traditional_chinese" = "Традиційна китайська";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "Слідувати системі";
+"settings_language_follow_system" = "Слідувати системі (запасна: англійська)";
 "settings_section_notifications" = "Сповіщення";
 "settings_assignment_due_reminder" = "Нагадування про дедлайн завдань";
 "settings_section_other_features" = "Інші функції";

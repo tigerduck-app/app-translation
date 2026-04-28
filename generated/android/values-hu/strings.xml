@@ -322,7 +322,7 @@
     <string name="settings_language">Nyelv</string>
     <string name="settings_language_traditional_chinese">Hagyományos kínai</string>
     <string name="settings_language_english">Angol</string>
-    <string name="settings_language_follow_system">Rendszer szerint</string>
+    <string name="settings_language_follow_system">Rendszer szerint (tartalék: angol)</string>
     <string name="settings_section_notifications">Értesítések</string>
     <string name="settings_assignment_due_reminder">Házi feladat határidő emlékeztetők</string>
     <string name="settings_section_other_features">Egyéb funkciók</string>

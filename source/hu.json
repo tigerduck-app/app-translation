@@ -320,7 +320,7 @@
   "settings_language": "Nyelv",
   "settings_language_traditional_chinese": "Hagyományos kínai",
   "settings_language_english": "Angol",
-  "settings_language_follow_system": "Rendszer szerint",
+  "settings_language_follow_system": "Rendszer szerint (tartalék: angol)",
   "settings_section_notifications": "Értesítések",
   "settings_assignment_due_reminder": "Házi feladat határidő emlékeztetők",
   "settings_section_other_features": "Egyéb funkciók",

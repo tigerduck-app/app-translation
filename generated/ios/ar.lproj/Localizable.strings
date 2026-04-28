@@ -320,7 +320,7 @@
 "settings_language" = "اللغة";
 "settings_language_traditional_chinese" = "الصينية التقليدية";
 "settings_language_english" = "الإنجليزية";
-"settings_language_follow_system" = "اتباع النظام";
+"settings_language_follow_system" = "اتباع النظام (الإنجليزية كلغة احتياطية)";
 "settings_section_notifications" = "الإشعارات";
 "settings_assignment_due_reminder" = "تذكيرات استحقاق الواجبات";
 "settings_section_other_features" = "ميزات أخرى";

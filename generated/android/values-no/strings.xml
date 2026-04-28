@@ -322,7 +322,7 @@
     <string name="settings_language">Språk</string>
     <string name="settings_language_traditional_chinese">Tradisjonell kinesisk</string>
     <string name="settings_language_english">Engelsk</string>
-    <string name="settings_language_follow_system">Følg system</string>
+    <string name="settings_language_follow_system">Følg system (reserve: engelsk)</string>
     <string name="settings_section_notifications">Varsler</string>
     <string name="settings_assignment_due_reminder">Påminnelser om oppgavefrist</string>
     <string name="settings_section_other_features">Andre funksjoner</string>

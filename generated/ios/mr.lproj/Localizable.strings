@@ -320,7 +320,7 @@
 "settings_language" = "भाषा";
 "settings_language_traditional_chinese" = "पारंपारिक चिनी";
 "settings_language_english" = "इंग्रजी";
-"settings_language_follow_system" = "सिस्टमचे अनुसरण करा";
+"settings_language_follow_system" = "सिस्टमचे अनुसरण करा (फॉलबॅक इंग्रजी)";
 "settings_section_notifications" = "अधिसूचना";
 "settings_assignment_due_reminder" = "असाइनमेंट मुदत स्मरणपत्रे";
 "settings_section_other_features" = "इतर वैशिष्ट्ये";

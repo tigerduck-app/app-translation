@@ -320,7 +320,7 @@
 "settings_language" = "Језик";
 "settings_language_traditional_chinese" = "Традиционални кинески";
 "settings_language_english" = "Енглески";
-"settings_language_follow_system" = "Прати систем";
+"settings_language_follow_system" = "Прати систем (Резервно: енглески)";
 "settings_section_notifications" = "Обавештења";
 "settings_assignment_due_reminder" = "Подсетници за рок задатка";
 "settings_section_other_features" = "Остале функције";

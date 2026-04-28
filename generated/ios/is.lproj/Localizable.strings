@@ -320,7 +320,7 @@
 "settings_language" = "Tungumál";
 "settings_language_traditional_chinese" = "Hefðbundinn kínverska";
 "settings_language_english" = "Enska";
-"settings_language_follow_system" = "Fylgja kerfi";
+"settings_language_follow_system" = "Fylgja kerfi (Vara: enska)";
 "settings_section_notifications" = "Tilkynningar";
 "settings_assignment_due_reminder" = "Verkefnaáminningar";
 "settings_section_other_features" = "Aðrir eiginleikar";

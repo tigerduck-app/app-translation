@@ -320,7 +320,7 @@
 "settings_language" = "Kieli";
 "settings_language_traditional_chinese" = "Perinteinen kiina";
 "settings_language_english" = "Englanti";
-"settings_language_follow_system" = "Seuraa järjestelmää";
+"settings_language_follow_system" = "Seuraa järjestelmää (varakieli: englanti)";
 "settings_section_notifications" = "Ilmoitukset";
 "settings_assignment_due_reminder" = "Tehtävän palautusmuistutukset";
 "settings_section_other_features" = "Muut ominaisuudet";

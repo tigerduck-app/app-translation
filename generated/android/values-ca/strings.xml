@@ -322,7 +322,7 @@
     <string name="settings_language">Idioma</string>
     <string name="settings_language_traditional_chinese">Xinès tradicional</string>
     <string name="settings_language_english">Anglès</string>
-    <string name="settings_language_follow_system">Segueix el sistema</string>
+    <string name="settings_language_follow_system">Segueix el sistema (Anglès de reserva)</string>
     <string name="settings_section_notifications">Notificacions</string>
     <string name="settings_assignment_due_reminder">Recordatoris de venciment de tasques</string>
     <string name="settings_section_other_features">Altres funcions</string>

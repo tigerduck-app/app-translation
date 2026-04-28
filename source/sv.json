@@ -320,7 +320,7 @@
   "settings_language": "Språk",
   "settings_language_traditional_chinese": "Traditionell kinesiska",
   "settings_language_english": "English",
-  "settings_language_follow_system": "Följ systemet",
+  "settings_language_follow_system": "Följ systemet (Reserv: engelska)",
   "settings_section_notifications": "Aviseringar",
   "settings_assignment_due_reminder": "Påminnelser om uppgifter",
   "settings_section_other_features": "Övriga funktioner",

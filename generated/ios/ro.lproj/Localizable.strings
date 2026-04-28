@@ -320,7 +320,7 @@
 "settings_language" = "Limbă";
 "settings_language_traditional_chinese" = "Chineză tradițională";
 "settings_language_english" = "Engleză";
-"settings_language_follow_system" = "Urmează sistemul";
+"settings_language_follow_system" = "Urmează sistemul (Rezervă: engleză)";
 "settings_section_notifications" = "Notificări";
 "settings_assignment_due_reminder" = "Remindere teme scadente";
 "settings_section_other_features" = "Alte funcționalități";

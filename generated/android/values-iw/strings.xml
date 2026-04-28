@@ -322,7 +322,7 @@
     <string name="settings_language">שפה</string>
     <string name="settings_language_traditional_chinese">סינית מסורתית</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">עקוב אחר המערכת</string>
+    <string name="settings_language_follow_system">עקוב אחר המערכת (אנגלית כשפת גיבוי)</string>
     <string name="settings_section_notifications">התראות</string>
     <string name="settings_assignment_due_reminder">תזכורות לתאריך הגשת מטלה</string>
     <string name="settings_section_other_features">תכונות נוספות</string>

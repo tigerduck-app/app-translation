@@ -320,7 +320,7 @@
   "settings_language": "언어",
   "settings_language_traditional_chinese": "번체 중국어",
   "settings_language_english": "English",
-  "settings_language_follow_system": "시스템 설정 따르기",
+  "settings_language_follow_system": "시스템 설정 따르기 (대체: 영어)",
   "settings_section_notifications": "알림",
   "settings_assignment_due_reminder": "과제 마감 알림",
   "settings_section_other_features": "기타 기능",

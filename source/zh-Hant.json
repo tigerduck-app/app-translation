@@ -320,7 +320,7 @@
   "settings_language": "語言",
   "settings_language_traditional_chinese": "繁體中文",
   "settings_language_english": "English",
-  "settings_language_follow_system": "跟隨系統",
+  "settings_language_follow_system": "跟隨系統（備用英文）",
   "settings_section_notifications": "通知",
   "settings_assignment_due_reminder": "作業到期提醒",
   "settings_section_other_features": "其他功能",

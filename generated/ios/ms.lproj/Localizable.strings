@@ -320,7 +320,7 @@
 "settings_language" = "Bahasa";
 "settings_language_traditional_chinese" = "Cina Tradisional";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "Ikut sistem";
+"settings_language_follow_system" = "Ikut sistem (Sandaran: Inggeris)";
 "settings_section_notifications" = "Pemberitahuan";
 "settings_assignment_due_reminder" = "Peringatan tugasan hampir tamat";
 "settings_section_other_features" = "Ciri lain";

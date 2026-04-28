@@ -322,7 +322,7 @@
     <string name="settings_language">भाषा</string>
     <string name="settings_language_traditional_chinese">परंपरागत चीनी</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">सिस्टम का अनुसरण करें</string>
+    <string name="settings_language_follow_system">सिस्टम का अनुसरण करें (फ़ॉलबैक अंग्रेज़ी)</string>
     <string name="settings_section_notifications">नोटिफिकेशन</string>
     <string name="settings_assignment_due_reminder">असाइनमेंट देय अनुस्मारक</string>
     <string name="settings_section_other_features">अन्य फीचर</string>

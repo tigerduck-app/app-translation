@@ -322,7 +322,7 @@
     <string name="settings_language">زبان</string>
     <string name="settings_language_traditional_chinese">روایتی چینی</string>
     <string name="settings_language_english">انگریزی</string>
-    <string name="settings_language_follow_system">سسٹم کے مطابق</string>
+    <string name="settings_language_follow_system">سسٹم کے مطابق (متبادل: انگریزی)</string>
     <string name="settings_section_notifications">اطلاعات</string>
     <string name="settings_assignment_due_reminder">اسائنمنٹ کی آخری تاریخ کی یاددہانی</string>
     <string name="settings_section_other_features">دیگر فیچرز</string>

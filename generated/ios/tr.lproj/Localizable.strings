@@ -320,7 +320,7 @@
 "settings_language" = "Dil";
 "settings_language_traditional_chinese" = "Geleneksel Çince";
 "settings_language_english" = "İngilizce";
-"settings_language_follow_system" = "Sistemi takip et";
+"settings_language_follow_system" = "Sistemi takip et (Yedek: İngilizce)";
 "settings_section_notifications" = "Bildirimler";
 "settings_assignment_due_reminder" = "Ödev teslim hatırlatıcıları";
 "settings_section_other_features" = "Diğer özellikler";

@@ -320,7 +320,7 @@
   "settings_language": "ভাষা",
   "settings_language_traditional_chinese": "ঐতিহ্যবাহী চীনা",
   "settings_language_english": "ইংরেজি",
-  "settings_language_follow_system": "সিস্টেম অনুসরণ করুন",
+  "settings_language_follow_system": "সিস্টেম অনুসরণ করুন (ফলব্যাক ইংরেজি)",
   "settings_section_notifications": "বিজ্ঞপ্তি",
   "settings_assignment_due_reminder": "অ্যাসাইনমেন্টের সময়সীমার স্মরণিকা",
   "settings_section_other_features": "অন্যান্য ফিচার",

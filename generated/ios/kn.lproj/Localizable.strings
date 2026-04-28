@@ -320,7 +320,7 @@
 "settings_language" = "ಭಾಷೆ";
 "settings_language_traditional_chinese" = "ಸಾಂಪ್ರದಾಯಿಕ ಚೀನೀ";
 "settings_language_english" = "ಇಂಗ್ಲಿಷ್";
-"settings_language_follow_system" = "ಸಿಸ್ಟಂ ಅನುಸರಿಸಿ";
+"settings_language_follow_system" = "ಸಿಸ್ಟಂ ಅನುಸರಿಸಿ (ಫಾಲ್‌ಬ್ಯಾಕ್ ಇಂಗ್ಲಿಷ್)";
 "settings_section_notifications" = "ಅಧಿಸೂಚನೆಗಳು";
 "settings_assignment_due_reminder" = "ಕಾರ್ಯ ಗಡುವು ಜ್ಞಾಪನೆಗಳು";
 "settings_section_other_features" = "ಇತರ ವೈಶಿಷ್ಟ್ಯಗಳು";

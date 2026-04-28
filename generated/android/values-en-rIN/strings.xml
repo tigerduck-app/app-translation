@@ -322,7 +322,7 @@
     <string name="settings_language">Language</string>
     <string name="settings_language_traditional_chinese">Traditional Chinese</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Follow system</string>
+    <string name="settings_language_follow_system">Follow system (Fallback English)</string>
     <string name="settings_section_notifications">Notifications</string>
     <string name="settings_assignment_due_reminder">Assignment due reminders</string>
     <string name="settings_section_other_features">Other features</string>

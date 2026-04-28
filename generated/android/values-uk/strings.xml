@@ -322,7 +322,7 @@
     <string name="settings_language">Мова</string>
     <string name="settings_language_traditional_chinese">Традиційна китайська</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Слідувати системі</string>
+    <string name="settings_language_follow_system">Слідувати системі (запасна: англійська)</string>
     <string name="settings_section_notifications">Сповіщення</string>
     <string name="settings_assignment_due_reminder">Нагадування про дедлайн завдань</string>
     <string name="settings_section_other_features">Інші функції</string>

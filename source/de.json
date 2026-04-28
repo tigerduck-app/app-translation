@@ -320,7 +320,7 @@
   "settings_language": "Sprache",
   "settings_language_traditional_chinese": "Traditionelles Chinesisch",
   "settings_language_english": "Englisch",
-  "settings_language_follow_system": "System folgen",
+  "settings_language_follow_system": "System folgen (Ersatz: Englisch)",
   "settings_section_notifications": "Benachrichtigungen",
   "settings_assignment_due_reminder": "Erinnerungen an fällige Aufgaben",
   "settings_section_other_features": "Weitere Funktionen",

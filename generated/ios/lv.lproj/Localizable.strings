@@ -320,7 +320,7 @@
 "settings_language" = "Valoda";
 "settings_language_traditional_chinese" = "Tradicionālais ķīniešu";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "Sekot sistēmai";
+"settings_language_follow_system" = "Sekot sistēmai (rezerves angļu)";
 "settings_section_notifications" = "Paziņojumi";
 "settings_assignment_due_reminder" = "Uzdevumu termiņa atgādinājumi";
 "settings_section_other_features" = "Citas funkcijas";

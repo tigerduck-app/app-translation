@@ -322,7 +322,7 @@
     <string name="settings_language">زبان</string>
     <string name="settings_language_traditional_chinese">چینی سنتی</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">همگام با سیستم</string>
+    <string name="settings_language_follow_system">همگام با سیستم (زبان جایگزین: انگلیسی)</string>
     <string name="settings_section_notifications">اعلان‌ها</string>
     <string name="settings_assignment_due_reminder">یادآورهای موعد تکلیف</string>
     <string name="settings_section_other_features">سایر قابلیت‌ها</string>

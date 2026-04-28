@@ -322,7 +322,7 @@
     <string name="settings_language">Limbă</string>
     <string name="settings_language_traditional_chinese">Chineză tradițională</string>
     <string name="settings_language_english">Engleză</string>
-    <string name="settings_language_follow_system">Urmează sistemul</string>
+    <string name="settings_language_follow_system">Urmează sistemul (Rezervă: engleză)</string>
     <string name="settings_section_notifications">Notificări</string>
     <string name="settings_assignment_due_reminder">Remindere teme scadente</string>
     <string name="settings_section_other_features">Alte funcționalități</string>

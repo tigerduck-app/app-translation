@@ -320,7 +320,7 @@
   "settings_language": "Jezik",
   "settings_language_traditional_chinese": "Tradicionalna kitajščina",
   "settings_language_english": "Angleščina",
-  "settings_language_follow_system": "Sledi sistemu",
+  "settings_language_follow_system": "Sledi sistemu (rezervna: angleščina)",
   "settings_section_notifications": "Obvestila",
   "settings_assignment_due_reminder": "Opomniki za rok naloge",
   "settings_section_other_features": "Druge funkcije",

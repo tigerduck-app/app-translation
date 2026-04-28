@@ -320,7 +320,7 @@
   "settings_language": "Язык",
   "settings_language_traditional_chinese": "Традиционный китайский",
   "settings_language_english": "English",
-  "settings_language_follow_system": "Как в системе",
+  "settings_language_follow_system": "Как в системе (резервный: английский)",
   "settings_section_notifications": "Уведомления",
   "settings_assignment_due_reminder": "Напоминания о сроках сдачи заданий",
   "settings_section_other_features": "Прочие функции",

@@ -322,7 +322,7 @@
     <string name="settings_language">Jazyk</string>
     <string name="settings_language_traditional_chinese">Tradičná čínština</string>
     <string name="settings_language_english">Angličtina</string>
-    <string name="settings_language_follow_system">Podľa systému</string>
+    <string name="settings_language_follow_system">Podľa systému (záložná: angličtina)</string>
     <string name="settings_section_notifications">Notifikácie</string>
     <string name="settings_assignment_due_reminder">Pripomienky termínov úloh</string>
     <string name="settings_section_other_features">Ďalšie funkcie</string>

@@ -320,7 +320,7 @@
 "settings_language" = "שפה";
 "settings_language_traditional_chinese" = "סינית מסורתית";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "עקוב אחר המערכת";
+"settings_language_follow_system" = "עקוב אחר המערכת (אנגלית כשפת גיבוי)";
 "settings_section_notifications" = "התראות";
 "settings_assignment_due_reminder" = "תזכורות לתאריך הגשת מטלה";
 "settings_section_other_features" = "תכונות נוספות";

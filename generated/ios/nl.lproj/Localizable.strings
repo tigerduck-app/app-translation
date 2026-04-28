@@ -320,7 +320,7 @@
 "settings_language" = "Taal";
 "settings_language_traditional_chinese" = "Traditioneel Chinees";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "Systeem volgen";
+"settings_language_follow_system" = "Systeem volgen (Reserve Engels)";
 "settings_section_notifications" = "Meldingen";
 "settings_assignment_due_reminder" = "Herinneringen voor opdrachtdeadlines";
 "settings_section_other_features" = "Overige functies";

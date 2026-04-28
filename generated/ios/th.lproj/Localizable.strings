@@ -320,7 +320,7 @@
 "settings_language" = "ภาษา";
 "settings_language_traditional_chinese" = "จีนตัวเต็ม";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "ตามระบบ";
+"settings_language_follow_system" = "ตามระบบ (ภาษาสำรอง: อังกฤษ)";
 "settings_section_notifications" = "การแจ้งเตือน";
 "settings_assignment_due_reminder" = "การแจ้งเตือนการบ้านใกล้ครบกำหนด";
 "settings_section_other_features" = "ฟีเจอร์อื่นๆ";

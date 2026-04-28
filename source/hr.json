@@ -320,7 +320,7 @@
   "settings_language": "Jezik",
   "settings_language_traditional_chinese": "Tradicionalni kineski",
   "settings_language_english": "English",
-  "settings_language_follow_system": "Prati sustav",
+  "settings_language_follow_system": "Prati sustav (Rezervno engleski)",
   "settings_section_notifications": "Obavijesti",
   "settings_assignment_due_reminder": "Podsjetnici za zadatke",
   "settings_section_other_features": "Ostale funkcije",

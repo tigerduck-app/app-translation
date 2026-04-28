@@ -322,7 +322,7 @@
     <string name="settings_language">اللغة</string>
     <string name="settings_language_traditional_chinese">الصينية التقليدية</string>
     <string name="settings_language_english">الإنجليزية</string>
-    <string name="settings_language_follow_system">اتباع النظام</string>
+    <string name="settings_language_follow_system">اتباع النظام (الإنجليزية كلغة احتياطية)</string>
     <string name="settings_section_notifications">الإشعارات</string>
     <string name="settings_assignment_due_reminder">تذكيرات استحقاق الواجبات</string>
     <string name="settings_section_other_features">ميزات أخرى</string>

@@ -320,7 +320,7 @@
   "settings_language": "Език",
   "settings_language_traditional_chinese": "Традиционен китайски",
   "settings_language_english": "English",
-  "settings_language_follow_system": "Следване на системата",
+  "settings_language_follow_system": "Следване на системата (резервен: английски)",
   "settings_section_notifications": "Известия",
   "settings_assignment_due_reminder": "Напомняния за крайни срокове на задания",
   "settings_section_other_features": "Други функции",

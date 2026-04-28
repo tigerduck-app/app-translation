@@ -320,7 +320,7 @@
 "settings_language" = "Sprog";
 "settings_language_traditional_chinese" = "Traditionel kinesisk";
 "settings_language_english" = "Engelsk";
-"settings_language_follow_system" = "Følg system";
+"settings_language_follow_system" = "Følg system (reserve: engelsk)";
 "settings_section_notifications" = "Notifikationer";
 "settings_assignment_due_reminder" = "Påmindelser om opgavefrist";
 "settings_section_other_features" = "Andre funktioner";

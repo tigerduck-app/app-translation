@@ -322,7 +322,7 @@
     <string name="settings_language">ภาษา</string>
     <string name="settings_language_traditional_chinese">จีนตัวเต็ม</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">ตามระบบ</string>
+    <string name="settings_language_follow_system">ตามระบบ (ภาษาสำรอง: อังกฤษ)</string>
     <string name="settings_section_notifications">การแจ้งเตือน</string>
     <string name="settings_assignment_due_reminder">การแจ้งเตือนการบ้านใกล้ครบกำหนด</string>
     <string name="settings_section_other_features">ฟีเจอร์อื่นๆ</string>

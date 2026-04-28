@@ -322,7 +322,7 @@
     <string name="settings_language">Langue</string>
     <string name="settings_language_traditional_chinese">Chinois traditionnel</string>
     <string name="settings_language_english">Anglais</string>
-    <string name="settings_language_follow_system">Suivre le système</string>
+    <string name="settings_language_follow_system">Suivre le système (Anglais de secours)</string>
     <string name="settings_section_notifications">Notifications</string>
     <string name="settings_assignment_due_reminder">Rappels d\'échéance des devoirs</string>
     <string name="settings_section_other_features">Autres fonctionnalités</string>

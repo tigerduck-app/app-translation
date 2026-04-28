@@ -322,7 +322,7 @@
     <string name="settings_language">Γλώσσα</string>
     <string name="settings_language_traditional_chinese">Παραδοσιακά Κινεζικά</string>
     <string name="settings_language_english">Αγγλικά</string>
-    <string name="settings_language_follow_system">Ακολουθεί σύστημα</string>
+    <string name="settings_language_follow_system">Ακολουθεί σύστημα (Εφεδρικά Αγγλικά)</string>
     <string name="settings_section_notifications">Ειδοποιήσεις</string>
     <string name="settings_assignment_due_reminder">Υπενθυμίσεις λήξης εργασίας</string>
     <string name="settings_section_other_features">Άλλες λειτουργίες</string>

@@ -322,7 +322,7 @@
     <string name="settings_language">Tungumál</string>
     <string name="settings_language_traditional_chinese">Hefðbundinn kínverska</string>
     <string name="settings_language_english">Enska</string>
-    <string name="settings_language_follow_system">Fylgja kerfi</string>
+    <string name="settings_language_follow_system">Fylgja kerfi (Vara: enska)</string>
     <string name="settings_section_notifications">Tilkynningar</string>
     <string name="settings_assignment_due_reminder">Verkefnaáminningar</string>
     <string name="settings_section_other_features">Aðrir eiginleikar</string>

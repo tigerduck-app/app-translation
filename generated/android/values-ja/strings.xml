@@ -322,7 +322,7 @@
     <string name="settings_language">言語</string>
     <string name="settings_language_traditional_chinese">繁體中文</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">システムに従う</string>
+    <string name="settings_language_follow_system">システムに従う（フォールバックは英語）</string>
     <string name="settings_section_notifications">通知</string>
     <string name="settings_assignment_due_reminder">課題の期限リマインダー</string>
     <string name="settings_section_other_features">その他の機能</string>

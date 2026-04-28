@@ -320,7 +320,7 @@
   "settings_language": "Keel",
   "settings_language_traditional_chinese": "Traditsiooniline hiina",
   "settings_language_english": "English",
-  "settings_language_follow_system": "Järgi süsteemi",
+  "settings_language_follow_system": "Järgi süsteemi (varuvariant: inglise)",
   "settings_section_notifications": "Teavitused",
   "settings_assignment_due_reminder": "Ülesande tähtaja meeldetuletused",
   "settings_section_other_features": "Muud funktsioonid",

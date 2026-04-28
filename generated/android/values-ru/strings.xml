@@ -322,7 +322,7 @@
     <string name="settings_language">Язык</string>
     <string name="settings_language_traditional_chinese">Традиционный китайский</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Как в системе</string>
+    <string name="settings_language_follow_system">Как в системе (резервный: английский)</string>
     <string name="settings_section_notifications">Уведомления</string>
     <string name="settings_assignment_due_reminder">Напоминания о сроках сдачи заданий</string>
     <string name="settings_section_other_features">Прочие функции</string>

@@ -322,7 +322,7 @@
     <string name="settings_language">语言</string>
     <string name="settings_language_traditional_chinese">繁体中文</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">跟随系统</string>
+    <string name="settings_language_follow_system">跟随系统（备用英文）</string>
     <string name="settings_section_notifications">通知</string>
     <string name="settings_assignment_due_reminder">作业到期提醒</string>
     <string name="settings_section_other_features">其他功能</string>

@@ -320,7 +320,7 @@
   "settings_language": "Kalba",
   "settings_language_traditional_chinese": "Tradicinė kinų",
   "settings_language_english": "Anglų",
-  "settings_language_follow_system": "Pagal sistemą",
+  "settings_language_follow_system": "Pagal sistemą (atsarginė anglų)",
   "settings_section_notifications": "Pranešimai",
   "settings_assignment_due_reminder": "Užduočių terminų priminimai",
   "settings_section_other_features": "Kitos funkcijos",

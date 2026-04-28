@@ -320,7 +320,7 @@
 "settings_language" = "Wika";
 "settings_language_traditional_chinese" = "Traditional Chinese";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "Sundan ang sistema";
+"settings_language_follow_system" = "Sundan ang sistema (Fallback Ingles)";
 "settings_section_notifications" = "Mga notification";
 "settings_assignment_due_reminder" = "Mga paalala sa takdang-aralin";
 "settings_section_other_features" = "Iba pang feature";

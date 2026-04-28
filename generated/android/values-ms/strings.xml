@@ -322,7 +322,7 @@
     <string name="settings_language">Bahasa</string>
     <string name="settings_language_traditional_chinese">Cina Tradisional</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Ikut sistem</string>
+    <string name="settings_language_follow_system">Ikut sistem (Sandaran: Inggeris)</string>
     <string name="settings_section_notifications">Pemberitahuan</string>
     <string name="settings_assignment_due_reminder">Peringatan tugasan hampir tamat</string>
     <string name="settings_section_other_features">Ciri lain</string>

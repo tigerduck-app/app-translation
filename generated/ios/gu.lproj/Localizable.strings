@@ -320,7 +320,7 @@
 "settings_language" = "ભાષા";
 "settings_language_traditional_chinese" = "Traditional Chinese";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "સિસ્ટમ પ્રમાણે";
+"settings_language_follow_system" = "સિસ્ટમ પ્રમાણે (ફોલબૅક અંગ્રેજી)";
 "settings_section_notifications" = "નોટિફિકેશન";
 "settings_assignment_due_reminder" = "અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર";
 "settings_section_other_features" = "અન્ય ફીચર";

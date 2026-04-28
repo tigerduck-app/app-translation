@@ -322,7 +322,7 @@
     <string name="settings_language">ભાષા</string>
     <string name="settings_language_traditional_chinese">Traditional Chinese</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">સિસ્ટમ પ્રમાણે</string>
+    <string name="settings_language_follow_system">સિસ્ટમ પ્રમાણે (ફોલબૅક અંગ્રેજી)</string>
     <string name="settings_section_notifications">નોટિફિકેશન</string>
     <string name="settings_assignment_due_reminder">અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર</string>
     <string name="settings_section_other_features">અન્ય ફીચર</string>

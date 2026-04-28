@@ -322,7 +322,7 @@
     <string name="settings_language">ಭಾಷೆ</string>
     <string name="settings_language_traditional_chinese">ಸಾಂಪ್ರದಾಯಿಕ ಚೀನೀ</string>
     <string name="settings_language_english">ಇಂಗ್ಲಿಷ್</string>
-    <string name="settings_language_follow_system">ಸಿಸ್ಟಂ ಅನುಸರಿಸಿ</string>
+    <string name="settings_language_follow_system">ಸಿಸ್ಟಂ ಅನುಸರಿಸಿ (ಫಾಲ್‌ಬ್ಯಾಕ್ ಇಂಗ್ಲಿಷ್)</string>
     <string name="settings_section_notifications">ಅಧಿಸೂಚನೆಗಳು</string>
     <string name="settings_assignment_due_reminder">ಕಾರ್ಯ ಗಡುವು ಜ್ಞಾಪನೆಗಳು</string>
     <string name="settings_section_other_features">ಇತರ ವೈಶಿಷ್ಟ್ಯಗಳು</string>

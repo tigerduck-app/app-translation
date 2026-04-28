@@ -320,7 +320,7 @@
 "settings_language" = "زبان";
 "settings_language_traditional_chinese" = "چینی سنتی";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "همگام با سیستم";
+"settings_language_follow_system" = "همگام با سیستم (زبان جایگزین: انگلیسی)";
 "settings_section_notifications" = "اعلان‌ها";
 "settings_assignment_due_reminder" = "یادآورهای موعد تکلیف";
 "settings_section_other_features" = "سایر قابلیت‌ها";

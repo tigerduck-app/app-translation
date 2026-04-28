@@ -322,7 +322,7 @@
     <string name="settings_language">Ngôn ngữ</string>
     <string name="settings_language_traditional_chinese">Tiếng Trung phồn thể</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Theo hệ thống</string>
+    <string name="settings_language_follow_system">Theo hệ thống (Dự phòng: tiếng Anh)</string>
     <string name="settings_section_notifications">Thông báo</string>
     <string name="settings_assignment_due_reminder">Nhắc bài tập sắp đến hạn</string>
     <string name="settings_section_other_features">Tính năng khác</string>

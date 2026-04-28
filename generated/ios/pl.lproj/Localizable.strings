@@ -320,7 +320,7 @@
 "settings_language" = "Język";
 "settings_language_traditional_chinese" = "Chiński tradycyjny";
 "settings_language_english" = "Angielski";
-"settings_language_follow_system" = "Zgodnie z systemem";
+"settings_language_follow_system" = "Zgodnie z systemem (rezerwowy: angielski)";
 "settings_section_notifications" = "Powiadomienia";
 "settings_assignment_due_reminder" = "Przypomnienia o terminach zadań";
 "settings_section_other_features" = "Inne funkcje";

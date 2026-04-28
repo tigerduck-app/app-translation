@@ -322,7 +322,7 @@
     <string name="settings_language">Jezik</string>
     <string name="settings_language_traditional_chinese">Tradicionalni kineski</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Prati sustav</string>
+    <string name="settings_language_follow_system">Prati sustav (Rezervno engleski)</string>
     <string name="settings_section_notifications">Obavijesti</string>
     <string name="settings_assignment_due_reminder">Podsjetnici za zadatke</string>
     <string name="settings_section_other_features">Ostale funkcije</string>

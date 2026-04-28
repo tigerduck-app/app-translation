@@ -320,7 +320,7 @@
   "settings_language": "Jazyk",
   "settings_language_traditional_chinese": "Tradiční čínština",
   "settings_language_english": "Angličtina",
-  "settings_language_follow_system": "Podle systému",
+  "settings_language_follow_system": "Podle systému (záložní angličtina)",
   "settings_section_notifications": "Oznámení",
   "settings_assignment_due_reminder": "Upozornění na blížící se termín úkolu",
   "settings_section_other_features": "Další funkce",

@@ -322,7 +322,7 @@
     <string name="settings_language">Valoda</string>
     <string name="settings_language_traditional_chinese">Tradicionālais ķīniešu</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Sekot sistēmai</string>
+    <string name="settings_language_follow_system">Sekot sistēmai (rezerves angļu)</string>
     <string name="settings_section_notifications">Paziņojumi</string>
     <string name="settings_assignment_due_reminder">Uzdevumu termiņa atgādinājumi</string>
     <string name="settings_section_other_features">Citas funkcijas</string>

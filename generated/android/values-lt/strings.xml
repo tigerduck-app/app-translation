@@ -322,7 +322,7 @@
     <string name="settings_language">Kalba</string>
     <string name="settings_language_traditional_chinese">Tradicinė kinų</string>
     <string name="settings_language_english">Anglų</string>
-    <string name="settings_language_follow_system">Pagal sistemą</string>
+    <string name="settings_language_follow_system">Pagal sistemą (atsarginė anglų)</string>
     <string name="settings_section_notifications">Pranešimai</string>
     <string name="settings_assignment_due_reminder">Užduočių terminų priminimai</string>
     <string name="settings_section_other_features">Kitos funkcijos</string>

@@ -320,7 +320,7 @@
 "settings_language" = "Language";
 "settings_language_traditional_chinese" = "Traditional Chinese";
 "settings_language_english" = "English";
-"settings_language_follow_system" = "Follow system";
+"settings_language_follow_system" = "Follow system (Fallback English)";
 "settings_section_notifications" = "Notifications";
 "settings_assignment_due_reminder" = "Assignment due reminders";
 "settings_section_other_features" = "Other features";

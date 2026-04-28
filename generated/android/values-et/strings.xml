@@ -322,7 +322,7 @@
     <string name="settings_language">Keel</string>
     <string name="settings_language_traditional_chinese">Traditsiooniline hiina</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Järgi süsteemi</string>
+    <string name="settings_language_follow_system">Järgi süsteemi (varuvariant: inglise)</string>
     <string name="settings_section_notifications">Teavitused</string>
     <string name="settings_assignment_due_reminder">Ülesande tähtaja meeldetuletused</string>
     <string name="settings_section_other_features">Muud funktsioonid</string>

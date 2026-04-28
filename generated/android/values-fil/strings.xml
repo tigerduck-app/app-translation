@@ -322,7 +322,7 @@
     <string name="settings_language">Wika</string>
     <string name="settings_language_traditional_chinese">Traditional Chinese</string>
     <string name="settings_language_english">English</string>
-    <string name="settings_language_follow_system">Sundan ang sistema</string>
+    <string name="settings_language_follow_system">Sundan ang sistema (Fallback Ingles)</string>
     <string name="settings_section_notifications">Mga notification</string>
     <string name="settings_assignment_due_reminder">Mga paalala sa takdang-aralin</string>
     <string name="settings_section_other_features">Iba pang feature</string>

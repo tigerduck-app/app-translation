@@ -320,7 +320,7 @@
 "settings_language" = "Idioma";
 "settings_language_traditional_chinese" = "Xinès tradicional";
 "settings_language_english" = "Anglès";
-"settings_language_follow_system" = "Segueix el sistema";
+"settings_language_follow_system" = "Segueix el sistema (Anglès de reserva)";
 "settings_section_notifications" = "Notificacions";
 "settings_assignment_due_reminder" = "Recordatoris de venciment de tasques";
 "settings_section_other_features" = "Altres funcions";
