@@ -1,11 +1,11 @@
 {
   "canonicalLocale": "en",
   "android": {
-    "generateAllIso639_1": true,
-    "defaultDirLocale": "zh-Hant",
+    "generateAllIso639_1": false,
+    "defaultDirLocale": "en",
     "specialLocaleToDir": {
-      "zh-Hant": "values",
-      "en": "values-en",
+      "en": "values",
+      "zh-Hant": "values-zh-rTW",
       "tl": "fil",
       "zh": "zh-Hans",
       "zh-Hans": "values-zh-rCN",
@@ -35,7 +35,7 @@
     }
   },
   "ios": {
-    "generateAllIso639_1": true,
+    "generateAllIso639_1": false,
     "aliases": {
       "en-GB": "en",
       "en-AU": "en",

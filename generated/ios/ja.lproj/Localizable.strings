@@ -117,10 +117,10 @@
 "onboarding_welcome_subtitle" = "あなたの NTUST キャンパスアシスタント";
 "action_next" = "次へ";
 "onboarding_login_title" = "サインイン";
-"onboarding_login_subtitle" = "学校システムのアカウントでサインインすると、時間割や Moodle などの機能を利用できます";
+"onboarding_login_subtitle" = "校務システムのアカウントでサインインすると、時間割や Moodle などの機能を利用できます";
 "login_student_id" = "学籍番号";
 "login_password" = "パスワード";
-"onboarding_login_button" = "学校システムにサインイン";
+"onboarding_login_button" = "校務システムにサインイン";
 "onboarding_skip_for_now" = "今はスキップ";
 "onboarding_choose_features_title" = "機能を選択";
 "onboarding_choose_features_subtitle" = "後から設定でいつでも変更できます";
@@ -305,7 +305,7 @@
 "live_activity_settings_hours_unit" = "時間";
 "live_activity_settings_minutes_unit" = "分";
 "settings_section_account" = "アカウント";
-"settings_account_ntust_system" = "学校システム";
+"settings_account_ntust_system" = "校務システム";
 "settings_token_valid_until" = "トークンの有効期限：%1$s";
 "settings_account_library_system" = "図書館システム";
 "settings_section_custom" = "カスタマイズ";
@@ -336,7 +336,7 @@
 "settings_privacy_policy" = "プライバシーポリシー";
 "settings_open_source_licenses" = "オープンソースライセンス";
 "settings_view_source_code" = "ソースコードを見る";
-"settings_library_account_subtitle" = "パスワードは学校システムと異なる場合があります。デフォルトは身分証番号です";
+"settings_library_account_subtitle" = "パスワードは校務システムと異なる場合があります。デフォルトは身分証番号です";
 "settings_library_feature_disabled_title" = "図書館機能は無効です";
 "settings_library_feature_disabled_message" = "まず「その他の機能」の「図書館および関連機能」を有効にしてから、図書館 QR ショートカットを使用してください。";
 "settings_acknowledged" = "了解";
