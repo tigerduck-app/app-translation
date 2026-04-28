@@ -14,9 +14,11 @@
       "he": "values-iw",
       "id": "values-in",
       "nb": "values-nb",
-      "no": "values-no"
+      "no": "values-no",
+      "yue-HK": "values-yue-rHK"
     },
     "aliases": {
+      "en-AU": "en-GB",
       "en-CA": "en",
       "en-IN": "en",
       "es-MX": "es",
@@ -25,8 +27,8 @@
       "zh-TW": "zh-Hant",
       "tl": "fil",
       "zh": "zh-Hans",
-      "zh-HK": "zh-Hant",
-      "zh-MO": "zh-Hant",
+      "zh-HK": "yue-HK",
+      "zh-MO": "yue-HK",
       "zh-CN": "zh-Hans",
       "zh-SG": "zh-Hans",
       "nb": "no"
@@ -35,14 +37,15 @@
   "apple": {
     "generateAllIso639_1": false,
     "aliases": {
+      "en-AU": "en-GB",
       "en-CA": "en",
       "en-IN": "en",
       "es-MX": "es",
       "fr-CA": "fr",
       "pt": "pt-PT",
       "zh-TW": "zh-Hant",
-      "zh-HK": "zh-Hant",
-      "zh-MO": "zh-Hant",
+      "zh-HK": "yue-HK",
+      "zh-MO": "yue-HK",
       "zh-CN": "zh-Hans",
       "zh-SG": "zh-Hans",
       "nb": "no",

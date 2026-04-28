@@ -62,9 +62,43 @@ ISO_639_1: tuple[str, ...] = (
 )
 
 
-def _load_json_ordered(path: Path) -> OrderedDict[str, str]:
+def _load_json_ordered(path: Path) -> OrderedDict:
     with path.open("r", encoding="utf-8") as f:
         return json.load(f, object_pairs_hook=OrderedDict)
+
+
+# Source schema is grouped: each source/<locale>.json has top-level keys
+# "shared", "android", "apple". Each group maps key -> value. The Android
+# bundle gets shared ∪ android; the Apple bundle gets shared ∪ apple.
+# Keys must be unique across groups within a locale.
+SOURCE_GROUPS: tuple[str, ...] = ("shared", "android", "apple")
+
+
+def _flatten_for_platform(grouped: OrderedDict, platform: str) -> OrderedDict[str, str]:
+    """Merge `shared` + the platform-specific group, sorted by key."""
+    merged: dict[str, str] = {}
+    for group in ("shared", platform):
+        for key, value in grouped.get(group, {}).items():
+            merged[key] = value
+    return OrderedDict((k, merged[k]) for k in sorted(merged))
+
+
+def _validate_grouped_source(locale: str, grouped: OrderedDict) -> None:
+    unknown = [g for g in grouped.keys() if g not in SOURCE_GROUPS]
+    if unknown:
+        raise SystemExit(
+            f"source/{locale}.json has unknown top-level groups: {unknown}. "
+            f"Expected only: {list(SOURCE_GROUPS)}"
+        )
+    seen: dict[str, str] = {}
+    for group in SOURCE_GROUPS:
+        for key in grouped.get(group, {}).keys():
+            if key in seen:
+                raise SystemExit(
+                    f"source/{locale}.json key '{key}' appears in both "
+                    f"'{seen[key]}' and '{group}' groups"
+                )
+            seen[key] = group
 
 
 def _atomic_write_text(path: Path, content: str) -> None:
@@ -149,26 +183,25 @@ def _discover_source_locales() -> list[str]:
     return locales
 
 
-def _validate_sources(sources: dict[str, OrderedDict[str, str]], canonical_locale: str) -> None:
+def _validate_sources(sources: dict[str, OrderedDict], canonical_locale: str) -> None:
     if canonical_locale not in sources:
         raise SystemExit(f"Canonical locale '{canonical_locale}' not found in source/*.json")
 
-    canonical_keys = list(sources[canonical_locale].keys())
-    canonical_set = set(canonical_keys)
+    canonical = sources[canonical_locale]
+    canonical_groups: dict[str, set[str]] = {
+        g: set(canonical.get(g, {}).keys()) for g in SOURCE_GROUPS
+    }
 
-    for locale, data in sources.items():
-        keys = list(data.keys())
-        key_set = set(keys)
-        if key_set != canonical_set:
-            missing = [k for k in canonical_keys if k not in key_set]
-            extra = [k for k in keys if k not in canonical_set]
-            raise SystemExit(
-                "Key mismatch in source/%s.json\nMissing: %s\nExtra: %s"
-                % (locale, missing[:20], extra[:20])
-            )
-        if keys != canonical_keys:
-            # Keep strict ordering to make diffs stable.
-            raise SystemExit(f"Key order mismatch in source/{locale}.json")
+    for locale, grouped in sources.items():
+        for group in SOURCE_GROUPS:
+            keys = set(grouped.get(group, {}).keys())
+            if keys != canonical_groups[group]:
+                missing = sorted(canonical_groups[group] - keys)
+                extra = sorted(keys - canonical_groups[group])
+                raise SystemExit(
+                    "Key mismatch in source/%s.json group '%s'\nMissing: %s\nExtra: %s"
+                    % (locale, group, missing[:20], extra[:20])
+                )
 
 
 def _android_dir_for_locale(locale: str, cfg: LocaleConfig) -> str:
@@ -211,7 +244,7 @@ def _android_dir_for_locale(locale: str, cfg: LocaleConfig) -> str:
     raise SystemExit(f"Unsupported locale format for Android: {locale}")
 
 
-def _render_android_strings_xml(strings: OrderedDict[str, str]) -> str:
+def _render_android_strings_xml(strings: OrderedDict) -> str:
     lines: list[str] = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append("<resources>")
@@ -226,7 +259,7 @@ def _render_android_strings_xml(strings: OrderedDict[str, str]) -> str:
     return "\n".join(lines)
 
 
-def _render_apple_strings(strings: OrderedDict[str, str]) -> str:
+def _render_apple_strings(strings: OrderedDict) -> str:
     lines: list[str] = []
     lines.append("/* Generated from localization/source/*.json. Do not edit directly. */")
     for key, raw_value in strings.items():
@@ -260,11 +293,20 @@ def generate(*, validate_only: bool) -> None:
     cfg = _load_config()
 
     source_locales = _discover_source_locales()
-    sources: dict[str, OrderedDict[str, str]] = {}
+    sources: dict[str, OrderedDict] = {}
     for loc in source_locales:
-        sources[loc] = _load_json_ordered(SOURCE_DIR / f"{loc}.json")
+        grouped = _load_json_ordered(SOURCE_DIR / f"{loc}.json")
+        _validate_grouped_source(loc, grouped)
+        sources[loc] = grouped
 
     _validate_sources(sources, canonical_locale=cfg.canonical_locale)
+
+    android_flat: dict[str, OrderedDict[str, str]] = {
+        loc: _flatten_for_platform(grouped, "android") for loc, grouped in sources.items()
+    }
+    apple_flat: dict[str, OrderedDict[str, str]] = {
+        loc: _flatten_for_platform(grouped, "apple") for loc, grouped in sources.items()
+    }
 
     android_extras: list[str] = []
     apple_extras: list[str] = []
@@ -295,19 +337,19 @@ def generate(*, validate_only: bool) -> None:
 
     # Android
     for out_locale, base_locale in sorted(android_outputs.items()):
-        if base_locale not in sources:
+        if base_locale not in android_flat:
             raise SystemExit(f"Android alias '{out_locale}' points to missing source locale '{base_locale}'")
         out_dir_name = _android_dir_for_locale(out_locale, cfg)
         out_path = GENERATED_DIR / "android" / out_dir_name / "strings.xml"
-        content = _render_android_strings_xml(sources[base_locale])
+        content = _render_android_strings_xml(android_flat[base_locale])
         _atomic_write_text(out_path, content)
 
     # apple
     for out_locale, base_locale in sorted(apple_outputs.items()):
-        if base_locale not in sources:
+        if base_locale not in apple_flat:
             raise SystemExit(f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
         out_path = GENERATED_DIR / "apple" / f"{out_locale}.lproj" / "Localizable.strings"
-        content = _render_apple_strings(sources[base_locale])
+        content = _render_apple_strings(apple_flat[base_locale])
         _atomic_write_text(out_path, content)
 
 
