@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "Házi feladat határidő emlékeztetők";
 "settings_browser_in_app" = "Alkalmazáson belüli böngésző";
 "settings_browser_system_default" = "Rendszer alapértelmezett böngésző";
+"settings_classroom_mandarin_display" = "Ha a tanterem neve kínaiul van";
+"settings_classroom_mandarin_display_original" = "Eredeti megjelenítése";
+"settings_classroom_mandarin_display_pinyin" = "Pinyin megjelenítése";
+"settings_classroom_mandarin_display_translated" = "Fordítás megjelenítése";
 "settings_color_theme" = "Színtéma";
 "settings_feedback_bug_report" = "Visszajelzés / Hibabejelentés";
 "settings_invert_slider_direction" = "Csúszka irányának megfordítása";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "Világos mód";
 "settings_theme_system" = "Rendszer szerint";
 "settings_token_valid_until" = "Token érvényes eddig: %1$s";
+"settings_use_english_classroom_abbreviation" = "Tantermek angol rövidítéseinek használata";
 "settings_use_english_course_abbreviation" = "Angol kurzusnév rövidítések használata";
 "settings_version" = "Verzió";
 "settings_view_source_code" = "Forráskód megtekintése";

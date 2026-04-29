@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "Užduočių terminų priminimai";
 "settings_browser_in_app" = "Programos vidaus naršyklė";
 "settings_browser_system_default" = "Numatytoji sistemos naršyklė";
+"settings_classroom_mandarin_display" = "Kai klasės pavadinimas yra kinų kalba";
+"settings_classroom_mandarin_display_original" = "Rodyti originalą";
+"settings_classroom_mandarin_display_pinyin" = "Rodyti pinyin";
+"settings_classroom_mandarin_display_translated" = "Rodyti vertimą";
 "settings_color_theme" = "Spalvų tema";
 "settings_feedback_bug_report" = "Atsiliepimai / Pranešti apie klaidą";
 "settings_invert_slider_direction" = "Apversti slankiklio kryptį";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "Šviesus režimas";
 "settings_theme_system" = "Pagal sistemą";
 "settings_token_valid_until" = "Žetonas galioja iki %1$s";
+"settings_use_english_classroom_abbreviation" = "Naudoti angliškus klasių santrumpus";
 "settings_use_english_course_abbreviation" = "Naudoti anglų kalbos kursų santrumpas";
 "settings_version" = "Versija";
 "settings_view_source_code" = "Peržiūrėti šaltinio kodą";

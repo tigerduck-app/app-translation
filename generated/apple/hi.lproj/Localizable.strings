@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "असाइनमेंट देय अनुस्मारक";
 "settings_browser_in_app" = "इन-ऐप ब्राउज़र";
 "settings_browser_system_default" = "सिस्टम डिफ़ॉल्ट ब्राउज़र";
+"settings_classroom_mandarin_display" = "जब कक्षा का नाम चीनी में हो";
+"settings_classroom_mandarin_display_original" = "मूल दिखाएँ";
+"settings_classroom_mandarin_display_pinyin" = "पिनयिन दिखाएँ";
+"settings_classroom_mandarin_display_translated" = "अनुवाद दिखाएँ";
 "settings_color_theme" = "रंग थीम";
 "settings_feedback_bug_report" = "फीडबैक / समस्या रिपोर्ट करें";
 "settings_invert_slider_direction" = "स्लाइडर दिशा उलटें";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "लाइट मोड";
 "settings_theme_system" = "सिस्टम का अनुसरण करें";
 "settings_token_valid_until" = "Token %1$s तक वैध";
+"settings_use_english_classroom_abbreviation" = "कक्षा के अंग्रेज़ी संक्षिप्त नाम का उपयोग करें";
 "settings_use_english_course_abbreviation" = "अंग्रेज़ी कोर्स संक्षेप उपयोग करें";
 "settings_version" = "संस्करण";
 "settings_view_source_code" = "सोर्स कोड देखें";

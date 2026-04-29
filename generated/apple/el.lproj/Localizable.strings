@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "Υπενθυμίσεις λήξης εργασίας";
 "settings_browser_in_app" = "Ενσωματωμένος περιηγητής";
 "settings_browser_system_default" = "Προεπιλεγμένος περιηγητής συστήματος";
+"settings_classroom_mandarin_display" = "Όταν το όνομα της αίθουσας είναι στα μανδαρινικά";
+"settings_classroom_mandarin_display_original" = "Εμφάνιση πρωτότυπου";
+"settings_classroom_mandarin_display_pinyin" = "Εμφάνιση πινγίν";
+"settings_classroom_mandarin_display_translated" = "Εμφάνιση μετάφρασης";
 "settings_color_theme" = "Θέμα χρωμάτων";
 "settings_feedback_bug_report" = "Σχόλια / Αναφορά προβλήματος";
 "settings_invert_slider_direction" = "Αντιστροφή κατεύθυνσης ρυθμιστικού";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "Φωτεινή λειτουργία";
 "settings_theme_system" = "Ακολουθεί σύστημα";
 "settings_token_valid_until" = "Το Token ισχύει έως %1$s";
+"settings_use_english_classroom_abbreviation" = "Χρησιμοποίηση αγγλικών συντομογραφιών αιθουσών";
 "settings_use_english_course_abbreviation" = "Χρήση αγγλικών συντομογραφιών μαθημάτων";
 "settings_version" = "Έκδοση";
 "settings_view_source_code" = "Προβολή πηγαίου κώδικα";

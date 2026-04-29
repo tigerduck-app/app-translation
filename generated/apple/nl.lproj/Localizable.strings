@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "Herinneringen voor opdrachtdeadlines";
 "settings_browser_in_app" = "Browser in app";
 "settings_browser_system_default" = "Standaardbrowser van systeem";
+"settings_classroom_mandarin_display" = "Wanneer lokaalnaam in het Mandarijn is";
+"settings_classroom_mandarin_display_original" = "Origineel weergeven";
+"settings_classroom_mandarin_display_pinyin" = "Pinyin weergeven";
+"settings_classroom_mandarin_display_translated" = "Vertaling weergeven";
 "settings_color_theme" = "Kleurthema";
 "settings_feedback_bug_report" = "Feedback / Probleem melden";
 "settings_invert_slider_direction" = "Schuifregelaarrichting omkeren";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "Lichte modus";
 "settings_theme_system" = "Systeem volgen";
 "settings_token_valid_until" = "Token geldig tot %1$s";
+"settings_use_english_classroom_abbreviation" = "Engelse afkortingen voor lokalen gebruiken";
 "settings_use_english_course_abbreviation" = "Engelse afkortingen voor vakken gebruiken";
 "settings_version" = "Versie";
 "settings_view_source_code" = "Broncode bekijken";

@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "Erinnerungen an fällige Aufgaben";
 "settings_browser_in_app" = "In-App-Browser";
 "settings_browser_system_default" = "Standardbrowser des Systems";
+"settings_classroom_mandarin_display" = "Wenn Klassenzimmername auf Chinesisch ist";
+"settings_classroom_mandarin_display_original" = "Originalanzeige";
+"settings_classroom_mandarin_display_pinyin" = "Pinyin anzeigen";
+"settings_classroom_mandarin_display_translated" = "Übersetzung anzeigen";
 "settings_color_theme" = "Farbschema";
 "settings_feedback_bug_report" = "Feedback / Fehler melden";
 "settings_invert_slider_direction" = "Schieberichtung umkehren";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "Heller Modus";
 "settings_theme_system" = "System folgen";
 "settings_token_valid_until" = "Token gültig bis %1$s";
+"settings_use_english_classroom_abbreviation" = "Englische Klassenzimmerabkürzungen verwenden";
 "settings_use_english_course_abbreviation" = "Englische Kursabkürzungen verwenden";
 "settings_version" = "Version";
 "settings_view_source_code" = "Quellcode ansehen";

@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "Verkefnaáminningar";
 "settings_browser_in_app" = "Innbyggðum vafra";
 "settings_browser_system_default" = "Sjálfgefinn kerfisvafrinn";
+"settings_classroom_mandarin_display" = "Þegar nafn kennslustofu er á kínversku";
+"settings_classroom_mandarin_display_original" = "Sýna upprunalegt";
+"settings_classroom_mandarin_display_pinyin" = "Sýna pinyin";
+"settings_classroom_mandarin_display_translated" = "Sýna þýðingu";
 "settings_color_theme" = "Litaþema";
 "settings_feedback_bug_report" = "Endurgjöf / Tilkynna villu";
 "settings_invert_slider_direction" = "Snúa sleðastefnu við";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "Ljóst þema";
 "settings_theme_system" = "Fylgja kerfi";
 "settings_token_valid_until" = "Tákn gilt til %1$s";
+"settings_use_english_classroom_abbreviation" = "Nota enskar skammstafanir fyrir kennslustofur";
 "settings_use_english_course_abbreviation" = "Nota enska skammstafanir námskeiða";
 "settings_version" = "Útgáfa";
 "settings_view_source_code" = "Skoða frumkóða";

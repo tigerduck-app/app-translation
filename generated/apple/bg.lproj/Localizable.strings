@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "Напомняния за крайни срокове на задания";
 "settings_browser_in_app" = "Вграден браузър";
 "settings_browser_system_default" = "Системен браузър по подразбиране";
+"settings_classroom_mandarin_display" = "Когато името на класната стая е на китайски";
+"settings_classroom_mandarin_display_original" = "Показване на оригинал";
+"settings_classroom_mandarin_display_pinyin" = "Показване на пиньинь";
+"settings_classroom_mandarin_display_translated" = "Показване на превод";
 "settings_color_theme" = "Цветова тема";
 "settings_feedback_bug_report" = "Обратна връзка / Докладване на проблем";
 "settings_invert_slider_direction" = "Обръщане на посоката на плъзгача";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "Светъл режим";
 "settings_theme_system" = "Следване на системата";
 "settings_token_valid_until" = "Токен валиден до %1$s";
+"settings_use_english_classroom_abbreviation" = "Използвай английски съкращения за класни стаи";
 "settings_use_english_course_abbreviation" = "Използване на английски съкращения за курсове";
 "settings_version" = "Версия";
 "settings_view_source_code" = "Преглед на изходния код";

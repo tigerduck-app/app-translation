@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "과제 마감 알림";
 "settings_browser_in_app" = "앱 내 브라우저";
 "settings_browser_system_default" = "시스템 기본 브라우저";
+"settings_classroom_mandarin_display" = "강의실 이름이 중국어일 때";
+"settings_classroom_mandarin_display_original" = "원문 표시";
+"settings_classroom_mandarin_display_pinyin" = "병음 표시";
+"settings_classroom_mandarin_display_translated" = "번역 표시";
 "settings_color_theme" = "색상 테마";
 "settings_feedback_bug_report" = "피드백 / 문제 신고";
 "settings_invert_slider_direction" = "슬라이더 방향 반전";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "라이트 모드";
 "settings_theme_system" = "시스템 설정 따르기";
 "settings_token_valid_until" = "토큰 유효 기간: %1$s";
+"settings_use_english_classroom_abbreviation" = "영문 강의실 약어 사용";
 "settings_use_english_course_abbreviation" = "영문 수업 약어 사용";
 "settings_version" = "버전";
 "settings_view_source_code" = "소스 코드 보기";

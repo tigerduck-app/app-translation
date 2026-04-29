@@ -408,6 +408,10 @@
 "settings_assignment_due_reminder" = "یادآورهای موعد تکلیف";
 "settings_browser_in_app" = "مرورگر داخل برنامه";
 "settings_browser_system_default" = "مرورگر پیش‌فرض سیستم";
+"settings_classroom_mandarin_display" = "هنگام نام کلاس به چینی";
+"settings_classroom_mandarin_display_original" = "نمایش اصلی";
+"settings_classroom_mandarin_display_pinyin" = "نمایش پینیین";
+"settings_classroom_mandarin_display_translated" = "نمایش ترجمه شده";
 "settings_color_theme" = "تم رنگ";
 "settings_feedback_bug_report" = "بازخورد / گزارش مشکل";
 "settings_invert_slider_direction" = "معکوس کردن جهت لغزنده";
@@ -443,6 +447,7 @@
 "settings_theme_light" = "حالت روشن";
 "settings_theme_system" = "همگام با سیستم";
 "settings_token_valid_until" = "توکن تا %1$s معتبر است";
+"settings_use_english_classroom_abbreviation" = "استفاده از اختصارات انگلیسی کلاس‌ها";
 "settings_use_english_course_abbreviation" = "استفاده از مخفف انگلیسی نام درس";
 "settings_version" = "نسخه";
 "settings_view_source_code" = "مشاهده کد منبع";
