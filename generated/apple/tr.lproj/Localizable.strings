@@ -447,6 +447,14 @@
 "settings_version" = "Sürüm";
 "settings_view_source_code" = "Kaynak kodunu görüntüle";
 "settings_visual_preset_label" = "Interface style";
+"source_code_picker_current_app_badge" = "Bu uygulama";
+"source_code_picker_org_description" = "Organizasyon";
+"source_code_picker_repo_android_description" = "Android";
+"source_code_picker_repo_apple_description" = "Apple";
+"source_code_picker_repo_name_abbr_description" = "Ders ve derslik adı kısaltmaları";
+"source_code_picker_repo_translation_description" = "Arayüz çevirisi";
+"source_code_picker_repo_web_description" = "Resmi web sayfası";
+"source_code_picker_section_repositories" = "Depolar";
 "sync_success_content_description" = "Eşitleme başarılı";
 "tab_editor_apply_action" = "Apply";
 "tab_editor_drag_reorder" = "Sıralamak için sürükleyin";

@@ -447,6 +447,14 @@
 "settings_version" = "Версия";
 "settings_view_source_code" = "Посмотреть исходный код";
 "settings_visual_preset_label" = "Interface style";
+"source_code_picker_current_app_badge" = "Текущее приложение";
+"source_code_picker_org_description" = "Организация";
+"source_code_picker_repo_android_description" = "Android";
+"source_code_picker_repo_apple_description" = "Apple";
+"source_code_picker_repo_name_abbr_description" = "Сокращения названий курсов и аудиторий";
+"source_code_picker_repo_translation_description" = "Перевод интерфейса";
+"source_code_picker_repo_web_description" = "Официальный сайт";
+"source_code_picker_section_repositories" = "Репозитории";
 "sync_success_content_description" = "Синхронизация выполнена";
 "tab_editor_apply_action" = "Apply";
 "tab_editor_drag_reorder" = "Перетащите для изменения порядка";

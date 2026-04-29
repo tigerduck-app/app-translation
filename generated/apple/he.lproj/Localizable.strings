@@ -447,6 +447,14 @@
 "settings_version" = "גרסה";
 "settings_view_source_code" = "צפה בקוד המקור";
 "settings_visual_preset_label" = "Interface style";
+"source_code_picker_current_app_badge" = "האפליקציה הנוכחית";
+"source_code_picker_org_description" = "ארגון";
+"source_code_picker_repo_android_description" = "Android";
+"source_code_picker_repo_apple_description" = "Apple";
+"source_code_picker_repo_name_abbr_description" = "קיצורי שמות קורסים וכיתות";
+"source_code_picker_repo_translation_description" = "תרגום ממשק";
+"source_code_picker_repo_web_description" = "דף אינטרנט רשמי";
+"source_code_picker_section_repositories" = "מאגרים";
 "sync_success_content_description" = "סנכרון הצליח";
 "tab_editor_apply_action" = "Apply";
 "tab_editor_drag_reorder" = "גרור לסידור מחדש";

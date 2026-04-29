@@ -447,6 +447,14 @@
 "settings_version" = "Versjon";
 "settings_view_source_code" = "Se kildekode";
 "settings_visual_preset_label" = "Interface style";
+"source_code_picker_current_app_badge" = "Denne appen";
+"source_code_picker_org_description" = "Organisasjon";
+"source_code_picker_repo_android_description" = "Android";
+"source_code_picker_repo_apple_description" = "Apple";
+"source_code_picker_repo_name_abbr_description" = "Forkortelser for kurs- og klasseromsnavn";
+"source_code_picker_repo_translation_description" = "UI-oversettelse";
+"source_code_picker_repo_web_description" = "Offisiell nettside";
+"source_code_picker_section_repositories" = "Repositories";
 "sync_success_content_description" = "Synkronisering vellykket";
 "tab_editor_apply_action" = "Apply";
 "tab_editor_drag_reorder" = "Dra for å endre rekkefølge";

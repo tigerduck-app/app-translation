@@ -447,6 +447,14 @@
 "settings_version" = "Versija";
 "settings_view_source_code" = "Peržiūrėti šaltinio kodą";
 "settings_visual_preset_label" = "Interface style";
+"source_code_picker_current_app_badge" = "Ši programa";
+"source_code_picker_org_description" = "Organizacija";
+"source_code_picker_repo_android_description" = "Android";
+"source_code_picker_repo_apple_description" = "Apple";
+"source_code_picker_repo_name_abbr_description" = "Kursų ir auditorijų pavadinimų santrumpos";
+"source_code_picker_repo_translation_description" = "Sąsajos vertimas";
+"source_code_picker_repo_web_description" = "Oficialus tinklalapis";
+"source_code_picker_section_repositories" = "Saugyklos";
 "sync_success_content_description" = "Sinchronizavimas sėkmingas";
 "tab_editor_apply_action" = "Apply";
 "tab_editor_drag_reorder" = "Vilkite, kad pertvarkytumėte";

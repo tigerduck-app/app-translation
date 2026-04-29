@@ -447,6 +447,14 @@
 "settings_version" = "Versión";
 "settings_view_source_code" = "Ver código fuente";
 "settings_visual_preset_label" = "Interface style";
+"source_code_picker_current_app_badge" = "App actual";
+"source_code_picker_org_description" = "Organización";
+"source_code_picker_repo_android_description" = "Android";
+"source_code_picker_repo_apple_description" = "Apple";
+"source_code_picker_repo_name_abbr_description" = "Abreviaciones de cursos y aulas";
+"source_code_picker_repo_translation_description" = "Traducción de la interfaz";
+"source_code_picker_repo_web_description" = "Página web oficial";
+"source_code_picker_section_repositories" = "Repositorios";
 "sync_success_content_description" = "Sincronización exitosa";
 "tab_editor_apply_action" = "Apply";
 "tab_editor_drag_reorder" = "Arrastra para reordenar";
