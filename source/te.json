@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "ఖచ్చితమైన అలారంలు"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "iOS సెట్టింగ్‌లలో మళ్లీ ప్రారంభించండి",
+    "live_activity_settings_enable_toggle": "లైవ్ యాక్టివిటీని ప్రారంభించండి",
+    "live_activity_settings_footer": "లాక్ స్క్రీన్ లేదా Dynamic Island పై ప్రస్తుత క్లాస్ మరియు అసైన్‌మెంట్‌లను చూపిస్తుంది. లైవ్ అప్‌డేట్‌ల కోసం యాప్ తెరిచి ఉండాలి.",
+    "live_activity_settings_nav_title": "లైవ్ యాక్టివిటీ (ప్రయోగాత్మకం)",
+    "live_activity_status_assignment_short": "అసైన్‌మెంట్",
+    "live_activity_status_in_class_short": "క్లాస్",
+    "push_server_status_ios_settings_hint": "సిస్టం స్థాయిలో నిలిపివేయబడింది → iOS సెట్టింగ్‌లు → TigerDuck → ప్రారంభించండి",
+    "push_server_status_waiting_token": "iOS టోకెన్ కేటాయించేందుకు వేచి ఉంది"
   }
 }

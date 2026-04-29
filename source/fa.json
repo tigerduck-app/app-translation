@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "هشدارهای دقیق"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "در تنظیمات iOS دوباره فعال کنید",
+    "live_activity_settings_enable_toggle": "فعال کردن Live Activity",
+    "live_activity_settings_footer": "کلاس فعلی و تکالیف را روی صفحهٔ قفل یا Dynamic Island نمایش می‌دهد. برای به‌روزرسانی‌های زنده لازم است برنامه باز باشد.",
+    "live_activity_settings_nav_title": "Live Activity (آزمایشی)",
+    "live_activity_status_assignment_short": "تکلیف",
+    "live_activity_status_in_class_short": "کلاس",
+    "push_server_status_ios_settings_hint": "در سطح سیستم غیرفعال شده → تنظیمات iOS → TigerDuck → فعال کردن",
+    "push_server_status_waiting_token": "در انتظار اختصاص توکن توسط iOS"
   }
 }

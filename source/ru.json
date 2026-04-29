@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "Точные будильники"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "Включите снова в настройках iOS",
+    "live_activity_settings_enable_toggle": "Включить Live Activity",
+    "live_activity_settings_footer": "Показывает текущий урок и задания на экране блокировки или Dynamic Island. Для обновлений в реальном времени приложение должно быть открыто.",
+    "live_activity_settings_nav_title": "Live Activity (экспериментально)",
+    "live_activity_status_assignment_short": "Задание",
+    "live_activity_status_in_class_short": "Урок",
+    "push_server_status_ios_settings_hint": "Отключено на уровне системы → Настройки iOS → TigerDuck → Включить",
+    "push_server_status_waiting_token": "Ожидание, пока iOS назначит токен"
   }
 }

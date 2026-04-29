@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "Precizni alarmi"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "Ponovno omogućite u iOS postavkama",
+    "live_activity_settings_enable_toggle": "Omogući Live Activity",
+    "live_activity_settings_footer": "Prikazuje trenutni sat i zadatke na zaključanom zaslonu ili Dynamic Islandu. Za ažuriranja uživo aplikacija mora biti otvorena.",
+    "live_activity_settings_nav_title": "Live Activity (eksperimentalno)",
+    "live_activity_status_assignment_short": "Zadatak",
+    "live_activity_status_in_class_short": "Sat",
+    "push_server_status_ios_settings_hint": "Onemogućeno na razini sustava → iOS postavke → TigerDuck → Omogući",
+    "push_server_status_waiting_token": "Čeka se da iOS dodijeli token"
   }
 }

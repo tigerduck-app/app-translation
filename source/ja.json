@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "正確なアラーム"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "iOSの設定で再度有効にする",
+    "live_activity_settings_enable_toggle": "ライブアクティビティを有効にする",
+    "live_activity_settings_footer": "ロック画面またはDynamic Islandに現在の授業と課題を表示します。ライブ更新にはアプリを開いたままにする必要があります。",
+    "live_activity_settings_nav_title": "ライブアクティビティ（実験的）",
+    "live_activity_status_assignment_short": "課題",
+    "live_activity_status_in_class_short": "授業",
+    "push_server_status_ios_settings_hint": "システムレベルで無効 → iOSの設定 → TigerDuck → 有効",
+    "push_server_status_waiting_token": "iOSがトークンを割り当てるのを待っています"
   }
 }

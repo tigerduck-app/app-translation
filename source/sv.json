@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "Exakta alarm"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "Aktivera igen i iOS-inställningar",
+    "live_activity_settings_enable_toggle": "Aktivera Live-aktivitet",
+    "live_activity_settings_footer": "Visar aktuell lektion och uppgifter på låsskärmen eller Dynamic Island. Kräver att appen är öppen för liveuppdateringar.",
+    "live_activity_settings_nav_title": "Live-aktivitet (experimentell)",
+    "live_activity_status_assignment_short": "Uppgift",
+    "live_activity_status_in_class_short": "Lektion",
+    "push_server_status_ios_settings_hint": "Inaktiverat på systemnivå → iOS-inställningar → TigerDuck → Aktivera",
+    "push_server_status_waiting_token": "Väntar på att iOS ska tilldela en token"
   }
 }

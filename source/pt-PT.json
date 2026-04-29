@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "Alarmes exatos"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "Reative em Definições do iOS",
+    "live_activity_settings_enable_toggle": "Ativar Atividade em direto",
+    "live_activity_settings_footer": "Mostra a aula atual e os trabalhos no ecrã bloqueado ou na Dynamic Island. Requer que a app esteja aberta para atualizações em direto.",
+    "live_activity_settings_nav_title": "Atividade em direto (experimental)",
+    "live_activity_status_assignment_short": "Trabalho",
+    "live_activity_status_in_class_short": "Aula",
+    "push_server_status_ios_settings_hint": "Desativado ao nível do sistema → Definições do iOS → TigerDuck → Ativar",
+    "push_server_status_waiting_token": "A aguardar que o iOS atribua um token"
   }
 }

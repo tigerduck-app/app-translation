@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "துல்லியமான அலாரங்கள்"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "iOS அமைப்புகளில் மீண்டும் இயக்கவும்",
+    "live_activity_settings_enable_toggle": "லைவ் ஆக்டிவிட்டியை இயக்கு",
+    "live_activity_settings_footer": "லாக் ஸ்க்ரீன் அல்லது Dynamic Island-ல் தற்போதைய வகுப்பு மற்றும் பணிகளை காட்டுகிறது. நேரடி புதுப்பிப்புகளுக்கு ஆப் திறந்திருக்க வேண்டும்.",
+    "live_activity_settings_nav_title": "லைவ் ஆக்டிவிட்டி (பரிசோதனை)",
+    "live_activity_status_assignment_short": "பணி",
+    "live_activity_status_in_class_short": "வகுப்பு",
+    "push_server_status_ios_settings_hint": "சிஸ்டம் நிலையில் முடக்கப்பட்டுள்ளது → iOS அமைப்புகள் → TigerDuck → இயக்கு",
+    "push_server_status_waiting_token": "iOS டோக்கன் ஒதுக்கும்வரை காத்திருக்கிறது"
   }
 }

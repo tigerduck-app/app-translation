@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "ਸਟੀਕ ਅਲਾਰਮ"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "iOS ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਮੁੜ ਚਾਲੂ ਕਰੋ",
+    "live_activity_settings_enable_toggle": "ਲਾਈਵ ਐਕਟਿਵਟੀ ਚਾਲੂ ਕਰੋ",
+    "live_activity_settings_footer": "ਲਾਕ ਸਕ੍ਰੀਨ ਜਾਂ Dynamic Island ‘ਤੇ ਮੌਜੂਦਾ ਕਲਾਸ ਅਤੇ ਅਸਾਈਨਮੈਂਟ ਦਿਖਾਉਂਦਾ ਹੈ। ਲਾਈਵ ਅਪਡੇਟ ਲਈ ਐਪ ਖੁੱਲੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
+    "live_activity_settings_nav_title": "ਲਾਈਵ ਐਕਟਿਵਟੀ (ਤਜਰਬਾਤੀ)",
+    "live_activity_status_assignment_short": "ਅਸਾਈਨਮੈਂਟ",
+    "live_activity_status_in_class_short": "ਕਲਾਸ",
+    "push_server_status_ios_settings_hint": "ਸਿਸਟਮ ਪੱਧਰ ‘ਤੇ ਬੰਦ → iOS ਸੈਟਿੰਗਾਂ → TigerDuck → ਚਾਲੂ",
+    "push_server_status_waiting_token": "iOS ਵੱਲੋਂ ਟੋਕਨ ਦੇਣ ਦੀ ਉਡੀਕ"
   }
 }

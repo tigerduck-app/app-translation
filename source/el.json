@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "Ακριβείς συναγερμοί"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "Επανενεργοποίηση στις Ρυθμίσεις iOS",
+    "live_activity_settings_enable_toggle": "Ενεργοποίηση Live Activity",
+    "live_activity_settings_footer": "Εμφανίζει το τρέχον μάθημα και τις εργασίες στην Οθόνη κλειδώματος ή στο Dynamic Island. Απαιτείται η εφαρμογή να είναι ανοιχτή για ζωντανές ενημερώσεις.",
+    "live_activity_settings_nav_title": "Live Activity (Πειραματικό)",
+    "live_activity_status_assignment_short": "Εργασία",
+    "live_activity_status_in_class_short": "Μάθημα",
+    "push_server_status_ios_settings_hint": "Απενεργοποιημένο σε επίπεδο συστήματος → Ρυθμίσεις iOS → TigerDuck → Ενεργοποίηση",
+    "push_server_status_waiting_token": "Αναμονή να εκχωρήσει το iOS ένα token"
   }
 }

@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "Tumpak na alarma"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "I-enable muli sa iOS Settings",
+    "live_activity_settings_enable_toggle": "I-enable ang Live Activity",
+    "live_activity_settings_footer": "Ipinapakita ang kasalukuyang klase at mga assignment sa Lock Screen o Dynamic Island. Kailangang bukas ang app para sa live updates.",
+    "live_activity_settings_nav_title": "Live Activity (Eksperimental)",
+    "live_activity_status_assignment_short": "Takdang-aralin",
+    "live_activity_status_in_class_short": "Klase",
+    "push_server_status_ios_settings_hint": "Naka-disable sa antas ng system → iOS Settings → TigerDuck → I-enable",
+    "push_server_status_waiting_token": "Naghihintay na magtalaga ang iOS ng token"
   }
 }

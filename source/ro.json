@@ -501,13 +501,13 @@
     "permission_exact_alarm_name": "Alarme exacte"
   },
   "apple": {
-    "bulletin_push_reopen_ios_settings": "Re-enable in iOS Settings",
-    "live_activity_settings_enable_toggle": "Enable Live Activity",
-    "live_activity_settings_footer": "Displays the current class and assignments on the Lock Screen or Dynamic Island. Requires the app to be open for live updates.",
-    "live_activity_settings_nav_title": "Live Activity (Experimental)",
-    "live_activity_status_assignment_short": "Assignment",
-    "live_activity_status_in_class_short": "Class",
-    "push_server_status_ios_settings_hint": "Disabled at system level → iOS Settings → TigerDuck → Enable",
-    "push_server_status_waiting_token": "Waiting for iOS to assign a token"
+    "bulletin_push_reopen_ios_settings": "Reactivează în Setări iOS",
+    "live_activity_settings_enable_toggle": "Activează Live Activity",
+    "live_activity_settings_footer": "Afișează clasa curentă și temele pe Ecranul de blocare sau Dynamic Island. Necesită ca aplicația să fie deschisă pentru actualizări în timp real.",
+    "live_activity_settings_nav_title": "Live Activity (experimental)",
+    "live_activity_status_assignment_short": "Temă",
+    "live_activity_status_in_class_short": "Curs",
+    "push_server_status_ios_settings_hint": "Dezactivat la nivel de sistem → Setări iOS → TigerDuck → Activează",
+    "push_server_status_waiting_token": "Se așteaptă ca iOS să atribuie un token"
   }
 }
