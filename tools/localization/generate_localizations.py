@@ -138,6 +138,10 @@ def _escape_apple(value: str) -> str:
     value = value.replace("\\", "\\\\")
     value = value.replace('"', "\\\"")
     value = value.replace("\n", "\\n")
+    # Swift/ObjC uses %@ for strings; Android/C use %s. Convert positional and
+    # bare %s specifiers so Apple format strings work with String(format:).
+    value = re.sub(r"%(\d+\$)s", r"%\1@", value)
+    value = re.sub(r"%s", r"%@", value)
     return value
 
 
