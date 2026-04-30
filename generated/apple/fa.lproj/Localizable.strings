@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "فشار بولتن را روشن کنید";
 "bulletin_push_enable_description" = "وقتی فشار فعال باشد، TigerDuck هر زمان که بولتنی با قوانین اشتراک شما مطابقت داشته باشد به شما اطلاع می‌دهد.";
 "bulletin_push_footer" = "اعلان‌های فشاری بر اساس قوانین شما توسط سرور TigerDuck ارائه می‌شوند. شناسه دستگاه به عنوان یک UUID ناشناس ارسال می‌شود — شناسه دانشجویی شما هرگز آپلود نمی‌شود.";
-"bulletin_push_reopen_ios_settings" = "در تنظیمات iOS دوباره فعال کنید";
+"bulletin_push_reopen_settings" = "در تنظیمات سیستم دوباره فعال کنید";
 "bulletin_push_requesting" = "در حال درخواست…";
 "bulletin_push_settings_header" = "تنظیمات فشار";
 "bulletin_push_status_denied" = "تکذیب شد";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "ثبت دستگاه";
 "push_server_status_done" = "کامل";
 "push_server_status_enabled" = "فعال شد";
-"push_server_status_ios_settings_hint" = "در سطح سیستم غیرفعال شده → تنظیمات iOS → TigerDuck → فعال کردن";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "وضعیت";
-"push_server_status_waiting_token" = "در انتظار اختصاص توکن توسط iOS";
+"push_server_status_settings_hint" = "در سطح سیستم غیرفعال شده → تنظیمات → TigerDuck → فعال کردن";
+"push_server_status_waiting_token" = "در انتظار اختصاص توکن توسط سیستم";
 "push_server_sync_now_action" = "اکنون همگام سازی کنید";
 "refreshing_message" = "در حال به‌روزرسانی… کمی صبر کنید";
 "score_academic_year_semester" = "سال تحصیلی %1$s %2$s";

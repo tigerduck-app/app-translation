@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Ieslēgt biļetenu push";
 "bulletin_push_enable_description" = "Kad push ir ieslēgts, TigerDuck paziņos jums ikreiz, kad biļetens atbilst jūsu abonēšanas kārtulām.";
 "bulletin_push_footer" = "Push paziņojumus piegādā TigerDuck serveris, pamatojoties uz jūsu kārtulām. Ierīces identifikators tiek nosūtīts kā anonīms UUID — jūsu studenta ID nekad netiek augšupielādēts.";
-"bulletin_push_reopen_ios_settings" = "Ieslēdziet no jauna iOS iestatījumos";
+"bulletin_push_reopen_settings" = "Ieslēdziet no jauna sistēmas iestatījumos";
 "bulletin_push_requesting" = "Pieprasīšana…";
 "bulletin_push_settings_header" = "Push iestatījumi";
 "bulletin_push_status_denied" = "Liegts";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Ierīces reģistrācija";
 "push_server_status_done" = "Pabeigts";
 "push_server_status_enabled" = "Iespējots";
-"push_server_status_ios_settings_hint" = "Atspējots sistēmas līmenī → iOS iestatījumi → TigerDuck → Ieslēgt";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Gaida, līdz iOS piešķirs marķieri";
+"push_server_status_settings_hint" = "Atspējots sistēmas līmenī → Iestatījumi → TigerDuck → Ieslēgt";
+"push_server_status_waiting_token" = "Gaida, līdz sistēma piešķirs marķieri";
 "push_server_sync_now_action" = "Sinhronizēt tagad";
 "refreshing_message" = "Atjauno… pagaidiet";
 "score_academic_year_semester" = "Akadēmiskais gads %1$s %2$s";

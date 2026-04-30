@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "공지 푸시 켜기";
 "bulletin_push_enable_description" = "푸시가 활성화되면 구독 규칙에 맞는 공지가 있을 때 TigerDuck이 알려드립니다.";
 "bulletin_push_footer" = "푸시 알림은 설정한 규칙에 따라 TigerDuck 서버에서 전송됩니다. 기기 식별자는 익명 UUID로 전송되며 학번은 절대 업로드되지 않습니다.";
-"bulletin_push_reopen_ios_settings" = "iOS 설정에서 다시 활성화";
+"bulletin_push_reopen_settings" = "시스템 설정에서 다시 활성화";
 "bulletin_push_requesting" = "요청 중…";
 "bulletin_push_settings_header" = "푸시 설정";
 "bulletin_push_status_denied" = "거부됨";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "기기 등록";
 "push_server_status_done" = "완료";
 "push_server_status_enabled" = "활성화됨";
-"push_server_status_ios_settings_hint" = "시스템 수준에서 비활성화됨 → iOS 설정 → TigerDuck → 활성화";
 "push_server_status_live_activities" = "라이브 액티비티";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "iOS가 토큰을 할당하기를 기다리는 중";
+"push_server_status_settings_hint" = "시스템 수준에서 비활성화됨 → 설정 → TigerDuck → 활성화";
+"push_server_status_waiting_token" = "시스템이 토큰을 할당하기를 기다리는 중";
 "push_server_sync_now_action" = "지금 동기화";
 "refreshing_message" = "새로고침 중… 잠시만요";
 "score_academic_year_semester" = "%1$s 학년도 %2$s";

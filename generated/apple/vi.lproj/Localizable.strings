@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Bật đẩy thông báo bản tin";
 "bulletin_push_enable_description" = "Khi bật đẩy thông báo, TigerDuck sẽ thông báo cho bạn mỗi khi có bản tin khớp với quy tắc đăng ký của bạn.";
 "bulletin_push_footer" = "Thông báo đẩy được gửi bởi máy chủ TigerDuck dựa trên quy tắc của bạn. Mã định danh thiết bị được gửi dưới dạng UUID ẩn danh — mã số sinh viên của bạn không bao giờ được tải lên.";
-"bulletin_push_reopen_ios_settings" = "Bật lại trong Cài đặt iOS";
+"bulletin_push_reopen_settings" = "Bật lại trong Cài đặt hệ thống";
 "bulletin_push_requesting" = "Đang yêu cầu…";
 "bulletin_push_settings_header" = "Cài đặt đẩy thông báo";
 "bulletin_push_status_denied" = "Đã từ chối";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Đăng ký thiết bị";
 "push_server_status_done" = "Hoàn tất";
 "push_server_status_enabled" = "Đã bật";
-"push_server_status_ios_settings_hint" = "Tắt ở cấp hệ thống → Cài đặt iOS → TigerDuck → Bật";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Đang chờ iOS cấp token";
+"push_server_status_settings_hint" = "Tắt ở cấp hệ thống → Cài đặt → TigerDuck → Bật";
+"push_server_status_waiting_token" = "Đang chờ hệ thống cấp token";
 "push_server_sync_now_action" = "Đồng bộ ngay";
 "refreshing_message" = "Đang làm mới… vui lòng chờ";
 "score_academic_year_semester" = "Năm học %1$s %2$s";

@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Activează notificările push pentru buletine";
 "bulletin_push_enable_description" = "Când push-ul este activat, TigerDuck vă va notifica ori de câte ori un buletin corespunde regulilor dvs. de abonament.";
 "bulletin_push_footer" = "Notificările push sunt livrate de serverul TigerDuck pe baza regulilor dvs. Identificatorul dispozitivului este trimis ca UUID anonim — ID-ul dvs. de student nu este niciodată încărcat.";
-"bulletin_push_reopen_ios_settings" = "Reactivează în Setări iOS";
+"bulletin_push_reopen_settings" = "Reactivează în Setări sistem";
 "bulletin_push_requesting" = "Se solicită…";
 "bulletin_push_settings_header" = "Setări push";
 "bulletin_push_status_denied" = "Refuzat";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Înregistrarea dispozitivului";
 "push_server_status_done" = "Complet";
 "push_server_status_enabled" = "Activat";
-"push_server_status_ios_settings_hint" = "Dezactivat la nivel de sistem → Setări iOS → TigerDuck → Activează";
 "push_server_status_live_activities" = "Activități Live";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Se așteaptă ca iOS să atribuie un token";
+"push_server_status_settings_hint" = "Dezactivat la nivel de sistem → Setări → TigerDuck → Activează";
+"push_server_status_waiting_token" = "Se așteaptă ca sistemul să atribuie un token";
 "push_server_sync_now_action" = "Sincronizează acum";
 "refreshing_message" = "Se actualizează… așteaptă puțin";
 "score_academic_year_semester" = "Anul academic %1$s %2$s";

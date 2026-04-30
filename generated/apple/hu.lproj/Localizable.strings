@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Hirdetmény push bekapcsolása";
 "bulletin_push_enable_description" = "Ha a push engedélyezve van, a TigerDuck értesít, amikor egy hirdetmény megfelel a feliratkozási szabályaidnak.";
 "bulletin_push_footer" = "A push értesítéseket a TigerDuck szerver kézbesíti a szabályaid alapján. Az eszközazonosító névtelen UUID-ként kerül elküldésre – a diákigazolvány-számod soha nem töltődik fel.";
-"bulletin_push_reopen_ios_settings" = "Engedélyezze újra az iOS Beállításokban";
+"bulletin_push_reopen_settings" = "Engedélyezze újra a Rendszer beállításokban";
 "bulletin_push_requesting" = "Kérés folyamatban…";
 "bulletin_push_settings_header" = "Push beállítások";
 "bulletin_push_status_denied" = "Megtagadva";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Eszközregisztráció";
 "push_server_status_done" = "Kész";
 "push_server_status_enabled" = "Bekapcsolva";
-"push_server_status_ios_settings_hint" = "Rendszerszinten letiltva → iOS Beállítások → TigerDuck → Engedélyezés";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Várakozás, amíg az iOS tokent rendel";
+"push_server_status_settings_hint" = "Rendszerszinten letiltva → Beállítások → TigerDuck → Engedélyezés";
+"push_server_status_waiting_token" = "Várakozás, amíg a rendszer tokent rendel";
 "push_server_sync_now_action" = "Szinkronizálás most";
 "refreshing_message" = "Frissítés folyamatban… kérem várjon";
 "score_academic_year_semester" = "%1$s. tanév %2$s félév";

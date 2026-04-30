@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Hidupkan tolak buletin";
 "bulletin_push_enable_description" = "Apabila tolak diaktifkan, TigerDuck akan memberitahu anda apabila buletin sepadan dengan peraturan langganan anda.";
 "bulletin_push_footer" = "Pemberitahuan tolak dihantar oleh pelayan TigerDuck berdasarkan peraturan anda. Pengecam peranti dihantar sebagai UUID tanpa nama — ID pelajar anda tidak pernah dimuat naik.";
-"bulletin_push_reopen_ios_settings" = "Aktifkan semula dalam Tetapan iOS";
+"bulletin_push_reopen_settings" = "Aktifkan semula dalam Tetapan Sistem";
 "bulletin_push_requesting" = "Meminta…";
 "bulletin_push_settings_header" = "Tetapan tolak";
 "bulletin_push_status_denied" = "Dinafikan";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Pendaftaran peranti";
 "push_server_status_done" = "Selesai";
 "push_server_status_enabled" = "Diaktifkan";
-"push_server_status_ios_settings_hint" = "Dinyahdayakan pada peringkat sistem → Tetapan iOS → TigerDuck → Dayakan";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Menunggu iOS memberikan token";
+"push_server_status_settings_hint" = "Dinyahdayakan pada peringkat sistem → Tetapan → TigerDuck → Dayakan";
+"push_server_status_waiting_token" = "Menunggu sistem memberikan token";
 "push_server_sync_now_action" = "Segerak sekarang";
 "refreshing_message" = "Menyegar semula… sila tunggu";
 "score_academic_year_semester" = "Tahun Akademik %1$s %2$s";

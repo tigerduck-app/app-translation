@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Kveikja á ýtitilkynningum";
 "bulletin_push_enable_description" = "Þegar ýtitilkynningar eru virkar mun TigerDuck láta þig vita þegar tilkynning passar við áskriftarreglur þínar.";
 "bulletin_push_footer" = "Ýtitilkynningar eru sendar af TigerDuck þjóninum samkvæmt reglunum þínum. Tækjaauðkennið er sent sem nafnlaust UUID — nemandanúmerið þitt er aldrei hlaðið upp.";
-"bulletin_push_reopen_ios_settings" = "Virkja aftur í iOS-stillingum";
+"bulletin_push_reopen_settings" = "Virkja aftur í kerfsstillingum";
 "bulletin_push_requesting" = "Beiðni send…";
 "bulletin_push_settings_header" = "Ýtistillingar";
 "bulletin_push_status_denied" = "Hafnað";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Skráning tækis";
 "push_server_status_done" = "Lokið";
 "push_server_status_enabled" = "Virkt";
-"push_server_status_ios_settings_hint" = "Óvirkt á kerfisstigi → iOS-stillingar → TigerDuck → Virkja";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Bíður eftir að iOS úthluti tokeni";
+"push_server_status_settings_hint" = "Óvirkt á kerfisstigi → Stillingar → TigerDuck → Virkja";
+"push_server_status_waiting_token" = "Bíður eftir að kerfið úthluti tokeni";
 "push_server_sync_now_action" = "Samstilla núna";
 "refreshing_message" = "Uppfærir… bíddu aðeins";
 "score_academic_year_semester" = "Skólaár %1$s %2$s";

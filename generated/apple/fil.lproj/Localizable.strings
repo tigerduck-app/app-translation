@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "I-on ang bulletin push";
 "bulletin_push_enable_description" = "Kapag pinagana ang push, aabisuhan ka ng TigerDuck sa tuwing tumutugma ang isang bulletin sa iyong mga panuntunan sa subscription.";
 "bulletin_push_footer" = "Ang mga push notification ay inihahatid ng TigerDuck server batay sa iyong mga panuntunan. Ang identifier ng device ay ipinadala bilang isang hindi kilalang UUID — hindi kailanman ina-upload ang iyong student ID.";
-"bulletin_push_reopen_ios_settings" = "I-enable muli sa iOS Settings";
+"bulletin_push_reopen_settings" = "I-enable muli sa Mga Setting ng System";
 "bulletin_push_requesting" = "Humihiling…";
 "bulletin_push_settings_header" = "Mga setting ng push";
 "bulletin_push_status_denied" = "Tinanggihan";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Pagrehistro ng device";
 "push_server_status_done" = "Kumpleto";
 "push_server_status_enabled" = "Pinagana";
-"push_server_status_ios_settings_hint" = "Naka-disable sa antas ng system → iOS Settings → TigerDuck → I-enable";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Katayuan";
-"push_server_status_waiting_token" = "Naghihintay na magtalaga ang iOS ng token";
+"push_server_status_settings_hint" = "Naka-disable sa antas ng system → Mga Setting → TigerDuck → I-enable";
+"push_server_status_waiting_token" = "Naghihintay na magtakda ang system ng token";
 "push_server_sync_now_action" = "I-sync ngayon";
 "refreshing_message" = "Nire-refresh… sandali lang po";
 "score_academic_year_semester" = "Taong Akademiko %1$s %2$s";

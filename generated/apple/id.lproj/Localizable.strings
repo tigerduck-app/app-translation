@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Aktifkan push buletin";
 "bulletin_push_enable_description" = "Saat push diaktifkan, TigerDuck akan memberi tahu Anda setiap kali buletin cocok dengan aturan langganan Anda.";
 "bulletin_push_footer" = "Notifikasi push dikirim oleh server TigerDuck berdasarkan aturan Anda. Pengenal perangkat dikirim sebagai UUID anonim — ID mahasiswa Anda tidak pernah diunggah.";
-"bulletin_push_reopen_ios_settings" = "Aktifkan kembali di Pengaturan iOS";
+"bulletin_push_reopen_settings" = "Aktifkan kembali di Pengaturan Sistem";
 "bulletin_push_requesting" = "Meminta…";
 "bulletin_push_settings_header" = "Pengaturan push";
 "bulletin_push_status_denied" = "Ditolak";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Pendaftaran perangkat";
 "push_server_status_done" = "Selesai";
 "push_server_status_enabled" = "Diaktifkan";
-"push_server_status_ios_settings_hint" = "Dinonaktifkan di tingkat sistem → Pengaturan iOS → TigerDuck → Aktifkan";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Menunggu iOS menetapkan token";
+"push_server_status_settings_hint" = "Dinonaktifkan di tingkat sistem → Pengaturan → TigerDuck → Aktifkan";
+"push_server_status_waiting_token" = "Menunggu sistem menetapkan token";
 "push_server_sync_now_action" = "Sinkronkan sekarang";
 "refreshing_message" = "Sedang menyegarkan… mohon tunggu";
 "score_academic_year_semester" = "Tahun Akademik %1$s %2$s";

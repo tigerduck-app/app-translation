@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Pushmeldingen voor mededelingen inschakelen";
 "bulletin_push_enable_description" = "Wanneer push is ingeschakeld, zal TigerDuck je op de hoogte stellen wanneer een mededeling overeenkomt met je abonnementsregels.";
 "bulletin_push_footer" = "Pushmeldingen worden verzonden door de TigerDuck-server op basis van je regels. De apparaat-ID wordt verzonden als een anonieme UUID — je studentnummer wordt nooit geüpload.";
-"bulletin_push_reopen_ios_settings" = "Schakel opnieuw in via iOS-instellingen";
+"bulletin_push_reopen_settings" = "Schakel opnieuw in via Systeeminstellingen";
 "bulletin_push_requesting" = "Aanvragen…";
 "bulletin_push_settings_header" = "Pushinstellingen";
 "bulletin_push_status_denied" = "Geweigerd";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Apparaatregistratie";
 "push_server_status_done" = "Voltooid";
 "push_server_status_enabled" = "Ingeschakeld";
-"push_server_status_ios_settings_hint" = "Op systeemniveau uitgeschakeld → iOS-instellingen → TigerDuck → Inschakelen";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Wachten tot iOS een token toewijst";
+"push_server_status_settings_hint" = "Op systeemniveau uitgeschakeld → Instellingen → TigerDuck → Inschakelen";
+"push_server_status_waiting_token" = "Wachten tot het systeem een token toewijst";
 "push_server_sync_now_action" = "Nu synchroniseren";
 "refreshing_message" = "Bezig met vernieuwen… momentje";
 "score_academic_year_semester" = "Studiejaar %1$s %2$s";

@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Ativar push de avisos";
 "bulletin_push_enable_description" = "Quando o push estiver ativado, o TigerDuck irá notificá-lo sempre que um aviso corresponder às suas regras de assinatura.";
 "bulletin_push_footer" = "As notificações push são enviadas pelo servidor do TigerDuck com base nas suas regras. O identificador do dispositivo é enviado como um UUID anônimo — seu número de estudante nunca é enviado.";
-"bulletin_push_reopen_ios_settings" = "Reative nos Ajustes do iOS";
+"bulletin_push_reopen_settings" = "Reative nos Ajustes do sistema";
 "bulletin_push_requesting" = "Solicitando…";
 "bulletin_push_settings_header" = "Configurações de push";
 "bulletin_push_status_denied" = "Negado";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Registro do dispositivo";
 "push_server_status_done" = "Concluído";
 "push_server_status_enabled" = "Ativado";
-"push_server_status_ios_settings_hint" = "Desativado no nível do sistema → Ajustes do iOS → TigerDuck → Ativar";
 "push_server_status_live_activities" = "Atividades ao Vivo";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Aguardando o iOS atribuir um token";
+"push_server_status_settings_hint" = "Desativado no nível do sistema → Ajustes → TigerDuck → Ativar";
+"push_server_status_waiting_token" = "Aguardando o sistema atribuir um token";
 "push_server_sync_now_action" = "Sincronizar agora";
 "refreshing_message" = "Atualizando… aguarde";
 "score_academic_year_semester" = "Ano letivo %1$s %2$s";

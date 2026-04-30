@@ -343,7 +343,7 @@
     <string name="push_server_last_sync">上次同步</string>
     <string name="push_server_latest_error">最近錯誤</string>
     <string name="push_server_notification_status_authorized">已授權</string>
-    <string name="push_server_notification_status_denied_hint">被拒(至 iOS 設定開啟)</string>
+    <string name="push_server_notification_status_denied_hint">被拒(至系統設定開啟)</string>
     <string name="push_server_notification_status_ephemeral">暫時授權</string>
     <string name="push_server_notification_status_provisional">靜默授權</string>
     <string name="push_server_notification_status_undetermined">尚未詢問</string>

@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "बुलेटिन पुश चालू करें";
 "bulletin_push_enable_description" = "जब पुश सक्षम हो, तो TigerDuck आपको तब सूचित करेगा जब कोई बुलेटिन आपके सदस्यता नियमों से मेल खाए।";
 "bulletin_push_footer" = "पुश सूचनाएं आपके नियमों के आधार पर TigerDuck सर्वर द्वारा दी जाती हैं। डिवाइस पहचानकर्ता एक गुमनाम UUID के रूप में भेजा जाता है — आपकी छात्र ID कभी अपलोड नहीं की जाती।";
-"bulletin_push_reopen_ios_settings" = "iOS सेटिंग्स में फिर से सक्षम करें";
+"bulletin_push_reopen_settings" = "सिस्टम सेटिंग्स में फिर से सक्षम करें";
 "bulletin_push_requesting" = "अनुरोध हो रहा है…";
 "bulletin_push_settings_header" = "पुश सेटिंग्स";
 "bulletin_push_status_denied" = "अस्वीकृत";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "डिवाइस पंजीकरण";
 "push_server_status_done" = "पूर्ण";
 "push_server_status_enabled" = "सक्षम";
-"push_server_status_ios_settings_hint" = "सिस्टम स्तर पर अक्षम → iOS सेटिंग्स → TigerDuck → सक्षम करें";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "iOS द्वारा टोकन असाइन होने की प्रतीक्षा";
+"push_server_status_settings_hint" = "सिस्टम स्तर पर अक्षम → सेटिंग्स → TigerDuck → सक्षम करें";
+"push_server_status_waiting_token" = "सिस्टम द्वारा टोकन असाइन होने की प्रतीक्षा";
 "push_server_sync_now_action" = "अभी सिंक करें";
 "refreshing_message" = "रिफ्रेश हो रहा है… थोड़ा रुकें";
 "score_academic_year_semester" = "शैक्षणिक वर्ष %1$s %2$s";

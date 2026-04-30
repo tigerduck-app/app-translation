@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Zapněte bulletin push";
 "bulletin_push_enable_description" = "Když je povoleno push, TigerDuck vás upozorní, kdykoli bude bulletin odpovídat vašim pravidlům předplatného.";
 "bulletin_push_footer" = "Push notifikace doručuje server TigerDuck na základě vašich pravidel. Identifikátor zařízení je odeslán jako anonymní UUID – vaše studentské ID se nikdy nenahraje.";
-"bulletin_push_reopen_ios_settings" = "Znovu povolit v Nastavení iOS";
+"bulletin_push_reopen_settings" = "Znovu povolit v Nastavení systému";
 "bulletin_push_requesting" = "Požadavek…";
 "bulletin_push_settings_header" = "Push nastavení";
 "bulletin_push_status_denied" = "Zamítnuto";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Registrace zařízení";
 "push_server_status_done" = "Kompletní";
 "push_server_status_enabled" = "Povoleno";
-"push_server_status_ios_settings_hint" = "Vypnuto na úrovni systému → Nastavení iOS → TigerDuck → Povolit";
 "push_server_status_live_activities" = "Živé aktivity";
 "push_server_status_section" = "Postavení";
-"push_server_status_waiting_token" = "Čeká se, až iOS přiřadí token";
+"push_server_status_settings_hint" = "Vypnuto na úrovni systému → Nastavení → TigerDuck → Povolit";
+"push_server_status_waiting_token" = "Čeká se, až systém přiřadí token";
 "push_server_sync_now_action" = "Synchronizovat nyní";
 "refreshing_message" = "Probíhá obnovování… vydržte";
 "score_academic_year_semester" = "Akademický rok %1$s %2$s";

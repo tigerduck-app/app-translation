@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "開啟公告推播";
 "bulletin_push_enable_description" = "開啟推播後,當有符合你設定規則的公告時,老虎鴨會即時通知你。";
 "bulletin_push_footer" = "推播通知由 TigerDuck 伺服器根據你選的規則派送。設備標識以匿名 UUID 傳送,不會上傳學號。";
-"bulletin_push_reopen_ios_settings" = "在 iOS 設定中重新開啟";
+"bulletin_push_reopen_settings" = "在系統設定中重新開啟";
 "bulletin_push_requesting" = "請求中…";
 "bulletin_push_settings_header" = "推播設定";
 "bulletin_push_status_denied" = "已被拒絕";
@@ -385,7 +385,7 @@
 "push_server_last_sync" = "上次同步";
 "push_server_latest_error" = "最近錯誤";
 "push_server_notification_status_authorized" = "已授權";
-"push_server_notification_status_denied_hint" = "被拒(至 iOS 設定開啟)";
+"push_server_notification_status_denied_hint" = "被拒(至系統設定開啟)";
 "push_server_notification_status_ephemeral" = "暫時授權";
 "push_server_notification_status_provisional" = "靜默授權";
 "push_server_notification_status_undetermined" = "尚未詢問";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "裝置註冊";
 "push_server_status_done" = "完成";
 "push_server_status_enabled" = "已啟用";
-"push_server_status_ios_settings_hint" = "系統層關閉 → iOS 設定 → TigerDuck 開啟";
 "push_server_status_live_activities" = "即時動態";
 "push_server_status_section" = "狀態";
-"push_server_status_waiting_token" = "等 iOS 指派 token";
+"push_server_status_settings_hint" = "系統層關閉 → 設定 → TigerDuck 開啟";
+"push_server_status_waiting_token" = "等系統指派 token";
 "push_server_sync_now_action" = "立即同步一次";
 "refreshing_message" = "頁面正在刷新，別急～";
 "score_academic_year_semester" = "%1$s 學年度 %2$s學期";

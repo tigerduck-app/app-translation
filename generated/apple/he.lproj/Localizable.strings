@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "הפעלת דחיפת עלון";
 "bulletin_push_enable_description" = "כאשר אפשרות הדחיפה מופעלת, TigerDuck יודיע לך בכל פעם שהודעות תואמות לכללי המינוי שלך.";
 "bulletin_push_footer" = "הודעות דחיפה מועברות על ידי שרת TigerDuck בהתאם לכללים שלכם. מזהה המכשיר נשלח כ — UUID אנונימי — מזהה התלמיד שלך לעולם לא מועלה.";
-"bulletin_push_reopen_ios_settings" = "הפעל מחדש בהגדרות iOS";
+"bulletin_push_reopen_settings" = "הפעל מחדש בהגדרות המערכת";
 "bulletin_push_requesting" = "מבקש נסיעה…";
 "bulletin_push_settings_header" = "הגדרות הודעות דחיפה APP";
 "bulletin_push_status_denied" = "נדחה";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "רישום מכשיר";
 "push_server_status_done" = "הושלם";
 "push_server_status_enabled" = "פעיל";
-"push_server_status_ios_settings_hint" = "מושבת ברמת המערכת → הגדרות iOS → TigerDuck → הפעלה";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "סטטוס";
-"push_server_status_waiting_token" = "ממתין ש‑iOS יקצה טוקן";
+"push_server_status_settings_hint" = "מושבת ברמת המערכת → הגדרות → TigerDuck → הפעלה";
+"push_server_status_waiting_token" = "ממתין שהמערכת תקצה טוקן";
 "push_server_sync_now_action" = "סנכרנו כעת";
 "refreshing_message" = "מרענן… רגע";
 "score_academic_year_semester" = "שנת לימודים %1$s %2$s";

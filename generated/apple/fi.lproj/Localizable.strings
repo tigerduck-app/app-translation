@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Ota bulletin push käyttöön";
 "bulletin_push_enable_description" = "Kun push on käytössä, TigerDuck ilmoittaa sinulle aina, kun tiedote vastaa tilaussääntöjäsi.";
 "bulletin_push_footer" = "TigerDuck-palvelin toimittaa push-ilmoitukset sääntöjesi perusteella. Laitetunniste lähetetään anonyyminä UUID-tunnuksena – opiskelijatunnustasi ei koskaan ladata.";
-"bulletin_push_reopen_ios_settings" = "Ota uudelleen käyttöön iOS-asetuksissa";
+"bulletin_push_reopen_settings" = "Ota uudelleen käyttöön järjestelmäasetuksissa";
 "bulletin_push_requesting" = "Pyydetään…";
 "bulletin_push_settings_header" = "Push-asetukset";
 "bulletin_push_status_denied" = "Kielletty";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Laitteen rekisteröinti";
 "push_server_status_done" = "Täydellinen";
 "push_server_status_enabled" = "Käytössä";
-"push_server_status_ios_settings_hint" = "Pois käytöstä järjestelmätasolla → iOS-asetukset → TigerDuck → Ota käyttöön";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Odotetaan, että iOS määrittää tokenin";
+"push_server_status_settings_hint" = "Pois käytöstä järjestelmätasolla → Asetukset → TigerDuck → Ota käyttöön";
+"push_server_status_waiting_token" = "Odotetaan, että järjestelmä määrittää tokenin";
 "push_server_sync_now_action" = "Synkronoi nyt";
 "refreshing_message" = "Päivitetään… odota hetki";
 "score_academic_year_semester" = "Lukuvuosi %1$s %2$s";

@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Aktivieren Sie den Bulletin-Push";
 "bulletin_push_enable_description" = "Wenn Push aktiviert ist, benachrichtigt TigerDuck Sie, wenn ein Bulletin Ihren Abonnementregeln entspricht.";
 "bulletin_push_footer" = "Push-Benachrichtigungen werden vom TigerDuck-Server basierend auf Ihren Regeln zugestellt. Die Gerätekennung wird als anonyme UUID gesendet – Ihr Studierendenausweis wird nie hochgeladen.";
-"bulletin_push_reopen_ios_settings" = "Vėl įjunkite per iOS nustatymus";
+"bulletin_push_reopen_settings" = "Vėl įjunkite per sistemos nustatymus";
 "bulletin_push_requesting" = "Bitte um …";
 "bulletin_push_settings_header" = "Push-Einstellungen";
 "bulletin_push_status_denied" = "Bestritten";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Įrenginio registracija";
 "push_server_status_done" = "Baigta";
 "push_server_status_enabled" = "Įjungta";
-"push_server_status_ios_settings_hint" = "Išjungta sistemos lygiu → iOS nustatymai → TigerDuck → Įjungti";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Laukiama, kol iOS priskirs prieigos raktą";
+"push_server_status_settings_hint" = "Išjungta sistemos lygiu → Nustatymai → TigerDuck → Įjungti";
+"push_server_status_waiting_token" = "Laukiama, kol sistema priskirs prieigos raktą";
 "push_server_sync_now_action" = "Sinchronizuoti dabar";
 "refreshing_message" = "Atnaujinama… palaukite";
 "score_academic_year_semester" = "Akademiniai metai %1$s %2$s";

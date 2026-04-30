@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Uključi push za oglase";
 "bulletin_push_enable_description" = "Kada je push uključen, TigerDuck će vas obaveštavati svaki put kada oglas odgovara vašim pravilima pretplate.";
 "bulletin_push_footer" = "Push obaveštenja isporučuje TigerDuck server na osnovu vaših pravila. Identifikator uređaja se šalje kao anonimni UUID — vaš studentski ID se nikada ne otprema.";
-"bulletin_push_reopen_ios_settings" = "Поново омогућите у iOS подешавањима";
+"bulletin_push_reopen_settings" = "Поново омогућите у подешавањима система";
 "bulletin_push_requesting" = "Zahtevanje…";
 "bulletin_push_settings_header" = "Podešavanja pusha";
 "bulletin_push_status_denied" = "Odbijeno";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Регистрација уређаја";
 "push_server_status_done" = "Završeno";
 "push_server_status_enabled" = "Omogućeno";
-"push_server_status_ios_settings_hint" = "Онемогућено на нивоу система → iOS подешавања → TigerDuck → Омогући";
 "push_server_status_live_activities" = "Активности уживо";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Чека се да iOS додели токен";
+"push_server_status_settings_hint" = "Онемогућено на нивоу система → Подешавања → TigerDuck → Омогући";
+"push_server_status_waiting_token" = "Чека се да систем додели токен";
 "push_server_sync_now_action" = "Sinhronizuj sada";
 "refreshing_message" = "Освежавање… причекајте";
 "score_academic_year_semester" = "Академска година %1$s %2$s";

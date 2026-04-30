@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Slå på push for kunngjøringer";
 "bulletin_push_enable_description" = "Når push er aktivert, vil TigerDuck varsle deg når en kunngjøring samsvarer med abonnementsreglene dine.";
 "bulletin_push_footer" = "Push-varsler leveres av TigerDuck-serveren basert på reglene dine. Enhetsidentifikatoren sendes som en anonym UUID — student-ID-en din lastes aldri opp.";
-"bulletin_push_reopen_ios_settings" = "Aktiver på nytt i iOS-innstillinger";
+"bulletin_push_reopen_settings" = "Aktiver på nytt i systeminnstillinger";
 "bulletin_push_requesting" = "Ber om tillatelse…";
 "bulletin_push_settings_header" = "Push-innstillinger";
 "bulletin_push_status_denied" = "Avslått";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Enhetsregistrering";
 "push_server_status_done" = "Fullført";
 "push_server_status_enabled" = "Aktivert";
-"push_server_status_ios_settings_hint" = "Deaktivert på systemnivå → iOS-innstillinger → TigerDuck → Aktiver";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Venter på at iOS tildeler en token";
+"push_server_status_settings_hint" = "Deaktivert på systemnivå → Innstillinger → TigerDuck → Aktiver";
+"push_server_status_waiting_token" = "Venter på at systemet tildeler en token";
 "push_server_sync_now_action" = "Synkroniser nå";
 "refreshing_message" = "Oppdaterer… vent litt";
 "score_academic_year_semester" = "Studieår %1$s %2$s";

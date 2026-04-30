@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Ενεργοποιήστε το bulletin push";
 "bulletin_push_enable_description" = "Όταν το push είναι ενεργοποιημένο, το TigerDuck θα σας ειδοποιεί κάθε φορά που ένα δελτίο ταιριάζει με τους κανόνες συνδρομής σας.";
 "bulletin_push_footer" = "Οι ειδοποιήσεις push παραδίδονται από τον διακομιστή TigerDuck με βάση τους κανόνες σας. Το αναγνωριστικό συσκευής αποστέλλεται ως ανώνυμο UUID — το φοιτητικό σας αναγνωριστικό δεν μεταφορτώνεται ποτέ.";
-"bulletin_push_reopen_ios_settings" = "Επανενεργοποίηση στις Ρυθμίσεις iOS";
+"bulletin_push_reopen_settings" = "Επανενεργοποίηση στις Ρυθμίσεις συστήματος";
 "bulletin_push_requesting" = "Αίτημα…";
 "bulletin_push_settings_header" = "Ρυθμίσεις ώθησης";
 "bulletin_push_status_denied" = "Αρνήθηκε";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Καταχώρηση συσκευής";
 "push_server_status_done" = "Πλήρης";
 "push_server_status_enabled" = "Ενεργοποιημένο";
-"push_server_status_ios_settings_hint" = "Απενεργοποιημένο σε επίπεδο συστήματος → Ρυθμίσεις iOS → TigerDuck → Ενεργοποίηση";
 "push_server_status_live_activities" = "Ζωντανές δραστηριότητες";
 "push_server_status_section" = "Κατάσταση";
-"push_server_status_waiting_token" = "Αναμονή να εκχωρήσει το iOS ένα token";
+"push_server_status_settings_hint" = "Απενεργοποιημένο σε επίπεδο συστήματος → Ρυθμίσεις → TigerDuck → Ενεργοποίηση";
+"push_server_status_waiting_token" = "Αναμονή να εκχωρήσει το σύστημα ένα token";
 "push_server_sync_now_action" = "Συγχρονισμός τώρα";
 "refreshing_message" = "Ανανέωση… παρακαλώ περιμένετε";
 "score_academic_year_semester" = "Ακαδημαϊκό Έτος %1$s %2$s";

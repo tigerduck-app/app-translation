@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "เปิดการแจ้งเตือนแบบพุชสำหรับประกาศ";
 "bulletin_push_enable_description" = "เมื่อเปิดใช้งานพุช TigerDuck จะแจ้งเตือนคุณทุกครั้งที่มีประกาศตรงกับกฎการสมัครรับข้อมูลของคุณ";
 "bulletin_push_footer" = "การแจ้งเตือนแบบพุชจะถูกส่งโดยเซิร์ฟเวอร์ TigerDuck ตามกฎของคุณ ตัวระบุอุปกรณ์จะถูกส่งในรูปแบบ UUID นิรนาม — รหัสนักศึกษาของคุณจะไม่ถูกอัปโหลดเด็ดขาด";
-"bulletin_push_reopen_ios_settings" = "เปิดใช้อีกครั้งในตั้งค่า iOS";
+"bulletin_push_reopen_settings" = "เปิดใช้อีกครั้งในการตั้งค่าระบบ";
 "bulletin_push_requesting" = "กำลังร้องขอ…";
 "bulletin_push_settings_header" = "การตั้งค่าพุช";
 "bulletin_push_status_denied" = "ถูกปฏิเสธ";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "การลงทะเบียนอุปกรณ์";
 "push_server_status_done" = "เสร็จสมบูรณ์";
 "push_server_status_enabled" = "เปิดใช้งาน";
-"push_server_status_ios_settings_hint" = "ปิดใช้งานในระดับระบบ → ตั้งค่า iOS → TigerDuck → เปิดใช้งาน";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "กำลังรอให้ iOS กำหนดโทเคน";
+"push_server_status_settings_hint" = "ปิดใช้งานในระดับระบบ → ตั้งค่า → TigerDuck → เปิดใช้งาน";
+"push_server_status_waiting_token" = "กำลังรอให้ระบบกำหนดโทเคน";
 "push_server_sync_now_action" = "ซิงค์เดี๋ยวนี้";
 "refreshing_message" = "กำลังรีเฟรช… โปรดรอสักครู่";
 "score_academic_year_semester" = "ปีการศึกษา %1$s %2$s";

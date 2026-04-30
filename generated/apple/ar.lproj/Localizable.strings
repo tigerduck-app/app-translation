@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "قم بتشغيل دفع النشرة";
 "bulletin_push_enable_description" = "عند تمكين الدفع، سوف يقوم TigerDuck بإعلامك عندما تتطابق النشرة مع قواعد الاشتراك الخاصة بك.";
 "bulletin_push_footer" = "يتم تسليم إشعارات الدفع بواسطة خادم TigerDuck بناءً على القواعد الخاصة بك. يتم إرسال معرف الجهاز كمعرف UUID مجهول - ولا يتم تحميل معرف الطالب الخاص بك مطلقًا.";
-"bulletin_push_reopen_ios_settings" = "أعد التمكين من إعدادات iOS";
+"bulletin_push_reopen_settings" = "أعد التمكين من إعدادات النظام";
 "bulletin_push_requesting" = "جارٍ الطلب…";
 "bulletin_push_settings_header" = "إعدادات الدفع";
 "bulletin_push_status_denied" = "رفض";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "تسجيل الجهاز";
 "push_server_status_done" = "مكتمل";
 "push_server_status_enabled" = "ممكّن";
-"push_server_status_ios_settings_hint" = "معطّل على مستوى النظام → إعدادات iOS → TigerDuck → تمكين";
 "push_server_status_live_activities" = "النشاط المباشر";
 "push_server_status_section" = "حالة";
-"push_server_status_waiting_token" = "بانتظار iOS لتعيين رمز";
+"push_server_status_settings_hint" = "معطّل على مستوى النظام → إعدادات → TigerDuck → تمكين";
+"push_server_status_waiting_token" = "بانتظار النظام لتعيين رمز";
 "push_server_sync_now_action" = "مزامنة الآن";
 "refreshing_message" = "جارٍ التحديث… انتظر قليلًا";
 "score_academic_year_semester" = "العام الدراسي %1$s %2$s";

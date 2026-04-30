@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "Turn on bulletin push";
 "bulletin_push_enable_description" = "When push is enabled, TigerDuck will notify you whenever a bulletin matches your subscription rules.";
 "bulletin_push_footer" = "Push notifications are delivered by the TigerDuck server based on your rules. The device identifier is sent as an anonymous UUID — your student ID is never uploaded.";
-"bulletin_push_reopen_ios_settings" = "Re-enable in iOS Settings";
+"bulletin_push_reopen_settings" = "Re-enable in System Settings";
 "bulletin_push_requesting" = "Requesting…";
 "bulletin_push_settings_header" = "Push settings";
 "bulletin_push_status_denied" = "Denied";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "Device registration";
 "push_server_status_done" = "Complete";
 "push_server_status_enabled" = "Enabled";
-"push_server_status_ios_settings_hint" = "Disabled at system level → iOS Settings → TigerDuck → Enable";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "Waiting for iOS to assign a token";
+"push_server_status_settings_hint" = "Disabled at system level → Settings → TigerDuck → Enable";
+"push_server_status_waiting_token" = "Waiting for System to assign a token";
 "push_server_sync_now_action" = "Sync now";
 "refreshing_message" = "Refreshing… hold on";
 "score_academic_year_semester" = "Academic Year %1$s %2$s";

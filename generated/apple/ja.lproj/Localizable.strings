@@ -77,7 +77,7 @@
 "bulletin_push_enable_action" = "お知らせのプッシュをオンにする";
 "bulletin_push_enable_description" = "プッシュが有効な場合、購読ルールに一致するお知らせがあるとTigerDuckが通知します。";
 "bulletin_push_footer" = "プッシュ通知はルールに基づいてTigerDuckサーバーから配信されます。デバイス識別子は匿名のUUIDとして送信され、学生IDがアップロードされることはありません。";
-"bulletin_push_reopen_ios_settings" = "iOSの設定で再度有効にする";
+"bulletin_push_reopen_settings" = "システムの設定で再度有効にする";
 "bulletin_push_requesting" = "リクエスト中…";
 "bulletin_push_settings_header" = "プッシュ設定";
 "bulletin_push_status_denied" = "拒否済み";
@@ -395,10 +395,10 @@
 "push_server_status_device_registration" = "デバイス登録";
 "push_server_status_done" = "完了";
 "push_server_status_enabled" = "有効";
-"push_server_status_ios_settings_hint" = "システムレベルで無効 → iOSの設定 → TigerDuck → 有効";
 "push_server_status_live_activities" = "ライブアクティビティ";
 "push_server_status_section" = "Status";
-"push_server_status_waiting_token" = "iOSがトークンを割り当てるのを待っています";
+"push_server_status_settings_hint" = "システムレベルで無効 → 設定 → TigerDuck → 有効";
+"push_server_status_waiting_token" = "システムがトークンを割り当てるのを待っています";
 "push_server_sync_now_action" = "今すぐ同期";
 "refreshing_message" = "更新中です。少々お待ちください…";
 "score_academic_year_semester" = "%1$s 年度 %2$s";
