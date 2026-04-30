@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Oznámení a přesné budíky jsou nutné pro doručování upozornění; vypnutí omezení baterie pomáhá, aby upozornění dorazila včas i když je aplikace zavřená nebo na pozadí.",
     "notification_assignment_due_channel_description": "Upozorní vás před tím, než vyprší termín úkolu",
     "notification_assignment_due_channel_name": "Upozornění na blížící se termíny úkolů",
+    "notification_bulletin_channel_description": "Okamžitá push oznámení pro nové bulletiny NTUST odpovídající vašim odběrům",
+    "notification_bulletin_channel_name": "Školní bulletiny",
     "notification_class_preparing_channel_description": "Posílá upozornění před začátkem každé hodiny",
     "notification_class_preparing_channel_name": "Upozornění na blížící se hodinu",
     "permission_battery_optimization_description": "V systémovém nastavení baterie / aktivity na pozadí nastavte TigerDuck na neomezený režim (nebo neomezujte aktivitu na pozadí), abyste snížili zpoždění upozornění.",

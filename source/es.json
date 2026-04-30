@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Las notificaciones y las alarmas exactas son necesarias para entregar los recordatorios; deshabilitar las restricciones de batería ayuda a que los recordatorios lleguen a tiempo cuando la app esté cerrada o en segundo plano.",
     "notification_assignment_due_channel_description": "Te recuerda antes de la fecha de entrega de las tareas",
     "notification_assignment_due_channel_name": "Recordatorios de entrega de tareas",
+    "notification_bulletin_channel_description": "Notificaciones en tiempo real de nuevos boletines de NTUST que coincidan con tus suscripciones",
+    "notification_bulletin_channel_name": "Boletines escolares",
     "notification_class_preparing_channel_description": "Envía recordatorios antes de que comience cada clase",
     "notification_class_preparing_channel_name": "Recordatorios de preparación de clase",
     "permission_battery_optimization_description": "En la configuración de batería/segundo plano del sistema, configura TigerDuck como sin restricciones (o no restrinjas la actividad en segundo plano) para reducir los retrasos de los recordatorios.",

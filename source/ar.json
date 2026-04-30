@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "الإشعارات والمنبهات الدقيقة مطلوبة لتسليم التذكيرات؛ تعطيل قيود البطارية يساعد على وصول التذكيرات في وقتها عند إغلاق التطبيق أو تشغيله في الخلفية.",
     "notification_assignment_due_channel_description": "يذكرك قبل اقتراب موعد تسليم الواجبات",
     "notification_assignment_due_channel_name": "تذكيرات استحقاق الواجبات",
+    "notification_bulletin_channel_description": "إشعارات فورية بنشرات NTUST الجديدة المطابقة لاشتراكاتك",
+    "notification_bulletin_channel_name": "نشرات المدرسة",
     "notification_class_preparing_channel_description": "يرسل تذكيرات قبل بدء كل محاضرة",
     "notification_class_preparing_channel_name": "تذكيرات بدء المحاضرات",
     "permission_battery_optimization_description": "في إعدادات البطارية / الخلفية بالنظام، اضبط TigerDuck على غير مقيد (أو لا تقيد النشاط في الخلفية) لتقليل تأخر التذكيرات.",

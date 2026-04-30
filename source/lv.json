@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Paziņojumi un precīzie alarmi ir nepieciešami, lai piegādātu atgādinājumus; akumulatora ierobežojumu atspējošana palīdz atgādinājumiem ierasties laikā, kad lietotne ir aizvērta vai fonā.",
     "notification_assignment_due_channel_description": "Atgādina par tuvojošos uzdevumu termiņiem",
     "notification_assignment_due_channel_name": "Uzdevumu termiņa atgādinājumi",
+    "notification_bulletin_channel_description": "Reāllaika push paziņojumi par jauniem NTUST biļeteniem, kas atbilst jūsu abonementiem",
+    "notification_bulletin_channel_name": "Skolas biļeteni",
     "notification_class_preparing_channel_description": "Sūta atgādinājumus pirms katras nodarbības sākuma",
     "notification_class_preparing_channel_name": "Nodarbības atgādinājumi",
     "permission_battery_optimization_description": "Sistēmas akumulatora/fona iestatījumos iestatiet TigerDuck kā neierobežotu (vai neatļaujiet fona darbības ierobežošanu), lai samazinātu atgādinājumu kavēšanos.",

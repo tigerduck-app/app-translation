@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "ಜ್ಞಾಪನೆಗಳನ್ನು ತಲುಪಿಸಲು ಅಧಿಸೂಚನೆಗಳು ಮತ್ತು ನಿಖರ ಅಲಾರಾಂಗಳು ಅಗತ್ಯ; ಬ್ಯಾಟರಿ ನಿರ್ಬಂಧಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದರೆ ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಜ್ಞಾಪನೆಗಳು ಸಮಯಕ್ಕೆ ತಲುಪುತ್ತವೆ.",
     "notification_assignment_due_channel_description": "ಕಾರ್ಯದ ಗಡುವು ಸಮೀಪಿಸುವ ಮುನ್ನ ನಿಮಗೆ ನೆನಪಿಸುತ್ತದೆ",
     "notification_assignment_due_channel_name": "ಕಾರ್ಯ ಗಡುವು ಜ್ಞಾಪನೆಗಳು",
+    "notification_bulletin_channel_description": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುವ ಹೊಸ NTUST ಬುಲೆಟಿನ್‌ಗಳಿಗೆ ನೈಜ-ಸಮಯದ ಪುಶ್",
+    "notification_bulletin_channel_name": "ಶಾಲೆಯ ಬುಲೆಟಿನ್‌ಗಳು",
     "notification_class_preparing_channel_description": "ಪ್ರತಿ ತರಗತಿ ಆರಂಭಕ್ಕೂ ಮುನ್ನ ಜ್ಞಾಪನೆಗಳನ್ನು ಕಳುಹಿಸುತ್ತದೆ",
     "notification_class_preparing_channel_name": "ತರಗತಿ ಸಿದ್ಧತೆ ಜ್ಞಾಪನೆಗಳು",
     "permission_battery_optimization_description": "ಜ್ಞಾಪನೆ ವಿಳಂಬ ತಗ್ಗಿಸಲು, ಸಿಸ್ಟಂ ಬ್ಯಾಟರಿ/ಹಿನ್ನೆಲೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ TigerDuck ಅನ್ನು ಅನಿರ್ಬಂಧಿತ ಎಂದು ಹೊಂದಿಸಿ (ಅಥವಾ ಹಿನ್ನೆಲೆ ಚಟುವಟಿಕೆ ನಿರ್ಬಂಧಿಸಬೇಡಿ).",

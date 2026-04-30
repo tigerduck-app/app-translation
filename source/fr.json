@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Les notifications et les alarmes précises sont nécessaires pour envoyer les rappels ; désactiver les restrictions de batterie aide les rappels à arriver à temps lorsque l'application est fermée ou en arrière-plan.",
     "notification_assignment_due_channel_description": "Vous rappelle avant l'échéance de vos devoirs",
     "notification_assignment_due_channel_name": "Rappels d'échéance des devoirs",
+    "notification_bulletin_channel_description": "Notifications en temps réel pour les nouveaux bulletins NTUST correspondant à vos abonnements",
+    "notification_bulletin_channel_name": "Bulletins scolaires",
     "notification_class_preparing_channel_description": "Envoie un rappel avant le début de chaque cours",
     "notification_class_preparing_channel_name": "Rappels avant le cours",
     "permission_battery_optimization_description": "Dans les paramètres de batterie/arrière-plan du système, définissez TigerDuck sur sans restriction (ou ne limitez pas l'activité en arrière-plan) pour réduire les retards de rappel.",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "स्मरणपत्रे पाठवण्यासाठी अधिसूचना आणि अचूक अलार्म आवश्यक आहेत; बॅटरी निर्बंध बंद केल्याने ॲप बंद किंवा पार्श्वभूमीत असताना स्मरणपत्रे वेळेवर येण्यास मदत होते.",
     "notification_assignment_due_channel_description": "असाइनमेंटची मुदत जवळ असताना स्मरणपत्र देते",
     "notification_assignment_due_channel_name": "असाइनमेंट मुदत स्मरणपत्रे",
+    "notification_bulletin_channel_description": "आपल्या सदस्यतेशी जुळणाऱ्या नवीन NTUST बुलेटिनसाठी रिअल-टाइम पुश",
+    "notification_bulletin_channel_name": "शाळा बुलेटिन",
     "notification_class_preparing_channel_description": "प्रत्येक वर्ग सुरू होण्यापूर्वी स्मरणपत्र पाठवते",
     "notification_class_preparing_channel_name": "वर्ग सुरू होण्याची स्मरणपत्रे",
     "permission_battery_optimization_description": "सिस्टम बॅटरी/पार्श्वभूमी सेटिंग्जमध्ये TigerDuck ला अप्रतिबंधित (किंवा पार्श्वभूमी क्रियाकलाप प्रतिबंधित नाही) असे सेट करा, जेणेकरून स्मरणपत्रे वेळेवर येतील.",

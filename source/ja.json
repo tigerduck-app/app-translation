@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "通知と正確なアラームはリマインダー送信の必須条件です。バッテリー制限を解除すると、アプリを閉じている時やバックグラウンド時でも時間どおりに通知できます。",
     "notification_assignment_due_channel_description": "課題の期限が近づくとお知らせします",
     "notification_assignment_due_channel_name": "課題の期限リマインダー",
+    "notification_bulletin_channel_description": "台湾科技大学（NTUST）の掲示板でサブスクリプションに一致する新着をリアルタイムでプッシュ通知",
+    "notification_bulletin_channel_name": "学内掲示板",
     "notification_class_preparing_channel_description": "各授業の開始前に設定した時間でリマインダーを送信します",
     "notification_class_preparing_channel_name": "授業開始前のリマインダー",
     "permission_battery_optimization_description": "システムのバッテリー/バックグラウンド設定で、TigerDuck を制限なし（またはバックグラウンド動作を制限しない）に設定すると、リマインダーの遅延を減らせます。",

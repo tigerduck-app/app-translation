@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Ilmoitukset ja tarkat hälytykset ovat pakollisia muistutusten toimittamiseen; akkurajoitusten poistaminen auttaa muistutuksia saapumaan ajoissa sovelluksen ollessa suljettu tai taustalla.",
     "notification_assignment_due_channel_description": "Muistuttaa ennen tehtävän palautusta",
     "notification_assignment_due_channel_name": "Tehtävän palautusmuistutukset",
+    "notification_bulletin_channel_description": "Reaaliaikainen push uusille NTUST-tiedotteille, jotka vastaavat tilauksiasi",
+    "notification_bulletin_channel_name": "Koulutiedotteet",
     "notification_class_preparing_channel_description": "Lähettää muistutuksen ennen jokaisen tunnin alkua",
     "notification_class_preparing_channel_name": "Tunnin alkamismuistutukset",
     "permission_battery_optimization_description": "Aseta TigerDuck järjestelmän akku-/taustarajoitusasetuksissa rajoittamattomaksi (tai älä rajoita taustatoimintaa) muistutusviiveiden vähentämiseksi.",

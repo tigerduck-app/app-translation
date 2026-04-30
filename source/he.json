@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "התראות והתראות מדויקות נדרשות למשלוח תזכורות; השבתת הגבלות סוללה מסייעת לתזכורות להגיע בזמן כשהאפליקציה סגורה או ברקע.",
     "notification_assignment_due_channel_description": "מזכיר לך לפני שמטלות מגיעות לתאריך הגשה",
     "notification_assignment_due_channel_name": "תזכורות לתאריך הגשת מטלה",
+    "notification_bulletin_channel_description": "דחיפה בזמן אמת לעלוני NTUST חדשים התואמים למנויים שלך",
+    "notification_bulletin_channel_name": "עלוני בית הספר",
     "notification_class_preparing_channel_description": "שולח תזכורות לפני תחילת כל שיעור",
     "notification_class_preparing_channel_name": "תזכורות לפני שיעור",
     "permission_battery_optimization_description": "בהגדרות הסוללה/רקע של המערכת, הגדר את TigerDuck כלא מוגבל (או אל תגביל פעילות ברקע) כדי להפחית עיכובים בתזכורות.",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Quyền thông báo và báo thức chính xác là cần thiết để gửi nhắc nhở; tắt giới hạn pin giúp nhắc nhở đến đúng giờ khi ứng dụng đã đóng hoặc chạy nền.",
     "notification_assignment_due_channel_description": "Nhắc bạn trước khi bài tập đến hạn",
     "notification_assignment_due_channel_name": "Nhắc bài tập sắp đến hạn",
+    "notification_bulletin_channel_description": "Đẩy thông báo theo thời gian thực cho các bản tin NTUST mới khớp với đăng ký của bạn",
+    "notification_bulletin_channel_name": "Thông báo trường học",
     "notification_class_preparing_channel_description": "Gửi nhắc nhở trước khi mỗi lớp học bắt đầu",
     "notification_class_preparing_channel_name": "Nhắc sắp vào lớp",
     "permission_battery_optimization_description": "Trong cài đặt pin/hoạt động nền của hệ thống, hãy đặt TigerDuck ở chế độ không bị giới hạn (hoặc không hạn chế hoạt động nền) để giảm độ trễ thông báo.",

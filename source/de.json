@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Benachrichtigungen und exakte Alarme sind erforderlich, um Erinnerungen zuzustellen; das Deaktivieren von Akku-Beschränkungen hilft, dass Erinnerungen rechtzeitig eintreffen, wenn die App geschlossen ist oder im Hintergrund läuft.",
     "notification_assignment_due_channel_description": "Erinnert Sie, bevor Aufgaben fällig sind",
     "notification_assignment_due_channel_name": "Erinnerungen an fällige Aufgaben",
+    "notification_bulletin_channel_description": "Echtzeit-Push für neue NTUST-Bulletins, die deinen Abonnements entsprechen",
+    "notification_bulletin_channel_name": "Schulbulletins",
     "notification_class_preparing_channel_description": "Sendet vor Beginn jeder Unterrichtsstunde Erinnerungen",
     "notification_class_preparing_channel_name": "Erinnerungen vor Unterrichtsbeginn",
     "permission_battery_optimization_description": "Setzen Sie TigerDuck in den Akku-/Hintergrundeinstellungen des Systems auf uneingeschränkt (oder beschränken Sie die Hintergrundaktivität nicht), um Verzögerungen bei Erinnerungen zu reduzieren.",

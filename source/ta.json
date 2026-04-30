@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "நினைவூட்டல்களை வழங்க அறிவிப்புகள் மற்றும் துல்லியமான அலாரங்கள் தேவை; பேட்டரி கட்டுப்பாடுகளை முடக்குவது App மூடியிருக்கும் அல்லது பின்னணியில் இருக்கும்போது நினைவூட்டல்கள் சரியான நேரத்தில் வர உதவுகிறது.",
     "notification_assignment_due_channel_description": "ஒப்படைப்புகளின் காலக்கெடு நெருங்கும் முன் நினைவூட்டுகிறது",
     "notification_assignment_due_channel_name": "ஒப்படைப்பு காலக்கெடு நினைவூட்டல்கள்",
+    "notification_bulletin_channel_description": "உங்கள் சந்தாக்களுடன் பொருந்தும் புதிய NTUST அறிக்கைகளுக்கான நிகழ்நேர புஷ்",
+    "notification_bulletin_channel_name": "பள்ளி அறிக்கைகள்",
     "notification_class_preparing_channel_description": "ஒவ்வொரு வகுப்பும் தொடங்குவதற்கு முன் நினைவூட்டல்கள் அனுப்புகிறது",
     "notification_class_preparing_channel_name": "வகுப்பு தொடக்க நினைவூட்டல்கள்",
     "permission_battery_optimization_description": "நினைவூட்டல் தாமதங்களை குறைக்க, கணினி பேட்டரி/பின்னணி அமைப்புகளில் TigerDuck-ஐ கட்டுப்பாடற்றதாக (அல்லது பின்னணி செயல்பாட்டை கட்டுப்படுத்தாதே) அமைக்கவும்.",

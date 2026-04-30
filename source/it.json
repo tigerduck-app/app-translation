@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Notifiche e sveglie precise sono necessarie per consegnare i promemoria; disabilitare le restrizioni della batteria aiuta i promemoria ad arrivare in tempo quando l'app è chiusa o in background.",
     "notification_assignment_due_channel_description": "Ti ricorda prima della scadenza dei compiti",
     "notification_assignment_due_channel_name": "Promemoria scadenze compiti",
+    "notification_bulletin_channel_description": "Notifiche in tempo reale per i nuovi bollettini NTUST corrispondenti ai tuoi abbonamenti",
+    "notification_bulletin_channel_name": "Bollettini scolastici",
     "notification_class_preparing_channel_description": "Invia promemoria prima dell'inizio di ogni lezione",
     "notification_class_preparing_channel_name": "Promemoria preparazione lezioni",
     "permission_battery_optimization_description": "Nelle impostazioni di sistema della batteria/background, imposta TigerDuck come senza limitazioni (oppure non limitare l'attività in background) per ridurre i ritardi dei promemoria.",

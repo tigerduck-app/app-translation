@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "برای ارسال یادآورها به اعلان‌ها و هشدارهای دقیق نیاز است؛ غیرفعال کردن محدودیت‌های باتری کمک می‌کند وقتی برنامه بسته یا در پس‌زمینه است هم یادآورها به‌موقع برسند.",
     "notification_assignment_due_channel_description": "پیش از موعد، درباره تکلیف به شما یادآوری می‌کند",
     "notification_assignment_due_channel_name": "یادآورهای موعد تکلیف",
+    "notification_bulletin_channel_description": "اعلان‌های فوری برای اطلاعیه‌های جدید NTUST مطابق با اشتراک‌های شما",
+    "notification_bulletin_channel_name": "اطلاعیه‌های مدرسه",
     "notification_class_preparing_channel_description": "پیش از شروع هر کلاس، مطابق تنظیمات به شما یادآوری می‌فرستد",
     "notification_class_preparing_channel_name": "یادآورهای شروع کلاس",
     "permission_battery_optimization_description": "در تنظیمات باتری/پس‌زمینه سیستم، TigerDuck را روی «بدون محدودیت» قرار دهید (یا فعالیت پس‌زمینه را محدود نکنید) تا تأخیر یادآورها کمتر شود.",

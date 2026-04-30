@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Les notificacions i les alarmes exactes són necessàries per enviar recordatoris; desactivar les restriccions de bateria ajuda que els recordatoris arribin a temps quan l'aplicació és tancada o en segon pla.",
     "notification_assignment_due_channel_description": "Us recorda abans que vencin les tasques",
     "notification_assignment_due_channel_name": "Recordatoris de tasques",
+    "notification_bulletin_channel_description": "Notificacions push en temps real per als nous butlletins de NTUST que coincideixen amb les vostres subscripcions",
+    "notification_bulletin_channel_name": "Butlletins escolars",
     "notification_class_preparing_channel_description": "Envia recordatoris abans que comenci cada classe",
     "notification_class_preparing_channel_name": "Recordatoris de classe",
     "permission_battery_optimization_description": "A la configuració de bateria/segon pla del sistema, configureu TigerDuck com a sense restriccions (o no restringiu l'activitat en segon pla) per reduir els retards dels recordatoris.",

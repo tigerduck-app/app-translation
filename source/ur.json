@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "یاددہانی بھیجنے کے لیے اطلاعات اور صحیح الارم ضروری ہیں؛ بیٹری کی پابندیاں بند کرنے سے ایپ بند یا پس منظر میں ہونے پر یاددہانی وقت پر آتی ہے۔",
     "notification_assignment_due_channel_description": "اسائنمنٹ کی آخری تاریخ سے پہلے آپ کو یاد دلاتا ہے",
     "notification_assignment_due_channel_name": "اسائنمنٹ کی آخری تاریخ کے یاددہانی",
+    "notification_bulletin_channel_description": "آپ کی سبسکرپشنز سے مطابقت رکھنے والے NTUST بلیٹنز کی ریئل ٹائم پش اطلاع",
+    "notification_bulletin_channel_name": "اسکول بلیٹنز",
     "notification_class_preparing_channel_description": "ہر کلاس شروع ہونے سے پہلے یاددہانی بھیجتا ہے",
     "notification_class_preparing_channel_name": "کلاس کی تیاری کے یاددہانی",
     "permission_battery_optimization_description": "سسٹم کی بیٹری/پس منظر کی ترتیبات میں TigerDuck کو غیر محدود (یا پس منظر کی سرگرمی پر پابندی نہ لگائیں) پر سیٹ کریں تاکہ یاددہانی میں تاخیر کم ہو۔",

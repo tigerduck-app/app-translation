@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Ang mga notification at tumpak na alarma ay kailangan para maihatid ang mga paalala; ang pag-disable ng paghihigpit sa baterya ay tumutulong na makarating sa tamang oras ang mga paalala kahit naka-close o nasa background ang app.",
     "notification_assignment_due_channel_description": "Nagpapaalala sa iyo bago mag-due ang takdang-aralin",
     "notification_assignment_due_channel_name": "Mga paalala sa takdang-aralin",
+    "notification_bulletin_channel_description": "Real-time na push para sa mga bagong bulletin ng NTUST na tumutugma sa iyong mga subscription",
+    "notification_bulletin_channel_name": "Mga bulletin ng paaralan",
     "notification_class_preparing_channel_description": "Nagpapadala ng paalala bago magsimula ang bawat klase",
     "notification_class_preparing_channel_name": "Mga paalala bago mag-klase",
     "permission_battery_optimization_description": "Sa mga setting ng baterya/background ng sistema, itakda ang TigerDuck bilang walang paghihigpit (o huwag limitahan ang background activity) para mabawasan ang pagkaantala ng mga paalala.",

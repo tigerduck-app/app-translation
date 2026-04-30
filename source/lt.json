@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Pranešimai ir tikslūs signalai reikalingi priminimiams pristatyti; akumuliatoriaus apribojimų išjungimas padeda priminimai laiku pasiekti, kai programa uždaryta arba veikia fone.",
     "notification_assignment_due_channel_description": "Primena prieš pasibaigiant užduočių terminui",
     "notification_assignment_due_channel_name": "Užduočių terminų priminimai",
+    "notification_bulletin_channel_description": "Realaus laiko push pranešimai apie naujus NTUST biuletenius, atitinkančius jūsų prenumeratas",
+    "notification_bulletin_channel_name": "Mokyklos biuleteniai",
     "notification_class_preparing_channel_description": "Siunčia priminimus prieš kiekvienos paskaitos pradžią",
     "notification_class_preparing_channel_name": "Paskaitų pradžios priminimai",
     "permission_battery_optimization_description": "Sistemos akumuliatoriaus / fono nustatymuose nustatykite TigerDuck kaip neapribotą (arba neribokite fono veiklos), kad sumažintumėte priminimų vėlavimą.",

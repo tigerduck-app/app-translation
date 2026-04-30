@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Сповіщення та точні будильники потрібні для доставки нагадувань; вимкнення обмежень акумулятора допомагає нагадуванням надходити вчасно, коли застосунок закрито або працює у фоні.",
     "notification_assignment_due_channel_description": "Нагадує про наближення дедлайну завдань",
     "notification_assignment_due_channel_name": "Нагадування про дедлайн завдань",
+    "notification_bulletin_channel_description": "Сповіщення в реальному часі про нові бюлетені NTUST, що відповідають вашим підпискам",
+    "notification_bulletin_channel_name": "Шкільні бюлетені",
     "notification_class_preparing_channel_description": "Надсилає нагадування перед початком кожного заняття",
     "notification_class_preparing_channel_name": "Нагадування про початок заняття",
     "permission_battery_optimization_description": "У системних налаштуваннях акумулятора/фонової активності встановіть для TigerDuck режим без обмежень (або не обмежуйте фонову активність), щоб зменшити затримки нагадувань.",

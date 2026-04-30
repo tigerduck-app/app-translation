@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Powiadomienia oraz dokładne alarmy są wymagane do dostarczania przypomnień; wyłączenie ograniczeń baterii pomaga przypomnieniom docierać na czas, gdy aplikacja jest zamknięta lub działa w tle.",
     "notification_assignment_due_channel_description": "Przypomina przed terminem oddania zadań",
     "notification_assignment_due_channel_name": "Przypomnienia o terminach zadań",
+    "notification_bulletin_channel_description": "Powiadomienia w czasie rzeczywistym o nowych biuletynach NTUST pasujących do Twoich subskrypcji",
+    "notification_bulletin_channel_name": "Biuletyny szkolne",
     "notification_class_preparing_channel_description": "Wysyła przypomnienia przed rozpoczęciem każdych zajęć",
     "notification_class_preparing_channel_name": "Przypomnienia o nadchodzących zajęciach",
     "permission_battery_optimization_description": "W systemowych ustawieniach baterii/aktywności w tle ustawić TigerDuck jako bez ograniczeń (lub nie ograniczać aktywności w tle), aby zmniejszyć opóźnienia przypomnień.",

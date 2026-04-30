@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "การแจ้งเตือนและการแจ้งเตือนแบบแม่นยำจำเป็นสำหรับการส่งการเตือนความจำ การปิดข้อจำกัดของแบตเตอรี่จะช่วยให้การแจ้งเตือนมาถึงตรงเวลาเมื่อปิดแอปหรือทำงานเบื้องหลัง",
     "notification_assignment_due_channel_description": "แจ้งเตือนคุณก่อนที่การบ้านจะครบกำหนด",
     "notification_assignment_due_channel_name": "การแจ้งเตือนการบ้านใกล้ครบกำหนด",
+    "notification_bulletin_channel_description": "การแจ้งเตือนแบบเรียลไทม์สำหรับประกาศ NTUST ใหม่ที่ตรงกับการสมัครรับข้อมูลของคุณ",
+    "notification_bulletin_channel_name": "ประกาศของโรงเรียน",
     "notification_class_preparing_channel_description": "ส่งการแจ้งเตือนก่อนเริ่มเรียนแต่ละคาบ",
     "notification_class_preparing_channel_name": "การแจ้งเตือนก่อนเข้าเรียน",
     "permission_battery_optimization_description": "ในการตั้งค่าแบตเตอรี่/การทำงานเบื้องหลังของระบบ ให้ตั้งค่า TigerDuck เป็นไม่จำกัด (หรือไม่จำกัดการทำงานเบื้องหลัง) เพื่อลดความล่าช้าของการแจ้งเตือน",

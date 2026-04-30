@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Notificările și alarmele exacte sunt necesare pentru a livra remindere; dezactivarea restricțiilor de baterie ajută reminderele să ajungă la timp când aplicația este închisă sau în fundal.",
     "notification_assignment_due_channel_description": "Te reamintește înainte ca temele să expire",
     "notification_assignment_due_channel_name": "Remindere teme scadente",
+    "notification_bulletin_channel_description": "Notificări push în timp real pentru noile buletine NTUST care corespund abonamentelor dvs.",
+    "notification_bulletin_channel_name": "Buletine școlare",
     "notification_class_preparing_channel_description": "Trimite remindere înainte de începerea fiecărui curs",
     "notification_class_preparing_channel_name": "Remindere pregătire curs",
     "permission_battery_optimization_description": "În setările bateriei/fundalului sistemului, setează TigerDuck ca nerestricționat (sau nu restricționa activitatea în fundal) pentru a reduce întârzierile reminderelor.",

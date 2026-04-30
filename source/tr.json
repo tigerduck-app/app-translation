@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Hatırlatıcıları iletmek için bildirimler ve tam zamanlı alarmlar gereklidir; pil kısıtlamalarını devre dışı bırakmak, uygulama kapalı veya arka planda olduğunda hatırlatıcıların zamanında ulaşmasına yardımcı olur.",
     "notification_assignment_due_channel_description": "Ödevlerin teslim tarihinden önce sizi uyarır",
     "notification_assignment_due_channel_name": "Ödev teslim hatırlatıcıları",
+    "notification_bulletin_channel_description": "Aboneliklerinizle eşleşen yeni NTUST bültenleri için gerçek zamanlı push bildirimleri",
+    "notification_bulletin_channel_name": "Okul bültenleri",
     "notification_class_preparing_channel_description": "Her ders başlamadan önce hatırlatma gönderir",
     "notification_class_preparing_channel_name": "Ders başlangıç hatırlatıcıları",
     "permission_battery_optimization_description": "Sistem pil/arka plan ayarlarında, hatırlatıcı gecikmelerini azaltmak için TigerDuck'ı kısıtlanmamış olarak ayarlayın (veya arka plan etkinliğini kısıtlamayın).",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "স্মরণিকা পাঠাতে বিজ্ঞপ্তি ও নির্দিষ্ট অ্যালার্ম প্রয়োজন; ব্যাটারি সীমাবদ্ধতা বন্ধ করলে অ্যাপ বন্ধ বা ব্যাকগ্রাউন্ডে থাকলেও স্মরণিকা সময়মতো আসে।",
     "notification_assignment_due_channel_description": "অ্যাসাইনমেন্টের সময়সীমা আসার আগে আপনাকে স্মরণ করিয়ে দেয়",
     "notification_assignment_due_channel_name": "অ্যাসাইনমেন্টের সময়সীমা স্মরণিকা",
+    "notification_bulletin_channel_description": "আপনার সাবস্ক্রিপশনের সাথে মিলে যাওয়া নতুন NTUST বুলেটিনের জন্য রিয়েল-টাইম পুশ",
+    "notification_bulletin_channel_name": "স্কুল বুলেটিন",
     "notification_class_preparing_channel_description": "প্রতিটি ক্লাস শুরুর আগে স্মরণিকা পাঠায়",
     "notification_class_preparing_channel_name": "ক্লাস শুরুর স্মরণিকা",
     "permission_battery_optimization_description": "সিস্টেমের ব্যাটারি/ব্যাকগ্রাউন্ড সেটিংসে TigerDuck-কে অসীমাবদ্ধ রাখুন (বা ব্যাকগ্রাউন্ড কার্যকলাপ সীমাবদ্ধ করবেন না) যাতে স্মরণিকার বিলম্ব কমে।",

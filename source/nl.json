@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Meldingen en exacte alarmen zijn vereist om herinneringen te leveren; het uitschakelen van batterijbeperkingen helpt herinneringen op tijd te ontvangen wanneer de app gesloten is of op de achtergrond draait.",
     "notification_assignment_due_channel_description": "Herinnert je voordat opdrachten verlopen",
     "notification_assignment_due_channel_name": "Herinneringen voor opdrachtdeadlines",
+    "notification_bulletin_channel_description": "Realtime push voor nieuwe NTUST-bulletins die overeenkomen met uw abonnementen",
+    "notification_bulletin_channel_name": "Schoolbulletins",
     "notification_class_preparing_channel_description": "Stuurt herinneringen voordat elke les begint",
     "notification_class_preparing_channel_name": "Herinneringen voor lessen die zo beginnen",
     "permission_battery_optimization_description": "Stel TigerDuck in de batterij-/achtergrondinstellingen van het systeem in op onbeperkt (of beperk de achtergrondactiviteit niet) om vertragingen bij herinneringen te verminderen.",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Tilkynningar og nákvæmar virkjar eru nauðsynlegar til að senda áminningar; að slökkva á rafhlöðutakmörkunum hjálpar áminningum að berast á réttum tíma þegar forritið er lokað eða í bakgrunni.",
     "notification_assignment_due_channel_description": "Minnir þig á verkefni sem er að renna út",
     "notification_assignment_due_channel_name": "Verkefnaáminningar",
+    "notification_bulletin_channel_description": "Rauntíma push tilkynningar fyrir nýjar NTUST tilkynningar sem passa við áskriftir þínar",
+    "notification_bulletin_channel_name": "Skólabréf",
     "notification_class_preparing_channel_description": "Sendir áminningu áður en hver tími byrjar",
     "notification_class_preparing_channel_name": "Áminningar um komandi tíma",
     "permission_battery_optimization_description": "Í rafhlöðu-/bakgrunnsstillingum kerfisins skaltu stilla TigerDuck á ótakmarkað (eða ekki takmarka bakgrunnsstarfsemi) til að draga úr seinkun á áminningum.",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Notificações e alarmes exatos são necessários para entregar lembretes; desativar restrições de bateria ajuda os lembretes a chegarem na hora certa quando o app está fechado ou em segundo plano.",
     "notification_assignment_due_channel_description": "Avisa você antes do prazo das atividades",
     "notification_assignment_due_channel_name": "Lembretes de prazo de atividades",
+    "notification_bulletin_channel_description": "Notificações em tempo real para novos boletins da NTUST que correspondem às suas assinaturas",
+    "notification_bulletin_channel_name": "Boletins escolares",
     "notification_class_preparing_channel_description": "Envia lembretes antes do início de cada aula",
     "notification_class_preparing_channel_name": "Lembretes de início de aula",
     "permission_battery_optimization_description": "Nas configurações de bateria/segundo plano do sistema, defina o TigerDuck como sem restrições (ou não restrinja a atividade em segundo plano) para reduzir atrasos nos lembretes.",

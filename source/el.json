@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Οι ειδοποιήσεις και οι ακριβείς συναγερμοί απαιτούνται για την παράδοση υπενθυμίσεων· η απενεργοποίηση περιορισμών μπαταρίας βοηθά τις υπενθυμίσεις να φτάνουν έγκαιρα όταν η εφαρμογή είναι κλειστή ή στο παρασκήνιο.",
     "notification_assignment_due_channel_description": "Σας υπενθυμίζει πριν λήξει η προθεσμία εργασίας",
     "notification_assignment_due_channel_name": "Υπενθυμίσεις λήξης εργασίας",
+    "notification_bulletin_channel_description": "Push ειδοποιήσεις σε πραγματικό χρόνο για νέα δελτία NTUST που ταιριάζουν στις συνδρομές σας",
+    "notification_bulletin_channel_name": "Σχολικά δελτία",
     "notification_class_preparing_channel_description": "Αποστέλλει υπενθυμίσεις πριν από κάθε μάθημα",
     "notification_class_preparing_channel_name": "Υπενθυμίσεις έναρξης μαθήματος",
     "permission_battery_optimization_description": "Στις ρυθμίσεις μπαταρίας/παρασκηνίου του συστήματος, ορίστε το TigerDuck ως χωρίς περιορισμούς (ή μην περιορίζετε τη δραστηριότητα παρασκηνίου) για να μειώσετε καθυστερήσεις υπενθυμίσεων.",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "రిమైండర్లు పంపించడానికి నోటిఫికేషన్లు మరియు ఖచ్చితమైన అలారంలు అవసరం; బ్యాటరీ పరిమితులు తీసివేయడం వల్ల యాప్ మూసివేసినా లేదా బ్యాక్‌గ్రౌండ్‌లో ఉన్నా రిమైండర్లు సమయానికి వస్తాయి.",
     "notification_assignment_due_channel_description": "అసైన్‌మెంట్ గడువు సమీపిస్తే మీకు గుర్తు చేస్తుంది",
     "notification_assignment_due_channel_name": "అసైన్‌మెంట్ గడువు రిమైండర్లు",
+    "notification_bulletin_channel_description": "మీ సభ్యత్వాలకు సరిపోయే కొత్త NTUST బులెటిన్‌లకు రియల్-టైమ్ పుష్",
+    "notification_bulletin_channel_name": "పాఠశాల బులెటిన్‌లు",
     "notification_class_preparing_channel_description": "ప్రతి తరగతి మొదలవడానికి ముందు రిమైండర్ పంపిస్తుంది",
     "notification_class_preparing_channel_name": "తరగతి ప్రారంభ రిమైండర్లు",
     "permission_battery_optimization_description": "సిస్టమ్ బ్యాటరీ/బ్యాక్‌గ్రౌండ్ సెట్టింగ్స్‌లో TigerDuck ని అపరిమిత (లేదా బ్యాక్‌గ్రౌండ్ యాక్టివిటీని పరిమితం చేయవద్దు) గా సెట్ చేయండి, రిమైండర్ ఆలస్యాలు తగ్గించడానికి.",

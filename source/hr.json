@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Obavijesti i precizni alarmi potrebni su za dostavljanje podsjetnika; onemogućavanje ograničenja baterije pomaže podsjetnicima da stignu na vrijeme kada je aplikacija zatvorena ili u pozadini.",
     "notification_assignment_due_channel_description": "Podsjeća Vas prije isteka roka zadatka",
     "notification_assignment_due_channel_name": "Podsjetnici za zadatke",
+    "notification_bulletin_channel_description": "Push obavijesti u stvarnom vremenu za nove NTUST biltene koji odgovaraju vašim pretplatama",
+    "notification_bulletin_channel_name": "Školski bilteni",
     "notification_class_preparing_channel_description": "Šalje podsjetnike prije početka svakog predavanja",
     "notification_class_preparing_channel_name": "Podsjetnici za predavanja",
     "permission_battery_optimization_description": "U postavkama baterije/pozadinske aktivnosti, postavite TigerDuck na neograničeno (ili ne ograničavajte pozadinsku aktivnost) kako biste smanjili kašnjenje podsjetnika.",

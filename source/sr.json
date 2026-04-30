@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Обавештења и тачни аларми су неопходни за слање подсетника; онемогућавање ограничења батерије помаже подсетницима да стижу на вријеме кад је апликација затворена или у позадини.",
     "notification_assignment_due_channel_description": "Подсећа Вас пре истека рока задатка",
     "notification_assignment_due_channel_name": "Подсетници за рок задатка",
+    "notification_bulletin_channel_description": "Push obaveštenja u realnom vremenu za nove NTUST biltene koji odgovaraju vašim pretplatama",
+    "notification_bulletin_channel_name": "Школски билтени",
     "notification_class_preparing_channel_description": "Шаље подсетнике пре почетка сваког часа",
     "notification_class_preparing_channel_name": "Подсетници за почетак часа",
     "permission_battery_optimization_description": "У системским поставкама батерије/позадинских активности поставите TigerDuck на неограничено (или не ограничавајте позадинску активност) да бисте смањили кашњење подсетника.",

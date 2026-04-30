@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Az értesítések és a pontos ébresztők szükségesek az emlékeztetők küldéséhez; az akkumulátor-korlátozások letiltása segít abban, hogy az emlékeztetők időben megérkezzenek, amikor az alkalmazás be van zárva vagy a háttérben fut.",
     "notification_assignment_due_channel_description": "Emlékeztet a házi feladat közelgő határidejére",
     "notification_assignment_due_channel_name": "Házi feladat határidő emlékeztetők",
+    "notification_bulletin_channel_description": "Valós idejű push értesítések az előfizetéseinek megfelelő új NTUST értesítőkről",
+    "notification_bulletin_channel_name": "Iskolai értesítők",
     "notification_class_preparing_channel_description": "Emlékeztetőt küld minden óra kezdete előtt",
     "notification_class_preparing_channel_name": "Órakezdés emlékeztetők",
     "permission_battery_optimization_description": "A rendszer akkumulátor/háttér beállításaiban állítsa a TigerDuck alkalmazást korlátozás nélkülire (vagy ne korlátozza a háttértevékenységet) az emlékeztetők késésének csökkentése érdekében.",

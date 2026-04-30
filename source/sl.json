@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Za dostavo opomnikov so potrebna obvestila in natančni alarmi; onemogočanje omejitev baterije pomaga, da opomniki prispejo pravočasno, ko je aplikacija zaprta ali v ozadju.",
     "notification_assignment_due_channel_description": "Opomni vas, preden poteče rok naloge",
     "notification_assignment_due_channel_name": "Opomniki za rok naloge",
+    "notification_bulletin_channel_description": "Push obvestila v realnem času za nove biltene NTUST, ki ustrezajo vašim naročninam",
+    "notification_bulletin_channel_name": "Šolski bilteni",
     "notification_class_preparing_channel_description": "Pošlje opomnik pred začetkom vsake ure",
     "notification_class_preparing_channel_name": "Opomniki za začetek ure",
     "permission_battery_optimization_description": "V sistemskih nastavitvah baterije/ozadja nastavite TigerDuck na neomejeno (ali ne omejujte dejavnosti v ozadju), da zmanjšate zamude pri opomnikih.",

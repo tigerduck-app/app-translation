@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "अनुस्मारक देने के लिए नोटिफिकेशन और सटीक अलार्म आवश्यक हैं; बैटरी प्रतिबंध अक्षम करने से ऐप बंद या बैकग्राउंड में होने पर भी अनुस्मारक समय पर आते हैं।",
     "notification_assignment_due_channel_description": "असाइनमेंट की देय तिथि से पहले आपको याद दिलाता है",
     "notification_assignment_due_channel_name": "असाइनमेंट की देय तिथि के अनुस्मारक",
+    "notification_bulletin_channel_description": "आपकी सदस्यताओं से मेल खाने वाले नए NTUST बुलेटिन के लिए रीयल-टाइम पुश",
+    "notification_bulletin_channel_name": "स्कूल बुलेटिन",
     "notification_class_preparing_channel_description": "हर कक्षा शुरू होने से पहले अनुस्मारक भेजता है",
     "notification_class_preparing_channel_name": "कक्षा तैयारी अनुस्मारक",
     "permission_battery_optimization_description": "सिस्टम बैटरी/बैकग्राउंड सेटिंग में TigerDuck को अप्रतिबंधित (या बैकग्राउंड गतिविधि को प्रतिबंधित न करें) पर सेट करें ताकि अनुस्मारक में देरी कम हो।",

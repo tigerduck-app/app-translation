@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "通知与精确闹钟为发送提醒的必要条件；关闭省电限制可确保 App 关闭或背景时仍能准时提醒。",
     "notification_assignment_due_channel_description": "提醒你作业即将到期",
     "notification_assignment_due_channel_name": "作业到期提醒",
+    "notification_bulletin_channel_description": "符合您订阅规则的台湾科技大学公告实时推送",
+    "notification_bulletin_channel_name": "校园公告",
     "notification_class_preparing_channel_description": "在每堂课开始前依设置的时间送出提醒",
     "notification_class_preparing_channel_name": "即将上课提醒",
     "permission_battery_optimization_description": "建议在系统的电池/背景活动设置中，将 TigerDuck 设为不受限制（或不要限制背景活动），以降低提醒延迟。",

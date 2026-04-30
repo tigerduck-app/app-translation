@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "રિમાઇન્ડર ડિલિવર કરવા નોટિફિકેશન અને ચોક્કસ એલાર્મ જરૂરી છે; બૅટરી પ્રતિબંધ બંધ કરવાથી App બંધ કે બૅકગ્રાઉન્ડ હોય ત્યારે પણ સમયસર રિમાઇન્ડર મળે.",
     "notification_assignment_due_channel_description": "અસાઇનમેન્ટ ડ્યૂ થાય તે પહેલાં તમને યાદ અપાવે છે",
     "notification_assignment_due_channel_name": "અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર",
+    "notification_bulletin_channel_description": "તમારી સદસ્યતા સાથે મેળ ખાતા નવા NTUST બુલેટિન માટે રીઅલ-ટાઇમ પુશ",
+    "notification_bulletin_channel_name": "શાળા બુલેટિન",
     "notification_class_preparing_channel_description": "દરેક ક્લાસ શરૂ થાય તે પહેલાં રિમાઇન્ડર મોકલે છે",
     "notification_class_preparing_channel_name": "ક્લાસ તૈયારી રિમાઇન્ડર",
     "permission_battery_optimization_description": "સિસ્ટમ બૅટરી/બૅકગ્રાઉન્ડ સેટિંગ્સમાં TigerDuck ને અપ્રતિબંધિત (અથવા બૅકગ્રાઉન્ડ પ્રવૃત્તિ ન રોકો) પર સેટ કરો, જેથી રિમાઇન્ડર વિલંબ ઘટે.",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "ਰੀਮਾਈਂਡਰ ਭੇਜਣ ਲਈ ਸੂਚਨਾਵਾਂ ਅਤੇ ਸਟੀਕ ਅਲਾਰਮ ਲੋੜੀਂਦੇ ਹਨ; ਬੈਟਰੀ ਪਾਬੰਦੀਆਂ ਅਯੋਗ ਕਰਨ ਨਾਲ ਐਪ ਬੰਦ ਜਾਂ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਹੋਣ 'ਤੇ ਵੀ ਰੀਮਾਈਂਡਰ ਸਮੇਂ 'ਤੇ ਪਹੁੰਚਦੇ ਹਨ।",
     "notification_assignment_due_channel_description": "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਪੁੱਗਣ ਤੋਂ ਪਹਿਲਾਂ ਯਾਦ ਦਿਵਾਉਂਦਾ ਹੈ",
     "notification_assignment_due_channel_name": "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ",
+    "notification_bulletin_channel_description": "ਤੁਹਾਡੀਆਂ ਗਾਹਕੀਆਂ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਨਵੇਂ NTUST ਬੁਲੇਟਿਨਾਂ ਲਈ ਰੀਅਲ-ਟਾਈਮ ਪੁਸ਼",
+    "notification_bulletin_channel_name": "ਸਕੂਲ ਬੁਲੇਟਿਨ",
     "notification_class_preparing_channel_description": "ਹਰ ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਰੀਮਾਈਂਡਰ ਭੇਜਦਾ ਹੈ",
     "notification_class_preparing_channel_name": "ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਦੇ ਰੀਮਾਈਂਡਰ",
     "permission_battery_optimization_description": "ਸਿਸਟਮ ਬੈਟਰੀ/ਬੈਕਗ੍ਰਾਊਂਡ ਸੈਟਿੰਗਾਂ ਵਿੱਚ TigerDuck ਨੂੰ ਅਣਸੀਮਿਤ ਕਰੋ (ਜਾਂ ਬੈਕਗ੍ਰਾਊਂਡ ਗਤੀਵਿਧੀ ਨਾ ਰੋਕੋ) ਤਾਂ ਜੋ ਰੀਮਾਈਂਡਰ ਵਿੱਚ ਦੇਰੀ ਘੱਟ ਹੋਵੇ।",

@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "ഓർമ്മപ്പെടുത്തലുകൾ നൽകാൻ അറിയിപ്പുകൾ, കൃത്യ അലാറങ്ങൾ ആവശ്യമാണ്; ബാറ്ററി നിയന്ത്രണം ഓഫ് ചെയ്യുന്നത് ആപ്പ് അടച്ചോ പശ്ചാത്തലത്തിലോ ഉള്ളപ്പോഴും ഓർമ്മപ്പെടുത്തൽ സമയത്ത് ലഭിക്കാൻ സഹായിക്കുന്നു.",
     "notification_assignment_due_channel_description": "അസൈൻമെന്റ് സമയം അടുക്കുമ്പോൾ ഓർമ്മപ്പെടുത്തും",
     "notification_assignment_due_channel_name": "അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തലുകൾ",
+    "notification_bulletin_channel_description": "നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്‌ഷനുകളുമായി പൊരുത്തപ്പെടുന്ന പുതിയ NTUST ബുള്ളറ്റിനുകൾക്ക് റിയൽ-ടൈം പുഷ്",
+    "notification_bulletin_channel_name": "സ്കൂൾ ബുള്ളറ്റിനുകൾ",
     "notification_class_preparing_channel_description": "ഓരോ ക്ലാസ് ആരംഭിക്കുന്നതിന് മുമ്പ് ഓർമ്മപ്പെടുത്തൽ അയയ്ക്കുന്നു",
     "notification_class_preparing_channel_name": "ക്ലാസ് ഒരുക്കം ഓർമ്മപ്പെടുത്തലുകൾ",
     "permission_battery_optimization_description": "ഓർമ്മപ്പെടുത്തൽ കാലതാമസം കുറയ്ക്കാൻ, സിസ്റ്റം ബാറ്ററി/പശ്ചാത്തല ക്രമീകരണങ്ങളിൽ TigerDuck-നെ അൺറെസ്ട്രിക്റ്റഡ് ആക്കുക (അല്ലെങ്കിൽ പശ്ചാത്തല പ്രവർത്തനം നിയന്ത്രിക്കരുത്).",

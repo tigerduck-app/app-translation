@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Meeldetuletuste saatmiseks on vajalikud teavitused ja täpsed alarmid; akupiirangute keelamine aitab meeldetuletustel õigel ajal kohale jõuda, kui rakendus on suletud või taustal.",
     "notification_assignment_due_channel_description": "Tuletab meelde ülesannete lähenevaid tähtaegu",
     "notification_assignment_due_channel_name": "Ülesande tähtaja meeldetuletused",
+    "notification_bulletin_channel_description": "Reaalajas tõuketeated uute NTUST bülletäänide kohta, mis vastavad teie tellimustele",
+    "notification_bulletin_channel_name": "Koolibülletäänid",
     "notification_class_preparing_channel_description": "Saadab meeldetuletuse enne iga tunni algust",
     "notification_class_preparing_channel_name": "Tunni alguse meeldetuletused",
     "permission_battery_optimization_description": "Seadke TigerDuck süsteemi aku/taustatöö seadetes piiramatuks (või ärge piirake taustatöid), et vähendada meeldetuletuste hilinemist.",

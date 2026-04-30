@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Pemberitahuan dan penggera tepat diperlukan untuk menghantar peringatan; melumpuhkan sekatan bateri membantu peringatan tiba tepat pada masanya apabila aplikasi ditutup atau di latar belakang.",
     "notification_assignment_due_channel_description": "Mengingatkan anda sebelum tugasan tamat tempoh",
     "notification_assignment_due_channel_name": "Peringatan tugasan hampir tamat",
+    "notification_bulletin_channel_description": "Push masa nyata untuk buletin NTUST baharu yang sepadan dengan langganan anda",
+    "notification_bulletin_channel_name": "Buletin sekolah",
     "notification_class_preparing_channel_description": "Menghantar peringatan sebelum setiap kelas bermula",
     "notification_class_preparing_channel_name": "Peringatan kelas akan bermula",
     "permission_battery_optimization_description": "Dalam tetapan bateri/latar belakang sistem, tetapkan TigerDuck kepada tidak terhad (atau jangan hadkan aktiviti latar belakang) untuk mengurangkan kelewatan peringatan.",

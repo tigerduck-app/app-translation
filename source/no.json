@@ -507,6 +507,8 @@
     "live_activity_settings_permissions_hint": "Varsler og nøyaktige alarmer er nødvendige for å levere påminnelser; deaktivering av batteribegrensninger hjelper påminnelser med å komme frem i tide når appen er lukket eller i bakgrunnen.",
     "notification_assignment_due_channel_description": "Minner deg på at oppgaver snart forfaller",
     "notification_assignment_due_channel_name": "Påminnelser om innleveringsfrist",
+    "notification_bulletin_channel_description": "Sanntidspush for nye NTUST-bulletiner som samsvarer med abonnementene dine",
+    "notification_bulletin_channel_name": "Skolebulletiner",
     "notification_class_preparing_channel_description": "Sender påminnelser før hver time starter",
     "notification_class_preparing_channel_name": "Påminnelser om kommende timer",
     "permission_battery_optimization_description": "I systemets batteri-/bakgrunnsinnstillinger setter du TigerDuck til ubegrenset (eller ikke begrens bakgrunnsaktivitet) for å redusere forsinkelser i påminnelser.",
