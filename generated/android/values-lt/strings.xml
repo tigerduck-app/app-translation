@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Atstatyti kursų spalvas</string>
     <string name="settings_reset_course_colors_confirm_message">Tvarkaraščio spalvos bus atsitiktinai iš naujo priskirtos naudojant numatytąsias spalvas.</string>
     <string name="settings_reset_course_colors_confirm_title">Atstatyti tvarkaraščio spalvas?</string>
+    <string name="settings_section_abbreviation">Santrumpos</string>
     <string name="settings_section_about">Apie</string>
     <string name="settings_section_account">Paskyra</string>
     <string name="settings_section_custom">Pritaikymas</string>

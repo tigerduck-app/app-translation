@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Nollaa kurssivärit</string>
     <string name="settings_reset_course_colors_confirm_message">Tämä jakaa satunnaisesti uudelleen lukujärjestyksen värit oletusasetuksilla.</string>
     <string name="settings_reset_course_colors_confirm_title">Nollatko lukujärjestyksen värit?</string>
+    <string name="settings_section_abbreviation">Lyhenteet</string>
     <string name="settings_section_about">Tietoja</string>
     <string name="settings_section_account">Tili</string>
     <string name="settings_section_custom">Mukauttaminen</string>

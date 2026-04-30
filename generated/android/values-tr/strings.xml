@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Ders renklerini sıfırla</string>
     <string name="settings_reset_course_colors_confirm_message">Bu işlem, ders programı renklerini varsayılan ön ayarları kullanarak rastgele yeniden atayacaktır.</string>
     <string name="settings_reset_course_colors_confirm_title">Ders programı renkleri sıfırlansın mı?</string>
+    <string name="settings_section_abbreviation">Kısaltmalar</string>
     <string name="settings_section_about">Hakkında</string>
     <string name="settings_section_account">Hesap</string>
     <string name="settings_section_custom">Kişiselleştirme</string>

@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">வகுப்பு நிறங்களை மீட்டமை</string>
     <string name="settings_reset_course_colors_confirm_message">இது இயல்புநிலை முன்னமைவுகளைப் பயன்படுத்தி வகுப்பு அட்டவணை நிறங்களை சீரற்று மீண்டும் ஒதுக்கும்.</string>
     <string name="settings_reset_course_colors_confirm_title">வகுப்பு அட்டவணை நிறங்களை மீட்டமைக்கவா?</string>
+    <string name="settings_section_abbreviation">சுருக்கங்கள்</string>
     <string name="settings_section_about">பற்றி</string>
     <string name="settings_section_account">கணக்கு</string>
     <string name="settings_section_custom">தனிப்பயனாக்கம்</string>

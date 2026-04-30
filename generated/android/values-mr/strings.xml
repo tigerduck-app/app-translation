@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">अभ्यासक्रम रंग रीसेट करा</string>
     <string name="settings_reset_course_colors_confirm_message">हे डीफॉल्ट पूर्वनिर्धारित रंग वापरून वर्ग वेळापत्रक रंग यादृच्छिकपणे पुन्हा नियुक्त करेल.</string>
     <string name="settings_reset_course_colors_confirm_title">वर्ग वेळापत्रक रंग रीसेट करायचे का?</string>
+    <string name="settings_section_abbreviation">संक्षेप</string>
     <string name="settings_section_about">बद्दल</string>
     <string name="settings_section_account">खाते</string>
     <string name="settings_section_custom">सानुकूलन</string>

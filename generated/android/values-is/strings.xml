@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Endurstilla liti stundaskrár</string>
     <string name="settings_reset_course_colors_confirm_message">Þetta mun úthluta litum stundaskrár af handahófi með sjálfgefnum forstillingum.</string>
     <string name="settings_reset_course_colors_confirm_title">Endurstilla liti stundaskrár?</string>
+    <string name="settings_section_abbreviation">Skammstafanir</string>
     <string name="settings_section_about">Um</string>
     <string name="settings_section_account">Reikningur</string>
     <string name="settings_section_custom">Sérstilling</string>

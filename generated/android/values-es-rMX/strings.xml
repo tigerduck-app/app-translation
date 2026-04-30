@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Restablecer colores de cursos</string>
     <string name="settings_reset_course_colors_confirm_message">Esto reasignará aleatoriamente los colores del horario de clases usando los valores predefinidos.</string>
     <string name="settings_reset_course_colors_confirm_title">¿Restablecer los colores del horario de clases?</string>
+    <string name="settings_section_abbreviation">Abreviaturas</string>
     <string name="settings_section_about">Acerca de</string>
     <string name="settings_section_account">Cuenta</string>
     <string name="settings_section_custom">Personalización</string>

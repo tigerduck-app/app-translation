@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Repor cores das cadeiras</string>
     <string name="settings_reset_course_colors_confirm_message">Isto vai reatribuir aleatoriamente as cores do horário das aulas usando as predefinições.</string>
     <string name="settings_reset_course_colors_confirm_title">Repor as cores do horário das aulas?</string>
+    <string name="settings_section_abbreviation">Abreviações</string>
     <string name="settings_section_about">Acerca</string>
     <string name="settings_section_account">Conta</string>
     <string name="settings_section_custom">Personalização</string>

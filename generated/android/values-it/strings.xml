@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Ripristina colori corsi</string>
     <string name="settings_reset_course_colors_confirm_message">Questo riassegnerà casualmente i colori dell\'orario delle lezioni utilizzando i predefiniti.</string>
     <string name="settings_reset_course_colors_confirm_title">Ripristinare i colori dell\'orario delle lezioni?</string>
+    <string name="settings_section_abbreviation">Abbreviazioni</string>
     <string name="settings_section_about">Informazioni</string>
     <string name="settings_section_account">Account</string>
     <string name="settings_section_custom">Personalizzazione</string>

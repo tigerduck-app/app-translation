@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Kurzus színek visszaállítása</string>
     <string name="settings_reset_course_colors_confirm_message">Ez véletlenszerűen újra hozzárendeli az órarend színeit az alapértelmezett készlet alapján.</string>
     <string name="settings_reset_course_colors_confirm_title">Visszaállítja az órarend színeit?</string>
+    <string name="settings_section_abbreviation">Rövidítések</string>
     <string name="settings_section_about">Névjegy</string>
     <string name="settings_section_account">Fiók</string>
     <string name="settings_section_custom">Testreszabás</string>

@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Resetiraj boje kolegija</string>
     <string name="settings_reset_course_colors_confirm_message">Ovo će nasumično preraspodijeliti boje rasporeda koristeći zadane presets.</string>
     <string name="settings_reset_course_colors_confirm_title">Resetirati boje rasporeda?</string>
+    <string name="settings_section_abbreviation">Kratice</string>
     <string name="settings_section_about">O aplikaciji</string>
     <string name="settings_section_account">Račun</string>
     <string name="settings_section_custom">Prilagodba</string>

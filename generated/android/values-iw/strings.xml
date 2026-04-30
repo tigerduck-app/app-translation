@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">אפס צבעי קורסים</string>
     <string name="settings_reset_course_colors_confirm_message">פעולה זו תקצה מחדש באופן אקראי את צבעי מערכת השעות תוך שימוש בערכות צבעים ברירת מחדל.</string>
     <string name="settings_reset_course_colors_confirm_title">לאפס את צבעי מערכת השעות?</string>
+    <string name="settings_section_abbreviation">קיצורים</string>
     <string name="settings_section_about">אודות</string>
     <string name="settings_section_account">חשבון</string>
     <string name="settings_section_custom">התאמה אישית</string>

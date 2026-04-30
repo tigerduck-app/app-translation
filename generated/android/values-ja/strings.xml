@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">時間割の色をリセット</string>
     <string name="settings_reset_course_colors_confirm_message">デフォルトのプリセットを使って、時間割の色をランダムに再割り当てします。</string>
     <string name="settings_reset_course_colors_confirm_title">時間割の色をリセットしますか？</string>
+    <string name="settings_section_abbreviation">略称</string>
     <string name="settings_section_about">について</string>
     <string name="settings_section_account">アカウント</string>
     <string name="settings_section_custom">カスタマイズ</string>

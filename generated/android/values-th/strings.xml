@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">รีเซ็ตสีรายวิชา</string>
     <string name="settings_reset_course_colors_confirm_message">การกระทำนี้จะสุ่มกำหนดสีของตารางเรียนใหม่โดยใช้ค่าที่ตั้งไว้ล่วงหน้าตามค่าเริ่มต้น</string>
     <string name="settings_reset_course_colors_confirm_title">รีเซ็ตสีตารางเรียนหรือไม่?</string>
+    <string name="settings_section_abbreviation">ตัวย่อ</string>
     <string name="settings_section_about">เกี่ยวกับ</string>
     <string name="settings_section_account">บัญชี</string>
     <string name="settings_section_custom">ปรับแต่ง</string>

@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Vakkleuren resetten</string>
     <string name="settings_reset_course_colors_confirm_message">Hiermee worden de roosterkleuren willekeurig opnieuw toegewezen op basis van de standaardvoorinstellingen.</string>
     <string name="settings_reset_course_colors_confirm_title">Roosterkleuren resetten?</string>
+    <string name="settings_section_abbreviation">Afkortingen</string>
     <string name="settings_section_about">Over</string>
     <string name="settings_section_account">Account</string>
     <string name="settings_section_custom">Personalisatie</string>

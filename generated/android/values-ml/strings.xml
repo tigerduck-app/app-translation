@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">കോഴ്‌സ് നിറങ്ങൾ പുനഃക്രമീകരിക്കുക</string>
     <string name="settings_reset_course_colors_confirm_message">ഇത് ഡിഫോൾട്ട് presets ഉപയോഗിച്ച് ക്ലാസ് ടൈംടേബിൾ നിറങ്ങൾ ക്രമരഹിതമായി പുനഃനിയോഗിക്കും.</string>
     <string name="settings_reset_course_colors_confirm_title">ക്ലാസ് ടൈംടേബിൾ നിറങ്ങൾ പുനഃക്രമീകരിക്കണോ?</string>
+    <string name="settings_section_abbreviation">ചുരുക്കങ്ങൾ</string>
     <string name="settings_section_about">ആപ്പിനെ കുറിച്ച്</string>
     <string name="settings_section_account">അക്കൗണ്ട്</string>
     <string name="settings_section_custom">ഇഷ്ടാനുസൃതമാക്കൽ</string>
