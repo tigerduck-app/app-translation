@@ -421,7 +421,7 @@
     <string name="settings_color_theme">نسق الألوان</string>
     <string name="settings_feedback_bug_report">ملاحظات / الإبلاغ عن مشكلة</string>
     <string name="settings_invert_slider_direction">عكس اتجاه شريط التمرير</string>
-    <string name="settings_language">اللغة</string>
+    <string name="settings_language">(Language) اللغة</string>
     <string name="settings_language_english">الإنجليزية</string>
     <string name="settings_language_follow_system">اتباع النظام (الإنجليزية كلغة احتياطية)</string>
     <string name="settings_language_traditional_chinese">الصينية التقليدية</string>

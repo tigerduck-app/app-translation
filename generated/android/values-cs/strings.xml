@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Barevný motiv</string>
     <string name="settings_feedback_bug_report">Zpětná vazba / Nahlásit problém</string>
     <string name="settings_invert_slider_direction">Obrátit směr posuvníku</string>
-    <string name="settings_language">Jazyk</string>
+    <string name="settings_language">Jazyk (Language)</string>
     <string name="settings_language_english">Angličtina</string>
     <string name="settings_language_follow_system">Podle systému (záložní angličtina)</string>
     <string name="settings_language_traditional_chinese">Tradiční čínština</string>

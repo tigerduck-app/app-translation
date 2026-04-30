@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Tema warna</string>
     <string name="settings_feedback_bug_report">Maklum balas / Laporkan isu</string>
     <string name="settings_invert_slider_direction">Songsangkan arah gelongsor</string>
-    <string name="settings_language">Bahasa</string>
+    <string name="settings_language">Bahasa (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Ikut sistem (Sandaran: Inggeris)</string>
     <string name="settings_language_traditional_chinese">Cina Tradisional</string>

@@ -477,7 +477,7 @@
 "settings_color_theme" = "Tema de color";
 "settings_feedback_bug_report" = "Comentarios / Reportar problema";
 "settings_invert_slider_direction" = "Invertir dirección del control deslizante";
-"settings_language" = "Idioma";
+"settings_language" = "Idioma (Language)";
 "settings_language_english" = "Inglés";
 "settings_language_follow_system" = "Seguir el sistema (Inglés de respaldo)";
 "settings_language_traditional_chinese" = "Chino tradicional";

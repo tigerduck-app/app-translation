@@ -477,7 +477,7 @@
 "settings_color_theme" = "Színtéma";
 "settings_feedback_bug_report" = "Visszajelzés / Hibabejelentés";
 "settings_invert_slider_direction" = "Csúszka irányának megfordítása";
-"settings_language" = "Nyelv";
+"settings_language" = "Nyelv (Language)";
 "settings_language_english" = "Angol";
 "settings_language_follow_system" = "Rendszer szerint (tartalék: angol)";
 "settings_language_traditional_chinese" = "Hagyományos kínai";

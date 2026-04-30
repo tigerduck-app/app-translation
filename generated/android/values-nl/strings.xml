@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Kleurthema</string>
     <string name="settings_feedback_bug_report">Feedback / Probleem melden</string>
     <string name="settings_invert_slider_direction">Schuifregelaarrichting omkeren</string>
-    <string name="settings_language">Taal</string>
+    <string name="settings_language">Taal (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Systeem volgen (Reserve Engels)</string>
     <string name="settings_language_traditional_chinese">Traditioneel Chinees</string>

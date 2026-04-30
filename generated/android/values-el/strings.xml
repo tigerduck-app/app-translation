@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Θέμα χρωμάτων</string>
     <string name="settings_feedback_bug_report">Σχόλια / Αναφορά προβλήματος</string>
     <string name="settings_invert_slider_direction">Αντιστροφή κατεύθυνσης ρυθμιστικού</string>
-    <string name="settings_language">Γλώσσα</string>
+    <string name="settings_language">Γλώσσα (Language)</string>
     <string name="settings_language_english">Αγγλικά</string>
     <string name="settings_language_follow_system">Ακολουθεί σύστημα (Εφεδρικά Αγγλικά)</string>
     <string name="settings_language_traditional_chinese">Παραδοσιακά Κινεζικά</string>

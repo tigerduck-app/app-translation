@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Színtéma</string>
     <string name="settings_feedback_bug_report">Visszajelzés / Hibabejelentés</string>
     <string name="settings_invert_slider_direction">Csúszka irányának megfordítása</string>
-    <string name="settings_language">Nyelv</string>
+    <string name="settings_language">Nyelv (Language)</string>
     <string name="settings_language_english">Angol</string>
     <string name="settings_language_follow_system">Rendszer szerint (tartalék: angol)</string>
     <string name="settings_language_traditional_chinese">Hagyományos kínai</string>

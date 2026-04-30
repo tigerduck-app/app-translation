@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Цветовая тема</string>
     <string name="settings_feedback_bug_report">Отзыв / Сообщить о проблеме</string>
     <string name="settings_invert_slider_direction">Инвертировать направление ползунка</string>
-    <string name="settings_language">Язык</string>
+    <string name="settings_language">Язык (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Как в системе (резервный: английский)</string>
     <string name="settings_language_traditional_chinese">Традиционный китайский</string>

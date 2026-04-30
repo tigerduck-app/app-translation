@@ -421,7 +421,7 @@
     <string name="settings_color_theme">رنگ تھیم</string>
     <string name="settings_feedback_bug_report">رائے / مسئلہ رپورٹ کریں</string>
     <string name="settings_invert_slider_direction">سلائیڈر کی سمت پلٹائیں</string>
-    <string name="settings_language">زبان</string>
+    <string name="settings_language">(Language) زبان</string>
     <string name="settings_language_english">انگریزی</string>
     <string name="settings_language_follow_system">سسٹم کے مطابق (متبادل: انگریزی)</string>
     <string name="settings_language_traditional_chinese">روایتی چینی</string>

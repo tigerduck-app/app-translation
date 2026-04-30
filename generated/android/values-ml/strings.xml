@@ -421,7 +421,7 @@
     <string name="settings_color_theme">നിറ തീം</string>
     <string name="settings_feedback_bug_report">ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക</string>
     <string name="settings_invert_slider_direction">സ്ലൈഡർ ദിശ നേർമാറ്റം ചെയ്യുക</string>
-    <string name="settings_language">ഭാഷ</string>
+    <string name="settings_language">ഭാഷ (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">സിസ്റ്റം പിന്തുടരുക (ഫാൾബാക്ക് ഇംഗ്ലീഷ്)</string>
     <string name="settings_language_traditional_chinese">Traditional Chinese</string>

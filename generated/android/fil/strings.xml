@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Kulay na tema</string>
     <string name="settings_feedback_bug_report">Feedback / Mag-ulat ng isyu</string>
     <string name="settings_invert_slider_direction">I-invert ang direksyon ng slider</string>
-    <string name="settings_language">Wika</string>
+    <string name="settings_language">Wika (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Sundan ang sistema (Fallback Ingles)</string>
     <string name="settings_language_traditional_chinese">Traditional Chinese</string>

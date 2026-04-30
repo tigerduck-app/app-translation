@@ -421,7 +421,7 @@
     <string name="settings_color_theme">カラーテーマ</string>
     <string name="settings_feedback_bug_report">フィードバック / 不具合報告</string>
     <string name="settings_invert_slider_direction">スライダーの方向を反転</string>
-    <string name="settings_language">言語</string>
+    <string name="settings_language">言語 (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">システムに従う（フォールバックは英語）</string>
     <string name="settings_language_traditional_chinese">繁體中文</string>

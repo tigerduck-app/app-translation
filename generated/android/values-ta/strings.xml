@@ -421,7 +421,7 @@
     <string name="settings_color_theme">நிற தீம்</string>
     <string name="settings_feedback_bug_report">கருத்து / சிக்கல் அறிக்கை</string>
     <string name="settings_invert_slider_direction">ஸ்லைடர் திசையை மாற்று</string>
-    <string name="settings_language">மொழி</string>
+    <string name="settings_language">மொழி (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">கணினியைப் பின்பற்று (மாற்று: ஆங்கிலம்)</string>
     <string name="settings_language_traditional_chinese">பாரம்பரிய சீனம்</string>

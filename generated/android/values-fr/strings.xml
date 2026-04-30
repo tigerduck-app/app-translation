@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Thème de couleur</string>
     <string name="settings_feedback_bug_report">Commentaires / Signaler un problème</string>
     <string name="settings_invert_slider_direction">Inverser le sens du curseur</string>
-    <string name="settings_language">Langue</string>
+    <string name="settings_language">Langue (Language)</string>
     <string name="settings_language_english">Anglais</string>
     <string name="settings_language_follow_system">Suivre le système (Anglais de secours)</string>
     <string name="settings_language_traditional_chinese">Chinois traditionnel</string>

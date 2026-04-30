@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Fargetema</string>
     <string name="settings_feedback_bug_report">Tilbakemelding / Rapporter problem</string>
     <string name="settings_invert_slider_direction">Inverter glidebryterens retning</string>
-    <string name="settings_language">Språk</string>
+    <string name="settings_language">Språk (Language)</string>
     <string name="settings_language_english">Engelsk</string>
     <string name="settings_language_follow_system">Følg system (reserve: engelsk)</string>
     <string name="settings_language_traditional_chinese">Tradisjonell kinesisk</string>

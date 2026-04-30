@@ -477,7 +477,7 @@
 "settings_color_theme" = "Farbschema";
 "settings_feedback_bug_report" = "Feedback / Fehler melden";
 "settings_invert_slider_direction" = "Schieberichtung umkehren";
-"settings_language" = "Sprache";
+"settings_language" = "Sprache (Language)";
 "settings_language_english" = "Englisch";
 "settings_language_follow_system" = "System folgen (Ersatz: Englisch)";
 "settings_language_traditional_chinese" = "Traditionelles Chinesisch";

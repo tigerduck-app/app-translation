@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Түс тақырыбы</string>
     <string name="settings_feedback_bug_report">Пікір / Мәселені хабарлау</string>
     <string name="settings_invert_slider_direction">Жүгірткі бағытын кері айналдыру</string>
-    <string name="settings_language">Тіл</string>
+    <string name="settings_language">Тіл (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Жүйеге сәйкес (Қор: ағылшын)</string>
     <string name="settings_language_traditional_chinese">Дәстүрлі қытайша</string>

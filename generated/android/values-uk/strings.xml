@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Кольорова тема</string>
     <string name="settings_feedback_bug_report">Відгук / Повідомити про проблему</string>
     <string name="settings_invert_slider_direction">Інвертувати напрямок повзунка</string>
-    <string name="settings_language">Мова</string>
+    <string name="settings_language">Мова (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Слідувати системі (запасна: англійська)</string>
     <string name="settings_language_traditional_chinese">Традиційна китайська</string>

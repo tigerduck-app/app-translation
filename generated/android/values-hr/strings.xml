@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Tema boja</string>
     <string name="settings_feedback_bug_report">Povratne informacije / Prijava problema</string>
     <string name="settings_invert_slider_direction">Obrni smjer klizača</string>
-    <string name="settings_language">Jezik</string>
+    <string name="settings_language">Jezik (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Prati sustav (Rezervno engleski)</string>
     <string name="settings_language_traditional_chinese">Tradicionalni kineski</string>

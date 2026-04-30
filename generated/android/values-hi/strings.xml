@@ -421,7 +421,7 @@
     <string name="settings_color_theme">रंग थीम</string>
     <string name="settings_feedback_bug_report">फीडबैक / समस्या रिपोर्ट करें</string>
     <string name="settings_invert_slider_direction">स्लाइडर दिशा उलटें</string>
-    <string name="settings_language">भाषा</string>
+    <string name="settings_language">भाषा (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">सिस्टम का अनुसरण करें (फ़ॉलबैक अंग्रेज़ी)</string>
     <string name="settings_language_traditional_chinese">परंपरागत चीनी</string>

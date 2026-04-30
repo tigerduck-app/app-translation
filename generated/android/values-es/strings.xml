@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Tema de color</string>
     <string name="settings_feedback_bug_report">Comentarios / Reportar problema</string>
     <string name="settings_invert_slider_direction">Invertir dirección del control deslizante</string>
-    <string name="settings_language">Idioma</string>
+    <string name="settings_language">Idioma (Language)</string>
     <string name="settings_language_english">Inglés</string>
     <string name="settings_language_follow_system">Seguir el sistema (Inglés de respaldo)</string>
     <string name="settings_language_traditional_chinese">Chino tradicional</string>

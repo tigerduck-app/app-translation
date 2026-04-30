@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Färgtema</string>
     <string name="settings_feedback_bug_report">Feedback / Rapportera problem</string>
     <string name="settings_invert_slider_direction">Invertera skjutreglageriktning</string>
-    <string name="settings_language">Språk</string>
+    <string name="settings_language">Språk (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Följ systemet (Reserv: engelska)</string>
     <string name="settings_language_traditional_chinese">Traditionell kinesiska</string>

@@ -477,7 +477,7 @@
 "settings_color_theme" = "Tema de color";
 "settings_feedback_bug_report" = "Comentaris / Informeu d'un problema";
 "settings_invert_slider_direction" = "Inverteix la direcció del control lliscant";
-"settings_language" = "Idioma";
+"settings_language" = "Idioma (Language)";
 "settings_language_english" = "Anglès";
 "settings_language_follow_system" = "Segueix el sistema (Anglès de reserva)";
 "settings_language_traditional_chinese" = "Xinès tradicional";

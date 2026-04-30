@@ -421,7 +421,7 @@
     <string name="settings_color_theme">ธีมสี</string>
     <string name="settings_feedback_bug_report">ความคิดเห็น / รายงานปัญหา</string>
     <string name="settings_invert_slider_direction">สลับทิศทางแถบเลื่อน</string>
-    <string name="settings_language">ภาษา</string>
+    <string name="settings_language">ภาษา (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">ตามระบบ (ภาษาสำรอง: อังกฤษ)</string>
     <string name="settings_language_traditional_chinese">จีนตัวเต็ม</string>

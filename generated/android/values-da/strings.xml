@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Farvetema</string>
     <string name="settings_feedback_bug_report">Feedback / Rapportér problem</string>
     <string name="settings_invert_slider_direction">Inverter skyderretning</string>
-    <string name="settings_language">Sprog</string>
+    <string name="settings_language">Sprog (Language)</string>
     <string name="settings_language_english">Engelsk</string>
     <string name="settings_language_follow_system">Følg system (reserve: engelsk)</string>
     <string name="settings_language_traditional_chinese">Traditionel kinesisk</string>

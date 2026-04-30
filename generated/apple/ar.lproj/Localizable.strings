@@ -477,7 +477,7 @@
 "settings_color_theme" = "نسق الألوان";
 "settings_feedback_bug_report" = "ملاحظات / الإبلاغ عن مشكلة";
 "settings_invert_slider_direction" = "عكس اتجاه شريط التمرير";
-"settings_language" = "اللغة";
+"settings_language" = "(Language) اللغة";
 "settings_language_english" = "الإنجليزية";
 "settings_language_follow_system" = "اتباع النظام (الإنجليزية كلغة احتياطية)";
 "settings_language_traditional_chinese" = "الصينية التقليدية";

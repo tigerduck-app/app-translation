@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Värvi teema</string>
     <string name="settings_feedback_bug_report">Tagasiside / Vea aruanne</string>
     <string name="settings_invert_slider_direction">Pööra liuguri suund ümber</string>
-    <string name="settings_language">Keel</string>
+    <string name="settings_language">Keel (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Järgi süsteemi (varuvariant: inglise)</string>
     <string name="settings_language_traditional_chinese">Traditsiooniline hiina</string>

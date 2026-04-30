@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Renk teması</string>
     <string name="settings_feedback_bug_report">Geri bildirim / Sorun bildir</string>
     <string name="settings_invert_slider_direction">Kaydırıcı yönünü ters çevir</string>
-    <string name="settings_language">Dil</string>
+    <string name="settings_language">Dil (Language)</string>
     <string name="settings_language_english">İngilizce</string>
     <string name="settings_language_follow_system">Sistemi takip et (Yedek: İngilizce)</string>
     <string name="settings_language_traditional_chinese">Geleneksel Çince</string>

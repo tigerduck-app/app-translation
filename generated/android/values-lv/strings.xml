@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Krāsu tēma</string>
     <string name="settings_feedback_bug_report">Atsauksme / Ziņot par problēmu</string>
     <string name="settings_invert_slider_direction">Invertēt slīdņa virzienu</string>
-    <string name="settings_language">Valoda</string>
+    <string name="settings_language">Valoda (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Sekot sistēmai (rezerves angļu)</string>
     <string name="settings_language_traditional_chinese">Tradicionālais ķīniešu</string>

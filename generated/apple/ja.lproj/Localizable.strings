@@ -477,7 +477,7 @@
 "settings_color_theme" = "カラーテーマ";
 "settings_feedback_bug_report" = "フィードバック / 不具合報告";
 "settings_invert_slider_direction" = "スライダーの方向を反転";
-"settings_language" = "言語";
+"settings_language" = "言語 (Language)";
 "settings_language_english" = "English";
 "settings_language_follow_system" = "システムに従う（フォールバックは英語）";
 "settings_language_traditional_chinese" = "繁體中文";

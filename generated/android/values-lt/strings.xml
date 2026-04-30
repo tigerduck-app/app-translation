@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Spalvų tema</string>
     <string name="settings_feedback_bug_report">Atsiliepimai / Pranešti apie klaidą</string>
     <string name="settings_invert_slider_direction">Apversti slankiklio kryptį</string>
-    <string name="settings_language">Kalba</string>
+    <string name="settings_language">Kalba (Language)</string>
     <string name="settings_language_english">Anglų</string>
     <string name="settings_language_follow_system">Pagal sistemą (atsarginė anglų)</string>
     <string name="settings_language_traditional_chinese">Tradicinė kinų</string>

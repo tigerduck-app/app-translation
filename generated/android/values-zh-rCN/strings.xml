@@ -421,7 +421,7 @@
     <string name="settings_color_theme">颜色主题</string>
     <string name="settings_feedback_bug_report">回馈/问题回报</string>
     <string name="settings_invert_slider_direction">反转滑条方向</string>
-    <string name="settings_language">语言</string>
+    <string name="settings_language">语言 (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">跟随系统（备用英文）</string>
     <string name="settings_language_traditional_chinese">繁体中文</string>

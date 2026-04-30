@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Цветова тема</string>
     <string name="settings_feedback_bug_report">Обратна връзка / Докладване на проблем</string>
     <string name="settings_invert_slider_direction">Обръщане на посоката на плъзгача</string>
-    <string name="settings_language">Език</string>
+    <string name="settings_language">Език (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Следване на системата (резервен: английски)</string>
     <string name="settings_language_traditional_chinese">Традиционен китайски</string>

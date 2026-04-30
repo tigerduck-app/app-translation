@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Chủ đề màu</string>
     <string name="settings_feedback_bug_report">Phản hồi / Báo lỗi</string>
     <string name="settings_invert_slider_direction">Đảo hướng thanh trượt</string>
-    <string name="settings_language">Ngôn ngữ</string>
+    <string name="settings_language">Ngôn ngữ (Language)</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Theo hệ thống (Dự phòng: tiếng Anh)</string>
     <string name="settings_language_traditional_chinese">Tiếng Trung phồn thể</string>

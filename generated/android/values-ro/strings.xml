@@ -421,7 +421,7 @@
     <string name="settings_color_theme">Temă de culori</string>
     <string name="settings_feedback_bug_report">Feedback / Raportare problemă</string>
     <string name="settings_invert_slider_direction">Inversează direcția glisorului</string>
-    <string name="settings_language">Limbă</string>
+    <string name="settings_language">Limbă (Language)</string>
     <string name="settings_language_english">Engleză</string>
     <string name="settings_language_follow_system">Urmează sistemul (Rezervă: engleză)</string>
     <string name="settings_language_traditional_chinese">Chineză tradițională</string>
