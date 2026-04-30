@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Obnoviť farby rozvrhu</string>
     <string name="settings_reset_course_colors_confirm_message">Farby rozvrhu budú náhodne pridelené pomocou predvolených prednastavení.</string>
     <string name="settings_reset_course_colors_confirm_title">Obnoviť farby rozvrhu?</string>
+    <string name="settings_section_abbreviation">Skratky</string>
     <string name="settings_section_about">O aplikácii</string>
     <string name="settings_section_account">Účet</string>
     <string name="settings_section_custom">Prispôsobenie</string>

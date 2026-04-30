@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Nulstil kursusfarver</string>
     <string name="settings_reset_course_colors_confirm_message">Dette vil tilfældigt gentildele skemafarver ved hjælp af standardforudindstillinger.</string>
     <string name="settings_reset_course_colors_confirm_title">Nulstil skemafarver?</string>
+    <string name="settings_section_abbreviation">Forkortelser</string>
     <string name="settings_section_about">Om</string>
     <string name="settings_section_account">Konto</string>
     <string name="settings_section_custom">Tilpasning</string>

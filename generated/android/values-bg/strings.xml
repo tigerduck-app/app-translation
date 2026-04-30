@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Нулиране на цветовете на курсовете</string>
     <string name="settings_reset_course_colors_confirm_message">Това ще разпредели произволно цветовете на разписанието, използвайки стандартните предварително зададени цветове.</string>
     <string name="settings_reset_course_colors_confirm_title">Нулиране на цветовете на разписанието?</string>
+    <string name="settings_section_abbreviation">Съкращения</string>
     <string name="settings_section_about">Относно</string>
     <string name="settings_section_account">Акаунт</string>
     <string name="settings_section_custom">Персонализиране</string>

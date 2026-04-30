@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Tetapkan semula warna kursus</string>
     <string name="settings_reset_course_colors_confirm_message">Ini akan mengagihkan semula warna jadual kelas secara rawak menggunakan praset lalai.</string>
     <string name="settings_reset_course_colors_confirm_title">Tetapkan semula warna jadual kelas?</string>
+    <string name="settings_section_abbreviation">Singkatan</string>
     <string name="settings_section_about">Perihal</string>
     <string name="settings_section_account">Akaun</string>
     <string name="settings_section_custom">Penyesuaian</string>

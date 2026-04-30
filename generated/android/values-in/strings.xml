@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Setel ulang warna mata kuliah</string>
     <string name="settings_reset_course_colors_confirm_message">Ini akan mengacak ulang warna jadwal kuliah menggunakan preset default.</string>
     <string name="settings_reset_course_colors_confirm_title">Setel ulang warna jadwal kuliah?</string>
+    <string name="settings_section_abbreviation">Singkatan</string>
     <string name="settings_section_about">Tentang</string>
     <string name="settings_section_account">Akun</string>
     <string name="settings_section_custom">Kustomisasi</string>

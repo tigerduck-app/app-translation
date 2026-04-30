@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">إعادة تعيين ألوان المقررات</string>
     <string name="settings_reset_course_colors_confirm_message">سيؤدي ذلك إلى إعادة توزيع ألوان الجدول الدراسي عشوائيًا باستخدام الإعدادات المسبقة الافتراضية.</string>
     <string name="settings_reset_course_colors_confirm_title">هل تريد إعادة تعيين ألوان الجدول الدراسي؟</string>
+    <string name="settings_section_abbreviation">اختصارات</string>
     <string name="settings_section_about">حول</string>
     <string name="settings_section_account">الحساب</string>
     <string name="settings_section_custom">التخصيص</string>

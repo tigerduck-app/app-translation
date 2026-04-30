@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Lähtesta kursuse värvid</string>
     <string name="settings_reset_course_colors_confirm_message">See määrab tunniplaanis värvid juhuslikult ümber vaikimisi eelseadistuste põhjal.</string>
     <string name="settings_reset_course_colors_confirm_title">Lähtestada tunniplaani värvid?</string>
+    <string name="settings_section_abbreviation">Lühendid</string>
     <string name="settings_section_about">Teave</string>
     <string name="settings_section_account">Konto</string>
     <string name="settings_section_custom">Kohandamine</string>

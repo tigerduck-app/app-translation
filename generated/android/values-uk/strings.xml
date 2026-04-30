@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Скинути кольори курсів</string>
     <string name="settings_reset_course_colors_confirm_message">Кольори розкладу буде випадково перевизначено за допомогою стандартних шаблонів.</string>
     <string name="settings_reset_course_colors_confirm_title">Скинути кольори розкладу?</string>
+    <string name="settings_section_abbreviation">Скорочення</string>
     <string name="settings_section_about">Про застосунок</string>
     <string name="settings_section_account">Обліковий запис</string>
     <string name="settings_section_custom">Налаштування</string>

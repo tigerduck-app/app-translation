@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">ಕೋರ್ಸ್ ಬಣ್ಣಗಳನ್ನು ಮರುಹೊಂದಿಸಿ</string>
     <string name="settings_reset_course_colors_confirm_message">ಇದು ಡೀಫಾಲ್ಟ್ ಪ್ರಿಸೆಟ್‌ಗಳನ್ನು ಬಳಸಿ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ಬಣ್ಣಗಳನ್ನು ಯಾದೃಚ್ಛಿಕವಾಗಿ ಮರುಹಂಚಿಕೆ ಮಾಡುತ್ತದೆ.</string>
     <string name="settings_reset_course_colors_confirm_title">ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ಬಣ್ಣಗಳನ್ನು ಮರುಹೊಂದಿಸಬೇಕೇ?</string>
+    <string name="settings_section_abbreviation">ಸಂಕ್ಷೇಪಣಗಳು</string>
     <string name="settings_section_about">ಕುರಿತು</string>
     <string name="settings_section_account">ಖಾತೆ</string>
     <string name="settings_section_custom">ಕಸ್ಟಮೈಸೇಶನ್</string>

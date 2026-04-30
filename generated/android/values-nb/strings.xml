@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Tilbakestill fagfarger</string>
     <string name="settings_reset_course_colors_confirm_message">Dette vil tilfeldig tildele timeplantfarger på nytt ved hjelp av standardforhåndsinnstillinger.</string>
     <string name="settings_reset_course_colors_confirm_title">Tilbakestill timeplantfarger?</string>
+    <string name="settings_section_abbreviation">Forkortelser</string>
     <string name="settings_section_about">Om</string>
     <string name="settings_section_account">Konto</string>
     <string name="settings_section_custom">Tilpasning</string>

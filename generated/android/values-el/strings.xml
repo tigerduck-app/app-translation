@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Επαναφορά χρωμάτων μαθημάτων</string>
     <string name="settings_reset_course_colors_confirm_message">Αυτό θα αναθέσει τυχαία τα χρώματα του προγράμματος μαθημάτων χρησιμοποιώντας προεπιλεγμένες παλέτες.</string>
     <string name="settings_reset_course_colors_confirm_title">Επαναφορά χρωμάτων προγράμματος μαθημάτων;</string>
+    <string name="settings_section_abbreviation">Συντομογραφίες</string>
     <string name="settings_section_about">Σχετικά</string>
     <string name="settings_section_account">Λογαριασμός</string>
     <string name="settings_section_custom">Προσαρμογή</string>

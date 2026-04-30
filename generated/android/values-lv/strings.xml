@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Atiestatīt kursu krāsas</string>
     <string name="settings_reset_course_colors_confirm_message">Tas nejauši pārpiešķirs stundu plāna krāsas, izmantojot noklusējuma iepriekš iestatītās krāsas.</string>
     <string name="settings_reset_course_colors_confirm_title">Atiestatīt stundu plāna krāsas?</string>
+    <string name="settings_section_abbreviation">Saīsinājumi</string>
     <string name="settings_section_about">Par</string>
     <string name="settings_section_account">Konts</string>
     <string name="settings_section_custom">Pielāgošana</string>

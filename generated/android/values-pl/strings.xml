@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">Zresetuj kolory przedmiotów</string>
     <string name="settings_reset_course_colors_confirm_message">Spowoduje to losowe przypisanie kolorów planu zajęć z domyślnych predefiniowanych ustawień.</string>
     <string name="settings_reset_course_colors_confirm_title">Zresetować kolory planu zajęć?</string>
+    <string name="settings_section_abbreviation">Skróty</string>
     <string name="settings_section_about">O aplikacji</string>
     <string name="settings_section_account">Konto</string>
     <string name="settings_section_custom">Personalizacja</string>

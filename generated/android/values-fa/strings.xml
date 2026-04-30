@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">بازنشانی رنگ‌های درس‌ها</string>
     <string name="settings_reset_course_colors_confirm_message">این کار رنگ‌های برنامه کلاس‌ها را با استفاده از رنگ‌های پیش‌فرض به‌صورت تصادفی دوباره تخصیص می‌دهد.</string>
     <string name="settings_reset_course_colors_confirm_title">رنگ‌های برنامه کلاس‌ها بازنشانی شود؟</string>
+    <string name="settings_section_abbreviation">مخفف‌ها</string>
     <string name="settings_section_about">درباره</string>
     <string name="settings_section_account">حساب کاربری</string>
     <string name="settings_section_custom">شخصی‌سازی</string>

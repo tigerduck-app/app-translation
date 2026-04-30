@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">کورس رنگ ری سیٹ کریں</string>
     <string name="settings_reset_course_colors_confirm_message">یہ ڈیفالٹ پری سیٹس کا استعمال کرتے ہوئے کلاس شیڈول کے رنگ بے ترتیب سے دوبارہ تفویض کرے گا۔</string>
     <string name="settings_reset_course_colors_confirm_title">کلاس شیڈول کے رنگ ری سیٹ کریں؟</string>
+    <string name="settings_section_abbreviation">مخفف</string>
     <string name="settings_section_about">کے بارے میں</string>
     <string name="settings_section_account">اکاؤنٹ</string>
     <string name="settings_section_custom">حسب ضرورت</string>

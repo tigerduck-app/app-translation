@@ -442,6 +442,7 @@
     <string name="settings_reset_course_colors">કોર્સ રંગ રીસેટ</string>
     <string name="settings_reset_course_colors_confirm_message">આ ક્લાસ ટાઇમટેબલ ના રંગ ડિફૉલ્ટ પ્રી-સેટ ઉપયોગ કરી રૅન્ડમ ફરીથી આપશે.</string>
     <string name="settings_reset_course_colors_confirm_title">ક્લાસ ટાઇમટેબલ રંગ રીસેટ?</string>
+    <string name="settings_section_abbreviation">સંક્ષેપ</string>
     <string name="settings_section_about">વિશે</string>
     <string name="settings_section_account">એકાઉન્ટ</string>
     <string name="settings_section_custom">કસ્ટમાઇઝ</string>
