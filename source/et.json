@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Lähtesta kursuse värvid",
     "settings_reset_course_colors_confirm_message": "See määrab tunniplaanis värvid juhuslikult ümber vaikimisi eelseadistuste põhjal.",
     "settings_reset_course_colors_confirm_title": "Lähtestada tunniplaani värvid?",
+    "settings_section_abbreviation": "Lühendid",
     "settings_section_about": "Teave",
     "settings_section_account": "Konto",
     "settings_section_custom": "Kohandamine",

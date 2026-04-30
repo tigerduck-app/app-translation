@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Сбросить цвета курсов",
     "settings_reset_course_colors_confirm_message": "Это случайным образом переназначит цвета расписания, используя предустановленные значения.",
     "settings_reset_course_colors_confirm_title": "Сбросить цвета расписания?",
+    "settings_section_abbreviation": "Сокращения",
     "settings_section_about": "О приложении",
     "settings_section_account": "Учётная запись",
     "settings_section_custom": "Персонализация",

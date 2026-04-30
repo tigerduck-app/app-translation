@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Återställ kursfärger",
     "settings_reset_course_colors_confirm_message": "Detta kommer slumpmässigt tilldela om schemats färger med hjälp av standardinställningar.",
     "settings_reset_course_colors_confirm_title": "Återställa schematfärgerna?",
+    "settings_section_abbreviation": "Förkortningar",
     "settings_section_about": "Om",
     "settings_section_account": "Konto",
     "settings_section_custom": "Anpassning",

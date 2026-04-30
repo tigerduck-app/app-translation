@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Réinitialiser les couleurs des cours",
     "settings_reset_course_colors_confirm_message": "Cela réattribuera aléatoirement les couleurs de l'emploi du temps en utilisant les valeurs prédéfinies par défaut.",
     "settings_reset_course_colors_confirm_title": "Réinitialiser les couleurs de l'emploi du temps ?",
+    "settings_section_abbreviation": "Abréviations",
     "settings_section_about": "À propos",
     "settings_section_account": "Compte",
     "settings_section_custom": "Personnalisation",

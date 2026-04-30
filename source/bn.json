@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "কোর্সের রং রিসেট করুন",
     "settings_reset_course_colors_confirm_message": "এটি ডিফল্ট প্রিসেট ব্যবহার করে ক্লাস তালিকার রং এলোমেলোভাবে পুনরায় বরাদ্দ করবে।",
     "settings_reset_course_colors_confirm_title": "ক্লাস তালিকার রং রিসেট করবেন?",
+    "settings_section_abbreviation": "সংক্ষেপণ",
     "settings_section_about": "সম্পর্কে",
     "settings_section_account": "অ্যাকাউন্ট",
     "settings_section_custom": "কাস্টমাইজেশন",

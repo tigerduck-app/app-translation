@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "รีเซ็ตสีรายวิชา",
     "settings_reset_course_colors_confirm_message": "การกระทำนี้จะสุ่มกำหนดสีของตารางเรียนใหม่โดยใช้ค่าที่ตั้งไว้ล่วงหน้าตามค่าเริ่มต้น",
     "settings_reset_course_colors_confirm_title": "รีเซ็ตสีตารางเรียนหรือไม่?",
+    "settings_section_abbreviation": "ตัวย่อ",
     "settings_section_about": "เกี่ยวกับ",
     "settings_section_account": "บัญชี",
     "settings_section_custom": "ปรับแต่ง",

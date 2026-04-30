@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "אפס צבעי קורסים",
     "settings_reset_course_colors_confirm_message": "פעולה זו תקצה מחדש באופן אקראי את צבעי מערכת השעות תוך שימוש בערכות צבעים ברירת מחדל.",
     "settings_reset_course_colors_confirm_title": "לאפס את צבעי מערכת השעות?",
+    "settings_section_abbreviation": "קיצורים",
     "settings_section_about": "אודות",
     "settings_section_account": "חשבון",
     "settings_section_custom": "התאמה אישית",

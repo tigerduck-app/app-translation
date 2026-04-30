@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Nollaa kurssivärit",
     "settings_reset_course_colors_confirm_message": "Tämä jakaa satunnaisesti uudelleen lukujärjestyksen värit oletusasetuksilla.",
     "settings_reset_course_colors_confirm_title": "Nollatko lukujärjestyksen värit?",
+    "settings_section_abbreviation": "Lyhenteet",
     "settings_section_about": "Tietoja",
     "settings_section_account": "Tili",
     "settings_section_custom": "Mukauttaminen",

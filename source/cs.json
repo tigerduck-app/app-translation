@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Obnovit barvy kurzů",
     "settings_reset_course_colors_confirm_message": "Tato akce náhodně přepřiřadí barvy rozvrhu pomocí výchozích předvoleb.",
     "settings_reset_course_colors_confirm_title": "Obnovit barvy rozvrhu?",
+    "settings_section_abbreviation": "Zkratky",
     "settings_section_about": "O aplikaci",
     "settings_section_account": "Účet",
     "settings_section_custom": "Přizpůsobení",

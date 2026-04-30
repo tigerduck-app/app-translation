@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Ponastavi barve urnika",
     "settings_reset_course_colors_confirm_message": "S tem boste naključno dodelili barve urnika z uporabo privzetih prednastavitev.",
     "settings_reset_course_colors_confirm_title": "Ponastaviti barve urnika?",
+    "settings_section_abbreviation": "Okrajšave",
     "settings_section_about": "O aplikaciji",
     "settings_section_account": "Račun",
     "settings_section_custom": "Prilagoditev",

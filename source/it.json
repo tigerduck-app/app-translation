@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Ripristina colori corsi",
     "settings_reset_course_colors_confirm_message": "Questo riassegnerà casualmente i colori dell'orario delle lezioni utilizzando i predefiniti.",
     "settings_reset_course_colors_confirm_title": "Ripristinare i colori dell'orario delle lezioni?",
+    "settings_section_abbreviation": "Abbreviazioni",
     "settings_section_about": "Informazioni",
     "settings_section_account": "Account",
     "settings_section_custom": "Personalizzazione",

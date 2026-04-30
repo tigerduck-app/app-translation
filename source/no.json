@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Tilbakestill fagfarger",
     "settings_reset_course_colors_confirm_message": "Dette vil tilfeldig tildele timeplantfarger på nytt ved hjelp av standardforhåndsinnstillinger.",
     "settings_reset_course_colors_confirm_title": "Tilbakestill timeplantfarger?",
+    "settings_section_abbreviation": "Forkortelser",
     "settings_section_about": "Om",
     "settings_section_account": "Konto",
     "settings_section_custom": "Tilpasning",

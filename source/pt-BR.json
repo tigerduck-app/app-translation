@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Redefinir cores das disciplinas",
     "settings_reset_course_colors_confirm_message": "Isso reatribuirá aleatoriamente as cores da grade horária usando os padrões predefinidos.",
     "settings_reset_course_colors_confirm_title": "Redefinir as cores da grade horária?",
+    "settings_section_abbreviation": "Abreviações",
     "settings_section_about": "Sobre",
     "settings_section_account": "Conta",
     "settings_section_custom": "Personalização",

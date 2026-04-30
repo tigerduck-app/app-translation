@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Ресетуј боје курсева",
     "settings_reset_course_colors_confirm_message": "Ово ће насумично поново доделити боје распореда користећи подразумеване поставке.",
     "settings_reset_course_colors_confirm_title": "Ресетовати боје распореда?",
+    "settings_section_abbreviation": "Скраћенице",
     "settings_section_about": "О апликацији",
     "settings_section_account": "Налог",
     "settings_section_custom": "Прилагођавање",

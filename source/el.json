@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Επαναφορά χρωμάτων μαθημάτων",
     "settings_reset_course_colors_confirm_message": "Αυτό θα αναθέσει τυχαία τα χρώματα του προγράμματος μαθημάτων χρησιμοποιώντας προεπιλεγμένες παλέτες.",
     "settings_reset_course_colors_confirm_title": "Επαναφορά χρωμάτων προγράμματος μαθημάτων;",
+    "settings_section_abbreviation": "Συντομογραφίες",
     "settings_section_about": "Σχετικά",
     "settings_section_account": "Λογαριασμός",
     "settings_section_custom": "Προσαρμογή",

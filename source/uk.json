@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Скинути кольори курсів",
     "settings_reset_course_colors_confirm_message": "Кольори розкладу буде випадково перевизначено за допомогою стандартних шаблонів.",
     "settings_reset_course_colors_confirm_title": "Скинути кольори розкладу?",
+    "settings_section_abbreviation": "Скорочення",
     "settings_section_about": "Про застосунок",
     "settings_section_account": "Обліковий запис",
     "settings_section_custom": "Налаштування",

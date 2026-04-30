@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Нулиране на цветовете на курсовете",
     "settings_reset_course_colors_confirm_message": "Това ще разпредели произволно цветовете на разписанието, използвайки стандартните предварително зададени цветове.",
     "settings_reset_course_colors_confirm_title": "Нулиране на цветовете на разписанието?",
+    "settings_section_abbreviation": "Съкращения",
     "settings_section_about": "Относно",
     "settings_section_account": "Акаунт",
     "settings_section_custom": "Персонализиране",

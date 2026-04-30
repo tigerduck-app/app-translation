@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "بازنشانی رنگ‌های درس‌ها",
     "settings_reset_course_colors_confirm_message": "این کار رنگ‌های برنامه کلاس‌ها را با استفاده از رنگ‌های پیش‌فرض به‌صورت تصادفی دوباره تخصیص می‌دهد.",
     "settings_reset_course_colors_confirm_title": "رنگ‌های برنامه کلاس‌ها بازنشانی شود؟",
+    "settings_section_abbreviation": "مخفف‌ها",
     "settings_section_about": "درباره",
     "settings_section_account": "حساب کاربری",
     "settings_section_custom": "شخصی‌سازی",

@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Kursfarben zurücksetzen",
     "settings_reset_course_colors_confirm_message": "Dadurch werden die Stundenplan-Farben mit den Standard-Voreinstellungen zufällig neu zugewiesen.",
     "settings_reset_course_colors_confirm_title": "Stundenplan-Farben zurücksetzen?",
+    "settings_section_abbreviation": "Abkürzungen",
     "settings_section_about": "Über",
     "settings_section_account": "Konto",
     "settings_section_custom": "Personalisierung",

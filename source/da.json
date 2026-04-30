@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Nulstil kursusfarver",
     "settings_reset_course_colors_confirm_message": "Dette vil tilfældigt gentildele skemafarver ved hjælp af standardforudindstillinger.",
     "settings_reset_course_colors_confirm_title": "Nulstil skemafarver?",
+    "settings_section_abbreviation": "Forkortelser",
     "settings_section_about": "Om",
     "settings_section_account": "Konto",
     "settings_section_custom": "Tilpasning",

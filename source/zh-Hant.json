@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "重設課表顏色",
     "settings_reset_course_colors_confirm_message": "這將會把課表的顏色依照預設顏色隨機重新分配",
     "settings_reset_course_colors_confirm_title": "確定要重設課表顏色？",
+    "settings_section_abbreviation": "縮寫",
     "settings_section_about": "關於",
     "settings_section_account": "帳號",
     "settings_section_custom": "自訂",

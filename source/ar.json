@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "إعادة تعيين ألوان المقررات",
     "settings_reset_course_colors_confirm_message": "سيؤدي ذلك إلى إعادة توزيع ألوان الجدول الدراسي عشوائيًا باستخدام الإعدادات المسبقة الافتراضية.",
     "settings_reset_course_colors_confirm_title": "هل تريد إعادة تعيين ألوان الجدول الدراسي؟",
+    "settings_section_abbreviation": "اختصارات",
     "settings_section_about": "حول",
     "settings_section_account": "الحساب",
     "settings_section_custom": "التخصيص",

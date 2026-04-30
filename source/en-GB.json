@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Reset course colours",
     "settings_reset_course_colors_confirm_message": "This will randomly reassign class table colours using default presets.",
     "settings_reset_course_colors_confirm_title": "Reset class table colours?",
+    "settings_section_abbreviation": "Abbreviations",
     "settings_section_about": "About",
     "settings_section_account": "Account",
     "settings_section_custom": "Customisation",

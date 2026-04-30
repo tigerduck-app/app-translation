@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Repor cores das cadeiras",
     "settings_reset_course_colors_confirm_message": "Isto vai reatribuir aleatoriamente as cores do horário das aulas usando as predefinições.",
     "settings_reset_course_colors_confirm_title": "Repor as cores do horário das aulas?",
+    "settings_section_abbreviation": "Abreviações",
     "settings_section_about": "Acerca",
     "settings_section_account": "Conta",
     "settings_section_custom": "Personalização",

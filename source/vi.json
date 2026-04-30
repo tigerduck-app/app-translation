@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Đặt lại màu môn học",
     "settings_reset_course_colors_confirm_message": "Thao tác này sẽ ngẫu nhiên gán lại màu thời khóa biểu bằng các màu mặc định có sẵn.",
     "settings_reset_course_colors_confirm_title": "Đặt lại màu thời khóa biểu?",
+    "settings_section_abbreviation": "Viết tắt",
     "settings_section_about": "Giới thiệu",
     "settings_section_account": "Tài khoản",
     "settings_section_custom": "Tùy chỉnh",

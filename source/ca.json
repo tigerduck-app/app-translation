@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Restableix els colors dels cursos",
     "settings_reset_course_colors_confirm_message": "Els colors de l'horari de classes es reassignaran aleatòriament usant els colors predeterminats.",
     "settings_reset_course_colors_confirm_title": "Voleu restablir els colors de l'horari de classes?",
+    "settings_section_abbreviation": "Abreviatures",
     "settings_section_about": "Quant a",
     "settings_section_account": "Compte",
     "settings_section_custom": "Personalització",

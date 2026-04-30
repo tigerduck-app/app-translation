@@ -429,6 +429,7 @@
     "settings_reset_course_colors": "Kurzus színek visszaállítása",
     "settings_reset_course_colors_confirm_message": "Ez véletlenszerűen újra hozzárendeli az órarend színeit az alapértelmezett készlet alapján.",
     "settings_reset_course_colors_confirm_title": "Visszaállítja az órarend színeit?",
+    "settings_section_abbreviation": "Rövidítések",
     "settings_section_about": "Névjegy",
     "settings_section_account": "Fiók",
     "settings_section_custom": "Testreszabás",
