@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "套用預設規則";
 "bulletin_body_load_failed" = "無法載入內文";
 "bulletin_default_rules_footer" = "預設會訂閱:免費便當、獎助學金、繳費、考試、維修。";
+"bulletin_fdroid_no_push_body" = "F-Droid 版本不含 Google Play 服務,因此無法接收即時公告推播。需要即時通知請改安裝 Play 商店版本;F-Droid 版本仍可在公告頁手動拉取最新公告。";
+"bulletin_fdroid_no_push_title" = "F-Droid 版不支援推播";
 "bulletin_filter_dept" = "處室";
 "bulletin_filter_tag" = "類別";
 "bulletin_importance_high_badge" = "重要";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "臨時";
 "bulletin_push_status_label" = "推播通知";
 "bulletin_push_status_provisional" = "寧靜通知";
+"bulletin_push_status_registration_done" = "已完成";
+"bulletin_push_status_registration_pending" = "等待 Token";
 "bulletin_push_status_undetermined" = "尚未決定";
 "bulletin_push_status_unknown" = "未知";
 "bulletin_rule_add_action" = "新增規則";

@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Použít výchozí pravidla";
 "bulletin_body_load_failed" = "Nelze načíst obsah";
 "bulletin_default_rules_footer" = "Výchozí předplatné: Oběd zdarma, stipendium, poplatky, zkoušky, údržba.";
+"bulletin_fdroid_no_push_body" = "Verze pro F-Droid neobsahuje Google Play Services, takže push oznámení bulletinů v reálném čase nejsou dostupná. Pokud chcete oznámení, nainstalujte verzi z Play Store — nejnovější bulletiny si vždy můžete načíst ručně z karty oznámení.";
+"bulletin_fdroid_no_push_title" = "Push není dostupné na F-Droid";
 "bulletin_filter_dept" = "Oddělení";
 "bulletin_filter_tag" = "Kategorie";
 "bulletin_importance_high_badge" = "Důležité";
@@ -77,15 +79,17 @@
 "bulletin_push_enable_action" = "Zapněte bulletin push";
 "bulletin_push_enable_description" = "Když je povoleno push, TigerDuck vás upozorní, kdykoli bude bulletin odpovídat vašim pravidlům předplatného.";
 "bulletin_push_footer" = "Push notifikace doručuje server TigerDuck na základě vašich pravidel. Identifikátor zařízení je odeslán jako anonymní UUID – vaše studentské ID se nikdy nenahraje.";
-"bulletin_push_reopen_settings" = "Znovu povolit v Nastavení systému";
+"bulletin_push_reopen_settings" = "Znovu zapnout v Nastavení systému";
 "bulletin_push_requesting" = "Požadavek…";
 "bulletin_push_settings_header" = "Push nastavení";
 "bulletin_push_status_denied" = "Zamítnuto";
 "bulletin_push_status_ephemeral" = "Efemérní";
 "bulletin_push_status_label" = "Push notifikace";
 "bulletin_push_status_provisional" = "Prozatímní";
+"bulletin_push_status_registration_done" = "Hotovo";
+"bulletin_push_status_registration_pending" = "Čeká na token";
 "bulletin_push_status_undetermined" = "Ještě nebylo rozhodnuto";
-"bulletin_push_status_unknown" = "Neznámé";
+"bulletin_push_status_unknown" = "Neznámý";
 "bulletin_rule_add_action" = "Přidat pravidlo";
 "bulletin_rule_add_title" = "Přidat pravidlo";
 "bulletin_rule_all_orgs" = "Všechna oddělení";
@@ -389,7 +393,7 @@
 "push_server_notification_status_ephemeral" = "Pomíjivé oprávnění";
 "push_server_notification_status_provisional" = "Prozatímní";
 "push_server_notification_status_undetermined" = "Ještě nezeptal";
-"push_server_notification_status_unknown" = "Neznámé";
+"push_server_notification_status_unknown" = "Neznámý";
 "push_server_pending_incomplete" = "Ještě ne";
 "push_server_settings_title" = "Server push";
 "push_server_status_device_registration" = "Registrace zařízení";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Živé aktivity";
 "push_server_status_section" = "Postavení";
 "push_server_status_settings_hint" = "Vypnuto na úrovni systému → Nastavení → TigerDuck → Povolit";
-"push_server_status_waiting_token" = "Čeká se, až systém přiřadí token";
+"push_server_status_waiting_token" = "Čeká, až systém přidělí token";
 "push_server_sync_now_action" = "Synchronizovat nyní";
 "refreshing_message" = "Probíhá obnovování… vydržte";
 "score_academic_year_semester" = "Akademický rok %1$@ %2$@";

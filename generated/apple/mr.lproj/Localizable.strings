@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "डीफॉल्ट नियम लागू करा";
 "bulletin_body_load_failed" = "सामग्री लोड करण्यात अयशस्वी";
 "bulletin_default_rules_footer" = "डीफॉल्ट सदस्यता: Free Lunch, Scholarship, Fees, Exams, Maintenance.";
+"bulletin_fdroid_no_push_body" = "F-Droid बिल्डमध्ये Google Play Services समाविष्ट नाही, त्यामुळे रिअल-टाइम बुलेटिन पुश उपलब्ध नाही. सूचनांची आवश्यकता असल्यास Play Store बिल्ड स्थापित करा — आपण घोषणा टॅबमधून नवीनतम बुलेटिन तरीही मॅन्युअली खेचू शकता.";
+"bulletin_fdroid_no_push_title" = "F-Droid वर पुश उपलब्ध नाही";
 "bulletin_filter_dept" = "विभाग";
 "bulletin_filter_tag" = "श्रेणी";
 "bulletin_importance_high_badge" = "महत्त्वाचे";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "तात्पुरते";
 "bulletin_push_status_label" = "पुश सूचना";
 "bulletin_push_status_provisional" = "तात्पुरत्या स्वरूपाचे";
+"bulletin_push_status_registration_done" = "पूर्ण";
+"bulletin_push_status_registration_pending" = "token ची प्रतीक्षा";
 "bulletin_push_status_undetermined" = "अद्याप निर्णय नाही";
 "bulletin_push_status_unknown" = "अज्ञात";
 "bulletin_rule_add_action" = "नियम जोडा";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "सिस्टम स्तरावर अक्षम → सेटिंग्ज → TigerDuck → सक्षम करा";
-"push_server_status_waiting_token" = "सिस्टम टोकन देईपर्यंत प्रतीक्षा";
+"push_server_status_waiting_token" = "सिस्टमने token नियुक्त करण्याची प्रतीक्षा";
 "push_server_sync_now_action" = "आत्ता समक्रमित करा";
 "refreshing_message" = "रिफ्रेश होत आहे… थांबा";
 "score_academic_year_semester" = "शैक्षणिक वर्ष %1$@ %2$@";

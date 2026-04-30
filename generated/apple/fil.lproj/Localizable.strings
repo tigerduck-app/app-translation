@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Ilapat ang mga default na panuntunan";
 "bulletin_body_load_failed" = "Hindi ma-load ang nilalaman";
 "bulletin_default_rules_footer" = "Mga default na subscription: Libreng Tanghalian, Scholarship, Bayarin, Pagsusulit, Pagpapanatili.";
+"bulletin_fdroid_no_push_body" = "Ang F-Droid build ay walang Google Play Services, kaya hindi available ang real-time na push notification para sa mga bulletin. I-install ang Play Store build kung kailangan mo ng mga notification — maaari ka pa ring manu-manong i-pull ang pinakabagong mga bulletin mula sa tab ng mga anunsyo.";
+"bulletin_fdroid_no_push_title" = "Hindi available ang push sa F-Droid";
 "bulletin_filter_dept" = "Kagawaran";
 "bulletin_filter_tag" = "Kategorya";
 "bulletin_importance_high_badge" = "Mahalaga";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "Pansamantala";
 "bulletin_push_status_label" = "Mga push notification";
 "bulletin_push_status_provisional" = "Pansamantala";
+"bulletin_push_status_registration_done" = "Tapos na";
+"bulletin_push_status_registration_pending" = "Naghihintay ng token";
 "bulletin_push_status_undetermined" = "Hindi pa nakapagdesisyon";
 "bulletin_push_status_unknown" = "Hindi alam";
 "bulletin_rule_add_action" = "Magdagdag ng panuntunan";
@@ -392,13 +396,13 @@
 "push_server_notification_status_unknown" = "Hindi alam";
 "push_server_pending_incomplete" = "Hindi pa tapos";
 "push_server_settings_title" = "Push ng server";
-"push_server_status_device_registration" = "Pagrehistro ng device";
+"push_server_status_device_registration" = "Pagpaparehistro ng device";
 "push_server_status_done" = "Kumpleto";
 "push_server_status_enabled" = "Pinagana";
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Katayuan";
 "push_server_status_settings_hint" = "Naka-disable sa antas ng system → Mga Setting → TigerDuck → I-enable";
-"push_server_status_waiting_token" = "Naghihintay na magtakda ang system ng token";
+"push_server_status_waiting_token" = "Naghihintay na mag-assign ng token ang system";
 "push_server_sync_now_action" = "I-sync ngayon";
 "refreshing_message" = "Nire-refresh… sandali lang po";
 "score_academic_year_semester" = "Taong Akademiko %1$@ %2$@";

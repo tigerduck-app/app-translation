@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Wenden Sie Standardregeln an";
 "bulletin_body_load_failed" = "Inhalte können nicht geladen werden";
 "bulletin_default_rules_footer" = "Standardabonnements: Kostenloses Mittagessen, Stipendium, Gebühren, Prüfungen, Wartung.";
+"bulletin_fdroid_no_push_body" = "F-Droid versijoje nėra Google Play Services, todėl realaus laiko biuletenių push pranešimai nepasiekiami. Jei reikia pranešimų, įdiekite Play Store versiją — vis tiek galite rankiniu būdu atnaujinti naujausius biuletenius skirtuke „Skelbimai“.";
+"bulletin_fdroid_no_push_title" = "F-Droid versijoje push nepasiekiamas";
 "bulletin_filter_dept" = "Abteilung";
 "bulletin_filter_tag" = "Kategorie";
 "bulletin_importance_high_badge" = "Wichtig";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Aktivieren Sie den Bulletin-Push";
 "bulletin_push_enable_description" = "Wenn Push aktiviert ist, benachrichtigt TigerDuck Sie, wenn ein Bulletin Ihren Abonnementregeln entspricht.";
 "bulletin_push_footer" = "Push-Benachrichtigungen werden vom TigerDuck-Server basierend auf Ihren Regeln zugestellt. Die Gerätekennung wird als anonyme UUID gesendet – Ihr Studierendenausweis wird nie hochgeladen.";
-"bulletin_push_reopen_settings" = "Vėl įjunkite per sistemos nustatymus";
+"bulletin_push_reopen_settings" = "Įjungti iš naujo sistemos nustatymuose";
 "bulletin_push_requesting" = "Bitte um …";
 "bulletin_push_settings_header" = "Push-Einstellungen";
 "bulletin_push_status_denied" = "Bestritten";
 "bulletin_push_status_ephemeral" = "Vergänglich";
 "bulletin_push_status_label" = "Push-Benachrichtigungen";
 "bulletin_push_status_provisional" = "Provisorisch";
+"bulletin_push_status_registration_done" = "Atlikta";
+"bulletin_push_status_registration_pending" = "Laukiama token";
 "bulletin_push_status_undetermined" = "Noch nicht entschieden";
 "bulletin_push_status_unknown" = "Nežinoma";
 "bulletin_rule_add_action" = "Regel hinzufügen";
@@ -122,7 +126,7 @@
 "bulletin_show_all_action" = "Alle Bulletins anzeigen";
 "bulletin_show_unread_only_action" = "Nur ungelesen";
 "bulletin_source_link_label" = "Original ansehen";
-"bulletin_subscription_default_seed_name" = "Numatytosios rekomendacijos";
+"bulletin_subscription_default_seed_name" = "Numatytieji rekomenduojami";
 "bulletin_subscription_device_not_registered" = "Įrenginys dar neužregistruotas. Pabandykite išsaugoti vėliau.";
 "bulletin_subscription_mode_and" = "Atitikti viską";
 "bulletin_subscription_mode_or" = "Atitikti bent vieną";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Išjungta sistemos lygiu → Nustatymai → TigerDuck → Įjungti";
-"push_server_status_waiting_token" = "Laukiama, kol sistema priskirs prieigos raktą";
+"push_server_status_waiting_token" = "Laukiama, kol sistema priskirs token";
 "push_server_sync_now_action" = "Sinchronizuoti dabar";
 "refreshing_message" = "Atnaujinama… palaukite";
 "score_academic_year_semester" = "Akademiniai metai %1$@ %2$@";

@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "મૂળભૂત નિયમો લાગુ કરો";
 "bulletin_body_load_failed" = "સામગ્રી લોડ કરવામાં અસમર્થ";
 "bulletin_default_rules_footer" = "ડિફૉલ્ટ સબ્સ્ક્રિપ્શન્સ: મફત લંચ, શિષ્યવૃત્તિ, ફી, પરીક્ષાઓ, જાળવણી.";
+"bulletin_fdroid_no_push_body" = "F-Droid બિલ્ડ Google Play Services વગર આવે છે, તેથી રિયલ-ટાઇમ બુલેટિન પુશ ઉપલબ્ધ નથી. જો તમને નોટિફિકેશનની જરૂર હોય તો Play Store બિલ્ડ ઇન્સ્ટૉલ કરો — તમે ઘોષણાઓ ટૅબ પરથી નવીનતમ બુલેટિન્સ મૅન્યુઅલી ખેંચી શકો છો.";
+"bulletin_fdroid_no_push_title" = "F-Droid પર Push ઉપલબ્ધ નથી";
 "bulletin_filter_dept" = "વિભાગ";
 "bulletin_filter_tag" = "કેટેગરી";
 "bulletin_importance_high_badge" = "મહત્વનું";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "બુલેટિન દબાણ ચાલુ કરો";
 "bulletin_push_enable_description" = "જ્યારે PUSH સક્ષમ હોય, ત્યારે જ્યારે પણ કોઈ બુલેટિન તમારા સબ્સ્ક્રિપ્શન નિયમો સાથે મેળ ખાય છે ત્યારે TigerDuck તમને સૂચિત કરશે.";
 "bulletin_push_footer" = "તમારા નિયમોના આધારે TigerDuck સર્વર દ્વારા પુશ સૂચનાઓ આપવામાં આવે છે. ઉપકરણ ઓળખકર્તાને અનામી UUID તરીકે મોકલવામાં આવે છે — તમારું વિદ્યાર્થી ID ક્યારેય અપલોડ કરવામાં આવતું નથી.";
-"bulletin_push_reopen_settings" = "સિસ્ટમ સેટિંગ્સમાં ફરી સક્રિય કરો";
+"bulletin_push_reopen_settings" = "સિસ્ટમ સેટિંગ્સમાં ફરીથી ચાલુ કરો";
 "bulletin_push_requesting" = "વિનંતી કરી રહ્યા છે...";
 "bulletin_push_settings_header" = "પુશ સેટિંગ્સ";
 "bulletin_push_status_denied" = "નામંજૂર";
 "bulletin_push_status_ephemeral" = "અલ્પકાલિક";
 "bulletin_push_status_label" = "પુશ સૂચનાઓ";
 "bulletin_push_status_provisional" = "કામચલાઉ";
+"bulletin_push_status_registration_done" = "થઈ ગયું";
+"bulletin_push_status_registration_pending" = "token ની રાહ જોઈ રહ્યા છીએ";
 "bulletin_push_status_undetermined" = "હજી નક્કી નથી";
 "bulletin_push_status_unknown" = "અજ્ઞાત";
 "bulletin_rule_add_action" = "નિયમ ઉમેરો";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "સ્ટેટ્સ";
 "push_server_status_settings_hint" = "સિસ્ટમ સ્તરે બંધ → સેટિંગ્સ → TigerDuck → સક્રિય કરો";
-"push_server_status_waiting_token" = "સિસ્ટમ ટોકન નિર્ધારિત કરે તેની રાહ જોવામાં આવે છે";
+"push_server_status_waiting_token" = "સિસ્ટમ token સોંપવાની રાહ જોઈ રહ્યા છીએ";
 "push_server_sync_now_action" = "હમણાં સમન્વયિત કરો";
 "refreshing_message" = "રિફ્રેશ થઈ રહ્યું છે… ક્ષણ રાહ જુઓ";
 "score_academic_year_semester" = "શૈક્ષણિક વર્ષ %1$@ %2$@";

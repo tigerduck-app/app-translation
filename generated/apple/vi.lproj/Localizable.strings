@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Áp dụng quy tắc mặc định";
 "bulletin_body_load_failed" = "Không thể tải nội dung";
 "bulletin_default_rules_footer" = "Đăng ký mặc định: Bữa trưa miễn phí, Học bổng, Học phí, Thi cử, Bảo trì.";
+"bulletin_fdroid_no_push_body" = "Bản F-Droid không đi kèm Google Play Services, vì vậy push thông báo bản tin theo thời gian thực không khả dụng. Cài đặt bản Play Store nếu bạn cần thông báo — bạn vẫn có thể kéo các bản tin mới nhất theo cách thủ công từ tab thông báo.";
+"bulletin_fdroid_no_push_title" = "Push không khả dụng trên F-Droid";
 "bulletin_filter_dept" = "Khoa/Phòng ban";
 "bulletin_filter_tag" = "Danh mục";
 "bulletin_importance_high_badge" = "Quan trọng";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Bật đẩy thông báo bản tin";
 "bulletin_push_enable_description" = "Khi bật đẩy thông báo, TigerDuck sẽ thông báo cho bạn mỗi khi có bản tin khớp với quy tắc đăng ký của bạn.";
 "bulletin_push_footer" = "Thông báo đẩy được gửi bởi máy chủ TigerDuck dựa trên quy tắc của bạn. Mã định danh thiết bị được gửi dưới dạng UUID ẩn danh — mã số sinh viên của bạn không bao giờ được tải lên.";
-"bulletin_push_reopen_settings" = "Bật lại trong Cài đặt hệ thống";
+"bulletin_push_reopen_settings" = "Bật lại trong Cài đặt Hệ thống";
 "bulletin_push_requesting" = "Đang yêu cầu…";
 "bulletin_push_settings_header" = "Cài đặt đẩy thông báo";
 "bulletin_push_status_denied" = "Đã từ chối";
 "bulletin_push_status_ephemeral" = "Tạm thời";
 "bulletin_push_status_label" = "Thông báo đẩy";
 "bulletin_push_status_provisional" = "Dự phòng";
+"bulletin_push_status_registration_done" = "Xong";
+"bulletin_push_status_registration_pending" = "Đang chờ token";
 "bulletin_push_status_undetermined" = "Chưa quyết định";
 "bulletin_push_status_unknown" = "Không xác định";
 "bulletin_rule_add_action" = "Thêm quy tắc";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Tắt ở cấp hệ thống → Cài đặt → TigerDuck → Bật";
-"push_server_status_waiting_token" = "Đang chờ hệ thống cấp token";
+"push_server_status_waiting_token" = "Đang chờ hệ thống gán token";
 "push_server_sync_now_action" = "Đồng bộ ngay";
 "refreshing_message" = "Đang làm mới… vui lòng chờ";
 "score_academic_year_semester" = "Năm học %1$@ %2$@";

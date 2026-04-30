@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "기본 규칙 적용";
 "bulletin_body_load_failed" = "콘텐츠를 불러올 수 없습니다";
 "bulletin_default_rules_footer" = "기본 구독: 무료 식사, 장학금, 학비, 시험, 유지보수.";
+"bulletin_fdroid_no_push_body" = "F-Droid 빌드에는 Google Play Services가 포함되지 않으므로 실시간 공지 푸시를 사용할 수 없습니다. 알림이 필요하다면 Play Store 빌드를 설치하세요 — 공지 탭에서 최신 공지를 수동으로 불러올 수 있습니다.";
+"bulletin_fdroid_no_push_title" = "F-Droid에서는 푸시를 사용할 수 없음";
 "bulletin_filter_dept" = "학과";
 "bulletin_filter_tag" = "카테고리";
 "bulletin_importance_high_badge" = "중요";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "임시";
 "bulletin_push_status_label" = "푸시 알림";
 "bulletin_push_status_provisional" = "잠정";
+"bulletin_push_status_registration_done" = "완료";
+"bulletin_push_status_registration_pending" = "token 대기 중";
 "bulletin_push_status_undetermined" = "아직 결정되지 않음";
 "bulletin_push_status_unknown" = "알 수 없음";
 "bulletin_rule_add_action" = "규칙 추가";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "라이브 액티비티";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "시스템 수준에서 비활성화됨 → 설정 → TigerDuck → 활성화";
-"push_server_status_waiting_token" = "시스템이 토큰을 할당하기를 기다리는 중";
+"push_server_status_waiting_token" = "시스템이 token을 할당하기를 기다리는 중";
 "push_server_sync_now_action" = "지금 동기화";
 "refreshing_message" = "새로고침 중… 잠시만요";
 "score_academic_year_semester" = "%1$@ 학년도 %2$@";

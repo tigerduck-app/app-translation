@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Varsayılan kuralları uygula";
 "bulletin_body_load_failed" = "İçerik yüklenemedi";
 "bulletin_default_rules_footer" = "Varsayılan abonelikler: Ücretsiz Yemek, Burs, Ücretler, Sınavlar, Bakım.";
+"bulletin_fdroid_no_push_body" = "F-Droid derlemesi Google Play Services olmadan gelir; bu nedenle gerçek zamanlı bülten push bildirimleri kullanılamaz. Bildirimlere ihtiyacınız varsa Play Store derlemesini yükleyin — duyurular sekmesinden en son bültenleri yine de manuel olarak çekebilirsiniz.";
+"bulletin_fdroid_no_push_title" = "F-Droid'de push kullanılamıyor";
 "bulletin_filter_dept" = "Bölüm";
 "bulletin_filter_tag" = "Kategori";
 "bulletin_importance_high_badge" = "Önemli";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Bülten push bildirimlerini aç";
 "bulletin_push_enable_description" = "Push etkinleştirildiğinde, TigerDuck bir bülten abonelik kurallarınızla eşleştiğinde sizi bilgilendirir.";
 "bulletin_push_footer" = "Push bildirimleri, kurallarınıza göre TigerDuck sunucusu tarafından iletilir. Cihaz tanımlayıcısı anonim bir UUID olarak gönderilir — öğrenci kimliğiniz hiçbir zaman yüklenmez.";
-"bulletin_push_reopen_settings" = "Sistem Ayarları’nda yeniden etkinleştir";
+"bulletin_push_reopen_settings" = "Sistem Ayarları'nda yeniden etkinleştir";
 "bulletin_push_requesting" = "İsteniyor…";
 "bulletin_push_settings_header" = "Push ayarları";
 "bulletin_push_status_denied" = "Reddedildi";
 "bulletin_push_status_ephemeral" = "Geçici";
 "bulletin_push_status_label" = "Push bildirimleri";
 "bulletin_push_status_provisional" = "Geçici onaylı";
+"bulletin_push_status_registration_done" = "Tamamlandı";
+"bulletin_push_status_registration_pending" = "token bekleniyor";
 "bulletin_push_status_undetermined" = "Henüz belirlenmedi";
 "bulletin_push_status_unknown" = "Bilinmiyor";
 "bulletin_rule_add_action" = "Kural ekle";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Sistem düzeyinde devre dışı → Ayarlar → TigerDuck → Etkinleştir";
-"push_server_status_waiting_token" = "Sistemin bir token atamasını bekliyor";
+"push_server_status_waiting_token" = "Sistemin token ataması bekleniyor";
 "push_server_sync_now_action" = "Şimdi senkronize et";
 "refreshing_message" = "Yenileniyor… lütfen bekleyin";
 "score_academic_year_semester" = "%1$@ Akademik Yılı %2$@";

@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Käytä oletussääntöjä";
 "bulletin_body_load_failed" = "Sisältöä ei voi ladata";
 "bulletin_default_rules_footer" = "Oletustilaukset: Ilmainen lounas, stipendi, maksut, kokeet, ylläpito.";
+"bulletin_fdroid_no_push_body" = "F-Droid-versio toimitetaan ilman Google Play Servicesiä, joten reaaliaikaiset push-ilmoitukset eivät ole käytettävissä. Asenna Play Store -versio, jos tarvitset ilmoituksia — voit silti noutaa uusimmat tiedotteet manuaalisesti ilmoitusvälilehdeltä.";
+"bulletin_fdroid_no_push_title" = "Push ei ole käytettävissä F-Droidissa";
 "bulletin_filter_dept" = "osasto";
 "bulletin_filter_tag" = "Luokka";
 "bulletin_importance_high_badge" = "Tärkeää";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Ota bulletin push käyttöön";
 "bulletin_push_enable_description" = "Kun push on käytössä, TigerDuck ilmoittaa sinulle aina, kun tiedote vastaa tilaussääntöjäsi.";
 "bulletin_push_footer" = "TigerDuck-palvelin toimittaa push-ilmoitukset sääntöjesi perusteella. Laitetunniste lähetetään anonyyminä UUID-tunnuksena – opiskelijatunnustasi ei koskaan ladata.";
-"bulletin_push_reopen_settings" = "Ota uudelleen käyttöön järjestelmäasetuksissa";
+"bulletin_push_reopen_settings" = "Ota käyttöön uudelleen Järjestelmäasetuksissa";
 "bulletin_push_requesting" = "Pyydetään…";
 "bulletin_push_settings_header" = "Push-asetukset";
 "bulletin_push_status_denied" = "Kielletty";
 "bulletin_push_status_ephemeral" = "Efemeraalinen";
 "bulletin_push_status_label" = "Push-ilmoitukset";
 "bulletin_push_status_provisional" = "Väliaikainen";
+"bulletin_push_status_registration_done" = "Valmis";
+"bulletin_push_status_registration_pending" = "Odottaa tokenia";
 "bulletin_push_status_undetermined" = "Ei vielä päätetty";
 "bulletin_push_status_unknown" = "Tuntematon";
 "bulletin_rule_add_action" = "Lisää sääntö";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Pois käytöstä järjestelmätasolla → Asetukset → TigerDuck → Ota käyttöön";
-"push_server_status_waiting_token" = "Odotetaan, että järjestelmä määrittää tokenin";
+"push_server_status_waiting_token" = "Odottaa järjestelmän tokenin määrittämistä";
 "push_server_sync_now_action" = "Synkronoi nyt";
 "refreshing_message" = "Päivitetään… odota hetki";
 "score_academic_year_semester" = "Lukuvuosi %1$@ %2$@";

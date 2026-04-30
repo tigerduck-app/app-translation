@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "套用預設規則";
 "bulletin_body_load_failed" = "無法載入內文";
 "bulletin_default_rules_footer" = "預設會訂閱:免費便當、獎助學金、繳費、考試、維修。";
+"bulletin_fdroid_no_push_body" = "F-Droid 版本不含 Google Play 服務，因此無法接收即時公告推送。如需即時通知，請改安裝 Play 商店版本；F-Droid 版本仍可在公告頁手動獲取最新公告。";
+"bulletin_fdroid_no_push_title" = "F-Droid 版不支援推送";
 "bulletin_filter_dept" = "處室";
 "bulletin_filter_tag" = "類別";
 "bulletin_importance_high_badge" = "重要";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "開啟公告推播";
 "bulletin_push_enable_description" = "開啟推播後,當有符合你設定規則的公告時,老虎鴨會即時通知你。";
 "bulletin_push_footer" = "推播通知由 TigerDuck 伺服器根據你選的規則派送。設備標識以匿名 UUID 傳送,不會上傳學號。";
-"bulletin_push_reopen_settings" = "喺系統設定重新啟用";
+"bulletin_push_reopen_settings" = "在系統設定中重新開啟";
 "bulletin_push_requesting" = "請求中…";
 "bulletin_push_settings_header" = "推播設定";
 "bulletin_push_status_denied" = "已被拒絕";
 "bulletin_push_status_ephemeral" = "臨時";
 "bulletin_push_status_label" = "推播通知";
 "bulletin_push_status_provisional" = "寧靜通知";
+"bulletin_push_status_registration_done" = "已完成";
+"bulletin_push_status_registration_pending" = "等待 Token";
 "bulletin_push_status_undetermined" = "尚未決定";
 "bulletin_push_status_unknown" = "未知";
 "bulletin_rule_add_action" = "新增規則";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "即時動態";
 "push_server_status_section" = "狀態";
 "push_server_status_settings_hint" = "系統層面已停用 → 系統設定 → TigerDuck → 啟用";
-"push_server_status_waiting_token" = "等緊系統指派 token";
+"push_server_status_waiting_token" = "等待系統分配 token";
 "push_server_sync_now_action" = "立即同步一次";
 "refreshing_message" = "頁面正在刷新，別急～";
 "score_academic_year_semester" = "%1$@ 學年度 %2$@學期";

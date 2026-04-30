@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Nota sjálfgefnar reglur";
 "bulletin_body_load_failed" = "Ekki tókst að hlaða efni";
 "bulletin_default_rules_footer" = "Sjálfgefnar áskriftir: Ókeypis hádegisverður, Styrkur, Gjöld, Próf, Viðhald.";
+"bulletin_fdroid_no_push_body" = "F-Droid útgáfan er send án Google Play Services, þannig að push-tilkynningar í rauntíma eru ekki tiltækar. Settu upp Play Store útgáfuna ef þú þarft tilkynningar — þú getur alltaf sótt nýjustu tilkynningarnar handvirkt úr tilkynninga flipanum.";
+"bulletin_fdroid_no_push_title" = "Push ekki tiltækt á F-Droid";
 "bulletin_filter_dept" = "Deild";
 "bulletin_filter_tag" = "Flokkur";
 "bulletin_importance_high_badge" = "Mikilvægt";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Kveikja á ýtitilkynningum";
 "bulletin_push_enable_description" = "Þegar ýtitilkynningar eru virkar mun TigerDuck láta þig vita þegar tilkynning passar við áskriftarreglur þínar.";
 "bulletin_push_footer" = "Ýtitilkynningar eru sendar af TigerDuck þjóninum samkvæmt reglunum þínum. Tækjaauðkennið er sent sem nafnlaust UUID — nemandanúmerið þitt er aldrei hlaðið upp.";
-"bulletin_push_reopen_settings" = "Virkja aftur í kerfsstillingum";
+"bulletin_push_reopen_settings" = "Virkja aftur í Kerfisstillingum";
 "bulletin_push_requesting" = "Beiðni send…";
 "bulletin_push_settings_header" = "Ýtistillingar";
 "bulletin_push_status_denied" = "Hafnað";
 "bulletin_push_status_ephemeral" = "Bráðabirgða";
 "bulletin_push_status_label" = "Ýtitilkynningar";
 "bulletin_push_status_provisional" = "Bráðabirgðaheimild";
+"bulletin_push_status_registration_done" = "Lokið";
+"bulletin_push_status_registration_pending" = "Bíður eftir token";
 "bulletin_push_status_undetermined" = "Ekki ákveðið ennþá";
 "bulletin_push_status_unknown" = "Óþekkt";
 "bulletin_rule_add_action" = "Bæta við reglu";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Óvirkt á kerfisstigi → Stillingar → TigerDuck → Virkja";
-"push_server_status_waiting_token" = "Bíður eftir að kerfið úthluti tokeni";
+"push_server_status_waiting_token" = "Bíður eftir að kerfið úthluti token";
 "push_server_sync_now_action" = "Samstilla núna";
 "refreshing_message" = "Uppfærir… bíddu aðeins";
 "score_academic_year_semester" = "Skólaár %1$@ %2$@";

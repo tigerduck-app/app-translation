@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Aplicar regras padrão";
 "bulletin_body_load_failed" = "Não foi possível carregar o conteúdo";
 "bulletin_default_rules_footer" = "Assinaturas padrão: Almoço Grátis, Bolsa, Taxas, Provas, Manutenção.";
+"bulletin_fdroid_no_push_body" = "A versão F-Droid não inclui o Google Play Services, portanto as notificações push de boletins em tempo real estão indisponíveis. Instale a versão da Play Store se precisar de notificações — você ainda pode buscar os boletins mais recentes manualmente na aba de avisos.";
+"bulletin_fdroid_no_push_title" = "Push não disponível no F-Droid";
 "bulletin_filter_dept" = "Departamento";
 "bulletin_filter_tag" = "Categoria";
 "bulletin_importance_high_badge" = "Importante";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Ativar push de avisos";
 "bulletin_push_enable_description" = "Quando o push estiver ativado, o TigerDuck irá notificá-lo sempre que um aviso corresponder às suas regras de assinatura.";
 "bulletin_push_footer" = "As notificações push são enviadas pelo servidor do TigerDuck com base nas suas regras. O identificador do dispositivo é enviado como um UUID anônimo — seu número de estudante nunca é enviado.";
-"bulletin_push_reopen_settings" = "Reative nos Ajustes do sistema";
+"bulletin_push_reopen_settings" = "Reativar nas Configurações do Sistema";
 "bulletin_push_requesting" = "Solicitando…";
 "bulletin_push_settings_header" = "Configurações de push";
 "bulletin_push_status_denied" = "Negado";
 "bulletin_push_status_ephemeral" = "Efêmero";
 "bulletin_push_status_label" = "Notificações push";
 "bulletin_push_status_provisional" = "Provisório";
+"bulletin_push_status_registration_done" = "Concluído";
+"bulletin_push_status_registration_pending" = "Aguardando token";
 "bulletin_push_status_undetermined" = "Ainda não decidido";
 "bulletin_push_status_unknown" = "Desconhecido";
 "bulletin_rule_add_action" = "Adicionar regra";

@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "قوانین پیش فرض را اعمال کنید";
 "bulletin_body_load_failed" = "بارگیری محتوا ممکن نیست";
 "bulletin_default_rules_footer" = "اشتراک های پیش فرض: ناهار رایگان، بورس تحصیلی، هزینه ها، امتحانات، تعمیر و نگهداری.";
+"bulletin_fdroid_no_push_body" = "نسخه F-Droid بدون Google Play Services عرضه می‌شود، بنابراین اعلان‌های فوری اطلاعیه در لحظه در دسترس نیستند. اگر به اعلان‌ها نیاز دارید، نسخه Play Store را نصب کنید — همچنان می‌توانید آخرین اطلاعیه‌ها را به‌صورت دستی از برگه اطلاعیه‌ها دریافت کنید.";
+"bulletin_fdroid_no_push_title" = "اعلان فوری در F-Droid در دسترس نیست";
 "bulletin_filter_dept" = "بخش";
 "bulletin_filter_tag" = "دسته بندی";
 "bulletin_importance_high_badge" = "مهم است";
@@ -77,15 +79,17 @@
 "bulletin_push_enable_action" = "فشار بولتن را روشن کنید";
 "bulletin_push_enable_description" = "وقتی فشار فعال باشد، TigerDuck هر زمان که بولتنی با قوانین اشتراک شما مطابقت داشته باشد به شما اطلاع می‌دهد.";
 "bulletin_push_footer" = "اعلان‌های فشاری بر اساس قوانین شما توسط سرور TigerDuck ارائه می‌شوند. شناسه دستگاه به عنوان یک UUID ناشناس ارسال می‌شود — شناسه دانشجویی شما هرگز آپلود نمی‌شود.";
-"bulletin_push_reopen_settings" = "در تنظیمات سیستم دوباره فعال کنید";
+"bulletin_push_reopen_settings" = "فعال‌سازی مجدد در تنظیمات سیستم";
 "bulletin_push_requesting" = "در حال درخواست…";
 "bulletin_push_settings_header" = "تنظیمات فشار";
 "bulletin_push_status_denied" = "تکذیب شد";
 "bulletin_push_status_ephemeral" = "زودگذر";
 "bulletin_push_status_label" = "اعلان های فشاری";
 "bulletin_push_status_provisional" = "موقت";
+"bulletin_push_status_registration_done" = "انجام شد";
+"bulletin_push_status_registration_pending" = "در انتظار token";
 "bulletin_push_status_undetermined" = "هنوز تصمیم گیری نشده است";
-"bulletin_push_status_unknown" = "نامشخص";
+"bulletin_push_status_unknown" = "ناشناخته";
 "bulletin_rule_add_action" = "قانون اضافه کنید";
 "bulletin_rule_add_title" = "قانون اضافه کنید";
 "bulletin_rule_all_orgs" = "همه بخش ها";
@@ -107,7 +111,7 @@
 "bulletin_rule_editor_name_section" = "نام";
 "bulletin_rule_editor_selected_count" = "%1$d انتخاب شد";
 "bulletin_rule_editor_tag_section" = "دسته بندی";
-"bulletin_rule_filter_separator" = "، ";
+"bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " و ";
 "bulletin_rule_join_or" = " یا ";
 "bulletin_rule_orgs_prefix" = "بخش: ";
@@ -389,7 +393,7 @@
 "push_server_notification_status_ephemeral" = "مجوز زودگذر";
 "push_server_notification_status_provisional" = "موقت";
 "push_server_notification_status_undetermined" = "هنوز سوال نشده";
-"push_server_notification_status_unknown" = "نامشخص";
+"push_server_notification_status_unknown" = "ناشناخته";
 "push_server_pending_incomplete" = "هنوز انجام نشده است";
 "push_server_settings_title" = "فشار سرور";
 "push_server_status_device_registration" = "ثبت دستگاه";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "وضعیت";
 "push_server_status_settings_hint" = "در سطح سیستم غیرفعال شده → تنظیمات → TigerDuck → فعال کردن";
-"push_server_status_waiting_token" = "در انتظار اختصاص توکن توسط سیستم";
+"push_server_status_waiting_token" = "در انتظار تخصیص token توسط سیستم";
 "push_server_sync_now_action" = "اکنون همگام سازی کنید";
 "refreshing_message" = "در حال به‌روزرسانی… کمی صبر کنید";
 "score_academic_year_semester" = "سال تحصیلی %1$@ %2$@";

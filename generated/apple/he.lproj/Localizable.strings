@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "החלת כללי ברירת המחדל";
 "bulletin_body_load_failed" = "לא ניתן לטעון את התוכן";
 "bulletin_default_rules_footer" = "מינויי ברירת מחדל: ארוחת צהריים חינם, מלגה, עמלות, בחינות, תחזוקה.";
+"bulletin_fdroid_no_push_body" = "גרסת F-Droid אינה כוללת את Google Play Services, ולכן התראות push בזמן אמת אינן זמינות. התקן את גרסת Play Store אם אתה צריך התראות — תוכל תמיד למשוך את הבולטינים האחרונים ידנית מלשונית ההכרזות.";
+"bulletin_fdroid_no_push_title" = "Push אינו זמין ב-F-Droid";
 "bulletin_filter_dept" = "מחלקה";
 "bulletin_filter_tag" = "קטגוריה";
 "bulletin_importance_high_badge" = "חשוב ";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "ארעי";
 "bulletin_push_status_label" = "הודעות דחיפה";
 "bulletin_push_status_provisional" = "זמני";
+"bulletin_push_status_registration_done" = "הושלם";
+"bulletin_push_status_registration_pending" = "ממתין ל-token";
 "bulletin_push_status_undetermined" = "עדיין לא הוחלט";
 "bulletin_push_status_unknown" = "לא ידוע";
 "bulletin_rule_add_action" = "הוספת כלל";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "סטטוס";
 "push_server_status_settings_hint" = "מושבת ברמת המערכת → הגדרות → TigerDuck → הפעלה";
-"push_server_status_waiting_token" = "ממתין שהמערכת תקצה טוקן";
+"push_server_status_waiting_token" = "ממתין שהמערכת תקצה token";
 "push_server_sync_now_action" = "סנכרנו כעת";
 "refreshing_message" = "מרענן… רגע";
 "score_academic_year_semester" = "שנת לימודים %1$@ %2$@";

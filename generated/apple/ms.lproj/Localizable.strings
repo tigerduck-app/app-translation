@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Guna peraturan lalai";
 "bulletin_body_load_failed" = "Tidak dapat memuatkan kandungan";
 "bulletin_default_rules_footer" = "Langganan lalai: Free Lunch, Scholarship, Fees, Exams, Maintenance.";
+"bulletin_fdroid_no_push_body" = "Binaan F-Droid dihantar tanpa Google Play Services, jadi push buletin masa nyata tidak tersedia. Pasang binaan Play Store jika anda memerlukan pemberitahuan — anda masih boleh menarik buletin terkini secara manual dari tab pengumuman.";
+"bulletin_fdroid_no_push_title" = "Push tidak tersedia di F-Droid";
 "bulletin_filter_dept" = "Jabatan";
 "bulletin_filter_tag" = "Kategori";
 "bulletin_importance_high_badge" = "Penting";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "Sementara";
 "bulletin_push_status_label" = "Pemberitahuan tolak";
 "bulletin_push_status_provisional" = "Sementara bersyarat";
+"bulletin_push_status_registration_done" = "Selesai";
+"bulletin_push_status_registration_pending" = "Menunggu token";
 "bulletin_push_status_undetermined" = "Belum diputuskan";
 "bulletin_push_status_unknown" = "Tidak diketahui";
 "bulletin_rule_add_action" = "Tambah peraturan";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Dinyahdayakan pada peringkat sistem → Tetapan → TigerDuck → Dayakan";
-"push_server_status_waiting_token" = "Menunggu sistem memberikan token";
+"push_server_status_waiting_token" = "Menunggu Sistem menetapkan token";
 "push_server_sync_now_action" = "Segerak sekarang";
 "refreshing_message" = "Menyegar semula… sila tunggu";
 "score_academic_year_semester" = "Tahun Akademik %1$@ %2$@";

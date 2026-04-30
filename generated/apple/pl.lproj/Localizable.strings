@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Zastosuj domyślne reguły";
 "bulletin_body_load_failed" = "Nie można załadować treści";
 "bulletin_default_rules_footer" = "Domyślne subskrypcje: Darmowy obiad, Stypendium, Opłaty, Egzaminy, Konserwacja.";
+"bulletin_fdroid_no_push_body" = "Wersja F-Droid nie zawiera Google Play Services, więc powiadomienia push w czasie rzeczywistym są niedostępne. Zainstaluj wersję ze Play Store, jeśli potrzebujesz powiadomień — nadal możesz ręcznie pobierać najnowsze biuletyny z zakładki ogłoszeń.";
+"bulletin_fdroid_no_push_title" = "Push niedostępny w F-Droid";
 "bulletin_filter_dept" = "Wydział";
 "bulletin_filter_tag" = "Kategoria";
 "bulletin_importance_high_badge" = "Ważne";
@@ -84,8 +86,10 @@
 "bulletin_push_status_ephemeral" = "Tymczasowe";
 "bulletin_push_status_label" = "Powiadomienia push";
 "bulletin_push_status_provisional" = "Warunkowe";
+"bulletin_push_status_registration_done" = "Gotowe";
+"bulletin_push_status_registration_pending" = "Oczekiwanie na token";
 "bulletin_push_status_undetermined" = "Jeszcze nie zdecydowano";
-"bulletin_push_status_unknown" = "Nieznane";
+"bulletin_push_status_unknown" = "Nieznany";
 "bulletin_rule_add_action" = "Dodaj regułę";
 "bulletin_rule_add_title" = "Dodaj regułę";
 "bulletin_rule_all_orgs" = "Wszystkie wydziały";
@@ -389,7 +393,7 @@
 "push_server_notification_status_ephemeral" = "Autoryzacja tymczasowa";
 "push_server_notification_status_provisional" = "Tymczasowe";
 "push_server_notification_status_undetermined" = "Jeszcze nie zapytano";
-"push_server_notification_status_unknown" = "Nieznane";
+"push_server_notification_status_unknown" = "Nieznany";
 "push_server_pending_incomplete" = "Jeszcze nie ukończono";
 "push_server_settings_title" = "Push serwera";
 "push_server_status_device_registration" = "Rejestracja urządzenia";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Aktywności na żywo";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Wyłączone na poziomie systemu → Ustawienia → TigerDuck → Włącz";
-"push_server_status_waiting_token" = "Oczekiwanie, aż system przydzieli token";
+"push_server_status_waiting_token" = "Oczekiwanie na przypisanie token przez system";
 "push_server_sync_now_action" = "Synchronizuj teraz";
 "refreshing_message" = "Odświeżanie… proszę czekać";
 "score_academic_year_semester" = "Rok akademicki %1$@ %2$@";

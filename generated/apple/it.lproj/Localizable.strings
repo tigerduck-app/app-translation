@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Applica regole predefinite";
 "bulletin_body_load_failed" = "Impossibile caricare il contenuto";
 "bulletin_default_rules_footer" = "Abbonamenti predefiniti: Pranzo gratuito, Borsa di studio, Tasse, Esami, Manutenzione.";
+"bulletin_fdroid_no_push_body" = "La versione F-Droid non include Google Play Services, quindi le notifiche push in tempo reale non sono disponibili. Installa la versione Play Store se hai bisogno delle notifiche — puoi comunque scaricare manualmente gli ultimi bollettini dalla scheda degli annunci.";
+"bulletin_fdroid_no_push_title" = "Push non disponibile su F-Droid";
 "bulletin_filter_dept" = "Dipartimento";
 "bulletin_filter_tag" = "Categoria";
 "bulletin_importance_high_badge" = "Importante";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Attiva push avvisi";
 "bulletin_push_enable_description" = "Quando il push è attivo, TigerDuck ti avviserà ogni volta che un avviso corrisponde alle tue regole di abbonamento.";
 "bulletin_push_footer" = "Le notifiche push vengono inviate dal server TigerDuck in base alle tue regole. L'identificatore del dispositivo viene trasmesso come UUID anonimo — il tuo numero studente non viene mai caricato.";
-"bulletin_push_reopen_settings" = "Riattiva in Impostazioni di sistema";
+"bulletin_push_reopen_settings" = "Riattiva nelle Impostazioni di sistema";
 "bulletin_push_requesting" = "Richiesta in corso…";
 "bulletin_push_settings_header" = "Impostazioni push";
 "bulletin_push_status_denied" = "Negato";
 "bulletin_push_status_ephemeral" = "Temporaneo";
 "bulletin_push_status_label" = "Notifiche push";
 "bulletin_push_status_provisional" = "Provvisorio";
+"bulletin_push_status_registration_done" = "Completato";
+"bulletin_push_status_registration_pending" = "In attesa del token";
 "bulletin_push_status_undetermined" = "Non ancora deciso";
 "bulletin_push_status_unknown" = "Sconosciuto";
 "bulletin_rule_add_action" = "Aggiungi regola";
@@ -122,7 +126,7 @@
 "bulletin_show_all_action" = "Mostra tutti i comunicati";
 "bulletin_show_unread_only_action" = "Solo non letti";
 "bulletin_source_link_label" = "Visualizza originale";
-"bulletin_subscription_default_seed_name" = "Consigli predefiniti";
+"bulletin_subscription_default_seed_name" = "Suggerimenti predefiniti";
 "bulletin_subscription_device_not_registered" = "Il dispositivo non è ancora registrato. Riprova a salvare più tardi.";
 "bulletin_subscription_mode_and" = "Corrispondi a tutti";
 "bulletin_subscription_mode_or" = "Corrispondi a uno qualsiasi";

@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Rakenda vaikereegleid";
 "bulletin_body_load_failed" = "Sisu ei saa laadida";
 "bulletin_default_rules_footer" = "Vaiketellimused: tasuta lõuna, stipendium, tasud, eksamid, hooldus.";
+"bulletin_fdroid_no_push_body" = "F-Droid versioon ei sisalda Google Play Servicesi, seega reaalajas teavitused pole saadaval. Kui vajad teavitusi, installi Play Store versioon — saad alati viimased teated käsitsi alla laadida teadaannete vahekaardilt.";
+"bulletin_fdroid_no_push_title" = "Push pole F-Droidis saadaval";
 "bulletin_filter_dept" = "Osakond";
 "bulletin_filter_tag" = "Kategooria";
 "bulletin_importance_high_badge" = "Tähtis";
@@ -77,15 +79,17 @@
 "bulletin_push_enable_action" = "Lülitage bulletin push sisse";
 "bulletin_push_enable_description" = "Kui push on lubatud, teavitab TigerDuck teid alati, kui bülletään vastab teie liitumisreeglitele.";
 "bulletin_push_footer" = "Tõuketeated edastab TigerDucki server teie reeglite alusel. Seadme identifikaator saadetakse anonüümse UUID-na – teie õpilase ID-d ei laadita kunagi üles.";
-"bulletin_push_reopen_settings" = "Luba uuesti süsteemi seadetes";
+"bulletin_push_reopen_settings" = "Luba uuesti süsteemi sätetes";
 "bulletin_push_requesting" = "Taotlemine…";
 "bulletin_push_settings_header" = "Push seaded";
 "bulletin_push_status_denied" = "Keelatud";
 "bulletin_push_status_ephemeral" = "Põgusad";
 "bulletin_push_status_label" = "Tõukemärguanded";
 "bulletin_push_status_provisional" = "Ajutine";
+"bulletin_push_status_registration_done" = "Valmis";
+"bulletin_push_status_registration_pending" = "Ootab tokenit";
 "bulletin_push_status_undetermined" = "Pole veel otsustatud";
-"bulletin_push_status_unknown" = "Teadmata";
+"bulletin_push_status_unknown" = "Tundmatu";
 "bulletin_rule_add_action" = "Lisa reegel";
 "bulletin_rule_add_title" = "Lisa reegel";
 "bulletin_rule_all_orgs" = "Kõik osakonnad";
@@ -389,7 +393,7 @@
 "push_server_notification_status_ephemeral" = "Lühiajaline luba";
 "push_server_notification_status_provisional" = "Ajutine";
 "push_server_notification_status_undetermined" = "Pole veel küsitud";
-"push_server_notification_status_unknown" = "Teadmata";
+"push_server_notification_status_unknown" = "Tundmatu";
 "push_server_pending_incomplete" = "Pole veel tehtud";
 "push_server_settings_title" = "Serveri tõuge";
 "push_server_status_device_registration" = "Seadme registreerimine";

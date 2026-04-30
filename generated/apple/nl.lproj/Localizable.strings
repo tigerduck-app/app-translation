@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Standaardregels toepassen";
 "bulletin_body_load_failed" = "Inhoud kan niet worden geladen";
 "bulletin_default_rules_footer" = "Standaardabonnementen: Gratis lunch, Beurs, Kosten, Examens, Onderhoud.";
+"bulletin_fdroid_no_push_body" = "De F-Droid-versie wordt geleverd zonder Google Play Services, waardoor realtime bulletinpushmeldingen niet beschikbaar zijn. Installeer de Play Store-versie als u meldingen nodig hebt — u kunt de nieuwste bulletins nog steeds handmatig ophalen via het tabblad aankondigingen.";
+"bulletin_fdroid_no_push_title" = "Push niet beschikbaar op F-Droid";
 "bulletin_filter_dept" = "Afdeling";
 "bulletin_filter_tag" = "Categorie";
 "bulletin_importance_high_badge" = "Belangrijk";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Pushmeldingen voor mededelingen inschakelen";
 "bulletin_push_enable_description" = "Wanneer push is ingeschakeld, zal TigerDuck je op de hoogte stellen wanneer een mededeling overeenkomt met je abonnementsregels.";
 "bulletin_push_footer" = "Pushmeldingen worden verzonden door de TigerDuck-server op basis van je regels. De apparaat-ID wordt verzonden als een anonieme UUID — je studentnummer wordt nooit geüpload.";
-"bulletin_push_reopen_settings" = "Schakel opnieuw in via Systeeminstellingen";
+"bulletin_push_reopen_settings" = "Opnieuw inschakelen in Systeeminstellingen";
 "bulletin_push_requesting" = "Aanvragen…";
 "bulletin_push_settings_header" = "Pushinstellingen";
 "bulletin_push_status_denied" = "Geweigerd";
 "bulletin_push_status_ephemeral" = "Tijdelijk";
 "bulletin_push_status_label" = "Pushmeldingen";
 "bulletin_push_status_provisional" = "Voorlopig";
+"bulletin_push_status_registration_done" = "Klaar";
+"bulletin_push_status_registration_pending" = "Wachten op token";
 "bulletin_push_status_undetermined" = "Nog niet bepaald";
 "bulletin_push_status_unknown" = "Onbekend";
 "bulletin_rule_add_action" = "Regel toevoegen";
@@ -122,7 +126,7 @@
 "bulletin_show_all_action" = "Alle bulletins tonen";
 "bulletin_show_unread_only_action" = "Alleen ongelezen";
 "bulletin_source_link_label" = "Origineel bekijken";
-"bulletin_subscription_default_seed_name" = "Standaard aanbevelingen";
+"bulletin_subscription_default_seed_name" = "Standaardaanbevelingen";
 "bulletin_subscription_device_not_registered" = "Apparaat is nog niet geregistreerd. Probeer later opnieuw op te slaan.";
 "bulletin_subscription_mode_and" = "Alles matchen";
 "bulletin_subscription_mode_or" = "Een matchen";

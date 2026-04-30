@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Применить правила по умолчанию";
 "bulletin_body_load_failed" = "Не удалось загрузить контент";
 "bulletin_default_rules_footer" = "Подписки по умолчанию: бесплатное питание, стипендия, сборы, экзамены, техническое обслуживание.";
+"bulletin_fdroid_no_push_body" = "Версия F-Droid поставляется без Google Play Services, поэтому push-уведомления бюллетеней в реальном времени недоступны. Установите версию из Play Store, если вам нужны уведомления — вы по-прежнему можете вручную загружать последние бюллетени на вкладке объявлений.";
+"bulletin_fdroid_no_push_title" = "Push недоступен в F-Droid";
 "bulletin_filter_dept" = "Отдел";
 "bulletin_filter_tag" = "Категория";
 "bulletin_importance_high_badge" = "Важное";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Включить push-уведомления об объявлениях";
 "bulletin_push_enable_description" = "При включённых push-уведомлениях TigerDuck будет оповещать вас, когда объявление соответствует вашим правилам подписки.";
 "bulletin_push_footer" = "Push-уведомления доставляются сервером TigerDuck на основе ваших правил. Идентификатор устройства передаётся в виде анонимного UUID — ваш студенческий номер никогда не загружается.";
-"bulletin_push_reopen_settings" = "Включите снова в настройках системы";
+"bulletin_push_reopen_settings" = "Повторно включить в системных настройках";
 "bulletin_push_requesting" = "Запрос…";
 "bulletin_push_settings_header" = "Настройки push";
 "bulletin_push_status_denied" = "Запрещено";
 "bulletin_push_status_ephemeral" = "Эфемерное";
 "bulletin_push_status_label" = "Push-уведомления";
 "bulletin_push_status_provisional" = "Предварительное";
+"bulletin_push_status_registration_done" = "Готово";
+"bulletin_push_status_registration_pending" = "Ожидание token";
 "bulletin_push_status_undetermined" = "Ещё не решено";
 "bulletin_push_status_unknown" = "Неизвестно";
 "bulletin_rule_add_action" = "Добавить правило";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Отключено на уровне системы → Настройки → TigerDuck → Включить";
-"push_server_status_waiting_token" = "Ожидание, пока система назначит токен";
+"push_server_status_waiting_token" = "Ожидание назначения token системой";
 "push_server_sync_now_action" = "Синхронизировать сейчас";
 "refreshing_message" = "Обновляется… подождите";
 "score_academic_year_semester" = "Учебный год %1$@, %2$@ семестр";

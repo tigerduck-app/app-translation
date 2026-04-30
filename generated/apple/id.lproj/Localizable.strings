@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Terapkan aturan default";
 "bulletin_body_load_failed" = "Tidak dapat memuat konten";
 "bulletin_default_rules_footer" = "Langganan default: Makan Siang Gratis, Beasiswa, Biaya, Ujian, Pemeliharaan.";
+"bulletin_fdroid_no_push_body" = "Versi F-Droid tidak menyertakan Google Play Services, sehingga notifikasi push buletin secara real-time tidak tersedia. Pasang versi Play Store jika memerlukan notifikasi — kamu tetap bisa menarik buletin terbaru secara manual dari tab pengumuman.";
+"bulletin_fdroid_no_push_title" = "Push tidak tersedia di F-Droid";
 "bulletin_filter_dept" = "Departemen";
 "bulletin_filter_tag" = "Kategori";
 "bulletin_importance_high_badge" = "Penting";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "Sementara";
 "bulletin_push_status_label" = "Notifikasi push";
 "bulletin_push_status_provisional" = "Sementara bersyarat";
+"bulletin_push_status_registration_done" = "Selesai";
+"bulletin_push_status_registration_pending" = "Menunggu token";
 "bulletin_push_status_undetermined" = "Belum ditentukan";
 "bulletin_push_status_unknown" = "Tidak diketahui";
 "bulletin_rule_add_action" = "Tambah aturan";

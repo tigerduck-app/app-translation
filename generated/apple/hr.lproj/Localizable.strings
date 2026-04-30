@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Primijeni zadana pravila";
 "bulletin_body_load_failed" = "Učitavanje sadržaja nije uspjelo";
 "bulletin_default_rules_footer" = "Zadane pretplate: Besplatni ručak, Stipendija, Naknade, Ispiti, Održavanje.";
+"bulletin_fdroid_no_push_body" = "Verzija za F-Droid ne uključuje Google Play Services, stoga push obavijesti u stvarnom vremenu nisu dostupne. Instalirajte verziju s Play Storea ako trebate obavijesti — uvijek možete ručno dohvatiti najnovije biltene iz kartice s obavijestima.";
+"bulletin_fdroid_no_push_title" = "Push nije dostupan na F-Droid";
 "bulletin_filter_dept" = "Odjel";
 "bulletin_filter_tag" = "Kategorija";
 "bulletin_importance_high_badge" = "Važno";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Uključi push obavijesti oglasne ploče";
 "bulletin_push_enable_description" = "Kada je push uključen, TigerDuck će vas obavijestiti svaki put kada obavijest odgovara vašim pravilima pretplate.";
 "bulletin_push_footer" = "Push obavijesti isporučuje TigerDuck poslužitelj prema vašim pravilima. Identifikator uređaja šalje se kao anonimni UUID — vaš studentski ID nikada se ne prenosi.";
-"bulletin_push_reopen_settings" = "Ponovno omogućite u postavkama sustava";
+"bulletin_push_reopen_settings" = "Ponovo omogući u Postavkama sustava";
 "bulletin_push_requesting" = "Zahtijevanje…";
 "bulletin_push_settings_header" = "Postavke pusha";
 "bulletin_push_status_denied" = "Odbijeno";
 "bulletin_push_status_ephemeral" = "Efemerno";
 "bulletin_push_status_label" = "Push obavijesti";
 "bulletin_push_status_provisional" = "Privremeno";
+"bulletin_push_status_registration_done" = "Gotovo";
+"bulletin_push_status_registration_pending" = "Čeka token";
 "bulletin_push_status_undetermined" = "Još nije odlučeno";
 "bulletin_push_status_unknown" = "Nepoznato";
 "bulletin_rule_add_action" = "Dodaj pravilo";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Onemogućeno na razini sustava → Postavke → TigerDuck → Omogući";
-"push_server_status_waiting_token" = "Čeka se da sustav dodijeli token";
+"push_server_status_waiting_token" = "Čeka da sustav dodijeli token";
 "push_server_sync_now_action" = "Sinkroniziraj odmah";
 "refreshing_message" = "Osvježavanje… pričekajte";
 "score_academic_year_semester" = "Akademska godina %1$@ %2$@";

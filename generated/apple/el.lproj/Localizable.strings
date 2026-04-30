@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Εφαρμόστε προεπιλεγμένους κανόνες";
 "bulletin_body_load_failed" = "Δεν είναι δυνατή η φόρτωση περιεχομένου";
 "bulletin_default_rules_footer" = "Προεπιλεγμένες συνδρομές: Δωρεάν μεσημεριανό γεύμα, Υποτροφία, Δίδακτρα, Εξετάσεις, Συντήρηση.";
+"bulletin_fdroid_no_push_body" = "Η έκδοση F-Droid δεν περιλαμβάνει Google Play Services, επομένως οι push ειδοποιήσεις σε πραγματικό χρόνο δεν είναι διαθέσιμες. Εγκαταστήστε την έκδοση Play Store αν χρειάζεστε ειδοποιήσεις — μπορείτε πάντα να ανακτήσετε χειροκίνητα τα τελευταία δελτία από την καρτέλα ανακοινώσεων.";
+"bulletin_fdroid_no_push_title" = "Το Push δεν είναι διαθέσιμο στο F-Droid";
 "bulletin_filter_dept" = "Τμήμα";
 "bulletin_filter_tag" = "Κατηγορία";
 "bulletin_importance_high_badge" = "Σπουδαίος";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "Εφήμερος";
 "bulletin_push_status_label" = "Push ειδοποιήσεις";
 "bulletin_push_status_provisional" = "Προσωρινός";
+"bulletin_push_status_registration_done" = "Ολοκληρώθηκε";
+"bulletin_push_status_registration_pending" = "Αναμονή για token";
 "bulletin_push_status_undetermined" = "Δεν έχει ακόμη αποφασιστεί";
 "bulletin_push_status_unknown" = "Άγνωστο";
 "bulletin_rule_add_action" = "Προσθήκη κανόνα";
@@ -392,13 +396,13 @@
 "push_server_notification_status_unknown" = "Άγνωστο";
 "push_server_pending_incomplete" = "Δεν έχει γίνει ακόμα";
 "push_server_settings_title" = "ώθηση διακομιστή";
-"push_server_status_device_registration" = "Καταχώρηση συσκευής";
+"push_server_status_device_registration" = "Εγγραφή συσκευής";
 "push_server_status_done" = "Πλήρης";
 "push_server_status_enabled" = "Ενεργοποιημένο";
 "push_server_status_live_activities" = "Ζωντανές δραστηριότητες";
 "push_server_status_section" = "Κατάσταση";
 "push_server_status_settings_hint" = "Απενεργοποιημένο σε επίπεδο συστήματος → Ρυθμίσεις → TigerDuck → Ενεργοποίηση";
-"push_server_status_waiting_token" = "Αναμονή να εκχωρήσει το σύστημα ένα token";
+"push_server_status_waiting_token" = "Αναμονή για ανάθεση token από το σύστημα";
 "push_server_sync_now_action" = "Συγχρονισμός τώρα";
 "refreshing_message" = "Ανανέωση… παρακαλώ περιμένετε";
 "score_academic_year_semester" = "Ακαδημαϊκό Έτος %1$@ %2$@";

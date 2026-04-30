@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "డిఫాల్ట్ నియమాలు వర్తింపజేయి";
 "bulletin_body_load_failed" = "కంటెంట్ లోడ్ చేయడం సాధ్యం కాలేదు";
 "bulletin_default_rules_footer" = "డిఫాల్ట్ సబ్‌స్క్రిప్షన్లు: Free Lunch, Scholarship, Fees, Exams, Maintenance.";
+"bulletin_fdroid_no_push_body" = "F-Droid బిల్డ్‌లో Google Play Services లేనందున, రియల్-టైమ్ బులెటిన్ పుష్ అందుబాటులో లేదు. నోటిఫికేషన్లు అవసరమైతే Play Store బిల్డ్‌ను ఇన్‌స్టాల్ చేయండి — మీరు ప్రకటనల ట్యాబ్ నుండి తాజా బులెటిన్‌లను ఇంకా మాన్యువల్‌గా సేకరించవచ్చు.";
+"bulletin_fdroid_no_push_title" = "F-Droid లో పుష్ అందుబాటులో లేదు";
 "bulletin_filter_dept" = "విభాగం";
 "bulletin_filter_tag" = "వర్గం";
 "bulletin_importance_high_badge" = "ముఖ్యమైనది";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "బులెటిన్ పుష్ ఆన్ చేయి";
 "bulletin_push_enable_description" = "పుష్ ఎనేబుల్ చేసినప్పుడు, మీ సబ్‌స్క్రిప్షన్ నియమాలకు బులెటిన్ సరిపోలినప్పుడు TigerDuck మీకు నోటిఫై చేస్తుంది.";
 "bulletin_push_footer" = "పుష్ నోటిఫికేషన్లు మీ నియమాల ఆధారంగా TigerDuck సర్వర్ ద్వారా పంపబడతాయి. డివైస్ ఐడెంటిఫైయర్ అనామక UUID గా పంపబడుతుంది — మీ స్టూడెంట్ ID ఎప్పుడూ అప్‌లోడ్ చేయబడదు.";
-"bulletin_push_reopen_settings" = "సిస్టం సెట్టింగ్‌లలో మళ్లీ ప్రారంభించండి";
+"bulletin_push_reopen_settings" = "సిస్టమ్ సెట్టింగ్‌లలో మళ్ళీ ప్రారంభించండి";
 "bulletin_push_requesting" = "అభ్యర్థిస్తోంది…";
 "bulletin_push_settings_header" = "పుష్ సెట్టింగ్లు";
 "bulletin_push_status_denied" = "నిరాకరించబడింది";
 "bulletin_push_status_ephemeral" = "తాత్కాలిక";
 "bulletin_push_status_label" = "పుష్ నోటిఫికేషన్లు";
 "bulletin_push_status_provisional" = "తాత్కాలిక అనుమతి";
+"bulletin_push_status_registration_done" = "పూర్తయింది";
+"bulletin_push_status_registration_pending" = "token కోసం వేచి ఉంది";
 "bulletin_push_status_undetermined" = "ఇంకా నిర్ణయించలేదు";
 "bulletin_push_status_unknown" = "తెలియదు";
 "bulletin_rule_add_action" = "నియమం జోడించు";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "సిస్టం స్థాయిలో నిలిపివేయబడింది → సెట్టింగ్‌లు → TigerDuck → ప్రారంభించండి";
-"push_server_status_waiting_token" = "సిస్టం టోకెన్ కేటాయించేందుకు వేచి ఉంది";
+"push_server_status_waiting_token" = "సిస్టమ్ token కేటాయించడం కోసం వేచి ఉంది";
 "push_server_sync_now_action" = "ఇప్పుడు సమకాలీకరించు";
 "refreshing_message" = "రిఫ్రెష్ అవుతున్నది… ఒక్క క్షణం";
 "score_academic_year_semester" = "విద్యా సంవత్సరం %1$@ %2$@";

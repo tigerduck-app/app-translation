@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "ใช้กฎเริ่มต้น";
 "bulletin_body_load_failed" = "ไม่สามารถโหลดเนื้อหาได้";
 "bulletin_default_rules_footer" = "การสมัครรับข้อมูลเริ่มต้น: อาหารฟรี, ทุนการศึกษา, ค่าธรรมเนียม, การสอบ, การบำรุงรักษา";
+"bulletin_fdroid_no_push_body" = "บิลด์ F-Droid ไม่มี Google Play Services จึงไม่สามารถรับการแจ้งเตือนบุลเลทินแบบเรียลไทม์ได้ ติดตั้งบิลด์จาก Play Store หากต้องการการแจ้งเตือน — คุณยังสามารถดึงบุลเลทินล่าสุดด้วยตนเองจากแท็บประกาศได้";
+"bulletin_fdroid_no_push_title" = "ไม่สามารถใช้งาน Push บน F-Droid";
 "bulletin_filter_dept" = "ภาควิชา";
 "bulletin_filter_tag" = "หมวดหมู่";
 "bulletin_importance_high_badge" = "สำคัญ";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "เปิดการแจ้งเตือนแบบพุชสำหรับประกาศ";
 "bulletin_push_enable_description" = "เมื่อเปิดใช้งานพุช TigerDuck จะแจ้งเตือนคุณทุกครั้งที่มีประกาศตรงกับกฎการสมัครรับข้อมูลของคุณ";
 "bulletin_push_footer" = "การแจ้งเตือนแบบพุชจะถูกส่งโดยเซิร์ฟเวอร์ TigerDuck ตามกฎของคุณ ตัวระบุอุปกรณ์จะถูกส่งในรูปแบบ UUID นิรนาม — รหัสนักศึกษาของคุณจะไม่ถูกอัปโหลดเด็ดขาด";
-"bulletin_push_reopen_settings" = "เปิดใช้อีกครั้งในการตั้งค่าระบบ";
+"bulletin_push_reopen_settings" = "เปิดใช้งานอีกครั้งในการตั้งค่าระบบ";
 "bulletin_push_requesting" = "กำลังร้องขอ…";
 "bulletin_push_settings_header" = "การตั้งค่าพุช";
 "bulletin_push_status_denied" = "ถูกปฏิเสธ";
 "bulletin_push_status_ephemeral" = "ชั่วคราว";
 "bulletin_push_status_label" = "การแจ้งเตือนแบบพุช";
 "bulletin_push_status_provisional" = "ทดลองใช้";
+"bulletin_push_status_registration_done" = "เสร็จสิ้น";
+"bulletin_push_status_registration_pending" = "รอ token";
 "bulletin_push_status_undetermined" = "ยังไม่ได้ตัดสินใจ";
 "bulletin_push_status_unknown" = "ไม่ทราบ";
 "bulletin_rule_add_action" = "เพิ่มกฎ";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "ปิดใช้งานในระดับระบบ → ตั้งค่า → TigerDuck → เปิดใช้งาน";
-"push_server_status_waiting_token" = "กำลังรอให้ระบบกำหนดโทเคน";
+"push_server_status_waiting_token" = "รอให้ระบบกำหนด token";
 "push_server_sync_now_action" = "ซิงค์เดี๋ยวนี้";
 "refreshing_message" = "กำลังรีเฟรช… โปรดรอสักครู่";
 "score_academic_year_semester" = "ปีการศึกษา %1$@ %2$@";

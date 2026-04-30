@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Apply default rules";
 "bulletin_body_load_failed" = "Unable to load content";
 "bulletin_default_rules_footer" = "Default subscriptions: Free Lunch, Scholarship, Fees, Exams, Maintenance.";
+"bulletin_fdroid_no_push_body" = "The F-Droid build ships without Google Play Services, so real-time bulletin push is unavailable. Install the Play Store build if you need notifications — you can still pull the latest bulletins manually from the announcements tab.";
+"bulletin_fdroid_no_push_title" = "Push not available on F-Droid";
 "bulletin_filter_dept" = "Department";
 "bulletin_filter_tag" = "Category";
 "bulletin_importance_high_badge" = "Important";
@@ -84,6 +86,8 @@
 "bulletin_push_status_ephemeral" = "Ephemeral";
 "bulletin_push_status_label" = "Push notifications";
 "bulletin_push_status_provisional" = "Provisional";
+"bulletin_push_status_registration_done" = "Done";
+"bulletin_push_status_registration_pending" = "Waiting for token";
 "bulletin_push_status_undetermined" = "Not yet decided";
 "bulletin_push_status_unknown" = "Unknown";
 "bulletin_rule_add_action" = "Add rule";

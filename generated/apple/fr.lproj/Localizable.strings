@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Appliquer les règles par défaut";
 "bulletin_body_load_failed" = "Impossible de charger le contenu";
 "bulletin_default_rules_footer" = "Abonnements par défaut : Déjeuner gratuit, Bourse d'études, Frais, Examens, Maintenance.";
+"bulletin_fdroid_no_push_body" = "La version F-Droid ne comprend pas Google Play Services, les notifications push de bulletins en temps réel ne sont donc pas disponibles. Installez la version Play Store si vous souhaitez recevoir des notifications — vous pouvez toujours récupérer manuellement les derniers bulletins depuis l'onglet des annonces.";
+"bulletin_fdroid_no_push_title" = "Push non disponible sur F-Droid";
 "bulletin_filter_dept" = "Département";
 "bulletin_filter_tag" = "Catégorie";
 "bulletin_importance_high_badge" = "Important";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Activer le push de bulletin";
 "bulletin_push_enable_description" = "Lorsque push est activé, TigerDuck vous avertira chaque fois qu'un bulletin correspond à vos règles d'abonnement.";
 "bulletin_push_footer" = "Les notifications push sont délivrées par le serveur TigerDuck en fonction de vos règles. L'identifiant de l'appareil est envoyé sous forme d'UUID anonyme — votre identifiant d'étudiant n'est jamais téléchargé.";
-"bulletin_push_reopen_settings" = "Réactivez dans les Réglages système";
+"bulletin_push_reopen_settings" = "Réactiver dans les Réglages système";
 "bulletin_push_requesting" = "Demande...";
 "bulletin_push_settings_header" = "Paramètres Push";
 "bulletin_push_status_denied" = "Refusé";
 "bulletin_push_status_ephemeral" = "Éphémère";
 "bulletin_push_status_label" = "Notifications Push";
 "bulletin_push_status_provisional" = "Provisoire";
+"bulletin_push_status_registration_done" = "Terminé";
+"bulletin_push_status_registration_pending" = "En attente du token";
 "bulletin_push_status_undetermined" = "Décision en cours";
 "bulletin_push_status_unknown" = "Inconnu";
 "bulletin_rule_add_action" = "Ajouter une règle";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Statut";
 "push_server_status_settings_hint" = "Désactivé au niveau du système → Réglages → TigerDuck → Activer";
-"push_server_status_waiting_token" = "En attente que le système attribue un jeton";
+"push_server_status_waiting_token" = "En attente que le système attribue un token";
 "push_server_sync_now_action" = "Synchroniser maintenant";
 "refreshing_message" = "Actualisation en cours… patientez";
 "score_academic_year_semester" = "Année universitaire %1$@ %2$@";

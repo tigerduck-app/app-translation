@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "デフォルトルールを適用";
 "bulletin_body_load_failed" = "コンテンツを読み込めません";
 "bulletin_default_rules_footer" = "デフォルト購読：無料ランチ、奨学金、費用、試験、メンテナンス。";
+"bulletin_fdroid_no_push_body" = "F-Droid版にはGoogle Play Servicesが含まれていないため、リアルタイムのプッシュ通知はご利用いただけません。通知が必要な場合はPlay Store版をインストールしてください。お知らせタブから最新のお知らせを手動で取得することも可能です。";
+"bulletin_fdroid_no_push_title" = "F-DroidではPushが利用できません";
 "bulletin_filter_dept" = "部署";
 "bulletin_filter_tag" = "カテゴリ";
 "bulletin_importance_high_badge" = "重要";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "お知らせのプッシュをオンにする";
 "bulletin_push_enable_description" = "プッシュが有効な場合、購読ルールに一致するお知らせがあるとTigerDuckが通知します。";
 "bulletin_push_footer" = "プッシュ通知はルールに基づいてTigerDuckサーバーから配信されます。デバイス識別子は匿名のUUIDとして送信され、学生IDがアップロードされることはありません。";
-"bulletin_push_reopen_settings" = "システムの設定で再度有効にする";
+"bulletin_push_reopen_settings" = "システム設定で再度有効にする";
 "bulletin_push_requesting" = "リクエスト中…";
 "bulletin_push_settings_header" = "プッシュ設定";
 "bulletin_push_status_denied" = "拒否済み";
 "bulletin_push_status_ephemeral" = "一時的";
 "bulletin_push_status_label" = "プッシュ通知";
 "bulletin_push_status_provisional" = "仮承認";
+"bulletin_push_status_registration_done" = "完了";
+"bulletin_push_status_registration_pending" = "tokenを待機中";
 "bulletin_push_status_undetermined" = "未決定";
 "bulletin_push_status_unknown" = "不明";
 "bulletin_rule_add_action" = "ルールを追加";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "ライブアクティビティ";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "システムレベルで無効 → 設定 → TigerDuck → 有効";
-"push_server_status_waiting_token" = "システムがトークンを割り当てるのを待っています";
+"push_server_status_waiting_token" = "システムのtoken割り当てを待機中";
 "push_server_sync_now_action" = "今すぐ同期";
 "refreshing_message" = "更新中です。少々お待ちください…";
 "score_academic_year_semester" = "%1$@ 年度 %2$@";

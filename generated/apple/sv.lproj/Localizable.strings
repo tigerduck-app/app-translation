@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Tillämpa standardregler";
 "bulletin_body_load_failed" = "Det gick inte att läsa in innehållet";
 "bulletin_default_rules_footer" = "Standardprenumerationer: Gratis lunch, Stipendium, Avgifter, Tentor, Underhåll.";
+"bulletin_fdroid_no_push_body" = "F-Droid-versionen levereras utan Google Play Services, så realtids-push för bulletiner är inte tillgänglig. Installera Play Store-versionen om du behöver aviseringar — du kan fortfarande hämta de senaste bulletinerna manuellt från fliken meddelanden.";
+"bulletin_fdroid_no_push_title" = "Push inte tillgänglig på F-Droid";
 "bulletin_filter_dept" = "Avdelning";
 "bulletin_filter_tag" = "Kategori";
 "bulletin_importance_high_badge" = "Viktigt";
@@ -77,15 +79,17 @@
 "bulletin_push_enable_action" = "Slå på push-aviseringar för anslagstavlan";
 "bulletin_push_enable_description" = "När push är aktiverat meddelar TigerDuck dig när ett meddelande matchar dina prenumerationsregler.";
 "bulletin_push_footer" = "Push-aviseringar levereras av TigerDuck-servern baserat på dina regler. Enhetsidentifieraren skickas som ett anonymt UUID – ditt student-ID laddas aldrig upp.";
-"bulletin_push_reopen_settings" = "Aktivera igen i systeminställningar";
+"bulletin_push_reopen_settings" = "Aktivera igen i Systeminställningar";
 "bulletin_push_requesting" = "Begär…";
 "bulletin_push_settings_header" = "Push-inställningar";
 "bulletin_push_status_denied" = "Nekad";
 "bulletin_push_status_ephemeral" = "Tillfällig";
 "bulletin_push_status_label" = "Push-aviseringar";
 "bulletin_push_status_provisional" = "Preliminär";
+"bulletin_push_status_registration_done" = "Klar";
+"bulletin_push_status_registration_pending" = "Väntar på token";
 "bulletin_push_status_undetermined" = "Ej bestämt ännu";
-"bulletin_push_status_unknown" = "Okänd";
+"bulletin_push_status_unknown" = "Okänt";
 "bulletin_rule_add_action" = "Lägg till regel";
 "bulletin_rule_add_title" = "Lägg till regel";
 "bulletin_rule_all_orgs" = "Alla avdelningar";
@@ -389,7 +393,7 @@
 "push_server_notification_status_ephemeral" = "Tillfällig auktorisering";
 "push_server_notification_status_provisional" = "Provisorisk";
 "push_server_notification_status_undetermined" = "Inte frågad än";
-"push_server_notification_status_unknown" = "Okänd";
+"push_server_notification_status_unknown" = "Okänt";
 "push_server_pending_incomplete" = "Inte klart än";
 "push_server_settings_title" = "Server-push";
 "push_server_status_device_registration" = "Enhetsregistrering";

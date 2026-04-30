@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Použiť predvolené pravidlá";
 "bulletin_body_load_failed" = "Obsah sa nedá načítať";
 "bulletin_default_rules_footer" = "Predvolené odbery: Voľný obed, Štipendium, Poplatky, Skúšky, Údržba.";
+"bulletin_fdroid_no_push_body" = "Verzia F-Droid sa dodáva bez Google Play Services, preto nie sú dostupné push notifikácie bulletinov v reálnom čase. Ak potrebujete notifikácie, nainštalujte verziu z Play Store — najnovšie bulletiny si stále môžete manuálne stiahnuť na karte oznámení.";
+"bulletin_fdroid_no_push_title" = "Push nie je dostupný vo F-Droid";
 "bulletin_filter_dept" = "Oddelenie";
 "bulletin_filter_tag" = "Kategória";
 "bulletin_importance_high_badge" = "Dôležité";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Zapnúť push oznamy";
 "bulletin_push_enable_description" = "Keď je push zapnutý, TigerDuck vás upozorní vždy, keď oznam zodpovedá vašim pravidlám odberu.";
 "bulletin_push_footer" = "Push upozornenia doručuje server TigerDuck na základe vašich pravidiel. Identifikátor zariadenia sa odosiela ako anonymné UUID — vaše študentské ID sa nikdy neodovzdáva.";
-"bulletin_push_reopen_settings" = "Znova povoliť v Systémových nastaveniach";
+"bulletin_push_reopen_settings" = "Znovu povoliť v Nastaveniach systému";
 "bulletin_push_requesting" = "Požadujem…";
 "bulletin_push_settings_header" = "Nastavenia push";
 "bulletin_push_status_denied" = "Zamietnuté";
 "bulletin_push_status_ephemeral" = "Dočasné";
 "bulletin_push_status_label" = "Push upozornenia";
 "bulletin_push_status_provisional" = "Predbežné";
+"bulletin_push_status_registration_done" = "Hotovo";
+"bulletin_push_status_registration_pending" = "Čakanie na token";
 "bulletin_push_status_undetermined" = "Ešte nerozhodnuté";
 "bulletin_push_status_unknown" = "Neznáme";
 "bulletin_rule_add_action" = "Pridať pravidlo";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Aktivity naživo";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Vypnuté na úrovni systému → Nastavenia → TigerDuck → Povoliť";
-"push_server_status_waiting_token" = "Čaká sa, kým systém pridelí token";
+"push_server_status_waiting_token" = "Čakanie, kým systém priradí token";
 "push_server_sync_now_action" = "Synchronizovať teraz";
 "refreshing_message" = "Obnovuje sa… chvíľku počkajte";
 "score_academic_year_semester" = "Akademický rok %1$@ %2$@";

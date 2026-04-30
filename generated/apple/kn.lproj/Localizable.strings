@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "ಡಿಫಾಲ್ಟ್ ನಿಯಮಗಳನ್ನು ಅನ್ವಯಿಸಿ";
 "bulletin_body_load_failed" = "ವಿಷಯವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ";
 "bulletin_default_rules_footer" = "ಡಿಫಾಲ್ಟ್ ಚಂದಾದಾರಿಕೆಗಳು: ಉಚಿತ ಊಟ, ವಿದ್ಯಾರ್ಥಿವೇತನ, ಶುಲ್ಕಗಳು, ಪರೀಕ್ಷೆಗಳು, ನಿರ್ವಹಣೆ.";
+"bulletin_fdroid_no_push_body" = "F-Droid ಬಿಲ್ಡ್‌ನಲ್ಲಿ Google Play Services ಇಲ್ಲದ ಕಾರಣ, ರಿಯಲ್-ಟೈಮ್ ಬುಲೆಟಿನ್ ಪುಶ್ ಲಭ್ಯವಿಲ್ಲ. ಅಧಿಸೂಚನೆಗಳ ಅಗತ್ಯವಿದ್ದರೆ Play Store ಬಿಲ್ಡ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿ — ಪ್ರಕಟಣೆಗಳ ಟ್ಯಾಬ್‌ನಿಂದ ನೀವು ಇನ್ನೂ ಇತ್ತೀಚಿನ ಬುಲೆಟಿನ್‌ಗಳನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಎಳೆಯಬಹುದು.";
+"bulletin_fdroid_no_push_title" = "F-Droid ನಲ್ಲಿ ಪುಶ್ ಲಭ್ಯವಿಲ್ಲ";
 "bulletin_filter_dept" = "ವಿಭಾಗ";
 "bulletin_filter_tag" = "ವರ್ಗ";
 "bulletin_importance_high_badge" = "ಮುಖ್ಯವಾದದ್ದು";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "ಬುಲೆಟಿನ್ ಪುಶ್ ಆನ್ ಮಾಡಿ";
 "bulletin_push_enable_description" = "ಪುಶ್ ಸಕ್ರಿಯವಾಗಿದ್ದಾಗ, ಬುಲೆಟಿನ್ ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆ ನಿಯಮಗಳಿಗೆ ಹೊಂದಿಕೆಯಾದಾಗಲೆಲ್ಲ TigerDuck ನಿಮಗೆ ತಿಳಿಸುತ್ತದೆ.";
 "bulletin_push_footer" = "ನಿಮ್ಮ ನಿಯಮಗಳ ಆಧಾರದ ಮೇಲೆ TigerDuck ಸರ್ವರ್ ಪುಶ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ತಲುಪಿಸುತ್ತದೆ. ಸಾಧನ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಅನಾಮಧೇಯ UUID ಆಗಿ ಕಳುಹಿಸಲಾಗುತ್ತದೆ — ನಿಮ್ಮ ವಿದ್ಯಾರ್ಥಿ ID ಎಂದಿಗೂ ಅಪ್‌ಲೋಡ್ ಆಗುವುದಿಲ್ಲ.";
-"bulletin_push_reopen_settings" = "ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಮರುಸಕ್ರಿಯಗೊಳಿಸಿ";
+"bulletin_push_reopen_settings" = "ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಿ";
 "bulletin_push_requesting" = "ವಿನಂತಿಸಲಾಗುತ್ತಿದೆ…";
 "bulletin_push_settings_header" = "ಪುಶ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು";
 "bulletin_push_status_denied" = "ನಿರಾಕರಿಸಲಾಗಿದೆ";
 "bulletin_push_status_ephemeral" = "ತಾತ್ಕಾಲಿಕ";
 "bulletin_push_status_label" = "ಪುಶ್ ಅಧಿಸೂಚನೆಗಳು";
 "bulletin_push_status_provisional" = "ತಾತ್ಕಾಲಿಕ ಅನುಮತಿ";
+"bulletin_push_status_registration_done" = "ಮುಗಿದಿದೆ";
+"bulletin_push_status_registration_pending" = "token ಗಾಗಿ ಕಾಯುತ್ತಿದೆ";
 "bulletin_push_status_undetermined" = "ಇನ್ನೂ ನಿರ್ಧರಿಸಿಲ್ಲ";
 "bulletin_push_status_unknown" = "ಅಜ್ಞಾತ";
 "bulletin_rule_add_action" = "ನಿಯಮ ಸೇರಿಸಿ";
@@ -122,7 +126,7 @@
 "bulletin_show_all_action" = "ಎಲ್ಲಾ ಬುಲೆಟಿನ್‌ಗಳನ್ನು ತೋರಿಸಿ";
 "bulletin_show_unread_only_action" = "ಓದದ್ದು ಮಾತ್ರ";
 "bulletin_source_link_label" = "ಮೂಲ ನೋಡಿ";
-"bulletin_subscription_default_seed_name" = "ಡಿಫಾಲ್ಟ್ ಶಿಫಾರಸುಗಳು";
+"bulletin_subscription_default_seed_name" = "ಡೀಫಾಲ್ಟ್ ಶಿಫಾರಸುಗಳು";
 "bulletin_subscription_device_not_registered" = "ಸಾಧನವನ್ನು ಇನ್ನೂ ನೋಂದಾಯಿಸಲಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಉಳಿಸಲು ಪ್ರಯತ್ನಿಸಿ.";
 "bulletin_subscription_mode_and" = "ಎಲ್ಲವೂ ಹೊಂದಿಕೆಯಾಗಲಿ";
 "bulletin_subscription_mode_or" = "ಯಾವುದಾದರೂ ಹೊಂದಿಕೆಯಾಗಲಿ";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "ಸಿಸ್ಟಮ್ ಮಟ್ಟದಲ್ಲಿ ನಿಷ್ಕ್ರಿಯ → ಸೆಟ್ಟಿಂಗ್‌ಗಳು → TigerDuck → ಸಕ್ರಿಯಗೊಳಿಸಿ";
-"push_server_status_waiting_token" = "ಸಿಸ್ಟಮ್ ಟೋಕನ್ ನೀಡುವವರೆಗೆ ನಿರೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ";
+"push_server_status_waiting_token" = "ಸಿಸ್ಟಮ್ token ನಿಯೋಜಿಸಲು ಕಾಯುತ್ತಿದೆ";
 "push_server_sync_now_action" = "ಈಗ ಸಿಂಕ್ ಮಾಡಿ";
 "refreshing_message" = "ರಿಫ್ರೆಶ್ ಆಗುತ್ತಿದೆ… ಸ್ವಲ್ಪ ನಿರೀಕ್ಷಿಸಿ";
 "score_academic_year_semester" = "ಶೈಕ್ಷಣಿಕ ವರ್ಷ %1$@ %2$@";

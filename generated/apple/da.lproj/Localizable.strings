@@ -60,6 +60,8 @@
 "bulletin_apply_default_rules_action" = "Anvend standardregler";
 "bulletin_body_load_failed" = "Kan ikke indlæse indhold";
 "bulletin_default_rules_footer" = "Standard abonnementer: Gratis frokost, stipendium, gebyrer, eksamener, vedligeholdelse.";
+"bulletin_fdroid_no_push_body" = "F-Droid-versionen leveres uden Google Play Services, så push-notifikationer i realtid er ikke tilgængelige. Installer Play Store-versionen, hvis du har brug for notifikationer — du kan stadig hente de seneste bulletiner manuelt fra fanen med meddelelser.";
+"bulletin_fdroid_no_push_title" = "Push ikke tilgængeligt på F-Droid";
 "bulletin_filter_dept" = "Afdeling";
 "bulletin_filter_tag" = "Kategori";
 "bulletin_importance_high_badge" = "Vigtig";
@@ -77,13 +79,15 @@
 "bulletin_push_enable_action" = "Slå bulletin push til";
 "bulletin_push_enable_description" = "Når push er aktiveret, vil TigerDuck give dig besked, når en bulletin matcher dine abonnementsregler.";
 "bulletin_push_footer" = "Push-meddelelser leveres af TigerDuck-serveren baseret på dine regler. Enheds-id'et sendes som et anonymt UUID - dit studie-id bliver aldrig uploadet.";
-"bulletin_push_reopen_settings" = "Aktivér igen i systemindstillinger";
+"bulletin_push_reopen_settings" = "Genaktiver i Systemindstillinger";
 "bulletin_push_requesting" = "Anmoder...";
 "bulletin_push_settings_header" = "Push-indstillinger";
 "bulletin_push_status_denied" = "Afvist";
 "bulletin_push_status_ephemeral" = "Ephemeral";
 "bulletin_push_status_label" = "Push-meddelelser";
 "bulletin_push_status_provisional" = "Midlertidig";
+"bulletin_push_status_registration_done" = "Færdig";
+"bulletin_push_status_registration_pending" = "Venter på token";
 "bulletin_push_status_undetermined" = "Endnu ikke besluttet";
 "bulletin_push_status_unknown" = "Ukendt";
 "bulletin_rule_add_action" = "Tilføj regel";
@@ -398,7 +402,7 @@
 "push_server_status_live_activities" = "Live-aktiviteter";
 "push_server_status_section" = "Status";
 "push_server_status_settings_hint" = "Deaktiveret på systemniveau → Indstillinger → TigerDuck → Aktivér";
-"push_server_status_waiting_token" = "Venter på at systemet tildeler en token";
+"push_server_status_waiting_token" = "Venter på, at systemet tildeler et token";
 "push_server_sync_now_action" = "Synkroniser nu";
 "refreshing_message" = "Opdaterer… vent et øjeblik";
 "score_academic_year_semester" = "Akademisk år %1$@ %2$@";
