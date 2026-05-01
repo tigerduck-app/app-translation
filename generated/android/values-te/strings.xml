@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">చదవనివి మాత్రమే</string>
     <string name="bulletin_source_link_label">మూలాన్ని చూడండి</string>
     <string name="bulletin_subscription_default_seed_name">డిఫాల్ట్ సిఫార్సులు</string>
+    <string name="bulletin_subscription_mode_and">అన్నీ సరిపోలాలి</string>
+    <string name="bulletin_subscription_mode_or">ఏదైనా సరిపోలితే</string>
     <string name="bulletin_taxonomy_clear_selection">ఎంపిక తొలగించు (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">ఏమీ ఎంచుకోకపోవడం అంటే ఈ కోణానికి \"అన్నీ సరిపోల్చు\" అని అర్థం.</string>
     <string name="bulletin_unread_dot_label">చదవలేదు</string>

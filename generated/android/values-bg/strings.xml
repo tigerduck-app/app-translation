@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Само непрочетени</string>
     <string name="bulletin_source_link_label">Вижте оригинала</string>
     <string name="bulletin_subscription_default_seed_name">Препоръки по подразбиране</string>
+    <string name="bulletin_subscription_mode_and">Съвпадение с всички</string>
+    <string name="bulletin_subscription_mode_or">Съвпадение с което и да е</string>
     <string name="bulletin_taxonomy_clear_selection">Изчистване на селекцията (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Избирането на нищо означава „съвпадение на всички“ за това измерение.</string>
     <string name="bulletin_unread_dot_label">Непрочетено</string>

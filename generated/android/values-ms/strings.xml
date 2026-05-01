@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Belum dibaca sahaja</string>
     <string name="bulletin_source_link_label">Lihat asal</string>
     <string name="bulletin_subscription_default_seed_name">Cadangan lalai</string>
+    <string name="bulletin_subscription_mode_and">Padan semua</string>
+    <string name="bulletin_subscription_mode_or">Padan mana-mana</string>
     <string name="bulletin_taxonomy_clear_selection">Kosongkan pilihan (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Tidak memilih apa-apa bermaksud \"padankan semua\" untuk dimensi ini.</string>
     <string name="bulletin_unread_dot_label">Belum dibaca</string>

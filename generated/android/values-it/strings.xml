@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Solo non letti</string>
     <string name="bulletin_source_link_label">Visualizza originale</string>
     <string name="bulletin_subscription_default_seed_name">Suggerimenti predefiniti</string>
+    <string name="bulletin_subscription_mode_and">Corrispondi a tutti</string>
+    <string name="bulletin_subscription_mode_or">Corrispondi a uno qualsiasi</string>
     <string name="bulletin_taxonomy_clear_selection">Cancella selezione (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Non selezionare nulla significa \"includi tutto\" per questa dimensione.</string>
     <string name="bulletin_unread_dot_label">Non letto</string>

@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">केवल अपठित</string>
     <string name="bulletin_source_link_label">मूल देखें</string>
     <string name="bulletin_subscription_default_seed_name">डिफ़ॉल्ट अनुशंसाएं</string>
+    <string name="bulletin_subscription_mode_and">सभी से मिलान करें</string>
+    <string name="bulletin_subscription_mode_or">किसी से भी मिलान करें</string>
     <string name="bulletin_taxonomy_clear_selection">चयन साफ़ करें (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">कुछ भी न चुनने का अर्थ है इस आयाम के लिए \"सभी से मिलान\"।</string>
     <string name="bulletin_unread_dot_label">अपठित</string>

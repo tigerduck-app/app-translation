@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">ಓದದ್ದು ಮಾತ್ರ</string>
     <string name="bulletin_source_link_label">ಮೂಲ ನೋಡಿ</string>
     <string name="bulletin_subscription_default_seed_name">ಡೀಫಾಲ್ಟ್ ಶಿಫಾರಸುಗಳು</string>
+    <string name="bulletin_subscription_mode_and">ಎಲ್ಲವೂ ಹೊಂದಿಕೆಯಾಗಲಿ</string>
+    <string name="bulletin_subscription_mode_or">ಯಾವುದಾದರೂ ಹೊಂದಿಕೆಯಾಗಲಿ</string>
     <string name="bulletin_taxonomy_clear_selection">ಆಯ್ಕೆ ತೆರವುಗೊಳಿಸಿ (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">ಏನನ್ನೂ ಆಯ್ಕೆ ಮಾಡದಿರುವುದು ಈ ಆಯಾಮಕ್ಕೆ \"ಎಲ್ಲವನ್ನೂ ಹೊಂದಿಸು\" ಎಂದರ್ಥ.</string>
     <string name="bulletin_unread_dot_label">ಓದಿಲ್ಲ</string>

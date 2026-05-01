@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">읽지 않은 항목만</string>
     <string name="bulletin_source_link_label">원문 보기</string>
     <string name="bulletin_subscription_default_seed_name">기본 추천</string>
+    <string name="bulletin_subscription_mode_and">모두 일치</string>
+    <string name="bulletin_subscription_mode_or">하나 이상 일치</string>
     <string name="bulletin_taxonomy_clear_selection">선택 초기화 (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">선택하지 않으면 이 항목의 전체가 매칭됩니다.</string>
     <string name="bulletin_unread_dot_label">읽지 않음</string>

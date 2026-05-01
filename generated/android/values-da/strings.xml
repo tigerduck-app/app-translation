@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Kun ulæst</string>
     <string name="bulletin_source_link_label">Se originalen</string>
     <string name="bulletin_subscription_default_seed_name">Standardanbefalinger</string>
+    <string name="bulletin_subscription_mode_and">Match alle</string>
+    <string name="bulletin_subscription_mode_or">Match enhver</string>
     <string name="bulletin_taxonomy_clear_selection">Ryd valg (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">At vælge ingenting betyder \"match alle\" for denne dimension.</string>
     <string name="bulletin_unread_dot_label">Ulæst</string>

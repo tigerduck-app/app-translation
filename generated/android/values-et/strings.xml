@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Ainult lugemata</string>
     <string name="bulletin_source_link_label">Vaata originaali</string>
     <string name="bulletin_subscription_default_seed_name">Vaikimisi soovitused</string>
+    <string name="bulletin_subscription_mode_and">Sobita kõik</string>
+    <string name="bulletin_subscription_mode_or">Sobita ükskõik milline</string>
     <string name="bulletin_taxonomy_clear_selection">Tühjenda valik (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Kui te ei vali midagi, tähendab see selle dimensiooni puhul vastet kõigiga.</string>
     <string name="bulletin_unread_dot_label">Lugemata</string>

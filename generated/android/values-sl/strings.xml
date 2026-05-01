@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Samo neprebrana</string>
     <string name="bulletin_source_link_label">Ogled izvirnika</string>
     <string name="bulletin_subscription_default_seed_name">Privzeta priporočila</string>
+    <string name="bulletin_subscription_mode_and">Ujemaj vse</string>
+    <string name="bulletin_subscription_mode_or">Ujemaj katero koli</string>
     <string name="bulletin_taxonomy_clear_selection">Počisti izbor (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Če ne izberete ničesar, se ujema z vsem v tej dimenziji.</string>
     <string name="bulletin_unread_dot_label">Neprebrano</string>

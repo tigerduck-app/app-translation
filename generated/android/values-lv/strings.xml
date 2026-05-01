@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Tikai nelasītie</string>
     <string name="bulletin_source_link_label">Skatīt oriģinālu</string>
     <string name="bulletin_subscription_default_seed_name">Noklusējuma ieteikumi</string>
+    <string name="bulletin_subscription_mode_and">Atbilst visiem</string>
+    <string name="bulletin_subscription_mode_or">Atbilst jebkuram</string>
     <string name="bulletin_taxonomy_clear_selection">Notīrīt atlasi (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Nekas nav atlasīts — tiks ņemti vērā visi šīs dimensijas ieraksti.</string>
     <string name="bulletin_unread_dot_label">Nelasīts</string>

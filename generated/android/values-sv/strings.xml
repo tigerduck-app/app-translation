@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Endast olästa</string>
     <string name="bulletin_source_link_label">Visa original</string>
     <string name="bulletin_subscription_default_seed_name">Standardrekommendationer</string>
+    <string name="bulletin_subscription_mode_and">Matcha alla</string>
+    <string name="bulletin_subscription_mode_or">Matcha något</string>
     <string name="bulletin_taxonomy_clear_selection">Rensa urval (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Inget val innebär \"matcha alla\" för denna dimension.</string>
     <string name="bulletin_unread_dot_label">Oläst</string>

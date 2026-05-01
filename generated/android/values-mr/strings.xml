@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">फक्त न वाचलेले</string>
     <string name="bulletin_source_link_label">मूळ पहा</string>
     <string name="bulletin_subscription_default_seed_name">डीफॉल्ट शिफारसी</string>
+    <string name="bulletin_subscription_mode_and">सर्व जुळवा</string>
+    <string name="bulletin_subscription_mode_or">कोणतेही जुळवा</string>
     <string name="bulletin_taxonomy_clear_selection">निवड साफ करा (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">काहीही न निवडणे म्हणजे या परिमाणासाठी \"सर्व जुळवा\".</string>
     <string name="bulletin_unread_dot_label">न वाचलेले</string>

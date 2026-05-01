@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">ફક્ત નહિં વાંચેલ</string>
     <string name="bulletin_source_link_label">મૂળ જુઓ</string>
     <string name="bulletin_subscription_default_seed_name">ડિફૉલ્ટ ભલામણો</string>
+    <string name="bulletin_subscription_mode_and">બધા મેળ</string>
+    <string name="bulletin_subscription_mode_or">કોઈ પણ મેળ</string>
     <string name="bulletin_taxonomy_clear_selection">પસંદગી સાફ કરો (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">કંઈપણ પસંદ કરવાનો અર્થ આ પરિમાણ માટે \"બધા સાથે મેળ ખાતો\" નથી.</string>
     <string name="bulletin_unread_dot_label">નહિં વાંચેલ</string>

@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">Nur ungelesen</string>
     <string name="bulletin_source_link_label">Original ansehen</string>
     <string name="bulletin_subscription_default_seed_name">คำแนะนำเริ่มต้น</string>
+    <string name="bulletin_subscription_mode_and">ตรงทุกเงื่อนไข</string>
+    <string name="bulletin_subscription_mode_or">ตรงบางเงื่อนไข</string>
     <string name="bulletin_taxonomy_clear_selection">Auswahl löschen (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">Wenn Sie nichts auswählen, bedeutet dies für diese Dimension „Alles treffen“.</string>
     <string name="bulletin_unread_dot_label">Ungelesen</string>

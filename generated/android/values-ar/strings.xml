@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">غير مقروءة فقط</string>
     <string name="bulletin_source_link_label">عرض الأصلي</string>
     <string name="bulletin_subscription_default_seed_name">التوصيات الافتراضية</string>
+    <string name="bulletin_subscription_mode_and">مطابقة الكل</string>
+    <string name="bulletin_subscription_mode_or">مطابقة أي</string>
     <string name="bulletin_taxonomy_clear_selection">مسح التحديد (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">عدم تحديد أي شيء يعني \"مطابقة الكل\" لهذا البُعد.</string>
     <string name="bulletin_unread_dot_label">غير مقروءة</string>

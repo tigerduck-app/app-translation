@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">ਸਿਰਫ਼ ਅਣਪੜ੍ਹੇ</string>
     <string name="bulletin_source_link_label">ਮੂਲ ਦੇਖੋ</string>
     <string name="bulletin_subscription_default_seed_name">ਮੂਲ ਸਿਫ਼ਾਰਿਸ਼ਾਂ</string>
+    <string name="bulletin_subscription_mode_and">ਸਾਰੇ ਮੇਲ ਖਾਣ</string>
+    <string name="bulletin_subscription_mode_or">ਕੋਈ ਵੀ ਮੇਲ ਖਾਵੇ</string>
     <string name="bulletin_taxonomy_clear_selection">ਚੋਣ ਸਾਫ਼ ਕਰੋ (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">ਕੁਝ ਨਾ ਚੁਣਨ ਦਾ ਮਤਲਬ ਹੈ ਇਸ ਮਾਪ ਲਈ \"ਸਭ ਨਾਲ ਮੇਲ ਕਰੋ\"।</string>
     <string name="bulletin_unread_dot_label">ਅਣਪੜ੍ਹਿਆ</string>

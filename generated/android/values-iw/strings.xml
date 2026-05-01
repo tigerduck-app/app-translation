@@ -128,6 +128,8 @@
     <string name="bulletin_show_unread_only_action">לא נקראו בלבד</string>
     <string name="bulletin_source_link_label">הצגת המקור</string>
     <string name="bulletin_subscription_default_seed_name">המלצות ברירת מחדל</string>
+    <string name="bulletin_subscription_mode_and">התאם הכל</string>
+    <string name="bulletin_subscription_mode_or">התאם כלשהו</string>
     <string name="bulletin_taxonomy_clear_selection">מחיקת הבחירה (%1$d)</string>
     <string name="bulletin_taxonomy_picker_hint">לא לבחור דבר פירושו \"התאם הכל\" עבור ממד זה.</string>
     <string name="bulletin_unread_dot_label">לא נקרא</string>
