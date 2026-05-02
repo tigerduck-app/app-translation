@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Показать пиньинь";
 "settings_classroom_mandarin_display_translated" = "Показать перевод";
 "settings_color_theme" = "Цветовая тема";
+"settings_enable_rotation" = "Включить поворот экрана (по умолчанию включено на планшетах)";
 "settings_feedback_bug_report" = "Отзыв / Сообщить о проблеме";
 "settings_invert_slider_direction" = "Инвертировать направление ползунка";
 "settings_language" = "Язык (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Персонализация";
 "settings_section_display" = "Отображение";
 "settings_section_notifications" = "Уведомления";
-"settings_section_other_features" = "Прочие функции";
+"settings_section_other_settings" = "Прочие настройки";
 "settings_show_absolute_assignment_time" = "Показывать полную дату срока сдачи задания";
 "settings_theme_dark" = "Тёмный режим";
 "settings_theme_light" = "Светлый режим";

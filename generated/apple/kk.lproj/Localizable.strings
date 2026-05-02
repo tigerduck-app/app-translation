@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Пиньиньді көрсету";
 "settings_classroom_mandarin_display_translated" = "Аударманы көрсету";
 "settings_color_theme" = "Түс тақырыбы";
+"settings_enable_rotation" = "Экранды бұруды қосу (планшеттерде әдепкі бойынша қосулы)";
 "settings_feedback_bug_report" = "Пікір / Мәселені хабарлау";
 "settings_invert_slider_direction" = "Жүгірткі бағытын кері айналдыру";
 "settings_language" = "Тіл (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Баптау";
 "settings_section_display" = "Дисплей";
 "settings_section_notifications" = "Хабарландырулар";
-"settings_section_other_features" = "Басқа мүмкіндіктер";
+"settings_section_other_settings" = "Басқа параметрлер";
 "settings_show_absolute_assignment_time" = "Тапсырма мерзімі үшін толық күнді көрсету";
 "settings_theme_dark" = "Қараңғы режим";
 "settings_theme_light" = "Жарық режим";

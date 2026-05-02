@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Sýna pinyin";
 "settings_classroom_mandarin_display_translated" = "Sýna þýðingu";
 "settings_color_theme" = "Litaþema";
+"settings_enable_rotation" = "Virkja snúning skjás (sjálfgefið kveikt á spjaldtölvum)";
 "settings_feedback_bug_report" = "Endurgjöf / Tilkynna villu";
 "settings_invert_slider_direction" = "Snúa sleðastefnu við";
 "settings_language" = "Tungumál (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Sérstilling";
 "settings_section_display" = "Birting";
 "settings_section_notifications" = "Tilkynningar";
-"settings_section_other_features" = "Aðrir eiginleikar";
+"settings_section_other_settings" = "Aðrar stillingar";
 "settings_show_absolute_assignment_time" = "Sýna fulla dagsetningu fyrir skiladag verkefnis";
 "settings_theme_dark" = "Dökkt þema";
 "settings_theme_light" = "Ljóst þema";

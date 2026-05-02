@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "הצג פיניין";
 "settings_classroom_mandarin_display_translated" = "הצג תרגום";
 "settings_color_theme" = "ערכת צבעים";
+"settings_enable_rotation" = "הפעל סיבוב מסך (מופעל כברירת מחדל בטאבלטים)";
 "settings_feedback_bug_report" = "משוב / דיווח על בעיה";
 "settings_invert_slider_direction" = "הפוך כיוון מחוון";
 "settings_language" = "(Language) שפה";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "התאמה אישית";
 "settings_section_display" = "תצוגה";
 "settings_section_notifications" = "התראות";
-"settings_section_other_features" = "תכונות נוספות";
+"settings_section_other_settings" = "הגדרות נוספות";
 "settings_show_absolute_assignment_time" = "הצג תאריך מלא לתאריך הגשת מטלה";
 "settings_theme_dark" = "מצב כהה";
 "settings_theme_light" = "מצב בהיר";

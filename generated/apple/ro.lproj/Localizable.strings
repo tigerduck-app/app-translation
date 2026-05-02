@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Afișează pinyin";
 "settings_classroom_mandarin_display_translated" = "Afișează traducere";
 "settings_color_theme" = "Temă de culori";
+"settings_enable_rotation" = "Activează rotirea ecranului (activat implicit pe tablete)";
 "settings_feedback_bug_report" = "Feedback / Raportare problemă";
 "settings_invert_slider_direction" = "Inversează direcția glisorului";
 "settings_language" = "Limbă (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Personalizare";
 "settings_section_display" = "Afișare";
 "settings_section_notifications" = "Notificări";
-"settings_section_other_features" = "Alte funcționalități";
+"settings_section_other_settings" = "Alte setări";
 "settings_show_absolute_assignment_time" = "Afișează data completă pentru termenul temei";
 "settings_theme_dark" = "Mod întunecat";
 "settings_theme_light" = "Mod luminos";

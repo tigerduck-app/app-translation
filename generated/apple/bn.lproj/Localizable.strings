@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "পিনয়িন প্রদর্শন করুন";
 "settings_classroom_mandarin_display_translated" = "অনুবাদ প্রদর্শন করুন";
 "settings_color_theme" = "রং থিম";
+"settings_enable_rotation" = "স্ক্রিন ঘোরানো চালু করুন (ট্যাবলেটে ডিফল্টভাবে চালু)";
 "settings_feedback_bug_report" = "মতামত / সমস্যা রিপোর্ট করুন";
 "settings_invert_slider_direction" = "স্লাইডারের দিক উল্টান";
 "settings_language" = "ভাষা (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "কাস্টমাইজেশন";
 "settings_section_display" = "প্রদর্শন";
 "settings_section_notifications" = "বিজ্ঞপ্তি";
-"settings_section_other_features" = "অন্যান্য ফিচার";
+"settings_section_other_settings" = "অন্যান্য সেটিংস";
 "settings_show_absolute_assignment_time" = "অ্যাসাইনমেন্টের সময়সীমার জন্য সম্পূর্ণ তারিখ দেখান";
 "settings_theme_dark" = "ডার্ক মোড";
 "settings_theme_light" = "লাইট মোড";

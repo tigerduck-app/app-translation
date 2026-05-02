@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Visa pinyin";
 "settings_classroom_mandarin_display_translated" = "Visa översättning";
 "settings_color_theme" = "Färgtema";
+"settings_enable_rotation" = "Aktivera skärmrotation (på som standard på surfplattor)";
 "settings_feedback_bug_report" = "Feedback / Rapportera problem";
 "settings_invert_slider_direction" = "Invertera skjutreglageriktning";
 "settings_language" = "Språk (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Anpassning";
 "settings_section_display" = "Visning";
 "settings_section_notifications" = "Aviseringar";
-"settings_section_other_features" = "Övriga funktioner";
+"settings_section_other_settings" = "Övriga inställningar";
 "settings_show_absolute_assignment_time" = "Visa fullständigt datum för uppgiftens förfallodatum";
 "settings_theme_dark" = "Mörkt läge";
 "settings_theme_light" = "Ljust läge";

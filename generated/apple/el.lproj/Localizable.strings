@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Εμφάνιση πινγίν";
 "settings_classroom_mandarin_display_translated" = "Εμφάνιση μετάφρασης";
 "settings_color_theme" = "Θέμα χρωμάτων";
+"settings_enable_rotation" = "Ενεργοποίηση περιστροφής οθόνης (ενεργό από προεπιλογή σε tablet)";
 "settings_feedback_bug_report" = "Σχόλια / Αναφορά προβλήματος";
 "settings_invert_slider_direction" = "Αντιστροφή κατεύθυνσης ρυθμιστικού";
 "settings_language" = "Γλώσσα (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Προσαρμογή";
 "settings_section_display" = "Εμφάνιση";
 "settings_section_notifications" = "Ειδοποιήσεις";
-"settings_section_other_features" = "Άλλες λειτουργίες";
+"settings_section_other_settings" = "Άλλες ρυθμίσεις";
 "settings_show_absolute_assignment_time" = "Εμφάνιση πλήρους ημερομηνίας για προθεσμία εργασίας";
 "settings_theme_dark" = "Σκοτεινή λειτουργία";
 "settings_theme_light" = "Φωτεινή λειτουργία";

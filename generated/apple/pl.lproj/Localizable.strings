@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Wyświetl pinyin";
 "settings_classroom_mandarin_display_translated" = "Wyświetl tłumaczenie";
 "settings_color_theme" = "Motyw kolorystyczny";
+"settings_enable_rotation" = "Włącz obracanie ekranu (domyślnie włączone na tabletach)";
 "settings_feedback_bug_report" = "Opinie / Zgłoś problem";
 "settings_invert_slider_direction" = "Odwróć kierunek suwaka";
 "settings_language" = "Język (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Personalizacja";
 "settings_section_display" = "Wyświetlanie";
 "settings_section_notifications" = "Powiadomienia";
-"settings_section_other_features" = "Inne funkcje";
+"settings_section_other_settings" = "Inne ustawienia";
 "settings_show_absolute_assignment_time" = "Pokaż pełną datę terminu zadania";
 "settings_theme_dark" = "Tryb ciemny";
 "settings_theme_light" = "Tryb jasny";

@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Hiển thị Bính âm";
 "settings_classroom_mandarin_display_translated" = "Hiển thị bản dịch";
 "settings_color_theme" = "Chủ đề màu";
+"settings_enable_rotation" = "Bật xoay màn hình (mặc định bật trên máy tính bảng)";
 "settings_feedback_bug_report" = "Phản hồi / Báo lỗi";
 "settings_invert_slider_direction" = "Đảo hướng thanh trượt";
 "settings_language" = "Ngôn ngữ (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Tùy chỉnh";
 "settings_section_display" = "Hiển thị";
 "settings_section_notifications" = "Thông báo";
-"settings_section_other_features" = "Tính năng khác";
+"settings_section_other_settings" = "Cài đặt khác";
 "settings_show_absolute_assignment_time" = "Hiển thị ngày đầy đủ cho thời hạn bài tập";
 "settings_theme_dark" = "Chế độ tối";
 "settings_theme_light" = "Chế độ sáng";

@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Rādīt pinyin";
 "settings_classroom_mandarin_display_translated" = "Rādīt tulkojumu";
 "settings_color_theme" = "Krāsu tēma";
+"settings_enable_rotation" = "Iespējot ekrāna pagriešanu (planšetdatoros pēc noklusējuma ieslēgts)";
 "settings_feedback_bug_report" = "Atsauksme / Ziņot par problēmu";
 "settings_invert_slider_direction" = "Invertēt slīdņa virzienu";
 "settings_language" = "Valoda (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Pielāgošana";
 "settings_section_display" = "Attēlošana";
 "settings_section_notifications" = "Paziņojumi";
-"settings_section_other_features" = "Citas funkcijas";
+"settings_section_other_settings" = "Citi iestatījumi";
 "settings_show_absolute_assignment_time" = "Rādīt pilnu datumu uzdevuma termiņam";
 "settings_theme_dark" = "Tumšais režīms";
 "settings_theme_light" = "Gaišais režīms";

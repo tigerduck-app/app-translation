@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "پنین دکھائیں";
 "settings_classroom_mandarin_display_translated" = "ترجمہ دکھائیں";
 "settings_color_theme" = "رنگ تھیم";
+"settings_enable_rotation" = "اسکرین گردش فعال کریں (ٹیبلیٹس پر بطور ڈیفالٹ آن)";
 "settings_feedback_bug_report" = "رائے / مسئلہ رپورٹ کریں";
 "settings_invert_slider_direction" = "سلائیڈر کی سمت پلٹائیں";
 "settings_language" = "(Language) زبان";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "حسب ضرورت";
 "settings_section_display" = "ڈسپلے";
 "settings_section_notifications" = "اطلاعات";
-"settings_section_other_features" = "دیگر فیچرز";
+"settings_section_other_settings" = "دیگر ترتیبات";
 "settings_show_absolute_assignment_time" = "اسائنمنٹ کی آخری تاریخ کے لیے مکمل تاریخ دکھائیں";
 "settings_theme_dark" = "ڈارک موڈ";
 "settings_theme_light" = "لائٹ موڈ";

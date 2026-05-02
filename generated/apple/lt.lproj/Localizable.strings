@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Rodyti pinyin";
 "settings_classroom_mandarin_display_translated" = "Rodyti vertimą";
 "settings_color_theme" = "Spalvų tema";
+"settings_enable_rotation" = "Įjungti ekrano sukimą (planšetėse įjungta pagal numatytuosius)";
 "settings_feedback_bug_report" = "Atsiliepimai / Pranešti apie klaidą";
 "settings_invert_slider_direction" = "Apversti slankiklio kryptį";
 "settings_language" = "Kalba (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Pritaikymas";
 "settings_section_display" = "Rodymas";
 "settings_section_notifications" = "Pranešimai";
-"settings_section_other_features" = "Kitos funkcijos";
+"settings_section_other_settings" = "Kiti nustatymai";
 "settings_show_absolute_assignment_time" = "Rodyti pilną datą užduoties terminui";
 "settings_theme_dark" = "Tamsus režimas";
 "settings_theme_light" = "Šviesus režimas";

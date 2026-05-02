@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Prikaži pinyin";
 "settings_classroom_mandarin_display_translated" = "Prikaži prevod";
 "settings_color_theme" = "Barvna tema";
+"settings_enable_rotation" = "Omogoči vrtenje zaslona (privzeto vklopljeno na tablicah)";
 "settings_feedback_bug_report" = "Povratne informacije / Prijava napake";
 "settings_invert_slider_direction" = "Obrni smer drsnika";
 "settings_language" = "Jezik (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Prilagoditev";
 "settings_section_display" = "Prikaz";
 "settings_section_notifications" = "Obvestila";
-"settings_section_other_features" = "Druge funkcije";
+"settings_section_other_settings" = "Druge nastavitve";
 "settings_show_absolute_assignment_time" = "Prikaži polni datum za rok oddaje naloge";
 "settings_theme_dark" = "Temni način";
 "settings_theme_light" = "Svetli način";

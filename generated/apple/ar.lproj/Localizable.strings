@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "عرض بينيين";
 "settings_classroom_mandarin_display_translated" = "عرض الترجمة";
 "settings_color_theme" = "نسق الألوان";
+"settings_enable_rotation" = "تمكين تدوير الشاشة (مفعّل افتراضيًا على الأجهزة اللوحية)";
 "settings_feedback_bug_report" = "ملاحظات / الإبلاغ عن مشكلة";
 "settings_invert_slider_direction" = "عكس اتجاه شريط التمرير";
 "settings_language" = "(Language) اللغة";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "التخصيص";
 "settings_section_display" = "العرض";
 "settings_section_notifications" = "الإشعارات";
-"settings_section_other_features" = "ميزات أخرى";
+"settings_section_other_settings" = "إعدادات أخرى";
 "settings_show_absolute_assignment_time" = "عرض التاريخ الكامل لموعد استحقاق الواجب";
 "settings_theme_dark" = "الوضع الداكن";
 "settings_theme_light" = "الوضع الفاتح";

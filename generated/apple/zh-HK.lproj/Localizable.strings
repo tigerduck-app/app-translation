@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Display pinyin";
 "settings_classroom_mandarin_display_translated" = "Display translated";
 "settings_color_theme" = "顏色主題";
+"settings_enable_rotation" = "啟用螢幕翻轉（平板預設開啟）";
 "settings_feedback_bug_report" = "回饋/問題回報";
 "settings_invert_slider_direction" = "反轉滑條方向";
 "settings_language" = "語言 (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "自訂";
 "settings_section_display" = "顯示";
 "settings_section_notifications" = "通知";
-"settings_section_other_features" = "其他功能";
+"settings_section_other_settings" = "其他設定";
 "settings_show_absolute_assignment_time" = "作業截止時間顯示完整日期";
 "settings_theme_dark" = "暗色模式";
 "settings_theme_light" = "亮色模式";

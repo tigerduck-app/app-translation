@@ -480,6 +480,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Приказ пињина";
 "settings_classroom_mandarin_display_translated" = "Приказ превода";
 "settings_color_theme" = "Тема боја";
+"settings_enable_rotation" = "Омогући ротацију екрана (подразумевано укључено на таблетима)";
 "settings_feedback_bug_report" = "Повратне информације / Пријави проблем";
 "settings_invert_slider_direction" = "Обрни смер клизача";
 "settings_language" = "Језик (Language)";
@@ -510,7 +511,7 @@
 "settings_section_custom" = "Прилагођавање";
 "settings_section_display" = "Приказ";
 "settings_section_notifications" = "Обавештења";
-"settings_section_other_features" = "Остале функције";
+"settings_section_other_settings" = "Остала подешавања";
 "settings_show_absolute_assignment_time" = "Прикажи пун датум за рок задатка";
 "settings_theme_dark" = "Тамни режим";
 "settings_theme_light" = "Светли режим";
