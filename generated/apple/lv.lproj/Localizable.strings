@@ -3,6 +3,7 @@
 "action_allow" = "Atļaut";
 "action_back" = "Atpakaļ";
 "action_cancel" = "Atcelt";
+"action_clear_text" = "Notīrīt tekstu";
 "action_close" = "Aizvērt";
 "action_confirm" = "Apstiprināt";
 "action_done" = "Gatavs";

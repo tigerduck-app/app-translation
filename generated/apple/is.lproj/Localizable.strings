@@ -3,6 +3,7 @@
 "action_allow" = "Leyfa";
 "action_back" = "Til baka";
 "action_cancel" = "Hætta við";
+"action_clear_text" = "Clear text";
 "action_close" = "Loka";
 "action_confirm" = "Staðfesta";
 "action_done" = "Lokið";

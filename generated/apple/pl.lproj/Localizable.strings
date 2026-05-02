@@ -3,6 +3,7 @@
 "action_allow" = "Zezwól";
 "action_back" = "Wstecz";
 "action_cancel" = "Anuluj";
+"action_clear_text" = "Wyczyść tekst";
 "action_close" = "Zamknij";
 "action_confirm" = "Potwierdź";
 "action_done" = "Gotowe";

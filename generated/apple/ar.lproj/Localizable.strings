@@ -3,6 +3,7 @@
 "action_allow" = "السماح";
 "action_back" = "رجوع";
 "action_cancel" = "إلغاء";
+"action_clear_text" = "مسح النص";
 "action_close" = "إغلاق";
 "action_confirm" = "تأكيد";
 "action_done" = "تم";

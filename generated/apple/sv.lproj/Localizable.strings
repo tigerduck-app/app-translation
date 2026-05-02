@@ -3,6 +3,7 @@
 "action_allow" = "Tillåt";
 "action_back" = "Tillbaka";
 "action_cancel" = "Avbryt";
+"action_clear_text" = "Rensa text";
 "action_close" = "Stäng";
 "action_confirm" = "Bekräfta";
 "action_done" = "Klar";

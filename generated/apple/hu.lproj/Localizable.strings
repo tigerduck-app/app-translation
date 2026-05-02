@@ -3,6 +3,7 @@
 "action_allow" = "Engedélyezés";
 "action_back" = "Vissza";
 "action_cancel" = "Mégse";
+"action_clear_text" = "Szöveg törlése";
 "action_close" = "Bezárás";
 "action_confirm" = "Megerősítés";
 "action_done" = "Kész";

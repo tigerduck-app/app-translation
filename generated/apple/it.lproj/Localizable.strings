@@ -3,6 +3,7 @@
 "action_allow" = "Consenti";
 "action_back" = "Indietro";
 "action_cancel" = "Annulla";
+"action_clear_text" = "Cancella testo";
 "action_close" = "Chiudi";
 "action_confirm" = "Conferma";
 "action_done" = "Fatto";

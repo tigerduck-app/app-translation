@@ -3,6 +3,7 @@
 "action_allow" = "Autoriser";
 "action_back" = "Retour";
 "action_cancel" = "Annuler";
+"action_clear_text" = "Effacer le texte";
 "action_close" = "Fermer";
 "action_confirm" = "Confirmer";
 "action_done" = "Terminé";

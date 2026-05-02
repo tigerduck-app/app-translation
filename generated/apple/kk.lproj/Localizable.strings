@@ -3,6 +3,7 @@
 "action_allow" = "Рұқсат беру";
 "action_back" = "Артқа";
 "action_cancel" = "Болдырмау";
+"action_clear_text" = "Clear text";
 "action_close" = "Жабу";
 "action_confirm" = "Растау";
 "action_done" = "Дайын";

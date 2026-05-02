@@ -3,6 +3,7 @@
 "action_allow" = "Benarkan";
 "action_back" = "Kembali";
 "action_cancel" = "Batal";
+"action_clear_text" = "Padam teks";
 "action_close" = "Tutup";
 "action_confirm" = "Sahkan";
 "action_done" = "Selesai";

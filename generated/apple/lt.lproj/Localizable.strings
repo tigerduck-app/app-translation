@@ -3,6 +3,7 @@
 "action_allow" = "Leisti";
 "action_back" = "Atgal";
 "action_cancel" = "Atšaukti";
+"action_clear_text" = "Išvalyti tekstą";
 "action_close" = "Uždaryti";
 "action_confirm" = "Patvirtinti";
 "action_done" = "Atlikta";

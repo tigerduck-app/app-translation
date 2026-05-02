@@ -3,6 +3,7 @@
 "action_allow" = "Разреши";
 "action_back" = "Назад";
 "action_cancel" = "Отказ";
+"action_clear_text" = "Изчистване на текста";
 "action_close" = "Затвори";
 "action_confirm" = "Потвърди";
 "action_done" = "Готово";

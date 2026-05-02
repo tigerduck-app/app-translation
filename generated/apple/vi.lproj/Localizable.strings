@@ -3,6 +3,7 @@
 "action_allow" = "Cho phép";
 "action_back" = "Quay lại";
 "action_cancel" = "Hủy";
+"action_clear_text" = "Xóa văn bản";
 "action_close" = "Đóng";
 "action_confirm" = "Xác nhận";
 "action_done" = "Xong";

@@ -3,6 +3,7 @@
 "action_allow" = "Tillat";
 "action_back" = "Tilbake";
 "action_cancel" = "Avbryt";
+"action_clear_text" = "Clear text";
 "action_close" = "Lukk";
 "action_confirm" = "Bekreft";
 "action_done" = "Ferdig";

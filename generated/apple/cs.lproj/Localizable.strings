@@ -3,6 +3,7 @@
 "action_allow" = "Povolit";
 "action_back" = "Zpět";
 "action_cancel" = "Zrušit";
+"action_clear_text" = "Vymazat text";
 "action_close" = "Zavřít";
 "action_confirm" = "Potvrdit";
 "action_done" = "Hotovo";

@@ -3,6 +3,7 @@
 "action_allow" = "Tillad";
 "action_back" = "Tilbage";
 "action_cancel" = "Annuller";
+"action_clear_text" = "Ryd tekst";
 "action_close" = "Luk";
 "action_confirm" = "Bekræft";
 "action_done" = "Færdig";
