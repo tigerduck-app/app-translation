@@ -436,6 +436,7 @@
     "settings_library_warning_message": "Это приложение не является официальным приложением библиотеки NTUST и не одобрено школьной библиотекой. Мы не можем гарантировать нормальную работу или последствия использования.\n\nИспользуйте на своё усмотрение. Любые негативные последствия — ваша личная ответственность и не имеют отношения к tigerduck-app.",
     "settings_library_warning_title": "Обратите внимание!",
     "settings_link_opening_method": "Открывать ссылки в",
+    "settings_official_website": "Официальный сайт",
     "settings_open_source_licenses": "Лицензии открытого кода",
     "settings_privacy_policy": "Политика конфиденциальности",
     "settings_push_server_nav_label": "Server push (Экспериментально)",

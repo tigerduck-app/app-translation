@@ -496,6 +496,7 @@
 "settings_library_warning_message" = "Aplikasi ini bukan aplikasi perpustakaan rasmi NTUST dan belum mendapat kelulusan perpustakaan sekolah. Kami tidak dapat menjamin operasi normal atau sebarang akibat daripada penggunaan.\n\nGunakan atas budi bicara anda sendiri. Sebarang akibat negatif adalah tanggungjawab anda sendiri dan tidak berkaitan dengan tigerduck-app.";
 "settings_library_warning_title" = "Sila ambil perhatian!";
 "settings_link_opening_method" = "Buka pautan dengan";
+"settings_official_website" = "Laman web rasmi";
 "settings_open_source_licenses" = "Lesen sumber terbuka";
 "settings_privacy_policy" = "Dasar privasi";
 "settings_push_server_nav_label" = "Tolak pelayan (Eksperimen)";

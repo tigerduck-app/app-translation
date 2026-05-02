@@ -496,6 +496,7 @@
 "settings_library_warning_message" = "Deze app is geen officiële NTUST-bibliotheekapp en is niet goedgekeurd door de schoolbibliotheek. We kunnen geen normale werking of gevolgen van het gebruik garanderen.\n\nGebruik op eigen risico. Eventuele negatieve gevolgen zijn voor je eigen verantwoordelijkheid en staan los van tigerduck-app.";
 "settings_library_warning_title" = "Let op!";
 "settings_link_opening_method" = "Links openen met";
+"settings_official_website" = "Officiële website";
 "settings_open_source_licenses" = "Opensource-licenties";
 "settings_privacy_policy" = "Privacybeleid";
 "settings_push_server_nav_label" = "Serverpush (experimenteel)";

@@ -496,6 +496,7 @@
 "settings_library_warning_message" = "Ứng dụng này không phải là ứng dụng thư viện chính thức của NTUST và chưa được thư viện trường phê duyệt. Chúng tôi không thể đảm bảo hoạt động bình thường hay bất kỳ hậu quả nào của việc sử dụng.\n\nHãy sử dụng theo quyết định của riêng bạn. Mọi hậu quả tiêu cực do bạn tự chịu trách nhiệm và không liên quan đến tigerduck-app.";
 "settings_library_warning_title" = "Vui lòng lưu ý!";
 "settings_link_opening_method" = "Mở liên kết bằng";
+"settings_official_website" = "Trang web chính thức";
 "settings_open_source_licenses" = "Giấy phép mã nguồn mở";
 "settings_privacy_policy" = "Chính sách quyền riêng tư";
 "settings_push_server_nav_label" = "Đẩy máy chủ (Thử nghiệm)";

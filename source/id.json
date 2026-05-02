@@ -436,6 +436,7 @@
     "settings_library_warning_message": "Aplikasi ini bukan aplikasi perpustakaan resmi NTUST dan belum disetujui oleh perpustakaan kampus. Kami tidak dapat menjamin operasi normal atau konsekuensi apa pun dari penggunaan.\n\nGunakan dengan kebijaksanaan kamu sendiri. Setiap dampak negatif menjadi tanggung jawab kamu sendiri dan tidak terkait dengan tigerduck-app.",
     "settings_library_warning_title": "Mohon perhatikan!",
     "settings_link_opening_method": "Buka tautan dengan",
+    "settings_official_website": "Situs web resmi",
     "settings_open_source_licenses": "Lisensi sumber terbuka",
     "settings_privacy_policy": "Kebijakan privasi",
     "settings_push_server_nav_label": "Push server (Eksperimental)",

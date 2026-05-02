@@ -436,6 +436,7 @@
     "settings_library_warning_message": "هذا التطبيق ليس تطبيقًا رسميًا لمكتبة NTUST ولم يحصل على موافقة مكتبة الجامعة. لا يمكننا ضمان التشغيل الطبيعي ولا أي عواقب للاستخدام.\n\nاستخدمه على مسؤوليتك. أي نتائج سلبية تقع على عاتقك ولا علاقة لها بـ tigerduck-app.",
     "settings_library_warning_title": "يرجى الانتباه!",
     "settings_link_opening_method": "فتح الروابط بواسطة",
+    "settings_official_website": "الموقع الرسمي",
     "settings_open_source_licenses": "تراخيص المصادر المفتوحة",
     "settings_privacy_policy": "سياسة الخصوصية",
     "settings_push_server_nav_label": "دفع الخادم (تجريبي)",

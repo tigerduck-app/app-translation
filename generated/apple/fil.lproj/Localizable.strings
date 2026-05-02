@@ -496,6 +496,7 @@
 "settings_library_warning_message" = "Hindi ito opisyal na library app ng NTUST at hindi pa ito aprubado ng school library. Hindi namin masisiguro ang normal na operasyon o anumang kahihinatnan ng paggamit.\n\nGamitin sa sariling pagpapasya. Ang anumang negatibong kinalabasan ay sarili mong responsibilidad at walang kaugnayan sa tigerduck-app.";
 "settings_library_warning_title" = "Pakitandaan po!";
 "settings_link_opening_method" = "Buksan ang mga link gamit ang";
+"settings_official_website" = "Opisyal na website";
 "settings_open_source_licenses" = "Mga open-source na lisensya";
 "settings_privacy_policy" = "Patakaran sa privacy";
 "settings_push_server_nav_label" = "Server push (Eksperimento)";

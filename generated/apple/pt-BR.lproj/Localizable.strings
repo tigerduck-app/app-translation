@@ -496,6 +496,7 @@
 "settings_library_warning_message" = "Este app não é um aplicativo oficial da biblioteca da NTUST e não foi aprovado pela biblioteca da escola. Não podemos garantir o funcionamento normal nem qualquer consequência decorrente do uso.\n\nUse por sua própria conta e risco. Quaisquer resultados negativos são de sua responsabilidade e não têm relação com o tigerduck-app.";
 "settings_library_warning_title" = "Atenção!";
 "settings_link_opening_method" = "Abrir links com";
+"settings_official_website" = "Site oficial";
 "settings_open_source_licenses" = "Licenças de código aberto";
 "settings_privacy_policy" = "Política de privacidade";
 "settings_push_server_nav_label" = "Push do servidor (Experimental)";
