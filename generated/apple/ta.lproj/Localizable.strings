@@ -180,6 +180,9 @@
 "coming_soon_message" = "இந்த அம்சம் இன்னும் செயல்படுத்தப்படவில்லை. காத்திருங்கள்!";
 "coming_soon_title" = "விரைவில் வருகிறது";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "தானாக";
+"common_disabled" = "முடக்கப்பட்டது";
+"common_enabled" = "இயக்கப்பட்டது";
 "common_login_required_feature" = "இந்த அம்சத்தை பயன்படுத்த உள்நுழையவும்";
 "common_not_logged_in" = "உள்நுழையவில்லை";
 "conflict_course_picker_title" = "வகுப்பை தேர்வு செய்யவும்";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "பின்யினைக் காட்டு";
 "settings_classroom_mandarin_display_translated" = "மொழிபெயர்ப்பைக் காட்டு";
 "settings_color_theme" = "நிற தீம்";
-"settings_enable_rotation" = "திரை சுழற்சியை இயக்கு (டேப்லெட்டுகளில் இயல்பாக இயக்கப்பட்டது)";
 "settings_feedback_bug_report" = "கருத்து / சிக்கல் அறிக்கை";
 "settings_invert_slider_direction" = "ஸ்லைடர் திசையை மாற்று";
 "settings_language" = "மொழி (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "வகுப்பு நிறங்களை மீட்டமை";
 "settings_reset_course_colors_confirm_message" = "இது இயல்புநிலை முன்னமைவுகளைப் பயன்படுத்தி வகுப்பு அட்டவணை நிறங்களை சீரற்று மீண்டும் ஒதுக்கும்.";
 "settings_reset_course_colors_confirm_title" = "வகுப்பு அட்டவணை நிறங்களை மீட்டமைக்கவா?";
+"settings_screen_rotation" = "திரை சுழற்சி";
 "settings_section_abbreviation" = "சுருக்கங்கள்";
 "settings_section_about" = "பற்றி";
 "settings_section_account" = "கணக்கு";

@@ -180,6 +180,9 @@
 "coming_soon_message" = "תכונה זו טרם מומשה. הישאר מעודכן!";
 "coming_soon_title" = "בקרוב";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "אוטומטי";
+"common_disabled" = "מושבת";
+"common_enabled" = "מופעל";
 "common_login_required_feature" = "אנא התחבר כדי להשתמש בתכונה זו";
 "common_not_logged_in" = "לא מחובר";
 "conflict_course_picker_title" = "בחר קורס";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "הצג פיניין";
 "settings_classroom_mandarin_display_translated" = "הצג תרגום";
 "settings_color_theme" = "ערכת צבעים";
-"settings_enable_rotation" = "הפעל סיבוב מסך (מופעל כברירת מחדל בטאבלטים)";
 "settings_feedback_bug_report" = "משוב / דיווח על בעיה";
 "settings_invert_slider_direction" = "הפוך כיוון מחוון";
 "settings_language" = "(Language) שפה";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "אפס צבעי קורסים";
 "settings_reset_course_colors_confirm_message" = "פעולה זו תקצה מחדש באופן אקראי את צבעי מערכת השעות תוך שימוש בערכות צבעים ברירת מחדל.";
 "settings_reset_course_colors_confirm_title" = "לאפס את צבעי מערכת השעות?";
+"settings_screen_rotation" = "סיבוב מסך";
 "settings_section_abbreviation" = "קיצורים";
 "settings_section_about" = "אודות";
 "settings_section_account" = "חשבון";

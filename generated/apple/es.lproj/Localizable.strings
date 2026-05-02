@@ -180,6 +180,9 @@
 "coming_soon_message" = "Esta función aún no está implementada. ¡Mantente atento!";
 "coming_soon_title" = "Próximamente";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Automático";
+"common_disabled" = "Desactivado";
+"common_enabled" = "Activado";
 "common_login_required_feature" = "Por favor, inicia sesión para usar esta función";
 "common_not_logged_in" = "Sesión no iniciada";
 "conflict_course_picker_title" = "Elige un curso";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Mostrar pinyin";
 "settings_classroom_mandarin_display_translated" = "Mostrar traducción";
 "settings_color_theme" = "Tema de color";
-"settings_enable_rotation" = "Habilitar rotación de pantalla (activado por defecto en tablets)";
 "settings_feedback_bug_report" = "Comentarios / Reportar problema";
 "settings_invert_slider_direction" = "Invertir dirección del control deslizante";
 "settings_language" = "Idioma (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Restablecer colores de cursos";
 "settings_reset_course_colors_confirm_message" = "Esto reasignará aleatoriamente los colores del horario de clases usando los valores predefinidos.";
 "settings_reset_course_colors_confirm_title" = "¿Restablecer los colores del horario de clases?";
+"settings_screen_rotation" = "Rotación de pantalla";
 "settings_section_abbreviation" = "Abreviaturas";
 "settings_section_about" = "Acerca de";
 "settings_section_account" = "Cuenta";

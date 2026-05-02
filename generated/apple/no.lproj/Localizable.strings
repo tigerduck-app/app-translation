@@ -180,6 +180,9 @@
 "coming_soon_message" = "Denne funksjonen er ikke implementert ennå. Følg med!";
 "coming_soon_title" = "Kommer snart";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Automatisk";
+"common_disabled" = "Deaktivert";
+"common_enabled" = "Aktivert";
 "common_login_required_feature" = "Logg inn for å bruke denne funksjonen";
 "common_not_logged_in" = "Ikke innlogget";
 "conflict_course_picker_title" = "Velg et fag";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Vis pinyin";
 "settings_classroom_mandarin_display_translated" = "Vis oversettelse";
 "settings_color_theme" = "Fargetema";
-"settings_enable_rotation" = "Aktiver skjermrotasjon (på som standard på nettbrett)";
 "settings_feedback_bug_report" = "Tilbakemelding / Rapporter problem";
 "settings_invert_slider_direction" = "Inverter glidebryterens retning";
 "settings_language" = "Språk (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Tilbakestill fagfarger";
 "settings_reset_course_colors_confirm_message" = "Dette vil tilfeldig tildele timeplantfarger på nytt ved hjelp av standardforhåndsinnstillinger.";
 "settings_reset_course_colors_confirm_title" = "Tilbakestill timeplantfarger?";
+"settings_screen_rotation" = "Skjermrotasjon";
 "settings_section_abbreviation" = "Forkortelser";
 "settings_section_about" = "Om";
 "settings_section_account" = "Konto";

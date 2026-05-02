@@ -180,6 +180,9 @@
 "coming_soon_message" = "Ова функција још није имплементирана. Будите стрпљиви!";
 "coming_soon_title" = "Ускоро";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Аутоматски";
+"common_disabled" = "Онемогућено";
+"common_enabled" = "Омогућено";
 "common_login_required_feature" = "Пријавите се да бисте користили ову функцију";
 "common_not_logged_in" = "Нисте пријављени";
 "conflict_course_picker_title" = "Одаберите курс";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Приказ пињина";
 "settings_classroom_mandarin_display_translated" = "Приказ превода";
 "settings_color_theme" = "Тема боја";
-"settings_enable_rotation" = "Омогући ротацију екрана (подразумевано укључено на таблетима)";
 "settings_feedback_bug_report" = "Повратне информације / Пријави проблем";
 "settings_invert_slider_direction" = "Обрни смер клизача";
 "settings_language" = "Језик (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Ресетуј боје курсева";
 "settings_reset_course_colors_confirm_message" = "Ово ће насумично поново доделити боје распореда користећи подразумеване поставке.";
 "settings_reset_course_colors_confirm_title" = "Ресетовати боје распореда?";
+"settings_screen_rotation" = "Ротација екрана";
 "settings_section_abbreviation" = "Скраћенице";
 "settings_section_about" = "О апликацији";
 "settings_section_account" = "Налог";

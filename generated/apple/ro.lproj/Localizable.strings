@@ -180,6 +180,9 @@
 "coming_soon_message" = "Această funcționalitate nu este implementată încă. Rămâi pe fază!";
 "coming_soon_title" = "În curând";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Automat";
+"common_disabled" = "Dezactivat";
+"common_enabled" = "Activat";
 "common_login_required_feature" = "Autentifică-te pentru a folosi această funcționalitate";
 "common_not_logged_in" = "Neautentificat";
 "conflict_course_picker_title" = "Alege un curs";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Afișează pinyin";
 "settings_classroom_mandarin_display_translated" = "Afișează traducere";
 "settings_color_theme" = "Temă de culori";
-"settings_enable_rotation" = "Activează rotirea ecranului (activat implicit pe tablete)";
 "settings_feedback_bug_report" = "Feedback / Raportare problemă";
 "settings_invert_slider_direction" = "Inversează direcția glisorului";
 "settings_language" = "Limbă (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Resetează culorile cursurilor";
 "settings_reset_course_colors_confirm_message" = "Aceasta va reatribui aleator culorile orarului folosind presetările implicite.";
 "settings_reset_course_colors_confirm_title" = "Resetezi culorile orarului?";
+"settings_screen_rotation" = "Rotire ecran";
 "settings_section_abbreviation" = "Abrevieri";
 "settings_section_about" = "Despre";
 "settings_section_account" = "Cont";

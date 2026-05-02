@@ -180,6 +180,9 @@
 "coming_soon_message" = "Бұл мүмкіндік әлі іске асырылмаған. Күтіп қалыңыз!";
 "coming_soon_title" = "Жақында";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Автоматты";
+"common_disabled" = "Өшірулі";
+"common_enabled" = "Қосулы";
 "common_login_required_feature" = "Бұл мүмкіндікті пайдалану үшін алдымен кіріңіз";
 "common_not_logged_in" = "Кіру жасалмаған";
 "conflict_course_picker_title" = "Курс таңдау";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Пиньиньді көрсету";
 "settings_classroom_mandarin_display_translated" = "Аударманы көрсету";
 "settings_color_theme" = "Түс тақырыбы";
-"settings_enable_rotation" = "Экранды бұруды қосу (планшеттерде әдепкі бойынша қосулы)";
 "settings_feedback_bug_report" = "Пікір / Мәселені хабарлау";
 "settings_invert_slider_direction" = "Жүгірткі бағытын кері айналдыру";
 "settings_language" = "Тіл (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Курс түстерін қалпына келтіру";
 "settings_reset_course_colors_confirm_message" = "Бұл сабақ кестесінің түстерін әдепкі алдын ала орнатулар арқылы кездейсоқ қайта тағайындайды.";
 "settings_reset_course_colors_confirm_title" = "Сабақ кестесі түстерін қалпына келтіру керек пе?";
+"settings_screen_rotation" = "Экранды бұру";
 "settings_section_abbreviation" = "Қысқартулар";
 "settings_section_about" = "Туралы";
 "settings_section_account" = "Тіркелгі";

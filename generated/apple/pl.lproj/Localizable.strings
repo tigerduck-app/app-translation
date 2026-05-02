@@ -180,6 +180,9 @@
 "coming_soon_message" = "Ta funkcja nie została jeszcze zaimplementowana. Prosimy o cierpliwość!";
 "coming_soon_title" = "Już wkrótce";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Automatycznie";
+"common_disabled" = "Wyłączone";
+"common_enabled" = "Włączone";
 "common_login_required_feature" = "Proszę zalogować się, aby skorzystać z tej funkcji";
 "common_not_logged_in" = "Niezalogowany";
 "conflict_course_picker_title" = "Wybierz przedmiot";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Wyświetl pinyin";
 "settings_classroom_mandarin_display_translated" = "Wyświetl tłumaczenie";
 "settings_color_theme" = "Motyw kolorystyczny";
-"settings_enable_rotation" = "Włącz obracanie ekranu (domyślnie włączone na tabletach)";
 "settings_feedback_bug_report" = "Opinie / Zgłoś problem";
 "settings_invert_slider_direction" = "Odwróć kierunek suwaka";
 "settings_language" = "Język (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Zresetuj kolory przedmiotów";
 "settings_reset_course_colors_confirm_message" = "Spowoduje to losowe przypisanie kolorów planu zajęć z domyślnych predefiniowanych ustawień.";
 "settings_reset_course_colors_confirm_title" = "Zresetować kolory planu zajęć?";
+"settings_screen_rotation" = "Obrót ekranu";
 "settings_section_abbreviation" = "Skróty";
 "settings_section_about" = "O aplikacji";
 "settings_section_account" = "Konto";

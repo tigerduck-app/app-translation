@@ -180,6 +180,9 @@
 "coming_soon_message" = "See funktsioon pole veel saadaval. Jääge ootele!";
 "coming_soon_title" = "Tulemas peatselt";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Automaatne";
+"common_disabled" = "Keelatud";
+"common_enabled" = "Lubatud";
 "common_login_required_feature" = "Selle funktsiooni kasutamiseks logige sisse";
 "common_not_logged_in" = "Pole sisse logitud";
 "conflict_course_picker_title" = "Valige kursus";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Kuva pinyin";
 "settings_classroom_mandarin_display_translated" = "Kuva tõlge";
 "settings_color_theme" = "Värvi teema";
-"settings_enable_rotation" = "Luba ekraani pööramine (tahvelarvutites vaikimisi sees)";
 "settings_feedback_bug_report" = "Tagasiside / Vea aruanne";
 "settings_invert_slider_direction" = "Pööra liuguri suund ümber";
 "settings_language" = "Keel (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Lähtesta kursuse värvid";
 "settings_reset_course_colors_confirm_message" = "See määrab tunniplaanis värvid juhuslikult ümber vaikimisi eelseadistuste põhjal.";
 "settings_reset_course_colors_confirm_title" = "Lähtestada tunniplaani värvid?";
+"settings_screen_rotation" = "Ekraani pööramine";
 "settings_section_abbreviation" = "Lühendid";
 "settings_section_about" = "Teave";
 "settings_section_account" = "Konto";

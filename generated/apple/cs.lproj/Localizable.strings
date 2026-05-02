@@ -180,6 +180,9 @@
 "coming_soon_message" = "Tato funkce ještě není implementována. Zůstaňte naladěni!";
 "coming_soon_title" = "Již brzy";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Automaticky";
+"common_disabled" = "Vypnuto";
+"common_enabled" = "Zapnuto";
 "common_login_required_feature" = "Pro použití této funkce se prosím přihlaste";
 "common_not_logged_in" = "Nepřihlášeno";
 "conflict_course_picker_title" = "Vyberte kurz";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Zobrazit pinyin";
 "settings_classroom_mandarin_display_translated" = "Zobrazit překlad";
 "settings_color_theme" = "Barevný motiv";
-"settings_enable_rotation" = "Povolit otáčení obrazovky (na tabletech ve výchozím nastavení zapnuto)";
 "settings_feedback_bug_report" = "Zpětná vazba / Nahlásit problém";
 "settings_invert_slider_direction" = "Obrátit směr posuvníku";
 "settings_language" = "Jazyk (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Obnovit barvy kurzů";
 "settings_reset_course_colors_confirm_message" = "Tato akce náhodně přepřiřadí barvy rozvrhu pomocí výchozích předvoleb.";
 "settings_reset_course_colors_confirm_title" = "Obnovit barvy rozvrhu?";
+"settings_screen_rotation" = "Otáčení obrazovky";
 "settings_section_abbreviation" = "Zkratky";
 "settings_section_about" = "O aplikaci";
 "settings_section_account" = "Účet";

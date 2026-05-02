@@ -180,6 +180,9 @@
 "coming_soon_message" = "Эта функция ещё не реализована. Следите за обновлениями!";
 "coming_soon_title" = "Скоро будет";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Автоматически";
+"common_disabled" = "Отключено";
+"common_enabled" = "Включено";
 "common_login_required_feature" = "Войдите, чтобы пользоваться этой функцией";
 "common_not_logged_in" = "Вы не вошли в систему";
 "conflict_course_picker_title" = "Выберите курс";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Показать пиньинь";
 "settings_classroom_mandarin_display_translated" = "Показать перевод";
 "settings_color_theme" = "Цветовая тема";
-"settings_enable_rotation" = "Включить поворот экрана (по умолчанию включено на планшетах)";
 "settings_feedback_bug_report" = "Отзыв / Сообщить о проблеме";
 "settings_invert_slider_direction" = "Инвертировать направление ползунка";
 "settings_language" = "Язык (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Сбросить цвета курсов";
 "settings_reset_course_colors_confirm_message" = "Это случайным образом переназначит цвета расписания, используя предустановленные значения.";
 "settings_reset_course_colors_confirm_title" = "Сбросить цвета расписания?";
+"settings_screen_rotation" = "Поворот экрана";
 "settings_section_abbreviation" = "Сокращения";
 "settings_section_about" = "О приложении";
 "settings_section_account" = "Учётная запись";

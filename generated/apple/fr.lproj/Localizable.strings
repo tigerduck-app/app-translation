@@ -180,6 +180,9 @@
 "coming_soon_message" = "Cette fonctionnalité n'est pas encore disponible. Restez à l'écoute !";
 "coming_soon_title" = "Bientôt disponible";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Automatique";
+"common_disabled" = "Désactivé";
+"common_enabled" = "Activé";
 "common_login_required_feature" = "Veuillez vous connecter pour utiliser cette fonctionnalité";
 "common_not_logged_in" = "Non connecté";
 "conflict_course_picker_title" = "Choisir un cours";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Afficher pinyin";
 "settings_classroom_mandarin_display_translated" = "Afficher la traduction";
 "settings_color_theme" = "Thème de couleur";
-"settings_enable_rotation" = "Activer la rotation de l'écran (activée par défaut sur les tablettes)";
 "settings_feedback_bug_report" = "Commentaires / Signaler un problème";
 "settings_invert_slider_direction" = "Inverser le sens du curseur";
 "settings_language" = "Langue (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Réinitialiser les couleurs des cours";
 "settings_reset_course_colors_confirm_message" = "Cela réattribuera aléatoirement les couleurs de l'emploi du temps en utilisant les valeurs prédéfinies par défaut.";
 "settings_reset_course_colors_confirm_title" = "Réinitialiser les couleurs de l'emploi du temps ?";
+"settings_screen_rotation" = "Rotation de l’écran";
 "settings_section_abbreviation" = "Abréviations";
 "settings_section_about" = "À propos";
 "settings_section_account" = "Compte";

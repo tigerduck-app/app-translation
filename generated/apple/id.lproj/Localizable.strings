@@ -180,6 +180,9 @@
 "coming_soon_message" = "Fitur ini belum tersedia. Nantikan ya!";
 "coming_soon_title" = "Segera hadir";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "Otomatis";
+"common_disabled" = "Nonaktif";
+"common_enabled" = "Aktif";
 "common_login_required_feature" = "Silakan masuk untuk menggunakan fitur ini";
 "common_not_logged_in" = "Belum masuk";
 "conflict_course_picker_title" = "Pilih mata kuliah";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Tampilkan pinyin";
 "settings_classroom_mandarin_display_translated" = "Tampilkan terjemahan";
 "settings_color_theme" = "Tema warna";
-"settings_enable_rotation" = "Aktifkan rotasi layar (aktif secara default di tablet)";
 "settings_feedback_bug_report" = "Umpan balik / Laporkan masalah";
 "settings_invert_slider_direction" = "Balik arah slider";
 "settings_language" = "Bahasa (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "Setel ulang warna mata kuliah";
 "settings_reset_course_colors_confirm_message" = "Ini akan mengacak ulang warna jadwal kuliah menggunakan preset default.";
 "settings_reset_course_colors_confirm_title" = "Setel ulang warna jadwal kuliah?";
+"settings_screen_rotation" = "Rotasi layar";
 "settings_section_abbreviation" = "Singkatan";
 "settings_section_about" = "Tentang";
 "settings_section_account" = "Akun";

@@ -180,6 +180,9 @@
 "coming_soon_message" = "ఈ ఫీచర్ ఇంకా అమలు కాలేదు. వేచి ఉండండి!";
 "coming_soon_title" = "త్వరలో వస్తుంది";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "స్వయంచాలకం";
+"common_disabled" = "నిలిపివేయబడింది";
+"common_enabled" = "ప్రారంభించబడింది";
 "common_login_required_feature" = "ఈ ఫీచర్ వాడటానికి దయచేసి సైన్ ఇన్ చేయండి";
 "common_not_logged_in" = "సైన్ ఇన్ కాలేదు";
 "conflict_course_picker_title" = "కోర్సు ఎంచుకోండి";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "పిన్యిన్ చూపించు";
 "settings_classroom_mandarin_display_translated" = "అనువాదాన్ని చూపించు";
 "settings_color_theme" = "రంగు థీమ్";
-"settings_enable_rotation" = "స్క్రీన్ రొటేషన్ ప్రారంభించు (టాబ్లెట్‌లలో డిఫాల్ట్‌గా ఆన్)";
 "settings_feedback_bug_report" = "ఫీడ్‌బ్యాక్ / సమస్య నివేదించు";
 "settings_invert_slider_direction" = "స్లైడర్ దిశ తిరగబెట్టండి";
 "settings_language" = "భాష (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "కోర్సు రంగులు రీసెట్ చేయండి";
 "settings_reset_course_colors_confirm_message" = "ఇది డిఫాల్ట్ ప్రీసెట్లు వాడి తరగతి షెడ్యూల్ రంగులను యాదృచ్ఛికంగా తిరిగి కేటాయిస్తుంది.";
 "settings_reset_course_colors_confirm_title" = "తరగతి షెడ్యూల్ రంగులు రీసెట్ చేయాలా?";
+"settings_screen_rotation" = "స్క్రీన్ రొటేషన్";
 "settings_section_abbreviation" = "సంక్షేపాలు";
 "settings_section_about" = "గురించి";
 "settings_section_account" = "అకౌంట్";

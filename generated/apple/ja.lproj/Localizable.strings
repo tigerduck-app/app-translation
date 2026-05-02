@@ -180,6 +180,9 @@
 "coming_soon_message" = "この機能はまだ実装されていません。お楽しみに！";
 "coming_soon_title" = "もうすぐ登場";
 "common_auto_login_failed" = "Auto sign-in failed";
+"common_automatic" = "自動";
+"common_disabled" = "無効";
+"common_enabled" = "有効";
 "common_login_required_feature" = "この機能を使うにはサインインしてください";
 "common_not_logged_in" = "サインインしていません";
 "conflict_course_picker_title" = "授業を選択";
@@ -480,7 +483,6 @@
 "settings_classroom_mandarin_display_pinyin" = "ピンインを表示";
 "settings_classroom_mandarin_display_translated" = "訳語を表示";
 "settings_color_theme" = "カラーテーマ";
-"settings_enable_rotation" = "画面回転を有効化（タブレットでは既定で有効）";
 "settings_feedback_bug_report" = "フィードバック / 不具合報告";
 "settings_invert_slider_direction" = "スライダーの方向を反転";
 "settings_language" = "言語 (Language)";
@@ -505,6 +507,7 @@
 "settings_reset_course_colors" = "時間割の色をリセット";
 "settings_reset_course_colors_confirm_message" = "デフォルトのプリセットを使って、時間割の色をランダムに再割り当てします。";
 "settings_reset_course_colors_confirm_title" = "時間割の色をリセットしますか？";
+"settings_screen_rotation" = "画面回転";
 "settings_section_abbreviation" = "略称";
 "settings_section_about" = "について";
 "settings_section_account" = "アカウント";
