@@ -430,7 +430,7 @@
     "settings_language_follow_system": "Urmează sistemul (Rezervă: engleză)",
     "settings_language_traditional_chinese": "Chineză tradițională",
     "settings_library_account_subtitle": "Parola poate fi diferită față de sistemul academic; implicit este numărul de identificare național",
-    "settings_library_feature_disabled_message": "Activează mai întâi „Bibliotecă și funcționalități asociate“ din „Alte funcționalități“, apoi folosește scurtătura cod QR bibliotecă.",
+    "settings_library_feature_disabled_message": "Activează mai întâi „Bibliotecă și funcționalități asociate“ din „Alte setări“, apoi folosește scurtătura cod QR bibliotecă.",
     "settings_library_feature_disabled_title": "Funcționalitatea de bibliotecă este dezactivată",
     "settings_library_related_features": "Bibliotecă și funcționalități asociate",
     "settings_library_warning_confirm": "Accept riscul",

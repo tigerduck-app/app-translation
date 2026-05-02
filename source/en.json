@@ -430,7 +430,7 @@
     "settings_language_follow_system": "Follow system (Fallback English)",
     "settings_language_traditional_chinese": "Traditional Chinese",
     "settings_library_account_subtitle": "Password may differ from the school system; defaults to your national ID number",
-    "settings_library_feature_disabled_message": "Enable \"Library and related features\" under \"Other features\" first, then use the library QR shortcut.",
+    "settings_library_feature_disabled_message": "Enable \"Library and related features\" under \"Other settings\" first, then use the library QR shortcut.",
     "settings_library_feature_disabled_title": "Library feature is disabled",
     "settings_library_related_features": "Library and related features",
     "settings_library_warning_confirm": "I accept the risk",

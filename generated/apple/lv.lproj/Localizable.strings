@@ -490,7 +490,7 @@
 "settings_language_follow_system" = "Sekot sistēmai (rezerves angļu)";
 "settings_language_traditional_chinese" = "Tradicionālais ķīniešu";
 "settings_library_account_subtitle" = "Parole var atšķirties no akadēmiskās sistēmas; pēc noklusējuma ir personas kods";
-"settings_library_feature_disabled_message" = "Vispirms iespējojiet \"Bibliotēka un saistītās funkcijas\" sadaļā \"Citas funkcijas\", pēc tam izmantojiet bibliotēkas QR saīsni.";
+"settings_library_feature_disabled_message" = "Vispirms iespējojiet \"Bibliotēka un saistītās funkcijas\" sadaļā \"Citi iestatījumi\", pēc tam izmantojiet bibliotēkas QR saīsni.";
 "settings_library_feature_disabled_title" = "Bibliotēkas funkcija ir atspējota";
 "settings_library_related_features" = "Bibliotēka un saistītās funkcijas";
 "settings_library_warning_confirm" = "Pieņemu risku";

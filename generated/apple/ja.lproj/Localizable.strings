@@ -304,7 +304,7 @@
 "library_qr_refresh_in_seconds" = "%1$d 秒後に更新";
 "library_status_logged_in" = "サインイン済み";
 "library_status_not_logged_in" = "サインインしていません";
-"library_virtual_pass_title" = "仮想入館証";
+"library_virtual_pass_title" = "バチャル入館証";
 "live_activity_settings_assignment_notification_footer" = "課題の期限前に通知が届きます。";
 "live_activity_settings_assignment_notification_header" = "課題通知";
 "live_activity_settings_assignment_warning" = "課題警告";
@@ -490,7 +490,7 @@
 "settings_language_follow_system" = "システムに従う（フォールバックは英語）";
 "settings_language_traditional_chinese" = "繁體中文";
 "settings_library_account_subtitle" = "パスワードは校務システムと異なる場合があります。デフォルトは身分証番号です";
-"settings_library_feature_disabled_message" = "まず「その他の機能」の「図書館および関連機能」を有効にしてから、図書館 QR ショートカットを使用してください。";
+"settings_library_feature_disabled_message" = "まず「その他の設定」の「図書館および関連機能」を有効にしてから、図書館 QR ショートカットを使用してください。";
 "settings_library_feature_disabled_title" = "図書館機能は無効です";
 "settings_library_related_features" = "図書館および関連機能";
 "settings_library_warning_confirm" = "リスクを承知のうえで利用します";

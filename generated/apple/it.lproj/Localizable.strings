@@ -490,7 +490,7 @@
 "settings_language_follow_system" = "Segui il sistema (Inglese di riserva)";
 "settings_language_traditional_chinese" = "Cinese tradizionale";
 "settings_library_account_subtitle" = "La password potrebbe essere diversa da quella del sistema accademico; per impostazione predefinita è il tuo numero di documento d'identità";
-"settings_library_feature_disabled_message" = "Abilita prima \"Biblioteca e funzioni correlate\" sotto \"Altre funzioni\", quindi usa la scorciatoia QR della biblioteca.";
+"settings_library_feature_disabled_message" = "Abilita prima \"Biblioteca e funzioni correlate\" sotto \"Altre impostazioni\", quindi usa la scorciatoia QR della biblioteca.";
 "settings_library_feature_disabled_title" = "La funzione biblioteca è disattivata";
 "settings_library_related_features" = "Biblioteca e funzioni correlate";
 "settings_library_warning_confirm" = "Accetto il rischio";

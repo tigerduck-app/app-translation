@@ -490,7 +490,7 @@
 "settings_language_follow_system" = "Fylgja kerfi (Vara: enska)";
 "settings_language_traditional_chinese" = "Hefðbundinn kínverska";
 "settings_library_account_subtitle" = "Lykilorðið gæti verið annað en í námskerfinu; sjálfgefið er þjóðarskírteinisnúmer þitt";
-"settings_library_feature_disabled_message" = "Virkjaðu \"Bókasafn og tengdir eiginleikar\" undir \"Aðrir eiginleikar\" fyrst og notaðu síðan QR-kóða flýtileiðina.";
+"settings_library_feature_disabled_message" = "Virkjaðu \"Bókasafn og tengdir eiginleikar\" undir \"Aðrar stillingar\" fyrst og notaðu síðan QR-kóða flýtileiðina.";
 "settings_library_feature_disabled_title" = "Bókasafnseiginleiki er óvirkur";
 "settings_library_related_features" = "Bókasafn og tengdir eiginleikar";
 "settings_library_warning_confirm" = "Ég samþykki áhættuna";

@@ -490,7 +490,7 @@
 "settings_language_follow_system" = "Systeem volgen (Reserve Engels)";
 "settings_language_traditional_chinese" = "Traditioneel Chinees";
 "settings_library_account_subtitle" = "Wachtwoord kan afwijken van het studentenportaal; standaard je nationale ID-nummer";
-"settings_library_feature_disabled_message" = "Schakel eerst \"Bibliotheek en gerelateerde functies\" in onder \"Overige functies\" en gebruik daarna de bibliotheek QR-snelkoppeling.";
+"settings_library_feature_disabled_message" = "Schakel eerst \"Bibliotheek en gerelateerde functies\" in onder \"Overige instellingen\" en gebruik daarna de bibliotheek QR-snelkoppeling.";
 "settings_library_feature_disabled_title" = "Bibliotheekfunctie is uitgeschakeld";
 "settings_library_related_features" = "Bibliotheek en gerelateerde functies";
 "settings_library_warning_confirm" = "Ik aanvaard het risico";

@@ -490,7 +490,7 @@
 "settings_language_follow_system" = "System folgen (Ersatz: Englisch)";
 "settings_language_traditional_chinese" = "Traditionelles Chinesisch";
 "settings_library_account_subtitle" = "Das Passwort kann sich vom Hochschulsystem unterscheiden; Standard ist Ihre nationale Ausweisnummer";
-"settings_library_feature_disabled_message" = "Aktivieren Sie zuerst „Bibliothek und zugehörige Funktionen“ unter „Weitere Funktionen“, dann verwenden Sie die Bibliothek-QR-Verknüpfung.";
+"settings_library_feature_disabled_message" = "Aktivieren Sie zuerst „Bibliothek und zugehörige Funktionen“ unter „Weitere Einstellungen“, dann verwenden Sie die Bibliothek-QR-Verknüpfung.";
 "settings_library_feature_disabled_title" = "Bibliotheksfunktion ist deaktiviert";
 "settings_library_related_features" = "Bibliothek und zugehörige Funktionen";
 "settings_library_warning_confirm" = "Ich akzeptiere das Risiko";

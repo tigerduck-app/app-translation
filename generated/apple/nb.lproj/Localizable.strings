@@ -490,7 +490,7 @@
 "settings_language_follow_system" = "Følg system (reserve: engelsk)";
 "settings_language_traditional_chinese" = "Tradisjonell kinesisk";
 "settings_library_account_subtitle" = "Passordet kan avvike fra studentportalen; standard er ditt nasjonale ID-nummer";
-"settings_library_feature_disabled_message" = "Aktiver «Bibliotek og relaterte funksjoner» under «Andre funksjoner» først, og bruk deretter bibliotek-QR-snarveien.";
+"settings_library_feature_disabled_message" = "Aktiver «Bibliotek og relaterte funksjoner» under «Andre innstillinger» først, og bruk deretter bibliotek-QR-snarveien.";
 "settings_library_feature_disabled_title" = "Bibliotekfunksjon er deaktivert";
 "settings_library_related_features" = "Bibliotek og relaterte funksjoner";
 "settings_library_warning_confirm" = "Jeg aksepterer risikoen";
