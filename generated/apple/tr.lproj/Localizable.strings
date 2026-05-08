@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Ekle";
 "action_allow" = "İzin ver";
+"action_apply" = "Apply";
 "action_back" = "Geri";
 "action_cancel" = "İptal";
 "action_clear_text" = "Metni temizle";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "Bu ders için kayıt verisi mevcut değil";
 "course_detail_time_label" = "Saat";
 "course_instructor_value" = "Öğretim üyesi: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Duyuru yanıtı ayrıştırılamadı: %1$@";
 "error_bulletin_encoding_failed_format" = "Duyuru isteği kodlanamadı: %1$@";
 "error_bulletin_http_status_format" = "Duyuru sunucusu HTTP %1$d döndürdü: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Pinyini göster";
 "settings_classroom_mandarin_display_translated" = "Çevirisi göster";
 "settings_color_theme" = "Renk teması";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Geri bildirim / Sorun bildir";
 "settings_invert_slider_direction" = "Kaydırıcı yönünü ters çevir";
 "settings_language" = "Dil (Language)";

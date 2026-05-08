@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">Tastiera standard</string>
     <string name="action_add">Aggiungi</string>
     <string name="action_allow">Consenti</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">Indietro</string>
     <string name="action_cancel">Annulla</string>
     <string name="action_clear_text">Cancella testo</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">Nessun dato di iscrizione disponibile per questo corso</string>
     <string name="course_detail_time_label">Orario</string>
     <string name="course_instructor_value">Docente: %1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Accesso non riuscito</string>
     <string name="error_network_unavailable">Impossibile connettersi. Controlla la connessione di rete.</string>
     <string name="error_no_response">Nessuna risposta</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Mostra pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Mostra tradotto</string>
     <string name="settings_color_theme">Tema colore</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Feedback / Segnala un problema</string>
     <string name="settings_invert_slider_direction">Inverti la direzione del cursore</string>
     <string name="settings_language">Lingua (Language)</string>

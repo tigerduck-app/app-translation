@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">मानक कीबोर्ड</string>
     <string name="action_add">जोडा</string>
     <string name="action_allow">परवानगी द्या</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">मागे</string>
     <string name="action_cancel">रद्द करा</string>
     <string name="action_clear_text">मजकूर साफ करा</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">या अभ्यासक्रमासाठी नोंदणी डेटा उपलब्ध नाही</string>
     <string name="course_detail_time_label">वेळ</string>
     <string name="course_instructor_value">प्राध्यापक: %1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">लॉगिन अयशस्वी</string>
     <string name="error_network_unavailable">कनेक्ट होता येत नाही. कृपया तुमचे नेटवर्क कनेक्शन तपासा.</string>
     <string name="error_no_response">कोणताही प्रतिसाद नाही</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">पिनयिन दर्शवा</string>
     <string name="settings_classroom_mandarin_display_translated">भाषांतर दर्शवा</string>
     <string name="settings_color_theme">रंग थीम</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">अभिप्राय / समस्या अहवाल</string>
     <string name="settings_invert_slider_direction">स्लायडर दिशा उलटवा</string>
     <string name="settings_language">भाषा (Language)</string>

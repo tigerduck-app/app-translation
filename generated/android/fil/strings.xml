@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">Standard na keyboard</string>
     <string name="action_add">Idagdag</string>
     <string name="action_allow">Payagan</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">Bumalik</string>
     <string name="action_cancel">Kanselahin</string>
     <string name="action_clear_text">I-clear ang teksto</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">Walang available na data sa pagpapatala para sa kursong ito</string>
     <string name="course_detail_time_label">Oras</string>
     <string name="course_instructor_value">Instructor: %1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Nabigong mag-login</string>
     <string name="error_network_unavailable">Hindi makakonekta. Pakisuri ang iyong koneksyon sa network.</string>
     <string name="error_no_response">Walang tugon</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Ipakita ang pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Ipakita ang salin</string>
     <string name="settings_color_theme">Kulay na tema</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Feedback / Mag-ulat ng isyu</string>
     <string name="settings_invert_slider_direction">I-invert ang direksyon ng slider</string>
     <string name="settings_language">Wika (Language)</string>

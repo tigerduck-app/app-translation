@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "যোগ করুন";
 "action_allow" = "অনুমতি দিন";
+"action_apply" = "Apply";
 "action_back" = "পিছনে";
 "action_cancel" = "বাতিল";
 "action_clear_text" = "টেক্সট পরিষ্কার করুন";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "এই কোর্সের জন্য কোন নথিভুক্তি তথ্য উপলব্ধ";
 "course_detail_time_label" = "সময়";
 "course_instructor_value" = "শিক্ষক: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "নোটিশ রেসপন্স পার্স করতে ব্যর্থ: %1$@";
 "error_bulletin_encoding_failed_format" = "নোটিশ অনুরোধ এনকোড করতে ব্যর্থ: %1$@";
 "error_bulletin_http_status_format" = "নোটিশ সার্ভার HTTP %1$d ফেরত দিয়েছে: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "পিনয়িন প্রদর্শন করুন";
 "settings_classroom_mandarin_display_translated" = "অনুবাদ প্রদর্শন করুন";
 "settings_color_theme" = "রং থিম";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "মতামত / সমস্যা রিপোর্ট করুন";
 "settings_invert_slider_direction" = "স্লাইডারের দিক উল্টান";
 "settings_language" = "ভাষা (Language)";

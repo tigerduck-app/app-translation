@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Lisää";
 "action_allow" = "Salli";
+"action_apply" = "Apply";
 "action_back" = "Takaisin";
 "action_cancel" = "Peruuta";
 "action_clear_text" = "Tyhjennä teksti";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "Tälle kurssille ei ole saatavilla ilmoittautumistietoja";
 "course_detail_time_label" = "Aika";
 "course_instructor_value" = "Opettaja: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Tiedotteen vastauksen jäsennys epäonnistui: %1$@";
 "error_bulletin_encoding_failed_format" = "Tiedotepyynnön koodaus epäonnistui: %1$@";
 "error_bulletin_http_status_format" = "Tiedotepalvelin palautti HTTP %1$d: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Näytä pinyin";
 "settings_classroom_mandarin_display_translated" = "Näytä käännös";
 "settings_color_theme" = "Väriteema";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Palaute / Ilmoita ongelma";
 "settings_invert_slider_direction" = "Käännä liukusäätimen suunta";
 "settings_language" = "Kieli (Language)";

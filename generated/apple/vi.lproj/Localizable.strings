@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Thêm";
 "action_allow" = "Cho phép";
+"action_apply" = "Apply";
 "action_back" = "Quay lại";
 "action_cancel" = "Hủy";
 "action_clear_text" = "Xóa văn bản";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "Không có dữ liệu đăng ký học cho môn này";
 "course_detail_time_label" = "Thời gian";
 "course_instructor_value" = "Giảng viên: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Không phân tích được phản hồi bản tin: %1$@";
 "error_bulletin_encoding_failed_format" = "Không mã hóa được yêu cầu bản tin: %1$@";
 "error_bulletin_http_status_format" = "Máy chủ bản tin trả về HTTP %1$d: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Hiển thị Bính âm";
 "settings_classroom_mandarin_display_translated" = "Hiển thị bản dịch";
 "settings_color_theme" = "Chủ đề màu";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Phản hồi / Báo lỗi";
 "settings_invert_slider_direction" = "Đảo hướng thanh trượt";
 "settings_language" = "Ngôn ngữ (Language)";

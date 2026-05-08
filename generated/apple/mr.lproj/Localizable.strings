@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "जोडा";
 "action_allow" = "परवानगी द्या";
+"action_apply" = "Apply";
 "action_back" = "मागे";
 "action_cancel" = "रद्द करा";
 "action_clear_text" = "मजकूर साफ करा";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "या अभ्यासक्रमासाठी नोंदणी डेटा उपलब्ध नाही";
 "course_detail_time_label" = "वेळ";
 "course_instructor_value" = "प्राध्यापक: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "बुलेटिन प्रतिसाद पार्स करणे अयशस्वी: %1$@";
 "error_bulletin_encoding_failed_format" = "बुलेटिन विनंती एन्कोड करणे अयशस्वी: %1$@";
 "error_bulletin_http_status_format" = "बुलेटिन सर्व्हरने HTTP %1$d परत केले: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "पिनयिन दर्शवा";
 "settings_classroom_mandarin_display_translated" = "भाषांतर दर्शवा";
 "settings_color_theme" = "रंग थीम";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "अभिप्राय / समस्या अहवाल";
 "settings_invert_slider_direction" = "स्लायडर दिशा उलटवा";
 "settings_language" = "भाषा (Language)";

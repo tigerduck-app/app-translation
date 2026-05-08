@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "추가";
 "action_allow" = "허용";
+"action_apply" = "Apply";
 "action_back" = "뒤로";
 "action_cancel" = "취소";
 "action_clear_text" = "텍스트 지우기";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "이 강좌의 수강 데이터가 없습니다";
 "course_detail_time_label" = "시간";
 "course_instructor_value" = "강사: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "공지 응답 파싱에 실패했습니다: %1$@";
 "error_bulletin_encoding_failed_format" = "공지 요청 인코딩에 실패했습니다: %1$@";
 "error_bulletin_http_status_format" = "공지 서버가 HTTP %1$d을(를) 반환했습니다: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "병음 표시";
 "settings_classroom_mandarin_display_translated" = "번역 표시";
 "settings_color_theme" = "색상 테마";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "피드백 / 문제 신고";
 "settings_invert_slider_direction" = "슬라이더 방향 반전";
 "settings_language" = "언어 (Language)";

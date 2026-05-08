@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "ചേർക്കുക";
 "action_allow" = "അനുവദിക്കുക";
+"action_apply" = "Apply";
 "action_back" = "തിരിച്ച്";
 "action_cancel" = "റദ്ദാക്കുക";
 "action_clear_text" = "ടെക്സ്റ്റ് മായ്ക്കുക";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "ഈ കോഴ്‌സിനായി എൻറോൾമെന്റ് ഡാറ്റ ലഭ്യമല്ല";
 "course_detail_time_label" = "സമയം";
 "course_instructor_value" = "അധ്യാപകൻ: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "ബുള്ളറ്റിൻ പ്രതികരണം പാഴ്‌സ് ചെയ്യുന്നതിൽ പരാജയം: %1$@";
 "error_bulletin_encoding_failed_format" = "ബുള്ളറ്റിൻ അഭ്യർത്ഥന എൻകോഡ് ചെയ്യുന്നതിൽ പരാജയം: %1$@";
 "error_bulletin_http_status_format" = "ബുള്ളറ്റിൻ സെർവർ HTTP %1$d തിരിച്ചു നൽകി: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "പിൻയിൻ കാണിക്കുക";
 "settings_classroom_mandarin_display_translated" = "വിവർത്തനം കാണിക്കുക";
 "settings_color_theme" = "നിറ തീം";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക";
 "settings_invert_slider_direction" = "സ്ലൈഡർ ദിശ നേർമാറ്റം ചെയ്യുക";
 "settings_language" = "ഭാഷ (Language)";

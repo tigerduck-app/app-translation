@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Pievienot";
 "action_allow" = "Atļaut";
+"action_apply" = "Apply";
 "action_back" = "Atpakaļ";
 "action_cancel" = "Atcelt";
 "action_clear_text" = "Notīrīt tekstu";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "Šim kursam nav pieejami reģistrācijas dati";
 "course_detail_time_label" = "Laiks";
 "course_instructor_value" = "Pasniedzējs: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Neizdevās analizēt paziņojumu atbildi: %1$@";
 "error_bulletin_encoding_failed_format" = "Neizdevās kodēt paziņojumu pieprasījumu: %1$@";
 "error_bulletin_http_status_format" = "Paziņojumu serveris atgrieza HTTP %1$d: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Rādīt pinyin";
 "settings_classroom_mandarin_display_translated" = "Rādīt tulkojumu";
 "settings_color_theme" = "Krāsu tēma";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Atsauksme / Ziņot par problēmu";
 "settings_invert_slider_direction" = "Invertēt slīdņa virzienu";
 "settings_language" = "Valoda (Language)";

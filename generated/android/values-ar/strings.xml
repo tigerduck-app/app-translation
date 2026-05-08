@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">لوحة مفاتيح قياسية</string>
     <string name="action_add">إضافة</string>
     <string name="action_allow">السماح</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">رجوع</string>
     <string name="action_cancel">إلغاء</string>
     <string name="action_clear_text">مسح النص</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">لا توجد بيانات التسجيل المتاحة لهذه الدورة</string>
     <string name="course_detail_time_label">وقت</string>
     <string name="course_instructor_value">المُحاضِر: %1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">فشل تسجيل الدخول</string>
     <string name="error_network_unavailable">تعذر الاتصال. يرجى التحقق من اتصال الشبكة.</string>
     <string name="error_no_response">لا توجد استجابة</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">عرض بينيين</string>
     <string name="settings_classroom_mandarin_display_translated">عرض الترجمة</string>
     <string name="settings_color_theme">نسق الألوان</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">ملاحظات / الإبلاغ عن مشكلة</string>
     <string name="settings_invert_slider_direction">عكس اتجاه شريط التمرير</string>
     <string name="settings_language">(Language) اللغة</string>

@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">Bàn phím tiêu chuẩn</string>
     <string name="action_add">Thêm</string>
     <string name="action_allow">Cho phép</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">Quay lại</string>
     <string name="action_cancel">Hủy</string>
     <string name="action_clear_text">Xóa văn bản</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">Không có dữ liệu đăng ký học cho môn này</string>
     <string name="course_detail_time_label">Thời gian</string>
     <string name="course_instructor_value">Giảng viên: %1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Đăng nhập thất bại</string>
     <string name="error_network_unavailable">Không thể kết nối. Vui lòng kiểm tra kết nối mạng.</string>
     <string name="error_no_response">Không có phản hồi</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Hiển thị Bính âm</string>
     <string name="settings_classroom_mandarin_display_translated">Hiển thị bản dịch</string>
     <string name="settings_color_theme">Chủ đề màu</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Phản hồi / Báo lỗi</string>
     <string name="settings_invert_slider_direction">Đảo hướng thanh trượt</string>
     <string name="settings_language">Ngôn ngữ (Language)</string>

@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">Standarta tastatūra</string>
     <string name="action_add">Pievienot</string>
     <string name="action_allow">Atļaut</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">Atpakaļ</string>
     <string name="action_cancel">Atcelt</string>
     <string name="action_clear_text">Notīrīt tekstu</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">Šim kursam nav pieejami reģistrācijas dati</string>
     <string name="course_detail_time_label">Laiks</string>
     <string name="course_instructor_value">Pasniedzējs: %1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Pieteikšanās neizdevās</string>
     <string name="error_network_unavailable">Nevar izveidot savienojumu. Lūdzu, pārbaudiet tīkla savienojumu.</string>
     <string name="error_no_response">Nav atbildes</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Rādīt pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Rādīt tulkojumu</string>
     <string name="settings_color_theme">Krāsu tēma</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Atsauksme / Ziņot par problēmu</string>
     <string name="settings_invert_slider_direction">Invertēt slīdņa virzienu</string>
     <string name="settings_language">Valoda (Language)</string>

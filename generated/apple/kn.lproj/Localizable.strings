@@ -1,6 +1,7 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "ಸೇರಿಸಿ";
 "action_allow" = "ಅನುಮತಿಸಿ";
+"action_apply" = "Apply";
 "action_back" = "ಹಿಂದೆ";
 "action_cancel" = "ರದ್ದುಮಾಡಿ";
 "action_clear_text" = "ಪಠ್ಯ ಅಳಿಸಿ";
@@ -202,6 +203,15 @@
 "course_detail_no_roster" = "ಈ ಕೋರ್ಸ್‌ಗೆ ನೋಂದಣಿ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ";
 "course_detail_time_label" = "ಸಮಯ";
 "course_instructor_value" = "ಬೋಧಕರು: %1$@";
+"developer_date_label" = "Date";
+"developer_effective_now" = "Effective now";
+"developer_mode_frozen" = "Frozen";
+"developer_mode_label" = "Mode";
+"developer_mode_ticking" = "Ticking";
+"developer_time_label" = "Time";
+"developer_time_override_section" = "Time override";
+"developer_title" = "Developer";
+"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "ಬುಲೆಟಿನ್ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಾರ್ಸ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ: %1$@";
 "error_bulletin_encoding_failed_format" = "ಬುಲೆಟಿನ್ ವಿನಂತಿಯನ್ನು ಎನ್‌ಕೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ: %1$@";
 "error_bulletin_http_status_format" = "ಬುಲೆಟಿನ್ ಸರ್ವರ್ HTTP %1$d ಹಿಂತಿರುಗಿಸಿದೆ: %2$@";
@@ -500,6 +510,7 @@
 "settings_classroom_mandarin_display_pinyin" = "ಪಿನ್ಯಿನ್ ತೋರಿಸು";
 "settings_classroom_mandarin_display_translated" = "ಅನುವಾದ ತೋರಿಸು";
 "settings_color_theme" = "ಬಣ್ಣ ಥೀಮ್";
+"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "ಪ್ರತಿಕ್ರಿಯೆ / ಸಮಸ್ಯೆ ವರದಿ";
 "settings_invert_slider_direction" = "ಸ್ಲೈಡರ್ ದಿಕ್ಕು ತಿರುಗಿಸಿ";
 "settings_language" = "ಭಾಷೆ (Language)";

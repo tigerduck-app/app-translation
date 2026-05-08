@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">Стандартты пернетақта</string>
     <string name="action_add">Қосу</string>
     <string name="action_allow">Рұқсат беру</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">Артқа</string>
     <string name="action_cancel">Болдырмау</string>
     <string name="action_clear_text">Clear text</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">Бұл курс үшін тіркелу деректері жоқ</string>
     <string name="course_detail_time_label">Уақыт</string>
     <string name="course_instructor_value">Оқытушы: %1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Кіру сәтсіз аяқталды</string>
     <string name="error_network_unavailable">Қосылу мүмкін емес. Желі байланысын тексеріңіз.</string>
     <string name="error_no_response">Жауап жоқ</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Пиньиньді көрсету</string>
     <string name="settings_classroom_mandarin_display_translated">Аударманы көрсету</string>
     <string name="settings_color_theme">Түс тақырыбы</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Пікір / Мәселені хабарлау</string>
     <string name="settings_invert_slider_direction">Жүгірткі бағытын кері айналдыру</string>
     <string name="settings_language">Тіл (Language)</string>

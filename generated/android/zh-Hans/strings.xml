@@ -4,6 +4,7 @@
     <string name="account_id_use_standard_keyboard">标准键盘</string>
     <string name="action_add">添加</string>
     <string name="action_allow">允许</string>
+    <string name="action_apply">Apply</string>
     <string name="action_back">返回</string>
     <string name="action_cancel">取消</string>
     <string name="action_clear_text">清除文字</string>
@@ -190,6 +191,15 @@
     <string name="course_detail_no_roster">目前没有此课程的选课数据</string>
     <string name="course_detail_time_label">时间</string>
     <string name="course_instructor_value">讲师：%1$s</string>
+    <string name="developer_date_label">Date</string>
+    <string name="developer_effective_now">Effective now</string>
+    <string name="developer_mode_frozen">Frozen</string>
+    <string name="developer_mode_label">Mode</string>
+    <string name="developer_mode_ticking">Ticking</string>
+    <string name="developer_time_label">Time</string>
+    <string name="developer_time_override_section">Time override</string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">登录失败</string>
     <string name="error_network_unavailable">无法连接，请检查网络连接</string>
     <string name="error_no_response">无回应</string>
@@ -456,6 +466,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Display pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Display translated</string>
     <string name="settings_color_theme">颜色主题</string>
+    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">回馈/问题回报</string>
     <string name="settings_invert_slider_direction">反转滑条方向</string>
     <string name="settings_language">语言 (Language)</string>
