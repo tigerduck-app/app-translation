@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">Стандартна клавиатура</string>
     <string name="action_add">Добави</string>
     <string name="action_allow">Разреши</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">Назад</string>
     <string name="action_cancel">Отказ</string>
     <string name="action_clear_text">Изчистване на текста</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">Няма налични данни за записване за този курс</string>
     <string name="course_detail_time_label">време</string>
     <string name="course_instructor_value">Преподавател: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Влизането е неуспешно</string>
     <string name="error_network_unavailable">Не може да се установи връзка. Моля, проверете мрежовата си връзка.</string>
     <string name="error_no_response">Няма отговор</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">Показване на пиньинь</string>
     <string name="settings_classroom_mandarin_display_translated">Показване на превод</string>
     <string name="settings_color_theme">Цветова тема</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Обратна връзка / Докладване на проблем</string>
     <string name="settings_invert_slider_direction">Обръщане на посоката на плъзгача</string>
     <string name="settings_language">Език (Language)</string>

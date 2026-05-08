@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">நிலையான விசைப்பலகை</string>
     <string name="action_add">சேர்</string>
     <string name="action_allow">அனுமதி</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">பின்செல்</string>
     <string name="action_cancel">ரத்துசெய்</string>
     <string name="action_clear_text">உரையை அழி</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">இந்தப் பாடத்திற்கு சேர்க்கை தரவு எதுவும் இல்லை</string>
     <string name="course_detail_time_label">நேரம்</string>
     <string name="course_instructor_value">விரிவுரையாளர்: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">லாக்-இன் தோல்வியடைந்தது</string>
     <string name="error_network_unavailable">இணைக்க முடியவில்லை. உங்கள் நெட்வொர்க் இணைப்பை சரிபார்க்கவும்.</string>
     <string name="error_no_response">எந்த பதிலும் இல்லை</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">பின்யினைக் காட்டு</string>
     <string name="settings_classroom_mandarin_display_translated">மொழிபெயர்ப்பைக் காட்டு</string>
     <string name="settings_color_theme">நிற தீம்</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">கருத்து / சிக்கல் அறிக்கை</string>
     <string name="settings_invert_slider_direction">ஸ்லைடர் திசையை மாற்று</string>
     <string name="settings_language">மொழி (Language)</string>

@@ -1,7 +1,6 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Қосу";
 "action_allow" = "Рұқсат беру";
-"action_apply" = "Apply";
 "action_back" = "Артқа";
 "action_cancel" = "Болдырмау";
 "action_clear_text" = "Clear text";
@@ -203,15 +202,6 @@
 "course_detail_no_roster" = "Бұл курс үшін тіркелу деректері жоқ";
 "course_detail_time_label" = "Уақыт";
 "course_instructor_value" = "Оқытушы: %1$@";
-"developer_date_label" = "Date";
-"developer_effective_now" = "Effective now";
-"developer_mode_frozen" = "Frozen";
-"developer_mode_label" = "Mode";
-"developer_mode_ticking" = "Ticking";
-"developer_time_label" = "Time";
-"developer_time_override_section" = "Time override";
-"developer_title" = "Developer";
-"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Хабарландыру жауабын талдау сәтсіз: %1$@";
 "error_bulletin_encoding_failed_format" = "Хабарландыру сұранысын кодтау сәтсіз: %1$@";
 "error_bulletin_http_status_format" = "Хабарландыру сервері HTTP %1$d қайтарды: %2$@";
@@ -510,7 +500,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Пиньиньді көрсету";
 "settings_classroom_mandarin_display_translated" = "Аударманы көрсету";
 "settings_color_theme" = "Түс тақырыбы";
-"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Пікір / Мәселені хабарлау";
 "settings_invert_slider_direction" = "Жүгірткі бағытын кері айналдыру";
 "settings_language" = "Тіл (Language)";

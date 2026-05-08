@@ -1,7 +1,6 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Tambah";
 "action_allow" = "Benarkan";
-"action_apply" = "Apply";
 "action_back" = "Kembali";
 "action_cancel" = "Batal";
 "action_clear_text" = "Padam teks";
@@ -203,15 +202,6 @@
 "course_detail_no_roster" = "Tiada data pendaftaran tersedia untuk kursus ini";
 "course_detail_time_label" = "Masa";
 "course_instructor_value" = "Pengajar: %1$@";
-"developer_date_label" = "Date";
-"developer_effective_now" = "Effective now";
-"developer_mode_frozen" = "Frozen";
-"developer_mode_label" = "Mode";
-"developer_mode_ticking" = "Ticking";
-"developer_time_label" = "Time";
-"developer_time_override_section" = "Time override";
-"developer_title" = "Developer";
-"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Gagal menghuraikan respons buletin: %1$@";
 "error_bulletin_encoding_failed_format" = "Gagal mengekod permintaan buletin: %1$@";
 "error_bulletin_http_status_format" = "Pelayan buletin mengembalikan HTTP %1$d: %2$@";
@@ -510,7 +500,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Papar pinyin";
 "settings_classroom_mandarin_display_translated" = "Papar terjemahan";
 "settings_color_theme" = "Tema warna";
-"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Maklum balas / Laporkan isu";
 "settings_invert_slider_direction" = "Songsangkan arah gelongsor";
 "settings_language" = "Bahasa (Language)";

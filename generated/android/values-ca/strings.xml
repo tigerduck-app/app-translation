@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">Teclat estàndard</string>
     <string name="action_add">Afegeix</string>
     <string name="action_allow">Permet</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">Enrere</string>
     <string name="action_cancel">Cancel·la</string>
     <string name="action_clear_text">Esborrar text</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">No hi ha dades de matrícula disponibles per a aquest curs</string>
     <string name="course_detail_time_label">Temps</string>
     <string name="course_instructor_value">Professor: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Error d\'inici de sessió</string>
     <string name="error_network_unavailable">No es pot connectar. Comproveu la connexió de xarxa.</string>
     <string name="error_no_response">Sense resposta</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">Mostra pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Mostra traducció</string>
     <string name="settings_color_theme">Tema de color</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Comentaris / Informeu d\'un problema</string>
     <string name="settings_invert_slider_direction">Inverteix la direcció del control lliscant</string>
     <string name="settings_language">Idioma (Language)</string>

@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">സ്റ്റാൻഡേർഡ് കീബോർഡ്</string>
     <string name="action_add">ചേർക്കുക</string>
     <string name="action_allow">അനുവദിക്കുക</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">തിരിച്ച്</string>
     <string name="action_cancel">റദ്ദാക്കുക</string>
     <string name="action_clear_text">ടെക്സ്റ്റ് മായ്ക്കുക</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">ഈ കോഴ്‌സിനായി എൻറോൾമെന്റ് ഡാറ്റ ലഭ്യമല്ല</string>
     <string name="course_detail_time_label">സമയം</string>
     <string name="course_instructor_value">അധ്യാപകൻ: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">ലോഗിൻ പരാജയപ്പെട്ടു</string>
     <string name="error_network_unavailable">കണക്റ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല. നെറ്റ്‌വർക്ക് കണക്ഷൻ പരിശോധിക്കുക.</string>
     <string name="error_no_response">പ്രതികരണം ലഭിച്ചില്ല</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">പിൻയിൻ കാണിക്കുക</string>
     <string name="settings_classroom_mandarin_display_translated">വിവർത്തനം കാണിക്കുക</string>
     <string name="settings_color_theme">നിറ തീം</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക</string>
     <string name="settings_invert_slider_direction">സ്ലൈഡർ ദിശ നേർമാറ്റം ചെയ്യുക</string>
     <string name="settings_language">ഭാഷ (Language)</string>

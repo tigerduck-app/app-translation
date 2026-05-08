@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">Standardtangentbord</string>
     <string name="action_add">Lägg till</string>
     <string name="action_allow">Tillåt</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">Tillbaka</string>
     <string name="action_cancel">Avbryt</string>
     <string name="action_clear_text">Rensa text</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">Ingen registreringsdata tillgänglig för denna kurs</string>
     <string name="course_detail_time_label">Tid</string>
     <string name="course_instructor_value">Lärare: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Inloggning misslyckades</string>
     <string name="error_network_unavailable">Kan inte ansluta. Kontrollera din nätverksanslutning.</string>
     <string name="error_no_response">Inget svar</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">Visa pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Visa översättning</string>
     <string name="settings_color_theme">Färgtema</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Feedback / Rapportera problem</string>
     <string name="settings_invert_slider_direction">Invertera skjutreglageriktning</string>
     <string name="settings_language">Språk (Language)</string>

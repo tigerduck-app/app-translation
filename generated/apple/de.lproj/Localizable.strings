@@ -1,7 +1,6 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Hinzufügen";
 "action_allow" = "Erlauben";
-"action_apply" = "Apply";
 "action_back" = "Zurück";
 "action_cancel" = "Abbrechen";
 "action_clear_text" = "Text löschen";
@@ -203,15 +202,6 @@
 "course_detail_no_roster" = "Für diesen Kurs sind keine Anmeldedaten verfügbar";
 "course_detail_time_label" = "Zeit";
 "course_instructor_value" = "Dozent: %1$@";
-"developer_date_label" = "Date";
-"developer_effective_now" = "Effective now";
-"developer_mode_frozen" = "Frozen";
-"developer_mode_label" = "Mode";
-"developer_mode_ticking" = "Ticking";
-"developer_time_label" = "Time";
-"developer_time_override_section" = "Time override";
-"developer_title" = "Developer";
-"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Bulletin-Antwort konnte nicht verarbeitet werden: %1$@";
 "error_bulletin_encoding_failed_format" = "Bulletin-Anfrage konnte nicht codiert werden: %1$@";
 "error_bulletin_http_status_format" = "Bulletin-Server lieferte HTTP %1$d: %2$@";
@@ -510,7 +500,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Pinyin anzeigen";
 "settings_classroom_mandarin_display_translated" = "Übersetzung anzeigen";
 "settings_color_theme" = "Farbschema";
-"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Feedback / Fehler melden";
 "settings_invert_slider_direction" = "Schieberichtung umkehren";
 "settings_language" = "Sprache (Language)";

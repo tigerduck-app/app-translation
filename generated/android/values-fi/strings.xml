@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">Vakionäppäimistö</string>
     <string name="action_add">Lisää</string>
     <string name="action_allow">Salli</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">Takaisin</string>
     <string name="action_cancel">Peruuta</string>
     <string name="action_clear_text">Tyhjennä teksti</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">Tälle kurssille ei ole saatavilla ilmoittautumistietoja</string>
     <string name="course_detail_time_label">Aika</string>
     <string name="course_instructor_value">Opettaja: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Kirjautuminen epäonnistui</string>
     <string name="error_network_unavailable">Yhteys epäonnistui. Tarkista verkkoyhteys.</string>
     <string name="error_no_response">Ei vastausta</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">Näytä pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Näytä käännös</string>
     <string name="settings_color_theme">Väriteema</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Palaute / Ilmoita ongelma</string>
     <string name="settings_invert_slider_direction">Käännä liukusäätimen suunta</string>
     <string name="settings_language">Kieli (Language)</string>

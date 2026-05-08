@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">صفحه‌کلید استاندارد</string>
     <string name="action_add">افزودن</string>
     <string name="action_allow">اجازه دادن</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">بازگشت</string>
     <string name="action_cancel">لغو</string>
     <string name="action_clear_text">پاک کردن متن</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">هیچ اطلاعات ثبت نامی برای این دوره در دسترس نیست</string>
     <string name="course_detail_time_label">زمان</string>
     <string name="course_instructor_value">مدرس: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">ورود ناموفق بود</string>
     <string name="error_network_unavailable">اتصال ممکن نیست. لطفاً اتصال شبکه را بررسی کنید.</string>
     <string name="error_no_response">پاسخی دریافت نشد</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">نمایش پینیین</string>
     <string name="settings_classroom_mandarin_display_translated">نمایش ترجمه شده</string>
     <string name="settings_color_theme">تم رنگ</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">بازخورد / گزارش مشکل</string>
     <string name="settings_invert_slider_direction">معکوس کردن جهت لغزنده</string>
     <string name="settings_language">(Language) زبان</string>

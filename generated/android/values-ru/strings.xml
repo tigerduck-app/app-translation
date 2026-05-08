@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">Стандартная клавиатура</string>
     <string name="action_add">Добавить</string>
     <string name="action_allow">Разрешить</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">Назад</string>
     <string name="action_cancel">Отмена</string>
     <string name="action_clear_text">Очистить текст</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">Данные о записи на курс недоступны</string>
     <string name="course_detail_time_label">Время</string>
     <string name="course_instructor_value">Преподаватель: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Не удалось войти</string>
     <string name="error_network_unavailable">Не удаётся подключиться. Проверьте подключение к сети.</string>
     <string name="error_no_response">Нет ответа</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">Показать пиньинь</string>
     <string name="settings_classroom_mandarin_display_translated">Показать перевод</string>
     <string name="settings_color_theme">Цветовая тема</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Отзыв / Сообщить о проблеме</string>
     <string name="settings_invert_slider_direction">Инвертировать направление ползунка</string>
     <string name="settings_language">Язык (Language)</string>

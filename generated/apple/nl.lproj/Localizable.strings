@@ -1,7 +1,6 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "Toevoegen";
 "action_allow" = "Toestaan";
-"action_apply" = "Apply";
 "action_back" = "Terug";
 "action_cancel" = "Annuleren";
 "action_clear_text" = "Tekst wissen";
@@ -203,15 +202,6 @@
 "course_detail_no_roster" = "Geen inschrijvingsgegevens beschikbaar voor dit vak";
 "course_detail_time_label" = "Tijd";
 "course_instructor_value" = "Docent: %1$@";
-"developer_date_label" = "Date";
-"developer_effective_now" = "Effective now";
-"developer_mode_frozen" = "Frozen";
-"developer_mode_label" = "Mode";
-"developer_mode_ticking" = "Ticking";
-"developer_time_label" = "Time";
-"developer_time_override_section" = "Time override";
-"developer_title" = "Developer";
-"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "Mededelingenrespons ontleden mislukt: %1$@";
 "error_bulletin_encoding_failed_format" = "Mededelingenverzoek coderen mislukt: %1$@";
 "error_bulletin_http_status_format" = "Mededelingenserver retourneerde HTTP %1$d: %2$@";
@@ -510,7 +500,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Pinyin weergeven";
 "settings_classroom_mandarin_display_translated" = "Vertaling weergeven";
 "settings_color_theme" = "Kleurthema";
-"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "Feedback / Probleem melden";
 "settings_invert_slider_direction" = "Schuifregelaarrichting omkeren";
 "settings_language" = "Taal (Language)";

@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">แป้นพิมพ์มาตรฐาน</string>
     <string name="action_add">เพิ่ม</string>
     <string name="action_allow">อนุญาต</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">ย้อนกลับ</string>
     <string name="action_cancel">ยกเลิก</string>
     <string name="action_clear_text">ล้างข้อความ</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">Für diesen Kurs sind keine Anmeldedaten verfügbar</string>
     <string name="course_detail_time_label">Zeit</string>
     <string name="course_instructor_value">อาจารย์: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">เข้าสู่ระบบล้มเหลว</string>
     <string name="error_network_unavailable">ไม่สามารถเชื่อมต่อได้ กรุณาตรวจสอบการเชื่อมต่อเครือข่าย</string>
     <string name="error_no_response">ไม่มีการตอบสนอง</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">แสดงพินอิน</string>
     <string name="settings_classroom_mandarin_display_translated">แสดงคำแปล</string>
     <string name="settings_color_theme">ธีมสี</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">ความคิดเห็น / รายงานปัญหา</string>
     <string name="settings_invert_slider_direction">สลับทิศทางแถบเลื่อน</string>
     <string name="settings_language">ภาษา (Language)</string>

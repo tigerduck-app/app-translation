@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">Τυπικό πληκτρολόγιο</string>
     <string name="action_add">Προσθήκη</string>
     <string name="action_allow">Επιτρέπεται</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">Πίσω</string>
     <string name="action_cancel">Άκυρο</string>
     <string name="action_clear_text">Εκκαθάριση κειμένου</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">Δεν υπάρχουν διαθέσιμα στοιχεία εγγραφής για αυτό το μάθημα</string>
     <string name="course_detail_time_label">Φορά</string>
     <string name="course_instructor_value">Καθηγητής: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Αποτυχία σύνδεσης</string>
     <string name="error_network_unavailable">Αδύνατη η σύνδεση. Ελέγξτε τη σύνδεσή σας στο δίκτυο.</string>
     <string name="error_no_response">Δεν υπάρχει απόκριση</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">Εμφάνιση πινγίν</string>
     <string name="settings_classroom_mandarin_display_translated">Εμφάνιση μετάφρασης</string>
     <string name="settings_color_theme">Θέμα χρωμάτων</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Σχόλια / Αναφορά προβλήματος</string>
     <string name="settings_invert_slider_direction">Αντιστροφή κατεύθυνσης ρυθμιστικού</string>
     <string name="settings_language">Γλώσσα (Language)</string>

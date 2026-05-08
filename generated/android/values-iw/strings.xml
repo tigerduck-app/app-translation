@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">מקלדת רגילה</string>
     <string name="action_add">הוסף</string>
     <string name="action_allow">אפשר</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">חזרה</string>
     <string name="action_cancel">ביטול</string>
     <string name="action_clear_text">נקה טקסט</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">אין נתוני הרשמה זמינים עבור קורס זה</string>
     <string name="course_detail_time_label">זמן</string>
     <string name="course_instructor_value">מרצה: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">הכניסה נכשלה</string>
     <string name="error_network_unavailable">לא ניתן להתחבר. בדוק את חיבור הרשת שלך.</string>
     <string name="error_no_response">אין תגובה</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">הצג פיניין</string>
     <string name="settings_classroom_mandarin_display_translated">הצג תרגום</string>
     <string name="settings_color_theme">ערכת צבעים</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">משוב / דיווח על בעיה</string>
     <string name="settings_invert_slider_direction">הפוך כיוון מחוון</string>
     <string name="settings_language">(Language) שפה</string>

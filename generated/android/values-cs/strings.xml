@@ -4,7 +4,6 @@
     <string name="account_id_use_standard_keyboard">Standardní klávesnice</string>
     <string name="action_add">Přidat</string>
     <string name="action_allow">Povolit</string>
-    <string name="action_apply">Apply</string>
     <string name="action_back">Zpět</string>
     <string name="action_cancel">Zrušit</string>
     <string name="action_clear_text">Vymazat text</string>
@@ -191,15 +190,6 @@
     <string name="course_detail_no_roster">Pro tento kurz nejsou k dispozici žádné údaje o zápisu</string>
     <string name="course_detail_time_label">Čas</string>
     <string name="course_instructor_value">Vyučující: %1$s</string>
-    <string name="developer_date_label">Date</string>
-    <string name="developer_effective_now">Effective now</string>
-    <string name="developer_mode_frozen">Frozen</string>
-    <string name="developer_mode_label">Mode</string>
-    <string name="developer_mode_ticking">Ticking</string>
-    <string name="developer_time_label">Time</string>
-    <string name="developer_time_override_section">Time override</string>
-    <string name="developer_title">Developer</string>
-    <string name="developer_use_fake_time">Use fake time</string>
     <string name="error_login_failed">Přihlášení se nezdařilo</string>
     <string name="error_network_unavailable">Nelze se připojit. Zkontrolujte prosím připojení k síti.</string>
     <string name="error_no_response">Žádná odpověď</string>
@@ -466,7 +456,6 @@
     <string name="settings_classroom_mandarin_display_pinyin">Zobrazit pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Zobrazit překlad</string>
     <string name="settings_color_theme">Barevný motiv</string>
-    <string name="settings_developer">Developer</string>
     <string name="settings_feedback_bug_report">Zpětná vazba / Nahlásit problém</string>
     <string name="settings_invert_slider_direction">Obrátit směr posuvníku</string>
     <string name="settings_language">Jazyk (Language)</string>

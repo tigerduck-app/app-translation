@@ -1,7 +1,6 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
 "action_add" = "添加";
 "action_allow" = "允许";
-"action_apply" = "Apply";
 "action_back" = "返回";
 "action_cancel" = "取消";
 "action_clear_text" = "清除文字";
@@ -203,15 +202,6 @@
 "course_detail_no_roster" = "目前没有此课程的选课数据";
 "course_detail_time_label" = "时间";
 "course_instructor_value" = "讲师：%1$@";
-"developer_date_label" = "Date";
-"developer_effective_now" = "Effective now";
-"developer_mode_frozen" = "Frozen";
-"developer_mode_label" = "Mode";
-"developer_mode_ticking" = "Ticking";
-"developer_time_label" = "Time";
-"developer_time_override_section" = "Time override";
-"developer_title" = "Developer";
-"developer_use_fake_time" = "Use fake time";
 "error_bulletin_decoding_failed_format" = "公告响应解析失败：%1$@";
 "error_bulletin_encoding_failed_format" = "公告请求编码失败：%1$@";
 "error_bulletin_http_status_format" = "公告服务器返回 HTTP %1$d：%2$@";
@@ -510,7 +500,6 @@
 "settings_classroom_mandarin_display_pinyin" = "Display pinyin";
 "settings_classroom_mandarin_display_translated" = "Display translated";
 "settings_color_theme" = "颜色主题";
-"settings_developer" = "Developer";
 "settings_feedback_bug_report" = "回馈/问题回报";
 "settings_invert_slider_direction" = "反转滑条方向";
 "settings_language" = "语言 (Language)";
