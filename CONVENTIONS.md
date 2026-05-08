@@ -101,6 +101,27 @@ Suffix conventions:
 Before adding a key, search the source for an existing one that fits. Avoid
 near-duplicates like `error_network_unavailable` vs `network_error`.
 
+## Translation reference locales
+
+When translating a new or revised key, refer to these source locales rather
+than translating from scratch — they capture intent and tone choices that the
+canonical English value alone may miss.
+
+- **`zh-Hant`, `zh-Hans`, `yue-HK`** — translate by referring to **each
+  other**. These three Chinese variants share vocabulary, grammar, and a lot
+  of UX wording that doesn't map cleanly back through English. If only one of
+  the three has a finished translation, start from that one and adapt;
+  consult `en` for disambiguation, not as the primary source.
+- **All other locales** — translate by referring to **`en`**. The English
+  source is canonical (see `config/locales.json` → `canonicalLocale`) and is
+  guaranteed to be complete and current.
+
+If you're adding a key under a feature flag and only have a translation
+ready in one locale, copy the canonical (`en`) value as a placeholder for
+every other locale per the schema rule above. Don't leave the placeholder in
+when shipping the feature — open the file again and translate it for real
+following the reference policy.
+
 ## Cross-platform development workflow
 
 Strings are co-developed across the Android and Apple repos, both of which
