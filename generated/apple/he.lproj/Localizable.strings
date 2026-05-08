@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "אין קורסים מסונכרנים.";
 "watch_no_upcoming_classes" = "אין שיעורים קרובים.";
 "watch_not_found" = "לא נמצא";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "עכשיו והבא";
 "watch_open_phone_to_sync" = "פתח את TigerDuck בטלפון לסנכרון.";
 "watch_padding_decrease_cd" = "הקטן ריווח";
 "watch_padding_increase_cd" = "הגדל ריווח";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "ריווח מסך";
 "watch_starts_at" = "מתחיל ב-%1$@";
 "watch_starts_in_minutes" = "מתחיל בעוד %1$d דק'";

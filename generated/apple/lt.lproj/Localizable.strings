@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Nėra sinchronizuotų kursų.";
 "watch_no_upcoming_classes" = "Artėjančių užsiėmimų nėra.";
 "watch_not_found" = "Nerasta";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Dabar ir kitas";
 "watch_open_phone_to_sync" = "Atidarykite TigerDuck telefone, kad susinchronizuotumėte.";
 "watch_padding_decrease_cd" = "Mažinti paraštę";
 "watch_padding_increase_cd" = "Didinti paraštę";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Ekrano paraštė";
 "watch_starts_at" = "Prasideda %1$@";
 "watch_starts_in_minutes" = "Prasideda po %1$d min";

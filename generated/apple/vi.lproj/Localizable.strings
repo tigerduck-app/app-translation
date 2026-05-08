@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Chưa có khóa học nào được đồng bộ.";
 "watch_no_upcoming_classes" = "Không có buổi học sắp tới.";
 "watch_not_found" = "Không tìm thấy";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Hiện tại và tiếp theo";
 "watch_open_phone_to_sync" = "Mở TigerDuck trên điện thoại để đồng bộ.";
 "watch_padding_decrease_cd" = "Giảm lề";
 "watch_padding_increase_cd" = "Tăng lề";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Lề màn hình";
 "watch_starts_at" = "Bắt đầu %1$@";
 "watch_starts_in_minutes" = "Bắt đầu sau %1$d phút";

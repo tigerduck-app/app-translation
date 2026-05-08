@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Sünkroonitud kursusi pole.";
 "watch_no_upcoming_classes" = "Eelseisvaid loenguid pole.";
 "watch_not_found" = "Ei leitud";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Praegu ja järgmine";
 "watch_open_phone_to_sync" = "Sünkroonimiseks ava telefonis TigerDuck.";
 "watch_padding_decrease_cd" = "Vähenda veerist";
 "watch_padding_increase_cd" = "Suurenda veerist";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Ekraani veeris";
 "watch_starts_at" = "Algab kell %1$@";
 "watch_starts_in_minutes" = "Algab %1$d min pärast";

@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Inga synkade kurser.";
 "watch_no_upcoming_classes" = "Inga kommande lektioner.";
 "watch_not_found" = "Hittades inte";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Nu & nästa";
 "watch_open_phone_to_sync" = "Öppna TigerDuck på telefonen för att synka.";
 "watch_padding_decrease_cd" = "Minska marginal";
 "watch_padding_increase_cd" = "Öka marginal";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Skärmmarginal";
 "watch_starts_at" = "Börjar %1$@";
 "watch_starts_in_minutes" = "Börjar om %1$d min";

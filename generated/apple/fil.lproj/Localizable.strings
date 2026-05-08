@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Walang naka-sync na kurso.";
 "watch_no_upcoming_classes" = "Walang paparating na klase.";
 "watch_not_found" = "Hindi nahanap";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Ngayon at susunod";
 "watch_open_phone_to_sync" = "Buksan ang TigerDuck sa telepono para mag-sync.";
 "watch_padding_decrease_cd" = "Bawasan ang padding";
 "watch_padding_increase_cd" = "Dagdagan ang padding";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Padding ng screen";
 "watch_starts_at" = "Magsisimula %1$@";
 "watch_starts_in_minutes" = "Magsisimula sa %1$d min";

@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Brak zsynchronizowanych kursów.";
 "watch_no_upcoming_classes" = "Brak nadchodzących zajęć.";
 "watch_not_found" = "Nie znaleziono";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Teraz i następne";
 "watch_open_phone_to_sync" = "Otwórz TigerDuck na telefonie, aby zsynchronizować.";
 "watch_padding_decrease_cd" = "Zmniejsz odstęp";
 "watch_padding_increase_cd" = "Zwiększ odstęp";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Margines ekranu";
 "watch_starts_at" = "Początek %1$@";
 "watch_starts_in_minutes" = "Za %1$d min";

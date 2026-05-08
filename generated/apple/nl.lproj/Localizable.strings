@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Geen cursussen gesynchroniseerd.";
 "watch_no_upcoming_classes" = "Geen aankomende lessen.";
 "watch_not_found" = "Niet gevonden";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Nu & volgende";
 "watch_open_phone_to_sync" = "Open TigerDuck op je telefoon om te synchroniseren.";
 "watch_padding_decrease_cd" = "Marge verkleinen";
 "watch_padding_increase_cd" = "Marge vergroten";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Schermmarge";
 "watch_starts_at" = "Begint %1$@";
 "watch_starts_in_minutes" = "Begint over %1$d min";

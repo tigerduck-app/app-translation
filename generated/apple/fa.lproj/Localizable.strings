@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "هیچ درسی همگام‌سازی نشده است.";
 "watch_no_upcoming_classes" = "هیچ کلاس آینده‌ای وجود ندارد.";
 "watch_not_found" = "پیدا نشد";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "اکنون و بعدی";
 "watch_open_phone_to_sync" = "برای همگام‌سازی، TigerDuck را روی گوشی باز کنید.";
 "watch_padding_decrease_cd" = "کاهش حاشیه";
 "watch_padding_increase_cd" = "افزایش حاشیه";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "حاشیه صفحه";
 "watch_starts_at" = "شروع %1$@";
 "watch_starts_in_minutes" = "%1$d دقیقه دیگر";

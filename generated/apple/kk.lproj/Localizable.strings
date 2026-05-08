@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Синхрондалған курстар жоқ.";
 "watch_no_upcoming_classes" = "Алдағы сабақтар жоқ.";
 "watch_not_found" = "Табылмады";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Қазір және келесі";
 "watch_open_phone_to_sync" = "Синхрондау үшін телефонда TigerDuck ашыңыз.";
 "watch_padding_decrease_cd" = "Жиекті азайту";
 "watch_padding_increase_cd" = "Жиекті ұлғайту";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Экран жиегі";
 "watch_starts_at" = "%1$@ басталады";
 "watch_starts_in_minutes" = "%1$d минуттан кейін басталады";

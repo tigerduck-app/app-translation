@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "ਕੋਈ ਕੋਰਸ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ।";
 "watch_no_upcoming_classes" = "ਆਉਣ ਵਾਲੀਆਂ ਜਮਾਤਾਂ ਨਹੀਂ ਹਨ।";
 "watch_not_found" = "ਨਹੀਂ ਮਿਲਿਆ";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "ਹੁਣ ਅਤੇ ਅਗਲਾ";
 "watch_open_phone_to_sync" = "ਸਿੰਕ ਕਰਨ ਲਈ ਆਪਣੇ ਫ਼ੋਨ 'ਤੇ TigerDuck ਖੋਲ੍ਹੋ।";
 "watch_padding_decrease_cd" = "ਪੈਡਿੰਗ ਘਟਾਓ";
 "watch_padding_increase_cd" = "ਪੈਡਿੰਗ ਵਧਾਓ";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "ਸਕ੍ਰੀਨ ਪੈਡਿੰਗ";
 "watch_starts_at" = "%1$@ 'ਤੇ ਸ਼ੁਰੂ";
 "watch_starts_in_minutes" = "%1$d ਮਿੰਟਾਂ ਵਿੱਚ ਸ਼ੁਰੂ";

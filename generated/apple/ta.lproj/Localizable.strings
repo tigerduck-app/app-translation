@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "ஒத்திசைக்கப்பட்ட பாடங்கள் இல்லை.";
 "watch_no_upcoming_classes" = "வரவிருக்கும் வகுப்புகள் இல்லை.";
 "watch_not_found" = "கிடைக்கவில்லை";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "இப்போது மற்றும் அடுத்து";
 "watch_open_phone_to_sync" = "ஒத்திசைக்க உங்கள் தொலைபேசியில் TigerDuck-ஐ திறக்கவும்.";
 "watch_padding_decrease_cd" = "இடைவெளியைக் குறைக்க";
 "watch_padding_increase_cd" = "இடைவெளியைக் கூட்ட";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "திரை இடைவெளி";
 "watch_starts_at" = "%1$@ மணிக்கு தொடங்கும்";
 "watch_starts_in_minutes" = "%1$d நிமிடங்களில் தொடங்கும்";

@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Нема синхронизованих курсева.";
 "watch_no_upcoming_classes" = "Нема надолазећих предавања.";
 "watch_not_found" = "Није пронађено";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Сада и следеће";
 "watch_open_phone_to_sync" = "Отворите TigerDuck на телефону ради синхронизације.";
 "watch_padding_decrease_cd" = "Смањи маргину";
 "watch_padding_increase_cd" = "Повећај маргину";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Маргина екрана";
 "watch_starts_at" = "Почиње у %1$@";
 "watch_starts_in_minutes" = "Почиње за %1$d мин";

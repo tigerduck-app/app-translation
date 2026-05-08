@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Tiada kursus disegerakkan.";
 "watch_no_upcoming_classes" = "Tiada kelas akan datang.";
 "watch_not_found" = "Tidak dijumpai";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Sekarang & seterusnya";
 "watch_open_phone_to_sync" = "Buka TigerDuck pada telefon untuk menyegerakkan.";
 "watch_padding_decrease_cd" = "Kurangkan pelapik";
 "watch_padding_increase_cd" = "Tambahkan pelapik";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Pelapik skrin";
 "watch_starts_at" = "Mula %1$@";
 "watch_starts_in_minutes" = "Bermula dalam %1$d min";

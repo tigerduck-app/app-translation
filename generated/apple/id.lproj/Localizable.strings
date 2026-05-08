@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Tidak ada mata kuliah tersinkron.";
 "watch_no_upcoming_classes" = "Tidak ada kelas mendatang.";
 "watch_not_found" = "Tidak ditemukan";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Sekarang & berikutnya";
 "watch_open_phone_to_sync" = "Buka TigerDuck di ponsel untuk menyinkronkan.";
 "watch_padding_decrease_cd" = "Kurangi padding";
 "watch_padding_increase_cd" = "Tambah padding";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Padding layar";
 "watch_starts_at" = "Mulai %1$@";
 "watch_starts_in_minutes" = "Mulai dalam %1$d mnt";

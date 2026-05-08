@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "No hi ha cursos sincronitzats.";
 "watch_no_upcoming_classes" = "No hi ha classes properes.";
 "watch_not_found" = "No trobat";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Ara i següent";
 "watch_open_phone_to_sync" = "Obre TigerDuck al telèfon per sincronitzar.";
 "watch_padding_decrease_cd" = "Redueix el marge";
 "watch_padding_increase_cd" = "Augmenta el marge";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Marge de pantalla";
 "watch_starts_at" = "Comença a les %1$@";
 "watch_starts_in_minutes" = "Comença en %1$d min";

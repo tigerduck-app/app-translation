@@ -578,11 +578,14 @@
 "watch_no_courses_synced" = "Δεν υπάρχουν συγχρονισμένα μαθήματα.";
 "watch_no_upcoming_classes" = "Δεν υπάρχουν επερχόμενα μαθήματα.";
 "watch_not_found" = "Δεν βρέθηκε";
+"watch_now_ends_at" = "NOW · Ends %1$@";
 "watch_now_next_title" = "Τώρα και επόμενο";
 "watch_open_phone_to_sync" = "Άνοιξε το TigerDuck στο τηλέφωνο για συγχρονισμό.";
 "watch_padding_decrease_cd" = "Μείωση περιθωρίου";
 "watch_padding_increase_cd" = "Αύξηση περιθωρίου";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_relative_days_ago_short" = "%1$d d ago";
+"watch_relative_hours_ago_short" = "%1$d h ago";
 "watch_screen_padding" = "Περιθώριο οθόνης";
 "watch_starts_at" = "Αρχίζει %1$@";
 "watch_starts_in_minutes" = "Αρχίζει σε %1$d λεπ.";
