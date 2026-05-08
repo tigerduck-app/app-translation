@@ -537,6 +537,7 @@
     "widget_week_light_label": "Orario (Settimana)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Premi di nuovo indietro per uscire",
     "live_activity_channel_description": "Mostra la lezione attuale, la prossima lezione e i conti alla rovescia dei compiti. Puoi regolare i suoni degli scenari nelle impostazioni dell'app.",
     "live_activity_channel_name": "Attività in tempo reale",

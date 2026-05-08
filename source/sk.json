@@ -537,6 +537,7 @@
     "widget_week_light_label": "Rozvrh (týždeň)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Stlačte späť znova pre ukončenie",
     "live_activity_channel_description": "Zobrazuje aktuálnu hodinu, najbližšiu hodinu a odpočítavanie úloh. Zvuky pre jednotlivé scenáre môžete upraviť v nastaveniach aplikácie.",
     "live_activity_channel_name": "Živá aktivita",

@@ -537,6 +537,7 @@
     "widget_week_light_label": "课表 周视图"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "再次返回以退出应用程序",
     "live_activity_channel_description": "显示当前课程、即将上课与作业倒数；可在 App 设置中调整各情境是否发出提示音",
     "live_activity_channel_name": "即时动态",

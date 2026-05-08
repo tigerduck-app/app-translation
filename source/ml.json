@@ -537,6 +537,7 @@
     "widget_week_light_label": "ഷെഡ്യൂൾ (ആഴ്ച)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "പുറത്ത് കടക്കാൻ വീണ്ടും Back അമർത്തുക",
     "live_activity_channel_description": "നിലവിലെ ക്ലാസ്, വരുന്ന ക്ലാസ്, അസൈൻമെന്റ് കൗണ്ട്‌ഡൗൺ എന്നിവ കാണിക്കുന്നു. ആപ്പ് ക്രമീകരണങ്ങളിൽ സ്ഥിതി ശബ്ദങ്ങൾ ക്രമീകരിക്കാം.",
     "live_activity_channel_name": "Live Activity",

@@ -537,6 +537,7 @@
     "widget_week_light_label": "Program (Hafta)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Çıkmak için tekrar geri tuşuna basın",
     "live_activity_channel_description": "Mevcut dersi, yaklaşan dersi ve ödev geri sayımlarını gösterir. Senaryo seslerini uygulama ayarlarından değiştirebilirsiniz.",
     "live_activity_channel_name": "Canlı etkinlik",

@@ -537,6 +537,7 @@
     "widget_week_light_label": "Grade horária (Semana)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Pressione voltar novamente para sair",
     "live_activity_channel_description": "Mostra a aula atual, a próxima aula e a contagem regressiva das atividades. Você pode ajustar os sons de cada cenário nas configurações do app.",
     "live_activity_channel_name": "Atividade ao vivo",

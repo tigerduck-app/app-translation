@@ -537,6 +537,7 @@
     "widget_week_light_label": "షెడ్యూల్ (వారం)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "బయటకు వెళ్ళడానికి మళ్ళీ బ్యాక్ నొక్కండి",
     "live_activity_channel_description": "ప్రస్తుత తరగతి, రాబోయే తరగతి మరియు అసైన్‌మెంట్ కౌంట్‌డౌన్ చూపిస్తుంది. యాప్ సెట్టింగ్స్‌లో సౌండ్ సర్దుబాటు చేయవచ్చు.",
     "live_activity_channel_name": "లైవ్ యాక్టివిటీ",

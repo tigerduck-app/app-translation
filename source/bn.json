@@ -537,6 +537,7 @@
     "widget_week_light_label": "সময়সূচি (সপ্তাহ)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "বের হতে আবার ব্যাক চাপুন",
     "live_activity_channel_description": "বর্তমান ক্লাস, আসন্ন ক্লাস এবং অ্যাসাইনমেন্টের কাউন্টডাউন দেখায়। অ্যাপ সেটিংসে পরিস্থিতি অনুযায়ী শব্দ সামঞ্জস্য করা যাবে।",
     "live_activity_channel_name": "লাইভ অ্যাক্টিভিটি",

@@ -537,6 +537,7 @@
     "widget_week_light_label": "ವೇಳಾಪಟ್ಟಿ (ವಾರ)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "ನಿರ್ಗಮಿಸಲು ಮತ್ತೊಮ್ಮೆ ಹಿಂದೆ ಒತ್ತಿ",
     "live_activity_channel_description": "ಪ್ರಸ್ತುತ ತರಗತಿ, ಮುಂಬರುವ ತರಗತಿ ಮತ್ತು ಕಾರ್ಯ ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸನ್ನಿವೇಶ ಧ್ವನಿಗಳನ್ನು ಸರಿಹೊಂದಿಸಬಹುದು.",
     "live_activity_channel_name": "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ",

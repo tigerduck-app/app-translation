@@ -537,6 +537,7 @@
     "widget_week_light_label": "מערכת שעות (שבוע)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "לחץ חזרה שוב ליציאה",
     "live_activity_channel_description": "מציג את השיעור הנוכחי, השיעור הקרוב וספירה לאחור למטלות. ניתן לשנות את הגדרות הצליל בהגדרות האפליקציה.",
     "live_activity_channel_name": "פעילות חיה",

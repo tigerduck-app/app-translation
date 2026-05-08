@@ -537,6 +537,7 @@
     "widget_week_light_label": "वेळापत्रक (आठवडा)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "बाहेर पडण्यासाठी पुन्हा मागे दाबा",
     "live_activity_channel_description": "सध्याचा वर्ग, आगामी वर्ग आणि असाइनमेंट काउंटडाउन दाखवते. ॲप सेटिंग्जमध्ये ध्वनी समायोजित करता येतो.",
     "live_activity_channel_name": "लाइव्ह ॲक्टिव्हिटी",

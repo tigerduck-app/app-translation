@@ -537,6 +537,7 @@
     "widget_week_light_label": "Расписание (неделя)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Нажмите «Назад» ещё раз для выхода",
     "live_activity_channel_description": "Показывает текущее занятие, ближайшее занятие и обратный отсчёт до сдачи заданий. Звуки сценариев можно настроить в настройках приложения.",
     "live_activity_channel_name": "Live-активность",

@@ -537,6 +537,7 @@
     "widget_week_light_label": "شیڈول (ہفتہ)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "باہر نکلنے کے لیے دوبارہ واپس دبائیں",
     "live_activity_channel_description": "موجودہ کلاس، آنے والی کلاس اور اسائنمنٹ کی الٹی گنتی دکھاتا ہے۔ آپ ایپ کی ترتیبات میں منظرنامے کی آوازیں ترتیب دے سکتے ہیں۔",
     "live_activity_channel_name": "لائیو ایکٹیویٹی",

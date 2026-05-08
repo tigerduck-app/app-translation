@@ -537,6 +537,7 @@
     "widget_week_light_label": "Iskedyul (Linggo)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Pindutin ulit ang back para lumabas",
     "live_activity_channel_description": "Ipinapakita ang kasalukuyang klase, susunod na klase, at countdown ng takdang-aralin. Maaari mong ayusin ang mga tunog ng bawat sitwasyon sa mga setting ng app.",
     "live_activity_channel_name": "Live na aktibidad",

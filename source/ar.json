@@ -537,6 +537,7 @@
     "widget_week_light_label": "الجدول الدراسي (أسبوعي)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "اضغط رجوع مرة أخرى للخروج",
     "live_activity_channel_description": "يعرض المحاضرة الحالية والقادمة والعد التنازلي للواجبات. يمكنك ضبط أصوات السيناريوهات في إعدادات التطبيق.",
     "live_activity_channel_name": "النشاط المباشر",

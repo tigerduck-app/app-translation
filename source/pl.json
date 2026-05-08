@@ -537,6 +537,7 @@
     "widget_week_light_label": "Plan zajęć (tydzień)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Naciśnij Wstecz ponownie, aby wyjść",
     "live_activity_channel_description": "Wyświetla bieżące zajęcia, nadchodzące zajęcia oraz odliczanie do terminu zadań. Dźwięki dla poszczególnych scenariuszy można dostosować w ustawieniach aplikacji.",
     "live_activity_channel_name": "Aktywność na żywo",

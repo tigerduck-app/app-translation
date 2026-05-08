@@ -537,6 +537,7 @@
     "widget_week_light_label": "Stundenplan (Woche)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Erneut zurück drücken, um zu beenden",
     "live_activity_channel_description": "Zeigt aktuelle Unterrichtsstunde, bevorstehenden Unterricht und Aufgaben-Countdown an. In den App-Einstellungen können Sie die Töne für jedes Szenario anpassen.",
     "live_activity_channel_name": "Live-Aktivität",

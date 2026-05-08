@@ -537,6 +537,7 @@
     "widget_week_light_label": "Schema (Vecka)"
   },
   "android": {
+    "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Tryck tillbaka igen för att avsluta",
     "live_activity_channel_description": "Visar pågående lektion, kommande lektion och nedräkning för uppgifter. Du kan justera scenarioljud i appinställningarna.",
     "live_activity_channel_name": "Liveaktivitet",
