@@ -1,5 +1,9 @@
 {
   "shared": {
+    "a11y_class_table_cell_assignment_indicator": "Has assignment",
+    "a11y_class_table_conflict_prefix": "Class conflict",
+    "a11y_dropdown_action_hint": "Double tap to choose another option",
+    "a11y_time_slider_swipe_hint": "Swipe left or right to change the time",
     "action_add": "Tilføj",
     "action_allow": "Tillad",
     "action_back": "Tilbage",
