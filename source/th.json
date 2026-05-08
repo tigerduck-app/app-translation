@@ -537,7 +537,7 @@
     "widget_week_light_label": "ตารางเรียน (สัปดาห์)"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "แป้นพิมพ์มาตรฐาน",
     "app_exit_confirm_toast": "กดย้อนกลับอีกครั้งเพื่อออก",
     "live_activity_channel_description": "แสดงคาบเรียนปัจจุบัน คาบเรียนถัดไป และนับถอยหลังการบ้าน คุณสามารถปรับเสียงแจ้งเตือนของแต่ละสถานการณ์ได้ในการตั้งค่าแอป",
     "live_activity_channel_name": "Live Activity",

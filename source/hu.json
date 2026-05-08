@@ -537,7 +537,7 @@
     "widget_week_light_label": "Órarend (hét)"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "Normál billentyűzet",
     "app_exit_confirm_toast": "Nyomjon vissza még egyszer a kilépéshez",
     "live_activity_channel_description": "Megjeleníti az aktuális órát, a közelgő órákat és a házi feladat visszaszámlálást. A hangbeállításokat az alkalmazás beállításaiban módosíthatja.",
     "live_activity_channel_name": "Élő tevékenység",

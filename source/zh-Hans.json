@@ -434,7 +434,7 @@
     "settings_acknowledged": "知道了",
     "settings_assignment_due_reminder": "作业到期提醒",
     "settings_browser_in_app": "App 内浏览器",
-    "settings_browser_system_default": "系统缺省浏览器",
+    "settings_browser_system_default": "系统默认浏览器",
     "settings_classroom_mandarin_display": "When classroom name is in Mandarin",
     "settings_classroom_mandarin_display_original": "Display original",
     "settings_classroom_mandarin_display_pinyin": "Display pinyin",
@@ -537,7 +537,7 @@
     "widget_week_light_label": "课表 周视图"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "标准键盘",
     "app_exit_confirm_toast": "再次返回以退出应用程序",
     "live_activity_channel_description": "显示当前课程、即将上课与作业倒数；可在 App 设置中调整各情境是否发出提示音",
     "live_activity_channel_name": "即时动态",

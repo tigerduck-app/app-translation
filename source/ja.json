@@ -537,7 +537,7 @@
     "widget_week_light_label": "時間割（週）"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "標準キーボード",
     "app_exit_confirm_toast": "もう一度戻るボタンを押すと終了します",
     "live_activity_channel_description": "現在の授業、まもなく始まる授業、課題のカウントダウンを表示します。各シーンの通知音はアプリの設定で調整できます。",
     "live_activity_channel_name": "ライブアクティビティ",

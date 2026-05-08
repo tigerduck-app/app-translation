@@ -537,7 +537,7 @@
     "widget_week_light_label": "Thời khóa biểu (Tuần)"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",
     "app_exit_confirm_toast": "Nhấn quay lại lần nữa để thoát",
     "live_activity_channel_description": "Hiển thị lớp hiện tại, lớp sắp tới và đếm ngược bài tập. Bạn có thể điều chỉnh âm báo cho từng tình huống trong cài đặt ứng dụng.",
     "live_activity_channel_name": "Hoạt động trực tiếp",

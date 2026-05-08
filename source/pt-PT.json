@@ -537,7 +537,7 @@
     "widget_week_light_label": "Horário (Semana)"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "Teclado padrão",
     "app_exit_confirm_toast": "Prime novamente Voltar para sair",
     "live_activity_channel_description": "Mostra a aula atual, a próxima aula e a contagem decrescente dos trabalhos. Podes ajustar os sons dos cenários nas definições da aplicação.",
     "live_activity_channel_name": "Atividade em direto",

@@ -537,7 +537,7 @@
     "widget_week_light_label": "Lukujärjestys (Viikko)"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "Vakionäppäimistö",
     "app_exit_confirm_toast": "Paina takaisin uudelleen poistuaksesi",
     "live_activity_channel_description": "Näyttää meneillään olevan tunnin, tulevan tunnin ja tehtävien lähtölaskennan. Ääniä voi säätää sovelluksen asetuksissa.",
     "live_activity_channel_name": "Live-toiminto",

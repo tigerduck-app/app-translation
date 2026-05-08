@@ -537,7 +537,7 @@
     "widget_week_light_label": "Horario (Semana)"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "Teclado estándar",
     "app_exit_confirm_toast": "Presiona atrás de nuevo para salir",
     "live_activity_channel_description": "Muestra la clase actual, la próxima clase y las cuentas regresivas de tareas. Puedes ajustar los sonidos de los escenarios en la configuración de la app.",
     "live_activity_channel_name": "Actividad en vivo",

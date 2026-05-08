@@ -537,7 +537,7 @@
     "widget_week_light_label": "Разписание (Седмица)"
   },
   "android": {
-    "account_id_use_standard_keyboard": "Standard keyboard",
+    "account_id_use_standard_keyboard": "Стандартна клавиатура",
     "app_exit_confirm_toast": "Натиснете назад отново, за да излезете",
     "live_activity_channel_description": "Показва текущия час, предстоящия час и обратно броене за задания. Можете да регулирате звуците на сценариите в настройките на приложението.",
     "live_activity_channel_name": "Динамични известия",
