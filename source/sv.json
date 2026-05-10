@@ -362,6 +362,8 @@
     "onboarding_welcome_subtitle": "Din NTUST-kampusassistent",
     "onboarding_welcome_title": "Välkommen till TigerDuck",
     "onboarding_welcome_website_label": "TigerDucks officiella webbplats",
+    "password_hide": "Hide password",
+    "password_show": "Show password",
     "permission_granted": "Tillåten",
     "permission_not_applicable": "Inte tillgänglig i den här systemversionen",
     "permission_not_granted_tap_settings": "Ej tillåten · Tryck för att öppna inställningar",

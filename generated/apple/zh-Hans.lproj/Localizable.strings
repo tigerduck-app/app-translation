@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "你的台科大校园助手";
 "onboarding_welcome_title" = "欢迎使用 TigerDuck";
 "onboarding_welcome_website_label" = "TigerDuck 应用程序官网";
+"password_hide" = "隐藏密码";
+"password_show" = "显示密码";
 "permission_granted" = "已允许";
 "permission_not_applicable" = "此系统版本无此设置";
 "permission_not_granted_tap_settings" = "未允许 · 点击前往设置";

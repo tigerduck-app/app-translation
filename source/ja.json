@@ -362,6 +362,8 @@
     "onboarding_welcome_subtitle": "あなたの NTUST キャンパスアシスタント",
     "onboarding_welcome_title": "TigerDuck へようこそ",
     "onboarding_welcome_website_label": "TigerDuck 公式サイト",
+    "password_hide": "パスワードを非表示",
+    "password_show": "パスワードを表示",
     "permission_granted": "許可済み",
     "permission_not_applicable": "このシステムバージョンでは利用できません",
     "permission_not_granted_tap_settings": "未許可 · タップして設定を開く",

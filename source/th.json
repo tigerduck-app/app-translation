@@ -362,6 +362,8 @@
     "onboarding_welcome_subtitle": "ผู้ช่วยในรั้วมหาวิทยาลัย NTUST ของคุณ",
     "onboarding_welcome_title": "ยินดีต้อนรับสู่ TigerDuck",
     "onboarding_welcome_website_label": "เว็บไซต์ทางการของ TigerDuck",
+    "password_hide": "Hide password",
+    "password_show": "Show password",
     "permission_granted": "อนุญาตแล้ว",
     "permission_not_applicable": "ไม่สามารถใช้ได้บนระบบเวอร์ชันนี้",
     "permission_not_granted_tap_settings": "ยังไม่ได้อนุญาต · แตะเพื่อเปิดการตั้งค่า",

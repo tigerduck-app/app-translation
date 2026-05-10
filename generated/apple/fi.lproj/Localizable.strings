@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "NTUST-kampusavustajasi";
 "onboarding_welcome_title" = "Tervetuloa TigerDuck-sovellukseen";
 "onboarding_welcome_website_label" = "TigerDuckin virallinen sivusto";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Sallittu";
 "permission_not_applicable" = "Ei saatavilla tässä järjestelmäversiossa";
 "permission_not_granted_tap_settings" = "Ei sallittu · Avaa asetukset napauttamalla";

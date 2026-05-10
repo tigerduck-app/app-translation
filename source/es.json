@@ -362,6 +362,8 @@
     "onboarding_welcome_subtitle": "Tu asistente del campus de NTUST",
     "onboarding_welcome_title": "Bienvenido a TigerDuck",
     "onboarding_welcome_website_label": "Sitio web oficial de TigerDuck",
+    "password_hide": "Hide password",
+    "password_show": "Show password",
     "permission_granted": "Permitido",
     "permission_not_applicable": "No disponible en esta versión del sistema",
     "permission_not_granted_tap_settings": "No permitido · Toca para abrir la configuración",

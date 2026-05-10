@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Asistentul tău de campus NTUST";
 "onboarding_welcome_title" = "Bun venit la TigerDuck";
 "onboarding_welcome_website_label" = "Site-ul oficial TigerDuck";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Permis";
 "permission_not_applicable" = "Indisponibil pe această versiune de sistem";
 "permission_not_granted_tap_settings" = "Nepermis · Apasă pentru a deschide setările";

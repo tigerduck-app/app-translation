@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "আপনার NTUST ক্যাম্পাস সহকারী";
 "onboarding_welcome_title" = "TigerDuck-এ স্বাগতম";
 "onboarding_welcome_website_label" = "TigerDuck অফিসিয়াল ওয়েবসাইট";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "অনুমোদিত";
 "permission_not_applicable" = "এই সিস্টেম ভার্সনে উপলব্ধ নয়";
 "permission_not_granted_tap_settings" = "অনুমোদিত নয় · সেটিংস খুলতে ট্যাপ করুন";

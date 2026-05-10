@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Az Ön NTUST kampusz asszisztense";
 "onboarding_welcome_title" = "Üdvözöljük a TigerDuck alkalmazásban";
 "onboarding_welcome_website_label" = "TigerDuck hivatalos weboldal";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Engedélyezve";
 "permission_not_applicable" = "Ezen a rendszerverzión nem érhető el";
 "permission_not_granted_tap_settings" = "Nem engedélyezett · Koppintson a beállítások megnyitásához";

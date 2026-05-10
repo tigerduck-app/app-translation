@@ -362,6 +362,8 @@
     "onboarding_welcome_subtitle": "Háskólaassistentinn þinn hjá NTUST",
     "onboarding_welcome_title": "Velkomin í TigerDuck",
     "onboarding_welcome_website_label": "Opinber vefsíða TigerDuck",
+    "password_hide": "Hide password",
+    "password_show": "Show password",
     "permission_granted": "Leyft",
     "permission_not_applicable": "Ekki tiltækt á þessari kerfisútgáfu",
     "permission_not_granted_tap_settings": "Ekki leyft · Ýttu til að opna stillingar",

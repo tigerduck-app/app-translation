@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Teie NTUST-i ülikoolilinnaku assistent";
 "onboarding_welcome_title" = "Tere tulemast TigerDucki";
 "onboarding_welcome_website_label" = "TigerDucki ametlik veebisait";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Lubatud";
 "permission_not_applicable" = "Pole selles süsteemiversioonis saadaval";
 "permission_not_granted_tap_settings" = "Pole lubatud · Puudutage seadete avamiseks";

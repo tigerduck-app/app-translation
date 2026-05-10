@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "NTUST kampüs asistanınız";
 "onboarding_welcome_title" = "TigerDuck'a hoş geldiniz";
 "onboarding_welcome_website_label" = "TigerDuck resmi web sitesi";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "İzin verildi";
 "permission_not_applicable" = "Bu sistem sürümünde kullanılamaz";
 "permission_not_granted_tap_settings" = "İzin verilmedi · Ayarları açmak için dokunun";

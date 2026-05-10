@@ -362,6 +362,8 @@
     "onboarding_welcome_subtitle": "Vaš pomočnik na kampusu NTUST",
     "onboarding_welcome_title": "Dobrodošli v TigerDuck",
     "onboarding_welcome_website_label": "Uradno spletno mesto TigerDuck",
+    "password_hide": "Hide password",
+    "password_show": "Show password",
     "permission_granted": "Dovoljeno",
     "permission_not_applicable": "Ni na voljo v tej različici sistema",
     "permission_not_granted_tap_settings": "Ni dovoljeno · Tapnite za odpiranje nastavitev",

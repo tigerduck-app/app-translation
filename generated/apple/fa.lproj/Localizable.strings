@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "دستیار پردیس NTUST شما";
 "onboarding_welcome_title" = "به TigerDuck خوش آمدید";
 "onboarding_welcome_website_label" = "وب‌سایت رسمی TigerDuck";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "مجاز است";
 "permission_not_applicable" = "در این نسخه از سیستم در دسترس نیست";
 "permission_not_granted_tap_settings" = "مجاز نیست · برای باز کردن تنظیمات ضربه بزنید";

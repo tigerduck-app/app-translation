@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Ο βοηθός σας στην πανεπιστημιούπολη NTUST";
 "onboarding_welcome_title" = "Καλώς ήρθατε στο TigerDuck";
 "onboarding_welcome_website_label" = "Επίσημος ιστότοπος TigerDuck";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Επιτρέπεται";
 "permission_not_applicable" = "Δεν είναι διαθέσιμο σε αυτήν την έκδοση συστήματος";
 "permission_not_granted_tap_settings" = "Δεν επιτρέπεται · Πατήστε για ρυθμίσεις";

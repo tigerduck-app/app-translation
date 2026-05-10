@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Сіздің NTUST кампус көмекшіңіз";
 "onboarding_welcome_title" = "TigerDuck-қа қош келдіңіз";
 "onboarding_welcome_website_label" = "TigerDuck-тің ресми сайты";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Рұқсат берілген";
 "permission_not_applicable" = "Бұл жүйе нұсқасында қол жетімді емес";
 "permission_not_granted_tap_settings" = "Рұқсат берілмеген · Параметрлерді ашу үшін түртіңіз";

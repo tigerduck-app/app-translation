@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Ang iyong NTUST campus assistant";
 "onboarding_welcome_title" = "Maligayang pagdating sa TigerDuck";
 "onboarding_welcome_website_label" = "Opisyal na website ng TigerDuck";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Pinahintulutan";
 "permission_not_applicable" = "Hindi available sa bersyong ito ng sistema";
 "permission_not_granted_tap_settings" = "Hindi pinahintulutan · I-tap para buksan ang settings";

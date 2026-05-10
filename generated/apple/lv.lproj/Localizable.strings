@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Jūsu NTUST universitātes palīgs";
 "onboarding_welcome_title" = "Laipni lūdzam TigerDuck";
 "onboarding_welcome_website_label" = "TigerDuck oficiālā vietne";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Atļauts";
 "permission_not_applicable" = "Nav pieejams šajā sistēmas versijā";
 "permission_not_granted_tap_settings" = "Nav atļauts · Pieskarieties, lai atvērtu iestatījumus";

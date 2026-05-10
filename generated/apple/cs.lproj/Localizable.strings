@@ -411,6 +411,8 @@
 "onboarding_welcome_subtitle" = "Váš pomocník pro kampus NTUST";
 "onboarding_welcome_title" = "Vítejte v TigerDuck";
 "onboarding_welcome_website_label" = "Oficiální web TigerDuck";
+"password_hide" = "Hide password";
+"password_show" = "Show password";
 "permission_granted" = "Povoleno";
 "permission_not_applicable" = "Není dostupné v této verzi systému";
 "permission_not_granted_tap_settings" = "Nepovoleno · Klepnutím otevřete nastavení";
