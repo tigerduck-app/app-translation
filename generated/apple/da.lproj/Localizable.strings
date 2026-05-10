@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Log ind for at se din klassetabel";
 "class_table_pick_color" = "Vælg farve";
 "class_table_pick_color_with_course" = "Vælg farve — %1$@";
+"class_table_rename_default_label" = "Standard: %1$@";
+"class_table_rename_revert" = "Gendan standard";
 "class_table_rename_title" = "Omdøb";
 "class_table_rename_with_course" = "Omdøb — %1$@";
 "class_table_semester_picker_label" = "Semester";

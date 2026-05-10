@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "మీ క్లాస్ టేబుల్ చూడటానికి సైన్ ఇన్ చేయండి";
 "class_table_pick_color" = "రంగు ఎంచుకోండి";
 "class_table_pick_color_with_course" = "రంగు ఎంచుకోండి — %1$@";
+"class_table_rename_default_label" = "డిఫాల్ట్: %1$@";
+"class_table_rename_revert" = "డిఫాల్ట్‌కు తిరిగి వెళ్ళు";
 "class_table_rename_title" = "పేరు మార్చండి";
 "class_table_rename_with_course" = "పేరు మార్చండి — %1$@";
 "class_table_semester_picker_label" = "Semester";

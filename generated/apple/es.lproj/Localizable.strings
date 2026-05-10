@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Inicia sesión para ver tu tabla de clases";
 "class_table_pick_color" = "Elegir color";
 "class_table_pick_color_with_course" = "Elegir color — %1$@";
+"class_table_rename_default_label" = "Predeterminado: %1$@";
+"class_table_rename_revert" = "Restablecer predeterminado";
 "class_table_rename_title" = "Renombrar";
 "class_table_rename_with_course" = "Renombrar — %1$@";
 "class_table_semester_picker_label" = "Semestre";

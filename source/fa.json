@@ -157,6 +157,8 @@
     "class_table_login_required_message": "برای مشاهده جدول کلاس خود وارد شوید",
     "class_table_pick_color": "انتخاب رنگ",
     "class_table_pick_color_with_course": "انتخاب رنگ — %1$s",
+    "class_table_rename_default_label": "پیش‌فرض: %1$s",
+    "class_table_rename_revert": "بازگرداندن به پیش‌فرض",
     "class_table_rename_title": "تغییر نام",
     "class_table_rename_with_course": "تغییر نام — %1$s",
     "class_table_semester_picker_label": "ترم",

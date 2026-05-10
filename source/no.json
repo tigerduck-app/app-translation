@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Logg inn for å se timeplanen din",
     "class_table_pick_color": "Velg farge",
     "class_table_pick_color_with_course": "Velg farge — %1$s",
+    "class_table_rename_default_label": "Standard: %1$s",
+    "class_table_rename_revert": "Tilbakestill til standard",
     "class_table_rename_title": "Gi nytt navn",
     "class_table_rename_with_course": "Gi nytt navn — %1$s",
     "class_table_semester_picker_label": "Semester",

@@ -157,6 +157,8 @@
     "class_table_login_required_message": "قم بتسجيل الدخول لعرض جدول صفك",
     "class_table_pick_color": "اختر لونًا",
     "class_table_pick_color_with_course": "اختر لونًا — %1$s",
+    "class_table_rename_default_label": "الافتراضي: %1$s",
+    "class_table_rename_revert": "العودة إلى الافتراضي",
     "class_table_rename_title": "إعادة التسمية",
     "class_table_rename_with_course": "إعادة التسمية — %1$s",
     "class_table_semester_picker_label": "الفصل الدراسي",

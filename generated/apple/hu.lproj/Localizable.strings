@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_pick_color" = "Szín kiválasztása";
 "class_table_pick_color_with_course" = "Szín kiválasztása — %1$@";
+"class_table_rename_default_label" = "Alapértelmezett: %1$@";
+"class_table_rename_revert" = "Alapértelmezett visszaállítása";
 "class_table_rename_title" = "Átnevezés";
 "class_table_rename_with_course" = "Átnevezés — %1$@";
 "class_table_semester_picker_label" = "Semester";

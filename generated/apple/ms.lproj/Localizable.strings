@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Log masuk untuk melihat jadual kelas anda";
 "class_table_pick_color" = "Pilih warna";
 "class_table_pick_color_with_course" = "Pilih warna — %1$@";
+"class_table_rename_default_label" = "Lalai: %1$@";
+"class_table_rename_revert" = "Kembalikan ke lalai";
 "class_table_rename_title" = "Namakan semula";
 "class_table_rename_with_course" = "Namakan semula — %1$@";
 "class_table_semester_picker_label" = "Semester";

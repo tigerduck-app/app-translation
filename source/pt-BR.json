@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Faça login para ver sua grade de aulas",
     "class_table_pick_color": "Escolher cor",
     "class_table_pick_color_with_course": "Escolher cor — %1$s",
+    "class_table_rename_default_label": "Padrão: %1$s",
+    "class_table_rename_revert": "Restaurar padrão",
     "class_table_rename_title": "Renomear",
     "class_table_rename_with_course": "Renomear — %1$s",
     "class_table_semester_picker_label": "Semester",

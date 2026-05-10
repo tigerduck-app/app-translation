@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "ਆਪਣੀ ਕਲਾਸ ਟੇਬਲ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ";
 "class_table_pick_color" = "ਰੰਗ ਚੁਣੋ";
 "class_table_pick_color_with_course" = "ਰੰਗ ਚੁਣੋ — %1$@";
+"class_table_rename_default_label" = "ਡਿਫਾਲਟ: %1$@";
+"class_table_rename_revert" = "ਡਿਫਾਲਟ 'ਤੇ ਵਾਪਸ ਜਾਓ";
 "class_table_rename_title" = "ਨਾਂ ਬਦਲੋ";
 "class_table_rename_with_course" = "ਨਾਂ ਬਦਲੋ — %1$@";
 "class_table_semester_picker_label" = "Semester";

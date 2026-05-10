@@ -157,6 +157,8 @@
     "class_table_login_required_message": "היכנס כדי להציג את טבלת הכיתה שלך",
     "class_table_pick_color": "בחר צבע",
     "class_table_pick_color_with_course": "בחר צבע — %1$s",
+    "class_table_rename_default_label": "ברירת מחדל: %1$s",
+    "class_table_rename_revert": "חזור לברירת המחדל",
     "class_table_rename_title": "שנה שם",
     "class_table_rename_with_course": "שנה שם — %1$s",
     "class_table_semester_picker_label": "שנת הלימודים",

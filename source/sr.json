@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen",
     "class_table_pick_color": "Одабери боју",
     "class_table_pick_color_with_course": "Одабери боју — %1$s",
+    "class_table_rename_default_label": "Подразумевано: %1$s",
+    "class_table_rename_revert": "Врати на подразумевано",
     "class_table_rename_title": "Преименуј",
     "class_table_rename_with_course": "Преименуј — %1$s",
     "class_table_semester_picker_label": "Semester",

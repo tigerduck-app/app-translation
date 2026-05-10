@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Увійдіть, щоб переглянути розклад занять",
     "class_table_pick_color": "Вибрати колір",
     "class_table_pick_color_with_course": "Вибрати колір — %1$s",
+    "class_table_rename_default_label": "За замовчуванням: %1$s",
+    "class_table_rename_revert": "Повернути до типового",
     "class_table_rename_title": "Перейменувати",
     "class_table_rename_with_course": "Перейменувати — %1$s",
     "class_table_semester_picker_label": "Semester",

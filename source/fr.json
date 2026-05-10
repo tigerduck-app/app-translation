@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Connectez-vous pour voir votre tableau de classe",
     "class_table_pick_color": "Choisir une couleur",
     "class_table_pick_color_with_course": "Choisir une couleur — %1$s",
+    "class_table_rename_default_label": "Par défaut : %1$s",
+    "class_table_rename_revert": "Rétablir par défaut",
     "class_table_rename_title": "Renommer",
     "class_table_rename_with_course": "Renommer — %1$s",
     "class_table_semester_picker_label": "Semestre",

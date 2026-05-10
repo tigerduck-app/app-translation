@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "اپنا کلاس ٹیبل دیکھنے کے لیے سائن ان کریں";
 "class_table_pick_color" = "رنگ چنیں";
 "class_table_pick_color_with_course" = "رنگ چنیں — %1$@";
+"class_table_rename_default_label" = "ڈیفالٹ: %1$@";
+"class_table_rename_revert" = "ڈیفالٹ پر واپس جائیں";
 "class_table_rename_title" = "نام تبدیل کریں";
 "class_table_rename_with_course" = "نام تبدیل کریں — %1$@";
 "class_table_semester_picker_label" = "Semester";

@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Accedi per visualizzare il tuo orario delle lezioni";
 "class_table_pick_color" = "Scegli colore";
 "class_table_pick_color_with_course" = "Scegli colore — %1$@";
+"class_table_rename_default_label" = "Predefinito: %1$@";
+"class_table_rename_revert" = "Ripristina predefinito";
 "class_table_rename_title" = "Rinomina";
 "class_table_rename_with_course" = "Rinomina — %1$@";
 "class_table_semester_picker_label" = "Semester";

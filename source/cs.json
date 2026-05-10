@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Chcete-li zobrazit tabulku třídy, přihlaste se",
     "class_table_pick_color": "Vybrat barvu",
     "class_table_pick_color_with_course": "Vybrat barvu — %1$s",
+    "class_table_rename_default_label": "Výchozí: %1$s",
+    "class_table_rename_revert": "Obnovit výchozí",
     "class_table_rename_title": "Přejmenovat",
     "class_table_rename_with_course": "Přejmenovat — %1$s",
     "class_table_semester_picker_label": "Semestr",

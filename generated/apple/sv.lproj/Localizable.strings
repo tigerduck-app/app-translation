@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Logga in för att visa ditt schema";
 "class_table_pick_color" = "Välj färg";
 "class_table_pick_color_with_course" = "Välj färg — %1$@";
+"class_table_rename_default_label" = "Standard: %1$@";
+"class_table_rename_revert" = "Återställ till standard";
 "class_table_rename_title" = "Byt namn";
 "class_table_rename_with_course" = "Byt namn — %1$@";
 "class_table_semester_picker_label" = "Semester";

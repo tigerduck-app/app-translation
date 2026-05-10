@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Сабақ кестесін қарау үшін жүйеге кіріңіз",
     "class_table_pick_color": "Түс таңдау",
     "class_table_pick_color_with_course": "Түс таңдау — %1$s",
+    "class_table_rename_default_label": "Әдепкі: %1$s",
+    "class_table_rename_revert": "Әдепкіге қайтару",
     "class_table_rename_title": "Атауын өзгерту",
     "class_table_rename_with_course": "Атауын өзгерту — %1$s",
     "class_table_semester_picker_label": "Semester",

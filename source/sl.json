@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Prijavite se za ogled urnika",
     "class_table_pick_color": "Izberi barvo",
     "class_table_pick_color_with_course": "Izberi barvo — %1$s",
+    "class_table_rename_default_label": "Privzeto: %1$s",
+    "class_table_rename_revert": "Obnovi privzeto",
     "class_table_rename_title": "Preimenuj",
     "class_table_rename_with_course": "Preimenuj — %1$s",
     "class_table_semester_picker_label": "Semester",

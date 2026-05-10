@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Συνδεθείτε για να δείτε τον πίνακα της τάξης σας",
     "class_table_pick_color": "Επιλογή χρώματος",
     "class_table_pick_color_with_course": "Επιλογή χρώματος — %1$s",
+    "class_table_rename_default_label": "Προεπιλογή: %1$s",
+    "class_table_rename_revert": "Επαναφορά προεπιλογής",
     "class_table_rename_title": "Μετονομασία",
     "class_table_rename_with_course": "Μετονομασία — %1$s",
     "class_table_semester_picker_label": "Ακαδημαϊκό εξάμηνο",

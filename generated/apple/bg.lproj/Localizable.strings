@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Влезте, за да видите таблицата на вашия клас";
 "class_table_pick_color" = "Избор на цвят";
 "class_table_pick_color_with_course" = "Избор на цвят — %1$@";
+"class_table_rename_default_label" = "По подразбиране: %1$@";
+"class_table_rename_revert" = "Връщане към подразбиране";
 "class_table_rename_title" = "Преименуване";
 "class_table_rename_with_course" = "Преименуване — %1$@";
 "class_table_semester_picker_label" = "Семестър";

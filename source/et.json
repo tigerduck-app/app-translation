@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Oma klassitabeli vaatamiseks logige sisse",
     "class_table_pick_color": "Vali värv",
     "class_table_pick_color_with_course": "Vali värv — %1$s",
+    "class_table_rename_default_label": "Vaikimisi: %1$s",
+    "class_table_rename_revert": "Lähtesta vaikimisi",
     "class_table_rename_title": "Nimeta ümber",
     "class_table_rename_with_course": "Nimeta ümber — %1$s",
     "class_table_semester_picker_label": "Semester",

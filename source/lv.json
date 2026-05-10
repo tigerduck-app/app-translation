@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Pierakstieties, lai skatītu savu stundu sarakstu",
     "class_table_pick_color": "Izvēlēties krāsu",
     "class_table_pick_color_with_course": "Izvēlēties krāsu — %1$s",
+    "class_table_rename_default_label": "Noklusējums: %1$s",
+    "class_table_rename_revert": "Atjaunot noklusējumu",
     "class_table_rename_title": "Pārsaukt",
     "class_table_rename_with_course": "Pārsaukt — %1$s",
     "class_table_semester_picker_label": "Semester",

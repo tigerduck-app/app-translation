@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "请登录后查看课程表";
 "class_table_pick_color" = "选择颜色";
 "class_table_pick_color_with_course" = "选择颜色 — %1$@";
+"class_table_rename_default_label" = "默认：%1$@";
+"class_table_rename_revert" = "恢复默认";
 "class_table_rename_title" = "重命名";
 "class_table_rename_with_course" = "重命名 — %1$@";
 "class_table_semester_picker_label" = "学期";

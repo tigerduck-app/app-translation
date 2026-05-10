@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Kirjaudu sisään nähdäksesi luokkataulukkosi",
     "class_table_pick_color": "Valitse väri",
     "class_table_pick_color_with_course": "Valitse väri — %1$s",
+    "class_table_rename_default_label": "Oletus: %1$s",
+    "class_table_rename_revert": "Palauta oletus",
     "class_table_rename_title": "Nimeä uudelleen",
     "class_table_rename_with_course": "Nimeä uudelleen — %1$s",
     "class_table_semester_picker_label": "Lukukausi",

@@ -157,6 +157,8 @@
     "class_table_login_required_message": "Mag-sign in upang tingnan ang iyong talahanayan ng klase",
     "class_table_pick_color": "Pumili ng kulay",
     "class_table_pick_color_with_course": "Pumili ng kulay — %1$s",
+    "class_table_rename_default_label": "Default: %1$s",
+    "class_table_rename_revert": "Ibalik sa default",
     "class_table_rename_title": "Palitan ng pangalan",
     "class_table_rename_with_course": "Palitan ng pangalan — %1$s",
     "class_table_semester_picker_label": "Semester",

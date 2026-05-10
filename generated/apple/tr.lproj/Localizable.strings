@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Ders programınızı görmek için oturum açın";
 "class_table_pick_color" = "Renk seç";
 "class_table_pick_color_with_course" = "Renk seç — %1$@";
+"class_table_rename_default_label" = "Varsayılan: %1$@";
+"class_table_rename_revert" = "Varsayılana döndür";
 "class_table_rename_title" = "Yeniden adlandır";
 "class_table_rename_with_course" = "Yeniden adlandır — %1$@";
 "class_table_semester_picker_label" = "Semester";

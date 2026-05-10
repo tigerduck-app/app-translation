@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_pick_color" = "เลือกสี";
 "class_table_pick_color_with_course" = "เลือกสี — %1$@";
+"class_table_rename_default_label" = "ค่าเริ่มต้น: %1$@";
+"class_table_rename_revert" = "คืนค่าเริ่มต้น";
 "class_table_rename_title" = "เปลี่ยนชื่อ";
 "class_table_rename_with_course" = "เปลี่ยนชื่อ — %1$@";
 "class_table_semester_picker_label" = "Semester";

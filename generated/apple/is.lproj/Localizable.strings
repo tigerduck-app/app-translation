@@ -163,6 +163,8 @@
 "class_table_login_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_pick_color" = "Velja lit";
 "class_table_pick_color_with_course" = "Velja lit — %1$@";
+"class_table_rename_default_label" = "Sjálfgefið: %1$@";
+"class_table_rename_revert" = "Endurstilla á sjálfgefið";
 "class_table_rename_title" = "Endurnefna";
 "class_table_rename_with_course" = "Endurnefna — %1$@";
 "class_table_semester_picker_label" = "Semester";
