@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Režim úprav — vo vývoji";
 "more_section_other" = "Iné";
 "more_section_pages" = "Stránky";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Termín úlohy sa blíži";
 "notification_assignment_reminder_body_15m" = "Bitte machen Sie es einfach... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Zeit zum Einreichen! %1$@ „%2$@“";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Zu spät... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Es ist immer noch Zeit, das Problem zu beheben! %1$@ „%2$@“";
 "notification_assignment_reminder_title" = "Zuweisungserinnerung: %1$@";
+"notification_assignment_safety_net_body" = "Označil(a) si ju ako hotovú alebo ignoroval(a), no stále nie je odovzdaná: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Úloha stále nie je odovzdaná";
 "notification_class_preparing_content_fallback" = "Hodina čoskoro začína";
 "notification_class_preparing_title" = "Čoskoro začína hodina: %1$@";
 "notification_setup_description" = "Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a živá aktivita prichádzali včas aj keď je aplikácia zatvorená.";

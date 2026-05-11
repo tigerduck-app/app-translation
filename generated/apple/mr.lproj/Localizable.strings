@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "एडिट मोड — विकासात आहे";
 "more_section_other" = "इतर";
 "more_section_pages" = "पाने";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "असाइनमेंटची मुदत जवळ आहे";
 "notification_assignment_reminder_body_15m" = "कृपया आत्ताच करा... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "सबमिट करण्याची वेळ! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "उशीर झाला... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "अजून वेळ आहे! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "असाइनमेंट स्मरणपत्र: %1$@";
+"notification_assignment_safety_net_body" = "तुम्ही ते पूर्ण म्हणून चिन्हांकित केले किंवा दुर्लक्ष केले, पण अजून सबमिट केले नाही: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "होमवर्क अजून सबमिट केले नाही";
 "notification_class_preparing_content_fallback" = "वर्ग सुरू होणार आहे";
 "notification_class_preparing_title" = "वर्ग लवकरच सुरू होणार: %1$@";
 "notification_setup_description" = "असाइनमेंट स्मरणपत्रे, वर्ग सुरू होण्याच्या सूचना आणि लाइव्ह ॲक्टिव्हिटी ॲप बंद असतानाही वेळेवर येण्यासाठी खालील परवानग्या सक्षम करा.";

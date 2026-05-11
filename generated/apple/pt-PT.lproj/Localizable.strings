@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Modo de edição — Em desenvolvimento";
 "more_section_other" = "Outros";
 "more_section_pages" = "Páginas";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Trabalho com prazo a terminar";
 "notification_assignment_reminder_body_15m" = "Faz só o que tens a fazer... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Está na hora de entregar! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Já é tarde demais... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Ainda dá para corrigir! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Lembrete de tarefa: %1$@";
+"notification_assignment_safety_net_body" = "Marcaste como concluído ou ignoraste, mas ainda não foi submetido: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Trabalho ainda não submetido";
 "notification_class_preparing_content_fallback" = "A aula está prestes a começar";
 "notification_class_preparing_title" = "Aula a começar em breve: %1$@";
 "notification_setup_description" = "Ativa as permissões abaixo para garantir que os lembretes de trabalhos, os alertas de aulas a começar e a atividade em direto chegam a tempo, mesmo com a aplicação fechada.";

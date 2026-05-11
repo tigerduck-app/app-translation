@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Chế độ chỉnh sửa — Đang phát triển";
 "more_section_other" = "Khác";
 "more_section_pages" = "Trang";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Bài tập sắp đến hạn";
 "notification_assignment_reminder_body_15m" = "Làm ngay đi... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Đến giờ nộp rồi! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Trễ rồi... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Vẫn còn kịp sửa! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Nhắc nhở bài tập: %1$@";
+"notification_assignment_safety_net_body" = "Bạn đã đánh dấu hoàn thành hoặc bỏ qua, nhưng vẫn chưa nộp: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Bài tập vẫn chưa nộp";
 "notification_class_preparing_content_fallback" = "Lớp học sắp bắt đầu";
 "notification_class_preparing_title" = "Sắp vào lớp: %1$@";
 "notification_setup_description" = "Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và hoạt động trực tiếp đến đúng giờ ngay cả khi ứng dụng đã đóng.";

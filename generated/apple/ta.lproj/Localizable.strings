@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "திருத்து பயன்முறை — உருவாக்கத்தில்";
 "more_section_other" = "மற்றவை";
 "more_section_pages" = "பக்கங்கள்";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "ஒப்படைப்பு காலக்கெடு நெருங்குகிறது";
 "notification_assignment_reminder_body_15m" = "செய்துவிடுங்கள்... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "சமர்ப்பிக்கும் நேரம்! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "தாமதமாகிவிட்டது... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "இன்னும் சரிசெய்ய நேரமுண்டு! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "பணி நினைவூட்டல்: %1$@";
+"notification_assignment_safety_net_body" = "முடிந்ததாகக் குறித்தீர்கள் அல்லது புறக்கணித்தீர்கள், ஆனால் இன்னும் சமர்ப்பிக்கப்படவில்லை: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "வீட்டுப்பாடம் இன்னும் சமர்ப்பிக்கப்படவில்லை";
 "notification_class_preparing_content_fallback" = "வகுப்பு தொடங்க இருக்கிறது";
 "notification_class_preparing_title" = "வகுப்பு தொடங்க உள்ளது: %1$@";
 "notification_setup_description" = "ஒப்படைப்பு நினைவூட்டல்கள், வகுப்பு தொடக்க எச்சரிக்கைகள் மற்றும் நேரடி செயல்பாடு App மூடியிருக்கும்போதும் சரியான நேரத்தில் வரும் என்பதை உறுதிப்படுத்த கீழே உள்ள அனுமதிகளை இயக்கவும்.";

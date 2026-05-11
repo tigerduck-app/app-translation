@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Redigeringsmodus — Under utvikling";
 "more_section_other" = "Annet";
 "more_section_pages" = "Sider";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Oppgavefrist nærmer seg";
 "notification_assignment_reminder_body_15m" = "Bare gjør det... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Tid for å levere! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "For sent… %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Det er fortsatt tid til å fikse det! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Oppgavepåminnelse: %1$@";
+"notification_assignment_safety_net_body" = "Du markerte den som ferdig eller ignorerte den, men den er ikke levert ennå: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Lekse er fortsatt ikke levert";
 "notification_class_preparing_content_fallback" = "Timen er i ferd med å starte";
 "notification_class_preparing_title" = "Timen starter snart: %1$@";
 "notification_setup_description" = "Aktiver tillatelsene nedenfor for å sikre at oppgavepåminnelser, timevarsler og direkteaktivitet kommer frem i tide selv når appen er lukket.";

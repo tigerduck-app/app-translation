@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Način urejanja — v razvoju";
 "more_section_other" = "Drugo";
 "more_section_pages" = "Strani";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Rok naloge se bliža";
 "notification_assignment_reminder_body_15m" = "Prosim, le naredi to... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Čas za oddajo! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Prepozno... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Še čas za popravek! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Opomnik za nalogo: %1$@";
+"notification_assignment_safety_net_body" = "Označil si jo kot opravljeno ali prezrl, vendar še ni oddana: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Naloga še ni oddana";
 "notification_class_preparing_content_fallback" = "Ura se bo kmalu začela";
 "notification_class_preparing_title" = "Ura se kmalu začne: %1$@";
 "notification_setup_description" = "Omogočite spodnja dovoljenja, da zagotovite pravočasno dostavo opomnikov za naloge, opozoril pred poukom in žive dejavnosti, tudi ko je aplikacija zaprta.";

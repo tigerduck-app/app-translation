@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "편집 모드 — 개발 중";
 "more_section_other" = "기타";
 "more_section_pages" = "페이지";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "과제 마감 임박";
 "notification_assignment_reminder_body_15m" = "그냥 하세요... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "제출할 시간입니다! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "너무 늦었습니다... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "아직 수정할 시간이 있습니다! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "과제 알림: %1$@";
+"notification_assignment_safety_net_body" = "완료로 표시하거나 무시했지만 아직 제출되지 않았어요: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "과제가 아직 제출되지 않았어요";
 "notification_class_preparing_content_fallback" = "수업이 곧 시작됩니다";
 "notification_class_preparing_title" = "곧 수업 시작: %1$@";
 "notification_setup_description" = "아래 권한을 허용하면 앱이 닫혀 있어도 과제 알림, 수업 시작 알림, 라이브 액티비티가 제때 도착합니다.";

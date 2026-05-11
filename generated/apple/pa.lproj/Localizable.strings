@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "ਸੰਪਾਦਨ ਮੋਡ — ਵਿਕਾਸ ਅਧੀਨ";
 "more_section_other" = "ਹੋਰ";
 "more_section_pages" = "ਪੰਨੇ";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "ਅਸਾਈਨਮੈਂਟ ਜਲਦੀ ਖਤਮ ਹੋਣ ਵਾਲੀ ਹੈ";
 "notification_assignment_reminder_body_15m" = "ਕਿਰਪਾ ਕਰਕੇ ਹੁਣੇ ਕਰੋ... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "ਜਮ੍ਹਾਂ ਕਰਨ ਦਾ ਸਮਾਂ! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "ਬਹੁਤ ਦੇਰ ਹੋ ਗਈ... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "ਅਜੇ ਸੁਧਾਰਨ ਦਾ ਸਮਾਂ ਹੈ! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "ਅਸਾਈਨਮੈਂਟ ਯਾਦ-ਦਹਾਨੀ: %1$@";
+"notification_assignment_safety_net_body" = "ਤੁਸੀਂ ਪੂਰਾ ਨਿਸ਼ਾਨਬੱਧ ਕੀਤਾ ਜਾਂ ਨਜ਼ਰਅੰਦਾਜ਼ ਕੀਤਾ, ਪਰ ਅਜੇ ਸਬਮਿਟ ਨਹੀਂ ਹੋਇਆ: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "ਹੋਮਵਰਕ ਅਜੇ ਸਬਮਿਟ ਨਹੀਂ ਹੋਇਆ";
 "notification_class_preparing_content_fallback" = "ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਵਾਲੀ ਹੈ";
 "notification_class_preparing_title" = "ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ: %1$@";
 "notification_setup_description" = "ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਚਾਲੂ ਕਰੋ ਤਾਂ ਜੋ ਅਸਾਈਨਮੈਂਟ ਰੀਮਾਈਂਡਰ, ਕਲਾਸ-ਸ਼ੁਰੂ ਹੋਣ ਦੀਆਂ ਸੂਚਨਾਵਾਂ, ਅਤੇ ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਐਪ ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ ਸਮੇਂ 'ਤੇ ਪਹੁੰਚ ਸਕਣ।";

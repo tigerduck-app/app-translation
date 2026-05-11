@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Szerkesztési mód — Fejlesztés alatt";
 "more_section_other" = "Egyéb";
 "more_section_pages" = "Oldalak";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Házi feladat határideje közeleg";
 "notification_assignment_reminder_body_15m" = "Bitte machen Sie es einfach... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Zeit zum Einreichen! %1$@ „%2$@“";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Zu spät... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Es ist immer noch Zeit, das Problem zu beheben! %1$@ „%2$@“";
 "notification_assignment_reminder_title" = "Zuweisungserinnerung: %1$@";
+"notification_assignment_safety_net_body" = "Késznek jelölted vagy figyelmen kívül hagytad, de még nincs beadva: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "A házi feladat még nincs beadva";
 "notification_class_preparing_content_fallback" = "Az óra hamarosan kezdődik";
 "notification_class_preparing_title" = "Hamarosan kezdődik az óra: %1$@";
 "notification_setup_description" = "Az alábbi engedélyek engedélyezésével biztosítható, hogy a házi feladat emlékeztetők, az órakezdés figyelmeztetések és az élő tevékenység akkor is időben megérkezzenek, amikor az alkalmazás be van zárva.";

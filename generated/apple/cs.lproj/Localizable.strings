@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Režim úprav — Ve vývoji";
 "more_section_other" = "Ostatní";
 "more_section_pages" = "Stránky";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Brzy vyprší termín úkolu";
 "notification_assignment_reminder_body_15m" = "Prosím, udělejte to... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Čas se podat! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Příliš pozdě... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Stále je čas to napravit! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Připomenutí úkolu: %1$@";
+"notification_assignment_safety_net_body" = "Označil(a) jsi ho jako hotový nebo ignoroval(a), ale stále není odevzdán: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Úkol stále není odevzdán";
 "notification_class_preparing_content_fallback" = "Hodina brzy začne";
 "notification_class_preparing_title" = "Hodina brzy začne: %1$@";
 "notification_setup_description" = "Povolte níže uvedená oprávnění, abyste zajistili, že upozornění na úkoly, na blížící se hodinu a živá aktivita budou doručena včas, i když je aplikace zavřená.";

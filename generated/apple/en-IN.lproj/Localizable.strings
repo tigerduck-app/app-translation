@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Edit mode — In development";
 "more_section_other" = "Other";
 "more_section_pages" = "Pages";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Assignment due soon";
 "notification_assignment_reminder_body_15m" = "Please just do it... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Time to submit! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Too late... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Still time to fix it! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Assignment reminder: %1$@";
+"notification_assignment_safety_net_body" = "You marked or ignored this, but it isn't submitted yet: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Homework still not submitted";
 "notification_class_preparing_content_fallback" = "Class is about to start";
 "notification_class_preparing_title" = "Class starting soon: %1$@";
 "notification_setup_description" = "Enable the permissions below to ensure assignment reminders, class-preparing alerts, and live activity arrive on time even when the app is closed.";

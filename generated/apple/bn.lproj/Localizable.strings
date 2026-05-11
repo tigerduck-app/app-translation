@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "সম্পাদনা মোড — উন্নয়নাধীন";
 "more_section_other" = "অন্যান্য";
 "more_section_pages" = "পৃষ্ঠাসমূহ";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "অ্যাসাইনমেন্ট শীঘ্রই শেষ হবে";
 "notification_assignment_reminder_body_15m" = "অনুগ্রহ করে শুধু এটা করুন... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "জমা দেওয়ার সময়! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "অনেক দেরি... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "এটা ঠিক করার এখনও সময়! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "অ্যাসাইনমেন্ট রিমাইন্ডার: %1$@";
+"notification_assignment_safety_net_body" = "আপনি এটি সম্পূর্ণ চিহ্নিত করেছেন বা উপেক্ষা করেছেন, কিন্তু এটি এখনো জমা পড়েনি: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "অ্যাসাইনমেন্ট এখনো জমা দেওয়া হয়নি";
 "notification_class_preparing_content_fallback" = "ক্লাস শুরু হতে চলেছে";
 "notification_class_preparing_title" = "ক্লাস শুরু হতে চলেছে: %1$@";
 "notification_setup_description" = "নিচের অনুমতিগুলি চালু করুন যাতে অ্যাপ বন্ধ থাকলেও অ্যাসাইনমেন্টের স্মরণিকা, ক্লাসের প্রস্তুতি সতর্কতা এবং লাইভ অ্যাক্টিভিটি সময়মতো আসে।";

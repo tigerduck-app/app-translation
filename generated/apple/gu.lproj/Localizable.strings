@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Edit mode — વિકાસ હેઠળ";
 "more_section_other" = "અન્ય";
 "more_section_pages" = "પૅજ";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "અસાઇનમેન્ટ ટૂંક સમયમાં ડ્યૂ";
 "notification_assignment_reminder_body_15m" = "મહેરબાની કરીને તે કરો... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "સબમિટ કરવાનો સમય! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "ખૂબ મોડું થઈ ગયું... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "તેને ઠીક કરવાનો હજી સમય છે! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "સોંપણી રીમાઇન્ડર: %1$@";
+"notification_assignment_safety_net_body" = "તમે તેને પૂર્ણ ગણ્યું અથવા અવગણ્યું, પણ તે હજુ સબમિટ થયું નથી: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "હોમવર્ક હજુ સબમિટ થયું નથી";
 "notification_class_preparing_content_fallback" = "ક્લાસ શરૂ થવાની તૈયારીમાં છે";
 "notification_class_preparing_title" = "વર્ગ ટૂંક સમયમાં શરૂ: %1$@";
 "notification_setup_description" = "નીચેની પરમિશન ચાલુ કરો જેથી App બંધ હોય ત્યારે પણ અસાઇનમેન્ટ રિમાઇન્ડર, ક્લાસ-તૈયારી એલર્ટ અને લાઇવ એક્ટિવિટી સમયસર આવે.";

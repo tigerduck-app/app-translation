@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "संपादन मोड — विकासाधीन";
 "more_section_other" = "अन्य";
 "more_section_pages" = "पेज";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "असाइनमेंट जल्द समाप्त होने वाला है";
 "notification_assignment_reminder_body_15m" = "बस कर डालो... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "जमा करने का समय! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "बहुत देर हो गई... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "अभी भी सुधार का समय है! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "असाइनमेंट रिमाइंडर: %1$@";
+"notification_assignment_safety_net_body" = "आपने इसे पूरा चिह्नित किया या अनदेखा किया, पर यह अब भी जमा नहीं हुआ: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "होमवर्क अब भी जमा नहीं हुआ";
 "notification_class_preparing_content_fallback" = "कक्षा शुरू होने वाली है";
 "notification_class_preparing_title" = "कक्षा जल्द शुरू होगी: %1$@";
 "notification_setup_description" = "नीचे दी गई अनुमतियाँ सक्षम करें ताकि असाइनमेंट अनुस्मारक, कक्षा तैयारी अलर्ट और लाइव एक्टिविटी ऐप बंद होने पर भी समय पर आ सकें।";

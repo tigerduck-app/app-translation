@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "എഡിറ്റ് മോഡ് — വികസനത്തിലാണ്";
 "more_section_other" = "മറ്റുള്ളവ";
 "more_section_pages" = "പേജുകൾ";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "അസൈൻമെന്റ് സമയം അടുക്കുന്നു";
 "notification_assignment_reminder_body_15m" = "ദയവായി ഇത് ചെയ്യൂ... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "സമർപ്പിക്കാൻ സമയമായി! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "വൈകിപ്പോയി... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "ഇനിയും തിരുത്താൻ സമയമുണ്ട്! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "അസൈൻമെന്റ് റിമൈൻഡർ: %1$@";
+"notification_assignment_safety_net_body" = "നിങ്ങൾ പൂർത്തിയായതായി അടയാളപ്പെടുത്തി അല്ലെങ്കിൽ അവഗണിച്ചു, പക്ഷേ ഇതുവരെ സമർപ്പിച്ചിട്ടില്ല: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "ഹോംവർക്ക് ഇതുവരെ സമർപ്പിച്ചിട്ടില്ല";
 "notification_class_preparing_content_fallback" = "ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു";
 "notification_class_preparing_title" = "ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു: %1$@";
 "notification_setup_description" = "ആപ്പ് അടച്ചിരിക്കുമ്പോഴും അസൈൻമെന്റ് ഓർമ്മപ്പെടുത്തലുകൾ, ക്ലാസ് ഒരുക്കം അലേർട്ടുകൾ, Live Activity സമയത്ത് ലഭിക്കുന്നതിന് ചുവടെ ഉള്ള അനുമതികൾ പ്രവർത്തനക്ഷമമാക്കുക.";

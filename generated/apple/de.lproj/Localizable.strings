@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Bearbeitungsmodus — In Entwicklung";
 "more_section_other" = "Weiteres";
 "more_section_pages" = "Seiten";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Aufgabe bald fällig";
 "notification_assignment_reminder_body_15m" = "Bitte machen Sie es einfach... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Zeit zum Einreichen! %1$@ „%2$@“";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Zu spät... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Es ist immer noch Zeit, das Problem zu beheben! %1$@ „%2$@“";
 "notification_assignment_reminder_title" = "Zuweisungserinnerung: %1$@";
+"notification_assignment_safety_net_body" = "Du hast sie als erledigt markiert oder ignoriert, aber sie ist noch nicht abgegeben: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Aufgabe noch nicht abgegeben";
 "notification_class_preparing_content_fallback" = "Der Unterricht beginnt gleich";
 "notification_class_preparing_title" = "Unterricht beginnt bald: %1$@";
 "notification_setup_description" = "Aktivieren Sie die folgenden Berechtigungen, damit Aufgabenerinnerungen, Unterrichtsvorwarnungen und Live-Aktivität auch bei geschlossener App rechtzeitig eintreffen.";

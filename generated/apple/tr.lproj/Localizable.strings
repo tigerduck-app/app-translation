@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Düzenleme modu — Geliştiriliyor";
 "more_section_other" = "Diğer";
 "more_section_pages" = "Sayfalar";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Ödev teslim tarihi yaklaşıyor";
 "notification_assignment_reminder_body_15m" = "Lütfen şimdi yap... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Gönderme zamanı! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "Çok geç... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Düzeltmek için hâlâ zaman var! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Ödev hatırlatıcısı: %1$@";
+"notification_assignment_safety_net_body" = "Tamamlandı olarak işaretledin veya yok saydın ama hâlâ teslim edilmedi: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Ödev hâlâ teslim edilmedi";
 "notification_class_preparing_content_fallback" = "Ders birazdan başlayacak";
 "notification_class_preparing_title" = "Ders birazdan başlıyor: %1$@";
 "notification_setup_description" = "Aşağıdaki izinleri etkinleştirerek ödev hatırlatıcılarının, ders başlangıç uyarılarının ve canlı etkinliğin uygulama kapalıyken bile zamanında ulaşmasını sağlayın.";

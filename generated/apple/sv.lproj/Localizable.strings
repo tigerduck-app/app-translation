@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "Redigeringsläge — under utveckling";
 "more_section_other" = "Övrigt";
 "more_section_pages" = "Sidor";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "Uppgift förfaller snart";
 "notification_assignment_reminder_body_15m" = "Bara gör det... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "Dags att lämna in! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "För sent... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "Det finns fortfarande tid att fixa det! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "Påminnelse om uppgift: %1$@";
+"notification_assignment_safety_net_body" = "Du markerade som klar eller ignorerade, men den är inte inlämnad än: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "Läxan är fortfarande inte inlämnad";
 "notification_class_preparing_content_fallback" = "Lektionen håller på att börja";
 "notification_class_preparing_title" = "Lektionen börjar snart: %1$@";
 "notification_setup_description" = "Aktivera behörigheterna nedan för att säkerställa att påminnelser om uppgifter, förlektion-varningar och liveaktivitet levereras i tid även när appen är stängd.";

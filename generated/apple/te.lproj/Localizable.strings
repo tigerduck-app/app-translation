@@ -375,6 +375,7 @@
 "more_edit_mode_in_development" = "సవరణ మోడ్ — అభివృద్ధిలో ఉంది";
 "more_section_other" = "ఇతర";
 "more_section_pages" = "పేజీలు";
+"notification_assignment_due_body" = "%1$@ — %2$@";
 "notification_assignment_due_title" = "అసైన్‌మెంట్ గడువు దగ్గరలో ఉంది";
 "notification_assignment_reminder_body_15m" = "దయచేసి చేయండి... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_16h" = "సమర్పించే సమయం! %1$@ \"%2$@\"";
@@ -384,6 +385,8 @@
 "notification_assignment_reminder_body_5m" = "చాలా ఆలస్యమైంది... %1$@ \"%2$@\"";
 "notification_assignment_reminder_body_multi_hour" = "ఇంకా సమయం ఉంది! %1$@ \"%2$@\"";
 "notification_assignment_reminder_title" = "అసైన్‌మెంట్ రిమైండర్: %1$@";
+"notification_assignment_safety_net_body" = "మీరు పూర్తయినట్లు గుర్తించారు లేదా విస్మరించారు, కానీ ఇంకా సమర్పించబడలేదు: %1$@ — %2$@";
+"notification_assignment_safety_net_title" = "హోంవర్క్ ఇంకా సమర్పించబడలేదు";
 "notification_class_preparing_content_fallback" = "తరగతి మొదలవబోతుంది";
 "notification_class_preparing_title" = "తరగతి త్వరలో మొదలవుతుంది: %1$@";
 "notification_setup_description" = "అసైన్‌మెంట్ రిమైండర్లు, తరగతి హెచ్చరికలు మరియు లైవ్ యాక్టివిటీ యాప్ మూసివేసినా సమయానికి వచ్చేలా కింది అనుమతులు ఆన్ చేయండి.";
