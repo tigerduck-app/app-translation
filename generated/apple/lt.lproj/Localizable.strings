@@ -582,7 +582,10 @@
 "tab_editor_section_available_tabs" = "Galimi skirtukai";
 "tab_editor_section_current_tabs" = "Dabartiniai skirtukai";
 "tab_editor_title" = "Skirtukų redaktorius";
+"watch_action_back" = "Back";
+"watch_course_classroom_label" = "Classroom";
 "watch_course_detail_title" = "Kursas";
+"watch_course_instructor_label" = "Instructor";
 "watch_empty_not_logged_in" = "Not signed in. Open TigerDuck on your phone.";
 "watch_ends_at" = "Baigiasi %1$@";
 "watch_last_synced_never" = "Never synced";
@@ -611,6 +614,13 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Rytoj · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
+"watch_weekday_fri_short" = "Fri";
+"watch_weekday_mon_short" = "Mon";
+"watch_weekday_sat_short" = "Sat";
+"watch_weekday_sun_short" = "Sun";
+"watch_weekday_thu_short" = "Thu";
+"watch_weekday_tue_short" = "Tue";
+"watch_weekday_wed_short" = "Wed";
 "watch_widget_next_class" = "Next class";
 "watch_widget_next_class_description" = "Shows your next upcoming class.";
 "weekday_fri_short" = "Pn";

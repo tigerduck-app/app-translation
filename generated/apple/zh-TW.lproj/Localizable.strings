@@ -582,7 +582,10 @@
 "tab_editor_section_available_tabs" = "可新增的分頁";
 "tab_editor_section_current_tabs" = "目前的 Tab";
 "tab_editor_title" = "Tab 編輯器";
+"watch_action_back" = "返回";
+"watch_course_classroom_label" = "教室";
 "watch_course_detail_title" = "課程";
+"watch_course_instructor_label" = "授課教師";
 "watch_empty_not_logged_in" = "尚未登入。請在手機開啟 TigerDuck。";
 "watch_ends_at" = "%1$@ 結束";
 "watch_last_synced_never" = "尚未同步";
@@ -611,6 +614,13 @@
 "watch_today" = "今日";
 "watch_tomorrow_at" = "明天 · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
+"watch_weekday_fri_short" = "五";
+"watch_weekday_mon_short" = "一";
+"watch_weekday_sat_short" = "六";
+"watch_weekday_sun_short" = "日";
+"watch_weekday_thu_short" = "四";
+"watch_weekday_tue_short" = "二";
+"watch_weekday_wed_short" = "三";
 "watch_widget_next_class" = "下一堂課";
 "watch_widget_next_class_description" = "顯示你下一堂即將開始的課程。";
 "weekday_fri_short" = "五";
