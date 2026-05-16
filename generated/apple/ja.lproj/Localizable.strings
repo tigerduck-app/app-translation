@@ -588,6 +588,7 @@
 "watch_course_instructor_label" = "講師";
 "watch_empty_not_logged_in" = "Not signed in. Open TigerDuck on your phone.";
 "watch_ends_at" = "%1$@ 終了";
+"watch_just_now" = "たった今";
 "watch_last_synced_never" = "Never synced";
 "watch_last_synced_relative" = "最終同期:%1$@";
 "watch_next" = "NEXT";
@@ -604,6 +605,7 @@
 "watch_padding_value_dp" = "%1$d dp";
 "watch_relative_days_ago_short" = "%1$d 日前";
 "watch_relative_hours_ago_short" = "%1$d 時間前";
+"watch_relative_minutes_ago_short" = "%1$d 分前";
 "watch_screen_padding" = "画面の余白";
 "watch_settings" = "Settings";
 "watch_settings_signed_in" = "Signed in";

@@ -588,6 +588,7 @@
 "watch_course_instructor_label" = "授課教師";
 "watch_empty_not_logged_in" = "未登入嘅。喺手機開 TigerDuck 啦。";
 "watch_ends_at" = "%1$@ 完";
+"watch_just_now" = "啱啱";
 "watch_last_synced_never" = "未同步過";
 "watch_last_synced_relative" = "上次同步:%1$@";
 "watch_next" = "下一堂";
@@ -604,6 +605,7 @@
 "watch_padding_value_dp" = "%1$d dp";
 "watch_relative_days_ago_short" = "%1$d d ago";
 "watch_relative_hours_ago_short" = "%1$d h ago";
+"watch_relative_minutes_ago_short" = "%1$d min ago";
 "watch_screen_padding" = "螢幕邊距";
 "watch_settings" = "設定";
 "watch_settings_signed_in" = "登咗入";

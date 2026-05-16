@@ -588,6 +588,7 @@
 "watch_course_instructor_label" = "ผู้สอน";
 "watch_empty_not_logged_in" = "Not signed in. Open TigerDuck on your phone.";
 "watch_ends_at" = "สิ้นสุด %1$@";
+"watch_just_now" = "Just now";
 "watch_last_synced_never" = "Never synced";
 "watch_last_synced_relative" = "ซิงค์ล่าสุด %1$@";
 "watch_next" = "NEXT";
@@ -604,6 +605,7 @@
 "watch_padding_value_dp" = "%1$d dp";
 "watch_relative_days_ago_short" = "%1$d d ago";
 "watch_relative_hours_ago_short" = "%1$d h ago";
+"watch_relative_minutes_ago_short" = "%1$d min ago";
 "watch_screen_padding" = "ระยะขอบหน้าจอ";
 "watch_settings" = "Settings";
 "watch_settings_signed_in" = "Signed in";
