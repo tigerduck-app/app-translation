@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Timen starter snart: %1$@";
 "notification_setup_description" = "Aktiver tillatelsene nedenfor for å sikre at oppgavepåminnelser, timevarsler og direkteaktivitet kommer frem i tide selv når appen er lukket.";
 "notification_setup_title" = "Konfigurer varsler på nytt";
-"onboarding_flavor_fdroid_description" = "Du bruker F-Droid-versjonen. Siden F-Droids retningslinjer forbyr avhengighet av Googles tjenester (Firebase FCM, GMS osv.), er følgende to funksjoner ikke tilgjengelige i denne versjonen:\n\n1. Wear OS-følgeapp\n2. Push-varsler i sanntid";
-"onboarding_flavor_fdroid_title" = "Merknad om F-Droid-versjonen";
-"onboarding_flavor_play_description" = "TigerDuck inkluderer en Wear OS-følgeapp. Se klassemeldinger på klokken din — Wear TigerDuck synkroniserer informasjon fra telefonen din.";
-"onboarding_flavor_play_title" = "Støtte for Wear OS";
 "onboarding_login_button" = "Logg inn på studentportalen";
 "onboarding_login_subtitle" = "Logg inn med studentportal-kontoen din for å få tilgang til timeplanen din, Moodle og mer";
 "onboarding_login_title" = "Logg inn";

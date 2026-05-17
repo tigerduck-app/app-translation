@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Сабақ жақын басталады: %1$@";
 "notification_setup_description" = "Қолданба жабық болса да тапсырма еске салулары, сабақ басталу ескертулері және тікелей белсенділік уақытында жетуі үшін төмендегі рұқсаттарды қосыңыз.";
 "notification_setup_title" = "Хабарландыруларды қайта орнату";
-"onboarding_flavor_fdroid_description" = "Сіз F-Droid нұсқасын қолданып отырсыз. F-Droid саясаты Google қызметтеріне (Firebase FCM, GMS және т.б.) тәуелді болуға тыйым салатындықтан, осы нұсқада келесі екі мүмкіндік қолжетімсіз:\n\n1. Wear OS серіктес қосымшасы\n2. Нақты уақыттағы push хабарландырулары";
-"onboarding_flavor_fdroid_title" = "F-Droid нұсқасы туралы хабар";
-"onboarding_flavor_play_description" = "TigerDuck құрамында Wear OS серіктес қосымшасы бар. Сабақ хабарламаларын сағатыңыздан көріңіз — Wear TigerDuck телефоныңыздан ақпаратты синхрондайды.";
-"onboarding_flavor_play_title" = "Wear OS қолдауы";
 "onboarding_login_button" = "Оқу жүйесіне кіру";
 "onboarding_login_subtitle" = "Сабақ кестесіне, Moodle-ге және басқа мүмкіндіктерге қол жеткізу үшін оқу жүйесі тіркелгісімен кіріңіз";
 "onboarding_login_title" = "Кіру";

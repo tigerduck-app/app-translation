@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Час започва скоро: %1$@";
 "notification_setup_description" = "Активирайте разрешенията по-долу, за да се гарантира, че напомнянията за задания, предупрежденията за предстоящ час и динамичните дейности пристигат навреме дори когато приложението е затворено.";
 "notification_setup_title" = "Преконфигуриране на известия";
-"onboarding_flavor_fdroid_description" = "Използвате версията F-Droid. Тъй като политиката на F-Droid забранява зависимост от услугите на Google (Firebase FCM, GMS и др.), следните две функции не са налични в тази версия:\n\n1. Придружаващо приложение Wear OS\n2. Известия в реално време";
-"onboarding_flavor_fdroid_title" = "Бележка за версията F-Droid";
-"onboarding_flavor_play_description" = "TigerDuck включва придружаващо приложение Wear OS. Преглеждайте съобщенията от часовете на часовника си — Wear TigerDuck синхронизира информация от телефона ви.";
-"onboarding_flavor_play_title" = "Поддръжка на Wear OS";
 "onboarding_login_button" = "Влизане в академичната система";
 "onboarding_login_subtitle" = "Влезте с акаунта си в академичната система, за да получите достъп до разписанието, Moodle и още";
 "onboarding_login_title" = "Влизане";

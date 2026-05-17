@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Скоро начнётся занятие: %1$@";
 "notification_setup_description" = "Включите указанные ниже разрешения, чтобы напоминания о заданиях, оповещения о начале занятий и live-активность приходили вовремя, даже когда приложение закрыто.";
 "notification_setup_title" = "Настроить уведомления заново";
-"onboarding_flavor_fdroid_description" = "Вы используете сборку F-Droid. Поскольку политика F-Droid запрещает зависимость от сервисов Google (Firebase FCM, GMS и т.д.), в этой сборке недоступны следующие две функции:\n\n1. Сопутствующее приложение Wear OS\n2. Push-уведомления в реальном времени";
-"onboarding_flavor_fdroid_title" = "Уведомление о сборке F-Droid";
-"onboarding_flavor_play_description" = "TigerDuck включает приложение для Wear OS. Просматривайте сообщения о занятиях на часах — Wear TigerDuck синхронизирует информацию с вашего телефона.";
-"onboarding_flavor_play_title" = "Поддержка Wear OS";
 "onboarding_login_button" = "Войти в школьную систему";
 "onboarding_login_subtitle" = "Войдите с учётной записью школьной системы, чтобы получить доступ к расписанию, Moodle и другим возможностям";
 "onboarding_login_title" = "Вход";

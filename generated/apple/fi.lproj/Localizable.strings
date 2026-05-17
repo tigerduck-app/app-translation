@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Tunti alkaa pian: %1$@";
 "notification_setup_description" = "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja live-toiminto saapuvat ajoissa myös sovelluksen ollessa suljettuna.";
 "notification_setup_title" = "Määritä ilmoitukset uudelleen";
-"onboarding_flavor_fdroid_description" = "Käytät F-Droid-versiota. Koska F-Droidin käytäntö kieltää riippuvuuden Googlen palveluista (Firebase FCM, GMS jne.), seuraavat kaksi ominaisuutta eivät ole käytettävissä tässä versiossa:\n\n1. Wear OS -kumppanisovellus\n2. Reaaliaikaiset push-ilmoitukset";
-"onboarding_flavor_fdroid_title" = "F-Droid-version huomautus";
-"onboarding_flavor_play_description" = "TigerDuck sisältää Wear OS -kumppanisovelluksen. Katso oppituntien viestit kellostasi — Wear TigerDuck synkronoi tiedot puhelimestasi.";
-"onboarding_flavor_play_title" = "Wear OS -tuki";
 "onboarding_login_button" = "Kirjaudu opiskelijaportaaliin";
 "onboarding_login_subtitle" = "Kirjaudu opiskelijaportaalin tunnuksilla käyttääksesi lukujärjestystä, Moodlea ja muita ominaisuuksia";
 "onboarding_login_title" = "Kirjaudu sisään";

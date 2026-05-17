@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "ক্লাস শুরু হতে চলেছে: %1$@";
 "notification_setup_description" = "নিচের অনুমতিগুলি চালু করুন যাতে অ্যাপ বন্ধ থাকলেও অ্যাসাইনমেন্টের স্মরণিকা, ক্লাসের প্রস্তুতি সতর্কতা এবং লাইভ অ্যাক্টিভিটি সময়মতো আসে।";
 "notification_setup_title" = "বিজ্ঞপ্তি পুনরায় কনফিগার করুন";
-"onboarding_flavor_fdroid_description" = "আপনি F-Droid বিল্ড ব্যবহার করছেন। যেহেতু F-Droid নীতি Google-এর পরিষেবার (Firebase FCM, GMS ইত্যাদি) উপর নির্ভরতা নিষিদ্ধ করে, এই বিল্ডে নিম্নলিখিত দুটি বৈশিষ্ট্য উপলব্ধ নয়:\n\n1. Wear OS সঙ্গী অ্যাপ\n2. রিয়েল-টাইম পুশ ঘোষণা";
-"onboarding_flavor_fdroid_title" = "F-Droid বিল্ড নোটিশ";
-"onboarding_flavor_play_description" = "TigerDuck একটি Wear OS সঙ্গী অন্তর্ভুক্ত করে। আপনার ঘড়িতে ক্লাস বার্তা দেখুন — Wear TigerDuck আপনার ফোন থেকে তথ্য সিঙ্ক করে।";
-"onboarding_flavor_play_title" = "Wear OS সমর্থন";
 "onboarding_login_button" = "একাডেমিক সিস্টেমে সাইন ইন করুন";
 "onboarding_login_subtitle" = "ক্লাস তালিকা, Moodle এবং আরও ফিচার অ্যাক্সেস করতে আপনার একাডেমিক সিস্টেম অ্যাকাউন্ট দিয়ে সাইন ইন করুন";
 "onboarding_login_title" = "সাইন ইন";

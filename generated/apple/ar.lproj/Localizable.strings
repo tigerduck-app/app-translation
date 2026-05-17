@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "ستبدأ المحاضرة قريبًا: %1$@";
 "notification_setup_description" = "فعّل الأذونات أدناه لضمان وصول تذكيرات الواجبات وتنبيهات بدء المحاضرات والنشاط المباشر في وقتها حتى عند إغلاق التطبيق.";
 "notification_setup_title" = "إعادة ضبط الإشعارات";
-"onboarding_flavor_fdroid_description" = "أنت تستخدم نسخة F-Droid. بما أن سياسة F-Droid تحظر الاعتماد على خدمات Google (Firebase FCM وGMS وغيرها)، فإن الميزتين التاليتين غير متاحتين في هذه النسخة:\n\n1. تطبيق Wear OS المرافق\n2. إشعارات الإعلانات الفورية";
-"onboarding_flavor_fdroid_title" = "إشعار نسخة F-Droid";
-"onboarding_flavor_play_description" = "يتضمن TigerDuck تطبيقًا مرافقًا لـ Wear OS. اعرض رسائل الدروس على ساعتك — يقوم Wear TigerDuck بمزامنة المعلومات من هاتفك.";
-"onboarding_flavor_play_title" = "دعم Wear OS";
 "onboarding_login_button" = "تسجيل الدخول إلى النظام الأكاديمي";
 "onboarding_login_subtitle" = "سجّل الدخول بحساب النظام الأكاديمي للوصول إلى الجدول الدراسي و Moodle والمزيد";
 "onboarding_login_title" = "تسجيل الدخول";

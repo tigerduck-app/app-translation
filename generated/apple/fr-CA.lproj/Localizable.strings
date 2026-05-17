@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Cours imminent : %1$@";
 "notification_setup_description" = "Activez les autorisations ci-dessous pour vous assurer que les rappels de devoirs, les alertes avant les cours et l'activité en direct arrivent à temps, même lorsque l'application est fermée.";
 "notification_setup_title" = "Reconfigurer les notifications";
-"onboarding_flavor_fdroid_description" = "Vous utilisez la version F-Droid. La politique de F-Droid interdisant la dépendance aux services Google (Firebase FCM, GMS, etc.), les deux fonctionnalités suivantes ne sont pas disponibles dans cette version :\n\n1. Application compagnon Wear OS\n2. Notifications push en temps réel";
-"onboarding_flavor_fdroid_title" = "Avis concernant la version F-Droid";
-"onboarding_flavor_play_description" = "TigerDuck inclut une application compagnon Wear OS. Consultez les messages de cours sur votre montre — Wear TigerDuck synchronise les informations depuis votre téléphone.";
-"onboarding_flavor_play_title" = "Prise en charge de Wear OS";
 "onboarding_login_button" = "Se connecter au système universitaire";
 "onboarding_login_subtitle" = "Connectez-vous avec votre compte du système universitaire pour accéder à votre emploi du temps, à Moodle et plus encore";
 "onboarding_login_title" = "Connexion";

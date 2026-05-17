@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Magsisimula na ang klase: %1$@";
 "notification_setup_description" = "I-enable ang mga pahintulot sa ibaba para matiyak na darating sa tamang oras ang mga paalala sa takdang-aralin, bago mag-klase, at live activity kahit naka-close ang app.";
 "notification_setup_title" = "I-reconfigure ang mga notification";
-"onboarding_flavor_fdroid_description" = "Gumagamit ka ng F-Droid build. Dahil ipinagbabawal ng patakaran ng F-Droid ang pagdepende sa mga serbisyo ng Google (Firebase FCM, GMS, atbp.), hindi available ang sumusunod na dalawang feature sa build na ito:\n\n1. Wear OS companion app\n2. Real-time na push na anunsyo";
-"onboarding_flavor_fdroid_title" = "Paalala sa F-Droid build";
-"onboarding_flavor_play_description" = "May kasamang Wear OS companion ang TigerDuck. Tingnan ang mga mensahe ng klase sa iyong relo — sina-sync ng Wear TigerDuck ang impormasyon mula sa iyong telepono.";
-"onboarding_flavor_play_title" = "Suporta para sa Wear OS";
 "onboarding_login_button" = "Mag-sign in sa sistemang akademiko";
 "onboarding_login_subtitle" = "Mag-sign in gamit ang iyong account sa sistemang akademiko para ma-access ang iyong iskedyul ng klase, Moodle, at higit pa";
 "onboarding_login_title" = "Mag-sign in";

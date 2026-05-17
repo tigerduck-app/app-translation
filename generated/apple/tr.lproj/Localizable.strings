@@ -446,10 +446,6 @@
 "notification_class_preparing_title" = "Ders birazdan başlıyor: %1$@";
 "notification_setup_description" = "Aşağıdaki izinleri etkinleştirerek ödev hatırlatıcılarının, ders başlangıç uyarılarının ve canlı etkinliğin uygulama kapalıyken bile zamanında ulaşmasını sağlayın.";
 "notification_setup_title" = "Bildirimleri yeniden yapılandır";
-"onboarding_flavor_fdroid_description" = "F-Droid sürümünü kullanıyorsunuz. F-Droid politikası Google hizmetlerine (Firebase FCM, GMS vb.) bağımlılığa izin vermediği için bu sürümde aşağıdaki iki özellik kullanılamaz:\n\n1. Wear OS eşlik uygulaması\n2. Gerçek zamanlı push duyuruları";
-"onboarding_flavor_fdroid_title" = "F-Droid sürümü hakkında bilgi";
-"onboarding_flavor_play_description" = "TigerDuck bir Wear OS eşlik uygulaması içerir. Ders mesajlarını saatinizden görüntüleyin — Wear TigerDuck telefonunuzdaki bilgileri eşitler.";
-"onboarding_flavor_play_title" = "Wear OS desteği";
 "onboarding_login_button" = "Öğrenci bilgi sistemine giriş yap";
 "onboarding_login_subtitle" = "Ders programınıza, Moodle'a ve daha fazlasına erişmek için öğrenci bilgi sistemi hesabınızla giriş yapın";
 "onboarding_login_title" = "Giriş yap";
