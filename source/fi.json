@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Taustatoiminnan rajoitus",
     "permission_exact_alarm_description": "Salli sovelluksen lähettää tehtävä- ja tuntimuistutukset tarkasti. Jos poistettu käytöstä, muistutukset voivat viivästyä useita minuutteja.",
     "permission_exact_alarm_name": "Tarkat hälytykset",
+    "vibration_settings_motor_warning": "Joillakin puhelimilla on heikomman laadun värinämoottorit, jotka saattavat jättää huomioimatta hyvin heikot tai hyvin lyhyet värinät. Jos et tunne asetusta, yritä lisätä sen voimakkuutta tai pituutta. Voit aloittaa kokeilemalla esiasetusta \"Keskipitkä\".",
     "vibration_settings_revert": "Palauta oletukseksi",
     "vibration_settings_section_length_ms": "Kesto (ms)",
     "vibration_settings_section_strength_pct": "Voimakkuus",

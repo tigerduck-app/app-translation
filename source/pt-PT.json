@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Restrição de atividade em segundo plano",
     "permission_exact_alarm_description": "Permite que a aplicação envie lembretes de trabalhos e aulas a horas exatas. Se estiver desativado, os lembretes podem atrasar-se vários minutos.",
     "permission_exact_alarm_name": "Alarmes exatos",
+    "vibration_settings_motor_warning": "Alguns telemóveis têm motores de vibração de menor qualidade que podem ignorar vibrações muito fracas ou muito curtas. Se não conseguir sentir uma definição, tente aumentar a sua intensidade ou duração. Pode começar por experimentar a predefinição \"Médio\" primeiro.",
     "vibration_settings_revert": "Repor predefinição",
     "vibration_settings_section_length_ms": "Duração (ms)",
     "vibration_settings_section_strength_pct": "Intensidade",

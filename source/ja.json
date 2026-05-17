@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "バックグラウンド動作の制限",
     "permission_exact_alarm_description": "アプリが課題や授業のリマインダーを正確な時刻に送信できるようにします。無効にするとリマインダーが数分から十数分遅れる場合があります。",
     "permission_exact_alarm_name": "正確なアラーム",
+    "vibration_settings_motor_warning": "一部のスマートフォンは振動モーターの品質が低く、非常に弱い振動や非常に短い振動を無視することがあります。設定を感じられない場合は、強度や長さを上げてみてください。まず「中間」のプリセットから試してみることをお勧めします。",
     "vibration_settings_revert": "デフォルトに戻す",
     "vibration_settings_section_length_ms": "長さ (ms)",
     "vibration_settings_section_strength_pct": "強さ",

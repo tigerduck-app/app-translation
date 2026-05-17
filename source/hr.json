@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Ograničenje pozadinske aktivnosti",
     "permission_exact_alarm_description": "Dopustite aplikaciji slanje podsjetnika za zadatke i predavanja u točno određeno vrijeme. Ako je onemogućeno, podsjetnici mogu kasniti nekoliko minuta.",
     "permission_exact_alarm_name": "Precizni alarmi",
+    "vibration_settings_motor_warning": "Neki telefoni imaju vibromotore niže kvalitete koji mogu ignorirati vrlo slabe ili vrlo kratke vibracije. Ako ne možete osjetiti postavku, pokušajte povećati njenu snagu ili trajanje. Možete početi isprobavanjem unaprijed postavljene vrijednosti \"Srednje\".",
     "vibration_settings_revert": "Vrati na zadano",
     "vibration_settings_section_length_ms": "Trajanje (ms)",
     "vibration_settings_section_strength_pct": "Jakost",

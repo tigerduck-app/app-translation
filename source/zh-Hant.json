@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "背景活動限制",
     "permission_exact_alarm_description": "允許 App 在精確的時間送出作業與上課提醒；關閉後提醒可能延後數分鐘至十幾分鐘。",
     "permission_exact_alarm_name": "精確鬧鐘",
+    "vibration_settings_motor_warning": "部分手機的震動馬達品質較差，過弱或過短的震動可能完全感受不到。若感受不到震動，請試著調高強度或時長。建議先從「中」預設開始試試。",
     "vibration_settings_revert": "還原預設",
     "vibration_settings_section_length_ms": "長度（毫秒）",
     "vibration_settings_section_strength_pct": "強度",

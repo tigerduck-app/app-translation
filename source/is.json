@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Takmörkun bakgrunnsstarfsemi",
     "permission_exact_alarm_description": "Leyfðu forritinu að senda verkefna- og tímaáminningar á nákvæmum tíma. Ef slökkt er á þessu gætu áminningar seinkað um nokkrar mínútur.",
     "permission_exact_alarm_name": "Nákvæmar virkjar",
+    "vibration_settings_motor_warning": "Sumir símar hafa lægri gæða titringsmótor sem gætu hunsað mjög veika eða mjög stuttar titringshreyfingar. Ef þú finnur ekki fyrir stillingu skaltu reyna að auka styrk hennar eða lengd. Þú getur byrjað á að prófa \"Meðal\" forstillinguna fyrst.",
     "vibration_settings_revert": "Endurstilla sjálfgefið",
     "vibration_settings_section_length_ms": "Lengd (ms)",
     "vibration_settings_section_strength_pct": "Styrkur",

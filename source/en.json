@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Background activity restriction",
     "permission_exact_alarm_description": "Allow the app to send assignment and class reminders at exact times. If disabled, reminders may be delayed by several minutes.",
     "permission_exact_alarm_name": "Exact alarms",
+    "vibration_settings_motor_warning": "Some phones have lower-quality vibration motors that may ignore very weak or very short vibrations. If you can't feel a setting, try raising its strength or length. You can start by trying the medium preset first.",
     "vibration_settings_revert": "Reset to default",
     "vibration_settings_section_length_ms": "Length (ms)",
     "vibration_settings_section_strength_pct": "Strength",

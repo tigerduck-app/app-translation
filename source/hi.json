@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "बैकग्राउंड गतिविधि प्रतिबंध",
     "permission_exact_alarm_description": "ऐप को सटीक समय पर असाइनमेंट और कक्षा अनुस्मारक भेजने की अनुमति दें। अक्षम करने पर अनुस्मारक कई मिनट देरी से आ सकते हैं।",
     "permission_exact_alarm_name": "सटीक अलार्म",
+    "vibration_settings_motor_warning": "कुछ फोनों में कम गुणवत्ता वाले वाइब्रेशन मोटर होते हैं जो बहुत कमज़ोर या बहुत छोटे वाइब्रेशन को अनदेखा कर सकते हैं। अगर आप कोई सेटिंग महसूस नहीं कर पाते, तो उसकी ताकत या लंबाई बढ़ाने की कोशिश करें। आप पहले \"मध्यम\" प्रीसेट आज़माकर शुरू कर सकते हैं।",
     "vibration_settings_revert": "डिफ़ॉल्ट पर रीसेट",
     "vibration_settings_section_length_ms": "अवधि (ms)",
     "vibration_settings_section_strength_pct": "तीव्रता",

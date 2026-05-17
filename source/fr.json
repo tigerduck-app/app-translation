@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Restriction d'activité en arrière-plan",
     "permission_exact_alarm_description": "Autoriser l'application à envoyer les rappels de devoirs et de cours à l'heure exacte. Si désactivée, les rappels peuvent être retardés de plusieurs minutes.",
     "permission_exact_alarm_name": "Alarmes précises",
+    "vibration_settings_motor_warning": "Certains téléphones sont équipés de moteurs de vibration de moindre qualité qui peuvent ignorer les vibrations très faibles ou très courtes. Si vous ne ressentez pas un réglage, essayez d'augmenter son intensité ou sa durée. Vous pouvez commencer par essayer le préréglage \"Moyen\".",
     "vibration_settings_revert": "Rétablir par défaut",
     "vibration_settings_section_length_ms": "Durée (ms)",
     "vibration_settings_section_strength_pct": "Intensité",

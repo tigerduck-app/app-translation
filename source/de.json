@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Einschränkung der Hintergrundaktivität",
     "permission_exact_alarm_description": "Erlauben Sie der App, Aufgaben- und Unterrichtserinnerungen zur exakten Zeit zu senden. Wenn deaktiviert, können sich Erinnerungen um mehrere Minuten verzögern.",
     "permission_exact_alarm_name": "Exakte Alarme",
+    "vibration_settings_motor_warning": "Einige Telefone haben Vibrationsmotoren geringerer Qualität, die sehr schwache oder sehr kurze Vibrationen ignorieren können. Falls Sie eine Einstellung nicht spüren, versuchen Sie, die Stärke oder Länge zu erhöhen. Sie können mit der Voreinstellung \"Mittel\" beginnen.",
     "vibration_settings_revert": "Standard wiederherstellen",
     "vibration_settings_section_length_ms": "Dauer (ms)",
     "vibration_settings_section_strength_pct": "Stärke",

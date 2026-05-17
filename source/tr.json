@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Arka plan etkinliği kısıtlaması",
     "permission_exact_alarm_description": "Uygulamanın ödev ve ders hatırlatıcılarını tam zamanında göndermesine izin verin. Devre dışı bırakılırsa hatırlatıcılar birkaç dakika gecikebilir.",
     "permission_exact_alarm_name": "Tam zamanlı alarmlar",
+    "vibration_settings_motor_warning": "Bazı telefonlarda çok zayıf veya çok kısa titreşimleri görmezden gelebilecek daha düşük kaliteli titreşim motorları bulunur. Bir ayarı hissedemiyorsanız gücünü veya uzunluğunu artırmayı deneyin. \"Orta\" ön ayarını deneyerek başlayabilirsiniz.",
     "vibration_settings_revert": "Varsayılana sıfırla",
     "vibration_settings_section_length_ms": "Süre (ms)",
     "vibration_settings_section_strength_pct": "Güç",

@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "ਬੈਕਗ੍ਰਾਊਂਡ ਗਤੀਵਿਧੀ ਪਾਬੰਦੀ",
     "permission_exact_alarm_description": "ਐਪ ਨੂੰ ਸਹੀ ਸਮੇਂ 'ਤੇ ਅਸਾਈਨਮੈਂਟ ਅਤੇ ਕਲਾਸ ਰੀਮਾਈਂਡਰ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ। ਅਯੋਗ ਹੋਣ 'ਤੇ ਰੀਮਾਈਂਡਰ ਕੁਝ ਮਿੰਟ ਦੇਰ ਨਾਲ ਆ ਸਕਦੇ ਹਨ।",
     "permission_exact_alarm_name": "ਸਟੀਕ ਅਲਾਰਮ",
+    "vibration_settings_motor_warning": "ਕੁਝ ਫੋਨਾਂ ਵਿੱਚ ਘੱਟ ਗੁਣਵੱਤਾ ਵਾਲੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਮੋਟਰ ਹੁੰਦੇ ਹਨ ਜੋ ਬਹੁਤ ਕਮਜ਼ੋਰ ਜਾਂ ਬਹੁਤ ਛੋਟੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰ ਸਕਦੇ ਹਨ। ਜੇ ਤੁਸੀਂ ਕੋਈ ਸੈਟਿੰਗ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰ ਸਕਦੇ, ਤਾਂ ਇਸਦੀ ਤਾਕਤ ਜਾਂ ਲੰਬਾਈ ਵਧਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਤੁਸੀਂ ਪਹਿਲਾਂ \"ਦਰਮਿਆਨਾ\" ਪ੍ਰੀਸੈੱਟ ਅਜ਼ਮਾ ਕੇ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।",
     "vibration_settings_revert": "ਡਿਫੌਲਟ 'ਤੇ ਰੀਸੈੱਟ",
     "vibration_settings_section_length_ms": "ਅਵਧੀ (ms)",
     "vibration_settings_section_strength_pct": "ਤੀਬਰਤਾ",

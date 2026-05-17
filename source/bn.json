@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "ব্যাকগ্রাউন্ড কার্যকলাপ সীমাবদ্ধতা",
     "permission_exact_alarm_description": "অ্যাপকে নির্দিষ্ট সময়ে অ্যাসাইনমেন্ট ও ক্লাসের স্মরণিকা পাঠানোর অনুমতি দিন। বন্ধ করলে স্মরণিকা কয়েক মিনিট বিলম্বিত হতে পারে।",
     "permission_exact_alarm_name": "নির্দিষ্ট অ্যালার্ম",
+    "vibration_settings_motor_warning": "কিছু ফোনে নিম্নমানের ভাইব্রেশন মোটর থাকে যা খুব দুর্বল বা খুব ছোট ভাইব্রেশন উপেক্ষা করতে পারে। যদি কোনো সেটিং অনুভব না করেন, তাহলে এর শক্তি বা দৈর্ঘ্য বাড়ানোর চেষ্টা করুন। আপনি প্রথমে \"মাঝারি\" প্রিসেট দিয়ে শুরু করতে পারেন।",
     "vibration_settings_revert": "ডিফল্টে ফিরুন",
     "vibration_settings_section_length_ms": "দৈর্ঘ্য (ms)",
     "vibration_settings_section_strength_pct": "তীব্রতা",

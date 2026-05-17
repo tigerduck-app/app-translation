@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Hạn chế hoạt động nền",
     "permission_exact_alarm_description": "Cho phép ứng dụng gửi nhắc bài tập và lớp học vào đúng thời điểm. Nếu tắt, nhắc nhở có thể bị trễ vài phút.",
     "permission_exact_alarm_name": "Báo thức chính xác",
+    "vibration_settings_motor_warning": "Một số điện thoại có động cơ rung chất lượng thấp hơn có thể bỏ qua những rung động rất yếu hoặc rất ngắn. Nếu bạn không cảm nhận được một cài đặt, hãy thử tăng cường độ hoặc độ dài của nó. Bạn có thể bắt đầu bằng cách thử cài đặt trước \"Vừa\" trước.",
     "vibration_settings_revert": "Đặt lại mặc định",
     "vibration_settings_section_length_ms": "Thời lượng (ms)",
     "vibration_settings_section_strength_pct": "Cường độ",

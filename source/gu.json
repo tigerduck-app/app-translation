@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "બૅકગ્રાઉન્ડ એક્ટિવિટી પ્રતિબંધ",
     "permission_exact_alarm_description": "App ને ચોક્કસ સમયે અસાઇનમેન્ટ અને ક્લાસ રિમાઇન્ડર મોકલવાની મંજૂરી આપો. બંધ કરવામાં આવે, તો રિમાઇન્ડર કેટલીક મિનિટ મોડા આવી શકે.",
     "permission_exact_alarm_name": "ચોક્કસ એલાર્મ",
+    "vibration_settings_motor_warning": "કેટલા ફોનમાં નીચી ગુણવત્તાના વાઇબ્રેશન મોટર હોય છે જે ખૂબ જ નબળા અથવા ખૂબ ટૂંકા વાઇબ્રેશનને અવગણી શકે છે. જો તમને કોઈ સેટિંગ ન અનુભવાય, તો તેની શક્તિ અથવા લંબાઈ વધારવાનો પ્રયાસ કરો. તમે પહેલા \"મધ્યમ\" પ્રીસેટ અજમાવીને શરૂ કરી શકો છો.",
     "vibration_settings_revert": "ડિફૉલ્ટ પર રીસેટ",
     "vibration_settings_section_length_ms": "સમયગાળો (ms)",
     "vibration_settings_section_strength_pct": "તીવ્રતા",

@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "محدودیت فعالیت پس‌زمینه",
     "permission_exact_alarm_description": "به برنامه اجازه بدهید یادآورها را دقیقاً در زمان مقرر ارسال کند. اگر غیرفعال باشد، یادآورها ممکن است چند دقیقه دیرتر برسند.",
     "permission_exact_alarm_name": "هشدارهای دقیق",
+    "vibration_settings_motor_warning": "برخی گوشی‌ها موتورهای لرزش با کیفیت پایین‌تری دارند که ممکن است لرزش‌های بسیار ضعیف یا بسیار کوتاه را نادیده بگیرند. اگر تنظیمی را حس نمی‌کنید، سعی کنید قدرت یا طول آن را افزایش دهید. می‌توانید با امتحان کردن پیش‌تنظیم \"متوسط\" شروع کنید.",
     "vibration_settings_revert": "بازگشت به پیش‌فرض",
     "vibration_settings_section_length_ms": "مدت (ms)",
     "vibration_settings_section_strength_pct": "شدت",

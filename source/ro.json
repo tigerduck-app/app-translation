@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Restricție activitate în fundal",
     "permission_exact_alarm_description": "Permite aplicației să trimită remindere pentru teme și cursuri la ore exacte. Dacă este dezactivat, reminderele pot întârzia câteva minute.",
     "permission_exact_alarm_name": "Alarme exacte",
+    "vibration_settings_motor_warning": "Unele telefoane au motoare de vibrație de calitate mai scăzută care pot ignora vibrațiile foarte slabe sau foarte scurte. Dacă nu simțiți o setare, încercați să îi creșteți intensitatea sau durata. Puteți începe încercând mai întâi presetul \"Mediu\".",
     "vibration_settings_revert": "Restabilire implicită",
     "vibration_settings_section_length_ms": "Durată (ms)",
     "vibration_settings_section_strength_pct": "Intensitate",

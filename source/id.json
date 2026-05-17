@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Pembatasan aktivitas latar belakang",
     "permission_exact_alarm_description": "Izinkan aplikasi mengirim pengingat tugas dan kelas pada waktu yang tepat. Jika dinonaktifkan, pengingat dapat tertunda beberapa menit.",
     "permission_exact_alarm_name": "Alarm presisi",
+    "vibration_settings_motor_warning": "Beberapa ponsel memiliki motor getar berkualitas lebih rendah yang mungkin mengabaikan getaran yang sangat lemah atau sangat pendek. Jika Anda tidak bisa merasakan suatu pengaturan, coba naikkan kekuatan atau panjangnya. Anda bisa mulai dengan mencoba preset \"Sedang\" terlebih dahulu.",
     "vibration_settings_revert": "Setel ulang ke default",
     "vibration_settings_section_length_ms": "Durasi (ms)",
     "vibration_settings_section_strength_pct": "Kekuatan",

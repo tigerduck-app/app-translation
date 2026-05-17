@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Begränsning av bakgrundsaktivitet",
     "permission_exact_alarm_description": "Tillåt appen att skicka påminnelser om uppgifter och lektioner vid exakta tider. Om inaktiverat kan påminnelser försenas med flera minuter.",
     "permission_exact_alarm_name": "Exakta alarm",
+    "vibration_settings_motor_warning": "Vissa telefoner har vibrationsmotorer av lägre kvalitet som kan ignorera mycket svaga eller mycket korta vibrationer. Om du inte kan känna en inställning, prova att öka dess styrka eller längd. Du kan börja med att prova förinställningen \"Medel\".",
     "vibration_settings_revert": "Återställ standard",
     "vibration_settings_section_length_ms": "Varaktighet (ms)",
     "vibration_settings_section_strength_pct": "Styrka",

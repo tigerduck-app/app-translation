@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Háttértevékenység korlátozása",
     "permission_exact_alarm_description": "Engedélyezze az alkalmazásnak, hogy pontosan időzített házi feladat és óra emlékeztetőket küldjön. Ha letiltja, az emlékeztetők néhány percet késhetnek.",
     "permission_exact_alarm_name": "Pontos ébresztők",
+    "vibration_settings_motor_warning": "Egyes telefonokon alacsonyabb minőségű vibrációs motor van, amely figyelmen kívül hagyhatja a nagyon gyenge vagy nagyon rövid rezgéseket. Ha nem érez egy beállítást, próbálja növelni annak erősségét vagy hosszát. Kezdheti a \"Közepes\" előbeállítás kipróbálásával.",
     "vibration_settings_revert": "Alapértelmezett visszaállítása",
     "vibration_settings_section_length_ms": "Időtartam (ms)",
     "vibration_settings_section_strength_pct": "Erősség",

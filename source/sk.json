@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Obmedzenie aktivít na pozadí",
     "permission_exact_alarm_description": "Povolte aplikácii posielať pripomienky úloh a hodín v presnom čase. Ak je vypnuté, pripomienky môžu meškať niekoľko minút.",
     "permission_exact_alarm_name": "Presné alarmy",
+    "vibration_settings_motor_warning": "Niektoré telefóny majú vibračné motory nižšej kvality, ktoré môžu ignorovať veľmi slabé alebo veľmi krátke vibrácie. Ak neviete pocítiť nastavenie, skúste zvýšiť jeho silu alebo dĺžku. Môžete začať vyskúšaním predvoľby \"Stredný\".",
     "vibration_settings_revert": "Obnoviť predvolené",
     "vibration_settings_section_length_ms": "Trvanie (ms)",
     "vibration_settings_section_strength_pct": "Sila",

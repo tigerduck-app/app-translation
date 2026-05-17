@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "پس منظر کی سرگرمی پر پابندی",
     "permission_exact_alarm_description": "ایپ کو اسائنمنٹ اور کلاس کی یاددہانی بالکل صحیح وقت پر بھیجنے کی اجازت دیں۔ اگر بند ہو تو یاددہانی کئی منٹ تاخیر سے آ سکتی ہے۔",
     "permission_exact_alarm_name": "صحیح وقت کا الارم",
+    "vibration_settings_motor_warning": "کچھ فونوں میں کم معیار کے وائبریشن موٹر ہوتے ہیں جو بہت کمزور یا بہت مختصر وائبریشن کو نظرانداز کر سکتے ہیں۔ اگر آپ کوئی ترتیب محسوس نہیں کر سکتے، تو اس کی طاقت یا لمبائی بڑھانے کی کوشش کریں۔ آپ پہلے \"درمیانہ\" پری سیٹ آزما کر شروع کر سکتے ہیں۔",
     "vibration_settings_revert": "ڈیفالٹ پر ری سیٹ",
     "vibration_settings_section_length_ms": "مدت (ms)",
     "vibration_settings_section_strength_pct": "شدت",

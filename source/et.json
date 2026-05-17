@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Taustatöö piirang",
     "permission_exact_alarm_description": "Lubage rakendusel saata ülesande ja tunni meeldetuletusi täpselt õigel ajal. Kui see on keelatud, võivad meeldetuletused hilineda mõne minuti võrra.",
     "permission_exact_alarm_name": "Täpsed alarmid",
+    "vibration_settings_motor_warning": "Mõnel telefonil on madalama kvaliteediga vibraatorimootor, mis võib ignoreerida väga nõrku või väga lühikesi vibratsioone. Kui te seadistust ei tunne, proovige suurendada selle tugevust või pikkust. Võite alustada eelseade \"Keskmine\" proovimisest.",
     "vibration_settings_revert": "Lähtesta vaikimisi",
     "vibration_settings_section_length_ms": "Kestus (ms)",
     "vibration_settings_section_strength_pct": "Tugevus",

@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Restricció d'activitat en segon pla",
     "permission_exact_alarm_description": "Permet que l'aplicació enviï recordatoris de tasques i classes en moments exactes. Si està desactivat, els recordatoris poden arribar amb minuts de retard.",
     "permission_exact_alarm_name": "Alarmes exactes",
+    "vibration_settings_motor_warning": "Alguns telèfons tenen motors de vibració de menor qualitat que poden ignorar vibracions molt febles o molt curtes. Si no podeu sentir una configuració, proveu d'augmentar-ne la força o la durada. Podeu començar provant primer el preajust \"Mitjà\".",
     "vibration_settings_revert": "Restablir per defecte",
     "vibration_settings_section_length_ms": "Durada (ms)",
     "vibration_settings_section_strength_pct": "Intensitat",

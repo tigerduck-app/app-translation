@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Fona darbības ierobežojums",
     "permission_exact_alarm_description": "Atļaujiet lietotnei sūtīt uzdevumu un nodarbību atgādinājumus precīzos laikos. Ja atspējots, atgādinājumi var aizkavēties par dažām minūtēm.",
     "permission_exact_alarm_name": "Precīzie alarmi",
+    "vibration_settings_motor_warning": "Dažiem telefoniem ir zemākas kvalitātes vibrācijas motori, kas var ignorēt ļoti vājas vai ļoti īsas vibrācijas. Ja nevarat sajust kādu iestatījumu, mēģiniet palielināt tā stiprumu vai ilgumu. Varat sākt, izmēģinot \"Vidējs\" sākotnējo iestatījumu.",
     "vibration_settings_revert": "Atjaunot noklusējumu",
     "vibration_settings_section_length_ms": "Ilgums (ms)",
     "vibration_settings_section_strength_pct": "Spēks",

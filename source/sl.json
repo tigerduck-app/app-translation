@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Omejitev dejavnosti v ozadju",
     "permission_exact_alarm_description": "Dovolite aplikaciji pošiljanje opomnikov za naloge in ure ob natančnem času. Če je onemogočeno, so opomniki lahko zamaknjeni za nekaj minut.",
     "permission_exact_alarm_name": "Natančni alarmi",
+    "vibration_settings_motor_warning": "Nekateri telefoni imajo vibromotorje nižje kakovosti, ki lahko ignorirajo zelo šibke ali zelo kratke vibracije. Če ne čutite nastavitve, poskusite povečati njeno moč ali dolžino. Začnete lahko s preizkusom prednastavitve \"Srednje\".",
     "vibration_settings_revert": "Ponastavi privzeto",
     "vibration_settings_section_length_ms": "Trajanje (ms)",
     "vibration_settings_section_strength_pct": "Jakost",

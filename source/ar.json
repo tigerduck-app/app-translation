@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "تقييد النشاط في الخلفية",
     "permission_exact_alarm_description": "اسمح للتطبيق بإرسال تذكيرات الواجبات والمحاضرات في أوقات دقيقة. عند تعطيله قد تتأخر التذكيرات عدة دقائق.",
     "permission_exact_alarm_name": "المنبهات الدقيقة",
+    "vibration_settings_motor_warning": "تعاني بعض الهواتف من محركات اهتزاز منخفضة الجودة قد تتجاهل الاهتزازات الضعيفة جداً أو القصيرة جداً. إذا كنت لا تشعر بالإعداد، حاول رفع قوته أو مدته. يمكنك البدء بتجربة الإعداد المسبق \"متوسط\" أولاً.",
     "vibration_settings_revert": "إعادة إلى الافتراضي",
     "vibration_settings_section_length_ms": "المدة (ms)",
     "vibration_settings_section_strength_pct": "الشدة",

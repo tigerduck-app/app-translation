@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Ograniczenie aktywności w tle",
     "permission_exact_alarm_description": "Pozwolić aplikacji wysyłać przypomnienia o zadaniach i zajęciach o dokładnych porach. Po wyłączeniu przypomnienia mogą być opóźnione o kilka minut.",
     "permission_exact_alarm_name": "Dokładne alarmy",
+    "vibration_settings_motor_warning": "Niektóre telefony mają silniki wibracji niższej jakości, które mogą ignorować bardzo słabe lub bardzo krótkie wibracje. Jeśli nie czujesz ustawienia, spróbuj zwiększyć jego siłę lub długość. Możesz zacząć od wypróbowania ustawienia wstępnego \"Średni\".",
     "vibration_settings_revert": "Przywróć domyślne",
     "vibration_settings_section_length_ms": "Czas trwania (ms)",
     "vibration_settings_section_strength_pct": "Siła",

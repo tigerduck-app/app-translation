@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Restricción de actividad en segundo plano",
     "permission_exact_alarm_description": "Permite que la app envíe recordatorios de tareas y de clases en horarios exactos. Si está deshabilitado, los recordatorios pueden retrasarse varios minutos.",
     "permission_exact_alarm_name": "Alarmas exactas",
+    "vibration_settings_motor_warning": "Algunos teléfonos tienen motores de vibración de menor calidad que pueden ignorar vibraciones muy débiles o muy cortas. Si no puedes sentir una configuración, intenta aumentar su intensidad o duración. Puedes empezar probando el ajuste preestablecido \"Medio\".",
     "vibration_settings_revert": "Restablecer por defecto",
     "vibration_settings_section_length_ms": "Duración (ms)",
     "vibration_settings_section_strength_pct": "Intensidad",

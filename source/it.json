@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Limitazione attività in background",
     "permission_exact_alarm_description": "Consenti all'app di inviare promemoria di compiti e lezioni con orari precisi. Se disattivata, i promemoria potrebbero essere ritardati di alcuni minuti.",
     "permission_exact_alarm_name": "Sveglie precise",
+    "vibration_settings_motor_warning": "Alcuni telefoni hanno motori di vibrazione di qualità inferiore che potrebbero ignorare vibrazioni molto deboli o molto brevi. Se non riesci a sentire un'impostazione, prova ad aumentarne la forza o la durata. Puoi iniziare provando prima il preset \"Medio\".",
     "vibration_settings_revert": "Ripristina predefinito",
     "vibration_settings_section_length_ms": "Durata (ms)",
     "vibration_settings_section_strength_pct": "Intensità",

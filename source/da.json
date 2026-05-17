@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Begrænsning af baggrundsaktivitet",
     "permission_exact_alarm_description": "Tillad appen at sende påmindelser om opgaver og undervisning på præcise tidspunkter. Hvis deaktiveret, kan påmindelser blive forsinket med flere minutter.",
     "permission_exact_alarm_name": "Præcise alarmer",
+    "vibration_settings_motor_warning": "Nogle telefoner har vibrationsmotor af lavere kvalitet, som muligvis ignorerer meget svage eller meget korte vibrationer. Hvis du ikke kan mærke en indstilling, kan du prøve at øge dens styrke eller længde. Du kan starte med at prøve \"Middel\"-forudindstillingen.",
     "vibration_settings_revert": "Gendan standard",
     "vibration_settings_section_length_ms": "Varighed (ms)",
     "vibration_settings_section_strength_pct": "Styrke",

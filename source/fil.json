@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Paghihigpit sa background activity",
     "permission_exact_alarm_description": "Payagan ang app na magpadala ng mga paalala sa takdang-aralin at klase sa tumpak na oras. Kung hindi pinagana, maaaring maantala ng ilang minuto ang mga paalala.",
     "permission_exact_alarm_name": "Tumpak na alarma",
+    "vibration_settings_motor_warning": "Ang ilang mga telepono ay may mas mababang kalidad na vibration motor na maaaring hindi mapansin ang napakahina o napakaikling vibration. Kung hindi mo maramdaman ang isang setting, subukang itaas ang lakas o haba nito. Maaari kang magsimula sa pamamagitan ng pagsubok sa \"Katamtaman\" na preset muna.",
     "vibration_settings_revert": "I-reset sa default",
     "vibration_settings_section_length_ms": "Haba (ms)",
     "vibration_settings_section_strength_pct": "Lakas",

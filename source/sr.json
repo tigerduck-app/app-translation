@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Ограничење позадинске активности",
     "permission_exact_alarm_description": "Дозволите апликацији да шаље подсетнике за задатке и часове у тачно одређено вријеме. Ако је онемогућено, подсетници могу каснити неколико минута.",
     "permission_exact_alarm_name": "Тачни аларми",
+    "vibration_settings_motor_warning": "Неки телефони имају вибромоторе нижег квалитета koji могу игнорисати врло слабе или врло кратке вибрације. Ако не можете да осетите подешавање, покушајте да повећате његову јачину или дужину. Можете почети испробавањем предпоставке \"Средње\".",
     "vibration_settings_revert": "Врати на подразумевано",
     "vibration_settings_section_length_ms": "Трајање (ms)",
     "vibration_settings_section_strength_pct": "Јачина",

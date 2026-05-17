@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "การจำกัดการทำงานเบื้องหลัง",
     "permission_exact_alarm_description": "อนุญาตให้แอปส่งการแจ้งเตือนการบ้านและการเข้าเรียนตรงเวลาที่กำหนด หากปิดใช้งาน การแจ้งเตือนอาจล่าช้าหลายนาที",
     "permission_exact_alarm_name": "การแจ้งเตือนแบบแม่นยำ",
+    "vibration_settings_motor_warning": "โทรศัพท์บางรุ่นมีมอเตอร์สั่นคุณภาพต่ำที่อาจไม่ตอบสนองต่อการสั่นที่อ่อนมากหรือสั้นมาก หากคุณรู้สึกไม่ได้ถึงการตั้งค่า ให้ลองเพิ่มความแรงหรือความยาว คุณสามารถเริ่มต้นด้วยการลองใช้ค่าตั้งต้น \"ปานกลาง\" ก่อน",
     "vibration_settings_revert": "รีเซ็ตเป็นค่าเริ่มต้น",
     "vibration_settings_section_length_ms": "ระยะเวลา (ms)",
     "vibration_settings_section_strength_pct": "ความแรง",

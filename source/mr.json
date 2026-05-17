@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "पार्श्वभूमी क्रियाकलाप निर्बंध",
     "permission_exact_alarm_description": "ॲपला असाइनमेंट आणि वर्गाची स्मरणपत्रे अचूक वेळी पाठवण्याची परवानगी द्या. बंद केल्यास, स्मरणपत्रे काही मिनिटे उशिरा येऊ शकतात.",
     "permission_exact_alarm_name": "अचूक अलार्म",
+    "vibration_settings_motor_warning": "काही फोनमध्ये कमी दर्जाचे व्हायब्रेशन मोटर असतात जे खूप कमकुवत किंवा खूप कमी कालावधीचे व्हायब्रेशन दुर्लक्षित करू शकतात. जर एखादी सेटिंग जाणवत नसेल, तर त्याची शक्ती किंवा लांबी वाढवण्याचा प्रयत्न करा. तुम्ही प्रथम \"मध्यम\" प्रीसेट वापरून पाहू शकता।",
     "vibration_settings_revert": "डीफॉल्टवर रीसेट करा",
     "vibration_settings_section_length_ms": "कालावधी (ms)",
     "vibration_settings_section_strength_pct": "तीव्रता",

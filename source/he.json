@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "הגבלת פעילות ברקע",
     "permission_exact_alarm_description": "אפשר לאפליקציה לשלוח תזכורות למטלות ושיעורים בזמנים מדויקים. אם מושבת, התזכורות עלולות להתעכב בכמה דקות.",
     "permission_exact_alarm_name": "התראות מדויקות",
+    "vibration_settings_motor_warning": "לחלק מהטלפונים יש מנועי רטט באיכות נמוכה יותר שעלולים להתעלם מרטטים חלשים מאוד או קצרים מאוד. אם אינך מרגיש הגדרה מסוימת, נסה להגביר את עוצמתה או אורכה. תוכל להתחיל בניסוי הקבוע \"בינוני\" תחילה.",
     "vibration_settings_revert": "אפס לברירת מחדל",
     "vibration_settings_section_length_ms": "משך (ms)",
     "vibration_settings_section_strength_pct": "עוצמה",

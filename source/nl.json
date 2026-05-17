@@ -681,6 +681,7 @@
     "permission_battery_optimization_name": "Beperking achtergrondactiviteit",
     "permission_exact_alarm_description": "Sta de app toe om opdracht- en lesherinneringen op exacte tijden te sturen. Als dit is uitgeschakeld, kunnen herinneringen enkele minuten vertraging hebben.",
     "permission_exact_alarm_name": "Exacte alarmen",
+    "vibration_settings_motor_warning": "Sommige telefoons hebben vibratieomoren van lagere kwaliteit die zeer zwakke of zeer korte trillingen kunnen negeren. Als u een instelling niet voelt, probeer dan de sterkte of lengte te verhogen. U kunt beginnen met het uitproberen van de voorinstelling \"Gemiddeld\".",
     "vibration_settings_revert": "Standaard herstellen",
     "vibration_settings_section_length_ms": "Duur (ms)",
     "vibration_settings_section_strength_pct": "Sterkte",
