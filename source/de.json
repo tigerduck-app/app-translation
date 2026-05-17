@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Unterricht beginnt bald: %1$s",
     "notification_setup_description": "Aktivieren Sie die folgenden Berechtigungen, damit Aufgabenerinnerungen, Unterrichtsvorwarnungen und Live-Aktivität auch bei geschlossener App rechtzeitig eintreffen.",
     "notification_setup_title": "Benachrichtigungen neu einrichten",
-    "onboarding_choose_features_subtitle": "Sie können dies später in den Einstellungen anpassen",
-    "onboarding_choose_features_title": "Funktionen auswählen",
     "onboarding_flavor_fdroid_description": "Du verwendest die F-Droid-Version. Da die F-Droid-Richtlinie eine Abhängigkeit von Google-Diensten (Firebase FCM, GMS usw.) untersagt, sind die folgenden zwei Funktionen in dieser Version nicht verfügbar:\n\n1. Wear-OS-Begleit-App\n2. Echtzeit-Push-Ankündigungen",
     "onboarding_flavor_fdroid_title": "Hinweis zur F-Droid-Version",
     "onboarding_flavor_play_description": "TigerDuck enthält eine Wear-OS-Begleit-App. Sieh dir Kursnachrichten auf deiner Uhr an — Wear TigerDuck synchronisiert Informationen von deinem Telefon.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Prüfung",
     "calendar_event_source_school": "Hochschule",
     "calendar_no_events_today": "Heute keine Termine",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Blau",
     "color_name_cyan": "Cyan",
     "color_name_green": "Grün",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Aufgabe",
     "live_activity_status_in_class_short": "Unterricht",
     "more_edit_mode_in_development": "Bearbeitungsmodus — In Entwicklung",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live-Aktivitäten",
     "push_server_status_settings_hint": "Auf Systemebene deaktiviert → Einstellungen → TigerDuck → Aktivieren",
     "score_course_credits_meta": "%1$@ · %2$d Leistungspunkte",
@@ -749,6 +750,8 @@
     "score_semester_first": "Wintersemester",
     "score_semester_first_short": "WS",
     "score_semester_second": "Sommersemester",
-    "score_semester_second_short": "SS"
+    "score_semester_second_short": "SS",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

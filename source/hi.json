@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "कक्षा जल्द शुरू होगी: %1$s",
     "notification_setup_description": "नीचे दी गई अनुमतियाँ सक्षम करें ताकि असाइनमेंट अनुस्मारक, कक्षा तैयारी अलर्ट और लाइव एक्टिविटी ऐप बंद होने पर भी समय पर आ सकें।",
     "notification_setup_title": "नोटिफिकेशन पुनः कॉन्फ़िगर करें",
-    "onboarding_choose_features_subtitle": "आप इन्हें बाद में सेटिंग में बदल सकते हैं",
-    "onboarding_choose_features_title": "फीचर चुनें",
     "onboarding_flavor_fdroid_description": "आप F-Droid बिल्ड का उपयोग कर रहे हैं। चूँकि F-Droid नीति Google की सेवाओं (Firebase FCM, GMS आदि) पर निर्भरता निषिद्ध करती है, इसलिए निम्नलिखित दो सुविधाएँ इस बिल्ड में उपलब्ध नहीं हैं:\n\n1. Wear OS साथी ऐप\n2. रीयल-टाइम पुश सूचनाएँ",
     "onboarding_flavor_fdroid_title": "F-Droid बिल्ड सूचना",
     "onboarding_flavor_play_description": "TigerDuck में Wear OS साथी ऐप शामिल है। अपनी घड़ी पर कक्षा संदेश देखें — Wear TigerDuck आपके फ़ोन से जानकारी सिंक करता है।",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "परीक्षा",
     "calendar_event_source_school": "स्कूल",
     "calendar_no_events_today": "आज कोई इवेंट नहीं",
+    "class_table_add_course": "Add course",
     "color_name_blue": "नीला",
     "color_name_cyan": "सियान",
     "color_name_green": "हरा",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "असाइनमेंट",
     "live_activity_status_in_class_short": "कक्षा",
     "more_edit_mode_in_development": "संपादन मोड — विकासाधीन",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "सिस्टम स्तर पर अक्षम → सेटिंग्स → TigerDuck → सक्षम करें",
     "score_course_credits_meta": "%1$@ · %2$d क्रेडिट",
@@ -749,6 +750,8 @@
     "score_semester_first": "शरद सेमेस्टर",
     "score_semester_first_short": "शरद",
     "score_semester_second": "वसंत सेमेस्टर",
-    "score_semester_second_short": "वसंत"
+    "score_semester_second_short": "वसंत",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

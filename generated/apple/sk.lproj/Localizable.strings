@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Škola";
 "calendar_today" = "Dnes";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ má v tomto časovom slote už dve hodiny (deň %2$@, hodina %3$@): %4$@ a %5$@. Systém nepodporuje trojitý konflikt.";
 "class_table_conflict_add_failed_title" = "Nedá sa pridať";
 "class_table_course_name" = "Názov kurzu";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Čoskoro začína hodina: %1$@";
 "notification_setup_description" = "Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a živá aktivita prichádzali včas aj keď je aplikácia zatvorená.";
 "notification_setup_title" = "Znovu nastaviť notifikácie";
-"onboarding_choose_features_subtitle" = "Tieto nastavenia môžete neskôr zmeniť v Nastaveniach";
-"onboarding_choose_features_title" = "Vyberte funkcie";
 "onboarding_flavor_fdroid_description" = "Používate verziu F-Droid. Keďže politika F-Droid zakazuje závislosť od služieb Google (Firebase FCM, GMS atď.), nasledujúce dve funkcie nie sú v tejto verzii dostupné:\n\n1. Sprievodná aplikácia Wear OS\n2. Push oznámenia v reálnom čase";
 "onboarding_flavor_fdroid_title" = "Upozornenie k verzii F-Droid";
 "onboarding_flavor_play_description" = "TigerDuck obsahuje sprievodnú aplikáciu Wear OS. Sledujte správy z hodín na hodinkách — Wear TigerDuck synchronizuje informácie z vášho telefónu.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Všetko je pripravené!";
 "onboarding_skip_for_now" = "Preskočiť teraz";
 "onboarding_start_button" = "Začať používať TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck je univerzitný pomocník vytvorený skupinou študentov, ktorý rieši roztrúsené zdroje, oneskorené oznámenia a neprehľadné rozhrania. \nAplikácia funguje výlučne vďaka dobrej vôli vývojárov — ak narazíte na nejaké problémy, nahláste ich (navštívte web nižšie, aby ste sa pripojili k nášmu Discordu alebo vyplnili formulár so spätnou väzbou). Budeme radi za pomoc s vylepšením alebo priamy príspevok do vývoja.";
 "onboarding_welcome_github_label" = "TigerDuck na GitHube";
 "onboarding_welcome_subtitle" = "Váš asistent kampusu NTUST";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Zobraziť pinyin";
 "settings_classroom_mandarin_display_translated" = "Zobraziť preklad";
 "settings_color_theme" = "Farebná téma";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Spätná väzba / Nahlásenie problému";
 "settings_invert_slider_direction" = "Invertovať smer posuvníka";
 "settings_language" = "Jazyk (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Táto aplikácia nie je oficiálna aplikácia knižnice NTUST a nebola schválená školskou knižnicou. Nemôžeme zaručiť normálnu prevádzku ani žiadne dôsledky používania.\n\nPoužívajte podľa vlastného uváženia. Za akékoľvek negatívne dôsledky zodpovedáte sami, čo nesúvisí s tigerduck-app.";
 "settings_library_warning_title" = "Upozornenie!";
 "settings_link_opening_method" = "Otvárať odkazy pomocou";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Oficiálna stránka";
 "settings_open_source_licenses" = "Licencie open-source";
 "settings_privacy_policy" = "Zásady ochrany súkromia";

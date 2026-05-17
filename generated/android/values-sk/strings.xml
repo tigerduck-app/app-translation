@@ -419,8 +419,6 @@
     <string name="notification_class_preparing_title">Čoskoro začína hodina: %1$s</string>
     <string name="notification_setup_description">Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a živá aktivita prichádzali včas aj keď je aplikácia zatvorená.</string>
     <string name="notification_setup_title">Znovu nastaviť notifikácie</string>
-    <string name="onboarding_choose_features_subtitle">Tieto nastavenia môžete neskôr zmeniť v Nastaveniach</string>
-    <string name="onboarding_choose_features_title">Vyberte funkcie</string>
     <string name="onboarding_flavor_fdroid_description">Používate verziu F-Droid. Keďže politika F-Droid zakazuje závislosť od služieb Google (Firebase FCM, GMS atď.), nasledujúce dve funkcie nie sú v tejto verzii dostupné:\n\n1. Sprievodná aplikácia Wear OS\n2. Push oznámenia v reálnom čase</string>
     <string name="onboarding_flavor_fdroid_title">Upozornenie k verzii F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck obsahuje sprievodnú aplikáciu Wear OS. Sledujte správy z hodín na hodinkách — Wear TigerDuck synchronizuje informácie z vášho telefónu.</string>

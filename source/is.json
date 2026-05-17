@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Tími byrjar bráðum: %1$s",
     "notification_setup_description": "Virkjaðu leyfi hér að neðan til að tryggja að verkefnaáminningar, tímaviðvaranir og bein virkni berist á réttum tíma jafnvel þegar forritið er lokað.",
     "notification_setup_title": "Endursetja tilkynningar",
-    "onboarding_choose_features_subtitle": "Þú getur breytt þessu seinna í Stillingum",
-    "onboarding_choose_features_title": "Veldu eiginleika",
     "onboarding_flavor_fdroid_description": "Þú ert að nota F-Droid útgáfuna. Þar sem stefna F-Droid bannar að reiða sig á þjónustu Google (Firebase FCM, GMS o.s.frv.) eru eftirfarandi tveir eiginleikar ekki í boði í þessari útgáfu:\n\n1. Wear OS fylgiapp\n2. Tilkynningar í rauntíma",
     "onboarding_flavor_fdroid_title": "Tilkynning um F-Droid útgáfu",
     "onboarding_flavor_play_description": "TigerDuck inniheldur Wear OS fylgiapp. Sjáðu skilaboð úr tímum á úrinu þínu — Wear TigerDuck samstillir upplýsingar úr símanum þínum.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Próf",
     "calendar_event_source_school": "Skóli",
     "calendar_no_events_today": "Engir viðburðir í dag",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Blár",
     "color_name_cyan": "Blágrænn",
     "color_name_green": "Grænn",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Verkefni",
     "live_activity_status_in_class_short": "Tími",
     "more_edit_mode_in_development": "Breytingahamur — Í þróun",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Óvirkt á kerfisstigi → Stillingar → TigerDuck → Virkja",
     "score_course_credits_meta": "%1$@ · %2$d einingar",
@@ -749,6 +750,8 @@
     "score_semester_first": "Haustönn",
     "score_semester_first_short": "Haust",
     "score_semester_second": "Vorönn",
-    "score_semester_second_short": "Vor"
+    "score_semester_second_short": "Vor",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Drīz sāksies: %1$s",
     "notification_setup_description": "Iespējojiet tālāk minētās atļaujas, lai uzdevumu atgādinājumi, nodarbību brīdinājumi un tiešā darbība tiktu piegādāti laikā arī tad, kad lietotne ir aizvērta.",
     "notification_setup_title": "Pārkonfigurēt paziņojumus",
-    "onboarding_choose_features_subtitle": "Vēlāk varat mainīt iestatījumos",
-    "onboarding_choose_features_title": "Izvēlieties funkcijas",
     "onboarding_flavor_fdroid_description": "Jūs izmantojat F-Droid versiju. Tā kā F-Droid politika aizliedz atkarību no Google pakalpojumiem (Firebase FCM, GMS u.c.), šajā versijā nav pieejamas šādas divas funkcijas:\n\n1. Wear OS pavadošā lietotne\n2. Reāllaika tiešie paziņojumi",
     "onboarding_flavor_fdroid_title": "F-Droid versijas paziņojums",
     "onboarding_flavor_play_description": "TigerDuck ietver Wear OS pavadošo lietotni. Skatiet nodarbību ziņojumus savā pulkstenī — Wear TigerDuck sinhronizē informāciju no jūsu tālruņa.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Eksāmens",
     "calendar_event_source_school": "Skola",
     "calendar_no_events_today": "Šodien notikumu nav",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Zils",
     "color_name_cyan": "Ciāns",
     "color_name_green": "Zaļš",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Uzdevums",
     "live_activity_status_in_class_short": "Stunda",
     "more_edit_mode_in_development": "Rediģēšanas režīms — Izstrādes stadijā",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Atspējots sistēmas līmenī → Iestatījumi → TigerDuck → Ieslēgt",
     "score_course_credits_meta": "%1$@ · %2$d kredītp.",
@@ -749,6 +750,8 @@
     "score_semester_first": "Rudens semestris",
     "score_semester_first_short": "Rudens",
     "score_semester_second": "Pavasara semestris",
-    "score_semester_second_short": "Pavasaris"
+    "score_semester_second_short": "Pavasaris",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

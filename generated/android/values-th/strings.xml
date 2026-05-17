@@ -419,8 +419,6 @@
     <string name="notification_class_preparing_title">กำลังจะเข้าเรียน: %1$s</string>
     <string name="notification_setup_description">เปิดใช้งานสิทธิ์ด้านล่างเพื่อให้แน่ใจว่าการแจ้งเตือนการบ้าน การแจ้งเตือนก่อนเข้าเรียน และ Live Activity จะมาถึงตรงเวลาแม้ในขณะที่ปิดแอปอยู่</string>
     <string name="notification_setup_title">ตั้งค่าการแจ้งเตือนใหม่</string>
-    <string name="onboarding_choose_features_subtitle">คุณสามารถปรับเปลี่ยนได้ในภายหลังที่การตั้งค่า</string>
-    <string name="onboarding_choose_features_title">เลือกฟีเจอร์</string>
     <string name="onboarding_flavor_fdroid_description">คุณกำลังใช้บิลด์ F-Droid เนื่องจากนโยบายของ F-Droid ห้ามการพึ่งพาบริการของ Google (Firebase FCM, GMS ฯลฯ) ฟีเจอร์สองอย่างต่อไปนี้จึงไม่มีในบิลด์นี้:\n\n1. แอปคู่กับ Wear OS\n2. การแจ้งเตือนแบบพุชเรียลไทม์</string>
     <string name="onboarding_flavor_fdroid_title">ประกาศเกี่ยวกับบิลด์ F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck มาพร้อมแอปคู่กับ Wear OS ดูข้อความในชั้นเรียนบนนาฬิกาของคุณ — Wear TigerDuck จะซิงค์ข้อมูลจากโทรศัพท์ของคุณ</string>

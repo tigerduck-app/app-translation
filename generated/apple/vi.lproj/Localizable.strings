@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Trường";
 "calendar_today" = "Hôm nay";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ đã có hai lớp ở khung này (Thứ %2$@, Tiết %3$@): %4$@ và %5$@. Hệ thống không hỗ trợ trùng ba lớp.";
 "class_table_conflict_add_failed_title" = "Không thể thêm";
 "class_table_course_name" = "Tên môn học";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Sắp vào lớp: %1$@";
 "notification_setup_description" = "Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và hoạt động trực tiếp đến đúng giờ ngay cả khi ứng dụng đã đóng.";
 "notification_setup_title" = "Cài đặt lại thông báo";
-"onboarding_choose_features_subtitle" = "Bạn có thể điều chỉnh sau trong Cài đặt";
-"onboarding_choose_features_title" = "Chọn tính năng";
 "onboarding_flavor_fdroid_description" = "Bạn đang sử dụng bản F-Droid. Vì chính sách F-Droid không cho phép phụ thuộc vào các dịch vụ của Google (Firebase FCM, GMS, v.v.), nên hai tính năng sau không có sẵn trong bản này:\n\n1. Ứng dụng đồng hành Wear OS\n2. Thông báo đẩy theo thời gian thực";
 "onboarding_flavor_fdroid_title" = "Lưu ý về bản F-Droid";
 "onboarding_flavor_play_description" = "TigerDuck đi kèm ứng dụng đồng hành Wear OS. Xem tin nhắn lớp học trên đồng hồ của bạn — Wear TigerDuck đồng bộ thông tin từ điện thoại.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Mọi thứ đã sẵn sàng!";
 "onboarding_skip_for_now" = "Tạm bỏ qua";
 "onboarding_start_button" = "Bắt đầu sử dụng TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck là trợ thủ trong khuôn viên trường do một nhóm sinh viên xây dựng để giải quyết tài nguyên rời rạc, thông báo trễ và giao diện khó dùng. \nỨng dụng hoàn toàn chạy nhờ thiện chí của các nhà phát triển — nếu bạn gặp sự cố, vui lòng báo lại (truy cập trang web bên dưới để tham gia Discord của chúng tôi hoặc điền biểu mẫu phản hồi). Rất hoan nghênh bạn giúp chúng tôi cải thiện hoặc đóng góp trực tiếp cho quá trình phát triển.";
 "onboarding_welcome_github_label" = "TigerDuck trên GitHub";
 "onboarding_welcome_subtitle" = "Trợ lý sinh viên NTUST của bạn";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Hiển thị Bính âm";
 "settings_classroom_mandarin_display_translated" = "Hiển thị bản dịch";
 "settings_color_theme" = "Chủ đề màu";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Phản hồi / Báo lỗi";
 "settings_invert_slider_direction" = "Đảo hướng thanh trượt";
 "settings_language" = "Ngôn ngữ (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Ứng dụng này không phải là ứng dụng thư viện chính thức của NTUST và chưa được thư viện trường phê duyệt. Chúng tôi không thể đảm bảo hoạt động bình thường hay bất kỳ hậu quả nào của việc sử dụng.\n\nHãy sử dụng theo quyết định của riêng bạn. Mọi hậu quả tiêu cực do bạn tự chịu trách nhiệm và không liên quan đến tigerduck-app.";
 "settings_library_warning_title" = "Vui lòng lưu ý!";
 "settings_link_opening_method" = "Mở liên kết bằng";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Trang web chính thức";
 "settings_open_source_licenses" = "Giấy phép mã nguồn mở";
 "settings_privacy_policy" = "Chính sách quyền riêng tư";

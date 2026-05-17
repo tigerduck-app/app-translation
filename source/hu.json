@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Hamarosan kezdődik az óra: %1$s",
     "notification_setup_description": "Az alábbi engedélyek engedélyezésével biztosítható, hogy a házi feladat emlékeztetők, az órakezdés figyelmeztetések és az élő tevékenység akkor is időben megérkezzenek, amikor az alkalmazás be van zárva.",
     "notification_setup_title": "Értesítések újrakonfigurálása",
-    "onboarding_choose_features_subtitle": "Ezeket később a Beállításokban módosíthatja",
-    "onboarding_choose_features_title": "Funkciók kiválasztása",
     "onboarding_flavor_fdroid_description": "A F-Droid verziót használod. Mivel a F-Droid szabályzata tiltja a Google szolgáltatásaitól (Firebase FCM, GMS stb.) való függést, az alábbi két funkció nem érhető el ebben a verzióban:\n\n1. Wear OS kísérőalkalmazás\n2. Valós idejű push értesítések",
     "onboarding_flavor_fdroid_title": "F-Droid verzió tájékoztató",
     "onboarding_flavor_play_description": "A TigerDuck tartalmaz egy Wear OS kísérőalkalmazást. Nézd meg az órádon az órák üzeneteit — a Wear TigerDuck szinkronizálja az adatokat a telefonodról.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Vizsga",
     "calendar_event_source_school": "Iskola",
     "calendar_no_events_today": "Ma nincsenek események",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Kék",
     "color_name_cyan": "Cián",
     "color_name_green": "Zöld",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Feladat",
     "live_activity_status_in_class_short": "Óra",
     "more_edit_mode_in_development": "Szerkesztési mód — Fejlesztés alatt",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Rendszerszinten letiltva → Beállítások → TigerDuck → Engedélyezés",
     "score_course_credits_meta": "%1$@ · %2$d kredit",
@@ -749,6 +750,8 @@
     "score_semester_first": "Őszi félév",
     "score_semester_first_short": "Ősz",
     "score_semester_second": "Tavaszi félév",
-    "score_semester_second_short": "Tavasz"
+    "score_semester_second_short": "Tavasz",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

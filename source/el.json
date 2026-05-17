@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Το μάθημα ξεκινά σύντομα: %1$s",
     "notification_setup_description": "Ενεργοποιήστε τις παρακάτω άδειες για να διασφαλίσετε ότι οι υπενθυμίσεις εργασιών, οι ειδοποιήσεις έναρξης μαθήματος και η ζωντανή δραστηριότητα παραδίδονται έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.",
     "notification_setup_title": "Επαναδιαμόρφωση ειδοποιήσεων",
-    "onboarding_choose_features_subtitle": "Μπορείτε να τα προσαρμόσετε αργότερα στις Ρυθμίσεις",
-    "onboarding_choose_features_title": "Επιλογή λειτουργιών",
     "onboarding_flavor_fdroid_description": "Χρησιμοποιείτε την έκδοση F-Droid. Επειδή η πολιτική του F-Droid απαγορεύει την εξάρτηση από υπηρεσίες της Google (Firebase FCM, GMS κ.λπ.), οι ακόλουθες δύο λειτουργίες δεν είναι διαθέσιμες σε αυτή την έκδοση:\n\n1. Συνοδευτική εφαρμογή Wear OS\n2. Ειδοποιήσεις σε πραγματικό χρόνο",
     "onboarding_flavor_fdroid_title": "Σημείωση για την έκδοση F-Droid",
     "onboarding_flavor_play_description": "Το TigerDuck περιλαμβάνει συνοδευτική εφαρμογή Wear OS. Δείτε μηνύματα μαθημάτων στο ρολόι σας — το Wear TigerDuck συγχρονίζει πληροφορίες από το κινητό σας.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Εξέταση",
     "calendar_event_source_school": "Σχολή",
     "calendar_no_events_today": "Δεν υπάρχουν εκδηλώσεις σήμερα",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Μπλε",
     "color_name_cyan": "Κυανό",
     "color_name_green": "Πράσινο",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Εργασία",
     "live_activity_status_in_class_short": "Μάθημα",
     "more_edit_mode_in_development": "Λειτουργία επεξεργασίας — Σε ανάπτυξη",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Ζωντανές δραστηριότητες",
     "push_server_status_settings_hint": "Απενεργοποιημένο σε επίπεδο συστήματος → Ρυθμίσεις → TigerDuck → Ενεργοποίηση",
     "score_course_credits_meta": "%1$@ · %2$d πιστ. μον.",
@@ -749,6 +750,8 @@
     "score_semester_first": "Χειμερινό εξάμηνο",
     "score_semester_first_short": "Χειμ",
     "score_semester_second": "Εαρινό εξάμηνο",
-    "score_semester_second_short": "Εαρ"
+    "score_semester_second_short": "Εαρ",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

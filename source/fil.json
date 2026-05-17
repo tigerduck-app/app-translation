@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Magsisimula na ang klase: %1$s",
     "notification_setup_description": "I-enable ang mga pahintulot sa ibaba para matiyak na darating sa tamang oras ang mga paalala sa takdang-aralin, bago mag-klase, at live activity kahit naka-close ang app.",
     "notification_setup_title": "I-reconfigure ang mga notification",
-    "onboarding_choose_features_subtitle": "Maaari mong ayusin ito sa ibang pagkakataon sa Settings",
-    "onboarding_choose_features_title": "Pumili ng mga feature",
     "onboarding_flavor_fdroid_description": "Gumagamit ka ng F-Droid build. Dahil ipinagbabawal ng patakaran ng F-Droid ang pagdepende sa mga serbisyo ng Google (Firebase FCM, GMS, atbp.), hindi available ang sumusunod na dalawang feature sa build na ito:\n\n1. Wear OS companion app\n2. Real-time na push na anunsyo",
     "onboarding_flavor_fdroid_title": "Paalala sa F-Droid build",
     "onboarding_flavor_play_description": "May kasamang Wear OS companion ang TigerDuck. Tingnan ang mga mensahe ng klase sa iyong relo — sina-sync ng Wear TigerDuck ang impormasyon mula sa iyong telepono.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Eksamen",
     "calendar_event_source_school": "Paaralan",
     "calendar_no_events_today": "Walang event ngayon",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Asul",
     "color_name_cyan": "Cyan",
     "color_name_green": "Berde",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Takdang-aralin",
     "live_activity_status_in_class_short": "Klase",
     "more_edit_mode_in_development": "Edit mode — Ginagawa pa",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Naka-disable sa antas ng system → Mga Setting → TigerDuck → I-enable",
     "score_course_credits_meta": "%1$@ · %2$d na credit",
@@ -749,6 +750,8 @@
     "score_semester_first": "Unang semestre",
     "score_semester_first_short": "Una",
     "score_semester_second": "Ikalawang semestre",
-    "score_semester_second_short": "Ika-2"
+    "score_semester_second_short": "Ika-2",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

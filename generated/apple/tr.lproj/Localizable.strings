@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Okul";
 "calendar_today" = "Bugün";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ bu zaman diliminde zaten iki derse sahip (Hafta günü %2$@, Ders saati %3$@): %4$@ ve %5$@. Sistem üçlü çakışmaları desteklemez.";
 "class_table_conflict_add_failed_title" = "Eklenemiyor";
 "class_table_course_name" = "Ders adı";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Ders birazdan başlıyor: %1$@";
 "notification_setup_description" = "Aşağıdaki izinleri etkinleştirerek ödev hatırlatıcılarının, ders başlangıç uyarılarının ve canlı etkinliğin uygulama kapalıyken bile zamanında ulaşmasını sağlayın.";
 "notification_setup_title" = "Bildirimleri yeniden yapılandır";
-"onboarding_choose_features_subtitle" = "Bunları daha sonra Ayarlar'dan değiştirebilirsiniz";
-"onboarding_choose_features_title" = "Özellikleri seçin";
 "onboarding_flavor_fdroid_description" = "F-Droid sürümünü kullanıyorsunuz. F-Droid politikası Google hizmetlerine (Firebase FCM, GMS vb.) bağımlılığa izin vermediği için bu sürümde aşağıdaki iki özellik kullanılamaz:\n\n1. Wear OS eşlik uygulaması\n2. Gerçek zamanlı push duyuruları";
 "onboarding_flavor_fdroid_title" = "F-Droid sürümü hakkında bilgi";
 "onboarding_flavor_play_description" = "TigerDuck bir Wear OS eşlik uygulaması içerir. Ders mesajlarını saatinizden görüntüleyin — Wear TigerDuck telefonunuzdaki bilgileri eşitler.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Her şey hazır!";
 "onboarding_skip_for_now" = "Şimdilik atla";
 "onboarding_start_button" = "TigerDuck'ı kullanmaya başla";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck, dağınık kaynakları, geç bildirimleri ve kullanışsız arayüzleri çözmek için bir grup öğrencinin geliştirdiği bir kampüs asistanıdır. \nUygulama tamamen geliştiricilerin iyi niyetiyle çalışıyor — sorunlarla karşılaşırsanız lütfen bildirin (Discord'umuza katılmak veya geri bildirim formunu doldurmak için aşağıdaki web sitesini ziyaret edin). Geliştirmemize yardım etmenizi ya da doğrudan geliştirmeye katkıda bulunmanızı bekliyoruz.";
 "onboarding_welcome_github_label" = "GitHub'da TigerDuck";
 "onboarding_welcome_subtitle" = "NTUST kampüs asistanınız";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Pinyini göster";
 "settings_classroom_mandarin_display_translated" = "Çevirisi göster";
 "settings_color_theme" = "Renk teması";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Geri bildirim / Sorun bildir";
 "settings_invert_slider_direction" = "Kaydırıcı yönünü ters çevir";
 "settings_language" = "Dil (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Bu uygulama resmi bir NTUST kütüphane uygulaması değildir ve okul kütüphanesi tarafından onaylanmamıştır. Normal çalışmayı veya kullanımdan doğacak sonuçları garanti edemeyiz.\n\nKendi takdirinizle kullanın. Olumsuz sonuçların tüm sorumluluğu size aittir ve tigerduck-app ile ilgisi yoktur.";
 "settings_library_warning_title" = "Lütfen dikkat!";
 "settings_link_opening_method" = "Bağlantıları şununla aç";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Resmi web sitesi";
 "settings_open_source_licenses" = "Açık kaynak lisansları";
 "settings_privacy_policy" = "Gizlilik politikası";

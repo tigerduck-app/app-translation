@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Timen starter snart: %1$s",
     "notification_setup_description": "Aktiver tillatelsene nedenfor for å sikre at oppgavepåminnelser, timevarsler og direkteaktivitet kommer frem i tide selv når appen er lukket.",
     "notification_setup_title": "Konfigurer varsler på nytt",
-    "onboarding_choose_features_subtitle": "Du kan justere disse senere i Innstillinger",
-    "onboarding_choose_features_title": "Velg funksjoner",
     "onboarding_flavor_fdroid_description": "Du bruker F-Droid-versjonen. Siden F-Droids retningslinjer forbyr avhengighet av Googles tjenester (Firebase FCM, GMS osv.), er følgende to funksjoner ikke tilgjengelige i denne versjonen:\n\n1. Wear OS-følgeapp\n2. Push-varsler i sanntid",
     "onboarding_flavor_fdroid_title": "Merknad om F-Droid-versjonen",
     "onboarding_flavor_play_description": "TigerDuck inkluderer en Wear OS-følgeapp. Se klassemeldinger på klokken din — Wear TigerDuck synkroniserer informasjon fra telefonen din.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Eksamen",
     "calendar_event_source_school": "Skole",
     "calendar_no_events_today": "Ingen hendelser i dag",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Blå",
     "color_name_cyan": "Cyan",
     "color_name_green": "Grønn",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Oppgave",
     "live_activity_status_in_class_short": "Time",
     "more_edit_mode_in_development": "Redigeringsmodus — Under utvikling",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Deaktivert på systemnivå → Innstillinger → TigerDuck → Aktiver",
     "score_course_credits_meta": "%1$@ · %2$d studiepoeng",
@@ -749,6 +750,8 @@
     "score_semester_first": "Høstsemester",
     "score_semester_first_short": "Høst",
     "score_semester_second": "Vårsemester",
-    "score_semester_second_short": "Vår"
+    "score_semester_second_short": "Vår",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

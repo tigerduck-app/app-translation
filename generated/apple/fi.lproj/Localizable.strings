@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Koulu";
 "calendar_today" = "Tänään";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@:llä on jo kaksi tuntia tässä ajassa (viikonpäivä %2$@, jakso %3$@): %4$@ ja %5$@. Järjestelmä ei tue kolminkertaisia päällekkäisyyksiä.";
 "class_table_conflict_add_failed_title" = "Ei voi lisätä";
 "class_table_course_name" = "Kurssin nimi";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Tunti alkaa pian: %1$@";
 "notification_setup_description" = "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja live-toiminto saapuvat ajoissa myös sovelluksen ollessa suljettuna.";
 "notification_setup_title" = "Määritä ilmoitukset uudelleen";
-"onboarding_choose_features_subtitle" = "Voit muuttaa näitä myöhemmin asetuksissa";
-"onboarding_choose_features_title" = "Valitse ominaisuudet";
 "onboarding_flavor_fdroid_description" = "Käytät F-Droid-versiota. Koska F-Droidin käytäntö kieltää riippuvuuden Googlen palveluista (Firebase FCM, GMS jne.), seuraavat kaksi ominaisuutta eivät ole käytettävissä tässä versiossa:\n\n1. Wear OS -kumppanisovellus\n2. Reaaliaikaiset push-ilmoitukset";
 "onboarding_flavor_fdroid_title" = "F-Droid-version huomautus";
 "onboarding_flavor_play_description" = "TigerDuck sisältää Wear OS -kumppanisovelluksen. Katso oppituntien viestit kellostasi — Wear TigerDuck synkronoi tiedot puhelimestasi.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Kaikki valmista!";
 "onboarding_skip_for_now" = "Ohita toistaiseksi";
 "onboarding_start_button" = "Aloita TigerDuckin käyttö";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck on kampusapulainen, jonka opiskelijaryhmä on rakentanut korjatakseen hajaantuneet resurssit, myöhästyneet ilmoitukset ja kömpelöt käyttöliittymät. \nSovellus pyörii kokonaan kehittäjien hyväntahdolla — jos törmäät ongelmiin, ilmoita niistä (käy alla olevalla sivustolla liittyäksesi Discord-kanavallemme tai täyttääksesi palautelomakkeen). Tervetuloa auttamaan parantamisessa tai osallistumaan suoraan kehitykseen.";
 "onboarding_welcome_github_label" = "TigerDuck GitHubissa";
 "onboarding_welcome_subtitle" = "NTUST-kampusavustajasi";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Näytä pinyin";
 "settings_classroom_mandarin_display_translated" = "Näytä käännös";
 "settings_color_theme" = "Väriteema";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Palaute / Ilmoita ongelma";
 "settings_invert_slider_direction" = "Käännä liukusäätimen suunta";
 "settings_language" = "Kieli (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Tämä sovellus ei ole virallinen NTUST-kirjastosovellus eikä koulun kirjasto ole hyväksynyt sitä. Emme voi taata normaalia toimintaa tai käytön seurauksia.\n\nKäytä omalla harkinnalla. Mahdolliset negatiiviset seuraukset ovat omalla vastuullasi eivätkä liity tigerduck-app-sovellukseen.";
 "settings_library_warning_title" = "Huomio!";
 "settings_link_opening_method" = "Avaa linkit";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Virallinen verkkosivusto";
 "settings_open_source_licenses" = "Avoimen lähdekoodin lisenssit";
 "settings_privacy_policy" = "Tietosuojakäytäntö";

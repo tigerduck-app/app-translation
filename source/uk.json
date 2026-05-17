@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Скоро початок заняття: %1$s",
     "notification_setup_description": "Увімкніть наведені нижче дозволи, щоб нагадування про завдання, сповіщення про початок заняття та жива активність надходили вчасно навіть тоді, коли застосунок закрито.",
     "notification_setup_title": "Переналаштувати сповіщення",
-    "onboarding_choose_features_subtitle": "Ви зможете змінити це пізніше в налаштуваннях",
-    "onboarding_choose_features_title": "Виберіть функції",
     "onboarding_flavor_fdroid_description": "Ви використовуєте збірку F-Droid. Оскільки правила F-Droid забороняють залежність від сервісів Google (Firebase FCM, GMS тощо), у цій збірці недоступні дві наведені нижче функції:\n\n1. Супутній застосунок Wear OS\n2. Push-сповіщення в реальному часі",
     "onboarding_flavor_fdroid_title": "Сповіщення про збірку F-Droid",
     "onboarding_flavor_play_description": "TigerDuck містить супутній застосунок Wear OS. Переглядайте повідомлення занять на годиннику — Wear TigerDuck синхронізує дані з вашого телефона.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Іспит",
     "calendar_event_source_school": "Школа",
     "calendar_no_events_today": "Сьогодні подій немає",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Синій",
     "color_name_cyan": "Блакитний",
     "color_name_green": "Зелений",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Завдання",
     "live_activity_status_in_class_short": "Урок",
     "more_edit_mode_in_development": "Режим редагування — У розробці",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Вимкнено на рівні системи → Налаштування → TigerDuck → Увімкнути",
     "score_course_credits_meta": "%1$@ · %2$d кредитів",
@@ -749,6 +750,8 @@
     "score_semester_first": "Осінній семестр",
     "score_semester_first_short": "Осінь",
     "score_semester_second": "Весняний семестр",
-    "score_semester_second_short": "Весна"
+    "score_semester_second_short": "Весна",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

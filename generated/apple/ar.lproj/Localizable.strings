@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "الجامعة";
 "calendar_today" = "اليوم";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ لديه بالفعل محاضرتان في هذا الموعد (يوم الأسبوع %2$@، الحصة %3$@): %4$@ و %5$@. النظام لا يدعم تعارض ثلاث محاضرات.";
 "class_table_conflict_add_failed_title" = "تعذّرت الإضافة";
 "class_table_course_name" = "اسم المقرر";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "ستبدأ المحاضرة قريبًا: %1$@";
 "notification_setup_description" = "فعّل الأذونات أدناه لضمان وصول تذكيرات الواجبات وتنبيهات بدء المحاضرات والنشاط المباشر في وقتها حتى عند إغلاق التطبيق.";
 "notification_setup_title" = "إعادة ضبط الإشعارات";
-"onboarding_choose_features_subtitle" = "يمكنك تعديلها لاحقًا في الإعدادات";
-"onboarding_choose_features_title" = "اختر الميزات";
 "onboarding_flavor_fdroid_description" = "أنت تستخدم نسخة F-Droid. بما أن سياسة F-Droid تحظر الاعتماد على خدمات Google (Firebase FCM وGMS وغيرها)، فإن الميزتين التاليتين غير متاحتين في هذه النسخة:\n\n1. تطبيق Wear OS المرافق\n2. إشعارات الإعلانات الفورية";
 "onboarding_flavor_fdroid_title" = "إشعار نسخة F-Droid";
 "onboarding_flavor_play_description" = "يتضمن TigerDuck تطبيقًا مرافقًا لـ Wear OS. اعرض رسائل الدروس على ساعتك — يقوم Wear TigerDuck بمزامنة المعلومات من هاتفك.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "كل شيء جاهز!";
 "onboarding_skip_for_now" = "تخطٍ في الوقت الحالي";
 "onboarding_start_button" = "ابدأ استخدام TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck هو مساعد جامعي طوّره فريق من الطلاب لمعالجة مشكلات الموارد المتفرقة والإشعارات المتأخرة والواجهات غير المريحة. \nيعمل التطبيق بالكامل بفضل حماس المطورين — إذا واجهتك أي مشكلات، يرجى الإبلاغ عنها (تفضل بزيارة الموقع أدناه للانضمام إلى Discord أو ملء نموذج الملاحظات). نرحب بمساعدتك في التحسين أو المساهمة مباشرة في التطوير.";
 "onboarding_welcome_github_label" = "TigerDuck على GitHub";
 "onboarding_welcome_subtitle" = "مساعدك في حرم NTUST";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "عرض بينيين";
 "settings_classroom_mandarin_display_translated" = "عرض الترجمة";
 "settings_color_theme" = "نسق الألوان";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "ملاحظات / الإبلاغ عن مشكلة";
 "settings_invert_slider_direction" = "عكس اتجاه شريط التمرير";
 "settings_language" = "(Language) اللغة";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "هذا التطبيق ليس تطبيقًا رسميًا لمكتبة NTUST ولم يحصل على موافقة مكتبة الجامعة. لا يمكننا ضمان التشغيل الطبيعي ولا أي عواقب للاستخدام.\n\nاستخدمه على مسؤوليتك. أي نتائج سلبية تقع على عاتقك ولا علاقة لها بـ tigerduck-app.";
 "settings_library_warning_title" = "يرجى الانتباه!";
 "settings_link_opening_method" = "فتح الروابط بواسطة";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "الموقع الرسمي";
 "settings_open_source_licenses" = "تراخيص المصادر المفتوحة";
 "settings_privacy_policy" = "سياسة الخصوصية";

@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Les begint zo: %1$s",
     "notification_setup_description": "Schakel de onderstaande machtigingen in zodat opdrachtherinneringen, meldingen voor lessen die zo beginnen en live activiteit op tijd binnenkomen, ook als de app gesloten is.",
     "notification_setup_title": "Meldingen opnieuw configureren",
-    "onboarding_choose_features_subtitle": "Je kunt dit later aanpassen in Instellingen",
-    "onboarding_choose_features_title": "Functies kiezen",
     "onboarding_flavor_fdroid_description": "Je gebruikt de F-Droid-versie. Omdat het F-Droid-beleid afhankelijkheid van Google-services (Firebase FCM, GMS enz.) verbiedt, zijn de volgende twee functies niet beschikbaar in deze versie:\n\n1. Wear OS-begeleidingsapp\n2. Realtime push-meldingen",
     "onboarding_flavor_fdroid_title": "Mededeling over F-Droid-versie",
     "onboarding_flavor_play_description": "TigerDuck bevat een Wear OS-begeleider. Bekijk lesberichten op je horloge — Wear TigerDuck synchroniseert informatie vanaf je telefoon.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Tentamen",
     "calendar_event_source_school": "School",
     "calendar_no_events_today": "Geen evenementen vandaag",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Blauw",
     "color_name_cyan": "Cyaan",
     "color_name_green": "Groen",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Opdracht",
     "live_activity_status_in_class_short": "Les",
     "more_edit_mode_in_development": "Bewerkingsmodus — In ontwikkeling",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Op systeemniveau uitgeschakeld → Instellingen → TigerDuck → Inschakelen",
     "score_course_credits_meta": "%1$@ · %2$d studiepunten",
@@ -749,6 +750,8 @@
     "score_semester_first": "Herfstsemester",
     "score_semester_first_short": "Herfst",
     "score_semester_second": "Lentesemester",
-    "score_semester_second_short": "Lente"
+    "score_semester_second_short": "Lente",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

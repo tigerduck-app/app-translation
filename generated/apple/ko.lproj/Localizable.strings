@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "학교";
 "calendar_today" = "오늘";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@의 이 시간대(%2$@요일, %3$@교시)에 이미 두 개의 수업이 있습니다: %4$@와(과) %5$@. 시스템은 세 개 이상의 시간 충돌을 지원하지 않습니다.";
 "class_table_conflict_add_failed_title" = "추가할 수 없습니다";
 "class_table_course_name" = "수업 이름";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "곧 수업 시작: %1$@";
 "notification_setup_description" = "아래 권한을 허용하면 앱이 닫혀 있어도 과제 알림, 수업 시작 알림, 라이브 액티비티가 제때 도착합니다.";
 "notification_setup_title" = "알림 다시 설정";
-"onboarding_choose_features_subtitle" = "나중에 설정에서 변경할 수 있습니다";
-"onboarding_choose_features_title" = "기능 선택";
 "onboarding_flavor_fdroid_description" = "F-Droid 빌드를 사용 중입니다. F-Droid 정책은 Google 서비스(Firebase FCM, GMS 등)에 대한 의존을 금지하므로, 이 빌드에서는 다음 두 기능을 사용할 수 없습니다:\n\n1. Wear OS 컴패니언 앱\n2. 실시간 푸시 공지";
 "onboarding_flavor_fdroid_title" = "F-Droid 빌드 안내";
 "onboarding_flavor_play_description" = "TigerDuck에는 Wear OS 컴패니언이 포함되어 있습니다. 시계에서 수업 메시지를 확인하세요 — Wear TigerDuck이 휴대폰의 정보를 동기화합니다.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "모든 준비가 끝났어요!";
 "onboarding_skip_for_now" = "건너뛰기";
 "onboarding_start_button" = "TigerDuck 시작하기";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck은 흩어진 리소스, 늦은 알림, 불편한 인터페이스 문제를 해결하기 위해 학생 그룹이 만든 캠퍼스 도우미입니다. \n이 앱은 전적으로 개발자들의 호의로 운영됩니다 — 문제를 발견하시면 알려주세요 (아래 웹사이트를 방문해 Discord에 참여하거나 피드백 양식을 작성해 주세요). 개선에 도움을 주시거나 개발에 직접 기여하는 것도 환영합니다.";
 "onboarding_welcome_github_label" = "GitHub의 TigerDuck";
 "onboarding_welcome_subtitle" = "당신의 NTUST 캠퍼스 도우미";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "병음 표시";
 "settings_classroom_mandarin_display_translated" = "번역 표시";
 "settings_color_theme" = "색상 테마";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "피드백 / 문제 신고";
 "settings_invert_slider_direction" = "슬라이더 방향 반전";
 "settings_language" = "언어 (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "이 앱은 NTUST 공식 도서관 앱이 아니며 학교 도서관의 승인을 받지 않았습니다. 정상 작동이나 사용으로 인한 결과를 보장할 수 없습니다.\n\n사용은 본인의 판단에 따르며, 부정적인 결과는 본인 책임이고 tigerduck-app과는 무관합니다.";
 "settings_library_warning_title" = "주의해 주세요!";
 "settings_link_opening_method" = "링크 열기 방식";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "공식 웹사이트";
 "settings_open_source_licenses" = "오픈소스 라이선스";
 "settings_privacy_policy" = "개인정보 처리방침";

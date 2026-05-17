@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "即將上課：%1$s",
     "notification_setup_description": "設定以下權限可確保作業提醒、即將上課、即時動態在 App 關閉時也能準時送達。",
     "notification_setup_title": "重新設定通知",
-    "onboarding_choose_features_subtitle": "你可以之後在設定中隨時調整",
-    "onboarding_choose_features_title": "選擇功能",
     "onboarding_flavor_fdroid_description": "您安裝的是 F-Droid 版本，由於 F-Droid 商店規範不能使用 Google 所提供的各項服務（Firebase FCM、GMS 等等），所以以下兩項功能將在 F-Droid 版本（你正在使用）中缺失：\n\n1. Wear OS 應用程式\n2. 主動公告通知推送",
     "onboarding_flavor_fdroid_title": "F-Droid 版本說明",
     "onboarding_flavor_play_description": "本應用程式提供 Wear OS 應用程式，您可以在手錶查看課堂訊息。手錶 TigerDuck 將同步手機資訊。",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "考試",
     "calendar_event_source_school": "學校",
     "calendar_no_events_today": "今日無事件",
+    "class_table_add_course": "新增課程",
     "color_name_blue": "藍",
     "color_name_cyan": "青",
     "color_name_green": "綠",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "作業",
     "live_activity_status_in_class_short": "上課",
     "more_edit_mode_in_development": "編輯模式 — 開發中",
+    "onboarding_watchos_description": "TigerDuck 內建 Apple Watch 隨身版本，可在手腕上查看下一堂課與快速提醒，Watch 端會自動從 iPhone 同步資料。",
+    "onboarding_watchos_title": "Apple Watch 支援",
     "push_server_status_live_activities": "即時動態",
     "push_server_status_settings_hint": "系統層關閉 → 設定 → TigerDuck 開啟",
     "score_course_credits_meta": "%1$@ · %2$d 學分",
@@ -749,6 +750,8 @@
     "score_semester_first": "上學期",
     "score_semester_first_short": "上",
     "score_semester_second": "下學期",
-    "score_semester_second_short": "下"
+    "score_semester_second_short": "下",
+    "settings_delete_account": "刪除帳號",
+    "settings_notifications_disabled_warning": "通知已關閉，作業與課程提醒將無法送達。點擊以開啟系統設定。"
   }
 }

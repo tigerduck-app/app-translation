@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Sắp vào lớp: %1$s",
     "notification_setup_description": "Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và hoạt động trực tiếp đến đúng giờ ngay cả khi ứng dụng đã đóng.",
     "notification_setup_title": "Cài đặt lại thông báo",
-    "onboarding_choose_features_subtitle": "Bạn có thể điều chỉnh sau trong Cài đặt",
-    "onboarding_choose_features_title": "Chọn tính năng",
     "onboarding_flavor_fdroid_description": "Bạn đang sử dụng bản F-Droid. Vì chính sách F-Droid không cho phép phụ thuộc vào các dịch vụ của Google (Firebase FCM, GMS, v.v.), nên hai tính năng sau không có sẵn trong bản này:\n\n1. Ứng dụng đồng hành Wear OS\n2. Thông báo đẩy theo thời gian thực",
     "onboarding_flavor_fdroid_title": "Lưu ý về bản F-Droid",
     "onboarding_flavor_play_description": "TigerDuck đi kèm ứng dụng đồng hành Wear OS. Xem tin nhắn lớp học trên đồng hồ của bạn — Wear TigerDuck đồng bộ thông tin từ điện thoại.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Kỳ thi",
     "calendar_event_source_school": "Trường",
     "calendar_no_events_today": "Hôm nay không có sự kiện",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Xanh dương",
     "color_name_cyan": "Lục lam",
     "color_name_green": "Xanh lá",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Bài tập",
     "live_activity_status_in_class_short": "Lớp",
     "more_edit_mode_in_development": "Chế độ chỉnh sửa — Đang phát triển",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Tắt ở cấp hệ thống → Cài đặt → TigerDuck → Bật",
     "score_course_credits_meta": "%1$@ · %2$d tín chỉ",
@@ -749,6 +750,8 @@
     "score_semester_first": "Học kỳ 1",
     "score_semester_first_short": "Kỳ 1",
     "score_semester_second": "Học kỳ 2",
-    "score_semester_second_short": "Kỳ 2"
+    "score_semester_second_short": "Kỳ 2",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

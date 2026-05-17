@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "کلاس به‌زودی شروع می‌شود: %1$s",
     "notification_setup_description": "برای اینکه یادآورهای تکلیف، هشدارهای شروع کلاس و فعالیت زنده حتی وقتی برنامه بسته است به‌موقع برسند، مجوزهای زیر را فعال کنید.",
     "notification_setup_title": "پیکربندی مجدد اعلان‌ها",
-    "onboarding_choose_features_subtitle": "بعداً می‌توانید از بخش تنظیمات تغییرشان دهید",
-    "onboarding_choose_features_title": "انتخاب قابلیت‌ها",
     "onboarding_flavor_fdroid_description": "شما در حال استفاده از نسخه F-Droid هستید. از آنجا که سیاست F-Droid وابستگی به سرویس‌های Google (Firebase FCM، GMS و غیره) را ممنوع می‌کند، دو ویژگی زیر در این نسخه در دسترس نیستند:\n\n1. برنامه همراه Wear OS\n2. اعلان‌های لحظه‌ای",
     "onboarding_flavor_fdroid_title": "اطلاعیه نسخه F-Droid",
     "onboarding_flavor_play_description": "TigerDuck شامل یک برنامه همراه Wear OS است. پیام‌های کلاس را روی ساعت خود ببینید — Wear TigerDuck اطلاعات را از تلفن شما همگام‌سازی می‌کند.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "امتحان",
     "calendar_event_source_school": "دانشگاه",
     "calendar_no_events_today": "امروز رویدادی نیست",
+    "class_table_add_course": "Add course",
     "color_name_blue": "آبی",
     "color_name_cyan": "فیروزه‌ای",
     "color_name_green": "سبز",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "تکلیف",
     "live_activity_status_in_class_short": "کلاس",
     "more_edit_mode_in_development": "حالت ویرایش — در دست توسعه",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "در سطح سیستم غیرفعال شده → تنظیمات → TigerDuck → فعال کردن",
     "score_course_credits_meta": "%1$@ · %2$d واحد",
@@ -749,6 +750,8 @@
     "score_semester_first": "نیم‌سال اول",
     "score_semester_first_short": "اول",
     "score_semester_second": "نیم‌سال دوم",
-    "score_semester_second_short": "دوم"
+    "score_semester_second_short": "دوم",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Aula começando em breve: %1$s",
     "notification_setup_description": "Ative as permissões abaixo para garantir que os lembretes de atividades, alertas de início de aula e a atividade ao vivo cheguem na hora certa, mesmo com o app fechado.",
     "notification_setup_title": "Reconfigurar notificações",
-    "onboarding_choose_features_subtitle": "Você pode ajustar isso depois nas Configurações",
-    "onboarding_choose_features_title": "Escolha os recursos",
     "onboarding_flavor_fdroid_description": "Você está usando a versão F-Droid. Como a política do F-Droid proíbe a dependência dos serviços do Google (Firebase FCM, GMS etc.), os dois recursos a seguir não estão disponíveis nesta versão:\n\n1. App complementar para Wear OS\n2. Notificações push em tempo real",
     "onboarding_flavor_fdroid_title": "Aviso da versão F-Droid",
     "onboarding_flavor_play_description": "O TigerDuck inclui um complementar para Wear OS. Veja mensagens das aulas no seu relógio — o Wear TigerDuck sincroniza as informações do seu celular.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Prova",
     "calendar_event_source_school": "Escola",
     "calendar_no_events_today": "Nenhum evento hoje",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Azul",
     "color_name_cyan": "Ciano",
     "color_name_green": "Verde",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Tarefa",
     "live_activity_status_in_class_short": "Aula",
     "more_edit_mode_in_development": "Modo de edição — Em desenvolvimento",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Atividades ao Vivo",
     "push_server_status_settings_hint": "Desativado no nível do sistema → Ajustes → TigerDuck → Ativar",
     "score_course_credits_meta": "%1$@ · %2$d créditos",
@@ -749,6 +750,8 @@
     "score_semester_first": "Semestre de outono",
     "score_semester_first_short": "Outono",
     "score_semester_second": "Semestre de primavera",
-    "score_semester_second_short": "Prim"
+    "score_semester_second_short": "Prim",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

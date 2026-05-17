@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "École";
 "calendar_today" = "Aujourd'hui";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ a déjà deux cours sur ce créneau (jour %2$@, période %3$@) : %4$@ et %5$@. Le système ne prend pas en charge les triples conflits.";
 "class_table_conflict_add_failed_title" = "Impossible d'ajouter";
 "class_table_course_name" = "Nom du cours";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Cours imminent : %1$@";
 "notification_setup_description" = "Activez les autorisations ci-dessous pour vous assurer que les rappels de devoirs, les alertes avant les cours et l'activité en direct arrivent à temps, même lorsque l'application est fermée.";
 "notification_setup_title" = "Reconfigurer les notifications";
-"onboarding_choose_features_subtitle" = "Vous pouvez les ajuster plus tard dans les Paramètres";
-"onboarding_choose_features_title" = "Choisir les fonctionnalités";
 "onboarding_flavor_fdroid_description" = "Vous utilisez la version F-Droid. La politique de F-Droid interdisant la dépendance aux services Google (Firebase FCM, GMS, etc.), les deux fonctionnalités suivantes ne sont pas disponibles dans cette version :\n\n1. Application compagnon Wear OS\n2. Notifications push en temps réel";
 "onboarding_flavor_fdroid_title" = "Avis concernant la version F-Droid";
 "onboarding_flavor_play_description" = "TigerDuck inclut une application compagnon Wear OS. Consultez les messages de cours sur votre montre — Wear TigerDuck synchronise les informations depuis votre téléphone.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Tout est prêt !";
 "onboarding_skip_for_now" = "Passer pour l'instant";
 "onboarding_start_button" = "Commencer à utiliser TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck est un assistant universitaire créé par un groupe d'étudiants pour résoudre la dispersion des ressources, le retard des notifications et l'inconfort des interfaces. \nL'application fonctionne entièrement grâce à la bienveillance de ses développeurs — si vous rencontrez des problèmes, signalez-les (visitez le site ci-dessous pour rejoindre notre Discord ou remplir le formulaire de retour). Vous êtes le bienvenu pour nous aider à l'améliorer ou pour contribuer directement au développement.";
 "onboarding_welcome_github_label" = "TigerDuck sur GitHub";
 "onboarding_welcome_subtitle" = "Votre assistant de campus à NTUST";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Afficher pinyin";
 "settings_classroom_mandarin_display_translated" = "Afficher la traduction";
 "settings_color_theme" = "Thème de couleur";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Commentaires / Signaler un problème";
 "settings_invert_slider_direction" = "Inverser le sens du curseur";
 "settings_language" = "Langue (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Cette application n'est pas une application officielle de la bibliothèque NTUST et n'a pas été approuvée par la bibliothèque universitaire. Nous ne pouvons garantir son bon fonctionnement ni les conséquences de son utilisation.\n\nUtilisez-la à votre propre discrétion. Tout résultat négatif est de votre seule responsabilité et n'a aucun lien avec tigerduck-app.";
 "settings_library_warning_title" = "Attention !";
 "settings_link_opening_method" = "Ouvrir les liens avec";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Site web officiel";
 "settings_open_source_licenses" = "Licences open source";
 "settings_privacy_policy" = "Politique de confidentialité";

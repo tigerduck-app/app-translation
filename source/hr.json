@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Predavanje uskoro počinje: %1$s",
     "notification_setup_description": "Omogućite sljedeća dopuštenja kako bi podsjetnici za zadatke, upozorenja o predavanjima i aktivnost u stvarnom vremenu stizali na vrijeme čak i kada je aplikacija zatvorena.",
     "notification_setup_title": "Rekonfiguracija obavijesti",
-    "onboarding_choose_features_subtitle": "Možete ih prilagoditi kasnije u Postavkama",
-    "onboarding_choose_features_title": "Odabir funkcija",
     "onboarding_flavor_fdroid_description": "Koristite F-Droid verziju. Budući da pravila F-Droida zabranjuju ovisnost o Googleovim uslugama (Firebase FCM, GMS itd.), sljedeće dvije značajke nisu dostupne u ovoj verziji:\n\n1. Prateća aplikacija Wear OS\n2. Push obavijesti u stvarnom vremenu",
     "onboarding_flavor_fdroid_title": "Obavijest o F-Droid verziji",
     "onboarding_flavor_play_description": "TigerDuck uključuje pratećeg pomoćnika za Wear OS. Pogledajte poruke s nastave na svom satu — Wear TigerDuck sinkronizira podatke s vašeg telefona.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Ispit",
     "calendar_event_source_school": "Škola",
     "calendar_no_events_today": "Nema događaja danas",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Plava",
     "color_name_cyan": "Cijan",
     "color_name_green": "Zelena",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Zadatak",
     "live_activity_status_in_class_short": "Sat",
     "more_edit_mode_in_development": "Način uređivanja — U razvoju",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Onemogućeno na razini sustava → Postavke → TigerDuck → Omogući",
     "score_course_credits_meta": "%1$@ · %2$d ECTS bodova",
@@ -749,6 +750,8 @@
     "score_semester_first": "Jesenski semestar",
     "score_semester_first_short": "Jesen",
     "score_semester_second": "Proljetni semestar",
-    "score_semester_second_short": "Proljeće"
+    "score_semester_second_short": "Proljeće",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }
