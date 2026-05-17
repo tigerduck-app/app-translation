@@ -648,6 +648,10 @@
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Never synced";
 "watch_last_synced_relative" = "చివరిగా సమకాలీకరించబడింది %1$@";
+"watch_library_loading" = "Generating…";
+"watch_library_refresh_in_seconds" = "%lld s";
+"watch_library_signin_prompt" = "Sign in on iPhone";
+"watch_library_title" = "Library";
 "watch_next" = "NEXT";
 "watch_next_label" = "తదుపరి: %1$@ · %2$@";
 "watch_no_courses_synced" = "ఏ కోర్సులు సమకాలీకరించబడలేదు.";
