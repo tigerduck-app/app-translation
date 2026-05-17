@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു: %1$s",
     "notification_setup_description": "ആപ്പ് അടച്ചിരിക്കുമ്പോഴും അസൈൻമെന്റ് ഓർമ്മപ്പെടുത്തലുകൾ, ക്ലാസ് ഒരുക്കം അലേർട്ടുകൾ, Live Activity സമയത്ത് ലഭിക്കുന്നതിന് ചുവടെ ഉള്ള അനുമതികൾ പ്രവർത്തനക്ഷമമാക്കുക.",
     "notification_setup_title": "അറിയിപ്പുകൾ പുനഃക്രമീകരിക്കുക",
-    "onboarding_choose_features_subtitle": "ക്രമീകരണങ്ങളിൽ പിന്നീട് ഇവ ക്രമീകരിക്കാം",
-    "onboarding_choose_features_title": "ഫീച്ചറുകൾ തിരഞ്ഞെടുക്കുക",
     "onboarding_flavor_fdroid_description": "നിങ്ങൾ F-Droid ബിൽഡ് ഉപയോഗിക്കുകയാണ്. F-Droid നയം Google സേവനങ്ങളെ (Firebase FCM, GMS തുടങ്ങിയവ) ആശ്രയിക്കുന്നത് വിലക്കുന്നതിനാൽ, ഈ ബിൽഡിൽ ചുവടെയുള്ള രണ്ട് സവിശേഷതകൾ ലഭ്യമല്ല:\n\n1. Wear OS കമ്പാനിയൻ ആപ്പ്\n2. തത്സമയ പുഷ് അറിയിപ്പുകൾ",
     "onboarding_flavor_fdroid_title": "F-Droid ബിൽഡ് അറിയിപ്പ്",
     "onboarding_flavor_play_description": "TigerDuck-ൽ Wear OS കമ്പാനിയൻ ഉൾപ്പെടുന്നു. നിങ്ങളുടെ വാച്ചിൽ ക്ലാസ് സന്ദേശങ്ങൾ കാണുക — Wear TigerDuck നിങ്ങളുടെ ഫോണിൽ നിന്നുള്ള വിവരങ്ങൾ സമന്വയിപ്പിക്കുന്നു.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "പരീക്ഷ",
     "calendar_event_source_school": "സ്കൂൾ",
     "calendar_no_events_today": "ഇന്ന് ഇവൻ്റുകൾ ഇല്ല",
+    "class_table_add_course": "Add course",
     "color_name_blue": "നീല",
     "color_name_cyan": "സയാൻ",
     "color_name_green": "പച്ച",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "അസൈൻമെന്റ്",
     "live_activity_status_in_class_short": "ക്ലാസ്",
     "more_edit_mode_in_development": "എഡിറ്റ് മോഡ് — വികസനത്തിലാണ്",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "സിസ്റ്റം നിലയിൽ ഓഫ് → Settings → TigerDuck → പ്രവർത്തനക്ഷമമാക്കുക",
     "score_course_credits_meta": "%1$@ · %2$d ക്രെഡിറ്റുകൾ",
@@ -749,6 +750,8 @@
     "score_semester_first": "ഫോൾ സെമസ്റ്റർ",
     "score_semester_first_short": "ഫോൾ",
     "score_semester_second": "സ്പ്രിംഗ് സെമസ്റ്റർ",
-    "score_semester_second_short": "സ്പ്രിംഗ്"
+    "score_semester_second_short": "സ്പ്രിംഗ്",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

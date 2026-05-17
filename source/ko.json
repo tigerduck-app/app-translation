@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "곧 수업 시작: %1$s",
     "notification_setup_description": "아래 권한을 허용하면 앱이 닫혀 있어도 과제 알림, 수업 시작 알림, 라이브 액티비티가 제때 도착합니다.",
     "notification_setup_title": "알림 다시 설정",
-    "onboarding_choose_features_subtitle": "나중에 설정에서 변경할 수 있습니다",
-    "onboarding_choose_features_title": "기능 선택",
     "onboarding_flavor_fdroid_description": "F-Droid 빌드를 사용 중입니다. F-Droid 정책은 Google 서비스(Firebase FCM, GMS 등)에 대한 의존을 금지하므로, 이 빌드에서는 다음 두 기능을 사용할 수 없습니다:\n\n1. Wear OS 컴패니언 앱\n2. 실시간 푸시 공지",
     "onboarding_flavor_fdroid_title": "F-Droid 빌드 안내",
     "onboarding_flavor_play_description": "TigerDuck에는 Wear OS 컴패니언이 포함되어 있습니다. 시계에서 수업 메시지를 확인하세요 — Wear TigerDuck이 휴대폰의 정보를 동기화합니다.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "시험",
     "calendar_event_source_school": "학교",
     "calendar_no_events_today": "오늘 일정이 없습니다",
+    "class_table_add_course": "Add course",
     "color_name_blue": "파랑",
     "color_name_cyan": "청록",
     "color_name_green": "초록",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "과제",
     "live_activity_status_in_class_short": "수업",
     "more_edit_mode_in_development": "편집 모드 — 개발 중",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "라이브 액티비티",
     "push_server_status_settings_hint": "시스템 수준에서 비활성화됨 → 설정 → TigerDuck → 활성화",
     "score_course_credits_meta": "%1$@ · %2$d학점",
@@ -749,6 +750,8 @@
     "score_semester_first": "1학기",
     "score_semester_first_short": "1학기",
     "score_semester_second": "2학기",
-    "score_semester_second_short": "2학기"
+    "score_semester_second_short": "2학기",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

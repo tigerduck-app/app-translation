@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "ಶಾಲೆ";
 "calendar_today" = "ಇಂದು";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ ಈ ಸ್ಲಾಟ್‌ನಲ್ಲಿ ಈಗಾಗಲೇ ಎರಡು ತರಗತಿಗಳಿವೆ (ವಾರದ ದಿನ %2$@, ಅವಧಿ %3$@): %4$@ ಮತ್ತು %5$@. ಮೂರು ತರಗತಿ ಸಂಘರ್ಷವನ್ನು ಸಿಸ್ಟಂ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.";
 "class_table_conflict_add_failed_title" = "ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ";
 "class_table_course_name" = "ಕೋರ್ಸ್ ಹೆಸರು";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ: %1$@";
 "notification_setup_description" = "ಕಾರ್ಯ ಜ್ಞಾಪನೆಗಳು, ತರಗತಿ ಸಿದ್ಧತೆ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ತಲುಪುವಂತೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.";
 "notification_setup_title" = "ಅಧಿಸೂಚನೆಗಳನ್ನು ಮರುಸಂರಚಿಸಿ";
-"onboarding_choose_features_subtitle" = "ನೀವು ನಂತರ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಇವನ್ನು ಬದಲಾಯಿಸಬಹುದು";
-"onboarding_choose_features_title" = "ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಆರಿಸಿ";
 "onboarding_flavor_fdroid_description" = "ನೀವು F-Droid ಬಿಲ್ಡ್ ಬಳಸುತ್ತಿದ್ದೀರಿ. F-Droid ನೀತಿಯು Google ಸೇವೆಗಳನ್ನು (Firebase FCM, GMS ಇತ್ಯಾದಿ) ಅವಲಂಬಿಸುವುದನ್ನು ನಿಷೇಧಿಸುವುದರಿಂದ, ಈ ಕೆಳಗಿನ ಎರಡು ವೈಶಿಷ್ಟ್ಯಗಳು ಈ ಬಿಲ್ಡ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ:\n\n1. Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್\n2. ರಿಯಲ್-ಟೈಮ್ ಪುಷ್ ಪ್ರಕಟಣೆಗಳು";
 "onboarding_flavor_fdroid_title" = "F-Droid ಬಿಲ್ಡ್ ಸೂಚನೆ";
 "onboarding_flavor_play_description" = "TigerDuck ಒಳಗೊಂಡಿರುವ Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್. ನಿಮ್ಮ ವಾಚ್‌ನಲ್ಲಿ ಕ್ಲಾಸ್ ಸಂದೇಶಗಳನ್ನು ನೋಡಿ — Wear TigerDuck ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಮಾಹಿತಿಯನ್ನು ಸಿಂಕ್ ಮಾಡುತ್ತದೆ.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "ಸಿದ್ಧವಾಗಿದೆ!";
 "onboarding_skip_for_now" = "ಈಗ ಬಿಟ್ಟುಬಿಡಿ";
 "onboarding_start_button" = "TigerDuck ಬಳಸಲು ಆರಂಭಿಸಿ";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck ಎಂಬುದು ವಿಭಜಿತ ಸಂಪನ್ಮೂಲಗಳು, ತಡವಾದ ಸೂಚನೆಗಳು ಮತ್ತು ಅಸುಲಭ ಇಂಟರ್ಫೇಸ್‌ಗಳ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ವಿದ್ಯಾರ್ಥಿಗಳ ಗುಂಪಿನಿಂದ ನಿರ್ಮಿಸಲಾದ ಕ್ಯಾಂಪಸ್ ಸಹಾಯಕ. \nಆ್ಯಪ್ ಸಂಪೂರ್ಣವಾಗಿ ಡೆವಲಪರ್‌ಗಳ ಸದ್ಭಾವದಿಂದ ಚಲಿಸುತ್ತದೆ — ಯಾವುದಾದರೂ ಸಮಸ್ಯೆಗಳಿದ್ದರೆ, ದಯವಿಟ್ಟು ವರದಿ ಮಾಡಿ (ನಮ್ಮ Discord ಸೇರಲು ಅಥವಾ ಫೀಡ್‌ಬ್ಯಾಕ್ ಫಾರ್ಮ್ ಭರ್ತಿಗೆ ಕೆಳಗಿನ ವೆಬ್‌ಸೈಟಿಗೆ ಭೇಟಿ ನೀಡಿ). ಸುಧಾರಣೆಗೆ ಸಹಾಯ ಮಾಡಲು ಅಥವಾ ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ನೇರವಾಗಿ ಕೊಡುಗೆ ನೀಡಲು ಸ್ವಾಗತ.";
 "onboarding_welcome_github_label" = "GitHub ನಲ್ಲಿ TigerDuck";
 "onboarding_welcome_subtitle" = "ನಿಮ್ಮ NTUST ಕ್ಯಾಂಪಸ್ ಸಹಾಯಕ";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "ಪಿನ್ಯಿನ್ ತೋರಿಸು";
 "settings_classroom_mandarin_display_translated" = "ಅನುವಾದ ತೋರಿಸು";
 "settings_color_theme" = "ಬಣ್ಣ ಥೀಮ್";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "ಪ್ರತಿಕ್ರಿಯೆ / ಸಮಸ್ಯೆ ವರದಿ";
 "settings_invert_slider_direction" = "ಸ್ಲೈಡರ್ ದಿಕ್ಕು ತಿರುಗಿಸಿ";
 "settings_language" = "ಭಾಷೆ (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "ಈ ಅಪ್ಲಿಕೇಶನ್ NTUST ಅಧಿಕೃತ ಗ್ರಂಥಾಲಯ ಅಪ್ಲಿಕೇಶನ್ ಅಲ್ಲ ಮತ್ತು ಶಾಲಾ ಗ್ರಂಥಾಲಯ ಅನುಮೋದಿಸಿಲ್ಲ. ಸಾಮಾನ್ಯ ಕಾರ್ಯಾಚರಣೆ ಅಥವಾ ಬಳಕೆಯ ಯಾವುದೇ ಪರಿಣಾಮಗಳನ್ನು ನಾವು ಖಾತರಿಪಡಿಸಲಾಗುವುದಿಲ್ಲ.\n\nನಿಮ್ಮ ವಿವೇಚನೆಯಿಂದ ಬಳಸಿ. ಯಾವುದೇ ನಕಾರಾತ್ಮಕ ಫಲಿತಾಂಶಗಳಿಗೆ ನೀವೇ ಜವಾಬ್ದಾರರು ಮತ್ತು tigerduck-app ಗೆ ಸಂಬಂಧವಿಲ್ಲ.";
 "settings_library_warning_title" = "ದಯವಿಟ್ಟು ಗಮನಿಸಿ!";
 "settings_link_opening_method" = "ಲಿಂಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್";
 "settings_open_source_licenses" = "ಮುಕ್ತ ಮೂಲ ಪರವಾನಗಿಗಳು";
 "settings_privacy_policy" = "ಗೌಪ್ಯತಾ ನೀತಿ";

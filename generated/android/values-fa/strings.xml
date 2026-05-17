@@ -419,8 +419,6 @@
     <string name="notification_class_preparing_title">کلاس به‌زودی شروع می‌شود: %1$s</string>
     <string name="notification_setup_description">برای اینکه یادآورهای تکلیف، هشدارهای شروع کلاس و فعالیت زنده حتی وقتی برنامه بسته است به‌موقع برسند، مجوزهای زیر را فعال کنید.</string>
     <string name="notification_setup_title">پیکربندی مجدد اعلان‌ها</string>
-    <string name="onboarding_choose_features_subtitle">بعداً می‌توانید از بخش تنظیمات تغییرشان دهید</string>
-    <string name="onboarding_choose_features_title">انتخاب قابلیت‌ها</string>
     <string name="onboarding_flavor_fdroid_description">شما در حال استفاده از نسخه F-Droid هستید. از آنجا که سیاست F-Droid وابستگی به سرویس‌های Google (Firebase FCM، GMS و غیره) را ممنوع می‌کند، دو ویژگی زیر در این نسخه در دسترس نیستند:\n\n1. برنامه همراه Wear OS\n2. اعلان‌های لحظه‌ای</string>
     <string name="onboarding_flavor_fdroid_title">اطلاعیه نسخه F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck شامل یک برنامه همراه Wear OS است. پیام‌های کلاس را روی ساعت خود ببینید — Wear TigerDuck اطلاعات را از تلفن شما همگام‌سازی می‌کند.</string>

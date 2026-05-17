@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Lektionen börjar snart: %1$s",
     "notification_setup_description": "Aktivera behörigheterna nedan för att säkerställa att påminnelser om uppgifter, förlektion-varningar och liveaktivitet levereras i tid även när appen är stängd.",
     "notification_setup_title": "Konfigurera om aviseringar",
-    "onboarding_choose_features_subtitle": "Du kan justera dessa senare i Inställningar",
-    "onboarding_choose_features_title": "Välj funktioner",
     "onboarding_flavor_fdroid_description": "Du använder F-Droid-versionen. Eftersom F-Droids policy förbjuder beroende av Googles tjänster (Firebase FCM, GMS osv.) är följande två funktioner inte tillgängliga i den här versionen:\n\n1. Wear OS-följeslagar-app\n2. Push-aviseringar i realtid",
     "onboarding_flavor_fdroid_title": "Meddelande om F-Droid-versionen",
     "onboarding_flavor_play_description": "TigerDuck innehåller en Wear OS-följeslagare. Visa lektionsmeddelanden på din klocka — Wear TigerDuck synkroniserar information från din telefon.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Tentamen",
     "calendar_event_source_school": "Skola",
     "calendar_no_events_today": "Inga händelser idag",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Blå",
     "color_name_cyan": "Cyan",
     "color_name_green": "Grön",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Uppgift",
     "live_activity_status_in_class_short": "Lektion",
     "more_edit_mode_in_development": "Redigeringsläge — under utveckling",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live-aktiviteter",
     "push_server_status_settings_hint": "Inaktiverat på systemnivå → Inställningar → TigerDuck → Aktivera",
     "score_course_credits_meta": "%1$@ · %2$d hp",
@@ -749,6 +750,8 @@
     "score_semester_first": "Hösttermin",
     "score_semester_first_short": "Höst",
     "score_semester_second": "Vårtermin",
-    "score_semester_second_short": "Vår"
+    "score_semester_second_short": "Vår",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

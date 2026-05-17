@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "La clase comienza pronto: %1$s",
     "notification_setup_description": "Habilita los permisos a continuación para garantizar que los recordatorios de tareas, las alertas de preparación de clase y la actividad en vivo lleguen a tiempo, incluso cuando la app esté cerrada.",
     "notification_setup_title": "Reconfigurar notificaciones",
-    "onboarding_choose_features_subtitle": "Puedes ajustarlas más tarde en Configuración",
-    "onboarding_choose_features_title": "Elige funciones",
     "onboarding_flavor_fdroid_description": "Estás usando la versión F-Droid. Como la política de F-Droid prohíbe depender de los servicios de Google (Firebase FCM, GMS, etc.), las siguientes dos funciones no están disponibles en esta versión:\n\n1. App complementaria para Wear OS\n2. Notificaciones push en tiempo real",
     "onboarding_flavor_fdroid_title": "Aviso de la versión F-Droid",
     "onboarding_flavor_play_description": "TigerDuck incluye una app complementaria para Wear OS. Mira los mensajes de clase en tu reloj — Wear TigerDuck sincroniza la información desde tu teléfono.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Examen",
     "calendar_event_source_school": "Escuela",
     "calendar_no_events_today": "Hoy no hay eventos",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Azul",
     "color_name_cyan": "Cian",
     "color_name_green": "Verde",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Tarea",
     "live_activity_status_in_class_short": "Clase",
     "more_edit_mode_in_development": "Modo de edición — En desarrollo",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Desactivado a nivel del sistema → Ajustes → TigerDuck → Activar",
     "score_course_credits_meta": "%1$@ · %2$d créditos",
@@ -749,6 +750,8 @@
     "score_semester_first": "Primer semestre",
     "score_semester_first_short": "1.º",
     "score_semester_second": "Segundo semestre",
-    "score_semester_second_short": "2.º"
+    "score_semester_second_short": "2.º",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

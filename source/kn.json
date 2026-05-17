@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ: %1$s",
     "notification_setup_description": "ಕಾರ್ಯ ಜ್ಞಾಪನೆಗಳು, ತರಗತಿ ಸಿದ್ಧತೆ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ತಲುಪುವಂತೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.",
     "notification_setup_title": "ಅಧಿಸೂಚನೆಗಳನ್ನು ಮರುಸಂರಚಿಸಿ",
-    "onboarding_choose_features_subtitle": "ನೀವು ನಂತರ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಇವನ್ನು ಬದಲಾಯಿಸಬಹುದು",
-    "onboarding_choose_features_title": "ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಆರಿಸಿ",
     "onboarding_flavor_fdroid_description": "ನೀವು F-Droid ಬಿಲ್ಡ್ ಬಳಸುತ್ತಿದ್ದೀರಿ. F-Droid ನೀತಿಯು Google ಸೇವೆಗಳನ್ನು (Firebase FCM, GMS ಇತ್ಯಾದಿ) ಅವಲಂಬಿಸುವುದನ್ನು ನಿಷೇಧಿಸುವುದರಿಂದ, ಈ ಕೆಳಗಿನ ಎರಡು ವೈಶಿಷ್ಟ್ಯಗಳು ಈ ಬಿಲ್ಡ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ:\n\n1. Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್\n2. ರಿಯಲ್-ಟೈಮ್ ಪುಷ್ ಪ್ರಕಟಣೆಗಳು",
     "onboarding_flavor_fdroid_title": "F-Droid ಬಿಲ್ಡ್ ಸೂಚನೆ",
     "onboarding_flavor_play_description": "TigerDuck ಒಳಗೊಂಡಿರುವ Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್. ನಿಮ್ಮ ವಾಚ್‌ನಲ್ಲಿ ಕ್ಲಾಸ್ ಸಂದೇಶಗಳನ್ನು ನೋಡಿ — Wear TigerDuck ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಮಾಹಿತಿಯನ್ನು ಸಿಂಕ್ ಮಾಡುತ್ತದೆ.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "ಪರೀಕ್ಷೆ",
     "calendar_event_source_school": "ಶಾಲೆ",
     "calendar_no_events_today": "ಇಂದು ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮಗಳಿಲ್ಲ",
+    "class_table_add_course": "Add course",
     "color_name_blue": "ನೀಲಿ",
     "color_name_cyan": "ಸಯಾನ್",
     "color_name_green": "ಹಸಿರು",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "ಅಸೈನ್‌ಮೆಂಟ್",
     "live_activity_status_in_class_short": "ಕ್ಲಾಸ್",
     "more_edit_mode_in_development": "ಸಂಪಾದನೆ ಮೋಡ್ — ಅಭಿವೃದ್ಧಿಯಲ್ಲಿದೆ",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "ಸಿಸ್ಟಮ್ ಮಟ್ಟದಲ್ಲಿ ನಿಷ್ಕ್ರಿಯ → ಸೆಟ್ಟಿಂಗ್‌ಗಳು → TigerDuck → ಸಕ್ರಿಯಗೊಳಿಸಿ",
     "score_course_credits_meta": "%1$@ · %2$d ಕ್ರೆಡಿಟ್‌ಗಳು",
@@ -749,6 +750,8 @@
     "score_semester_first": "ಶರತ್ಕಾಲ ಸೆಮಿಸ್ಟರ್",
     "score_semester_first_short": "ಶರತ್",
     "score_semester_second": "ವಸಂತ ಸೆಮಿಸ್ಟರ್",
-    "score_semester_second_short": "ವಸಂತ"
+    "score_semester_second_short": "ವಸಂತ",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

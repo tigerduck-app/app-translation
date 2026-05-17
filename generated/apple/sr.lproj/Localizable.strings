@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Школа";
 "calendar_today" = "Данас";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ већ има два часа у овом термину (радни дан %2$@, период %3$@): %4$@ и %5$@. Систем не подржава тројни конфликт.";
 "class_table_conflict_add_failed_title" = "Није могуће додати";
 "class_table_course_name" = "Назив курса";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Час ускоро почиње: %1$@";
 "notification_setup_description" = "Омогућите следеће дозволе да бисте осигурали да подсетници за задатке, упозорења о почетку часа и живе активности стижу на вријеме чак и кад је апликација затворена.";
 "notification_setup_title" = "Поново подеси обавештења";
-"onboarding_choose_features_subtitle" = "Можете их касније подесити у Поставкама";
-"onboarding_choose_features_title" = "Одаберите функције";
 "onboarding_flavor_fdroid_description" = "Користите F-Droid верзију. Пошто F-Droid политика забрањује ослањање на Google услуге (Firebase FCM, GMS итд.), следеће две функције нису доступне у овој верзији:\n\n1. Пратећа Wear OS апликација\n2. Push обавештења у реалном времену";
 "onboarding_flavor_fdroid_title" = "Обавештење о F-Droid верзији";
 "onboarding_flavor_play_description" = "TigerDuck укључује пратећу Wear OS апликацију. Прегледајте поруке са наставе на сату — Wear TigerDuck синхронизује информације са вашег телефона.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Све је спремно!";
 "onboarding_skip_for_now" = "Прескочи за сада";
 "onboarding_start_button" = "Почни да користиш TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck је кампус помоћник који је направила група студената како би решила проблеме раштрканих ресурса, закаснелих обавештења и непрактичних интерфејса. \nАпликација ради искључиво захваљујући доброј вољи развијача — ако наиђете на проблеме, пријавите их (посетите доњи сајт да се придружите нашем Discord-у или попуните образац за повратне информације). Слободно нам помозите да је унапредимо или директно допринесите развоју.";
 "onboarding_welcome_github_label" = "TigerDuck на GitHub-у";
 "onboarding_welcome_subtitle" = "Ваш NTUST кампус асистент";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Приказ пињина";
 "settings_classroom_mandarin_display_translated" = "Приказ превода";
 "settings_color_theme" = "Тема боја";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Повратне информације / Пријави проблем";
 "settings_invert_slider_direction" = "Обрни смер клизача";
 "settings_language" = "Језик (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Ова апликација није званична NTUST библиотечка апликација и није одобрена од стране школске библиотеке. Не можемо гарантовати исправан рад нити последице коришћења.\n\nКористите по свом нахођењу. Сви негативни исходи су Ваша лична одговорност и нису повезани са tigerduck-app.";
 "settings_library_warning_title" = "Молимо обратите пажњу!";
 "settings_link_opening_method" = "Отвори линкове са";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Званични веб-сајт";
 "settings_open_source_licenses" = "Лиценце отвореног кода";
 "settings_privacy_policy" = "Политика приватности";

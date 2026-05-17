@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Iskola";
 "calendar_today" = "Ma";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@-nél már két óra van ennél az időpontnál (%2$@ nap, %3$@. óra): %4$@ és %5$@. A rendszer nem támogat hármas ütközést.";
 "class_table_conflict_add_failed_title" = "Nem adható hozzá";
 "class_table_course_name" = "Kurzus neve";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Hamarosan kezdődik az óra: %1$@";
 "notification_setup_description" = "Az alábbi engedélyek engedélyezésével biztosítható, hogy a házi feladat emlékeztetők, az órakezdés figyelmeztetések és az élő tevékenység akkor is időben megérkezzenek, amikor az alkalmazás be van zárva.";
 "notification_setup_title" = "Értesítések újrakonfigurálása";
-"onboarding_choose_features_subtitle" = "Ezeket később a Beállításokban módosíthatja";
-"onboarding_choose_features_title" = "Funkciók kiválasztása";
 "onboarding_flavor_fdroid_description" = "A F-Droid verziót használod. Mivel a F-Droid szabályzata tiltja a Google szolgáltatásaitól (Firebase FCM, GMS stb.) való függést, az alábbi két funkció nem érhető el ebben a verzióban:\n\n1. Wear OS kísérőalkalmazás\n2. Valós idejű push értesítések";
 "onboarding_flavor_fdroid_title" = "F-Droid verzió tájékoztató";
 "onboarding_flavor_play_description" = "A TigerDuck tartalmaz egy Wear OS kísérőalkalmazást. Nézd meg az órádon az órák üzeneteit — a Wear TigerDuck szinkronizálja az adatokat a telefonodról.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Minden kész!";
 "onboarding_skip_for_now" = "Kihagyás egyelőre";
 "onboarding_start_button" = "TigerDuck használatának megkezdése";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "A TigerDuck egy kampusz-asszisztens, amelyet egy hallgatói csapat hozott létre azért, hogy orvosolja a szétszórt forrásokat, a késedelmes értesítéseket és a kényelmetlen felületeket. \nAz alkalmazás teljes egészében a fejlesztők jóindulatából működik — ha problémát találsz, kérlek, jelezd (látogass el az alábbi weboldalra, csatlakozz a Discordunkhoz, vagy töltsd ki a visszajelzési űrlapot). Szívesen vesszük, ha segítesz a fejlesztésben vagy közvetlenül hozzájárulsz.";
 "onboarding_welcome_github_label" = "TigerDuck a GitHubon";
 "onboarding_welcome_subtitle" = "Az Ön NTUST kampusz asszisztense";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Pinyin megjelenítése";
 "settings_classroom_mandarin_display_translated" = "Fordítás megjelenítése";
 "settings_color_theme" = "Színtéma";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Visszajelzés / Hibabejelentés";
 "settings_invert_slider_direction" = "Csúszka irányának megfordítása";
 "settings_language" = "Nyelv (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Ez az alkalmazás nem az NTUST könyvtár hivatalos alkalmazása, és a könyvtár nem hagyta jóvá. Nem garantálhatjuk a normál működést vagy a használat következményeit.\n\nSaját belátása szerint használja. Minden negatív következményért Ön felel, és az nem kapcsolódik a tigerduck-app alkalmazáshoz.";
 "settings_library_warning_title" = "Figyelem!";
 "settings_link_opening_method" = "Hivatkozások megnyitása ezzel:";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Hivatalos weboldal";
 "settings_open_source_licenses" = "Nyílt forráskódú licencek";
 "settings_privacy_policy" = "Adatvédelmi irányelvek";

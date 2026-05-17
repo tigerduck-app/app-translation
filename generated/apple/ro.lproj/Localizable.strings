@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Școală";
 "calendar_today" = "Azi";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ are deja două cursuri în acest interval (Ziua %2$@, Perioada %3$@): %4$@ și %5$@. Sistemul nu suportă conflicte triple.";
 "class_table_conflict_add_failed_title" = "Nu se poate adăuga";
 "class_table_course_name" = "Denumire curs";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Curs începe în curând: %1$@";
 "notification_setup_description" = "Activează permisiunile de mai jos pentru a asigura că reminderele pentru teme, alertele de pregătire curs și activitatea live ajung la timp chiar și când aplicația este închisă.";
 "notification_setup_title" = "Reconfigurează notificările";
-"onboarding_choose_features_subtitle" = "Le poți ajusta mai târziu în Setări";
-"onboarding_choose_features_title" = "Alege funcționalități";
 "onboarding_flavor_fdroid_description" = "Folosești versiunea F-Droid. Deoarece politica F-Droid interzice dependența de serviciile Google (Firebase FCM, GMS etc.), următoarele două funcții nu sunt disponibile în această versiune:\n\n1. Aplicație complementară Wear OS\n2. Notificări push în timp real";
 "onboarding_flavor_fdroid_title" = "Notă privind versiunea F-Droid";
 "onboarding_flavor_play_description" = "TigerDuck include un însoțitor Wear OS. Vizualizează mesajele de la cursuri pe ceasul tău — Wear TigerDuck sincronizează informațiile de pe telefon.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Ești gata!";
 "onboarding_skip_for_now" = "Sari deocamdată";
 "onboarding_start_button" = "Începe să folosești TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck este un asistent de campus creat de un grup de studenți pentru a rezolva resursele dispersate, notificările întârziate și interfețele incomode. \nAplicația funcționează exclusiv datorită bunăvoinței dezvoltatorilor — dacă întâmpini probleme, te rugăm să le raportezi (vizitează site-ul de mai jos pentru a te alătura serverului nostru Discord sau pentru a completa formularul de feedback). Ești binevenit să ne ajuți să o îmbunătățim sau să contribui direct la dezvoltare.";
 "onboarding_welcome_github_label" = "TigerDuck pe GitHub";
 "onboarding_welcome_subtitle" = "Asistentul tău de campus NTUST";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Afișează pinyin";
 "settings_classroom_mandarin_display_translated" = "Afișează traducere";
 "settings_color_theme" = "Temă de culori";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Feedback / Raportare problemă";
 "settings_invert_slider_direction" = "Inversează direcția glisorului";
 "settings_language" = "Limbă (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Această aplicație nu este aplicația oficială de bibliotecă NTUST și nu a fost aprobată de biblioteca școlii. Nu putem garanta funcționarea normală sau consecințele utilizării.\n\nFolosește pe propria răspundere. Orice rezultat negativ este responsabilitatea ta și nu are legătură cu tigerduck-app.";
 "settings_library_warning_title" = "Atenție!";
 "settings_link_opening_method" = "Deschide linkurile cu";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Site web oficial";
 "settings_open_source_licenses" = "Licențe open-source";
 "settings_privacy_policy" = "Politică de confidențialitate";

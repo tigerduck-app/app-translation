@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "സ്കൂൾ";
 "calendar_today" = "ഇന്ന്";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@-ന് ഈ സ്ലോട്ടിൽ (ആഴ്ചദിനം %2$@, പിരീഡ് %3$@) ഇതിനകം രണ്ട് ക്ലാസ്സുകൾ ഉണ്ട്: %4$@, %5$@. സിസ്റ്റം ട്രിപ്പിൾ കോൺഫ്ലിക്ടുകളെ പിന്തുണയ്ക്കുന്നില്ല.";
 "class_table_conflict_add_failed_title" = "ചേർക്കാൻ കഴിയില്ല";
 "class_table_course_name" = "കോഴ്‌സ് നാമം";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു: %1$@";
 "notification_setup_description" = "ആപ്പ് അടച്ചിരിക്കുമ്പോഴും അസൈൻമെന്റ് ഓർമ്മപ്പെടുത്തലുകൾ, ക്ലാസ് ഒരുക്കം അലേർട്ടുകൾ, Live Activity സമയത്ത് ലഭിക്കുന്നതിന് ചുവടെ ഉള്ള അനുമതികൾ പ്രവർത്തനക്ഷമമാക്കുക.";
 "notification_setup_title" = "അറിയിപ്പുകൾ പുനഃക്രമീകരിക്കുക";
-"onboarding_choose_features_subtitle" = "ക്രമീകരണങ്ങളിൽ പിന്നീട് ഇവ ക്രമീകരിക്കാം";
-"onboarding_choose_features_title" = "ഫീച്ചറുകൾ തിരഞ്ഞെടുക്കുക";
 "onboarding_flavor_fdroid_description" = "നിങ്ങൾ F-Droid ബിൽഡ് ഉപയോഗിക്കുകയാണ്. F-Droid നയം Google സേവനങ്ങളെ (Firebase FCM, GMS തുടങ്ങിയവ) ആശ്രയിക്കുന്നത് വിലക്കുന്നതിനാൽ, ഈ ബിൽഡിൽ ചുവടെയുള്ള രണ്ട് സവിശേഷതകൾ ലഭ്യമല്ല:\n\n1. Wear OS കമ്പാനിയൻ ആപ്പ്\n2. തത്സമയ പുഷ് അറിയിപ്പുകൾ";
 "onboarding_flavor_fdroid_title" = "F-Droid ബിൽഡ് അറിയിപ്പ്";
 "onboarding_flavor_play_description" = "TigerDuck-ൽ Wear OS കമ്പാനിയൻ ഉൾപ്പെടുന്നു. നിങ്ങളുടെ വാച്ചിൽ ക്ലാസ് സന്ദേശങ്ങൾ കാണുക — Wear TigerDuck നിങ്ങളുടെ ഫോണിൽ നിന്നുള്ള വിവരങ്ങൾ സമന്വയിപ്പിക്കുന്നു.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "തയ്യാർ!";
 "onboarding_skip_for_now" = "ഇപ്പോൾ ഒഴിവാക്കുക";
 "onboarding_start_button" = "TigerDuck ഉപയോഗം ആരംഭിക്കുക";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "ചിതറിയ വിഭവങ്ങൾ, വൈകിയ അറിയിപ്പുകൾ, അസുഖകരമായ ഇന്റർഫേസുകൾ എന്നിവ പരിഹരിക്കാൻ വിദ്യാർഥികളുടെ ഒരു സംഘം നിർമ്മിച്ച ക്യാമ്പസ് സഹായിയാണ് TigerDuck. \nഈ ആപ്പ് ഡെവലപ്പർമാരുടെ സന്മനസ്സിൽ മാത്രം പ്രവർത്തിക്കുന്നു — എന്തെങ്കിലും പ്രശ്നങ്ങൾ കണ്ടാൽ ദയവായി അറിയിക്കുക (Discord-ൽ ചേരാനോ ഫീഡ്ബാക്ക് ഫോം പൂരിപ്പിക്കാനോ ചുവടെയുള്ള വെബ്സൈറ്റ് സന്ദർശിക്കുക). ഇത് മെച്ചപ്പെടുത്താനോ വികസനത്തിൽ നേരിട്ട് സംഭാവന ചെയ്യാനോ നിങ്ങളെ സ്വാഗതം ചെയ്യുന്നു.";
 "onboarding_welcome_github_label" = "GitHub-ലെ TigerDuck";
 "onboarding_welcome_subtitle" = "നിങ്ങളുടെ NTUST ക്യാമ്പസ് സഹായി";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "പിൻയിൻ കാണിക്കുക";
 "settings_classroom_mandarin_display_translated" = "വിവർത്തനം കാണിക്കുക";
 "settings_color_theme" = "നിറ തീം";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക";
 "settings_invert_slider_direction" = "സ്ലൈഡർ ദിശ നേർമാറ്റം ചെയ്യുക";
 "settings_language" = "ഭാഷ (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "ഈ ആപ്പ് NTUST-ന്റെ ഔദ്യോഗിക ഗ്രന്ഥശാല ആപ്പ് അല്ല, സ്കൂൾ ഗ്രന്ഥശാല അംഗീകരിച്ചിട്ടുമില്ല. സാധാരണ പ്രവർത്തനം അല്ലെങ്കിൽ ഉപയോഗ ഫലങ്ങൾ ഞങ്ങൾ ഉറപ്പ് നൽകുന്നില്ല.\n\nവിവേകത്തോടെ ഉപയോഗിക്കുക. ഉണ്ടാകുന്ന ഏത് പ്രതികൂല ഫലത്തിനും നിങ്ങൾ തന്നെ ഉത്തരവാദിയാണ്, tigerduck-app-മായി ഇതിന് ഒരു ബന്ധവുമില്ല.";
 "settings_library_warning_title" = "ദയവായി ശ്രദ്ധിക്കുക!";
 "settings_link_opening_method" = "ലിങ്കുകൾ തുറക്കേണ്ടത്";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "ഔദ്യോഗിക വെബ്സൈറ്റ്";
 "settings_open_source_licenses" = "ഓപ്പൺ-സോഴ്‌സ് ലൈസൻസുകൾ";
 "settings_privacy_policy" = "സ്വകാര്യതാ നയം";

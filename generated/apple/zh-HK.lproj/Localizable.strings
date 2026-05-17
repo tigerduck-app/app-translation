@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "學校";
 "calendar_today" = "今天";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ 的時段（週%2$@ 第%3$@節）已有兩堂課程：%4$@ 和 %5$@。系統不支援三堂以上衝堂。";
 "class_table_conflict_add_failed_title" = "無法加入";
 "class_table_course_name" = "課程名稱";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "就快上堂：%1$@";
 "notification_setup_description" = "設定以下權限可確保功課提醒、就快上堂、即時動態喺 App 關閉時都可以準時送達。";
 "notification_setup_title" = "重新設定通知";
-"onboarding_choose_features_subtitle" = "你可以之後在設定中隨時調整";
-"onboarding_choose_features_title" = "選擇功能";
 "onboarding_flavor_fdroid_description" = "你裝嗰個係 F-Droid 版本。由於 F-Droid 商店規範唔可以用 Google 嘅各項服務（Firebase FCM、GMS 等等），所以以下兩項功能喺 F-Droid 版本（你而家用緊嘅）入面冇：\n\n1. Wear OS 應用程式\n2. 主動公告通知推送";
 "onboarding_flavor_fdroid_title" = "F-Droid 版本說明";
 "onboarding_flavor_play_description" = "本應用程式提供 Wear OS 應用程式，你可以喺手錶睇課堂訊息。手錶 TigerDuck 會同步手機資料。";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "準備就緒！";
 "onboarding_skip_for_now" = "暫時跳過";
 "onboarding_start_button" = "開始使用 TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "呢個應用係由一班學生一齊開發嘅校園助手，解決資源散亂、通知唔夠及時、介面唔夠直觀等問題。\n本應用程式完全靠各位開發者用愛發電，如果發現問題請盡量回報（入以下官網可以加入我哋嘅 Discord 群組或者填寫意見表），協助我哋開發；你亦都可以親自參與開發。";
 "onboarding_welcome_github_label" = "TigerDuck 應用程式 GitHub";
 "onboarding_welcome_subtitle" = "你的臺科大校園助手";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Display pinyin";
 "settings_classroom_mandarin_display_translated" = "Display translated";
 "settings_color_theme" = "顏色主題";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "回饋/問題回報";
 "settings_invert_slider_direction" = "反轉滑條方向";
 "settings_language" = "語言 (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "本應用程式非臺科大官方圖書館應用程式，且尚未得到學校圖書館認可，無法保證各項功能的正常使用及其他相關使用後果。\n\n如需使用請謹慎。若使用後產生任何負面結果，需自負責任，且與 tigerduck-app 一律無關！";
 "settings_library_warning_title" = "請注意！";
 "settings_link_opening_method" = "開啟連結方式";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "官方網站";
 "settings_open_source_licenses" = "開源授權";
 "settings_privacy_policy" = "隱私權政策";

@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "વર્ગ ટૂંક સમયમાં શરૂ: %1$s",
     "notification_setup_description": "નીચેની પરમિશન ચાલુ કરો જેથી App બંધ હોય ત્યારે પણ અસાઇનમેન્ટ રિમાઇન્ડર, ક્લાસ-તૈયારી એલર્ટ અને લાઇવ એક્ટિવિટી સમયસર આવે.",
     "notification_setup_title": "નોટિફિકેશન ફરીથી ગોઠવો",
-    "onboarding_choose_features_subtitle": "આ પછી Settings માં ગોઠવી શકો છો",
-    "onboarding_choose_features_title": "ફીચર પસંદ કરો",
     "onboarding_flavor_fdroid_description": "તમે F-Droid બિલ્ડ વાપરી રહ્યાં છો. F-Droidની નીતિ Googleની સેવાઓ (Firebase FCM, GMS વગેરે) પર નિર્ભર રહેવાની મંજૂરી આપતી નથી, તેથી નીચેની બે સુવિધાઓ આ બિલ્ડમાં ઉપલબ્ધ નથી:\n\n1. Wear OS સાથી એપ\n2. રિયલ-ટાઇમ પુશ સૂચનાઓ",
     "onboarding_flavor_fdroid_title": "F-Droid બિલ્ડ સૂચના",
     "onboarding_flavor_play_description": "TigerDuckમાં Wear OS સાથી શામેલ છે. તમારી ઘડી પર વર્ગના સંદેશા જુઓ — Wear TigerDuck તમારા ફોનની માહિતી સિંક કરે છે.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "પરીક્ષા",
     "calendar_event_source_school": "શૈક્ષણિક",
     "calendar_no_events_today": "આજ કોઈ ઇવેન્ટ નથી",
+    "class_table_add_course": "Add course",
     "color_name_blue": "વાદળી",
     "color_name_cyan": "સ્યાન",
     "color_name_green": "લીલો",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "અસાઇનમેન્ટ",
     "live_activity_status_in_class_short": "ક્લાસ",
     "more_edit_mode_in_development": "Edit mode — વિકાસ હેઠળ",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "સિસ્ટમ સ્તરે બંધ → સેટિંગ્સ → TigerDuck → સક્રિય કરો",
     "score_course_credits_meta": "%1$@ · %2$d ક્રેડિટ",
@@ -749,6 +750,8 @@
     "score_semester_first": "ફૉલ સેમેસ્ટર",
     "score_semester_first_short": "ફૉલ",
     "score_semester_second": "સ્પ્રિંગ સેમેસ્ટર",
-    "score_semester_second_short": "સ્પ્રિ"
+    "score_semester_second_short": "સ્પ્રિ",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

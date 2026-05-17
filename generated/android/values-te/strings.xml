@@ -419,8 +419,6 @@
     <string name="notification_class_preparing_title">తరగతి త్వరలో మొదలవుతుంది: %1$s</string>
     <string name="notification_setup_description">అసైన్‌మెంట్ రిమైండర్లు, తరగతి హెచ్చరికలు మరియు లైవ్ యాక్టివిటీ యాప్ మూసివేసినా సమయానికి వచ్చేలా కింది అనుమతులు ఆన్ చేయండి.</string>
     <string name="notification_setup_title">నోటిఫికేషన్లు తిరిగి సెట్ చేయండి</string>
-    <string name="onboarding_choose_features_subtitle">వీటిని తర్వాత సెట్టింగ్స్‌లో మార్చవచ్చు</string>
-    <string name="onboarding_choose_features_title">ఫీచర్లు ఎంచుకోండి</string>
     <string name="onboarding_flavor_fdroid_description">మీరు F-Droid బిల్డ్ ఉపయోగిస్తున్నారు. F-Droid విధానం Google సేవలపై (Firebase FCM, GMS మొదలైనవి) ఆధారపడడాన్ని అనుమతించదు కాబట్టి, ఈ బిల్డ్‌లో ఈ రెండు ఫీచర్లు అందుబాటులో లేవు:\n\n1. Wear OS సహచర యాప్\n2. రియల్-టైమ్ పుష్ ప్రకటనలు</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid బిల్డ్ సూచన</string>
     <string name="onboarding_flavor_play_description">TigerDuckలో Wear OS సహచర యాప్ ఉంది. మీ గడియారంలో తరగతి సందేశాలను చూడండి — Wear TigerDuck మీ ఫోన్ నుండి సమాచారాన్ని సింక్ చేస్తుంది.</string>

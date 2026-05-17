@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Mokykla";
 "calendar_today" = "Šiandien";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ šiame laike jau yra dvi paskaitos (savaitės diena %2$@, periodas %3$@): %4$@ ir %5$@. Sistema nepalaiko trijų sutampančių paskaitų.";
 "class_table_conflict_add_failed_title" = "Nepavyksta pridėti";
 "class_table_course_name" = "Kurso pavadinimas";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Paskaita prasideda: %1$@";
 "notification_setup_description" = "Įjunkite toliau nurodytus leidimus, kad užduočių priminimai, paskaitų įspėjimai ir tiesioginė veikla būtų pristatomi laiku net uždarius programą.";
 "notification_setup_title" = "Iš naujo konfigūruoti pranešimus";
-"onboarding_choose_features_subtitle" = "Vėliau galite keisti nustatymuose";
-"onboarding_choose_features_title" = "Pasirinkti funkcijas";
 "onboarding_flavor_fdroid_description" = "Naudojate F-Droid versiją. Kadangi F-Droid politika draudžia priklausomybę nuo Google paslaugų (Firebase FCM, GMS ir kt.), šios dvi funkcijos nepasiekiamos šioje versijoje:\n\n1. Wear OS palydovinė programėlė\n2. Tiesioginiai pranešimai realiu laiku";
 "onboarding_flavor_fdroid_title" = "Pranešimas apie F-Droid versiją";
 "onboarding_flavor_play_description" = "TigerDuck turi Wear OS palydovinę programėlę. Žiūrėkite paskaitų pranešimus laikrodyje — Wear TigerDuck sinchronizuoja informaciją iš jūsų telefono.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Viskas paruošta!";
 "onboarding_skip_for_now" = "Praleisti dabar";
 "onboarding_start_button" = "Pradėti naudoti TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck — tai studentų grupės sukurtas universiteto pagalbininkas, sprendžiantis išsklaidytų išteklių, vėluojančių pranešimų ir nepatogių sąsajų problemas. \nProgramėlė veikia tik kūrėjų geranoriškumo dėka — jei pastebėsite problemų, praneškite (apsilankykite žemiau pateikiamoje svetainėje, kad prisijungtumėte prie mūsų Discord arba užpildytumėte atsiliepimo formą). Kviečiame padėti tobulinti programėlę arba tiesiogiai prisidėti prie kūrimo.";
 "onboarding_welcome_github_label" = "TigerDuck GitHub'e";
 "onboarding_welcome_subtitle" = "Jūsų NTUST universiteto asistentas";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Rodyti pinyin";
 "settings_classroom_mandarin_display_translated" = "Rodyti vertimą";
 "settings_color_theme" = "Spalvų tema";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Atsiliepimai / Pranešti apie klaidą";
 "settings_invert_slider_direction" = "Apversti slankiklio kryptį";
 "settings_language" = "Kalba (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Ši programa nėra oficiali NTUST bibliotekos programa ir nėra patvirtinta universiteto bibliotekos. Negalime garantuoti normalaus veikimo ar pasekmių dėl naudojimosi.\n\nNaudokite savo nuožiūra. Už bet kokias neigiamas pasekmes esate atsakingi patys, ir tai nesusiję su tigerduck-app.";
 "settings_library_warning_title" = "Atkreipkite dėmesį!";
 "settings_link_opening_method" = "Atidaryti nuorodas su";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Oficiali svetainė";
 "settings_open_source_licenses" = "Atvirojo kodo licencijos";
 "settings_privacy_policy" = "Privatumo politika";

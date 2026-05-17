@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Σχολή";
 "calendar_today" = "Σήμερα";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "Το %1$@ έχει ήδη δύο μαθήματα σε αυτή τη θέση (Εβδομάδα %2$@, Περίοδος %3$@): %4$@ και %5$@. Το σύστημα δεν υποστηρίζει τριπλές συγκρούσεις.";
 "class_table_conflict_add_failed_title" = "Αδύνατη η προσθήκη";
 "class_table_course_name" = "Όνομα μαθήματος";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Το μάθημα ξεκινά σύντομα: %1$@";
 "notification_setup_description" = "Ενεργοποιήστε τις παρακάτω άδειες για να διασφαλίσετε ότι οι υπενθυμίσεις εργασιών, οι ειδοποιήσεις έναρξης μαθήματος και η ζωντανή δραστηριότητα παραδίδονται έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.";
 "notification_setup_title" = "Επαναδιαμόρφωση ειδοποιήσεων";
-"onboarding_choose_features_subtitle" = "Μπορείτε να τα προσαρμόσετε αργότερα στις Ρυθμίσεις";
-"onboarding_choose_features_title" = "Επιλογή λειτουργιών";
 "onboarding_flavor_fdroid_description" = "Χρησιμοποιείτε την έκδοση F-Droid. Επειδή η πολιτική του F-Droid απαγορεύει την εξάρτηση από υπηρεσίες της Google (Firebase FCM, GMS κ.λπ.), οι ακόλουθες δύο λειτουργίες δεν είναι διαθέσιμες σε αυτή την έκδοση:\n\n1. Συνοδευτική εφαρμογή Wear OS\n2. Ειδοποιήσεις σε πραγματικό χρόνο";
 "onboarding_flavor_fdroid_title" = "Σημείωση για την έκδοση F-Droid";
 "onboarding_flavor_play_description" = "Το TigerDuck περιλαμβάνει συνοδευτική εφαρμογή Wear OS. Δείτε μηνύματα μαθημάτων στο ρολόι σας — το Wear TigerDuck συγχρονίζει πληροφορίες από το κινητό σας.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Είστε έτοιμοι!";
 "onboarding_skip_for_now" = "Παράλειψη προς το παρόν";
 "onboarding_start_button" = "Ξεκινήστε να χρησιμοποιείτε το TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "Το TigerDuck είναι ένας βοηθός πανεπιστημιούπολης φτιαγμένος από μια ομάδα φοιτητών για να λύσει διάσπαρτους πόρους, καθυστερημένες ειδοποιήσεις και άβολα περιβάλλοντα χρήσης. \nΗ εφαρμογή τρέχει εξ ολοκλήρου χάρη στη διάθεση των προγραμματιστών — αν εντοπίσετε προβλήματα, αναφέρετέ τα (επισκεφθείτε τον ιστότοπο παρακάτω για να συμμετάσχετε στο Discord μας ή να συμπληρώσετε τη φόρμα σχολίων). Θα χαρούμε να μας βοηθήσετε να τη βελτιώσουμε ή να συνεισφέρετε άμεσα στην ανάπτυξη.";
 "onboarding_welcome_github_label" = "Το TigerDuck στο GitHub";
 "onboarding_welcome_subtitle" = "Ο βοηθός σας στην πανεπιστημιούπολη NTUST";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Εμφάνιση πινγίν";
 "settings_classroom_mandarin_display_translated" = "Εμφάνιση μετάφρασης";
 "settings_color_theme" = "Θέμα χρωμάτων";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Σχόλια / Αναφορά προβλήματος";
 "settings_invert_slider_direction" = "Αντιστροφή κατεύθυνσης ρυθμιστικού";
 "settings_language" = "Γλώσσα (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Αυτή η εφαρμογή δεν είναι επίσημη εφαρμογή βιβλιοθήκης NTUST και δεν έχει εγκριθεί από τη βιβλιοθήκη του σχολείου. Δεν μπορούμε να εγγυηθούμε κανονική λειτουργία ή οποιαδήποτε συνέπεια χρήσης.\n\nΧρησιμοποιείτε κατά την κρίση σας. Τυχόν αρνητικά αποτελέσματα είναι δική σας ευθύνη και δεν σχετίζονται με το tigerduck-app.";
 "settings_library_warning_title" = "Παρακαλώ σημειώστε!";
 "settings_link_opening_method" = "Άνοιγμα συνδέσμων με";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Επίσημος ιστότοπος";
 "settings_open_source_licenses" = "Άδειες ανοιχτού κώδικα";
 "settings_privacy_policy" = "Πολιτική απορρήτου";

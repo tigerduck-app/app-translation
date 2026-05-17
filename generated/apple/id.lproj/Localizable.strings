@@ -151,6 +151,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Sekolah";
 "calendar_today" = "Hari ini";
+"class_table_add_course" = "Add course";
 "class_table_conflict_add_failed_message" = "%1$@ sudah memiliki dua kelas pada slot ini (Hari %2$@, Periode %3$@): %4$@ dan %5$@. Sistem tidak mendukung tiga konflik bersamaan.";
 "class_table_conflict_add_failed_title" = "Tidak dapat ditambahkan";
 "class_table_course_name" = "Nama mata kuliah";
@@ -445,8 +446,6 @@
 "notification_class_preparing_title" = "Kelas akan segera dimulai: %1$@";
 "notification_setup_description" = "Aktifkan izin di bawah ini untuk memastikan pengingat tugas, peringatan sebelum kelas, dan aktivitas langsung tiba tepat waktu meskipun aplikasi ditutup.";
 "notification_setup_title" = "Konfigurasi ulang notifikasi";
-"onboarding_choose_features_subtitle" = "Kamu dapat menyesuaikannya nanti di Pengaturan";
-"onboarding_choose_features_title" = "Pilih fitur";
 "onboarding_flavor_fdroid_description" = "Anda menggunakan build F-Droid. Karena kebijakan F-Droid melarang ketergantungan pada layanan Google (Firebase FCM, GMS, dll.), dua fitur berikut tidak tersedia di build ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan push waktu nyata";
 "onboarding_flavor_fdroid_title" = "Pemberitahuan build F-Droid";
 "onboarding_flavor_play_description" = "TigerDuck menyertakan pendamping Wear OS. Lihat pesan kelas di jam tangan Anda — Wear TigerDuck menyinkronkan informasi dari ponsel Anda.";
@@ -465,6 +464,8 @@
 "onboarding_ready_title" = "Semua siap!";
 "onboarding_skip_for_now" = "Lewati untuk sekarang";
 "onboarding_start_button" = "Mulai gunakan TigerDuck";
+"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
+"onboarding_watchos_title" = "Apple Watch support";
 "onboarding_welcome_description" = "TigerDuck adalah asisten kampus yang dibuat oleh sekelompok mahasiswa untuk mengatasi sumber daya yang tersebar, pemberitahuan yang terlambat, dan antarmuka yang kurang intuitif. \nAplikasi ini berjalan sepenuhnya berkat niat baik para pengembang — jika Anda menemukan masalah, harap laporkan (kunjungi situs di bawah ini untuk bergabung dengan Discord kami atau mengisi formulir umpan balik). Anda dipersilakan membantu kami meningkatkannya atau berkontribusi langsung pada pengembangannya.";
 "onboarding_welcome_github_label" = "TigerDuck di GitHub";
 "onboarding_welcome_subtitle" = "Asisten kampus NTUST kamu";
@@ -577,6 +578,7 @@
 "settings_classroom_mandarin_display_pinyin" = "Tampilkan pinyin";
 "settings_classroom_mandarin_display_translated" = "Tampilkan terjemahan";
 "settings_color_theme" = "Tema warna";
+"settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Umpan balik / Laporkan masalah";
 "settings_invert_slider_direction" = "Balik arah slider";
 "settings_language" = "Bahasa (Language)";
@@ -593,6 +595,7 @@
 "settings_library_warning_message" = "Aplikasi ini bukan aplikasi perpustakaan resmi NTUST dan belum disetujui oleh perpustakaan kampus. Kami tidak dapat menjamin operasi normal atau konsekuensi apa pun dari penggunaan.\n\nGunakan dengan kebijaksanaan kamu sendiri. Setiap dampak negatif menjadi tanggung jawab kamu sendiri dan tidak terkait dengan tigerduck-app.";
 "settings_library_warning_title" = "Mohon perhatikan!";
 "settings_link_opening_method" = "Buka tautan dengan";
+"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
 "settings_official_website" = "Situs web resmi";
 "settings_open_source_licenses" = "Lisensi sumber terbuka";
 "settings_privacy_policy" = "Kebijakan privasi";

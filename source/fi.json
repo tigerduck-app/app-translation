@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Tunti alkaa pian: %1$s",
     "notification_setup_description": "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja live-toiminto saapuvat ajoissa myös sovelluksen ollessa suljettuna.",
     "notification_setup_title": "Määritä ilmoitukset uudelleen",
-    "onboarding_choose_features_subtitle": "Voit muuttaa näitä myöhemmin asetuksissa",
-    "onboarding_choose_features_title": "Valitse ominaisuudet",
     "onboarding_flavor_fdroid_description": "Käytät F-Droid-versiota. Koska F-Droidin käytäntö kieltää riippuvuuden Googlen palveluista (Firebase FCM, GMS jne.), seuraavat kaksi ominaisuutta eivät ole käytettävissä tässä versiossa:\n\n1. Wear OS -kumppanisovellus\n2. Reaaliaikaiset push-ilmoitukset",
     "onboarding_flavor_fdroid_title": "F-Droid-version huomautus",
     "onboarding_flavor_play_description": "TigerDuck sisältää Wear OS -kumppanisovelluksen. Katso oppituntien viestit kellostasi — Wear TigerDuck synkronoi tiedot puhelimestasi.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Koe",
     "calendar_event_source_school": "Koulu",
     "calendar_no_events_today": "Ei tapahtumia tänään",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Sininen",
     "color_name_cyan": "Syaani",
     "color_name_green": "Vihreä",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Tehtävä",
     "live_activity_status_in_class_short": "Tunti",
     "more_edit_mode_in_development": "Muokkaustila — kehitteillä",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Pois käytöstä järjestelmätasolla → Asetukset → TigerDuck → Ota käyttöön",
     "score_course_credits_meta": "%1$@ · %2$d opintopistettä",
@@ -749,6 +750,8 @@
     "score_semester_first": "Syyslukukausi",
     "score_semester_first_short": "Syys",
     "score_semester_second": "Kevätlukukausi",
-    "score_semester_second_short": "Kevät"
+    "score_semester_second_short": "Kevät",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

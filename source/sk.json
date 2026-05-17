@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Čoskoro začína hodina: %1$s",
     "notification_setup_description": "Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a živá aktivita prichádzali včas aj keď je aplikácia zatvorená.",
     "notification_setup_title": "Znovu nastaviť notifikácie",
-    "onboarding_choose_features_subtitle": "Tieto nastavenia môžete neskôr zmeniť v Nastaveniach",
-    "onboarding_choose_features_title": "Vyberte funkcie",
     "onboarding_flavor_fdroid_description": "Používate verziu F-Droid. Keďže politika F-Droid zakazuje závislosť od služieb Google (Firebase FCM, GMS atď.), nasledujúce dve funkcie nie sú v tejto verzii dostupné:\n\n1. Sprievodná aplikácia Wear OS\n2. Push oznámenia v reálnom čase",
     "onboarding_flavor_fdroid_title": "Upozornenie k verzii F-Droid",
     "onboarding_flavor_play_description": "TigerDuck obsahuje sprievodnú aplikáciu Wear OS. Sledujte správy z hodín na hodinkách — Wear TigerDuck synchronizuje informácie z vášho telefónu.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Skúška",
     "calendar_event_source_school": "Škola",
     "calendar_no_events_today": "Dnes žiadne udalosti",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Modrá",
     "color_name_cyan": "Azúrová",
     "color_name_green": "Zelená",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Úloha",
     "live_activity_status_in_class_short": "Hodina",
     "more_edit_mode_in_development": "Režim úprav — vo vývoji",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Aktivity naživo",
     "push_server_status_settings_hint": "Vypnuté na úrovni systému → Nastavenia → TigerDuck → Povoliť",
     "score_course_credits_meta": "%1$@ · %2$d kreditov",
@@ -749,6 +750,8 @@
     "score_semester_first": "Zimný semester",
     "score_semester_first_short": "Zima",
     "score_semester_second": "Letný semester",
-    "score_semester_second_short": "Leto"
+    "score_semester_second_short": "Leto",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

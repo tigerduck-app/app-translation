@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Ura se kmalu začne: %1$s",
     "notification_setup_description": "Omogočite spodnja dovoljenja, da zagotovite pravočasno dostavo opomnikov za naloge, opozoril pred poukom in žive dejavnosti, tudi ko je aplikacija zaprta.",
     "notification_setup_title": "Ponovna nastavitev obvestil",
-    "onboarding_choose_features_subtitle": "To lahko pozneje prilagodite v nastavitvah",
-    "onboarding_choose_features_title": "Izberite funkcije",
     "onboarding_flavor_fdroid_description": "Uporabljate različico F-Droid. Ker pravila F-Droid prepovedujejo odvisnost od Googlovih storitev (Firebase FCM, GMS itd.), naslednji dve funkciji v tej različici nista na voljo:\n\n1. Spremljevalna aplikacija Wear OS\n2. Sprotna potisna obvestila",
     "onboarding_flavor_fdroid_title": "Obvestilo o različici F-Droid",
     "onboarding_flavor_play_description": "TigerDuck vključuje spremljevalca za Wear OS. Sporočila o predavanjih si oglejte na uri — Wear TigerDuck sinhronizira podatke iz vašega telefona.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Izpit",
     "calendar_event_source_school": "Šola",
     "calendar_no_events_today": "Danes ni dogodkov",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Modra",
     "color_name_cyan": "Cijan",
     "color_name_green": "Zelena",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Naloga",
     "live_activity_status_in_class_short": "Ura",
     "more_edit_mode_in_development": "Način urejanja — v razvoju",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Aktivnosti v živo",
     "push_server_status_settings_hint": "Onemogočeno na ravni sistema → Nastavitve → TigerDuck → Omogoči",
     "score_course_credits_meta": "%1$@ · %2$d KT",
@@ -749,6 +750,8 @@
     "score_semester_first": "Zimski semester",
     "score_semester_first_short": "Zima",
     "score_semester_second": "Letni semester",
-    "score_semester_second_short": "Pomlad"
+    "score_semester_second_short": "Pomlad",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

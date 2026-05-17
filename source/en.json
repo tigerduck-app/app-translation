@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Class starting soon: %1$s",
     "notification_setup_description": "Enable the permissions below to ensure assignment reminders, class-preparing alerts, and live activity arrive on time even when the app is closed.",
     "notification_setup_title": "Reconfigure notifications",
-    "onboarding_choose_features_subtitle": "You can adjust these later in Settings",
-    "onboarding_choose_features_title": "Choose features",
     "onboarding_flavor_fdroid_description": "You're using the F-Droid build. Because F-Droid policy forbids depending on Google's services (Firebase FCM, GMS, etc.), the following two features are unavailable in this build:\n\n1. Wear OS companion app\n2. Real-time push announcements",
     "onboarding_flavor_fdroid_title": "F-Droid build notice",
     "onboarding_flavor_play_description": "TigerDuck includes a Wear OS companion. You can install it in your Watch app on your iPhone.\nView class messages on your watch — Wear TigerDuck syncs information from your phone.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Exam",
     "calendar_event_source_school": "School",
     "calendar_no_events_today": "No events today",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Blue",
     "color_name_cyan": "Cyan",
     "color_name_green": "Green",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Assignment",
     "live_activity_status_in_class_short": "Class",
     "more_edit_mode_in_development": "Edit mode — In development",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Disabled at system level → Settings → TigerDuck → Enable",
     "score_course_credits_meta": "%1$@ · %2$d credits",
@@ -749,6 +750,8 @@
     "score_semester_first": "Fall semester",
     "score_semester_first_short": "Fall",
     "score_semester_second": "Spring semester",
-    "score_semester_second_short": "Spring"
+    "score_semester_second_short": "Spring",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

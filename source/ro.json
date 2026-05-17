@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Curs începe în curând: %1$s",
     "notification_setup_description": "Activează permisiunile de mai jos pentru a asigura că reminderele pentru teme, alertele de pregătire curs și activitatea live ajung la timp chiar și când aplicația este închisă.",
     "notification_setup_title": "Reconfigurează notificările",
-    "onboarding_choose_features_subtitle": "Le poți ajusta mai târziu în Setări",
-    "onboarding_choose_features_title": "Alege funcționalități",
     "onboarding_flavor_fdroid_description": "Folosești versiunea F-Droid. Deoarece politica F-Droid interzice dependența de serviciile Google (Firebase FCM, GMS etc.), următoarele două funcții nu sunt disponibile în această versiune:\n\n1. Aplicație complementară Wear OS\n2. Notificări push în timp real",
     "onboarding_flavor_fdroid_title": "Notă privind versiunea F-Droid",
     "onboarding_flavor_play_description": "TigerDuck include un însoțitor Wear OS. Vizualizează mesajele de la cursuri pe ceasul tău — Wear TigerDuck sincronizează informațiile de pe telefon.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Examen",
     "calendar_event_source_school": "Școală",
     "calendar_no_events_today": "Niciun eveniment azi",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Albastru",
     "color_name_cyan": "Bleu",
     "color_name_green": "Verde",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Temă",
     "live_activity_status_in_class_short": "Curs",
     "more_edit_mode_in_development": "Mod editare — În dezvoltare",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Activități Live",
     "push_server_status_settings_hint": "Dezactivat la nivel de sistem → Setări → TigerDuck → Activează",
     "score_course_credits_meta": "%1$@ · %2$d credite",
@@ -749,6 +750,8 @@
     "score_semester_first": "Semestrul de toamnă",
     "score_semester_first_short": "Toamnă",
     "score_semester_second": "Semestrul de primăvară",
-    "score_semester_second_short": "Prim"
+    "score_semester_second_short": "Prim",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "即将上课：%1$s",
     "notification_setup_description": "设置以下权限可确保作业提醒、即将上课、即时动态在 App 关闭时也能准时送达。",
     "notification_setup_title": "重新设置通知",
-    "onboarding_choose_features_subtitle": "你可以之后在设置中随时调整",
-    "onboarding_choose_features_title": "选择功能",
     "onboarding_flavor_fdroid_description": "您安装的是 F-Droid 版本，由于 F-Droid 商店规范不能使用 Google 提供的各项服务（Firebase FCM、GMS 等等），所以以下两项功能在 F-Droid 版本（你正在使用）中缺失：\n\n1. Wear OS 应用程序\n2. 主动公告通知推送",
     "onboarding_flavor_fdroid_title": "F-Droid 版本说明",
     "onboarding_flavor_play_description": "本应用程序提供 Wear OS 应用程序，您可以在手表查看课堂消息。手表 TigerDuck 会同步手机信息。",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "考试",
     "calendar_event_source_school": "学校",
     "calendar_no_events_today": "今日无事件",
+    "class_table_add_course": "Add course",
     "color_name_blue": "蓝",
     "color_name_cyan": "青",
     "color_name_green": "绿",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "作业",
     "live_activity_status_in_class_short": "上课",
     "more_edit_mode_in_development": "编辑模式 — 开发中",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "实时活动",
     "push_server_status_settings_hint": "系统层关闭 → 系统设置 → TigerDuck 开启",
     "score_course_credits_meta": "%1$@ · %2$d 学分",
@@ -749,6 +750,8 @@
     "score_semester_first": "上学期",
     "score_semester_first_short": "上",
     "score_semester_second": "下学期",
-    "score_semester_second_short": "下"
+    "score_semester_second_short": "下",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }

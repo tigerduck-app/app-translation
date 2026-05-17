@@ -396,8 +396,6 @@
     "notification_class_preparing_title": "Час ускоро почиње: %1$s",
     "notification_setup_description": "Омогућите следеће дозволе да бисте осигурали да подсетници за задатке, упозорења о почетку часа и живе активности стижу на вријеме чак и кад је апликација затворена.",
     "notification_setup_title": "Поново подеси обавештења",
-    "onboarding_choose_features_subtitle": "Можете их касније подесити у Поставкама",
-    "onboarding_choose_features_title": "Одаберите функције",
     "onboarding_flavor_fdroid_description": "Користите F-Droid верзију. Пошто F-Droid политика забрањује ослањање на Google услуге (Firebase FCM, GMS итд.), следеће две функције нису доступне у овој верзији:\n\n1. Пратећа Wear OS апликација\n2. Push обавештења у реалном времену",
     "onboarding_flavor_fdroid_title": "Обавештење о F-Droid верзији",
     "onboarding_flavor_play_description": "TigerDuck укључује пратећу Wear OS апликацију. Прегледајте поруке са наставе на сату — Wear TigerDuck синхронизује информације са вашег телефона.",
@@ -696,6 +694,7 @@
     "calendar_event_source_exam": "Испит",
     "calendar_event_source_school": "Школа",
     "calendar_no_events_today": "Нема догађаја данас",
+    "class_table_add_course": "Add course",
     "color_name_blue": "Плава",
     "color_name_cyan": "Цијан",
     "color_name_green": "Зелена",
@@ -739,6 +738,8 @@
     "live_activity_status_assignment_short": "Задатак",
     "live_activity_status_in_class_short": "Час",
     "more_edit_mode_in_development": "Режим уређивања — у развоју",
+    "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
+    "onboarding_watchos_title": "Apple Watch support",
     "push_server_status_live_activities": "Активности уживо",
     "push_server_status_settings_hint": "Онемогућено на нивоу система → Подешавања → TigerDuck → Омогући",
     "score_course_credits_meta": "%1$@ · %2$d ЕСПБ",
@@ -749,6 +750,8 @@
     "score_semester_first": "Зимски семестар",
     "score_semester_first_short": "Зима",
     "score_semester_second": "Летњи семестар",
-    "score_semester_second_short": "Лето"
+    "score_semester_second_short": "Лето",
+    "settings_delete_account": "Delete account",
+    "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
   }
 }
