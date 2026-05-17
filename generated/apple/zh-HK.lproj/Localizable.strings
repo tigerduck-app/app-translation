@@ -82,7 +82,7 @@
 "bulletin_push_content_description" = "通知會包含標題與摘要,點開後可直接看到原文。";
 "bulletin_push_disable_action" = "關閉公告推播";
 "bulletin_push_enable_action" = "開啟公告推播";
-"bulletin_push_enable_description" = "開啟推播後,當有符合你設定規則的公告時,老虎鴨會即時通知你。";
+"bulletin_push_enable_description" = "開啟推播後,當有符合你設定規則的公告時, TigerDuck 會即時通知你。";
 "bulletin_push_footer" = "推播通知由 TigerDuck 伺服器根據你選的規則派送。設備標識以匿名 UUID 傳送,不會上傳學號。";
 "bulletin_push_reopen_settings" = "在系統設定中重新開啟";
 "bulletin_push_requesting" = "請求中…";
@@ -542,7 +542,7 @@
 "settings_official_website" = "官方網站";
 "settings_open_source_licenses" = "開源授權";
 "settings_privacy_policy" = "隱私權政策";
-"settings_push_server_nav_label" = "伺服器推播(實驗性)";
+"settings_push_server_nav_label" = "伺服器推播（實驗性）";
 "settings_remember_bulletin_filter" = "記住公告篩選條件";
 "settings_reset_course_colors" = "重設課表顏色";
 "settings_reset_course_colors_confirm_message" = "這將會把課表的顏色依照預設顏色隨機重新分配";

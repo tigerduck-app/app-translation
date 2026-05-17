@@ -65,7 +65,7 @@
 "bulletin_apply_default_rules_action" = "套用預設規則";
 "bulletin_body_load_failed" = "無法載入內文";
 "bulletin_default_rules_footer" = "預設會訂閱:免費便當、獎助學金、繳費、考試、維修。";
-"bulletin_fdroid_no_push_body" = "F-Droid 版本不含 Google Play 服務,因此無法接收即時公告推播。需要即時通知請改安裝 Play 商店版本;F-Droid 版本仍可在公告頁手動拉取最新公告。";
+"bulletin_fdroid_no_push_body" = "F-Droid 版本不含 Google Play 服務，因此無法接收即時公告推播。需要即時通知請改安裝 Play 商店版本;F-Droid 版本仍可在公告頁手動拉取最新公告。";
 "bulletin_fdroid_no_push_title" = "F-Droid 版不支援推播";
 "bulletin_filter_dept" = "處室";
 "bulletin_filter_tag" = "類別";
@@ -79,11 +79,11 @@
 "bulletin_no_match_message" = "沒有符合條件的公告";
 "bulletin_no_unread_title" = "沒有未讀公告";
 "bulletin_notifications_title" = "公告通知";
-"bulletin_push_content_description" = "通知會包含標題與摘要,點開後可直接看到原文。";
+"bulletin_push_content_description" = "通知會包含標題與摘要，點開後可直接看到原文。";
 "bulletin_push_disable_action" = "關閉公告推播";
 "bulletin_push_enable_action" = "開啟公告推播";
-"bulletin_push_enable_description" = "開啟推播後,當有符合你設定規則的公告時,老虎鴨會即時通知你。";
-"bulletin_push_footer" = "推播通知由 TigerDuck 伺服器根據你選的規則派送。設備標識以匿名 UUID 傳送,不會上傳學號。";
+"bulletin_push_enable_description" = "開啟推播後，當有符合你設定規則的公告時，TigerDuck 會即時通知你。";
+"bulletin_push_footer" = "推播通知由 TigerDuck 伺服器根據你選的規則派送。設備標識以匿名 UUID 傳送，不會上傳學號。";
 "bulletin_push_reopen_settings" = "在系統設定中重新開啟";
 "bulletin_push_requesting" = "請求中…";
 "bulletin_push_settings_header" = "推播設定";
@@ -136,7 +136,7 @@
 "bulletin_subscription_mode_and" = "全部符合";
 "bulletin_subscription_mode_or" = "任一符合";
 "bulletin_taxonomy_clear_selection" = "清除選取 (%1$d)";
-"bulletin_taxonomy_picker_hint" = "若不選任何項目,該維度視為「全部」。";
+"bulletin_taxonomy_picker_hint" = "若不選任何項目，該維度視為「全部」。";
 "bulletin_unread_dot_label" = "未讀";
 "bulletin_withdrawn_badge" = "已撤下";
 "calendar_date_today_suffix" = " (今日)";
@@ -158,9 +158,9 @@
 "class_table_course_time_value" = "上課時間：%1$@";
 "class_table_delete" = "刪除";
 "class_table_delete_with_course" = "刪除 — %1$@";
-"class_table_empty_message" = "下拉以重新整理,或使用右上角的 + 新增課程,或切換到其他學期";
+"class_table_empty_message" = "下拉以重新整理，或使用右上角的 + 新增課程，或切換到其他學期";
 "class_table_enrolled_count_value" = "修課人數：%1$d/%2$d";
-"class_table_login_required_message" = "尚未登入,無法查看課表";
+"class_table_login_required_message" = "尚未登入，無法查看課表";
 "class_table_pick_color" = "選擇顏色";
 "class_table_pick_color_with_course" = "選擇顏色 — %1$@";
 "class_table_rename_default_label" = "預設：%1$@";
@@ -308,7 +308,7 @@
 "home_widget_edit_added_section" = "已添加";
 "home_widget_edit_available_section" = "可添加";
 "home_widget_edit_title" = "編輯 Widget";
-"language_picker_ai_translation_note" = "大部分翻譯由 AI 生成,可能會有錯誤。若發現問題,歡迎到 localization 倉庫送 PR 修正。";
+"language_picker_ai_translation_note" = "大部分翻譯由 AI 生成，可能會有錯誤。若發現問題，歡迎到 localization 倉庫送 PR 修正。";
 "library_coming_soon_badge" = "即將推出";
 "library_feature_discussion_room" = "討論小間";
 "library_feature_lecture" = "講座";
@@ -346,7 +346,7 @@
 "live_activity_settings_lock_screen_hint" = "關閉時鎖定畫面只會顯示「通知已隱藏」類的佔位文字。若開啟後仍無效果，請至系統通知設定中允許在鎖定畫面顯示此類通知。";
 "live_activity_settings_minutes_label" = "%1$d 分鐘";
 "live_activity_settings_minutes_unit" = "分鐘";
-"live_activity_settings_nav_title" = "即時動態 Live Activity(實驗性)";
+"live_activity_settings_nav_title" = "即時動態 Live Activity（實驗性）";
 "live_activity_settings_range_hours" = "範圍：%1$d 小時 – %2$d 小時";
 "live_activity_settings_range_min_to_hours" = "範圍：%1$d 分 – %2$d 小時";
 "live_activity_settings_range_minutes" = "範圍：%1$d – %2$d 分鐘";
@@ -385,7 +385,7 @@
 "notification_assignment_reminder_body_5m" = "涼了... %1$@「%2$@」";
 "notification_assignment_reminder_body_multi_hour" = "還來得及補救!%1$@「%2$@」";
 "notification_assignment_reminder_title" = "作業提醒:%1$@";
-"notification_assignment_safety_net_body" = "你已忽略或標記為完成,但作業還沒繳交:%1$@「%2$@」";
+"notification_assignment_safety_net_body" = "你已忽略或標記為完成，但作業還沒繳交:%1$@「%2$@」";
 "notification_assignment_safety_net_title" = "作業還沒繳!";
 "notification_class_preparing_content_fallback" = "課程即將開始";
 "notification_class_preparing_title" = "即將上課：%1$@";
@@ -470,7 +470,7 @@
 "score_credit_type_not_required_short" = "非必";
 "score_distance_learning" = "遠距";
 "score_empty_message" = "目前尚無可顯示的成績資料。";
-"score_empty_pull_to_refresh" = "下拉以重新整理,或稍後再試";
+"score_empty_pull_to_refresh" = "下拉以重新整理，或稍後再試";
 "score_empty_title" = "沒有成績資料";
 "score_error_invalid_response" = "伺服器回傳的成績資料格式不正確。";
 "score_error_load_failed" = "載入成績資料失敗。";
@@ -493,7 +493,7 @@
 "score_info_note" = "備註";
 "score_info_teaching_method" = "授課方式";
 "score_info_term" = "學期";
-"score_login_required_message" = "尚未登入,無法查看歷年成績";
+"score_login_required_message" = "尚未登入，無法查看歷年成績";
 "score_no_ranking_data" = "目前沒有排名資料";
 "score_not_logged_in_message" = "請先登入以載入成績資料。";
 "score_rank_class" = "班排";
@@ -542,7 +542,7 @@
 "settings_official_website" = "官網";
 "settings_open_source_licenses" = "開源授權";
 "settings_privacy_policy" = "隱私權政策";
-"settings_push_server_nav_label" = "伺服器推播(實驗性)";
+"settings_push_server_nav_label" = "伺服器推播（實驗性）";
 "settings_remember_bulletin_filter" = "記住公告篩選條件";
 "settings_reset_course_colors" = "重設課表顏色";
 "settings_reset_course_colors_confirm_message" = "這將會把課表的顏色依照預設顏色隨機重新分配";
