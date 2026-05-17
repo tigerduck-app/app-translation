@@ -449,7 +449,7 @@
 "onboarding_choose_features_title" = "Choose features";
 "onboarding_flavor_fdroid_description" = "You're using the F-Droid build. Because F-Droid policy forbids depending on Google's services (Firebase FCM, GMS, etc.), the following two features are unavailable in this build:\n\n1. Wear OS companion app\n2. Real-time push announcements";
 "onboarding_flavor_fdroid_title" = "F-Droid build notice";
-"onboarding_flavor_play_description" = "TigerDuck includes a Wear OS companion. View class messages on your watch — Wear TigerDuck syncs information from your phone.";
+"onboarding_flavor_play_description" = "TigerDuck includes a Wear OS companion. You can install it in your Watch app on your iPhone.\nView class messages on your watch — Wear TigerDuck syncs information from your phone.";
 "onboarding_flavor_play_title" = "Wear OS support";
 "onboarding_login_button" = "Sign in to school system";
 "onboarding_login_subtitle" = "Sign in with your school system account to access your class table, Moodle, and more";
