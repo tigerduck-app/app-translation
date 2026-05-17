@@ -646,6 +646,10 @@
 "watch_just_now" = "啱啱";
 "watch_last_synced_never" = "未同步過";
 "watch_last_synced_relative" = "上次同步:%1$@";
+"watch_library_loading" = "產生中…";
+"watch_library_refresh_in_seconds" = "%lld 秒";
+"watch_library_signin_prompt" = "請於 iPhone 登入";
+"watch_library_title" = "圖書館";
 "watch_next" = "下一堂";
 "watch_next_label" = "下一節:%1$@ · %2$@";
 "watch_no_courses_synced" = "未有課程資料。";

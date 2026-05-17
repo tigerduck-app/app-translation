@@ -646,6 +646,10 @@
 "watch_just_now" = "방금 전";
 "watch_last_synced_never" = "Never synced";
 "watch_last_synced_relative" = "마지막 동기화: %1$@";
+"watch_library_loading" = "Generating…";
+"watch_library_refresh_in_seconds" = "%lld s";
+"watch_library_signin_prompt" = "Sign in on iPhone";
+"watch_library_title" = "Library";
 "watch_next" = "NEXT";
 "watch_next_label" = "다음: %1$@ · %2$@";
 "watch_no_courses_synced" = "동기화된 강의가 없습니다.";
