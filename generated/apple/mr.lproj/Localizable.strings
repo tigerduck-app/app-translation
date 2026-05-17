@@ -464,8 +464,8 @@
 "onboarding_ready_title" = "सर्व तयार आहे!";
 "onboarding_skip_for_now" = "आत्तासाठी वगळा";
 "onboarding_start_button" = "TigerDuck वापरणे सुरू करा";
-"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
-"onboarding_watchos_title" = "Apple Watch support";
+"onboarding_watchos_description" = "TigerDuck मध्ये Apple Watch सहचर अॅप समाविष्ट आहे. तुमचा पुढील वर्ग आणि जलद स्मरणपत्रे थेट तुमच्या मनगटावर पाहा — Watch TigerDuck तुमच्या iPhone वरून सिंक करते.";
+"onboarding_watchos_title" = "Apple Watch सपोर्ट";
 "onboarding_welcome_description" = "विखुरलेले स्रोत, उशिराने येणाऱ्या सूचना आणि अवघड इंटरफेसच्या समस्या सोडवण्यासाठी विद्यार्थ्यांच्या गटाने तयार केलेला कॅम्पस सहायक म्हणजे TigerDuck. \nहे ॲप पूर्णपणे विकसकांच्या सद्भावनेवर चालते — तुम्हाला काही समस्या आढळल्यास, कृपया कळवा (आमच्या Discordमध्ये सहभागी होण्यासाठी किंवा फीडबॅक फॉर्म भरण्यासाठी खालील वेबसाइटला भेट द्या). हे सुधारण्यात मदत करण्यास किंवा थेट विकासात योगदान देण्यास तुमचे स्वागत आहे.";
 "onboarding_welcome_github_label" = "GitHub वर TigerDuck";
 "onboarding_welcome_subtitle" = "तुमचा NTUST कॅम्पस सहाय्यक";

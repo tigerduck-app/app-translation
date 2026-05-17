@@ -464,8 +464,8 @@
 "onboarding_ready_title" = "準備就緒！";
 "onboarding_skip_for_now" = "暫時跳過";
 "onboarding_start_button" = "開始使用 TigerDuck";
-"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
-"onboarding_watchos_title" = "Apple Watch support";
+"onboarding_watchos_description" = "TigerDuck 內建 Apple Watch 隨身版本，可以喺手腕上睇下一堂課同快速提醒 — Watch TigerDuck 會自動由 iPhone 同步資料。";
+"onboarding_watchos_title" = "Apple Watch 支援";
 "onboarding_welcome_description" = "呢個應用係由一班學生一齊開發嘅校園助手，解決資源散亂、通知唔夠及時、介面唔夠直觀等問題。\n本應用程式完全靠各位開發者用愛發電，如果發現問題請盡量回報（入以下官網可以加入我哋嘅 Discord 群組或者填寫意見表），協助我哋開發；你亦都可以親自參與開發。";
 "onboarding_welcome_github_label" = "TigerDuck 應用程式 GitHub";
 "onboarding_welcome_subtitle" = "你的臺科大校園助手";

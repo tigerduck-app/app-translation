@@ -464,8 +464,8 @@
 "onboarding_ready_title" = "Είστε έτοιμοι!";
 "onboarding_skip_for_now" = "Παράλειψη προς το παρόν";
 "onboarding_start_button" = "Ξεκινήστε να χρησιμοποιείτε το TigerDuck";
-"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
-"onboarding_watchos_title" = "Apple Watch support";
+"onboarding_watchos_description" = "Το TigerDuck περιλαμβάνει συνοδευτική εφαρμογή για το Apple Watch. Δείτε το επόμενο μάθημά σας και γρήγορες υπενθυμίσεις απευθείας στον καρπό σας — Το Watch TigerDuck συγχρονίζεται από το iPhone σας.";
+"onboarding_watchos_title" = "Υποστήριξη Apple Watch";
 "onboarding_welcome_description" = "Το TigerDuck είναι ένας βοηθός πανεπιστημιούπολης φτιαγμένος από μια ομάδα φοιτητών για να λύσει διάσπαρτους πόρους, καθυστερημένες ειδοποιήσεις και άβολα περιβάλλοντα χρήσης. \nΗ εφαρμογή τρέχει εξ ολοκλήρου χάρη στη διάθεση των προγραμματιστών — αν εντοπίσετε προβλήματα, αναφέρετέ τα (επισκεφθείτε τον ιστότοπο παρακάτω για να συμμετάσχετε στο Discord μας ή να συμπληρώσετε τη φόρμα σχολίων). Θα χαρούμε να μας βοηθήσετε να τη βελτιώσουμε ή να συνεισφέρετε άμεσα στην ανάπτυξη.";
 "onboarding_welcome_github_label" = "Το TigerDuck στο GitHub";
 "onboarding_welcome_subtitle" = "Ο βοηθός σας στην πανεπιστημιούπολη NTUST";

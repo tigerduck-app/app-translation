@@ -464,8 +464,8 @@
 "onboarding_ready_title" = "Olete valmis!";
 "onboarding_skip_for_now" = "Jäta praegu vahele";
 "onboarding_start_button" = "Alusta TigerDucki kasutamist";
-"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
-"onboarding_watchos_title" = "Apple Watch support";
+"onboarding_watchos_description" = "TigerDuck sisaldab Apple Watchi kaaslasrakendust. Vaata järgmist tundi ja kiireid meeldetuletusi otse oma randmelt — Watch TigerDuck sünkroonib su iPhone'ist.";
+"onboarding_watchos_title" = "Apple Watchi tugi";
 "onboarding_welcome_description" = "TigerDuck on kämpuseabiline, mille on loonud rühm tudengeid, et lahendada hajutatud ressursside, hilinenud teavituste ja ebamugavate liideste probleemid. \nRakendus töötab ainult tänu arendajate heatahtlikkusele — kui leiate probleeme, andke neist palun teada (külastage allolevat veebisaiti, et liituda meie Discordiga või täita tagasisidevorm). Olete oodatud meid täiustamisel aitama või arendusse otse panustama.";
 "onboarding_welcome_github_label" = "TigerDuck GitHubis";
 "onboarding_welcome_subtitle" = "Teie NTUST-i ülikoolilinnaku assistent";

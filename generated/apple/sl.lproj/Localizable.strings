@@ -464,8 +464,8 @@
 "onboarding_ready_title" = "Vse je pripravljeno!";
 "onboarding_skip_for_now" = "Preskoči za zdaj";
 "onboarding_start_button" = "Začni z uporabo TigerDuck";
-"onboarding_watchos_description" = "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.";
-"onboarding_watchos_title" = "Apple Watch support";
+"onboarding_watchos_description" = "TigerDuck vključuje spremljevalno aplikacijo za Apple Watch. Naslednje predavanje in hitre opomnike preverite kar na zapestju — Watch TigerDuck se sinhronizira z vašim iPhoneom.";
+"onboarding_watchos_title" = "Podpora za Apple Watch";
 "onboarding_welcome_description" = "TigerDuck je univerzitetni pomočnik, ki ga je razvila skupina študentov, da bi rešili razpršene vire, zakasnjena obvestila in nerodne vmesnike. \nAplikacija deluje izključno zaradi dobre volje razvijalcev — če opazite kakšne težave, jih, prosimo, sporočite (obiščite spodnjo spletno stran, da se pridružite naši Discord skupnosti ali izpolnite obrazec za povratne informacije). Vabljeni, da nam pomagate izboljšati aplikacijo ali neposredno prispevate k razvoju.";
 "onboarding_welcome_github_label" = "TigerDuck na GitHubu";
 "onboarding_welcome_subtitle" = "Vaš pomočnik na kampusu NTUST";
