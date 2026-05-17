@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Are temă</string>
     <string name="course_card_current_class">Cursul curent</string>
     <string name="course_classroom_value">Sală: %1$s</string>
+    <string name="course_color_picker_custom_badge">Personalizat</string>
+    <string name="course_color_picker_custom_label">Culoare personalizată</string>
     <string name="course_color_picker_reset_action">Standardfarbe wiederherstellen</string>
     <string name="course_credits_value">Credite: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Politică de confidențialitate</string>
     <string name="settings_push_server_nav_label">Push server (Experimental)</string>
     <string name="settings_remember_bulletin_filter">Reține filtrele buletinului</string>
-    <string name="settings_reset_course_colors">Resetează culorile cursurilor</string>
-    <string name="settings_reset_course_colors_confirm_message">Aceasta va reatribui aleator culorile orarului folosind presetările implicite.</string>
-    <string name="settings_reset_course_colors_confirm_title">Resetezi culorile orarului?</string>
+    <string name="settings_reset_course_colors">Reatribuie culorile cursurilor</string>
+    <string name="settings_reset_course_colors_confirm_message">Fiecare curs primește o culoare nouă, unică — întâi din paleta presetată, apoi aleatoriu când paleta este epuizată.</string>
+    <string name="settings_reset_course_colors_confirm_title">Reatribui culorile cursurilor?</string>
     <string name="settings_screen_rotation">Rotire ecran</string>
     <string name="settings_section_abbreviation">Abrevieri</string>
     <string name="settings_section_about">Despre</string>

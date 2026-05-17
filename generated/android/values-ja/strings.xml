@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">課題あり</string>
     <string name="course_card_current_class">現在の授業</string>
     <string name="course_classroom_value">教室：%1$s</string>
+    <string name="course_color_picker_custom_badge">カスタム</string>
+    <string name="course_color_picker_custom_label">カスタムカラー</string>
     <string name="course_color_picker_reset_action">デフォルトの色に戻す</string>
     <string name="course_credits_value">単位：%1$d</string>
     <string name="course_detail_classroom_label">教室</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">プライバシーポリシー</string>
     <string name="settings_push_server_nav_label">サーバープッシュ（試験的）</string>
     <string name="settings_remember_bulletin_filter">掲示板フィルターを記憶する</string>
-    <string name="settings_reset_course_colors">時間割の色をリセット</string>
-    <string name="settings_reset_course_colors_confirm_message">デフォルトのプリセットを使って、時間割の色をランダムに再割り当てします。</string>
-    <string name="settings_reset_course_colors_confirm_title">時間割の色をリセットしますか？</string>
+    <string name="settings_reset_course_colors">コース色を再割り当て</string>
+    <string name="settings_reset_course_colors_confirm_message">すべてのコースに重複しない新しい色を割り当てます。まずプリセットパレットから、足りなくなったらランダムに生成します。</string>
+    <string name="settings_reset_course_colors_confirm_title">コース色を再割り当てしますか？</string>
     <string name="settings_screen_rotation">画面回転</string>
     <string name="settings_section_abbreviation">略称</string>
     <string name="settings_section_about">について</string>

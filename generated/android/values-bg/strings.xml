@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Има задание</string>
     <string name="course_card_current_class">Текущ час</string>
     <string name="course_classroom_value">Класна стая: %1$s</string>
+    <string name="course_color_picker_custom_badge">По избор</string>
+    <string name="course_color_picker_custom_label">Цвят по избор</string>
     <string name="course_color_picker_reset_action">Възстановете цвета по подразбиране</string>
     <string name="course_credits_value">Кредити: %1$d</string>
     <string name="course_detail_classroom_label">Класна стая</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Политика за поверителност</string>
     <string name="settings_push_server_nav_label">Натискане на сървъра (експериментално)</string>
     <string name="settings_remember_bulletin_filter">Запомнете филтрите за бюлетини</string>
-    <string name="settings_reset_course_colors">Нулиране на цветовете на курсовете</string>
-    <string name="settings_reset_course_colors_confirm_message">Това ще разпредели произволно цветовете на разписанието, използвайки стандартните предварително зададени цветове.</string>
-    <string name="settings_reset_course_colors_confirm_title">Нулиране на цветовете на разписанието?</string>
+    <string name="settings_reset_course_colors">Преразпределяне на цветовете на курсовете</string>
+    <string name="settings_reset_course_colors_confirm_message">Всеки курс ще получи нов уникален цвят — първо от готовата палитра, после случайно, когато палитрата свърши.</string>
+    <string name="settings_reset_course_colors_confirm_title">Да преразпределим ли цветовете на курсовете?</string>
     <string name="settings_screen_rotation">Завъртане на екрана</string>
     <string name="settings_section_abbreviation">Съкращения</string>
     <string name="settings_section_about">Относно</string>

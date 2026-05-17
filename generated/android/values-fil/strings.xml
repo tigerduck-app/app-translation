@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">May takdang-aralin</string>
     <string name="course_card_current_class">Kasalukuyang klase</string>
     <string name="course_classroom_value">Silid-aralan: %1$s</string>
+    <string name="course_color_picker_custom_badge">Pasadya</string>
+    <string name="course_color_picker_custom_label">Pasadyang kulay</string>
     <string name="course_color_picker_reset_action">Ibalik ang default na kulay</string>
     <string name="course_credits_value">Mga credit: %1$d</string>
     <string name="course_detail_classroom_label">Silid-aralan</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Patakaran sa privacy</string>
     <string name="settings_push_server_nav_label">Server push (Eksperimento)</string>
     <string name="settings_remember_bulletin_filter">Tandaan ang mga filter ng bulletin</string>
-    <string name="settings_reset_course_colors">I-reset ang mga kulay ng kurso</string>
-    <string name="settings_reset_course_colors_confirm_message">Ibibigay nito nang random ang mga kulay ng iskedyul ng klase gamit ang mga default na preset.</string>
-    <string name="settings_reset_course_colors_confirm_title">I-reset ang mga kulay ng iskedyul ng klase?</string>
+    <string name="settings_reset_course_colors">Iulit ang pagtatalaga ng kulay ng kurso</string>
+    <string name="settings_reset_course_colors_confirm_message">Bawat kurso ay bibigyan ng bago at natatanging kulay — una mula sa preset na palette, sumunod ay random kapag naubos na ang palette.</string>
+    <string name="settings_reset_course_colors_confirm_title">Iulit ang pagtatalaga ng kulay ng kurso?</string>
     <string name="settings_screen_rotation">Pag-ikot ng screen</string>
     <string name="settings_section_abbreviation">Mga Pagdadaglat</string>
     <string name="settings_section_about">Tungkol sa app</string>

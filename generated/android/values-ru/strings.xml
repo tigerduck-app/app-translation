@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Есть задание</string>
     <string name="course_card_current_class">Текущее занятие</string>
     <string name="course_classroom_value">Аудитория: %1$s</string>
+    <string name="course_color_picker_custom_badge">Свой</string>
+    <string name="course_color_picker_custom_label">Свой цвет</string>
     <string name="course_color_picker_reset_action">Восстановить цвет по умолчанию</string>
     <string name="course_credits_value">Кредиты: %1$d</string>
     <string name="course_detail_classroom_label">Аудитория</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Политика конфиденциальности</string>
     <string name="settings_push_server_nav_label">Server push (Экспериментально)</string>
     <string name="settings_remember_bulletin_filter">Запомнить фильтры бюллетеней</string>
-    <string name="settings_reset_course_colors">Сбросить цвета курсов</string>
-    <string name="settings_reset_course_colors_confirm_message">Это случайным образом переназначит цвета расписания, используя предустановленные значения.</string>
-    <string name="settings_reset_course_colors_confirm_title">Сбросить цвета расписания?</string>
+    <string name="settings_reset_course_colors">Переназначить цвета курсов</string>
+    <string name="settings_reset_course_colors_confirm_message">Каждому курсу будет назначен новый уникальный цвет — сначала из палитры, затем случайно, когда палитра исчерпана.</string>
+    <string name="settings_reset_course_colors_confirm_title">Переназначить цвета курсов?</string>
     <string name="settings_screen_rotation">Поворот экрана</string>
     <string name="settings_section_abbreviation">Сокращения</string>
     <string name="settings_section_about">О приложении</string>

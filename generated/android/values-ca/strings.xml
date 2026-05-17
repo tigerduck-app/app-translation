@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Té tasca</string>
     <string name="course_card_current_class">Classe actual</string>
     <string name="course_classroom_value">Aula: %1$s</string>
+    <string name="course_color_picker_custom_badge">Personalitzat</string>
+    <string name="course_color_picker_custom_label">Color personalitzat</string>
     <string name="course_color_picker_reset_action">Restaura el color predeterminat</string>
     <string name="course_credits_value">Crèdits: %1$d</string>
     <string name="course_detail_classroom_label">Aula</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Política de privadesa</string>
     <string name="settings_push_server_nav_label">Push del servidor (experimental)</string>
     <string name="settings_remember_bulletin_filter">Recordeu els filtres de butlletins</string>
-    <string name="settings_reset_course_colors">Restableix els colors dels cursos</string>
-    <string name="settings_reset_course_colors_confirm_message">Els colors de l\'horari de classes es reassignaran aleatòriament usant els colors predeterminats.</string>
-    <string name="settings_reset_course_colors_confirm_title">Voleu restablir els colors de l\'horari de classes?</string>
+    <string name="settings_reset_course_colors">Reassigna els colors dels cursos</string>
+    <string name="settings_reset_course_colors_confirm_message">A cada curs se li assignarà un color nou i únic — primer de la paleta preestablerta i, després, aleatòriament quan s\'esgoti.</string>
+    <string name="settings_reset_course_colors_confirm_title">Reassigna els colors dels cursos?</string>
     <string name="settings_screen_rotation">Rotació de pantalla</string>
     <string name="settings_section_abbreviation">Abreviatures</string>
     <string name="settings_section_about">Quant a</string>

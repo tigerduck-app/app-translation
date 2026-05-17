@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Має завдання</string>
     <string name="course_card_current_class">Поточне заняття</string>
     <string name="course_classroom_value">Аудиторія: %1$s</string>
+    <string name="course_color_picker_custom_badge">Власний</string>
+    <string name="course_color_picker_custom_label">Власний колір</string>
     <string name="course_color_picker_reset_action">Відновити колір за замовчуванням</string>
     <string name="course_credits_value">Кредити: %1$d</string>
     <string name="course_detail_classroom_label">Аудиторія</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Політика конфіденційності</string>
     <string name="settings_push_server_nav_label">Push-сервер (Експериментально)</string>
     <string name="settings_remember_bulletin_filter">Запам\'ятати фільтри бюлетеня</string>
-    <string name="settings_reset_course_colors">Скинути кольори курсів</string>
-    <string name="settings_reset_course_colors_confirm_message">Кольори розкладу буде випадково перевизначено за допомогою стандартних шаблонів.</string>
-    <string name="settings_reset_course_colors_confirm_title">Скинути кольори розкладу?</string>
+    <string name="settings_reset_course_colors">Перепризначити кольори курсів</string>
+    <string name="settings_reset_course_colors_confirm_message">Кожному курсу буде призначено новий унікальний колір — спочатку з пресетної палітри, потім випадково, коли палітра вичерпається.</string>
+    <string name="settings_reset_course_colors_confirm_title">Перепризначити кольори курсів?</string>
     <string name="settings_screen_rotation">Обертання екрана</string>
     <string name="settings_section_abbreviation">Скорочення</string>
     <string name="settings_section_about">Про застосунок</string>

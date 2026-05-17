@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "On ülesandeid";
 "course_card_current_class" = "Praegune tund";
 "course_classroom_value" = "Klassiruum: %1$@";
+"course_color_picker_custom_badge" = "Kohandatud";
+"course_color_picker_custom_label" = "Kohandatud värv";
 "course_color_picker_reset_action" = "Taasta vaikevärv";
 "course_color_picker_title" = "Muuda värvi";
 "course_credits_value" = "Ainepunktid: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Privaatsuspoliitika";
 "settings_push_server_nav_label" = "Serveri tõuge (eksperimentaalne)";
 "settings_remember_bulletin_filter" = "Pidage meeles bülletäänide filtreid";
-"settings_reset_course_colors" = "Lähtesta kursuse värvid";
-"settings_reset_course_colors_confirm_message" = "See määrab tunniplaanis värvid juhuslikult ümber vaikimisi eelseadistuste põhjal.";
-"settings_reset_course_colors_confirm_title" = "Lähtestada tunniplaani värvid?";
+"settings_reset_course_colors" = "Määra kursuste värvid uuesti";
+"settings_reset_course_colors_confirm_message" = "Iga kursus saab uue ainulaadse värvi — kõigepealt eelmääratud paletist, seejärel juhuslikult, kui palett on otsas.";
+"settings_reset_course_colors_confirm_title" = "Kas määrata kursuste värvid uuesti?";
 "settings_screen_rotation" = "Ekraani pööramine";
 "settings_section_abbreviation" = "Lühendid";
 "settings_section_about" = "Teave";

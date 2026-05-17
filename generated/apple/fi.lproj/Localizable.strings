@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Sisältää tehtävän";
 "course_card_current_class" = "Nykyinen tunti";
 "course_classroom_value" = "Luokkahuone: %1$@";
+"course_color_picker_custom_badge" = "Mukautettu";
+"course_color_picker_custom_label" = "Mukautettu väri";
 "course_color_picker_reset_action" = "Palauta oletusväri";
 "course_color_picker_title" = "Muokkaa väriä";
 "course_credits_value" = "Opintopisteet: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Tietosuojakäytäntö";
 "settings_push_server_nav_label" = "Palvelimen push (kokeellinen)";
 "settings_remember_bulletin_filter" = "Muista tiedotesuodattimet";
-"settings_reset_course_colors" = "Nollaa kurssivärit";
-"settings_reset_course_colors_confirm_message" = "Tämä jakaa satunnaisesti uudelleen lukujärjestyksen värit oletusasetuksilla.";
-"settings_reset_course_colors_confirm_title" = "Nollatko lukujärjestyksen värit?";
+"settings_reset_course_colors" = "Määritä kurssien värit uudelleen";
+"settings_reset_course_colors_confirm_message" = "Kullekin kurssille määritetään uusi, ainutlaatuinen väri — ensin esivalintapaletista, sitten satunnaisesti, kun paletti loppuu.";
+"settings_reset_course_colors_confirm_title" = "Määritetäänkö kurssien värit uudelleen?";
 "settings_screen_rotation" = "Näytön kierto";
 "settings_section_abbreviation" = "Lyhenteet";
 "settings_section_about" = "Tietoja";

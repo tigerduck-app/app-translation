@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Тапсырма бар";
 "course_card_current_class" = "Ағымдағы сабақ";
 "course_classroom_value" = "Аудитория: %1$@";
+"course_color_picker_custom_badge" = "Жеке";
+"course_color_picker_custom_label" = "Жеке түс";
 "course_color_picker_reset_action" = "Әдепкі түсті қалпына келтіру";
 "course_color_picker_title" = "Түсті өңдеу";
 "course_credits_value" = "Кредит: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Құпиялылық саясаты";
 "settings_push_server_nav_label" = "Серверді итеру (Эксперименталды)";
 "settings_remember_bulletin_filter" = "Хабарлама сүзгілерін есте сақтау";
-"settings_reset_course_colors" = "Курс түстерін қалпына келтіру";
-"settings_reset_course_colors_confirm_message" = "Бұл сабақ кестесінің түстерін әдепкі алдын ала орнатулар арқылы кездейсоқ қайта тағайындайды.";
-"settings_reset_course_colors_confirm_title" = "Сабақ кестесі түстерін қалпына келтіру керек пе?";
+"settings_reset_course_colors" = "Курс түстерін қайта тағайындау";
+"settings_reset_course_colors_confirm_message" = "Әр курсқа жаңа, бірегей түс тағайындалады — әуелі алдын ала орнатылған палитрадан, палитра таусылған соң кездейсоқ.";
+"settings_reset_course_colors_confirm_title" = "Курс түстерін қайта тағайындау керек пе?";
 "settings_screen_rotation" = "Экранды бұру";
 "settings_section_abbreviation" = "Қысқартулар";
 "settings_section_about" = "Туралы";

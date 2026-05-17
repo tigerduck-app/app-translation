@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Er með verkefni";
 "course_card_current_class" = "Núverandi tími";
 "course_classroom_value" = "Kennslustofa: %1$@";
+"course_color_picker_custom_badge" = "Sérsniðið";
+"course_color_picker_custom_label" = "Sérsniðinn litur";
 "course_color_picker_reset_action" = "Standardfarbe wiederherstellen";
 "course_color_picker_title" = "Breyta lit";
 "course_credits_value" = "Einingar: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Persónuverndarstefna";
 "settings_push_server_nav_label" = "Þjónsendari (tilraunakennt)";
 "settings_remember_bulletin_filter" = "Muna síur tilkynninga";
-"settings_reset_course_colors" = "Endurstilla liti stundaskrár";
-"settings_reset_course_colors_confirm_message" = "Þetta mun úthluta litum stundaskrár af handahófi með sjálfgefnum forstillingum.";
-"settings_reset_course_colors_confirm_title" = "Endurstilla liti stundaskrár?";
+"settings_reset_course_colors" = "Endurúthluta litum námskeiða";
+"settings_reset_course_colors_confirm_message" = "Hverju námskeiði verður úthlutað nýjum, einstökum lit — fyrst úr fyrirfram skilgreindum litapall, og síðan af handahófi þegar pallinn klárast.";
+"settings_reset_course_colors_confirm_title" = "Endurúthluta litum námskeiða?";
 "settings_screen_rotation" = "Snúningur skjás";
 "settings_section_abbreviation" = "Skammstafanir";
 "settings_section_about" = "Um";

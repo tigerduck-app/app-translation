@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Har oppgave";
 "course_card_current_class" = "Gjeldende time";
 "course_classroom_value" = "Klasserom: %1$@";
+"course_color_picker_custom_badge" = "Egendefinert";
+"course_color_picker_custom_label" = "Egendefinert farge";
 "course_color_picker_reset_action" = "Gjenopprett standardfarge";
 "course_color_picker_title" = "Rediger farge";
 "course_credits_value" = "Studiepoeng: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Personvernpolicy";
 "settings_push_server_nav_label" = "Server-push (eksperimentell)";
 "settings_remember_bulletin_filter" = "Husk oppslagstavlefiltre";
-"settings_reset_course_colors" = "Tilbakestill fagfarger";
-"settings_reset_course_colors_confirm_message" = "Dette vil tilfeldig tildele timeplantfarger på nytt ved hjelp av standardforhåndsinnstillinger.";
-"settings_reset_course_colors_confirm_title" = "Tilbakestill timeplantfarger?";
+"settings_reset_course_colors" = "Tildel kursfarger på nytt";
+"settings_reset_course_colors_confirm_message" = "Hvert kurs får en ny, unik farge – først fra forhåndsinnstilt palett, deretter tilfeldig når paletten er brukt opp.";
+"settings_reset_course_colors_confirm_title" = "Tildele kursfarger på nytt?";
 "settings_screen_rotation" = "Skjermrotasjon";
 "settings_section_abbreviation" = "Forkortelser";
 "settings_section_about" = "Om";

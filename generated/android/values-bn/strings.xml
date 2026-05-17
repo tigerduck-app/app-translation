@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">অ্যাসাইনমেন্ট আছে</string>
     <string name="course_card_current_class">বর্তমান ক্লাস</string>
     <string name="course_classroom_value">শ্রেণিকক্ষ: %1$s</string>
+    <string name="course_color_picker_custom_badge">কাস্টম</string>
+    <string name="course_color_picker_custom_label">কাস্টম রঙ</string>
     <string name="course_color_picker_reset_action">ডিফল্ট রঙ পুনরুদ্ধার করুন</string>
     <string name="course_credits_value">ক্রেডিট: %1$d</string>
     <string name="course_detail_classroom_label">শ্রেণীকক্ষ</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">গোপনীয়তা নীতি</string>
     <string name="settings_push_server_nav_label">সার্ভার পুশ (পরীক্ষামূলক)</string>
     <string name="settings_remember_bulletin_filter">বুলেটিন ফিল্টার মনে রাখবেন</string>
-    <string name="settings_reset_course_colors">কোর্সের রং রিসেট করুন</string>
-    <string name="settings_reset_course_colors_confirm_message">এটি ডিফল্ট প্রিসেট ব্যবহার করে ক্লাস তালিকার রং এলোমেলোভাবে পুনরায় বরাদ্দ করবে।</string>
-    <string name="settings_reset_course_colors_confirm_title">ক্লাস তালিকার রং রিসেট করবেন?</string>
+    <string name="settings_reset_course_colors">কোর্স রঙ পুনরায় বরাদ্দ করুন</string>
+    <string name="settings_reset_course_colors_confirm_message">প্রতিটি কোর্সকে একটি নতুন এবং অনন্য রঙ দেওয়া হবে — প্রথমে প্রিসেট প্যালেট থেকে, প্যালেট ফুরিয়ে গেলে এলোমেলোভাবে।</string>
+    <string name="settings_reset_course_colors_confirm_title">কোর্স রঙ পুনরায় বরাদ্দ করবেন?</string>
     <string name="settings_screen_rotation">স্ক্রিন রোটেশন</string>
     <string name="settings_section_abbreviation">সংক্ষেপণ</string>
     <string name="settings_section_about">সম্পর্কে</string>

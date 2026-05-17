@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Ada tugasan";
 "course_card_current_class" = "Kelas semasa";
 "course_classroom_value" = "Bilik darjah: %1$@";
+"course_color_picker_custom_badge" = "Khusus";
+"course_color_picker_custom_label" = "Warna khusus";
 "course_color_picker_reset_action" = "Pulihkan warna lalai";
 "course_color_picker_title" = "Edit warna";
 "course_credits_value" = "Kredit: %1$d";
@@ -598,8 +600,8 @@
 "settings_push_server_nav_label" = "Tolak pelayan (Eksperimen)";
 "settings_remember_bulletin_filter" = "Ingat penapis buletin";
 "settings_reset_course_colors" = "Tetapkan semula warna kursus";
-"settings_reset_course_colors_confirm_message" = "Ini akan mengagihkan semula warna jadual kelas secara rawak menggunakan praset lalai.";
-"settings_reset_course_colors_confirm_title" = "Tetapkan semula warna jadual kelas?";
+"settings_reset_course_colors_confirm_message" = "Setiap kursus akan diberikan warna baharu yang unik — mula-mula daripada palet praset, kemudian rawak apabila palet habis.";
+"settings_reset_course_colors_confirm_title" = "Tetapkan semula warna kursus?";
 "settings_screen_rotation" = "Putaran skrin";
 "settings_section_abbreviation" = "Singkatan";
 "settings_section_about" = "Perihal";

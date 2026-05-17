@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">અસાઇનમેન્ટ છે</string>
     <string name="course_card_current_class">વર્તમાન ક્લાસ</string>
     <string name="course_classroom_value">ક્લાસરૂમ: %1$s</string>
+    <string name="course_color_picker_custom_badge">કસ્ટમ</string>
+    <string name="course_color_picker_custom_label">કસ્ટમ રંગ</string>
     <string name="course_color_picker_reset_action">મૂળભૂત રંગ પુનઃસ્થાપિત કરો</string>
     <string name="course_credits_value">ક્રેડિટ: %1$d</string>
     <string name="course_detail_classroom_label">વર્ગખંડ</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">ગોપનીયતા નીતિ</string>
     <string name="settings_push_server_nav_label">સર્વર પુશ (પ્રાયોગિક)</string>
     <string name="settings_remember_bulletin_filter">બુલેટિન ફિલ્ટર્સ યાદ રાખો</string>
-    <string name="settings_reset_course_colors">કોર્સ રંગ રીસેટ</string>
-    <string name="settings_reset_course_colors_confirm_message">આ ક્લાસ ટાઇમટેબલ ના રંગ ડિફૉલ્ટ પ્રી-સેટ ઉપયોગ કરી રૅન્ડમ ફરીથી આપશે.</string>
-    <string name="settings_reset_course_colors_confirm_title">ક્લાસ ટાઇમટેબલ રંગ રીસેટ?</string>
+    <string name="settings_reset_course_colors">કોર્સ રંગો ફરી ફાળવો</string>
+    <string name="settings_reset_course_colors_confirm_message">દરેક કોર્સને નવો, અનન્ય રંગ સોંપાશે — પ્રથમ પ્રીસેટ પૅલેટ માંથી, પૅલેટ સમાપ્ત થયા પછી રેન્ડમ.</string>
+    <string name="settings_reset_course_colors_confirm_title">કોર્સ રંગો ફરી ફાળવવા છે?</string>
     <string name="settings_screen_rotation">સ્ક્રીન રોટેશન</string>
     <string name="settings_section_abbreviation">સંક્ષેપ</string>
     <string name="settings_section_about">વિશે</string>

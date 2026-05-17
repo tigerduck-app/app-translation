@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Har opgave</string>
     <string name="course_card_current_class">Aktuel undervisning</string>
     <string name="course_classroom_value">Lokale: %1$s</string>
+    <string name="course_color_picker_custom_badge">Tilpasset</string>
+    <string name="course_color_picker_custom_label">Tilpasset farve</string>
     <string name="course_color_picker_reset_action">Gendan standardfarven</string>
     <string name="course_credits_value">ECTS-point: %1$d</string>
     <string name="course_detail_classroom_label">Klasseværelse</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Privatlivspolitik</string>
     <string name="settings_push_server_nav_label">Server push (eksperimentel)</string>
     <string name="settings_remember_bulletin_filter">Husk bulletinfiltre</string>
-    <string name="settings_reset_course_colors">Nulstil kursusfarver</string>
-    <string name="settings_reset_course_colors_confirm_message">Dette vil tilfældigt gentildele skemafarver ved hjælp af standardforudindstillinger.</string>
-    <string name="settings_reset_course_colors_confirm_title">Nulstil skemafarver?</string>
+    <string name="settings_reset_course_colors">Tildel kursusfarver igen</string>
+    <string name="settings_reset_course_colors_confirm_message">Hvert kursus får en ny, unik farve — først fra paletten med forudindstillinger, derefter tilfældigt, når paletten er opbrugt.</string>
+    <string name="settings_reset_course_colors_confirm_title">Tildel kursusfarver igen?</string>
     <string name="settings_screen_rotation">Skærmrotation</string>
     <string name="settings_section_abbreviation">Forkortelser</string>
     <string name="settings_section_about">Om</string>

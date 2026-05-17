@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Er með verkefni</string>
     <string name="course_card_current_class">Núverandi tími</string>
     <string name="course_classroom_value">Kennslustofa: %1$s</string>
+    <string name="course_color_picker_custom_badge">Sérsniðið</string>
+    <string name="course_color_picker_custom_label">Sérsniðinn litur</string>
     <string name="course_color_picker_reset_action">Standardfarbe wiederherstellen</string>
     <string name="course_credits_value">Einingar: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Persónuverndarstefna</string>
     <string name="settings_push_server_nav_label">Þjónsendari (tilraunakennt)</string>
     <string name="settings_remember_bulletin_filter">Muna síur tilkynninga</string>
-    <string name="settings_reset_course_colors">Endurstilla liti stundaskrár</string>
-    <string name="settings_reset_course_colors_confirm_message">Þetta mun úthluta litum stundaskrár af handahófi með sjálfgefnum forstillingum.</string>
-    <string name="settings_reset_course_colors_confirm_title">Endurstilla liti stundaskrár?</string>
+    <string name="settings_reset_course_colors">Endurúthluta litum námskeiða</string>
+    <string name="settings_reset_course_colors_confirm_message">Hverju námskeiði verður úthlutað nýjum, einstökum lit — fyrst úr fyrirfram skilgreindum litapall, og síðan af handahófi þegar pallinn klárast.</string>
+    <string name="settings_reset_course_colors_confirm_title">Endurúthluta litum námskeiða?</string>
     <string name="settings_screen_rotation">Snúningur skjás</string>
     <string name="settings_section_abbreviation">Skammstafanir</string>
     <string name="settings_section_about">Um</string>

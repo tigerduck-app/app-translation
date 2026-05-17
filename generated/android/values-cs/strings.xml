@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Má úkol</string>
     <string name="course_card_current_class">Aktuální hodina</string>
     <string name="course_classroom_value">Učebna: %1$s</string>
+    <string name="course_color_picker_custom_badge">Vlastní</string>
+    <string name="course_color_picker_custom_label">Vlastní barva</string>
     <string name="course_color_picker_reset_action">Obnovit výchozí barvu</string>
     <string name="course_credits_value">Kredity: %1$d</string>
     <string name="course_detail_classroom_label">Třída</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="settings_push_server_nav_label">Server push (experimentální)</string>
     <string name="settings_remember_bulletin_filter">Pamatujte na filtry bulletinů</string>
-    <string name="settings_reset_course_colors">Obnovit barvy kurzů</string>
-    <string name="settings_reset_course_colors_confirm_message">Tato akce náhodně přepřiřadí barvy rozvrhu pomocí výchozích předvoleb.</string>
-    <string name="settings_reset_course_colors_confirm_title">Obnovit barvy rozvrhu?</string>
+    <string name="settings_reset_course_colors">Znovu přiřadit barvy kurzů</string>
+    <string name="settings_reset_course_colors_confirm_message">Každý kurz dostane novou jedinečnou barvu — nejprve z přednastavené palety, po vyčerpání náhodně.</string>
+    <string name="settings_reset_course_colors_confirm_title">Znovu přiřadit barvy kurzů?</string>
     <string name="settings_screen_rotation">Otáčení obrazovky</string>
     <string name="settings_section_abbreviation">Zkratky</string>
     <string name="settings_section_about">O aplikaci</string>

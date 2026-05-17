@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Υπάρχει εργασία</string>
     <string name="course_card_current_class">Τρέχον μάθημα</string>
     <string name="course_classroom_value">Αίθουσα: %1$s</string>
+    <string name="course_color_picker_custom_badge">Προσαρμοσμένο</string>
+    <string name="course_color_picker_custom_label">Προσαρμοσμένο χρώμα</string>
     <string name="course_color_picker_reset_action">Επαναφορά προεπιλεγμένου χρώματος</string>
     <string name="course_credits_value">Πιστωτικές μονάδες: %1$d</string>
     <string name="course_detail_classroom_label">Αίθουσα διδασκαλίας</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Πολιτική απορρήτου</string>
     <string name="settings_push_server_nav_label">Push διακομιστή (Πειραματικό)</string>
     <string name="settings_remember_bulletin_filter">Θυμηθείτε τα φίλτρα του δελτίου</string>
-    <string name="settings_reset_course_colors">Επαναφορά χρωμάτων μαθημάτων</string>
-    <string name="settings_reset_course_colors_confirm_message">Αυτό θα αναθέσει τυχαία τα χρώματα του προγράμματος μαθημάτων χρησιμοποιώντας προεπιλεγμένες παλέτες.</string>
-    <string name="settings_reset_course_colors_confirm_title">Επαναφορά χρωμάτων προγράμματος μαθημάτων;</string>
+    <string name="settings_reset_course_colors">Επανεκχώρηση χρωμάτων μαθημάτων</string>
+    <string name="settings_reset_course_colors_confirm_message">Κάθε μάθημα θα λάβει ένα νέο, μοναδικό χρώμα — πρώτα από την προκαθορισμένη παλέτα, στη συνέχεια τυχαία όταν εξαντληθεί.</string>
+    <string name="settings_reset_course_colors_confirm_title">Επανεκχώρηση χρωμάτων μαθημάτων;</string>
     <string name="settings_screen_rotation">Περιστροφή οθόνης</string>
     <string name="settings_section_abbreviation">Συντομογραφίες</string>
     <string name="settings_section_about">Σχετικά</string>

@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "يوجد واجب";
 "course_card_current_class" = "المحاضرة الحالية";
 "course_classroom_value" = "القاعة: %1$@";
+"course_color_picker_custom_badge" = "مخصص";
+"course_color_picker_custom_label" = "لون مخصص";
 "course_color_picker_reset_action" = "استعادة اللون الافتراضي";
 "course_color_picker_title" = "تعديل اللون";
 "course_credits_value" = "الساعات المعتمدة: %1$d";
@@ -598,8 +600,8 @@
 "settings_push_server_nav_label" = "دفع الخادم (تجريبي)";
 "settings_remember_bulletin_filter" = "تذكر مرشحات النشرة";
 "settings_reset_course_colors" = "إعادة تعيين ألوان المقررات";
-"settings_reset_course_colors_confirm_message" = "سيؤدي ذلك إلى إعادة توزيع ألوان الجدول الدراسي عشوائيًا باستخدام الإعدادات المسبقة الافتراضية.";
-"settings_reset_course_colors_confirm_title" = "هل تريد إعادة تعيين ألوان الجدول الدراسي؟";
+"settings_reset_course_colors_confirm_message" = "سيُسنَد لكل مقرر لون فريد جديد — من اللوحة المحددة أولاً، ثم عشوائياً عند نفاد اللوحة.";
+"settings_reset_course_colors_confirm_title" = "هل تريد إعادة تعيين ألوان المقررات؟";
 "settings_screen_rotation" = "تدوير الشاشة";
 "settings_section_abbreviation" = "اختصارات";
 "settings_section_about" = "حول";

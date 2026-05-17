@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Има задатак</string>
     <string name="course_card_current_class">Тренутни час</string>
     <string name="course_classroom_value">Учионица: %1$s</string>
+    <string name="course_color_picker_custom_badge">Прилагођено</string>
+    <string name="course_color_picker_custom_label">Прилагођена боја</string>
     <string name="course_color_picker_reset_action">Standardfarbe wiederherstellen</string>
     <string name="course_credits_value">ЕСПБ бодови: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Политика приватности</string>
     <string name="settings_push_server_nav_label">Server push (eksperimentalno)</string>
     <string name="settings_remember_bulletin_filter">Zapamti filtere biltena</string>
-    <string name="settings_reset_course_colors">Ресетуј боје курсева</string>
-    <string name="settings_reset_course_colors_confirm_message">Ово ће насумично поново доделити боје распореда користећи подразумеване поставке.</string>
-    <string name="settings_reset_course_colors_confirm_title">Ресетовати боје распореда?</string>
+    <string name="settings_reset_course_colors">Поново додели боје курсева</string>
+    <string name="settings_reset_course_colors_confirm_message">Сваки курс ће добити нову, јединствену боју — прво из унапред подешене палете, затим насумично када се палета исцрпи.</string>
+    <string name="settings_reset_course_colors_confirm_title">Поново доделити боје курсева?</string>
     <string name="settings_screen_rotation">Ротација екрана</string>
     <string name="settings_section_abbreviation">Скраћенице</string>
     <string name="settings_section_about">О апликацији</string>

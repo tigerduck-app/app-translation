@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Has assignment";
 "course_card_current_class" = "Current class";
 "course_classroom_value" = "Classroom: %1$@";
+"course_color_picker_custom_badge" = "Custom";
+"course_color_picker_custom_label" = "Custom color";
 "course_color_picker_reset_action" = "Restore default color";
 "course_color_picker_title" = "Edit colour";
 "course_credits_value" = "Credits: %1$d";

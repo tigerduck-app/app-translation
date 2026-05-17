@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Heeft een opdracht</string>
     <string name="course_card_current_class">Huidige les</string>
     <string name="course_classroom_value">Lokaal: %1$s</string>
+    <string name="course_color_picker_custom_badge">Aangepast</string>
+    <string name="course_color_picker_custom_label">Aangepaste kleur</string>
     <string name="course_color_picker_reset_action">Standaardkleur herstellen</string>
     <string name="course_credits_value">Studiepunten: %1$d</string>
     <string name="course_detail_classroom_label">Lokaal</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Privacybeleid</string>
     <string name="settings_push_server_nav_label">Serverpush (experimenteel)</string>
     <string name="settings_remember_bulletin_filter">Bulletinfilters onthouden</string>
-    <string name="settings_reset_course_colors">Vakkleuren resetten</string>
-    <string name="settings_reset_course_colors_confirm_message">Hiermee worden de roosterkleuren willekeurig opnieuw toegewezen op basis van de standaardvoorinstellingen.</string>
-    <string name="settings_reset_course_colors_confirm_title">Roosterkleuren resetten?</string>
+    <string name="settings_reset_course_colors">Cursuskleuren opnieuw toewijzen</string>
+    <string name="settings_reset_course_colors_confirm_message">Elke cursus krijgt een nieuwe, unieke kleur — eerst uit het voorgedefinieerde palet, daarna willekeurig zodra het palet op is.</string>
+    <string name="settings_reset_course_colors_confirm_title">Cursuskleuren opnieuw toewijzen?</string>
     <string name="settings_screen_rotation">Schermrotatie</string>
     <string name="settings_section_abbreviation">Afkortingen</string>
     <string name="settings_section_about">Over</string>

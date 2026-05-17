@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "اسائنمنٹ موجود ہے";
 "course_card_current_class" = "موجودہ کلاس";
 "course_classroom_value" = "کلاس روم: %1$@";
+"course_color_picker_custom_badge" = "حسب ضرورت";
+"course_color_picker_custom_label" = "حسب ضرورت رنگ";
 "course_color_picker_reset_action" = "ڈیفالٹ رنگ بحال کریں";
 "course_color_picker_title" = "رنگ تبدیل کریں";
 "course_credits_value" = "کریڈٹس: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "رازداری کی پالیسی";
 "settings_push_server_nav_label" = "سرور پش (تجرباتی)";
 "settings_remember_bulletin_filter" = "بلیٹن فلٹرز یاد رکھیں";
-"settings_reset_course_colors" = "کورس رنگ ری سیٹ کریں";
-"settings_reset_course_colors_confirm_message" = "یہ ڈیفالٹ پری سیٹس کا استعمال کرتے ہوئے کلاس شیڈول کے رنگ بے ترتیب سے دوبارہ تفویض کرے گا۔";
-"settings_reset_course_colors_confirm_title" = "کلاس شیڈول کے رنگ ری سیٹ کریں؟";
+"settings_reset_course_colors" = "کورس کے رنگ دوبارہ تفویض کریں";
+"settings_reset_course_colors_confirm_message" = "ہر کورس کو ایک نیا اور منفرد رنگ تفویض ہوگا — پہلے پری سیٹ پیلیٹ سے، پیلیٹ ختم ہونے پر بے ترتیب۔";
+"settings_reset_course_colors_confirm_title" = "کیا کورس کے رنگ دوبارہ تفویض کریں؟";
 "settings_screen_rotation" = "اسکرین گردش";
 "settings_section_abbreviation" = "مخفف";
 "settings_section_about" = "کے بارے میں";

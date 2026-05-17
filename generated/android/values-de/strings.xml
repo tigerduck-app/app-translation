@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Hat eine Aufgabe</string>
     <string name="course_card_current_class">Aktueller Unterricht</string>
     <string name="course_classroom_value">Hörsaal: %1$s</string>
+    <string name="course_color_picker_custom_badge">Eigene</string>
+    <string name="course_color_picker_custom_label">Eigene Farbe</string>
     <string name="course_color_picker_reset_action">Standardfarbe wiederherstellen</string>
     <string name="course_credits_value">Leistungspunkte: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Datenschutzerklärung</string>
     <string name="settings_push_server_nav_label">Server-Push (experimentell)</string>
     <string name="settings_remember_bulletin_filter">Denken Sie an Bulletin-Filter</string>
-    <string name="settings_reset_course_colors">Kursfarben zurücksetzen</string>
-    <string name="settings_reset_course_colors_confirm_message">Dadurch werden die Stundenplan-Farben mit den Standard-Voreinstellungen zufällig neu zugewiesen.</string>
-    <string name="settings_reset_course_colors_confirm_title">Stundenplan-Farben zurücksetzen?</string>
+    <string name="settings_reset_course_colors">Kursfarben neu zuweisen</string>
+    <string name="settings_reset_course_colors_confirm_message">Jeder Kurs erhält eine neue, eindeutige Farbe – zunächst aus der voreingestellten Palette, anschließend zufällig, sobald die Palette ausgeschöpft ist.</string>
+    <string name="settings_reset_course_colors_confirm_title">Kursfarben neu zuweisen?</string>
     <string name="settings_screen_rotation">Bildschirmdrehung</string>
     <string name="settings_section_abbreviation">Abkürzungen</string>
     <string name="settings_section_about">Über</string>

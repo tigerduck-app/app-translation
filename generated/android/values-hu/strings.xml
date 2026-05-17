@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Van házi feladat</string>
     <string name="course_card_current_class">Jelenlegi óra</string>
     <string name="course_classroom_value">Tanterem: %1$s</string>
+    <string name="course_color_picker_custom_badge">Egyéni</string>
+    <string name="course_color_picker_custom_label">Egyéni szín</string>
     <string name="course_color_picker_reset_action">Standardfarbe wiederherstellen</string>
     <string name="course_credits_value">Kreditek: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Adatvédelmi irányelvek</string>
     <string name="settings_push_server_nav_label">Szerver push (Kísérleti)</string>
     <string name="settings_remember_bulletin_filter">Hirdetményszűrők megjegyzése</string>
-    <string name="settings_reset_course_colors">Kurzus színek visszaállítása</string>
-    <string name="settings_reset_course_colors_confirm_message">Ez véletlenszerűen újra hozzárendeli az órarend színeit az alapértelmezett készlet alapján.</string>
-    <string name="settings_reset_course_colors_confirm_title">Visszaállítja az órarend színeit?</string>
+    <string name="settings_reset_course_colors">Kurzusszínek újrakiosztása</string>
+    <string name="settings_reset_course_colors_confirm_message">Minden kurzus új, egyedi színt kap — előbb az előre beállított palettából, kimerülésekor véletlenszerűen.</string>
+    <string name="settings_reset_course_colors_confirm_title">Újrakiosztja a kurzusszíneket?</string>
     <string name="settings_screen_rotation">Képernyő forgatása</string>
     <string name="settings_section_abbreviation">Rövidítések</string>
     <string name="settings_section_about">Névjegy</string>

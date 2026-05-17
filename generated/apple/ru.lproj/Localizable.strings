@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Есть задание";
 "course_card_current_class" = "Текущее занятие";
 "course_classroom_value" = "Аудитория: %1$@";
+"course_color_picker_custom_badge" = "Свой";
+"course_color_picker_custom_label" = "Свой цвет";
 "course_color_picker_reset_action" = "Восстановить цвет по умолчанию";
 "course_color_picker_title" = "Изменить цвет";
 "course_credits_value" = "Кредиты: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Политика конфиденциальности";
 "settings_push_server_nav_label" = "Server push (Экспериментально)";
 "settings_remember_bulletin_filter" = "Запомнить фильтры бюллетеней";
-"settings_reset_course_colors" = "Сбросить цвета курсов";
-"settings_reset_course_colors_confirm_message" = "Это случайным образом переназначит цвета расписания, используя предустановленные значения.";
-"settings_reset_course_colors_confirm_title" = "Сбросить цвета расписания?";
+"settings_reset_course_colors" = "Переназначить цвета курсов";
+"settings_reset_course_colors_confirm_message" = "Каждому курсу будет назначен новый уникальный цвет — сначала из палитры, затем случайно, когда палитра исчерпана.";
+"settings_reset_course_colors_confirm_title" = "Переназначить цвета курсов?";
 "settings_screen_rotation" = "Поворот экрана";
 "settings_section_abbreviation" = "Сокращения";
 "settings_section_about" = "О приложении";

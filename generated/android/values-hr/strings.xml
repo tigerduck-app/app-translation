@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Ima zadatak</string>
     <string name="course_card_current_class">Trenutno predavanje</string>
     <string name="course_classroom_value">Učionica: %1$s</string>
+    <string name="course_color_picker_custom_badge">Prilagođeno</string>
+    <string name="course_color_picker_custom_label">Prilagođena boja</string>
     <string name="course_color_picker_reset_action">Standardfarbe wiederherstellen</string>
     <string name="course_credits_value">ECTS bodovi: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Pravila privatnosti</string>
     <string name="settings_push_server_nav_label">Poslužiteljski push (eksperimentalno)</string>
     <string name="settings_remember_bulletin_filter">Zapamti filtre biltena</string>
-    <string name="settings_reset_course_colors">Resetiraj boje kolegija</string>
-    <string name="settings_reset_course_colors_confirm_message">Ovo će nasumično preraspodijeliti boje rasporeda koristeći zadane presets.</string>
-    <string name="settings_reset_course_colors_confirm_title">Resetirati boje rasporeda?</string>
+    <string name="settings_reset_course_colors">Ponovno dodijeli boje kolegija</string>
+    <string name="settings_reset_course_colors_confirm_message">Svaki kolegij dobit će novu, jedinstvenu boju — najprije iz unaprijed postavljene palete, zatim nasumično kada se paleta iscrpi.</string>
+    <string name="settings_reset_course_colors_confirm_title">Ponovno dodijeliti boje kolegija?</string>
     <string name="settings_screen_rotation">Rotacija zaslona</string>
     <string name="settings_section_abbreviation">Kratice</string>
     <string name="settings_section_about">O aplikaciji</string>

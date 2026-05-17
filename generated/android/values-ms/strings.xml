@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Ada tugasan</string>
     <string name="course_card_current_class">Kelas semasa</string>
     <string name="course_classroom_value">Bilik darjah: %1$s</string>
+    <string name="course_color_picker_custom_badge">Khusus</string>
+    <string name="course_color_picker_custom_label">Warna khusus</string>
     <string name="course_color_picker_reset_action">Pulihkan warna lalai</string>
     <string name="course_credits_value">Kredit: %1$d</string>
     <string name="course_detail_classroom_label">Bilik darjah</string>
@@ -564,8 +566,8 @@
     <string name="settings_push_server_nav_label">Tolak pelayan (Eksperimen)</string>
     <string name="settings_remember_bulletin_filter">Ingat penapis buletin</string>
     <string name="settings_reset_course_colors">Tetapkan semula warna kursus</string>
-    <string name="settings_reset_course_colors_confirm_message">Ini akan mengagihkan semula warna jadual kelas secara rawak menggunakan praset lalai.</string>
-    <string name="settings_reset_course_colors_confirm_title">Tetapkan semula warna jadual kelas?</string>
+    <string name="settings_reset_course_colors_confirm_message">Setiap kursus akan diberikan warna baharu yang unik — mula-mula daripada palet praset, kemudian rawak apabila palet habis.</string>
+    <string name="settings_reset_course_colors_confirm_title">Tetapkan semula warna kursus?</string>
     <string name="settings_screen_rotation">Putaran skrin</string>
     <string name="settings_section_abbreviation">Singkatan</string>
     <string name="settings_section_about">Perihal</string>

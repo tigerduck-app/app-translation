@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Memiliki tugas</string>
     <string name="course_card_current_class">Kelas saat ini</string>
     <string name="course_classroom_value">Ruang kelas: %1$s</string>
+    <string name="course_color_picker_custom_badge">Khusus</string>
+    <string name="course_color_picker_custom_label">Warna khusus</string>
     <string name="course_color_picker_reset_action">Kembalikan warna default</string>
     <string name="course_credits_value">SKS: %1$d</string>
     <string name="course_detail_classroom_label">Ruang kelas</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Kebijakan privasi</string>
     <string name="settings_push_server_nav_label">Push server (Eksperimental)</string>
     <string name="settings_remember_bulletin_filter">Ingat filter buletin</string>
-    <string name="settings_reset_course_colors">Setel ulang warna mata kuliah</string>
-    <string name="settings_reset_course_colors_confirm_message">Ini akan mengacak ulang warna jadwal kuliah menggunakan preset default.</string>
-    <string name="settings_reset_course_colors_confirm_title">Setel ulang warna jadwal kuliah?</string>
+    <string name="settings_reset_course_colors">Tetapkan ulang warna kursus</string>
+    <string name="settings_reset_course_colors_confirm_message">Setiap kursus akan diberi warna baru yang unik — pertama dari palet preset, lalu acak setelah palet habis.</string>
+    <string name="settings_reset_course_colors_confirm_title">Tetapkan ulang warna kursus?</string>
     <string name="settings_screen_rotation">Rotasi layar</string>
     <string name="settings_section_abbreviation">Singkatan</string>
     <string name="settings_section_about">Tentang</string>

@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Υπάρχει εργασία";
 "course_card_current_class" = "Τρέχον μάθημα";
 "course_classroom_value" = "Αίθουσα: %1$@";
+"course_color_picker_custom_badge" = "Προσαρμοσμένο";
+"course_color_picker_custom_label" = "Προσαρμοσμένο χρώμα";
 "course_color_picker_reset_action" = "Επαναφορά προεπιλεγμένου χρώματος";
 "course_color_picker_title" = "Επεξεργασία χρώματος";
 "course_credits_value" = "Πιστωτικές μονάδες: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Πολιτική απορρήτου";
 "settings_push_server_nav_label" = "Push διακομιστή (Πειραματικό)";
 "settings_remember_bulletin_filter" = "Θυμηθείτε τα φίλτρα του δελτίου";
-"settings_reset_course_colors" = "Επαναφορά χρωμάτων μαθημάτων";
-"settings_reset_course_colors_confirm_message" = "Αυτό θα αναθέσει τυχαία τα χρώματα του προγράμματος μαθημάτων χρησιμοποιώντας προεπιλεγμένες παλέτες.";
-"settings_reset_course_colors_confirm_title" = "Επαναφορά χρωμάτων προγράμματος μαθημάτων;";
+"settings_reset_course_colors" = "Επανεκχώρηση χρωμάτων μαθημάτων";
+"settings_reset_course_colors_confirm_message" = "Κάθε μάθημα θα λάβει ένα νέο, μοναδικό χρώμα — πρώτα από την προκαθορισμένη παλέτα, στη συνέχεια τυχαία όταν εξαντληθεί.";
+"settings_reset_course_colors_confirm_title" = "Επανεκχώρηση χρωμάτων μαθημάτων;";
 "settings_screen_rotation" = "Περιστροφή οθόνης";
 "settings_section_abbreviation" = "Συντομογραφίες";
 "settings_section_about" = "Σχετικά";

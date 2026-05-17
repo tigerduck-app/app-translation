@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Heeft een opdracht";
 "course_card_current_class" = "Huidige les";
 "course_classroom_value" = "Lokaal: %1$@";
+"course_color_picker_custom_badge" = "Aangepast";
+"course_color_picker_custom_label" = "Aangepaste kleur";
 "course_color_picker_reset_action" = "Standaardkleur herstellen";
 "course_color_picker_title" = "Kleur bewerken";
 "course_credits_value" = "Studiepunten: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Privacybeleid";
 "settings_push_server_nav_label" = "Serverpush (experimenteel)";
 "settings_remember_bulletin_filter" = "Bulletinfilters onthouden";
-"settings_reset_course_colors" = "Vakkleuren resetten";
-"settings_reset_course_colors_confirm_message" = "Hiermee worden de roosterkleuren willekeurig opnieuw toegewezen op basis van de standaardvoorinstellingen.";
-"settings_reset_course_colors_confirm_title" = "Roosterkleuren resetten?";
+"settings_reset_course_colors" = "Cursuskleuren opnieuw toewijzen";
+"settings_reset_course_colors_confirm_message" = "Elke cursus krijgt een nieuwe, unieke kleur — eerst uit het voorgedefinieerde palet, daarna willekeurig zodra het palet op is.";
+"settings_reset_course_colors_confirm_title" = "Cursuskleuren opnieuw toewijzen?";
 "settings_screen_rotation" = "Schermrotatie";
 "settings_section_abbreviation" = "Afkortingen";
 "settings_section_about" = "Over";

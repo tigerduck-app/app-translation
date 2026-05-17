@@ -196,6 +196,8 @@
 "course_card_assignment_content_description" = "Tem trabalho";
 "course_card_current_class" = "Aula atual";
 "course_classroom_value" = "Sala: %1$@";
+"course_color_picker_custom_badge" = "Personalizado";
+"course_color_picker_custom_label" = "Cor personalizada";
 "course_color_picker_reset_action" = "Restaurar cor predefinida";
 "course_color_picker_title" = "Editar cor";
 "course_credits_value" = "Créditos: %1$d";
@@ -597,9 +599,9 @@
 "settings_privacy_policy" = "Política de privacidade";
 "settings_push_server_nav_label" = "Push do servidor (Experimental)";
 "settings_remember_bulletin_filter" = "Memorizar filtros do boletim";
-"settings_reset_course_colors" = "Repor cores das cadeiras";
-"settings_reset_course_colors_confirm_message" = "Isto vai reatribuir aleatoriamente as cores do horário das aulas usando as predefinições.";
-"settings_reset_course_colors_confirm_title" = "Repor as cores do horário das aulas?";
+"settings_reset_course_colors" = "Reatribuir cores dos cursos";
+"settings_reset_course_colors_confirm_message" = "Cada curso receberá uma cor nova e única — primeiro da paleta predefinida, depois aleatoriamente quando esgotada.";
+"settings_reset_course_colors_confirm_title" = "Reatribuir as cores dos cursos?";
 "settings_screen_rotation" = "Rotação de ecrã";
 "settings_section_abbreviation" = "Abreviações";
 "settings_section_about" = "Acerca";

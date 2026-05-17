@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">Ödev var</string>
     <string name="course_card_current_class">Mevcut ders</string>
     <string name="course_classroom_value">Derslik: %1$s</string>
+    <string name="course_color_picker_custom_badge">Özel</string>
+    <string name="course_color_picker_custom_label">Özel renk</string>
     <string name="course_color_picker_reset_action">Varsayılan rengi geri yükle</string>
     <string name="course_credits_value">Kredi: %1$d</string>
     <string name="course_detail_classroom_label">Derslik</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">Gizlilik politikası</string>
     <string name="settings_push_server_nav_label">Sunucu push (Deneysel)</string>
     <string name="settings_remember_bulletin_filter">Bülten filtrelerini hatırla</string>
-    <string name="settings_reset_course_colors">Ders renklerini sıfırla</string>
-    <string name="settings_reset_course_colors_confirm_message">Bu işlem, ders programı renklerini varsayılan ön ayarları kullanarak rastgele yeniden atayacaktır.</string>
-    <string name="settings_reset_course_colors_confirm_title">Ders programı renkleri sıfırlansın mı?</string>
+    <string name="settings_reset_course_colors">Ders renklerini yeniden ata</string>
+    <string name="settings_reset_course_colors_confirm_message">Her ders yeni ve benzersiz bir renk alır — önce hazır paletten, palet bitince rastgele.</string>
+    <string name="settings_reset_course_colors_confirm_title">Ders renkleri yeniden atansın mı?</string>
     <string name="settings_screen_rotation">Ekran döndürme</string>
     <string name="settings_section_abbreviation">Kısaltmalar</string>
     <string name="settings_section_about">Hakkında</string>

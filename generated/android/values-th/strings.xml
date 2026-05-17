@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">มีการบ้าน</string>
     <string name="course_card_current_class">คาบเรียนปัจจุบัน</string>
     <string name="course_classroom_value">ห้องเรียน: %1$s</string>
+    <string name="course_color_picker_custom_badge">กำหนดเอง</string>
+    <string name="course_color_picker_custom_label">สีกำหนดเอง</string>
     <string name="course_color_picker_reset_action">Standardfarbe wiederherstellen</string>
     <string name="course_credits_value">หน่วยกิต: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="settings_push_server_nav_label">Server push (ทดลอง)</string>
     <string name="settings_remember_bulletin_filter">จดจำตัวกรองกระดานข่าว</string>
-    <string name="settings_reset_course_colors">รีเซ็ตสีรายวิชา</string>
-    <string name="settings_reset_course_colors_confirm_message">การกระทำนี้จะสุ่มกำหนดสีของตารางเรียนใหม่โดยใช้ค่าที่ตั้งไว้ล่วงหน้าตามค่าเริ่มต้น</string>
-    <string name="settings_reset_course_colors_confirm_title">รีเซ็ตสีตารางเรียนหรือไม่?</string>
+    <string name="settings_reset_course_colors">กำหนดสีรายวิชาใหม่</string>
+    <string name="settings_reset_course_colors_confirm_message">ทุกรายวิชาจะได้รับสีใหม่ที่ไม่ซ้ำกัน — เริ่มจากชุดสีล่วงหน้า เมื่อหมดแล้วจะสุ่มขึ้นมา.</string>
+    <string name="settings_reset_course_colors_confirm_title">กำหนดสีรายวิชาใหม่หรือไม่?</string>
     <string name="settings_screen_rotation">การหมุนหน้าจอ</string>
     <string name="settings_section_abbreviation">ตัวย่อ</string>
     <string name="settings_section_about">เกี่ยวกับ</string>

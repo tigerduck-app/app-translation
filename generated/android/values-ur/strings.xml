@@ -184,6 +184,8 @@
     <string name="course_card_assignment_content_description">اسائنمنٹ موجود ہے</string>
     <string name="course_card_current_class">موجودہ کلاس</string>
     <string name="course_classroom_value">کلاس روم: %1$s</string>
+    <string name="course_color_picker_custom_badge">حسب ضرورت</string>
+    <string name="course_color_picker_custom_label">حسب ضرورت رنگ</string>
     <string name="course_color_picker_reset_action">ڈیفالٹ رنگ بحال کریں</string>
     <string name="course_credits_value">کریڈٹس: %1$d</string>
     <string name="course_detail_classroom_label">کلاس روم</string>
@@ -563,9 +565,9 @@
     <string name="settings_privacy_policy">رازداری کی پالیسی</string>
     <string name="settings_push_server_nav_label">سرور پش (تجرباتی)</string>
     <string name="settings_remember_bulletin_filter">بلیٹن فلٹرز یاد رکھیں</string>
-    <string name="settings_reset_course_colors">کورس رنگ ری سیٹ کریں</string>
-    <string name="settings_reset_course_colors_confirm_message">یہ ڈیفالٹ پری سیٹس کا استعمال کرتے ہوئے کلاس شیڈول کے رنگ بے ترتیب سے دوبارہ تفویض کرے گا۔</string>
-    <string name="settings_reset_course_colors_confirm_title">کلاس شیڈول کے رنگ ری سیٹ کریں؟</string>
+    <string name="settings_reset_course_colors">کورس کے رنگ دوبارہ تفویض کریں</string>
+    <string name="settings_reset_course_colors_confirm_message">ہر کورس کو ایک نیا اور منفرد رنگ تفویض ہوگا — پہلے پری سیٹ پیلیٹ سے، پیلیٹ ختم ہونے پر بے ترتیب۔</string>
+    <string name="settings_reset_course_colors_confirm_title">کیا کورس کے رنگ دوبارہ تفویض کریں؟</string>
     <string name="settings_screen_rotation">اسکرین گردش</string>
     <string name="settings_section_abbreviation">مخفف</string>
     <string name="settings_section_about">کے بارے میں</string>
