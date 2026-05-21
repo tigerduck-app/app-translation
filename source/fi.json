@@ -597,6 +597,7 @@
     "watch_padding_decrease_cd": "Pienennä marginaalia",
     "watch_padding_increase_cd": "Suurenna marginaalia",
     "watch_padding_value_dp": "%1$d dp",
+    "watch_qr_padding": "Library QR padding",
     "watch_relative_days_ago_short": "%1$d d ago",
     "watch_relative_hours_ago_short": "%1$d h ago",
     "watch_relative_minutes_ago_short": "%1$d min ago",

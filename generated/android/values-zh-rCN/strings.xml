@@ -633,6 +633,7 @@
     <string name="watch_padding_decrease_cd">减少边距</string>
     <string name="watch_padding_increase_cd">增加边距</string>
     <string name="watch_padding_value_dp">%1$d dp</string>
+    <string name="watch_qr_padding">图书馆 QR 边距</string>
     <string name="watch_relative_days_ago_short">%1$d 天前</string>
     <string name="watch_relative_hours_ago_short">%1$d 小时前</string>
     <string name="watch_relative_minutes_ago_short">%1$d 分钟前</string>

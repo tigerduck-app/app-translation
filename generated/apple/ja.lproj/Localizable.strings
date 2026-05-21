@@ -662,6 +662,7 @@
 "watch_padding_decrease_cd" = "余白を減らす";
 "watch_padding_increase_cd" = "余白を増やす";
 "watch_padding_value_dp" = "%1$d dp";
+"watch_qr_padding" = "Library QR padding";
 "watch_relative_days_ago_short" = "%1$d 日前";
 "watch_relative_hours_ago_short" = "%1$d 時間前";
 "watch_relative_minutes_ago_short" = "%1$d 分前";

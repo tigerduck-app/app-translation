@@ -633,6 +633,7 @@
     <string name="watch_padding_decrease_cd">Zmenšiť okraj</string>
     <string name="watch_padding_increase_cd">Zväčšiť okraj</string>
     <string name="watch_padding_value_dp">%1$d dp</string>
+    <string name="watch_qr_padding">Library QR padding</string>
     <string name="watch_relative_days_ago_short">%1$d d ago</string>
     <string name="watch_relative_hours_ago_short">%1$d h ago</string>
     <string name="watch_relative_minutes_ago_short">%1$d min ago</string>
