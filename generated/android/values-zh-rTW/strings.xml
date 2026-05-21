@@ -9,6 +9,9 @@
     <string name="a11y_course_card_open_details_hint">點兩下查看詳情</string>
     <string name="a11y_course_detail_open_moodle">在 Moodle 中開啟</string>
     <string name="a11y_dropdown_action_hint">點擊兩下以選擇其他選項</string>
+    <string name="a11y_rankings_trend_chart">學期 GPA 趨勢</string>
+    <string name="a11y_rankings_trend_no_selection">未選擇學期</string>
+    <string name="a11y_rankings_trend_point">%1$@ GPA %2$@</string>
     <string name="a11y_time_slider_swipe_hint">左右滑動可調整時間</string>
     <string name="a11y_timetable_cell">週%1$@ 第%2$@節：%3$@</string>
     <string name="account_id_use_standard_keyboard">標準鍵盤</string>

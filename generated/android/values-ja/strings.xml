@@ -9,6 +9,9 @@
     <string name="a11y_course_card_open_details_hint">Double tap for details</string>
     <string name="a11y_course_detail_open_moodle">Open in Moodle</string>
     <string name="a11y_dropdown_action_hint">Double tap to choose another option</string>
+    <string name="a11y_rankings_trend_chart">GPA trend by semester</string>
+    <string name="a11y_rankings_trend_no_selection">No semester selected</string>
+    <string name="a11y_rankings_trend_point">%1$@ GPA %2$@</string>
     <string name="a11y_time_slider_swipe_hint">Swipe left or right to change the time</string>
     <string name="a11y_timetable_cell">%1$@ period %2$@: %3$@</string>
     <string name="account_id_use_standard_keyboard">標準キーボード</string>

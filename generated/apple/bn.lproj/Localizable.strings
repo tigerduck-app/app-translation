@@ -7,6 +7,9 @@
 "a11y_course_card_open_details_hint" = "Double tap for details";
 "a11y_course_detail_open_moodle" = "Open in Moodle";
 "a11y_dropdown_action_hint" = "Double tap to choose another option";
+"a11y_rankings_trend_chart" = "GPA trend by semester";
+"a11y_rankings_trend_no_selection" = "No semester selected";
+"a11y_rankings_trend_point" = "%1$@ GPA %2$@";
 "a11y_time_slider_swipe_hint" = "Swipe left or right to change the time";
 "a11y_timetable_cell" = "%1$@ period %2$@: %3$@";
 "action_add" = "যোগ করুন";
