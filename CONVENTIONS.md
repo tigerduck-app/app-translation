@@ -86,6 +86,7 @@ before inventing a new one):
 | `settings_` / `settings_section_` | Settings screen |
 | `sync_` | Sync indicators |
 | `tab_editor_` | Tab editor screen |
+| `update_` | In-app update prompt + "what's new" |
 | `weekday_*_short` | Short weekday labels |
 | `widget_` | Home-screen widgets |
 

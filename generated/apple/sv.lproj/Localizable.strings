@@ -647,6 +647,8 @@
 "tab_editor_section_available_tabs" = "Tillgängliga flikar";
 "tab_editor_section_current_tabs" = "Nuvarande flikar";
 "tab_editor_title" = "Flikredigerare";
+"update_ready_message" = "An update is ready to install.";
+"update_restart_action" = "Restart";
 "watch_action_back" = "Tillbaka";
 "watch_course_classroom_label" = "Klassrum";
 "watch_course_detail_title" = "Kurs";

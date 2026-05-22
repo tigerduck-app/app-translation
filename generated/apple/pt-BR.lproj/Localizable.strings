@@ -647,6 +647,8 @@
 "tab_editor_section_available_tabs" = "Abas disponíveis";
 "tab_editor_section_current_tabs" = "Abas atuais";
 "tab_editor_title" = "Editor de abas";
+"update_ready_message" = "An update is ready to install.";
+"update_restart_action" = "Restart";
 "watch_action_back" = "Voltar";
 "watch_course_classroom_label" = "Sala de aula";
 "watch_course_detail_title" = "Disciplina";

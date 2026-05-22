@@ -582,6 +582,8 @@
     "tab_editor_section_available_tabs": "Доступные вкладки",
     "tab_editor_section_current_tabs": "Текущие вкладки",
     "tab_editor_title": "Редактор вкладок",
+    "update_ready_message": "An update is ready to install.",
+    "update_restart_action": "Restart",
     "watch_action_back": "Назад",
     "watch_course_classroom_label": "Аудитория",
     "watch_course_detail_title": "Курс",
