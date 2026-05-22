@@ -1,8 +1,18 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"a11y_assignment_open_moodle_hint" = "Double tap to open the assignment in Moodle";
+"a11y_calendar_day" = "%1$@, %2$lld events";
+"a11y_calendar_nav_next" = "Next month";
+"a11y_calendar_nav_prev" = "Previous month";
 "a11y_class_table_cell_assignment_indicator" = "有作业";
 "a11y_class_table_conflict_prefix" = "冲堂";
+"a11y_course_card_open_details_hint" = "Double tap for details";
+"a11y_course_detail_open_moodle" = "Open in Moodle";
 "a11y_dropdown_action_hint" = "点击两下以选择其他选项";
+"a11y_rankings_trend_chart" = "GPA trend by semester";
+"a11y_rankings_trend_no_selection" = "No semester selected";
+"a11y_rankings_trend_point" = "%1$@ GPA %2$@";
 "a11y_time_slider_swipe_hint" = "左右滑动可调整时间";
+"a11y_timetable_cell" = "%1$@ period %2$@: %3$@";
 "action_add" = "添加";
 "action_allow" = "允许";
 "action_back" = "返回";

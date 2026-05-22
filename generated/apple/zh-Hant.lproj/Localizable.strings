@@ -1,8 +1,18 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"a11y_assignment_open_moodle_hint" = "點擊兩下以在 Moodle 中開啟作業";
+"a11y_calendar_day" = "%1$@，共 %2$lld 個事件";
+"a11y_calendar_nav_next" = "下個月";
+"a11y_calendar_nav_prev" = "上個月";
 "a11y_class_table_cell_assignment_indicator" = "有作業";
 "a11y_class_table_conflict_prefix" = "衝堂";
+"a11y_course_card_open_details_hint" = "點兩下查看詳情";
+"a11y_course_detail_open_moodle" = "在 Moodle 中開啟";
 "a11y_dropdown_action_hint" = "點擊兩下以選擇其他選項";
+"a11y_rankings_trend_chart" = "學期 GPA 趨勢";
+"a11y_rankings_trend_no_selection" = "未選擇學期";
+"a11y_rankings_trend_point" = "%1$@ GPA %2$@";
 "a11y_time_slider_swipe_hint" = "左右滑動可調整時間";
+"a11y_timetable_cell" = "週%1$@ 第%2$@節：%3$@";
 "action_add" = "新增";
 "action_allow" = "允許";
 "action_back" = "返回";
