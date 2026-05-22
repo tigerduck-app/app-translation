@@ -1,5 +1,6 @@
 {
   "shared": {
+    "a11y_assignment_open_moodle_hint": "點擊兩下以在 Moodle 中開啟作業",
     "a11y_calendar_day": "%1$@，共 %2$lld 個事件",
     "a11y_calendar_nav_next": "下個月",
     "a11y_calendar_nav_prev": "上個月",

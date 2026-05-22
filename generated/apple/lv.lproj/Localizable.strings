@@ -1,4 +1,5 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"a11y_assignment_open_moodle_hint" = "Double tap to open the assignment in Moodle";
 "a11y_calendar_day" = "%1$@, %2$lld events";
 "a11y_calendar_nav_next" = "Next month";
 "a11y_calendar_nav_prev" = "Previous month";
