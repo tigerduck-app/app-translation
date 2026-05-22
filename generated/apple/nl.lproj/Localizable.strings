@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "Beschikbare tabbladen";
 "tab_editor_section_current_tabs" = "Huidige tabbladen";
 "tab_editor_title" = "Tabbladeditor";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "De update is gedownload en klaar om te installeren.";
+"update_restart_action" = "Opnieuw starten";
 "watch_action_back" = "Terug";
 "watch_course_classroom_label" = "Klaslokaal";
 "watch_course_detail_title" = "Cursus";

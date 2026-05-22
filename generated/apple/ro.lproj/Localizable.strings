@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "File disponibile";
 "tab_editor_section_current_tabs" = "File curente";
 "tab_editor_title" = "Editor file";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "Actualizarea a fost descărcată și este gata de instalare.";
+"update_restart_action" = "Repornire";
 "watch_action_back" = "Înapoi";
 "watch_course_classroom_label" = "Sală";
 "watch_course_detail_title" = "Curs";

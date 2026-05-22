@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "Saadaval olevad vahekaardid";
 "tab_editor_section_current_tabs" = "Praegused vahekaardid";
 "tab_editor_title" = "Vahekaartide redaktor";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "Uuendus on alla laaditud ja paigaldamiseks valmis.";
+"update_restart_action" = "Taaskäivita";
 "watch_action_back" = "Tagasi";
 "watch_course_classroom_label" = "Klassiruum";
 "watch_course_detail_title" = "Kursus";

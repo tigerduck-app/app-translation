@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "ಲಭ್ಯ ಟ್ಯಾಬ್‌ಗಳು";
 "tab_editor_section_current_tabs" = "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್‌ಗಳು";
 "tab_editor_title" = "ಟ್ಯಾಬ್ ಸಂಪಾದಕ";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "ಅಪ್‌ಡೇಟ್ ಡೌನ್‌ಲೋಡ್ ಆಗಿದೆ, ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಸಿದ್ಧ.";
+"update_restart_action" = "ಮರುಪ್ರಾರಂಭಿಸಿ";
 "watch_action_back" = "ಹಿಂದೆ";
 "watch_course_classroom_label" = "ತರಗತಿ";
 "watch_course_detail_title" = "ಕೋರ್ಸ್";

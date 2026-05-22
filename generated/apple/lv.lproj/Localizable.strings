@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "Pieejamie cilņi";
 "tab_editor_section_current_tabs" = "Pašreizējie cilņi";
 "tab_editor_title" = "Ciļņu redaktors";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "Atjauninājums ir lejupielādēts un gatavs instalēšanai.";
+"update_restart_action" = "Restartēt";
 "watch_action_back" = "Atpakaļ";
 "watch_course_classroom_label" = "Klase";
 "watch_course_detail_title" = "Kurss";

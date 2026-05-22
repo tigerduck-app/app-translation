@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "ઉપલબ્ધ ટૅબ";
 "tab_editor_section_current_tabs" = "વર્તમાન ટૅબ";
 "tab_editor_title" = "ટૅબ એડિટર";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "અપડેટ ડાઉનલોડ થઈ ગઈ છે, ઇન્સ્ટોલ કરવા તૈયાર છે.";
+"update_restart_action" = "પુનઃપ્રારંભ કરો";
 "watch_action_back" = "પાછા";
 "watch_course_classroom_label" = "વર્ગખંડ";
 "watch_course_detail_title" = "કોર્સ";

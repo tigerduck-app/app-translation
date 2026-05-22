@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "Tab có sẵn";
 "tab_editor_section_current_tabs" = "Tab hiện tại";
 "tab_editor_title" = "Trình chỉnh sửa Tab";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "Bản cập nhật đã tải xong, sẵn sàng cài đặt.";
+"update_restart_action" = "Khởi động lại";
 "watch_action_back" = "Trở lại";
 "watch_course_classroom_label" = "Lớp học";
 "watch_course_detail_title" = "Khóa học";

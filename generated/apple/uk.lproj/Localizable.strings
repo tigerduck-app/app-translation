@@ -647,8 +647,8 @@
 "tab_editor_section_available_tabs" = "Доступні вкладки";
 "tab_editor_section_current_tabs" = "Поточні вкладки";
 "tab_editor_title" = "Редактор вкладок";
-"update_ready_message" = "An update is ready to install.";
-"update_restart_action" = "Restart";
+"update_ready_message" = "Оновлення завантажено та готове до встановлення.";
+"update_restart_action" = "Перезапустити";
 "watch_action_back" = "Назад";
 "watch_course_classroom_label" = "Аудиторія";
 "watch_course_detail_title" = "Курс";
