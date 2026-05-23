@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Làm mới từ cổng điểm NTUST (⌘R)</string>
     <string name="desktop_score_term_value">Năm học %1$s · Học kỳ %2$s</string>
     <string name="desktop_score_title">Hồ sơ học tập</string>
+    <string name="desktop_settings_moodle_open_in">Mở liên kết Moodle trong</string>
+    <string name="desktop_settings_moodle_open_in_app">Ứng dụng Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">Trình duyệt</string>
     <string name="desktop_settings_section_course_display">Hiển thị môn học</string>
+    <string name="desktop_settings_section_interface">Giao diện</string>
+    <string name="desktop_settings_section_links">Liên kết</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Lịch học</string>
     <string name="desktop_settings_sidebar_available">Có sẵn</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Giao diện</string>
     <string name="desktop_settings_tab_general">Chung</string>
     <string name="desktop_settings_tab_sidebar">Thanh bên</string>
+    <string name="desktop_widget_ends_in">Kết thúc sau %@</string>
     <string name="desktop_widget_more_count">+%1$d nữa</string>
     <string name="desktop_widget_now">BÂY GIỜ</string>
+    <string name="desktop_widget_starts_in">Bắt đầu sau %@</string>
     <string name="desktop_widget_up_next">Tiếp theo</string>
     <string name="error_login_failed">Đăng nhập thất bại</string>
     <string name="error_network_unavailable">Không thể kết nối. Vui lòng kiểm tra kết nối mạng.</string>

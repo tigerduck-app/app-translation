@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Actualiser depuis le portail des notes NTUST (⌘R)</string>
     <string name="desktop_score_term_value">Année %1$s · Semestre %2$s</string>
     <string name="desktop_score_title">Dossier académique</string>
+    <string name="desktop_settings_moodle_open_in">Ouvrir le lien Moodle dans</string>
+    <string name="desktop_settings_moodle_open_in_app">App Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">Navigateur</string>
     <string name="desktop_settings_section_course_display">Affichage des cours</string>
+    <string name="desktop_settings_section_interface">Interface</string>
+    <string name="desktop_settings_section_links">Liens</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Emploi du temps</string>
     <string name="desktop_settings_sidebar_available">Disponible</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Apparence</string>
     <string name="desktop_settings_tab_general">Général</string>
     <string name="desktop_settings_tab_sidebar">Barre latérale</string>
+    <string name="desktop_widget_ends_in">Termine dans %@</string>
     <string name="desktop_widget_more_count">+%1$d de plus</string>
     <string name="desktop_widget_now">MAINTENANT</string>
+    <string name="desktop_widget_starts_in">Commence dans %@</string>
     <string name="desktop_widget_up_next">À suivre</string>
     <string name="error_login_failed">Échec de la connexion</string>
     <string name="error_network_unavailable">Connexion impossible. Veuillez vérifier votre connexion réseau.</string>

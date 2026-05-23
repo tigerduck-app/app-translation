@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Obnovit z portálu známek NTUST (⌘R)</string>
     <string name="desktop_score_term_value">Akademický rok %1$s · Semestr %2$s</string>
     <string name="desktop_score_title">Akademický záznam</string>
+    <string name="desktop_settings_moodle_open_in">Otevřít odkaz Moodle v</string>
+    <string name="desktop_settings_moodle_open_in_app">Aplikace Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">Prohlížeč</string>
     <string name="desktop_settings_section_course_display">Zobrazení předmětů</string>
+    <string name="desktop_settings_section_interface">Rozhraní</string>
+    <string name="desktop_settings_section_links">Odkazy</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Rozvrh</string>
     <string name="desktop_settings_sidebar_available">Dostupné</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Vzhled</string>
     <string name="desktop_settings_tab_general">Obecné</string>
     <string name="desktop_settings_tab_sidebar">Boční panel</string>
+    <string name="desktop_widget_ends_in">Končí za %@</string>
     <string name="desktop_widget_more_count">+%1$d další</string>
     <string name="desktop_widget_now">TEĎ</string>
+    <string name="desktop_widget_starts_in">Začíná za %@</string>
     <string name="desktop_widget_up_next">Další</string>
     <string name="error_login_failed">Přihlášení se nezdařilo</string>
     <string name="error_network_unavailable">Nelze se připojit. Zkontrolujte prosím připojení k síti.</string>

@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Vom NTUST-Notenportal abrufen (⌘R)</string>
     <string name="desktop_score_term_value">Studienjahr %1$s · Semester %2$s</string>
     <string name="desktop_score_title">Akademische Übersicht</string>
+    <string name="desktop_settings_moodle_open_in">Moodle-Link öffnen in</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle-App</string>
+    <string name="desktop_settings_moodle_open_in_browser">Browser</string>
     <string name="desktop_settings_section_course_display">Kursanzeige</string>
+    <string name="desktop_settings_section_interface">Benutzeroberfläche</string>
+    <string name="desktop_settings_section_links">Links</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Stundenplan</string>
     <string name="desktop_settings_sidebar_available">Verfügbar</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Erscheinungsbild</string>
     <string name="desktop_settings_tab_general">Allgemein</string>
     <string name="desktop_settings_tab_sidebar">Seitenleiste</string>
+    <string name="desktop_widget_ends_in">Endet in %@</string>
     <string name="desktop_widget_more_count">+%1$d weitere</string>
     <string name="desktop_widget_now">JETZT</string>
+    <string name="desktop_widget_starts_in">Beginnt in %@</string>
     <string name="desktop_widget_up_next">Als Nächstes</string>
     <string name="error_login_failed">Anmeldung fehlgeschlagen</string>
     <string name="error_network_unavailable">Verbindung nicht möglich. Bitte überprüfen Sie Ihre Netzwerkverbindung.</string>

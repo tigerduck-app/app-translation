@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Обновить с портала оценок NTUST (⌘R)</string>
     <string name="desktop_score_term_value">Учебный год %1$s · Семестр %2$s</string>
     <string name="desktop_score_title">Академическая запись</string>
+    <string name="desktop_settings_moodle_open_in">Открыть ссылку Moodle в</string>
+    <string name="desktop_settings_moodle_open_in_app">Приложение Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">Браузер</string>
     <string name="desktop_settings_section_course_display">Отображение курсов</string>
+    <string name="desktop_settings_section_interface">Интерфейс</string>
+    <string name="desktop_settings_section_links">Ссылки</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Расписание</string>
     <string name="desktop_settings_sidebar_available">Доступно</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Внешний вид</string>
     <string name="desktop_settings_tab_general">Основные</string>
     <string name="desktop_settings_tab_sidebar">Боковая панель</string>
+    <string name="desktop_widget_ends_in">Закончится через %@</string>
     <string name="desktop_widget_more_count">+%1$d ещё</string>
     <string name="desktop_widget_now">СЕЙЧАС</string>
+    <string name="desktop_widget_starts_in">Начнётся через %@</string>
     <string name="desktop_widget_up_next">Следующее</string>
     <string name="error_login_failed">Не удалось войти</string>
     <string name="error_network_unavailable">Не удаётся подключиться. Проверьте подключение к сети.</string>

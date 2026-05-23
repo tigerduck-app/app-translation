@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Refresh from the NTUST score portal (⌘R)";
 "desktop_score_term_value" = "%1$@ Academic Year · Semester %2$@";
 "desktop_score_title" = "Academic Record";
+"desktop_settings_moodle_open_in" = "Отвори Moodle линк в";
+"desktop_settings_moodle_open_in_app" = "Moodle приложение";
+"desktop_settings_moodle_open_in_browser" = "Браузър";
 "desktop_settings_section_course_display" = "Course display";
+"desktop_settings_section_interface" = "Интерфейс";
+"desktop_settings_section_links" = "Връзки";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Appearance";
 "desktop_settings_tab_general" = "General";
 "desktop_settings_tab_sidebar" = "Sidebar";
+"desktop_widget_ends_in" = "Приключва след %@";
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
+"desktop_widget_starts_in" = "Започва след %@";
 "desktop_widget_up_next" = "Up next";
 "error_bulletin_decoding_failed_format" = "Неуспешен анализ на отговора от съобщенията: %1$@";
 "error_bulletin_encoding_failed_format" = "Неуспешно кодиране на заявката за съобщения: %1$@";

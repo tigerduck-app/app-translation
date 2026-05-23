@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Обновить с портала оценок NTUST (⌘R)";
 "desktop_score_term_value" = "Учебный год %1$@ · Семестр %2$@";
 "desktop_score_title" = "Академическая запись";
+"desktop_settings_moodle_open_in" = "Открыть ссылку Moodle в";
+"desktop_settings_moodle_open_in_app" = "Приложение Moodle";
+"desktop_settings_moodle_open_in_browser" = "Браузер";
 "desktop_settings_section_course_display" = "Отображение курсов";
+"desktop_settings_section_interface" = "Интерфейс";
+"desktop_settings_section_links" = "Ссылки";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Расписание";
 "desktop_settings_sidebar_available" = "Доступно";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Внешний вид";
 "desktop_settings_tab_general" = "Основные";
 "desktop_settings_tab_sidebar" = "Боковая панель";
+"desktop_widget_ends_in" = "Закончится через %@";
 "desktop_widget_more_count" = "+%1$d ещё";
 "desktop_widget_now" = "СЕЙЧАС";
+"desktop_widget_starts_in" = "Начнётся через %@";
 "desktop_widget_up_next" = "Следующее";
 "error_bulletin_decoding_failed_format" = "Не удалось разобрать ответ объявлений: %1$@";
 "error_bulletin_encoding_failed_format" = "Не удалось закодировать запрос объявлений: %1$@";

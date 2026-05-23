@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Atualizar do portal de notas da NTUST (⌘R)";
 "desktop_score_term_value" = "Ano letivo %1$@ · Semestre %2$@";
 "desktop_score_title" = "Histórico acadêmico";
+"desktop_settings_moodle_open_in" = "Abrir link do Moodle em";
+"desktop_settings_moodle_open_in_app" = "App do Moodle";
+"desktop_settings_moodle_open_in_browser" = "Navegador";
 "desktop_settings_section_course_display" = "Exibição de cursos";
+"desktop_settings_section_interface" = "Interface";
+"desktop_settings_section_links" = "Links";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Agenda";
 "desktop_settings_sidebar_available" = "Disponível";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Aparência";
 "desktop_settings_tab_general" = "Geral";
 "desktop_settings_tab_sidebar" = "Barra lateral";
+"desktop_widget_ends_in" = "Termina em %@";
 "desktop_widget_more_count" = "+%1$d a mais";
 "desktop_widget_now" = "AGORA";
+"desktop_widget_starts_in" = "Começa em %@";
 "desktop_widget_up_next" = "Em seguida";
 "error_bulletin_decoding_failed_format" = "Falha ao processar a resposta do mural: %1$@";
 "error_bulletin_encoding_failed_format" = "Falha ao codificar a solicitação do mural: %1$@";

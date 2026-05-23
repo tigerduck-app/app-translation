@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "NTUST 성적 포털에서 새로 가져오기 (⌘R)";
 "desktop_score_term_value" = "%1$@ 학년도 · %2$@ 학기";
 "desktop_score_title" = "학업 기록";
+"desktop_settings_moodle_open_in" = "Moodle 링크 열기";
+"desktop_settings_moodle_open_in_app" = "Moodle 앱";
+"desktop_settings_moodle_open_in_browser" = "브라우저";
 "desktop_settings_section_course_display" = "강의 표시";
+"desktop_settings_section_interface" = "인터페이스";
+"desktop_settings_section_links" = "링크";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "일정";
 "desktop_settings_sidebar_available" = "사용 가능";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "모양";
 "desktop_settings_tab_general" = "일반";
 "desktop_settings_tab_sidebar" = "사이드바";
+"desktop_widget_ends_in" = "%@ 후 종료";
 "desktop_widget_more_count" = "+%1$d개 더";
 "desktop_widget_now" = "진행 중";
+"desktop_widget_starts_in" = "%@ 후 시작";
 "desktop_widget_up_next" = "다음 강의";
 "error_bulletin_decoding_failed_format" = "공지 응답 파싱에 실패했습니다: %1$@";
 "error_bulletin_encoding_failed_format" = "공지 요청 인코딩에 실패했습니다: %1$@";

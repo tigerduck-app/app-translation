@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Vernieuwen vanuit NTUST-cijferportaal (⌘R)";
 "desktop_score_term_value" = "Studiejaar %1$@ · Semester %2$@";
 "desktop_score_title" = "Academisch overzicht";
+"desktop_settings_moodle_open_in" = "Open Moodle-link in";
+"desktop_settings_moodle_open_in_app" = "Moodle-app";
+"desktop_settings_moodle_open_in_browser" = "Browser";
 "desktop_settings_section_course_display" = "Vakkenweergave";
+"desktop_settings_section_interface" = "Interface";
+"desktop_settings_section_links" = "Links";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Rooster";
 "desktop_settings_sidebar_available" = "Beschikbaar";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Weergave";
 "desktop_settings_tab_general" = "Algemeen";
 "desktop_settings_tab_sidebar" = "Zijbalk";
+"desktop_widget_ends_in" = "Eindigt over %@";
 "desktop_widget_more_count" = "+%1$d meer";
 "desktop_widget_now" = "NU";
+"desktop_widget_starts_in" = "Begint over %@";
 "desktop_widget_up_next" = "Hierna";
 "error_bulletin_decoding_failed_format" = "Mededelingenrespons ontleden mislukt: %1$@";
 "error_bulletin_encoding_failed_format" = "Mededelingenverzoek coderen mislukt: %1$@";

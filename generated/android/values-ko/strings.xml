@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">NTUST 성적 포털에서 새로 가져오기 (⌘R)</string>
     <string name="desktop_score_term_value">%1$s 학년도 · %2$s 학기</string>
     <string name="desktop_score_title">학업 기록</string>
+    <string name="desktop_settings_moodle_open_in">Moodle 링크 열기</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle 앱</string>
+    <string name="desktop_settings_moodle_open_in_browser">브라우저</string>
     <string name="desktop_settings_section_course_display">강의 표시</string>
+    <string name="desktop_settings_section_interface">인터페이스</string>
+    <string name="desktop_settings_section_links">링크</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">일정</string>
     <string name="desktop_settings_sidebar_available">사용 가능</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">모양</string>
     <string name="desktop_settings_tab_general">일반</string>
     <string name="desktop_settings_tab_sidebar">사이드바</string>
+    <string name="desktop_widget_ends_in">%@ 후 종료</string>
     <string name="desktop_widget_more_count">+%1$d개 더</string>
     <string name="desktop_widget_now">진행 중</string>
+    <string name="desktop_widget_starts_in">%@ 후 시작</string>
     <string name="desktop_widget_up_next">다음 강의</string>
     <string name="error_login_failed">로그인 실패</string>
     <string name="error_network_unavailable">연결할 수 없습니다. 네트워크 연결을 확인해 주세요.</string>

@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Refresh from the NTUST score portal (⌘R)</string>
     <string name="desktop_score_term_value">%1$s Academic Year · Semester %2$s</string>
     <string name="desktop_score_title">Academic Record</string>
+    <string name="desktop_settings_moodle_open_in">Moodle ലിങ്ക് തുറക്കുക</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle ആപ്പ്</string>
+    <string name="desktop_settings_moodle_open_in_browser">ബ്രൗസർ</string>
     <string name="desktop_settings_section_course_display">Course display</string>
+    <string name="desktop_settings_section_interface">ഇന്റർഫേസ്</string>
+    <string name="desktop_settings_section_links">ലിങ്കുകൾ</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Appearance</string>
     <string name="desktop_settings_tab_general">General</string>
     <string name="desktop_settings_tab_sidebar">Sidebar</string>
+    <string name="desktop_widget_ends_in">%@ ൽ അവസാനിക്കും</string>
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
+    <string name="desktop_widget_starts_in">%@ ൽ ആരംഭിക്കും</string>
     <string name="desktop_widget_up_next">Up next</string>
     <string name="error_login_failed">ലോഗിൻ പരാജയപ്പെട്ടു</string>
     <string name="error_network_unavailable">കണക്റ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല. നെറ്റ്‌വർക്ക് കണക്ഷൻ പരിശോധിക്കുക.</string>

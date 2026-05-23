@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Segarkan dari portal markah NTUST (⌘R)";
 "desktop_score_term_value" = "Tahun akademik %1$@ · Semester %2$@";
 "desktop_score_title" = "Rekod akademik";
+"desktop_settings_moodle_open_in" = "Buka pautan Moodle dalam";
+"desktop_settings_moodle_open_in_app" = "Aplikasi Moodle";
+"desktop_settings_moodle_open_in_browser" = "Pelayar";
 "desktop_settings_section_course_display" = "Paparan kursus";
+"desktop_settings_section_interface" = "Antara Muka";
+"desktop_settings_section_links" = "Pautan";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Jadual";
 "desktop_settings_sidebar_available" = "Tersedia";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Penampilan";
 "desktop_settings_tab_general" = "Umum";
 "desktop_settings_tab_sidebar" = "Bar sisi";
+"desktop_widget_ends_in" = "Berakhir dalam %@";
 "desktop_widget_more_count" = "+%1$d lagi";
 "desktop_widget_now" = "SEKARANG";
+"desktop_widget_starts_in" = "Bermula dalam %@";
 "desktop_widget_up_next" = "Seterusnya";
 "error_bulletin_decoding_failed_format" = "Gagal menghuraikan respons buletin: %1$@";
 "error_bulletin_encoding_failed_format" = "Gagal mengekod permintaan buletin: %1$@";

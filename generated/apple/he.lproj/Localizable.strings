@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "רענון מפורטל הציונים של NTUST (⌘R)";
 "desktop_score_term_value" = "שנת לימודים %1$@ · סמסטר %2$@";
 "desktop_score_title" = "רישום אקדמי";
+"desktop_settings_moodle_open_in" = "פתח קישור Moodle ב-";
+"desktop_settings_moodle_open_in_app" = "אפליקציית Moodle";
+"desktop_settings_moodle_open_in_browser" = "דפדפן";
 "desktop_settings_section_course_display" = "תצוגת קורסים";
+"desktop_settings_section_interface" = "ממשק";
+"desktop_settings_section_links" = "קישורים";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "לוח זמנים";
 "desktop_settings_sidebar_available" = "זמינים";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "מראה";
 "desktop_settings_tab_general" = "כללי";
 "desktop_settings_tab_sidebar" = "סרגל צד";
+"desktop_widget_ends_in" = "מסתיים בעוד %@";
 "desktop_widget_more_count" = "‎+%1$d נוספים";
 "desktop_widget_now" = "כעת";
+"desktop_widget_starts_in" = "מתחיל בעוד %@";
 "desktop_widget_up_next" = "הבא";
 "error_bulletin_decoding_failed_format" = "עיבוד תגובת הלוח נכשל: %1$@";
 "error_bulletin_encoding_failed_format" = "קידוד בקשת הלוח נכשל: %1$@";

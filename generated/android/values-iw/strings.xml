@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">רענון מפורטל הציונים של NTUST (⌘R)</string>
     <string name="desktop_score_term_value">שנת לימודים %1$s · סמסטר %2$s</string>
     <string name="desktop_score_title">רישום אקדמי</string>
+    <string name="desktop_settings_moodle_open_in">פתח קישור Moodle ב-</string>
+    <string name="desktop_settings_moodle_open_in_app">אפליקציית Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">דפדפן</string>
     <string name="desktop_settings_section_course_display">תצוגת קורסים</string>
+    <string name="desktop_settings_section_interface">ממשק</string>
+    <string name="desktop_settings_section_links">קישורים</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">לוח זמנים</string>
     <string name="desktop_settings_sidebar_available">זמינים</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">מראה</string>
     <string name="desktop_settings_tab_general">כללי</string>
     <string name="desktop_settings_tab_sidebar">סרגל צד</string>
+    <string name="desktop_widget_ends_in">מסתיים בעוד %@</string>
     <string name="desktop_widget_more_count">‎+%1$d נוספים</string>
     <string name="desktop_widget_now">כעת</string>
+    <string name="desktop_widget_starts_in">מתחיל בעוד %@</string>
     <string name="desktop_widget_up_next">הבא</string>
     <string name="error_login_failed">הכניסה נכשלה</string>
     <string name="error_network_unavailable">לא ניתן להתחבר. בדוק את חיבור הרשת שלך.</string>

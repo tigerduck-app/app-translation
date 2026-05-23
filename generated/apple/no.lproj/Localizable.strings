@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Oppdater fra NTUST karakterportal (⌘R)";
 "desktop_score_term_value" = "Studieår %1$@ · Semester %2$@";
 "desktop_score_title" = "Akademisk historikk";
+"desktop_settings_moodle_open_in" = "Åpne Moodle-lenke i";
+"desktop_settings_moodle_open_in_app" = "Moodle-app";
+"desktop_settings_moodle_open_in_browser" = "Nettleser";
 "desktop_settings_section_course_display" = "Kursvisning";
+"desktop_settings_section_interface" = "Grensesnitt";
+"desktop_settings_section_links" = "Lenker";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Timeplan";
 "desktop_settings_sidebar_available" = "Tilgjengelig";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Utseende";
 "desktop_settings_tab_general" = "Generelt";
 "desktop_settings_tab_sidebar" = "Sidefelt";
+"desktop_widget_ends_in" = "Slutter om %@";
 "desktop_widget_more_count" = "+%1$d til";
 "desktop_widget_now" = "NÅ";
+"desktop_widget_starts_in" = "Starter om %@";
 "desktop_widget_up_next" = "Neste";
 "error_bulletin_decoding_failed_format" = "Klarte ikke å tolke oppslagssvaret: %1$@";
 "error_bulletin_encoding_failed_format" = "Klarte ikke å kode oppslagsforespørselen: %1$@";

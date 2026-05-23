@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Oppdater fra NTUST karakterportal (⌘R)</string>
     <string name="desktop_score_term_value">Studieår %1$s · Semester %2$s</string>
     <string name="desktop_score_title">Akademisk historikk</string>
+    <string name="desktop_settings_moodle_open_in">Åpne Moodle-lenke i</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle-app</string>
+    <string name="desktop_settings_moodle_open_in_browser">Nettleser</string>
     <string name="desktop_settings_section_course_display">Kursvisning</string>
+    <string name="desktop_settings_section_interface">Grensesnitt</string>
+    <string name="desktop_settings_section_links">Lenker</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Timeplan</string>
     <string name="desktop_settings_sidebar_available">Tilgjengelig</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Utseende</string>
     <string name="desktop_settings_tab_general">Generelt</string>
     <string name="desktop_settings_tab_sidebar">Sidefelt</string>
+    <string name="desktop_widget_ends_in">Slutter om %@</string>
     <string name="desktop_widget_more_count">+%1$d til</string>
     <string name="desktop_widget_now">NÅ</string>
+    <string name="desktop_widget_starts_in">Starter om %@</string>
     <string name="desktop_widget_up_next">Neste</string>
     <string name="error_login_failed">Pålogging mislyktes</string>
     <string name="error_network_unavailable">Kan ikke koble til. Kontroller nettverkstilkoblingen din.</string>

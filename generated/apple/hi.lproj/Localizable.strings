@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "NTUST स्कोर पोर्टल से ताज़ा करें (⌘R)";
 "desktop_score_term_value" = "शैक्षणिक वर्ष %1$@ · सेमेस्टर %2$@";
 "desktop_score_title" = "शैक्षणिक रिकॉर्ड";
+"desktop_settings_moodle_open_in" = "Moodle लिंक खोलें";
+"desktop_settings_moodle_open_in_app" = "Moodle ऐप";
+"desktop_settings_moodle_open_in_browser" = "ब्राउज़र";
 "desktop_settings_section_course_display" = "कोर्स प्रदर्शन";
+"desktop_settings_section_interface" = "इंटरफ़ेस";
+"desktop_settings_section_links" = "लिंक";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "अनुसूची";
 "desktop_settings_sidebar_available" = "उपलब्ध";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "रूप";
 "desktop_settings_tab_general" = "सामान्य";
 "desktop_settings_tab_sidebar" = "साइडबार";
+"desktop_widget_ends_in" = "%@ में समाप्त होगा";
 "desktop_widget_more_count" = "+%1$d और";
 "desktop_widget_now" = "अभी";
+"desktop_widget_starts_in" = "%@ में शुरू होगा";
 "desktop_widget_up_next" = "अगला";
 "error_bulletin_decoding_failed_format" = "बुलेटिन प्रतिक्रिया पार्स करने में विफल: %1$@";
 "error_bulletin_encoding_failed_format" = "बुलेटिन अनुरोध एन्कोड करने में विफल: %1$@";

@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Uppdatera från NTUST betygsportal (⌘R)</string>
     <string name="desktop_score_term_value">Läsår %1$s · Termin %2$s</string>
     <string name="desktop_score_title">Akademisk historik</string>
+    <string name="desktop_settings_moodle_open_in">Öppna Moodle-länk i</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle-appen</string>
+    <string name="desktop_settings_moodle_open_in_browser">Webbläsare</string>
     <string name="desktop_settings_section_course_display">Kursvisning</string>
+    <string name="desktop_settings_section_interface">Gränssnitt</string>
+    <string name="desktop_settings_section_links">Länkar</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Schema</string>
     <string name="desktop_settings_sidebar_available">Tillgängliga</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Utseende</string>
     <string name="desktop_settings_tab_general">Allmänt</string>
     <string name="desktop_settings_tab_sidebar">Sidofält</string>
+    <string name="desktop_widget_ends_in">Slutar om %@</string>
     <string name="desktop_widget_more_count">+%1$d till</string>
     <string name="desktop_widget_now">NU</string>
+    <string name="desktop_widget_starts_in">Börjar om %@</string>
     <string name="desktop_widget_up_next">Nästa</string>
     <string name="error_login_failed">Inloggning misslyckades</string>
     <string name="error_network_unavailable">Kan inte ansluta. Kontrollera din nätverksanslutning.</string>

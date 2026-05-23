@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "NTUST not portalından yenile (⌘R)";
 "desktop_score_term_value" = "Akademik yıl %1$@ · Dönem %2$@";
 "desktop_score_title" = "Akademik kayıt";
+"desktop_settings_moodle_open_in" = "Moodle bağlantısını aç";
+"desktop_settings_moodle_open_in_app" = "Moodle uygulaması";
+"desktop_settings_moodle_open_in_browser" = "Tarayıcı";
 "desktop_settings_section_course_display" = "Ders görünümü";
+"desktop_settings_section_interface" = "Arayüz";
+"desktop_settings_section_links" = "Bağlantılar";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Program";
 "desktop_settings_sidebar_available" = "Mevcut";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Görünüm";
 "desktop_settings_tab_general" = "Genel";
 "desktop_settings_tab_sidebar" = "Kenar çubuğu";
+"desktop_widget_ends_in" = "%@ sonra bitiyor";
 "desktop_widget_more_count" = "+%1$d daha";
 "desktop_widget_now" = "ŞİMDİ";
+"desktop_widget_starts_in" = "%@ sonra başlıyor";
 "desktop_widget_up_next" = "Sıradaki";
 "error_bulletin_decoding_failed_format" = "Duyuru yanıtı ayrıştırılamadı: %1$@";
 "error_bulletin_encoding_failed_format" = "Duyuru isteği kodlanamadı: %1$@";

@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Refresh from the NTUST score portal (⌘R)</string>
     <string name="desktop_score_term_value">%1$s Academic Year · Semester %2$s</string>
     <string name="desktop_score_title">Academic Record</string>
+    <string name="desktop_settings_moodle_open_in">Moodle दुवा उघडा</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle अ‍ॅप</string>
+    <string name="desktop_settings_moodle_open_in_browser">ब्राउझर</string>
     <string name="desktop_settings_section_course_display">Course display</string>
+    <string name="desktop_settings_section_interface">इंटरफेस</string>
+    <string name="desktop_settings_section_links">दुवे</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Appearance</string>
     <string name="desktop_settings_tab_general">General</string>
     <string name="desktop_settings_tab_sidebar">Sidebar</string>
+    <string name="desktop_widget_ends_in">%@ मध्ये संपेल</string>
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
+    <string name="desktop_widget_starts_in">%@ मध्ये सुरू होईल</string>
     <string name="desktop_widget_up_next">Up next</string>
     <string name="error_login_failed">लॉगिन अयशस्वी</string>
     <string name="error_network_unavailable">कनेक्ट होता येत नाही. कृपया तुमचे नेटवर्क कनेक्शन तपासा.</string>

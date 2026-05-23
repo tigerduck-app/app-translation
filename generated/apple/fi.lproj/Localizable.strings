@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Päivitä NTUST-arvosanaportaalista (⌘R)";
 "desktop_score_term_value" = "Lukuvuosi %1$@ · Lukukausi %2$@";
 "desktop_score_title" = "Opintosuoritukset";
+"desktop_settings_moodle_open_in" = "Avaa Moodle-linkki";
+"desktop_settings_moodle_open_in_app" = "Moodle-sovellus";
+"desktop_settings_moodle_open_in_browser" = "Selain";
 "desktop_settings_section_course_display" = "Kurssien näyttö";
+"desktop_settings_section_interface" = "Käyttöliittymä";
+"desktop_settings_section_links" = "Linkit";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Lukujärjestys";
 "desktop_settings_sidebar_available" = "Saatavilla";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Ulkoasu";
 "desktop_settings_tab_general" = "Yleiset";
 "desktop_settings_tab_sidebar" = "Sivupalkki";
+"desktop_widget_ends_in" = "Päättyy %@:n kuluttua";
 "desktop_widget_more_count" = "+%1$d lisää";
 "desktop_widget_now" = "NYT";
+"desktop_widget_starts_in" = "Alkaa %@:n kuluttua";
 "desktop_widget_up_next" = "Seuraava";
 "error_bulletin_decoding_failed_format" = "Tiedotteen vastauksen jäsennys epäonnistui: %1$@";
 "error_bulletin_encoding_failed_format" = "Tiedotepyynnön koodaus epäonnistui: %1$@";

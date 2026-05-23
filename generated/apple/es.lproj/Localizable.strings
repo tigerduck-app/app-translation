@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Actualizar desde el portal de notas de NTUST (⌘R)";
 "desktop_score_term_value" = "Año académico %1$@ · Semestre %2$@";
 "desktop_score_title" = "Expediente académico";
+"desktop_settings_moodle_open_in" = "Abrir enlace de Moodle en";
+"desktop_settings_moodle_open_in_app" = "App de Moodle";
+"desktop_settings_moodle_open_in_browser" = "Navegador";
 "desktop_settings_section_course_display" = "Visualización de cursos";
+"desktop_settings_section_interface" = "Interfaz";
+"desktop_settings_section_links" = "Enlaces";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Horario";
 "desktop_settings_sidebar_available" = "Disponible";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Apariencia";
 "desktop_settings_tab_general" = "General";
 "desktop_settings_tab_sidebar" = "Barra lateral";
+"desktop_widget_ends_in" = "Termina en %@";
 "desktop_widget_more_count" = "+%1$d más";
 "desktop_widget_now" = "AHORA";
+"desktop_widget_starts_in" = "Comienza en %@";
 "desktop_widget_up_next" = "A continuación";
 "error_bulletin_decoding_failed_format" = "No se pudo analizar la respuesta del boletín: %1$@";
 "error_bulletin_encoding_failed_format" = "No se pudo codificar la solicitud del boletín: %1$@";

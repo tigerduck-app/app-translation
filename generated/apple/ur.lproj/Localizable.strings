@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "NTUST گریڈ پورٹل سے تازہ کریں (⌘R)";
 "desktop_score_term_value" = "تعلیمی سال %1$@ · سمسٹر %2$@";
 "desktop_score_title" = "تعلیمی ریکارڈ";
+"desktop_settings_moodle_open_in" = "Moodle لنک کھولیں";
+"desktop_settings_moodle_open_in_app" = "Moodle ایپ";
+"desktop_settings_moodle_open_in_browser" = "براؤزر";
 "desktop_settings_section_course_display" = "کورس کی نمائش";
+"desktop_settings_section_interface" = "انٹرفیس";
+"desktop_settings_section_links" = "روابط";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "شیڈول";
 "desktop_settings_sidebar_available" = "دستیاب";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "ظاہری شکل";
 "desktop_settings_tab_general" = "جنرل";
 "desktop_settings_tab_sidebar" = "سائیڈ بار";
+"desktop_widget_ends_in" = "%@ میں ختم ہوگا";
 "desktop_widget_more_count" = "+%1$d اور";
 "desktop_widget_now" = "ابھی";
+"desktop_widget_starts_in" = "%@ میں شروع ہوگا";
 "desktop_widget_up_next" = "اگلا";
 "error_bulletin_decoding_failed_format" = "اعلان کا جواب پارس نہیں ہوا: %1$@";
 "error_bulletin_encoding_failed_format" = "اعلان کی درخواست انکوڈ نہیں ہوئی: %1$@";

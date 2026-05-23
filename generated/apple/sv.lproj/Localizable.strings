@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Uppdatera från NTUST betygsportal (⌘R)";
 "desktop_score_term_value" = "Läsår %1$@ · Termin %2$@";
 "desktop_score_title" = "Akademisk historik";
+"desktop_settings_moodle_open_in" = "Öppna Moodle-länk i";
+"desktop_settings_moodle_open_in_app" = "Moodle-appen";
+"desktop_settings_moodle_open_in_browser" = "Webbläsare";
 "desktop_settings_section_course_display" = "Kursvisning";
+"desktop_settings_section_interface" = "Gränssnitt";
+"desktop_settings_section_links" = "Länkar";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Schema";
 "desktop_settings_sidebar_available" = "Tillgängliga";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Utseende";
 "desktop_settings_tab_general" = "Allmänt";
 "desktop_settings_tab_sidebar" = "Sidofält";
+"desktop_widget_ends_in" = "Slutar om %@";
 "desktop_widget_more_count" = "+%1$d till";
 "desktop_widget_now" = "NU";
+"desktop_widget_starts_in" = "Börjar om %@";
 "desktop_widget_up_next" = "Nästa";
 "error_bulletin_decoding_failed_format" = "Det gick inte att tolka anslagstavlans svar: %1$@";
 "error_bulletin_encoding_failed_format" = "Det gick inte att koda anslagstavlans begäran: %1$@";

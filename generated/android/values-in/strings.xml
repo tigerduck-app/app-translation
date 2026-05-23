@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Segarkan dari portal nilai NTUST (⌘R)</string>
     <string name="desktop_score_term_value">Tahun akademik %1$s · Semester %2$s</string>
     <string name="desktop_score_title">Catatan akademik</string>
+    <string name="desktop_settings_moodle_open_in">Buka tautan Moodle di</string>
+    <string name="desktop_settings_moodle_open_in_app">Aplikasi Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">Browser</string>
     <string name="desktop_settings_section_course_display">Tampilan mata kuliah</string>
+    <string name="desktop_settings_section_interface">Antarmuka</string>
+    <string name="desktop_settings_section_links">Tautan</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Jadwal</string>
     <string name="desktop_settings_sidebar_available">Tersedia</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Tampilan</string>
     <string name="desktop_settings_tab_general">Umum</string>
     <string name="desktop_settings_tab_sidebar">Bilah samping</string>
+    <string name="desktop_widget_ends_in">Berakhir dalam %@</string>
     <string name="desktop_widget_more_count">+%1$d lagi</string>
     <string name="desktop_widget_now">SEKARANG</string>
+    <string name="desktop_widget_starts_in">Dimulai dalam %@</string>
     <string name="desktop_widget_up_next">Berikutnya</string>
     <string name="error_login_failed">Login gagal</string>
     <string name="error_network_unavailable">Tidak dapat terhubung. Silakan periksa koneksi jaringan kamu.</string>

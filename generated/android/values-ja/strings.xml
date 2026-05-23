@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">NTUST 成績ポータルから取得(⌘R)</string>
     <string name="desktop_score_term_value">%1$s 学年度 · 第 %2$s 学期</string>
     <string name="desktop_score_title">成績記録</string>
+    <string name="desktop_settings_moodle_open_in">Moodleリンクを開く先</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodleアプリ</string>
+    <string name="desktop_settings_moodle_open_in_browser">ブラウザ</string>
     <string name="desktop_settings_section_course_display">授業の表示</string>
+    <string name="desktop_settings_section_interface">インターフェース</string>
+    <string name="desktop_settings_section_links">リンク</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">スケジュール</string>
     <string name="desktop_settings_sidebar_available">利用可能</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">外観</string>
     <string name="desktop_settings_tab_general">一般</string>
     <string name="desktop_settings_tab_sidebar">サイドバー</string>
+    <string name="desktop_widget_ends_in">%@後に終了</string>
     <string name="desktop_widget_more_count">ほか %1$d 件</string>
     <string name="desktop_widget_now">進行中</string>
+    <string name="desktop_widget_starts_in">%@後に開始</string>
     <string name="desktop_widget_up_next">次の授業</string>
     <string name="error_login_failed">ログインに失敗しました</string>
     <string name="error_network_unavailable">接続できません。ネットワーク接続を確認してください。</string>

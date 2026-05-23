@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Refresh from the NTUST score portal (⌘R)";
 "desktop_score_term_value" = "%1$@ Academic Year · Semester %2$@";
 "desktop_score_title" = "Academic Record";
+"desktop_settings_moodle_open_in" = "Moodle-link megnyitása itt:";
+"desktop_settings_moodle_open_in_app" = "Moodle alkalmazás";
+"desktop_settings_moodle_open_in_browser" = "Böngésző";
 "desktop_settings_section_course_display" = "Course display";
+"desktop_settings_section_interface" = "Felület";
+"desktop_settings_section_links" = "Hivatkozások";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Appearance";
 "desktop_settings_tab_general" = "General";
 "desktop_settings_tab_sidebar" = "Sidebar";
+"desktop_widget_ends_in" = "Vége %@ múlva";
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
+"desktop_widget_starts_in" = "Kezdés %@ múlva";
 "desktop_widget_up_next" = "Up next";
 "error_bulletin_decoding_failed_format" = "Nem sikerült feldolgozni a hirdetmény válaszát: %1$@";
 "error_bulletin_encoding_failed_format" = "Nem sikerült kódolni a hirdetmény kérést: %1$@";

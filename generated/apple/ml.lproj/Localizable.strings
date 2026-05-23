@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Refresh from the NTUST score portal (⌘R)";
 "desktop_score_term_value" = "%1$@ Academic Year · Semester %2$@";
 "desktop_score_title" = "Academic Record";
+"desktop_settings_moodle_open_in" = "Moodle ലിങ്ക് തുറക്കുക";
+"desktop_settings_moodle_open_in_app" = "Moodle ആപ്പ്";
+"desktop_settings_moodle_open_in_browser" = "ബ്രൗസർ";
 "desktop_settings_section_course_display" = "Course display";
+"desktop_settings_section_interface" = "ഇന്റർഫേസ്";
+"desktop_settings_section_links" = "ലിങ്കുകൾ";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Appearance";
 "desktop_settings_tab_general" = "General";
 "desktop_settings_tab_sidebar" = "Sidebar";
+"desktop_widget_ends_in" = "%@ ൽ അവസാനിക്കും";
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
+"desktop_widget_starts_in" = "%@ ൽ ആരംഭിക്കും";
 "desktop_widget_up_next" = "Up next";
 "error_bulletin_decoding_failed_format" = "ബുള്ളറ്റിൻ പ്രതികരണം പാഴ്‌സ് ചെയ്യുന്നതിൽ പരാജയം: %1$@";
 "error_bulletin_encoding_failed_format" = "ബുള്ളറ്റിൻ അഭ്യർത്ഥന എൻകോഡ് ചെയ്യുന്നതിൽ പരാജയം: %1$@";

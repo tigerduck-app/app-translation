@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Odśwież z portalu ocen NTUST (⌘R)";
 "desktop_score_term_value" = "Rok akademicki %1$@ · Semestr %2$@";
 "desktop_score_title" = "Rejestr akademicki";
+"desktop_settings_moodle_open_in" = "Otwórz link Moodle w";
+"desktop_settings_moodle_open_in_app" = "Aplikacja Moodle";
+"desktop_settings_moodle_open_in_browser" = "Przeglądarka";
 "desktop_settings_section_course_display" = "Wyświetlanie kursów";
+"desktop_settings_section_interface" = "Interfejs";
+"desktop_settings_section_links" = "Linki";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Plan";
 "desktop_settings_sidebar_available" = "Dostępne";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Wygląd";
 "desktop_settings_tab_general" = "Ogólne";
 "desktop_settings_tab_sidebar" = "Pasek boczny";
+"desktop_widget_ends_in" = "Kończy się za %@";
 "desktop_widget_more_count" = "+%1$d więcej";
 "desktop_widget_now" = "TERAZ";
+"desktop_widget_starts_in" = "Zaczyna się za %@";
 "desktop_widget_up_next" = "Następne";
 "error_bulletin_decoding_failed_format" = "Nie udało się przetworzyć odpowiedzi tablicy ogłoszeń: %1$@";
 "error_bulletin_encoding_failed_format" = "Nie udało się zakodować żądania tablicy ogłoszeń: %1$@";

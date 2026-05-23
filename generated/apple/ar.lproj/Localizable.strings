@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "التحديث من بوابة درجات NTUST (⌘R)";
 "desktop_score_term_value" = "العام الأكاديمي %1$@ · الفصل %2$@";
 "desktop_score_title" = "السجل الأكاديمي";
+"desktop_settings_moodle_open_in" = "فتح رابط Moodle في";
+"desktop_settings_moodle_open_in_app" = "تطبيق Moodle";
+"desktop_settings_moodle_open_in_browser" = "المتصفح";
 "desktop_settings_section_course_display" = "عرض المقررات";
+"desktop_settings_section_interface" = "الواجهة";
+"desktop_settings_section_links" = "الروابط";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "الجدول";
 "desktop_settings_sidebar_available" = "متاح";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "المظهر";
 "desktop_settings_tab_general" = "عام";
 "desktop_settings_tab_sidebar" = "الشريط الجانبي";
+"desktop_widget_ends_in" = "ينتهي خلال %@";
 "desktop_widget_more_count" = "+%1$d إضافية";
 "desktop_widget_now" = "الآن";
+"desktop_widget_starts_in" = "يبدأ خلال %@";
 "desktop_widget_up_next" = "التالي";
 "error_bulletin_decoding_failed_format" = "فشل تحليل استجابة النشرة: %1$@";
 "error_bulletin_encoding_failed_format" = "فشل ترميز طلب النشرة: %1$@";

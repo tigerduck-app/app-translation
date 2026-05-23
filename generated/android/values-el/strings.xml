@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Ανανέωση από την πύλη NTUST (⌘R)</string>
     <string name="desktop_score_term_value">Ακαδημαϊκό έτος %1$s · Εξάμηνο %2$s</string>
     <string name="desktop_score_title">Ακαδημαϊκό ιστορικό</string>
+    <string name="desktop_settings_moodle_open_in">Άνοιγμα συνδέσμου Moodle σε</string>
+    <string name="desktop_settings_moodle_open_in_app">Εφαρμογή Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">Πρόγραμμα περιήγησης</string>
     <string name="desktop_settings_section_course_display">Εμφάνιση μαθημάτων</string>
+    <string name="desktop_settings_section_interface">Διεπαφή</string>
+    <string name="desktop_settings_section_links">Σύνδεσμοι</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Πρόγραμμα</string>
     <string name="desktop_settings_sidebar_available">Διαθέσιμα</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Εμφάνιση</string>
     <string name="desktop_settings_tab_general">Γενικά</string>
     <string name="desktop_settings_tab_sidebar">Πλαϊνή μπάρα</string>
+    <string name="desktop_widget_ends_in">Τελειώνει σε %@</string>
     <string name="desktop_widget_more_count">+%1$d ακόμη</string>
     <string name="desktop_widget_now">ΤΩΡΑ</string>
+    <string name="desktop_widget_starts_in">Ξεκινά σε %@</string>
     <string name="desktop_widget_up_next">Επόμενο</string>
     <string name="error_login_failed">Αποτυχία σύνδεσης</string>
     <string name="error_network_unavailable">Αδύνατη η σύνδεση. Ελέγξτε τη σύνδεσή σας στο δίκτυο.</string>

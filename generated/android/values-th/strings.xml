@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">รีเฟรชจากพอร์ทัลคะแนน NTUST (⌘R)</string>
     <string name="desktop_score_term_value">ปีการศึกษา %1$s · ภาค %2$s</string>
     <string name="desktop_score_title">บันทึกการเรียน</string>
+    <string name="desktop_settings_moodle_open_in">เปิดลิงก์ Moodle ใน</string>
+    <string name="desktop_settings_moodle_open_in_app">แอป Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">เบราว์เซอร์</string>
     <string name="desktop_settings_section_course_display">การแสดงรายวิชา</string>
+    <string name="desktop_settings_section_interface">อินเทอร์เฟซ</string>
+    <string name="desktop_settings_section_links">ลิงก์</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">ตารางเรียน</string>
     <string name="desktop_settings_sidebar_available">พร้อมใช้</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">ลักษณะที่ปรากฏ</string>
     <string name="desktop_settings_tab_general">ทั่วไป</string>
     <string name="desktop_settings_tab_sidebar">แถบด้านข้าง</string>
+    <string name="desktop_widget_ends_in">สิ้นสุดใน %@</string>
     <string name="desktop_widget_more_count">อีก %1$d</string>
     <string name="desktop_widget_now">ตอนนี้</string>
+    <string name="desktop_widget_starts_in">เริ่มใน %@</string>
     <string name="desktop_widget_up_next">ถัดไป</string>
     <string name="error_login_failed">เข้าสู่ระบบล้มเหลว</string>
     <string name="error_network_unavailable">ไม่สามารถเชื่อมต่อได้ กรุณาตรวจสอบการเชื่อมต่อเครือข่าย</string>

@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">I-refresh mula sa NTUST score portal (⌘R)</string>
     <string name="desktop_score_term_value">Taong akademiko %1$s · Semestre %2$s</string>
     <string name="desktop_score_title">Akademikong rekord</string>
+    <string name="desktop_settings_moodle_open_in">Buksan ang Moodle link sa</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle app</string>
+    <string name="desktop_settings_moodle_open_in_browser">Browser</string>
     <string name="desktop_settings_section_course_display">Pagpapakita ng kurso</string>
+    <string name="desktop_settings_section_interface">Interface</string>
+    <string name="desktop_settings_section_links">Mga Link</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Iskedyul</string>
     <string name="desktop_settings_sidebar_available">Available</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Itsura</string>
     <string name="desktop_settings_tab_general">Pangkalahatan</string>
     <string name="desktop_settings_tab_sidebar">Sidebar</string>
+    <string name="desktop_widget_ends_in">Matatapos sa %@</string>
     <string name="desktop_widget_more_count">+%1$d pa</string>
     <string name="desktop_widget_now">NGAYON</string>
+    <string name="desktop_widget_starts_in">Magsisimula sa %@</string>
     <string name="desktop_widget_up_next">Susunod</string>
     <string name="error_login_failed">Nabigong mag-login</string>
     <string name="error_network_unavailable">Hindi makakonekta. Pakisuri ang iyong koneksyon sa network.</string>

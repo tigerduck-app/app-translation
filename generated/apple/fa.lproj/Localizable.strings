@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "به‌روزرسانی از درگاه نمرات NTUST (⌘R)";
 "desktop_score_term_value" = "سال تحصیلی %1$@ · ترم %2$@";
 "desktop_score_title" = "سابقهٔ تحصیلی";
+"desktop_settings_moodle_open_in" = "باز کردن پیوند Moodle در";
+"desktop_settings_moodle_open_in_app" = "برنامه Moodle";
+"desktop_settings_moodle_open_in_browser" = "مرورگر";
 "desktop_settings_section_course_display" = "نمایش درس‌ها";
+"desktop_settings_section_interface" = "رابط کاربری";
+"desktop_settings_section_links" = "پیوندها";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "برنامه";
 "desktop_settings_sidebar_available" = "در دسترس";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "ظاهر";
 "desktop_settings_tab_general" = "عمومی";
 "desktop_settings_tab_sidebar" = "نوار کناری";
+"desktop_widget_ends_in" = "پایان در %@";
 "desktop_widget_more_count" = "+%1$d بیشتر";
 "desktop_widget_now" = "اکنون";
+"desktop_widget_starts_in" = "شروع در %@";
 "desktop_widget_up_next" = "بعدی";
 "error_bulletin_decoding_failed_format" = "تجزیه پاسخ بولتن ناموفق بود: %1$@";
 "error_bulletin_encoding_failed_format" = "کدگذاری درخواست بولتن ناموفق بود: %1$@";

@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">به‌روزرسانی از درگاه نمرات NTUST (⌘R)</string>
     <string name="desktop_score_term_value">سال تحصیلی %1$s · ترم %2$s</string>
     <string name="desktop_score_title">سابقهٔ تحصیلی</string>
+    <string name="desktop_settings_moodle_open_in">باز کردن پیوند Moodle در</string>
+    <string name="desktop_settings_moodle_open_in_app">برنامه Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">مرورگر</string>
     <string name="desktop_settings_section_course_display">نمایش درس‌ها</string>
+    <string name="desktop_settings_section_interface">رابط کاربری</string>
+    <string name="desktop_settings_section_links">پیوندها</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">برنامه</string>
     <string name="desktop_settings_sidebar_available">در دسترس</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">ظاهر</string>
     <string name="desktop_settings_tab_general">عمومی</string>
     <string name="desktop_settings_tab_sidebar">نوار کناری</string>
+    <string name="desktop_widget_ends_in">پایان در %@</string>
     <string name="desktop_widget_more_count">+%1$d بیشتر</string>
     <string name="desktop_widget_now">اکنون</string>
+    <string name="desktop_widget_starts_in">شروع در %@</string>
     <string name="desktop_widget_up_next">بعدی</string>
     <string name="error_login_failed">ورود ناموفق بود</string>
     <string name="error_network_unavailable">اتصال ممکن نیست. لطفاً اتصال شبکه را بررسی کنید.</string>

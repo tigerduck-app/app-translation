@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "Ανανέωση από την πύλη NTUST (⌘R)";
 "desktop_score_term_value" = "Ακαδημαϊκό έτος %1$@ · Εξάμηνο %2$@";
 "desktop_score_title" = "Ακαδημαϊκό ιστορικό";
+"desktop_settings_moodle_open_in" = "Άνοιγμα συνδέσμου Moodle σε";
+"desktop_settings_moodle_open_in_app" = "Εφαρμογή Moodle";
+"desktop_settings_moodle_open_in_browser" = "Πρόγραμμα περιήγησης";
 "desktop_settings_section_course_display" = "Εμφάνιση μαθημάτων";
+"desktop_settings_section_interface" = "Διεπαφή";
+"desktop_settings_section_links" = "Σύνδεσμοι";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "Πρόγραμμα";
 "desktop_settings_sidebar_available" = "Διαθέσιμα";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "Εμφάνιση";
 "desktop_settings_tab_general" = "Γενικά";
 "desktop_settings_tab_sidebar" = "Πλαϊνή μπάρα";
+"desktop_widget_ends_in" = "Τελειώνει σε %@";
 "desktop_widget_more_count" = "+%1$d ακόμη";
 "desktop_widget_now" = "ΤΩΡΑ";
+"desktop_widget_starts_in" = "Ξεκινά σε %@";
 "desktop_widget_up_next" = "Επόμενο";
 "error_bulletin_decoding_failed_format" = "Αποτυχία ανάλυσης απάντησης ανακοινώσεων: %1$@";
 "error_bulletin_encoding_failed_format" = "Αποτυχία κωδικοποίησης αιτήματος ανακοινώσεων: %1$@";

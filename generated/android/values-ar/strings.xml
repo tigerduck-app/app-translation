@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">التحديث من بوابة درجات NTUST (⌘R)</string>
     <string name="desktop_score_term_value">العام الأكاديمي %1$s · الفصل %2$s</string>
     <string name="desktop_score_title">السجل الأكاديمي</string>
+    <string name="desktop_settings_moodle_open_in">فتح رابط Moodle في</string>
+    <string name="desktop_settings_moodle_open_in_app">تطبيق Moodle</string>
+    <string name="desktop_settings_moodle_open_in_browser">المتصفح</string>
     <string name="desktop_settings_section_course_display">عرض المقررات</string>
+    <string name="desktop_settings_section_interface">الواجهة</string>
+    <string name="desktop_settings_section_links">الروابط</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">الجدول</string>
     <string name="desktop_settings_sidebar_available">متاح</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">المظهر</string>
     <string name="desktop_settings_tab_general">عام</string>
     <string name="desktop_settings_tab_sidebar">الشريط الجانبي</string>
+    <string name="desktop_widget_ends_in">ينتهي خلال %@</string>
     <string name="desktop_widget_more_count">+%1$d إضافية</string>
     <string name="desktop_widget_now">الآن</string>
+    <string name="desktop_widget_starts_in">يبدأ خلال %@</string>
     <string name="desktop_widget_up_next">التالي</string>
     <string name="error_login_failed">فشل تسجيل الدخول</string>
     <string name="error_network_unavailable">تعذر الاتصال. يرجى التحقق من اتصال الشبكة.</string>

@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">NTUST گریڈ پورٹل سے تازہ کریں (⌘R)</string>
     <string name="desktop_score_term_value">تعلیمی سال %1$s · سمسٹر %2$s</string>
     <string name="desktop_score_title">تعلیمی ریکارڈ</string>
+    <string name="desktop_settings_moodle_open_in">Moodle لنک کھولیں</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle ایپ</string>
+    <string name="desktop_settings_moodle_open_in_browser">براؤزر</string>
     <string name="desktop_settings_section_course_display">کورس کی نمائش</string>
+    <string name="desktop_settings_section_interface">انٹرفیس</string>
+    <string name="desktop_settings_section_links">روابط</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">شیڈول</string>
     <string name="desktop_settings_sidebar_available">دستیاب</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">ظاہری شکل</string>
     <string name="desktop_settings_tab_general">جنرل</string>
     <string name="desktop_settings_tab_sidebar">سائیڈ بار</string>
+    <string name="desktop_widget_ends_in">%@ میں ختم ہوگا</string>
     <string name="desktop_widget_more_count">+%1$d اور</string>
     <string name="desktop_widget_now">ابھی</string>
+    <string name="desktop_widget_starts_in">%@ میں شروع ہوگا</string>
     <string name="desktop_widget_up_next">اگلا</string>
     <string name="error_login_failed">لاگ ان ناکام ہو گیا</string>
     <string name="error_network_unavailable">کنکشن ناممکن ہے۔ براہ کرم اپنا نیٹ ورک کنکشن چیک کریں۔</string>

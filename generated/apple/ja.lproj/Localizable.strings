@@ -256,7 +256,12 @@
 "desktop_score_refresh_help" = "NTUST 成績ポータルから取得(⌘R)";
 "desktop_score_term_value" = "%1$@ 学年度 · 第 %2$@ 学期";
 "desktop_score_title" = "成績記録";
+"desktop_settings_moodle_open_in" = "Moodleリンクを開く先";
+"desktop_settings_moodle_open_in_app" = "Moodleアプリ";
+"desktop_settings_moodle_open_in_browser" = "ブラウザ";
 "desktop_settings_section_course_display" = "授業の表示";
+"desktop_settings_section_interface" = "インターフェース";
+"desktop_settings_section_links" = "リンク";
 "desktop_settings_section_ntust" = "NTUST";
 "desktop_settings_section_schedule" = "スケジュール";
 "desktop_settings_sidebar_available" = "利用可能";
@@ -272,8 +277,10 @@
 "desktop_settings_tab_appearance" = "外観";
 "desktop_settings_tab_general" = "一般";
 "desktop_settings_tab_sidebar" = "サイドバー";
+"desktop_widget_ends_in" = "%@後に終了";
 "desktop_widget_more_count" = "ほか %1$d 件";
 "desktop_widget_now" = "進行中";
+"desktop_widget_starts_in" = "%@後に開始";
 "desktop_widget_up_next" = "次の授業";
 "error_bulletin_decoding_failed_format" = "お知らせの応答を解析できませんでした：%1$@";
 "error_bulletin_encoding_failed_format" = "お知らせのリクエストをエンコードできませんでした：%1$@";

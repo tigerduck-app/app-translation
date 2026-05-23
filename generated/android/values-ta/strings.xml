@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">Refresh from the NTUST score portal (⌘R)</string>
     <string name="desktop_score_term_value">%1$s Academic Year · Semester %2$s</string>
     <string name="desktop_score_title">Academic Record</string>
+    <string name="desktop_settings_moodle_open_in">Moodle இணைப்பைத் திறக்க</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle செயலி</string>
+    <string name="desktop_settings_moodle_open_in_browser">உலாவி</string>
     <string name="desktop_settings_section_course_display">Course display</string>
+    <string name="desktop_settings_section_interface">இடைமுகம்</string>
+    <string name="desktop_settings_section_links">இணைப்புகள்</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Appearance</string>
     <string name="desktop_settings_tab_general">General</string>
     <string name="desktop_settings_tab_sidebar">Sidebar</string>
+    <string name="desktop_widget_ends_in">%@ இல் முடியும்</string>
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
+    <string name="desktop_widget_starts_in">%@ இல் தொடங்கும்</string>
     <string name="desktop_widget_up_next">Up next</string>
     <string name="error_login_failed">லாக்-இன் தோல்வியடைந்தது</string>
     <string name="error_network_unavailable">இணைக்க முடியவில்லை. உங்கள் நெட்வொர்க் இணைப்பை சரிபார்க்கவும்.</string>

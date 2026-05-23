@@ -243,7 +243,12 @@
     <string name="desktop_score_refresh_help">NTUST not portalından yenile (⌘R)</string>
     <string name="desktop_score_term_value">Akademik yıl %1$s · Dönem %2$s</string>
     <string name="desktop_score_title">Akademik kayıt</string>
+    <string name="desktop_settings_moodle_open_in">Moodle bağlantısını aç</string>
+    <string name="desktop_settings_moodle_open_in_app">Moodle uygulaması</string>
+    <string name="desktop_settings_moodle_open_in_browser">Tarayıcı</string>
     <string name="desktop_settings_section_course_display">Ders görünümü</string>
+    <string name="desktop_settings_section_interface">Arayüz</string>
+    <string name="desktop_settings_section_links">Bağlantılar</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
     <string name="desktop_settings_section_schedule">Program</string>
     <string name="desktop_settings_sidebar_available">Mevcut</string>
@@ -259,8 +264,10 @@
     <string name="desktop_settings_tab_appearance">Görünüm</string>
     <string name="desktop_settings_tab_general">Genel</string>
     <string name="desktop_settings_tab_sidebar">Kenar çubuğu</string>
+    <string name="desktop_widget_ends_in">%@ sonra bitiyor</string>
     <string name="desktop_widget_more_count">+%1$d daha</string>
     <string name="desktop_widget_now">ŞİMDİ</string>
+    <string name="desktop_widget_starts_in">%@ sonra başlıyor</string>
     <string name="desktop_widget_up_next">Sıradaki</string>
     <string name="error_login_failed">Giriş başarısız</string>
     <string name="error_network_unavailable">Bağlanılamıyor. Lütfen ağ bağlantınızı kontrol edin.</string>
