@@ -22,12 +22,10 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
 
-
 REPO_ROOT = Path(__file__).resolve().parents[2]
 SOURCE_DIR = REPO_ROOT / "source"
 GENERATED_DIR = REPO_ROOT / "generated"
 CONFIG_PATH = REPO_ROOT / "config" / "locales.json"
-
 
 # ISO 639-1 language codes. Used to generate broad fallback resources so the app
 # has a selectable language for most system languages even before real
@@ -51,7 +49,8 @@ ISO_639_1: tuple[str, ...] = (
     "pa", "pi", "pl", "ps", "pt",
     "qu",
     "rm", "rn", "ro", "ru", "rw",
-    "sa", "sc", "sd", "se", "sg", "si", "sk", "sl", "sm", "sn", "so", "sq", "sr", "ss", "st", "su", "sv", "sw",
+    "sa", "sc", "sd", "se", "sg", "si", "sk", "sl", "sm", "sn", "so", "sq", "sr", "ss", "st", "su",
+    "sv", "sw",
     "ta", "te", "tg", "th", "ti", "tk", "tl", "tn", "to", "tr", "ts", "tt", "tw", "ty",
     "ug", "uk", "ur", "uz",
     "ve", "vi", "vo",
@@ -104,12 +103,12 @@ def _validate_grouped_source(locale: str, grouped: OrderedDict) -> None:
 def _atomic_write_text(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.NamedTemporaryFile(
-        mode="w",
-        encoding="utf-8",
-        delete=False,
-        dir=str(path.parent),
-        prefix=path.name + ".",
-        suffix=".tmp",
+            mode="w",
+            encoding="utf-8",
+            delete=False,
+            dir=str(path.parent),
+            prefix=path.name + ".",
+            suffix=".tmp",
     ) as tf:
         tf.write(content)
         tf.flush()
@@ -274,11 +273,11 @@ def _render_apple_strings(strings: OrderedDict) -> str:
 
 
 def _resolve_output_locales(
-    source_locales: Iterable[str],
-    aliases: dict[str, str],
-    extra_output_locales: Iterable[str],
-    *,
-    fallback_source_locale: str,
+        source_locales: Iterable[str],
+        aliases: dict[str, str],
+        extra_output_locales: Iterable[str],
+        *,
+        fallback_source_locale: str,
 ) -> dict[str, str]:
     # Returns outputLocale -> baseSourceLocale.
     resolved: dict[str, str] = {loc: loc for loc in source_locales}
@@ -342,7 +341,8 @@ def generate(*, validate_only: bool) -> None:
     # Android
     for out_locale, base_locale in sorted(android_outputs.items()):
         if base_locale not in android_flat:
-            raise SystemExit(f"Android alias '{out_locale}' points to missing source locale '{base_locale}'")
+            raise SystemExit(
+                f"Android alias '{out_locale}' points to missing source locale '{base_locale}'")
         out_dir_name = _android_dir_for_locale(out_locale, cfg)
         out_path = GENERATED_DIR / "android" / out_dir_name / "strings.xml"
         content = _render_android_strings_xml(android_flat[base_locale])
@@ -351,7 +351,8 @@ def generate(*, validate_only: bool) -> None:
     # apple
     for out_locale, base_locale in sorted(apple_outputs.items()):
         if base_locale not in apple_flat:
-            raise SystemExit(f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
+            raise SystemExit(
+                f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
         out_path = GENERATED_DIR / "apple" / f"{out_locale}.lproj" / "Localizable.strings"
         content = _render_apple_strings(apple_flat[base_locale])
         _atomic_write_text(out_path, content)
@@ -371,4 +372,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

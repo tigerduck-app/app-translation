@@ -5,13 +5,13 @@ This folder is the shared translation source for both Android and Apple.
 ## Structure
 
 - `source/`
-  - `en.json`
-  - `zh-Hant.json`
+    - `en.json`
+    - `zh-Hant.json`
 - `generated/`
-  - `android/values/strings.xml`
-  - `android/values-en/strings.xml`
-  - `apple/en.lproj/Localizable.strings`
-  - `apple/zh-Hant.lproj/Localizable.strings`
+    - `android/values/strings.xml`
+    - `android/values-en/strings.xml`
+    - `apple/en.lproj/Localizable.strings`
+    - `apple/zh-Hant.lproj/Localizable.strings`
 
 ## Update workflow
 
