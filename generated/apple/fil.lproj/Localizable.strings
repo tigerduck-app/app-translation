@@ -346,6 +346,7 @@
 "greeting_evening" = "Magandang gabi po";
 "greeting_morning" = "Magandang umaga po";
 "greeting_very_early" = "gising pa?";
+"haptic_scenario_flip_to_library" = "I-flip para buksan ang library";
 "home_add_section_title" = "Magdagdag ng seksyon";
 "home_assignments_all_good" = "Ayos naman";
 "home_assignments_ignore_hint" = "Mag-swipe pakaliwa sa isang takdang-aralin para balewalain ito";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Kulay na tema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Feedback / Mag-ulat ng isyu";
+"settings_flip_to_library_summary" = "I-flip ang telepono naka-mukha ang screen pababa para buksan ang library QR.";
+"settings_flip_to_library_title" = "I-flip para ipakita ang library QR";
+"settings_flip_to_library_unsupported" = "Wala sa iyong device ang kinakailangang sensor.";
 "settings_invert_slider_direction" = "I-invert ang direksyon ng slider";
 "settings_language" = "Wika (Language)";
 "settings_language_english" = "English";

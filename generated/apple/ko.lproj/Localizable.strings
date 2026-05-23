@@ -346,6 +346,7 @@
 "greeting_evening" = "좋은 저녁";
 "greeting_morning" = "좋은 아침";
 "greeting_very_early" = "아직도 깨어있어?";
+"haptic_scenario_flip_to_library" = "뒤집어서 도서관 열기";
 "home_add_section_title" = "섹션 추가";
 "home_assignments_all_good" = "모든 일이 순조로워요";
 "home_assignments_ignore_hint" = "과제를 왼쪽으로 스와이프하면 무시할 수 있습니다";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "색상 테마";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "피드백 / 문제 신고";
+"settings_flip_to_library_summary" = "화면을 아래로 뒤집으면 도서관 QR이 열립니다.";
+"settings_flip_to_library_title" = "뒤집어서 도서관 QR 표시";
+"settings_flip_to_library_unsupported" = "이 기기에는 필요한 센서가 없습니다.";
 "settings_invert_slider_direction" = "슬라이더 방향 반전";
 "settings_language" = "언어 (Language)";
 "settings_language_english" = "English";

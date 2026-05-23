@@ -346,6 +346,7 @@
 "greeting_evening" = "Bona tarda";
 "greeting_morning" = "Bon dia";
 "greeting_very_early" = "Encara aixecat?";
+"haptic_scenario_flip_to_library" = "Gira per obrir la biblioteca";
 "home_add_section_title" = "Afegeix una secció";
 "home_assignments_all_good" = "Tot en ordre";
 "home_assignments_ignore_hint" = "Llisqueu a l'esquerra sobre una tasca per ignorar-la";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Tema de color";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Comentaris / Informeu d'un problema";
+"settings_flip_to_library_summary" = "Gira el telèfon amb la pantalla cap avall per obrir el QR de la biblioteca.";
+"settings_flip_to_library_title" = "Gira per mostrar el QR de la biblioteca";
+"settings_flip_to_library_unsupported" = "El teu dispositiu no té el sensor necessari.";
 "settings_invert_slider_direction" = "Inverteix la direcció del control lliscant";
 "settings_language" = "Idioma (Language)";
 "settings_language_english" = "Anglès";

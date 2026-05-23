@@ -346,6 +346,7 @@
 "greeting_evening" = "Chào buổi tối";
 "greeting_morning" = "Chào buổi sáng";
 "greeting_very_early" = "Vẫn còn thức?";
+"haptic_scenario_flip_to_library" = "Lật để mở thư viện";
 "home_add_section_title" = "Thêm mục";
 "home_assignments_all_good" = "Mọi thứ ổn";
 "home_assignments_ignore_hint" = "Vuốt sang trái trên bài tập để bỏ qua";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Chủ đề màu";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Phản hồi / Báo lỗi";
+"settings_flip_to_library_summary" = "Lật điện thoại úp màn hình xuống để mở QR thư viện.";
+"settings_flip_to_library_title" = "Lật để hiển thị QR thư viện";
+"settings_flip_to_library_unsupported" = "Thiết bị của bạn không có cảm biến cần thiết.";
 "settings_invert_slider_direction" = "Đảo hướng thanh trượt";
 "settings_language" = "Ngôn ngữ (Language)";
 "settings_language_english" = "English";

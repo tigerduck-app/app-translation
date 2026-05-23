@@ -346,6 +346,7 @@
 "greeting_evening" = "Geros nakties";
 "greeting_morning" = "Sveika ryto";
 "greeting_very_early" = "Dar atbusti?";
+"haptic_scenario_flip_to_library" = "Apversti ir atidaryti biblioteką";
 "home_add_section_title" = "Pridėti skyrių";
 "home_assignments_all_good" = "Viskas gerai";
 "home_assignments_ignore_hint" = "Braukite kairėn ant užduoties, kad ją ignoruotumėte";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Spalvų tema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Atsiliepimai / Pranešti apie klaidą";
+"settings_flip_to_library_summary" = "Apverskite telefoną ekranu žemyn, kad atidarytumėte bibliotekos QR.";
+"settings_flip_to_library_title" = "Apversti, kad rodytų bibliotekos QR";
+"settings_flip_to_library_unsupported" = "Jūsų įrenginyje nėra reikiamo jutiklio.";
 "settings_invert_slider_direction" = "Apversti slankiklio kryptį";
 "settings_language" = "Kalba (Language)";
 "settings_language_english" = "Anglų";

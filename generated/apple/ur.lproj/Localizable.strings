@@ -346,6 +346,7 @@
 "greeting_evening" = "شام بخیر";
 "greeting_morning" = "صبح بخیر";
 "greeting_very_early" = "ابھی جاگ رہے ہو؟";
+"haptic_scenario_flip_to_library" = "لائبریری کھولنے کے لیے پلٹائیں";
 "home_add_section_title" = "سیکشن شامل کریں";
 "home_assignments_all_good" = "سب ٹھیک ہے";
 "home_assignments_ignore_hint" = "اسائنمنٹ کو نظرانداز کرنے کے لیے بائیں سوائپ کریں";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "رنگ تھیم";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "رائے / مسئلہ رپورٹ کریں";
+"settings_flip_to_library_summary" = "لائبریری QR کھولنے کے لیے فون کو اسکرین نیچے کر کے پلٹائیں۔";
+"settings_flip_to_library_title" = "لائبریری QR دکھانے کے لیے پلٹائیں";
+"settings_flip_to_library_unsupported" = "آپ کے آلے میں مطلوبہ سینسر نہیں ہے۔";
 "settings_invert_slider_direction" = "سلائیڈر کی سمت پلٹائیں";
 "settings_language" = "(Language) زبان";
 "settings_language_english" = "انگریزی";

@@ -346,6 +346,7 @@
 "greeting_evening" = "Dobra večer";
 "greeting_morning" = "Dobro jutro";
 "greeting_very_early" = "Još uvijek budan?";
+"haptic_scenario_flip_to_library" = "Preokreni za otvaranje knjižnice";
 "home_add_section_title" = "Dodaj odjeljak";
 "home_assignments_all_good" = "Sve je u redu";
 "home_assignments_ignore_hint" = "Prijeđite prstom ulijevo po zadatku da biste ga ignorirali";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Tema boja";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Povratne informacije / Prijava problema";
+"settings_flip_to_library_summary" = "Preokrenite telefon zaslonom prema dolje da otvorite QR knjižnice.";
+"settings_flip_to_library_title" = "Preokreni za prikaz QR-a knjižnice";
+"settings_flip_to_library_unsupported" = "Uređaj nema potrebni senzor.";
 "settings_invert_slider_direction" = "Obrni smjer klizača";
 "settings_language" = "Jezik (Language)";
 "settings_language_english" = "English";

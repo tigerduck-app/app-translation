@@ -346,6 +346,7 @@
 "greeting_evening" = "ਸਤ ਸ੍ਰੀ ਅਕਾਲ";
 "greeting_morning" = "ਸਤ ਸ੍ਰੀ ਅਕਾਲ";
 "greeting_very_early" = "ਅਜੇ ਜਾਗ ਰਹੇ ਹੋ?";
+"haptic_scenario_flip_to_library" = "ਲਾਇਬ੍ਰੇਰੀ ਖੋਲ੍ਹਣ ਲਈ ਫਲਿੱਪ ਕਰੋ";
 "home_add_section_title" = "ਭਾਗ ਜੋੜੋ";
 "home_assignments_all_good" = "ਸਭ ਠੀਕ ਹੈ";
 "home_assignments_ignore_hint" = "ਅਸਾਈਨਮੈਂਟ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰਨ ਲਈ ਖੱਬੇ ਸਵਾਈਪ ਕਰੋ";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "ਰੰਗ ਥੀਮ";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "ਫੀਡਬੈਕ / ਸਮੱਸਿਆ ਰਿਪੋਰਟ ਕਰੋ";
+"settings_flip_to_library_summary" = "ਲਾਇਬ੍ਰੇਰੀ QR ਖੋਲ੍ਹਣ ਲਈ ਫ਼ੋਨ ਨੂੰ ਸਕਰੀਨ ਹੇਠਾਂ ਕਰਕੇ ਫਲਿੱਪ ਕਰੋ।";
+"settings_flip_to_library_title" = "ਲਾਇਬ੍ਰੇਰੀ QR ਦਿਖਾਉਣ ਲਈ ਫਲਿੱਪ ਕਰੋ";
+"settings_flip_to_library_unsupported" = "ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਵਿੱਚ ਲੋੜੀਂਦਾ ਸੈਂਸਰ ਨਹੀਂ ਹੈ।";
 "settings_invert_slider_direction" = "ਸਲਾਈਡਰ ਦਿਸ਼ਾ ਉਲਟੀ ਕਰੋ";
 "settings_language" = "ਭਾਸ਼ਾ (Language)";
 "settings_language_english" = "ਅੰਗਰੇਜ਼ੀ";

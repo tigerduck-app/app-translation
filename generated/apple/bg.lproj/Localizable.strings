@@ -346,6 +346,7 @@
 "greeting_evening" = "Добър вечер";
 "greeting_morning" = "добро утро";
 "greeting_very_early" = "Още ли сте на крака?";
+"haptic_scenario_flip_to_library" = "Обърни, за да отвориш библиотеката";
 "home_add_section_title" = "Добавяне на секция";
 "home_assignments_all_good" = "Всичко е наред";
 "home_assignments_ignore_hint" = "Плъзнете наляво върху задание, за да го игнорирате";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Цветова тема";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Обратна връзка / Докладване на проблем";
+"settings_flip_to_library_summary" = "Обърни телефона с екрана надолу, за да отвориш QR на библиотеката.";
+"settings_flip_to_library_title" = "Обърни за показване на QR на библиотеката";
+"settings_flip_to_library_unsupported" = "Устройството ти няма необходимия сензор.";
 "settings_invert_slider_direction" = "Обръщане на посоката на плъзгача";
 "settings_language" = "Език (Language)";
 "settings_language_english" = "English";

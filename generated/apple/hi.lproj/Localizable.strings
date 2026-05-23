@@ -346,6 +346,7 @@
 "greeting_evening" = "शुभ संध्या";
 "greeting_morning" = "सुप्रभात";
 "greeting_very_early" = "अभी भी जाग रहे हो?";
+"haptic_scenario_flip_to_library" = "लाइब्रेरी खोलने के लिए पलटें";
 "home_add_section_title" = "सेक्शन जोड़ें";
 "home_assignments_all_good" = "सब ठीक है";
 "home_assignments_ignore_hint" = "असाइनमेंट को अनदेखा करने के लिए बाईं ओर स्वाइप करें";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "रंग थीम";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "फीडबैक / समस्या रिपोर्ट करें";
+"settings_flip_to_library_summary" = "लाइब्रेरी QR खोलने के लिए फ़ोन को स्क्रीन नीचे करके पलटें।";
+"settings_flip_to_library_title" = "लाइब्रेरी QR दिखाने के लिए पलटें";
+"settings_flip_to_library_unsupported" = "आपके डिवाइस में आवश्यक सेंसर नहीं है।";
 "settings_invert_slider_direction" = "स्लाइडर दिशा उलटें";
 "settings_language" = "भाषा (Language)";
 "settings_language_english" = "English";

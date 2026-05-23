@@ -346,6 +346,7 @@
 "greeting_evening" = "Jó estét";
 "greeting_morning" = "Jó reggelt";
 "greeting_very_early" = "Még ébren?";
+"haptic_scenario_flip_to_library" = "Fordítsd meg a könyvtár megnyitásához";
 "home_add_section_title" = "Szekció hozzáadása";
 "home_assignments_all_good" = "Minden rendben";
 "home_assignments_ignore_hint" = "Csúsztassa balra a házi feladatot a figyelmen kívül hagyáshoz";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Színtéma";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Visszajelzés / Hibabejelentés";
+"settings_flip_to_library_summary" = "Fordítsd az okostelefont képernyővel lefelé a könyvtári QR-kód megnyitásához.";
+"settings_flip_to_library_title" = "Fordítsd meg a könyvtári QR-kód megjelenítéséhez";
+"settings_flip_to_library_unsupported" = "Az eszközödnek nincs meg a szükséges érzékelője.";
 "settings_invert_slider_direction" = "Csúszka irányának megfordítása";
 "settings_language" = "Nyelv (Language)";
 "settings_language_english" = "Angol";

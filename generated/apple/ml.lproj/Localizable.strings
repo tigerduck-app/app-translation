@@ -346,6 +346,7 @@
 "greeting_evening" = "നല്ലരാത്രി";
 "greeting_morning" = "നല്ലരാവ്";
 "greeting_very_early" = "ഇപ്പോഴും ഉണർന്നിരിക്കുന്നോ?";
+"haptic_scenario_flip_to_library" = "ലൈബ്രറി തുറക്കാൻ മറിക്കുക";
 "home_add_section_title" = "വിഭാഗം ചേർക്കുക";
 "home_assignments_all_good" = "എല്ലാം ശരിയാണ്";
 "home_assignments_ignore_hint" = "ഒരു അസൈൻമെന്റ് അവഗണിക്കാൻ ഇടത്തേക്ക് സ്വൈപ്പ് ചെയ്യുക";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "നിറ തീം";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക";
+"settings_flip_to_library_summary" = "ലൈബ്രറി QR തുറക്കാൻ ഫോൺ സ്ക്രീൻ താഴ്ത്തി മറിക്കുക.";
+"settings_flip_to_library_title" = "ലൈബ്രറി QR കാണിക്കാൻ മറിക്കുക";
+"settings_flip_to_library_unsupported" = "നിങ്ങളുടെ ഉപകരണത്തിൽ ആവശ്യമായ സെൻസർ ഇല്ല.";
 "settings_invert_slider_direction" = "സ്ലൈഡർ ദിശ നേർമാറ്റം ചെയ്യുക";
 "settings_language" = "ഭാഷ (Language)";
 "settings_language_english" = "English";

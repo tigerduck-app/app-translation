@@ -346,6 +346,7 @@
 "greeting_evening" = "Добра вечер";
 "greeting_morning" = "Добро јутро";
 "greeting_very_early" = "Још се будиш?";
+"haptic_scenario_flip_to_library" = "Окрени за отварање библиотеке";
 "home_add_section_title" = "Додај секцију";
 "home_assignments_all_good" = "Све је у реду";
 "home_assignments_ignore_hint" = "Превуците задатак улево да бисте га игнорисали";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Тема боја";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Повратне информације / Пријави проблем";
+"settings_flip_to_library_summary" = "Окрените телефон екраном надоле да отворите QR библиотеке.";
+"settings_flip_to_library_title" = "Окрени за приказ QR-а библиотеке";
+"settings_flip_to_library_unsupported" = "Ваш уређај нема потребни сензор.";
 "settings_invert_slider_direction" = "Обрни смер клизача";
 "settings_language" = "Језик (Language)";
 "settings_language_english" = "Енглески";

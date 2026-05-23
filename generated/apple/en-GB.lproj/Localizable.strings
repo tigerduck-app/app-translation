@@ -346,6 +346,7 @@
 "greeting_evening" = "Good evening";
 "greeting_morning" = "Good morning";
 "greeting_very_early" = "Still up?";
+"haptic_scenario_flip_to_library" = "Flip to open library";
 "home_add_section_title" = "Add section";
 "home_assignments_all_good" = "All good";
 "home_assignments_ignore_hint" = "Swipe left on an assignment to ignore it";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Colour theme";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Feedback / Report issue";
+"settings_flip_to_library_summary" = "Flip your phone face-down to open the library QR.";
+"settings_flip_to_library_title" = "Flip to show library QR";
+"settings_flip_to_library_unsupported" = "Your device doesn't have the required sensor.";
 "settings_invert_slider_direction" = "Invert slider direction";
 "settings_language" = "Language";
 "settings_language_english" = "English";

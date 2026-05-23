@@ -346,6 +346,7 @@
 "greeting_evening" = "晚上好";
 "greeting_morning" = "早晨";
 "greeting_very_early" = "还没睡呢？";
+"haptic_scenario_flip_to_library" = "翻转打开图书馆";
 "home_add_section_title" = "添加区块";
 "home_assignments_all_good" = "一切顺利";
 "home_assignments_ignore_hint" = "向左滑动作业以将其忽略";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "颜色主题";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "回馈/问题回报";
+"settings_flip_to_library_summary" = "将手机屏幕朝下即可打开图书馆 QR。";
+"settings_flip_to_library_title" = "翻转显示图书馆 QR";
+"settings_flip_to_library_unsupported" = "此设备缺少所需的传感器。";
 "settings_invert_slider_direction" = "反转滑条方向";
 "settings_language" = "语言 (Language)";
 "settings_language_english" = "English";

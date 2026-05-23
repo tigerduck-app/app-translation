@@ -346,6 +346,7 @@
 "greeting_evening" = "晚安";
 "greeting_morning" = "早晨";
 "greeting_very_early" = "仲未瞓？";
+"haptic_scenario_flip_to_library" = "翻轉開圖書館";
 "home_add_section_title" = "新增區塊";
 "home_assignments_all_good" = "一切順利";
 "home_assignments_ignore_hint" = "向左滑動作業以將其忽略";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "顏色主題";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "回饋/問題回報";
+"settings_flip_to_library_summary" = "將手機屏幕向下即可開啟圖書館 QR。";
+"settings_flip_to_library_title" = "翻轉顯示圖書館 QR";
+"settings_flip_to_library_unsupported" = "此裝置冇所需嘅感應器。";
 "settings_invert_slider_direction" = "反轉滑條方向";
 "settings_language" = "語言 (Language)";
 "settings_language_english" = "English";

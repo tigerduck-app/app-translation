@@ -346,6 +346,7 @@
 "greeting_evening" = "Boa noite";
 "greeting_morning" = "Bom dia";
 "greeting_very_early" = "Ainda acordado?";
+"haptic_scenario_flip_to_library" = "Virar para abrir a biblioteca";
 "home_add_section_title" = "Adicionar secção";
 "home_assignments_all_good" = "Está tudo bem";
 "home_assignments_ignore_hint" = "Desliza um trabalho para a esquerda para o ignorares";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Tema de cores";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Comentários / Reportar problema";
+"settings_flip_to_library_summary" = "Vire o telemóvel com o ecrã para baixo para abrir o QR da biblioteca.";
+"settings_flip_to_library_title" = "Virar para mostrar o QR da biblioteca";
+"settings_flip_to_library_unsupported" = "O seu dispositivo não tem o sensor necessário.";
 "settings_invert_slider_direction" = "Inverter direção do cursor";
 "settings_language" = "Idioma (Language)";
 "settings_language_english" = "Inglês";

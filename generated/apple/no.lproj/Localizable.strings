@@ -346,6 +346,7 @@
 "greeting_evening" = "God kveld";
 "greeting_morning" = "God morgen";
 "greeting_very_early" = "Fortsatt våken?";
+"haptic_scenario_flip_to_library" = "Snu for å åpne biblioteket";
 "home_add_section_title" = "Legg til seksjon";
 "home_assignments_all_good" = "Alt er bra";
 "home_assignments_ignore_hint" = "Sveip en oppgave til venstre for å ignorere den";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Fargetema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Tilbakemelding / Rapporter problem";
+"settings_flip_to_library_summary" = "Snu telefonen med skjermen ned for å åpne bibliotekets QR.";
+"settings_flip_to_library_title" = "Snu for å vise bibliotekets QR";
+"settings_flip_to_library_unsupported" = "Enheten mangler den nødvendige sensoren.";
 "settings_invert_slider_direction" = "Inverter glidebryterens retning";
 "settings_language" = "Språk (Language)";
 "settings_language_english" = "Engelsk";

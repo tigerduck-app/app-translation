@@ -346,6 +346,7 @@
 "greeting_evening" = "நல்ல மாலை";
 "greeting_morning" = "காலை வணக்கம்";
 "greeting_very_early" = "இன்னும் விழித்திருக்கிறாய்?";
+"haptic_scenario_flip_to_library" = "நூலகம் திறக்க திருப்பவும்";
 "home_add_section_title" = "பிரிவு சேர்";
 "home_assignments_all_good" = "அனைத்தும் சரியாக உள்ளது";
 "home_assignments_ignore_hint" = "ஒப்படைப்பை புறக்கணிக்க இடதுபுறமாக ஸ்வைப் செய்யவும்";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "நிற தீம்";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "கருத்து / சிக்கல் அறிக்கை";
+"settings_flip_to_library_summary" = "நூலக QR திறக்க தொலைபேசியை திரை கீழே வைத்து திருப்பவும்.";
+"settings_flip_to_library_title" = "நூலக QR காட்ட திருப்பவும்";
+"settings_flip_to_library_unsupported" = "உங்கள் சாதனத்தில் தேவையான சென்சார் இல்லை.";
 "settings_invert_slider_direction" = "ஸ்லைடர் திசையை மாற்று";
 "settings_language" = "மொழி (Language)";
 "settings_language_english" = "English";

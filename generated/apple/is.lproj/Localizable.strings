@@ -346,6 +346,7 @@
 "greeting_evening" = "Gott kvöldið";
 "greeting_morning" = "Góðan daginn";
 "greeting_very_early" = "Enn þá vakandi?";
+"haptic_scenario_flip_to_library" = "Snúa til að opna bókasafnið";
 "home_add_section_title" = "Bæta við hluta";
 "home_assignments_all_good" = "Allt í lagi";
 "home_assignments_ignore_hint" = "Strjúktu til vinstri á verkefni til að hunsa það";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Litaþema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Endurgjöf / Tilkynna villu";
+"settings_flip_to_library_summary" = "Snúðu símann með skjánum niður til að opna QR kóða bókasafnsins.";
+"settings_flip_to_library_title" = "Snúa til að sýna QR kóða bókasafnsins";
+"settings_flip_to_library_unsupported" = "Tækið er ekki með nauðsynlegan skynjara.";
 "settings_invert_slider_direction" = "Snúa sleðastefnu við";
 "settings_language" = "Tungumál (Language)";
 "settings_language_english" = "Enska";

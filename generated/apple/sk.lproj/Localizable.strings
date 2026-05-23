@@ -346,6 +346,7 @@
 "greeting_evening" = "Dobrý večer";
 "greeting_morning" = "Dobré ráno";
 "greeting_very_early" = "Ešte omamený?";
+"haptic_scenario_flip_to_library" = "Otočiť a otvoriť knižnicu";
 "home_add_section_title" = "Pridať sekciu";
 "home_assignments_all_good" = "Všetko v poriadku";
 "home_assignments_ignore_hint" = "Potiahnutím úlohy doľava ju ignorujete";
@@ -588,6 +589,9 @@
 "settings_color_theme" = "Farebná téma";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Spätná väzba / Nahlásenie problému";
+"settings_flip_to_library_summary" = "Otočte telefón obrazovkou nadol a otvoríte QR knižnice.";
+"settings_flip_to_library_title" = "Otočiť pre zobrazenie QR knižnice";
+"settings_flip_to_library_unsupported" = "Vaše zariadenie nemá potrebný senzor.";
 "settings_invert_slider_direction" = "Invertovať smer posuvníka";
 "settings_language" = "Jazyk (Language)";
 "settings_language_english" = "Angličtina";
