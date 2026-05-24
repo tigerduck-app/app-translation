@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "Užduočių terminų priminimai";
 "settings_browser_in_app" = "Programos vidaus naršyklė";
 "settings_browser_system_default" = "Numatytoji sistemos naršyklė";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "Kai klasės pavadinimas yra kinų kalba";
 "settings_classroom_mandarin_display_original" = "Rodyti originalą";
 "settings_classroom_mandarin_display_pinyin" = "Rodyti pinyin";
@@ -646,6 +647,8 @@
 "settings_section_display" = "Rodymas";
 "settings_section_notifications" = "Pranešimai";
 "settings_section_other_settings" = "Kiti nustatymai";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "Rodyti pilną datą užduoties terminui";
 "settings_theme_dark" = "Tamsus režimas";
 "settings_theme_light" = "Šviesus režimas";
@@ -656,6 +659,7 @@
 "settings_version" = "Versija";
 "settings_view_source_code" = "Peržiūrėti šaltinio kodą";
 "settings_visual_preset_label" = "Sąsajos stilius";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "Ši programa";
 "source_code_picker_org_description" = "Organizacija";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "Galimi skirtukai";
 "tab_editor_section_current_tabs" = "Dabartiniai skirtukai";
 "tab_editor_title" = "Skirtukų redaktorius";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "Atnaujinimas atsisiųstas ir paruoštas diegti.";
 "update_restart_action" = "Paleisti iš naujo";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "Atgal";
 "watch_course_classroom_label" = "Klasė";
 "watch_course_detail_title" = "Kursas";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "Kt";
 "weekday_tue_short" = "An";
 "weekday_wed_short" = "Tr";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "Vienu bakstelėjimu atidarykite virtualaus bibliotekos leidimo QR kodą";
 "widget_library_shortcut_label" = "Bibliotekos QR spartinys";
 "widget_library_shortcut_title" = "Biblioteka";

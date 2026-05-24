@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "Nhắc bài tập sắp đến hạn";
 "settings_browser_in_app" = "Trình duyệt trong ứng dụng";
 "settings_browser_system_default" = "Trình duyệt mặc định của hệ thống";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "Khi tên phòng học bằng tiếng Trung";
 "settings_classroom_mandarin_display_original" = "Hiển thị nguyên gốc";
 "settings_classroom_mandarin_display_pinyin" = "Hiển thị Bính âm";
@@ -646,6 +647,8 @@
 "settings_section_display" = "Hiển thị";
 "settings_section_notifications" = "Thông báo";
 "settings_section_other_settings" = "Cài đặt khác";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "Hiển thị ngày đầy đủ cho thời hạn bài tập";
 "settings_theme_dark" = "Chế độ tối";
 "settings_theme_light" = "Chế độ sáng";
@@ -656,6 +659,7 @@
 "settings_version" = "Phiên bản";
 "settings_view_source_code" = "Xem mã nguồn";
 "settings_visual_preset_label" = "Giao diện";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "Ứng dụng hiện tại";
 "source_code_picker_org_description" = "Tổ chức";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "Tab có sẵn";
 "tab_editor_section_current_tabs" = "Tab hiện tại";
 "tab_editor_title" = "Trình chỉnh sửa Tab";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "Bản cập nhật đã tải xong, sẵn sàng cài đặt.";
 "update_restart_action" = "Khởi động lại";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "Trở lại";
 "watch_course_classroom_label" = "Lớp học";
 "watch_course_detail_title" = "Khóa học";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "T5";
 "weekday_tue_short" = "T3";
 "weekday_wed_short" = "T4";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "Mở QR Code thẻ vào thư viện ảo chỉ với một chạm";
 "widget_library_shortcut_label" = "Lối tắt QR thư viện";
 "widget_library_shortcut_title" = "Thư viện";

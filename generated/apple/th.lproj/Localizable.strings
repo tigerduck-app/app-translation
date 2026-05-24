@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "การแจ้งเตือนการบ้านใกล้ครบกำหนด";
 "settings_browser_in_app" = "เบราว์เซอร์ในแอป";
 "settings_browser_system_default" = "เบราว์เซอร์เริ่มต้นของระบบ";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "เมื่อชื่อห้องเรียนเป็นภาษาจีน";
 "settings_classroom_mandarin_display_original" = "แสดงต้นฉบับ";
 "settings_classroom_mandarin_display_pinyin" = "แสดงพินอิน";
@@ -646,6 +647,8 @@
 "settings_section_display" = "การแสดงผล";
 "settings_section_notifications" = "การแจ้งเตือน";
 "settings_section_other_settings" = "การตั้งค่าอื่นๆ";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "แสดงวันที่เต็มสำหรับเวลาครบกำหนดการบ้าน";
 "settings_theme_dark" = "โหมดมืด";
 "settings_theme_light" = "โหมดสว่าง";
@@ -656,6 +659,7 @@
 "settings_version" = "เวอร์ชัน";
 "settings_view_source_code" = "ดูซอร์สโค้ด";
 "settings_visual_preset_label" = "รูปแบบอินเทอร์เฟซ";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "แอปนี้";
 "source_code_picker_org_description" = "องค์กร";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "แท็บที่ใช้ได้";
 "tab_editor_section_current_tabs" = "แท็บปัจจุบัน";
 "tab_editor_title" = "ตัวแก้ไขแท็บ";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "อัปเดตดาวน์โหลดเสร็จแล้ว พร้อมติดตั้ง";
 "update_restart_action" = "รีสตาร์ท";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "ย้อนกลับ";
 "watch_course_classroom_label" = "ห้องเรียน";
 "watch_course_detail_title" = "วิชา";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "พฤ.";
 "weekday_tue_short" = "อ.";
 "weekday_wed_short" = "พ.";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "เปิด QR Code บัตรเข้าห้องสมุดเสมือนได้ในแตะเดียว";
 "widget_library_shortcut_label" = "ทางลัด QR ห้องสมุด";
 "widget_library_shortcut_title" = "ห้องสมุด";

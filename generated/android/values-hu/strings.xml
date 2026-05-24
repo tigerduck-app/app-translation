@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">Házi feladat határidő emlékeztetők</string>
     <string name="settings_browser_in_app">Alkalmazáson belüli böngésző</string>
     <string name="settings_browser_system_default">Rendszer alapértelmezett böngésző</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">Ha a tanterem neve kínaiul van</string>
     <string name="settings_classroom_mandarin_display_original">Eredeti megjelenítése</string>
     <string name="settings_classroom_mandarin_display_pinyin">Pinyin megjelenítése</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">Megjelenítés</string>
     <string name="settings_section_notifications">Értesítések</string>
     <string name="settings_section_other_settings">Egyéb beállítások</string>
+    <string name="settings_server_push_footer">Receive one-off notifications sent manually by the operator. Default on.</string>
+    <string name="settings_server_push_label">Server notifications</string>
     <string name="settings_show_absolute_assignment_time">Teljes dátum megjelenítése a házi feladat határidejénél</string>
     <string name="settings_theme_dark">Sötét mód</string>
     <string name="settings_theme_light">Világos mód</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">Verzió</string>
     <string name="settings_view_source_code">Forráskód megtekintése</string>
     <string name="settings_visual_preset_label">Felület stílusa</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">Jelenlegi app</string>
     <string name="source_code_picker_org_description">Szervezet</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">Elérhető lapok</string>
     <string name="tab_editor_section_current_tabs">Jelenlegi lapok</string>
     <string name="tab_editor_title">Lap szerkesztő</string>
+    <string name="tag_server_notification">Server notification</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">A frissítés letöltve, telepítésre kész.</string>
     <string name="update_restart_action">Újraindítás</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">Egyes telefonokon alacsonyabb minőségű vibrációs motor van, amely figyelmen kívül hagyhatja a nagyon gyenge vagy nagyon rövid rezgéseket. Ha nem érez egy beállítást, próbálja növelni annak erősségét vagy hosszát. Kezdheti a \"Közepes\" előbeállítás kipróbálásával.</string>
     <string name="vibration_settings_revert">Alapértelmezett visszaállítása</string>
     <string name="vibration_settings_section_length_ms">Időtartam (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">Cs</string>
     <string name="weekday_tue_short">K</string>
     <string name="weekday_wed_short">Sze</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">Nyissa meg a virtuális könyvtári belépőkártya QR-kódját egy koppintással</string>
     <string name="widget_library_shortcut_label">Könyvtár QR-kód parancsikon</string>
     <string name="widget_library_shortcut_title">Könyvtár</string>

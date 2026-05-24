@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">تذكيرات استحقاق الواجبات</string>
     <string name="settings_browser_in_app">متصفح داخل التطبيق</string>
     <string name="settings_browser_system_default">متصفح النظام الافتراضي</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">عند كون اسم القاعة باللغة الصينية</string>
     <string name="settings_classroom_mandarin_display_original">عرض الأصلي</string>
     <string name="settings_classroom_mandarin_display_pinyin">عرض بينيين</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">العرض</string>
     <string name="settings_section_notifications">الإشعارات</string>
     <string name="settings_section_other_settings">إعدادات أخرى</string>
+    <string name="settings_server_push_footer">Receive one-off notifications sent manually by the operator. Default on.</string>
+    <string name="settings_server_push_label">Server notifications</string>
     <string name="settings_show_absolute_assignment_time">عرض التاريخ الكامل لموعد استحقاق الواجب</string>
     <string name="settings_theme_dark">الوضع الداكن</string>
     <string name="settings_theme_light">الوضع الفاتح</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">الإصدار</string>
     <string name="settings_view_source_code">عرض الكود المصدري</string>
     <string name="settings_visual_preset_label">نمط الواجهة</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">التطبيق الحالي</string>
     <string name="source_code_picker_org_description">منظمة</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">التبويبات المتاحة</string>
     <string name="tab_editor_section_current_tabs">التبويبات الحالية</string>
     <string name="tab_editor_title">محرر التبويبات</string>
+    <string name="tag_server_notification">Server notification</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">التحديث جاهز للتثبيت.</string>
     <string name="update_restart_action">إعادة التشغيل</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">تعاني بعض الهواتف من محركات اهتزاز منخفضة الجودة قد تتجاهل الاهتزازات الضعيفة جداً أو القصيرة جداً. إذا كنت لا تشعر بالإعداد، حاول رفع قوته أو مدته. يمكنك البدء بتجربة الإعداد المسبق \"متوسط\" أولاً.</string>
     <string name="vibration_settings_revert">إعادة إلى الافتراضي</string>
     <string name="vibration_settings_section_length_ms">المدة (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">الخميس</string>
     <string name="weekday_tue_short">الثلاثاء</string>
     <string name="weekday_wed_short">الأربعاء</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">افتح QR Code تصريح المكتبة الافتراضي بضغطة واحدة</string>
     <string name="widget_library_shortcut_label">اختصار QR Code للمكتبة</string>
     <string name="widget_library_shortcut_title">المكتبة</string>

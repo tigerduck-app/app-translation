@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "Ülesande tähtaja meeldetuletused";
 "settings_browser_in_app" = "Rakendusesisene brauser";
 "settings_browser_system_default" = "Süsteemi vaikebrauser";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "Kui klassiruumi nimi on hiina keeles";
 "settings_classroom_mandarin_display_original" = "Kuva originaal";
 "settings_classroom_mandarin_display_pinyin" = "Kuva pinyin";
@@ -646,6 +647,8 @@
 "settings_section_display" = "Kuva";
 "settings_section_notifications" = "Teavitused";
 "settings_section_other_settings" = "Muud sätted";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "Kuva ülesande tähtajana täielik kuupäev";
 "settings_theme_dark" = "Tume režiim";
 "settings_theme_light" = "Hele režiim";
@@ -656,6 +659,7 @@
 "settings_version" = "Versioon";
 "settings_view_source_code" = "Vaata lähtekoodi";
 "settings_visual_preset_label" = "Liidese stiil";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "Praegune rakendus";
 "source_code_picker_org_description" = "Organisatsioon";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "Saadaval olevad vahekaardid";
 "tab_editor_section_current_tabs" = "Praegused vahekaardid";
 "tab_editor_title" = "Vahekaartide redaktor";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "Uuendus on alla laaditud ja paigaldamiseks valmis.";
 "update_restart_action" = "Taaskäivita";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "Tagasi";
 "watch_course_classroom_label" = "Klassiruum";
 "watch_course_detail_title" = "Kursus";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "N";
 "weekday_tue_short" = "T";
 "weekday_wed_short" = "K";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "Avage virtuaalne raamatukogupääs ühe puudutusega QR-koodina";
 "widget_library_shortcut_label" = "Raamatukogu QR-kood otsetee";
 "widget_library_shortcut_title" = "Raamatukogu";

@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">Rappels d\'échéance des devoirs</string>
     <string name="settings_browser_in_app">Navigateur intégré</string>
     <string name="settings_browser_system_default">Navigateur par défaut du système</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">Quand le nom de la salle est en mandarin</string>
     <string name="settings_classroom_mandarin_display_original">Afficher l\'original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Afficher pinyin</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">Affichage</string>
     <string name="settings_section_notifications">Notifications</string>
     <string name="settings_section_other_settings">Autres paramètres</string>
+    <string name="settings_server_push_footer">Receive one-off notifications sent manually by the operator. Default on.</string>
+    <string name="settings_server_push_label">Server notifications</string>
     <string name="settings_show_absolute_assignment_time">Afficher la date complète pour l\'échéance des devoirs</string>
     <string name="settings_theme_dark">Mode sombre</string>
     <string name="settings_theme_light">Mode clair</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">Version</string>
     <string name="settings_view_source_code">Voir le code source</string>
     <string name="settings_visual_preset_label">Style d’interface utilisateur</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">App actuelle</string>
     <string name="source_code_picker_org_description">Organisation</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">Onglets disponibles</string>
     <string name="tab_editor_section_current_tabs">Onglets actuels</string>
     <string name="tab_editor_title">Éditeur d\'onglets</string>
+    <string name="tag_server_notification">Server notification</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">La mise à jour est téléchargée et prête à être installée.</string>
     <string name="update_restart_action">Redémarrer</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">Certains téléphones sont équipés de moteurs de vibration de moindre qualité qui peuvent ignorer les vibrations très faibles ou très courtes. Si vous ne ressentez pas un réglage, essayez d\'augmenter son intensité ou sa durée. Vous pouvez commencer par essayer le préréglage \"Moyen\".</string>
     <string name="vibration_settings_revert">Rétablir par défaut</string>
     <string name="vibration_settings_section_length_ms">Durée (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">Jeu</string>
     <string name="weekday_tue_short">Mar</string>
     <string name="weekday_wed_short">Mer</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">Ouvrez le QR Code du pass virtuel de la bibliothèque en un clic</string>
     <string name="widget_library_shortcut_label">Raccourci QR Bibliothèque</string>
     <string name="widget_library_shortcut_title">Bibliothèque</string>

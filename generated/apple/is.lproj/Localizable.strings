@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "Verkefnaáminningar";
 "settings_browser_in_app" = "Innbyggðum vafra";
 "settings_browser_system_default" = "Sjálfgefinn kerfisvafrinn";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "Þegar nafn kennslustofu er á kínversku";
 "settings_classroom_mandarin_display_original" = "Sýna upprunalegt";
 "settings_classroom_mandarin_display_pinyin" = "Sýna pinyin";
@@ -646,6 +647,8 @@
 "settings_section_display" = "Birting";
 "settings_section_notifications" = "Tilkynningar";
 "settings_section_other_settings" = "Aðrar stillingar";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "Sýna fulla dagsetningu fyrir skiladag verkefnis";
 "settings_theme_dark" = "Dökkt þema";
 "settings_theme_light" = "Ljóst þema";
@@ -656,6 +659,7 @@
 "settings_version" = "Útgáfa";
 "settings_view_source_code" = "Skoða frumkóða";
 "settings_visual_preset_label" = "Viðmótsstíll";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "Þetta app";
 "source_code_picker_org_description" = "Stofnun";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "Tiltækir flipar";
 "tab_editor_section_current_tabs" = "Núverandi flipar";
 "tab_editor_title" = "Fliparitill";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "Uppfærslan hefur verið sótt og er tilbúin til uppsetningar.";
 "update_restart_action" = "Endurræsa";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "Til baka";
 "watch_course_classroom_label" = "Skólastofa";
 "watch_course_detail_title" = "Námskeið";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "Fim";
 "weekday_tue_short" = "Þri";
 "weekday_wed_short" = "Mið";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "Opnaðu sýndarbókasafnskortið QR-kóða með einum þrýstingi";
 "widget_library_shortcut_label" = "QR-kóði flýtileið bókasafns";
 "widget_library_shortcut_title" = "Bókasafn";

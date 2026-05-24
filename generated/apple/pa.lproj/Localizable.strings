@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ";
 "settings_browser_in_app" = "ਐਪ ਦੇ ਅੰਦਰ ਬ੍ਰਾਊਜ਼ਰ";
 "settings_browser_system_default" = "ਸਿਸਟਮ ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "ਜਦੋਂ ਕਲਾਸਰੂਮ ਦਾ ਨਾਮ ਚੀਨੀ ਵਿੱਚ ਹੋਵੇ";
 "settings_classroom_mandarin_display_original" = "ਅਸਲ ਵਿਖਾਓ";
 "settings_classroom_mandarin_display_pinyin" = "ਪਿਨਯਿਨ ਵਿਖਾਓ";
@@ -646,6 +647,8 @@
 "settings_section_display" = "ਡਿਸਪਲੇ";
 "settings_section_notifications" = "ਸੂਚਨਾਵਾਂ";
 "settings_section_other_settings" = "ਹੋਰ ਸੈਟਿੰਗਾਂ";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਲਈ ਪੂਰੀ ਮਿਤੀ ਦਿਖਾਓ";
 "settings_theme_dark" = "ਡਾਰਕ ਮੋਡ";
 "settings_theme_light" = "ਲਾਈਟ ਮੋਡ";
@@ -656,6 +659,7 @@
 "settings_version" = "ਵਰਜ਼ਨ";
 "settings_view_source_code" = "ਸੋਰਸ ਕੋਡ ਦੇਖੋ";
 "settings_visual_preset_label" = "ਇੰਟਰਫੇਸ ਸ਼ੈਲੀ";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "ਮੌਜੂਦਾ ਐਪ";
 "source_code_picker_org_description" = "ਸੰਗਠਨ";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "ਉਪਲਬਧ ਟੈਬ";
 "tab_editor_section_current_tabs" = "ਮੌਜੂਦਾ ਟੈਬ";
 "tab_editor_title" = "ਟੈਬ ਸੰਪਾਦਕ";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਹੋ ਗਿਆ ਹੈ, ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ।";
 "update_restart_action" = "ਮੁੜ ਚਾਲੂ ਕਰੋ";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "ਵਾਪਸ";
 "watch_course_classroom_label" = "ਕਲਾਸ";
 "watch_course_detail_title" = "ਕੋਰਸ";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "ਵੀਰ";
 "weekday_tue_short" = "ਮੰਗ";
 "weekday_wed_short" = "ਬੁੱਧ";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "ਇੱਕ ਟੈਪ ਨਾਲ ਵਰਚੁਅਲ ਲਾਇਬ੍ਰੇਰੀ ਪਾਸ QR ਕੋਡ ਖੋਲ੍ਹੋ";
 "widget_library_shortcut_label" = "ਲਾਇਬ੍ਰੇਰੀ QR ਸ਼ਾਰਟਕੱਟ";
 "widget_library_shortcut_title" = "ਲਾਇਬ੍ਰੇਰੀ";

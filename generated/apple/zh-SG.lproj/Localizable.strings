@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "作业到期提醒";
 "settings_browser_in_app" = "App 内浏览器";
 "settings_browser_system_default" = "系统默认浏览器";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "当教室名称为中文时";
 "settings_classroom_mandarin_display_original" = "显示原文";
 "settings_classroom_mandarin_display_pinyin" = "显示拼音";
@@ -646,6 +647,8 @@
 "settings_section_display" = "显示";
 "settings_section_notifications" = "通知";
 "settings_section_other_settings" = "其他设置";
+"settings_server_push_footer" = "接收管理員手動發送的一次性通知。預設開啟。";
+"settings_server_push_label" = "伺服器通知";
 "settings_show_absolute_assignment_time" = "作业截止时间显示完整日期";
 "settings_theme_dark" = "暗色模式";
 "settings_theme_light" = "亮色模式";
@@ -656,6 +659,7 @@
 "settings_version" = "版本";
 "settings_view_source_code" = "查看原代码";
 "settings_visual_preset_label" = "界面风格";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "当前应用";
 "source_code_picker_org_description" = "组织";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "其他可用的 Tab";
 "tab_editor_section_current_tabs" = "目前的 Tab";
 "tab_editor_title" = "Tab 编辑器";
+"tag_server_notification" = "伺服器通知";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "更新已下载完成，准备安装。";
 "update_restart_action" = "重新启动";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "返回";
 "watch_course_classroom_label" = "教室";
 "watch_course_detail_title" = "课程";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "四";
 "weekday_tue_short" = "二";
 "weekday_wed_short" = "三";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "一键打开虚拟入馆证 QR Code";
 "widget_library_shortcut_label" = "图书馆 QR 捷径";
 "widget_library_shortcut_title" = "图书馆";

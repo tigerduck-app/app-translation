@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">Assignment due reminders</string>
     <string name="settings_browser_in_app">In-app browser</string>
     <string name="settings_browser_system_default">System default browser</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">When classroom name is in Mandarin</string>
     <string name="settings_classroom_mandarin_display_original">Display original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Display pinyin</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">Display</string>
     <string name="settings_section_notifications">Notifications</string>
     <string name="settings_section_other_settings">Other settings</string>
+    <string name="settings_server_push_footer">Receive one-off notifications sent manually by the operator. Default on.</string>
+    <string name="settings_server_push_label">Server notifications</string>
     <string name="settings_show_absolute_assignment_time">Show full date for assignment due time</string>
     <string name="settings_theme_dark">Dark mode</string>
     <string name="settings_theme_light">Light mode</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">Version</string>
     <string name="settings_view_source_code">View source code</string>
     <string name="settings_visual_preset_label">Interface style</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">Current app</string>
     <string name="source_code_picker_org_description">Organization</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">Available tabs</string>
     <string name="tab_editor_section_current_tabs">Current tabs</string>
     <string name="tab_editor_title">Tab editor</string>
+    <string name="tag_server_notification">Server notification</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">An update is ready to install.</string>
     <string name="update_restart_action">Restart</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">Some phones have lower-quality vibration motors that may ignore very weak or very short vibrations. If you can\'t feel a setting, try raising its strength or length. You can start by trying the medium preset first.</string>
     <string name="vibration_settings_revert">Reset to default</string>
     <string name="vibration_settings_section_length_ms">Length (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">Thu</string>
     <string name="weekday_tue_short">Tue</string>
     <string name="weekday_wed_short">Wed</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">Open the virtual library pass QR code in one tap</string>
     <string name="widget_library_shortcut_label">Library QR Shortcut</string>
     <string name="widget_library_shortcut_title">Library</string>

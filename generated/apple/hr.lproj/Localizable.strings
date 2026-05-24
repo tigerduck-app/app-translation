@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "Podsjetnici za zadatke";
 "settings_browser_in_app" = "Preglednik unutar aplikacije";
 "settings_browser_system_default" = "Zadani preglednik sustava";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "Kada je naziv učionice na kineskom";
 "settings_classroom_mandarin_display_original" = "Prikaži original";
 "settings_classroom_mandarin_display_pinyin" = "Prikaži pinyin";
@@ -646,6 +647,8 @@
 "settings_section_display" = "Prikaz";
 "settings_section_notifications" = "Obavijesti";
 "settings_section_other_settings" = "Ostale postavke";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "Prikaži puni datum za rok predaje zadatka";
 "settings_theme_dark" = "Tamni način";
 "settings_theme_light" = "Svijetli način";
@@ -656,6 +659,7 @@
 "settings_version" = "Verzija";
 "settings_view_source_code" = "Pogledaj izvorni kod";
 "settings_visual_preset_label" = "Stil sučelja";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "Trenutna aplikacija";
 "source_code_picker_org_description" = "Organizacija";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "Dostupne kartice";
 "tab_editor_section_current_tabs" = "Trenutne kartice";
 "tab_editor_title" = "Urednik kartica";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "Ažuriranje je preuzeto i spremno za instalaciju.";
 "update_restart_action" = "Ponovo pokreni";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "Natrag";
 "watch_course_classroom_label" = "Učionica";
 "watch_course_detail_title" = "Kolegij";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "Čet";
 "weekday_tue_short" = "Uto";
 "weekday_wed_short" = "Sri";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "Otvorite virtualni QR kod propusnice za knjižnicu jednim dodirom";
 "widget_library_shortcut_label" = "QR kod prečac za knjižnicu";
 "widget_library_shortcut_title" = "Knjižnica";

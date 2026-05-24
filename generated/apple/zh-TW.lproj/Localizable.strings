@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "作業到期提醒";
 "settings_browser_in_app" = "App 內瀏覽器";
 "settings_browser_system_default" = "系統預設瀏覽器";
+"settings_check_for_updates" = "檢查更新";
 "settings_classroom_mandarin_display" = "當教室名稱為中文時";
 "settings_classroom_mandarin_display_original" = "顯示原文";
 "settings_classroom_mandarin_display_pinyin" = "顯示拼音";
@@ -646,6 +647,8 @@
 "settings_section_display" = "顯示";
 "settings_section_notifications" = "通知";
 "settings_section_other_settings" = "其他設定";
+"settings_server_push_footer" = "接收管理員手動發送的一次性通知。預設開啟。";
+"settings_server_push_label" = "伺服器通知";
 "settings_show_absolute_assignment_time" = "作業截止時間顯示完整日期";
 "settings_theme_dark" = "暗色模式";
 "settings_theme_light" = "亮色模式";
@@ -656,6 +659,7 @@
 "settings_version" = "版本";
 "settings_view_source_code" = "查看原始碼";
 "settings_visual_preset_label" = "介面風格";
+"settings_whats_new" = "新功能說明";
 "source_code_picker_current_app_badge" = "目前 App";
 "source_code_picker_org_description" = "組織";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "可新增的分頁";
 "tab_editor_section_current_tabs" = "目前的 Tab";
 "tab_editor_title" = "Tab 編輯器";
+"tag_server_notification" = "伺服器通知";
+"update_action_later" = "稍後";
+"update_action_skip_version" = "跳過此版本";
+"update_action_update_now" = "立即更新";
+"update_available_message" = "App Store 上已有新版本 (%1$@)，要現在更新嗎？";
+"update_available_title" = "有可用更新";
+"update_check_failed_message" = "無法連線到 App Store，請稍後再試。";
+"update_check_failed_title" = "檢查失敗";
 "update_ready_message" = "更新已下載完成，準備安裝。";
 "update_restart_action" = "重新啟動";
+"update_up_to_date_message" = "您使用的已是 %1$@ 最新版本。";
+"update_up_to_date_title" = "已是最新版本";
 "watch_action_back" = "返回";
 "watch_course_classroom_label" = "教室";
 "watch_course_detail_title" = "課程";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "四";
 "weekday_tue_short" = "二";
 "weekday_wed_short" = "三";
+"whats_new_continue" = "繼續";
+"whats_new_title" = "新功能說明";
 "widget_library_shortcut_desc" = "一鍵開啟虛擬入館證 QR Code";
 "widget_library_shortcut_label" = "圖書館 QR 捷徑";
 "widget_library_shortcut_title" = "圖書館";
