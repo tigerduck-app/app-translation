@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d ECTS bodovi";
 "score_semester_upper" = "Jesen";
 "score_term_format" = "Trenutni semestar: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Naglasna boja";
 "settings_account_library_system" = "Sustav knjižnice";
 "settings_account_ntust_system" = "Akademski sustav";

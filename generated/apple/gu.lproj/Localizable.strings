@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d ક્રેડિટ";
 "score_semester_upper" = "ફૉલ";
 "score_term_format" = "વર્તમાન ટર્મ: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "ઍક્સેન્ટ કલર";
 "settings_account_library_system" = "લાઇબ્રેરી સિસ્ટમ";
 "settings_account_ntust_system" = "શૈક્ષણિક સિસ્ટમ";

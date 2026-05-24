@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d créditos";
 "score_semester_upper" = "Outono";
 "score_term_format" = "Período atual: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Cor de destaque";
 "settings_account_library_system" = "Sistema da biblioteca";
 "settings_account_ntust_system" = "Sistema acadêmico";

@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d кредитов";
 "score_semester_upper" = "Осенний";
 "score_term_format" = "Текущий семестр: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Акцентный цвет";
 "settings_account_library_system" = "Система библиотеки";
 "settings_account_ntust_system" = "Школьная система";

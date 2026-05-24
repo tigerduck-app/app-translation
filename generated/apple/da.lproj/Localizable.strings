@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d ECTS-point";
 "score_semester_upper" = "Efterår";
 "score_term_format" = "Aktuelt semester: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Accentfarve";
 "settings_account_library_system" = "Bibliotekssystem";
 "settings_account_ntust_system" = "Studentportal";

@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d tín chỉ";
 "score_semester_upper" = "Kỳ 1";
 "score_term_format" = "Học kỳ hiện tại: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Màu nhấn";
 "settings_account_library_system" = "Hệ thống thư viện";
 "settings_account_ntust_system" = "Hệ thống học vụ";

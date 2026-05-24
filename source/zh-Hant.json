@@ -466,6 +466,7 @@
         "push_server_status_waiting_token": "等系統指派 token",
         "push_server_sync_now_action": "立即同步一次",
         "refreshing_message": "頁面正在刷新，別急～",
+        "screen_capture_protection_message": "為保護您的資料，畫面錄製或鏡射時內容已隱藏。",
         "score_academic_year_semester": "%1$s 學年度 %2$s學期",
         "score_course_credits": "%1$d 學分",
         "score_course_detail_enrollment_label": "修課人數",

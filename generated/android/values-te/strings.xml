@@ -550,6 +550,7 @@
     <string name="score_semester_total_credits">%1$d క్రెడిట్‌లు</string>
     <string name="score_semester_upper">ఫాల్</string>
     <string name="score_term_format">ప్రస్తుత సెమెస్టర్: %1$s-%2$s</string>
+    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">యాక్సెంట్ రంగు</string>
     <string name="settings_account_library_system">లైబ్రరీ సిస్టమ్</string>
     <string name="settings_account_ntust_system">అకాడెమిక్ సిస్టమ్</string>

@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d kreditů";
 "score_semester_upper" = "Podzim";
 "score_term_format" = "Aktuální semestr: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Akcentová barva";
 "settings_account_library_system" = "Systém knihovny";
 "settings_account_ntust_system" = "Školní systém";

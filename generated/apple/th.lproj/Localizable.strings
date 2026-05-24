@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d หน่วยกิต";
 "score_semester_upper" = "ภาคต้น";
 "score_term_format" = "ภาคการศึกษาปัจจุบัน: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "สีหลัก";
 "settings_account_library_system" = "ระบบห้องสมุด";
 "settings_account_ntust_system" = "ระบบสารสนเทศนักศึกษา";

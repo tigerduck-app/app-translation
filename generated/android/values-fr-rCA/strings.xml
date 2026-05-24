@@ -550,6 +550,7 @@
     <string name="score_semester_total_credits">%1$d crédits</string>
     <string name="score_semester_upper">Automne</string>
     <string name="score_term_format">Semestre actuel : %1$s-%2$s</string>
+    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">Couleur d\'accentuation</string>
     <string name="settings_account_library_system">Système de la bibliothèque</string>
     <string name="settings_account_ntust_system">Système universitaire</string>

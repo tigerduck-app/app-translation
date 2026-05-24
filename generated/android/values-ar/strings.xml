@@ -550,6 +550,7 @@
     <string name="score_semester_total_credits">%1$d ساعات معتمدة</string>
     <string name="score_semester_upper">الخريف</string>
     <string name="score_term_format">الفصل الحالي: %1$s-%2$s</string>
+    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">اللون المميز</string>
     <string name="settings_account_library_system">نظام المكتبة</string>
     <string name="settings_account_ntust_system">النظام الأكاديمي</string>

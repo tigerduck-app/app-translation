@@ -550,6 +550,7 @@
     <string name="score_semester_total_credits">%1$d kredit</string>
     <string name="score_semester_upper">Őszi</string>
     <string name="score_term_format">Jelenlegi félév: %1$s-%2$s</string>
+    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">Kiemelő szín</string>
     <string name="settings_account_library_system">Könyvtári rendszer</string>
     <string name="settings_account_ntust_system">Tanulmányi rendszer</string>

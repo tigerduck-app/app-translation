@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d ساعات معتمدة";
 "score_semester_upper" = "الخريف";
 "score_term_format" = "الفصل الحالي: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "اللون المميز";
 "settings_account_library_system" = "نظام المكتبة";
 "settings_account_ntust_system" = "النظام الأكاديمي";

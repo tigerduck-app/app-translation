@@ -550,6 +550,7 @@
     <string name="score_semester_total_credits">%1$d hp</string>
     <string name="score_semester_upper">Höst</string>
     <string name="score_term_format">Aktuell termin: %1$s-%2$s</string>
+    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">Accentfärg</string>
     <string name="settings_account_library_system">Bibliotekets system</string>
     <string name="settings_account_ntust_system">Studentportal</string>

@@ -519,6 +519,7 @@
         "score_semester_total_credits": "%1$d ক্রেডিট",
         "score_semester_upper": "শরৎকাল",
         "score_term_format": "বর্তমান সেমিস্টার: %1$s-%2$s",
+        "screen_capture_protection_message": "Content hidden for security while the screen is being recorded or mirrored.",
         "settings_accent_color": "অ্যাকসেন্ট রং",
         "settings_account_library_system": "লাইব্রেরি সিস্টেম",
         "settings_account_ntust_system": "একাডেমিক সিস্টেম",

@@ -466,6 +466,7 @@
         "push_server_status_waiting_token": "Waiting for System to assign a token",
         "push_server_sync_now_action": "Sync now",
         "refreshing_message": "Refreshing… hold on",
+        "screen_capture_protection_message": "Content hidden for security while the screen is being recorded or mirrored.",
         "score_academic_year_semester": "Academic Year %1$s %2$s",
         "score_course_credits": "%1$d credits",
         "score_course_detail_enrollment_label": "Enrollment",

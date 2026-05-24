@@ -582,6 +582,7 @@
 "score_semester_total_credits" = "%1$d ECTS";
 "score_semester_upper" = "Jesień";
 "score_term_format" = "Bieżący semestr: %1$@-%2$@";
+"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Kolor akcentu";
 "settings_account_library_system" = "System biblioteczny";
 "settings_account_ntust_system" = "System uczelniany";
