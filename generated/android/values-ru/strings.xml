@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Задание всё ещё не сдано</string>
     <string name="notification_bulletin_channel_description">Уведомления в реальном времени о новых бюллетенях NTUST, соответствующих вашим подпискам</string>
     <string name="notification_bulletin_channel_name">Школьные бюллетени</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Отправляет напоминания перед началом каждого занятия</string>
     <string name="notification_class_preparing_channel_name">Напоминания о начале занятий</string>
     <string name="notification_class_preparing_content_fallback">Занятие скоро начнётся</string>

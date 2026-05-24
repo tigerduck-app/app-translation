@@ -467,6 +467,10 @@
 "notification_assignment_reminder_title" = "作業提醒:%1$@";
 "notification_assignment_safety_net_body" = "你已忽略或標記為完成，但作業還沒繳交:%1$@「%2$@」";
 "notification_assignment_safety_net_title" = "作業還沒繳!";
+"notification_bulletin_silent_channel_description" = "管理員手動發送、不需要聲音的一次性通知";
+"notification_bulletin_silent_channel_name" = "伺服器通知（靜音）";
+"notification_bulletin_sound_channel_description" = "管理員手動發送、需要立即提示的一次性通知";
+"notification_bulletin_sound_channel_name" = "伺服器通知（聲音）";
 "notification_class_preparing_content_fallback" = "課程即將開始";
 "notification_class_preparing_title" = "即將上課：%1$@";
 "notification_setup_description" = "設定以下權限可確保作業提醒、即將上課、即時動態在 App 關閉時也能準時送達。";

@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Kerja rumah masih belum dihantar</string>
     <string name="notification_bulletin_channel_description">Push masa nyata untuk buletin NTUST baharu yang sepadan dengan langganan anda</string>
     <string name="notification_bulletin_channel_name">Buletin sekolah</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Menghantar peringatan sebelum setiap kelas bermula</string>
     <string name="notification_class_preparing_channel_name">Peringatan kelas akan bermula</string>
     <string name="notification_class_preparing_content_fallback">Kelas akan bermula sebentar lagi</string>

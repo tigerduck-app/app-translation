@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Opgaven er stadig ikke afleveret</string>
     <string name="notification_bulletin_channel_description">Realtidspush for nye NTUST-bulletiner, der matcher dine abonnementer</string>
     <string name="notification_bulletin_channel_name">Skolebulletiner</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Sender påmindelser inden hver undervisningsgang begynder</string>
     <string name="notification_class_preparing_channel_name">Påmindelser om kommende undervisning</string>
     <string name="notification_class_preparing_content_fallback">Undervisningen er ved at begynde</string>

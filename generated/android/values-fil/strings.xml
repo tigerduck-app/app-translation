@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Hindi pa naipapasa ang takdang-aralin</string>
     <string name="notification_bulletin_channel_description">Real-time na push para sa mga bagong bulletin ng NTUST na tumutugma sa iyong mga subscription</string>
     <string name="notification_bulletin_channel_name">Mga bulletin ng paaralan</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Nagpapadala ng paalala bago magsimula ang bawat klase</string>
     <string name="notification_class_preparing_channel_name">Mga paalala bago mag-klase</string>
     <string name="notification_class_preparing_content_fallback">Malapit nang magsimula ang klase</string>

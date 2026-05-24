@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">الواجب لا يزال غير مُسلَّم</string>
     <string name="notification_bulletin_channel_description">إشعارات فورية بنشرات NTUST الجديدة المطابقة لاشتراكاتك</string>
     <string name="notification_bulletin_channel_name">نشرات المدرسة</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">يرسل تذكيرات قبل بدء كل محاضرة</string>
     <string name="notification_class_preparing_channel_name">تذكيرات بدء المحاضرات</string>
     <string name="notification_class_preparing_content_fallback">ستبدأ المحاضرة قريبًا</string>

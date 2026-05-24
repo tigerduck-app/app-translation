@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">과제가 아직 제출되지 않았어요</string>
     <string name="notification_bulletin_channel_description">구독 규칙에 맞는 NTUST 공지를 실시간으로 푸시 알림</string>
     <string name="notification_bulletin_channel_name">학교 공지</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">각 수업 시작 전에 알림을 보냅니다</string>
     <string name="notification_class_preparing_channel_name">수업 시작 알림</string>
     <string name="notification_class_preparing_content_fallback">수업이 곧 시작됩니다</string>

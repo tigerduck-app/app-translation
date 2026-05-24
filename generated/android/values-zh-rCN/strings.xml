@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">作业还没交!</string>
     <string name="notification_bulletin_channel_description">符合您订阅规则的台湾科技大学公告实时推送</string>
     <string name="notification_bulletin_channel_name">校园公告</string>
+    <string name="notification_bulletin_silent_channel_description">管理員手動發送、不需要聲音的一次性通知</string>
+    <string name="notification_bulletin_silent_channel_name">伺服器通知（靜音）</string>
+    <string name="notification_bulletin_sound_channel_description">管理員手動發送、需要立即提示的一次性通知</string>
+    <string name="notification_bulletin_sound_channel_name">伺服器通知（聲音）</string>
     <string name="notification_class_preparing_channel_description">在每堂课开始前依设置的时间送出提醒</string>
     <string name="notification_class_preparing_channel_name">即将上课提醒</string>
     <string name="notification_class_preparing_content_fallback">课程即将开始</string>

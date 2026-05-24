@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Devoir toujours non rendu</string>
     <string name="notification_bulletin_channel_description">Notifications en temps réel pour les nouveaux bulletins NTUST correspondant à vos abonnements</string>
     <string name="notification_bulletin_channel_name">Bulletins scolaires</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Envoie un rappel avant le début de chaque cours</string>
     <string name="notification_class_preparing_channel_name">Rappels avant le cours</string>
     <string name="notification_class_preparing_content_fallback">Le cours va bientôt commencer</string>

@@ -467,6 +467,10 @@
 "notification_assignment_reminder_title" = "Напомняне за задача: %1$@";
 "notification_assignment_safety_net_body" = "Маркира я като готова или я игнорира, но все още не е предадена: %1$@ — %2$@";
 "notification_assignment_safety_net_title" = "Задачата все още не е предадена";
+"notification_bulletin_silent_channel_description" = "Operator-issued one-off notifications delivered silently";
+"notification_bulletin_silent_channel_name" = "Server notifications (silent)";
+"notification_bulletin_sound_channel_description" = "Operator-issued one-off notifications that need immediate attention";
+"notification_bulletin_sound_channel_name" = "Server notifications (sound)";
 "notification_class_preparing_content_fallback" = "Часът е на път да започне";
 "notification_class_preparing_title" = "Час започва скоро: %1$@";
 "notification_setup_description" = "Активирайте разрешенията по-долу, за да се гарантира, че напомнянията за задания, предупрежденията за предстоящ час и динамичните дейности пристигат навреме дори когато приложението е затворено.";

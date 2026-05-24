@@ -467,6 +467,10 @@
 "notification_assignment_reminder_title" = "Připomenutí úkolu: %1$@";
 "notification_assignment_safety_net_body" = "Označil(a) jsi ho jako hotový nebo ignoroval(a), ale stále není odevzdán: %1$@ — %2$@";
 "notification_assignment_safety_net_title" = "Úkol stále není odevzdán";
+"notification_bulletin_silent_channel_description" = "Operator-issued one-off notifications delivered silently";
+"notification_bulletin_silent_channel_name" = "Server notifications (silent)";
+"notification_bulletin_sound_channel_description" = "Operator-issued one-off notifications that need immediate attention";
+"notification_bulletin_sound_channel_name" = "Server notifications (sound)";
 "notification_class_preparing_content_fallback" = "Hodina brzy začne";
 "notification_class_preparing_title" = "Hodina brzy začne: %1$@";
 "notification_setup_description" = "Povolte níže uvedená oprávnění, abyste zajistili, že upozornění na úkoly, na blížící se hodinu a živá aktivita budou doručena včas, i když je aplikace zavřená.";

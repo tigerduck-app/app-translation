@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Heimaverkefnið er enn ekki skilað</string>
     <string name="notification_bulletin_channel_description">Rauntíma push tilkynningar fyrir nýjar NTUST tilkynningar sem passa við áskriftir þínar</string>
     <string name="notification_bulletin_channel_name">Skólabréf</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Sendir áminningu áður en hver tími byrjar</string>
     <string name="notification_class_preparing_channel_name">Áminningar um komandi tíma</string>
     <string name="notification_class_preparing_content_fallback">Tíminn er að byrja</string>
