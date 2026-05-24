@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "Вашият асистент за кампуса на NTUST";
 "onboarding_welcome_title" = "Добре дошли в TigerDuck";
 "onboarding_welcome_website_label" = "Официален сайт на TigerDuck";
+"password_eye_unavailable_during_capture" = "За да защитим паролата ви от записване, показването е забранено по време на запис или споделяне на екрана.";
 "password_hide" = "Hide password";
 "password_show" = "Show password";
 "permission_granted" = "Разрешено";

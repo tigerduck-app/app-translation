@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "你的臺科大校園助手";
 "onboarding_welcome_title" = "歡迎使用 TigerDuck";
 "onboarding_welcome_website_label" = "TigerDuck 應用程式官網";
+"password_eye_unavailable_during_capture" = "而家螢幕正在錄製或鏡像，為保護你嘅密碼，顯示功能已停用。";
 "password_hide" = "隱藏密碼";
 "password_show" = "顯示密碼";
 "permission_granted" = "已允許";

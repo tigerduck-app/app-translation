@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Teie NTUST-i ülikoolilinnaku assistent</string>
     <string name="onboarding_welcome_title">Tere tulemast TigerDucki</string>
     <string name="onboarding_welcome_website_label">TigerDucki ametlik veebisait</string>
+    <string name="password_eye_unavailable_during_capture">Parooli kaitsmiseks on selle näitamine ekraanisalvestuse või peegeldamise ajal keelatud.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">Seadke TigerDuck süsteemi aku/taustatöö seadetes piiramatuks (või ärge piirake taustatöid), et vähendada meeldetuletuste hilinemist.</string>

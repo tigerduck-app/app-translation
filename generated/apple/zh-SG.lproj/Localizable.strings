@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "你的台科大校园助手";
 "onboarding_welcome_title" = "欢迎使用 TigerDuck";
 "onboarding_welcome_website_label" = "TigerDuck 应用程序官网";
+"password_eye_unavailable_during_capture" = "为防止密码泄露，屏幕录制或镜像期间显示密码功能已禁用。";
 "password_hide" = "隐藏密码";
 "password_show" = "显示密码";
 "permission_granted" = "已允许";

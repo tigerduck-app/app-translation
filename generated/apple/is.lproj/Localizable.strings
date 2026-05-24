@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "Háskólaassistentinn þinn hjá NTUST";
 "onboarding_welcome_title" = "Velkomin í TigerDuck";
 "onboarding_welcome_website_label" = "Opinber vefsíða TigerDuck";
+"password_eye_unavailable_during_capture" = "Til að vernda lykilorðið þitt er sýning þess óvirk meðan skjárinn er tekinn upp eða speglaður.";
 "password_hide" = "Hide password";
 "password_show" = "Show password";
 "permission_granted" = "Leyft";

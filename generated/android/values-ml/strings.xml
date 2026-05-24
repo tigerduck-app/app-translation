@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">നിങ്ങളുടെ NTUST ക്യാമ്പസ് സഹായി</string>
     <string name="onboarding_welcome_title">TigerDuck-ലേക്ക് സ്വാഗതം</string>
     <string name="onboarding_welcome_website_label">TigerDuck ഔദ്യോഗിക വെബ്സൈറ്റ്</string>
+    <string name="password_eye_unavailable_during_capture">പാസ്‌വേഡ് സുരക്ഷിതമാക്കാൻ, സ്ക്രീൻ റെക്കോർഡിംഗ് അല്ലെങ്കിൽ മിററിംഗ് സമയത്ത് കാണിക്കൽ പ്രവർത്തനരഹിതമാണ്.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">ഓർമ്മപ്പെടുത്തൽ കാലതാമസം കുറയ്ക്കാൻ, സിസ്റ്റം ബാറ്ററി/പശ്ചാത്തല ക്രമീകരണങ്ങളിൽ TigerDuck-നെ അൺറെസ്ട്രിക്റ്റഡ് ആക്കുക (അല്ലെങ്കിൽ പശ്ചാത്തല പ്രവർത്തനം നിയന്ത്രിക്കരുത്).</string>

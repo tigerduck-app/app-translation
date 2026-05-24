@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Jūsų NTUST universiteto asistentas</string>
     <string name="onboarding_welcome_title">Sveiki atvykę į TigerDuck</string>
     <string name="onboarding_welcome_website_label">Oficialus TigerDuck tinklalapis</string>
+    <string name="password_eye_unavailable_during_capture">Siekiant apsaugoti slaptažodį, jo rodymas išjungtas ekrano įrašymo ar atspindėjimo metu.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">Sistemos akumuliatoriaus / fono nustatymuose nustatykite TigerDuck kaip neapribotą (arba neribokite fono veiklos), kad sumažintumėte priminimų vėlavimą.</string>

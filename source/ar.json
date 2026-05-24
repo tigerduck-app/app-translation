@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "مساعدك في حرم NTUST",
         "onboarding_welcome_title": "مرحبًا بك في TigerDuck",
         "onboarding_welcome_website_label": "الموقع الرسمي لـ TigerDuck",
+        "password_eye_unavailable_during_capture": "للحفاظ على كلمة المرور من التسجيل، تعذّر إظهارها أثناء تسجيل الشاشة أو مشاركتها.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "مسموح",

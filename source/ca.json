@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "El vostre assistent del campus de NTUST",
         "onboarding_welcome_title": "Benvingut a TigerDuck",
         "onboarding_welcome_website_label": "Lloc web oficial de TigerDuck",
+        "password_eye_unavailable_during_capture": "Per protegir la teva contrasenya, la visualització està desactivada mentre la pantalla es grava o es reflecteix.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "Permès",

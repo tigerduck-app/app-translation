@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">ผู้ช่วยในรั้วมหาวิทยาลัย NTUST ของคุณ</string>
     <string name="onboarding_welcome_title">ยินดีต้อนรับสู่ TigerDuck</string>
     <string name="onboarding_welcome_website_label">เว็บไซต์ทางการของ TigerDuck</string>
+    <string name="password_eye_unavailable_during_capture">เพื่อปกป้องรหัสผ่าน การแสดงรหัสผ่านถูกปิดใช้งานขณะมีการบันทึกหรือมิเรอร์หน้าจอ</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">ในการตั้งค่าแบตเตอรี่/การทำงานเบื้องหลังของระบบ ให้ตั้งค่า TigerDuck เป็นไม่จำกัด (หรือไม่จำกัดการทำงานเบื้องหลัง) เพื่อลดความล่าช้าของการแจ้งเตือน</string>

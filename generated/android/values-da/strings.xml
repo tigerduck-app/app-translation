@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Din NTUST-campusassistent</string>
     <string name="onboarding_welcome_title">Velkommen til TigerDuck</string>
     <string name="onboarding_welcome_website_label">TigerDucks officielle hjemmeside</string>
+    <string name="password_eye_unavailable_during_capture">For at beskytte din adgangskode er visning deaktiveret under skærmoptagelse eller spejling.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">I systemets batteri-/baggrundsindstillinger skal du indstille TigerDuck til ubegrænset (eller undlade at begrænse baggrundsaktivitet) for at reducere forsinkelse af påmindelser.</string>

@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "Din NTUST-kampusassistent";
 "onboarding_welcome_title" = "Välkommen till TigerDuck";
 "onboarding_welcome_website_label" = "TigerDucks officiella webbplats";
+"password_eye_unavailable_during_capture" = "För att skydda ditt lösenord är visning inaktiverat under skärminspelning eller spegling.";
 "password_hide" = "Hide password";
 "password_show" = "Show password";
 "permission_granted" = "Tillåten";

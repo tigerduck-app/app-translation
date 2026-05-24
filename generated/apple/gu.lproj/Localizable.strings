@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "તમારો NTUST કૅમ્પસ સહાયક";
 "onboarding_welcome_title" = "TigerDuck માં સ્વાગત છે";
 "onboarding_welcome_website_label" = "TigerDuck ઓફિશિયલ વેબસાઇટ";
+"password_eye_unavailable_during_capture" = "પાસવર્ડ સુરક્ષિત રાખવા માટે, સ્ક્રીન રેકોર્ડિંગ અથવા મિરરિંગ દરમિયાન દર્શાવવું અક્ષમ છે.";
 "password_hide" = "Hide password";
 "password_show" = "Show password";
 "permission_granted" = "મંજૂર";

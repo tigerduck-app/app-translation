@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "Seu assistente do campus da NTUST";
 "onboarding_welcome_title" = "Bem-vindo ao TigerDuck";
 "onboarding_welcome_website_label" = "Site oficial do TigerDuck";
+"password_eye_unavailable_during_capture" = "Para proteger sua senha, a exibição está desativada enquanto a tela está sendo gravada ou espelhada.";
 "password_hide" = "Hide password";
 "password_show" = "Show password";
 "permission_granted" = "Permitido";

@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">NTUST-kampusavustajasi</string>
     <string name="onboarding_welcome_title">Tervetuloa TigerDuck-sovellukseen</string>
     <string name="onboarding_welcome_website_label">TigerDuckin virallinen sivusto</string>
+    <string name="password_eye_unavailable_during_capture">Salasanan suojaamiseksi sen näyttäminen on poistettu käytöstä ruudun tallennuksen tai peilauksen aikana.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">Aseta TigerDuck järjestelmän akku-/taustarajoitusasetuksissa rajoittamattomaksi (tai älä rajoita taustatoimintaa) muistutusviiveiden vähentämiseksi.</string>

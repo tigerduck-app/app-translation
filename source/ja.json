@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "あなたの NTUST キャンパスアシスタント",
         "onboarding_welcome_title": "TigerDuck へようこそ",
         "onboarding_welcome_website_label": "TigerDuck 公式サイト",
+        "password_eye_unavailable_during_capture": "スクリーン録画またはミラーリング中はパスワードの表示が無効になります。",
         "password_hide": "パスワードを非表示",
         "password_show": "パスワードを表示",
         "permission_granted": "許可済み",

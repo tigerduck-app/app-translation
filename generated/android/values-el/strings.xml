@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Ο βοηθός σας στην πανεπιστημιούπολη NTUST</string>
     <string name="onboarding_welcome_title">Καλώς ήρθατε στο TigerDuck</string>
     <string name="onboarding_welcome_website_label">Επίσημος ιστότοπος TigerDuck</string>
+    <string name="password_eye_unavailable_during_capture">Για την προστασία του κωδικού σας, η εμφάνισή του είναι απενεργοποιημένη κατά τη διάρκεια εγγραφής ή κατοπτρισμού οθόνης.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">Στις ρυθμίσεις μπαταρίας/παρασκηνίου του συστήματος, ορίστε το TigerDuck ως χωρίς περιορισμούς (ή μην περιορίζετε τη δραστηριότητα παρασκηνίου) για να μειώσετε καθυστερήσεις υπενθυμίσεων.</string>

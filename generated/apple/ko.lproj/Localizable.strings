@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "당신의 NTUST 캠퍼스 도우미";
 "onboarding_welcome_title" = "TigerDuck에 오신 것을 환영합니다";
 "onboarding_welcome_website_label" = "TigerDuck 공식 웹사이트";
+"password_eye_unavailable_during_capture" = "화면 녹화 또는 미러링 중에는 비밀번호 표시가 비활성화됩니다.";
 "password_hide" = "비밀번호 숨기기";
 "password_show" = "비밀번호 표시";
 "permission_granted" = "허용됨";

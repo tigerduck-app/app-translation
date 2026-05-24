@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "Váš asistent kampusu NTUST",
         "onboarding_welcome_title": "Vitajte v TigerDuck",
         "onboarding_welcome_website_label": "Oficiálna stránka TigerDuck",
+        "password_eye_unavailable_during_capture": "Aby nedošlo k zachyteniu hesla, jeho zobrazenie je zakázané počas záznamu alebo zrkadlenia obrazovky.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "Povolené",

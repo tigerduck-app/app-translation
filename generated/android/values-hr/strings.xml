@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Vaš NTUST campus asistent</string>
     <string name="onboarding_welcome_title">Dobrodošli u TigerDuck</string>
     <string name="onboarding_welcome_website_label">Službena web-stranica TigerDucka</string>
+    <string name="password_eye_unavailable_during_capture">Radi zaštite lozinke, otkrivanje je onemogućeno dok se zaslon snima ili zrcali.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">U postavkama baterije/pozadinske aktivnosti, postavite TigerDuck na neograničeno (ili ne ograničavajte pozadinsku aktivnost) kako biste smanjili kašnjenje podsjetnika.</string>

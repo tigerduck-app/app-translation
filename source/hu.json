@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "Az Ön NTUST kampusz asszisztense",
         "onboarding_welcome_title": "Üdvözöljük a TigerDuck alkalmazásban",
         "onboarding_welcome_website_label": "TigerDuck hivatalos weboldal",
+        "password_eye_unavailable_during_capture": "A jelszó védelme érdekében a megjelenítés le van tiltva képernyőfelvétel vagy tükrözés közben.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "Engedélyezve",

@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">あなたの NTUST キャンパスアシスタント</string>
     <string name="onboarding_welcome_title">TigerDuck へようこそ</string>
     <string name="onboarding_welcome_website_label">TigerDuck 公式サイト</string>
+    <string name="password_eye_unavailable_during_capture">スクリーン録画またはミラーリング中はパスワードの表示が無効になります。</string>
     <string name="password_hide">パスワードを非表示</string>
     <string name="password_show">パスワードを表示</string>
     <string name="permission_battery_optimization_description">システムのバッテリー/バックグラウンド設定で、TigerDuck を制限なし（またはバックグラウンド動作を制限しない）に設定すると、リマインダーの遅延を減らせます。</string>

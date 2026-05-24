@@ -487,6 +487,7 @@
 "onboarding_welcome_subtitle" = "Pembantu kampus NTUST anda";
 "onboarding_welcome_title" = "Selamat datang ke TigerDuck";
 "onboarding_welcome_website_label" = "Laman web rasmi TigerDuck";
+"password_eye_unavailable_during_capture" = "Untuk melindungi kata laluan anda, paparan dinonaktifkan semasa skrin dirakam atau dicerminkan.";
 "password_hide" = "Hide password";
 "password_show" = "Show password";
 "permission_granted" = "Dibenarkan";

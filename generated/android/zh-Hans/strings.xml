@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">你的台科大校园助手</string>
     <string name="onboarding_welcome_title">欢迎使用 TigerDuck</string>
     <string name="onboarding_welcome_website_label">TigerDuck 应用程序官网</string>
+    <string name="password_eye_unavailable_during_capture">为防止密码泄露，屏幕录制或镜像期间显示密码功能已禁用。</string>
     <string name="password_hide">隐藏密码</string>
     <string name="password_show">显示密码</string>
     <string name="permission_battery_optimization_description">建议在系统的电池/背景活动设置中，将 TigerDuck 设为不受限制（或不要限制背景活动），以降低提醒延迟。</string>

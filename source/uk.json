@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "Ваш помічник у кампусі NTUST",
         "onboarding_welcome_title": "Ласкаво просимо до TigerDuck",
         "onboarding_welcome_website_label": "Офіційний сайт TigerDuck",
+        "password_eye_unavailable_during_capture": "Для захисту пароля його відображення вимкнено під час запису або трансляції екрана.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "Дозволено",

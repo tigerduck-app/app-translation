@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "ผู้ช่วยในรั้วมหาวิทยาลัย NTUST ของคุณ",
         "onboarding_welcome_title": "ยินดีต้อนรับสู่ TigerDuck",
         "onboarding_welcome_website_label": "เว็บไซต์ทางการของ TigerDuck",
+        "password_eye_unavailable_during_capture": "เพื่อปกป้องรหัสผ่าน การแสดงรหัสผ่านถูกปิดใช้งานขณะมีการบันทึกหรือมิเรอร์หน้าจอ",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "อนุญาตแล้ว",

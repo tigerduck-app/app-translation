@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Your NTUST campus assistant</string>
     <string name="onboarding_welcome_title">Welcome to TigerDuck</string>
     <string name="onboarding_welcome_website_label">TigerDuck official website</string>
+    <string name="password_eye_unavailable_during_capture">To keep your password from being captured, reveal is disabled while the screen is being recorded or mirrored.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">In system battery/background settings, set TigerDuck to unrestricted (or don\'t restrict background activity) to reduce reminder delays.</string>

@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">העוזר שלך לקמפוס NTUST</string>
     <string name="onboarding_welcome_title">ברוך הבא ל-TigerDuck</string>
     <string name="onboarding_welcome_website_label">האתר הרשמי של TigerDuck</string>
+    <string name="password_eye_unavailable_during_capture">כדי להגן על הסיסמה, הצגתה מושבתת בזמן הקלטה או שיקוף מסך.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">בהגדרות הסוללה/רקע של המערכת, הגדר את TigerDuck כלא מוגבל (או אל תגביל פעילות ברקע) כדי להפחית עיכובים בתזכורות.</string>

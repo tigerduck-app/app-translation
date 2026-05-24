@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">మీ NTUST క్యాంపస్ అసిస్టెంట్</string>
     <string name="onboarding_welcome_title">TigerDuck కి స్వాగతం</string>
     <string name="onboarding_welcome_website_label">TigerDuck అధికారిక వెబ్‌సైట్</string>
+    <string name="password_eye_unavailable_during_capture">పాస్‌వర్డ్‌ను రక్షించడానికి, స్క్రీన్ రికార్డింగ్ లేదా మిర్రరింగ్ సమయంలో చూపించడం నిలిపివేయబడింది.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">సిస్టమ్ బ్యాటరీ/బ్యాక్‌గ్రౌండ్ సెట్టింగ్స్‌లో TigerDuck ని అపరిమిత (లేదా బ్యాక్‌గ్రౌండ్ యాక్టివిటీని పరిమితం చేయవద్దు) గా సెట్ చేయండి, రిమైండర్ ఆలస్యాలు తగ్గించడానికి.</string>

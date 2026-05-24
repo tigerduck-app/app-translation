@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Tu asistente del campus de NTUST</string>
     <string name="onboarding_welcome_title">Bienvenido a TigerDuck</string>
     <string name="onboarding_welcome_website_label">Sitio web oficial de TigerDuck</string>
+    <string name="password_eye_unavailable_during_capture">Para proteger tu contraseña, la visualización está desactivada mientras se graba o refleja la pantalla.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">En la configuración de batería/segundo plano del sistema, configura TigerDuck como sin restricciones (o no restrinjas la actividad en segundo plano) para reducir los retrasos de los recordatorios.</string>

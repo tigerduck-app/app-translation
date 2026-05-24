@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">NTUST kampüs asistanınız</string>
     <string name="onboarding_welcome_title">TigerDuck\'a hoş geldiniz</string>
     <string name="onboarding_welcome_website_label">TigerDuck resmi web sitesi</string>
+    <string name="password_eye_unavailable_during_capture">Şifrenizi korumak için, ekran kaydedilirken veya yansıtılırken gösterme devre dışıdır.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">Sistem pil/arka plan ayarlarında, hatırlatıcı gecikmelerini azaltmak için TigerDuck\'ı kısıtlanmamış olarak ayarlayın (veya arka plan etkinliğini kısıtlamayın).</string>

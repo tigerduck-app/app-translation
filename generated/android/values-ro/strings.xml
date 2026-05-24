@@ -462,6 +462,7 @@
     <string name="onboarding_welcome_subtitle">Asistentul tău de campus NTUST</string>
     <string name="onboarding_welcome_title">Bun venit la TigerDuck</string>
     <string name="onboarding_welcome_website_label">Site-ul oficial TigerDuck</string>
+    <string name="password_eye_unavailable_during_capture">Pentru a proteja parola, afișarea este dezactivată în timp ce ecranul este înregistrat sau oglindit.</string>
     <string name="password_hide">Hide password</string>
     <string name="password_show">Show password</string>
     <string name="permission_battery_optimization_description">În setările bateriei/fundalului sistemului, setează TigerDuck ca nerestricționat (sau nu restricționa activitatea în fundal) pentru a reduce întârzierile reminderelor.</string>

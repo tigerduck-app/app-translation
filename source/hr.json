@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "Vaš NTUST campus asistent",
         "onboarding_welcome_title": "Dobrodošli u TigerDuck",
         "onboarding_welcome_website_label": "Službena web-stranica TigerDucka",
+        "password_eye_unavailable_during_capture": "Radi zaštite lozinke, otkrivanje je onemogućeno dok se zaslon snima ili zrcali.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "Dopušteno",

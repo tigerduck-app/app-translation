@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "Jūsų NTUST universiteto asistentas",
         "onboarding_welcome_title": "Sveiki atvykę į TigerDuck",
         "onboarding_welcome_website_label": "Oficialus TigerDuck tinklalapis",
+        "password_eye_unavailable_during_capture": "Siekiant apsaugoti slaptažodį, jo rodymas išjungtas ekrano įrašymo ar atspindėjimo metu.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "Leista",

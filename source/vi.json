@@ -435,6 +435,7 @@
         "onboarding_welcome_subtitle": "Trợ lý sinh viên NTUST của bạn",
         "onboarding_welcome_title": "Chào mừng đến với TigerDuck",
         "onboarding_welcome_website_label": "Trang web chính thức của TigerDuck",
+        "password_eye_unavailable_during_capture": "Để bảo vệ mật khẩu, tính năng hiển thị bị tắt khi màn hình đang được quay hoặc phản chiếu.",
         "password_hide": "Hide password",
         "password_show": "Show password",
         "permission_granted": "Đã cho phép",
