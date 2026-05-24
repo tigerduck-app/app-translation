@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Apverskite telefoną ekranu žemyn, kad atidarytumėte bibliotekos QR.";
 "settings_flip_to_library_title" = "Apversti, kad rodytų bibliotekos QR";
 "settings_flip_to_library_unsupported" = "Jūsų įrenginyje nėra reikiamo jutiklio.";
+"settings_font_size_picker_section" = "Dydis";
+"settings_font_size_preview_course_name" = "Matematinė analizė I";
+"settings_font_size_preview_course_name_alt_1" = "Tiesinė algebra";
+"settings_font_size_preview_course_name_alt_2" = "Fizikos laboratorija";
+"settings_font_size_preview_footer" = "Peržiūra atnaujinama vilkdami slankiklį.";
+"settings_font_size_preview_section" = "Peržiūra";
+"settings_font_size_reset_button" = "Atstatyti į numatytąjį";
+"settings_font_size_summary" = "Reguliuokite, kokio dydžio dalyko pavadinimas rodomas tvarkaraštyje ir valdikliuose.";
+"settings_font_size_title" = "Dalyko pavadinimo dydis";
 "settings_invert_slider_direction" = "Apversti slankiklio kryptį";
 "settings_language" = "Kalba (Language)";
 "settings_language_english" = "Anglų";

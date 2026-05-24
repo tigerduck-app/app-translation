@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "اقلب هاتفك بحيث يكون الشاشة لأسفل لفتح رمز QR للمكتبة.";
 "settings_flip_to_library_title" = "اقلب لعرض رمز QR للمكتبة";
 "settings_flip_to_library_unsupported" = "جهازك لا يحتوي على المستشعر المطلوب.";
+"settings_font_size_picker_section" = "الحجم";
+"settings_font_size_preview_course_name" = "التفاضل والتكامل 1";
+"settings_font_size_preview_course_name_alt_1" = "الجبر الخطي";
+"settings_font_size_preview_course_name_alt_2" = "معمل الفيزياء";
+"settings_font_size_preview_footer" = "تتحدث المعاينة أثناء سحبك للمنزلق.";
+"settings_font_size_preview_section" = "معاينة";
+"settings_font_size_reset_button" = "إعادة التعيين إلى الافتراضي";
+"settings_font_size_summary" = "اضبط حجم اسم المقرر في الجدول الدراسي والأدوات.";
+"settings_font_size_title" = "حجم اسم المقرر";
 "settings_invert_slider_direction" = "عكس اتجاه شريط التمرير";
 "settings_language" = "(Language) اللغة";
 "settings_language_english" = "الإنجليزية";

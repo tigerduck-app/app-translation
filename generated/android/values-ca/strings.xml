@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Gira el telèfon amb la pantalla cap avall per obrir el QR de la biblioteca.</string>
     <string name="settings_flip_to_library_title">Gira per mostrar el QR de la biblioteca</string>
     <string name="settings_flip_to_library_unsupported">El teu dispositiu no té el sensor necessari.</string>
+    <string name="settings_font_size_picker_section">Mida</string>
+    <string name="settings_font_size_preview_course_name">Càlcul I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Àlgebra Lineal</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Laboratori de Física</string>
+    <string name="settings_font_size_preview_footer">La previsualització s\'actualitza mentre arrossegues el control lliscant.</string>
+    <string name="settings_font_size_preview_section">Previsualització</string>
+    <string name="settings_font_size_reset_button">Restableix els valors per defecte</string>
+    <string name="settings_font_size_summary">Ajusta la mida amb què apareix el nom del curs a l\'horari i als widgets.</string>
+    <string name="settings_font_size_title">Mida del nom del curs</string>
     <string name="settings_invert_slider_direction">Inverteix la direcció del control lliscant</string>
     <string name="settings_language">Idioma (Language)</string>
     <string name="settings_language_english">Anglès</string>

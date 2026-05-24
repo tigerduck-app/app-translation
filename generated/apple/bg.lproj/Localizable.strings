@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Обърни телефона с екрана надолу, за да отвориш QR на библиотеката.";
 "settings_flip_to_library_title" = "Обърни за показване на QR на библиотеката";
 "settings_flip_to_library_unsupported" = "Устройството ти няма необходимия сензор.";
+"settings_font_size_picker_section" = "Размер";
+"settings_font_size_preview_course_name" = "Анализ 1";
+"settings_font_size_preview_course_name_alt_1" = "Линейна алгебра";
+"settings_font_size_preview_course_name_alt_2" = "Лаборатория по физика";
+"settings_font_size_preview_footer" = "Прегледът се обновява, докато плъзгаш плъзгача.";
+"settings_font_size_preview_section" = "Преглед";
+"settings_font_size_reset_button" = "Възстанови по подразбиране";
+"settings_font_size_summary" = "Регулирай колко голямо се показва името на курса в разписанието и уиджетите.";
+"settings_font_size_title" = "Размер на името на курса";
 "settings_invert_slider_direction" = "Обръщане на посоката на плъзгача";
 "settings_language" = "Език (Language)";
 "settings_language_english" = "English";

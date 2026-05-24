@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Balik ponsel dengan layar menghadap bawah untuk membuka QR perpustakaan.";
 "settings_flip_to_library_title" = "Balik untuk menampilkan QR perpustakaan";
 "settings_flip_to_library_unsupported" = "Perangkat Anda tidak memiliki sensor yang diperlukan.";
+"settings_font_size_picker_section" = "Ukuran";
+"settings_font_size_preview_course_name" = "Kalkulus I";
+"settings_font_size_preview_course_name_alt_1" = "Aljabar Linear";
+"settings_font_size_preview_course_name_alt_2" = "Laboratorium Fisika";
+"settings_font_size_preview_footer" = "Pratinjau diperbarui saat Anda menggeser slider.";
+"settings_font_size_preview_section" = "Pratinjau";
+"settings_font_size_reset_button" = "Atur ulang ke bawaan";
+"settings_font_size_summary" = "Sesuaikan seberapa besar nama mata kuliah ditampilkan di jadwal kuliah dan widget.";
+"settings_font_size_title" = "Ukuran nama mata kuliah";
 "settings_invert_slider_direction" = "Balik arah slider";
 "settings_language" = "Bahasa (Language)";
 "settings_language_english" = "English";

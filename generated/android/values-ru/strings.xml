@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Переверните телефон экраном вниз, чтобы открыть QR библиотеки.</string>
     <string name="settings_flip_to_library_title">Перевернуть для отображения QR библиотеки</string>
     <string name="settings_flip_to_library_unsupported">На вашем устройстве нет необходимого датчика.</string>
+    <string name="settings_font_size_picker_section">Размер</string>
+    <string name="settings_font_size_preview_course_name">Математический анализ I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Линейная алгебра</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Лабораторный практикум по физике</string>
+    <string name="settings_font_size_preview_footer">Предпросмотр обновляется при перемещении ползунка.</string>
+    <string name="settings_font_size_preview_section">Предпросмотр</string>
+    <string name="settings_font_size_reset_button">Сбросить по умолчанию</string>
+    <string name="settings_font_size_summary">Настройте, насколько крупно отображается название курса в расписании и виджетах.</string>
+    <string name="settings_font_size_title">Размер названия курса</string>
     <string name="settings_invert_slider_direction">Инвертировать направление ползунка</string>
     <string name="settings_language">Язык (Language)</string>
     <string name="settings_language_english">English</string>

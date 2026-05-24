@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">スマホを画面下向きに裏返すと図書館QRを開きます。</string>
     <string name="settings_flip_to_library_title">裏返して図書館QRを表示</string>
     <string name="settings_flip_to_library_unsupported">このデバイスには必要なセンサーがありません。</string>
+    <string name="settings_font_size_picker_section">サイズ</string>
+    <string name="settings_font_size_preview_course_name">微分積分学I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">線形代数</string>
+    <string name="settings_font_size_preview_course_name_alt_2">物理学実験</string>
+    <string name="settings_font_size_preview_footer">スライダーを動かすとプレビューが更新されます。</string>
+    <string name="settings_font_size_preview_section">プレビュー</string>
+    <string name="settings_font_size_reset_button">デフォルトに戻す</string>
+    <string name="settings_font_size_summary">時間割とウィジェットに表示される授業名の大きさを調整します。</string>
+    <string name="settings_font_size_title">授業名のサイズ</string>
     <string name="settings_invert_slider_direction">スライダーの方向を反転</string>
     <string name="settings_language">言語 (Language)</string>
     <string name="settings_language_english">English</string>

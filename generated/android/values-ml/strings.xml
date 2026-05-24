@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">ലൈബ്രറി QR തുറക്കാൻ ഫോൺ സ്ക്രീൻ താഴ്ത്തി മറിക്കുക.</string>
     <string name="settings_flip_to_library_title">ലൈബ്രറി QR കാണിക്കാൻ മറിക്കുക</string>
     <string name="settings_flip_to_library_unsupported">നിങ്ങളുടെ ഉപകരണത്തിൽ ആവശ്യമായ സെൻസർ ഇല്ല.</string>
+    <string name="settings_font_size_picker_section">വലുപ്പം</string>
+    <string name="settings_font_size_preview_course_name">കാൽക്കുലസ് I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">ലീനിയർ ആൾജിബ്ര</string>
+    <string name="settings_font_size_preview_course_name_alt_2">ഫിസിക്സ് ലാബ്</string>
+    <string name="settings_font_size_preview_footer">സ്ലൈഡർ വലിക്കുമ്പോൾ പ്രിവ്യൂ അപ്ഡേറ്റ് ചെയ്യപ്പെടും.</string>
+    <string name="settings_font_size_preview_section">പ്രിവ്യൂ</string>
+    <string name="settings_font_size_reset_button">സ്ഥിരസ്ഥിതിയിലേക്ക് റീസെറ്റ് ചെയ്യുക</string>
+    <string name="settings_font_size_summary">ക്ലാസ് ടൈംടേബിളിലും വിജറ്റുകളിലും കോഴ്സ് നാമം എത്ര വലുതായി കാണുമെന്ന് ക്രമീകരിക്കുക.</string>
+    <string name="settings_font_size_title">കോഴ്സ് നാമത്തിന്റെ വലുപ്പം</string>
     <string name="settings_invert_slider_direction">സ്ലൈഡർ ദിശ നേർമാറ്റം ചെയ്യുക</string>
     <string name="settings_language">ഭാഷ (Language)</string>
     <string name="settings_language_english">English</string>

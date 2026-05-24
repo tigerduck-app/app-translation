@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Kütüphane QR\'ını açmak için telefonu ekran aşağı gelecek şekilde çevir.</string>
     <string name="settings_flip_to_library_title">Kütüphane QR\'ını göstermek için çevir</string>
     <string name="settings_flip_to_library_unsupported">Cihazınızda gerekli sensör bulunmuyor.</string>
+    <string name="settings_font_size_picker_section">Boyut</string>
+    <string name="settings_font_size_preview_course_name">Kalkülüs I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Lineer Cebir</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Fizik Laboratuvarı</string>
+    <string name="settings_font_size_preview_footer">Kaydırıcıyı sürükledikçe önizleme güncellenir.</string>
+    <string name="settings_font_size_preview_section">Önizleme</string>
+    <string name="settings_font_size_reset_button">Varsayılana sıfırla</string>
+    <string name="settings_font_size_summary">Ders adının ders programında ve widget\'larda ne kadar büyük göründüğünü ayarlayın.</string>
+    <string name="settings_font_size_title">Ders adı boyutu</string>
     <string name="settings_invert_slider_direction">Kaydırıcı yönünü ters çevir</string>
     <string name="settings_language">Dil (Language)</string>
     <string name="settings_language_english">İngilizce</string>

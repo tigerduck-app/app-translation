@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">گوشی را صفحه‌رو به پایین برگردانید تا QR کتابخانه باز شود.</string>
     <string name="settings_flip_to_library_title">برگرداندن برای نمایش QR کتابخانه</string>
     <string name="settings_flip_to_library_unsupported">دستگاه شما حسگر مورد نیاز را ندارد.</string>
+    <string name="settings_font_size_picker_section">اندازه</string>
+    <string name="settings_font_size_preview_course_name">حساب دیفرانسیل و انتگرال ۱</string>
+    <string name="settings_font_size_preview_course_name_alt_1">جبر خطی</string>
+    <string name="settings_font_size_preview_course_name_alt_2">آزمایشگاه فیزیک</string>
+    <string name="settings_font_size_preview_footer">پیش‌نمایش با کشیدن لغزنده به‌روزرسانی می‌شود.</string>
+    <string name="settings_font_size_preview_section">پیش‌نمایش</string>
+    <string name="settings_font_size_reset_button">بازنشانی به پیش‌فرض</string>
+    <string name="settings_font_size_summary">تنظیم می‌کند که نام درس در برنامه کلاس‌ها و ویجت‌ها چقدر بزرگ ظاهر شود.</string>
+    <string name="settings_font_size_title">اندازه نام درس</string>
     <string name="settings_invert_slider_direction">معکوس کردن جهت لغزنده</string>
     <string name="settings_language">(Language) زبان</string>
     <string name="settings_language_english">English</string>

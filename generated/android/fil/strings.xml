@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">I-flip ang telepono naka-mukha ang screen pababa para buksan ang library QR.</string>
     <string name="settings_flip_to_library_title">I-flip para ipakita ang library QR</string>
     <string name="settings_flip_to_library_unsupported">Wala sa iyong device ang kinakailangang sensor.</string>
+    <string name="settings_font_size_picker_section">Sukat</string>
+    <string name="settings_font_size_preview_course_name">Kalkulo I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Linear na Algebra</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Laboratoryo ng Pisika</string>
+    <string name="settings_font_size_preview_footer">Nag-a-update ang preview habang inii-drag mo ang slider.</string>
+    <string name="settings_font_size_preview_section">Preview</string>
+    <string name="settings_font_size_reset_button">I-reset sa default</string>
+    <string name="settings_font_size_summary">Ayusin kung gaano kalaki ang ipinapakitang pangalan ng kurso sa iskedyul ng klase at mga widget.</string>
+    <string name="settings_font_size_title">Sukat ng pangalan ng kurso</string>
     <string name="settings_invert_slider_direction">I-invert ang direksyon ng slider</string>
     <string name="settings_language">Wika (Language)</string>
     <string name="settings_language_english">English</string>

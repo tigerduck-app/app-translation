@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">ਲਾਇਬ੍ਰੇਰੀ QR ਖੋਲ੍ਹਣ ਲਈ ਫ਼ੋਨ ਨੂੰ ਸਕਰੀਨ ਹੇਠਾਂ ਕਰਕੇ ਫਲਿੱਪ ਕਰੋ।</string>
     <string name="settings_flip_to_library_title">ਲਾਇਬ੍ਰੇਰੀ QR ਦਿਖਾਉਣ ਲਈ ਫਲਿੱਪ ਕਰੋ</string>
     <string name="settings_flip_to_library_unsupported">ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਵਿੱਚ ਲੋੜੀਂਦਾ ਸੈਂਸਰ ਨਹੀਂ ਹੈ।</string>
+    <string name="settings_font_size_picker_section">ਆਕਾਰ</string>
+    <string name="settings_font_size_preview_course_name">ਕੈਲਕੁਲਸ I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">ਰੇਖਿਕ ਅਲਜਬਰਾ</string>
+    <string name="settings_font_size_preview_course_name_alt_2">ਭੌਤਿਕ ਵਿਗਿਆਨ ਪ੍ਰਯੋਗਸ਼ਾਲਾ</string>
+    <string name="settings_font_size_preview_footer">ਜਿਵੇਂ ਤੁਸੀਂ ਸਲਾਈਡਰ ਨੂੰ ਖਿੱਚਦੇ ਹੋ, ਪ੍ਰੀਵਿਊ ਅੱਪਡੇਟ ਹੁੰਦਾ ਹੈ।</string>
+    <string name="settings_font_size_preview_section">ਪ੍ਰੀਵਿਊ</string>
+    <string name="settings_font_size_reset_button">ਮੂਲ ਰੂਪ ਵਿੱਚ ਰੀਸੈੱਟ ਕਰੋ</string>
+    <string name="settings_font_size_summary">ਸੈੱਟ ਕਰੋ ਕਿ ਕਲਾਸ ਸਾਰਣੀ ਅਤੇ ਵਿਜੇਟਾਂ ਵਿੱਚ ਕੋਰਸ ਦਾ ਨਾਮ ਕਿੰਨਾ ਵੱਡਾ ਦਿਖਾਈ ਦੇਵੇ।</string>
+    <string name="settings_font_size_title">ਕੋਰਸ ਨਾਮ ਦਾ ਆਕਾਰ</string>
     <string name="settings_invert_slider_direction">ਸਲਾਈਡਰ ਦਿਸ਼ਾ ਉਲਟੀ ਕਰੋ</string>
     <string name="settings_language">ਭਾਸ਼ਾ (Language)</string>
     <string name="settings_language_english">ਅੰਗਰੇਜ਼ੀ</string>

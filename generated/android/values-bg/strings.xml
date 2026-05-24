@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Обърни телефона с екрана надолу, за да отвориш QR на библиотеката.</string>
     <string name="settings_flip_to_library_title">Обърни за показване на QR на библиотеката</string>
     <string name="settings_flip_to_library_unsupported">Устройството ти няма необходимия сензор.</string>
+    <string name="settings_font_size_picker_section">Размер</string>
+    <string name="settings_font_size_preview_course_name">Анализ 1</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Линейна алгебра</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Лаборатория по физика</string>
+    <string name="settings_font_size_preview_footer">Прегледът се обновява, докато плъзгаш плъзгача.</string>
+    <string name="settings_font_size_preview_section">Преглед</string>
+    <string name="settings_font_size_reset_button">Възстанови по подразбиране</string>
+    <string name="settings_font_size_summary">Регулирай колко голямо се показва името на курса в разписанието и уиджетите.</string>
+    <string name="settings_font_size_title">Размер на името на курса</string>
     <string name="settings_invert_slider_direction">Обръщане на посоката на плъзгача</string>
     <string name="settings_language">Език (Language)</string>
     <string name="settings_language_english">English</string>

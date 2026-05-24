@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Lege das Handy mit dem Display nach unten, um den Bibliotheks-QR zu öffnen.</string>
     <string name="settings_flip_to_library_title">Bibliotheks-QR per Umdrehen anzeigen</string>
     <string name="settings_flip_to_library_unsupported">Dieses Gerät verfügt nicht über den erforderlichen Sensor.</string>
+    <string name="settings_font_size_picker_section">Größe</string>
+    <string name="settings_font_size_preview_course_name">Analysis I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Lineare Algebra</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Physikpraktikum</string>
+    <string name="settings_font_size_preview_footer">Die Vorschau aktualisiert sich, während du den Schieberegler bewegst.</string>
+    <string name="settings_font_size_preview_section">Vorschau</string>
+    <string name="settings_font_size_reset_button">Auf Standard zurücksetzen</string>
+    <string name="settings_font_size_summary">Lege fest, wie groß der Kursname im Stundenplan und in den Widgets angezeigt wird.</string>
+    <string name="settings_font_size_title">Kursnamengröße</string>
     <string name="settings_invert_slider_direction">Schieberichtung umkehren</string>
     <string name="settings_language">Sprache (Language)</string>
     <string name="settings_language_english">Englisch</string>

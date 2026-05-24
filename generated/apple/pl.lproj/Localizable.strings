@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Odwróć telefon ekranem w dół, aby otworzyć QR biblioteki.";
 "settings_flip_to_library_title" = "Odwróć, aby pokazać QR biblioteki";
 "settings_flip_to_library_unsupported" = "Twoje urządzenie nie ma wymaganego czujnika.";
+"settings_font_size_picker_section" = "Rozmiar";
+"settings_font_size_preview_course_name" = "Analiza matematyczna I";
+"settings_font_size_preview_course_name_alt_1" = "Algebra liniowa";
+"settings_font_size_preview_course_name_alt_2" = "Pracownia fizyczna";
+"settings_font_size_preview_footer" = "Podgląd aktualizuje się podczas przesuwania suwaka.";
+"settings_font_size_preview_section" = "Podgląd";
+"settings_font_size_reset_button" = "Przywróć ustawienia domyślne";
+"settings_font_size_summary" = "Dostosuj wielkość, w jakiej nazwa przedmiotu pojawia się w planie zajęć i widżetach.";
+"settings_font_size_title" = "Wielkość nazwy przedmiotu";
 "settings_invert_slider_direction" = "Odwróć kierunek suwaka";
 "settings_language" = "Język (Language)";
 "settings_language_english" = "Angielski";

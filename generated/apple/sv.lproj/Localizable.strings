@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Vänd telefonen med skärmen nedåt för att öppna bibliotekets QR.";
 "settings_flip_to_library_title" = "Vänd för att visa bibliotekets QR";
 "settings_flip_to_library_unsupported" = "Enheten saknar den nödvändiga sensorn.";
+"settings_font_size_picker_section" = "Storlek";
+"settings_font_size_preview_course_name" = "Envariabelanalys";
+"settings_font_size_preview_course_name_alt_1" = "Linjär algebra";
+"settings_font_size_preview_course_name_alt_2" = "Fysiklaboration";
+"settings_font_size_preview_footer" = "Förhandsvisningen uppdateras när du drar i reglaget.";
+"settings_font_size_preview_section" = "Förhandsvisning";
+"settings_font_size_reset_button" = "Återställ till standard";
+"settings_font_size_summary" = "Justera hur stort kursnamnet visas i schemat och widgetarna.";
+"settings_font_size_title" = "Kursnamnets storlek";
 "settings_invert_slider_direction" = "Invertera skjutreglageriktning";
 "settings_language" = "Språk (Language)";
 "settings_language_english" = "English";

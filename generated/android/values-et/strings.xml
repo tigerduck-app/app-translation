@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Pööra telefon ekraaniga allapoole, et avada raamatukogu QR.</string>
     <string name="settings_flip_to_library_title">Pööra raamatukogu QR-i näitamiseks</string>
     <string name="settings_flip_to_library_unsupported">Seadmel puudub vajalik andur.</string>
+    <string name="settings_font_size_picker_section">Suurus</string>
+    <string name="settings_font_size_preview_course_name">Matemaatiline analüüs I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Lineaaralgebra</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Füüsika praktikum</string>
+    <string name="settings_font_size_preview_footer">Eelvaade uueneb liuguri lohistamisel.</string>
+    <string name="settings_font_size_preview_section">Eelvaade</string>
+    <string name="settings_font_size_reset_button">Lähtesta vaikeväärtustele</string>
+    <string name="settings_font_size_summary">Reguleeri, kui suurelt kuvatakse aine nimi tunniplaanis ja vidinates.</string>
+    <string name="settings_font_size_title">Aine nime suurus</string>
     <string name="settings_invert_slider_direction">Pööra liuguri suund ümber</string>
     <string name="settings_language">Keel (Language)</string>
     <string name="settings_language_english">English</string>

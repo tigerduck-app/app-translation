@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">ಲೈಬ್ರರಿ QR ತೆರೆಯಲು ಫೋನ್ ಅನ್ನು ಸ್ಕ್ರೀನ್ ಕೆಳಕ್ಕೆ ಮಾಡಿ ಫ್ಲಿಪ್ ಮಾಡಿ.</string>
     <string name="settings_flip_to_library_title">ಲೈಬ್ರರಿ QR ತೋರಿಸಲು ಫ್ಲಿಪ್ ಮಾಡಿ</string>
     <string name="settings_flip_to_library_unsupported">ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಅಗತ್ಯ ಸೆನ್ಸರ್ ಇಲ್ಲ.</string>
+    <string name="settings_font_size_picker_section">ಗಾತ್ರ</string>
+    <string name="settings_font_size_preview_course_name">ಕಲನಶಾಸ್ತ್ರ I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">ರೇಖೀಯ ಬೀಜಗಣಿತ</string>
+    <string name="settings_font_size_preview_course_name_alt_2">ಭೌತಶಾಸ್ತ್ರ ಪ್ರಯೋಗಾಲಯ</string>
+    <string name="settings_font_size_preview_footer">ಸ್ಲೈಡರ್ ಅನ್ನು ಎಳೆದಂತೆ ಪೂರ್ವವೀಕ್ಷಣೆ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತದೆ.</string>
+    <string name="settings_font_size_preview_section">ಪೂರ್ವವೀಕ್ಷಣೆ</string>
+    <string name="settings_font_size_reset_button">ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರುಹೊಂದಿಸಿ</string>
+    <string name="settings_font_size_summary">ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ಮತ್ತು ವಿಜೆಟ್‌ಗಳಲ್ಲಿ ಕೋರ್ಸ್ ಹೆಸರು ಎಷ್ಟು ದೊಡ್ಡದಾಗಿ ಕಾಣಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಸರಿಹೊಂದಿಸಿ.</string>
+    <string name="settings_font_size_title">ಕೋರ್ಸ್ ಹೆಸರಿನ ಗಾತ್ರ</string>
     <string name="settings_invert_slider_direction">ಸ್ಲೈಡರ್ ದಿಕ್ಕು ತಿರುಗಿಸಿ</string>
     <string name="settings_language">ಭಾಷೆ (Language)</string>
     <string name="settings_language_english">ಇಂಗ್ಲಿಷ್</string>

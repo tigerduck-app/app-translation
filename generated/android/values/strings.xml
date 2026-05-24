@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Flip your phone face-down to open the library QR.</string>
     <string name="settings_flip_to_library_title">Flip to show library QR</string>
     <string name="settings_flip_to_library_unsupported">Your device doesn\'t have the required sensor.</string>
+    <string name="settings_font_size_picker_section">Size</string>
+    <string name="settings_font_size_preview_course_name">Calculus I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Linear Algebra</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Physics Lab</string>
+    <string name="settings_font_size_preview_footer">Preview updates as you drag the slider.</string>
+    <string name="settings_font_size_preview_section">Preview</string>
+    <string name="settings_font_size_reset_button">Reset to default</string>
+    <string name="settings_font_size_summary">Adjust how large the course name appears in the class table and widgets.</string>
+    <string name="settings_font_size_title">Course name size</string>
     <string name="settings_invert_slider_direction">Invert slider direction</string>
     <string name="settings_language">Language</string>
     <string name="settings_language_english">English</string>

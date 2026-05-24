@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Käännä puhelin näyttö alaspäin avataksesi kirjaston QR-koodin.";
 "settings_flip_to_library_title" = "Käännä kirjaston QR-koodin näyttämiseksi";
 "settings_flip_to_library_unsupported" = "Laitteesta puuttuu tarvittava anturi.";
+"settings_font_size_picker_section" = "Koko";
+"settings_font_size_preview_course_name" = "Differentiaali- ja integraalilaskenta I";
+"settings_font_size_preview_course_name_alt_1" = "Lineaarialgebra";
+"settings_font_size_preview_course_name_alt_2" = "Fysiikan laboratorio";
+"settings_font_size_preview_footer" = "Esikatselu päivittyy, kun liikutat liukusäädintä.";
+"settings_font_size_preview_section" = "Esikatselu";
+"settings_font_size_reset_button" = "Palauta oletukseksi";
+"settings_font_size_summary" = "Säädä, kuinka suurena kurssin nimi näkyy lukujärjestyksessä ja widgeteissä.";
+"settings_font_size_title" = "Kurssin nimen koko";
 "settings_invert_slider_direction" = "Käännä liukusäätimen suunta";
 "settings_language" = "Kieli (Language)";
 "settings_language_english" = "Englanti";

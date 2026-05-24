@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "लाइब्रेरी QR खोलने के लिए फ़ोन को स्क्रीन नीचे करके पलटें।";
 "settings_flip_to_library_title" = "लाइब्रेरी QR दिखाने के लिए पलटें";
 "settings_flip_to_library_unsupported" = "आपके डिवाइस में आवश्यक सेंसर नहीं है।";
+"settings_font_size_picker_section" = "आकार";
+"settings_font_size_preview_course_name" = "कैलकुलस I";
+"settings_font_size_preview_course_name_alt_1" = "रैखिक बीजगणित";
+"settings_font_size_preview_course_name_alt_2" = "भौतिकी प्रयोगशाला";
+"settings_font_size_preview_footer" = "जब आप स्लाइडर खींचते हैं तो पूर्वावलोकन अपडेट होता है।";
+"settings_font_size_preview_section" = "पूर्वावलोकन";
+"settings_font_size_reset_button" = "डिफ़ॉल्ट पर रीसेट करें";
+"settings_font_size_summary" = "समायोजित करें कि कक्षा सारणी और विजेट में पाठ्यक्रम का नाम कितना बड़ा दिखाई दे।";
+"settings_font_size_title" = "पाठ्यक्रम का नाम आकार";
 "settings_invert_slider_direction" = "स्लाइडर दिशा उलटें";
 "settings_language" = "भाषा (Language)";
 "settings_language_english" = "English";

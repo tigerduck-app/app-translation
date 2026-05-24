@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Кітапхана QR-ын ашу үшін телефонды экраны төмен қаратып аудар.";
 "settings_flip_to_library_title" = "Кітапхана QR-ын көрсету үшін аудар";
 "settings_flip_to_library_unsupported" = "Құрылғыңызда қажетті датчик жоқ.";
+"settings_font_size_picker_section" = "Өлшем";
+"settings_font_size_preview_course_name" = "Математикалық талдау I";
+"settings_font_size_preview_course_name_alt_1" = "Сызықтық алгебра";
+"settings_font_size_preview_course_name_alt_2" = "Физика зертханасы";
+"settings_font_size_preview_footer" = "Жүгірткіні жылжытқан сайын алдын ала қарау жаңарады.";
+"settings_font_size_preview_section" = "Алдын ала қарау";
+"settings_font_size_reset_button" = "Әдепкіге қайтару";
+"settings_font_size_summary" = "Сабақ кестесі мен виджеттерде сабақ атауының қаншалықты үлкен көрінетінін реттеңіз.";
+"settings_font_size_title" = "Сабақ атауының өлшемі";
 "settings_invert_slider_direction" = "Жүгірткі бағытын кері айналдыру";
 "settings_language" = "Тіл (Language)";
 "settings_language_english" = "English";

@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Obrni telefon z zaslonom navzdol, da odpreš QR knjižnice.";
 "settings_flip_to_library_title" = "Obrni za prikaz QR knjižnice";
 "settings_flip_to_library_unsupported" = "Naprava nima zahtevanega senzorja.";
+"settings_font_size_picker_section" = "Velikost";
+"settings_font_size_preview_course_name" = "Matematična analiza I";
+"settings_font_size_preview_course_name_alt_1" = "Linearna algebra";
+"settings_font_size_preview_course_name_alt_2" = "Fizikalni laboratorij";
+"settings_font_size_preview_footer" = "Predogled se posodablja, ko vlečete drsnik.";
+"settings_font_size_preview_section" = "Predogled";
+"settings_font_size_reset_button" = "Ponastavi na privzeto";
+"settings_font_size_summary" = "Prilagodite, kako veliko se ime predmeta prikaže v urniku in gradnikih.";
+"settings_font_size_title" = "Velikost imena predmeta";
 "settings_invert_slider_direction" = "Obrni smer drsnika";
 "settings_language" = "Jezik (Language)";
 "settings_language_english" = "Angleščina";

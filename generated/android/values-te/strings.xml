@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">లైబ్రరీ QR తెరవడానికి ఫోన్‌ని స్క్రీన్ కిందకు పెట్టి తిప్పండి.</string>
     <string name="settings_flip_to_library_title">లైబ్రరీ QR చూపించడానికి తిప్పండి</string>
     <string name="settings_flip_to_library_unsupported">మీ పరికరానికి అవసరమైన సెన్సార్ లేదు.</string>
+    <string name="settings_font_size_picker_section">సైజ్</string>
+    <string name="settings_font_size_preview_course_name">కాలిక్యులస్ I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">లీనియర్ ఆల్జీబ్రా</string>
+    <string name="settings_font_size_preview_course_name_alt_2">ఫిజిక్స్ ల్యాబ్</string>
+    <string name="settings_font_size_preview_footer">మీరు స్లైడర్‌ను లాగినప్పుడు ప్రివ్యూ అప్‌డేట్ అవుతుంది.</string>
+    <string name="settings_font_size_preview_section">ప్రివ్యూ</string>
+    <string name="settings_font_size_reset_button">డిఫాల్ట్‌కు రీసెట్ చేయండి</string>
+    <string name="settings_font_size_summary">తరగతి షెడ్యూల్ మరియు విడ్జెట్‌లలో కోర్సు పేరు ఎంత పెద్దగా కనిపిస్తుందో సర్దుబాటు చేయండి.</string>
+    <string name="settings_font_size_title">కోర్సు పేరు సైజ్</string>
     <string name="settings_invert_slider_direction">స్లైడర్ దిశ తిరగబెట్టండి</string>
     <string name="settings_language">భాష (Language)</string>
     <string name="settings_language_english">ఇంగ్లీష్</string>

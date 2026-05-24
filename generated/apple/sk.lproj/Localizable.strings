@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Otočte telefón obrazovkou nadol a otvoríte QR knižnice.";
 "settings_flip_to_library_title" = "Otočiť pre zobrazenie QR knižnice";
 "settings_flip_to_library_unsupported" = "Vaše zariadenie nemá potrebný senzor.";
+"settings_font_size_picker_section" = "Veľkosť";
+"settings_font_size_preview_course_name" = "Matematická analýza I";
+"settings_font_size_preview_course_name_alt_1" = "Lineárna algebra";
+"settings_font_size_preview_course_name_alt_2" = "Fyzikálne laboratórium";
+"settings_font_size_preview_footer" = "Ukážka sa aktualizuje pri posúvaní posuvníka.";
+"settings_font_size_preview_section" = "Ukážka";
+"settings_font_size_reset_button" = "Obnoviť predvolené";
+"settings_font_size_summary" = "Nastavte, ako veľký je názov predmetu v rozvrhu a widgetoch.";
+"settings_font_size_title" = "Veľkosť názvu predmetu";
 "settings_invert_slider_direction" = "Invertovať smer posuvníka";
 "settings_language" = "Jazyk (Language)";
 "settings_language_english" = "Angličtina";

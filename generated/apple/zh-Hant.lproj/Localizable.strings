@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "將手機螢幕朝下即可開啟圖書館 QR。";
 "settings_flip_to_library_title" = "翻轉顯示圖書館 QR";
 "settings_flip_to_library_unsupported" = "此裝置缺少所需的感應器。";
+"settings_font_size_picker_section" = "尺寸";
+"settings_font_size_preview_course_name" = "微積分（一）";
+"settings_font_size_preview_course_name_alt_1" = "線性代數";
+"settings_font_size_preview_course_name_alt_2" = "普通物理實驗";
+"settings_font_size_preview_footer" = "預覽會隨著滑桿即時更新。";
+"settings_font_size_preview_section" = "預覽";
+"settings_font_size_reset_button" = "回復預設值";
+"settings_font_size_summary" = "調整課表與 Widget 中課程名稱的顯示大小。";
+"settings_font_size_title" = "課名字體大小";
 "settings_invert_slider_direction" = "反轉滑條方向";
 "settings_language" = "語言 (Language)";
 "settings_language_english" = "English";

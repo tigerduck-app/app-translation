@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Vire o telemóvel com o ecrã para baixo para abrir o QR da biblioteca.</string>
     <string name="settings_flip_to_library_title">Virar para mostrar o QR da biblioteca</string>
     <string name="settings_flip_to_library_unsupported">O seu dispositivo não tem o sensor necessário.</string>
+    <string name="settings_font_size_picker_section">Tamanho</string>
+    <string name="settings_font_size_preview_course_name">Cálculo I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Álgebra Linear</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Laboratório de Física</string>
+    <string name="settings_font_size_preview_footer">A pré-visualização atualiza-se à medida que arrasta o cursor.</string>
+    <string name="settings_font_size_preview_section">Pré-visualização</string>
+    <string name="settings_font_size_reset_button">Repor predefinição</string>
+    <string name="settings_font_size_summary">Ajuste o tamanho com que o nome da disciplina aparece no horário e nos widgets.</string>
+    <string name="settings_font_size_title">Tamanho do nome da disciplina</string>
     <string name="settings_invert_slider_direction">Inverter direção do cursor</string>
     <string name="settings_language">Idioma (Language)</string>
     <string name="settings_language_english">Inglês</string>

@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Окрените телефон екраном надоле да отворите QR библиотеке.</string>
     <string name="settings_flip_to_library_title">Окрени за приказ QR-а библиотеке</string>
     <string name="settings_flip_to_library_unsupported">Ваш уређај нема потребни сензор.</string>
+    <string name="settings_font_size_picker_section">Величина</string>
+    <string name="settings_font_size_preview_course_name">Математичка анализа I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Линеарна алгебра</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Лабораторија из физике</string>
+    <string name="settings_font_size_preview_footer">Преглед се ажурира док превлачите клизач.</string>
+    <string name="settings_font_size_preview_section">Преглед</string>
+    <string name="settings_font_size_reset_button">Врати на подразумевано</string>
+    <string name="settings_font_size_summary">Подесите колико велико се име предмета приказује у распореду и виџетима.</string>
+    <string name="settings_font_size_title">Величина имена предмета</string>
     <string name="settings_invert_slider_direction">Обрни смер клизача</string>
     <string name="settings_language">Језик (Language)</string>
     <string name="settings_language_english">Енглески</string>

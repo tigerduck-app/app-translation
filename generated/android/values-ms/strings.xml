@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Balik telefon dengan skrin menghadap bawah untuk membuka QR perpustakaan.</string>
     <string name="settings_flip_to_library_title">Balik untuk tunjuk QR perpustakaan</string>
     <string name="settings_flip_to_library_unsupported">Peranti anda tidak mempunyai penderia yang diperlukan.</string>
+    <string name="settings_font_size_picker_section">Saiz</string>
+    <string name="settings_font_size_preview_course_name">Kalkulus I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Algebra Linear</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Makmal Fizik</string>
+    <string name="settings_font_size_preview_footer">Pratonton dikemas kini apabila anda menyeret gelongsor.</string>
+    <string name="settings_font_size_preview_section">Pratonton</string>
+    <string name="settings_font_size_reset_button">Tetapkan semula ke lalai</string>
+    <string name="settings_font_size_summary">Laraskan saiz nama kursus dalam jadual kelas dan widget.</string>
+    <string name="settings_font_size_title">Saiz nama kursus</string>
     <string name="settings_invert_slider_direction">Songsangkan arah gelongsor</string>
     <string name="settings_language">Bahasa (Language)</string>
     <string name="settings_language_english">English</string>

@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "লাইব্রেরি QR খুলতে ফোনটি স্ক্রিন নিচু করে উল্টান।";
 "settings_flip_to_library_title" = "লাইব্রেরি QR দেখাতে উল্টান";
 "settings_flip_to_library_unsupported" = "আপনার ডিভাইসে প্রয়োজনীয় সেন্সর নেই।";
+"settings_font_size_picker_section" = "সাইজ";
+"settings_font_size_preview_course_name" = "ক্যালকুলাস ১";
+"settings_font_size_preview_course_name_alt_1" = "লিনিয়ার অ্যালজেব্রা";
+"settings_font_size_preview_course_name_alt_2" = "পদার্থবিদ্যা ল্যাব";
+"settings_font_size_preview_footer" = "স্লাইডার টানার সাথে সাথে প্রিভিউ আপডেট হয়।";
+"settings_font_size_preview_section" = "প্রিভিউ";
+"settings_font_size_reset_button" = "ডিফল্টে রিসেট করুন";
+"settings_font_size_summary" = "ক্লাস তালিকা এবং উইজেটে কোর্সের নাম কত বড় দেখাবে তা সামঞ্জস্য করুন।";
+"settings_font_size_title" = "কোর্সের নামের সাইজ";
 "settings_invert_slider_direction" = "স্লাইডারের দিক উল্টান";
 "settings_language" = "ভাষা (Language)";
 "settings_language_english" = "ইংরেজি";

@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "لائبریری QR کھولنے کے لیے فون کو اسکرین نیچے کر کے پلٹائیں۔";
 "settings_flip_to_library_title" = "لائبریری QR دکھانے کے لیے پلٹائیں";
 "settings_flip_to_library_unsupported" = "آپ کے آلے میں مطلوبہ سینسر نہیں ہے۔";
+"settings_font_size_picker_section" = "سائز";
+"settings_font_size_preview_course_name" = "کیلکولس I";
+"settings_font_size_preview_course_name_alt_1" = "لکیری الجبرا";
+"settings_font_size_preview_course_name_alt_2" = "فزکس لیب";
+"settings_font_size_preview_footer" = "جب آپ سلائیڈر گھسیٹیں گے تو پیش منظر اپڈیٹ ہو جائے گا۔";
+"settings_font_size_preview_section" = "پیش منظر";
+"settings_font_size_reset_button" = "ڈیفالٹ پر دوبارہ مرتب کریں";
+"settings_font_size_summary" = "کلاس شیڈول اور ویجٹس میں کورس کا نام کتنا بڑا نظر آئے گا، اسے ایڈجسٹ کریں۔";
+"settings_font_size_title" = "کورس کے نام کا سائز";
 "settings_invert_slider_direction" = "سلائیڈر کی سمت پلٹائیں";
 "settings_language" = "(Language) زبان";
 "settings_language_english" = "انگریزی";

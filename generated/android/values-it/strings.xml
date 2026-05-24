@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Capovolgi il telefono con lo schermo verso il basso per aprire il QR della biblioteca.</string>
     <string name="settings_flip_to_library_title">Capovolgi per mostrare il QR della biblioteca</string>
     <string name="settings_flip_to_library_unsupported">Il dispositivo non dispone del sensore richiesto.</string>
+    <string name="settings_font_size_picker_section">Dimensione</string>
+    <string name="settings_font_size_preview_course_name">Analisi I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Algebra Lineare</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Laboratorio di Fisica</string>
+    <string name="settings_font_size_preview_footer">L\'anteprima si aggiorna mentre trascini il cursore.</string>
+    <string name="settings_font_size_preview_section">Anteprima</string>
+    <string name="settings_font_size_reset_button">Ripristina predefinito</string>
+    <string name="settings_font_size_summary">Regola la dimensione con cui appare il nome del corso nell\'orario delle lezioni e nei widget.</string>
+    <string name="settings_font_size_title">Dimensione nome corso</string>
     <string name="settings_invert_slider_direction">Inverti la direzione del cursore</string>
     <string name="settings_language">Lingua (Language)</string>
     <string name="settings_language_english">Inglese</string>

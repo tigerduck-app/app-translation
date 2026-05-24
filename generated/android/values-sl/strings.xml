@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Obrni telefon z zaslonom navzdol, da odpreš QR knjižnice.</string>
     <string name="settings_flip_to_library_title">Obrni za prikaz QR knjižnice</string>
     <string name="settings_flip_to_library_unsupported">Naprava nima zahtevanega senzorja.</string>
+    <string name="settings_font_size_picker_section">Velikost</string>
+    <string name="settings_font_size_preview_course_name">Matematična analiza I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Linearna algebra</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Fizikalni laboratorij</string>
+    <string name="settings_font_size_preview_footer">Predogled se posodablja, ko vlečete drsnik.</string>
+    <string name="settings_font_size_preview_section">Predogled</string>
+    <string name="settings_font_size_reset_button">Ponastavi na privzeto</string>
+    <string name="settings_font_size_summary">Prilagodite, kako veliko se ime predmeta prikaže v urniku in gradnikih.</string>
+    <string name="settings_font_size_title">Velikost imena predmeta</string>
     <string name="settings_invert_slider_direction">Obrni smer drsnika</string>
     <string name="settings_language">Jezik (Language)</string>
     <string name="settings_language_english">Angleščina</string>

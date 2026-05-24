@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Kütüphane QR'ını açmak için telefonu ekran aşağı gelecek şekilde çevir.";
 "settings_flip_to_library_title" = "Kütüphane QR'ını göstermek için çevir";
 "settings_flip_to_library_unsupported" = "Cihazınızda gerekli sensör bulunmuyor.";
+"settings_font_size_picker_section" = "Boyut";
+"settings_font_size_preview_course_name" = "Kalkülüs I";
+"settings_font_size_preview_course_name_alt_1" = "Lineer Cebir";
+"settings_font_size_preview_course_name_alt_2" = "Fizik Laboratuvarı";
+"settings_font_size_preview_footer" = "Kaydırıcıyı sürükledikçe önizleme güncellenir.";
+"settings_font_size_preview_section" = "Önizleme";
+"settings_font_size_reset_button" = "Varsayılana sıfırla";
+"settings_font_size_summary" = "Ders adının ders programında ve widget'larda ne kadar büyük göründüğünü ayarlayın.";
+"settings_font_size_title" = "Ders adı boyutu";
 "settings_invert_slider_direction" = "Kaydırıcı yönünü ters çevir";
 "settings_language" = "Dil (Language)";
 "settings_language_english" = "İngilizce";

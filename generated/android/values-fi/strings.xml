@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Käännä puhelin näyttö alaspäin avataksesi kirjaston QR-koodin.</string>
     <string name="settings_flip_to_library_title">Käännä kirjaston QR-koodin näyttämiseksi</string>
     <string name="settings_flip_to_library_unsupported">Laitteesta puuttuu tarvittava anturi.</string>
+    <string name="settings_font_size_picker_section">Koko</string>
+    <string name="settings_font_size_preview_course_name">Differentiaali- ja integraalilaskenta I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Lineaarialgebra</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Fysiikan laboratorio</string>
+    <string name="settings_font_size_preview_footer">Esikatselu päivittyy, kun liikutat liukusäädintä.</string>
+    <string name="settings_font_size_preview_section">Esikatselu</string>
+    <string name="settings_font_size_reset_button">Palauta oletukseksi</string>
+    <string name="settings_font_size_summary">Säädä, kuinka suurena kurssin nimi näkyy lukujärjestyksessä ja widgeteissä.</string>
+    <string name="settings_font_size_title">Kurssin nimen koko</string>
     <string name="settings_invert_slider_direction">Käännä liukusäätimen suunta</string>
     <string name="settings_language">Kieli (Language)</string>
     <string name="settings_language_english">Englanti</string>

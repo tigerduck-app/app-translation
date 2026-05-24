@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "Preokrenite telefon zaslonom prema dolje da otvorite QR knjižnice.";
 "settings_flip_to_library_title" = "Preokreni za prikaz QR-a knjižnice";
 "settings_flip_to_library_unsupported" = "Uređaj nema potrebni senzor.";
+"settings_font_size_picker_section" = "Veličina";
+"settings_font_size_preview_course_name" = "Matematička analiza I";
+"settings_font_size_preview_course_name_alt_1" = "Linearna algebra";
+"settings_font_size_preview_course_name_alt_2" = "Praktikum iz fizike";
+"settings_font_size_preview_footer" = "Pregled se ažurira dok povlačite klizač.";
+"settings_font_size_preview_section" = "Pregled";
+"settings_font_size_reset_button" = "Vrati na zadano";
+"settings_font_size_summary" = "Prilagodite koliko velik naziv kolegija izgleda u rasporedu i widgetima.";
+"settings_font_size_title" = "Veličina naziva kolegija";
 "settings_invert_slider_direction" = "Obrni smjer klizača";
 "settings_language" = "Jezik (Language)";
 "settings_language_english" = "English";

@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "ਲਾਇਬ੍ਰੇਰੀ QR ਖੋਲ੍ਹਣ ਲਈ ਫ਼ੋਨ ਨੂੰ ਸਕਰੀਨ ਹੇਠਾਂ ਕਰਕੇ ਫਲਿੱਪ ਕਰੋ।";
 "settings_flip_to_library_title" = "ਲਾਇਬ੍ਰੇਰੀ QR ਦਿਖਾਉਣ ਲਈ ਫਲਿੱਪ ਕਰੋ";
 "settings_flip_to_library_unsupported" = "ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਵਿੱਚ ਲੋੜੀਂਦਾ ਸੈਂਸਰ ਨਹੀਂ ਹੈ।";
+"settings_font_size_picker_section" = "ਆਕਾਰ";
+"settings_font_size_preview_course_name" = "ਕੈਲਕੁਲਸ I";
+"settings_font_size_preview_course_name_alt_1" = "ਰੇਖਿਕ ਅਲਜਬਰਾ";
+"settings_font_size_preview_course_name_alt_2" = "ਭੌਤਿਕ ਵਿਗਿਆਨ ਪ੍ਰਯੋਗਸ਼ਾਲਾ";
+"settings_font_size_preview_footer" = "ਜਿਵੇਂ ਤੁਸੀਂ ਸਲਾਈਡਰ ਨੂੰ ਖਿੱਚਦੇ ਹੋ, ਪ੍ਰੀਵਿਊ ਅੱਪਡੇਟ ਹੁੰਦਾ ਹੈ।";
+"settings_font_size_preview_section" = "ਪ੍ਰੀਵਿਊ";
+"settings_font_size_reset_button" = "ਮੂਲ ਰੂਪ ਵਿੱਚ ਰੀਸੈੱਟ ਕਰੋ";
+"settings_font_size_summary" = "ਸੈੱਟ ਕਰੋ ਕਿ ਕਲਾਸ ਸਾਰਣੀ ਅਤੇ ਵਿਜੇਟਾਂ ਵਿੱਚ ਕੋਰਸ ਦਾ ਨਾਮ ਕਿੰਨਾ ਵੱਡਾ ਦਿਖਾਈ ਦੇਵੇ।";
+"settings_font_size_title" = "ਕੋਰਸ ਨਾਮ ਦਾ ਆਕਾਰ";
 "settings_invert_slider_direction" = "ਸਲਾਈਡਰ ਦਿਸ਼ਾ ਉਲਟੀ ਕਰੋ";
 "settings_language" = "ਭਾਸ਼ਾ (Language)";
 "settings_language_english" = "ਅੰਗਰੇਜ਼ੀ";

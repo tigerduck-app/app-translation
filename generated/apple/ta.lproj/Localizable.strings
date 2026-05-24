@@ -605,6 +605,15 @@
 "settings_flip_to_library_summary" = "நூலக QR திறக்க தொலைபேசியை திரை கீழே வைத்து திருப்பவும்.";
 "settings_flip_to_library_title" = "நூலக QR காட்ட திருப்பவும்";
 "settings_flip_to_library_unsupported" = "உங்கள் சாதனத்தில் தேவையான சென்சார் இல்லை.";
+"settings_font_size_picker_section" = "அளவு";
+"settings_font_size_preview_course_name" = "கால்குலஸ் I";
+"settings_font_size_preview_course_name_alt_1" = "நேரியல் இயற்கணிதம்";
+"settings_font_size_preview_course_name_alt_2" = "இயற்பியல் ஆய்வகம்";
+"settings_font_size_preview_footer" = "ஸ்லைடரை இழுக்கும்போது முன்னோட்டம் புதுப்பிக்கப்படும்.";
+"settings_font_size_preview_section" = "முன்னோட்டம்";
+"settings_font_size_reset_button" = "இயல்புக்கு மீட்டமை";
+"settings_font_size_summary" = "வகுப்பு அட்டவணை மற்றும் விட்ஜெட்களில் பாடப் பெயர் எவ்வளவு பெரியதாகத் தோன்றும் என்பதைச் சரிசெய்யவும்.";
+"settings_font_size_title" = "பாடப் பெயரின் அளவு";
 "settings_invert_slider_direction" = "ஸ்லைடர் திசையை மாற்று";
 "settings_language" = "மொழி (Language)";
 "settings_language_english" = "English";

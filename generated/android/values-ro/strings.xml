@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Întoarce telefonul cu ecranul în jos pentru a deschide QR-ul bibliotecii.</string>
     <string name="settings_flip_to_library_title">Întoarce pentru a afișa QR-ul bibliotecii</string>
     <string name="settings_flip_to_library_unsupported">Dispozitivul tău nu are senzorul necesar.</string>
+    <string name="settings_font_size_picker_section">Dimensiune</string>
+    <string name="settings_font_size_preview_course_name">Analiză matematică I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Algebră liniară</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Laborator de fizică</string>
+    <string name="settings_font_size_preview_footer">Previzualizarea se actualizează pe măsură ce tragi de glisor.</string>
+    <string name="settings_font_size_preview_section">Previzualizare</string>
+    <string name="settings_font_size_reset_button">Resetează la valoarea implicită</string>
+    <string name="settings_font_size_summary">Ajustează cât de mare apare numele cursului în orar și widgeturi.</string>
+    <string name="settings_font_size_title">Dimensiunea numelui cursului</string>
     <string name="settings_invert_slider_direction">Inversează direcția glisorului</string>
     <string name="settings_language">Limbă (Language)</string>
     <string name="settings_language_english">Engleză</string>

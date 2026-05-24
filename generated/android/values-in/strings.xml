@@ -572,6 +572,15 @@
     <string name="settings_flip_to_library_summary">Balik ponsel dengan layar menghadap bawah untuk membuka QR perpustakaan.</string>
     <string name="settings_flip_to_library_title">Balik untuk menampilkan QR perpustakaan</string>
     <string name="settings_flip_to_library_unsupported">Perangkat Anda tidak memiliki sensor yang diperlukan.</string>
+    <string name="settings_font_size_picker_section">Ukuran</string>
+    <string name="settings_font_size_preview_course_name">Kalkulus I</string>
+    <string name="settings_font_size_preview_course_name_alt_1">Aljabar Linear</string>
+    <string name="settings_font_size_preview_course_name_alt_2">Laboratorium Fisika</string>
+    <string name="settings_font_size_preview_footer">Pratinjau diperbarui saat Anda menggeser slider.</string>
+    <string name="settings_font_size_preview_section">Pratinjau</string>
+    <string name="settings_font_size_reset_button">Atur ulang ke bawaan</string>
+    <string name="settings_font_size_summary">Sesuaikan seberapa besar nama mata kuliah ditampilkan di jadwal kuliah dan widget.</string>
+    <string name="settings_font_size_title">Ukuran nama mata kuliah</string>
     <string name="settings_invert_slider_direction">Balik arah slider</string>
     <string name="settings_language">Bahasa (Language)</string>
     <string name="settings_language_english">English</string>
