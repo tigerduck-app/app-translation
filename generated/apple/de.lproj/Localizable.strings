@@ -582,7 +582,6 @@
 "score_semester_total_credits" = "%1$d Leistungspunkte";
 "score_semester_upper" = "Wintersemester";
 "score_term_format" = "Aktuelles Semester: %1$@-%2$@";
-"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Akzentfarbe";
 "settings_account_library_system" = "Bibliothekssystem";
 "settings_account_ntust_system" = "Hochschulsystem";

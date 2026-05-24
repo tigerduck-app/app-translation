@@ -582,7 +582,6 @@
 "score_semester_total_credits" = "%1$d credits";
 "score_semester_upper" = "Fall";
 "score_term_format" = "Current term: %1$@-%2$@";
-"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Accent color";
 "settings_account_library_system" = "Library system";
 "settings_account_ntust_system" = "School system";

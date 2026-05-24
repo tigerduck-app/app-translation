@@ -582,7 +582,6 @@
 "score_semester_total_credits" = "%1$d hp";
 "score_semester_upper" = "Höst";
 "score_term_format" = "Aktuell termin: %1$@-%2$@";
-"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Accentfärg";
 "settings_account_library_system" = "Bibliotekets system";
 "settings_account_ntust_system" = "Studentportal";

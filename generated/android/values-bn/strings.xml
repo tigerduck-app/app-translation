@@ -550,7 +550,6 @@
     <string name="score_semester_total_credits">%1$d ক্রেডিট</string>
     <string name="score_semester_upper">শরৎকাল</string>
     <string name="score_term_format">বর্তমান সেমিস্টার: %1$s-%2$s</string>
-    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">অ্যাকসেন্ট রং</string>
     <string name="settings_account_library_system">লাইব্রেরি সিস্টেম</string>
     <string name="settings_account_ntust_system">একাডেমিক সিস্টেম</string>

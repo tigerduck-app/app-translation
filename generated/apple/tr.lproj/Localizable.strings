@@ -582,7 +582,6 @@
 "score_semester_total_credits" = "%1$d kredi";
 "score_semester_upper" = "Güz";
 "score_term_format" = "Mevcut dönem: %1$@-%2$@";
-"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Vurgu rengi";
 "settings_account_library_system" = "Kütüphane sistemi";
 "settings_account_ntust_system" = "Öğrenci bilgi sistemi";

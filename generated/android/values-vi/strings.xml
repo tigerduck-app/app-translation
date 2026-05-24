@@ -550,7 +550,6 @@
     <string name="score_semester_total_credits">%1$d tín chỉ</string>
     <string name="score_semester_upper">Kỳ 1</string>
     <string name="score_term_format">Học kỳ hiện tại: %1$s-%2$s</string>
-    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">Màu nhấn</string>
     <string name="settings_account_library_system">Hệ thống thư viện</string>
     <string name="settings_account_ntust_system">Hệ thống học vụ</string>

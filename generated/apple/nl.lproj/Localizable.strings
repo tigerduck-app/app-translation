@@ -582,7 +582,6 @@
 "score_semester_total_credits" = "%1$d studiepunten";
 "score_semester_upper" = "Najaar";
 "score_term_format" = "Huidig semester: %1$@-%2$@";
-"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "Accentkleur";
 "settings_account_library_system" = "Bibliotheeksysteem";
 "settings_account_ntust_system" = "Studentenportaal";

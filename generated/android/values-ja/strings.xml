@@ -550,7 +550,6 @@
     <string name="score_semester_total_credits">%1$d 単位</string>
     <string name="score_semester_upper">前期</string>
     <string name="score_term_format">現在の学期：%1$s-%2$s</string>
-    <string name="screen_capture_protection_message">Content hidden for security while the screen is being recorded or mirrored.</string>
     <string name="settings_accent_color">アクセントカラー</string>
     <string name="settings_account_library_system">図書館システム</string>
     <string name="settings_account_ntust_system">校務システム</string>

@@ -582,7 +582,6 @@
 "score_semester_total_credits" = "%1$d 學分";
 "score_semester_upper" = "上";
 "score_term_format" = "目前學期：%1$@-%2$@";
-"screen_capture_protection_message" = "Content hidden for security while the screen is being recorded or mirrored.";
 "settings_accent_color" = "主題色";
 "settings_account_library_system" = "圖書館系統";
 "settings_account_ntust_system" = "校務系統";
