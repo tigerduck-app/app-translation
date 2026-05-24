@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "Ödev teslim hatırlatıcıları";
 "settings_browser_in_app" = "Uygulama içi tarayıcı";
 "settings_browser_system_default" = "Sistem varsayılan tarayıcısı";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "Derslik adı Mandarin dilinde olduğunda";
 "settings_classroom_mandarin_display_original" = "Orijinalini göster";
 "settings_classroom_mandarin_display_pinyin" = "Pinyini göster";
@@ -646,6 +647,8 @@
 "settings_section_display" = "Görünüm";
 "settings_section_notifications" = "Bildirimler";
 "settings_section_other_settings" = "Diğer ayarlar";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "Ödev teslim saatinde tam tarihi göster";
 "settings_theme_dark" = "Koyu mod";
 "settings_theme_light" = "Açık mod";
@@ -656,6 +659,7 @@
 "settings_version" = "Sürüm";
 "settings_view_source_code" = "Kaynak kodunu görüntüle";
 "settings_visual_preset_label" = "Arayüz stili";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "Bu uygulama";
 "source_code_picker_org_description" = "Organizasyon";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "Kullanılabilir sekmeler";
 "tab_editor_section_current_tabs" = "Mevcut sekmeler";
 "tab_editor_title" = "Sekme düzenleyici";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "Güncelleme indirildi ve yüklenmeye hazır.";
 "update_restart_action" = "Yeniden başlat";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "Geri";
 "watch_course_classroom_label" = "Sınıf";
 "watch_course_detail_title" = "Ders";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "Per";
 "weekday_tue_short" = "Sal";
 "weekday_wed_short" = "Çar";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "Sanal kütüphane geçiş QR Kodunu tek dokunuşla açın";
 "widget_library_shortcut_label" = "Kütüphane QR Kısayolu";
 "widget_library_shortcut_title" = "Kütüphane";

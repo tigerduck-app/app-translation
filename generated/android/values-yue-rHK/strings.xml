@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">作業到期提醒</string>
     <string name="settings_browser_in_app">App 內瀏覽器</string>
     <string name="settings_browser_system_default">系統預設瀏覽器</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">當課室名稱係普通話時</string>
     <string name="settings_classroom_mandarin_display_original">顯示原文</string>
     <string name="settings_classroom_mandarin_display_pinyin">顯示拼音</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">顯示</string>
     <string name="settings_section_notifications">通知</string>
     <string name="settings_section_other_settings">其他設定</string>
+    <string name="settings_server_push_footer">接收管理員手動發送的一次性通知。預設開啟。</string>
+    <string name="settings_server_push_label">伺服器通知</string>
     <string name="settings_show_absolute_assignment_time">作業截止時間顯示完整日期</string>
     <string name="settings_theme_dark">暗色模式</string>
     <string name="settings_theme_light">亮色模式</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">版本</string>
     <string name="settings_view_source_code">查看原始碼</string>
     <string name="settings_visual_preset_label">介面風格</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">呢個 App</string>
     <string name="source_code_picker_org_description">機構</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">其他可用的 Tab</string>
     <string name="tab_editor_section_current_tabs">目前的 Tab</string>
     <string name="tab_editor_title">Tab 編輯器</string>
+    <string name="tag_server_notification">伺服器通知</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">更新已下載完成，準備安裝。</string>
     <string name="update_restart_action">重新啟動</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">部分手機嘅震動馬達質素較差，過弱或過短嘅震動可能完全感受唔到。若感受唔到震動，請試吓調高強度或時長。建議先試試「中」預設。</string>
     <string name="vibration_settings_revert">還原預設</string>
     <string name="vibration_settings_section_length_ms">長度 (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">四</string>
     <string name="weekday_tue_short">二</string>
     <string name="weekday_wed_short">三</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">一鍵開啟虛擬入館證 QR Code</string>
     <string name="widget_library_shortcut_label">圖書館 QR 捷徑</string>
     <string name="widget_library_shortcut_title">圖書館</string>

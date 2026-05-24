@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">Påminnelser om uppgifter</string>
     <string name="settings_browser_in_app">Webbläsare i appen</string>
     <string name="settings_browser_system_default">Systemets standardwebbläsare</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">När klassrummets namn är på kinesiska</string>
     <string name="settings_classroom_mandarin_display_original">Visa original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Visa pinyin</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">Visning</string>
     <string name="settings_section_notifications">Aviseringar</string>
     <string name="settings_section_other_settings">Övriga inställningar</string>
+    <string name="settings_server_push_footer">Receive one-off notifications sent manually by the operator. Default on.</string>
+    <string name="settings_server_push_label">Server notifications</string>
     <string name="settings_show_absolute_assignment_time">Visa fullständigt datum för uppgiftens förfallodatum</string>
     <string name="settings_theme_dark">Mörkt läge</string>
     <string name="settings_theme_light">Ljust läge</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">Version</string>
     <string name="settings_view_source_code">Visa källkod</string>
     <string name="settings_visual_preset_label">Gränssnittsstil</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">Den här appen</string>
     <string name="source_code_picker_org_description">Organisation</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">Tillgängliga flikar</string>
     <string name="tab_editor_section_current_tabs">Nuvarande flikar</string>
     <string name="tab_editor_title">Flikredigerare</string>
+    <string name="tag_server_notification">Server notification</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">Uppdateringen är nedladdad och redo att installeras.</string>
     <string name="update_restart_action">Starta om</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">Vissa telefoner har vibrationsmotorer av lägre kvalitet som kan ignorera mycket svaga eller mycket korta vibrationer. Om du inte kan känna en inställning, prova att öka dess styrka eller längd. Du kan börja med att prova förinställningen \"Medel\".</string>
     <string name="vibration_settings_revert">Återställ standard</string>
     <string name="vibration_settings_section_length_ms">Varaktighet (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">Tor</string>
     <string name="weekday_tue_short">Tis</string>
     <string name="weekday_wed_short">Ons</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">Öppna det virtuella bibliotekskortet som QR-kod med ett tryck</string>
     <string name="widget_library_shortcut_label">Biblioteks QR-kod-genväg</string>
     <string name="widget_library_shortcut_title">Bibliotek</string>

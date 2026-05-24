@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "అసైన్‌మెంట్ గడువు రిమైండర్లు";
 "settings_browser_in_app" = "యాప్ లోపల బ్రౌజర్";
 "settings_browser_system_default" = "సిస్టమ్ డిఫాల్ట్ బ్రౌజర్";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "తరగతి గది పేరు చైనీస్‌లో ఉన్నప్పుడు";
 "settings_classroom_mandarin_display_original" = "మూలాన్ని చూపించు";
 "settings_classroom_mandarin_display_pinyin" = "పిన్యిన్ చూపించు";
@@ -646,6 +647,8 @@
 "settings_section_display" = "డిస్‌ప్లే";
 "settings_section_notifications" = "నోటిఫికేషన్లు";
 "settings_section_other_settings" = "ఇతర సెట్టింగులు";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "అసైన్‌మెంట్ గడువు సమయానికి పూర్తి తేదీ చూపించు";
 "settings_theme_dark" = "డార్క్ మోడ్";
 "settings_theme_light" = "లైట్ మోడ్";
@@ -656,6 +659,7 @@
 "settings_version" = "వెర్షన్";
 "settings_view_source_code" = "సోర్స్ కోడ్ చూడండి";
 "settings_visual_preset_label" = "ఇంటర్‌ఫేస్ స్టైల్";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "ప్రస్తుత యాప్";
 "source_code_picker_org_description" = "సంస్థ";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "అందుబాటులో ఉన్న ట్యాబ్‌లు";
 "tab_editor_section_current_tabs" = "ప్రస్తుత ట్యాబ్‌లు";
 "tab_editor_title" = "ట్యాబ్ ఎడిటర్";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "అప్‌డేట్ డౌన్‌లోడ్ అయింది, ఇన్‌స్టాల్ చేయడానికి సిద్ధంగా ఉంది.";
 "update_restart_action" = "పునఃప్రారంభించు";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "వెనుకకు";
 "watch_course_classroom_label" = "తరగతి";
 "watch_course_detail_title" = "కోర్సు";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "గురు";
 "weekday_tue_short" = "మంగళ";
 "weekday_wed_short" = "బుధ";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "ఒక్క నొక్కుతో వర్చువల్ లైబ్రరీ పాస్ QR Code తెరవండి";
 "widget_library_shortcut_label" = "లైబ్రరీ QR Code షార్ట్‌కట్";
 "widget_library_shortcut_title" = "లైబ్రరీ";

@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "Házi feladat határidő emlékeztetők";
 "settings_browser_in_app" = "Alkalmazáson belüli böngésző";
 "settings_browser_system_default" = "Rendszer alapértelmezett böngésző";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "Ha a tanterem neve kínaiul van";
 "settings_classroom_mandarin_display_original" = "Eredeti megjelenítése";
 "settings_classroom_mandarin_display_pinyin" = "Pinyin megjelenítése";
@@ -646,6 +647,8 @@
 "settings_section_display" = "Megjelenítés";
 "settings_section_notifications" = "Értesítések";
 "settings_section_other_settings" = "Egyéb beállítások";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "Teljes dátum megjelenítése a házi feladat határidejénél";
 "settings_theme_dark" = "Sötét mód";
 "settings_theme_light" = "Világos mód";
@@ -656,6 +659,7 @@
 "settings_version" = "Verzió";
 "settings_view_source_code" = "Forráskód megtekintése";
 "settings_visual_preset_label" = "Felület stílusa";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "Jelenlegi app";
 "source_code_picker_org_description" = "Szervezet";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "Elérhető lapok";
 "tab_editor_section_current_tabs" = "Jelenlegi lapok";
 "tab_editor_title" = "Lap szerkesztő";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "A frissítés letöltve, telepítésre kész.";
 "update_restart_action" = "Újraindítás";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "Vissza";
 "watch_course_classroom_label" = "Tanterem";
 "watch_course_detail_title" = "Kurzus";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "Cs";
 "weekday_tue_short" = "K";
 "weekday_wed_short" = "Sze";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "Nyissa meg a virtuális könyvtári belépőkártya QR-kódját egy koppintással";
 "widget_library_shortcut_label" = "Könyvtár QR-kód parancsikon";
 "widget_library_shortcut_title" = "Könyvtár";

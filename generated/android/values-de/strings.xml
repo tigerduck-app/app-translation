@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">Erinnerungen an fällige Aufgaben</string>
     <string name="settings_browser_in_app">In-App-Browser</string>
     <string name="settings_browser_system_default">Standardbrowser des Systems</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">Wenn Klassenzimmername auf Chinesisch ist</string>
     <string name="settings_classroom_mandarin_display_original">Originalanzeige</string>
     <string name="settings_classroom_mandarin_display_pinyin">Pinyin anzeigen</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">Anzeige</string>
     <string name="settings_section_notifications">Benachrichtigungen</string>
     <string name="settings_section_other_settings">Weitere Einstellungen</string>
+    <string name="settings_server_push_footer">Receive one-off notifications sent manually by the operator. Default on.</string>
+    <string name="settings_server_push_label">Server notifications</string>
     <string name="settings_show_absolute_assignment_time">Vollständiges Datum für Aufgaben-Fälligkeit anzeigen</string>
     <string name="settings_theme_dark">Dunkler Modus</string>
     <string name="settings_theme_light">Heller Modus</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">Version</string>
     <string name="settings_view_source_code">Quellcode ansehen</string>
     <string name="settings_visual_preset_label">Schnittstellenstil</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">Diese App</string>
     <string name="source_code_picker_org_description">Organisation</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">Verfügbare Tabs</string>
     <string name="tab_editor_section_current_tabs">Aktuelle Tabs</string>
     <string name="tab_editor_title">Tab-Editor</string>
+    <string name="tag_server_notification">Server notification</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">Das Update wurde heruntergeladen und ist bereit zur Installation.</string>
     <string name="update_restart_action">Neu starten</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">Einige Telefone haben Vibrationsmotoren geringerer Qualität, die sehr schwache oder sehr kurze Vibrationen ignorieren können. Falls Sie eine Einstellung nicht spüren, versuchen Sie, die Stärke oder Länge zu erhöhen. Sie können mit der Voreinstellung \"Mittel\" beginnen.</string>
     <string name="vibration_settings_revert">Standard wiederherstellen</string>
     <string name="vibration_settings_section_length_ms">Dauer (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">Do</string>
     <string name="weekday_tue_short">Di</string>
     <string name="weekday_wed_short">Mi</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">Den virtuellen Bibliotheksausweis als QR Code mit einem Tippen öffnen</string>
     <string name="widget_library_shortcut_label">Bibliothek QR-Verknüpfung</string>
     <string name="widget_library_shortcut_title">Bibliothek</string>

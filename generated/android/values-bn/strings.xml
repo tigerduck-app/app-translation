@@ -563,6 +563,7 @@
     <string name="settings_assignment_due_reminder">অ্যাসাইনমেন্টের সময়সীমার স্মরণিকা</string>
     <string name="settings_browser_in_app">অ্যাপ-ইন ব্রাউজার</string>
     <string name="settings_browser_system_default">সিস্টেম ডিফল্ট ব্রাউজার</string>
+    <string name="settings_check_for_updates">Check for updates</string>
     <string name="settings_classroom_mandarin_display">যখন শ্রেণীকক্ষের নাম চীনা ভাষায় থাকে</string>
     <string name="settings_classroom_mandarin_display_original">মূল প্রদর্শন করুন</string>
     <string name="settings_classroom_mandarin_display_pinyin">পিনয়িন প্রদর্শন করুন</string>
@@ -612,6 +613,8 @@
     <string name="settings_section_display">প্রদর্শন</string>
     <string name="settings_section_notifications">বিজ্ঞপ্তি</string>
     <string name="settings_section_other_settings">অন্যান্য সেটিংস</string>
+    <string name="settings_server_push_footer">Receive one-off notifications sent manually by the operator. Default on.</string>
+    <string name="settings_server_push_label">Server notifications</string>
     <string name="settings_show_absolute_assignment_time">অ্যাসাইনমেন্টের সময়সীমার জন্য সম্পূর্ণ তারিখ দেখান</string>
     <string name="settings_theme_dark">ডার্ক মোড</string>
     <string name="settings_theme_light">লাইট মোড</string>
@@ -622,6 +625,7 @@
     <string name="settings_version">ভার্সন</string>
     <string name="settings_view_source_code">সোর্স কোড দেখুন</string>
     <string name="settings_visual_preset_label">ইন্টারফেস শৈলী</string>
+    <string name="settings_whats_new">What’s new</string>
     <string name="source_code_picker_current_app_badge">বর্তমান অ্যাপ</string>
     <string name="source_code_picker_org_description">সংস্থা</string>
     <string name="source_code_picker_repo_android_description">Android</string>
@@ -639,8 +643,18 @@
     <string name="tab_editor_section_available_tabs">উপলব্ধ ট্যাবসমূহ</string>
     <string name="tab_editor_section_current_tabs">বর্তমান ট্যাবসমূহ</string>
     <string name="tab_editor_title">ট্যাব এডিটর</string>
+    <string name="tag_server_notification">Server notification</string>
+    <string name="update_action_later">Later</string>
+    <string name="update_action_skip_version">Skip this version</string>
+    <string name="update_action_update_now">Update now</string>
+    <string name="update_available_message">A new version (%1$@) is available on the App Store. Would you like to update now?</string>
+    <string name="update_available_title">Update available</string>
+    <string name="update_check_failed_message">Couldn’t reach the App Store. Try again later.</string>
+    <string name="update_check_failed_title">Check failed</string>
     <string name="update_ready_message">আপডেট ডাউনলোড হয়েছে, ইনস্টল করতে প্রস্তুত।</string>
     <string name="update_restart_action">পুনরায় চালু করুন</string>
+    <string name="update_up_to_date_message">You have the latest version of %1$@.</string>
+    <string name="update_up_to_date_title">You’re up to date</string>
     <string name="vibration_settings_motor_warning">কিছু ফোনে নিম্নমানের ভাইব্রেশন মোটর থাকে যা খুব দুর্বল বা খুব ছোট ভাইব্রেশন উপেক্ষা করতে পারে। যদি কোনো সেটিং অনুভব না করেন, তাহলে এর শক্তি বা দৈর্ঘ্য বাড়ানোর চেষ্টা করুন। আপনি প্রথমে \"মাঝারি\" প্রিসেট দিয়ে শুরু করতে পারেন।</string>
     <string name="vibration_settings_revert">ডিফল্টে ফিরুন</string>
     <string name="vibration_settings_section_length_ms">দৈর্ঘ্য (ms)</string>
@@ -701,6 +715,8 @@
     <string name="weekday_thu_short">বৃহ</string>
     <string name="weekday_tue_short">মঙ্গল</string>
     <string name="weekday_wed_short">বুধ</string>
+    <string name="whats_new_continue">Continue</string>
+    <string name="whats_new_title">What’s new</string>
     <string name="widget_library_shortcut_desc">একটি ট্যাপে ভার্চুয়াল লাইব্রেরি পাস QR Code খুলুন</string>
     <string name="widget_library_shortcut_label">লাইব্রেরি QR শর্টকাট</string>
     <string name="widget_library_shortcut_title">লাইব্রেরি</string>

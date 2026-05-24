@@ -595,6 +595,7 @@
 "settings_assignment_due_reminder" = "یادآورهای موعد تکلیف";
 "settings_browser_in_app" = "مرورگر داخل برنامه";
 "settings_browser_system_default" = "مرورگر پیش‌فرض سیستم";
+"settings_check_for_updates" = "Check for updates";
 "settings_classroom_mandarin_display" = "هنگام نام کلاس به چینی";
 "settings_classroom_mandarin_display_original" = "نمایش اصلی";
 "settings_classroom_mandarin_display_pinyin" = "نمایش پینیین";
@@ -646,6 +647,8 @@
 "settings_section_display" = "نمایش";
 "settings_section_notifications" = "اعلان‌ها";
 "settings_section_other_settings" = "تنظیمات دیگر";
+"settings_server_push_footer" = "Receive one-off notifications sent manually by the operator. Default on.";
+"settings_server_push_label" = "Server notifications";
 "settings_show_absolute_assignment_time" = "نمایش تاریخ کامل برای زمان موعد تکلیف";
 "settings_theme_dark" = "حالت تاریک";
 "settings_theme_light" = "حالت روشن";
@@ -656,6 +659,7 @@
 "settings_version" = "نسخه";
 "settings_view_source_code" = "مشاهده کد منبع";
 "settings_visual_preset_label" = "سبک رابط";
+"settings_whats_new" = "What’s new";
 "source_code_picker_current_app_badge" = "اپ فعلی";
 "source_code_picker_org_description" = "سازمان";
 "source_code_picker_repo_android_description" = "Android";
@@ -673,8 +677,18 @@
 "tab_editor_section_available_tabs" = "تب‌های در دسترس";
 "tab_editor_section_current_tabs" = "تب‌های فعلی";
 "tab_editor_title" = "ویرایشگر تب‌ها";
+"tag_server_notification" = "Server notification";
+"update_action_later" = "Later";
+"update_action_skip_version" = "Skip this version";
+"update_action_update_now" = "Update now";
+"update_available_message" = "A new version (%1$@) is available on the App Store. Would you like to update now?";
+"update_available_title" = "Update available";
+"update_check_failed_message" = "Couldn’t reach the App Store. Try again later.";
+"update_check_failed_title" = "Check failed";
 "update_ready_message" = "به‌روزرسانی دانلود شد و آماده نصب است.";
 "update_restart_action" = "راه‌اندازی مجدد";
+"update_up_to_date_message" = "You have the latest version of %1$@.";
+"update_up_to_date_title" = "You’re up to date";
 "watch_action_back" = "بازگشت";
 "watch_course_classroom_label" = "کلاس";
 "watch_course_detail_title" = "درس";
@@ -730,6 +744,8 @@
 "weekday_thu_short" = "پنج‌شنبه";
 "weekday_tue_short" = "سه‌شنبه";
 "weekday_wed_short" = "چهارشنبه";
+"whats_new_continue" = "Continue";
+"whats_new_title" = "What’s new";
 "widget_library_shortcut_desc" = "کد QR گذرنامه مجازی کتابخانه را با یک ضربه باز کنید";
 "widget_library_shortcut_label" = "میانبر QR کتابخانه";
 "widget_library_shortcut_title" = "کتابخانه";
