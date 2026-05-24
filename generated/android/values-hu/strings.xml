@@ -312,6 +312,11 @@
     <string name="feature_score_short">Osztályzatok</string>
     <string name="feature_settings">Beállítások</string>
     <string name="feature_settings_short">Beállítások</string>
+    <string name="first_trigger_flip_to_library_keep">Maradjon bekapcsolva</string>
+    <string name="first_trigger_flip_to_library_message">Észrevettük, hogy megfordítottad a telefonod. Ez a mozdulat gyorsan megnyithatja a könyvtár QR-kódját. Szeretnéd megtartani ezt a funkciót?</string>
+    <string name="first_trigger_flip_to_library_title">Fordítsd meg a könyvtár QR megnyitásához</string>
+    <string name="first_trigger_flip_to_library_turn_off">Kikapcsolás</string>
+    <string name="first_trigger_phone_flip_accessibility">Telefon megfordul</string>
     <string name="greeting_afternoon">Jó délután</string>
     <string name="greeting_evening">Jó estét</string>
     <string name="greeting_morning">Jó reggelt</string>

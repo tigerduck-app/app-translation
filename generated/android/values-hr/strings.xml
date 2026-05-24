@@ -312,6 +312,11 @@
     <string name="feature_score_short">Ocjene</string>
     <string name="feature_settings">Postavke</string>
     <string name="feature_settings_short">Postavke</string>
+    <string name="first_trigger_flip_to_library_keep">Zadrži uključeno</string>
+    <string name="first_trigger_flip_to_library_message">Primijetili smo da si preokrenuo telefon. Ovaj pokret može brzo otvoriti QR knjižnice. Želiš zadržati ovu značajku?</string>
+    <string name="first_trigger_flip_to_library_title">Preokrenite za otvaranje QR knjižnice</string>
+    <string name="first_trigger_flip_to_library_turn_off">Isključi</string>
+    <string name="first_trigger_phone_flip_accessibility">Telefon se prevrće</string>
     <string name="greeting_afternoon">Dobar dan</string>
     <string name="greeting_evening">Dobra večer</string>
     <string name="greeting_morning">Dobro jutro</string>

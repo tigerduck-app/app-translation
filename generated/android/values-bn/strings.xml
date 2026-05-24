@@ -312,6 +312,11 @@
     <string name="feature_score_short">নম্বর</string>
     <string name="feature_settings">সেটিংস</string>
     <string name="feature_settings_short">সেটিংস</string>
+    <string name="first_trigger_flip_to_library_keep">চালু রাখুন</string>
+    <string name="first_trigger_flip_to_library_message">মনে হচ্ছে আপনি ফোনটি উল্টে দিয়েছেন। এই ইশারাটি দ্রুত লাইব্রেরি QR খুলতে পারে। এই ফিচারটি রাখতে চান?</string>
+    <string name="first_trigger_flip_to_library_title">লাইব্রেরি QR খুলতে উল্টান</string>
+    <string name="first_trigger_flip_to_library_turn_off">বন্ধ করুন</string>
+    <string name="first_trigger_phone_flip_accessibility">ফোন উল্টাচ্ছে</string>
     <string name="greeting_afternoon">শুভ বিকাল</string>
     <string name="greeting_evening">শুভ সন্ধ্যা</string>
     <string name="greeting_morning">শুভ সকাল</string>

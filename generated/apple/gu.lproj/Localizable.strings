@@ -349,6 +349,11 @@
 "feature_score_short" = "ગુણ / ગ્રેડ";
 "feature_settings" = "સેટિંગ્સ";
 "feature_settings_short" = "સેટિંગ્સ";
+"first_trigger_flip_to_library_keep" = "ચાલુ રાખો";
+"first_trigger_flip_to_library_message" = "અમે જોયું કે તમે ફોન ઊંધો કર્યો. આ હાવભાવ લાઇબ્રેરી QR ઝડપથી ખોલી શકે છે. આ સુવિધા ચાલુ રાખવી છે?";
+"first_trigger_flip_to_library_title" = "ફ્લિપ કરીને લાઇબ્રેરી QR ખોલો";
+"first_trigger_flip_to_library_turn_off" = "બંધ કરો";
+"first_trigger_phone_flip_accessibility" = "ફોન ફ્લિપ થઈ રહ્યો છે";
 "greeting_afternoon" = "સુદ્ધાન્તરે";
 "greeting_evening" = "શુભ સાંજ";
 "greeting_morning" = "સુપ્રભાત";

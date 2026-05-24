@@ -349,6 +349,11 @@
 "feature_score_short" = "Známky";
 "feature_settings" = "Nastavení";
 "feature_settings_short" = "Nastavení";
+"first_trigger_flip_to_library_keep" = "Ponechat zapnuté";
+"first_trigger_flip_to_library_message" = "Vypadá to, že jsi otočil telefon. Tímto gestem lze rychle otevřít QR knihovny. Chceš tuto funkci zachovat?";
+"first_trigger_flip_to_library_title" = "Otoč pro otevření QR knihovny";
+"first_trigger_flip_to_library_turn_off" = "Vypnout";
+"first_trigger_phone_flip_accessibility" = "Telefon se otáčí";
 "greeting_afternoon" = "Dobré odpoledne";
 "greeting_evening" = "Dobrý večer";
 "greeting_morning" = "Dobré ráno";

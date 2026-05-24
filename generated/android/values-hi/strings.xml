@@ -312,6 +312,11 @@
     <string name="feature_score_short">अंक</string>
     <string name="feature_settings">सेटिंग</string>
     <string name="feature_settings_short">सेटिंग</string>
+    <string name="first_trigger_flip_to_library_keep">चालू रखें</string>
+    <string name="first_trigger_flip_to_library_message">हमने देखा कि आपने फ़ोन पलटा। यह इशारा लाइब्रेरी QR जल्दी खोल सकता है। क्या आप यह सुविधा रखना चाहते हैं?</string>
+    <string name="first_trigger_flip_to_library_title">पलटाकर लाइब्रेरी QR खोलें</string>
+    <string name="first_trigger_flip_to_library_turn_off">बंद करें</string>
+    <string name="first_trigger_phone_flip_accessibility">फ़ोन पलट रहा है</string>
     <string name="greeting_afternoon">शुभ दोपहर</string>
     <string name="greeting_evening">शुभ संध्या</string>
     <string name="greeting_morning">सुप्रभात</string>

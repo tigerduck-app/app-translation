@@ -312,6 +312,11 @@
     <string name="feature_score_short">Karakterer</string>
     <string name="feature_settings">Indstillinger</string>
     <string name="feature_settings_short">Indstillinger</string>
+    <string name="first_trigger_flip_to_library_keep">Behold aktiveret</string>
+    <string name="first_trigger_flip_to_library_message">Det ser ud til, at du vendte telefonen. Denne bevægelse kan hurtigt åbne bibliotekets QR. Vil du beholde denne funktion?</string>
+    <string name="first_trigger_flip_to_library_title">Vend for at åbne bibliotekets QR</string>
+    <string name="first_trigger_flip_to_library_turn_off">Slå fra</string>
+    <string name="first_trigger_phone_flip_accessibility">Telefon vender</string>
     <string name="greeting_afternoon">God eftermiddag</string>
     <string name="greeting_evening">God aften</string>
     <string name="greeting_morning">Godmorgen</string>

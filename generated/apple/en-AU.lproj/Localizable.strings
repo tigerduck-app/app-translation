@@ -349,6 +349,11 @@
 "feature_score_short" = "Scores";
 "feature_settings" = "Settings";
 "feature_settings_short" = "Settings";
+"first_trigger_flip_to_library_keep" = "Keep enabled";
+"first_trigger_flip_to_library_message" = "We noticed you flipped your phone. This gesture can quickly open the library QR. Want to keep this feature?";
+"first_trigger_flip_to_library_title" = "Flip to open library QR";
+"first_trigger_flip_to_library_turn_off" = "Turn off";
+"first_trigger_phone_flip_accessibility" = "Phone flipping over";
 "greeting_afternoon" = "Good afternoon";
 "greeting_evening" = "Good evening";
 "greeting_morning" = "Good morning";

@@ -349,6 +349,11 @@
 "feature_score_short" = "மதிப்பெண்கள்";
 "feature_settings" = "அமைப்புகள்";
 "feature_settings_short" = "அமைப்புகள்";
+"first_trigger_flip_to_library_keep" = "இயக்கத்தில் வை";
+"first_trigger_flip_to_library_message" = "நீங்கள் தொலைபேசியை புரட்டியதை கவனித்தோம். இந்த சைகை நூலக QR ஐ விரைவாக திறக்கும். இந்த அம்சத்தை வைத்திருக்க விரும்புகிறீர்களா?";
+"first_trigger_flip_to_library_title" = "புரட்டி நூலக QR திற";
+"first_trigger_flip_to_library_turn_off" = "முடக்கு";
+"first_trigger_phone_flip_accessibility" = "தொலைபேசி புரண்டு கொண்டிருக்கிறது";
 "greeting_afternoon" = "வணக்கம்";
 "greeting_evening" = "நல்ல மாலை";
 "greeting_morning" = "காலை வணக்கம்";

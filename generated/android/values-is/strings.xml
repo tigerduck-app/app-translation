@@ -312,6 +312,11 @@
     <string name="feature_score_short">Einkunnir</string>
     <string name="feature_settings">Stillingar</string>
     <string name="feature_settings_short">Stillingar</string>
+    <string name="first_trigger_flip_to_library_keep">Halda virkjað</string>
+    <string name="first_trigger_flip_to_library_message">Við tókum eftir því að þú snérir símanum. Þetta bendingarmynstur getur opnað bókasafns-QR á augnabragði. Viltu halda þessum eiginleika?</string>
+    <string name="first_trigger_flip_to_library_title">Snúðu til að opna bókasafns-QR</string>
+    <string name="first_trigger_flip_to_library_turn_off">Slökkva á</string>
+    <string name="first_trigger_phone_flip_accessibility">Síminn er að snúast</string>
     <string name="greeting_afternoon">Gott kvöldið</string>
     <string name="greeting_evening">Gott kvöldið</string>
     <string name="greeting_morning">Góðan daginn</string>

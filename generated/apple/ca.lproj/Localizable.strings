@@ -349,6 +349,11 @@
 "feature_score_short" = "Notes";
 "feature_settings" = "Configuració";
 "feature_settings_short" = "Configuració";
+"first_trigger_flip_to_library_keep" = "Mantén activat";
+"first_trigger_flip_to_library_message" = "Sembla que has girat el telèfon. Aquest gest pot obrir ràpidament el QR de la biblioteca. Vols conservar aquesta funció?";
+"first_trigger_flip_to_library_title" = "Gira per obrir el QR de la biblioteca";
+"first_trigger_flip_to_library_turn_off" = "Desactiva";
+"first_trigger_phone_flip_accessibility" = "El telèfon s'està girant";
 "greeting_afternoon" = "Bona tarda";
 "greeting_evening" = "Bona tarda";
 "greeting_morning" = "Bon dia";

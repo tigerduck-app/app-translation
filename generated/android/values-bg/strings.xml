@@ -312,6 +312,11 @@
     <string name="feature_score_short">Оценки</string>
     <string name="feature_settings">Настройки</string>
     <string name="feature_settings_short">Настройки</string>
+    <string name="first_trigger_flip_to_library_keep">Запази включено</string>
+    <string name="first_trigger_flip_to_library_message">Изглежда, че обърна телефона. Този жест може бързо да отвори QR на библиотеката. Искаш ли да запазиш тази функция?</string>
+    <string name="first_trigger_flip_to_library_title">Обърни за QR на библиотеката</string>
+    <string name="first_trigger_flip_to_library_turn_off">Изключи</string>
+    <string name="first_trigger_phone_flip_accessibility">Телефонът се обръща</string>
     <string name="greeting_afternoon">добър ден</string>
     <string name="greeting_evening">Добър вечер</string>
     <string name="greeting_morning">добро утро</string>

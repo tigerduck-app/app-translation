@@ -349,6 +349,11 @@
 "feature_score_short" = "Nilai";
 "feature_settings" = "Pengaturan";
 "feature_settings_short" = "Pengaturan";
+"first_trigger_flip_to_library_keep" = "Tetap aktif";
+"first_trigger_flip_to_library_message" = "Kami melihat kamu membalik ponsel. Gerakan ini dapat membuka QR perpustakaan dengan cepat. Mau tetap menggunakan fitur ini?";
+"first_trigger_flip_to_library_title" = "Balik ponsel untuk buka QR perpustakaan";
+"first_trigger_flip_to_library_turn_off" = "Matikan";
+"first_trigger_phone_flip_accessibility" = "Ponsel sedang dibalik";
 "greeting_afternoon" = "Selamat sore";
 "greeting_evening" = "Selamat malam";
 "greeting_morning" = "Selamat pagi";

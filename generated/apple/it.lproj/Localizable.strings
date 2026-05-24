@@ -349,6 +349,11 @@
 "feature_score_short" = "Voti";
 "feature_settings" = "Impostazioni";
 "feature_settings_short" = "Impostazioni";
+"first_trigger_flip_to_library_keep" = "Tieni attivo";
+"first_trigger_flip_to_library_message" = "Abbiamo notato che hai capovolto il telefono. Questo gesto può aprire rapidamente il QR della biblioteca. Vuoi tenerlo attivo?";
+"first_trigger_flip_to_library_title" = "Capovolgi per aprire il QR della biblioteca";
+"first_trigger_flip_to_library_turn_off" = "Disattiva";
+"first_trigger_phone_flip_accessibility" = "Telefono in rotazione";
 "greeting_afternoon" = "Buonasera";
 "greeting_evening" = "Buonasera";
 "greeting_morning" = "Buongiorno";

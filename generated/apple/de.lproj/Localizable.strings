@@ -349,6 +349,11 @@
 "feature_score_short" = "Noten";
 "feature_settings" = "Einstellungen";
 "feature_settings_short" = "Einstellungen";
+"first_trigger_flip_to_library_keep" = "Aktiviert lassen";
+"first_trigger_flip_to_library_message" = "Du hast das Telefon umgedreht. Mit dieser Geste kannst du schnell den Bibliotheks-QR öffnen. Möchtest du die Funktion behalten?";
+"first_trigger_flip_to_library_title" = "Umdrehen zum Öffnen des Bibliotheks-QR";
+"first_trigger_flip_to_library_turn_off" = "Deaktivieren";
+"first_trigger_phone_flip_accessibility" = "Telefon wird umgedreht";
 "greeting_afternoon" = "Guten Tag";
 "greeting_evening" = "Guten Abend";
 "greeting_morning" = "Guten Morgen";

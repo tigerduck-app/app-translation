@@ -312,6 +312,11 @@
     <string name="feature_score_short">Noten</string>
     <string name="feature_settings">Einstellungen</string>
     <string name="feature_settings_short">Einstellungen</string>
+    <string name="first_trigger_flip_to_library_keep">Aktiviert lassen</string>
+    <string name="first_trigger_flip_to_library_message">Du hast das Telefon umgedreht. Mit dieser Geste kannst du schnell den Bibliotheks-QR öffnen. Möchtest du die Funktion behalten?</string>
+    <string name="first_trigger_flip_to_library_title">Umdrehen zum Öffnen des Bibliotheks-QR</string>
+    <string name="first_trigger_flip_to_library_turn_off">Deaktivieren</string>
+    <string name="first_trigger_phone_flip_accessibility">Telefon wird umgedreht</string>
     <string name="greeting_afternoon">Guten Tag</string>
     <string name="greeting_evening">Guten Abend</string>
     <string name="greeting_morning">Guten Morgen</string>

@@ -312,6 +312,11 @@
     <string name="feature_score_short">نمرات</string>
     <string name="feature_settings">تنظیمات</string>
     <string name="feature_settings_short">تنظیمات</string>
+    <string name="first_trigger_flip_to_library_keep">فعال بماند</string>
+    <string name="first_trigger_flip_to_library_message">متوجه شدیم که گوشی‌تان را برگرداندید. این حرکت می‌تواند QR کتابخانه را به‌سرعت باز کند. می‌خواهید این قابلیت را نگه دارید؟</string>
+    <string name="first_trigger_flip_to_library_title">برگرداندن برای باز کردن QR کتابخانه</string>
+    <string name="first_trigger_flip_to_library_turn_off">خاموش کردن</string>
+    <string name="first_trigger_phone_flip_accessibility">گوشی در حال برگشتن</string>
     <string name="greeting_afternoon">ظهر بخیر</string>
     <string name="greeting_evening">عصر بخیر</string>
     <string name="greeting_morning">صبح بخیر</string>

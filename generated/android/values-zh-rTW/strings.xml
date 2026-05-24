@@ -312,6 +312,11 @@
     <string name="feature_score_short">歷年成績</string>
     <string name="feature_settings">設定</string>
     <string name="feature_settings_short">設定</string>
+    <string name="first_trigger_flip_to_library_keep">保持開啟</string>
+    <string name="first_trigger_flip_to_library_message">看起來你剛剛將手機翻面。這個手勢可以快速開啟圖書館 QR，要保留這個功能嗎？</string>
+    <string name="first_trigger_flip_to_library_title">翻面快速開啟圖書館 QR</string>
+    <string name="first_trigger_flip_to_library_turn_off">關閉此功能</string>
+    <string name="first_trigger_phone_flip_accessibility">手機正在翻面</string>
     <string name="greeting_afternoon">午安</string>
     <string name="greeting_evening">晚安</string>
     <string name="greeting_morning">早安</string>

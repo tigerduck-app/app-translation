@@ -312,6 +312,11 @@
     <string name="feature_score_short">Note</string>
     <string name="feature_settings">Setări</string>
     <string name="feature_settings_short">Setări</string>
+    <string name="first_trigger_flip_to_library_keep">Păstrează activat</string>
+    <string name="first_trigger_flip_to_library_message">Se pare că ai întors telefonul. Acest gest poate deschide rapid QR-ul bibliotecii. Vrei să păstrezi această funcție?</string>
+    <string name="first_trigger_flip_to_library_title">Întoarce pentru a deschide QR-ul bibliotecii</string>
+    <string name="first_trigger_flip_to_library_turn_off">Dezactivează</string>
+    <string name="first_trigger_phone_flip_accessibility">Telefonul se întoarce</string>
     <string name="greeting_afternoon">Bună ziua</string>
     <string name="greeting_evening">Bună seara</string>
     <string name="greeting_morning">Bună dimineața</string>

@@ -312,6 +312,11 @@
     <string name="feature_score_short">Pažymiai</string>
     <string name="feature_settings">Nustatymai</string>
     <string name="feature_settings_short">Nustatymai</string>
+    <string name="first_trigger_flip_to_library_keep">Palikti įjungtą</string>
+    <string name="first_trigger_flip_to_library_message">Pastebėjome, kad apvertėte telefoną. Šis gestas gali greitai atidaryti bibliotekos QR. Norite palikti šią funkciją?</string>
+    <string name="first_trigger_flip_to_library_title">Apverskite, kad atidarytumėte bibliotekos QR</string>
+    <string name="first_trigger_flip_to_library_turn_off">Išjungti</string>
+    <string name="first_trigger_phone_flip_accessibility">Telefonas apsiverčia</string>
     <string name="greeting_afternoon">Geros dienos</string>
     <string name="greeting_evening">Geros nakties</string>
     <string name="greeting_morning">Sveika ryto</string>

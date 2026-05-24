@@ -349,6 +349,11 @@
 "feature_score_short" = "Mga marka";
 "feature_settings" = "Mga setting";
 "feature_settings_short" = "Mga setting";
+"first_trigger_flip_to_library_keep" = "Panatilihing bukas";
+"first_trigger_flip_to_library_message" = "Napansin namin na binaligtad mo ang iyong telepono. Mabilis na mabubuksan ng galaw na ito ang library QR. Gusto mo bang panatilihin ang feature na ito?";
+"first_trigger_flip_to_library_title" = "I-flip para buksan ang library QR";
+"first_trigger_flip_to_library_turn_off" = "I-off";
+"first_trigger_phone_flip_accessibility" = "Nagba-flip ang telepono";
 "greeting_afternoon" = "Magandang hapon po";
 "greeting_evening" = "Magandang gabi po";
 "greeting_morning" = "Magandang umaga po";

@@ -349,6 +349,11 @@
 "feature_score_short" = "Note";
 "feature_settings" = "Setări";
 "feature_settings_short" = "Setări";
+"first_trigger_flip_to_library_keep" = "Păstrează activat";
+"first_trigger_flip_to_library_message" = "Se pare că ai întors telefonul. Acest gest poate deschide rapid QR-ul bibliotecii. Vrei să păstrezi această funcție?";
+"first_trigger_flip_to_library_title" = "Întoarce pentru a deschide QR-ul bibliotecii";
+"first_trigger_flip_to_library_turn_off" = "Dezactivează";
+"first_trigger_phone_flip_accessibility" = "Telefonul se întoarce";
 "greeting_afternoon" = "Bună ziua";
 "greeting_evening" = "Bună seara";
 "greeting_morning" = "Bună dimineața";

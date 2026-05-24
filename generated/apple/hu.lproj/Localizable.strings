@@ -349,6 +349,11 @@
 "feature_score_short" = "Osztályzatok";
 "feature_settings" = "Beállítások";
 "feature_settings_short" = "Beállítások";
+"first_trigger_flip_to_library_keep" = "Maradjon bekapcsolva";
+"first_trigger_flip_to_library_message" = "Észrevettük, hogy megfordítottad a telefonod. Ez a mozdulat gyorsan megnyithatja a könyvtár QR-kódját. Szeretnéd megtartani ezt a funkciót?";
+"first_trigger_flip_to_library_title" = "Fordítsd meg a könyvtár QR megnyitásához";
+"first_trigger_flip_to_library_turn_off" = "Kikapcsolás";
+"first_trigger_phone_flip_accessibility" = "Telefon megfordul";
 "greeting_afternoon" = "Jó délután";
 "greeting_evening" = "Jó estét";
 "greeting_morning" = "Jó reggelt";

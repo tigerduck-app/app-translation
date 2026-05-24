@@ -312,6 +312,11 @@
     <string name="feature_score_short">ציונים</string>
     <string name="feature_settings">הגדרות</string>
     <string name="feature_settings_short">הגדרות</string>
+    <string name="first_trigger_flip_to_library_keep">השאר פעיל</string>
+    <string name="first_trigger_flip_to_library_message">שמנו לב שהפכת את הטלפון. תנועה זו יכולה לפתוח במהירות את ה-QR של הספרייה. רוצה לשמור על התכונה הזו?</string>
+    <string name="first_trigger_flip_to_library_title">היפוך לפתיחת QR של הספרייה</string>
+    <string name="first_trigger_flip_to_library_turn_off">כבה</string>
+    <string name="first_trigger_phone_flip_accessibility">הטלפון מתהפך</string>
     <string name="greeting_afternoon">אחרי הצהריים טוב</string>
     <string name="greeting_evening">ערב טוב</string>
     <string name="greeting_morning">בוקר טוב</string>

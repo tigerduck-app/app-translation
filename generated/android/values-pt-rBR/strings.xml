@@ -312,6 +312,11 @@
     <string name="feature_score_short">Notas</string>
     <string name="feature_settings">Configurações</string>
     <string name="feature_settings_short">Configurações</string>
+    <string name="first_trigger_flip_to_library_keep">Manter ativado</string>
+    <string name="first_trigger_flip_to_library_message">Parece que você virou o celular. Esse gesto pode abrir rapidamente o QR da biblioteca. Quer manter essa função?</string>
+    <string name="first_trigger_flip_to_library_title">Virar para abrir o QR da biblioteca</string>
+    <string name="first_trigger_flip_to_library_turn_off">Desativar</string>
+    <string name="first_trigger_phone_flip_accessibility">Celular sendo virado</string>
     <string name="greeting_afternoon">Boa tarde</string>
     <string name="greeting_evening">Boa noite</string>
     <string name="greeting_morning">Bom dia</string>

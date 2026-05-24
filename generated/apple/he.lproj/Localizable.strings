@@ -349,6 +349,11 @@
 "feature_score_short" = "ציונים";
 "feature_settings" = "הגדרות";
 "feature_settings_short" = "הגדרות";
+"first_trigger_flip_to_library_keep" = "השאר פעיל";
+"first_trigger_flip_to_library_message" = "שמנו לב שהפכת את הטלפון. תנועה זו יכולה לפתוח במהירות את ה-QR של הספרייה. רוצה לשמור על התכונה הזו?";
+"first_trigger_flip_to_library_title" = "היפוך לפתיחת QR של הספרייה";
+"first_trigger_flip_to_library_turn_off" = "כבה";
+"first_trigger_phone_flip_accessibility" = "הטלפון מתהפך";
 "greeting_afternoon" = "אחרי הצהריים טוב";
 "greeting_evening" = "ערב טוב";
 "greeting_morning" = "בוקר טוב";

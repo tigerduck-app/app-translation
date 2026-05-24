@@ -349,6 +349,11 @@
 "feature_score_short" = "Atzīmes";
 "feature_settings" = "Iestatījumi";
 "feature_settings_short" = "Iestatījumi";
+"first_trigger_flip_to_library_keep" = "Atstāt ieslēgtu";
+"first_trigger_flip_to_library_message" = "Pamanījām, ka apgāzāt tālruni. Šis žests var ātri atvērt bibliotēkas QR. Vai vēlaties paturēt šo funkciju?";
+"first_trigger_flip_to_library_title" = "Apgāziet, lai atvērtu bibliotēkas QR";
+"first_trigger_flip_to_library_turn_off" = "Izslēgt";
+"first_trigger_phone_flip_accessibility" = "Tālrunis tiek apgāzts";
 "greeting_afternoon" = "Labrīt";
 "greeting_evening" = "Labrīt";
 "greeting_morning" = "Laba rīta";

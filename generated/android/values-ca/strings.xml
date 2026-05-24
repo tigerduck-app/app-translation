@@ -312,6 +312,11 @@
     <string name="feature_score_short">Notes</string>
     <string name="feature_settings">Configuració</string>
     <string name="feature_settings_short">Configuració</string>
+    <string name="first_trigger_flip_to_library_keep">Mantén activat</string>
+    <string name="first_trigger_flip_to_library_message">Sembla que has girat el telèfon. Aquest gest pot obrir ràpidament el QR de la biblioteca. Vols conservar aquesta funció?</string>
+    <string name="first_trigger_flip_to_library_title">Gira per obrir el QR de la biblioteca</string>
+    <string name="first_trigger_flip_to_library_turn_off">Desactiva</string>
+    <string name="first_trigger_phone_flip_accessibility">El telèfon s\'està girant</string>
     <string name="greeting_afternoon">Bona tarda</string>
     <string name="greeting_evening">Bona tarda</string>
     <string name="greeting_morning">Bon dia</string>

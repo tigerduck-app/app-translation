@@ -312,6 +312,11 @@
     <string name="feature_score_short">Βαθμοί</string>
     <string name="feature_settings">Ρυθμίσεις</string>
     <string name="feature_settings_short">Ρυθμίσεις</string>
+    <string name="first_trigger_flip_to_library_keep">Διατήρηση ενεργοποίησης</string>
+    <string name="first_trigger_flip_to_library_message">Φαίνεται ότι αναποδογύρισες το τηλέφωνό σου. Αυτή η κίνηση μπορεί να ανοίξει γρήγορα το QR της βιβλιοθήκης. Θέλεις να κρατήσεις αυτή τη λειτουργία;</string>
+    <string name="first_trigger_flip_to_library_title">Αναποδογύρισε για QR βιβλιοθήκης</string>
+    <string name="first_trigger_flip_to_library_turn_off">Απενεργοποίηση</string>
+    <string name="first_trigger_phone_flip_accessibility">Το τηλέφωνο αναποδογυρίζει</string>
     <string name="greeting_afternoon">Καλημέρα</string>
     <string name="greeting_evening">Καλησπέρα</string>
     <string name="greeting_morning">Καλημέρα</string>

@@ -312,6 +312,11 @@
     <string name="feature_score_short">Бағалар</string>
     <string name="feature_settings">Параметрлер</string>
     <string name="feature_settings_short">Параметрлер</string>
+    <string name="first_trigger_flip_to_library_keep">Қосулы қалдыру</string>
+    <string name="first_trigger_flip_to_library_message">Сіз телефонды аударғанын байқадық. Бұл қимыл кітапхана QR кодын жылдам ашуға мүмкіндік береді. Осы мүмкіндікті қалдырасыз ба?</string>
+    <string name="first_trigger_flip_to_library_title">Кітапхана QR кодын ашу үшін аударыңыз</string>
+    <string name="first_trigger_flip_to_library_turn_off">Өшіру</string>
+    <string name="first_trigger_phone_flip_accessibility">Телефон аударылуда</string>
     <string name="greeting_afternoon">Сәлеметсіз бе</string>
     <string name="greeting_evening">Сәлеметсіз бе</string>
     <string name="greeting_morning">Сәлеметсіз бе</string>

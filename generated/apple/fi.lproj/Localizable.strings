@@ -349,6 +349,11 @@
 "feature_score_short" = "Arvosanat";
 "feature_settings" = "Asetukset";
 "feature_settings_short" = "Asetukset";
+"first_trigger_flip_to_library_keep" = "Pidä käytössä";
+"first_trigger_flip_to_library_message" = "Huomasimme, että käänsit puhelimesi. Tällä eleellä voit avata kirjaston QR-koodin nopeasti. Haluatko pitää tämän ominaisuuden?";
+"first_trigger_flip_to_library_title" = "Avaa kirjaston QR kääntämällä";
+"first_trigger_flip_to_library_turn_off" = "Poista käytöstä";
+"first_trigger_phone_flip_accessibility" = "Puhelin kääntyy";
 "greeting_afternoon" = "Hyvää iltapäivää";
 "greeting_evening" = "Hyvää iltaa";
 "greeting_morning" = "Hyvää huomenta";

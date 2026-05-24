@@ -312,6 +312,11 @@
     <string name="feature_score_short">Markah</string>
     <string name="feature_settings">Tetapan</string>
     <string name="feature_settings_short">Tetapan</string>
+    <string name="first_trigger_flip_to_library_keep">Kekalkan</string>
+    <string name="first_trigger_flip_to_library_message">Nampaknya anda baru membalikkan telefon. Gerak isyarat ini boleh membuka QR perpustakaan dengan cepat. Nak kekalkan ciri ini?</string>
+    <string name="first_trigger_flip_to_library_title">Balik untuk buka QR perpustakaan</string>
+    <string name="first_trigger_flip_to_library_turn_off">Matikan</string>
+    <string name="first_trigger_phone_flip_accessibility">Telefon sedang dibalikkan</string>
     <string name="greeting_afternoon">Selamat petang</string>
     <string name="greeting_evening">Selamat malam</string>
     <string name="greeting_morning">Selamat pagi</string>

@@ -312,6 +312,11 @@
     <string name="feature_score_short">गुण</string>
     <string name="feature_settings">सेटिंग्ज</string>
     <string name="feature_settings_short">सेटिंग्ज</string>
+    <string name="first_trigger_flip_to_library_keep">सुरू ठेवा</string>
+    <string name="first_trigger_flip_to_library_message">तुम्ही फोन उलटा केल्याचे आम्हाला दिसले. हा जेश्चर लायब्ररी QR लवकर उघडू शकतो. हे वैशिष्ट्य ठेवायचे आहे का?</string>
+    <string name="first_trigger_flip_to_library_title">लायब्ररी QR उघडण्यासाठी उलटा करा</string>
+    <string name="first_trigger_flip_to_library_turn_off">बंद करा</string>
+    <string name="first_trigger_phone_flip_accessibility">फोन उलटा होत आहे</string>
     <string name="greeting_afternoon">शुभ दोपहर</string>
     <string name="greeting_evening">शुभ संध्या</string>
     <string name="greeting_morning">सुप्रभात</string>

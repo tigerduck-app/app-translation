@@ -349,6 +349,11 @@
 "feature_score_short" = "Оценки";
 "feature_settings" = "Настройки";
 "feature_settings_short" = "Настройки";
+"first_trigger_flip_to_library_keep" = "Запази включено";
+"first_trigger_flip_to_library_message" = "Изглежда, че обърна телефона. Този жест може бързо да отвори QR на библиотеката. Искаш ли да запазиш тази функция?";
+"first_trigger_flip_to_library_title" = "Обърни за QR на библиотеката";
+"first_trigger_flip_to_library_turn_off" = "Изключи";
+"first_trigger_phone_flip_accessibility" = "Телефонът се обръща";
 "greeting_afternoon" = "добър ден";
 "greeting_evening" = "Добър вечер";
 "greeting_morning" = "добро утро";

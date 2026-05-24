@@ -349,6 +349,11 @@
 "feature_score_short" = "ഗ്രേഡുകൾ";
 "feature_settings" = "ക്രമീകരണങ്ങൾ";
 "feature_settings_short" = "ക്രമീകരണങ്ങൾ";
+"first_trigger_flip_to_library_keep" = "പ്രവർത്തനക്ഷമമായി നിലനിർത്തുക";
+"first_trigger_flip_to_library_message" = "നിങ്ങൾ ഫോൺ മറിച്ചിട്ടതായി ഞങ്ങൾ ശ്രദ്ധിച്ചു. ഈ ആംഗ്യം ലൈബ്രറി QR വേഗത്തിൽ തുറക്കാൻ സഹായിക്കും. ഈ ഫീച്ചർ നിലനിർത്തണോ?";
+"first_trigger_flip_to_library_title" = "ലൈബ്രറി QR തുറക്കാൻ മറിക്കുക";
+"first_trigger_flip_to_library_turn_off" = "ഓഫ് ചെയ്യുക";
+"first_trigger_phone_flip_accessibility" = "ഫോൺ മറിയുന്നു";
 "greeting_afternoon" = "നല്ലയ്ക്കം";
 "greeting_evening" = "നല്ലരാത്രി";
 "greeting_morning" = "നല്ലരാവ്";

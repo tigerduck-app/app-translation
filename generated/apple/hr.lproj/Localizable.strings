@@ -349,6 +349,11 @@
 "feature_score_short" = "Ocjene";
 "feature_settings" = "Postavke";
 "feature_settings_short" = "Postavke";
+"first_trigger_flip_to_library_keep" = "Zadrži uključeno";
+"first_trigger_flip_to_library_message" = "Primijetili smo da si preokrenuo telefon. Ovaj pokret može brzo otvoriti QR knjižnice. Želiš zadržati ovu značajku?";
+"first_trigger_flip_to_library_title" = "Preokrenite za otvaranje QR knjižnice";
+"first_trigger_flip_to_library_turn_off" = "Isključi";
+"first_trigger_phone_flip_accessibility" = "Telefon se prevrće";
 "greeting_afternoon" = "Dobar dan";
 "greeting_evening" = "Dobra večer";
 "greeting_morning" = "Dobro jutro";

@@ -349,6 +349,11 @@
 "feature_score_short" = "Βαθμοί";
 "feature_settings" = "Ρυθμίσεις";
 "feature_settings_short" = "Ρυθμίσεις";
+"first_trigger_flip_to_library_keep" = "Διατήρηση ενεργοποίησης";
+"first_trigger_flip_to_library_message" = "Φαίνεται ότι αναποδογύρισες το τηλέφωνό σου. Αυτή η κίνηση μπορεί να ανοίξει γρήγορα το QR της βιβλιοθήκης. Θέλεις να κρατήσεις αυτή τη λειτουργία;";
+"first_trigger_flip_to_library_title" = "Αναποδογύρισε για QR βιβλιοθήκης";
+"first_trigger_flip_to_library_turn_off" = "Απενεργοποίηση";
+"first_trigger_phone_flip_accessibility" = "Το τηλέφωνο αναποδογυρίζει";
 "greeting_afternoon" = "Καλημέρα";
 "greeting_evening" = "Καλησπέρα";
 "greeting_morning" = "Καλημέρα";

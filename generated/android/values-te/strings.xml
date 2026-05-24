@@ -312,6 +312,11 @@
     <string name="feature_score_short">మార్కులు</string>
     <string name="feature_settings">సెట్టింగ్స్</string>
     <string name="feature_settings_short">సెట్టింగ్స్</string>
+    <string name="first_trigger_flip_to_library_keep">ఎనేబుల్‌గా ఉంచు</string>
+    <string name="first_trigger_flip_to_library_message">మీరు ఫోన్‌ను తిప్పారని గమనించాం. ఈ జెస్చర్ లైబ్రరీ QR ని వేగంగా తెరవగలదు. ఈ ఫీచర్‌ను ఉంచాలనుకుంటున్నారా?</string>
+    <string name="first_trigger_flip_to_library_title">లైబ్రరీ QR తెరవడానికి తిప్పు</string>
+    <string name="first_trigger_flip_to_library_turn_off">ఆపివేయి</string>
+    <string name="first_trigger_phone_flip_accessibility">ఫోన్ తిరుగుతోంది</string>
     <string name="greeting_afternoon">శుభోదయం</string>
     <string name="greeting_evening">శుభ సంధ్య</string>
     <string name="greeting_morning">శుభోదయం</string>

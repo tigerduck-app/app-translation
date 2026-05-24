@@ -312,6 +312,11 @@
     <string name="feature_score_short">Nilai</string>
     <string name="feature_settings">Pengaturan</string>
     <string name="feature_settings_short">Pengaturan</string>
+    <string name="first_trigger_flip_to_library_keep">Tetap aktif</string>
+    <string name="first_trigger_flip_to_library_message">Kami melihat kamu membalik ponsel. Gerakan ini dapat membuka QR perpustakaan dengan cepat. Mau tetap menggunakan fitur ini?</string>
+    <string name="first_trigger_flip_to_library_title">Balik ponsel untuk buka QR perpustakaan</string>
+    <string name="first_trigger_flip_to_library_turn_off">Matikan</string>
+    <string name="first_trigger_phone_flip_accessibility">Ponsel sedang dibalik</string>
     <string name="greeting_afternoon">Selamat sore</string>
     <string name="greeting_evening">Selamat malam</string>
     <string name="greeting_morning">Selamat pagi</string>
