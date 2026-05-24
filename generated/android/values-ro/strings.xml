@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Tema încă nu a fost predată</string>
     <string name="notification_bulletin_channel_description">Notificări push în timp real pentru noile buletine NTUST care corespund abonamentelor dvs.</string>
     <string name="notification_bulletin_channel_name">Buletine școlare</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Trimite remindere înainte de începerea fiecărui curs</string>
     <string name="notification_class_preparing_channel_name">Remindere pregătire curs</string>
     <string name="notification_class_preparing_content_fallback">Cursul este pe cale să înceapă</string>

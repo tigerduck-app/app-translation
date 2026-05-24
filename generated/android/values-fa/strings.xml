@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">تکلیف هنوز ارسال نشده است</string>
     <string name="notification_bulletin_channel_description">اعلان‌های فوری برای اطلاعیه‌های جدید NTUST مطابق با اشتراک‌های شما</string>
     <string name="notification_bulletin_channel_name">اطلاعیه‌های مدرسه</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">پیش از شروع هر کلاس، مطابق تنظیمات به شما یادآوری می‌فرستد</string>
     <string name="notification_class_preparing_channel_name">یادآورهای شروع کلاس</string>
     <string name="notification_class_preparing_content_fallback">کلاس در شُرف شروع است</string>

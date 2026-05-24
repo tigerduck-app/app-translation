@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">作業還沒繳!</string>
     <string name="notification_bulletin_channel_description">符合您訂閱規則的臺科大公告即時推播</string>
     <string name="notification_bulletin_channel_name">校園公告</string>
+    <string name="notification_bulletin_silent_channel_description">管理員手動發送、不需要聲音的一次性通知</string>
+    <string name="notification_bulletin_silent_channel_name">伺服器通知（靜音）</string>
+    <string name="notification_bulletin_sound_channel_description">管理員手動發送、需要立即提示的一次性通知</string>
+    <string name="notification_bulletin_sound_channel_name">伺服器通知（聲音）</string>
     <string name="notification_class_preparing_channel_description">在每堂課開始前依設定的時間送出提醒</string>
     <string name="notification_class_preparing_channel_name">即將上課提醒</string>
     <string name="notification_class_preparing_content_fallback">課程即將開始</string>

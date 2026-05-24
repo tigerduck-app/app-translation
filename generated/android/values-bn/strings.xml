@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">অ্যাসাইনমেন্ট এখনো জমা দেওয়া হয়নি</string>
     <string name="notification_bulletin_channel_description">আপনার সাবস্ক্রিপশনের সাথে মিলে যাওয়া নতুন NTUST বুলেটিনের জন্য রিয়েল-টাইম পুশ</string>
     <string name="notification_bulletin_channel_name">স্কুল বুলেটিন</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">প্রতিটি ক্লাস শুরুর আগে স্মরণিকা পাঠায়</string>
     <string name="notification_class_preparing_channel_name">ক্লাস শুরুর স্মরণিকা</string>
     <string name="notification_class_preparing_content_fallback">ক্লাস শুরু হতে চলেছে</string>

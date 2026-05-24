@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Mājasdarbs joprojām nav iesniegts</string>
     <string name="notification_bulletin_channel_description">Reāllaika push paziņojumi par jauniem NTUST biļeteniem, kas atbilst jūsu abonementiem</string>
     <string name="notification_bulletin_channel_name">Skolas biļeteni</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Sūta atgādinājumus pirms katras nodarbības sākuma</string>
     <string name="notification_class_preparing_channel_name">Nodarbības atgādinājumi</string>
     <string name="notification_class_preparing_content_fallback">Nodarbība drīz sāksies</string>

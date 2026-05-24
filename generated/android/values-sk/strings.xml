@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Úloha stále nie je odovzdaná</string>
     <string name="notification_bulletin_channel_description">Okamžité push oznámenia pre nové bulletiny NTUST zodpovedajúce vašim odberom</string>
     <string name="notification_bulletin_channel_name">Školské bulletiny</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Odosiela pripomienky pred začiatkom každej hodiny</string>
     <string name="notification_class_preparing_channel_name">Pripomienky pred hodinou</string>
     <string name="notification_class_preparing_content_fallback">Hodina čoskoro začína</string>

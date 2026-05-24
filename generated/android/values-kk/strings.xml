@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">Үй тапсырмасы әлі тапсырылмаған</string>
     <string name="notification_bulletin_channel_description">Жазылымдарыңызға сәйкес жаңа NTUST бюллетендері үшін нақты уақыттағы push хабарландырулар</string>
     <string name="notification_bulletin_channel_name">Мектеп бюллетендері</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">Әр сабақ басталмас бұрын еске салу жіберіледі</string>
     <string name="notification_class_preparing_channel_name">Сабақ басталу еске салулары</string>
     <string name="notification_class_preparing_content_fallback">Сабақ жақын басталады</string>

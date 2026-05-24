@@ -438,6 +438,10 @@
     <string name="notification_assignment_safety_net_title">होमवर्क अजून सबमिट केले नाही</string>
     <string name="notification_bulletin_channel_description">आपल्या सदस्यतेशी जुळणाऱ्या नवीन NTUST बुलेटिनसाठी रिअल-टाइम पुश</string>
     <string name="notification_bulletin_channel_name">शाळा बुलेटिन</string>
+    <string name="notification_bulletin_silent_channel_description">Operator-issued one-off notifications delivered silently</string>
+    <string name="notification_bulletin_silent_channel_name">Server notifications (silent)</string>
+    <string name="notification_bulletin_sound_channel_description">Operator-issued one-off notifications that need immediate attention</string>
+    <string name="notification_bulletin_sound_channel_name">Server notifications (sound)</string>
     <string name="notification_class_preparing_channel_description">प्रत्येक वर्ग सुरू होण्यापूर्वी स्मरणपत्र पाठवते</string>
     <string name="notification_class_preparing_channel_name">वर्ग सुरू होण्याची स्मरणपत्रे</string>
     <string name="notification_class_preparing_content_fallback">वर्ग सुरू होणार आहे</string>
