@@ -499,8 +499,8 @@
 "onboarding_welcome_title" = "TigerDuck-க்கு வரவேற்கிறோம்";
 "onboarding_welcome_website_label" = "TigerDuck அதிகாரப்பூர்வ வலைத்தளம்";
 "password_eye_unavailable_during_capture" = "கடவுச்சொல்லை பாதுகாக்க, திரை பதிவு அல்லது மிரரிங் போது காட்டுவது முடக்கப்பட்டுள்ளது.";
-"password_hide" = "Hide password";
-"password_show" = "Show password";
+"password_hide" = "கடவுச்சொல்லை மறை";
+"password_show" = "கடவுச்சொல்லை காட்டு";
 "permission_granted" = "அனுமதிக்கப்பட்டது";
 "permission_not_applicable" = "இந்த கணினி பதிப்பில் கிடைக்கவில்லை";
 "permission_not_granted_tap_settings" = "அனுமதிக்கப்படவில்லை · அமைப்புகள் திறக்க தட்டவும்";

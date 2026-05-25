@@ -1,18 +1,18 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
-"a11y_assignment_open_moodle_hint" = "Double tap to open the assignment in Moodle";
-"a11y_calendar_day" = "%1$@, %2$lld events";
-"a11y_calendar_nav_next" = "Next month";
-"a11y_calendar_nav_prev" = "Previous month";
+"a11y_assignment_open_moodle_hint" = "双击以在 Moodle 中打开作业";
+"a11y_calendar_day" = "%1$@，共 %2$lld 个事件";
+"a11y_calendar_nav_next" = "下个月";
+"a11y_calendar_nav_prev" = "上个月";
 "a11y_class_table_cell_assignment_indicator" = "有作业";
 "a11y_class_table_conflict_prefix" = "冲堂";
-"a11y_course_card_open_details_hint" = "Double tap for details";
-"a11y_course_detail_open_moodle" = "Open in Moodle";
+"a11y_course_card_open_details_hint" = "双击查看详情";
+"a11y_course_detail_open_moodle" = "在 Moodle 中打开";
 "a11y_dropdown_action_hint" = "点击两下以选择其他选项";
-"a11y_rankings_trend_chart" = "GPA trend by semester";
-"a11y_rankings_trend_no_selection" = "No semester selected";
+"a11y_rankings_trend_chart" = "各学期 GPA 趋势";
+"a11y_rankings_trend_no_selection" = "未选择学期";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
 "a11y_time_slider_swipe_hint" = "左右滑动可调整时间";
-"a11y_timetable_cell" = "%1$@ period %2$@: %3$@";
+"a11y_timetable_cell" = "周%1$@ 第%2$@节：%3$@";
 "action_add" = "添加";
 "action_allow" = "允许";
 "action_back" = "返回";
@@ -161,7 +161,7 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "学校";
 "calendar_today" = "今天";
-"class_table_add_course" = "Add course";
+"class_table_add_course" = "添加课程";
 "class_table_conflict_add_failed_message" = "%1$@ 的时段（周%2$@ 第%3$@节）已有两堂课程：%4$@ 和 %5$@。系统不支持三堂以上冲堂。";
 "class_table_conflict_add_failed_title" = "无法加入";
 "class_table_course_name" = "课程名称";
@@ -636,7 +636,7 @@
 "settings_library_warning_message" = "本应用程序非台科大官方图书馆应用程序，且尚未得到学校图书馆认可，无法保证各项功能的正常使用及其他相关使用后果。\n\n如需使用请谨慎。若使用后产生任何负面结果，需自负责任，且与 tigerduck-app 一律无关！";
 "settings_library_warning_title" = "请注意！";
 "settings_link_opening_method" = "打开链接方式";
-"settings_notifications_disabled_warning" = "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings.";
+"settings_notifications_disabled_warning" = "通知已关闭，作业与课程提醒将无法送达。点击以打开系统设置。";
 "settings_official_website" = "官网";
 "settings_open_source_licenses" = "开源授权";
 "settings_privacy_policy" = "隐私权政策";

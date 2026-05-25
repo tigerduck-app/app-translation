@@ -1,19 +1,19 @@
 {
     "shared": {
-        "a11y_assignment_open_moodle_hint": "Double tap to open the assignment in Moodle",
-        "a11y_calendar_day": "%1$@, %2$lld events",
-        "a11y_calendar_nav_next": "Next month",
-        "a11y_calendar_nav_prev": "Previous month",
+        "a11y_assignment_open_moodle_hint": "双击以在 Moodle 中打开作业",
+        "a11y_calendar_day": "%1$@，共 %2$lld 个事件",
+        "a11y_calendar_nav_next": "下个月",
+        "a11y_calendar_nav_prev": "上个月",
         "a11y_class_table_cell_assignment_indicator": "有作业",
         "a11y_class_table_conflict_prefix": "冲堂",
-        "a11y_course_card_open_details_hint": "Double tap for details",
-        "a11y_course_detail_open_moodle": "Open in Moodle",
+        "a11y_course_card_open_details_hint": "双击查看详情",
+        "a11y_course_detail_open_moodle": "在 Moodle 中打开",
         "a11y_dropdown_action_hint": "点击两下以选择其他选项",
-        "a11y_rankings_trend_chart": "GPA trend by semester",
-        "a11y_rankings_trend_no_selection": "No semester selected",
+        "a11y_rankings_trend_chart": "各学期 GPA 趋势",
+        "a11y_rankings_trend_no_selection": "未选择学期",
         "a11y_rankings_trend_point": "%1$@ GPA %2$@",
         "a11y_time_slider_swipe_hint": "左右滑动可调整时间",
-        "a11y_timetable_cell": "%1$@ period %2$@: %3$@",
+        "a11y_timetable_cell": "周%1$@ 第%2$@节：%3$@",
         "action_add": "添加",
         "action_allow": "允许",
         "action_back": "返回",
@@ -763,7 +763,7 @@
         "calendar_event_source_exam": "考试",
         "calendar_event_source_school": "学校",
         "calendar_no_events_today": "今日无事件",
-        "class_table_add_course": "Add course",
+        "class_table_add_course": "添加课程",
         "color_name_blue": "蓝",
         "color_name_cyan": "青",
         "color_name_green": "绿",
@@ -820,6 +820,6 @@
         "score_semester_first_short": "上",
         "score_semester_second": "下学期",
         "score_semester_second_short": "下",
-        "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
+        "settings_notifications_disabled_warning": "通知已关闭，作业与课程提醒将无法送达。点击以打开系统设置。"
     }
 }
