@@ -266,6 +266,8 @@
         "desktop_widget_now": "NYT",
         "desktop_widget_starts_in": "Alkaa %@:n kuluttua",
         "desktop_widget_up_next": "Seuraava",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Kirjautuminen epäonnistui",
         "error_network_unavailable": "Yhteys epäonnistui. Tarkista verkkoyhteys.",
         "error_no_response": "Ei vastausta",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Näytä pinyin",
         "settings_classroom_mandarin_display_translated": "Näytä käännös",
         "settings_color_theme": "Väriteema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Palaute / Ilmoita ongelma",
         "settings_flip_to_library_summary": "Käännä puhelin näyttö alaspäin avataksesi kirjaston QR-koodin.",
         "settings_flip_to_library_title": "Käännä kirjaston QR-koodin näyttämiseksi",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "Syys",
         "score_semester_second": "Kevätlukukausi",
         "score_semester_second_short": "Kevät",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

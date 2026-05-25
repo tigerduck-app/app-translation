@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "%@ లో ప్రారంభమవుతుంది";
 "desktop_widget_up_next" = "Up next";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "బులెటిన్ స్పందన పార్స్ చేయడం విఫలమైంది: %1$@";
 "error_bulletin_encoding_failed_format" = "బులెటిన్ అభ్యర్థనను ఎన్‌కోడ్ చేయడం విఫలమైంది: %1$@";
 "error_bulletin_http_status_format" = "బులెటిన్ సర్వర్ HTTP %1$d తిరిగి ఇచ్చింది: %2$@";

@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Prasideda po %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Prisijungimas nepavyko",
         "error_network_unavailable": "Nepavyksta prisijungti. Patikrinkite tinklo ryšį.",
         "error_no_response": "Nėra atsakymo",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Rodyti pinyin",
         "settings_classroom_mandarin_display_translated": "Rodyti vertimą",
         "settings_color_theme": "Spalvų tema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Atsiliepimai / Pranešti apie klaidą",
         "settings_flip_to_library_summary": "Apverskite telefoną ekranu žemyn, kad atidarytumėte bibliotekos QR.",
         "settings_flip_to_library_title": "Apversti, kad rodytų bibliotekos QR",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "Ruduo",
         "score_semester_second": "Pavasario semestras",
         "score_semester_second_short": "Pavasaris",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

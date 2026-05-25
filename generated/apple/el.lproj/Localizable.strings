@@ -282,6 +282,8 @@
 "desktop_widget_now" = "ΤΩΡΑ";
 "desktop_widget_starts_in" = "Ξεκινά σε %@";
 "desktop_widget_up_next" = "Επόμενο";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Αποτυχία ανάλυσης απάντησης ανακοινώσεων: %1$@";
 "error_bulletin_encoding_failed_format" = "Αποτυχία κωδικοποίησης αιτήματος ανακοινώσεων: %1$@";
 "error_bulletin_http_status_format" = "Ο διακομιστής ανακοινώσεων επέστρεψε HTTP %1$d: %2$@";

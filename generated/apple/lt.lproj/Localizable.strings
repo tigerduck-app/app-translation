@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Prasideda po %@";
 "desktop_widget_up_next" = "Up next";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nepavyko išanalizuoti skelbimo atsako: %1$@";
 "error_bulletin_encoding_failed_format" = "Nepavyko užkoduoti skelbimo užklausos: %1$@";
 "error_bulletin_http_status_format" = "Skelbimų serveris grąžino HTTP %1$d: %2$@";

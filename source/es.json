@@ -266,6 +266,8 @@
         "desktop_widget_now": "AHORA",
         "desktop_widget_starts_in": "Comienza en %@",
         "desktop_widget_up_next": "A continuación",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Error al iniciar sesión",
         "error_network_unavailable": "No se puede conectar. Por favor, verifica tu conexión de red.",
         "error_no_response": "Sin respuesta",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Mostrar pinyin",
         "settings_classroom_mandarin_display_translated": "Mostrar traducción",
         "settings_color_theme": "Tema de color",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Comentarios / Reportar problema",
         "settings_flip_to_library_summary": "Voltea el teléfono boca abajo para abrir el QR de la biblioteca.",
         "settings_flip_to_library_title": "Voltear para mostrar el QR de la biblioteca",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "1.º",
         "score_semester_second": "Segundo semestre",
         "score_semester_second_short": "2.º",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

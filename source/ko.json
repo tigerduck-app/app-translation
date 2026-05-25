@@ -266,6 +266,8 @@
         "desktop_widget_now": "진행 중",
         "desktop_widget_starts_in": "%@ 후 시작",
         "desktop_widget_up_next": "다음 강의",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "로그인 실패",
         "error_network_unavailable": "연결할 수 없습니다. 네트워크 연결을 확인해 주세요.",
         "error_no_response": "응답 없음",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "병음 표시",
         "settings_classroom_mandarin_display_translated": "번역 표시",
         "settings_color_theme": "색상 테마",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "피드백 / 문제 신고",
         "settings_flip_to_library_summary": "화면을 아래로 뒤집으면 도서관 QR이 열립니다.",
         "settings_flip_to_library_title": "뒤집어서 도서관 QR 표시",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "1학기",
         "score_semester_second": "2학기",
         "score_semester_second_short": "2학기",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

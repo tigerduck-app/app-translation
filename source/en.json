@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Starts in %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Login failed",
         "error_network_unavailable": "Unable to connect. Please check your network connection.",
         "error_no_response": "No response",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Display pinyin",
         "settings_classroom_mandarin_display_translated": "Display translated",
         "settings_color_theme": "Color theme",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Feedback / Report issue",
         "settings_flip_to_library_summary": "Flip your phone face-down to open the library QR.",
         "settings_flip_to_library_title": "Flip to show library QR",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "Fall",
         "score_semester_second": "Spring semester",
         "score_semester_second_short": "Spring",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

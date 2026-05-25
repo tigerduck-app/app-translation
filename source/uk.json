@@ -266,6 +266,8 @@
         "desktop_widget_now": "ЗАРАЗ",
         "desktop_widget_starts_in": "Починається через %@",
         "desktop_widget_up_next": "Наступне",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Не вдалося увійти",
         "error_network_unavailable": "Не вдалося підключитися. Перевірте з'єднання з мережею.",
         "error_no_response": "Немає відповіді",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Показати піньїнь",
         "settings_classroom_mandarin_display_translated": "Показати переклад",
         "settings_color_theme": "Кольорова тема",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Відгук / Повідомити про проблему",
         "settings_flip_to_library_summary": "Переверніть телефон екраном донизу, щоб відкрити QR бібліотеки.",
         "settings_flip_to_library_title": "Перевернути для показу QR бібліотеки",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "Осінь",
         "score_semester_second": "Весняний семестр",
         "score_semester_second_short": "Весна",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

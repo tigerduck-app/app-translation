@@ -282,6 +282,8 @@
 "desktop_widget_now" = "進行中";
 "desktop_widget_starts_in" = "%@後に開始";
 "desktop_widget_up_next" = "次の授業";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "お知らせの応答を解析できませんでした：%1$@";
 "error_bulletin_encoding_failed_format" = "お知らせのリクエストをエンコードできませんでした：%1$@";
 "error_bulletin_http_status_format" = "お知らせサーバーが HTTP %1$d を返しました：%2$@";

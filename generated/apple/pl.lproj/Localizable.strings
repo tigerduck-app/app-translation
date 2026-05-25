@@ -282,6 +282,8 @@
 "desktop_widget_now" = "TERAZ";
 "desktop_widget_starts_in" = "Zaczyna się za %@";
 "desktop_widget_up_next" = "Następne";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nie udało się przetworzyć odpowiedzi tablicy ogłoszeń: %1$@";
 "error_bulletin_encoding_failed_format" = "Nie udało się zakodować żądania tablicy ogłoszeń: %1$@";
 "error_bulletin_http_status_format" = "Serwer tablicy ogłoszeń zwrócił HTTP %1$d: %2$@";

@@ -282,6 +282,8 @@
 "desktop_widget_now" = "ЗАРАЗ";
 "desktop_widget_starts_in" = "Починається через %@";
 "desktop_widget_up_next" = "Наступне";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Не вдалося розібрати відповідь оголошення: %1$@";
 "error_bulletin_encoding_failed_format" = "Не вдалося закодувати запит оголошення: %1$@";
 "error_bulletin_http_status_format" = "Сервер оголошень повернув HTTP %1$d: %2$@";

@@ -266,6 +266,8 @@
         "desktop_widget_now": "SEKARANG",
         "desktop_widget_starts_in": "Bermula dalam %@",
         "desktop_widget_up_next": "Seterusnya",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Log masuk gagal",
         "error_network_unavailable": "Tidak dapat berhubung. Sila semak sambungan rangkaian anda.",
         "error_no_response": "Tiada respons",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Papar pinyin",
         "settings_classroom_mandarin_display_translated": "Papar terjemahan",
         "settings_color_theme": "Tema warna",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Maklum balas / Laporkan isu",
         "settings_flip_to_library_summary": "Balik telefon dengan skrin menghadap bawah untuk membuka QR perpustakaan.",
         "settings_flip_to_library_title": "Balik untuk tunjuk QR perpustakaan",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "Luruh",
         "score_semester_second": "Semester musim bunga",
         "score_semester_second_short": "Bunga",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

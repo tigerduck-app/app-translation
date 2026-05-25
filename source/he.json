@@ -266,6 +266,8 @@
         "desktop_widget_now": "כעת",
         "desktop_widget_starts_in": "מתחיל בעוד %@",
         "desktop_widget_up_next": "הבא",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "הכניסה נכשלה",
         "error_network_unavailable": "לא ניתן להתחבר. בדוק את חיבור הרשת שלך.",
         "error_no_response": "אין תגובה",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "הצג פיניין",
         "settings_classroom_mandarin_display_translated": "הצג תרגום",
         "settings_color_theme": "ערכת צבעים",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "משוב / דיווח על בעיה",
         "settings_flip_to_library_summary": "הפוך את הטלפון עם המסך כלפי מטה כדי לפתוח את ה-QR של הספרייה.",
         "settings_flip_to_library_title": "הפוך להצגת ה-QR של הספרייה",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "סתיו",
         "score_semester_second": "סמסטר אביב",
         "score_semester_second_short": "אביב",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

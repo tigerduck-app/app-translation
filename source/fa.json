@@ -266,6 +266,8 @@
         "desktop_widget_now": "اکنون",
         "desktop_widget_starts_in": "شروع در %@",
         "desktop_widget_up_next": "بعدی",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "ورود ناموفق بود",
         "error_network_unavailable": "اتصال ممکن نیست. لطفاً اتصال شبکه را بررسی کنید.",
         "error_no_response": "پاسخی دریافت نشد",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "نمایش پینیین",
         "settings_classroom_mandarin_display_translated": "نمایش ترجمه شده",
         "settings_color_theme": "تم رنگ",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "بازخورد / گزارش مشکل",
         "settings_flip_to_library_summary": "گوشی را صفحه‌رو به پایین برگردانید تا QR کتابخانه باز شود.",
         "settings_flip_to_library_title": "برگرداندن برای نمایش QR کتابخانه",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "اول",
         "score_semester_second": "نیم‌سال دوم",
         "score_semester_second_short": "دوم",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">進行中</string>
     <string name="desktop_widget_starts_in">%@ 後開始</string>
     <string name="desktop_widget_up_next">下一堂</string>
+    <string name="device_id_copied">已複製裝置 ID</string>
+    <string name="device_id_copy_action">複製裝置 ID</string>
     <string name="error_login_failed">登入失敗</string>
     <string name="error_network_unavailable">無法連線，請檢查網路連線</string>
     <string name="error_no_response">無回應</string>
@@ -573,6 +575,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">顯示拼音</string>
     <string name="settings_classroom_mandarin_display_translated">顯示翻譯</string>
     <string name="settings_color_theme">顏色主題</string>
+    <string name="settings_delete_account">刪除帳號</string>
     <string name="settings_feedback_bug_report">回饋/問題回報</string>
     <string name="settings_flip_to_library_summary">將手機螢幕朝下即可開啟圖書館 QR。</string>
     <string name="settings_flip_to_library_title">翻轉顯示圖書館 QR</string>

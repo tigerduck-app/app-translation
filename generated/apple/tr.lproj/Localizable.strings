@@ -282,6 +282,8 @@
 "desktop_widget_now" = "ŞİMDİ";
 "desktop_widget_starts_in" = "%@ sonra başlıyor";
 "desktop_widget_up_next" = "Sıradaki";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Duyuru yanıtı ayrıştırılamadı: %1$@";
 "error_bulletin_encoding_failed_format" = "Duyuru isteği kodlanamadı: %1$@";
 "error_bulletin_http_status_format" = "Duyuru sunucusu HTTP %1$d döndürdü: %2$@";

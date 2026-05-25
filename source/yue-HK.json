@@ -266,6 +266,8 @@
         "desktop_widget_now": "進行緊",
         "desktop_widget_starts_in": "%@ 後開始",
         "desktop_widget_up_next": "下一堂",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "登入失敗",
         "error_network_unavailable": "連線唔到，請檢查網絡連線",
         "error_no_response": "冇回應",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "顯示拼音",
         "settings_classroom_mandarin_display_translated": "顯示譯文",
         "settings_color_theme": "顏色主題",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "回饋/問題回報",
         "settings_flip_to_library_summary": "將手機屏幕向下即可開啟圖書館 QR。",
         "settings_flip_to_library_title": "翻轉顯示圖書館 QR",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "上",
         "score_semester_second": "下學期",
         "score_semester_second_short": "下",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

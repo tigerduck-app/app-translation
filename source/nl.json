@@ -266,6 +266,8 @@
         "desktop_widget_now": "NU",
         "desktop_widget_starts_in": "Begint over %@",
         "desktop_widget_up_next": "Hierna",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Inloggen mislukt",
         "error_network_unavailable": "Geen verbinding mogelijk. Controleer je netwerkverbinding.",
         "error_no_response": "Geen reactie",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Pinyin weergeven",
         "settings_classroom_mandarin_display_translated": "Vertaling weergeven",
         "settings_color_theme": "Kleurthema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Feedback / Probleem melden",
         "settings_flip_to_library_summary": "Leg je telefoon met het scherm naar beneden om de bibliotheek-QR te openen.",
         "settings_flip_to_library_title": "Omdraaien om bibliotheek-QR te tonen",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "Herfst",
         "score_semester_second": "Lentesemester",
         "score_semester_second_short": "Lente",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

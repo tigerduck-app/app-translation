@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NÅ";
 "desktop_widget_starts_in" = "Starter om %@";
 "desktop_widget_up_next" = "Neste";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Klarte ikke å tolke oppslagssvaret: %1$@";
 "error_bulletin_encoding_failed_format" = "Klarte ikke å kode oppslagsforespørselen: %1$@";
 "error_bulletin_http_status_format" = "Oppslagsserveren returnerte HTTP %1$d: %2$@";

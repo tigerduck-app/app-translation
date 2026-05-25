@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "%@ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋਵੇਗਾ";
 "desktop_widget_up_next" = "Up next";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "ਬੁਲੇਟਿਨ ਪ੍ਰਤੀਕਿਰਿਆ ਪਾਰਸ ਕਰਨ ਵਿੱਚ ਅਸਫਲਤਾ: %1$@";
 "error_bulletin_encoding_failed_format" = "ਬੁਲੇਟਿਨ ਬੇਨਤੀ ਐਨਕੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲਤਾ: %1$@";
 "error_bulletin_http_status_format" = "ਬੁਲੇਟਿਨ ਸਰਵਰ ਨੇ HTTP %1$d ਵਾਪਸ ਕੀਤਾ: %2$@";

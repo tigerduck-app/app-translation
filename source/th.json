@@ -266,6 +266,8 @@
         "desktop_widget_now": "ตอนนี้",
         "desktop_widget_starts_in": "เริ่มใน %@",
         "desktop_widget_up_next": "ถัดไป",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "เข้าสู่ระบบล้มเหลว",
         "error_network_unavailable": "ไม่สามารถเชื่อมต่อได้ กรุณาตรวจสอบการเชื่อมต่อเครือข่าย",
         "error_no_response": "ไม่มีการตอบสนอง",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "แสดงพินอิน",
         "settings_classroom_mandarin_display_translated": "แสดงคำแปล",
         "settings_color_theme": "ธีมสี",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "ความคิดเห็น / รายงานปัญหา",
         "settings_flip_to_library_summary": "พลิกโทรศัพท์คว่ำหน้าลงเพื่อเปิด QR ห้องสมุด",
         "settings_flip_to_library_title": "พลิกเพื่อแสดง QR ห้องสมุด",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "ต้น",
         "score_semester_second": "ภาคปลาย",
         "score_semester_second_short": "ปลาย",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

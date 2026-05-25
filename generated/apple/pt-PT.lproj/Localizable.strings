@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Começa em %@";
 "desktop_widget_up_next" = "Up next";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Falha ao analisar a resposta do mural: %1$@";
 "error_bulletin_encoding_failed_format" = "Falha ao codificar o pedido do mural: %1$@";
 "error_bulletin_http_status_format" = "O servidor do mural devolveu HTTP %1$d: %2$@";

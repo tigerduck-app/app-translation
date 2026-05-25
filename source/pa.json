@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "%@ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋਵੇਗਾ",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "ਲੌਗਇਨ ਅਸਫਲ ਰਿਹਾ",
         "error_network_unavailable": "ਕੁਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਜਾਂਚੋ।",
         "error_no_response": "ਕੋਈ ਜਵਾਬ ਨਹੀਂ",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "ਪਿਨਯਿਨ ਵਿਖਾਓ",
         "settings_classroom_mandarin_display_translated": "ਅਨੁਵਾਦ ਵਿਖਾਓ",
         "settings_color_theme": "ਰੰਗ ਥੀਮ",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "ਫੀਡਬੈਕ / ਸਮੱਸਿਆ ਰਿਪੋਰਟ ਕਰੋ",
         "settings_flip_to_library_summary": "ਲਾਇਬ੍ਰੇਰੀ QR ਖੋਲ੍ਹਣ ਲਈ ਫ਼ੋਨ ਨੂੰ ਸਕਰੀਨ ਹੇਠਾਂ ਕਰਕੇ ਫਲਿੱਪ ਕਰੋ।",
         "settings_flip_to_library_title": "ਲਾਇਬ੍ਰੇਰੀ QR ਦਿਖਾਉਣ ਲਈ ਫਲਿੱਪ ਕਰੋ",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "ਪਤਝੜ",
         "score_semester_second": "ਬਸੰਤ ਸਮੈਸਟਰ",
         "score_semester_second_short": "ਬਸੰਤ",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

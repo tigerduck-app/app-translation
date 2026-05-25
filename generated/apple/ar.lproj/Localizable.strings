@@ -282,6 +282,8 @@
 "desktop_widget_now" = "الآن";
 "desktop_widget_starts_in" = "يبدأ خلال %@";
 "desktop_widget_up_next" = "التالي";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "فشل تحليل استجابة النشرة: %1$@";
 "error_bulletin_encoding_failed_format" = "فشل ترميز طلب النشرة: %1$@";
 "error_bulletin_http_status_format" = "خادم النشرة أعاد HTTP %1$d: %2$@";

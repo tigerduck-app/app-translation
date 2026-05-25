@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Začína o %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Prihlásenie zlyhalo",
         "error_network_unavailable": "Nedá sa pripojiť. Skontrolujte prosím sieťové pripojenie.",
         "error_no_response": "Žiadna odpoveď",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "Zobraziť pinyin",
         "settings_classroom_mandarin_display_translated": "Zobraziť preklad",
         "settings_color_theme": "Farebná téma",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Spätná väzba / Nahlásenie problému",
         "settings_flip_to_library_summary": "Otočte telefón obrazovkou nadol a otvoríte QR knižnice.",
         "settings_flip_to_library_title": "Otočiť pre zobrazenie QR knižnice",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "Zima",
         "score_semester_second": "Letný semester",
         "score_semester_second_short": "Leto",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

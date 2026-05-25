@@ -266,6 +266,8 @@
         "desktop_widget_now": "進行中",
         "desktop_widget_starts_in": "%@ 後開始",
         "desktop_widget_up_next": "下一堂",
+        "device_id_copied": "已複製裝置 ID",
+        "device_id_copy_action": "複製裝置 ID",
         "error_login_failed": "登入失敗",
         "error_network_unavailable": "無法連線，請檢查網路連線",
         "error_no_response": "無回應",
@@ -542,6 +544,7 @@
         "settings_classroom_mandarin_display_pinyin": "顯示拼音",
         "settings_classroom_mandarin_display_translated": "顯示翻譯",
         "settings_color_theme": "顏色主題",
+        "settings_delete_account": "刪除帳號",
         "settings_feedback_bug_report": "回饋/問題回報",
         "settings_flip_to_library_summary": "將手機螢幕朝下即可開啟圖書館 QR。",
         "settings_flip_to_library_title": "翻轉顯示圖書館 QR",
@@ -817,7 +820,6 @@
         "score_semester_first_short": "上",
         "score_semester_second": "下學期",
         "score_semester_second_short": "下",
-        "settings_delete_account": "刪除帳號",
         "settings_notifications_disabled_warning": "通知已關閉，作業與課程提醒將無法送達。點擊以開啟系統設定。"
     }
 }
