@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "%@ मध्ये सुरू होईल",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "लॉगिन अयशस्वी",
         "error_network_unavailable": "कनेक्ट होता येत नाही. कृपया तुमचे नेटवर्क कनेक्शन तपासा.",
         "error_no_response": "कोणताही प्रतिसाद नाही",

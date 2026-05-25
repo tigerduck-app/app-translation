@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">NU</string>
     <string name="desktop_widget_starts_in">Börjar om %@</string>
     <string name="desktop_widget_up_next">Nästa</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Inloggning misslyckades</string>
     <string name="error_network_unavailable">Kan inte ansluta. Kontrollera din nätverksanslutning.</string>
     <string name="error_no_response">Inget svar</string>

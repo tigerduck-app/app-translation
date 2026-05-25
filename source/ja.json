@@ -266,6 +266,8 @@
         "desktop_widget_now": "進行中",
         "desktop_widget_starts_in": "%@後に開始",
         "desktop_widget_up_next": "次の授業",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "ログインに失敗しました",
         "error_network_unavailable": "接続できません。ネットワーク接続を確認してください。",
         "error_no_response": "応答がありません",

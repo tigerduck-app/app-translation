@@ -282,6 +282,8 @@
 "desktop_widget_now" = "اکنون";
 "desktop_widget_starts_in" = "شروع در %@";
 "desktop_widget_up_next" = "بعدی";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "تجزیه پاسخ بولتن ناموفق بود: %1$@";
 "error_bulletin_encoding_failed_format" = "کدگذاری درخواست بولتن ناموفق بود: %1$@";
 "error_bulletin_http_status_format" = "سرور بولتن HTTP %1$d را برگرداند: %2$@";

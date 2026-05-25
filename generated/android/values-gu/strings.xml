@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">%@ માં શરૂ થાય</string>
     <string name="desktop_widget_up_next">Up next</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">લૉગ ઇન નિષ્ફળ</string>
     <string name="error_network_unavailable">કનેક્ટ કરી શકાતું નથી. કૃપા કરીને તમારી નેટવર્ક કનેક્શન તપાસો.</string>
     <string name="error_no_response">કોઈ પ્રતિભાવ નથી</string>

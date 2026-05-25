@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">כעת</string>
     <string name="desktop_widget_starts_in">מתחיל בעוד %@</string>
     <string name="desktop_widget_up_next">הבא</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">הכניסה נכשלה</string>
     <string name="error_network_unavailable">לא ניתן להתחבר. בדוק את חיבור הרשת שלך.</string>
     <string name="error_no_response">אין תגובה</string>

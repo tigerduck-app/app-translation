@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">ตอนนี้</string>
     <string name="desktop_widget_starts_in">เริ่มใน %@</string>
     <string name="desktop_widget_up_next">ถัดไป</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">เข้าสู่ระบบล้มเหลว</string>
     <string name="error_network_unavailable">ไม่สามารถเชื่อมต่อได้ กรุณาตรวจสอบการเชื่อมต่อเครือข่าย</string>
     <string name="error_no_response">ไม่มีการตอบสนอง</string>

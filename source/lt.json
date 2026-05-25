@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Prasideda po %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Prisijungimas nepavyko",
         "error_network_unavailable": "Nepavyksta prisijungti. Patikrinkite tinklo ryšį.",
         "error_no_response": "Nėra atsakymo",

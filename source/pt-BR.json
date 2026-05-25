@@ -266,6 +266,8 @@
         "desktop_widget_now": "AGORA",
         "desktop_widget_starts_in": "Começa em %@",
         "desktop_widget_up_next": "Em seguida",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Falha no login",
         "error_network_unavailable": "Não foi possível conectar. Verifique sua conexão de internet.",
         "error_no_response": "Sem resposta",

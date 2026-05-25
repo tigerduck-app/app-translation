@@ -266,6 +266,8 @@
         "desktop_widget_now": "الآن",
         "desktop_widget_starts_in": "يبدأ خلال %@",
         "desktop_widget_up_next": "التالي",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "فشل تسجيل الدخول",
         "error_network_unavailable": "تعذر الاتصال. يرجى التحقق من اتصال الشبكة.",
         "error_no_response": "لا توجد استجابة",

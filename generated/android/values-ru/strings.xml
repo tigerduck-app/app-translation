@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">СЕЙЧАС</string>
     <string name="desktop_widget_starts_in">Начнётся через %@</string>
     <string name="desktop_widget_up_next">Следующее</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Не удалось войти</string>
     <string name="error_network_unavailable">Не удаётся подключиться. Проверьте подключение к сети.</string>
     <string name="error_no_response">Нет ответа</string>

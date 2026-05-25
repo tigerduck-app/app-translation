@@ -282,6 +282,8 @@
 "desktop_widget_now" = "進行中";
 "desktop_widget_starts_in" = "%@ 後開始";
 "desktop_widget_up_next" = "下一堂";
+"device_id_copied" = "已複製裝置 ID";
+"device_id_copy_action" = "複製裝置 ID";
 "error_bulletin_decoding_failed_format" = "公告回應解析失敗：%1$@";
 "error_bulletin_encoding_failed_format" = "公告請求編碼失敗：%1$@";
 "error_bulletin_http_status_format" = "公告伺服器回傳 HTTP %1$d：%2$@";

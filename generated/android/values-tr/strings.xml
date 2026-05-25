@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">ŞİMDİ</string>
     <string name="desktop_widget_starts_in">%@ sonra başlıyor</string>
     <string name="desktop_widget_up_next">Sıradaki</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Giriş başarısız</string>
     <string name="error_network_unavailable">Bağlanılamıyor. Lütfen ağ bağlantınızı kontrol edin.</string>
     <string name="error_no_response">Yanıt yok</string>

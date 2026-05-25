@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">TERAZ</string>
     <string name="desktop_widget_starts_in">Zaczyna się za %@</string>
     <string name="desktop_widget_up_next">Następne</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Logowanie nie powiodło się</string>
     <string name="error_network_unavailable">Brak połączenia. Proszę sprawdzić połączenie sieciowe.</string>
     <string name="error_no_response">Brak odpowiedzi</string>

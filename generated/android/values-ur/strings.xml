@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">ابھی</string>
     <string name="desktop_widget_starts_in">%@ میں شروع ہوگا</string>
     <string name="desktop_widget_up_next">اگلا</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">لاگ ان ناکام ہو گیا</string>
     <string name="error_network_unavailable">کنکشن ناممکن ہے۔ براہ کرم اپنا نیٹ ورک کنکشن چیک کریں۔</string>
     <string name="error_no_response">کوئی جواب نہیں</string>

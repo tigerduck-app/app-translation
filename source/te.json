@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "%@ లో ప్రారంభమవుతుంది",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "లాగిన్ విఫలమైంది",
         "error_network_unavailable": "కనెక్ట్ చేయడం సాధ్యం కాలేదు. దయచేసి మీ నెట్‌వర్క్ కనెక్షన్ తనిఖీ చేయండి.",
         "error_no_response": "స్పందన లేదు",

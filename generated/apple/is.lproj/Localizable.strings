@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Byrjar eftir %@";
 "desktop_widget_up_next" = "Up next";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Tókst ekki að þátta tilkynningasvar: %1$@";
 "error_bulletin_encoding_failed_format" = "Tókst ekki að kóða tilkynningabeiðni: %1$@";
 "error_bulletin_http_status_format" = "Tilkynningaþjónn skilaði HTTP %1$d: %2$@";

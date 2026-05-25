@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">NÅ</string>
     <string name="desktop_widget_starts_in">Starter om %@</string>
     <string name="desktop_widget_up_next">Neste</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Pålogging mislyktes</string>
     <string name="error_network_unavailable">Kan ikke koble til. Kontroller nettverkstilkoblingen din.</string>
     <string name="error_no_response">Ingen respons</string>

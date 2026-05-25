@@ -266,6 +266,8 @@
         "desktop_widget_now": "SEKARANG",
         "desktop_widget_starts_in": "Dimulai dalam %@",
         "desktop_widget_up_next": "Berikutnya",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Login gagal",
         "error_network_unavailable": "Tidak dapat terhubung. Silakan periksa koneksi jaringan kamu.",
         "error_no_response": "Tidak ada respons",

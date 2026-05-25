@@ -266,6 +266,8 @@
         "desktop_widget_now": "ORA",
         "desktop_widget_starts_in": "Inizia tra %@",
         "desktop_widget_up_next": "Prossimo",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Accesso non riuscito",
         "error_network_unavailable": "Impossibile connettersi. Controlla la connessione di rete.",
         "error_no_response": "Nessuna risposta",

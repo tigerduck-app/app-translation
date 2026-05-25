@@ -266,6 +266,8 @@
         "desktop_widget_now": "進行中",
         "desktop_widget_starts_in": "%@ 後開始",
         "desktop_widget_up_next": "下一堂",
+        "device_id_copied": "已複製裝置 ID",
+        "device_id_copy_action": "複製裝置 ID",
         "error_login_failed": "登入失敗",
         "error_network_unavailable": "無法連線，請檢查網路連線",
         "error_no_response": "無回應",

@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Byrjar eftir %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Innskráning mistókst",
         "error_network_unavailable": "Ekki hægt að tengjast. Athugaðu nettengingarnar þínar.",
         "error_no_response": "Engin svörun",

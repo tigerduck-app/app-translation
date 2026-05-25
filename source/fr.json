@@ -266,6 +266,8 @@
         "desktop_widget_now": "MAINTENANT",
         "desktop_widget_starts_in": "Commence dans %@",
         "desktop_widget_up_next": "À suivre",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Échec de la connexion",
         "error_network_unavailable": "Connexion impossible. Veuillez vérifier votre connexion réseau.",
         "error_no_response": "Aucune réponse",

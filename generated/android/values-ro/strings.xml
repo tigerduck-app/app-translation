@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">Începe în %@</string>
     <string name="desktop_widget_up_next">Up next</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Autentificare eșuată</string>
     <string name="error_network_unavailable">Nu se poate conecta. Verifică conexiunea la rețea.</string>
     <string name="error_no_response">Fără răspuns</string>

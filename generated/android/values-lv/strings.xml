@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">Sākas pēc %@</string>
     <string name="desktop_widget_up_next">Up next</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Pieteikšanās neizdevās</string>
     <string name="error_network_unavailable">Nevar izveidot savienojumu. Lūdzu, pārbaudiet tīkla savienojumu.</string>
     <string name="error_no_response">Nav atbildes</string>

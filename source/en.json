@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Starts in %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Login failed",
         "error_network_unavailable": "Unable to connect. Please check your network connection.",
         "error_no_response": "No response",

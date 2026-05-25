@@ -266,6 +266,8 @@
         "desktop_widget_now": "BÂY GIỜ",
         "desktop_widget_starts_in": "Bắt đầu sau %@",
         "desktop_widget_up_next": "Tiếp theo",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Đăng nhập thất bại",
         "error_network_unavailable": "Không thể kết nối. Vui lòng kiểm tra kết nối mạng.",
         "error_no_response": "Không có phản hồi",

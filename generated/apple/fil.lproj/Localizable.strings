@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NGAYON";
 "desktop_widget_starts_in" = "Magsisimula sa %@";
 "desktop_widget_up_next" = "Susunod";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nabigong i-parse ang tugon ng bulletin: %1$@";
 "error_bulletin_encoding_failed_format" = "Nabigong i-encode ang request ng bulletin: %1$@";
 "error_bulletin_http_status_format" = "Nagbalik ang bulletin server ng HTTP %1$d: %2$@";

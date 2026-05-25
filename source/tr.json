@@ -266,6 +266,8 @@
         "desktop_widget_now": "ŞİMDİ",
         "desktop_widget_starts_in": "%@ sonra başlıyor",
         "desktop_widget_up_next": "Sıradaki",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Giriş başarısız",
         "error_network_unavailable": "Bağlanılamıyor. Lütfen ağ bağlantınızı kontrol edin.",
         "error_no_response": "Yanıt yok",

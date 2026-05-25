@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">%@ இல் தொடங்கும்</string>
     <string name="desktop_widget_up_next">Up next</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">லாக்-இன் தோல்வியடைந்தது</string>
     <string name="error_network_unavailable">இணைக்க முடியவில்லை. உங்கள் நெட்வொர்க் இணைப்பை சரிபார்க்கவும்.</string>
     <string name="error_no_response">எந்த பதிலும் இல்லை</string>

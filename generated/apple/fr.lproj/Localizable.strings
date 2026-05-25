@@ -282,6 +282,8 @@
 "desktop_widget_now" = "MAINTENANT";
 "desktop_widget_starts_in" = "Commence dans %@";
 "desktop_widget_up_next" = "À suivre";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Échec de l'analyse de la réponse du bulletin : %1$@";
 "error_bulletin_encoding_failed_format" = "Échec de l'encodage de la requête du bulletin : %1$@";
 "error_bulletin_http_status_format" = "Le serveur de bulletins a renvoyé HTTP %1$d : %2$@";

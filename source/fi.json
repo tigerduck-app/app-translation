@@ -266,6 +266,8 @@
         "desktop_widget_now": "NYT",
         "desktop_widget_starts_in": "Alkaa %@:n kuluttua",
         "desktop_widget_up_next": "Seuraava",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Kirjautuminen epäonnistui",
         "error_network_unavailable": "Yhteys epäonnistui. Tarkista verkkoyhteys.",
         "error_no_response": "Ei vastausta",

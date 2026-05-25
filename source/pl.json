@@ -266,6 +266,8 @@
         "desktop_widget_now": "TERAZ",
         "desktop_widget_starts_in": "Zaczyna się za %@",
         "desktop_widget_up_next": "Następne",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Logowanie nie powiodło się",
         "error_network_unavailable": "Brak połączenia. Proszę sprawdzić połączenie sieciowe.",
         "error_no_response": "Brak odpowiedzi",

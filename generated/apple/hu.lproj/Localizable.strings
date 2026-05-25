@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Kezdés %@ múlva";
 "desktop_widget_up_next" = "Up next";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nem sikerült feldolgozni a hirdetmény válaszát: %1$@";
 "error_bulletin_encoding_failed_format" = "Nem sikerült kódolni a hirdetmény kérést: %1$@";
 "error_bulletin_http_status_format" = "A hirdetményszerver HTTP %1$d választ adott: %2$@";

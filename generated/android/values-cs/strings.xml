@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">TEĎ</string>
     <string name="desktop_widget_starts_in">Začíná za %@</string>
     <string name="desktop_widget_up_next">Další</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Přihlášení se nezdařilo</string>
     <string name="error_network_unavailable">Nelze se připojit. Zkontrolujte prosím připojení k síti.</string>
     <string name="error_no_response">Žádná odpověď</string>

@@ -266,6 +266,8 @@
         "desktop_widget_now": "JETZT",
         "desktop_widget_starts_in": "Beginnt in %@",
         "desktop_widget_up_next": "Als Nächstes",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Anmeldung fehlgeschlagen",
         "error_network_unavailable": "Verbindung nicht möglich. Bitte überprüfen Sie Ihre Netzwerkverbindung.",
         "error_no_response": "Keine Antwort",

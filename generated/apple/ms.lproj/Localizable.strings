@@ -282,6 +282,8 @@
 "desktop_widget_now" = "SEKARANG";
 "desktop_widget_starts_in" = "Bermula dalam %@";
 "desktop_widget_up_next" = "Seterusnya";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Gagal menghuraikan respons buletin: %1$@";
 "error_bulletin_encoding_failed_format" = "Gagal mengekod permintaan buletin: %1$@";
 "error_bulletin_http_status_format" = "Pelayan buletin mengembalikan HTTP %1$d: %2$@";

@@ -266,6 +266,8 @@
         "desktop_widget_now": "СЕЙЧАС",
         "desktop_widget_starts_in": "Начнётся через %@",
         "desktop_widget_up_next": "Следующее",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Не удалось войти",
         "error_network_unavailable": "Не удаётся подключиться. Проверьте подключение к сети.",
         "error_no_response": "Нет ответа",

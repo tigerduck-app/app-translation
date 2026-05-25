@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "%@ кейін басталады",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Кіру сәтсіз аяқталды",
         "error_network_unavailable": "Қосылу мүмкін емес. Желі байланысын тексеріңіз.",
         "error_no_response": "Жауап жоқ",

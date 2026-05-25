@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Започва след %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Влизането е неуспешно",
         "error_network_unavailable": "Не може да се установи връзка. Моля, проверете мрежовата си връзка.",
         "error_no_response": "Няма отговор",

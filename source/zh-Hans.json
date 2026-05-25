@@ -266,6 +266,8 @@
         "desktop_widget_now": "进行中",
         "desktop_widget_starts_in": "%@ 后开始",
         "desktop_widget_up_next": "下一堂",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "登录失败",
         "error_network_unavailable": "无法连接，请检查网络连接",
         "error_no_response": "无回应",

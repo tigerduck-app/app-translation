@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "%@ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋਵੇਗਾ",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "ਲੌਗਇਨ ਅਸਫਲ ਰਿਹਾ",
         "error_network_unavailable": "ਕੁਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਜਾਂਚੋ।",
         "error_no_response": "ਕੋਈ ਜਵਾਬ ਨਹੀਂ",

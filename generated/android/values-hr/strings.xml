@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">Počinje za %@</string>
     <string name="desktop_widget_up_next">Up next</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Prijava nije uspjela</string>
     <string name="error_network_unavailable">Nije moguće spojiti se. Provjerite mrežnu vezu.</string>
     <string name="error_no_response">Nema odgovora</string>

@@ -266,6 +266,8 @@
         "desktop_widget_now": "진행 중",
         "desktop_widget_starts_in": "%@ 후 시작",
         "desktop_widget_up_next": "다음 강의",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "로그인 실패",
         "error_network_unavailable": "연결할 수 없습니다. 네트워크 연결을 확인해 주세요.",
         "error_no_response": "응답 없음",

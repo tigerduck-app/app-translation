@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Kezdés %@ múlva",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Bejelentkezés sikertelen",
         "error_network_unavailable": "Nem lehet csatlakozni. Kérjük, ellenőrizze a hálózati kapcsolatot.",
         "error_no_response": "Nincs válasz",

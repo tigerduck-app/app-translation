@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NU";
 "desktop_widget_starts_in" = "Börjar om %@";
 "desktop_widget_up_next" = "Nästa";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Det gick inte att tolka anslagstavlans svar: %1$@";
 "error_bulletin_encoding_failed_format" = "Det gick inte att koda anslagstavlans begäran: %1$@";
 "error_bulletin_http_status_format" = "Anslagstavlans server returnerade HTTP %1$d: %2$@";

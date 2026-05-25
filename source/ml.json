@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "%@ ൽ ആരംഭിക്കും",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "ലോഗിൻ പരാജയപ്പെട്ടു",
         "error_network_unavailable": "കണക്റ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല. നെറ്റ്‌വർക്ക് കണക്ഷൻ പരിശോധിക്കുക.",
         "error_no_response": "പ്രതികരണം ലഭിച്ചില്ല",

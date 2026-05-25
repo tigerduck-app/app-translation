@@ -266,6 +266,8 @@
         "desktop_widget_now": "TEĎ",
         "desktop_widget_starts_in": "Začíná za %@",
         "desktop_widget_up_next": "Další",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Přihlášení se nezdařilo",
         "error_network_unavailable": "Nelze se připojit. Zkontrolujte prosím připojení k síti.",
         "error_no_response": "Žádná odpověď",

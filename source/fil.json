@@ -266,6 +266,8 @@
         "desktop_widget_now": "NGAYON",
         "desktop_widget_starts_in": "Magsisimula sa %@",
         "desktop_widget_up_next": "Susunod",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Nabigong mag-login",
         "error_network_unavailable": "Hindi makakonekta. Pakisuri ang iyong koneksyon sa network.",
         "error_no_response": "Walang tugon",

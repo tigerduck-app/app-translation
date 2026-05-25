@@ -266,6 +266,8 @@
         "desktop_widget_now": "اکنون",
         "desktop_widget_starts_in": "شروع در %@",
         "desktop_widget_up_next": "بعدی",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "ورود ناموفق بود",
         "error_network_unavailable": "اتصال ممکن نیست. لطفاً اتصال شبکه را بررسی کنید.",
         "error_no_response": "پاسخی دریافت نشد",

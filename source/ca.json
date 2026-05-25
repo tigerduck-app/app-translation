@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Comença en %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Error d'inici de sessió",
         "error_network_unavailable": "No es pot connectar. Comproveu la connexió de xarxa.",
         "error_no_response": "Sense resposta",

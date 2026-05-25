@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">进行中</string>
     <string name="desktop_widget_starts_in">%@ 后开始</string>
     <string name="desktop_widget_up_next">下一堂</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">登录失败</string>
     <string name="error_network_unavailable">无法连接，请检查网络连接</string>
     <string name="error_no_response">无回应</string>

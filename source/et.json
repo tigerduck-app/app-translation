@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Algab %@ pärast",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Sisselogimine ebaõnnestus",
         "error_network_unavailable": "Ühendamine ebaõnnestus. Kontrollige oma võrguühendust.",
         "error_no_response": "Vastust ei saadud",

@@ -266,6 +266,8 @@
         "desktop_widget_now": "NOW",
         "desktop_widget_starts_in": "Sākas pēc %@",
         "desktop_widget_up_next": "Up next",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Pieteikšanās neizdevās",
         "error_network_unavailable": "Nevar izveidot savienojumu. Lūdzu, pārbaudiet tīkla savienojumu.",
         "error_no_response": "Nav atbildes",

@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">ORA</string>
     <string name="desktop_widget_starts_in">Inizia tra %@</string>
     <string name="desktop_widget_up_next">Prossimo</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Accesso non riuscito</string>
     <string name="error_network_unavailable">Impossibile connettersi. Controlla la connessione di rete.</string>
     <string name="error_no_response">Nessuna risposta</string>

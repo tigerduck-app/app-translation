@@ -266,6 +266,8 @@
         "desktop_widget_now": "ЗАРАЗ",
         "desktop_widget_starts_in": "Починається через %@",
         "desktop_widget_up_next": "Наступне",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Не вдалося увійти",
         "error_network_unavailable": "Не вдалося підключитися. Перевірте з'єднання з мережею.",
         "error_no_response": "Немає відповіді",

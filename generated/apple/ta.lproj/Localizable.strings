@@ -282,6 +282,8 @@
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "%@ இல் தொடங்கும்";
 "desktop_widget_up_next" = "Up next";
+"device_id_copied" = "Device ID copied";
+"device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "அறிவிப்புப் பலகை பதிலைப் பகுப்பாய்வு செய்ய முடியவில்லை: %1$@";
 "error_bulletin_encoding_failed_format" = "அறிவிப்புப் பலகை கோரிக்கையை குறியாக்க முடியவில்லை: %1$@";
 "error_bulletin_http_status_format" = "அறிவிப்புப் பலகை சர்வர் HTTP %1$d திருப்பியது: %2$@";

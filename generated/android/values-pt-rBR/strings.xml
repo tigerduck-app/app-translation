@@ -269,6 +269,8 @@
     <string name="desktop_widget_now">AGORA</string>
     <string name="desktop_widget_starts_in">Começa em %@</string>
     <string name="desktop_widget_up_next">Em seguida</string>
+    <string name="device_id_copied">Device ID copied</string>
+    <string name="device_id_copy_action">Copy device ID</string>
     <string name="error_login_failed">Falha no login</string>
     <string name="error_network_unavailable">Não foi possível conectar. Verifique sua conexão de internet.</string>
     <string name="error_no_response">Sem resposta</string>

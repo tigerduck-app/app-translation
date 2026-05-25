@@ -266,6 +266,8 @@
         "desktop_widget_now": "ΤΩΡΑ",
         "desktop_widget_starts_in": "Ξεκινά σε %@",
         "desktop_widget_up_next": "Επόμενο",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Αποτυχία σύνδεσης",
         "error_network_unavailable": "Αδύνατη η σύνδεση. Ελέγξτε τη σύνδεσή σας στο δίκτυο.",
         "error_no_response": "Δεν υπάρχει απόκριση",

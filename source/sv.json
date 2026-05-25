@@ -266,6 +266,8 @@
         "desktop_widget_now": "NU",
         "desktop_widget_starts_in": "Börjar om %@",
         "desktop_widget_up_next": "Nästa",
+        "device_id_copied": "Device ID copied",
+        "device_id_copy_action": "Copy device ID",
         "error_login_failed": "Inloggning misslyckades",
         "error_network_unavailable": "Kan inte ansluta. Kontrollera din nätverksanslutning.",
         "error_no_response": "Inget svar",
