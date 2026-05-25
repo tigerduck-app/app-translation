@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Pinyin anzeigen",
         "settings_classroom_mandarin_display_translated": "Übersetzung anzeigen",
         "settings_color_theme": "Farbschema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Feedback / Fehler melden",
         "settings_flip_to_library_summary": "Lege das Handy mit dem Display nach unten, um den Bibliotheks-QR zu öffnen.",
         "settings_flip_to_library_title": "Bibliotheks-QR per Umdrehen anzeigen",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "WS",
         "score_semester_second": "Sommersemester",
         "score_semester_second_short": "SS",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Приказ пињина",
         "settings_classroom_mandarin_display_translated": "Приказ превода",
         "settings_color_theme": "Тема боја",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Повратне информације / Пријави проблем",
         "settings_flip_to_library_summary": "Окрените телефон екраном надоле да отворите QR библиотеке.",
         "settings_flip_to_library_title": "Окрени за приказ QR-а библиотеке",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Зима",
         "score_semester_second": "Летњи семестар",
         "score_semester_second_short": "Лето",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

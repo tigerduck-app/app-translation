@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Показати піньїнь</string>
     <string name="settings_classroom_mandarin_display_translated">Показати переклад</string>
     <string name="settings_color_theme">Кольорова тема</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Відгук / Повідомити про проблему</string>
     <string name="settings_flip_to_library_summary">Переверніть телефон екраном донизу, щоб відкрити QR бібліотеки.</string>
     <string name="settings_flip_to_library_title">Перевернути для показу QR бібліотеки</string>

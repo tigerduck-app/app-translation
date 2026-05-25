@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Zobraziť pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Zobraziť preklad</string>
     <string name="settings_color_theme">Farebná téma</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Spätná väzba / Nahlásenie problému</string>
     <string name="settings_flip_to_library_summary">Otočte telefón obrazovkou nadol a otvoríte QR knižnice.</string>
     <string name="settings_flip_to_library_title">Otočiť pre zobrazenie QR knižnice</string>

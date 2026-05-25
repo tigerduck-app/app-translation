@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Ipakita ang pinyin",
         "settings_classroom_mandarin_display_translated": "Ipakita ang salin",
         "settings_color_theme": "Kulay na tema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Feedback / Mag-ulat ng isyu",
         "settings_flip_to_library_summary": "I-flip ang telepono naka-mukha ang screen pababa para buksan ang library QR.",
         "settings_flip_to_library_title": "I-flip para ipakita ang library QR",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Una",
         "score_semester_second": "Ikalawang semestre",
         "score_semester_second_short": "Ika-2",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

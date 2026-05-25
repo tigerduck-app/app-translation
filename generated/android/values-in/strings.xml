@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Tampilkan pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Tampilkan terjemahan</string>
     <string name="settings_color_theme">Tema warna</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Umpan balik / Laporkan masalah</string>
     <string name="settings_flip_to_library_summary">Balik ponsel dengan layar menghadap bawah untuk membuka QR perpustakaan.</string>
     <string name="settings_flip_to_library_title">Balik untuk menampilkan QR perpustakaan</string>

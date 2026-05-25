@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Afișează pinyin",
         "settings_classroom_mandarin_display_translated": "Afișează traducere",
         "settings_color_theme": "Temă de culori",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Feedback / Raportare problemă",
         "settings_flip_to_library_summary": "Întoarce telefonul cu ecranul în jos pentru a deschide QR-ul bibliotecii.",
         "settings_flip_to_library_title": "Întoarce pentru a afișa QR-ul bibliotecii",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Toamnă",
         "score_semester_second": "Semestrul de primăvară",
         "score_semester_second_short": "Prim",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

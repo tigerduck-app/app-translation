@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "পিনয়িন প্রদর্শন করুন",
         "settings_classroom_mandarin_display_translated": "অনুবাদ প্রদর্শন করুন",
         "settings_color_theme": "রং থিম",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "মতামত / সমস্যা রিপোর্ট করুন",
         "settings_flip_to_library_summary": "লাইব্রেরি QR খুলতে ফোনটি স্ক্রিন নিচু করে উল্টান।",
         "settings_flip_to_library_title": "লাইব্রেরি QR দেখাতে উল্টান",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "শরৎ",
         "score_semester_second": "বসন্ত সেমিস্টার",
         "score_semester_second_short": "বসন্ত",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

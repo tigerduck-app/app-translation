@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">പിൻയിൻ കാണിക്കുക</string>
     <string name="settings_classroom_mandarin_display_translated">വിവർത്തനം കാണിക്കുക</string>
     <string name="settings_color_theme">നിറ തീം</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക</string>
     <string name="settings_flip_to_library_summary">ലൈബ്രറി QR തുറക്കാൻ ഫോൺ സ്ക്രീൻ താഴ്ത്തി മറിക്കുക.</string>
     <string name="settings_flip_to_library_title">ലൈബ്രറി QR കാണിക്കാൻ മറിക്കുക</string>

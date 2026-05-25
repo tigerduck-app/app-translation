@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Display pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Display translated</string>
     <string name="settings_color_theme">Color theme</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Feedback / Report issue</string>
     <string name="settings_flip_to_library_summary">Flip your phone face-down to open the library QR.</string>
     <string name="settings_flip_to_library_title">Flip to show library QR</string>

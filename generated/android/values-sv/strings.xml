@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Visa pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Visa översättning</string>
     <string name="settings_color_theme">Färgtema</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Feedback / Rapportera problem</string>
     <string name="settings_flip_to_library_summary">Vänd telefonen med skärmen nedåt för att öppna bibliotekets QR.</string>
     <string name="settings_flip_to_library_title">Vänd för att visa bibliotekets QR</string>

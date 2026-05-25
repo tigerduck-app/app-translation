@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Пиньиньді көрсету</string>
     <string name="settings_classroom_mandarin_display_translated">Аударманы көрсету</string>
     <string name="settings_color_theme">Түс тақырыбы</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Пікір / Мәселені хабарлау</string>
     <string name="settings_flip_to_library_summary">Кітапхана QR-ын ашу үшін телефонды экраны төмен қаратып аудар.</string>
     <string name="settings_flip_to_library_title">Кітапхана QR-ын көрсету үшін аудар</string>

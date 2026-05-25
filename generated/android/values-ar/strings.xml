@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">عرض بينيين</string>
     <string name="settings_classroom_mandarin_display_translated">عرض الترجمة</string>
     <string name="settings_color_theme">نسق الألوان</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">ملاحظات / الإبلاغ عن مشكلة</string>
     <string name="settings_flip_to_library_summary">اقلب هاتفك بحيث يكون الشاشة لأسفل لفتح رمز QR للمكتبة.</string>
     <string name="settings_flip_to_library_title">اقلب لعرض رمز QR للمكتبة</string>

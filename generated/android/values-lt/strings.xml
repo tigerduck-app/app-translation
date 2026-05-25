@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Rodyti pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Rodyti vertimą</string>
     <string name="settings_color_theme">Spalvų tema</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Atsiliepimai / Pranešti apie klaidą</string>
     <string name="settings_flip_to_library_summary">Apverskite telefoną ekranu žemyn, kad atidarytumėte bibliotekos QR.</string>
     <string name="settings_flip_to_library_title">Apversti, kad rodytų bibliotekos QR</string>

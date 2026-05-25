@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Rādīt pinyin",
         "settings_classroom_mandarin_display_translated": "Rādīt tulkojumu",
         "settings_color_theme": "Krāsu tēma",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Atsauksme / Ziņot par problēmu",
         "settings_flip_to_library_summary": "Apvērs tālruni ar ekrānu uz leju, lai atvērtu bibliotēkas QR.",
         "settings_flip_to_library_title": "Apvērst, lai parādītu bibliotēkas QR",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Rudens",
         "score_semester_second": "Pavasara semestris",
         "score_semester_second_short": "Pavasaris",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

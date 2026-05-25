@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Kuva pinyin",
         "settings_classroom_mandarin_display_translated": "Kuva tõlge",
         "settings_color_theme": "Värvi teema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Tagasiside / Vea aruanne",
         "settings_flip_to_library_summary": "Pööra telefon ekraaniga allapoole, et avada raamatukogu QR.",
         "settings_flip_to_library_title": "Pööra raamatukogu QR-i näitamiseks",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Sügis",
         "score_semester_second": "Kevadsemester",
         "score_semester_second_short": "Kevad",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "ピンインを表示",
         "settings_classroom_mandarin_display_translated": "訳語を表示",
         "settings_color_theme": "カラーテーマ",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "フィードバック / 不具合報告",
         "settings_flip_to_library_summary": "スマホを画面下向きに裏返すと図書館QRを開きます。",
         "settings_flip_to_library_title": "裏返して図書館QRを表示",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "前期",
         "score_semester_second": "後期",
         "score_semester_second_short": "後期",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Пиньиньді көрсету",
         "settings_classroom_mandarin_display_translated": "Аударманы көрсету",
         "settings_color_theme": "Түс тақырыбы",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Пікір / Мәселені хабарлау",
         "settings_flip_to_library_summary": "Кітапхана QR-ын ашу үшін телефонды экраны төмен қаратып аудар.",
         "settings_flip_to_library_title": "Кітапхана QR-ын көрсету үшін аудар",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Күзгі",
         "score_semester_second": "Көктемгі семестр",
         "score_semester_second_short": "Көктем",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

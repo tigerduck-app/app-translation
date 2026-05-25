@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Показать пиньинь</string>
     <string name="settings_classroom_mandarin_display_translated">Показать перевод</string>
     <string name="settings_color_theme">Цветовая тема</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Отзыв / Сообщить о проблеме</string>
     <string name="settings_flip_to_library_summary">Переверните телефон экраном вниз, чтобы открыть QR библиотеки.</string>
     <string name="settings_flip_to_library_title">Перевернуть для отображения QR библиотеки</string>

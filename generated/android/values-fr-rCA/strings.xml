@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Afficher pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Afficher la traduction</string>
     <string name="settings_color_theme">Thème de couleur</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Commentaires / Signaler un problème</string>
     <string name="settings_flip_to_library_summary">Retournez votre téléphone écran vers le bas pour afficher le QR de la bibliothèque.</string>
     <string name="settings_flip_to_library_title">Retourner pour afficher le QR de la bibliothèque</string>

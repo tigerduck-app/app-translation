@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "显示拼音",
         "settings_classroom_mandarin_display_translated": "显示翻译",
         "settings_color_theme": "颜色主题",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "回馈/问题回报",
         "settings_flip_to_library_summary": "将手机屏幕朝下即可打开图书馆 QR。",
         "settings_flip_to_library_title": "翻转显示图书馆 QR",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "上",
         "score_semester_second": "下学期",
         "score_semester_second_short": "下",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

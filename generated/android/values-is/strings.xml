@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Sýna pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Sýna þýðingu</string>
     <string name="settings_color_theme">Litaþema</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Endurgjöf / Tilkynna villu</string>
     <string name="settings_flip_to_library_summary">Snúðu símann með skjánum niður til að opna QR kóða bókasafnsins.</string>
     <string name="settings_flip_to_library_title">Snúa til að sýna QR kóða bókasafnsins</string>

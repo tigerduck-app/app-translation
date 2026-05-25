@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "പിൻയിൻ കാണിക്കുക",
         "settings_classroom_mandarin_display_translated": "വിവർത്തനം കാണിക്കുക",
         "settings_color_theme": "നിറ തീം",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക",
         "settings_flip_to_library_summary": "ലൈബ്രറി QR തുറക്കാൻ ഫോൺ സ്ക്രീൻ താഴ്ത്തി മറിക്കുക.",
         "settings_flip_to_library_title": "ലൈബ്രറി QR കാണിക്കാൻ മറിക്കുക",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "ഫോൾ",
         "score_semester_second": "സ്പ്രിംഗ് സെമസ്റ്റർ",
         "score_semester_second_short": "സ്പ്രിംഗ്",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

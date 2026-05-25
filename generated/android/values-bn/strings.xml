@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">পিনয়িন প্রদর্শন করুন</string>
     <string name="settings_classroom_mandarin_display_translated">অনুবাদ প্রদর্শন করুন</string>
     <string name="settings_color_theme">রং থিম</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">মতামত / সমস্যা রিপোর্ট করুন</string>
     <string name="settings_flip_to_library_summary">লাইব্রেরি QR খুলতে ফোনটি স্ক্রিন নিচু করে উল্টান।</string>
     <string name="settings_flip_to_library_title">লাইব্রেরি QR দেখাতে উল্টান</string>

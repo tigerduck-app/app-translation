@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Vis pinyin",
         "settings_classroom_mandarin_display_translated": "Vis oversettelse",
         "settings_color_theme": "Fargetema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Tilbakemelding / Rapporter problem",
         "settings_flip_to_library_summary": "Snu telefonen med skjermen ned for å åpne bibliotekets QR.",
         "settings_flip_to_library_title": "Snu for å vise bibliotekets QR",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Høst",
         "score_semester_second": "Vårsemester",
         "score_semester_second_short": "Vår",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

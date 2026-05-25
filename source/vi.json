@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Hiển thị Bính âm",
         "settings_classroom_mandarin_display_translated": "Hiển thị bản dịch",
         "settings_color_theme": "Chủ đề màu",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Phản hồi / Báo lỗi",
         "settings_flip_to_library_summary": "Lật điện thoại úp màn hình xuống để mở QR thư viện.",
         "settings_flip_to_library_title": "Lật để hiển thị QR thư viện",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Kỳ 1",
         "score_semester_second": "Học kỳ 2",
         "score_semester_second_short": "Kỳ 2",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

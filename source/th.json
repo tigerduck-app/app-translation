@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "แสดงพินอิน",
         "settings_classroom_mandarin_display_translated": "แสดงคำแปล",
         "settings_color_theme": "ธีมสี",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "ความคิดเห็น / รายงานปัญหา",
         "settings_flip_to_library_summary": "พลิกโทรศัพท์คว่ำหน้าลงเพื่อเปิด QR ห้องสมุด",
         "settings_flip_to_library_title": "พลิกเพื่อแสดง QR ห้องสมุด",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "ต้น",
         "score_semester_second": "ภาคปลาย",
         "score_semester_second_short": "ปลาย",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

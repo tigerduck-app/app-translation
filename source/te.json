@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "పిన్యిన్ చూపించు",
         "settings_classroom_mandarin_display_translated": "అనువాదాన్ని చూపించు",
         "settings_color_theme": "రంగు థీమ్",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "ఫీడ్‌బ్యాక్ / సమస్య నివేదించు",
         "settings_flip_to_library_summary": "లైబ్రరీ QR తెరవడానికి ఫోన్‌ని స్క్రీన్ కిందకు పెట్టి తిప్పండి.",
         "settings_flip_to_library_title": "లైబ్రరీ QR చూపించడానికి తిప్పండి",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "శరత్",
         "score_semester_second": "వసంత సెమిస్టర్",
         "score_semester_second_short": "వసంత",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

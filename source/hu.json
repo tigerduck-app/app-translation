@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Pinyin megjelenítése",
         "settings_classroom_mandarin_display_translated": "Fordítás megjelenítése",
         "settings_color_theme": "Színtéma",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Visszajelzés / Hibabejelentés",
         "settings_flip_to_library_summary": "Fordítsd az okostelefont képernyővel lefelé a könyvtári QR-kód megnyitásához.",
         "settings_flip_to_library_title": "Fordítsd meg a könyvtári QR-kód megjelenítéséhez",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Ősz",
         "score_semester_second": "Tavaszi félév",
         "score_semester_second_short": "Tavasz",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Pinyin megjelenítése</string>
     <string name="settings_classroom_mandarin_display_translated">Fordítás megjelenítése</string>
     <string name="settings_color_theme">Színtéma</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Visszajelzés / Hibabejelentés</string>
     <string name="settings_flip_to_library_summary">Fordítsd az okostelefont képernyővel lefelé a könyvtári QR-kód megnyitásához.</string>
     <string name="settings_flip_to_library_title">Fordítsd meg a könyvtári QR-kód megjelenítéséhez</string>

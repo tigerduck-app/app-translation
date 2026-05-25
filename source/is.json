@@ -542,6 +542,7 @@
         "settings_classroom_mandarin_display_pinyin": "Sýna pinyin",
         "settings_classroom_mandarin_display_translated": "Sýna þýðingu",
         "settings_color_theme": "Litaþema",
+        "settings_delete_account": "Delete account",
         "settings_feedback_bug_report": "Endurgjöf / Tilkynna villu",
         "settings_flip_to_library_summary": "Snúðu símann með skjánum niður til að opna QR kóða bókasafnsins.",
         "settings_flip_to_library_title": "Snúa til að sýna QR kóða bókasafnsins",
@@ -817,7 +818,6 @@
         "score_semester_first_short": "Haust",
         "score_semester_second": "Vorönn",
         "score_semester_second_short": "Vor",
-        "settings_delete_account": "Delete account",
         "settings_notifications_disabled_warning": "Notifications are off — assignment and class reminders won't appear. Tap to open System Settings."
     }
 }

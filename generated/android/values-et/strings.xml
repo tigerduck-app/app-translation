@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Kuva pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Kuva tõlge</string>
     <string name="settings_color_theme">Värvi teema</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Tagasiside / Vea aruanne</string>
     <string name="settings_flip_to_library_summary">Pööra telefon ekraaniga allapoole, et avada raamatukogu QR.</string>
     <string name="settings_flip_to_library_title">Pööra raamatukogu QR-i näitamiseks</string>

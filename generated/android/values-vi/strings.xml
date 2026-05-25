@@ -573,6 +573,7 @@
     <string name="settings_classroom_mandarin_display_pinyin">Hiển thị Bính âm</string>
     <string name="settings_classroom_mandarin_display_translated">Hiển thị bản dịch</string>
     <string name="settings_color_theme">Chủ đề màu</string>
+    <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Phản hồi / Báo lỗi</string>
     <string name="settings_flip_to_library_summary">Lật điện thoại úp màn hình xuống để mở QR thư viện.</string>
     <string name="settings_flip_to_library_title">Lật để hiển thị QR thư viện</string>
