@@ -453,6 +453,7 @@
         "permission_warning_title": "Разрешения для уведомлений отключены",
         "push_server_enable_toggle": "Включить серверный push",
         "push_server_footer": "Используется для получения push-уведомлений школьных объявлений в реальном времени и активного запуска напоминаний.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Последняя регистрация",
         "push_server_last_sync": "Последняя синхронизация",
         "push_server_latest_error": "Последняя ошибка",

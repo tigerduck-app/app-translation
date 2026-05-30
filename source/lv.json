@@ -453,6 +453,7 @@
         "permission_warning_title": "Ar paziņojumiem saistītās atļaujas ir izslēgtas",
         "push_server_enable_toggle": "Iespējot servera push",
         "push_server_footer": "Tiek izmantots, lai saņemtu skolas paziņojumus reāllaikā un aktīvi aktivizētu atgādinājumus.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Pēdējā reģistrācija",
         "push_server_last_sync": "Pēdējā sinhronizācija",
         "push_server_latest_error": "Nesena kļūda",

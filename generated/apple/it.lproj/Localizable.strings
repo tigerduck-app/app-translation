@@ -512,6 +512,7 @@
 "permission_warning_title" = "Autorizzazioni relative alle notifiche disattivate";
 "push_server_enable_toggle" = "Abilita push del server";
 "push_server_footer" = "Usato per ricevere notifiche in tempo reale dei comunicati scolastici e per attivare promemoria.";
+"push_server_ids_section" = "IDs";
 "push_server_last_registration" = "Ultima registrazione";
 "push_server_last_sync" = "Ultima sincronizzazione";
 "push_server_latest_error" = "Errore recente";

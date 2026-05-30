@@ -453,6 +453,7 @@
         "permission_warning_title": "Az értesítési engedélyek ki vannak kapcsolva",
         "push_server_enable_toggle": "Server-Push aktivieren",
         "push_server_footer": "Wird verwendet, um Schulbulletin-Benachrichtigungen in Echtzeit zu erhalten und Erinnerungen aktiv auszulösen.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Utolsó regisztráció",
         "push_server_last_sync": "Utolsó szinkronizálás",
         "push_server_latest_error": "Legutóbbi hiba",

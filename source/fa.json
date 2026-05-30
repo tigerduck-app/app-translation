@@ -453,6 +453,7 @@
         "permission_warning_title": "مجوزهای مرتبط با اعلان‌ها خاموش شده‌اند",
         "push_server_enable_toggle": "فعال کردن فشار سرور",
         "push_server_footer": "برای دریافت بی‌درنگ اعلان‌های بولتن مدرسه و فعال کردن یادآورها استفاده می‌شود.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "آخرین ثبت نام",
         "push_server_last_sync": "آخرین همگام سازی",
         "push_server_latest_error": "خطای اخیر",

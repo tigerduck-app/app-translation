@@ -453,6 +453,7 @@
         "permission_warning_title": "Autorisations liées aux notifications désactivées",
         "push_server_enable_toggle": "Activer le push du serveur",
         "push_server_footer": "Utilisé pour recevoir des notifications de bulletins scolaires en temps réel et pour déclencher activement des rappels.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Dernière inscription",
         "push_server_last_sync": "Dernière synchronisation",
         "push_server_latest_error": "Erreur récente",

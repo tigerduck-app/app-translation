@@ -453,6 +453,7 @@
         "permission_warning_title": "বিজ্ঞপ্তি সংক্রান্ত অনুমতি বন্ধ করা হয়েছে",
         "push_server_enable_toggle": "সার্ভার পুশ সক্ষম করুন",
         "push_server_footer": "রিয়েল-টাইম স্কুল বুলেটিন বিজ্ঞপ্তি পেতে এবং সক্রিয়ভাবে অনুস্মারক ট্রিগার করতে ব্যবহৃত হয়।",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "সর্বশেষ নিবন্ধন",
         "push_server_last_sync": "শেষ সিঙ্ক",
         "push_server_latest_error": "সাম্প্রতিক ত্রুটি",

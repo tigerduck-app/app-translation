@@ -453,6 +453,7 @@
         "permission_warning_title": "Oprávnění související s oznámeními jsou vypnutá",
         "push_server_enable_toggle": "Povolit server push",
         "push_server_footer": "Používá se k přijímání upozornění na školní bulletiny v reálném čase a k aktivnímu spouštění připomenutí.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Poslední registrace",
         "push_server_last_sync": "Poslední synchronizace",
         "push_server_latest_error": "Nedávná chyba",

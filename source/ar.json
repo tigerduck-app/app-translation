@@ -453,6 +453,7 @@
         "permission_warning_title": "أُغلقت أذونات متعلقة بالإشعارات",
         "push_server_enable_toggle": "تمكين دفع الخادم",
         "push_server_footer": "يُستخدم لتلقي إشعارات النشرات المدرسية في الوقت الفعلي ولتنشيط التذكيرات.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "التسجيل الأخير",
         "push_server_last_sync": "آخر مزامنة",
         "push_server_latest_error": "خطأ حديث",

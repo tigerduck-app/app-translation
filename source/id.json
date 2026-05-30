@@ -453,6 +453,7 @@
         "permission_warning_title": "Izin terkait notifikasi telah dinonaktifkan",
         "push_server_enable_toggle": "Aktifkan push server",
         "push_server_footer": "Digunakan untuk menerima notifikasi buletin sekolah secara real-time dan memicu pengingat secara aktif.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Pendaftaran terakhir",
         "push_server_last_sync": "Sinkronisasi terakhir",
         "push_server_latest_error": "Kesalahan terbaru",

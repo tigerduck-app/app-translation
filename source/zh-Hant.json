@@ -453,6 +453,7 @@
         "permission_warning_title": "偵測到通知權限已關閉",
         "push_server_enable_toggle": "啟用伺服器推播",
         "push_server_footer": "用於接收學校即時公告訊息、主動觸發動態島等提醒。",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "上次註冊",
         "push_server_last_sync": "上次同步",
         "push_server_latest_error": "最近錯誤",

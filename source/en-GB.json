@@ -453,6 +453,7 @@
         "permission_warning_title": "Notification-related permissions turned off",
         "push_server_enable_toggle": "Enable server push",
         "push_server_footer": "Used to receive real-time school bulletin notifications and to actively trigger reminders.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Last registration",
         "push_server_last_sync": "Last sync",
         "push_server_latest_error": "Recent error",

@@ -512,6 +512,7 @@
 "permission_warning_title" = "הרשאות התראות מושבתות";
 "push_server_enable_toggle" = "אפשר דחיפת שרת";
 "push_server_footer" = "משמש לקבלת הודעות עלון בזמן אמת בבית הספר ולהפעלת תזכורות באופן פעיל.";
+"push_server_ids_section" = "IDs";
 "push_server_last_registration" = "רישום אחרון";
 "push_server_last_sync" = "סנכרון אחרון";
 "push_server_latest_error" = "שגיאה אחרונה";

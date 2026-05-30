@@ -512,6 +512,7 @@
 "permission_warning_title" = "侦测到通知权限已关闭";
 "push_server_enable_toggle" = "启用服务器推送";
 "push_server_footer" = "用于接收学校实时公告消息、主动触发动态岛等提醒。";
+"push_server_ids_section" = "IDs";
 "push_server_last_registration" = "上次注册";
 "push_server_last_sync" = "上次同步";
 "push_server_latest_error" = "最近错误";

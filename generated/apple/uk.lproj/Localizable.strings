@@ -512,6 +512,7 @@
 "permission_warning_title" = "Дозволи, пов'язані зі сповіщеннями, вимкнено";
 "push_server_enable_toggle" = "Увімкнути серверні push-сповіщення";
 "push_server_footer" = "Використовується для отримання сповіщень шкільних оголошень у реальному часі та активного запуску нагадувань.";
+"push_server_ids_section" = "IDs";
 "push_server_last_registration" = "Остання реєстрація";
 "push_server_last_sync" = "Остання синхронізація";
 "push_server_latest_error" = "Остання помилка";

@@ -453,6 +453,7 @@
         "permission_warning_title": "اطلاع سے متعلق اجازتیں بند کر دی گئی ہیں",
         "push_server_enable_toggle": "سرور پش فعال کریں",
         "push_server_footer": "ریئل ٹائم اسکول بلیٹن اطلاعات وصول کرنے اور یاد دہانیاں فعال طور پر متحرک کرنے کے لیے استعمال ہوتا ہے۔",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "آخری رجسٹریشن",
         "push_server_last_sync": "آخری مطابقت",
         "push_server_latest_error": "حالیہ خرابی",

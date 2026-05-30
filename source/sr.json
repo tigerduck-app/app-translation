@@ -453,6 +453,7 @@
         "permission_warning_title": "Дозволе за обавештења су искључене",
         "push_server_enable_toggle": "Server-Push aktivieren",
         "push_server_footer": "Wird verwendet, um Schulbulletin-Benachrichtigungen in Echtzeit zu erhalten und Erinnerungen aktiv auszulösen.",
+        "push_server_ids_section": "IDs",
         "push_server_last_registration": "Poslednja registracija",
         "push_server_last_sync": "Poslednja sinhronizacija",
         "push_server_latest_error": "Nedavna greška",

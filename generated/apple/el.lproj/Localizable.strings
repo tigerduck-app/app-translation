@@ -512,6 +512,7 @@
 "permission_warning_title" = "Οι σχετικές με ειδοποιήσεις άδειες απενεργοποιήθηκαν";
 "push_server_enable_toggle" = "Ενεργοποίηση προώθησης διακομιστή";
 "push_server_footer" = "Χρησιμοποιείται για τη λήψη ειδοποιήσεων σχολικού δελτίου σε πραγματικό χρόνο και για την ενεργή ενεργοποίηση υπενθυμίσεων.";
+"push_server_ids_section" = "IDs";
 "push_server_last_registration" = "Τελευταία εγγραφή";
 "push_server_last_sync" = "Τελευταίος συγχρονισμός";
 "push_server_latest_error" = "Πρόσφατο σφάλμα";
