@@ -53,7 +53,7 @@
 "assignment_mark_complete_undo" = "Markierung „Erledigt“ rückgängig machen";
 "assignment_reminder_offset_10m" = "10 Minuten vorher";
 "assignment_reminder_offset_15m" = "15 Minuten vorher";
-"assignment_reminder_offset_16h" = "16 hours before";
+"assignment_reminder_offset_16h" = "16 Stunden vorher";
 "assignment_reminder_offset_1h" = "1 Stunde vorher";
 "assignment_reminder_offset_24h" = "24 Stunden vorher";
 "assignment_reminder_offset_2h" = "2 Stunden vorher";
