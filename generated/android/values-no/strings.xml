@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Ikke innlogget</string>
     <string name="library_virtual_pass_title">Virtuelt adgangskort</string>
     <string name="live_activity_channel_description">Viser gjeldende time, kommende time og nedtelling til oppgavefrister. Du kan justere scenariolyder i appinnstillingene.</string>
-    <string name="live_activity_channel_name">Direkteaktivitet</string>
+    <string name="live_activity_channel_name">Direkteoppdateringer</string>
     <string name="live_activity_settings_assignment_notification_footer">Du varsles før en oppgave er forfalt.</string>
     <string name="live_activity_settings_assignment_notification_header">Oppgavevarsler</string>
     <string name="live_activity_settings_assignment_warning">Oppgavevarsel</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Appen begynner å minne deg på så lang tid før timen starter.</string>
     <string name="live_activity_settings_custom_class_title">Egendefinert forhåndstid for time</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minutter (opptil %1$d minutter)</string>
-    <string name="live_activity_settings_description">Direkteaktivitet viser gjeldende time og nedtelling i varsler. «I time» og «Timen starter snart» oppdateres i sanntid bare mens appen er åpen; «Oppgavevarsel» kan fortsatt varsle i tide når appen er lukket.</string>
-    <string name="live_activity_settings_enable">Aktiver direkteaktivitet</string>
+    <string name="live_activity_settings_description">Direkteoppdateringer viser gjeldende time og nedtelling i varsler. «I time» og «Timen starter snart» oppdateres i sanntid bare mens appen er åpen; «Oppgavevarsel» kan fortsatt varsle i tide når appen er lukket.</string>
+    <string name="live_activity_settings_enable">Aktiver direkteoppdateringer</string>
     <string name="live_activity_settings_hours_label">%1$d t</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d t %2$d min</string>
     <string name="live_activity_settings_hours_unit">Timer</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Område: %1$d – %2$d minutter</string>
     <string name="live_activity_settings_reset">Tilbakestill</string>
     <string name="live_activity_settings_reset_confirm_message">Alle scenarier og tidspunktinnstillinger vil bli gjenopprettet til standard.</string>
-    <string name="live_activity_settings_reset_confirm_title">Tilbakestill alle innstillinger for direkteaktivitet?</string>
+    <string name="live_activity_settings_reset_confirm_title">Tilbakestill alle innstillinger for direkteoppdateringer?</string>
     <string name="live_activity_settings_reset_defaults">Tilbakestill til standard</string>
     <string name="live_activity_settings_section_display_scenarios">Visningsscenarier</string>
     <string name="live_activity_settings_section_lock_screen">Låseskjerm</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Vis detaljert innhold på låseskjermen</string>
     <string name="live_activity_settings_sound_assignment">Spill av lyd for Oppgavevarsel</string>
     <string name="live_activity_settings_sound_class_preparing">Spill av lyd for Timen starter snart</string>
-    <string name="live_activity_settings_sound_hint">En lyd spilles bare når du går inn i et scenario for første gang; senere nedtellingsoppdateringer er stille. For å justere volum eller Ikke forstyrr-atferd, endre «Direkteaktivitet»-varslingskanalen i systeminnstillingene.</string>
+    <string name="live_activity_settings_sound_hint">En lyd spilles bare når du går inn i et scenario for første gang; senere nedtellingsoppdateringer er stille. For å justere volum eller Ikke forstyrr-atferd, endre «Direkteoppdateringer»-varslingskanalen i systeminnstillingene.</string>
     <string name="live_activity_settings_sound_in_class">Spill av lyd for I time</string>
     <string name="live_activity_settings_timing_hint">Glidebryteren dekker vanlige områder. For å angi verdier utenfor det området (for eksempel 1 dag før oppgavefristen), trykk «Egendefinert».</string>
     <string name="live_activity_status_assignment_urgent">Oppgavefrist nærmer seg</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Påminnelser om kommende timer</string>
     <string name="notification_class_preparing_content_fallback">Timen er i ferd med å starte</string>
     <string name="notification_class_preparing_title">Timen starter snart: %1$s</string>
-    <string name="notification_setup_description">Aktiver tillatelsene nedenfor for å sikre at oppgavepåminnelser, timevarsler og direkteaktivitet kommer frem i tide selv når appen er lukket.</string>
+    <string name="notification_setup_description">Aktiver tillatelsene nedenfor for å sikre at oppgavepåminnelser, timevarsler og direkteoppdateringer kommer frem i tide selv når appen er lukket.</string>
     <string name="notification_setup_title">Konfigurer varsler på nytt</string>
     <string name="onboarding_flavor_fdroid_description">Du bruker F-Droid-versjonen. Siden F-Droids retningslinjer forbyr avhengighet av Googles tjenester (Firebase FCM, GMS osv.), er følgende to funksjoner ikke tilgjengelige i denne versjonen:\n\n1. Wear OS-følgeapp\n2. Push-varsler i sanntid</string>
     <string name="onboarding_flavor_fdroid_title">Merknad om F-Droid-versjonen</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Tillatt</string>
     <string name="permission_not_applicable">Ikke tilgjengelig på denne systemversjonen</string>
     <string name="permission_not_granted_tap_settings">Ikke tillatt · Trykk for å åpne innstillinger</string>
-    <string name="permission_notifications_description">La appen vise varsler; ellers vil ikke varsler og direkteaktivitet vises.</string>
+    <string name="permission_notifications_description">La appen vise varsler; ellers vil ikke varsler og direkteoppdateringer vises.</string>
     <string name="permission_notifications_name">Varslingstillatelse</string>
     <string name="permission_warning_action_later">Kanskje senere</string>
-    <string name="permission_warning_description">Følgende tillatelser var tidligere aktivert, men er nå deaktivert. Relaterte varsler og direkteaktivitet vises kanskje ikke riktig.</string>
+    <string name="permission_warning_description">Følgende tillatelser var tidligere aktivert, men er nå deaktivert. Relaterte varsler og direkteoppdateringer vises kanskje ikke riktig.</string>
     <string name="permission_warning_mute_item">Ikke påminn meg om dette igjen</string>
     <string name="permission_warning_title">Varslingsrelaterte tillatelser er slått av</string>
     <string name="push_server_enable_toggle">Aktiver server-push</string>

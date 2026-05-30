@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Niezalogowany</string>
     <string name="library_virtual_pass_title">Wirtualna karta wstępu</string>
     <string name="live_activity_channel_description">Wyświetla bieżące zajęcia, nadchodzące zajęcia oraz odliczanie do terminu zadań. Dźwięki dla poszczególnych scenariuszy można dostosować w ustawieniach aplikacji.</string>
-    <string name="live_activity_channel_name">Aktywność na żywo</string>
+    <string name="live_activity_channel_name">Aktualizacje na żywo</string>
     <string name="live_activity_settings_assignment_notification_footer">Sie werden benachrichtigt, bevor ein Auftrag fällig ist.</string>
     <string name="live_activity_settings_assignment_notification_header">Zuweisungsbenachrichtigungen</string>
     <string name="live_activity_settings_assignment_warning">Ostrzeżenie o zadaniu</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Aplikacja zaczyna przypominać z takim wyprzedzeniem przed rozpoczęciem zajęć.</string>
     <string name="live_activity_settings_custom_class_title">Niestandardowy czas wyprzedzenia zajęć</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minuty (do %1$d minut)</string>
-    <string name="live_activity_settings_description">Aktywność na żywo wyświetla bieżące zajęcia oraz odliczanie w powiadomieniach. „W trakcie zajęć” oraz „Wkrótce zajęcia” aktualizują się w czasie rzeczywistym tylko, gdy aplikacja jest otwarta; „Ostrzeżenie o zadaniu” może powiadamiać na czas także przy zamkniętej aplikacji.</string>
-    <string name="live_activity_settings_enable">Włącz aktywność na żywo</string>
+    <string name="live_activity_settings_description">Aktualizacje na żywo wyświetlają bieżące zajęcia oraz odliczanie w powiadomieniach. „W trakcie zajęć” oraz „Wkrótce zajęcia” aktualizują się w czasie rzeczywistym tylko, gdy aplikacja jest otwarta; „Ostrzeżenie o zadaniu” może powiadamiać na czas także przy zamkniętej aplikacji.</string>
+    <string name="live_activity_settings_enable">Włącz aktualizacje na żywo</string>
     <string name="live_activity_settings_hours_label">%1$d godz.</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d godz. %2$d min</string>
     <string name="live_activity_settings_hours_unit">Godziny</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Zakres: %1$d – %2$d minut</string>
     <string name="live_activity_settings_reset">Resetuj</string>
     <string name="live_activity_settings_reset_confirm_message">Wszystkie scenariusze oraz ustawienia czasu zostaną przywrócone do wartości domyślnych.</string>
-    <string name="live_activity_settings_reset_confirm_title">Zresetować wszystkie ustawienia aktywności na żywo?</string>
+    <string name="live_activity_settings_reset_confirm_title">Zresetować wszystkie ustawienia aktualizacji na żywo?</string>
     <string name="live_activity_settings_reset_defaults">Przywróć ustawienia domyślne</string>
     <string name="live_activity_settings_section_display_scenarios">Scenariusze wyświetlania</string>
     <string name="live_activity_settings_section_lock_screen">Ekran blokady</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Pokaż szczegółową treść na ekranie blokady</string>
     <string name="live_activity_settings_sound_assignment">Dźwięk dla „Ostrzeżenie o zadaniu”</string>
     <string name="live_activity_settings_sound_class_preparing">Dźwięk dla „Wkrótce zajęcia”</string>
-    <string name="live_activity_settings_sound_hint">Dźwięk odtwarzany jest tylko przy pierwszym wejściu w scenariusz; późniejsze aktualizacje odliczania pozostają wyciszone. Aby dostosować głośność lub tryb Nie przeszkadzać, należy zmienić kanał powiadomień „Aktywność na żywo” w ustawieniach systemowych.</string>
+    <string name="live_activity_settings_sound_hint">Dźwięk odtwarzany jest tylko przy pierwszym wejściu w scenariusz; późniejsze aktualizacje odliczania pozostają wyciszone. Aby dostosować głośność lub tryb Nie przeszkadzać, należy zmienić kanał powiadomień „Aktualizacje na żywo” w ustawieniach systemowych.</string>
     <string name="live_activity_settings_sound_in_class">Dźwięk dla „W trakcie zajęć”</string>
     <string name="live_activity_settings_timing_hint">Suwak obejmuje typowe zakresy. Aby ustawić wartości spoza zakresu (np. 1 dzień przed terminem zadania), należy stuknąć „Niestandardowe”.</string>
     <string name="live_activity_status_assignment_urgent">Zbliża się termin oddania zadania</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Przypomnienia o nadchodzących zajęciach</string>
     <string name="notification_class_preparing_content_fallback">Zajęcia wkrótce się rozpoczną</string>
     <string name="notification_class_preparing_title">Wkrótce zajęcia: %1$s</string>
-    <string name="notification_setup_description">Włączyć poniższe uprawnienia, aby przypomnienia o zadaniach, alerty o nadchodzących zajęciach oraz aktywność na żywo docierały na czas, nawet gdy aplikacja jest zamknięta.</string>
+    <string name="notification_setup_description">Włączyć poniższe uprawnienia, aby przypomnienia o zadaniach, alerty o nadchodzących zajęciach oraz aktualizacje na żywo docierały na czas, nawet gdy aplikacja jest zamknięta.</string>
     <string name="notification_setup_title">Skonfiguruj powiadomienia ponownie</string>
     <string name="onboarding_flavor_fdroid_description">Korzystasz z wersji F-Droid. Ponieważ polityka F-Droid zabrania zależności od usług Google (Firebase FCM, GMS itp.), w tej wersji nie są dostępne następujące dwie funkcje:\n\n1. Aplikacja towarzysząca Wear OS\n2. Powiadomienia push w czasie rzeczywistym</string>
     <string name="onboarding_flavor_fdroid_title">Informacja o wersji F-Droid</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Zezwolono</string>
     <string name="permission_not_applicable">Niedostępne w tej wersji systemu</string>
     <string name="permission_not_granted_tap_settings">Nie zezwolono · Stuknij, aby otworzyć ustawienia</string>
-    <string name="permission_notifications_description">Pozwolić aplikacji wyświetlać powiadomienia; w przeciwnym razie powiadomienia oraz aktywność na żywo nie będą się pojawiać.</string>
+    <string name="permission_notifications_description">Pozwolić aplikacji wyświetlać powiadomienia; w przeciwnym razie powiadomienia oraz aktualizacje na żywo nie będą się pojawiać.</string>
     <string name="permission_notifications_name">Uprawnienie do powiadomień</string>
     <string name="permission_warning_action_later">Może później</string>
-    <string name="permission_warning_description">Następujące uprawnienia były wcześniej włączone, lecz obecnie są wyłączone. Powiązane powiadomienia oraz aktywność na żywo mogą nie być wyświetlane prawidłowo.</string>
+    <string name="permission_warning_description">Następujące uprawnienia były wcześniej włączone, lecz obecnie są wyłączone. Powiązane powiadomienia oraz aktualizacje na żywo mogą nie być wyświetlane prawidłowo.</string>
     <string name="permission_warning_mute_item">Nie przypominaj mi o tym ponownie</string>
     <string name="permission_warning_title">Uprawnienia związane z powiadomieniami zostały wyłączone</string>
     <string name="push_server_enable_toggle">Server-Push aktivieren</string>

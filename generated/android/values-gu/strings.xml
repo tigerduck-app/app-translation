@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">સાઇન ઇન નહીં</string>
     <string name="library_virtual_pass_title">વર્ચ્યુઅલ પાસ</string>
     <string name="live_activity_channel_description">વર્તમાન ક્લાસ, આગામી ક્લાસ અને અસાઇનમેન્ટ કાઉન્ટડાઉન દર્શાવે છે. App સેટિંગ્સમાં સ્સિનારિઓ સાઉન્ડ એડ્જસ્ટ કરી શકો છો.</string>
-    <string name="live_activity_channel_name">લાઇવ એક્ટિવિટી</string>
+    <string name="live_activity_channel_name">Live Updates</string>
     <string name="live_activity_settings_assignment_notification_footer">સોંપણી બાકી છે તે પહેલાં તમને સૂચિત કરવામાં આવશે.</string>
     <string name="live_activity_settings_assignment_notification_header">સોંપણી સૂચનાઓ</string>
     <string name="live_activity_settings_assignment_warning">Assignment warning</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">App ક્લાસ શરૂ થાય તે પહેલાં આ સમય અગાઉ રિમાઇન્ડર આપવાનું શરૂ કરે.</string>
     <string name="live_activity_settings_custom_class_title">કસ્ટમ ક્લાસ લીડ ટાઇમ</string>
     <string name="live_activity_settings_custom_class_unit_hint">મિનિટ (મહત્તમ %1$d મિનિટ)</string>
-    <string name="live_activity_settings_description">લાઇવ એક્ટિવિટી નોટિફિકેશનમાં વર્તમાન ક્લાસ અને કાઉન્ટડાઉન દર્શાવે છે. \"ક્લાસ ચાલુ\" અને \"ક્લાસ ટૂંક સમયમાં\" App ખુલ્લું હોય ત્યારે જ રીઅલ-ટાઇમ અપડેટ થાય; \"Assignment warning\" App બંધ હોય ત્યારે પણ સમયસર ચેતવણી આપી શકે.</string>
-    <string name="live_activity_settings_enable">લાઇવ એક્ટિવિટી ચાલુ કરો</string>
+    <string name="live_activity_settings_description">Live Updates નોટિફિકેશનમાં વર્તમાન ક્લાસ અને કાઉન્ટડાઉન દર્શાવે છે. \"ક્લાસ ચાલુ\" અને \"ક્લાસ ટૂંક સમયમાં\" App ખુલ્લું હોય ત્યારે જ રીઅલ-ટાઇમ અપડેટ થાય; \"Assignment warning\" App બંધ હોય ત્યારે પણ સમયસર ચેતવણી આપી શકે.</string>
+    <string name="live_activity_settings_enable">Live Updates ચાલુ કરો</string>
     <string name="live_activity_settings_hours_label">%1$d hr</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d hr %2$d min</string>
     <string name="live_activity_settings_hours_unit">કલાક</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">રેન્જ: %1$d – %2$d મિનિટ</string>
     <string name="live_activity_settings_reset">રીસેટ</string>
     <string name="live_activity_settings_reset_confirm_message">બધા સ્સિનારિઓ અને ટાઇમિંગ સેટિંગ ડિફૉલ્ટ પર પુનઃસ્થાપિત થશે.</string>
-    <string name="live_activity_settings_reset_confirm_title">બધી લાઇવ એક્ટિવિટી સેટિંગ્સ રીસેટ?</string>
+    <string name="live_activity_settings_reset_confirm_title">બધી Live Updates સેટિંગ્સ રીસેટ?</string>
     <string name="live_activity_settings_reset_defaults">ડિફૉલ્ટ પર રીસેટ</string>
     <string name="live_activity_settings_section_display_scenarios">ડિસ્પ્લે સ્સિનારિઓ</string>
     <string name="live_activity_settings_section_lock_screen">લૉક સ્ક્રીન</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">લૉક સ્ક્રીન પર વિગત દર્શાવો</string>
     <string name="live_activity_settings_sound_assignment">Assignment warning માટે સાઉન્ડ</string>
     <string name="live_activity_settings_sound_class_preparing">ક્લાસ ટૂંક સમયમાં માટે સાઉન્ડ</string>
-    <string name="live_activity_settings_sound_hint">સ્સિનારિઓ માં પ્રવેશ સમયે એક વાર જ સાઉન્ડ વાગે; પછીના કાઉન્ટડાઉન અપડેટ મૌન રહે. વૉલ્યૂમ અથવા Do Not Disturb સેટ કરવા, સિસ્ટમ સેટિંગ્સ માં \"લાઇવ એક્ટિવિટી\" નોટિફિકેશન ચૅનલ બદલો.</string>
+    <string name="live_activity_settings_sound_hint">સ્સિનારિઓ માં પ્રવેશ સમયે એક વાર જ સાઉન્ડ વાગે; પછીના કાઉન્ટડાઉન અપડેટ મૌન રહે. વૉલ્યૂમ અથવા Do Not Disturb સેટ કરવા, સિસ્ટમ સેટિંગ્સ માં \"Live Updates\" નોટિફિકેશન ચૅનલ બદલો.</string>
     <string name="live_activity_settings_sound_in_class">ક્લાસ ચાલુ માટે સાઉન્ડ</string>
     <string name="live_activity_settings_timing_hint">સ્લાઇડર સામાન્ય રેન્જ આવરે છે. તે રેન્જ બહારના મૂલ્ય માટે (ઉદ, 1 દિવસ પહેલાં), \"Custom\" ટૅપ કરો.</string>
     <string name="live_activity_status_assignment_urgent">અસાઇનમેન્ટ ટૂંક સમયમાં ડ્યૂ</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">ક્લાસ તૈયારી રિમાઇન્ડર</string>
     <string name="notification_class_preparing_content_fallback">ક્લાસ શરૂ થવાની તૈયારીમાં છે</string>
     <string name="notification_class_preparing_title">વર્ગ ટૂંક સમયમાં શરૂ: %1$s</string>
-    <string name="notification_setup_description">નીચેની પરમિશન ચાલુ કરો જેથી App બંધ હોય ત્યારે પણ અસાઇનમેન્ટ રિમાઇન્ડર, ક્લાસ-તૈયારી એલર્ટ અને લાઇવ એક્ટિવિટી સમયસર આવે.</string>
+    <string name="notification_setup_description">નીચેની પરમિશન ચાલુ કરો જેથી App બંધ હોય ત્યારે પણ અસાઇનમેન્ટ રિમાઇન્ડર, ક્લાસ-તૈયારી એલર્ટ અને Live Updates સમયસર આવે.</string>
     <string name="notification_setup_title">નોટિફિકેશન ફરીથી ગોઠવો</string>
     <string name="onboarding_flavor_fdroid_description">તમે F-Droid બિલ્ડ વાપરી રહ્યાં છો. F-Droidની નીતિ Googleની સેવાઓ (Firebase FCM, GMS વગેરે) પર નિર્ભર રહેવાની મંજૂરી આપતી નથી, તેથી નીચેની બે સુવિધાઓ આ બિલ્ડમાં ઉપલબ્ધ નથી:\n\n1. Wear OS સાથી એપ\n2. રિયલ-ટાઇમ પુશ સૂચનાઓ</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid બિલ્ડ સૂચના</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">મંજૂર</string>
     <string name="permission_not_applicable">આ સિસ્ટમ વર્ઝન પર ઉપલબ્ધ નથી</string>
     <string name="permission_not_granted_tap_settings">મંજૂર નથી · સેટિંગ્સ ખોલવા ટૅપ કરો</string>
-    <string name="permission_notifications_description">App ને નોટિફિકેશન દર્શાવવાની મંજૂરી આપો; અન્યથા નોટિફિકેશન અને લાઇવ એક્ટિવિટી દેખાશે નહીં.</string>
+    <string name="permission_notifications_description">App ને નોટિફિકેશન દર્શાવવાની મંજૂરી આપો; અન્યથા નોટિફિકેશન અને Live Updates દેખાશે નહીં.</string>
     <string name="permission_notifications_name">નોટિફિકેશન પરમિશન</string>
     <string name="permission_warning_action_later">પછી</string>
-    <string name="permission_warning_description">નીચેની પરમિશન અગાઉ ચાલુ હતી, પરંતુ હવે બંધ છે. સંબંધિત નોટિફિકેશન અને લાઇવ એક્ટિવિટી યોગ્ય રીતે દેખાશે નહીં.</string>
+    <string name="permission_warning_description">નીચેની પરમિશન અગાઉ ચાલુ હતી, પરંતુ હવે બંધ છે. સંબંધિત નોટિફિકેશન અને Live Updates યોગ્ય રીતે દેખાશે નહીં.</string>
     <string name="permission_warning_mute_item">આ વિષે ફરી યાદ ન અપાવો</string>
     <string name="permission_warning_title">નોટિફિકેશન-સંબંધિત પરમિશન બંધ</string>
     <string name="push_server_enable_toggle">સર્વર પુશ સક્ષમ કરો</string>

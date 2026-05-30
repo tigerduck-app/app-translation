@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">உள்நுழையவில்லை</string>
     <string name="library_virtual_pass_title">மெய்நிகர் பாஸ்</string>
     <string name="live_activity_channel_description">தற்போதைய வகுப்பு, வரவிருக்கும் வகுப்பு மற்றும் ஒப்படைப்பு கவுண்ட்டவுன்களை காட்டுகிறது. App அமைப்புகளில் சூழ்நிலை ஒலிகளை சரிசெய்யலாம்.</string>
-    <string name="live_activity_channel_name">நேரடி செயல்பாடு</string>
+    <string name="live_activity_channel_name">Live Updates</string>
     <string name="live_activity_settings_assignment_notification_footer">ஒரு பணி காலக்கெடுவிற்கு முன் உங்களுக்கு அறிவிப்பு வரும்.</string>
     <string name="live_activity_settings_assignment_notification_header">பணி அறிவிப்புகள்</string>
     <string name="live_activity_settings_assignment_warning">ஒப்படைப்பு எச்சரிக்கை</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">வகுப்பு தொடங்குவதற்கு இவ்வளவு நேரம் முன்பே App நினைவூட்டத் தொடங்கும்.</string>
     <string name="live_activity_settings_custom_class_title">தனிப்பயன் வகுப்பு முன்னோடி நேரம்</string>
     <string name="live_activity_settings_custom_class_unit_hint">நிமிடங்கள் (அதிகபட்சம் %1$d நிமிடங்கள்)</string>
-    <string name="live_activity_settings_description">நேரடி செயல்பாடு அறிவிப்புகளில் தற்போதைய வகுப்பு மற்றும் கவுண்ட்டவுனை காட்டுகிறது. \"வகுப்பு நடக்கிறது\" மற்றும் \"வகுப்பு தொடங்க உள்ளது\" App திறந்திருக்கும்போது மட்டுமே நேரடியாக புதுப்பிக்கும்; \"ஒப்படைப்பு எச்சரிக்கை\" App மூடியிருக்கும்போதும் சரியான நேரத்தில் எச்சரிக்கலாம்.</string>
-    <string name="live_activity_settings_enable">நேரடி செயல்பாட்டை இயக்கு</string>
+    <string name="live_activity_settings_description">Live Updates அறிவிப்புகளில் தற்போதைய வகுப்பு மற்றும் கவுண்ட்டவுனை காட்டுகிறது. \"வகுப்பு நடக்கிறது\" மற்றும் \"வகுப்பு தொடங்க உள்ளது\" App திறந்திருக்கும்போது மட்டுமே நேரடியாக புதுப்பிக்கும்; \"ஒப்படைப்பு எச்சரிக்கை\" App மூடியிருக்கும்போதும் சரியான நேரத்தில் எச்சரிக்கலாம்.</string>
+    <string name="live_activity_settings_enable">Live Updates-ஐ இயக்கு</string>
     <string name="live_activity_settings_hours_label">%1$d மணி</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d மணி %2$d நிமி</string>
     <string name="live_activity_settings_hours_unit">மணிநேரம்</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">வரம்பு: %1$d – %2$d நிமிடங்கள்</string>
     <string name="live_activity_settings_reset">மீட்டமை</string>
     <string name="live_activity_settings_reset_confirm_message">அனைத்து சூழ்நிலை மற்றும் நேர அமைப்புகள் இயல்புநிலைக்கு மீட்டமைக்கப்படும்.</string>
-    <string name="live_activity_settings_reset_confirm_title">அனைத்து நேரடி செயல்பாடு அமைப்புகளையும் மீட்டமைக்கவா?</string>
+    <string name="live_activity_settings_reset_confirm_title">அனைத்து Live Updates அமைப்புகளையும் மீட்டமைக்கவா?</string>
     <string name="live_activity_settings_reset_defaults">இயல்புநிலைக்கு மீட்டமை</string>
     <string name="live_activity_settings_section_display_scenarios">காட்சி சூழ்நிலைகள்</string>
     <string name="live_activity_settings_section_lock_screen">பூட்டு திரை</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">பூட்டு திரையில் விரிவான உள்ளடக்கம் காட்டு</string>
     <string name="live_activity_settings_sound_assignment">ஒப்படைப்பு எச்சரிக்கை-க்கு ஒலி இயக்கு</string>
     <string name="live_activity_settings_sound_class_preparing">வகுப்பு தொடங்க உள்ளது-க்கு ஒலி இயக்கு</string>
-    <string name="live_activity_settings_sound_hint">ஒரு சூழ்நிலையில் முதல் முறை நுழையும்போது மட்டுமே ஒலி வாசிக்கும்; பின்னர் கவுண்ட்டவுன் புதுப்பிப்புகள் அமைதியாக இருக்கும். ஒலி அல்லது தொந்தரவு வேண்டாம் நடத்தையை சரிசெய்ய, கணினி அமைப்புகளில் \"நேரடி செயல்பாடு\" அறிவிப்பு சேனலை மாற்றவும்.</string>
+    <string name="live_activity_settings_sound_hint">ஒரு சூழ்நிலையில் முதல் முறை நுழையும்போது மட்டுமே ஒலி வாசிக்கும்; பின்னர் கவுண்ட்டவுன் புதுப்பிப்புகள் அமைதியாக இருக்கும். ஒலி அல்லது தொந்தரவு வேண்டாம் நடத்தையை சரிசெய்ய, கணினி அமைப்புகளில் \"Live Updates\" அறிவிப்பு சேனலை மாற்றவும்.</string>
     <string name="live_activity_settings_sound_in_class">வகுப்பு நடக்கிறது-க்கு ஒலி இயக்கு</string>
     <string name="live_activity_settings_timing_hint">ஸ்லைடர் பொதுவான வரம்புகளை உள்ளடக்கியது. அந்த வரம்பிற்கு வெளியே உள்ள மதிப்புகளை அமைக்க (உதாரணமாக, ஒப்படைப்பு காலக்கெடுவிற்கு 1 நாள் முன்பு), \"தனிப்பயன்\" என்பதை தட்டவும்.</string>
     <string name="live_activity_status_assignment_urgent">ஒப்படைப்பு காலக்கெடு நெருங்குகிறது</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">வகுப்பு தொடக்க நினைவூட்டல்கள்</string>
     <string name="notification_class_preparing_content_fallback">வகுப்பு தொடங்க இருக்கிறது</string>
     <string name="notification_class_preparing_title">வகுப்பு தொடங்க உள்ளது: %1$s</string>
-    <string name="notification_setup_description">ஒப்படைப்பு நினைவூட்டல்கள், வகுப்பு தொடக்க எச்சரிக்கைகள் மற்றும் நேரடி செயல்பாடு App மூடியிருக்கும்போதும் சரியான நேரத்தில் வரும் என்பதை உறுதிப்படுத்த கீழே உள்ள அனுமதிகளை இயக்கவும்.</string>
+    <string name="notification_setup_description">ஒப்படைப்பு நினைவூட்டல்கள், வகுப்பு தொடக்க எச்சரிக்கைகள் மற்றும் Live Updates App மூடியிருக்கும்போதும் சரியான நேரத்தில் வரும் என்பதை உறுதிப்படுத்த கீழே உள்ள அனுமதிகளை இயக்கவும்.</string>
     <string name="notification_setup_title">அறிவிப்புகளை மீண்டும் கட்டமை</string>
     <string name="onboarding_flavor_fdroid_description">நீங்கள் F-Droid பதிப்பைப் பயன்படுத்துகிறீர்கள். F-Droid கொள்கை Google சேவைகளை (Firebase FCM, GMS போன்றவை) சார்ந்திருப்பதைத் தடைசெய்வதால், கீழ்க்கண்ட இரண்டு அம்சங்கள் இந்தப் பதிப்பில் கிடைக்கவில்லை:\n\n1. Wear OS துணை ஆப்\n2. நேரடி புஷ் அறிவிப்புகள்</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid பதிப்பு அறிவிப்பு</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">அனுமதிக்கப்பட்டது</string>
     <string name="permission_not_applicable">இந்த கணினி பதிப்பில் கிடைக்கவில்லை</string>
     <string name="permission_not_granted_tap_settings">அனுமதிக்கப்படவில்லை · அமைப்புகள் திறக்க தட்டவும்</string>
-    <string name="permission_notifications_description">App-ஐ அறிவிப்புகள் காட்ட அனுமதிக்கவும்; இல்லையெனில் அறிவிப்புகள் மற்றும் நேரடி செயல்பாடு தோன்றாது.</string>
+    <string name="permission_notifications_description">App-ஐ அறிவிப்புகள் காட்ட அனுமதிக்கவும்; இல்லையெனில் அறிவிப்புகள் மற்றும் Live Updates தோன்றாது.</string>
     <string name="permission_notifications_name">அறிவிப்பு அனுமதி</string>
     <string name="permission_warning_action_later">பின்னர் பார்க்கலாம்</string>
-    <string name="permission_warning_description">பின்வரும் அனுமதிகள் முன்பு இயக்கப்பட்டிருந்தன, ஆனால் இப்போது முடக்கப்பட்டுள்ளன. தொடர்பான அறிவிப்புகள் மற்றும் நேரடி செயல்பாடு சரியாக காட்டாமல் போகலாம்.</string>
+    <string name="permission_warning_description">பின்வரும் அனுமதிகள் முன்பு இயக்கப்பட்டிருந்தன, ஆனால் இப்போது முடக்கப்பட்டுள்ளன. தொடர்பான அறிவிப்புகள் மற்றும் Live Updates சரியாக காட்டாமல் போகலாம்.</string>
     <string name="permission_warning_mute_item">இதைப் பற்றி மீண்டும் நினைவூட்டாதே</string>
     <string name="permission_warning_title">அறிவிப்பு தொடர்பான அனுமதிகள் முடக்கப்பட்டுள்ளன</string>
     <string name="push_server_enable_toggle">சர்வர் புஷ் இயக்கு</string>

@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Niet ingelogd</string>
     <string name="library_virtual_pass_title">Virtuele pas</string>
     <string name="live_activity_channel_description">Toont de huidige les, de eerstvolgende les en aftellingen voor opdrachten. Je kunt de geluiden per scenario aanpassen in de app-instellingen.</string>
-    <string name="live_activity_channel_name">Live activiteit</string>
+    <string name="live_activity_channel_name">Live updates</string>
     <string name="live_activity_settings_assignment_notification_footer">Je ontvangt een melding voordat een opdracht ingeleverd moet worden.</string>
     <string name="live_activity_settings_assignment_notification_header">Opdrachtmeldingen</string>
     <string name="live_activity_settings_assignment_warning">Opdrachtwaarschuwing</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">De app begint zo lang voor het begin van de les te herinneren.</string>
     <string name="live_activity_settings_custom_class_title">Aangepaste tijd voor lesvoorbereiding</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minuten (maximaal %1$d minuten)</string>
-    <string name="live_activity_settings_description">Live activiteit toont de huidige les en het aftellen in meldingen. \"In de les\" en \"Les begint zo\" worden alleen in realtime bijgewerkt zolang de app open is; \"Opdrachtwaarschuwing\" kan je nog steeds op tijd waarschuwen als de app gesloten is.</string>
-    <string name="live_activity_settings_enable">Live activiteit inschakelen</string>
+    <string name="live_activity_settings_description">Live updates toont de huidige les en het aftellen in meldingen. „In de les“ en „Les begint zo“ worden alleen in realtime bijgewerkt zolang de app open is; „Opdrachtwaarschuwing“ kan je nog steeds op tijd waarschuwen als de app gesloten is.</string>
+    <string name="live_activity_settings_enable">Live updates inschakelen</string>
     <string name="live_activity_settings_hours_label">%1$d u</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d u %2$d min</string>
     <string name="live_activity_settings_hours_unit">Uren</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Bereik: %1$d – %2$d minuten</string>
     <string name="live_activity_settings_reset">Resetten</string>
     <string name="live_activity_settings_reset_confirm_message">Alle scenario\'s en timinginstellingen worden teruggezet naar de standaardwaarden.</string>
-    <string name="live_activity_settings_reset_confirm_title">Alle instellingen voor live activiteit resetten?</string>
+    <string name="live_activity_settings_reset_confirm_title">Alle instellingen voor live updates resetten?</string>
     <string name="live_activity_settings_reset_defaults">Standaardwaarden herstellen</string>
     <string name="live_activity_settings_section_display_scenarios">Weergavescenario\'s</string>
     <string name="live_activity_settings_section_lock_screen">Vergrendelscherm</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Gedetailleerde inhoud op vergrendelscherm tonen</string>
     <string name="live_activity_settings_sound_assignment">Geluid afspelen voor Opdrachtwaarschuwing</string>
     <string name="live_activity_settings_sound_class_preparing">Geluid afspelen voor Les begint zo</string>
-    <string name="live_activity_settings_sound_hint">Het geluid speelt alleen wanneer een scenario voor het eerst wordt gestart; latere updates van het aftellen blijven stil. Wijzig het meldingskanaal \"Live activiteit\" in de systeeminstellingen om het volume of het gedrag bij Niet storen aan te passen.</string>
+    <string name="live_activity_settings_sound_hint">Het geluid speelt alleen wanneer een scenario voor het eerst wordt gestart; latere updates van het aftellen blijven stil. Wijzig het meldingskanaal „Live updates“ in de systeeminstellingen om het volume of het gedrag bij Niet storen aan te passen.</string>
     <string name="live_activity_settings_sound_in_class">Geluid afspelen voor In de les</string>
     <string name="live_activity_settings_timing_hint">De schuifregelaar dekt veelvoorkomende bereiken. Tik op \"Aangepast\" om waarden buiten dat bereik in te stellen (bijvoorbeeld 1 dag voor de deadline van een opdracht).</string>
     <string name="live_activity_status_assignment_urgent">Opdracht verloopt binnenkort</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Herinneringen voor lessen die zo beginnen</string>
     <string name="notification_class_preparing_content_fallback">Les begint zo</string>
     <string name="notification_class_preparing_title">Les begint zo: %1$s</string>
-    <string name="notification_setup_description">Schakel de onderstaande machtigingen in zodat opdrachtherinneringen, meldingen voor lessen die zo beginnen en live activiteit op tijd binnenkomen, ook als de app gesloten is.</string>
+    <string name="notification_setup_description">Schakel de onderstaande machtigingen in zodat opdrachtherinneringen, meldingen voor lessen die zo beginnen en live updates op tijd binnenkomen, ook als de app gesloten is.</string>
     <string name="notification_setup_title">Meldingen opnieuw configureren</string>
     <string name="onboarding_flavor_fdroid_description">Je gebruikt de F-Droid-versie. Omdat het F-Droid-beleid afhankelijkheid van Google-services (Firebase FCM, GMS enz.) verbiedt, zijn de volgende twee functies niet beschikbaar in deze versie:\n\n1. Wear OS-begeleidingsapp\n2. Realtime push-meldingen</string>
     <string name="onboarding_flavor_fdroid_title">Mededeling over F-Droid-versie</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Toegestaan</string>
     <string name="permission_not_applicable">Niet beschikbaar in deze systeemversie</string>
     <string name="permission_not_granted_tap_settings">Niet toegestaan · Tik om instellingen te openen</string>
-    <string name="permission_notifications_description">Sta de app toe meldingen weer te geven; anders verschijnen meldingen en live activiteit niet.</string>
+    <string name="permission_notifications_description">Sta de app toe meldingen weer te geven; anders verschijnen meldingen en live updates niet.</string>
     <string name="permission_notifications_name">Meldingsmachtiging</string>
     <string name="permission_warning_action_later">Misschien later</string>
-    <string name="permission_warning_description">De volgende machtigingen waren eerder ingeschakeld, maar zijn nu uitgeschakeld. Bijbehorende meldingen en live activiteit worden mogelijk niet correct weergegeven.</string>
+    <string name="permission_warning_description">De volgende machtigingen waren eerder ingeschakeld, maar zijn nu uitgeschakeld. Bijbehorende meldingen en live updates worden mogelijk niet correct weergegeven.</string>
     <string name="permission_warning_mute_item">Herinner me hier niet meer aan</string>
     <string name="permission_warning_title">Meldingsgerelateerde machtigingen uitgeschakeld</string>
     <string name="push_server_enable_toggle">Serverpush inschakelen</string>

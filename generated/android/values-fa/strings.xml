@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">وارد نشده‌اید</string>
     <string name="library_virtual_pass_title">گذرنامه مجازی</string>
     <string name="live_activity_channel_description">کلاس فعلی، کلاس بعدی و شمارش معکوس تکلیف را نمایش می‌دهد. می‌توانید صدای هر سناریو را در تنظیمات برنامه تغییر دهید.</string>
-    <string name="live_activity_channel_name">فعالیت زنده</string>
+    <string name="live_activity_channel_name">به‌روزرسانی‌های زنده</string>
     <string name="live_activity_settings_assignment_notification_footer">قبل از موعد مقرر به شما اطلاع داده می شود.</string>
     <string name="live_activity_settings_assignment_notification_header">اطلاعیه های تکلیف</string>
     <string name="live_activity_settings_assignment_warning">هشدار تکلیف</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">برنامه از این مدت قبل از شروع کلاس شروع به یادآوری می‌کند.</string>
     <string name="live_activity_settings_custom_class_title">زمان سفارشی پیش از کلاس</string>
     <string name="live_activity_settings_custom_class_unit_hint">دقیقه (تا %1$d دقیقه)</string>
-    <string name="live_activity_settings_description">فعالیت زنده کلاس فعلی و شمارش معکوس را در اعلان‌ها نشان می‌دهد. «در کلاس» و «کلاس به‌زودی شروع می‌شود» فقط وقتی برنامه باز است به‌صورت بلادرنگ به‌روزرسانی می‌شوند؛ «هشدار تکلیف» حتی وقتی برنامه بسته است هم می‌تواند به‌موقع هشدار دهد.</string>
-    <string name="live_activity_settings_enable">فعال کردن فعالیت زنده</string>
+    <string name="live_activity_settings_description">به‌روزرسانی‌های زنده کلاس فعلی و شمارش معکوس را در اعلان‌ها نشان می‌دهد. «در کلاس» و «کلاس به‌زودی شروع می‌شود» فقط وقتی برنامه باز است به‌صورت بلادرنگ به‌روزرسانی می‌شوند؛ «هشدار تکلیف» حتی وقتی برنامه بسته است هم می‌تواند به‌موقع هشدار دهد.</string>
+    <string name="live_activity_settings_enable">فعال کردن به‌روزرسانی‌های زنده</string>
     <string name="live_activity_settings_hours_label">%1$d ساعت</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d ساعت %2$d دقیقه</string>
     <string name="live_activity_settings_hours_unit">ساعت</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">بازه: %1$d تا %2$d دقیقه</string>
     <string name="live_activity_settings_reset">بازنشانی</string>
     <string name="live_activity_settings_reset_confirm_message">همه سناریوها و تنظیمات زمان‌بندی به حالت پیش‌فرض برگردانده می‌شوند.</string>
-    <string name="live_activity_settings_reset_confirm_title">همه تنظیمات فعالیت زنده بازنشانی شوند؟</string>
+    <string name="live_activity_settings_reset_confirm_title">همه تنظیمات به‌روزرسانی‌های زنده بازنشانی شوند؟</string>
     <string name="live_activity_settings_reset_defaults">بازنشانی به پیش‌فرض‌ها</string>
     <string name="live_activity_settings_section_display_scenarios">سناریوهای نمایش</string>
     <string name="live_activity_settings_section_lock_screen">صفحه قفل</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">نمایش محتوای دقیق روی صفحه قفل</string>
     <string name="live_activity_settings_sound_assignment">پخش صدا برای «هشدار تکلیف»</string>
     <string name="live_activity_settings_sound_class_preparing">پخش صدا برای «کلاس به‌زودی شروع می‌شود»</string>
-    <string name="live_activity_settings_sound_hint">صدا فقط اولین بار که وارد یک سناریو می‌شوید پخش می‌شود؛ به‌روزرسانی‌های بعدی شمارش معکوس بی‌صدا خواهند بود. برای تنظیم صدا یا رفتار «مزاحم نشوید»، کانال اعلان «فعالیت زنده» را در تنظیمات سیستم تغییر دهید.</string>
+    <string name="live_activity_settings_sound_hint">صدا فقط اولین بار که وارد یک سناریو می‌شوید پخش می‌شود؛ به‌روزرسانی‌های بعدی شمارش معکوس بی‌صدا خواهند بود. برای تنظیم صدا یا رفتار «مزاحم نشوید»، کانال اعلان «به‌روزرسانی‌های زنده» را در تنظیمات سیستم تغییر دهید.</string>
     <string name="live_activity_settings_sound_in_class">پخش صدا برای «در کلاس»</string>
     <string name="live_activity_settings_timing_hint">این لغزنده محدوده‌های رایج را پوشش می‌دهد. برای تنظیم مقدار خارج از این محدوده (مثلاً ۱ روز قبل از موعد تکلیف)، روی «سفارشی» بزنید.</string>
     <string name="live_activity_status_assignment_urgent">موعد تکلیف نزدیک است</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">یادآورهای شروع کلاس</string>
     <string name="notification_class_preparing_content_fallback">کلاس در شُرف شروع است</string>
     <string name="notification_class_preparing_title">کلاس به‌زودی شروع می‌شود: %1$s</string>
-    <string name="notification_setup_description">برای اینکه یادآورهای تکلیف، هشدارهای شروع کلاس و فعالیت زنده حتی وقتی برنامه بسته است به‌موقع برسند، مجوزهای زیر را فعال کنید.</string>
+    <string name="notification_setup_description">برای اینکه یادآورهای تکلیف، هشدارهای شروع کلاس و به‌روزرسانی‌های زنده حتی وقتی برنامه بسته است به‌موقع برسند، مجوزهای زیر را فعال کنید.</string>
     <string name="notification_setup_title">پیکربندی مجدد اعلان‌ها</string>
     <string name="onboarding_flavor_fdroid_description">شما در حال استفاده از نسخه F-Droid هستید. از آنجا که سیاست F-Droid وابستگی به سرویس‌های Google (Firebase FCM، GMS و غیره) را ممنوع می‌کند، دو ویژگی زیر در این نسخه در دسترس نیستند:\n\n1. برنامه همراه Wear OS\n2. اعلان‌های لحظه‌ای</string>
     <string name="onboarding_flavor_fdroid_title">اطلاعیه نسخه F-Droid</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">مجاز است</string>
     <string name="permission_not_applicable">در این نسخه از سیستم در دسترس نیست</string>
     <string name="permission_not_granted_tap_settings">مجاز نیست · برای باز کردن تنظیمات ضربه بزنید</string>
-    <string name="permission_notifications_description">به برنامه اجازه نمایش اعلان بدهید؛ در غیر این صورت اعلان‌ها و فعالیت زنده نمایش داده نمی‌شوند.</string>
+    <string name="permission_notifications_description">به برنامه اجازه نمایش اعلان بدهید؛ در غیر این صورت اعلان‌ها و به‌روزرسانی‌های زنده نمایش داده نمی‌شوند.</string>
     <string name="permission_notifications_name">مجوز اعلان‌ها</string>
     <string name="permission_warning_action_later">بعداً</string>
-    <string name="permission_warning_description">مجوزهای زیر قبلاً فعال بوده‌اند اما اکنون غیرفعال شده‌اند. ممکن است اعلان‌ها و فعالیت زنده به‌درستی نمایش داده نشوند.</string>
+    <string name="permission_warning_description">مجوزهای زیر قبلاً فعال بوده‌اند اما اکنون غیرفعال شده‌اند. ممکن است اعلان‌ها و به‌روزرسانی‌های زنده به‌درستی نمایش داده نشوند.</string>
     <string name="permission_warning_mute_item">دیگر درباره این مورد یادآوری نکن</string>
     <string name="permission_warning_title">مجوزهای مرتبط با اعلان‌ها خاموش شده‌اند</string>
     <string name="push_server_enable_toggle">فعال کردن فشار سرور</string>

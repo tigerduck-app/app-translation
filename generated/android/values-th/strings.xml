@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">ยังไม่ได้เข้าสู่ระบบ</string>
     <string name="library_virtual_pass_title">บัตรเข้าห้องสมุดเสมือน</string>
     <string name="live_activity_channel_description">แสดงคาบเรียนปัจจุบัน คาบเรียนถัดไป และนับถอยหลังการบ้าน คุณสามารถปรับเสียงแจ้งเตือนของแต่ละสถานการณ์ได้ในการตั้งค่าแอป</string>
-    <string name="live_activity_channel_name">Live Activity</string>
+    <string name="live_activity_channel_name">ข้อมูลอัปเดตแบบเรียลไทม์</string>
     <string name="live_activity_settings_assignment_notification_footer">Sie werden benachrichtigt, bevor ein Auftrag fällig ist.</string>
     <string name="live_activity_settings_assignment_notification_header">Zuweisungsbenachrichtigungen</string>
     <string name="live_activity_settings_assignment_warning">การเตือนการบ้าน</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">แอปจะเริ่มเตือนล่วงหน้าก่อนเริ่มเรียนเป็นระยะเวลานี้</string>
     <string name="live_activity_settings_custom_class_title">กำหนดเวลาเตือนก่อนเข้าเรียนเอง</string>
     <string name="live_activity_settings_custom_class_unit_hint">นาที (สูงสุด %1$d นาที)</string>
-    <string name="live_activity_settings_description">Live Activity จะแสดงคาบเรียนปัจจุบันและการนับถอยหลังในการแจ้งเตือน \"กำลังเรียน\" และ \"กำลังจะเข้าเรียน\" จะอัปเดตแบบเรียลไทม์เฉพาะตอนที่เปิดแอปอยู่ ส่วน \"การเตือนการบ้าน\" สามารถแจ้งเตือนตรงเวลาได้แม้ปิดแอป</string>
-    <string name="live_activity_settings_enable">เปิดใช้งาน Live Activity</string>
+    <string name="live_activity_settings_description">ข้อมูลอัปเดตแบบเรียลไทม์จะแสดงคาบเรียนปัจจุบันและการนับถอยหลังในการแจ้งเตือน \"กำลังเรียน\" และ \"กำลังจะเข้าเรียน\" จะอัปเดตแบบเรียลไทม์เฉพาะตอนที่เปิดแอปอยู่ ส่วน \"การเตือนการบ้าน\" สามารถแจ้งเตือนตรงเวลาได้แม้ปิดแอป</string>
+    <string name="live_activity_settings_enable">เปิดใช้งานข้อมูลอัปเดตแบบเรียลไทม์</string>
     <string name="live_activity_settings_hours_label">%1$d ชั่วโมง</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d ชั่วโมง %2$d นาที</string>
     <string name="live_activity_settings_hours_unit">ชั่วโมง</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">ช่วง: %1$d – %2$d นาที</string>
     <string name="live_activity_settings_reset">รีเซ็ต</string>
     <string name="live_activity_settings_reset_confirm_message">สถานการณ์และการตั้งค่าเวลาทั้งหมดจะกลับไปเป็นค่าเริ่มต้น</string>
-    <string name="live_activity_settings_reset_confirm_title">รีเซ็ตการตั้งค่า Live Activity ทั้งหมดหรือไม่?</string>
+    <string name="live_activity_settings_reset_confirm_title">รีเซ็ตการตั้งค่าข้อมูลอัปเดตแบบเรียลไทม์ทั้งหมดหรือไม่?</string>
     <string name="live_activity_settings_reset_defaults">รีเซ็ตเป็นค่าเริ่มต้น</string>
     <string name="live_activity_settings_section_display_scenarios">สถานการณ์ที่แสดง</string>
     <string name="live_activity_settings_section_lock_screen">หน้าจอล็อก</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">แสดงเนื้อหาแบบละเอียดในหน้าจอล็อก</string>
     <string name="live_activity_settings_sound_assignment">เล่นเสียงสำหรับ การเตือนการบ้าน</string>
     <string name="live_activity_settings_sound_class_preparing">เล่นเสียงสำหรับ กำลังจะเข้าเรียน</string>
-    <string name="live_activity_settings_sound_hint">เสียงจะดังเฉพาะตอนเข้าสู่สถานการณ์ครั้งแรกเท่านั้น การอัปเดตการนับถอยหลังภายหลังจะไม่มีเสียง หากต้องการปรับระดับเสียงหรือพฤติกรรมห้ามรบกวน ให้เปลี่ยนช่องการแจ้งเตือน \"Live Activity\" ในการตั้งค่าระบบ</string>
+    <string name="live_activity_settings_sound_hint">เสียงจะดังเฉพาะตอนเข้าสู่สถานการณ์ครั้งแรกเท่านั้น การอัปเดตการนับถอยหลังภายหลังจะไม่มีเสียง หากต้องการปรับระดับเสียงหรือพฤติกรรมห้ามรบกวน ให้เปลี่ยนช่องการแจ้งเตือน \"ข้อมูลอัปเดตแบบเรียลไทม์\" ในการตั้งค่าระบบ</string>
     <string name="live_activity_settings_sound_in_class">เล่นเสียงสำหรับ กำลังเรียน</string>
     <string name="live_activity_settings_timing_hint">แถบเลื่อนครอบคลุมช่วงที่ใช้งานทั่วไป หากต้องการตั้งค่านอกช่วงนี้ (เช่น เตือนล่วงหน้า 1 วันก่อนการบ้านครบกำหนด) ให้แตะ \"กำหนดเอง\"</string>
     <string name="live_activity_status_assignment_urgent">การบ้านใกล้ครบกำหนด</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">การแจ้งเตือนก่อนเข้าเรียน</string>
     <string name="notification_class_preparing_content_fallback">ใกล้ถึงเวลาเข้าเรียนแล้ว</string>
     <string name="notification_class_preparing_title">กำลังจะเข้าเรียน: %1$s</string>
-    <string name="notification_setup_description">เปิดใช้งานสิทธิ์ด้านล่างเพื่อให้แน่ใจว่าการแจ้งเตือนการบ้าน การแจ้งเตือนก่อนเข้าเรียน และ Live Activity จะมาถึงตรงเวลาแม้ในขณะที่ปิดแอปอยู่</string>
+    <string name="notification_setup_description">เปิดใช้งานสิทธิ์ด้านล่างเพื่อให้แน่ใจว่าการแจ้งเตือนการบ้าน การแจ้งเตือนก่อนเข้าเรียน และข้อมูลอัปเดตแบบเรียลไทม์จะมาถึงตรงเวลาแม้ในขณะที่ปิดแอปอยู่</string>
     <string name="notification_setup_title">ตั้งค่าการแจ้งเตือนใหม่</string>
     <string name="onboarding_flavor_fdroid_description">คุณกำลังใช้บิลด์ F-Droid เนื่องจากนโยบายของ F-Droid ห้ามการพึ่งพาบริการของ Google (Firebase FCM, GMS ฯลฯ) ฟีเจอร์สองอย่างต่อไปนี้จึงไม่มีในบิลด์นี้:\n\n1. แอปคู่กับ Wear OS\n2. การแจ้งเตือนแบบพุชเรียลไทม์</string>
     <string name="onboarding_flavor_fdroid_title">ประกาศเกี่ยวกับบิลด์ F-Droid</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">อนุญาตแล้ว</string>
     <string name="permission_not_applicable">ไม่สามารถใช้ได้บนระบบเวอร์ชันนี้</string>
     <string name="permission_not_granted_tap_settings">ยังไม่ได้อนุญาต · แตะเพื่อเปิดการตั้งค่า</string>
-    <string name="permission_notifications_description">อนุญาตให้แอปแสดงการแจ้งเตือน มิฉะนั้นการแจ้งเตือนและ Live Activity จะไม่ปรากฏ</string>
+    <string name="permission_notifications_description">อนุญาตให้แอปแสดงการแจ้งเตือน มิฉะนั้นการแจ้งเตือนและข้อมูลอัปเดตแบบเรียลไทม์จะไม่ปรากฏ</string>
     <string name="permission_notifications_name">สิทธิ์การแจ้งเตือน</string>
     <string name="permission_warning_action_later">ไว้ค่อยทำทีหลัง</string>
-    <string name="permission_warning_description">สิทธิ์ต่อไปนี้เคยถูกอนุญาตไว้ก่อนหน้านี้ แต่ปัจจุบันถูกปิดใช้งานแล้ว การแจ้งเตือนและ Live Activity ที่เกี่ยวข้องอาจไม่แสดงผลอย่างถูกต้อง</string>
+    <string name="permission_warning_description">สิทธิ์ต่อไปนี้เคยถูกอนุญาตไว้ก่อนหน้านี้ แต่ปัจจุบันถูกปิดใช้งานแล้ว การแจ้งเตือนและข้อมูลอัปเดตแบบเรียลไทม์ที่เกี่ยวข้องอาจไม่แสดงผลอย่างถูกต้อง</string>
     <string name="permission_warning_mute_item">ไม่ต้องเตือนเรื่องนี้อีก</string>
     <string name="permission_warning_title">สิทธิ์ที่เกี่ยวข้องกับการแจ้งเตือนถูกปิดอยู่</string>
     <string name="push_server_enable_toggle">Server-Push aktivieren</string>

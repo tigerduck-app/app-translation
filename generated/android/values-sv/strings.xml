@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Inte inloggad</string>
     <string name="library_virtual_pass_title">Virtuellt kort</string>
     <string name="live_activity_channel_description">Visar pågående lektion, kommande lektion och nedräkning för uppgifter. Du kan justera scenarioljud i appinställningarna.</string>
-    <string name="live_activity_channel_name">Liveaktivitet</string>
+    <string name="live_activity_channel_name">Liveuppdateringar</string>
     <string name="live_activity_settings_assignment_notification_footer">Du får ett meddelande innan en uppgift ska lämnas in.</string>
     <string name="live_activity_settings_assignment_notification_header">Uppgiftsaviseringar</string>
     <string name="live_activity_settings_assignment_warning">Uppgiftsvarning</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Appen börjar påminna så här lång tid innan lektionen börjar.</string>
     <string name="live_activity_settings_custom_class_title">Anpassad ledtid för lektion</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minuter (upp till %1$d minuter)</string>
-    <string name="live_activity_settings_description">Liveaktivitet visar pågående lektion och nedräkning i aviseringar. \"På lektion\" och \"Lektionen börjar snart\" uppdateras i realtid endast när appen är öppen; \"Uppgiftsvarning\" kan fortfarande avisera i tid när appen är stängd.</string>
-    <string name="live_activity_settings_enable">Aktivera liveaktivitet</string>
+    <string name="live_activity_settings_description">Liveuppdateringar visar pågående lektion och nedräkning i aviseringar. „På lektion“ och „Lektionen börjar snart“ uppdateras i realtid endast när appen är öppen; „Uppgiftsvarning“ kan fortfarande avisera i tid när appen är stängd.</string>
+    <string name="live_activity_settings_enable">Aktivera liveuppdateringar</string>
     <string name="live_activity_settings_hours_label">%1$d tim</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d tim %2$d min</string>
     <string name="live_activity_settings_hours_unit">Timmar</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Intervall: %1$d – %2$d minuter</string>
     <string name="live_activity_settings_reset">Återställ</string>
     <string name="live_activity_settings_reset_confirm_message">Alla scenarier och tidsinställningar återställs till standardvärden.</string>
-    <string name="live_activity_settings_reset_confirm_title">Återställa alla liveaktivitetsinställningar?</string>
+    <string name="live_activity_settings_reset_confirm_title">Återställa alla liveuppdateringsinställningar?</string>
     <string name="live_activity_settings_reset_defaults">Återställ till standardvärden</string>
     <string name="live_activity_settings_section_display_scenarios">Visningsscenarier</string>
     <string name="live_activity_settings_section_lock_screen">Låsskärm</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Visa detaljerat innehåll på låsskärmen</string>
     <string name="live_activity_settings_sound_assignment">Spela ljud för Uppgiftsvarning</string>
     <string name="live_activity_settings_sound_class_preparing">Spela ljud för Lektionen börjar snart</string>
-    <string name="live_activity_settings_sound_hint">Ett ljud spelas bara när du går in i ett scenario för första gången; senare nedräkningsuppdateringar är tysta. För att justera volym eller Stör ej-beteende, ändra aviseringskanalen \"Liveaktivitet\" i systeminställningarna.</string>
+    <string name="live_activity_settings_sound_hint">Ett ljud spelas bara när du går in i ett scenario för första gången; senare nedräkningsuppdateringar är tysta. För att justera volym eller Stör ej-beteende, ändra aviseringskanalen „Liveuppdateringar“ i systeminställningarna.</string>
     <string name="live_activity_settings_sound_in_class">Spela ljud för På lektion</string>
     <string name="live_activity_settings_timing_hint">Skjutreglaget täcker vanliga intervall. För att ange värden utanför det intervallet (till exempel 1 dag före uppgiftens förfallodatum), tryck på \"Anpassad\".</string>
     <string name="live_activity_status_assignment_urgent">Uppgift förfaller snart</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Påminnelser inför lektion</string>
     <string name="notification_class_preparing_content_fallback">Lektionen håller på att börja</string>
     <string name="notification_class_preparing_title">Lektionen börjar snart: %1$s</string>
-    <string name="notification_setup_description">Aktivera behörigheterna nedan för att säkerställa att påminnelser om uppgifter, förlektion-varningar och liveaktivitet levereras i tid även när appen är stängd.</string>
+    <string name="notification_setup_description">Aktivera behörigheterna nedan för att säkerställa att påminnelser om uppgifter, förlektion-varningar och liveuppdateringar levereras i tid även när appen är stängd.</string>
     <string name="notification_setup_title">Konfigurera om aviseringar</string>
     <string name="onboarding_flavor_fdroid_description">Du använder F-Droid-versionen. Eftersom F-Droids policy förbjuder beroende av Googles tjänster (Firebase FCM, GMS osv.) är följande två funktioner inte tillgängliga i den här versionen:\n\n1. Wear OS-följeslagar-app\n2. Push-aviseringar i realtid</string>
     <string name="onboarding_flavor_fdroid_title">Meddelande om F-Droid-versionen</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Tillåten</string>
     <string name="permission_not_applicable">Inte tillgänglig i den här systemversionen</string>
     <string name="permission_not_granted_tap_settings">Ej tillåten · Tryck för att öppna inställningar</string>
-    <string name="permission_notifications_description">Tillåt appen att visa aviseringar; annars visas inte aviseringar och liveaktivitet.</string>
+    <string name="permission_notifications_description">Tillåt appen att visa aviseringar; annars visas inte aviseringar och liveuppdateringar.</string>
     <string name="permission_notifications_name">Aviseringsbehörighet</string>
     <string name="permission_warning_action_later">Kanske senare</string>
-    <string name="permission_warning_description">Följande behörigheter var tidigare aktiverade men är nu inaktiverade. Relaterade aviseringar och liveaktivitet kanske inte visas korrekt.</string>
+    <string name="permission_warning_description">Följande behörigheter var tidigare aktiverade men är nu inaktiverade. Relaterade aviseringar och liveuppdateringar kanske inte visas korrekt.</string>
     <string name="permission_warning_mute_item">Påminn mig inte om detta igen</string>
     <string name="permission_warning_title">Aviseringsrelaterade behörigheter är inaktiverade</string>
     <string name="push_server_enable_toggle">Aktivera server-push</string>

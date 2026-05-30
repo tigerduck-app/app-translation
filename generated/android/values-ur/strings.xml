@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">سائن ان نہیں</string>
     <string name="library_virtual_pass_title">ورچوئل پاس</string>
     <string name="live_activity_channel_description">موجودہ کلاس، آنے والی کلاس اور اسائنمنٹ کی الٹی گنتی دکھاتا ہے۔ آپ ایپ کی ترتیبات میں منظرنامے کی آوازیں ترتیب دے سکتے ہیں۔</string>
-    <string name="live_activity_channel_name">لائیو ایکٹیویٹی</string>
+    <string name="live_activity_channel_name">Live Updates</string>
     <string name="live_activity_settings_assignment_notification_footer">اسائنمنٹ کی آخری تاریخ سے پہلے آپ کو اطلاع ملے گی۔</string>
     <string name="live_activity_settings_assignment_notification_header">اسائنمنٹ کی اطلاعات</string>
     <string name="live_activity_settings_assignment_warning">اسائنمنٹ وارننگ</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">ایپ کلاس شروع ہونے سے اتنے وقت پہلے یاد دلانا شروع کرتی ہے۔</string>
     <string name="live_activity_settings_custom_class_title">کلاس کا کسٹم لیڈ ٹائم</string>
     <string name="live_activity_settings_custom_class_unit_hint">منٹ (زیادہ سے زیادہ %1$d منٹ)</string>
-    <string name="live_activity_settings_description">لائیو ایکٹیویٹی اطلاعات میں موجودہ کلاس اور الٹی گنتی دکھاتا ہے۔ \"کلاس میں\" اور \"کلاس جلد شروع\" صرف ایپ کھلی ہونے پر ریئل ٹائم میں اپڈیٹ ہوتے ہیں؛ \"اسائنمنٹ وارننگ\" ایپ بند ہونے پر بھی وقت پر الرٹ کر سکتی ہے۔</string>
-    <string name="live_activity_settings_enable">لائیو ایکٹیویٹی فعال کریں</string>
+    <string name="live_activity_settings_description">Live Updates اطلاعات میں موجودہ کلاس اور الٹی گنتی دکھاتا ہے۔ \"کلاس میں\" اور \"کلاس جلد شروع\" صرف ایپ کھلی ہونے پر ریئل ٹائم میں اپڈیٹ ہوتے ہیں؛ \"اسائنمنٹ وارننگ\" ایپ بند ہونے پر بھی وقت پر الرٹ کر سکتی ہے۔</string>
+    <string name="live_activity_settings_enable">Live Updates فعال کریں</string>
     <string name="live_activity_settings_hours_label">%1$d گھنٹہ</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d گھنٹہ %2$d منٹ</string>
     <string name="live_activity_settings_hours_unit">گھنٹے</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">رینج: %1$d – %2$d منٹ</string>
     <string name="live_activity_settings_reset">ری سیٹ</string>
     <string name="live_activity_settings_reset_confirm_message">تمام منظرنامے اور وقت کی ترتیبات ڈیفالٹ پر بحال ہو جائیں گی۔</string>
-    <string name="live_activity_settings_reset_confirm_title">تمام لائیو ایکٹیویٹی ترتیبات ری سیٹ کریں؟</string>
+    <string name="live_activity_settings_reset_confirm_title">تمام Live Updates ترتیبات ری سیٹ کریں؟</string>
     <string name="live_activity_settings_reset_defaults">ڈیفالٹ پر ری سیٹ کریں</string>
     <string name="live_activity_settings_section_display_scenarios">ڈسپلے منظرنامے</string>
     <string name="live_activity_settings_section_lock_screen">لاک اسکرین</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">لاک اسکرین پر تفصیلی مواد دکھائیں</string>
     <string name="live_activity_settings_sound_assignment">اسائنمنٹ وارننگ کے لیے آواز چلائیں</string>
     <string name="live_activity_settings_sound_class_preparing">کلاس جلد شروع کے لیے آواز چلائیں</string>
-    <string name="live_activity_settings_sound_hint">آواز صرف پہلی بار کسی منظرنامے میں داخل ہونے پر بجتی ہے؛ بعد کی الٹی گنتی اپڈیٹس خاموش رہتی ہیں۔ والیوم یا ڈو ناٹ ڈسٹرب ترتیب دینے کے لیے سسٹم ترتیبات میں \"لائیو ایکٹیویٹی\" اطلاع چینل تبدیل کریں۔</string>
+    <string name="live_activity_settings_sound_hint">آواز صرف پہلی بار کسی منظرنامے میں داخل ہونے پر بجتی ہے؛ بعد کی الٹی گنتی اپڈیٹس خاموش رہتی ہیں۔ والیوم یا ڈو ناٹ ڈسٹرب ترتیب دینے کے لیے سسٹم ترتیبات میں \"Live Updates\" اطلاع چینل تبدیل کریں۔</string>
     <string name="live_activity_settings_sound_in_class">کلاس میں کے لیے آواز چلائیں</string>
     <string name="live_activity_settings_timing_hint">سلائیڈر عام رینجز کا احاطہ کرتا ہے۔ اس رینج سے باہر کی قدریں سیٹ کرنے کے لیے (مثلاً اسائنمنٹ کی آخری تاریخ سے 1 دن پہلے) \"کسٹم\" ٹیپ کریں۔</string>
     <string name="live_activity_status_assignment_urgent">اسائنمنٹ جلد ختم ہونے والی ہے</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">کلاس کی تیاری کے یاددہانی</string>
     <string name="notification_class_preparing_content_fallback">کلاس شروع ہونے والی ہے</string>
     <string name="notification_class_preparing_title">کلاس جلد شروع ہو رہی ہے: %1$s</string>
-    <string name="notification_setup_description">درج ذیل اجازتیں فعال کریں تاکہ اسائنمنٹ کی یاددہانی، کلاس کی تیاری کے الرٹ، اور لائیو ایکٹیویٹی وقت پر پہنچیں چاہے ایپ بند ہو۔</string>
+    <string name="notification_setup_description">درج ذیل اجازتیں فعال کریں تاکہ اسائنمنٹ کی یاددہانی، کلاس کی تیاری کے الرٹ، اور Live Updates وقت پر پہنچیں چاہے ایپ بند ہو۔</string>
     <string name="notification_setup_title">اطلاعات دوبارہ ترتیب دیں</string>
     <string name="onboarding_flavor_fdroid_description">آپ F-Droid بلڈ استعمال کر رہے ہیں۔ چونکہ F-Droid کی پالیسی Google کی سروسز (Firebase FCM، GMS وغیرہ) پر انحصار کرنے سے منع کرتی ہے، اس بلڈ میں درج ذیل دو فیچر دستیاب نہیں ہیں:\n\n1. Wear OS ساتھی ایپ\n2. حقیقی وقت کی پش اطلاعات</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid بلڈ نوٹس</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">اجازت دی گئی</string>
     <string name="permission_not_applicable">اس سسٹم ورژن میں دستیاب نہیں</string>
     <string name="permission_not_granted_tap_settings">اجازت نہیں · ترتیبات کھولنے کے لیے ٹیپ کریں</string>
-    <string name="permission_notifications_description">ایپ کو اطلاعات دکھانے کی اجازت دیں؛ ورنہ اطلاعات اور لائیو ایکٹیویٹی ظاہر نہیں ہوں گی۔</string>
+    <string name="permission_notifications_description">ایپ کو اطلاعات دکھانے کی اجازت دیں؛ ورنہ اطلاعات اور Live Updates ظاہر نہیں ہوں گی۔</string>
     <string name="permission_notifications_name">اطلاع کی اجازت</string>
     <string name="permission_warning_action_later">بعد میں شاید</string>
-    <string name="permission_warning_description">درج ذیل اجازتیں پہلے فعال تھیں لیکن اب بند ہو گئی ہیں۔ متعلقہ اطلاعات اور لائیو ایکٹیویٹی صحیح طریقے سے ظاہر نہیں ہو سکتیں۔</string>
+    <string name="permission_warning_description">درج ذیل اجازتیں پہلے فعال تھیں لیکن اب بند ہو گئی ہیں۔ متعلقہ اطلاعات اور Live Updates صحیح طریقے سے ظاہر نہیں ہو سکتیں۔</string>
     <string name="permission_warning_mute_item">دوبارہ اس بارے میں یاد نہ دلائیں</string>
     <string name="permission_warning_title">اطلاع سے متعلق اجازتیں بند کر دی گئی ہیں</string>
     <string name="push_server_enable_toggle">سرور پش فعال کریں</string>

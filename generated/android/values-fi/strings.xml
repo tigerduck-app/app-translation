@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Ei kirjautunut</string>
     <string name="library_virtual_pass_title">Virtuaalinen kirjastokortti</string>
     <string name="live_activity_channel_description">Näyttää meneillään olevan tunnin, tulevan tunnin ja tehtävien lähtölaskennan. Ääniä voi säätää sovelluksen asetuksissa.</string>
-    <string name="live_activity_channel_name">Live-toiminto</string>
+    <string name="live_activity_channel_name">Livepäivitykset</string>
     <string name="live_activity_settings_assignment_notification_footer">Saat ilmoituksen ennen tehtävän alkamista.</string>
     <string name="live_activity_settings_assignment_notification_header">Tehtäväilmoitukset</string>
     <string name="live_activity_settings_assignment_warning">Tehtävävaroitus</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Sovellus alkaa muistuttaa tämän verran ennen tunnin alkua.</string>
     <string name="live_activity_settings_custom_class_title">Mukautettu tunnin aloitusaika</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minuuttia (enintään %1$d minuuttia)</string>
-    <string name="live_activity_settings_description">Live-toiminto näyttää meneillään olevan tunnin ja lähtölaskennan ilmoituksissa. \"Tunnilla\" ja \"Tunti alkaa pian\" päivittyvät reaaliajassa vain sovelluksen ollessa auki; \"Tehtävävaroitus\" voi ilmoittaa ajoissa myös sovelluksen ollessa suljettuna.</string>
-    <string name="live_activity_settings_enable">Ota live-toiminto käyttöön</string>
+    <string name="live_activity_settings_description">Livepäivitykset näyttävät meneillään olevan tunnin ja lähtölaskennan ilmoituksissa. „Tunnilla“ ja „Tunti alkaa pian“ päivittyvät reaaliajassa vain sovelluksen ollessa auki; „Tehtävävaroitus“ voi ilmoittaa ajoissa myös sovelluksen ollessa suljettuna.</string>
+    <string name="live_activity_settings_enable">Ota livepäivitykset käyttöön</string>
     <string name="live_activity_settings_hours_label">%1$d t</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d t %2$d min</string>
     <string name="live_activity_settings_hours_unit">Tuntia</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Alue: %1$d – %2$d minuuttia</string>
     <string name="live_activity_settings_reset">Nollaa</string>
     <string name="live_activity_settings_reset_confirm_message">Kaikki tilanteet ja ajoitusasetukset palautetaan oletusarvoihin.</string>
-    <string name="live_activity_settings_reset_confirm_title">Nollatko kaikki live-toiminnon asetukset?</string>
+    <string name="live_activity_settings_reset_confirm_title">Nollatko kaikki livepäivitysten asetukset?</string>
     <string name="live_activity_settings_reset_defaults">Palauta oletukset</string>
     <string name="live_activity_settings_section_display_scenarios">Näyttötilannat</string>
     <string name="live_activity_settings_section_lock_screen">Lukitusnäyttö</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Näytä yksityiskohtainen sisältö lukitusnäytöllä</string>
     <string name="live_activity_settings_sound_assignment">Soita ääni Tehtävävaroitus-tilanteessa</string>
     <string name="live_activity_settings_sound_class_preparing">Soita ääni Tunti alkaa pian -tilanteessa</string>
-    <string name="live_activity_settings_sound_hint">Ääni soi vain kerran tilanteen alkaessa; myöhemmät lähtölaskennan päivitykset ovat hiljaisia. Säädä äänenvoimakkuutta tai Älä häiritse -toimintoa muuttamalla järjestelmäasetuksissa \"Live-toiminto\"-ilmoituskanavaa.</string>
+    <string name="live_activity_settings_sound_hint">Ääni soi vain kerran tilanteen alkaessa; myöhemmät lähtölaskennan päivitykset ovat hiljaisia. Säädä äänenvoimakkuutta tai Älä häiritse -toimintoa muuttamalla järjestelmäasetuksissa „Livepäivitykset“-ilmoituskanavaa.</string>
     <string name="live_activity_settings_sound_in_class">Soita ääni Tunnilla-tilanteessa</string>
     <string name="live_activity_settings_timing_hint">Liukusäädin kattaa yleiset alueet. Jos haluat asettaa arvoja alueen ulkopuolelle (esim. 1 päivä ennen tehtävän palautusta), napauta \"Mukautettu\".</string>
     <string name="live_activity_status_assignment_urgent">Tehtävä palautuu pian</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Tunnin alkamismuistutukset</string>
     <string name="notification_class_preparing_content_fallback">Tunti alkaa pian</string>
     <string name="notification_class_preparing_title">Tunti alkaa pian: %1$s</string>
-    <string name="notification_setup_description">Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja live-toiminto saapuvat ajoissa myös sovelluksen ollessa suljettuna.</string>
+    <string name="notification_setup_description">Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja livepäivitykset saapuvat ajoissa myös sovelluksen ollessa suljettuna.</string>
     <string name="notification_setup_title">Määritä ilmoitukset uudelleen</string>
     <string name="onboarding_flavor_fdroid_description">Käytät F-Droid-versiota. Koska F-Droidin käytäntö kieltää riippuvuuden Googlen palveluista (Firebase FCM, GMS jne.), seuraavat kaksi ominaisuutta eivät ole käytettävissä tässä versiossa:\n\n1. Wear OS -kumppanisovellus\n2. Reaaliaikaiset push-ilmoitukset</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid-version huomautus</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Sallittu</string>
     <string name="permission_not_applicable">Ei saatavilla tässä järjestelmäversiossa</string>
     <string name="permission_not_granted_tap_settings">Ei sallittu · Avaa asetukset napauttamalla</string>
-    <string name="permission_notifications_description">Salli sovelluksen näyttää ilmoituksia; muussa tapauksessa ilmoitukset ja live-toiminto eivät näy.</string>
+    <string name="permission_notifications_description">Salli sovelluksen näyttää ilmoituksia; muussa tapauksessa ilmoitukset ja livepäivitykset eivät näy.</string>
     <string name="permission_notifications_name">Ilmoituslupa</string>
     <string name="permission_warning_action_later">Ehkä myöhemmin</string>
-    <string name="permission_warning_description">Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja live-toiminto eivät ehkä näy oikein.</string>
+    <string name="permission_warning_description">Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja livepäivitykset eivät ehkä näy oikein.</string>
     <string name="permission_warning_mute_item">Älä muistuta tästä enää</string>
     <string name="permission_warning_title">Ilmoituksiin liittyvät luvat poistettu käytöstä</string>
     <string name="push_server_enable_toggle">Ota palvelimen push käyttöön</string>

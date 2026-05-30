@@ -89,15 +89,21 @@ def _validate_grouped_source(locale: str, grouped: OrderedDict) -> None:
             f"source/{locale}.json has unknown top-level groups: {unknown}. "
             f"Expected only: {list(SOURCE_GROUPS)}"
         )
-    seen: dict[str, str] = {}
-    for group in SOURCE_GROUPS:
-        for key in grouped.get(group, {}).keys():
-            if key in seen:
-                raise SystemExit(
-                    f"source/{locale}.json key '{key}' appears in both "
-                    f"'{seen[key]}' and '{group}' groups"
-                )
-            seen[key] = group
+    # A key may live in `shared`, or be forked into both `android` and `apple`
+    # (per-platform wording — see CONVENTIONS.md "Forking a shared key per
+    # platform"). The merge in `_flatten_for_platform` routes each platform to
+    # its own value, so android↔apple overlap is well-defined and allowed. What
+    # is NOT allowed is a key in `shared` together with a platform group, which
+    # would let the platform value silently shadow the shared one.
+    shared_keys = set(grouped.get("shared", {}).keys())
+    for platform in ("android", "apple"):
+        clash = shared_keys & set(grouped.get(platform, {}).keys())
+        if clash:
+            key = sorted(clash)[0]
+            raise SystemExit(
+                f"source/{locale}.json key '{key}' appears in both "
+                f"'shared' and '{platform}' groups"
+            )
 
 
 def _atomic_write_text(path: Path, content: str) -> None:

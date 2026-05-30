@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">로그인되지 않음</string>
     <string name="library_virtual_pass_title">가상 출입증</string>
     <string name="live_activity_channel_description">현재 수업, 다음 수업, 과제 카운트다운을 표시합니다. 앱 설정에서 시나리오별 알림음을 조정할 수 있습니다.</string>
-    <string name="live_activity_channel_name">라이브 액티비티</string>
+    <string name="live_activity_channel_name">실시간 업데이트</string>
     <string name="live_activity_settings_assignment_notification_footer">과제 마감 전에 알림을 받습니다.</string>
     <string name="live_activity_settings_assignment_notification_header">과제 알림</string>
     <string name="live_activity_settings_assignment_warning">과제 경고</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">앱이 수업 시작보다 이만큼 일찍 알림을 시작합니다.</string>
     <string name="live_activity_settings_custom_class_title">사용자 지정 수업 사전 알림 시간</string>
     <string name="live_activity_settings_custom_class_unit_hint">분 (최대 %1$d분)</string>
-    <string name="live_activity_settings_description">라이브 액티비티는 알림에 현재 수업과 카운트다운을 표시합니다. \"수업 중\"과 \"곧 수업 시작\"은 앱이 열려 있을 때만 실시간 갱신되며, \"과제 경고\"는 앱이 닫혀 있어도 제때 알릴 수 있습니다.</string>
-    <string name="live_activity_settings_enable">라이브 액티비티 활성화</string>
+    <string name="live_activity_settings_description">실시간 업데이트는 알림에 현재 수업과 카운트다운을 표시합니다. \"수업 중\"과 \"곧 수업 시작\"은 앱이 열려 있을 때만 실시간 갱신되며, \"과제 경고\"는 앱이 닫혀 있어도 제때 알릴 수 있습니다.</string>
+    <string name="live_activity_settings_enable">실시간 업데이트 활성화</string>
     <string name="live_activity_settings_hours_label">%1$d시간</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d시간 %2$d분</string>
     <string name="live_activity_settings_hours_unit">시간</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">범위: %1$d – %2$d분</string>
     <string name="live_activity_settings_reset">재설정</string>
     <string name="live_activity_settings_reset_confirm_message">모든 시나리오와 타이밍 설정이 기본값으로 복원됩니다.</string>
-    <string name="live_activity_settings_reset_confirm_title">모든 라이브 액티비티 설정을 재설정할까요?</string>
+    <string name="live_activity_settings_reset_confirm_title">모든 실시간 업데이트 설정을 재설정할까요?</string>
     <string name="live_activity_settings_reset_defaults">기본값으로 재설정</string>
     <string name="live_activity_settings_section_display_scenarios">표시 시나리오</string>
     <string name="live_activity_settings_section_lock_screen">잠금 화면</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">잠금 화면에 자세한 내용 표시</string>
     <string name="live_activity_settings_sound_assignment">과제 경고 시 알림음 재생</string>
     <string name="live_activity_settings_sound_class_preparing">곧 수업 시작 시 알림음 재생</string>
-    <string name="live_activity_settings_sound_hint">알림음은 시나리오에 처음 진입할 때만 재생되며 이후 카운트다운 갱신은 무음으로 유지됩니다. 음량이나 방해 금지 동작을 조정하려면 시스템 설정에서 \"라이브 액티비티\" 알림 채널을 변경하세요.</string>
+    <string name="live_activity_settings_sound_hint">알림음은 시나리오에 처음 진입할 때만 재생되며 이후 카운트다운 갱신은 무음으로 유지됩니다. 음량이나 방해 금지 동작을 조정하려면 시스템 설정에서 \"실시간 업데이트\" 알림 채널을 변경하세요.</string>
     <string name="live_activity_settings_sound_in_class">수업 중일 때 알림음 재생</string>
     <string name="live_activity_settings_timing_hint">슬라이더는 일반적인 범위를 다룹니다. 그 범위를 벗어나는 값(예: 과제 마감 1일 전)은 \"사용자 지정\"을 탭하세요.</string>
     <string name="live_activity_status_assignment_urgent">과제 마감 임박</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">수업 시작 알림</string>
     <string name="notification_class_preparing_content_fallback">수업이 곧 시작됩니다</string>
     <string name="notification_class_preparing_title">곧 수업 시작: %1$s</string>
-    <string name="notification_setup_description">아래 권한을 허용하면 앱이 닫혀 있어도 과제 알림, 수업 시작 알림, 라이브 액티비티가 제때 도착합니다.</string>
+    <string name="notification_setup_description">아래 권한을 허용하면 앱이 닫혀 있어도 과제 알림, 수업 시작 알림, 실시간 업데이트가 제때 도착합니다.</string>
     <string name="notification_setup_title">알림 다시 설정</string>
     <string name="onboarding_flavor_fdroid_description">F-Droid 빌드를 사용 중입니다. F-Droid 정책은 Google 서비스(Firebase FCM, GMS 등)에 대한 의존을 금지하므로, 이 빌드에서는 다음 두 기능을 사용할 수 없습니다:\n\n1. Wear OS 컴패니언 앱\n2. 실시간 푸시 공지</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid 빌드 안내</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">허용됨</string>
     <string name="permission_not_applicable">이 시스템 버전에서는 사용할 수 없습니다</string>
     <string name="permission_not_granted_tap_settings">허용 안 됨 · 탭하여 설정 열기</string>
-    <string name="permission_notifications_description">앱이 알림을 표시할 수 있도록 허용해 주세요. 그렇지 않으면 알림과 라이브 액티비티가 표시되지 않습니다.</string>
+    <string name="permission_notifications_description">앱이 알림을 표시할 수 있도록 허용해 주세요. 그렇지 않으면 알림과 실시간 업데이트가 표시되지 않습니다.</string>
     <string name="permission_notifications_name">알림 권한</string>
     <string name="permission_warning_action_later">나중에</string>
-    <string name="permission_warning_description">다음 권한이 이전에 허용되었으나 현재 비활성화되어 있습니다. 관련 알림과 라이브 액티비티가 정상적으로 표시되지 않을 수 있습니다.</string>
+    <string name="permission_warning_description">다음 권한이 이전에 허용되었으나 현재 비활성화되어 있습니다. 관련 알림과 실시간 업데이트가 정상적으로 표시되지 않을 수 있습니다.</string>
     <string name="permission_warning_mute_item">이 항목을 다시 알리지 않기</string>
     <string name="permission_warning_title">알림 관련 권한이 꺼져 있습니다</string>
     <string name="push_server_enable_toggle">서버 푸시 활성화</string>

@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">ਸਾਈਨ ਇਨ ਨਹੀਂ ਕੀਤਾ</string>
     <string name="library_virtual_pass_title">ਵਰਚੁਅਲ ਪਾਸ</string>
     <string name="live_activity_channel_description">ਮੌਜੂਦਾ ਕਲਾਸ, ਆਉਣ ਵਾਲੀ ਕਲਾਸ ਅਤੇ ਅਸਾਈਨਮੈਂਟ ਕਾਊਂਟਡਾਊਨ ਦਿਖਾਉਂਦਾ ਹੈ। ਤੁਸੀਂ ਐਪ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਹਰ ਸਥਿਤੀ ਦੀ ਆਵਾਜ਼ ਅਡਜਸਟ ਕਰ ਸਕਦੇ ਹੋ।</string>
-    <string name="live_activity_channel_name">ਲਾਈਵ ਐਕਟੀਵਿਟੀ</string>
+    <string name="live_activity_channel_name">Live Updates</string>
     <string name="live_activity_settings_assignment_notification_footer">ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਤੀ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕੀਤਾ ਜਾਵੇਗਾ।</string>
     <string name="live_activity_settings_assignment_notification_header">ਅਸਾਈਨਮੈਂਟ ਸੂਚਨਾਵਾਂ</string>
     <string name="live_activity_settings_assignment_warning">ਅਸਾਈਨਮੈਂਟ ਚੇਤਾਵਨੀ</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">ਐਪ ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ ਇੰਨੀ ਦੇਰ ਪਹਿਲਾਂ ਯਾਦ ਦਿਵਾਉਣਾ ਸ਼ੁਰੂ ਕਰਦਾ ਹੈ।</string>
     <string name="live_activity_settings_custom_class_title">ਕਸਟਮ ਕਲਾਸ ਅਗਾਊਂ ਸਮਾਂ</string>
     <string name="live_activity_settings_custom_class_unit_hint">ਮਿੰਟ (ਵੱਧ ਤੋਂ ਵੱਧ %1$d ਮਿੰਟ)</string>
-    <string name="live_activity_settings_description">ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਮੌਜੂਦਾ ਕਲਾਸ ਅਤੇ ਕਾਊਂਟਡਾਊਨ ਦਿਖਾਉਂਦੀ ਹੈ। \"ਕਲਾਸ ਚੱਲ ਰਹੀ ਹੈ\" ਅਤੇ \"ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ\" ਸਿਰਫ਼ ਐਪ ਖੁੱਲ੍ਹਾ ਹੋਣ \'ਤੇ ਰੀਅਲ ਟਾਈਮ ਵਿੱਚ ਅੱਪਡੇਟ ਹੁੰਦੇ ਹਨ; \"ਅਸਾਈਨਮੈਂਟ ਚੇਤਾਵਨੀ\" ਐਪ ਬੰਦ ਹੋਣ \'ਤੇ ਵੀ ਸਮੇਂ \'ਤੇ ਸੁਚੇਤ ਕਰ ਸਕਦੀ ਹੈ।</string>
-    <string name="live_activity_settings_enable">ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਚਾਲੂ ਕਰੋ</string>
+    <string name="live_activity_settings_description">Live Updates ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਮੌਜੂਦਾ ਕਲਾਸ ਅਤੇ ਕਾਊਂਟਡਾਊਨ ਦਿਖਾਉਂਦੀ ਹੈ। \"ਕਲਾਸ ਚੱਲ ਰਹੀ ਹੈ\" ਅਤੇ \"ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ\" ਸਿਰਫ਼ ਐਪ ਖੁੱਲ੍ਹਾ ਹੋਣ \'ਤੇ ਰੀਅਲ ਟਾਈਮ ਵਿੱਚ ਅੱਪਡੇਟ ਹੁੰਦੇ ਹਨ; \"ਅਸਾਈਨਮੈਂਟ ਚੇਤਾਵਨੀ\" ਐਪ ਬੰਦ ਹੋਣ \'ਤੇ ਵੀ ਸਮੇਂ \'ਤੇ ਸੁਚੇਤ ਕਰ ਸਕਦੀ ਹੈ।</string>
+    <string name="live_activity_settings_enable">Live Updates ਚਾਲੂ ਕਰੋ</string>
     <string name="live_activity_settings_hours_label">%1$d ਘੰ</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d ਘੰ %2$d ਮਿੰਟ</string>
     <string name="live_activity_settings_hours_unit">ਘੰਟੇ</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">ਰੇਂਜ: %1$d – %2$d ਮਿੰਟ</string>
     <string name="live_activity_settings_reset">ਰੀਸੈੱਟ ਕਰੋ</string>
     <string name="live_activity_settings_reset_confirm_message">ਸਾਰੀਆਂ ਸਥਿਤੀਆਂ ਅਤੇ ਸਮਾਂ ਸੈਟਿੰਗਾਂ ਡਿਫੌਲਟ \'ਤੇ ਵਾਪਸ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ।</string>
-    <string name="live_activity_settings_reset_confirm_title">ਸਾਰੀਆਂ ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਸੈਟਿੰਗਾਂ ਰੀਸੈੱਟ ਕਰੋ?</string>
+    <string name="live_activity_settings_reset_confirm_title">ਸਾਰੀਆਂ Live Updates ਸੈਟਿੰਗਾਂ ਰੀਸੈੱਟ ਕਰੋ?</string>
     <string name="live_activity_settings_reset_defaults">ਡਿਫੌਲਟ \'ਤੇ ਰੀਸੈੱਟ ਕਰੋ</string>
     <string name="live_activity_settings_section_display_scenarios">ਦਿਖਾਉਣ ਦੀਆਂ ਸਥਿਤੀਆਂ</string>
     <string name="live_activity_settings_section_lock_screen">ਲਾਕ ਸਕ੍ਰੀਨ</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">ਲਾਕ ਸਕ੍ਰੀਨ \'ਤੇ ਵਿਸਤ੍ਰਿਤ ਸਮੱਗਰੀ ਦਿਖਾਓ</string>
     <string name="live_activity_settings_sound_assignment">ਅਸਾਈਨਮੈਂਟ ਚੇਤਾਵਨੀ ਲਈ ਆਵਾਜ਼ ਚਲਾਓ</string>
     <string name="live_activity_settings_sound_class_preparing">ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ ਲਈ ਆਵਾਜ਼ ਚਲਾਓ</string>
-    <string name="live_activity_settings_sound_hint">ਆਵਾਜ਼ ਸਿਰਫ਼ ਉਦੋਂ ਵੱਜਦੀ ਹੈ ਜਦੋਂ ਕੋਈ ਸਥਿਤੀ ਪਹਿਲੀ ਵਾਰ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ; ਬਾਅਦ ਵਿੱਚ ਕਾਊਂਟਡਾਊਨ ਅੱਪਡੇਟ ਚੁੱਪ ਰਹਿੰਦੇ ਹਨ। ਵੌਲੀਊਮ ਜਾਂ ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ ਵਿਵਹਾਰ ਅਡਜਸਟ ਕਰਨ ਲਈ, ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ \"ਲਾਈਵ ਐਕਟੀਵਿਟੀ\" ਸੂਚਨਾ ਚੈਨਲ ਬਦਲੋ।</string>
+    <string name="live_activity_settings_sound_hint">ਆਵਾਜ਼ ਸਿਰਫ਼ ਉਦੋਂ ਵੱਜਦੀ ਹੈ ਜਦੋਂ ਕੋਈ ਸਥਿਤੀ ਪਹਿਲੀ ਵਾਰ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ; ਬਾਅਦ ਵਿੱਚ ਕਾਊਂਟਡਾਊਨ ਅੱਪਡੇਟ ਚੁੱਪ ਰਹਿੰਦੇ ਹਨ। ਵੌਲੀਊਮ ਜਾਂ ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ ਵਿਵਹਾਰ ਅਡਜਸਟ ਕਰਨ ਲਈ, ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ \"Live Updates\" ਸੂਚਨਾ ਚੈਨਲ ਬਦਲੋ।</string>
     <string name="live_activity_settings_sound_in_class">ਕਲਾਸ ਚੱਲ ਰਹੀ ਹੈ ਲਈ ਆਵਾਜ਼ ਚਲਾਓ</string>
     <string name="live_activity_settings_timing_hint">ਸਲਾਈਡਰ ਆਮ ਰੇਂਜਾਂ ਦਿੰਦਾ ਹੈ। ਉਸ ਰੇਂਜ ਤੋਂ ਬਾਹਰ ਮੁੱਲ ਸੈੱਟ ਕਰਨ ਲਈ (ਉਦਾਹਰਨ ਵਜੋਂ, ਅਸਾਈਨਮੈਂਟ ਤੋਂ 1 ਦਿਨ ਪਹਿਲਾਂ), \"ਕਸਟਮ\" ਟੈਪ ਕਰੋ।</string>
     <string name="live_activity_status_assignment_urgent">ਅਸਾਈਨਮੈਂਟ ਜਲਦੀ ਖਤਮ ਹੋਣ ਵਾਲੀ ਹੈ</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਦੇ ਰੀਮਾਈਂਡਰ</string>
     <string name="notification_class_preparing_content_fallback">ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਵਾਲੀ ਹੈ</string>
     <string name="notification_class_preparing_title">ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ: %1$s</string>
-    <string name="notification_setup_description">ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਚਾਲੂ ਕਰੋ ਤਾਂ ਜੋ ਅਸਾਈਨਮੈਂਟ ਰੀਮਾਈਂਡਰ, ਕਲਾਸ-ਸ਼ੁਰੂ ਹੋਣ ਦੀਆਂ ਸੂਚਨਾਵਾਂ, ਅਤੇ ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਐਪ ਬੰਦ ਹੋਣ \'ਤੇ ਵੀ ਸਮੇਂ \'ਤੇ ਪਹੁੰਚ ਸਕਣ।</string>
+    <string name="notification_setup_description">ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਚਾਲੂ ਕਰੋ ਤਾਂ ਜੋ ਅਸਾਈਨਮੈਂਟ ਰੀਮਾਈਂਡਰ, ਕਲਾਸ-ਸ਼ੁਰੂ ਹੋਣ ਦੀਆਂ ਸੂਚਨਾਵਾਂ, ਅਤੇ Live Updates ਐਪ ਬੰਦ ਹੋਣ \'ਤੇ ਵੀ ਸਮੇਂ \'ਤੇ ਪਹੁੰਚ ਸਕਣ।</string>
     <string name="notification_setup_title">ਸੂਚਨਾਵਾਂ ਦੁਬਾਰਾ ਸੈੱਟ ਕਰੋ</string>
     <string name="onboarding_flavor_fdroid_description">ਤੁਸੀਂ F-Droid ਬਿਲਡ ਵਰਤ ਰਹੇ ਹੋ। ਕਿਉਂਕਿ F-Droid ਨੀਤੀ Google ਦੀਆਂ ਸੇਵਾਵਾਂ (Firebase FCM, GMS ਆਦਿ) \'ਤੇ ਨਿਰਭਰਤਾ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੰਦੀ, ਇਸ ਲਈ ਇਸ ਬਿਲਡ ਵਿੱਚ ਹੇਠਲੀਆਂ ਦੋ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ:\n\n1. Wear OS ਸਹਿਯੋਗੀ ਐਪ\n2. ਤੁਰੰਤ ਪੁਸ਼ ਨੋਟੀਫਿਕੇਸ਼ਨ</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid ਬਿਲਡ ਸੂਚਨਾ</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">ਆਗਿਆ ਦਿੱਤੀ ਗਈ</string>
     <string name="permission_not_applicable">ਇਸ ਸਿਸਟਮ ਵਰਜ਼ਨ \'ਤੇ ਉਪਲਬਧ ਨਹੀਂ</string>
     <string name="permission_not_granted_tap_settings">ਆਗਿਆ ਨਹੀਂ · ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹਣ ਲਈ ਟੈਪ ਕਰੋ</string>
-    <string name="permission_notifications_description">ਐਪ ਨੂੰ ਸੂਚਨਾਵਾਂ ਦਿਖਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ; ਨਹੀਂ ਤਾਂ ਸੂਚਨਾਵਾਂ ਅਤੇ ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਨਹੀਂ ਦਿਖਾਈ ਦੇਣਗੀਆਂ।</string>
+    <string name="permission_notifications_description">ਐਪ ਨੂੰ ਸੂਚਨਾਵਾਂ ਦਿਖਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ; ਨਹੀਂ ਤਾਂ ਸੂਚਨਾਵਾਂ ਅਤੇ Live Updates ਨਹੀਂ ਦਿਖਾਈ ਦੇਣਗੀਆਂ।</string>
     <string name="permission_notifications_name">ਸੂਚਨਾ ਅਨੁਮਤੀ</string>
     <string name="permission_warning_action_later">ਬਾਅਦ ਵਿੱਚ ਦੱਸਾਂਗੇ</string>
-    <string name="permission_warning_description">ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਪਹਿਲਾਂ ਚਾਲੂ ਸਨ ਪਰ ਹੁਣ ਬੰਦ ਹਨ। ਸੰਬੰਧਿਤ ਸੂਚਨਾਵਾਂ ਅਤੇ ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਸਹੀ ਤਰ੍ਹਾਂ ਨਹੀਂ ਦਿਖਾਈ ਦੇ ਸਕਦੀਆਂ।</string>
+    <string name="permission_warning_description">ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਪਹਿਲਾਂ ਚਾਲੂ ਸਨ ਪਰ ਹੁਣ ਬੰਦ ਹਨ। ਸੰਬੰਧਿਤ ਸੂਚਨਾਵਾਂ ਅਤੇ Live Updates ਸਹੀ ਤਰ੍ਹਾਂ ਨਹੀਂ ਦਿਖਾਈ ਦੇ ਸਕਦੀਆਂ।</string>
     <string name="permission_warning_mute_item">ਇਸ ਬਾਰੇ ਦੁਬਾਰਾ ਯਾਦ ਨਾ ਦਿਵਾਓ</string>
     <string name="permission_warning_title">ਸੂਚਨਾ ਸੰਬੰਧੀ ਅਨੁਮਤੀਆਂ ਬੰਦ ਕੀਤੀਆਂ ਗਈਆਂ</string>
     <string name="push_server_enable_toggle">ਸਰਵਰ ਪੁਸ਼ ਚਾਲੂ ਕਰੋ</string>

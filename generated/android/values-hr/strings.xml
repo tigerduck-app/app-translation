@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Niste prijavljeni</string>
     <string name="library_virtual_pass_title">Virtualna propusnica</string>
     <string name="live_activity_channel_description">Prikazuje trenutno predavanje, nadolazeće predavanje i odbrojavanja zadataka. Zvukove scenarija možete prilagoditi u postavkama aplikacije.</string>
-    <string name="live_activity_channel_name">Aktivnost u stvarnom vremenu</string>
+    <string name="live_activity_channel_name">Obavijesti uživo</string>
     <string name="live_activity_settings_assignment_notification_footer">Sie werden benachrichtigt, bevor ein Auftrag fällig ist.</string>
     <string name="live_activity_settings_assignment_notification_header">Zuweisungsbenachrichtigungen</string>
     <string name="live_activity_settings_assignment_warning">Upozorenje na zadatak</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Aplikacija počinje podsjetiti toliko prije početka predavanja.</string>
     <string name="live_activity_settings_custom_class_title">Prilagođeno predvrijeme predavanja</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minute (do %1$d minuta)</string>
-    <string name="live_activity_settings_description">Aktivnost u stvarnom vremenu prikazuje trenutno predavanje i odbrojavanje u obavijestima. „Na predavanju“ i „Predavanje uskoro počinje“ ažuriraju se u stvarnom vremenu samo dok je aplikacija otvorena; „Upozorenje na zadatak“ može pravovremeno upozoriti i kad je aplikacija zatvorena.</string>
-    <string name="live_activity_settings_enable">Omogući aktivnost u stvarnom vremenu</string>
+    <string name="live_activity_settings_description">Obavijesti uživo prikazuju trenutno predavanje i odbrojavanje u obavijestima. „Na predavanju“ i „Predavanje uskoro počinje“ ažuriraju se u stvarnom vremenu samo dok je aplikacija otvorena; „Upozorenje na zadatak“ može pravovremeno upozoriti i kad je aplikacija zatvorena.</string>
+    <string name="live_activity_settings_enable">Omogući obavijesti uživo</string>
     <string name="live_activity_settings_hours_label">%1$d h</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d h %2$d min</string>
     <string name="live_activity_settings_hours_unit">Sati</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Raspon: %1$d – %2$d minuta</string>
     <string name="live_activity_settings_reset">Resetiraj</string>
     <string name="live_activity_settings_reset_confirm_message">Svi scenariji i postavke vremenskog odabira bit će vraćeni na zadano.</string>
-    <string name="live_activity_settings_reset_confirm_title">Resetirati sve postavke aktivnosti u stvarnom vremenu?</string>
+    <string name="live_activity_settings_reset_confirm_title">Resetirati sve postavke obavijesti uživo?</string>
     <string name="live_activity_settings_reset_defaults">Vrati na zadano</string>
     <string name="live_activity_settings_section_display_scenarios">Scenariji prikaza</string>
     <string name="live_activity_settings_section_lock_screen">Zaključani zaslon</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Prikaži detaljan sadržaj na zaključanom zaslonu</string>
     <string name="live_activity_settings_sound_assignment">Reproduciraj zvuk za Upozorenje na zadatak</string>
     <string name="live_activity_settings_sound_class_preparing">Reproduciraj zvuk za Predavanje uskoro počinje</string>
-    <string name="live_activity_settings_sound_hint">Zvuk se reproducira samo pri prvom ulasku u scenarij; naknadna ažuriranja odbrojavanja ostaju tiha. Za prilagodbu glasnoće ili ponašanja ne ometaj, promijenite kanal obavijesti „Aktivnost u stvarnom vremenu“ u postavkama sustava.</string>
+    <string name="live_activity_settings_sound_hint">Zvuk se reproducira samo pri prvom ulasku u scenarij; naknadna ažuriranja odbrojavanja ostaju tiha. Za prilagodbu glasnoće ili ponašanja ne ometaj, promijenite kanal obavijesti „Obavijesti uživo“ u postavkama sustava.</string>
     <string name="live_activity_settings_sound_in_class">Reproduciraj zvuk za Na predavanju</string>
     <string name="live_activity_settings_timing_hint">Klizač pokriva uobičajene raspone. Za postavljanje vrijednosti izvan tog raspona (na primjer, 1 dan prije roka zadatka), dodirnite „Prilagođeno“.</string>
     <string name="live_activity_status_assignment_urgent">Rok zadatka se bliži</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Podsjetnici za predavanja</string>
     <string name="notification_class_preparing_content_fallback">Predavanje uskoro počinje</string>
     <string name="notification_class_preparing_title">Predavanje uskoro počinje: %1$s</string>
-    <string name="notification_setup_description">Omogućite sljedeća dopuštenja kako bi podsjetnici za zadatke, upozorenja o predavanjima i aktivnost u stvarnom vremenu stizali na vrijeme čak i kada je aplikacija zatvorena.</string>
+    <string name="notification_setup_description">Omogućite sljedeća dopuštenja kako bi podsjetnici za zadatke, upozorenja o predavanjima i obavijesti uživo stizali na vrijeme čak i kada je aplikacija zatvorena.</string>
     <string name="notification_setup_title">Rekonfiguracija obavijesti</string>
     <string name="onboarding_flavor_fdroid_description">Koristite F-Droid verziju. Budući da pravila F-Droida zabranjuju ovisnost o Googleovim uslugama (Firebase FCM, GMS itd.), sljedeće dvije značajke nisu dostupne u ovoj verziji:\n\n1. Prateća aplikacija Wear OS\n2. Push obavijesti u stvarnom vremenu</string>
     <string name="onboarding_flavor_fdroid_title">Obavijest o F-Droid verziji</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Dopušteno</string>
     <string name="permission_not_applicable">Nije dostupno na ovoj verziji sustava</string>
     <string name="permission_not_granted_tap_settings">Nije dopušteno · Dodirnite za otvaranje postavki</string>
-    <string name="permission_notifications_description">Dopustite aplikaciji prikazivanje obavijesti; u protivnom obavijesti i aktivnost u stvarnom vremenu neće se prikazivati.</string>
+    <string name="permission_notifications_description">Dopustite aplikaciji prikazivanje obavijesti; u protivnom obavijesti uživo neće se prikazivati.</string>
     <string name="permission_notifications_name">Dopuštenje za obavijesti</string>
     <string name="permission_warning_action_later">Možda kasnije</string>
-    <string name="permission_warning_description">Sljedeća dopuštenja bila su prethodno omogućena, ali su sada onemogućena. Povezane obavijesti i aktivnost u stvarnom vremenu možda se neće ispravno prikazivati.</string>
+    <string name="permission_warning_description">Sljedeća dopuštenja bila su prethodno omogućena, ali su sada onemogućena. Povezane obavijesti uživo možda se neće ispravno prikazivati.</string>
     <string name="permission_warning_mute_item">Ne podsjećaj me više na ovo</string>
     <string name="permission_warning_title">Dopuštenja za obavijesti su isključena</string>
     <string name="push_server_enable_toggle">Server-Push aktivieren</string>

@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Niste prijavljeni</string>
     <string name="library_virtual_pass_title">Virtualna izkaznica</string>
     <string name="live_activity_channel_description">Prikazuje trenutno uro, naslednjo uro in odštevanje do naloge. Zvoke scenarijev lahko prilagodite v nastavitvah aplikacije.</string>
-    <string name="live_activity_channel_name">Živa dejavnost</string>
+    <string name="live_activity_channel_name">Sprotna obvestila</string>
     <string name="live_activity_settings_assignment_notification_footer">Obveščeni boste pred rokom oddaje naloge.</string>
     <string name="live_activity_settings_assignment_notification_header">Obvestila o nalogah</string>
     <string name="live_activity_settings_assignment_warning">Opozorilo za nalogo</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Aplikacija začne opominjati toliko časa pred začetkom ure.</string>
     <string name="live_activity_settings_custom_class_title">Čas pred uro po meri</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minute (do %1$d minut)</string>
-    <string name="live_activity_settings_description">Živa dejavnost prikazuje trenutno uro in odštevanje v obvestilih. »Med poukom« in »Ura se kmalu začne« se posodabljata v realnem času samo, ko je aplikacija odprta; »Opozorilo za nalogo« lahko opozori pravočasno, tudi ko je aplikacija zaprta.</string>
-    <string name="live_activity_settings_enable">Omogoči živo dejavnost</string>
+    <string name="live_activity_settings_description">Sprotna obvestila prikazujejo trenutno uro in odštevanje v obvestilih. »Med poukom« in »Ura se kmalu začne« se posodabljata v realnem času samo, ko je aplikacija odprta; »Opozorilo za nalogo« lahko opozori pravočasno, tudi ko je aplikacija zaprta.</string>
+    <string name="live_activity_settings_enable">Omogoči sprotna obvestila</string>
     <string name="live_activity_settings_hours_label">%1$d ur</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d ur %2$d min</string>
     <string name="live_activity_settings_hours_unit">Ure</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Območje: %1$d – %2$d minut</string>
     <string name="live_activity_settings_reset">Ponastavi</string>
     <string name="live_activity_settings_reset_confirm_message">Vsi scenariji in nastavitve časa bodo obnovljeni na privzete vrednosti.</string>
-    <string name="live_activity_settings_reset_confirm_title">Ponastaviti vse nastavitve žive dejavnosti?</string>
+    <string name="live_activity_settings_reset_confirm_title">Ponastaviti vse nastavitve sprotnih obvestil?</string>
     <string name="live_activity_settings_reset_defaults">Ponastavi na privzeto</string>
     <string name="live_activity_settings_section_display_scenarios">Scenariji prikaza</string>
     <string name="live_activity_settings_section_lock_screen">Zaklenjen zaslon</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Prikaži podrobno vsebino na zaklenjenem zaslonu</string>
     <string name="live_activity_settings_sound_assignment">Predvajaj zvok za Opozorilo za nalogo</string>
     <string name="live_activity_settings_sound_class_preparing">Predvajaj zvok za Ura se kmalu začne</string>
-    <string name="live_activity_settings_sound_hint">Zvok se predvaja samo ob prvem vstopu v scenarij; kasnejše posodobitve odštevanja ostanejo brez zvoka. Za prilagoditev glasnosti ali načina Ne moti spremenite kanal obvestil »Živa dejavnost« v sistemskih nastavitvah.</string>
+    <string name="live_activity_settings_sound_hint">Zvok se predvaja samo ob prvem vstopu v scenarij; kasnejše posodobitve odštevanja ostanejo brez zvoka. Za prilagoditev glasnosti ali načina Ne moti spremenite kanal obvestil »Sprotna obvestila« v sistemskih nastavitvah.</string>
     <string name="live_activity_settings_sound_in_class">Predvajaj zvok za Med poukom</string>
     <string name="live_activity_settings_timing_hint">Drsnik pokriva pogosta območja. Za vrednosti zunaj tega območja (na primer 1 dan pred rokom naloge) tapnite »Po meri«.</string>
     <string name="live_activity_status_assignment_urgent">Rok naloge se bliža</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Opomniki za začetek ure</string>
     <string name="notification_class_preparing_content_fallback">Ura se bo kmalu začela</string>
     <string name="notification_class_preparing_title">Ura se kmalu začne: %1$s</string>
-    <string name="notification_setup_description">Omogočite spodnja dovoljenja, da zagotovite pravočasno dostavo opomnikov za naloge, opozoril pred poukom in žive dejavnosti, tudi ko je aplikacija zaprta.</string>
+    <string name="notification_setup_description">Omogočite spodnja dovoljenja, da zagotovite pravočasno dostavo opomnikov za naloge, opozoril pred poukom in sprotnih obvestil, tudi ko je aplikacija zaprta.</string>
     <string name="notification_setup_title">Ponovna nastavitev obvestil</string>
     <string name="onboarding_flavor_fdroid_description">Uporabljate različico F-Droid. Ker pravila F-Droid prepovedujejo odvisnost od Googlovih storitev (Firebase FCM, GMS itd.), naslednji dve funkciji v tej različici nista na voljo:\n\n1. Spremljevalna aplikacija Wear OS\n2. Sprotna potisna obvestila</string>
     <string name="onboarding_flavor_fdroid_title">Obvestilo o različici F-Droid</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Dovoljeno</string>
     <string name="permission_not_applicable">Ni na voljo v tej različici sistema</string>
     <string name="permission_not_granted_tap_settings">Ni dovoljeno · Tapnite za odpiranje nastavitev</string>
-    <string name="permission_notifications_description">Dovolite aplikaciji prikazovanje obvestil; sicer obvestila in živa dejavnost ne bodo prikazana.</string>
+    <string name="permission_notifications_description">Dovolite aplikaciji prikazovanje obvestil; sicer obvestila in sprotna obvestila ne bodo prikazana.</string>
     <string name="permission_notifications_name">Dovoljenje za obvestila</string>
     <string name="permission_warning_action_later">Morda pozneje</string>
-    <string name="permission_warning_description">Naslednja dovoljenja so bila prej omogočena, zdaj pa so onemogočena. Povezana obvestila in živa dejavnost morda ne bodo pravilno prikazana.</string>
+    <string name="permission_warning_description">Naslednja dovoljenja so bila prej omogočena, zdaj pa so onemogočena. Povezana obvestila in sprotna obvestila morda ne bodo pravilno prikazana.</string>
     <string name="permission_warning_mute_item">Ne opomni me več za to</string>
     <string name="permission_warning_title">Dovoljenja za obvestila so izklopljena</string>
     <string name="push_server_enable_toggle">Omogoči strežniški potisk</string>

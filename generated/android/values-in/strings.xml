@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Belum masuk</string>
     <string name="library_virtual_pass_title">Kartu masuk virtual</string>
     <string name="live_activity_channel_description">Menampilkan kelas saat ini, kelas berikutnya, dan hitung mundur tugas. Kamu dapat mengatur suara setiap skenario di pengaturan aplikasi.</string>
-    <string name="live_activity_channel_name">Aktivitas langsung</string>
+    <string name="live_activity_channel_name">Live update</string>
     <string name="live_activity_settings_assignment_notification_footer">Anda akan diberi tahu sebelum tugas jatuh tempo.</string>
     <string name="live_activity_settings_assignment_notification_header">Notifikasi tugas</string>
     <string name="live_activity_settings_assignment_warning">Peringatan tugas</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Aplikasi mulai mengingatkan selama ini sebelum kelas dimulai.</string>
     <string name="live_activity_settings_custom_class_title">Waktu persiapan kelas kustom</string>
     <string name="live_activity_settings_custom_class_unit_hint">Menit (hingga %1$d menit)</string>
-    <string name="live_activity_settings_description">Aktivitas langsung menampilkan kelas saat ini dan hitung mundur di notifikasi. \"Sedang di kelas\" dan \"Kelas akan segera dimulai\" diperbarui secara langsung hanya saat aplikasi terbuka; \"Peringatan tugas\" tetap dapat memberi peringatan tepat waktu meskipun aplikasi ditutup.</string>
-    <string name="live_activity_settings_enable">Aktifkan aktivitas langsung</string>
+    <string name="live_activity_settings_description">Live update menampilkan kelas saat ini dan hitung mundur di notifikasi. \"Sedang di kelas\" dan \"Kelas akan segera dimulai\" diperbarui secara langsung hanya saat aplikasi terbuka; \"Peringatan tugas\" tetap dapat memberi peringatan tepat waktu meskipun aplikasi ditutup.</string>
+    <string name="live_activity_settings_enable">Aktifkan live update</string>
     <string name="live_activity_settings_hours_label">%1$d jam</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d jam %2$d mnt</string>
     <string name="live_activity_settings_hours_unit">Jam</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Rentang: %1$d – %2$d menit</string>
     <string name="live_activity_settings_reset">Setel ulang</string>
     <string name="live_activity_settings_reset_confirm_message">Semua skenario dan pengaturan waktu akan dikembalikan ke default.</string>
-    <string name="live_activity_settings_reset_confirm_title">Setel ulang semua pengaturan aktivitas langsung?</string>
+    <string name="live_activity_settings_reset_confirm_title">Setel ulang semua pengaturan live update?</string>
     <string name="live_activity_settings_reset_defaults">Setel ulang ke default</string>
     <string name="live_activity_settings_section_display_scenarios">Skenario tampilan</string>
     <string name="live_activity_settings_section_lock_screen">Layar kunci</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Tampilkan konten lengkap di layar kunci</string>
     <string name="live_activity_settings_sound_assignment">Mainkan suara untuk Peringatan tugas</string>
     <string name="live_activity_settings_sound_class_preparing">Mainkan suara untuk Kelas akan segera dimulai</string>
-    <string name="live_activity_settings_sound_hint">Suara hanya berbunyi saat memasuki skenario untuk pertama kali; pembaruan hitung mundur berikutnya tetap senyap. Untuk mengatur volume atau perilaku Jangan Ganggu, ubah saluran notifikasi \"Aktivitas langsung\" di pengaturan sistem.</string>
+    <string name="live_activity_settings_sound_hint">Suara hanya berbunyi saat memasuki skenario untuk pertama kali; pembaruan hitung mundur berikutnya tetap senyap. Untuk mengatur volume atau perilaku Jangan Ganggu, ubah saluran notifikasi \"Live update\" di pengaturan sistem.</string>
     <string name="live_activity_settings_sound_in_class">Mainkan suara untuk Sedang di kelas</string>
     <string name="live_activity_settings_timing_hint">Slider mencakup rentang umum. Untuk menetapkan nilai di luar rentang itu (misalnya 1 hari sebelum tenggat tugas), ketuk \"Kustom\".</string>
     <string name="live_activity_status_assignment_urgent">Tugas akan segera jatuh tempo</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Pengingat sebelum kelas</string>
     <string name="notification_class_preparing_content_fallback">Kelas akan segera dimulai</string>
     <string name="notification_class_preparing_title">Kelas akan segera dimulai: %1$s</string>
-    <string name="notification_setup_description">Aktifkan izin di bawah ini untuk memastikan pengingat tugas, peringatan sebelum kelas, dan aktivitas langsung tiba tepat waktu meskipun aplikasi ditutup.</string>
+    <string name="notification_setup_description">Aktifkan izin di bawah ini untuk memastikan pengingat tugas, peringatan sebelum kelas, dan live update tiba tepat waktu meskipun aplikasi ditutup.</string>
     <string name="notification_setup_title">Konfigurasi ulang notifikasi</string>
     <string name="onboarding_flavor_fdroid_description">Anda menggunakan build F-Droid. Karena kebijakan F-Droid melarang ketergantungan pada layanan Google (Firebase FCM, GMS, dll.), dua fitur berikut tidak tersedia di build ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan push waktu nyata</string>
     <string name="onboarding_flavor_fdroid_title">Pemberitahuan build F-Droid</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Diizinkan</string>
     <string name="permission_not_applicable">Tidak tersedia pada versi sistem ini</string>
     <string name="permission_not_granted_tap_settings">Tidak diizinkan · Ketuk untuk membuka pengaturan</string>
-    <string name="permission_notifications_description">Izinkan aplikasi menampilkan notifikasi; jika tidak, notifikasi dan aktivitas langsung tidak akan muncul.</string>
+    <string name="permission_notifications_description">Izinkan aplikasi menampilkan notifikasi; jika tidak, notifikasi dan live update tidak akan muncul.</string>
     <string name="permission_notifications_name">Izin notifikasi</string>
     <string name="permission_warning_action_later">Mungkin nanti</string>
-    <string name="permission_warning_description">Izin berikut sebelumnya diaktifkan tetapi sekarang dinonaktifkan. Notifikasi dan aktivitas langsung terkait mungkin tidak ditampilkan dengan benar.</string>
+    <string name="permission_warning_description">Izin berikut sebelumnya diaktifkan tetapi sekarang dinonaktifkan. Notifikasi dan live update terkait mungkin tidak ditampilkan dengan benar.</string>
     <string name="permission_warning_mute_item">Jangan ingatkan saya tentang ini lagi</string>
     <string name="permission_warning_title">Izin terkait notifikasi telah dinonaktifkan</string>
     <string name="push_server_enable_toggle">Aktifkan push server</string>

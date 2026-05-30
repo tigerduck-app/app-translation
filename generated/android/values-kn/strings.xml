@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ</string>
     <string name="library_virtual_pass_title">ವರ್ಚುಯಲ್ ಪಾಸ್</string>
     <string name="live_activity_channel_description">ಪ್ರಸ್ತುತ ತರಗತಿ, ಮುಂಬರುವ ತರಗತಿ ಮತ್ತು ಕಾರ್ಯ ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸನ್ನಿವೇಶ ಧ್ವನಿಗಳನ್ನು ಸರಿಹೊಂದಿಸಬಹುದು.</string>
-    <string name="live_activity_channel_name">ಲೈವ್ ಆಕ್ಟಿವಿಟಿ</string>
+    <string name="live_activity_channel_name">Live Updates</string>
     <string name="live_activity_settings_assignment_notification_footer">ಕಾರ್ಯಯೋಜನೆ ಸಲ್ಲಿಸುವ ಮೊದಲು ನಿಮಗೆ ಅಧಿಸೂಚನೆ ನೀಡಲಾಗುವುದು.</string>
     <string name="live_activity_settings_assignment_notification_header">ಕಾರ್ಯಯೋಜನೆ ಅಧಿಸೂಚನೆಗಳು</string>
     <string name="live_activity_settings_assignment_warning">ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">ತರಗತಿ ಆರಂಭಕ್ಕೆ ಇಷ್ಟು ಸಮಯ ಮುನ್ನ ಅಪ್ಲಿಕೇಶನ್ ಜ್ಞಾಪಿಸಲು ಆರಂಭಿಸುತ್ತದೆ.</string>
     <string name="live_activity_settings_custom_class_title">ಕಸ್ಟಮ್ ತರಗತಿ ಮುಂಚಿನ ಸಮಯ</string>
     <string name="live_activity_settings_custom_class_unit_hint">ನಿಮಿಷಗಳು (ಗರಿಷ್ಠ %1$d ನಿಮಿಷ)</string>
-    <string name="live_activity_settings_description">ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಧಿಸೂಚನೆಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ತರಗತಿ ಮತ್ತು ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. \"ತರಗತಿಯಲ್ಲಿ\" ಮತ್ತು \"ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭ\" ಅಪ್ಲಿಕೇಶನ್ ತೆರೆದಿರುವಾಗ ಮಾತ್ರ ನೈಜ ಸಮಯದಲ್ಲಿ ನವೀಕರಣಗೊಳ್ಳುತ್ತವೆ; \"ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ\" ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ಎಚ್ಚರಿಸಬಲ್ಲದು.</string>
-    <string name="live_activity_settings_enable">ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="live_activity_settings_description">Live Updates ಅಧಿಸೂಚನೆಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ತರಗತಿ ಮತ್ತು ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. \"ತರಗತಿಯಲ್ಲಿ\" ಮತ್ತು \"ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭ\" ಅಪ್ಲಿಕೇಶನ್ ತೆರೆದಿರುವಾಗ ಮಾತ್ರ ನೈಜ ಸಮಯದಲ್ಲಿ ನವೀಕರಣಗೊಳ್ಳುತ್ತವೆ; \"ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ\" ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ಎಚ್ಚರಿಸಬಲ್ಲದು.</string>
+    <string name="live_activity_settings_enable">Live Updates ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
     <string name="live_activity_settings_hours_label">%1$d ಗಂ</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d ಗಂ %2$d ನಿ</string>
     <string name="live_activity_settings_hours_unit">ಗಂಟೆಗಳು</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">ಶ್ರೇಣಿ: %1$d – %2$d ನಿಮಿಷ</string>
     <string name="live_activity_settings_reset">ಮರುಹೊಂದಿಸಿ</string>
     <string name="live_activity_settings_reset_confirm_message">ಎಲ್ಲಾ ಸನ್ನಿವೇಶ ಮತ್ತು ಸಮಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಡೀಫಾಲ್ಟ್‌ಗೆ ಮರಳಿಸಲ್ಪಡುತ್ತವೆ.</string>
-    <string name="live_activity_settings_reset_confirm_title">ಎಲ್ಲಾ ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಬೇಕೇ?</string>
+    <string name="live_activity_settings_reset_confirm_title">ಎಲ್ಲಾ Live Updates ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಬೇಕೇ?</string>
     <string name="live_activity_settings_reset_defaults">ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ</string>
     <string name="live_activity_settings_section_display_scenarios">ಪ್ರದರ್ಶನ ಸನ್ನಿವೇಶಗಳು</string>
     <string name="live_activity_settings_section_lock_screen">ಲಾಕ್ ಸ್ಕ್ರೀನ್</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ವಿವರವಾದ ವಿಷಯ ತೋರಿಸಿ</string>
     <string name="live_activity_settings_sound_assignment">ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ ಧ್ವನಿ ನುಡಿಸಿ</string>
     <string name="live_activity_settings_sound_class_preparing">ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭ ಧ್ವನಿ ನುಡಿಸಿ</string>
-    <string name="live_activity_settings_sound_hint">ಸನ್ನಿವೇಶಕ್ಕೆ ಮೊದಲ ಬಾರಿ ಪ್ರವೇಶಿಸಿದಾಗ ಮಾತ್ರ ಧ್ವನಿ ಮೊಳಗುತ್ತದೆ; ನಂತರದ ಕೌಂಟ್‌ಡೌನ್ ನವೀಕರಣಗಳು ಮೌನವಾಗಿರುತ್ತವೆ. ಸಂಪುಟ ಅಥವಾ ಡೂ ನಾಟ್ ಡಿಸ್ಟರ್ಬ್ ಬದಲಾಯಿಸಲು, ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ \"ಲೈವ್ ಆಕ್ಟಿವಿಟಿ\" ಅಧಿಸೂಚನೆ ಚಾನಲ್ ಬದಲಾಯಿಸಿ.</string>
+    <string name="live_activity_settings_sound_hint">ಸನ್ನಿವೇಶಕ್ಕೆ ಮೊದಲ ಬಾರಿ ಪ್ರವೇಶಿಸಿದಾಗ ಮಾತ್ರ ಧ್ವನಿ ಮೊಳಗುತ್ತದೆ; ನಂತರದ ಕೌಂಟ್‌ಡೌನ್ ನವೀಕರಣಗಳು ಮೌನವಾಗಿರುತ್ತವೆ. ಸಂಪುಟ ಅಥವಾ ಡೂ ನಾಟ್ ಡಿಸ್ಟರ್ಬ್ ಬದಲಾಯಿಸಲು, ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ \"Live Updates\" ಅಧಿಸೂಚನೆ ಚಾನಲ್ ಬದಲಾಯಿಸಿ.</string>
     <string name="live_activity_settings_sound_in_class">ತರಗತಿಯಲ್ಲಿ ಧ್ವನಿ ನುಡಿಸಿ</string>
     <string name="live_activity_settings_timing_hint">ಸ್ಲೈಡರ್ ಸಾಮಾನ್ಯ ಶ್ರೇಣಿಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಆ ಶ್ರೇಣಿಯ ಹೊರಗಿನ ಮೌಲ್ಯಗಳನ್ನು ಹೊಂದಿಸಲು (ಉದಾ: ಕಾರ್ಯ ಗಡುವಿಗೆ 1 ದಿನ ಮುನ್ನ), \"ಕಸ್ಟಮ್\" ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
     <string name="live_activity_status_assignment_urgent">ಕಾರ್ಯದ ಗಡುವು ಹತ್ತಿರದಲ್ಲಿದೆ</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">ತರಗತಿ ಸಿದ್ಧತೆ ಜ್ಞಾಪನೆಗಳು</string>
     <string name="notification_class_preparing_content_fallback">ತರಗತಿ ಆರಂಭವಾಗಲಿದೆ</string>
     <string name="notification_class_preparing_title">ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ: %1$s</string>
-    <string name="notification_setup_description">ಕಾರ್ಯ ಜ್ಞಾಪನೆಗಳು, ತರಗತಿ ಸಿದ್ಧತೆ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ತಲುಪುವಂತೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="notification_setup_description">ಕಾರ್ಯ ಜ್ಞಾಪನೆಗಳು, ತರಗತಿ ಸಿದ್ಧತೆ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು Live Updates ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ತಲುಪುವಂತೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
     <string name="notification_setup_title">ಅಧಿಸೂಚನೆಗಳನ್ನು ಮರುಸಂರಚಿಸಿ</string>
     <string name="onboarding_flavor_fdroid_description">ನೀವು F-Droid ಬಿಲ್ಡ್ ಬಳಸುತ್ತಿದ್ದೀರಿ. F-Droid ನೀತಿಯು Google ಸೇವೆಗಳನ್ನು (Firebase FCM, GMS ಇತ್ಯಾದಿ) ಅವಲಂಬಿಸುವುದನ್ನು ನಿಷೇಧಿಸುವುದರಿಂದ, ಈ ಕೆಳಗಿನ ಎರಡು ವೈಶಿಷ್ಟ್ಯಗಳು ಈ ಬಿಲ್ಡ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ:\n\n1. Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್\n2. ರಿಯಲ್-ಟೈಮ್ ಪುಷ್ ಪ್ರಕಟಣೆಗಳು</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid ಬಿಲ್ಡ್ ಸೂಚನೆ</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">ಅನುಮತಿಸಲಾಗಿದೆ</string>
     <string name="permission_not_applicable">ಈ ಸಿಸ್ಟಂ ಆವೃತ್ತಿಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ</string>
     <string name="permission_not_granted_tap_settings">ಅನುಮತಿಸಲಾಗಿಲ್ಲ · ಸೆಟ್ಟಿಂಗ್‌ ತೆರೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
-    <string name="permission_notifications_description">ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅಧಿಸೂಚನೆಗಳನ್ನು ತೋರಿಸಲು ಅನುಮತಿ ನೀಡಿ; ಇಲ್ಲದಿದ್ದರೆ ಎಲ್ಲಾ ಅಧಿಸೂಚನೆಗಳು ಮತ್ತು ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಕಾಣಿಸುವುದಿಲ್ಲ.</string>
+    <string name="permission_notifications_description">ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅಧಿಸೂಚನೆಗಳನ್ನು ತೋರಿಸಲು ಅನುಮತಿ ನೀಡಿ; ಇಲ್ಲದಿದ್ದರೆ ಎಲ್ಲಾ ಅಧಿಸೂಚನೆಗಳು ಮತ್ತು Live Updates ಕಾಣಿಸುವುದಿಲ್ಲ.</string>
     <string name="permission_notifications_name">ಅಧಿಸೂಚನೆ ಅನುಮತಿ</string>
     <string name="permission_warning_action_later">ನಂತರ ಮಾಡೋಣ</string>
-    <string name="permission_warning_description">ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಹಿಂದೆ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿತ್ತು ಆದರೆ ಈಗ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಸಂಬಂಧಿತ ಅಧಿಸೂಚನೆಗಳು ಮತ್ತು ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಸರಿಯಾಗಿ ತೋರಿಸದೇ ಇರಬಹುದು.</string>
+    <string name="permission_warning_description">ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಹಿಂದೆ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿತ್ತು ಆದರೆ ಈಗ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಸಂಬಂಧಿತ ಅಧಿಸೂಚನೆಗಳು ಮತ್ತು Live Updates ಸರಿಯಾಗಿ ತೋರಿಸದೇ ಇರಬಹುದು.</string>
     <string name="permission_warning_mute_item">ಇನ್ನು ಮೇಲೆ ಇದರ ಬಗ್ಗೆ ನೆನಪಿಸಬೇಡ</string>
     <string name="permission_warning_title">ಅಧಿಸೂಚನೆ ಸಂಬಂಧಿ ಅನುಮತಿಗಳು ಆಫ್ ಆಗಿವೆ</string>
     <string name="push_server_enable_toggle">ಸರ್ವರ್ ಪುಶ್ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>

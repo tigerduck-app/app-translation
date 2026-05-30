@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Pole sisse logitud</string>
     <string name="library_virtual_pass_title">Virtuaalne pääs</string>
     <string name="live_activity_channel_description">Näitab praegust tundi, eelseisvat tundi ja ülesande loendust. Helisignaale saate muuta rakenduse seadetes.</string>
-    <string name="live_activity_channel_name">Reaalajas tegevus</string>
+    <string name="live_activity_channel_name">Reaalajas teavitused</string>
     <string name="live_activity_settings_assignment_notification_footer">Teid teavitatakse enne ülesande tähtaega.</string>
     <string name="live_activity_settings_assignment_notification_header">Ülesande teatised</string>
     <string name="live_activity_settings_assignment_warning">Ülesande hoiatus</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Rakendus hakkab nii kaua enne tunni algust meelde tuletama.</string>
     <string name="live_activity_settings_custom_class_title">Kohandatud tunni eelhoiatuse aeg</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minutit (kuni %1$d minutit)</string>
-    <string name="live_activity_settings_description">Reaalajas tegevus näitab teavitustes praegust tundi ja loendust. „Tund käib\" ja „Tund algab varsti\" uuendatakse reaalajas ainult siis, kui rakendus on avatud; „Ülesande hoiatus\" saab siiski õigel ajal teavitada, kui rakendus on suletud.</string>
-    <string name="live_activity_settings_enable">Luba reaalajas tegevus</string>
+    <string name="live_activity_settings_description">Reaalajas teavitused näitab teavitustes praegust tundi ja loendust. „Tund käib\" ja „Tund algab varsti\" uuendatakse reaalajas ainult siis, kui rakendus on avatud; „Ülesande hoiatus\" saab siiski õigel ajal teavitada, kui rakendus on suletud.</string>
+    <string name="live_activity_settings_enable">Luba reaalajas teavitused</string>
     <string name="live_activity_settings_hours_label">%1$d t</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d t %2$d min</string>
     <string name="live_activity_settings_hours_unit">Tunnid</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Vahemik: %1$d – %2$d minutit</string>
     <string name="live_activity_settings_reset">Lähtesta</string>
     <string name="live_activity_settings_reset_confirm_message">Kõik stsenaariumid ja ajastuse seaded taastatakse vaikimisi.</string>
-    <string name="live_activity_settings_reset_confirm_title">Lähtestada kõik reaalajas tegevuse seaded?</string>
+    <string name="live_activity_settings_reset_confirm_title">Lähtestada kõik reaalajas teavituste seaded?</string>
     <string name="live_activity_settings_reset_defaults">Lähtesta vaikimisi</string>
     <string name="live_activity_settings_section_display_scenarios">Kuva stsenaariumid</string>
     <string name="live_activity_settings_section_lock_screen">Lukustuskuva</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Kuva lukustuskuval üksikasjalik sisu</string>
     <string name="live_activity_settings_sound_assignment">Esita heli olekus Ülesande hoiatus</string>
     <string name="live_activity_settings_sound_class_preparing">Esita heli olekus Tund algab varsti</string>
-    <string name="live_activity_settings_sound_hint">Heli mängib ainult stsenaariumi esmakordselt sisenemisel; hilisemad loenduse uuendused jäävad vaikseks. Helitugevuse või mitte-segamise režiimi muutmiseks muutke süsteemiseadetes teavituste kanalit „Reaalajas tegevus\".</string>
+    <string name="live_activity_settings_sound_hint">Heli mängib ainult stsenaariumi esmakordselt sisenemisel; hilisemad loenduse uuendused jäävad vaikseks. Helitugevuse või mitte-segamise režiimi muutmiseks muutke süsteemiseadetes teavituste kanalit „Reaalajas teavitused\".</string>
     <string name="live_activity_settings_sound_in_class">Esita heli olekus Tund käib</string>
     <string name="live_activity_settings_timing_hint">Liugur katab tavalised vahemikud. Vahemikust väljapoole jäävate väärtuste seadistamiseks (näiteks 1 päev enne ülesande tähtaega) puudutage „Kohandatud\".</string>
     <string name="live_activity_status_assignment_urgent">Ülesande tähtaeg läheneb</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Tunni alguse meeldetuletused</string>
     <string name="notification_class_preparing_content_fallback">Tund on kohe algamas</string>
     <string name="notification_class_preparing_title">Tund algab varsti: %1$s</string>
-    <string name="notification_setup_description">Lubage allpool olevad load, et ülesande meeldetuletused, tunni alguse teavitused ja reaalajas tegevus jõuaksid õigel ajal kohale isegi siis, kui rakendus on suletud.</string>
+    <string name="notification_setup_description">Lubage allpool olevad load, et ülesande meeldetuletused, tunni alguse teavitused ja reaalajas teavitused jõuaksid õigel ajal kohale isegi siis, kui rakendus on suletud.</string>
     <string name="notification_setup_title">Seadista teavitused uuesti</string>
     <string name="onboarding_flavor_fdroid_description">Kasutate F-Droidi versiooni. Kuna F-Droidi reeglid keelavad sõltumise Google\'i teenustest (Firebase FCM, GMS jne), pole järgmised kaks funktsiooni selles versioonis saadaval:\n\n1. Wear OS-i kaasrakendus\n2. Reaalajas tõuketeated</string>
     <string name="onboarding_flavor_fdroid_title">F-Droidi versiooni teade</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Lubatud</string>
     <string name="permission_not_applicable">Pole selles süsteemiversioonis saadaval</string>
     <string name="permission_not_granted_tap_settings">Pole lubatud · Puudutage seadete avamiseks</string>
-    <string name="permission_notifications_description">Lubage rakendusel teavitusi kuvada; muidu ei ilmu teavitused ega reaalajas tegevus.</string>
+    <string name="permission_notifications_description">Lubage rakendusel teavitusi kuvada; muidu ei ilmu teavitused ega reaalajas teavitused.</string>
     <string name="permission_notifications_name">Teavituste luba</string>
     <string name="permission_warning_action_later">Ehk hiljem</string>
-    <string name="permission_warning_description">Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja reaalajas tegevus ei pruugi õigesti kuvada.</string>
+    <string name="permission_warning_description">Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja reaalajas teavitused ei pruugi õigesti kuvada.</string>
     <string name="permission_warning_mute_item">Ärge tuletage seda enam meelde</string>
     <string name="permission_warning_title">Teavitusega seotud load on välja lülitatud</string>
     <string name="push_server_enable_toggle">Luba serveri tõuge</string>

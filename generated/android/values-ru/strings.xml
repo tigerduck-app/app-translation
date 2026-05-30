@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Вход не выполнен</string>
     <string name="library_virtual_pass_title">Виртуальный пропуск</string>
     <string name="live_activity_channel_description">Показывает текущее занятие, ближайшее занятие и обратный отсчёт до сдачи заданий. Звуки сценариев можно настроить в настройках приложения.</string>
-    <string name="live_activity_channel_name">Live-активность</string>
+    <string name="live_activity_channel_name">Уведомления в реальном времени</string>
     <string name="live_activity_settings_assignment_notification_footer">Вы получите уведомление перед истечением срока сдачи задания.</string>
     <string name="live_activity_settings_assignment_notification_header">Уведомления о заданиях</string>
     <string name="live_activity_settings_assignment_warning">Предупреждение о задании</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Приложение начинает напоминать за это время до начала занятия.</string>
     <string name="live_activity_settings_custom_class_title">Своё время предупреждения о занятии</string>
     <string name="live_activity_settings_custom_class_unit_hint">Минуты (до %1$d минут)</string>
-    <string name="live_activity_settings_description">Live-активность показывает текущее занятие и обратный отсчёт в уведомлениях. «На занятии» и «Скоро начнётся занятие» обновляются в реальном времени только при открытом приложении; «Предупреждение о задании» может своевременно уведомлять и при закрытом приложении.</string>
-    <string name="live_activity_settings_enable">Включить live-активность</string>
+    <string name="live_activity_settings_description">Уведомления в реальном времени показывают текущее занятие и обратный отсчёт в уведомлениях. «На занятии» и «Скоро начнётся занятие» обновляются в реальном времени только при открытом приложении; «Предупреждение о задании» может своевременно уведомлять и при закрытом приложении.</string>
+    <string name="live_activity_settings_enable">Включить уведомления в реальном времени</string>
     <string name="live_activity_settings_hours_label">%1$d ч</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d ч %2$d мин</string>
     <string name="live_activity_settings_hours_unit">Часы</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Диапазон: %1$d – %2$d минут</string>
     <string name="live_activity_settings_reset">Сбросить</string>
     <string name="live_activity_settings_reset_confirm_message">Все сценарии и настройки времени будут восстановлены по умолчанию.</string>
-    <string name="live_activity_settings_reset_confirm_title">Сбросить все настройки live-активности?</string>
+    <string name="live_activity_settings_reset_confirm_title">Сбросить все настройки уведомлений в реальном времени?</string>
     <string name="live_activity_settings_reset_defaults">Сбросить по умолчанию</string>
     <string name="live_activity_settings_section_display_scenarios">Сценарии отображения</string>
     <string name="live_activity_settings_section_lock_screen">Экран блокировки</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Показывать подробное содержимое на экране блокировки</string>
     <string name="live_activity_settings_sound_assignment">Воспроизводить звук для «Предупреждение о задании»</string>
     <string name="live_activity_settings_sound_class_preparing">Воспроизводить звук для «Скоро начнётся занятие»</string>
-    <string name="live_activity_settings_sound_hint">Звук воспроизводится только при первом входе в сценарий; последующие обновления обратного отсчёта остаются беззвучными. Чтобы настроить громкость или поведение режима «Не беспокоить», измените канал уведомлений «Live-активность» в системных настройках.</string>
+    <string name="live_activity_settings_sound_hint">Звук воспроизводится только при первом входе в сценарий; последующие обновления обратного отсчёта остаются беззвучными. Чтобы настроить громкость или поведение режима «Не беспокоить», измените канал уведомлений «Уведомления в реальном времени» в системных настройках.</string>
     <string name="live_activity_settings_sound_in_class">Воспроизводить звук для «На занятии»</string>
     <string name="live_activity_settings_timing_hint">Ползунок охватывает обычные диапазоны. Чтобы установить значения вне этого диапазона (например, за 1 день до сдачи задания), нажмите «Свой».</string>
     <string name="live_activity_status_assignment_urgent">Скоро срок сдачи задания</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Напоминания о начале занятий</string>
     <string name="notification_class_preparing_content_fallback">Занятие скоро начнётся</string>
     <string name="notification_class_preparing_title">Скоро начнётся занятие: %1$s</string>
-    <string name="notification_setup_description">Включите указанные ниже разрешения, чтобы напоминания о заданиях, оповещения о начале занятий и live-активность приходили вовремя, даже когда приложение закрыто.</string>
+    <string name="notification_setup_description">Включите указанные ниже разрешения, чтобы напоминания о заданиях, оповещения о начале занятий и уведомления в реальном времени приходили вовремя, даже когда приложение закрыто.</string>
     <string name="notification_setup_title">Настроить уведомления заново</string>
     <string name="onboarding_flavor_fdroid_description">Вы используете сборку F-Droid. Поскольку политика F-Droid запрещает зависимость от сервисов Google (Firebase FCM, GMS и т.д.), в этой сборке недоступны следующие две функции:\n\n1. Сопутствующее приложение Wear OS\n2. Push-уведомления в реальном времени</string>
     <string name="onboarding_flavor_fdroid_title">Уведомление о сборке F-Droid</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Разрешено</string>
     <string name="permission_not_applicable">Недоступно в этой версии системы</string>
     <string name="permission_not_granted_tap_settings">Не разрешено · Нажмите, чтобы открыть настройки</string>
-    <string name="permission_notifications_description">Разрешите приложению показывать уведомления, иначе уведомления и live-активность не будут отображаться.</string>
+    <string name="permission_notifications_description">Разрешите приложению показывать уведомления, иначе уведомления в реальном времени не будут отображаться.</string>
     <string name="permission_notifications_name">Разрешение на уведомления</string>
     <string name="permission_warning_action_later">Может быть, позже</string>
-    <string name="permission_warning_description">Следующие разрешения ранее были включены, но сейчас отключены. Соответствующие уведомления и live-активность могут отображаться некорректно.</string>
+    <string name="permission_warning_description">Следующие разрешения ранее были включены, но сейчас отключены. Соответствующие уведомления в реальном времени могут отображаться некорректно.</string>
     <string name="permission_warning_mute_item">Больше не напоминать об этом</string>
     <string name="permission_warning_title">Разрешения для уведомлений отключены</string>
     <string name="push_server_enable_toggle">Включить серверный push</string>

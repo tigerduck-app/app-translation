@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">Neprihlásený</string>
     <string name="library_virtual_pass_title">Virtuálny preukaz</string>
     <string name="live_activity_channel_description">Zobrazuje aktuálnu hodinu, najbližšiu hodinu a odpočítavanie úloh. Zvuky pre jednotlivé scenáre môžete upraviť v nastaveniach aplikácie.</string>
-    <string name="live_activity_channel_name">Živá aktivita</string>
+    <string name="live_activity_channel_name">Aktuality naživo</string>
     <string name="live_activity_settings_assignment_notification_footer">Sie werden benachrichtigt, bevor ein Auftrag fällig ist.</string>
     <string name="live_activity_settings_assignment_notification_header">Zuweisungsbenachrichtigungen</string>
     <string name="live_activity_settings_assignment_warning">Upozornenie na úlohu</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">Aplikácia začne pripomínať toľko pred začiatkom hodiny.</string>
     <string name="live_activity_settings_custom_class_title">Vlastný čas pred hodinou</string>
     <string name="live_activity_settings_custom_class_unit_hint">Minúty (maximálne %1$d minút)</string>
-    <string name="live_activity_settings_description">Živá aktivita zobrazuje aktuálnu hodinu a odpočítavanie v notifikáciách. \"Na hodine\" a \"Čoskoro začína hodina\" sa aktualizujú v reálnom čase len keď je aplikácia otvorená; \"Upozornenie na úlohu\" môže upozorniť včas aj keď je aplikácia zatvorená.</string>
-    <string name="live_activity_settings_enable">Povoliť živú aktivitu</string>
+    <string name="live_activity_settings_description">Aktuality naživo zobrazujú aktuálnu hodinu a odpočítavanie v notifikáciách. „Na hodine” a „Čoskoro začína hodina” sa aktualizujú v reálnom čase len keď je aplikácia otvorená; „Upozornenie na úlohu” môže upozorniť včas aj keď je aplikácia zatvorená.</string>
+    <string name="live_activity_settings_enable">Povoliť aktuality naživo</string>
     <string name="live_activity_settings_hours_label">%1$d hod</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d hod %2$d min</string>
     <string name="live_activity_settings_hours_unit">Hodiny</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">Rozsah: %1$d – %2$d minút</string>
     <string name="live_activity_settings_reset">Obnoviť</string>
     <string name="live_activity_settings_reset_confirm_message">Všetky scenáre a nastavenia načasovania budú obnovené na predvolené hodnoty.</string>
-    <string name="live_activity_settings_reset_confirm_title">Obnoviť všetky nastavenia živej aktivity?</string>
+    <string name="live_activity_settings_reset_confirm_title">Obnoviť všetky nastavenia aktualít naživo?</string>
     <string name="live_activity_settings_reset_defaults">Obnoviť predvolené</string>
     <string name="live_activity_settings_section_display_scenarios">Scenáre zobrazenia</string>
     <string name="live_activity_settings_section_lock_screen">Uzamknutá obrazovka</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Zobraziť podrobný obsah na uzamknutej obrazovke</string>
     <string name="live_activity_settings_sound_assignment">Prehrať zvuk pre Upozornenie na úlohu</string>
     <string name="live_activity_settings_sound_class_preparing">Prehrať zvuk pre Čoskoro začína hodina</string>
-    <string name="live_activity_settings_sound_hint">Zvuk sa prehráva len pri prvom vstupe do scenára; následné aktualizácie odpočítavania ostávajú tiché. Pre úpravu hlasitosti alebo správania v režime Nerušiť zmeňte kanál notifikácií \"Živá aktivita\" v systémových nastaveniach.</string>
+    <string name="live_activity_settings_sound_hint">Zvuk sa prehráva len pri prvom vstupe do scenára; následné aktualizácie odpočítavania ostávajú tiché. Pre úpravu hlasitosti alebo správania v režime Nerušiť zmeňte kanál notifikácií „Aktuality naživo” v systémových nastaveniach.</string>
     <string name="live_activity_settings_sound_in_class">Prehrať zvuk pre Na hodine</string>
     <string name="live_activity_settings_timing_hint">Posuvník pokrýva bežné rozsahy. Pre nastavenie hodnôt mimo rozsahu (napríklad 1 deň pred termínom úlohy) klepnite na \"Vlastné\".</string>
     <string name="live_activity_status_assignment_urgent">Termín úlohy sa blíži</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">Pripomienky pred hodinou</string>
     <string name="notification_class_preparing_content_fallback">Hodina čoskoro začína</string>
     <string name="notification_class_preparing_title">Čoskoro začína hodina: %1$s</string>
-    <string name="notification_setup_description">Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a živá aktivita prichádzali včas aj keď je aplikácia zatvorená.</string>
+    <string name="notification_setup_description">Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a aktuality naživo prichádzali včas aj keď je aplikácia zatvorená.</string>
     <string name="notification_setup_title">Znovu nastaviť notifikácie</string>
     <string name="onboarding_flavor_fdroid_description">Používate verziu F-Droid. Keďže politika F-Droid zakazuje závislosť od služieb Google (Firebase FCM, GMS atď.), nasledujúce dve funkcie nie sú v tejto verzii dostupné:\n\n1. Sprievodná aplikácia Wear OS\n2. Push oznámenia v reálnom čase</string>
     <string name="onboarding_flavor_fdroid_title">Upozornenie k verzii F-Droid</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">Povolené</string>
     <string name="permission_not_applicable">Nie je dostupné v tejto verzii systému</string>
     <string name="permission_not_granted_tap_settings">Nepovolené · Klepnutím otvorte nastavenia</string>
-    <string name="permission_notifications_description">Povolte aplikácii zobrazovať notifikácie; inak sa notifikácie a živá aktivita nebudú zobrazovať.</string>
+    <string name="permission_notifications_description">Povolte aplikácii zobrazovať notifikácie; inak sa notifikácie a aktuality naživo nebudú zobrazovať.</string>
     <string name="permission_notifications_name">Povolenie notifikácií</string>
     <string name="permission_warning_action_later">Možno neskôr</string>
-    <string name="permission_warning_description">Nasledujúce povolenia boli predtým povolené, ale teraz sú vypnuté. Súvisiace notifikácie a živá aktivita sa nemusia zobrazovať správne.</string>
+    <string name="permission_warning_description">Nasledujúce povolenia boli predtým povolené, ale teraz sú vypnuté. Súvisiace notifikácie a aktuality naživo sa nemusia zobrazovať správne.</string>
     <string name="permission_warning_mute_item">Viac mi to nepripomínať</string>
     <string name="permission_warning_title">Povolenia súvisiace s notifikáciami sú vypnuté</string>
     <string name="push_server_enable_toggle">Server-Push aktivieren</string>

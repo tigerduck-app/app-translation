@@ -381,7 +381,7 @@
     <string name="library_status_not_logged_in">साइन इन केलेले नाही</string>
     <string name="library_virtual_pass_title">व्हर्च्युअल पास</string>
     <string name="live_activity_channel_description">सध्याचा वर्ग, आगामी वर्ग आणि असाइनमेंट काउंटडाउन दाखवते. ॲप सेटिंग्जमध्ये ध्वनी समायोजित करता येतो.</string>
-    <string name="live_activity_channel_name">लाइव्ह ॲक्टिव्हिटी</string>
+    <string name="live_activity_channel_name">Live Updates</string>
     <string name="live_activity_settings_assignment_notification_footer">असाइनमेंट देय होण्यापूर्वी तुम्हाला सूचित केले जाईल.</string>
     <string name="live_activity_settings_assignment_notification_header">असाइनमेंट सूचना</string>
     <string name="live_activity_settings_assignment_warning">असाइनमेंट चेतावणी</string>
@@ -390,8 +390,8 @@
     <string name="live_activity_settings_custom_class_description">ॲप वर्ग सुरू होण्याच्या इतक्या वेळ आधी स्मरणपत्र देणे सुरू करतो.</string>
     <string name="live_activity_settings_custom_class_title">सानुकूल वर्ग प्रारंभ वेळ</string>
     <string name="live_activity_settings_custom_class_unit_hint">मिनिटे (जास्तीत जास्त %1$d मिनिटे)</string>
-    <string name="live_activity_settings_description">लाइव्ह ॲक्टिव्हिटी अधिसूचनांमध्ये सध्याचा वर्ग आणि काउंटडाउन दाखवते. \'वर्ग सुरू आहे\' आणि \'वर्ग लवकरच सुरू होणार\' फक्त ॲप उघडे असताना रिअल टाइममध्ये अपडेट होतात; \'असाइनमेंट चेतावणी\' ॲप बंद असतानाही वेळेवर सतर्क करू शकते.</string>
-    <string name="live_activity_settings_enable">लाइव्ह ॲक्टिव्हिटी सक्षम करा</string>
+    <string name="live_activity_settings_description">Live Updates अधिसूचनांमध्ये सध्याचा वर्ग आणि काउंटडाउन दाखवते. \'वर्ग सुरू आहे\' आणि \'वर्ग लवकरच सुरू होणार\' फक्त ॲप उघडे असताना रिअल टाइममध्ये अपडेट होतात; \'असाइनमेंट चेतावणी\' ॲप बंद असतानाही वेळेवर सतर्क करू शकते.</string>
+    <string name="live_activity_settings_enable">Live Updates सक्षम करा</string>
     <string name="live_activity_settings_hours_label">%1$d तास</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d तास %2$d मिनिट</string>
     <string name="live_activity_settings_hours_unit">तास</string>
@@ -404,7 +404,7 @@
     <string name="live_activity_settings_range_minutes">श्रेणी: %1$d – %2$d मिनिटे</string>
     <string name="live_activity_settings_reset">रीसेट करा</string>
     <string name="live_activity_settings_reset_confirm_message">सर्व परिस्थिती आणि वेळ सेटिंग्ज डीफॉल्टवर पुनर्संचयित केल्या जातील.</string>
-    <string name="live_activity_settings_reset_confirm_title">सर्व लाइव्ह ॲक्टिव्हिटी सेटिंग्ज रीसेट करायच्या का?</string>
+    <string name="live_activity_settings_reset_confirm_title">सर्व Live Updates सेटिंग्ज रीसेट करायच्या का?</string>
     <string name="live_activity_settings_reset_defaults">डीफॉल्टवर रीसेट करा</string>
     <string name="live_activity_settings_section_display_scenarios">प्रदर्शन परिस्थिती</string>
     <string name="live_activity_settings_section_lock_screen">लॉक स्क्रीन</string>
@@ -414,7 +414,7 @@
     <string name="live_activity_settings_show_on_lock_screen">लॉक स्क्रीनवर तपशीलवार सामग्री दाखवा</string>
     <string name="live_activity_settings_sound_assignment">असाइनमेंट चेतावणीसाठी ध्वनी वाजवा</string>
     <string name="live_activity_settings_sound_class_preparing">वर्ग लवकरच सुरू होणार तेव्हा ध्वनी वाजवा</string>
-    <string name="live_activity_settings_sound_hint">ध्वनी फक्त तेव्हाच वाजतो जेव्हा परिस्थितीत प्रथमच प्रवेश होतो; नंतरचे काउंटडाउन अपडेट शांत राहतात. व्हॉल्यूम किंवा \'डू नॉट डिस्टर्ब\' समायोजित करण्यासाठी, सिस्टम सेटिंग्जमधील \'लाइव्ह ॲक्टिव्हिटी\' अधिसूचना चॅनल बदला.</string>
+    <string name="live_activity_settings_sound_hint">ध्वनी फक्त तेव्हाच वाजतो जेव्हा परिस्थितीत प्रथमच प्रवेश होतो; नंतरचे काउंटडाउन अपडेट शांत राहतात. व्हॉल्यूम किंवा \'डू नॉट डिस्टर्ब\' समायोजित करण्यासाठी, सिस्टम सेटिंग्जमधील \'Live Updates\' अधिसूचना चॅनल बदला.</string>
     <string name="live_activity_settings_sound_in_class">वर्ग सुरू असताना ध्वनी वाजवा</string>
     <string name="live_activity_settings_timing_hint">स्लायडर सामान्य श्रेणी दर्शवतो. त्या श्रेणीबाहेरील मूल्ये सेट करण्यासाठी (उदाहरणार्थ, असाइनमेंट मुदतीच्या १ दिवस आधी), \'सानुकूल\' वर टॅप करा.</string>
     <string name="live_activity_status_assignment_urgent">असाइनमेंटची मुदत जवळ आहे</string>
@@ -448,7 +448,7 @@
     <string name="notification_class_preparing_channel_name">वर्ग सुरू होण्याची स्मरणपत्रे</string>
     <string name="notification_class_preparing_content_fallback">वर्ग सुरू होणार आहे</string>
     <string name="notification_class_preparing_title">वर्ग लवकरच सुरू होणार: %1$s</string>
-    <string name="notification_setup_description">असाइनमेंट स्मरणपत्रे, वर्ग सुरू होण्याच्या सूचना आणि लाइव्ह ॲक्टिव्हिटी ॲप बंद असतानाही वेळेवर येण्यासाठी खालील परवानग्या सक्षम करा.</string>
+    <string name="notification_setup_description">असाइनमेंट स्मरणपत्रे, वर्ग सुरू होण्याच्या सूचना आणि Live Updates ॲप बंद असतानाही वेळेवर येण्यासाठी खालील परवानग्या सक्षम करा.</string>
     <string name="notification_setup_title">अधिसूचना पुन्हा सेट करा</string>
     <string name="onboarding_flavor_fdroid_description">तुम्ही F-Droid बिल्ड वापरत आहात. F-Droidच्या धोरणामुळे Google सेवांवर (Firebase FCM, GMS इत्यादी) अवलंबून राहता येत नाही, त्यामुळे या बिल्डमध्ये पुढील दोन वैशिष्ट्ये उपलब्ध नाहीत:\n\n1. Wear OS सोबती ॲप\n2. रिअल-टाइम पुश सूचना</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid बिल्ड सूचना</string>
@@ -483,10 +483,10 @@
     <string name="permission_granted">परवानगी दिली</string>
     <string name="permission_not_applicable">या सिस्टम आवृत्तीवर उपलब्ध नाही</string>
     <string name="permission_not_granted_tap_settings">परवानगी नाही · सेटिंग्ज उघडण्यासाठी टॅप करा</string>
-    <string name="permission_notifications_description">ॲपला अधिसूचना दाखवण्याची परवानगी द्या; अन्यथा अधिसूचना आणि लाइव्ह ॲक्टिव्हिटी दिसणार नाहीत.</string>
+    <string name="permission_notifications_description">ॲपला अधिसूचना दाखवण्याची परवानगी द्या; अन्यथा अधिसूचना आणि Live Updates दिसणार नाहीत.</string>
     <string name="permission_notifications_name">अधिसूचना परवानगी</string>
     <string name="permission_warning_action_later">कदाचित नंतर</string>
-    <string name="permission_warning_description">खालील परवानग्या आधी सक्षम होत्या परंतु आता अक्षम केल्या आहेत. संबंधित अधिसूचना आणि लाइव्ह ॲक्टिव्हिटी योग्यरित्या दिसणार नाहीत.</string>
+    <string name="permission_warning_description">खालील परवानग्या आधी सक्षम होत्या परंतु आता अक्षम केल्या आहेत. संबंधित अधिसूचना आणि Live Updates योग्यरित्या दिसणार नाहीत.</string>
     <string name="permission_warning_mute_item">याबद्दल पुन्हा स्मरण करून देऊ नका</string>
     <string name="permission_warning_title">अधिसूचना-संबंधित परवानग्या बंद केल्या आहेत</string>
     <string name="push_server_enable_toggle">सर्व्हर पुश सक्षम करा</string>
