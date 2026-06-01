@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "ক্লাস দ্বন্দ্ব";
 "a11y_course_card_open_details_hint" = "বিস্তারিত দেখতে দুবার ট্যাপ করুন";
 "a11y_course_detail_open_moodle" = "Moodle-এ খুলুন";
-"a11y_dropdown_action_hint" = "অন্য বিকল্প বেছে নিতে দুবার ট্যাপ করুন";
 "a11y_rankings_trend_chart" = "সেমেস্টার অনুযায়ী GPA প্রবণতা";
 "a11y_rankings_trend_no_selection" = "কোনো সেমেস্টার নির্বাচিত নেই";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "যখন পুশ সক্ষম করা হয়, যখনই একটি বুলেটিন আপনার সদস্যতার নিয়মের সাথে মিলে যায় তখন TigerDuck আপনাকে অবহিত করবে।";
 "bulletin_push_footer" = "আপনার নিয়মের উপর ভিত্তি করে টাইগারডাক সার্ভার দ্বারা পুশ বিজ্ঞপ্তিগুলি বিতরণ করা হয়। ডিভাইস শনাক্তকারী একটি বেনামী UUID হিসাবে পাঠানো হয় — আপনার ছাত্র আইডি আপলোড করা হয় না.";
 "bulletin_push_reopen_settings" = "সিস্টেম সেটিংসে পুনরায় চালু করুন";
-"bulletin_push_requesting" = "অনুরোধ করা হচ্ছে...";
 "bulletin_push_settings_header" = "পুশ সেটিংস";
 "bulletin_push_status_denied" = "অস্বীকার করেছে";
 "bulletin_push_status_ephemeral" = "ক্ষণস্থায়ী";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "নির্দিষ্ট বিভাগ";
 "bulletin_rule_disabled_badge" = "অক্ষম";
 "bulletin_rule_edit_title" = "নিয়ম সম্পাদনা করুন";
-"bulletin_rule_editor_all_depts" = "সকল বিভাগ";
-"bulletin_rule_editor_all_tags" = "সমস্ত বিভাগ";
 "bulletin_rule_editor_dept_section" = "বিভাগ";
 "bulletin_rule_editor_enable_toggle" = "এই নিয়ম সক্রিয় করুন";
 "bulletin_rule_editor_mode_and_footer" = "ডিপার্টমেন্ট এবং ক্যাটাগরি উভয়ের মিল হলেই বিজ্ঞপ্তি।";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@-এর এই স্লটে (সাপ্তাহিক %2$@, পিরিয়ড %3$@) ইতিমধ্যে দুটি ক্লাস আছে: %4$@ এবং %5$@। সিস্টেম তিনটি দ্বন্দ্ব সমর্থন করে না।";
 "class_table_conflict_add_failed_title" = "যোগ করা যাচ্ছে না";
 "class_table_course_name" = "কোর্সের নাম";
-"class_table_course_no_value" = "কোর্স কোড: %1$@";
-"class_table_course_time_value" = "ক্লাসের সময়: %1$@";
 "class_table_delete" = "মুছুন";
 "class_table_delete_with_course" = "মুছুন — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "ভর্তি: %1$d/%2$d";
 "class_table_login_required_message" = "আপনার ক্লাস টেবিল দেখতে সাইন ইন করুন";
 "class_table_pick_color" = "রং বেছে নিন";
 "class_table_pick_color_with_course" = "রং বেছে নিন — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "শ্রেণিকক্ষ: %1$@";
 "course_color_picker_custom_badge" = "কাস্টম";
 "course_color_picker_custom_label" = "কাস্টম রঙ";
-"course_color_picker_reset_action" = "ডিফল্ট রঙ পুনরুদ্ধার করুন";
 "course_color_picker_title" = "রঙ সম্পাদনা";
 "course_credits_value" = "ক্রেডিট: %1$d";
 "course_detail_classroom_label" = "শ্রেণীকক্ষ";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "%@ এ শুরু হবে";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "নোটিশ রেসপন্স পার্স করতে ব্যর্থ: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle ওয়েবসার্ভিস বর্তমানে উপলব্ধ নেই।";
 "error_network_format" = "নেটওয়ার্ক ত্রুটি: %1$@";
 "error_network_unavailable" = "সংযোগ করা যাচ্ছে না। আপনার নেটওয়ার্ক সংযোগ পরীক্ষা করুন।";
-"error_no_response" = "কোনো সাড়া নেই";
 "error_qr_generation_failed_format" = "QR কোড তৈরি করতে ব্যর্থ: %1$@";
 "error_session_expired" = "সেশন শেষ হয়েছে";
 "error_sso_login_failed" = "সাইন-ইন ব্যর্থ। দয়া করে আপনার অ্যাকাউন্ট ও পাসওয়ার্ড যাচাই করুন।";
 "error_sso_login_form_not_found" = "SSO সাইন-ইন ফর্ম খুঁজে পাওয়া যায়নি।";
-"error_unknown" = "অজানা ত্রুটি";
 "feature_announcements" = "ঘোষণা";
 "feature_announcements_short" = "ঘোষণা";
 "feature_calendar" = "ক্যালেন্ডার";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "ডার্ক মোড";
 "settings_theme_light" = "লাইট মোড";
 "settings_theme_system" = "সিস্টেম অনুসরণ করুন";
-"settings_token_valid_until" = "টোকেন %1$@ পর্যন্ত বৈধ";
 "settings_use_english_classroom_abbreviation" = "শ্রেণীকক্ষের ইংরেজি সংক্ষিপ্ত রূপ ব্যবহার করুন";
 "settings_use_english_course_abbreviation" = "ইংরেজি কোর্স সংক্ষেপ ব্যবহার করুন";
 "settings_version" = "ভার্সন";
@@ -692,8 +679,6 @@
 "update_available_title" = "আপডেট পাওয়া গেছে";
 "update_check_failed_message" = "App Store-এ পৌঁছানো যায়নি। পরে আবার চেষ্টা করুন।";
 "update_check_failed_title" = "যাচাই ব্যর্থ হয়েছে";
-"update_ready_message" = "আপডেট ডাউনলোড হয়েছে, ইনস্টল করতে প্রস্তুত।";
-"update_restart_action" = "পুনরায় চালু করুন";
 "update_up_to_date_message" = "আপনার কাছে %1$@-এর সর্বশেষ সংস্করণ রয়েছে।";
 "update_up_to_date_title" = "আপনি আপ টু ডেট";
 "watch_action_back" = "ফিরুন";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "কোর্স";
 "watch_course_instructor_label" = "প্রশিক্ষক";
 "watch_empty_not_logged_in" = "সাইন ইন করা হয়নি। ফোনে TigerDuck খুলুন।";
-"watch_ends_at" = "%1$@ এ শেষ";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "কখনো সিঙ্ক হয়নি";
 "watch_last_synced_relative" = "সর্বশেষ সিঙ্ক %1$@";
-"watch_library_loading" = "তৈরি হচ্ছে…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone-এ সাইন ইন করুন";
-"watch_library_title" = "লাইব্রেরি";
 "watch_next" = "পরের";
 "watch_next_label" = "পরবর্তী: %1$@ · %2$@";
 "watch_no_courses_synced" = "কোনো কোর্স সিঙ্ক করা হয়নি।";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "মঙ্গল";
 "weekday_wed_short" = "বুধ";
 "whats_new_continue" = "চালিয়ে যান";
-"whats_new_title" = "নতুন কী আছে";
 "widget_library_shortcut_desc" = "একটি ট্যাপে ভার্চুয়াল লাইব্রেরি পাস QR Code খুলুন";
 "widget_library_shortcut_label" = "লাইব্রেরি QR শর্টকাট";
 "widget_library_shortcut_title" = "লাইব্রেরি";
 "widget_next_class" = "পরবর্তী ক্লাস";
-"widget_next_class_dark_desc" = "বর্তমান বা পরবর্তী ক্লাস। থিম অ্যাপ সেটিং অনুসরণ করে।";
-"widget_next_class_dark_label" = "পরবর্তী ক্লাস";
 "widget_next_class_light_desc" = "বর্তমান বা পরবর্তী ক্লাস। থিম অ্যাপ সেটিং অনুসরণ করে।";
 "widget_next_class_light_label" = "পরবর্তী ক্লাস";
 "widget_next_class_short" = "পরবর্তী";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "চলমান";
 "widget_ongoing_count" = "চলমান × %1$d";
 "widget_sign_in" = "প্রথমে TigerDuck-এ সাইন ইন করুন";
-"widget_today_dark_desc" = "আজকের ক্লাসের তালিকা। থিম অ্যাপ সেটিং অনুসরণ করে।";
-"widget_today_dark_label" = "সময়সূচি (আজ)";
 "widget_today_light_desc" = "আজকের ক্লাসের তালিকা। থিম অ্যাপ সেটিং অনুসরণ করে।";
 "widget_today_light_label" = "সময়সূচি (আজ)";
 "widget_today_schedule_title" = "আজকের সময়সূচি";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "আগামীকাল";
 "widget_tomorrow_time" = "আগামীকাল %1$@";
 "widget_until_time" = "%1$@ পর্যন্ত";
-"widget_week_dark_desc" = "এই সপ্তাহের সম্পূর্ণ সময়সূচি। থিম অ্যাপ সেটিং অনুসরণ করে।";
-"widget_week_dark_label" = "সময়সূচি (সপ্তাহ)";
 "widget_week_light_desc" = "এই সপ্তাহের সম্পূর্ণ সময়সূচি। থিম অ্যাপ সেটিং অনুসরণ করে।";
 "widget_week_light_label" = "সময়সূচি (সপ্তাহ)";

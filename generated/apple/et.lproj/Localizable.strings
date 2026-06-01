@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Tunnikonflikt";
 "a11y_course_card_open_details_hint" = "Topelttoksake üksikasjade vaatamiseks";
 "a11y_course_detail_open_moodle" = "Ava Moodle'is";
-"a11y_dropdown_action_hint" = "Topelttoksake muu valiku valimiseks";
 "a11y_rankings_trend_chart" = "GPA trend semestrite kaupa";
 "a11y_rankings_trend_no_selection" = "Ühtegi semestrit pole valitud";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Kui push on lubatud, teavitab TigerDuck teid alati, kui bülletään vastab teie liitumisreeglitele.";
 "bulletin_push_footer" = "Tõuketeated edastab TigerDucki server teie reeglite alusel. Seadme identifikaator saadetakse anonüümse UUID-na – teie õpilase ID-d ei laadita kunagi üles.";
 "bulletin_push_reopen_settings" = "Luba uuesti süsteemi sätetes";
-"bulletin_push_requesting" = "Taotlemine…";
 "bulletin_push_settings_header" = "Push seaded";
 "bulletin_push_status_denied" = "Keelatud";
 "bulletin_push_status_ephemeral" = "Põgusad";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Konkreetne osakond";
 "bulletin_rule_disabled_badge" = "Keelatud";
 "bulletin_rule_edit_title" = "Redigeeri reeglit";
-"bulletin_rule_editor_all_depts" = "Kõik osakonnad";
-"bulletin_rule_editor_all_tags" = "Kõik kategooriad";
 "bulletin_rule_editor_dept_section" = "Osakond";
 "bulletin_rule_editor_enable_toggle" = "Luba see reegel";
 "bulletin_rule_editor_mode_and_footer" = "Teavita ainult siis, kui osakond ja kategooria ühtivad.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@-l on selles ajavahemikus juba kaks tundi (nädalapäev %2$@, periood %3$@): %4$@ ja %5$@. Süsteem ei toeta kolmekordset konflikti.";
 "class_table_conflict_add_failed_title" = "Lisamine ebaõnnestus";
 "class_table_course_name" = "Kursuse nimi";
-"class_table_course_no_value" = "Kursuse kood: %1$@";
-"class_table_course_time_value" = "Tunni aeg: %1$@";
 "class_table_delete" = "Kustuta";
 "class_table_delete_with_course" = "Kustuta — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Registreerunuid: %1$d/%2$d";
 "class_table_login_required_message" = "Oma klassitabeli vaatamiseks logige sisse";
 "class_table_pick_color" = "Vali värv";
 "class_table_pick_color_with_course" = "Vali värv — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Klassiruum: %1$@";
 "course_color_picker_custom_badge" = "Kohandatud";
 "course_color_picker_custom_label" = "Kohandatud värv";
-"course_color_picker_reset_action" = "Taasta vaikevärv";
 "course_color_picker_title" = "Muuda värvi";
 "course_credits_value" = "Ainepunktid: %1$d";
 "course_detail_classroom_label" = "Klassiruum";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Algab %@ pärast";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Teadete vastuse parsimine ebaõnnestus: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle’i veebiteenus ei ole hetkel saadaval.";
 "error_network_format" = "Võrgu viga: %1$@";
 "error_network_unavailable" = "Ühendamine ebaõnnestus. Kontrollige oma võrguühendust.";
-"error_no_response" = "Vastust ei saadud";
 "error_qr_generation_failed_format" = "QR-koodi loomine ebaõnnestus: %1$@";
 "error_session_expired" = "Seanss on aegunud";
 "error_sso_login_failed" = "Sisselogimine ebaõnnestus. Palun kontrolli oma kontot ja parooli.";
 "error_sso_login_form_not_found" = "SSO sisselogimisvormi ei leitud.";
-"error_unknown" = "Tundmatu viga";
 "feature_announcements" = "Teated";
 "feature_announcements_short" = "Teated";
 "feature_calendar" = "Kalender";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Tume režiim";
 "settings_theme_light" = "Hele režiim";
 "settings_theme_system" = "Järgi süsteemi";
-"settings_token_valid_until" = "Token kehtib kuni %1$@";
 "settings_use_english_classroom_abbreviation" = "Kasuta klassiruumide ingliskeelseid lühendeid";
 "settings_use_english_course_abbreviation" = "Kasuta ingliskeelseid kursuste lühendeid";
 "settings_version" = "Versioon";
@@ -692,8 +679,6 @@
 "update_available_title" = "Uuendus saadaval";
 "update_check_failed_message" = "App Store'i ei õnnestunud ühendust luua. Proovi hiljem uuesti.";
 "update_check_failed_title" = "Kontrollimine ebaõnnestus";
-"update_ready_message" = "Uuendus on alla laaditud ja paigaldamiseks valmis.";
-"update_restart_action" = "Taaskäivita";
 "update_up_to_date_message" = "Sul on rakenduse %1$@ viimane versioon.";
 "update_up_to_date_title" = "Oled ajakohane";
 "watch_action_back" = "Tagasi";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Kursus";
 "watch_course_instructor_label" = "Õppejõud";
 "watch_empty_not_logged_in" = "Pole sisse logitud. Avage TigerDuck oma telefonis.";
-"watch_ends_at" = "Lõpeb kell %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Pole kunagi sünkroonitud";
 "watch_last_synced_relative" = "Viimati sünkroonitud %1$@";
-"watch_library_loading" = "Genereerimine…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Logi sisse iPhone'is";
-"watch_library_title" = "Raamatukogu";
 "watch_next" = "JÄRGMINE";
 "watch_next_label" = "Järgmine: %1$@ · %2$@";
 "watch_no_courses_synced" = "Sünkroonitud kursusi pole.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "T";
 "weekday_wed_short" = "K";
 "whats_new_continue" = "Jätka";
-"whats_new_title" = "Mis on uut";
 "widget_library_shortcut_desc" = "Avage virtuaalne raamatukogupääs ühe puudutusega QR-koodina";
 "widget_library_shortcut_label" = "Raamatukogu QR-kood otsetee";
 "widget_library_shortcut_title" = "Raamatukogu";
 "widget_next_class" = "Järgmine tund";
-"widget_next_class_dark_desc" = "Praegune või järgmine tund. Teema järgib rakenduse seadet.";
-"widget_next_class_dark_label" = "Järgmine tund";
 "widget_next_class_light_desc" = "Praegune või järgmine tund. Teema järgib rakenduse seadet.";
 "widget_next_class_light_label" = "Järgmine tund";
 "widget_next_class_short" = "Järgmine";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Käimasolev";
 "widget_ongoing_count" = "Käimasolev × %1$d";
 "widget_sign_in" = "Logige esmalt TigerDucki sisse";
-"widget_today_dark_desc" = "Tänane tundide nimekiri. Teema järgib rakenduse seadet.";
-"widget_today_dark_label" = "Tunniplaan (täna)";
 "widget_today_light_desc" = "Tänane tundide nimekiri. Teema järgib rakenduse seadet.";
 "widget_today_light_label" = "Tunniplaan (täna)";
 "widget_today_schedule_title" = "Tänane tunniplaan";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Homme";
 "widget_tomorrow_time" = "Homme %1$@";
 "widget_until_time" = "Kuni %1$@";
-"widget_week_dark_desc" = "Selle nädala täielik tunniplaan. Teema järgib rakenduse seadet.";
-"widget_week_dark_label" = "Tunniplaan (nädal)";
 "widget_week_light_desc" = "Selle nädala täielik tunniplaan. Teema järgib rakenduse seadet.";
 "widget_week_light_label" = "Tunniplaan (nädal)";

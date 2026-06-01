@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Conflicte de classe";
 "a11y_course_card_open_details_hint" = "Toca dues vegades per veure els detalls";
 "a11y_course_detail_open_moodle" = "Obre a Moodle";
-"a11y_dropdown_action_hint" = "Toca dues vegades per triar una altra opció";
 "a11y_rankings_trend_chart" = "Tendència del GPA per semestre";
 "a11y_rankings_trend_no_selection" = "Cap semestre seleccionat";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Quan el push està habilitat, TigerDuck us notificarà sempre que un butlletí coincideixi amb les vostres regles de subscripció.";
 "bulletin_push_footer" = "El servidor de TigerDuck envia les notificacions push segons les vostres regles. L'identificador del dispositiu s'envia com a UUID anònim: el vostre identificador d'estudiant no es carrega mai.";
 "bulletin_push_reopen_settings" = "Reactivar a Configuració del sistema";
-"bulletin_push_requesting" = "S'està sol·licitant…";
 "bulletin_push_settings_header" = "Premeu la configuració";
 "bulletin_push_status_denied" = "Negat";
 "bulletin_push_status_ephemeral" = "Efímer";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Departament específic";
 "bulletin_rule_disabled_badge" = "Inhabilitat";
 "bulletin_rule_edit_title" = "Edita la regla";
-"bulletin_rule_editor_all_depts" = "Tots els departaments";
-"bulletin_rule_editor_all_tags" = "Totes les categories";
 "bulletin_rule_editor_dept_section" = "Departament";
 "bulletin_rule_editor_enable_toggle" = "Activa aquesta regla";
 "bulletin_rule_editor_mode_and_footer" = "Notificar només quan el departament i la categoria coincideixen.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ ja té dues classes en aquest horari (dia %2$@, període %3$@): %4$@ i %5$@. El sistema no suporta conflictes triples.";
 "class_table_conflict_add_failed_title" = "No s'ha pogut afegir";
 "class_table_course_name" = "Nom del curs";
-"class_table_course_no_value" = "Codi del curs: %1$@";
-"class_table_course_time_value" = "Hora de classe: %1$@";
 "class_table_delete" = "Elimina";
 "class_table_delete_with_course" = "Elimina — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Matriculats: %1$d/%2$d";
 "class_table_login_required_message" = "Inicieu la sessió per veure la vostra taula de classe";
 "class_table_pick_color" = "Tria un color";
 "class_table_pick_color_with_course" = "Tria un color — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Aula: %1$@";
 "course_color_picker_custom_badge" = "Personalitzat";
 "course_color_picker_custom_label" = "Color personalitzat";
-"course_color_picker_reset_action" = "Restaura el color predeterminat";
 "course_color_picker_title" = "Edita el color";
 "course_credits_value" = "Crèdits: %1$d";
 "course_detail_classroom_label" = "Aula";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Comença en %@";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "No s’ha pogut analitzar la resposta del butlletí: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "El servei web de Moodle no està disponible actualment.";
 "error_network_format" = "Error de xarxa: %1$@";
 "error_network_unavailable" = "No es pot connectar. Comproveu la connexió de xarxa.";
-"error_no_response" = "Sense resposta";
 "error_qr_generation_failed_format" = "No s’ha pogut generar el codi QR: %1$@";
 "error_session_expired" = "Sessió caducada";
 "error_sso_login_failed" = "Inici de sessió fallit. Comprova el compte i la contrasenya.";
 "error_sso_login_form_not_found" = "No s’ha trobat el formulari d’inici de sessió de l’SSO.";
-"error_unknown" = "Error desconegut";
 "feature_announcements" = "Avisos";
 "feature_announcements_short" = "Avisos";
 "feature_calendar" = "Calendari";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Mode fosc";
 "settings_theme_light" = "Mode clar";
 "settings_theme_system" = "Segueix el sistema";
-"settings_token_valid_until" = "Token vàlid fins a %1$@";
 "settings_use_english_classroom_abbreviation" = "Usa abreviatures de sales en anglès";
 "settings_use_english_course_abbreviation" = "Usa abreviatures de cursos en anglès";
 "settings_version" = "Versió";
@@ -692,8 +679,6 @@
 "update_available_title" = "Actualització disponible";
 "update_check_failed_message" = "No s'ha pogut contactar amb l'App Store. Torna-ho a provar més tard.";
 "update_check_failed_title" = "La comprovació ha fallat";
-"update_ready_message" = "L'actualització s'ha descarregat i és llesta per instal·lar.";
-"update_restart_action" = "Reinicia";
 "update_up_to_date_message" = "Tens la darrera versió de %1$@.";
 "update_up_to_date_title" = "Estàs al dia";
 "watch_action_back" = "Enrere";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Curs";
 "watch_course_instructor_label" = "Professor";
 "watch_empty_not_logged_in" = "No heu iniciat sessió. Obriu TigerDuck al telèfon.";
-"watch_ends_at" = "Acaba a les %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Mai sincronitzat";
 "watch_last_synced_relative" = "Última sincronització %1$@";
-"watch_library_loading" = "Generant…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Inicia sessió a l'iPhone";
-"watch_library_title" = "Biblioteca";
 "watch_next" = "SEGÜENT";
 "watch_next_label" = "Següent: %1$@ · %2$@";
 "watch_no_courses_synced" = "No hi ha cursos sincronitzats.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Dt";
 "weekday_wed_short" = "Dc";
 "whats_new_continue" = "Continua";
-"whats_new_title" = "Novetats";
 "widget_library_shortcut_desc" = "Obriu el codi QR del passi virtual de la biblioteca amb un sol toc";
 "widget_library_shortcut_label" = "Drecera QR de la biblioteca";
 "widget_library_shortcut_title" = "Biblioteca";
 "widget_next_class" = "Propera classe";
-"widget_next_class_dark_desc" = "Classe actual o propera. El tema segueix la configuració de l'aplicació.";
-"widget_next_class_dark_label" = "Propera classe";
 "widget_next_class_light_desc" = "Classe actual o propera. El tema segueix la configuració de l'aplicació.";
 "widget_next_class_light_label" = "Propera classe";
 "widget_next_class_short" = "Propera";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "En curs";
 "widget_ongoing_count" = "En curs × %1$d";
 "widget_sign_in" = "Primer inicieu sessió a TigerDuck";
-"widget_today_dark_desc" = "Llista de classes d'avui. El tema segueix la configuració de l'aplicació.";
-"widget_today_dark_label" = "Horari (avui)";
 "widget_today_light_desc" = "Llista de classes d'avui. El tema segueix la configuració de l'aplicació.";
 "widget_today_light_label" = "Horari (avui)";
 "widget_today_schedule_title" = "Horari d'avui";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Demà";
 "widget_tomorrow_time" = "Demà %1$@";
 "widget_until_time" = "Fins a %1$@";
-"widget_week_dark_desc" = "Horari de classes complet per a aquesta setmana. El tema segueix la configuració de l'aplicació.";
-"widget_week_dark_label" = "Horari (setmana)";
 "widget_week_light_desc" = "Horari de classes complet per a aquesta setmana. El tema segueix la configuració de l'aplicació.";
 "widget_week_light_label" = "Horari (setmana)";

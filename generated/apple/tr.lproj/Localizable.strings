@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Ders çakışması";
 "a11y_course_card_open_details_hint" = "Ayrıntılar için çift dokunun";
 "a11y_course_detail_open_moodle" = "Moodle'da aç";
-"a11y_dropdown_action_hint" = "Başka bir seçenek için çift dokunun";
 "a11y_rankings_trend_chart" = "Döneme göre GPA trendi";
 "a11y_rankings_trend_no_selection" = "Dönem seçilmedi";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Push etkinleştirildiğinde, TigerDuck bir bülten abonelik kurallarınızla eşleştiğinde sizi bilgilendirir.";
 "bulletin_push_footer" = "Push bildirimleri, kurallarınıza göre TigerDuck sunucusu tarafından iletilir. Cihaz tanımlayıcısı anonim bir UUID olarak gönderilir — öğrenci kimliğiniz hiçbir zaman yüklenmez.";
 "bulletin_push_reopen_settings" = "Sistem Ayarları'nda yeniden etkinleştir";
-"bulletin_push_requesting" = "İsteniyor…";
 "bulletin_push_settings_header" = "Push ayarları";
 "bulletin_push_status_denied" = "Reddedildi";
 "bulletin_push_status_ephemeral" = "Geçici";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Belirli bölüm";
 "bulletin_rule_disabled_badge" = "Devre dışı";
 "bulletin_rule_edit_title" = "Kuralı düzenle";
-"bulletin_rule_editor_all_depts" = "Tüm bölümler";
-"bulletin_rule_editor_all_tags" = "Tüm kategoriler";
 "bulletin_rule_editor_dept_section" = "Bölüm";
 "bulletin_rule_editor_enable_toggle" = "Bu kuralı etkinleştir";
 "bulletin_rule_editor_mode_and_footer" = "Yalnızca bölüm ve kategori eşleştiğinde bildir.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ bu zaman diliminde zaten iki derse sahip (Hafta günü %2$@, Ders saati %3$@): %4$@ ve %5$@. Sistem üçlü çakışmaları desteklemez.";
 "class_table_conflict_add_failed_title" = "Eklenemiyor";
 "class_table_course_name" = "Ders adı";
-"class_table_course_no_value" = "Ders kodu: %1$@";
-"class_table_course_time_value" = "Ders saati: %1$@";
 "class_table_delete" = "Sil";
 "class_table_delete_with_course" = "Sil — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Kayıt: %1$d/%2$d";
 "class_table_login_required_message" = "Ders programınızı görmek için oturum açın";
 "class_table_pick_color" = "Renk seç";
 "class_table_pick_color_with_course" = "Renk seç — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Derslik: %1$@";
 "course_color_picker_custom_badge" = "Özel";
 "course_color_picker_custom_label" = "Özel renk";
-"course_color_picker_reset_action" = "Varsayılan rengi geri yükle";
 "course_color_picker_title" = "Rengi düzenle";
 "course_credits_value" = "Kredi: %1$d";
 "course_detail_classroom_label" = "Derslik";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Bu dönemde ders yok";
 "desktop_class_table_loading_value" = "%1$@ yükleniyor…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d ders · %3$d kredi";
-"desktop_course_detail_course_no_label" = "Ders no.";
 "desktop_home_section_upcoming_assignments" = "Yaklaşan ödevler";
 "desktop_login_disclaimer" = "Bu uygulama National Taiwan University of Science and Technology ile bağlantılı değildir.";
 "desktop_login_subtitle" = "NTUST SSO hesabınızla oturum açın";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d daha";
 "desktop_widget_now" = "ŞİMDİ";
 "desktop_widget_starts_in" = "%@ sonra başlıyor";
-"desktop_widget_up_next" = "Sıradaki";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Duyuru yanıtı ayrıştırılamadı: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle web servisi şu anda kullanılamıyor.";
 "error_network_format" = "Ağ hatası: %1$@";
 "error_network_unavailable" = "Bağlanılamıyor. Lütfen ağ bağlantınızı kontrol edin.";
-"error_no_response" = "Yanıt yok";
 "error_qr_generation_failed_format" = "QR kodu oluşturulamadı: %1$@";
 "error_session_expired" = "Oturum süresi doldu";
 "error_sso_login_failed" = "Giriş başarısız. Lütfen hesabınızı ve parolanızı doğrulayın.";
 "error_sso_login_form_not_found" = "SSO giriş formu bulunamadı.";
-"error_unknown" = "Bilinmeyen hata";
 "feature_announcements" = "Duyurular";
 "feature_announcements_short" = "Duyurular";
 "feature_calendar" = "Takvim";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Koyu mod";
 "settings_theme_light" = "Açık mod";
 "settings_theme_system" = "Sistemi takip et";
-"settings_token_valid_until" = "Token şu tarihe kadar geçerli: %1$@";
 "settings_use_english_classroom_abbreviation" = "İngilizce derslik kısaltmalarını kullan";
 "settings_use_english_course_abbreviation" = "İngilizce ders kısaltmalarını kullan";
 "settings_version" = "Sürüm";
@@ -692,8 +679,6 @@
 "update_available_title" = "Güncelleme mevcut";
 "update_check_failed_message" = "App Store'a ulaşılamadı. Lütfen daha sonra tekrar deneyin.";
 "update_check_failed_title" = "Denetim başarısız";
-"update_ready_message" = "Güncelleme indirildi ve yüklenmeye hazır.";
-"update_restart_action" = "Yeniden başlat";
 "update_up_to_date_message" = "%1$@'ın en son sürümüne sahipsiniz.";
 "update_up_to_date_title" = "Güncelsiniz";
 "watch_action_back" = "Geri";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Ders";
 "watch_course_instructor_label" = "Eğitmen";
 "watch_empty_not_logged_in" = "Giriş yapılmadı. Telefonda TigerDuck'ı açın.";
-"watch_ends_at" = "Biter %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Hiç eşitlenmedi";
 "watch_last_synced_relative" = "Son eşitleme %1$@";
-"watch_library_loading" = "Oluşturuluyor…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone'da giriş yapın";
-"watch_library_title" = "Kütüphane";
 "watch_next" = "SONRAKI";
 "watch_next_label" = "Sonraki: %1$@ · %2$@";
 "watch_no_courses_synced" = "Eşitlenmiş ders yok.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Sal";
 "weekday_wed_short" = "Çar";
 "whats_new_continue" = "Devam et";
-"whats_new_title" = "Yenilikler";
 "widget_library_shortcut_desc" = "Sanal kütüphane geçiş QR Kodunu tek dokunuşla açın";
 "widget_library_shortcut_label" = "Kütüphane QR Kısayolu";
 "widget_library_shortcut_title" = "Kütüphane";
 "widget_next_class" = "Sıradaki ders";
-"widget_next_class_dark_desc" = "Mevcut veya sıradaki ders. Tema uygulama ayarını izler.";
-"widget_next_class_dark_label" = "Sıradaki Ders";
 "widget_next_class_light_desc" = "Mevcut veya sıradaki ders. Tema uygulama ayarını izler.";
 "widget_next_class_light_label" = "Sıradaki Ders";
 "widget_next_class_short" = "Sıradaki";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Devam ediyor";
 "widget_ongoing_count" = "Devam eden × %1$d";
 "widget_sign_in" = "Lütfen önce TigerDuck'a giriş yapın";
-"widget_today_dark_desc" = "Bugünün ders listesi. Tema uygulama ayarını izler.";
-"widget_today_dark_label" = "Program (Bugün)";
 "widget_today_light_desc" = "Bugünün ders listesi. Tema uygulama ayarını izler.";
 "widget_today_light_label" = "Program (Bugün)";
 "widget_today_schedule_title" = "Bugünün programı";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Yarın";
 "widget_tomorrow_time" = "Yarın %1$@";
 "widget_until_time" = "%1$@'e kadar";
-"widget_week_dark_desc" = "Bu haftanın tam programı. Tema uygulama ayarını izler.";
-"widget_week_dark_label" = "Program (Hafta)";
 "widget_week_light_desc" = "Bu haftanın tam programı. Tema uygulama ayarını izler.";
 "widget_week_light_label" = "Program (Hafta)";

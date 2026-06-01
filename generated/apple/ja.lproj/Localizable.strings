@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "時間割の重複";
 "a11y_course_card_open_details_hint" = "ダブルタップで詳細を表示";
 "a11y_course_detail_open_moodle" = "Moodle で開く";
-"a11y_dropdown_action_hint" = "ダブルタップで別の選択肢を選ぶ";
 "a11y_rankings_trend_chart" = "学期ごとの GPA 推移";
 "a11y_rankings_trend_no_selection" = "学期が未選択";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "プッシュが有効な場合、購読ルールに一致するお知らせがあるとTigerDuckが通知します。";
 "bulletin_push_footer" = "プッシュ通知はルールに基づいてTigerDuckサーバーから配信されます。デバイス識別子は匿名のUUIDとして送信され、学生IDがアップロードされることはありません。";
 "bulletin_push_reopen_settings" = "システム設定で再度有効にする";
-"bulletin_push_requesting" = "リクエスト中…";
 "bulletin_push_settings_header" = "プッシュ設定";
 "bulletin_push_status_denied" = "拒否済み";
 "bulletin_push_status_ephemeral" = "一時的";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "特定の部署";
 "bulletin_rule_disabled_badge" = "無効";
 "bulletin_rule_edit_title" = "ルールを編集";
-"bulletin_rule_editor_all_depts" = "すべての部署";
-"bulletin_rule_editor_all_tags" = "すべてのカテゴリ";
 "bulletin_rule_editor_dept_section" = "部署";
 "bulletin_rule_editor_enable_toggle" = "このルールを有効にする";
 "bulletin_rule_editor_mode_and_footer" = "部署とカテゴリの両方が一致する場合のみ通知します。";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ の時間帯（%2$@曜日 第%3$@時限）にはすでに2つの授業があります：%4$@ と %5$@。3つ以上の重複には対応していません。";
 "class_table_conflict_add_failed_title" = "追加できません";
 "class_table_course_name" = "授業名";
-"class_table_course_no_value" = "授業コード：%1$@";
-"class_table_course_time_value" = "授業時間：%1$@";
 "class_table_delete" = "削除";
 "class_table_delete_with_course" = "削除 — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "履修人数：%1$d/%2$d";
 "class_table_login_required_message" = "時間割を表示するにはサインインしてください";
 "class_table_pick_color" = "色を選択";
 "class_table_pick_color_with_course" = "色を選択 — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "教室：%1$@";
 "course_color_picker_custom_badge" = "カスタム";
 "course_color_picker_custom_label" = "カスタムカラー";
-"course_color_picker_reset_action" = "デフォルトの色に戻す";
 "course_color_picker_title" = "色を編集";
 "course_credits_value" = "単位：%1$d";
 "course_detail_classroom_label" = "教室";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "この学期の授業はありません";
 "desktop_class_table_loading_value" = "%1$@ を読み込み中…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d 科目 · %3$d 単位";
-"desktop_course_detail_course_no_label" = "授業番号";
 "desktop_home_section_upcoming_assignments" = "今後の課題";
 "desktop_login_disclaimer" = "このアプリは国立台湾科技大学とは無関係です。";
 "desktop_login_subtitle" = "NTUST SSO アカウントでサインイン";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "ほか %1$d 件";
 "desktop_widget_now" = "進行中";
 "desktop_widget_starts_in" = "%@後に開始";
-"desktop_widget_up_next" = "次の授業";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "お知らせの応答を解析できませんでした：%1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle の Web サービスは現在利用できません。";
 "error_network_format" = "ネットワークエラー：%1$@";
 "error_network_unavailable" = "接続できません。ネットワーク接続を確認してください。";
-"error_no_response" = "応答がありません";
 "error_qr_generation_failed_format" = "QRコードの生成に失敗しました：%1$@";
 "error_session_expired" = "セッションの有効期限が切れました";
 "error_sso_login_failed" = "サインインに失敗しました。アカウントとパスワードを確認してください。";
 "error_sso_login_form_not_found" = "SSO のサインインフォームが見つかりませんでした。";
-"error_unknown" = "不明なエラー";
 "feature_announcements" = "お知らせ";
 "feature_announcements_short" = "お知らせ";
 "feature_calendar" = "カレンダー";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "ダークモード";
 "settings_theme_light" = "ライトモード";
 "settings_theme_system" = "システムに従う";
-"settings_token_valid_until" = "トークンの有効期限：%1$@";
 "settings_use_english_classroom_abbreviation" = "英語の教室名略称を使用";
 "settings_use_english_course_abbreviation" = "英語の授業名略称を使用";
 "settings_version" = "バージョン";
@@ -692,8 +679,6 @@
 "update_available_title" = "アップデートあり";
 "update_check_failed_message" = "App Store に接続できませんでした。後でもう一度お試しください。";
 "update_check_failed_title" = "確認に失敗";
-"update_ready_message" = "アップデートがダウンロード済みです。インストール準備ができました。";
-"update_restart_action" = "再起動";
 "update_up_to_date_message" = "%1$@ の最新バージョンをお使いです。";
 "update_up_to_date_title" = "最新の状態です";
 "watch_action_back" = "戻る";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "コース";
 "watch_course_instructor_label" = "講師";
 "watch_empty_not_logged_in" = "サインインしていません。スマートフォンで TigerDuck を開いてください。";
-"watch_ends_at" = "%1$@ 終了";
 "watch_just_now" = "たった今";
 "watch_last_synced_never" = "未同期";
 "watch_last_synced_relative" = "最終同期:%1$@";
-"watch_library_loading" = "生成中…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone でサインイン";
-"watch_library_title" = "図書館";
 "watch_next" = "NEXT";
 "watch_next_label" = "次:%1$@ · %2$@";
 "watch_no_courses_synced" = "同期された授業はありません。";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "火";
 "weekday_wed_short" = "水";
 "whats_new_continue" = "続ける";
-"whats_new_title" = "新機能";
 "widget_library_shortcut_desc" = "ワンタップで仮想入館証 QRコード を開きます";
 "widget_library_shortcut_label" = "図書館 QR ショートカット";
 "widget_library_shortcut_title" = "図書館";
 "widget_next_class" = "次の授業";
-"widget_next_class_dark_desc" = "進行中または次の授業。テーマはアプリの設定に従います。";
-"widget_next_class_dark_label" = "次の授業";
 "widget_next_class_light_desc" = "進行中または次の授業。テーマはアプリの設定に従います。";
 "widget_next_class_light_label" = "次の授業";
 "widget_next_class_short" = "次の授業";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "進行中";
 "widget_ongoing_count" = "進行中×%1$d";
 "widget_sign_in" = "まず TigerDuck にサインインしてください";
-"widget_today_dark_desc" = "今日の授業一覧。テーマはアプリの設定に従います。";
-"widget_today_dark_label" = "時間割（今日）";
 "widget_today_light_desc" = "今日の授業一覧。テーマはアプリの設定に従います。";
 "widget_today_light_label" = "時間割（今日）";
 "widget_today_schedule_title" = "今日の時間割";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "明日";
 "widget_tomorrow_time" = "明日 %1$@";
 "widget_until_time" = "%1$@ まで";
-"widget_week_dark_desc" = "今週の時間割全体。テーマはアプリの設定に従います。";
-"widget_week_dark_label" = "時間割（週）";
 "widget_week_light_desc" = "今週の時間割全体。テーマはアプリの設定に従います。";
 "widget_week_light_label" = "時間割（週）";

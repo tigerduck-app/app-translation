@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "수업 충돌";
 "a11y_course_card_open_details_hint" = "두 번 탭하여 세부 정보 보기";
 "a11y_course_detail_open_moodle" = "Moodle에서 열기";
-"a11y_dropdown_action_hint" = "두 번 탭하여 다른 옵션 선택";
 "a11y_rankings_trend_chart" = "학기별 GPA 추세";
 "a11y_rankings_trend_no_selection" = "학기 선택 안 됨";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "푸시가 활성화되면 구독 규칙에 맞는 공지가 있을 때 TigerDuck이 알려드립니다.";
 "bulletin_push_footer" = "푸시 알림은 설정한 규칙에 따라 TigerDuck 서버에서 전송됩니다. 기기 식별자는 익명 UUID로 전송되며 학번은 절대 업로드되지 않습니다.";
 "bulletin_push_reopen_settings" = "시스템 설정에서 다시 활성화";
-"bulletin_push_requesting" = "요청 중…";
 "bulletin_push_settings_header" = "푸시 설정";
 "bulletin_push_status_denied" = "거부됨";
 "bulletin_push_status_ephemeral" = "임시";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "특정 학과";
 "bulletin_rule_disabled_badge" = "비활성화됨";
 "bulletin_rule_edit_title" = "규칙 편집";
-"bulletin_rule_editor_all_depts" = "모든 학과";
-"bulletin_rule_editor_all_tags" = "모든 카테고리";
 "bulletin_rule_editor_dept_section" = "학과";
 "bulletin_rule_editor_enable_toggle" = "이 규칙 활성화";
 "bulletin_rule_editor_mode_and_footer" = "학과와 카테고리가 모두 일치할 때만 알립니다.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@의 이 시간대(%2$@요일, %3$@교시)에 이미 두 개의 수업이 있습니다: %4$@와(과) %5$@. 시스템은 세 개 이상의 시간 충돌을 지원하지 않습니다.";
 "class_table_conflict_add_failed_title" = "추가할 수 없습니다";
 "class_table_course_name" = "수업 이름";
-"class_table_course_no_value" = "수업 코드: %1$@";
-"class_table_course_time_value" = "수업 시간: %1$@";
 "class_table_delete" = "삭제";
 "class_table_delete_with_course" = "삭제 — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "수강 인원: %1$d/%2$d";
 "class_table_login_required_message" = "시간표를 보려면 로그인하세요";
 "class_table_pick_color" = "색상 선택";
 "class_table_pick_color_with_course" = "색상 선택 — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "강의실: %1$@";
 "course_color_picker_custom_badge" = "사용자 지정";
 "course_color_picker_custom_label" = "사용자 지정 색상";
-"course_color_picker_reset_action" = "기본 색상으로 복원";
 "course_color_picker_title" = "색상 편집";
 "course_credits_value" = "학점: %1$d";
 "course_detail_classroom_label" = "강의실";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "이번 학기에 강의가 없습니다";
 "desktop_class_table_loading_value" = "%1$@ 로드 중…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d 과목 · %3$d 학점";
-"desktop_course_detail_course_no_label" = "강의 번호";
 "desktop_home_section_upcoming_assignments" = "예정된 과제";
 "desktop_login_disclaimer" = "이 앱은 국립대만과학기술대학교와 무관합니다.";
 "desktop_login_subtitle" = "NTUST SSO 계정으로 로그인";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d개 더";
 "desktop_widget_now" = "진행 중";
 "desktop_widget_starts_in" = "%@ 후 시작";
-"desktop_widget_up_next" = "다음 강의";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "공지 응답 파싱에 실패했습니다: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle 웹서비스를 현재 사용할 수 없습니다.";
 "error_network_format" = "네트워크 오류: %1$@";
 "error_network_unavailable" = "연결할 수 없습니다. 네트워크 연결을 확인해 주세요.";
-"error_no_response" = "응답 없음";
 "error_qr_generation_failed_format" = "QR 코드 생성에 실패했습니다: %1$@";
 "error_session_expired" = "세션이 만료되었습니다";
 "error_sso_login_failed" = "로그인에 실패했습니다. 계정과 비밀번호를 확인하세요.";
 "error_sso_login_form_not_found" = "SSO 로그인 양식을 찾을 수 없습니다.";
-"error_unknown" = "알 수 없는 오류";
 "feature_announcements" = "공지";
 "feature_announcements_short" = "공지";
 "feature_calendar" = "캘린더";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "다크 모드";
 "settings_theme_light" = "라이트 모드";
 "settings_theme_system" = "시스템 설정 따르기";
-"settings_token_valid_until" = "토큰 유효 기간: %1$@";
 "settings_use_english_classroom_abbreviation" = "영문 강의실 약어 사용";
 "settings_use_english_course_abbreviation" = "영문 수업 약어 사용";
 "settings_version" = "버전";
@@ -692,8 +679,6 @@
 "update_available_title" = "업데이트 가능";
 "update_check_failed_message" = "App Store에 연결할 수 없습니다. 나중에 다시 시도해 주세요.";
 "update_check_failed_title" = "확인 실패";
-"update_ready_message" = "업데이트가 다운로드되었습니다. 설치 준비가 완료되었습니다.";
-"update_restart_action" = "다시 시작";
 "update_up_to_date_message" = "%1$@의 최신 버전을 사용 중입니다.";
 "update_up_to_date_title" = "최신 버전입니다";
 "watch_action_back" = "뒤로";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "강의";
 "watch_course_instructor_label" = "강사";
 "watch_empty_not_logged_in" = "로그인되지 않음. 휴대폰에서 TigerDuck을 여세요.";
-"watch_ends_at" = "%1$@ 종료";
 "watch_just_now" = "방금 전";
 "watch_last_synced_never" = "동기화 안 됨";
 "watch_last_synced_relative" = "마지막 동기화: %1$@";
-"watch_library_loading" = "생성 중…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone에서 로그인";
-"watch_library_title" = "도서관";
 "watch_next" = "다음";
 "watch_next_label" = "다음: %1$@ · %2$@";
 "watch_no_courses_synced" = "동기화된 강의가 없습니다.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "화";
 "weekday_wed_short" = "수";
 "whats_new_continue" = "계속";
-"whats_new_title" = "새로운 기능";
 "widget_library_shortcut_desc" = "가상 도서관 출입증 QR 코드를 한 번에 열기";
 "widget_library_shortcut_label" = "도서관 QR 바로가기";
 "widget_library_shortcut_title" = "도서관";
 "widget_next_class" = "다음 수업";
-"widget_next_class_dark_desc" = "현재 또는 다음 수업. 테마는 앱 설정을 따릅니다.";
-"widget_next_class_dark_label" = "다음 수업";
 "widget_next_class_light_desc" = "현재 또는 다음 수업. 테마는 앱 설정을 따릅니다.";
 "widget_next_class_light_label" = "다음 수업";
 "widget_next_class_short" = "다음";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "진행 중";
 "widget_ongoing_count" = "진행 중 × %1$d";
 "widget_sign_in" = "먼저 TigerDuck에 로그인해 주세요";
-"widget_today_dark_desc" = "오늘의 수업 목록. 테마는 앱 설정을 따릅니다.";
-"widget_today_dark_label" = "시간표 (오늘)";
 "widget_today_light_desc" = "오늘의 수업 목록. 테마는 앱 설정을 따릅니다.";
 "widget_today_light_label" = "시간표 (오늘)";
 "widget_today_schedule_title" = "오늘의 시간표";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "내일";
 "widget_tomorrow_time" = "내일 %1$@";
 "widget_until_time" = "%1$@까지";
-"widget_week_dark_desc" = "이번 주 전체 시간표. 테마는 앱 설정을 따릅니다.";
-"widget_week_dark_label" = "시간표 (주간)";
 "widget_week_light_desc" = "이번 주 전체 시간표. 테마는 앱 설정을 따릅니다.";
 "widget_week_light_label" = "시간표 (주간)";

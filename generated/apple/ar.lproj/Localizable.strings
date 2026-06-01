@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "تعارض في المحاضرات";
 "a11y_course_card_open_details_hint" = "انقر مرتين للتفاصيل";
 "a11y_course_detail_open_moodle" = "فتح في Moodle";
-"a11y_dropdown_action_hint" = "انقر مرتين لاختيار خيار آخر";
 "a11y_rankings_trend_chart" = "اتجاه المعدل التراكمي حسب الفصل";
 "a11y_rankings_trend_no_selection" = "لم يتم تحديد فصل";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "عند تمكين الدفع، سوف يقوم TigerDuck بإعلامك عندما تتطابق النشرة مع قواعد الاشتراك الخاصة بك.";
 "bulletin_push_footer" = "يتم تسليم إشعارات الدفع بواسطة خادم TigerDuck بناءً على القواعد الخاصة بك. يتم إرسال معرف الجهاز كمعرف UUID مجهول - ولا يتم تحميل معرف الطالب الخاص بك مطلقًا.";
 "bulletin_push_reopen_settings" = "إعادة التفعيل في إعدادات النظام";
-"bulletin_push_requesting" = "جارٍ الطلب…";
 "bulletin_push_settings_header" = "إعدادات الدفع";
 "bulletin_push_status_denied" = "رفض";
 "bulletin_push_status_ephemeral" = "سريع الزوال";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "قسم محدد";
 "bulletin_rule_disabled_badge" = "عاجز";
 "bulletin_rule_edit_title" = "تحرير القاعدة";
-"bulletin_rule_editor_all_depts" = "جميع الأقسام";
-"bulletin_rule_editor_all_tags" = "جميع الفئات";
 "bulletin_rule_editor_dept_section" = "قسم";
 "bulletin_rule_editor_enable_toggle" = "تمكين هذه القاعدة";
 "bulletin_rule_editor_mode_and_footer" = "قم بالإخطار فقط عند تطابق القسم والفئة.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ لديه بالفعل محاضرتان في هذا الموعد (يوم الأسبوع %2$@، الحصة %3$@): %4$@ و %5$@. النظام لا يدعم تعارض ثلاث محاضرات.";
 "class_table_conflict_add_failed_title" = "تعذّرت الإضافة";
 "class_table_course_name" = "اسم المقرر";
-"class_table_course_no_value" = "رمز المقرر: %1$@";
-"class_table_course_time_value" = "وقت المحاضرة: %1$@";
 "class_table_delete" = "حذف";
 "class_table_delete_with_course" = "حذف — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "التسجيل: %1$d/%2$d";
 "class_table_login_required_message" = "قم بتسجيل الدخول لعرض جدول صفك";
 "class_table_pick_color" = "اختر لونًا";
 "class_table_pick_color_with_course" = "اختر لونًا — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "القاعة: %1$@";
 "course_color_picker_custom_badge" = "مخصص";
 "course_color_picker_custom_label" = "لون مخصص";
-"course_color_picker_reset_action" = "استعادة اللون الافتراضي";
 "course_color_picker_title" = "تعديل اللون";
 "course_credits_value" = "الساعات المعتمدة: %1$d";
 "course_detail_classroom_label" = "الفصل الدراسي";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "لا توجد مقررات في هذا الفصل";
 "desktop_class_table_loading_value" = "جارٍ تحميل %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d مقررات · %3$d وحدات";
-"desktop_course_detail_course_no_label" = "رقم المقرر";
 "desktop_home_section_upcoming_assignments" = "الواجبات القادمة";
 "desktop_login_disclaimer" = "هذا التطبيق غير تابع لجامعة National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "سجّل الدخول بحساب NTUST SSO الخاص بك";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d إضافية";
 "desktop_widget_now" = "الآن";
 "desktop_widget_starts_in" = "يبدأ خلال %@";
-"desktop_widget_up_next" = "التالي";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "فشل تحليل استجابة النشرة: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "خدمة الويب الخاصة بـ Moodle غير متاحة حاليًا.";
 "error_network_format" = "خطأ في الشبكة: %1$@";
 "error_network_unavailable" = "تعذر الاتصال. يرجى التحقق من اتصال الشبكة.";
-"error_no_response" = "لا توجد استجابة";
 "error_qr_generation_failed_format" = "فشل إنشاء رمز QR: %1$@";
 "error_session_expired" = "انتهت الجلسة";
 "error_sso_login_failed" = "فشل تسجيل الدخول. يرجى التحقق من الحساب وكلمة المرور.";
 "error_sso_login_form_not_found" = "تعذّر العثور على نموذج تسجيل الدخول إلى SSO.";
-"error_unknown" = "خطأ غير معروف";
 "feature_announcements" = "الإعلانات";
 "feature_announcements_short" = "الإعلانات";
 "feature_calendar" = "التقويم";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "الوضع الداكن";
 "settings_theme_light" = "الوضع الفاتح";
 "settings_theme_system" = "اتباع النظام";
-"settings_token_valid_until" = "الرمز صالح حتى %1$@";
 "settings_use_english_classroom_abbreviation" = "استخدام اختصارات القاعات الإنجليزية";
 "settings_use_english_course_abbreviation" = "استخدام الاختصارات الإنجليزية للمقررات";
 "settings_version" = "الإصدار";
@@ -692,8 +679,6 @@
 "update_available_title" = "تحديث متاح";
 "update_check_failed_message" = "تعذّر الوصول إلى App Store. حاول مرة أخرى لاحقاً.";
 "update_check_failed_title" = "فشل التحقق";
-"update_ready_message" = "التحديث جاهز للتثبيت.";
-"update_restart_action" = "إعادة التشغيل";
 "update_up_to_date_message" = "لديك أحدث إصدار من %1$@.";
 "update_up_to_date_title" = "أنت محدَّث";
 "watch_action_back" = "رجوع";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "المقرر";
 "watch_course_instructor_label" = "المُدرِّس";
 "watch_empty_not_logged_in" = "غير مسجّل الدخول. افتح TigerDuck على هاتفك.";
-"watch_ends_at" = "ينتهي %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "لم تتم المزامنة قط";
 "watch_last_synced_relative" = "آخر مزامنة %1$@";
-"watch_library_loading" = "جارٍ الإنشاء…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "سجّل الدخول على iPhone";
-"watch_library_title" = "المكتبة";
 "watch_next" = "التالي";
 "watch_next_label" = "التالي: %1$@ · %2$@";
 "watch_no_courses_synced" = "لا توجد مقررات متزامنة.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "الثلاثاء";
 "weekday_wed_short" = "الأربعاء";
 "whats_new_continue" = "متابعة";
-"whats_new_title" = "ما الجديد";
 "widget_library_shortcut_desc" = "افتح QR Code تصريح المكتبة الافتراضي بضغطة واحدة";
 "widget_library_shortcut_label" = "اختصار QR Code للمكتبة";
 "widget_library_shortcut_title" = "المكتبة";
 "widget_next_class" = "المحاضرة التالية";
-"widget_next_class_dark_desc" = "المحاضرة الحالية أو التالية. يتبع المظهر إعداد التطبيق.";
-"widget_next_class_dark_label" = "المحاضرة التالية";
 "widget_next_class_light_desc" = "المحاضرة الحالية أو التالية. يتبع المظهر إعداد التطبيق.";
 "widget_next_class_light_label" = "المحاضرة التالية";
 "widget_next_class_short" = "التالية";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "جارية";
 "widget_ongoing_count" = "جارية × %1$d";
 "widget_sign_in" = "يرجى تسجيل الدخول إلى TigerDuck أولًا";
-"widget_today_dark_desc" = "قائمة محاضرات اليوم. يتبع المظهر إعداد التطبيق.";
-"widget_today_dark_label" = "الجدول الدراسي (اليوم)";
 "widget_today_light_desc" = "قائمة محاضرات اليوم. يتبع المظهر إعداد التطبيق.";
 "widget_today_light_label" = "الجدول الدراسي (اليوم)";
 "widget_today_schedule_title" = "جدول اليوم";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "غدًا";
 "widget_tomorrow_time" = "غدًا %1$@";
 "widget_until_time" = "حتى %1$@";
-"widget_week_dark_desc" = "الجدول الدراسي الكامل لهذا الأسبوع. يتبع المظهر إعداد التطبيق.";
-"widget_week_dark_label" = "الجدول الدراسي (أسبوعي)";
 "widget_week_light_desc" = "الجدول الدراسي الكامل لهذا الأسبوع. يتبع المظهر إعداد التطبيق.";
 "widget_week_light_label" = "الجدول الدراسي (أسبوعي)";

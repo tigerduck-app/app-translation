@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "ക്ലാസ് സംഘർഷം";
 "a11y_course_card_open_details_hint" = "വിശദാംശങ്ങൾക്ക് രണ്ടുതവണ ടാപ്പ് ചെയ്യുക";
 "a11y_course_detail_open_moodle" = "Moodle-ൽ തുറക്കുക";
-"a11y_dropdown_action_hint" = "മറ്റൊരു ഓപ്ഷൻ തിരഞ്ഞെടുക്കാൻ രണ്ടുതവണ ടാപ്പ് ചെയ്യുക";
 "a11y_rankings_trend_chart" = "സെമസ്റ്ററനുസരിച്ച് GPA ട്രെൻഡ്";
 "a11y_rankings_trend_no_selection" = "സെമസ്റ്റർ തിരഞ്ഞെടുത്തിട്ടില്ല";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "പുഷ് പ്രവർത്തനക്ഷമമാകുമ്പോൾ, ഒരു ബുള്ളറ്റിൻ നിങ്ങളുടെ സബ്‌സ്ക്രിപ്‌ഷൻ നിയമങ്ങളുമായി പൊരുത്തപ്പെടുമ്പോഴെല്ലാം TigerDuck നിങ്ങളെ അറിയിക്കും.";
 "bulletin_push_footer" = "നിങ്ങളുടെ നിയമങ്ങളെ അടിസ്ഥാനമാക്കി TigerDuck സെർവർ പുഷ് അറിയിപ്പുകൾ നൽകുന്നു. ഉപകരണ തിരിച്ചറിയൽ ഒരു അജ്ഞാത UUID ആയി അയക്കുന്നു — നിങ്ങളുടെ വിദ്യാർഥി ഐഡി ഒരിക്കലും അപ്‌ലോഡ് ചെയ്യില്ല.";
 "bulletin_push_reopen_settings" = "സിസ്റ്റം ക്രമീകരണങ്ങളിൽ വീണ്ടും പ്രവർത്തനക്ഷമമാക്കുക";
-"bulletin_push_requesting" = "അഭ്യർഥിക്കുന്നു…";
 "bulletin_push_settings_header" = "പുഷ് ക്രമീകരണങ്ങൾ";
 "bulletin_push_status_denied" = "നിരസിച്ചു";
 "bulletin_push_status_ephemeral" = "എഫെമെറൽ";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "നിർദ്ദിഷ്ട വകുപ്പ്";
 "bulletin_rule_disabled_badge" = "പ്രവർത്തനരഹിതം";
 "bulletin_rule_edit_title" = "നിയമം തിരുത്തുക";
-"bulletin_rule_editor_all_depts" = "എല്ലാ വകുപ്പുകളും";
-"bulletin_rule_editor_all_tags" = "എല്ലാ വിഭാഗങ്ങളും";
 "bulletin_rule_editor_dept_section" = "വകുപ്പ്";
 "bulletin_rule_editor_enable_toggle" = "ഈ നിയമം പ്രവർത്തനക്ഷമമാക്കുക";
 "bulletin_rule_editor_mode_and_footer" = "വകുപ്പും വിഭാഗവും ഒത്തുചേരുമ്പോൾ മാത്രം അറിയിക്കുക.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@-ന് ഈ സ്ലോട്ടിൽ (ആഴ്ചദിനം %2$@, പിരീഡ് %3$@) ഇതിനകം രണ്ട് ക്ലാസ്സുകൾ ഉണ്ട്: %4$@, %5$@. സിസ്റ്റം ട്രിപ്പിൾ കോൺഫ്ലിക്ടുകളെ പിന്തുണയ്ക്കുന്നില്ല.";
 "class_table_conflict_add_failed_title" = "ചേർക്കാൻ കഴിയില്ല";
 "class_table_course_name" = "കോഴ്‌സ് നാമം";
-"class_table_course_no_value" = "കോഴ്‌സ് കോഡ്: %1$@";
-"class_table_course_time_value" = "ക്ലാസ് സമയം: %1$@";
 "class_table_delete" = "ഇല്ലാതാക്കുക";
 "class_table_delete_with_course" = "ഇല്ലാതാക്കുക — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "നാമദർജ: %1$d/%2$d";
 "class_table_login_required_message" = "നിങ്ങളുടെ ക്ലാസ് ടേബിൾ കാണാൻ സൈൻ ഇൻ ചെയ്യുക";
 "class_table_pick_color" = "നിറം തിരഞ്ഞെടുക്കുക";
 "class_table_pick_color_with_course" = "നിറം തിരഞ്ഞെടുക്കുക — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "ക്ലാസ്മുറി: %1$@";
 "course_color_picker_custom_badge" = "ഇഷ്ടാനുസൃതം";
 "course_color_picker_custom_label" = "ഇഷ്ടാനുസൃത നിറം";
-"course_color_picker_reset_action" = "ഡിഫോൾട്ട് നിറം പുനഃസ്ഥാപിക്കുക";
 "course_color_picker_title" = "നിറം എഡിറ്റ് ചെയ്യുക";
 "course_credits_value" = "ക്രെഡിറ്റുകൾ: %1$d";
 "course_detail_classroom_label" = "ക്ലാസ്റൂം";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "%@ ൽ ആരംഭിക്കും";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "ബുള്ളറ്റിൻ പ്രതികരണം പാഴ്‌സ് ചെയ്യുന്നതിൽ പരാജയം: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle വെബ്‌സർവീസ് ഇപ്പോൾ ലഭ്യമല്ല.";
 "error_network_format" = "നെറ്റ്‌വർക്ക് പിശക്: %1$@";
 "error_network_unavailable" = "കണക്റ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല. നെറ്റ്‌വർക്ക് കണക്ഷൻ പരിശോധിക്കുക.";
-"error_no_response" = "പ്രതികരണം ലഭിച്ചില്ല";
 "error_qr_generation_failed_format" = "QR കോഡ് ജനറേറ്റ് ചെയ്യുന്നതിൽ പരാജയം: %1$@";
 "error_session_expired" = "സെഷൻ കാലഹരണപ്പെട്ടു";
 "error_sso_login_failed" = "സൈൻ ഇൻ പരാജയപ്പെട്ടു. ദയവായി അക്കൗണ്ടും പാസ്‌വേഡും പരിശോധിക്കുക.";
 "error_sso_login_form_not_found" = "SSO സൈൻ ഇൻ ഫോം കണ്ടെത്തിയില്ല.";
-"error_unknown" = "അജ്ഞാത പിശക്";
 "feature_announcements" = "അറിയിപ്പുകൾ";
 "feature_announcements_short" = "അറിയിപ്പുകൾ";
 "feature_calendar" = "കലണ്ടർ";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "ഡാർക്ക് മോഡ്";
 "settings_theme_light" = "ലൈറ്റ് മോഡ്";
 "settings_theme_system" = "സിസ്റ്റം പിന്തുടരുക";
-"settings_token_valid_until" = "ടോക്കൺ %1$@ വരെ സാധുവാണ്";
 "settings_use_english_classroom_abbreviation" = "ക്ലാസ് മുറിയുടെ ഇംഗ്ലീഷ് ചുരുക്കരൂപങ്ങൾ ഉപയോഗിക്കുക";
 "settings_use_english_course_abbreviation" = "ഇംഗ്ലീഷ് കോഴ്‌സ് ചുരുക്കങ്ങൾ ഉപയോഗിക്കുക";
 "settings_version" = "പതിപ്പ്";
@@ -692,8 +679,6 @@
 "update_available_title" = "അപ്‌ഡേറ്റ് ലഭ്യമാണ്";
 "update_check_failed_message" = "App Store-ലേക്ക് എത്തിച്ചേരാൻ കഴിഞ്ഞില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
 "update_check_failed_title" = "പരിശോധന പരാജയപ്പെട്ടു";
-"update_ready_message" = "അപ്‌ഡേറ്റ് ഡൗൺലോഡ് ആയി, ഇൻസ്റ്റാൾ ചെയ്യാൻ തയ്യാർ.";
-"update_restart_action" = "പുനരാരംഭിക്കുക";
 "update_up_to_date_message" = "നിങ്ങളുടെ %1$@ ഏറ്റവും പുതിയ പതിപ്പ് ആണ്.";
 "update_up_to_date_title" = "നിങ്ങൾ അപ്‌ഡേറ്റ് ആണ്";
 "watch_action_back" = "മടങ്ങുക";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "കോഴ്സ്";
 "watch_course_instructor_label" = "അധ്യാപകൻ";
 "watch_empty_not_logged_in" = "ലോഗിൻ ചെയ്തിട്ടില്ല. ഫോണിൽ TigerDuck തുറക്കുക.";
-"watch_ends_at" = "%1$@-ന് അവസാനിക്കുന്നു";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "ഒരിക്കലും സിൻക് ചെയ്തിട്ടില്ല";
 "watch_last_synced_relative" = "അവസാനം സമന്വയിപ്പിച്ചത് %1$@";
-"watch_library_loading" = "സൃഷ്ടിക്കുന്നു…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone-ൽ സൈൻ ഇൻ ചെയ്യുക";
-"watch_library_title" = "ലൈബ്രറി";
 "watch_next" = "NEXT";
 "watch_next_label" = "അടുത്തത്: %1$@ · %2$@";
 "watch_no_courses_synced" = "സമന്വയിപ്പിച്ച കോഴ്സുകളില്ല.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "ചൊ";
 "weekday_wed_short" = "ബു";
 "whats_new_continue" = "തുടരുക";
-"whats_new_title" = "പുതിയതെന്ത്";
 "widget_library_shortcut_desc" = "ഒറ്റ ടാപ്പിൽ വെർച്വൽ ഗ്രന്ഥശാല പാസ് QR കോഡ് തുറക്കുക";
 "widget_library_shortcut_label" = "ഗ്രന്ഥശാല QR കുറുക്കുവഴി";
 "widget_library_shortcut_title" = "ഗ്രന്ഥശാല";
 "widget_next_class" = "അടുത്ത ക്ലാസ്";
-"widget_next_class_dark_desc" = "നിലവിലുള്ള അല്ലെങ്കിൽ അടുത്ത ക്ലാസ്. തീം ആപ്പ് ക്രമീകരണം പിന്തുടരുന്നു.";
-"widget_next_class_dark_label" = "അടുത്ത ക്ലാസ്";
 "widget_next_class_light_desc" = "നിലവിലുള്ള അല്ലെങ്കിൽ അടുത്ത ക്ലാസ്. തീം ആപ്പ് ക്രമീകരണം പിന്തുടരുന്നു.";
 "widget_next_class_light_label" = "അടുത്ത ക്ലാസ്";
 "widget_next_class_short" = "അടുത്തത്";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "നടക്കുന്നു";
 "widget_ongoing_count" = "നടക്കുന്നു × %1$d";
 "widget_sign_in" = "ആദ്യം TigerDuck-ൽ സൈൻ ഇൻ ചെയ്യുക";
-"widget_today_dark_desc" = "ഇന്നത്തെ ക്ലാസ് ലിസ്റ്റ്. തീം ആപ്പ് ക്രമീകരണം പിന്തുടരുന്നു.";
-"widget_today_dark_label" = "ഷെഡ്യൂൾ (ഇന്ന്)";
 "widget_today_light_desc" = "ഇന്നത്തെ ക്ലാസ് ലിസ്റ്റ്. തീം ആപ്പ് ക്രമീകരണം പിന്തുടരുന്നു.";
 "widget_today_light_label" = "ഷെഡ്യൂൾ (ഇന്ന്)";
 "widget_today_schedule_title" = "ഇന്നത്തെ ഷെഡ്യൂൾ";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "നാളെ";
 "widget_tomorrow_time" = "നാളെ %1$@";
 "widget_until_time" = "%1$@ വരെ";
-"widget_week_dark_desc" = "ഈ ആഴ്ചത്തെ പൂർണ്ണ ഷെഡ്യൂൾ. തീം ആപ്പ് ക്രമീകരണം പിന്തുടരുന്നു.";
-"widget_week_dark_label" = "ഷെഡ്യൂൾ (ആഴ്ച)";
 "widget_week_light_desc" = "ഈ ആഴ്ചത്തെ പൂർണ്ണ ഷെഡ്യൂൾ. തീം ആപ്പ് ക്രമീകരണം പിന്തുടരുന്നു.";
 "widget_week_light_label" = "ഷെഡ്യൂൾ (ആഴ്ച)";

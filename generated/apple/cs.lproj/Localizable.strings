@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Konflikt hodin";
 "a11y_course_card_open_details_hint" = "Dvojitým klepnutím zobrazíte podrobnosti";
 "a11y_course_detail_open_moodle" = "Otevřít v Moodle";
-"a11y_dropdown_action_hint" = "Dvojitým klepnutím zvolíte jinou možnost";
 "a11y_rankings_trend_chart" = "Trend GPA podle semestru";
 "a11y_rankings_trend_no_selection" = "Není vybrán žádný semestr";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Když je povoleno push, TigerDuck vás upozorní, kdykoli bude bulletin odpovídat vašim pravidlům předplatného.";
 "bulletin_push_footer" = "Push notifikace doručuje server TigerDuck na základě vašich pravidel. Identifikátor zařízení je odeslán jako anonymní UUID – vaše studentské ID se nikdy nenahraje.";
 "bulletin_push_reopen_settings" = "Znovu zapnout v Nastavení systému";
-"bulletin_push_requesting" = "Požadavek…";
 "bulletin_push_settings_header" = "Push nastavení";
 "bulletin_push_status_denied" = "Zamítnuto";
 "bulletin_push_status_ephemeral" = "Efemérní";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Konkrétní oddělení";
 "bulletin_rule_disabled_badge" = "Zakázáno";
 "bulletin_rule_edit_title" = "Upravit pravidlo";
-"bulletin_rule_editor_all_depts" = "Všechna oddělení";
-"bulletin_rule_editor_all_tags" = "Všechny kategorie";
 "bulletin_rule_editor_dept_section" = "Oddělení";
 "bulletin_rule_editor_enable_toggle" = "Povolte toto pravidlo";
 "bulletin_rule_editor_mode_and_footer" = "Informujte pouze v případě, že se oddělení a kategorie shodují.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ již má v tomto časovém bloku dvě hodiny (den %2$@, blok %3$@): %4$@ a %5$@. Systém nepodporuje trojnásobné kolize.";
 "class_table_conflict_add_failed_title" = "Nelze přidat";
 "class_table_course_name" = "Název kurzu";
-"class_table_course_no_value" = "Kód kurzu: %1$@";
-"class_table_course_time_value" = "Čas hodiny: %1$@";
 "class_table_delete" = "Smazat";
 "class_table_delete_with_course" = "Smazat — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Zapsáno: %1$d/%2$d";
 "class_table_login_required_message" = "Chcete-li zobrazit tabulku třídy, přihlaste se";
 "class_table_pick_color" = "Vybrat barvu";
 "class_table_pick_color_with_course" = "Vybrat barvu — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Učebna: %1$@";
 "course_color_picker_custom_badge" = "Vlastní";
 "course_color_picker_custom_label" = "Vlastní barva";
-"course_color_picker_reset_action" = "Obnovit výchozí barvu";
 "course_color_picker_title" = "Upravit barvu";
 "course_credits_value" = "Kredity: %1$d";
 "course_detail_classroom_label" = "Třída";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "V tomto semestru nejsou žádné předměty";
 "desktop_class_table_loading_value" = "Načítání %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d předmětů · %3$d kreditů";
-"desktop_course_detail_course_no_label" = "Č. předmětu";
 "desktop_home_section_upcoming_assignments" = "Nadcházející úkoly";
 "desktop_login_disclaimer" = "Tato aplikace není spjata s National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Přihlaste se účtem NTUST SSO";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d další";
 "desktop_widget_now" = "TEĎ";
 "desktop_widget_starts_in" = "Začíná za %@";
-"desktop_widget_up_next" = "Další";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nepodařilo se zpracovat odpověď oznámení: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Webová služba Moodle je momentálně nedostupná.";
 "error_network_format" = "Chyba sítě: %1$@";
 "error_network_unavailable" = "Nelze se připojit. Zkontrolujte prosím připojení k síti.";
-"error_no_response" = "Žádná odpověď";
 "error_qr_generation_failed_format" = "Nepodařilo se vygenerovat QR kód: %1$@";
 "error_session_expired" = "Relace vypršela";
 "error_sso_login_failed" = "Přihlášení selhalo. Zkontrolujte účet a heslo.";
 "error_sso_login_form_not_found" = "Přihlašovací formulář SSO nebyl nalezen.";
-"error_unknown" = "Neznámá chyba";
 "feature_announcements" = "Oznámení";
 "feature_announcements_short" = "Oznámení";
 "feature_calendar" = "Kalendář";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Tmavý režim";
 "settings_theme_light" = "Světlý režim";
 "settings_theme_system" = "Podle systému";
-"settings_token_valid_until" = "Token platný do %1$@";
 "settings_use_english_classroom_abbreviation" = "Používat anglické zkratky učeben";
 "settings_use_english_course_abbreviation" = "Používat anglické zkratky kurzů";
 "settings_version" = "Verze";
@@ -692,8 +679,6 @@
 "update_available_title" = "Dostupná aktualizace";
 "update_check_failed_message" = "Nepodařilo se připojit k App Store. Zkuste to prosím později.";
 "update_check_failed_title" = "Kontrola se nezdařila";
-"update_ready_message" = "Aktualizace je stažena a připravena k instalaci.";
-"update_restart_action" = "Restartovat";
 "update_up_to_date_message" = "Máte nejnovější verzi aplikace %1$@.";
 "update_up_to_date_title" = "Máte nejnovější verzi";
 "watch_action_back" = "Zpět";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Předmět";
 "watch_course_instructor_label" = "Vyučující";
 "watch_empty_not_logged_in" = "Nejste přihlášeni. Otevřete TigerDuck v telefonu.";
-"watch_ends_at" = "Konec %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Nikdy nesynchronizováno";
 "watch_last_synced_relative" = "Naposledy synchronizováno %1$@";
-"watch_library_loading" = "Generování…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Přihlaste se na iPhone";
-"watch_library_title" = "Knihovna";
 "watch_next" = "DALŠÍ";
 "watch_next_label" = "Další: %1$@ · %2$@";
 "watch_no_courses_synced" = "Žádné synchronizované předměty.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Út";
 "weekday_wed_short" = "St";
 "whats_new_continue" = "Pokračovat";
-"whats_new_title" = "Co je nového";
 "widget_library_shortcut_desc" = "Otevřete virtuální průkaz do knihovny jako QR Code jedním klepnutím";
 "widget_library_shortcut_label" = "Zkratka QR knihovny";
 "widget_library_shortcut_title" = "Knihovna";
 "widget_next_class" = "Další hodina";
-"widget_next_class_dark_desc" = "Aktuální nebo další hodina. Motiv se řídí nastavením aplikace.";
-"widget_next_class_dark_label" = "Další hodina";
 "widget_next_class_light_desc" = "Aktuální nebo další hodina. Motiv se řídí nastavením aplikace.";
 "widget_next_class_light_label" = "Další hodina";
 "widget_next_class_short" = "Další";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Probíhá";
 "widget_ongoing_count" = "Probíhá × %1$d";
 "widget_sign_in" = "Nejprve se prosím přihlaste do TigerDuck";
-"widget_today_dark_desc" = "Seznam dnešních hodin. Motiv se řídí nastavením aplikace.";
-"widget_today_dark_label" = "Rozvrh (dnes)";
 "widget_today_light_desc" = "Seznam dnešních hodin. Motiv se řídí nastavením aplikace.";
 "widget_today_light_label" = "Rozvrh (dnes)";
 "widget_today_schedule_title" = "Dnešní rozvrh";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Zítra";
 "widget_tomorrow_time" = "Zítra %1$@";
 "widget_until_time" = "Do %1$@";
-"widget_week_dark_desc" = "Kompletní rozvrh tohoto týdne. Motiv se řídí nastavením aplikace.";
-"widget_week_dark_label" = "Rozvrh (týden)";
 "widget_week_light_desc" = "Kompletní rozvrh tohoto týdne. Motiv se řídí nastavením aplikace.";
 "widget_week_light_label" = "Rozvrh (týden)";

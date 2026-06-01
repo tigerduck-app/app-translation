@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Tuntiristiriita";
 "a11y_course_card_open_details_hint" = "Kaksoisnapauta tarkempia tietoja varten";
 "a11y_course_detail_open_moodle" = "Avaa Moodlessa";
-"a11y_dropdown_action_hint" = "Valitse toinen vaihtoehto kaksoisnapauttamalla";
 "a11y_rankings_trend_chart" = "GPA-kehitys lukukausittain";
 "a11y_rankings_trend_no_selection" = "Ei valittua lukukautta";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Kun push on käytössä, TigerDuck ilmoittaa sinulle aina, kun tiedote vastaa tilaussääntöjäsi.";
 "bulletin_push_footer" = "TigerDuck-palvelin toimittaa push-ilmoitukset sääntöjesi perusteella. Laitetunniste lähetetään anonyyminä UUID-tunnuksena – opiskelijatunnustasi ei koskaan ladata.";
 "bulletin_push_reopen_settings" = "Ota käyttöön uudelleen Järjestelmäasetuksissa";
-"bulletin_push_requesting" = "Pyydetään…";
 "bulletin_push_settings_header" = "Push-asetukset";
 "bulletin_push_status_denied" = "Kielletty";
 "bulletin_push_status_ephemeral" = "Efemeraalinen";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Tietty osasto";
 "bulletin_rule_disabled_badge" = "Pois käytöstä";
 "bulletin_rule_edit_title" = "Muokkaa sääntöä";
-"bulletin_rule_editor_all_depts" = "Kaikki osastot";
-"bulletin_rule_editor_all_tags" = "Kaikki luokat";
 "bulletin_rule_editor_dept_section" = "osasto";
 "bulletin_rule_editor_enable_toggle" = "Ota tämä sääntö käyttöön";
 "bulletin_rule_editor_mode_and_footer" = "Ilmoita vain, kun sekä osasto että luokka täsmäävät.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@:llä on jo kaksi tuntia tässä ajassa (viikonpäivä %2$@, jakso %3$@): %4$@ ja %5$@. Järjestelmä ei tue kolminkertaisia päällekkäisyyksiä.";
 "class_table_conflict_add_failed_title" = "Ei voi lisätä";
 "class_table_course_name" = "Kurssin nimi";
-"class_table_course_no_value" = "Kurssikoodi: %1$@";
-"class_table_course_time_value" = "Tunnin aika: %1$@";
 "class_table_delete" = "Poista";
 "class_table_delete_with_course" = "Poista — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Ilmoittautuneita: %1$d/%2$d";
 "class_table_login_required_message" = "Kirjaudu sisään nähdäksesi luokkataulukkosi";
 "class_table_pick_color" = "Valitse väri";
 "class_table_pick_color_with_course" = "Valitse väri — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Luokkahuone: %1$@";
 "course_color_picker_custom_badge" = "Mukautettu";
 "course_color_picker_custom_label" = "Mukautettu väri";
-"course_color_picker_reset_action" = "Palauta oletusväri";
 "course_color_picker_title" = "Muokkaa väriä";
 "course_credits_value" = "Opintopisteet: %1$d";
 "course_detail_classroom_label" = "Luokkahuone";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Ei kursseja tällä lukukaudella";
 "desktop_class_table_loading_value" = "Ladataan %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d kurssia · %3$d opintopistettä";
-"desktop_course_detail_course_no_label" = "Kurssin nro";
 "desktop_home_section_upcoming_assignments" = "Tulevat tehtävät";
 "desktop_login_disclaimer" = "Tämä sovellus ei liity National Taiwan University of Science and Technology -yliopistoon.";
 "desktop_login_subtitle" = "Kirjaudu NTUST SSO -tilillä";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d lisää";
 "desktop_widget_now" = "NYT";
 "desktop_widget_starts_in" = "Alkaa %@:n kuluttua";
-"desktop_widget_up_next" = "Seuraava";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Tiedotteen vastauksen jäsennys epäonnistui: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodlen verkkopalvelu ei ole tällä hetkellä käytettävissä.";
 "error_network_format" = "Verkkovirhe: %1$@";
 "error_network_unavailable" = "Yhteys epäonnistui. Tarkista verkkoyhteys.";
-"error_no_response" = "Ei vastausta";
 "error_qr_generation_failed_format" = "QR-koodin luominen epäonnistui: %1$@";
 "error_session_expired" = "Istunto vanhentunut";
 "error_sso_login_failed" = "Kirjautuminen epäonnistui. Tarkista tilisi ja salasanasi.";
 "error_sso_login_form_not_found" = "SSO-kirjautumislomaketta ei löytynyt.";
-"error_unknown" = "Tuntematon virhe";
 "feature_announcements" = "Ilmoitukset";
 "feature_announcements_short" = "Ilmoitukset";
 "feature_calendar" = "Kalenteri";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Tumma tila";
 "settings_theme_light" = "Vaalea tila";
 "settings_theme_system" = "Seuraa järjestelmää";
-"settings_token_valid_until" = "Token voimassa %1$@ asti";
 "settings_use_english_classroom_abbreviation" = "Käytä luokkahuoneiden englanninkielisiä lyhenteitä";
 "settings_use_english_course_abbreviation" = "Käytä englanninkielisiä kurssien lyhenteitä";
 "settings_version" = "Versio";
@@ -692,8 +679,6 @@
 "update_available_title" = "Päivitys saatavilla";
 "update_check_failed_message" = "App Storeen ei saatu yhteyttä. Yritä myöhemmin uudelleen.";
 "update_check_failed_title" = "Tarkistus epäonnistui";
-"update_ready_message" = "Päivitys on ladattu ja valmis asennettavaksi.";
-"update_restart_action" = "Käynnistä uudelleen";
 "update_up_to_date_message" = "Sinulla on %1$@:n uusin versio.";
 "update_up_to_date_title" = "Olet ajan tasalla";
 "watch_action_back" = "Takaisin";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Kurssi";
 "watch_course_instructor_label" = "Opettaja";
 "watch_empty_not_logged_in" = "Et ole kirjautunut. Avaa TigerDuck puhelimellasi.";
-"watch_ends_at" = "Päättyy %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Ei koskaan synkronoitu";
 "watch_last_synced_relative" = "Viimeksi synkronoitu %1$@";
-"watch_library_loading" = "Luodaan…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Kirjaudu iPhonella";
-"watch_library_title" = "Kirjasto";
 "watch_next" = "SEURAAVA";
 "watch_next_label" = "Seuraava: %1$@ · %2$@";
 "watch_no_courses_synced" = "Ei synkronoituja kursseja.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Ti";
 "weekday_wed_short" = "Ke";
 "whats_new_continue" = "Jatka";
-"whats_new_title" = "Mitä uutta";
 "widget_library_shortcut_desc" = "Avaa virtuaalinen kirjastokortin QR-koodi yhdellä napautuksella";
 "widget_library_shortcut_label" = "Kirjaston QR-koodi-pikakuvake";
 "widget_library_shortcut_title" = "Kirjasto";
 "widget_next_class" = "Seuraava tunti";
-"widget_next_class_dark_desc" = "Meneillään oleva tai seuraava tunti. Teema seuraa sovelluksen asetuksia.";
-"widget_next_class_dark_label" = "Seuraava tunti";
 "widget_next_class_light_desc" = "Meneillään oleva tai seuraava tunti. Teema seuraa sovelluksen asetuksia.";
 "widget_next_class_light_label" = "Seuraava tunti";
 "widget_next_class_short" = "Seuraava";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Meneillään";
 "widget_ongoing_count" = "Meneillään × %1$d";
 "widget_sign_in" = "Kirjaudu ensin TigerDuck-sovellukseen";
-"widget_today_dark_desc" = "Tämän päivän tuntilista. Teema seuraa sovelluksen asetuksia.";
-"widget_today_dark_label" = "Lukujärjestys (Tänään)";
 "widget_today_light_desc" = "Tämän päivän tuntilista. Teema seuraa sovelluksen asetuksia.";
 "widget_today_light_label" = "Lukujärjestys (Tänään)";
 "widget_today_schedule_title" = "Tämän päivän lukujärjestys";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Huomenna";
 "widget_tomorrow_time" = "Huomenna %1$@";
 "widget_until_time" = "Asti %1$@";
-"widget_week_dark_desc" = "Viikon koko lukujärjestys. Teema seuraa sovelluksen asetuksia.";
-"widget_week_dark_label" = "Lukujärjestys (Viikko)";
 "widget_week_light_desc" = "Viikon koko lukujärjestys. Teema seuraa sovelluksen asetuksia.";
 "widget_week_light_label" = "Lukujärjestys (Viikko)";

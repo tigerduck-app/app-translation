@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "வகுப்பு மோதல்";
 "a11y_course_card_open_details_hint" = "விவரங்களுக்கு இருமுறை தட்டவும்";
 "a11y_course_detail_open_moodle" = "Moodle-ல் திறக்கவும்";
-"a11y_dropdown_action_hint" = "வேறு விருப்பத்தைத் தேர்வு செய்ய இருமுறை தட்டவும்";
 "a11y_rankings_trend_chart" = "பருவம் வாரியான GPA போக்கு";
 "a11y_rankings_trend_no_selection" = "பருவம் தேர்வு செய்யப்படவில்லை";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "புஷ் இயக்கப்பட்டால், உங்கள் குழுசேர்வு விதிகளுக்கு ஒரு அறிவிப்பு பொருந்தும்போது TigerDuck உங்களுக்கு தெரிவிக்கும்.";
 "bulletin_push_footer" = "புஷ் அறிவிப்புகள் உங்கள் விதிகளின் அடிப்படையில் TigerDuck சேவையகத்தால் வழங்கப்படுகின்றன. சாதன அடையாளம் அநாமதேய UUID ஆக அனுப்பப்படுகிறது — உங்கள் மாணவர் அடையாள எண் ஒருபோதும் பதிவேற்றப்படாது.";
 "bulletin_push_reopen_settings" = "கணினி அமைப்புகளில் மீண்டும் இயக்கு";
-"bulletin_push_requesting" = "கோருகிறது…";
 "bulletin_push_settings_header" = "புஷ் அமைப்புகள்";
 "bulletin_push_status_denied" = "மறுக்கப்பட்டது";
 "bulletin_push_status_ephemeral" = "தற்காலிகம்";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "குறிப்பிட்ட துறை";
 "bulletin_rule_disabled_badge" = "முடக்கப்பட்டது";
 "bulletin_rule_edit_title" = "விதியைத் திருத்து";
-"bulletin_rule_editor_all_depts" = "அனைத்து துறைகளும்";
-"bulletin_rule_editor_all_tags" = "அனைத்து வகைகளும்";
 "bulletin_rule_editor_dept_section" = "துறை";
 "bulletin_rule_editor_enable_toggle" = "இந்த விதியை இயக்கு";
 "bulletin_rule_editor_mode_and_footer" = "துறை மற்றும் வகை இரண்டும் பொருந்தும்போது மட்டும் தெரிவிக்கவும்.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ ஏற்கனவே இந்த இடத்தில் (வாரநாள் %2$@, பீரியட் %3$@) இரண்டு வகுப்புகள் உள்ளன: %4$@ மற்றும் %5$@. கணினி மூன்று மடங்கு மோதல்களை ஆதரிக்காது.";
 "class_table_conflict_add_failed_title" = "சேர்க்க முடியவில்லை";
 "class_table_course_name" = "வகுப்பின் பெயர்";
-"class_table_course_no_value" = "வகுப்பு குறியீடு: %1$@";
-"class_table_course_time_value" = "வகுப்பு நேரம்: %1$@";
 "class_table_delete" = "நீக்கு";
 "class_table_delete_with_course" = "நீக்கு — %1$@";
 "class_table_empty_message" = "புதுப்பிக்க இழுக்கவும், வகுப்பு சேர்க்க + தட்டவும், அல்லது வேறு பருவத்திற்கு மாறவும்";
-"class_table_enrolled_count_value" = "பதிவு: %1$d/%2$d";
 "class_table_login_required_message" = "உங்கள் வகுப்பு அட்டவணையை காண உள்நுழையவும்";
 "class_table_pick_color" = "நிறம் தேர்வு";
 "class_table_pick_color_with_course" = "நிறம் தேர்வு — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "வகுப்பறை: %1$@";
 "course_color_picker_custom_badge" = "தனிப்பயன்";
 "course_color_picker_custom_label" = "தனிப்பயன் வண்ணம்";
-"course_color_picker_reset_action" = "இயல்புநிலை நிறத்தை மீட்டமை";
 "course_color_picker_title" = "வண்ணத்தைத் திருத்து";
 "course_credits_value" = "கிரெடிட்கள்: %1$d";
 "course_detail_classroom_label" = "வகுப்பறை";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "இந்த பருவத்தில் வகுப்புகள் இல்லை";
 "desktop_class_table_loading_value" = "%1$@ ஏற்றுகிறது…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d வகுப்புகள் · %3$d கிரெடிட்கள்";
-"desktop_course_detail_course_no_label" = "வகுப்பு எண்";
 "desktop_home_section_upcoming_assignments" = "வரவிருக்கும் ஒப்படைப்புகள்";
 "desktop_login_disclaimer" = "இந்த செயலி தேசிய தைவான் அறிவியல் மற்றும் தொழில்நுட்பப் பல்கலைக்கழகத்துடன் தொடர்பற்றது.";
 "desktop_login_subtitle" = "உங்கள் NTUST SSO கணக்கில் உள்நுழையவும்";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d மேலும்";
 "desktop_widget_now" = "இப்போது";
 "desktop_widget_starts_in" = "%@ இல் தொடங்கும்";
-"desktop_widget_up_next" = "அடுத்து வருவது";
 "device_id_copied" = "சாதன ID நகலெடுக்கப்பட்டது";
 "device_id_copy_action" = "சாதன ID நகலெடு";
 "error_bulletin_decoding_failed_format" = "அறிவிப்புப் பலகை பதிலைப் பகுப்பாய்வு செய்ய முடியவில்லை: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle வலைச்சேவை தற்போது கிடைக்கவில்லை.";
 "error_network_format" = "நெட்வொர்க் பிழை: %1$@";
 "error_network_unavailable" = "இணைக்க முடியவில்லை. உங்கள் நெட்வொர்க் இணைப்பை சரிபார்க்கவும்.";
-"error_no_response" = "எந்த பதிலும் இல்லை";
 "error_qr_generation_failed_format" = "QR குறியீட்டை உருவாக்க முடியவில்லை: %1$@";
 "error_session_expired" = "அமர்வு காலாவதியானது";
 "error_sso_login_failed" = "உள்நுழைவு தோல்வியடைந்தது. உங்கள் கணக்கையும் கடவுச்சொல்லையும் சரிபார்க்கவும்.";
 "error_sso_login_form_not_found" = "SSO உள்நுழைவுப் படிவத்தைக் கண்டுபிடிக்க முடியவில்லை.";
-"error_unknown" = "தெரியாத பிழை";
 "feature_announcements" = "அறிவிப்புகள்";
 "feature_announcements_short" = "அறிவிப்புகள்";
 "feature_calendar" = "நாட்காட்டி";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "இருண்ட பயன்முறை";
 "settings_theme_light" = "ஒளிரும் பயன்முறை";
 "settings_theme_system" = "கணினியைப் பின்பற்று";
-"settings_token_valid_until" = "Token %1$@ வரை செல்லுபடியாகும்";
 "settings_use_english_classroom_abbreviation" = "வகுப்பறையின் ஆங்கில சுருக்கங்களைப் பயன்படுத்து";
 "settings_use_english_course_abbreviation" = "ஆங்கில வகுப்பு சுருக்கெழுத்துக்கள் பயன்படுத்து";
 "settings_version" = "பதிப்பு";
@@ -692,8 +679,6 @@
 "update_available_title" = "புதுப்பிப்பு கிடைக்கிறது";
 "update_check_failed_message" = "App Store-ஐ அணுக முடியவில்லை. பின்னர் மீண்டும் முயற்சிக்கவும்.";
 "update_check_failed_title" = "சரிபார்ப்பு தோல்வி";
-"update_ready_message" = "புதுப்பிப்பு பதிவிறக்கப்பட்டது, நிறுவ தயாராக உள்ளது.";
-"update_restart_action" = "மீண்டும் தொடங்கு";
 "update_up_to_date_message" = "நீங்கள் %1$@-ன் சமீபத்திய பதிப்பைப் பயன்படுத்துகிறீர்கள்.";
 "update_up_to_date_title" = "சமீபத்திய பதிப்பில் உள்ளீர்கள்";
 "watch_action_back" = "திரும்பு";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "பாடம்";
 "watch_course_instructor_label" = "ஆசிரியர்";
 "watch_empty_not_logged_in" = "உள்நுழையவில்லை. உங்கள் தொலைபேசியில் TigerDuck-ஐ திறக்கவும்.";
-"watch_ends_at" = "%1$@ மணிக்கு முடியும்";
 "watch_just_now" = "இப்போதுதான்";
 "watch_last_synced_never" = "ஒத்திசைக்கப்படவில்லை";
 "watch_last_synced_relative" = "கடைசியாக ஒத்திசைக்கப்பட்டது %1$@";
-"watch_library_loading" = "உருவாக்குகிறது…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone-ல் உள்நுழைக";
-"watch_library_title" = "நூலகம்";
 "watch_next" = "அடுத்து";
 "watch_next_label" = "அடுத்து: %1$@ · %2$@";
 "watch_no_courses_synced" = "ஒத்திசைக்கப்பட்ட பாடங்கள் இல்லை.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "செவ்";
 "weekday_wed_short" = "புத";
 "whats_new_continue" = "தொடர்";
-"whats_new_title" = "புதிய அம்சங்கள்";
 "widget_library_shortcut_desc" = "ஒரு தட்டுதலில் மெய்நிகர் நூலக பாஸ் QR Code திறக்கவும்";
 "widget_library_shortcut_label" = "நூலகம் QR Code குறுக்குவழி";
 "widget_library_shortcut_title" = "நூலகம்";
 "widget_next_class" = "அடுத்த வகுப்பு";
-"widget_next_class_dark_desc" = "தற்போதைய அல்லது அடுத்த வகுப்பு. தீம் App அமைப்பைப் பின்பற்றும்.";
-"widget_next_class_dark_label" = "அடுத்த வகுப்பு";
 "widget_next_class_light_desc" = "தற்போதைய அல்லது அடுத்த வகுப்பு. தீம் App அமைப்பைப் பின்பற்றும்.";
 "widget_next_class_light_label" = "அடுத்த வகுப்பு";
 "widget_next_class_short" = "அடுத்தது";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "நடந்து கொண்டிருக்கிறது";
 "widget_ongoing_count" = "நடந்து கொண்டிருக்கிறது × %1$d";
 "widget_sign_in" = "முதலில் TigerDuck-ல் உள்நுழையவும்";
-"widget_today_dark_desc" = "இன்றைய வகுப்பு பட்டியல். தீம் App அமைப்பைப் பின்பற்றும்.";
-"widget_today_dark_label" = "நேர அட்டவணை (இன்று)";
 "widget_today_light_desc" = "இன்றைய வகுப்பு பட்டியல். தீம் App அமைப்பைப் பின்பற்றும்.";
 "widget_today_light_label" = "நேர அட்டவணை (இன்று)";
 "widget_today_schedule_title" = "இன்றைய நேர அட்டவணை";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "நாளை";
 "widget_tomorrow_time" = "நாளை %1$@";
 "widget_until_time" = "%1$@ வரை";
-"widget_week_dark_desc" = "இந்த வாரத்தின் முழு நேர அட்டவணை. தீம் App அமைப்பைப் பின்பற்றும்.";
-"widget_week_dark_label" = "நேர அட்டவணை (வாரம்)";
 "widget_week_light_desc" = "இந்த வாரத்தின் முழு நேர அட்டவணை. தீம் App அமைப்பைப் பின்பற்றும்.";
 "widget_week_light_label" = "நேர அட்டவணை (வாரம்)";

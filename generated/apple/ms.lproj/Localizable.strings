@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Konflik kelas";
 "a11y_course_card_open_details_hint" = "Ketik dua kali untuk butiran";
 "a11y_course_detail_open_moodle" = "Buka dalam Moodle";
-"a11y_dropdown_action_hint" = "Ketik dua kali untuk pilih pilihan lain";
 "a11y_rankings_trend_chart" = "Trend GPA mengikut semester";
 "a11y_rankings_trend_no_selection" = "Tiada semester dipilih";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Apabila tolak diaktifkan, TigerDuck akan memberitahu anda apabila buletin sepadan dengan peraturan langganan anda.";
 "bulletin_push_footer" = "Pemberitahuan tolak dihantar oleh pelayan TigerDuck berdasarkan peraturan anda. Pengecam peranti dihantar sebagai UUID tanpa nama — ID pelajar anda tidak pernah dimuat naik.";
 "bulletin_push_reopen_settings" = "Aktifkan semula dalam Tetapan Sistem";
-"bulletin_push_requesting" = "Meminta…";
 "bulletin_push_settings_header" = "Tetapan tolak";
 "bulletin_push_status_denied" = "Dinafikan";
 "bulletin_push_status_ephemeral" = "Sementara";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Jabatan tertentu";
 "bulletin_rule_disabled_badge" = "Dilumpuhkan";
 "bulletin_rule_edit_title" = "Edit peraturan";
-"bulletin_rule_editor_all_depts" = "Semua jabatan";
-"bulletin_rule_editor_all_tags" = "Semua kategori";
 "bulletin_rule_editor_dept_section" = "Jabatan";
 "bulletin_rule_editor_enable_toggle" = "Aktifkan peraturan ini";
 "bulletin_rule_editor_mode_and_footer" = "Beritahu hanya apabila jabatan dan kategori sepadan.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ sudah mempunyai dua kelas pada slot ini (Hari minggu %2$@, Waktu %3$@): %4$@ dan %5$@. Sistem tidak menyokong tiga konflik.";
 "class_table_conflict_add_failed_title" = "Tidak dapat ditambah";
 "class_table_course_name" = "Nama kursus";
-"class_table_course_no_value" = "Kod kursus: %1$@";
-"class_table_course_time_value" = "Masa kelas: %1$@";
 "class_table_delete" = "Padam";
 "class_table_delete_with_course" = "Padam — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Pendaftaran: %1$d/%2$d";
 "class_table_login_required_message" = "Log masuk untuk melihat jadual kelas anda";
 "class_table_pick_color" = "Pilih warna";
 "class_table_pick_color_with_course" = "Pilih warna — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Bilik darjah: %1$@";
 "course_color_picker_custom_badge" = "Khusus";
 "course_color_picker_custom_label" = "Warna khusus";
-"course_color_picker_reset_action" = "Pulihkan warna lalai";
 "course_color_picker_title" = "Edit warna";
 "course_credits_value" = "Kredit: %1$d";
 "course_detail_classroom_label" = "Bilik darjah";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Tiada kursus pada semester ini";
 "desktop_class_table_loading_value" = "Memuatkan %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d kursus · %3$d kredit";
-"desktop_course_detail_course_no_label" = "No. kursus";
 "desktop_home_section_upcoming_assignments" = "Tugasan akan datang";
 "desktop_login_disclaimer" = "Aplikasi ini tidak bergabung dengan National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Log masuk dengan akaun NTUST SSO anda";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d lagi";
 "desktop_widget_now" = "SEKARANG";
 "desktop_widget_starts_in" = "Bermula dalam %@";
-"desktop_widget_up_next" = "Seterusnya";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Gagal menghuraikan respons buletin: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Perkhidmatan web Moodle pada masa ini tidak tersedia.";
 "error_network_format" = "Ralat rangkaian: %1$@";
 "error_network_unavailable" = "Tidak dapat berhubung. Sila semak sambungan rangkaian anda.";
-"error_no_response" = "Tiada respons";
 "error_qr_generation_failed_format" = "Gagal menjana kod QR: %1$@";
 "error_session_expired" = "Sesi tamat tempoh";
 "error_sso_login_failed" = "Daftar masuk gagal. Sila sahkan akaun dan kata laluan anda.";
 "error_sso_login_form_not_found" = "Tidak dapat mencari borang daftar masuk SSO.";
-"error_unknown" = "Ralat tidak diketahui";
 "feature_announcements" = "Pengumuman";
 "feature_announcements_short" = "Pengumuman";
 "feature_calendar" = "Kalendar";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Mod gelap";
 "settings_theme_light" = "Mod cerah";
 "settings_theme_system" = "Ikut sistem";
-"settings_token_valid_until" = "Token sah hingga %1$@";
 "settings_use_english_classroom_abbreviation" = "Gunakan singkatan bilik darjah dalam bahasa Inggeris";
 "settings_use_english_course_abbreviation" = "Gunakan singkatan kursus Inggeris";
 "settings_version" = "Versi";
@@ -692,8 +679,6 @@
 "update_available_title" = "Kemas kini tersedia";
 "update_check_failed_message" = "Tidak dapat menghubungi App Store. Cuba lagi kemudian.";
 "update_check_failed_title" = "Semakan gagal";
-"update_ready_message" = "Kemas kini telah dimuat turun dan sedia untuk dipasang.";
-"update_restart_action" = "Mulakan semula";
 "update_up_to_date_message" = "Anda mempunyai versi terkini %1$@.";
 "update_up_to_date_title" = "Anda sudah terkini";
 "watch_action_back" = "Kembali";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Kursus";
 "watch_course_instructor_label" = "Pengajar";
 "watch_empty_not_logged_in" = "Belum log masuk. Buka TigerDuck di telefon anda.";
-"watch_ends_at" = "Berakhir %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Belum pernah disegerak";
 "watch_last_synced_relative" = "Disegerakkan kali terakhir %1$@";
-"watch_library_loading" = "Menjana…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Log masuk di iPhone";
-"watch_library_title" = "Perpustakaan";
 "watch_next" = "NEXT";
 "watch_next_label" = "Seterusnya: %1$@ · %2$@";
 "watch_no_courses_synced" = "Tiada kursus disegerakkan.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Sel";
 "weekday_wed_short" = "Rab";
 "whats_new_continue" = "Teruskan";
-"whats_new_title" = "Apa yang baharu";
 "widget_library_shortcut_desc" = "Buka kod QR pas perpustakaan maya dengan satu ketikan";
 "widget_library_shortcut_label" = "Pintasan Kod QR Perpustakaan";
 "widget_library_shortcut_title" = "Perpustakaan";
 "widget_next_class" = "Kelas seterusnya";
-"widget_next_class_dark_desc" = "Kelas semasa atau seterusnya. Tema mengikut tetapan aplikasi.";
-"widget_next_class_dark_label" = "Kelas Seterusnya";
 "widget_next_class_light_desc" = "Kelas semasa atau seterusnya. Tema mengikut tetapan aplikasi.";
 "widget_next_class_light_label" = "Kelas Seterusnya";
 "widget_next_class_short" = "Seterusnya";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Sedang berjalan";
 "widget_ongoing_count" = "Sedang berjalan × %1$d";
 "widget_sign_in" = "Sila log masuk ke TigerDuck dahulu";
-"widget_today_dark_desc" = "Senarai kelas hari ini. Tema mengikut tetapan aplikasi.";
-"widget_today_dark_label" = "Jadual (Hari Ini)";
 "widget_today_light_desc" = "Senarai kelas hari ini. Tema mengikut tetapan aplikasi.";
 "widget_today_light_label" = "Jadual (Hari Ini)";
 "widget_today_schedule_title" = "Jadual hari ini";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Esok";
 "widget_tomorrow_time" = "Esok %1$@";
 "widget_until_time" = "Hingga %1$@";
-"widget_week_dark_desc" = "Jadual penuh minggu ini. Tema mengikut tetapan aplikasi.";
-"widget_week_dark_label" = "Jadual (Minggu)";
 "widget_week_light_desc" = "Jadual penuh minggu ini. Tema mengikut tetapan aplikasi.";
 "widget_week_light_label" = "Jadual (Minggu)";

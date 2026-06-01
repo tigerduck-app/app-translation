@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Konflikt ur";
 "a11y_course_card_open_details_hint" = "Dvakrat tapnite za podrobnosti";
 "a11y_course_detail_open_moodle" = "Odpri v Moodle";
-"a11y_dropdown_action_hint" = "Dvakrat tapnite za izbiro druge možnosti";
 "a11y_rankings_trend_chart" = "Trend GPA po semestru";
 "a11y_rankings_trend_no_selection" = "Ni izbranega semestra";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Ko so potisna obvestila vklopljena, vas bo TigerDuck obvestil vsakič, ko obvestilo ustreza vašim pravilom naročnine.";
 "bulletin_push_footer" = "Potisna obvestila posreduje strežnik TigerDuck na podlagi vaših pravil. Identifikator naprave se pošlje kot anonimni UUID — vaša študentska številka se nikoli ne naloži.";
 "bulletin_push_reopen_settings" = "Znova omogočite v Sistemskih nastavitvah";
-"bulletin_push_requesting" = "Zahtevanje…";
 "bulletin_push_settings_header" = "Nastavitve potisnih obvestil";
 "bulletin_push_status_denied" = "Zavrnjeno";
 "bulletin_push_status_ephemeral" = "Začasno";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Določen oddelek";
 "bulletin_rule_disabled_badge" = "Onemogočeno";
 "bulletin_rule_edit_title" = "Uredi pravilo";
-"bulletin_rule_editor_all_depts" = "Vsi oddelki";
-"bulletin_rule_editor_all_tags" = "Vse kategorije";
 "bulletin_rule_editor_dept_section" = "Oddelek";
 "bulletin_rule_editor_enable_toggle" = "Omogoči to pravilo";
 "bulletin_rule_editor_mode_and_footer" = "Obvesti samo, ko se ujemata tako oddelek kot kategorija.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ ima v tem terminu (Dan %2$@, Ura %3$@) že dve uri: %4$@ in %5$@. Sistem ne podpira trojnih konfliktov.";
 "class_table_conflict_add_failed_title" = "Dodajanje ni mogoče";
 "class_table_course_name" = "Ime predmeta";
-"class_table_course_no_value" = "Koda predmeta: %1$@";
-"class_table_course_time_value" = "Čas ure: %1$@";
 "class_table_delete" = "Izbriši";
 "class_table_delete_with_course" = "Izbriši — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Vpisani: %1$d/%2$d";
 "class_table_login_required_message" = "Prijavite se za ogled urnika";
 "class_table_pick_color" = "Izberi barvo";
 "class_table_pick_color_with_course" = "Izberi barvo — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Učilnica: %1$@";
 "course_color_picker_custom_badge" = "Po meri";
 "course_color_picker_custom_label" = "Barva po meri";
-"course_color_picker_reset_action" = "Obnovi privzeto barvo";
 "course_color_picker_title" = "Uredi barvo";
 "course_credits_value" = "Kreditne točke: %1$d";
 "course_detail_classroom_label" = "Učilnica";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Začne se čez %@";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Razčlenjevanje odziva oglasne deske ni uspelo: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Spletna storitev Moodle trenutno ni na voljo.";
 "error_network_format" = "Omrežna napaka: %1$@";
 "error_network_unavailable" = "Povezava ni mogoča. Preverite omrežno povezavo.";
-"error_no_response" = "Ni odgovora";
 "error_qr_generation_failed_format" = "Ustvarjanje kode QR ni uspelo: %1$@";
 "error_session_expired" = "Seja je potekla";
 "error_sso_login_failed" = "Prijava ni uspela. Preverite svoj račun in geslo.";
 "error_sso_login_form_not_found" = "Obrazca za prijavo SSO ni bilo mogoče najti.";
-"error_unknown" = "Neznana napaka";
 "feature_announcements" = "Obvestila";
 "feature_announcements_short" = "Obvestila";
 "feature_calendar" = "Koledar";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Temni način";
 "settings_theme_light" = "Svetli način";
 "settings_theme_system" = "Sledi sistemu";
-"settings_token_valid_until" = "Žeton velja do %1$@";
 "settings_use_english_classroom_abbreviation" = "Uporabi angleške okrajšave učilnic";
 "settings_use_english_course_abbreviation" = "Uporabi angleške okrajšave predmetov";
 "settings_version" = "Različica";
@@ -692,8 +679,6 @@
 "update_available_title" = "Na voljo je posodobitev";
 "update_check_failed_message" = "App Store ni bil dosegljiv. Poskusite znova pozneje.";
 "update_check_failed_title" = "Preverjanje ni uspelo";
-"update_ready_message" = "Posodobitev je prenesena in pripravljena za namestitev.";
-"update_restart_action" = "Znova zaženi";
 "update_up_to_date_message" = "Imate najnovejšo različico %1$@.";
 "update_up_to_date_title" = "Imate najnovejšo različico";
 "watch_action_back" = "Nazaj";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Predmet";
 "watch_course_instructor_label" = "Predavatelj";
 "watch_empty_not_logged_in" = "Niste prijavljeni. Odprite TigerDuck na telefonu.";
-"watch_ends_at" = "Konča se ob %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Nikoli sinhronizirano";
 "watch_last_synced_relative" = "Zadnja sinhronizacija %1$@";
-"watch_library_loading" = "Ustvarjanje…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Prijavite se na iPhone";
-"watch_library_title" = "Knjižnica";
 "watch_next" = "NASLEDNJI";
 "watch_next_label" = "Naslednje: %1$@ · %2$@";
 "watch_no_courses_synced" = "Ni sinhroniziranih predmetov.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Tor";
 "weekday_wed_short" = "Sre";
 "whats_new_continue" = "Nadaljuj";
-"whats_new_title" = "Kaj je novega";
 "widget_library_shortcut_desc" = "Z enim dotikom odprite virtualno izkaznico knjižnice QR kodo";
 "widget_library_shortcut_label" = "Bližnjica do QR kode knjižnice";
 "widget_library_shortcut_title" = "Knjižnica";
 "widget_next_class" = "Naslednja ura";
-"widget_next_class_dark_desc" = "Trenutna ali naslednja ura. Tema sledi nastavitvi aplikacije.";
-"widget_next_class_dark_label" = "Naslednja ura";
 "widget_next_class_light_desc" = "Trenutna ali naslednja ura. Tema sledi nastavitvi aplikacije.";
 "widget_next_class_light_label" = "Naslednja ura";
 "widget_next_class_short" = "Naslednja";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "V teku";
 "widget_ongoing_count" = "V teku × %1$d";
 "widget_sign_in" = "Najprej se prijavite v TigerDuck";
-"widget_today_dark_desc" = "Seznam današnjih ur. Tema sledi nastavitvi aplikacije.";
-"widget_today_dark_label" = "Urnik (danes)";
 "widget_today_light_desc" = "Seznam današnjih ur. Tema sledi nastavitvi aplikacije.";
 "widget_today_light_label" = "Urnik (danes)";
 "widget_today_schedule_title" = "Današnji urnik";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Jutri";
 "widget_tomorrow_time" = "Jutri %1$@";
 "widget_until_time" = "Do %1$@";
-"widget_week_dark_desc" = "Celoten urnik za ta teden. Tema sledi nastavitvi aplikacije.";
-"widget_week_dark_label" = "Urnik (teden)";
 "widget_week_light_desc" = "Celoten urnik za ta teden. Tema sledi nastavitvi aplikacije.";
 "widget_week_light_label" = "Urnik (teden)";

@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Óraütközés";
 "a11y_course_card_open_details_hint" = "Koppintson duplán a részletekért";
 "a11y_course_detail_open_moodle" = "Megnyitás Moodle-ban";
-"a11y_dropdown_action_hint" = "Koppintson duplán másik lehetőség választásához";
 "a11y_rankings_trend_chart" = "GPA-tendencia szemeszterenként";
 "a11y_rankings_trend_no_selection" = "Nincs szemeszter kiválasztva";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Ha a push engedélyezve van, a TigerDuck értesít, amikor egy hirdetmény megfelel a feliratkozási szabályaidnak.";
 "bulletin_push_footer" = "A push értesítéseket a TigerDuck szerver kézbesíti a szabályaid alapján. Az eszközazonosító névtelen UUID-ként kerül elküldésre – a diákigazolvány-számod soha nem töltődik fel.";
 "bulletin_push_reopen_settings" = "Újbóli engedélyezés a Rendszerbeállításokban";
-"bulletin_push_requesting" = "Kérés folyamatban…";
 "bulletin_push_settings_header" = "Push beállítások";
 "bulletin_push_status_denied" = "Megtagadva";
 "bulletin_push_status_ephemeral" = "Ideiglenes";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Adott tanszék";
 "bulletin_rule_disabled_badge" = "Letiltva";
 "bulletin_rule_edit_title" = "Szabály szerkesztése";
-"bulletin_rule_editor_all_depts" = "Összes tanszék";
-"bulletin_rule_editor_all_tags" = "Összes kategória";
 "bulletin_rule_editor_dept_section" = "Tanszék";
 "bulletin_rule_editor_enable_toggle" = "Szabály engedélyezése";
 "bulletin_rule_editor_mode_and_footer" = "Értesítés csak akkor, ha a tanszék és a kategória is egyezik.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@-nél már két óra van ennél az időpontnál (%2$@ nap, %3$@. óra): %4$@ és %5$@. A rendszer nem támogat hármas ütközést.";
 "class_table_conflict_add_failed_title" = "Nem adható hozzá";
 "class_table_course_name" = "Kurzus neve";
-"class_table_course_no_value" = "Kurzuskód: %1$@";
-"class_table_course_time_value" = "Óra időpontja: %1$@";
 "class_table_delete" = "Törlés";
 "class_table_delete_with_course" = "Törlés — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Beiratkozottak száma: %1$d/%2$d";
 "class_table_login_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_pick_color" = "Szín kiválasztása";
 "class_table_pick_color_with_course" = "Szín kiválasztása — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Tanterem: %1$@";
 "course_color_picker_custom_badge" = "Egyéni";
 "course_color_picker_custom_label" = "Egyéni szín";
-"course_color_picker_reset_action" = "Standardfarbe wiederherstellen";
 "course_color_picker_title" = "Szín szerkesztése";
 "course_credits_value" = "Kreditek: %1$d";
 "course_detail_classroom_label" = "Klassenzimmer";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Kezdés %@ múlva";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nem sikerült feldolgozni a hirdetmény válaszát: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "A Moodle webszolgáltatás jelenleg nem érhető el.";
 "error_network_format" = "Hálózati hiba: %1$@";
 "error_network_unavailable" = "Nem lehet csatlakozni. Kérjük, ellenőrizze a hálózati kapcsolatot.";
-"error_no_response" = "Nincs válasz";
 "error_qr_generation_failed_format" = "Nem sikerült QR-kódot generálni: %1$@";
 "error_session_expired" = "A munkamenet lejárt";
 "error_sso_login_failed" = "A bejelentkezés sikertelen. Kérjük, ellenőrizze fiókját és jelszavát.";
 "error_sso_login_form_not_found" = "Nem található az SSO bejelentkezési űrlap.";
-"error_unknown" = "Ismeretlen hiba";
 "feature_announcements" = "Bejelentések";
 "feature_announcements_short" = "Bejelentések";
 "feature_calendar" = "Naptár";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Sötét mód";
 "settings_theme_light" = "Világos mód";
 "settings_theme_system" = "Rendszer szerint";
-"settings_token_valid_until" = "Token érvényes eddig: %1$@";
 "settings_use_english_classroom_abbreviation" = "Tantermek angol rövidítéseinek használata";
 "settings_use_english_course_abbreviation" = "Angol kurzusnév rövidítések használata";
 "settings_version" = "Verzió";
@@ -692,8 +679,6 @@
 "update_available_title" = "Frissítés elérhető";
 "update_check_failed_message" = "Az App Store nem érhető el. Próbáld újra később.";
 "update_check_failed_title" = "Az ellenőrzés sikertelen";
-"update_ready_message" = "A frissítés letöltve, telepítésre kész.";
-"update_restart_action" = "Újraindítás";
 "update_up_to_date_message" = "A(z) %1$@ legújabb verziója van telepítve.";
 "update_up_to_date_title" = "Naprakész vagy";
 "watch_action_back" = "Vissza";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Kurzus";
 "watch_course_instructor_label" = "Oktató";
 "watch_empty_not_logged_in" = "Nincs bejelentkezve. Nyissa meg a TigerDuck-ot a telefonján.";
-"watch_ends_at" = "Vége %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Még soha nem szinkronizálva";
 "watch_last_synced_relative" = "Utolsó szinkronizálás %1$@";
-"watch_library_loading" = "Generálás…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Jelentkezzen be iPhone-on";
-"watch_library_title" = "Könyvtár";
 "watch_next" = "KÖVETKEZŐ";
 "watch_next_label" = "Következő: %1$@ · %2$@";
 "watch_no_courses_synced" = "Nincsenek szinkronizált kurzusok.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "K";
 "weekday_wed_short" = "Sze";
 "whats_new_continue" = "Tovább";
-"whats_new_title" = "Újdonságok";
 "widget_library_shortcut_desc" = "Nyissa meg a virtuális könyvtári belépőkártya QR-kódját egy koppintással";
 "widget_library_shortcut_label" = "Könyvtár QR-kód parancsikon";
 "widget_library_shortcut_title" = "Könyvtár";
 "widget_next_class" = "Következő óra";
-"widget_next_class_dark_desc" = "Aktuális vagy következő óra. A téma az alkalmazás beállítását követi.";
-"widget_next_class_dark_label" = "Következő óra";
 "widget_next_class_light_desc" = "Aktuális vagy következő óra. A téma az alkalmazás beállítását követi.";
 "widget_next_class_light_label" = "Következő óra";
 "widget_next_class_short" = "Következő";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Folyamatban";
 "widget_ongoing_count" = "Folyamatban × %1$d";
 "widget_sign_in" = "Kérjük, először jelentkezzen be a TigerDuck alkalmazásba";
-"widget_today_dark_desc" = "Mai kurzusok listája. A téma az alkalmazás beállítását követi.";
-"widget_today_dark_label" = "Órarend (ma)";
 "widget_today_light_desc" = "Mai kurzusok listája. A téma az alkalmazás beállítását követi.";
 "widget_today_light_label" = "Órarend (ma)";
 "widget_today_schedule_title" = "Mai órarend";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Holnap";
 "widget_tomorrow_time" = "Holnap %1$@";
 "widget_until_time" = "%1$@-ig";
-"widget_week_dark_desc" = "Az egész heti órarend. A téma az alkalmazás beállítását követi.";
-"widget_week_dark_label" = "Órarend (hét)";
 "widget_week_light_desc" = "Az egész heti órarend. A téma az alkalmazás beállítását követi.";
 "widget_week_light_label" = "Órarend (hét)";

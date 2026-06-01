@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Conflitto di lezioni";
 "a11y_course_card_open_details_hint" = "Tocca due volte per i dettagli";
 "a11y_course_detail_open_moodle" = "Apri in Moodle";
-"a11y_dropdown_action_hint" = "Tocca due volte per scegliere un'altra opzione";
 "a11y_rankings_trend_chart" = "Andamento GPA per semestre";
 "a11y_rankings_trend_no_selection" = "Nessun semestre selezionato";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Quando il push è attivo, TigerDuck ti avviserà ogni volta che un avviso corrisponde alle tue regole di abbonamento.";
 "bulletin_push_footer" = "Le notifiche push vengono inviate dal server TigerDuck in base alle tue regole. L'identificatore del dispositivo viene trasmesso come UUID anonimo — il tuo numero studente non viene mai caricato.";
 "bulletin_push_reopen_settings" = "Riattiva nelle Impostazioni di sistema";
-"bulletin_push_requesting" = "Richiesta in corso…";
 "bulletin_push_settings_header" = "Impostazioni push";
 "bulletin_push_status_denied" = "Negato";
 "bulletin_push_status_ephemeral" = "Temporaneo";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Dipartimento specifico";
 "bulletin_rule_disabled_badge" = "Disabilitata";
 "bulletin_rule_edit_title" = "Modifica regola";
-"bulletin_rule_editor_all_depts" = "Tutti i dipartimenti";
-"bulletin_rule_editor_all_tags" = "Tutte le categorie";
 "bulletin_rule_editor_dept_section" = "Dipartimento";
 "bulletin_rule_editor_enable_toggle" = "Abilita questa regola";
 "bulletin_rule_editor_mode_and_footer" = "Notifica solo quando corrispondono sia il dipartimento che la categoria.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ ha già due lezioni in questo orario (Giorno %2$@, Periodo %3$@): %4$@ e %5$@. Il sistema non supporta tre conflitti.";
 "class_table_conflict_add_failed_title" = "Impossibile aggiungere";
 "class_table_course_name" = "Nome corso";
-"class_table_course_no_value" = "Codice corso: %1$@";
-"class_table_course_time_value" = "Orario lezione: %1$@";
 "class_table_delete" = "Elimina";
 "class_table_delete_with_course" = "Elimina — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Iscrizioni: %1$d/%2$d";
 "class_table_login_required_message" = "Accedi per visualizzare il tuo orario delle lezioni";
 "class_table_pick_color" = "Scegli colore";
 "class_table_pick_color_with_course" = "Scegli colore — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Aula: %1$@";
 "course_color_picker_custom_badge" = "Personalizzato";
 "course_color_picker_custom_label" = "Colore personalizzato";
-"course_color_picker_reset_action" = "Ripristina colore predefinito";
 "course_color_picker_title" = "Modifica colore";
 "course_credits_value" = "Crediti: %1$d";
 "course_detail_classroom_label" = "Aula";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Nessun corso in questo semestre";
 "desktop_class_table_loading_value" = "Caricamento di %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d corsi · %3$d crediti";
-"desktop_course_detail_course_no_label" = "N. corso";
 "desktop_home_section_upcoming_assignments" = "Compiti in arrivo";
 "desktop_login_disclaimer" = "Questa app non è affiliata alla National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Accedi con il tuo account SSO NTUST";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d altri";
 "desktop_widget_now" = "ORA";
 "desktop_widget_starts_in" = "Inizia tra %@";
-"desktop_widget_up_next" = "Prossimo";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Impossibile analizzare la risposta del bollettino: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Il webservice Moodle non è attualmente disponibile.";
 "error_network_format" = "Errore di rete: %1$@";
 "error_network_unavailable" = "Impossibile connettersi. Controlla la connessione di rete.";
-"error_no_response" = "Nessuna risposta";
 "error_qr_generation_failed_format" = "Impossibile generare il codice QR: %1$@";
 "error_session_expired" = "Sessione scaduta";
 "error_sso_login_failed" = "Accesso non riuscito. Verifica account e password.";
 "error_sso_login_form_not_found" = "Impossibile trovare il modulo di accesso SSO.";
-"error_unknown" = "Errore sconosciuto";
 "feature_announcements" = "Avvisi";
 "feature_announcements_short" = "Avvisi";
 "feature_calendar" = "Calendario";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Modalità scura";
 "settings_theme_light" = "Modalità chiara";
 "settings_theme_system" = "Segui il sistema";
-"settings_token_valid_until" = "Token valido fino al %1$@";
 "settings_use_english_classroom_abbreviation" = "Usa abbreviazioni delle aule in inglese";
 "settings_use_english_course_abbreviation" = "Usa abbreviazioni dei corsi in inglese";
 "settings_version" = "Versione";
@@ -692,8 +679,6 @@
 "update_available_title" = "Aggiornamento disponibile";
 "update_check_failed_message" = "Impossibile contattare l'App Store. Riprova più tardi.";
 "update_check_failed_title" = "Verifica non riuscita";
-"update_ready_message" = "L'aggiornamento è stato scaricato ed è pronto per l'installazione.";
-"update_restart_action" = "Riavvia";
 "update_up_to_date_message" = "Hai l'ultima versione di %1$@.";
 "update_up_to_date_title" = "Sei aggiornato";
 "watch_action_back" = "Indietro";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Corso";
 "watch_course_instructor_label" = "Docente";
 "watch_empty_not_logged_in" = "Non hai effettuato l'accesso. Apri TigerDuck sul tuo telefono.";
-"watch_ends_at" = "Termina alle %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Mai sincronizzato";
 "watch_last_synced_relative" = "Ultima sincronizzazione %1$@";
-"watch_library_loading" = "Generazione…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Accedi su iPhone";
-"watch_library_title" = "Biblioteca";
 "watch_next" = "SUCCESSIVO";
 "watch_next_label" = "Prossima: %1$@ · %2$@";
 "watch_no_courses_synced" = "Nessun corso sincronizzato.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Mar";
 "weekday_wed_short" = "Mer";
 "whats_new_continue" = "Continua";
-"whats_new_title" = "Novità";
 "widget_library_shortcut_desc" = "Apri il QR Code del pass virtuale della biblioteca con un tocco";
 "widget_library_shortcut_label" = "Scorciatoia QR Biblioteca";
 "widget_library_shortcut_title" = "Biblioteca";
 "widget_next_class" = "Prossima lezione";
-"widget_next_class_dark_desc" = "Lezione attuale o successiva. Il tema segue le impostazioni dell'app.";
-"widget_next_class_dark_label" = "Prossima lezione";
 "widget_next_class_light_desc" = "Lezione attuale o successiva. Il tema segue le impostazioni dell'app.";
 "widget_next_class_light_label" = "Prossima lezione";
 "widget_next_class_short" = "Prossima";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "In corso";
 "widget_ongoing_count" = "In corso × %1$d";
 "widget_sign_in" = "Accedi prima a TigerDuck";
-"widget_today_dark_desc" = "Elenco delle lezioni di oggi. Il tema segue le impostazioni dell'app.";
-"widget_today_dark_label" = "Orario (Oggi)";
 "widget_today_light_desc" = "Elenco delle lezioni di oggi. Il tema segue le impostazioni dell'app.";
 "widget_today_light_label" = "Orario (Oggi)";
 "widget_today_schedule_title" = "Orario di oggi";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Domani";
 "widget_tomorrow_time" = "Domani %1$@";
 "widget_until_time" = "Fino alle %1$@";
-"widget_week_dark_desc" = "Orario completo della settimana. Il tema segue le impostazioni dell'app.";
-"widget_week_dark_label" = "Orario (Settimana)";
 "widget_week_light_desc" = "Orario completo della settimana. Il tema segue le impostazioni dell'app.";
 "widget_week_light_label" = "Orario (Settimana)";

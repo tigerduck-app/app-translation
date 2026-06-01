@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Salungatan ng klase";
 "a11y_course_card_open_details_hint" = "I-double tap para sa mga detalye";
 "a11y_course_detail_open_moodle" = "Buksan sa Moodle";
-"a11y_dropdown_action_hint" = "I-double tap para pumili ng ibang opsyon";
 "a11y_rankings_trend_chart" = "Trend ng GPA bawat semester";
 "a11y_rankings_trend_no_selection" = "Walang napiling semester";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Kapag pinagana ang push, aabisuhan ka ng TigerDuck sa tuwing tumutugma ang isang bulletin sa iyong mga panuntunan sa subscription.";
 "bulletin_push_footer" = "Ang mga push notification ay inihahatid ng TigerDuck server batay sa iyong mga panuntunan. Ang identifier ng device ay ipinadala bilang isang hindi kilalang UUID — hindi kailanman ina-upload ang iyong student ID.";
 "bulletin_push_reopen_settings" = "I-enable muli sa Mga Setting ng System";
-"bulletin_push_requesting" = "Humihiling…";
 "bulletin_push_settings_header" = "Mga setting ng push";
 "bulletin_push_status_denied" = "Tinanggihan";
 "bulletin_push_status_ephemeral" = "Pansamantala";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Tiyak na departamento";
 "bulletin_rule_disabled_badge" = "Hindi pinagana";
 "bulletin_rule_edit_title" = "I-edit ang panuntunan";
-"bulletin_rule_editor_all_depts" = "Lahat ng departamento";
-"bulletin_rule_editor_all_tags" = "Lahat ng kategorya";
 "bulletin_rule_editor_dept_section" = "Kagawaran";
 "bulletin_rule_editor_enable_toggle" = "Paganahin ang panuntunang ito";
 "bulletin_rule_editor_mode_and_footer" = "Ipaalam lamang kapag magkatugma ang departamento at kategorya.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "Mayroon nang dalawang klase ang %1$@ sa slot na ito (Araw %2$@, Panahon %3$@): %4$@ at %5$@. Hindi sinusuportahan ng sistema ang tatlong magkakaagaw na klase.";
 "class_table_conflict_add_failed_title" = "Hindi maidagdag";
 "class_table_course_name" = "Pangalan ng kurso";
-"class_table_course_no_value" = "Code ng kurso: %1$@";
-"class_table_course_time_value" = "Oras ng klase: %1$@";
 "class_table_delete" = "Burahin";
 "class_table_delete_with_course" = "Burahin — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Bilang ng naka-enrol: %1$d/%2$d";
 "class_table_login_required_message" = "Mag-sign in upang tingnan ang iyong talahanayan ng klase";
 "class_table_pick_color" = "Pumili ng kulay";
 "class_table_pick_color_with_course" = "Pumili ng kulay — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Silid-aralan: %1$@";
 "course_color_picker_custom_badge" = "Pasadya";
 "course_color_picker_custom_label" = "Pasadyang kulay";
-"course_color_picker_reset_action" = "Ibalik ang default na kulay";
 "course_color_picker_title" = "I-edit ang kulay";
 "course_credits_value" = "Mga credit: %1$d";
 "course_detail_classroom_label" = "Silid-aralan";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Walang kurso sa semestre na ito";
 "desktop_class_table_loading_value" = "Naglo-load ng %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d kurso · %3$d credits";
-"desktop_course_detail_course_no_label" = "Numero ng kurso";
 "desktop_home_section_upcoming_assignments" = "Mga paparating na takdang aralin";
 "desktop_login_disclaimer" = "Ang app na ito ay hindi kaugnay ng National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Mag-sign in gamit ang iyong NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d pa";
 "desktop_widget_now" = "NGAYON";
 "desktop_widget_starts_in" = "Magsisimula sa %@";
-"desktop_widget_up_next" = "Susunod";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nabigong i-parse ang tugon ng bulletin: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Kasalukuyang hindi available ang Moodle webservice.";
 "error_network_format" = "Network error: %1$@";
 "error_network_unavailable" = "Hindi makakonekta. Pakisuri ang iyong koneksyon sa network.";
-"error_no_response" = "Walang tugon";
 "error_qr_generation_failed_format" = "Nabigong gumawa ng QR code: %1$@";
 "error_session_expired" = "Nag-expire ang session";
 "error_sso_login_failed" = "Nabigong mag-sign in. Pakitiyak ang iyong account at password.";
 "error_sso_login_form_not_found" = "Hindi mahanap ang SSO sign-in form.";
-"error_unknown" = "Hindi kilalang error";
 "feature_announcements" = "Mga anunsyo";
 "feature_announcements_short" = "Mga anunsyo";
 "feature_calendar" = "Kalendaryo";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Madilim na mode";
 "settings_theme_light" = "Maliwanag na mode";
 "settings_theme_system" = "Sundan ang sistema";
-"settings_token_valid_until" = "Valid ang token hanggang %1$@";
 "settings_use_english_classroom_abbreviation" = "Gamitin ang English na pagdadaglat ng silid-aralan";
 "settings_use_english_course_abbreviation" = "Gumamit ng English na abbreviation ng kurso";
 "settings_version" = "Bersyon";
@@ -692,8 +679,6 @@
 "update_available_title" = "May available na update";
 "update_check_failed_message" = "Hindi maabot ang App Store. Subukan muli mamaya.";
 "update_check_failed_title" = "Nabigo ang pagsusuri";
-"update_ready_message" = "Na-download na ang update at handa nang i-install.";
-"update_restart_action" = "I-restart";
 "update_up_to_date_message" = "Mayroon ka ng pinakabagong bersyon ng %1$@.";
 "update_up_to_date_title" = "Nasa pinakabago ka na";
 "watch_action_back" = "Bumalik";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Kurso";
 "watch_course_instructor_label" = "Tagapagturo";
 "watch_empty_not_logged_in" = "Hindi naka-sign in. Buksan ang TigerDuck sa iyong telepono.";
-"watch_ends_at" = "Tatapos %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Hindi pa na-sync";
 "watch_last_synced_relative" = "Huling na-sync %1$@";
-"watch_library_loading" = "Nag-gegenerate…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Mag-sign in sa iPhone";
-"watch_library_title" = "Library";
 "watch_next" = "SUSUNOD";
 "watch_next_label" = "Susunod: %1$@ · %2$@";
 "watch_no_courses_synced" = "Walang naka-sync na kurso.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Mar";
 "weekday_wed_short" = "Miy";
 "whats_new_continue" = "Magpatuloy";
-"whats_new_title" = "Ano ang bago";
 "widget_library_shortcut_desc" = "Buksan ang virtual library pass QR Code sa isang tap";
 "widget_library_shortcut_label" = "QR Shortcut ng Aklatan";
 "widget_library_shortcut_title" = "Aklatan";
 "widget_next_class" = "Susunod na klase";
-"widget_next_class_dark_desc" = "Kasalukuyan o susunod na klase. Sumusunod ang tema sa setting ng app.";
-"widget_next_class_dark_label" = "Susunod na Klase";
 "widget_next_class_light_desc" = "Kasalukuyan o susunod na klase. Sumusunod ang tema sa setting ng app.";
 "widget_next_class_light_label" = "Susunod na Klase";
 "widget_next_class_short" = "Susunod";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Kasalukuyan";
 "widget_ongoing_count" = "Kasalukuyan × %1$d";
 "widget_sign_in" = "Mag-sign in muna sa TigerDuck";
-"widget_today_dark_desc" = "Listahan ng klase ngayon. Sumusunod ang tema sa setting ng app.";
-"widget_today_dark_label" = "Iskedyul (Ngayon)";
 "widget_today_light_desc" = "Listahan ng klase ngayon. Sumusunod ang tema sa setting ng app.";
 "widget_today_light_label" = "Iskedyul (Ngayon)";
 "widget_today_schedule_title" = "Iskedyul ngayon";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Bukas";
 "widget_tomorrow_time" = "Bukas %1$@";
 "widget_until_time" = "Hanggang %1$@";
-"widget_week_dark_desc" = "Kumpletong iskedyul para sa linggong ito. Sumusunod ang tema sa setting ng app.";
-"widget_week_dark_label" = "Iskedyul (Linggo)";
 "widget_week_light_desc" = "Kumpletong iskedyul para sa linggong ito. Sumusunod ang tema sa setting ng app.";
 "widget_week_light_label" = "Iskedyul (Linggo)";

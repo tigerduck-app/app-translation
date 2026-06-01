@@ -51,6 +51,41 @@ respective values. This keeps the divergence explicit and reviewable in a
 single diff. Don't leave the original in `shared` and shadow it from a platform
 group — keys must be unique across groups within a locale.
 
+### OS-branded feature names (intentional forks)
+
+Some strings differ between platforms **on purpose** because Apple and Android
+brand the same OS feature differently. The string is the same concept, but the
+feature has a different official name on each OS, so the copy must match what
+the user sees in their system UI.
+
+The canonical example is the live class/assignment notification surface:
+
+- **Apple** calls it **"Live Activity"** (Lock Screen / Dynamic Island).
+- **Android** calls it **"Live Updates"**.
+
+So every key that names this feature is forked across `apple` and `android`
+with the platform's own term — this is correct and must **not** be "deduplicated"
+back into `shared`:
+
+| Key | `apple` | `android` |
+|---|---|---|
+| `live_activity_settings_enable` | "Enable live activity" | "Enable Live Updates" |
+| `live_activity_settings_description` | "Live activity shows…" | "Live Updates shows…" |
+| `live_activity_settings_reset_confirm_title` | "Reset all live activity settings?" | "Reset all Live Updates settings?" |
+| `live_activity_settings_sound_hint` | "…the \"Live activity\" notification channel…" | "…the \"Live Updates\" notification channel…" |
+| `notification_setup_description` | "…and live activity arrive…" | "…and Live Updates arrive…" |
+| `permission_notifications_description` | "…notifications and live activity will not appear." | "…notifications and Live Updates will not appear." |
+| `permission_warning_description` | "…notifications and live activity may not display…" | "…notifications and Live Updates may not display…" |
+
+When translating these, keep the **brand term** consistent with how that OS
+localizes the feature in the target language (follow Apple's / Google's own
+localized naming), and keep the surrounding sentence parallel between the two
+platforms so they don't drift apart in meaning.
+
+Apply the same rule to any future OS-branded primitive (e.g. Apple "Focus" vs
+Android "Do Not Disturb", "Shortcuts" vs "Routines"): fork the key, match each
+platform's term, keep the rest of the sentence aligned.
+
 ## Naming keys
 
 Keys are `snake_case` and lead with a stable feature/area prefix so related

@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "क्लास टकराव";
 "a11y_course_card_open_details_hint" = "विवरण के लिए दो बार टैप करें";
 "a11y_course_detail_open_moodle" = "Moodle में खोलें";
-"a11y_dropdown_action_hint" = "अन्य विकल्प चुनने के लिए दो बार टैप करें";
 "a11y_rankings_trend_chart" = "सेमेस्टर के अनुसार GPA प्रवृत्ति";
 "a11y_rankings_trend_no_selection" = "कोई सेमेस्टर नहीं चुना";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "जब पुश सक्षम हो, तो TigerDuck आपको तब सूचित करेगा जब कोई बुलेटिन आपके सदस्यता नियमों से मेल खाए।";
 "bulletin_push_footer" = "पुश सूचनाएं आपके नियमों के आधार पर TigerDuck सर्वर द्वारा दी जाती हैं। डिवाइस पहचानकर्ता एक गुमनाम UUID के रूप में भेजा जाता है — आपकी छात्र ID कभी अपलोड नहीं की जाती।";
 "bulletin_push_reopen_settings" = "सिस्टम सेटिंग्स में फिर से चालू करें";
-"bulletin_push_requesting" = "अनुरोध हो रहा है…";
 "bulletin_push_settings_header" = "पुश सेटिंग्स";
 "bulletin_push_status_denied" = "अस्वीकृत";
 "bulletin_push_status_ephemeral" = "अल्पकालिक";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "विशिष्ट विभाग";
 "bulletin_rule_disabled_badge" = "अक्षम";
 "bulletin_rule_edit_title" = "नियम संपादित करें";
-"bulletin_rule_editor_all_depts" = "सभी विभाग";
-"bulletin_rule_editor_all_tags" = "सभी श्रेणियां";
 "bulletin_rule_editor_dept_section" = "विभाग";
 "bulletin_rule_editor_enable_toggle" = "यह नियम सक्षम करें";
 "bulletin_rule_editor_mode_and_footer" = "सूचित करें केवल जब विभाग और श्रेणी दोनों मेल खाएं।";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ में इस स्लॉट (सप्ताहदिन %2$@, पीरियड %3$@) पर पहले से दो कक्षाएँ हैं: %4$@ और %5$@। सिस्टम तीन टकराव का समर्थन नहीं करता।";
 "class_table_conflict_add_failed_title" = "जोड़ने में असमर्थ";
 "class_table_course_name" = "कोर्स का नाम";
-"class_table_course_no_value" = "कोर्स कोड: %1$@";
-"class_table_course_time_value" = "कक्षा समय: %1$@";
 "class_table_delete" = "हटाएँ";
 "class_table_delete_with_course" = "हटाएँ — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "नामांकन: %1$d/%2$d";
 "class_table_login_required_message" = "अपनी क्लास टेबल देखने के लिए साइन इन करें";
 "class_table_pick_color" = "रंग चुनें";
 "class_table_pick_color_with_course" = "रंग चुनें — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "कक्षा: %1$@";
 "course_color_picker_custom_badge" = "कस्टम";
 "course_color_picker_custom_label" = "कस्टम रंग";
-"course_color_picker_reset_action" = "डिफ़ॉल्ट रंग पुनर्स्थापित करें";
 "course_color_picker_title" = "रंग संपादित करें";
 "course_credits_value" = "क्रेडिट: %1$d";
 "course_detail_classroom_label" = "कक्षा";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "इस सेमेस्टर में कोई कोर्स नहीं";
 "desktop_class_table_loading_value" = "%1$@ लोड हो रहा है…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d कोर्स · %3$d क्रेडिट";
-"desktop_course_detail_course_no_label" = "कोर्स नं.";
 "desktop_home_section_upcoming_assignments" = "आगामी असाइनमेंट";
 "desktop_login_disclaimer" = "यह ऐप National Taiwan University of Science and Technology से संबद्ध नहीं है।";
 "desktop_login_subtitle" = "अपने NTUST SSO खाते से साइन इन करें";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d और";
 "desktop_widget_now" = "अभी";
 "desktop_widget_starts_in" = "%@ में शुरू होगा";
-"desktop_widget_up_next" = "अगला";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "बुलेटिन प्रतिक्रिया पार्स करने में विफल: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle वेबसर्विस वर्तमान में अनुपलब्ध है।";
 "error_network_format" = "नेटवर्क त्रुटि: %1$@";
 "error_network_unavailable" = "कनेक्ट नहीं हो सका। कृपया अपना नेटवर्क कनेक्शन जाँचें।";
-"error_no_response" = "कोई प्रतिक्रिया नहीं";
 "error_qr_generation_failed_format" = "QR कोड बनाने में विफल: %1$@";
 "error_session_expired" = "सत्र समाप्त हो गया";
 "error_sso_login_failed" = "साइन-इन विफल। कृपया अपना खाता और पासवर्ड सत्यापित करें।";
 "error_sso_login_form_not_found" = "SSO साइन-इन फ़ॉर्म नहीं मिला।";
-"error_unknown" = "अज्ञात त्रुटि";
 "feature_announcements" = "घोषणाएँ";
 "feature_announcements_short" = "घोषणाएँ";
 "feature_calendar" = "कैलेंडर";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "डार्क मोड";
 "settings_theme_light" = "लाइट मोड";
 "settings_theme_system" = "सिस्टम का अनुसरण करें";
-"settings_token_valid_until" = "Token %1$@ तक वैध";
 "settings_use_english_classroom_abbreviation" = "कक्षा के अंग्रेज़ी संक्षिप्त नाम का उपयोग करें";
 "settings_use_english_course_abbreviation" = "अंग्रेज़ी कोर्स संक्षेप उपयोग करें";
 "settings_version" = "संस्करण";
@@ -692,8 +679,6 @@
 "update_available_title" = "अपडेट उपलब्ध है";
 "update_check_failed_message" = "App Store तक पहुँचा नहीं जा सका। बाद में पुनः प्रयास करें।";
 "update_check_failed_title" = "जाँच विफल रही";
-"update_ready_message" = "अपडेट डाउनलोड हो गया है, इंस्टॉल करने के लिए तैयार है।";
-"update_restart_action" = "पुनः प्रारंभ करें";
 "update_up_to_date_message" = "आपके पास %1$@ का नवीनतम संस्करण है।";
 "update_up_to_date_title" = "आप अप टू डेट हैं";
 "watch_action_back" = "वापस";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "कोर्स";
 "watch_course_instructor_label" = "शिक्षक";
 "watch_empty_not_logged_in" = "साइन इन नहीं है। अपने फोन पर TigerDuck खोलें।";
-"watch_ends_at" = "%1$@ को समाप्त";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "कभी सिंक नहीं हुआ";
 "watch_last_synced_relative" = "अंतिम सिंक %1$@";
-"watch_library_loading" = "बना रहे हैं…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone पर साइन इन करें";
-"watch_library_title" = "लाइब्रेरी";
 "watch_next" = "अगला";
 "watch_next_label" = "अगला: %1$@ · %2$@";
 "watch_no_courses_synced" = "कोई कोर्स सिंक नहीं किया गया।";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "मंगल";
 "weekday_wed_short" = "बुध";
 "whats_new_continue" = "जारी रखें";
-"whats_new_title" = "नया क्या है";
 "widget_library_shortcut_desc" = "एक टैप में वर्चुअल लाइब्रेरी पास QR Code खोलें";
 "widget_library_shortcut_label" = "पुस्तकालय QR Code शॉर्टकट";
 "widget_library_shortcut_title" = "पुस्तकालय";
 "widget_next_class" = "अगली कक्षा";
-"widget_next_class_dark_desc" = "वर्तमान या अगली कक्षा। थीम ऐप सेटिंग का अनुसरण करती है।";
-"widget_next_class_dark_label" = "अगली कक्षा";
 "widget_next_class_light_desc" = "वर्तमान या अगली कक्षा। थीम ऐप सेटिंग का अनुसरण करती है।";
 "widget_next_class_light_label" = "अगली कक्षा";
 "widget_next_class_short" = "अगली";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "चल रहा है";
 "widget_ongoing_count" = "चल रहा है × %1$d";
 "widget_sign_in" = "कृपया पहले TigerDuck में साइन इन करें";
-"widget_today_dark_desc" = "आज की कक्षा सूची। थीम ऐप सेटिंग का अनुसरण करती है।";
-"widget_today_dark_label" = "समय सारणी (आज)";
 "widget_today_light_desc" = "आज की कक्षा सूची। थीम ऐप सेटिंग का अनुसरण करती है।";
 "widget_today_light_label" = "समय सारणी (आज)";
 "widget_today_schedule_title" = "आज की समय सारणी";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "कल";
 "widget_tomorrow_time" = "कल %1$@";
 "widget_until_time" = "%1$@ तक";
-"widget_week_dark_desc" = "इस सप्ताह की पूरी समय सारणी। थीम ऐप सेटिंग का अनुसरण करती है।";
-"widget_week_dark_label" = "समय सारणी (सप्ताह)";
 "widget_week_light_desc" = "इस सप्ताह की पूरी समय सारणी। थीम ऐप सेटिंग का अनुसरण करती है।";
 "widget_week_light_label" = "समय सारणी (सप्ताह)";

@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Конфликт на часове";
 "a11y_course_card_open_details_hint" = "Докоснете двукратно за подробности";
 "a11y_course_detail_open_moodle" = "Отвори в Moodle";
-"a11y_dropdown_action_hint" = "Докоснете двукратно, за да изберете друга опция";
 "a11y_rankings_trend_chart" = "Тенденция на GPA по семестри";
 "a11y_rankings_trend_no_selection" = "Не е избран семестър";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Когато push е активиран, TigerDuck ще ви уведомява всеки път, когато даден бюлетин отговаря на вашите правила за абонамент.";
 "bulletin_push_footer" = "Push известията се доставят от сървъра TigerDuck въз основа на вашите правила. Идентификаторът на устройството се изпраща като анонимен UUID — студентският ви идентификатор никога не се качва.";
 "bulletin_push_reopen_settings" = "Повторно активиране в системните настройки";
-"bulletin_push_requesting" = "Заявка...";
 "bulletin_push_settings_header" = "Push настройки";
 "bulletin_push_status_denied" = "Отказано";
 "bulletin_push_status_ephemeral" = "Ефимерно";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Конкретен отдел";
 "bulletin_rule_disabled_badge" = "Забранено";
 "bulletin_rule_edit_title" = "Редактиране на правило";
-"bulletin_rule_editor_all_depts" = "Всички отдели";
-"bulletin_rule_editor_all_tags" = "Всички категории";
 "bulletin_rule_editor_dept_section" = "Отдел";
 "bulletin_rule_editor_enable_toggle" = "Активирайте това правило";
 "bulletin_rule_editor_mode_and_footer" = "Уведомяване само когато отделът и категорията съвпадат.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ вече има два часа в този слот (Делничен ден %2$@, Период %3$@): %4$@ и %5$@. Системата не поддържа тройни конфликти.";
 "class_table_conflict_add_failed_title" = "Не може да се добави";
 "class_table_course_name" = "Наименование на курса";
-"class_table_course_no_value" = "Код на курса: %1$@";
-"class_table_course_time_value" = "Час на занятието: %1$@";
 "class_table_delete" = "Изтриване";
 "class_table_delete_with_course" = "Изтриване — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Записани: %1$d/%2$d";
 "class_table_login_required_message" = "Влезте, за да видите таблицата на вашия клас";
 "class_table_pick_color" = "Избор на цвят";
 "class_table_pick_color_with_course" = "Избор на цвят — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Класна стая: %1$@";
 "course_color_picker_custom_badge" = "По избор";
 "course_color_picker_custom_label" = "Цвят по избор";
-"course_color_picker_reset_action" = "Възстановете цвета по подразбиране";
 "course_color_picker_title" = "Редактиране на цвят";
 "course_credits_value" = "Кредити: %1$d";
 "course_detail_classroom_label" = "Класна стая";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Започва след %@";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Неуспешен анализ на отговора от съобщенията: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Уеб услугата на Moodle в момента не е налична.";
 "error_network_format" = "Мрежова грешка: %1$@";
 "error_network_unavailable" = "Не може да се установи връзка. Моля, проверете мрежовата си връзка.";
-"error_no_response" = "Няма отговор";
 "error_qr_generation_failed_format" = "Неуспешно генериране на QR код: %1$@";
 "error_session_expired" = "Сесията изтече";
 "error_sso_login_failed" = "Влизането не успя. Моля, проверете акаунта и паролата си.";
 "error_sso_login_form_not_found" = "Формулярът за SSO вход не може да бъде намерен.";
-"error_unknown" = "Неизвестна грешка";
 "feature_announcements" = "Съобщения";
 "feature_announcements_short" = "Съобщения";
 "feature_calendar" = "Календар";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Тъмен режим";
 "settings_theme_light" = "Светъл режим";
 "settings_theme_system" = "Следване на системата";
-"settings_token_valid_until" = "Токен валиден до %1$@";
 "settings_use_english_classroom_abbreviation" = "Използвай английски съкращения за класни стаи";
 "settings_use_english_course_abbreviation" = "Използване на английски съкращения за курсове";
 "settings_version" = "Версия";
@@ -692,8 +679,6 @@
 "update_available_title" = "Налична актуализация";
 "update_check_failed_message" = "Не можа да се достигне App Store. Опитайте отново по-късно.";
 "update_check_failed_title" = "Проверката не бе успешна";
-"update_ready_message" = "Актуализацията е изтеглена и готова за инсталиране.";
-"update_restart_action" = "Рестартиране";
 "update_up_to_date_message" = "Имате последната версия на %1$@.";
 "update_up_to_date_title" = "Имате последната версия";
 "watch_action_back" = "Назад";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Курс";
 "watch_course_instructor_label" = "Преподавател";
 "watch_empty_not_logged_in" = "Не сте влезли. Отворете TigerDuck на телефона си.";
-"watch_ends_at" = "Край %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Никога не е синхронизирано";
 "watch_last_synced_relative" = "Последна синхронизация %1$@";
-"watch_library_loading" = "Генериране…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Влезте на iPhone";
-"watch_library_title" = "Библиотека";
 "watch_next" = "СЛЕДВАЩ";
 "watch_next_label" = "Следващ: %1$@ · %2$@";
 "watch_no_courses_synced" = "Няма синхронизирани курсове.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Вт";
 "weekday_wed_short" = "Ср";
 "whats_new_continue" = "Продължи";
-"whats_new_title" = "Какво е новото";
 "widget_library_shortcut_desc" = "Отворете виртуалния пропуск за библиотека с QR код с едно докосване";
 "widget_library_shortcut_label" = "Бърз достъп до QR код за библиотека";
 "widget_library_shortcut_title" = "Библиотека";
 "widget_next_class" = "Следващ час";
-"widget_next_class_dark_desc" = "Текущ или следващ час. Темата следва настройката на приложението.";
-"widget_next_class_dark_label" = "Следващ час";
 "widget_next_class_light_desc" = "Текущ или следващ час. Темата следва настройката на приложението.";
 "widget_next_class_light_label" = "Следващ час";
 "widget_next_class_short" = "Следващ";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "В момента";
 "widget_ongoing_count" = "В момента × %1$d";
 "widget_sign_in" = "Моля, влезте първо в TigerDuck";
-"widget_today_dark_desc" = "Списък с часове за днес. Темата следва настройката на приложението.";
-"widget_today_dark_label" = "Разписание (Днес)";
 "widget_today_light_desc" = "Списък с часове за днес. Темата следва настройката на приложението.";
 "widget_today_light_label" = "Разписание (Днес)";
 "widget_today_schedule_title" = "Днешното разписание";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Утре";
 "widget_tomorrow_time" = "Утре %1$@";
 "widget_until_time" = "До %1$@";
-"widget_week_dark_desc" = "Пълно разписание за тази седмица. Темата следва настройката на приложението.";
-"widget_week_dark_label" = "Разписание (Седмица)";
 "widget_week_light_desc" = "Пълно разписание за тази седмица. Темата следва настройката на приложението.";
 "widget_week_light_label" = "Разписание (Седмица)";

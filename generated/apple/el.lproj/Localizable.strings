@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Σύγκρουση μαθήματος";
 "a11y_course_card_open_details_hint" = "Πατήστε δύο φορές για λεπτομέρειες";
 "a11y_course_detail_open_moodle" = "Άνοιγμα στο Moodle";
-"a11y_dropdown_action_hint" = "Πατήστε δύο φορές για να επιλέξετε άλλη επιλογή";
 "a11y_rankings_trend_chart" = "Τάση GPA ανά εξάμηνο";
 "a11y_rankings_trend_no_selection" = "Δεν έχει επιλεγεί εξάμηνο";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Όταν το push είναι ενεργοποιημένο, το TigerDuck θα σας ειδοποιεί κάθε φορά που ένα δελτίο ταιριάζει με τους κανόνες συνδρομής σας.";
 "bulletin_push_footer" = "Οι ειδοποιήσεις push παραδίδονται από τον διακομιστή TigerDuck με βάση τους κανόνες σας. Το αναγνωριστικό συσκευής αποστέλλεται ως ανώνυμο UUID — το φοιτητικό σας αναγνωριστικό δεν μεταφορτώνεται ποτέ.";
 "bulletin_push_reopen_settings" = "Επανενεργοποίηση στις Ρυθμίσεις συστήματος";
-"bulletin_push_requesting" = "Αίτημα…";
 "bulletin_push_settings_header" = "Ρυθμίσεις ώθησης";
 "bulletin_push_status_denied" = "Αρνήθηκε";
 "bulletin_push_status_ephemeral" = "Εφήμερος";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Συγκεκριμένο τμήμα";
 "bulletin_rule_disabled_badge" = "Ανάπηρος";
 "bulletin_rule_edit_title" = "Επεξεργασία κανόνα";
-"bulletin_rule_editor_all_depts" = "Όλα τα τμήματα";
-"bulletin_rule_editor_all_tags" = "Όλες οι κατηγορίες";
 "bulletin_rule_editor_dept_section" = "Τμήμα";
 "bulletin_rule_editor_enable_toggle" = "Ενεργοποιήστε αυτόν τον κανόνα";
 "bulletin_rule_editor_mode_and_footer" = "Ειδοποίηση μόνο όταν ταιριάζουν τόσο το τμήμα όσο και η κατηγορία.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "Το %1$@ έχει ήδη δύο μαθήματα σε αυτή τη θέση (Εβδομάδα %2$@, Περίοδος %3$@): %4$@ και %5$@. Το σύστημα δεν υποστηρίζει τριπλές συγκρούσεις.";
 "class_table_conflict_add_failed_title" = "Αδύνατη η προσθήκη";
 "class_table_course_name" = "Όνομα μαθήματος";
-"class_table_course_no_value" = "Κωδικός μαθήματος: %1$@";
-"class_table_course_time_value" = "Ώρα μαθήματος: %1$@";
 "class_table_delete" = "Διαγραφή";
 "class_table_delete_with_course" = "Διαγραφή — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Εγγεγραμμένοι: %1$d/%2$d";
 "class_table_login_required_message" = "Συνδεθείτε για να δείτε τον πίνακα της τάξης σας";
 "class_table_pick_color" = "Επιλογή χρώματος";
 "class_table_pick_color_with_course" = "Επιλογή χρώματος — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Αίθουσα: %1$@";
 "course_color_picker_custom_badge" = "Προσαρμοσμένο";
 "course_color_picker_custom_label" = "Προσαρμοσμένο χρώμα";
-"course_color_picker_reset_action" = "Επαναφορά προεπιλεγμένου χρώματος";
 "course_color_picker_title" = "Επεξεργασία χρώματος";
 "course_credits_value" = "Πιστωτικές μονάδες: %1$d";
 "course_detail_classroom_label" = "Αίθουσα διδασκαλίας";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Κανένα μάθημα αυτό το εξάμηνο";
 "desktop_class_table_loading_value" = "Φόρτωση %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d μαθήματα · %3$d ECTS";
-"desktop_course_detail_course_no_label" = "Αρ. μαθήματος";
 "desktop_home_section_upcoming_assignments" = "Επερχόμενες εργασίες";
 "desktop_login_disclaimer" = "Η εφαρμογή δεν συνδέεται με το National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Συνδεθείτε με τον λογαριασμό NTUST SSO";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d ακόμη";
 "desktop_widget_now" = "ΤΩΡΑ";
 "desktop_widget_starts_in" = "Ξεκινά σε %@";
-"desktop_widget_up_next" = "Επόμενο";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Αποτυχία ανάλυσης απάντησης ανακοινώσεων: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Η υπηρεσία ιστού Moodle δεν είναι διαθέσιμη αυτή τη στιγμή.";
 "error_network_format" = "Σφάλμα δικτύου: %1$@";
 "error_network_unavailable" = "Αδύνατη η σύνδεση. Ελέγξτε τη σύνδεσή σας στο δίκτυο.";
-"error_no_response" = "Δεν υπάρχει απόκριση";
 "error_qr_generation_failed_format" = "Αποτυχία δημιουργίας QR Code: %1$@";
 "error_session_expired" = "Η συνεδρία έληξε";
 "error_sso_login_failed" = "Η σύνδεση απέτυχε. Επαληθεύστε τον λογαριασμό και τον κωδικό σας.";
 "error_sso_login_form_not_found" = "Δεν βρέθηκε η φόρμα σύνδεσης SSO.";
-"error_unknown" = "Άγνωστο σφάλμα";
 "feature_announcements" = "Ανακοινώσεις";
 "feature_announcements_short" = "Ανακοινώσεις";
 "feature_calendar" = "Ημερολόγιο";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Σκοτεινή λειτουργία";
 "settings_theme_light" = "Φωτεινή λειτουργία";
 "settings_theme_system" = "Ακολουθεί σύστημα";
-"settings_token_valid_until" = "Το Token ισχύει έως %1$@";
 "settings_use_english_classroom_abbreviation" = "Χρησιμοποίηση αγγλικών συντομογραφιών αιθουσών";
 "settings_use_english_course_abbreviation" = "Χρήση αγγλικών συντομογραφιών μαθημάτων";
 "settings_version" = "Έκδοση";
@@ -692,8 +679,6 @@
 "update_available_title" = "Διαθέσιμη ενημέρωση";
 "update_check_failed_message" = "Δεν ήταν δυνατή η πρόσβαση στο App Store. Δοκιμάστε ξανά αργότερα.";
 "update_check_failed_title" = "Αποτυχία ελέγχου";
-"update_ready_message" = "Η ενημέρωση έχει ληφθεί και είναι έτοιμη για εγκατάσταση.";
-"update_restart_action" = "Επανεκκίνηση";
 "update_up_to_date_message" = "Έχετε την τελευταία έκδοση του %1$@.";
 "update_up_to_date_title" = "Είστε ενημερωμένοι";
 "watch_action_back" = "Πίσω";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Μάθημα";
 "watch_course_instructor_label" = "Διδάσκων";
 "watch_empty_not_logged_in" = "Δεν έχετε συνδεθεί. Ανοίξτε το TigerDuck στο τηλέφωνό σας.";
-"watch_ends_at" = "Λήξη %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Ποτέ δεν συγχρονίστηκε";
 "watch_last_synced_relative" = "Τελευταίος συγχρονισμός %1$@";
-"watch_library_loading" = "Δημιουργία…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Συνδεθείτε στο iPhone";
-"watch_library_title" = "Βιβλιοθήκη";
 "watch_next" = "ΕΠΌΜΕΝΟ";
 "watch_next_label" = "Επόμενο: %1$@ · %2$@";
 "watch_no_courses_synced" = "Δεν υπάρχουν συγχρονισμένα μαθήματα.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Τρί";
 "weekday_wed_short" = "Τετ";
 "whats_new_continue" = "Συνέχεια";
-"whats_new_title" = "Τι νέο υπάρχει";
 "widget_library_shortcut_desc" = "Ανοίξτε τον εικονικό κωδικό QR Code εισόδου βιβλιοθήκης με ένα άγγιγμα";
 "widget_library_shortcut_label" = "Συντόμευση QR Code Βιβλιοθήκης";
 "widget_library_shortcut_title" = "Βιβλιοθήκη";
 "widget_next_class" = "Επόμενο μάθημα";
-"widget_next_class_dark_desc" = "Τρέχον ή επόμενο μάθημα. Το θέμα ακολουθεί τη ρύθμιση της εφαρμογής.";
-"widget_next_class_dark_label" = "Επόμενο Μάθημα";
 "widget_next_class_light_desc" = "Τρέχον ή επόμενο μάθημα. Το θέμα ακολουθεί τη ρύθμιση της εφαρμογής.";
 "widget_next_class_light_label" = "Επόμενο Μάθημα";
 "widget_next_class_short" = "Επόμενο";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Σε εξέλιξη";
 "widget_ongoing_count" = "Σε εξέλιξη × %1$d";
 "widget_sign_in" = "Παρακαλώ συνδεθείτε πρώτα στο TigerDuck";
-"widget_today_dark_desc" = "Λίστα μαθημάτων σήμερα. Το θέμα ακολουθεί τη ρύθμιση της εφαρμογής.";
-"widget_today_dark_label" = "Πρόγραμμα (Σήμερα)";
 "widget_today_light_desc" = "Λίστα μαθημάτων σήμερα. Το θέμα ακολουθεί τη ρύθμιση της εφαρμογής.";
 "widget_today_light_label" = "Πρόγραμμα (Σήμερα)";
 "widget_today_schedule_title" = "Πρόγραμμα σήμερα";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Αύριο";
 "widget_tomorrow_time" = "Αύριο %1$@";
 "widget_until_time" = "Έως %1$@";
-"widget_week_dark_desc" = "Πλήρες πρόγραμμα της εβδομάδας. Το θέμα ακολουθεί τη ρύθμιση της εφαρμογής.";
-"widget_week_dark_label" = "Πρόγραμμα (Εβδομάδα)";
 "widget_week_light_desc" = "Πλήρες πρόγραμμα της εβδομάδας. Το θέμα ακολουθεί τη ρύθμιση της εφαρμογής.";
 "widget_week_light_label" = "Πρόγραμμα (Εβδομάδα)";

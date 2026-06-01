@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "تعارض کلاس";
 "a11y_course_card_open_details_hint" = "دو بار ضربه بزنید برای جزئیات";
 "a11y_course_detail_open_moodle" = "باز کردن در Moodle";
-"a11y_dropdown_action_hint" = "دو بار ضربه بزنید تا گزینه دیگری انتخاب کنید";
 "a11y_rankings_trend_chart" = "روند GPA به تفکیک ترم";
 "a11y_rankings_trend_no_selection" = "هیچ ترمی انتخاب نشده";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "وقتی فشار فعال باشد، TigerDuck هر زمان که بولتنی با قوانین اشتراک شما مطابقت داشته باشد به شما اطلاع می‌دهد.";
 "bulletin_push_footer" = "اعلان‌های فشاری بر اساس قوانین شما توسط سرور TigerDuck ارائه می‌شوند. شناسه دستگاه به عنوان یک UUID ناشناس ارسال می‌شود — شناسه دانشجویی شما هرگز آپلود نمی‌شود.";
 "bulletin_push_reopen_settings" = "فعال‌سازی مجدد در تنظیمات سیستم";
-"bulletin_push_requesting" = "در حال درخواست…";
 "bulletin_push_settings_header" = "تنظیمات فشار";
 "bulletin_push_status_denied" = "تکذیب شد";
 "bulletin_push_status_ephemeral" = "زودگذر";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "بخش خاص";
 "bulletin_rule_disabled_badge" = "از کار افتاده است";
 "bulletin_rule_edit_title" = "ویرایش قانون";
-"bulletin_rule_editor_all_depts" = "همه بخش ها";
-"bulletin_rule_editor_all_tags" = "همه دسته ها";
 "bulletin_rule_editor_dept_section" = "بخش";
 "bulletin_rule_editor_enable_toggle" = "این قانون را فعال کنید";
 "bulletin_rule_editor_mode_and_footer" = "فقط زمانی که هر دو بخش و دسته مطابقت دارند، اطلاع دهید.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ در این بازه زمانی (روز %2$@، زنگ %3$@) دو کلاس دارد: %4$@ و %5$@. سیستم از تداخل سه‌تایی پشتیبانی نمی‌کند.";
 "class_table_conflict_add_failed_title" = "امکان افزودن نیست";
 "class_table_course_name" = "نام درس";
-"class_table_course_no_value" = "کد درس: %1$@";
-"class_table_course_time_value" = "زمان کلاس: %1$@";
 "class_table_delete" = "حذف";
 "class_table_delete_with_course" = "حذف — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "ثبت‌نام: %1$d/%2$d";
 "class_table_login_required_message" = "برای مشاهده جدول کلاس خود وارد شوید";
 "class_table_pick_color" = "انتخاب رنگ";
 "class_table_pick_color_with_course" = "انتخاب رنگ — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "کلاس: %1$@";
 "course_color_picker_custom_badge" = "سفارشی";
 "course_color_picker_custom_label" = "رنگ سفارشی";
-"course_color_picker_reset_action" = "بازیابی رنگ پیش فرض";
 "course_color_picker_title" = "ویرایش رنگ";
 "course_credits_value" = "واحد: %1$d";
 "course_detail_classroom_label" = "کلاس درس";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "درسی برای این ترم نیست";
 "desktop_class_table_loading_value" = "در حال بارگذاری %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d درس · %3$d واحد";
-"desktop_course_detail_course_no_label" = "شمارهٔ درس";
 "desktop_home_section_upcoming_assignments" = "تکالیف پیش‌رو";
 "desktop_login_disclaimer" = "این برنامه به National Taiwan University of Science and Technology وابسته نیست.";
 "desktop_login_subtitle" = "با حساب NTUST SSO خود وارد شوید";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d بیشتر";
 "desktop_widget_now" = "اکنون";
 "desktop_widget_starts_in" = "شروع در %@";
-"desktop_widget_up_next" = "بعدی";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "تجزیه پاسخ بولتن ناموفق بود: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "وب‌سرویس Moodle در حال حاضر در دسترس نیست.";
 "error_network_format" = "خطای شبکه: %1$@";
 "error_network_unavailable" = "اتصال ممکن نیست. لطفاً اتصال شبکه را بررسی کنید.";
-"error_no_response" = "پاسخی دریافت نشد";
 "error_qr_generation_failed_format" = "ایجاد کد QR ناموفق بود: %1$@";
 "error_session_expired" = "نشست منقضی شده است";
 "error_sso_login_failed" = "ورود ناموفق بود. لطفاً حساب و گذرواژه خود را بررسی کنید.";
 "error_sso_login_form_not_found" = "فرم ورود SSO یافت نشد.";
-"error_unknown" = "خطای ناشناخته";
 "feature_announcements" = "اطلاعیه‌ها";
 "feature_announcements_short" = "اطلاعیه‌ها";
 "feature_calendar" = "تقویم";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "حالت تاریک";
 "settings_theme_light" = "حالت روشن";
 "settings_theme_system" = "همگام با سیستم";
-"settings_token_valid_until" = "توکن تا %1$@ معتبر است";
 "settings_use_english_classroom_abbreviation" = "استفاده از اختصارات انگلیسی کلاس‌ها";
 "settings_use_english_course_abbreviation" = "استفاده از مخفف انگلیسی نام درس";
 "settings_version" = "نسخه";
@@ -692,8 +679,6 @@
 "update_available_title" = "به‌روزرسانی در دسترس است";
 "update_check_failed_message" = "اتصال به App Store برقرار نشد. بعداً دوباره امتحان کنید.";
 "update_check_failed_title" = "بررسی ناموفق بود";
-"update_ready_message" = "به‌روزرسانی دانلود شد و آماده نصب است.";
-"update_restart_action" = "راه‌اندازی مجدد";
 "update_up_to_date_message" = "شما آخرین نسخه %1$@ را دارید.";
 "update_up_to_date_title" = "نسخه شما به‌روز است";
 "watch_action_back" = "بازگشت";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "درس";
 "watch_course_instructor_label" = "مدرس";
 "watch_empty_not_logged_in" = "وارد نشده‌اید. TigerDuck را در گوشی خود باز کنید.";
-"watch_ends_at" = "پایان %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "هرگز همگام‌سازی نشده";
 "watch_last_synced_relative" = "آخرین همگام‌سازی %1$@";
-"watch_library_loading" = "در حال ایجاد…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "در iPhone وارد شوید";
-"watch_library_title" = "کتابخانه";
 "watch_next" = "بعدی";
 "watch_next_label" = "بعدی: %1$@ · %2$@";
 "watch_no_courses_synced" = "هیچ درسی همگام‌سازی نشده است.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "سه‌شنبه";
 "weekday_wed_short" = "چهارشنبه";
 "whats_new_continue" = "ادامه";
-"whats_new_title" = "چه چیزی جدید است";
 "widget_library_shortcut_desc" = "کد QR گذرنامه مجازی کتابخانه را با یک ضربه باز کنید";
 "widget_library_shortcut_label" = "میانبر QR کتابخانه";
 "widget_library_shortcut_title" = "کتابخانه";
 "widget_next_class" = "کلاس بعدی";
-"widget_next_class_dark_desc" = "کلاس جاری یا بعدی. تم مطابق تنظیم برنامه است.";
-"widget_next_class_dark_label" = "کلاس بعدی";
 "widget_next_class_light_desc" = "کلاس جاری یا بعدی. تم مطابق تنظیم برنامه است.";
 "widget_next_class_light_label" = "کلاس بعدی";
 "widget_next_class_short" = "بعدی";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "در حال برگزاری";
 "widget_ongoing_count" = "در حال برگزاری × %1$d";
 "widget_sign_in" = "لطفاً ابتدا وارد TigerDuck شوید";
-"widget_today_dark_desc" = "فهرست کلاس‌های امروز. تم مطابق تنظیم برنامه است.";
-"widget_today_dark_label" = "برنامه (امروز)";
 "widget_today_light_desc" = "فهرست کلاس‌های امروز. تم مطابق تنظیم برنامه است.";
 "widget_today_light_label" = "برنامه (امروز)";
 "widget_today_schedule_title" = "برنامه امروز";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "فردا";
 "widget_tomorrow_time" = "فردا %1$@";
 "widget_until_time" = "تا %1$@";
-"widget_week_dark_desc" = "برنامه کامل این هفته. تم مطابق تنظیم برنامه است.";
-"widget_week_dark_label" = "برنامه (هفته)";
 "widget_week_light_desc" = "برنامه کامل این هفته. تم مطابق تنظیم برنامه است.";
 "widget_week_light_label" = "برنامه (هفته)";

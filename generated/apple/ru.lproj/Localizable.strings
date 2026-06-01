@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Конфликт занятий";
 "a11y_course_card_open_details_hint" = "Дважды нажмите для просмотра деталей";
 "a11y_course_detail_open_moodle" = "Открыть в Moodle";
-"a11y_dropdown_action_hint" = "Дважды нажмите, чтобы выбрать другой вариант";
 "a11y_rankings_trend_chart" = "Тенденция GPA по семестрам";
 "a11y_rankings_trend_no_selection" = "Семестр не выбран";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "При включённых push-уведомлениях TigerDuck будет оповещать вас, когда объявление соответствует вашим правилам подписки.";
 "bulletin_push_footer" = "Push-уведомления доставляются сервером TigerDuck на основе ваших правил. Идентификатор устройства передаётся в виде анонимного UUID — ваш студенческий номер никогда не загружается.";
 "bulletin_push_reopen_settings" = "Повторно включить в системных настройках";
-"bulletin_push_requesting" = "Запрос…";
 "bulletin_push_settings_header" = "Настройки push";
 "bulletin_push_status_denied" = "Запрещено";
 "bulletin_push_status_ephemeral" = "Эфемерное";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Конкретный отдел";
 "bulletin_rule_disabled_badge" = "Отключено";
 "bulletin_rule_edit_title" = "Редактировать правило";
-"bulletin_rule_editor_all_depts" = "Все отделы";
-"bulletin_rule_editor_all_tags" = "Все категории";
 "bulletin_rule_editor_dept_section" = "Отдел";
 "bulletin_rule_editor_enable_toggle" = "Включить это правило";
 "bulletin_rule_editor_mode_and_footer" = "Уведомлять только при совпадении и отдела, и категории.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "В слоте %1$@ уже есть два занятия (день недели %2$@, пара %3$@): %4$@ и %5$@. Система не поддерживает тройные конфликты.";
 "class_table_conflict_add_failed_title" = "Не удалось добавить";
 "class_table_course_name" = "Название курса";
-"class_table_course_no_value" = "Код курса: %1$@";
-"class_table_course_time_value" = "Время занятий: %1$@";
 "class_table_delete" = "Удалить";
 "class_table_delete_with_course" = "Удалить — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Запись: %1$d/%2$d";
 "class_table_login_required_message" = "Войдите, чтобы просмотреть расписание занятий";
 "class_table_pick_color" = "Выбрать цвет";
 "class_table_pick_color_with_course" = "Выбрать цвет — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Аудитория: %1$@";
 "course_color_picker_custom_badge" = "Свой";
 "course_color_picker_custom_label" = "Свой цвет";
-"course_color_picker_reset_action" = "Восстановить цвет по умолчанию";
 "course_color_picker_title" = "Изменить цвет";
 "course_credits_value" = "Кредиты: %1$d";
 "course_detail_classroom_label" = "Аудитория";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "В этом семестре нет курсов";
 "desktop_class_table_loading_value" = "Загрузка %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d курсов · %3$d кредитов";
-"desktop_course_detail_course_no_label" = "№ курса";
 "desktop_home_section_upcoming_assignments" = "Предстоящие задания";
 "desktop_login_disclaimer" = "Это приложение не связано с National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Войдите через учётную запись SSO NTUST";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d ещё";
 "desktop_widget_now" = "СЕЙЧАС";
 "desktop_widget_starts_in" = "Начнётся через %@";
-"desktop_widget_up_next" = "Следующее";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Не удалось разобрать ответ объявлений: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Веб-сервис Moodle сейчас недоступен.";
 "error_network_format" = "Сетевая ошибка: %1$@";
 "error_network_unavailable" = "Не удаётся подключиться. Проверьте подключение к сети.";
-"error_no_response" = "Нет ответа";
 "error_qr_generation_failed_format" = "Не удалось создать QR-код: %1$@";
 "error_session_expired" = "Сессия истекла";
 "error_sso_login_failed" = "Не удалось войти. Проверьте логин и пароль.";
 "error_sso_login_form_not_found" = "Не удалось найти форму входа SSO.";
-"error_unknown" = "Неизвестная ошибка";
 "feature_announcements" = "Объявления";
 "feature_announcements_short" = "Объявления";
 "feature_calendar" = "Календарь";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Тёмный режим";
 "settings_theme_light" = "Светлый режим";
 "settings_theme_system" = "Как в системе";
-"settings_token_valid_until" = "Токен действителен до %1$@";
 "settings_use_english_classroom_abbreviation" = "Использовать английские сокращения названий аудиторий";
 "settings_use_english_course_abbreviation" = "Использовать английские сокращения названий курсов";
 "settings_version" = "Версия";
@@ -692,8 +679,6 @@
 "update_available_title" = "Доступно обновление";
 "update_check_failed_message" = "Не удалось подключиться к App Store. Попробуйте позже.";
 "update_check_failed_title" = "Проверка не удалась";
-"update_ready_message" = "Обновление загружено и готово к установке.";
-"update_restart_action" = "Перезапустить";
 "update_up_to_date_message" = "У вас установлена последняя версия %1$@.";
 "update_up_to_date_title" = "У вас последняя версия";
 "watch_action_back" = "Назад";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Курс";
 "watch_course_instructor_label" = "Преподаватель";
 "watch_empty_not_logged_in" = "Не выполнен вход. Откройте TigerDuck на телефоне.";
-"watch_ends_at" = "Конец %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Никогда не синхронизировалось";
 "watch_last_synced_relative" = "Синхронизировано %1$@";
-"watch_library_loading" = "Генерация…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Войдите на iPhone";
-"watch_library_title" = "Библиотека";
 "watch_next" = "СЛЕД.";
 "watch_next_label" = "Далее: %1$@ · %2$@";
 "watch_no_courses_synced" = "Нет синхронизированных курсов.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Вт";
 "weekday_wed_short" = "Ср";
 "whats_new_continue" = "Продолжить";
-"whats_new_title" = "Что нового";
 "widget_library_shortcut_desc" = "Откройте QR-код виртуального пропуска в библиотеку одним нажатием";
 "widget_library_shortcut_label" = "Ярлык QR библиотеки";
 "widget_library_shortcut_title" = "Библиотека";
 "widget_next_class" = "Следующее занятие";
-"widget_next_class_dark_desc" = "Текущее или следующее занятие. Тема следует настройкам приложения.";
-"widget_next_class_dark_label" = "Следующее занятие";
 "widget_next_class_light_desc" = "Текущее или следующее занятие. Тема следует настройкам приложения.";
 "widget_next_class_light_label" = "Следующее занятие";
 "widget_next_class_short" = "Далее";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Идёт";
 "widget_ongoing_count" = "Идёт × %1$d";
 "widget_sign_in" = "Сначала войдите в TigerDuck";
-"widget_today_dark_desc" = "Список занятий на сегодня. Тема следует настройкам приложения.";
-"widget_today_dark_label" = "Расписание (сегодня)";
 "widget_today_light_desc" = "Список занятий на сегодня. Тема следует настройкам приложения.";
 "widget_today_light_label" = "Расписание (сегодня)";
 "widget_today_schedule_title" = "Расписание на сегодня";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Завтра";
 "widget_tomorrow_time" = "Завтра %1$@";
 "widget_until_time" = "До %1$@";
-"widget_week_dark_desc" = "Полное расписание на эту неделю. Тема следует настройкам приложения.";
-"widget_week_dark_label" = "Расписание (неделя)";
 "widget_week_light_desc" = "Полное расписание на эту неделю. Тема следует настройкам приложения.";
 "widget_week_light_label" = "Расписание (неделя)";

@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Timeskollision";
 "a11y_course_card_open_details_hint" = "Dobbelttryk for detaljer";
 "a11y_course_detail_open_moodle" = "Åbn i Moodle";
-"a11y_dropdown_action_hint" = "Dobbelttryk for at vælge en anden mulighed";
 "a11y_rankings_trend_chart" = "GPA-tendens pr. semester";
 "a11y_rankings_trend_no_selection" = "Intet semester valgt";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Når push er aktiveret, vil TigerDuck give dig besked, når en bulletin matcher dine abonnementsregler.";
 "bulletin_push_footer" = "Push-meddelelser leveres af TigerDuck-serveren baseret på dine regler. Enheds-id'et sendes som et anonymt UUID - dit studie-id bliver aldrig uploadet.";
 "bulletin_push_reopen_settings" = "Genaktiver i Systemindstillinger";
-"bulletin_push_requesting" = "Anmoder...";
 "bulletin_push_settings_header" = "Push-indstillinger";
 "bulletin_push_status_denied" = "Afvist";
 "bulletin_push_status_ephemeral" = "Ephemeral";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Specifik afdeling";
 "bulletin_rule_disabled_badge" = "Handicappet";
 "bulletin_rule_edit_title" = "Rediger regel";
-"bulletin_rule_editor_all_depts" = "Alle afdelinger";
-"bulletin_rule_editor_all_tags" = "Alle kategorier";
 "bulletin_rule_editor_dept_section" = "Afdeling";
 "bulletin_rule_editor_enable_toggle" = "Aktiver denne regel";
 "bulletin_rule_editor_mode_and_footer" = "Giv kun besked, når både afdeling og kategori matcher.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ har allerede to undervisningsgange i dette slot (Ugedag %2$@, Periode %3$@): %4$@ og %5$@. Systemet understøtter ikke tredobbelte konflikter.";
 "class_table_conflict_add_failed_title" = "Kan ikke tilføje";
 "class_table_course_name" = "Kursusnavn";
-"class_table_course_no_value" = "Kurskode: %1$@";
-"class_table_course_time_value" = "Undervisningstid: %1$@";
 "class_table_delete" = "Slet";
 "class_table_delete_with_course" = "Slet — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Tilmeldte: %1$d/%2$d";
 "class_table_login_required_message" = "Log ind for at se din klassetabel";
 "class_table_pick_color" = "Vælg farve";
 "class_table_pick_color_with_course" = "Vælg farve — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Lokale: %1$@";
 "course_color_picker_custom_badge" = "Tilpasset";
 "course_color_picker_custom_label" = "Tilpasset farve";
-"course_color_picker_reset_action" = "Gendan standardfarven";
 "course_color_picker_title" = "Rediger farve";
 "course_credits_value" = "ECTS-point: %1$d";
 "course_detail_classroom_label" = "Klasseværelse";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Ingen fag dette semester";
 "desktop_class_table_loading_value" = "Indlæser %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d fag · %3$d ECTS";
-"desktop_course_detail_course_no_label" = "Fagnr.";
 "desktop_home_section_upcoming_assignments" = "Kommende opgaver";
 "desktop_login_disclaimer" = "Denne app er ikke tilknyttet National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Log ind med din NTUST SSO-konto";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d mere";
 "desktop_widget_now" = "NU";
 "desktop_widget_starts_in" = "Starter om %@";
-"desktop_widget_up_next" = "Næste";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Kunne ikke fortolke bulletinsvar: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle-webtjenesten er i øjeblikket utilgængelig.";
 "error_network_format" = "Netværksfejl: %1$@";
 "error_network_unavailable" = "Kunne ikke oprette forbindelse. Tjek din netværksforbindelse.";
-"error_no_response" = "Intet svar";
 "error_qr_generation_failed_format" = "Kunne ikke generere QR-kode: %1$@";
 "error_session_expired" = "Sessionen er udløbet";
 "error_sso_login_failed" = "Login mislykkedes. Bekræft din konto og adgangskode.";
 "error_sso_login_form_not_found" = "Kunne ikke finde SSO-loginformularen.";
-"error_unknown" = "Ukendt fejl";
 "feature_announcements" = "Meddelelser";
 "feature_announcements_short" = "Meddelelser";
 "feature_calendar" = "Kalender";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Mørk tilstand";
 "settings_theme_light" = "Lys tilstand";
 "settings_theme_system" = "Følg system";
-"settings_token_valid_until" = "Token gyldigt til %1$@";
 "settings_use_english_classroom_abbreviation" = "Brug engelske forkortelser for klasselokaler";
 "settings_use_english_course_abbreviation" = "Brug engelske kursusabbreviationer";
 "settings_version" = "Version";
@@ -692,8 +679,6 @@
 "update_available_title" = "Opdatering tilgængelig";
 "update_check_failed_message" = "Kunne ikke nå App Store. Prøv igen senere.";
 "update_check_failed_title" = "Kontrol mislykkedes";
-"update_ready_message" = "Opdateringen er hentet og klar til installation.";
-"update_restart_action" = "Genstart";
 "update_up_to_date_message" = "Du har den nyeste version af %1$@.";
 "update_up_to_date_title" = "Du er opdateret";
 "watch_action_back" = "Tilbage";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Kursus";
 "watch_course_instructor_label" = "Underviser";
 "watch_empty_not_logged_in" = "Ikke logget ind. Åbn TigerDuck på din telefon.";
-"watch_ends_at" = "Slutter %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Aldrig synkroniseret";
 "watch_last_synced_relative" = "Senest synkroniseret %1$@";
-"watch_library_loading" = "Genererer…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Log ind på iPhone";
-"watch_library_title" = "Bibliotek";
 "watch_next" = "NÆSTE";
 "watch_next_label" = "Næste: %1$@ · %2$@";
 "watch_no_courses_synced" = "Ingen synkroniserede kurser.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Tir";
 "weekday_wed_short" = "Ons";
 "whats_new_continue" = "Fortsæt";
-"whats_new_title" = "Nyheder";
 "widget_library_shortcut_desc" = "Åbn det virtuelle bibliotekskort QR-kode med ét tryk";
 "widget_library_shortcut_label" = "Biblioteks QR-kode-genvej";
 "widget_library_shortcut_title" = "Bibliotek";
 "widget_next_class" = "Næste undervisning";
-"widget_next_class_dark_desc" = "Aktuel eller næste undervisning. Tema følger app-indstilling.";
-"widget_next_class_dark_label" = "Næste undervisning";
 "widget_next_class_light_desc" = "Aktuel eller næste undervisning. Tema følger app-indstilling.";
 "widget_next_class_light_label" = "Næste undervisning";
 "widget_next_class_short" = "Næste";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Igangværende";
 "widget_ongoing_count" = "Igangværende × %1$d";
 "widget_sign_in" = "Log venligst ind i TigerDuck først";
-"widget_today_dark_desc" = "Dagens undervisningsliste. Tema følger app-indstilling.";
-"widget_today_dark_label" = "Skema (i dag)";
 "widget_today_light_desc" = "Dagens undervisningsliste. Tema følger app-indstilling.";
 "widget_today_light_label" = "Skema (i dag)";
 "widget_today_schedule_title" = "Dagens skema";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "I morgen";
 "widget_tomorrow_time" = "I morgen %1$@";
 "widget_until_time" = "Indtil %1$@";
-"widget_week_dark_desc" = "Fuldt skema for denne uge. Tema følger app-indstilling.";
-"widget_week_dark_label" = "Skema (uge)";
 "widget_week_light_desc" = "Fuldt skema for denne uge. Tema følger app-indstilling.";
 "widget_week_light_label" = "Skema (uge)";

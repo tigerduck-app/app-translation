@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "冲堂";
 "a11y_course_card_open_details_hint" = "双击查看详情";
 "a11y_course_detail_open_moodle" = "在 Moodle 中打开";
-"a11y_dropdown_action_hint" = "点击两下以选择其他选项";
 "a11y_rankings_trend_chart" = "各学期 GPA 趋势";
 "a11y_rankings_trend_no_selection" = "未选择学期";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "开启推送后，当有符合你设置规则的公告时，老虎鸭会实时通知你。";
 "bulletin_push_footer" = "推送通知由 TigerDuck 服务器根据你选的规则派发。设备标识以匿名 UUID 传送，不会上传学号。";
 "bulletin_push_reopen_settings" = "在系统设置中重新开启";
-"bulletin_push_requesting" = "请求中…";
 "bulletin_push_settings_header" = "推送设置";
 "bulletin_push_status_denied" = "已被拒绝";
 "bulletin_push_status_ephemeral" = "临时";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "指定处室";
 "bulletin_rule_disabled_badge" = "已停用";
 "bulletin_rule_edit_title" = "编辑规则";
-"bulletin_rule_editor_all_depts" = "全部处室";
-"bulletin_rule_editor_all_tags" = "全部类别";
 "bulletin_rule_editor_dept_section" = "处室";
 "bulletin_rule_editor_enable_toggle" = "启用此规则";
 "bulletin_rule_editor_mode_and_footer" = "同时符合所选的处室与类别才会推送。";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ 的时段（周%2$@ 第%3$@节）已有两堂课程：%4$@ 和 %5$@。系统不支持三堂以上冲堂。";
 "class_table_conflict_add_failed_title" = "无法加入";
 "class_table_course_name" = "课程名称";
-"class_table_course_no_value" = "课号：%1$@";
-"class_table_course_time_value" = "上课时间：%1$@";
 "class_table_delete" = "删除";
 "class_table_delete_with_course" = "删除 — %1$@";
 "class_table_empty_message" = "下拉以刷新，或使用右上角的 + 添加课程，或切换到其他学期";
-"class_table_enrolled_count_value" = "修课人数：%1$d/%2$d";
 "class_table_login_required_message" = "请登录后查看课程表";
 "class_table_pick_color" = "选择颜色";
 "class_table_pick_color_with_course" = "选择颜色 — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "教室：%1$@";
 "course_color_picker_custom_badge" = "自定义";
 "course_color_picker_custom_label" = "自定义颜色";
-"course_color_picker_reset_action" = "恢复默认颜色";
 "course_color_picker_title" = "编辑颜色";
 "course_credits_value" = "学分：%1$d";
 "course_detail_classroom_label" = "教室";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "本学期没有课程";
 "desktop_class_table_loading_value" = "正在加载 %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d 门课 · %3$d 学分";
-"desktop_course_detail_course_no_label" = "课程编号";
 "desktop_home_section_upcoming_assignments" = "即将到期的作业";
 "desktop_login_disclaimer" = "本应用未与国立台湾科技大学有任何关联。";
 "desktop_login_subtitle" = "使用您的台科大 SSO 账号登录";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "还有 %1$d 个";
 "desktop_widget_now" = "进行中";
 "desktop_widget_starts_in" = "%@ 后开始";
-"desktop_widget_up_next" = "下一堂";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "公告响应解析失败：%1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle 网络服务当前不可用。";
 "error_network_format" = "网络错误：%1$@";
 "error_network_unavailable" = "无法连接，请检查网络连接";
-"error_no_response" = "无回应";
 "error_qr_generation_failed_format" = "二维码生成失败：%1$@";
 "error_session_expired" = "登录会话已过期";
 "error_sso_login_failed" = "登录失败，请确认您的账号与密码。";
 "error_sso_login_form_not_found" = "找不到 SSO 登录表单。";
-"error_unknown" = "未知错误";
 "feature_announcements" = "公告";
 "feature_announcements_short" = "公告";
 "feature_calendar" = "行事历";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "暗色模式";
 "settings_theme_light" = "亮色模式";
 "settings_theme_system" = "跟随系统";
-"settings_token_valid_until" = "Token 有效至 %1$@";
 "settings_use_english_classroom_abbreviation" = "使用英文教室名缩写";
 "settings_use_english_course_abbreviation" = "使用英文课名缩写";
 "settings_version" = "版本";
@@ -692,8 +679,6 @@
 "update_available_title" = "有可用更新";
 "update_check_failed_message" = "无法连接到 App Store，请稍后再试。";
 "update_check_failed_title" = "检查失败";
-"update_ready_message" = "更新已下载完成，准备安装。";
-"update_restart_action" = "重新启动";
 "update_up_to_date_message" = "您使用的已是 %1$@ 最新版本。";
 "update_up_to_date_title" = "已是最新版本";
 "watch_action_back" = "返回";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "课程";
 "watch_course_instructor_label" = "授课教师";
 "watch_empty_not_logged_in" = "尚未登录。请在手机开启 TigerDuck。";
-"watch_ends_at" = "%1$@ 结束";
 "watch_just_now" = "刚刚";
 "watch_last_synced_never" = "尚未同步";
 "watch_last_synced_relative" = "上次同步:%1$@";
-"watch_library_loading" = "生成中…";
-"watch_library_refresh_in_seconds" = "%lld 秒";
-"watch_library_signin_prompt" = "请在 iPhone 上登录";
-"watch_library_title" = "图书馆";
 "watch_next" = "下一堂";
 "watch_next_label" = "下一节:%1$@ · %2$@";
 "watch_no_courses_synced" = "尚无课程数据。";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "二";
 "weekday_wed_short" = "三";
 "whats_new_continue" = "继续";
-"whats_new_title" = "新功能说明";
 "widget_library_shortcut_desc" = "一键打开虚拟入馆证 QR Code";
 "widget_library_shortcut_label" = "图书馆 QR 捷径";
 "widget_library_shortcut_title" = "图书馆";
 "widget_next_class" = "下一堂课";
-"widget_next_class_dark_desc" = "进行中或下一堂课，主题跟随 App 设置";
-"widget_next_class_dark_label" = "下一堂课";
 "widget_next_class_light_desc" = "进行中或下一堂课，主题跟随 App 设置";
 "widget_next_class_light_label" = "下一堂课";
 "widget_next_class_short" = "下一堂";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "进行中";
 "widget_ongoing_count" = "进行中×%1$d";
 "widget_sign_in" = "请先登录 TigerDuck";
-"widget_today_dark_desc" = "今日课程清单，主题跟随 App 设置";
-"widget_today_dark_label" = "课表 今日";
 "widget_today_light_desc" = "今日课程清单，主题跟随 App 设置";
 "widget_today_light_label" = "课表 今日";
 "widget_today_schedule_title" = "今日课表";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "明天";
 "widget_tomorrow_time" = "明天 %1$@";
 "widget_until_time" = "至 %1$@";
-"widget_week_dark_desc" = "本周完整课表，主题跟随 App 设置";
-"widget_week_dark_label" = "课表 周视图";
 "widget_week_light_desc" = "本周完整课表，主题跟随 App 设置";
 "widget_week_light_label" = "课表 周视图";

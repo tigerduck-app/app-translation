@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Conflict de curs";
 "a11y_course_card_open_details_hint" = "Atingeți de două ori pentru detalii";
 "a11y_course_detail_open_moodle" = "Deschide în Moodle";
-"a11y_dropdown_action_hint" = "Atingeți de două ori pentru a alege altă opțiune";
 "a11y_rankings_trend_chart" = "Tendința GPA pe semestru";
 "a11y_rankings_trend_no_selection" = "Niciun semestru selectat";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Când push-ul este activat, TigerDuck vă va notifica ori de câte ori un buletin corespunde regulilor dvs. de abonament.";
 "bulletin_push_footer" = "Notificările push sunt livrate de serverul TigerDuck pe baza regulilor dvs. Identificatorul dispozitivului este trimis ca UUID anonim — ID-ul dvs. de student nu este niciodată încărcat.";
 "bulletin_push_reopen_settings" = "Reactivați în Setări sistem";
-"bulletin_push_requesting" = "Se solicită…";
 "bulletin_push_settings_header" = "Setări push";
 "bulletin_push_status_denied" = "Refuzat";
 "bulletin_push_status_ephemeral" = "Efemer";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Departament specific";
 "bulletin_rule_disabled_badge" = "Dezactivat";
 "bulletin_rule_edit_title" = "Editează regula";
-"bulletin_rule_editor_all_depts" = "Toate departamentele";
-"bulletin_rule_editor_all_tags" = "Toate categoriile";
 "bulletin_rule_editor_dept_section" = "Departament";
 "bulletin_rule_editor_enable_toggle" = "Activează această regulă";
 "bulletin_rule_editor_mode_and_footer" = "Notifică doar când atât departamentul cât și categoria se potrivesc.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ are deja două cursuri în acest interval (Ziua %2$@, Perioada %3$@): %4$@ și %5$@. Sistemul nu suportă conflicte triple.";
 "class_table_conflict_add_failed_title" = "Nu se poate adăuga";
 "class_table_course_name" = "Denumire curs";
-"class_table_course_no_value" = "Cod curs: %1$@";
-"class_table_course_time_value" = "Ora cursului: %1$@";
 "class_table_delete" = "Șterge";
 "class_table_delete_with_course" = "Șterge — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Înmatriculați: %1$d/%2$d";
 "class_table_login_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_pick_color" = "Alege culoare";
 "class_table_pick_color_with_course" = "Alege culoare — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Sală: %1$@";
 "course_color_picker_custom_badge" = "Personalizat";
 "course_color_picker_custom_label" = "Culoare personalizată";
-"course_color_picker_reset_action" = "Standardfarbe wiederherstellen";
 "course_color_picker_title" = "Editează culoarea";
 "course_credits_value" = "Credite: %1$d";
 "course_detail_classroom_label" = "Klassenzimmer";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Începe în %@";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Nu s-a putut analiza răspunsul de la mural: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Serviciul web Moodle este momentan indisponibil.";
 "error_network_format" = "Eroare de rețea: %1$@";
 "error_network_unavailable" = "Nu se poate conecta. Verifică conexiunea la rețea.";
-"error_no_response" = "Fără răspuns";
 "error_qr_generation_failed_format" = "Nu s-a putut genera codul QR: %1$@";
 "error_session_expired" = "Sesiunea a expirat";
 "error_sso_login_failed" = "Autentificare eșuată. Verifică-ți contul și parola.";
 "error_sso_login_form_not_found" = "Formularul de autentificare SSO nu a putut fi găsit.";
-"error_unknown" = "Eroare necunoscută";
 "feature_announcements" = "Anunțuri";
 "feature_announcements_short" = "Anunțuri";
 "feature_calendar" = "Calendar";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Mod întunecat";
 "settings_theme_light" = "Mod luminos";
 "settings_theme_system" = "Urmează sistemul";
-"settings_token_valid_until" = "Token valabil până la %1$@";
 "settings_use_english_classroom_abbreviation" = "Folosește abrevieri engleze pentru săli";
 "settings_use_english_course_abbreviation" = "Folosește abrevieri engleze pentru cursuri";
 "settings_version" = "Versiune";
@@ -692,8 +679,6 @@
 "update_available_title" = "Actualizare disponibilă";
 "update_check_failed_message" = "Nu s-a putut contacta App Store. Încercați din nou mai târziu.";
 "update_check_failed_title" = "Verificare eșuată";
-"update_ready_message" = "Actualizarea a fost descărcată și este gata de instalare.";
-"update_restart_action" = "Repornire";
 "update_up_to_date_message" = "Aveți cea mai recentă versiune a %1$@.";
 "update_up_to_date_title" = "Sunteți la zi";
 "watch_action_back" = "Înapoi";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Curs";
 "watch_course_instructor_label" = "Profesor";
 "watch_empty_not_logged_in" = "Neconectat. Deschide TigerDuck pe telefon.";
-"watch_ends_at" = "Se termină la %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Niciodată sincronizat";
 "watch_last_synced_relative" = "Ultima sincronizare %1$@";
-"watch_library_loading" = "Generare…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Conectați-vă pe iPhone";
-"watch_library_title" = "Bibliotecă";
 "watch_next" = "URMĂTOR";
 "watch_next_label" = "Următor: %1$@ · %2$@";
 "watch_no_courses_synced" = "Niciun curs sincronizat.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Mar";
 "weekday_wed_short" = "Mie";
 "whats_new_continue" = "Continuați";
-"whats_new_title" = "Ce este nou";
 "widget_library_shortcut_desc" = "Deschide codul QR al permisului virtual de bibliotecă dintr-o singură apăsare";
 "widget_library_shortcut_label" = "Scurtătură cod QR Bibliotecă";
 "widget_library_shortcut_title" = "Bibliotecă";
 "widget_next_class" = "Cursul următor";
-"widget_next_class_dark_desc" = "Cursul curent sau următor. Tema urmează setarea aplicației.";
-"widget_next_class_dark_label" = "Cursul următor";
 "widget_next_class_light_desc" = "Cursul curent sau următor. Tema urmează setarea aplicației.";
 "widget_next_class_light_label" = "Cursul următor";
 "widget_next_class_short" = "Următor";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "În desfășurare";
 "widget_ongoing_count" = "În desfășurare × %1$d";
 "widget_sign_in" = "Autentifică-te mai întâi în TigerDuck";
-"widget_today_dark_desc" = "Lista cursurilor de azi. Tema urmează setarea aplicației.";
-"widget_today_dark_label" = "Orar (Azi)";
 "widget_today_light_desc" = "Lista cursurilor de azi. Tema urmează setarea aplicației.";
 "widget_today_light_label" = "Orar (Azi)";
 "widget_today_schedule_title" = "Orarul de azi";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Mâine";
 "widget_tomorrow_time" = "Mâine %1$@";
 "widget_until_time" = "Până la %1$@";
-"widget_week_dark_desc" = "Orarul complet al săptămânii. Tema urmează setarea aplicației.";
-"widget_week_dark_label" = "Orar (Săptămână)";
 "widget_week_light_desc" = "Orarul complet al săptămânii. Tema urmează setarea aplicației.";
 "widget_week_light_label" = "Orar (Săptămână)";

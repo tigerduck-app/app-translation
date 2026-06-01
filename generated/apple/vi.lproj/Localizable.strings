@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Xung đột lịch học";
 "a11y_course_card_open_details_hint" = "Nhấn đúp để xem chi tiết";
 "a11y_course_detail_open_moodle" = "Mở trong Moodle";
-"a11y_dropdown_action_hint" = "Nhấn đúp để chọn tùy chọn khác";
 "a11y_rankings_trend_chart" = "Xu hướng GPA theo học kỳ";
 "a11y_rankings_trend_no_selection" = "Chưa chọn học kỳ";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Khi bật đẩy thông báo, TigerDuck sẽ thông báo cho bạn mỗi khi có bản tin khớp với quy tắc đăng ký của bạn.";
 "bulletin_push_footer" = "Thông báo đẩy được gửi bởi máy chủ TigerDuck dựa trên quy tắc của bạn. Mã định danh thiết bị được gửi dưới dạng UUID ẩn danh — mã số sinh viên của bạn không bao giờ được tải lên.";
 "bulletin_push_reopen_settings" = "Bật lại trong Cài đặt Hệ thống";
-"bulletin_push_requesting" = "Đang yêu cầu…";
 "bulletin_push_settings_header" = "Cài đặt đẩy thông báo";
 "bulletin_push_status_denied" = "Đã từ chối";
 "bulletin_push_status_ephemeral" = "Tạm thời";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Phòng ban cụ thể";
 "bulletin_rule_disabled_badge" = "Đã tắt";
 "bulletin_rule_edit_title" = "Chỉnh sửa quy tắc";
-"bulletin_rule_editor_all_depts" = "Tất cả phòng ban";
-"bulletin_rule_editor_all_tags" = "Tất cả danh mục";
 "bulletin_rule_editor_dept_section" = "Phòng ban";
 "bulletin_rule_editor_enable_toggle" = "Bật quy tắc này";
 "bulletin_rule_editor_mode_and_footer" = "Chỉ thông báo khi cả phòng ban và danh mục đều khớp.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ đã có hai lớp ở khung này (Thứ %2$@, Tiết %3$@): %4$@ và %5$@. Hệ thống không hỗ trợ trùng ba lớp.";
 "class_table_conflict_add_failed_title" = "Không thể thêm";
 "class_table_course_name" = "Tên môn học";
-"class_table_course_no_value" = "Mã môn: %1$@";
-"class_table_course_time_value" = "Giờ học: %1$@";
 "class_table_delete" = "Xóa";
 "class_table_delete_with_course" = "Xóa — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Đăng ký: %1$d/%2$d";
 "class_table_login_required_message" = "Đăng nhập để xem thời khóa biểu";
 "class_table_pick_color" = "Chọn màu";
 "class_table_pick_color_with_course" = "Chọn màu — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Phòng học: %1$@";
 "course_color_picker_custom_badge" = "Tùy chỉnh";
 "course_color_picker_custom_label" = "Màu tùy chỉnh";
-"course_color_picker_reset_action" = "Khôi phục màu mặc định";
 "course_color_picker_title" = "Chỉnh sửa màu";
 "course_credits_value" = "Tín chỉ: %1$d";
 "course_detail_classroom_label" = "Phòng học";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Không có môn học trong học kỳ này";
 "desktop_class_table_loading_value" = "Đang tải %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d môn · %3$d tín chỉ";
-"desktop_course_detail_course_no_label" = "Mã môn";
 "desktop_home_section_upcoming_assignments" = "Bài tập sắp tới";
 "desktop_login_disclaimer" = "Ứng dụng này không liên kết với National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Đăng nhập bằng tài khoản NTUST SSO của bạn";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d nữa";
 "desktop_widget_now" = "BÂY GIỜ";
 "desktop_widget_starts_in" = "Bắt đầu sau %@";
-"desktop_widget_up_next" = "Tiếp theo";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Không phân tích được phản hồi bản tin: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Dịch vụ web Moodle hiện không khả dụng.";
 "error_network_format" = "Lỗi mạng: %1$@";
 "error_network_unavailable" = "Không thể kết nối. Vui lòng kiểm tra kết nối mạng.";
-"error_no_response" = "Không có phản hồi";
 "error_qr_generation_failed_format" = "Tạo mã QR thất bại: %1$@";
 "error_session_expired" = "Phiên đã hết hạn";
 "error_sso_login_failed" = "Đăng nhập thất bại. Vui lòng kiểm tra tài khoản và mật khẩu.";
 "error_sso_login_form_not_found" = "Không tìm thấy biểu mẫu đăng nhập SSO.";
-"error_unknown" = "Lỗi không xác định";
 "feature_announcements" = "Thông báo";
 "feature_announcements_short" = "Thông báo";
 "feature_calendar" = "Lịch";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Chế độ tối";
 "settings_theme_light" = "Chế độ sáng";
 "settings_theme_system" = "Theo hệ thống";
-"settings_token_valid_until" = "Token có hiệu lực đến %1$@";
 "settings_use_english_classroom_abbreviation" = "Dùng tên viết tắt tiếng Anh cho phòng học";
 "settings_use_english_course_abbreviation" = "Dùng tên viết tắt tiếng Anh cho môn học";
 "settings_version" = "Phiên bản";
@@ -692,8 +679,6 @@
 "update_available_title" = "Có bản cập nhật";
 "update_check_failed_message" = "Không thể kết nối App Store. Vui lòng thử lại sau.";
 "update_check_failed_title" = "Kiểm tra thất bại";
-"update_ready_message" = "Bản cập nhật đã tải xong, sẵn sàng cài đặt.";
-"update_restart_action" = "Khởi động lại";
 "update_up_to_date_message" = "Bạn đang dùng phiên bản mới nhất của %1$@.";
 "update_up_to_date_title" = "Bạn đã dùng phiên bản mới nhất";
 "watch_action_back" = "Trở lại";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Khóa học";
 "watch_course_instructor_label" = "Giảng viên";
 "watch_empty_not_logged_in" = "Chưa đăng nhập. Mở TigerDuck trên điện thoại.";
-"watch_ends_at" = "Kết thúc %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Chưa bao giờ đồng bộ";
 "watch_last_synced_relative" = "Đồng bộ lần cuối %1$@";
-"watch_library_loading" = "Đang tạo…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Đăng nhập trên iPhone";
-"watch_library_title" = "Thư viện";
 "watch_next" = "TIẾP";
 "watch_next_label" = "Tiếp theo: %1$@ · %2$@";
 "watch_no_courses_synced" = "Chưa có khóa học nào được đồng bộ.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "T3";
 "weekday_wed_short" = "T4";
 "whats_new_continue" = "Tiếp tục";
-"whats_new_title" = "Có gì mới";
 "widget_library_shortcut_desc" = "Mở QR Code thẻ vào thư viện ảo chỉ với một chạm";
 "widget_library_shortcut_label" = "Lối tắt QR thư viện";
 "widget_library_shortcut_title" = "Thư viện";
 "widget_next_class" = "Lớp tiếp theo";
-"widget_next_class_dark_desc" = "Lớp hiện tại hoặc lớp tiếp theo. Giao diện theo cài đặt ứng dụng.";
-"widget_next_class_dark_label" = "Lớp tiếp theo";
 "widget_next_class_light_desc" = "Lớp hiện tại hoặc lớp tiếp theo. Giao diện theo cài đặt ứng dụng.";
 "widget_next_class_light_label" = "Lớp tiếp theo";
 "widget_next_class_short" = "Tiếp theo";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Đang diễn ra";
 "widget_ongoing_count" = "Đang diễn ra × %1$d";
 "widget_sign_in" = "Vui lòng đăng nhập TigerDuck trước";
-"widget_today_dark_desc" = "Danh sách lớp hôm nay. Giao diện theo cài đặt ứng dụng.";
-"widget_today_dark_label" = "Thời khóa biểu (Hôm nay)";
 "widget_today_light_desc" = "Danh sách lớp hôm nay. Giao diện theo cài đặt ứng dụng.";
 "widget_today_light_label" = "Thời khóa biểu (Hôm nay)";
 "widget_today_schedule_title" = "Lịch học hôm nay";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Ngày mai";
 "widget_tomorrow_time" = "Ngày mai %1$@";
 "widget_until_time" = "Đến %1$@";
-"widget_week_dark_desc" = "Thời khóa biểu đầy đủ của tuần này. Giao diện theo cài đặt ứng dụng.";
-"widget_week_dark_label" = "Thời khóa biểu (Tuần)";
 "widget_week_light_desc" = "Thời khóa biểu đầy đủ của tuần này. Giao diện theo cài đặt ứng dụng.";
 "widget_week_light_label" = "Thời khóa biểu (Tuần)";

@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "撞堂";
 "a11y_course_card_open_details_hint" = "㩒兩下睇詳情";
 "a11y_course_detail_open_moodle" = "喺 Moodle 開啟";
-"a11y_dropdown_action_hint" = "㩒兩下揀第個選項";
 "a11y_rankings_trend_chart" = "各學期 GPA 趨勢";
 "a11y_rankings_trend_no_selection" = "未揀學期";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "開啟推播後,當有符合你設定規則的公告時, TigerDuck 會即時通知你。";
 "bulletin_push_footer" = "推播通知由 TigerDuck 伺服器根據你選的規則派送。設備標識以匿名 UUID 傳送,不會上傳學號。";
 "bulletin_push_reopen_settings" = "在系統設定中重新開啟";
-"bulletin_push_requesting" = "請求中…";
 "bulletin_push_settings_header" = "推播設定";
 "bulletin_push_status_denied" = "已被拒絕";
 "bulletin_push_status_ephemeral" = "臨時";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "指定處室";
 "bulletin_rule_disabled_badge" = "已停用";
 "bulletin_rule_edit_title" = "編輯規則";
-"bulletin_rule_editor_all_depts" = "全部處室";
-"bulletin_rule_editor_all_tags" = "全部類別";
 "bulletin_rule_editor_dept_section" = "處室";
 "bulletin_rule_editor_enable_toggle" = "啟用此規則";
 "bulletin_rule_editor_mode_and_footer" = "同時符合所選的處室與類別才會推播。";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ 的時段（週%2$@ 第%3$@節）已有兩堂課程：%4$@ 和 %5$@。系統不支援三堂以上衝堂。";
 "class_table_conflict_add_failed_title" = "無法加入";
 "class_table_course_name" = "課程名稱";
-"class_table_course_no_value" = "課號：%1$@";
-"class_table_course_time_value" = "上課時間：%1$@";
 "class_table_delete" = "刪除";
 "class_table_delete_with_course" = "刪除 — %1$@";
 "class_table_empty_message" = "下拉以重新整理,或使用右上角的 + 新增課程,或切換到其他學期";
-"class_table_enrolled_count_value" = "修課人數：%1$d/%2$d";
 "class_table_login_required_message" = "尚未登入,無法查看課表";
 "class_table_pick_color" = "選擇顏色";
 "class_table_pick_color_with_course" = "選擇顏色 — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "教室：%1$@";
 "course_color_picker_custom_badge" = "自訂";
 "course_color_picker_custom_label" = "自訂顏色";
-"course_color_picker_reset_action" = "恢復預設顏色";
 "course_color_picker_title" = "編輯顏色";
 "course_credits_value" = "學分：%1$d";
 "course_detail_classroom_label" = "教室";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "今個學期冇課";
 "desktop_class_table_loading_value" = "載入緊 %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d 科 · %3$d 學分";
-"desktop_course_detail_course_no_label" = "課程編號";
 "desktop_home_section_upcoming_assignments" = "即將到期嘅功課";
 "desktop_login_disclaimer" = "本應用同國立臺灣科技大學冇任何關係。";
 "desktop_login_subtitle" = "用你嘅台科大 SSO 帳號登入";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "仲有 %1$d 個";
 "desktop_widget_now" = "進行緊";
 "desktop_widget_starts_in" = "%@ 後開始";
-"desktop_widget_up_next" = "下一堂";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "公告回應解析失敗：%1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle 網絡服務而家無法使用。";
 "error_network_format" = "網絡錯誤：%1$@";
 "error_network_unavailable" = "連線唔到，請檢查網絡連線";
-"error_no_response" = "冇回應";
 "error_qr_generation_failed_format" = "QR Code 產生失敗：%1$@";
 "error_session_expired" = "登入階段已過期";
 "error_sso_login_failed" = "登入失敗，請確認你嘅帳戶同密碼。";
 "error_sso_login_form_not_found" = "搵唔到 SSO 登入表單。";
-"error_unknown" = "未知錯誤";
 "feature_announcements" = "公告";
 "feature_announcements_short" = "公告";
 "feature_calendar" = "行事曆";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "暗色模式";
 "settings_theme_light" = "亮色模式";
 "settings_theme_system" = "跟隨系統";
-"settings_token_valid_until" = "Token 有效至 %1$@";
 "settings_use_english_classroom_abbreviation" = "使用英文課室名縮寫";
 "settings_use_english_course_abbreviation" = "使用英文課名縮寫";
 "settings_version" = "版本";
@@ -692,8 +679,6 @@
 "update_available_title" = "有可用更新";
 "update_check_failed_message" = "連唔到 App Store，請稍後再試。";
 "update_check_failed_title" = "檢查失敗";
-"update_ready_message" = "更新已下載完成，準備安裝。";
-"update_restart_action" = "重新啟動";
 "update_up_to_date_message" = "您而家用緊嘅已係 %1$@ 最新版本。";
 "update_up_to_date_title" = "已係最新版本";
 "watch_action_back" = "返回";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "課程";
 "watch_course_instructor_label" = "授課教師";
 "watch_empty_not_logged_in" = "未登入嘅。喺手機開 TigerDuck 啦。";
-"watch_ends_at" = "%1$@ 完";
 "watch_just_now" = "啱啱";
 "watch_last_synced_never" = "未同步過";
 "watch_last_synced_relative" = "上次同步:%1$@";
-"watch_library_loading" = "產生中…";
-"watch_library_refresh_in_seconds" = "%lld 秒";
-"watch_library_signin_prompt" = "請於 iPhone 登入";
-"watch_library_title" = "圖書館";
 "watch_next" = "下一堂";
 "watch_next_label" = "下一節:%1$@ · %2$@";
 "watch_no_courses_synced" = "未有課程資料。";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "二";
 "weekday_wed_short" = "三";
 "whats_new_continue" = "繼續";
-"whats_new_title" = "新功能說明";
 "widget_library_shortcut_desc" = "一鍵開啟虛擬入館證 QR Code";
 "widget_library_shortcut_label" = "圖書館 QR 捷徑";
 "widget_library_shortcut_title" = "圖書館";
 "widget_next_class" = "下一堂課";
-"widget_next_class_dark_desc" = "進行中或下一堂課，主題跟隨 App 設定";
-"widget_next_class_dark_label" = "下一堂課";
 "widget_next_class_light_desc" = "進行中或下一堂課，主題跟隨 App 設定";
 "widget_next_class_light_label" = "下一堂課";
 "widget_next_class_short" = "下一堂";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "進行中";
 "widget_ongoing_count" = "進行中×%1$d";
 "widget_sign_in" = "請先登入 TigerDuck";
-"widget_today_dark_desc" = "今日課程清單，主題跟隨 App 設定";
-"widget_today_dark_label" = "課表 今日";
 "widget_today_light_desc" = "今日課程清單，主題跟隨 App 設定";
 "widget_today_light_label" = "課表 今日";
 "widget_today_schedule_title" = "今日課表";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "明天";
 "widget_tomorrow_time" = "明天 %1$@";
 "widget_until_time" = "至 %1$@";
-"widget_week_dark_desc" = "本週完整課表，主題跟隨 App 設定";
-"widget_week_dark_label" = "課表 週視圖";
 "widget_week_light_desc" = "本週完整課表，主題跟隨 App 設定";
 "widget_week_light_label" = "課表 週視圖";

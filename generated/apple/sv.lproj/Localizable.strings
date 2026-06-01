@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Lektionskonflikt";
 "a11y_course_card_open_details_hint" = "Dubbeltryck för detaljer";
 "a11y_course_detail_open_moodle" = "Öppna i Moodle";
-"a11y_dropdown_action_hint" = "Dubbeltryck för att välja ett annat alternativ";
 "a11y_rankings_trend_chart" = "GPA-trend per termin";
 "a11y_rankings_trend_no_selection" = "Ingen termin vald";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "När push är aktiverat meddelar TigerDuck dig när ett meddelande matchar dina prenumerationsregler.";
 "bulletin_push_footer" = "Push-aviseringar levereras av TigerDuck-servern baserat på dina regler. Enhetsidentifieraren skickas som ett anonymt UUID – ditt student-ID laddas aldrig upp.";
 "bulletin_push_reopen_settings" = "Aktivera igen i Systeminställningar";
-"bulletin_push_requesting" = "Begär…";
 "bulletin_push_settings_header" = "Push-inställningar";
 "bulletin_push_status_denied" = "Nekad";
 "bulletin_push_status_ephemeral" = "Tillfällig";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Specifik avdelning";
 "bulletin_rule_disabled_badge" = "Inaktiverad";
 "bulletin_rule_edit_title" = "Redigera regel";
-"bulletin_rule_editor_all_depts" = "Alla avdelningar";
-"bulletin_rule_editor_all_tags" = "Alla kategorier";
 "bulletin_rule_editor_dept_section" = "Avdelning";
 "bulletin_rule_editor_enable_toggle" = "Aktivera den här regeln";
 "bulletin_rule_editor_mode_and_footer" = "Avisera endast när både avdelning och kategori stämmer.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ har redan två lektioner i det här tidsfönstret (Veckodag %2$@, Period %3$@): %4$@ och %5$@. Systemet stöder inte tre simultana konflikter.";
 "class_table_conflict_add_failed_title" = "Kan inte lägga till";
 "class_table_course_name" = "Kursnamn";
-"class_table_course_no_value" = "Kurskod: %1$@";
-"class_table_course_time_value" = "Lektionstid: %1$@";
 "class_table_delete" = "Ta bort";
 "class_table_delete_with_course" = "Ta bort — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Inskrivna: %1$d/%2$d";
 "class_table_login_required_message" = "Logga in för att visa ditt schema";
 "class_table_pick_color" = "Välj färg";
 "class_table_pick_color_with_course" = "Välj färg — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Klassrum: %1$@";
 "course_color_picker_custom_badge" = "Anpassad";
 "course_color_picker_custom_label" = "Anpassad färg";
-"course_color_picker_reset_action" = "Återställ standardfärg";
 "course_color_picker_title" = "Redigera färg";
 "course_credits_value" = "Hp: %1$d";
 "course_detail_classroom_label" = "Klassrum";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "Inga kurser denna termin";
 "desktop_class_table_loading_value" = "Läser in %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d kurser · %3$d poäng";
-"desktop_course_detail_course_no_label" = "Kursnr";
 "desktop_home_section_upcoming_assignments" = "Kommande uppgifter";
 "desktop_login_disclaimer" = "Den här appen är inte ansluten till National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Logga in med ditt NTUST SSO-konto";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d till";
 "desktop_widget_now" = "NU";
 "desktop_widget_starts_in" = "Börjar om %@";
-"desktop_widget_up_next" = "Nästa";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Det gick inte att tolka anslagstavlans svar: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodles webbtjänst är för närvarande inte tillgänglig.";
 "error_network_format" = "Nätverksfel: %1$@";
 "error_network_unavailable" = "Kan inte ansluta. Kontrollera din nätverksanslutning.";
-"error_no_response" = "Inget svar";
 "error_qr_generation_failed_format" = "Det gick inte att generera QR-koden: %1$@";
 "error_session_expired" = "Sessionen har gått ut";
 "error_sso_login_failed" = "Inloggningen misslyckades. Kontrollera ditt konto och lösenord.";
 "error_sso_login_form_not_found" = "Det gick inte att hitta SSO-inloggningsformuläret.";
-"error_unknown" = "Okänt fel";
 "feature_announcements" = "Meddelanden";
 "feature_announcements_short" = "Meddelanden";
 "feature_calendar" = "Kalender";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Mörkt läge";
 "settings_theme_light" = "Ljust läge";
 "settings_theme_system" = "Följ systemet";
-"settings_token_valid_until" = "Token giltig till %1$@";
 "settings_use_english_classroom_abbreviation" = "Använd engelska förkortningar för klassrum";
 "settings_use_english_course_abbreviation" = "Använd engelska kursförkortningar";
 "settings_version" = "Version";
@@ -692,8 +679,6 @@
 "update_available_title" = "Uppdatering tillgänglig";
 "update_check_failed_message" = "Det gick inte att nå App Store. Försök igen senare.";
 "update_check_failed_title" = "Kontroll misslyckades";
-"update_ready_message" = "Uppdateringen är nedladdad och redo att installeras.";
-"update_restart_action" = "Starta om";
 "update_up_to_date_message" = "Du har den senaste versionen av %1$@.";
 "update_up_to_date_title" = "Du är uppdaterad";
 "watch_action_back" = "Tillbaka";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Kurs";
 "watch_course_instructor_label" = "Lärare";
 "watch_empty_not_logged_in" = "Inte inloggad. Öppna TigerDuck på telefonen.";
-"watch_ends_at" = "Slutar %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Aldrig synkroniserat";
 "watch_last_synced_relative" = "Senast synkad %1$@";
-"watch_library_loading" = "Genererar…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "Logga in på iPhone";
-"watch_library_title" = "Bibliotek";
 "watch_next" = "NÄSTA";
 "watch_next_label" = "Nästa: %1$@ · %2$@";
 "watch_no_courses_synced" = "Inga synkade kurser.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Tis";
 "weekday_wed_short" = "Ons";
 "whats_new_continue" = "Fortsätt";
-"whats_new_title" = "Vad är nytt";
 "widget_library_shortcut_desc" = "Öppna det virtuella bibliotekskortet som QR-kod med ett tryck";
 "widget_library_shortcut_label" = "Biblioteks QR-kod-genväg";
 "widget_library_shortcut_title" = "Bibliotek";
 "widget_next_class" = "Nästa lektion";
-"widget_next_class_dark_desc" = "Pågående eller nästa lektion. Tema följer appinställning.";
-"widget_next_class_dark_label" = "Nästa lektion";
 "widget_next_class_light_desc" = "Pågående eller nästa lektion. Tema följer appinställning.";
 "widget_next_class_light_label" = "Nästa lektion";
 "widget_next_class_short" = "Nästa";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Pågående";
 "widget_ongoing_count" = "Pågående × %1$d";
 "widget_sign_in" = "Logga in på TigerDuck först";
-"widget_today_dark_desc" = "Dagens kurslista. Tema följer appinställning.";
-"widget_today_dark_label" = "Schema (Idag)";
 "widget_today_light_desc" = "Dagens kurslista. Tema följer appinställning.";
 "widget_today_light_label" = "Schema (Idag)";
 "widget_today_schedule_title" = "Dagens schema";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Imorgon";
 "widget_tomorrow_time" = "Imorgon %1$@";
 "widget_until_time" = "Till %1$@";
-"widget_week_dark_desc" = "Fullständigt schema för den här veckan. Tema följer appinställning.";
-"widget_week_dark_label" = "Schema (Vecka)";
 "widget_week_light_desc" = "Fullständigt schema för den här veckan. Tema följer appinställning.";
 "widget_week_light_label" = "Schema (Vecka)";

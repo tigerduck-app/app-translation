@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "ตารางเรียนชนกัน";
 "a11y_course_card_open_details_hint" = "แตะสองครั้งเพื่อดูรายละเอียด";
 "a11y_course_detail_open_moodle" = "เปิดใน Moodle";
-"a11y_dropdown_action_hint" = "แตะสองครั้งเพื่อเลือกตัวเลือกอื่น";
 "a11y_rankings_trend_chart" = "แนวโน้ม GPA ตามภาคการศึกษา";
 "a11y_rankings_trend_no_selection" = "ยังไม่ได้เลือกภาคการศึกษา";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "เมื่อเปิดใช้งานพุช TigerDuck จะแจ้งเตือนคุณทุกครั้งที่มีประกาศตรงกับกฎการสมัครรับข้อมูลของคุณ";
 "bulletin_push_footer" = "การแจ้งเตือนแบบพุชจะถูกส่งโดยเซิร์ฟเวอร์ TigerDuck ตามกฎของคุณ ตัวระบุอุปกรณ์จะถูกส่งในรูปแบบ UUID นิรนาม — รหัสนักศึกษาของคุณจะไม่ถูกอัปโหลดเด็ดขาด";
 "bulletin_push_reopen_settings" = "เปิดใช้งานอีกครั้งในการตั้งค่าระบบ";
-"bulletin_push_requesting" = "กำลังร้องขอ…";
 "bulletin_push_settings_header" = "การตั้งค่าพุช";
 "bulletin_push_status_denied" = "ถูกปฏิเสธ";
 "bulletin_push_status_ephemeral" = "ชั่วคราว";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "ภาควิชาที่เฉพาะเจาะจง";
 "bulletin_rule_disabled_badge" = "ปิดใช้งาน";
 "bulletin_rule_edit_title" = "แก้ไขกฎ";
-"bulletin_rule_editor_all_depts" = "ทุกภาควิชา";
-"bulletin_rule_editor_all_tags" = "ทุกหมวดหมู่";
 "bulletin_rule_editor_dept_section" = "ภาควิชา";
 "bulletin_rule_editor_enable_toggle" = "เปิดใช้งานกฎนี้";
 "bulletin_rule_editor_mode_and_footer" = "แจ้งเตือนเมื่อทั้งภาควิชาและหมวดหมู่ตรงกันเท่านั้น";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ มีคาบเรียนสองรายการในช่วงเวลานี้แล้ว (วัน%2$@ คาบที่%3$@): %4$@ และ %5$@ ระบบไม่รองรับการชนกันสามคาบ";
 "class_table_conflict_add_failed_title" = "ไม่สามารถเพิ่มได้";
 "class_table_course_name" = "ชื่อวิชา";
-"class_table_course_no_value" = "รหัสวิชา: %1$@";
-"class_table_course_time_value" = "เวลาเรียน: %1$@";
 "class_table_delete" = "ลบ";
 "class_table_delete_with_course" = "ลบ — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "จำนวนผู้ลงทะเบียน: %1$d/%2$d";
 "class_table_login_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_pick_color" = "เลือกสี";
 "class_table_pick_color_with_course" = "เลือกสี — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "ห้องเรียน: %1$@";
 "course_color_picker_custom_badge" = "กำหนดเอง";
 "course_color_picker_custom_label" = "สีกำหนดเอง";
-"course_color_picker_reset_action" = "Standardfarbe wiederherstellen";
 "course_color_picker_title" = "แก้ไขสี";
 "course_credits_value" = "หน่วยกิต: %1$d";
 "course_detail_classroom_label" = "Klassenzimmer";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "ไม่มีรายวิชาในภาคนี้";
 "desktop_class_table_loading_value" = "กำลังโหลด %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d วิชา · %3$d หน่วยกิต";
-"desktop_course_detail_course_no_label" = "รหัสวิชา";
 "desktop_home_section_upcoming_assignments" = "การบ้านที่จะมาถึง";
 "desktop_login_disclaimer" = "แอปนี้ไม่ได้สังกัด National Taiwan University of Science and Technology";
 "desktop_login_subtitle" = "ลงชื่อเข้าใช้ด้วยบัญชี NTUST SSO ของคุณ";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "อีก %1$d";
 "desktop_widget_now" = "ตอนนี้";
 "desktop_widget_starts_in" = "เริ่มใน %@";
-"desktop_widget_up_next" = "ถัดไป";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "ไม่สามารถแยกวิเคราะห์ข้อมูลประกาศ: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle webservice ไม่พร้อมใช้งานในขณะนี้";
 "error_network_format" = "ข้อผิดพลาดเครือข่าย: %1$@";
 "error_network_unavailable" = "ไม่สามารถเชื่อมต่อได้ กรุณาตรวจสอบการเชื่อมต่อเครือข่าย";
-"error_no_response" = "ไม่มีการตอบสนอง";
 "error_qr_generation_failed_format" = "สร้าง QR Code ล้มเหลว: %1$@";
 "error_session_expired" = "เซสชันหมดอายุ";
 "error_sso_login_failed" = "เข้าสู่ระบบล้มเหลว กรุณาตรวจสอบบัญชีและรหัสผ่านของคุณ";
 "error_sso_login_form_not_found" = "ไม่พบแบบฟอร์มเข้าสู่ระบบ SSO";
-"error_unknown" = "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ";
 "feature_announcements" = "ประกาศ";
 "feature_announcements_short" = "ประกาศ";
 "feature_calendar" = "ปฏิทิน";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "โหมดมืด";
 "settings_theme_light" = "โหมดสว่าง";
 "settings_theme_system" = "ตามระบบ";
-"settings_token_valid_until" = "Token ใช้ได้ถึง %1$@";
 "settings_use_english_classroom_abbreviation" = "ใช้ตัวย่อห้องเรียนภาษาอังกฤษ";
 "settings_use_english_course_abbreviation" = "ใช้ตัวย่อรายวิชาภาษาอังกฤษ";
 "settings_version" = "เวอร์ชัน";
@@ -692,8 +679,6 @@
 "update_available_title" = "มีการอัปเดต";
 "update_check_failed_message" = "ไม่สามารถเข้าถึง App Store ได้ ลองอีกครั้งในภายหลัง";
 "update_check_failed_title" = "การตรวจสอบล้มเหลว";
-"update_ready_message" = "อัปเดตดาวน์โหลดเสร็จแล้ว พร้อมติดตั้ง";
-"update_restart_action" = "รีสตาร์ท";
 "update_up_to_date_message" = "คุณมี %1$@ เวอร์ชันล่าสุดแล้ว";
 "update_up_to_date_title" = "คุณใช้เวอร์ชันล่าสุดแล้ว";
 "watch_action_back" = "ย้อนกลับ";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "วิชา";
 "watch_course_instructor_label" = "ผู้สอน";
 "watch_empty_not_logged_in" = "ยังไม่ได้เข้าสู่ระบบ เปิด TigerDuck บนโทรศัพท์";
-"watch_ends_at" = "สิ้นสุด %1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "ยังไม่เคยซิงก์";
 "watch_last_synced_relative" = "ซิงค์ล่าสุด %1$@";
-"watch_library_loading" = "กำลังสร้าง…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "เข้าสู่ระบบบน iPhone";
-"watch_library_title" = "ห้องสมุด";
 "watch_next" = "ถัดไป";
 "watch_next_label" = "ถัดไป: %1$@ · %2$@";
 "watch_no_courses_synced" = "ยังไม่มีรายวิชาที่ซิงค์";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "อ.";
 "weekday_wed_short" = "พ.";
 "whats_new_continue" = "ดำเนินการต่อ";
-"whats_new_title" = "มีอะไรใหม่";
 "widget_library_shortcut_desc" = "เปิด QR Code บัตรเข้าห้องสมุดเสมือนได้ในแตะเดียว";
 "widget_library_shortcut_label" = "ทางลัด QR ห้องสมุด";
 "widget_library_shortcut_title" = "ห้องสมุด";
 "widget_next_class" = "คาบเรียนถัดไป";
-"widget_next_class_dark_desc" = "คาบเรียนปัจจุบันหรือคาบถัดไป ธีมเป็นไปตามการตั้งค่าแอป";
-"widget_next_class_dark_label" = "คาบเรียนถัดไป";
 "widget_next_class_light_desc" = "คาบเรียนปัจจุบันหรือคาบถัดไป ธีมเป็นไปตามการตั้งค่าแอป";
 "widget_next_class_light_label" = "คาบเรียนถัดไป";
 "widget_next_class_short" = "คาบถัดไป";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "กำลังเรียน";
 "widget_ongoing_count" = "กำลังเรียน × %1$d";
 "widget_sign_in" = "กรุณาเข้าสู่ระบบ TigerDuck ก่อน";
-"widget_today_dark_desc" = "รายการคาบเรียนของวันนี้ ธีมเป็นไปตามการตั้งค่าแอป";
-"widget_today_dark_label" = "ตารางเรียน (วันนี้)";
 "widget_today_light_desc" = "รายการคาบเรียนของวันนี้ ธีมเป็นไปตามการตั้งค่าแอป";
 "widget_today_light_label" = "ตารางเรียน (วันนี้)";
 "widget_today_schedule_title" = "ตารางเรียนวันนี้";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "พรุ่งนี้";
 "widget_tomorrow_time" = "พรุ่งนี้ %1$@";
 "widget_until_time" = "ถึง %1$@";
-"widget_week_dark_desc" = "ตารางเรียนเต็มของสัปดาห์นี้ ธีมเป็นไปตามการตั้งค่าแอป";
-"widget_week_dark_label" = "ตารางเรียน (สัปดาห์)";
 "widget_week_light_desc" = "ตารางเรียนเต็มของสัปดาห์นี้ ธีมเป็นไปตามการตั้งค่าแอป";
 "widget_week_light_label" = "ตารางเรียน (สัปดาห์)";

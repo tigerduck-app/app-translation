@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "התנגשות שיעורים";
 "a11y_course_card_open_details_hint" = "הקש פעמיים לפרטים";
 "a11y_course_detail_open_moodle" = "פתח ב-Moodle";
-"a11y_dropdown_action_hint" = "הקש פעמיים לבחירת אפשרות אחרת";
 "a11y_rankings_trend_chart" = "מגמת GPA לפי סמסטר";
 "a11y_rankings_trend_no_selection" = "לא נבחר סמסטר";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "כאשר אפשרות הדחיפה מופעלת, TigerDuck יודיע לך בכל פעם שהודעות תואמות לכללי המינוי שלך.";
 "bulletin_push_footer" = "הודעות דחיפה מועברות על ידי שרת TigerDuck בהתאם לכללים שלכם. מזהה המכשיר נשלח כ — UUID אנונימי — מזהה התלמיד שלך לעולם לא מועלה.";
 "bulletin_push_reopen_settings" = "הפעל מחדש בהגדרות המערכת";
-"bulletin_push_requesting" = "מבקש נסיעה…";
 "bulletin_push_settings_header" = "הגדרות הודעות דחיפה APP";
 "bulletin_push_status_denied" = "נדחה";
 "bulletin_push_status_ephemeral" = "ארעי";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "מחלקה ספציפית";
 "bulletin_rule_disabled_badge" = "כבוי";
 "bulletin_rule_edit_title" = "ערוך כלל";
-"bulletin_rule_editor_all_depts" = "כל הקטגוריות";
-"bulletin_rule_editor_all_tags" = "כל הקטגוריות";
 "bulletin_rule_editor_dept_section" = "מחלקה";
 "bulletin_rule_editor_enable_toggle" = "הפעל כלל זה";
 "bulletin_rule_editor_mode_and_footer" = "הודע רק כאשר הן המחלקה והן הקטגוריה תואמות.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "ל-%1$@ כבר יש שני שיעורים בחריץ זה (יום %2$@, שיעור %3$@): %4$@ ו-%5$@. המערכת אינה תומכת בשלושה קורסים חופפים.";
 "class_table_conflict_add_failed_title" = "לא ניתן להוסיף";
 "class_table_course_name" = "שם קורס";
-"class_table_course_no_value" = "קוד קורס: %1$@";
-"class_table_course_time_value" = "שעת שיעור: %1$@";
 "class_table_delete" = "מחק";
 "class_table_delete_with_course" = "מחק — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "נרשמים: %1$d/%2$d";
 "class_table_login_required_message" = "היכנס כדי להציג את טבלת הכיתה שלך";
 "class_table_pick_color" = "בחר צבע";
 "class_table_pick_color_with_course" = "בחר צבע — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "כיתה: %1$@";
 "course_color_picker_custom_badge" = "מותאם אישית";
 "course_color_picker_custom_label" = "צבע מותאם אישית";
-"course_color_picker_reset_action" = "שחזר צבע ברירת מחדל";
 "course_color_picker_title" = "ערוך צבע";
 "course_credits_value" = "נקודות זכות: %1$d";
 "course_detail_classroom_label" = "כיתה";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "אין קורסים בסמסטר זה";
 "desktop_class_table_loading_value" = "טוען את %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d קורסים · %3$d נקודות זכות";
-"desktop_course_detail_course_no_label" = "מס׳ קורס";
 "desktop_home_section_upcoming_assignments" = "מטלות קרובות";
 "desktop_login_disclaimer" = "אפליקציה זו אינה קשורה ל-National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "התחבר עם חשבון NTUST SSO שלך";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "‎+%1$d נוספים";
 "desktop_widget_now" = "כעת";
 "desktop_widget_starts_in" = "מתחיל בעוד %@";
-"desktop_widget_up_next" = "הבא";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "עיבוד תגובת הלוח נכשל: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "שירות האינטרנט של Moodle אינו זמין כעת.";
 "error_network_format" = "שגיאת רשת: %1$@";
 "error_network_unavailable" = "לא ניתן להתחבר. בדוק את חיבור הרשת שלך.";
-"error_no_response" = "אין תגובה";
 "error_qr_generation_failed_format" = "יצירת קוד QR נכשלה: %1$@";
 "error_session_expired" = "הפגישה פגה";
 "error_sso_login_failed" = "הכניסה נכשלה. אנא אמת את החשבון והסיסמה.";
 "error_sso_login_form_not_found" = "לא ניתן למצוא את טופס הכניסה של SSO.";
-"error_unknown" = "שגיאה לא ידועה";
 "feature_announcements" = "הודעות";
 "feature_announcements_short" = "הודעות";
 "feature_calendar" = "לוח שנה";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "מצב כהה";
 "settings_theme_light" = "מצב בהיר";
 "settings_theme_system" = "עקוב אחר המערכת";
-"settings_token_valid_until" = "טוקן תקף עד %1$@";
 "settings_use_english_classroom_abbreviation" = "השתמש בקיצורי כיתות באנגלית";
 "settings_use_english_course_abbreviation" = "השתמש בקיצורי שמות קורסים באנגלית";
 "settings_version" = "גרסה";
@@ -692,8 +679,6 @@
 "update_available_title" = "עדכון זמין";
 "update_check_failed_message" = "לא ניתן להגיע ל-App Store. נסה שוב מאוחר יותר.";
 "update_check_failed_title" = "הבדיקה נכשלה";
-"update_ready_message" = "העדכון הורד ומוכן להתקנה.";
-"update_restart_action" = "הפעל מחדש";
 "update_up_to_date_message" = "יש לך את הגרסה העדכנית ביותר של %1$@.";
 "update_up_to_date_title" = "הגרסה שלך מעודכנת";
 "watch_action_back" = "חזור";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "קורס";
 "watch_course_instructor_label" = "מרצה";
 "watch_empty_not_logged_in" = "לא מחובר. פתח את TigerDuck בטלפון שלך.";
-"watch_ends_at" = "מסתיים ב-%1$@";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "מעולם לא סונכרן";
 "watch_last_synced_relative" = "סנכרון אחרון %1$@";
-"watch_library_loading" = "מייצר…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "היכנס ב-iPhone";
-"watch_library_title" = "ספרייה";
 "watch_next" = "הבא";
 "watch_next_label" = "הבא: %1$@ · %2$@";
 "watch_no_courses_synced" = "אין קורסים מסונכרנים.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "שלישי";
 "weekday_wed_short" = "רביעי";
 "whats_new_continue" = "המשך";
-"whats_new_title" = "מה חדש";
 "widget_library_shortcut_desc" = "פתח את QR Code כרטיס הכניסה הוירטואלי לספרייה בהקשה אחת";
 "widget_library_shortcut_label" = "קיצור דרך QR Code לספרייה";
 "widget_library_shortcut_title" = "ספרייה";
 "widget_next_class" = "השיעור הבא";
-"widget_next_class_dark_desc" = "השיעור הנוכחי או הבא. הנושא עוקב אחר הגדרות האפליקציה.";
-"widget_next_class_dark_label" = "השיעור הבא";
 "widget_next_class_light_desc" = "השיעור הנוכחי או הבא. הנושא עוקב אחר הגדרות האפליקציה.";
 "widget_next_class_light_label" = "השיעור הבא";
 "widget_next_class_short" = "הבא";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "מתנהל";
 "widget_ongoing_count" = "מתנהל × %1$d";
 "widget_sign_in" = "אנא התחבר ל-TigerDuck תחילה";
-"widget_today_dark_desc" = "רשימת שיעורי היום. הנושא עוקב אחר הגדרות האפליקציה.";
-"widget_today_dark_label" = "מערכת שעות (היום)";
 "widget_today_light_desc" = "רשימת שיעורי היום. הנושא עוקב אחר הגדרות האפליקציה.";
 "widget_today_light_label" = "מערכת שעות (היום)";
 "widget_today_schedule_title" = "מערכת שעות להיום";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "מחר";
 "widget_tomorrow_time" = "מחר %1$@";
 "widget_until_time" = "עד %1$@";
-"widget_week_dark_desc" = "מערכת שעות מלאה לשבוע זה. הנושא עוקב אחר הגדרות האפליקציה.";
-"widget_week_dark_label" = "מערכת שעות (שבוע)";
 "widget_week_light_desc" = "מערכת שעות מלאה לשבוע זה. הנושא עוקב אחר הגדרות האפליקציה.";
 "widget_week_light_label" = "מערכת שעות (שבוע)";

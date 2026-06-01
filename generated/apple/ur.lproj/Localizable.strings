@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "کلاس تنازع";
 "a11y_course_card_open_details_hint" = "تفصیلات کے لیے دو بار ٹیپ کریں";
 "a11y_course_detail_open_moodle" = "Moodle میں کھولیں";
-"a11y_dropdown_action_hint" = "دوسرا آپشن منتخب کرنے کے لیے دو بار ٹیپ کریں";
 "a11y_rankings_trend_chart" = "سمسٹر کے مطابق GPA رجحان";
 "a11y_rankings_trend_no_selection" = "کوئی سمسٹر منتخب نہیں";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "جب پش فعال ہو، TigerDuck آپ کو اطلاع دے گا جب بھی کوئی بلیٹن آپ کے سبسکرپشن قوانین سے مطابقت رکھے۔";
 "bulletin_push_footer" = "پش اطلاعات آپ کے قوانین کی بنیاد پر TigerDuck سرور کے ذریعے پہنچائی جاتی ہیں۔ ڈیوائس شناخت ایک گمنام UUID کے طور پر بھیجی جاتی ہے — آپ کی طالب علم آئی ڈی کبھی اپلوڈ نہیں کی جاتی۔";
 "bulletin_push_reopen_settings" = "سسٹم سیٹنگز میں دوبارہ فعال کریں";
-"bulletin_push_requesting" = "درخواست کی جا رہی ہے…";
 "bulletin_push_settings_header" = "پش ترتیبات";
 "bulletin_push_status_denied" = "مسترد";
 "bulletin_push_status_ephemeral" = "عارضی";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "مخصوص محکمہ";
 "bulletin_rule_disabled_badge" = "غیر فعال";
 "bulletin_rule_edit_title" = "قانون ترمیم کریں";
-"bulletin_rule_editor_all_depts" = "تمام محکمے";
-"bulletin_rule_editor_all_tags" = "تمام زمرے";
 "bulletin_rule_editor_dept_section" = "محکمہ";
 "bulletin_rule_editor_enable_toggle" = "یہ قانون فعال کریں";
 "bulletin_rule_editor_mode_and_footer" = "اطلاع صرف اس وقت دیں جب محکمہ اور زمرہ دونوں مطابقت رکھیں۔";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ کے اس سلاٹ (ویک ڈے %2$@، پیریڈ %3$@) میں پہلے سے دو کلاسیں ہیں: %4$@ اور %5$@۔ سسٹم تین گنا تنازعہ کی حمایت نہیں کرتا۔";
 "class_table_conflict_add_failed_title" = "شامل نہیں کیا جا سکتا";
 "class_table_course_name" = "کورس کا نام";
-"class_table_course_no_value" = "کورس کوڈ: %1$@";
-"class_table_course_time_value" = "کلاس کا وقت: %1$@";
 "class_table_delete" = "حذف کریں";
 "class_table_delete_with_course" = "حذف کریں — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "داخلہ: %1$d/%2$d";
 "class_table_login_required_message" = "اپنا کلاس ٹیبل دیکھنے کے لیے سائن ان کریں";
 "class_table_pick_color" = "رنگ چنیں";
 "class_table_pick_color_with_course" = "رنگ چنیں — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "کلاس روم: %1$@";
 "course_color_picker_custom_badge" = "حسب ضرورت";
 "course_color_picker_custom_label" = "حسب ضرورت رنگ";
-"course_color_picker_reset_action" = "ڈیفالٹ رنگ بحال کریں";
 "course_color_picker_title" = "رنگ تبدیل کریں";
 "course_credits_value" = "کریڈٹس: %1$d";
 "course_detail_classroom_label" = "کلاس روم";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "اس سمسٹر میں کوئی کورس نہیں";
 "desktop_class_table_loading_value" = "%1$@ لوڈ ہو رہا ہے…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d کورس · %3$d کریڈٹ";
-"desktop_course_detail_course_no_label" = "کورس نمبر";
 "desktop_home_section_upcoming_assignments" = "آنے والی اسائنمنٹس";
 "desktop_login_disclaimer" = "یہ ایپ National Taiwan University of Science and Technology سے وابستہ نہیں۔";
 "desktop_login_subtitle" = "اپنے NTUST SSO اکاؤنٹ سے سائن ان کریں";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d اور";
 "desktop_widget_now" = "ابھی";
 "desktop_widget_starts_in" = "%@ میں شروع ہوگا";
-"desktop_widget_up_next" = "اگلا";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "اعلان کا جواب پارس نہیں ہوا: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle ویب سروس ابھی دستیاب نہیں۔";
 "error_network_format" = "نیٹ ورک خرابی: %1$@";
 "error_network_unavailable" = "کنکشن ناممکن ہے۔ براہ کرم اپنا نیٹ ورک کنکشن چیک کریں۔";
-"error_no_response" = "کوئی جواب نہیں";
 "error_qr_generation_failed_format" = "QR Code بنانے میں ناکامی: %1$@";
 "error_session_expired" = "سیشن ختم ہو گیا";
 "error_sso_login_failed" = "سائن ان ناکام ہوا۔ براہ کرم اپنا اکاؤنٹ اور پاس ورڈ جانچیں۔";
 "error_sso_login_form_not_found" = "SSO سائن ان فارم نہیں ملا۔";
-"error_unknown" = "نامعلوم خرابی";
 "feature_announcements" = "اعلانات";
 "feature_announcements_short" = "اعلانات";
 "feature_calendar" = "کیلنڈر";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "ڈارک موڈ";
 "settings_theme_light" = "لائٹ موڈ";
 "settings_theme_system" = "سسٹم کے مطابق";
-"settings_token_valid_until" = "ٹوکن %1$@ تک درست";
 "settings_use_english_classroom_abbreviation" = "انگریزی کلاس روم کی مختصرات استعمال کریں";
 "settings_use_english_course_abbreviation" = "انگریزی کورس مختصرات استعمال کریں";
 "settings_version" = "ورژن";
@@ -692,8 +679,6 @@
 "update_available_title" = "اپ ڈیٹ دستیاب ہے";
 "update_check_failed_message" = "App Store تک رسائی ممکن نہیں ہوئی۔ بعد میں دوبارہ کوشش کریں۔";
 "update_check_failed_title" = "جانچ ناکام ہوئی";
-"update_ready_message" = "اپڈیٹ ڈاؤن لوڈ ہو گئی ہے، انسٹال کرنے کے لیے تیار ہے۔";
-"update_restart_action" = "دوبارہ شروع کریں";
 "update_up_to_date_message" = "آپ کے پاس %1$@ کا تازہ ترین ورژن ہے۔";
 "update_up_to_date_title" = "آپ اپ ٹو ڈیٹ ہیں";
 "watch_action_back" = "واپس";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "کورس";
 "watch_course_instructor_label" = "استاد";
 "watch_empty_not_logged_in" = "لاگ ان نہیں۔ اپنے فون پر TigerDuck کھولیں۔";
-"watch_ends_at" = "%1$@ پر ختم ہوتا ہے";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "کبھی سنک نہیں کیا";
 "watch_last_synced_relative" = "آخری مطابقت پذیری %1$@";
-"watch_library_loading" = "بنایا جا رہا ہے…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone پر سائن ان کریں";
-"watch_library_title" = "لائبریری";
 "watch_next" = "NEXT";
 "watch_next_label" = "اگلا: %1$@ · %2$@";
 "watch_no_courses_synced" = "کوئی کورس مطابقت پذیر نہیں ہے۔";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "منگل";
 "weekday_wed_short" = "بدھ";
 "whats_new_continue" = "جاری رکھیں";
-"whats_new_title" = "کیا نیا ہے";
 "widget_library_shortcut_desc" = "ایک ٹیپ میں ورچوئل لائبریری پاس QR Code کھولیں";
 "widget_library_shortcut_label" = "لائبریری QR شارٹ کٹ";
 "widget_library_shortcut_title" = "لائبریری";
 "widget_next_class" = "اگلی کلاس";
-"widget_next_class_dark_desc" = "موجودہ یا اگلی کلاس۔ تھیم ایپ کی ترتیب کے مطابق ہے۔";
-"widget_next_class_dark_label" = "اگلی کلاس";
 "widget_next_class_light_desc" = "موجودہ یا اگلی کلاس۔ تھیم ایپ کی ترتیب کے مطابق ہے۔";
 "widget_next_class_light_label" = "اگلی کلاس";
 "widget_next_class_short" = "اگلی";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "جاری";
 "widget_ongoing_count" = "جاری × %1$d";
 "widget_sign_in" = "پہلے TigerDuck میں سائن ان کریں";
-"widget_today_dark_desc" = "آج کی کلاسوں کی فہرست۔ تھیم ایپ کی ترتیب کے مطابق ہے۔";
-"widget_today_dark_label" = "شیڈول (آج)";
 "widget_today_light_desc" = "آج کی کلاسوں کی فہرست۔ تھیم ایپ کی ترتیب کے مطابق ہے۔";
 "widget_today_light_label" = "شیڈول (آج)";
 "widget_today_schedule_title" = "آج کا شیڈول";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "کل";
 "widget_tomorrow_time" = "کل %1$@";
 "widget_until_time" = "%1$@ تک";
-"widget_week_dark_desc" = "اس ہفتے کا مکمل شیڈول۔ تھیم ایپ کی ترتیب کے مطابق ہے۔";
-"widget_week_dark_label" = "شیڈول (ہفتہ)";
 "widget_week_light_desc" = "اس ہفتے کا مکمل شیڈول۔ تھیم ایپ کی ترتیب کے مطابق ہے۔";
 "widget_week_light_label" = "شیڈول (ہفتہ)";

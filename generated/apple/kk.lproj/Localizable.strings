@@ -7,7 +7,6 @@
 "a11y_class_table_conflict_prefix" = "Сабақ қақтығысы";
 "a11y_course_card_open_details_hint" = "Толығырақ ақпарат алу үшін екі рет түртіңіз";
 "a11y_course_detail_open_moodle" = "Moodle-да ашу";
-"a11y_dropdown_action_hint" = "Басқа нұсқаны таңдау үшін екі рет түртіңіз";
 "a11y_rankings_trend_chart" = "Семестр бойынша GPA үрдісі";
 "a11y_rankings_trend_no_selection" = "Семестр таңдалмаған";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -95,7 +94,6 @@
 "bulletin_push_enable_description" = "Push қосылған кезде, жазылым ережелеріңізге сәйкес хабарландыру келген сайын TigerDuck сізге ескертеді.";
 "bulletin_push_footer" = "Push-ескертпелер ережелеріңіз негізінде TigerDuck сервері арқылы жеткізіледі. Құрылғы идентификаторы анонимді UUID ретінде жіберіледі — студент куәлігіңіз ешқашан жүктелмейді.";
 "bulletin_push_reopen_settings" = "Жүйе параметрлерінде қайта қосу";
-"bulletin_push_requesting" = "Сұрау жіберілуде…";
 "bulletin_push_settings_header" = "Push параметрлері";
 "bulletin_push_status_denied" = "Тіркелмеген";
 "bulletin_push_status_ephemeral" = "Уақытша";
@@ -115,8 +113,6 @@
 "bulletin_rule_dept_only_title" = "Нақты бөлім";
 "bulletin_rule_disabled_badge" = "Өшірілген";
 "bulletin_rule_edit_title" = "Ережені өңдеу";
-"bulletin_rule_editor_all_depts" = "Барлық бөлімдер";
-"bulletin_rule_editor_all_tags" = "Барлық санаттар";
 "bulletin_rule_editor_dept_section" = "Бөлім";
 "bulletin_rule_editor_enable_toggle" = "Бұл ережені қосу";
 "bulletin_rule_editor_mode_and_footer" = "Тек бөлім де, санат та сәйкес келгенде ескерту.";
@@ -165,12 +161,9 @@
 "class_table_conflict_add_failed_message" = "%1$@ осы уячейкада (Апта күні %2$@, %3$@ сабақ) екі сабақ бар: %4$@ және %5$@. Жүйе үш сабақ қабаттасуын қолдамайды.";
 "class_table_conflict_add_failed_title" = "Қосу мүмкін емес";
 "class_table_course_name" = "Курс атауы";
-"class_table_course_no_value" = "Курс коды: %1$@";
-"class_table_course_time_value" = "Сабақ уақыты: %1$@";
 "class_table_delete" = "Жою";
 "class_table_delete_with_course" = "Жою — %1$@";
 "class_table_empty_message" = "Pull to refresh, tap + to add a course, or switch to another semester";
-"class_table_enrolled_count_value" = "Тіркелгендер: %1$d/%2$d";
 "class_table_login_required_message" = "Сабақ кестесін қарау үшін жүйеге кіріңіз";
 "class_table_pick_color" = "Түс таңдау";
 "class_table_pick_color_with_course" = "Түс таңдау — %1$@";
@@ -208,7 +201,6 @@
 "course_classroom_value" = "Аудитория: %1$@";
 "course_color_picker_custom_badge" = "Жеке";
 "course_color_picker_custom_label" = "Жеке түс";
-"course_color_picker_reset_action" = "Әдепкі түсті қалпына келтіру";
 "course_color_picker_title" = "Түсті өңдеу";
 "course_credits_value" = "Кредит: %1$d";
 "course_detail_classroom_label" = "Аудитория";
@@ -239,7 +231,6 @@
 "desktop_class_table_empty_title" = "No courses in this semester";
 "desktop_class_table_loading_value" = "Loading %1$@…";
 "desktop_class_table_subtitle_value" = "%1$@ · %2$d courses · %3$d credits";
-"desktop_course_detail_course_no_label" = "Course no.";
 "desktop_home_section_upcoming_assignments" = "Upcoming Assignments";
 "desktop_login_disclaimer" = "This app is not affiliated with National Taiwan University of Science and Technology.";
 "desktop_login_subtitle" = "Sign in with your NTUST SSO account";
@@ -281,7 +272,6 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "%@ кейін басталады";
-"desktop_widget_up_next" = "Up next";
 "device_id_copied" = "Device ID copied";
 "device_id_copy_action" = "Copy device ID";
 "error_bulletin_decoding_failed_format" = "Хабарландыру жауабын талдау сәтсіз: %1$@";
@@ -306,12 +296,10 @@
 "error_moodle_webservice_disabled" = "Moodle веб-қызметі қазір қол жетімді емес.";
 "error_network_format" = "Желі қатесі: %1$@";
 "error_network_unavailable" = "Қосылу мүмкін емес. Желі байланысын тексеріңіз.";
-"error_no_response" = "Жауап жоқ";
 "error_qr_generation_failed_format" = "QR кодын жасау сәтсіз: %1$@";
 "error_session_expired" = "Сеанс мерзімі бітті";
 "error_sso_login_failed" = "Кіру сәтсіз. Тіркелгі мен құпия сөзді тексеріңіз.";
 "error_sso_login_form_not_found" = "SSO кіру пішінін табу мүмкін болмады.";
-"error_unknown" = "Белгісіз қате";
 "feature_announcements" = "Хабарландырулар";
 "feature_announcements_short" = "Хабарландырулар";
 "feature_calendar" = "Күнтізбе";
@@ -660,7 +648,6 @@
 "settings_theme_dark" = "Қараңғы режим";
 "settings_theme_light" = "Жарық режим";
 "settings_theme_system" = "Жүйеге сәйкес";
-"settings_token_valid_until" = "Токен %1$@ дейін жарамды";
 "settings_use_english_classroom_abbreviation" = "Сынып бөлмелерінің ағылшын қысқартуларын қолдану";
 "settings_use_english_course_abbreviation" = "Ағылшынша курс қысқартуларын пайдалану";
 "settings_version" = "Нұсқа";
@@ -692,8 +679,6 @@
 "update_available_title" = "Жаңарту қол жетімді";
 "update_check_failed_message" = "App Store дүкеніне қосылу мүмкін болмады. Кейінірек қайталаңыз.";
 "update_check_failed_title" = "Тексеру сәтсіз аяқталды";
-"update_ready_message" = "Жаңарту жүктеліп алынды және орнатуға дайын.";
-"update_restart_action" = "Қайта іске қосу";
 "update_up_to_date_message" = "%1$@ қолданбасының соңғы нұсқасы сізде бар.";
 "update_up_to_date_title" = "Сіз соңғы нұсқадасыз";
 "watch_action_back" = "Артқа";
@@ -701,14 +686,9 @@
 "watch_course_detail_title" = "Курс";
 "watch_course_instructor_label" = "Оқытушы";
 "watch_empty_not_logged_in" = "Жүйеге кірілмеген. Телефонда TigerDuck-ты ашыңыз.";
-"watch_ends_at" = "%1$@ аяқталады";
 "watch_just_now" = "Just now";
 "watch_last_synced_never" = "Ешқашан синхрондалмаған";
 "watch_last_synced_relative" = "Соңғы синхрондау: %1$@";
-"watch_library_loading" = "Жасалуда…";
-"watch_library_refresh_in_seconds" = "%lld s";
-"watch_library_signin_prompt" = "iPhone-да кіріңіз";
-"watch_library_title" = "Кітапхана";
 "watch_next" = "КЕЛЕСІ";
 "watch_next_label" = "Келесі: %1$@ · %2$@";
 "watch_no_courses_synced" = "Синхрондалған курстар жоқ.";
@@ -752,13 +732,10 @@
 "weekday_tue_short" = "Сс";
 "weekday_wed_short" = "Ср";
 "whats_new_continue" = "Жалғастыру";
-"whats_new_title" = "Жаңалықтар";
 "widget_library_shortcut_desc" = "Бір түртумен виртуалды кітапхана өткізгішінің QR кодын ашыңыз";
 "widget_library_shortcut_label" = "Кітапхана QR таңбашасы";
 "widget_library_shortcut_title" = "Кітапхана";
 "widget_next_class" = "Келесі сабақ";
-"widget_next_class_dark_desc" = "Ағымдағы немесе келесі сабақ. Тема қолданба параметрлеріне сәйкес.";
-"widget_next_class_dark_label" = "Келесі сабақ";
 "widget_next_class_light_desc" = "Ағымдағы немесе келесі сабақ. Тема қолданба параметрлеріне сәйкес.";
 "widget_next_class_light_label" = "Келесі сабақ";
 "widget_next_class_short" = "Келесі";
@@ -769,8 +746,6 @@
 "widget_ongoing" = "Жүріп жатыр";
 "widget_ongoing_count" = "Жүріп жатыр × %1$d";
 "widget_sign_in" = "Алдымен TigerDuck-қа кіріңіз";
-"widget_today_dark_desc" = "Бүгінгі сабақтар тізімі. Тема қолданба параметрлеріне сәйкес.";
-"widget_today_dark_label" = "Кесте (Бүгін)";
 "widget_today_light_desc" = "Бүгінгі сабақтар тізімі. Тема қолданба параметрлеріне сәйкес.";
 "widget_today_light_label" = "Кесте (Бүгін)";
 "widget_today_schedule_title" = "Бүгінгі сабақ кестесі";
@@ -778,7 +753,5 @@
 "widget_tomorrow" = "Ертең";
 "widget_tomorrow_time" = "Ертең %1$@";
 "widget_until_time" = "%1$@ дейін";
-"widget_week_dark_desc" = "Осы аптаның толық кестесі. Тема қолданба параметрлеріне сәйкес.";
-"widget_week_dark_label" = "Кесте (Апта)";
 "widget_week_light_desc" = "Осы аптаның толық кестесі. Тема қолданба параметрлеріне сәйкес.";
 "widget_week_light_label" = "Кесте (Апта)";
