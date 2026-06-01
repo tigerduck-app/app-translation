@@ -42,25 +42,37 @@ verbatim. No Sonnet translation pass was needed for Phase 1.
 `push_server_status_live_activities`, `push_server_status_settings_hint`,
 `onboarding_watchos_title`, `onboarding_watchos_description`.
 
-## ⏸️ Phase 2 — DEFERRED (needs app-code edits + a build to verify)
+## ✅ Phase 2 — DONE (key renames; app call sites repointed; pushed)
 
-These were intentionally **not** done autonomously: each renames a key and must
-repoint call sites in both `tigerduck-app` (Swift) and `tigerduck-app-android`
-(Kotlin). They are value-preserving (translations carry over → still no Sonnet
-needed), but a missed Apple call site fails *silently* (shows the raw key), so they
-should land with a build + smoke test in the loop.
+Done as 3 reviewable commit-sets (one per group, each = app-translation commit +
+matching Apple + Android commits). All renames are **value-preserving** (existing
+translations carry over → still 0 Sonnet translation needed). Applied via
+`tools/rename_keys_json.py` (source) + `tools/rename_keys_code.py` (code, with a
+built-in *stale-reference guard* that fails if any old key survives the pass).
+**Final sweep: 0 stale references for all 110 renamed keys across both repos.**
 
-| Change | Keys | Audit § | Notes |
-|---|---|---|---|
-| Name-dedup of identical-value pairs | ~9 | §3b/§3c | `watch_weekday_*_short`→`weekday_*_short`; `score_credit_*_label`→`score_credit_*`; `score_ranking_class_label`→`score_rank_class`; `home_section_custom`→`home_custom_section` |
-| Apple dup-keys → existing shared key | ~5 | §4a | `calendar_event_source_exam/school`→`calendar_source_*`; `class_table_add_course`→`add_course_title` |
-| Unify the two push-status enums | ~10 | §5a | `bulletin_push_status_*` + `push_server_notification_status_*` → one `push_status_*` family |
-| `login`/`logged_in` → `sign_in`/`signed_in` | ~12 | §5b | key↔value vocabulary parity |
-| `org`/`orgs` → `dept` in bulletin rules | ~3 | §5c | |
-| `desktop_*` → `mac_*` | 61 | §5d | large cosmetic churn; do as one isolated sweep |
+| Group | Change | Keys | Audit § | Code sites repointed |
+|---|---|---|---|---|
+| 2.1 | Dedup identical-value + merge apple dups + `org`→`dept` | 16 | §3b/§4a/§5c | 12 Swift · 15 Kotlin |
+| 2.2 | `login`/`logged_in` → `sign_in`/`signed_in` | 35 | §5b | 52 Swift · 37 Kotlin |
+| 2.3 | `desktop_*` → `mac_*` (macOS-only keys) | 59 | §5d | 60 Swift · 0 Kotlin |
 
-**When executing Phase 2:** mind the dynamic key families (grep won't find them) —
-`weekday_*_short` and `notification_assignment_reminder_body_*` are built at runtime
-in `AssignmentReminderOffset.swift`, `WeekGridView.swift`, `TodayListView.swift`,
-`MacCalendarView.swift`. After any rename: regenerate, grep both repos for zero stale
-references, build both apps, then bump submodule pins.
+Group 2.1 detail: `watch_weekday_*_short`→`weekday_*_short` (wear now uses the
+shared base), `score_credit_*_label`→`score_credit_*`, `score_ranking_class_label`→
+`score_rank_class`, `home_section_custom`→`home_custom_section`,
+`calendar_event_source_*`→`calendar_source_*`, `class_table_add_course`→
+`add_course_title`, `bulletin_rule_all_orgs`→`bulletin_rule_all_depts`,
+`bulletin_rule_orgs_prefix`→`bulletin_rule_dept_prefix`. Group 2.2 maps
+`relogin`→`re_sign_in` (not "resign").
+
+> ⚠️ **Still needs a build + smoke test before merge.** Renames were grep-verified
+> exhaustively (static refs only; the one dynamic family, `weekday_*_short` via
+> `weekdayKey()`, is a rename *target* and stays valid), but a missed Apple literal
+> would fail *silently*. Launch both apps and check: auth / onboarding / library /
+> score screens (2.2), the Mac app (2.3), and watch Now&Next weekday labels (2.1).
+
+## ⏸️ Still deferred — needs a product decision, not a mechanical rename
+
+| Change | Audit § | Why not done |
+|---|---|---|
+| Unify the two push-status enums | §5a | `bulletin_push_status_*` and `push_server_notification_status_*` carry **different** values per state (e.g. "Denied" vs "Denied (open system Settings to re-enable)"), so collapsing them changes displayed text and would need fresh translations — not value-preserving. Pick the canonical wording per state first; then it can follow the same map-driven flow. |
