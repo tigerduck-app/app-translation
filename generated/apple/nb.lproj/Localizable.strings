@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Ukjent";
 "bulletin_rule_add_action" = "Legg til regel";
 "bulletin_rule_add_title" = "Legg til regel";
-"bulletin_rule_all_orgs" = "Alle avdelinger";
+"bulletin_rule_all_depts" = "Alle avdelinger";
 "bulletin_rule_all_tags" = "Alle kategorier";
 "bulletin_rule_all_title" = "Alle kunngjøringer";
 "bulletin_rule_delete_action" = "Slett regel";
 "bulletin_rule_dept_and_tag_title" = "Avd. + kategori (%1$@)";
 "bulletin_rule_dept_only_title" = "Spesifikk avdeling";
+"bulletin_rule_dept_prefix" = "Avd.: ";
 "bulletin_rule_disabled_badge" = "Deaktivert";
 "bulletin_rule_edit_title" = "Rediger regel";
 "bulletin_rule_editor_dept_section" = "Avdeling";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " og ";
 "bulletin_rule_join_or" = " eller ";
-"bulletin_rule_orgs_prefix" = "Avd.: ";
 "bulletin_rule_tag_only_title" = "Spesifikk kategori";
 "bulletin_rule_tags_prefix" = "Kategori: ";
 "bulletin_rules_footer" = "Hver regel kan filtrere etter avdeling, kategori og en kombinasjonsmodus. La feltet stå tomt for å matche alt i den dimensjonen. Maks 32 regler.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Ulest";
 "bulletin_withdrawn_badge" = "Trukket tilbake";
 "calendar_date_today_suffix" = " (I dag)";
-"calendar_event_source_exam" = "Eksamen";
-"calendar_event_source_school" = "Skole";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Neste måned";
 "calendar_no_events_on_day" = "Ingen hendelser denne dagen";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Skole";
 "calendar_today" = "I dag";
-"class_table_add_course" = "Legg til kurs";
 "class_table_conflict_add_failed_message" = "%1$@ har allerede to timer i denne perioden (ukedag %2$@, periode %3$@): %4$@ og %5$@. Systemet støtter ikke tre kollisjoner.";
 "class_table_conflict_add_failed_title" = "Kan ikke legge til";
 "class_table_course_name" = "Fagnavn";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Ventende oppgaver";
 "home_section_add_quick_features" = "Legg til hurtighandlinger";
 "home_section_all_widgets_added" = "Alle hurtighandlinger er lagt til";
-"home_section_custom" = "Egendefinert seksjon";
 "home_section_drag_hint" = "Hold inne for å dra og endre rekkefølge";
 "home_section_name" = "Seksjonsnavn";
 "home_section_quick_widgets" = "Hurtigwidgeter";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Påmelding";
 "score_course_detail_schedule_label" = "Timeplan";
 "score_credit_earned" = "Oppnådd";
-"score_credit_earned_label" = "Opptjent";
 "score_credit_enrolled" = "Påmeldt";
-"score_credit_enrolled_label" = "Påmeldt";
 "score_credit_summary_title" = "Studiepoengsoversikt";
 "score_credit_total" = "Totalt";
 "score_credit_type_education_program" = "Utdanningsprogram";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Logg inn for å laste karakterdata.";
 "score_rank_class" = "Klasseplassering";
 "score_rank_department" = "Instituttplass";
-"score_ranking_class_label" = "Klasseplassering";
 "score_ranking_dept_label" = "Avdelingsplassering";
 "score_scope_cumulative" = "Kumulativt";
 "score_scope_semester" = "Semester";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "I morgen · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "Fre";
-"watch_weekday_mon_short" = "Man";
-"watch_weekday_sat_short" = "Lør";
-"watch_weekday_sun_short" = "Søn";
-"watch_weekday_thu_short" = "Tor";
-"watch_weekday_tue_short" = "Tir";
-"watch_weekday_wed_short" = "Ons";
 "watch_widget_next_class" = "Neste klasse";
 "watch_widget_next_class_description" = "Viser din neste kommende klasse.";
 "weekday_fri_short" = "Fre";

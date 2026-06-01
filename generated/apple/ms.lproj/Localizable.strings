@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Tidak diketahui";
 "bulletin_rule_add_action" = "Tambah peraturan";
 "bulletin_rule_add_title" = "Tambah peraturan";
-"bulletin_rule_all_orgs" = "Semua jabatan";
+"bulletin_rule_all_depts" = "Semua jabatan";
 "bulletin_rule_all_tags" = "Semua kategori";
 "bulletin_rule_all_title" = "Semua buletin";
 "bulletin_rule_delete_action" = "Padam peraturan";
 "bulletin_rule_dept_and_tag_title" = "Jabatan + Kategori (%1$@)";
 "bulletin_rule_dept_only_title" = "Jabatan tertentu";
+"bulletin_rule_dept_prefix" = "Jabatan: ";
 "bulletin_rule_disabled_badge" = "Dilumpuhkan";
 "bulletin_rule_edit_title" = "Edit peraturan";
 "bulletin_rule_editor_dept_section" = "Jabatan";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " dan ";
 "bulletin_rule_join_or" = " atau ";
-"bulletin_rule_orgs_prefix" = "Jabatan: ";
 "bulletin_rule_tag_only_title" = "Kategori tertentu";
 "bulletin_rule_tags_prefix" = "Kategori: ";
 "bulletin_rules_footer" = "Setiap peraturan boleh menapis mengikut jabatan, kategori, dan mod gabungan. Biarkan kosong untuk memadankan semua dalam dimensi tersebut. Maksimum 32 peraturan.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Belum dibaca";
 "bulletin_withdrawn_badge" = "Ditarik balik";
 "calendar_date_today_suffix" = " (Hari ini)";
-"calendar_event_source_exam" = "Peperiksaan";
-"calendar_event_source_school" = "Sekolah";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Bulan seterusnya";
 "calendar_no_events_on_day" = "Tiada acara pada hari ini";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Sekolah";
 "calendar_today" = "Hari ini";
-"class_table_add_course" = "Tambah kursus";
 "class_table_conflict_add_failed_message" = "%1$@ sudah mempunyai dua kelas pada slot ini (Hari minggu %2$@, Waktu %3$@): %4$@ dan %5$@. Sistem tidak menyokong tiga konflik.";
 "class_table_conflict_add_failed_title" = "Tidak dapat ditambah";
 "class_table_course_name" = "Nama kursus";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Tugasan tertunggak";
 "home_section_add_quick_features" = "Tambah tindakan pantas";
 "home_section_all_widgets_added" = "Semua tindakan pantas telah ditambah";
-"home_section_custom" = "Bahagian tersuai";
 "home_section_drag_hint" = "Tekan lama untuk menyeret dan menyusun semula";
 "home_section_name" = "Nama bahagian";
 "home_section_quick_widgets" = "Widget pantas";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Pendaftaran";
 "score_course_detail_schedule_label" = "Jadual kelas";
 "score_credit_earned" = "Diperoleh";
-"score_credit_earned_label" = "Diperoleh";
 "score_credit_enrolled" = "Didaftarkan";
-"score_credit_enrolled_label" = "Didaftarkan";
 "score_credit_summary_title" = "Ringkasan kredit";
 "score_credit_total" = "Jumlah";
 "score_credit_type_education_program" = "Program pendidikan";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Sila log masuk untuk memuatkan data markah.";
 "score_rank_class" = "Kedudukan kelas";
 "score_rank_department" = "Kedudukan jabatan";
-"score_ranking_class_label" = "Kedudukan kelas";
 "score_ranking_dept_label" = "Kedudukan jabatan";
 "score_scope_cumulative" = "Kumulatif";
 "score_scope_semester" = "Semester";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Esok · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "Jum";
-"watch_weekday_mon_short" = "Isn";
-"watch_weekday_sat_short" = "Sab";
-"watch_weekday_sun_short" = "Aha";
-"watch_weekday_thu_short" = "Kha";
-"watch_weekday_tue_short" = "Sel";
-"watch_weekday_wed_short" = "Rab";
 "watch_widget_next_class" = "Kelas seterusnya";
 "watch_widget_next_class_description" = "Menunjukkan kelas anda yang akan datang.";
 "weekday_fri_short" = "Jum";

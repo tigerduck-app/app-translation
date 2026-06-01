@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Ukendt";
 "bulletin_rule_add_action" = "Tilføj regel";
 "bulletin_rule_add_title" = "Tilføj regel";
-"bulletin_rule_all_orgs" = "Alle afdelinger";
+"bulletin_rule_all_depts" = "Alle afdelinger";
 "bulletin_rule_all_tags" = "Alle kategorier";
 "bulletin_rule_all_title" = "Alle bulletiner";
 "bulletin_rule_delete_action" = "Slet regel";
 "bulletin_rule_dept_and_tag_title" = "Afdeling + kategori (%1$@)";
 "bulletin_rule_dept_only_title" = "Specifik afdeling";
+"bulletin_rule_dept_prefix" = "Afd.: ";
 "bulletin_rule_disabled_badge" = "Handicappet";
 "bulletin_rule_edit_title" = "Rediger regel";
 "bulletin_rule_editor_dept_section" = "Afdeling";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " og ";
 "bulletin_rule_join_or" = " eller ";
-"bulletin_rule_orgs_prefix" = "Afd.: ";
 "bulletin_rule_tag_only_title" = "Specifik kategori";
 "bulletin_rule_tags_prefix" = "Kategori: ";
 "bulletin_rules_footer" = "Hver regel kan filtrere efter afdeling, kategori og en kombinationstilstand. Lad det være tomt for at matche alt i den dimension. Maksimalt 32 regler.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Ulæst";
 "bulletin_withdrawn_badge" = "trukket tilbage";
 "calendar_date_today_suffix" = " (I dag)";
-"calendar_event_source_exam" = "Eksamen";
-"calendar_event_source_school" = "Universitet";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Næste måned";
 "calendar_no_events_on_day" = "Ingen begivenheder denne dag";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Skole";
 "calendar_today" = "I dag";
-"class_table_add_course" = "Tilføj kursus";
 "class_table_conflict_add_failed_message" = "%1$@ har allerede to undervisningsgange i dette slot (Ugedag %2$@, Periode %3$@): %4$@ og %5$@. Systemet understøtter ikke tredobbelte konflikter.";
 "class_table_conflict_add_failed_title" = "Kan ikke tilføje";
 "class_table_course_name" = "Kursusnavn";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Afventende opgaver";
 "home_section_add_quick_features" = "Tilføj hurtige handlinger";
 "home_section_all_widgets_added" = "Alle hurtige handlinger er blevet tilføjet";
-"home_section_custom" = "Brugerdefineret sektion";
 "home_section_drag_hint" = "Tryk længe for at trække og omarrangere";
 "home_section_name" = "Sektionsnavn";
 "home_section_quick_widgets" = "Hurtige widgets";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Tilmelding";
 "score_course_detail_schedule_label" = "Klasseskema";
 "score_credit_earned" = "Optjent";
-"score_credit_earned_label" = "Optjent";
 "score_credit_enrolled" = "Tilmeldt";
-"score_credit_enrolled_label" = "Tilmeldt";
 "score_credit_summary_title" = "ECTS-point-oversigt";
 "score_credit_total" = "Total";
 "score_credit_type_education_program" = "Uddannelsesprogram";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Log venligst ind for at indlæse karakterdata.";
 "score_rank_class" = "Klasserangering";
 "score_rank_department" = "Afdelingsrangering";
-"score_ranking_class_label" = "Klasse rang";
 "score_ranking_dept_label" = "Afd. rang";
 "score_scope_cumulative" = "Kumulativ";
 "score_scope_semester" = "Semester";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "I morgen · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "Fre";
-"watch_weekday_mon_short" = "Man";
-"watch_weekday_sat_short" = "Lør";
-"watch_weekday_sun_short" = "Søn";
-"watch_weekday_thu_short" = "Tor";
-"watch_weekday_tue_short" = "Tir";
-"watch_weekday_wed_short" = "Ons";
 "watch_widget_next_class" = "Næste time";
 "watch_widget_next_class_description" = "Viser din næste kommende time.";
 "weekday_fri_short" = "Fre";

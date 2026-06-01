@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Tundmatu";
 "bulletin_rule_add_action" = "Lisa reegel";
 "bulletin_rule_add_title" = "Lisa reegel";
-"bulletin_rule_all_orgs" = "Kõik osakonnad";
+"bulletin_rule_all_depts" = "Kõik osakonnad";
 "bulletin_rule_all_tags" = "Kõik kategooriad";
 "bulletin_rule_all_title" = "Kõik bülletäänid";
 "bulletin_rule_delete_action" = "Kustuta reegel";
 "bulletin_rule_dept_and_tag_title" = "Osakond + kategooria (%1$@)";
 "bulletin_rule_dept_only_title" = "Konkreetne osakond";
+"bulletin_rule_dept_prefix" = "Osakond: ";
 "bulletin_rule_disabled_badge" = "Keelatud";
 "bulletin_rule_edit_title" = "Redigeeri reeglit";
 "bulletin_rule_editor_dept_section" = "Osakond";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " ja ";
 "bulletin_rule_join_or" = " või ";
-"bulletin_rule_orgs_prefix" = "Osakond: ";
 "bulletin_rule_tag_only_title" = "Konkreetne kategooria";
 "bulletin_rule_tags_prefix" = "Kategooria: ";
 "bulletin_rules_footer" = "Iga reeglit saab filtreerida osakonna, kategooria ja kombineerimisrežiimi järgi. Jätke tühjaks, et sobitada kõik selles mõõtmes. Maksimaalselt 32 reeglit.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Lugemata";
 "bulletin_withdrawn_badge" = "Tagasi võetud";
 "calendar_date_today_suffix" = " (Täna)";
-"calendar_event_source_exam" = "Eksam";
-"calendar_event_source_school" = "Kool";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Järgmine kuu";
 "calendar_no_events_on_day" = "Sellel päeval sündmusi pole";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Kool";
 "calendar_today" = "Täna";
-"class_table_add_course" = "Lisa kursus";
 "class_table_conflict_add_failed_message" = "%1$@-l on selles ajavahemikus juba kaks tundi (nädalapäev %2$@, periood %3$@): %4$@ ja %5$@. Süsteem ei toeta kolmekordset konflikti.";
 "class_table_conflict_add_failed_title" = "Lisamine ebaõnnestus";
 "class_table_course_name" = "Kursuse nimi";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Ootel ülesanded";
 "home_section_add_quick_features" = "Lisage kiired toimingud";
 "home_section_all_widgets_added" = "Kõik kiired toimingud on lisatud";
-"home_section_custom" = "Kohandatud jaotis";
 "home_section_drag_hint" = "Lohistamiseks ja ümberjärjestamiseks vajutage pikalt";
 "home_section_name" = "Jaotise nimi";
 "home_section_quick_widgets" = "Kiirwidgetid";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Registreerimine";
 "score_course_detail_schedule_label" = "Tunniplaan";
 "score_credit_earned" = "Teenitud";
-"score_credit_earned_label" = "Teenitud";
 "score_credit_enrolled" = "Registreeritud";
-"score_credit_enrolled_label" = "Registreeritud";
 "score_credit_summary_title" = "Ainepunktide kokkuvõte";
 "score_credit_total" = "Kokku";
 "score_credit_type_education_program" = "Haridusprogram";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Hinde andmete laadimiseks logige sisse.";
 "score_rank_class" = "Grupi edetabel";
 "score_rank_department" = "Osakonna edetabel";
-"score_ranking_class_label" = "Klassi auaste";
 "score_ranking_dept_label" = "Osakonna auaste";
 "score_scope_cumulative" = "Kumulatiivne";
 "score_scope_semester" = "Semester";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Homme · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "R";
-"watch_weekday_mon_short" = "E";
-"watch_weekday_sat_short" = "L";
-"watch_weekday_sun_short" = "P";
-"watch_weekday_thu_short" = "N";
-"watch_weekday_tue_short" = "T";
-"watch_weekday_wed_short" = "K";
 "watch_widget_next_class" = "Järgmine tund";
 "watch_widget_next_class_description" = "Kuvab teie järgmise tuleva tunni.";
 "weekday_fri_short" = "R";

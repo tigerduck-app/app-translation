@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Không xác định";
 "bulletin_rule_add_action" = "Thêm quy tắc";
 "bulletin_rule_add_title" = "Thêm quy tắc";
-"bulletin_rule_all_orgs" = "Tất cả phòng ban";
+"bulletin_rule_all_depts" = "Tất cả phòng ban";
 "bulletin_rule_all_tags" = "Tất cả danh mục";
 "bulletin_rule_all_title" = "Tất cả bản tin";
 "bulletin_rule_delete_action" = "Xóa quy tắc";
 "bulletin_rule_dept_and_tag_title" = "Phòng ban + Danh mục (%1$@)";
 "bulletin_rule_dept_only_title" = "Phòng ban cụ thể";
+"bulletin_rule_dept_prefix" = "Phòng ban: ";
 "bulletin_rule_disabled_badge" = "Đã tắt";
 "bulletin_rule_edit_title" = "Chỉnh sửa quy tắc";
 "bulletin_rule_editor_dept_section" = "Phòng ban";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " và ";
 "bulletin_rule_join_or" = " hoặc ";
-"bulletin_rule_orgs_prefix" = "Phòng ban: ";
 "bulletin_rule_tag_only_title" = "Danh mục cụ thể";
 "bulletin_rule_tags_prefix" = "Danh mục: ";
 "bulletin_rules_footer" = "Mỗi quy tắc có thể lọc theo khoa, danh mục và chế độ kết hợp. Để trống để khớp với tất cả trong chiều đó. Tối đa 32 quy tắc.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Chưa đọc";
 "bulletin_withdrawn_badge" = "Đã thu hồi";
 "calendar_date_today_suffix" = " (Hôm nay)";
-"calendar_event_source_exam" = "Kỳ thi";
-"calendar_event_source_school" = "Trường";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Tháng sau";
 "calendar_no_events_on_day" = "Không có sự kiện vào ngày này";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Trường";
 "calendar_today" = "Hôm nay";
-"class_table_add_course" = "Thêm môn học";
 "class_table_conflict_add_failed_message" = "%1$@ đã có hai lớp ở khung này (Thứ %2$@, Tiết %3$@): %4$@ và %5$@. Hệ thống không hỗ trợ trùng ba lớp.";
 "class_table_conflict_add_failed_title" = "Không thể thêm";
 "class_table_course_name" = "Tên môn học";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Bài tập đang chờ";
 "home_section_add_quick_features" = "Thêm thao tác nhanh";
 "home_section_all_widgets_added" = "Tất cả thao tác nhanh đã được thêm";
-"home_section_custom" = "Mục tùy chỉnh";
 "home_section_drag_hint" = "Nhấn giữ để kéo và sắp xếp lại";
 "home_section_name" = "Tên mục";
 "home_section_quick_widgets" = "Tiện ích nhanh";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Ghi danh";
 "score_course_detail_schedule_label" = "Lịch học";
 "score_credit_earned" = "Đã đạt";
-"score_credit_earned_label" = "Đã đạt";
 "score_credit_enrolled" = "Đang học";
-"score_credit_enrolled_label" = "Đã đăng ký";
 "score_credit_summary_title" = "Tổng quan tín chỉ";
 "score_credit_total" = "Tổng cộng";
 "score_credit_type_education_program" = "Chương trình giáo dục";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Vui lòng đăng nhập để tải dữ liệu điểm.";
 "score_rank_class" = "Xếp hạng lớp";
 "score_rank_department" = "Xếp hạng khoa";
-"score_ranking_class_label" = "Xếp hạng lớp";
 "score_ranking_dept_label" = "Xếp hạng khoa";
 "score_scope_cumulative" = "Tích lũy";
 "score_scope_semester" = "Học kỳ";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Ngày mai · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "T6";
-"watch_weekday_mon_short" = "T2";
-"watch_weekday_sat_short" = "T7";
-"watch_weekday_sun_short" = "CN";
-"watch_weekday_thu_short" = "T5";
-"watch_weekday_tue_short" = "T3";
-"watch_weekday_wed_short" = "T4";
 "watch_widget_next_class" = "Lớp tiếp theo";
 "watch_widget_next_class_description" = "Hiển thị lớp học tiếp theo sắp tới của bạn.";
 "weekday_fri_short" = "T6";

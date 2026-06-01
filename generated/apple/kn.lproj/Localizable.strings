@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "ಅಜ್ಞಾತ";
 "bulletin_rule_add_action" = "ನಿಯಮ ಸೇರಿಸಿ";
 "bulletin_rule_add_title" = "ನಿಯಮ ಸೇರಿಸಿ";
-"bulletin_rule_all_orgs" = "ಎಲ್ಲಾ ವಿಭಾಗಗಳು";
+"bulletin_rule_all_depts" = "ಎಲ್ಲಾ ವಿಭಾಗಗಳು";
 "bulletin_rule_all_tags" = "ಎಲ್ಲಾ ವರ್ಗಗಳು";
 "bulletin_rule_all_title" = "ಎಲ್ಲಾ ಬುಲೆಟಿನ್‌ಗಳು";
 "bulletin_rule_delete_action" = "ನಿಯಮ ಅಳಿಸಿ";
 "bulletin_rule_dept_and_tag_title" = "ವಿಭಾಗ + ವರ್ಗ (%1$@)";
 "bulletin_rule_dept_only_title" = "ನಿರ್ದಿಷ್ಟ ವಿಭಾಗ";
+"bulletin_rule_dept_prefix" = "ವಿಭಾಗ: ";
 "bulletin_rule_disabled_badge" = "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ";
 "bulletin_rule_edit_title" = "ನಿಯಮ ಸಂಪಾದಿಸಿ";
 "bulletin_rule_editor_dept_section" = "ವಿಭಾಗ";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " ಮತ್ತು ";
 "bulletin_rule_join_or" = " ಅಥವಾ ";
-"bulletin_rule_orgs_prefix" = "ವಿಭಾಗ: ";
 "bulletin_rule_tag_only_title" = "ನಿರ್ದಿಷ್ಟ ವರ್ಗ";
 "bulletin_rule_tags_prefix" = "ವರ್ಗ: ";
 "bulletin_rules_footer" = "ಪ್ರತಿ ನಿಯಮವು ವಿಭಾಗ, ವರ್ಗ ಮತ್ತು ಸಂಯೋಜನ ಮೋಡ್ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಬಹುದು. ಆ ಆಯಾಮದಲ್ಲಿ ಎಲ್ಲವನ್ನೂ ಹೊಂದಿಸಲು ಖಾಲಿ ಬಿಡಿ. ಗರಿಷ್ಠ 32 ನಿಯಮಗಳು.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "ಓದಿಲ್ಲ";
 "bulletin_withdrawn_badge" = "ಹಿಂತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ";
 "calendar_date_today_suffix" = " (ಇಂದು)";
-"calendar_event_source_exam" = "ಪರೀಕ್ಷೆ";
-"calendar_event_source_school" = "ಶಾಲೆ";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "ಮುಂದಿನ ತಿಂಗಳು";
 "calendar_no_events_on_day" = "ಈ ದಿನ ಯಾವ ಘಟನೆಗಳೂ ಇಲ್ಲ";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "ಶಾಲೆ";
 "calendar_today" = "ಇಂದು";
-"class_table_add_course" = "ಕೋರ್ಸ್ ಸೇರಿಸಿ";
 "class_table_conflict_add_failed_message" = "%1$@ ಈ ಸ್ಲಾಟ್‌ನಲ್ಲಿ ಈಗಾಗಲೇ ಎರಡು ತರಗತಿಗಳಿವೆ (ವಾರದ ದಿನ %2$@, ಅವಧಿ %3$@): %4$@ ಮತ್ತು %5$@. ಮೂರು ತರಗತಿ ಸಂಘರ್ಷವನ್ನು ಸಿಸ್ಟಂ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.";
 "class_table_conflict_add_failed_title" = "ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ";
 "class_table_course_name" = "ಕೋರ್ಸ್ ಹೆಸರು";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "ಬಾಕಿ ಕಾರ್ಯಗಳು";
 "home_section_add_quick_features" = "ತ್ವರಿತ ಕ್ರಿಯೆಗಳನ್ನು ಸೇರಿಸಿ";
 "home_section_all_widgets_added" = "ಎಲ್ಲಾ ತ್ವರಿತ ಕ್ರಿಯೆಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ";
-"home_section_custom" = "ಕಸ್ಟಮ್ ವಿಭಾಗ";
 "home_section_drag_hint" = "ಎಳೆದು ಮರುಜೋಡಿಸಲು ದೀರ್ಘ ಒತ್ತಿ";
 "home_section_name" = "ವಿಭಾಗದ ಹೆಸರು";
 "home_section_quick_widgets" = "ತ್ವರಿತ ವಿಜೆಟ್‌ಗಳು";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "ನೋಂದಣಿ";
 "score_course_detail_schedule_label" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿ";
 "score_credit_earned" = "ಗಳಿಸಿದ್ದು";
-"score_credit_earned_label" = "ಗಳಿಸಲಾಗಿದೆ";
 "score_credit_enrolled" = "ನೋಂದಾಯಿಸಿದ್ದು";
-"score_credit_enrolled_label" = "ನೋಂದಾಯಿಸಲಾಗಿದೆ";
 "score_credit_summary_title" = "ಕ್ರೆಡಿಟ್ ಸಾರಾಂಶ";
 "score_credit_total" = "ಒಟ್ಟು";
 "score_credit_type_education_program" = "ಶಿಕ್ಷಣ ಕಾರ್ಯಕ್ರಮ";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "ಅಂಕ ಡೇಟಾ ಲೋಡ್ ಮಾಡಲು ದಯವಿಟ್ಟು ಸೈನ್ ಇನ್ ಮಾಡಿ.";
 "score_rank_class" = "ತರಗತಿ ಶ್ರೇಣಿ";
 "score_rank_department" = "ವಿಭಾಗ ಶ್ರೇಣಿ";
-"score_ranking_class_label" = "ತರಗತಿ ಶ್ರೇಣಿ";
 "score_ranking_dept_label" = "ವಿಭಾಗ ಶ್ರೇಣಿ";
 "score_scope_cumulative" = "ಸಂಚಿತ";
 "score_scope_semester" = "ಸೆಮಿಸ್ಟರ್";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "ನಾಳೆ · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "ಶುಕ್ರ";
-"watch_weekday_mon_short" = "ಸೋಮ";
-"watch_weekday_sat_short" = "ಶನಿ";
-"watch_weekday_sun_short" = "ಭಾನು";
-"watch_weekday_thu_short" = "ಗುರು";
-"watch_weekday_tue_short" = "ಮಂಗಳ";
-"watch_weekday_wed_short" = "ಬುಧ";
 "watch_widget_next_class" = "ಮುಂದಿನ ತರಗತಿ";
 "watch_widget_next_class_description" = "ನಿಮ್ಮ ಮುಂದಿನ ಆಗಮಿಸಲಿರುವ ತರಗತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ.";
 "weekday_fri_short" = "ಶುಕ್ರ";

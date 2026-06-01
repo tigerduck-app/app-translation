@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Inconnu";
 "bulletin_rule_add_action" = "Ajouter une règle";
 "bulletin_rule_add_title" = "Ajouter une règle";
-"bulletin_rule_all_orgs" = "Tous les départements";
+"bulletin_rule_all_depts" = "Tous les départements";
 "bulletin_rule_all_tags" = "Toutes les catégories";
 "bulletin_rule_all_title" = "Toute les bulletins";
 "bulletin_rule_delete_action" = "Supprimer la règle";
 "bulletin_rule_dept_and_tag_title" = "Dépt + Catégorie (%1$@)";
 "bulletin_rule_dept_only_title" = "Service spécifique";
+"bulletin_rule_dept_prefix" = "Dpt :";
 "bulletin_rule_disabled_badge" = "Désactivé";
 "bulletin_rule_edit_title" = "Modifier la règle";
 "bulletin_rule_editor_dept_section" = "Département";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " et ";
 "bulletin_rule_join_or" = " ou ";
-"bulletin_rule_orgs_prefix" = "Dpt :";
 "bulletin_rule_tag_only_title" = "Catégorie spécifique";
 "bulletin_rule_tags_prefix" = "Catégorie&#160;: ";
 "bulletin_rules_footer" = "Chaque règle peut filtrer par département, catégorie et mode de combinaison. Laissez vide pour faire correspondre tout dans cette dimension. Maximum 32 règles.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Non lu";
 "bulletin_withdrawn_badge" = "En retrait";
 "calendar_date_today_suffix" = " (Aujourd'hui)";
-"calendar_event_source_exam" = "Examen";
-"calendar_event_source_school" = "École";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Mois suivant";
 "calendar_no_events_on_day" = "Aucun événement ce jour";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "École";
 "calendar_today" = "Aujourd'hui";
-"class_table_add_course" = "Ajouter un cours";
 "class_table_conflict_add_failed_message" = "%1$@ a déjà deux cours sur ce créneau (jour %2$@, période %3$@) : %4$@ et %5$@. Le système ne prend pas en charge les triples conflits.";
 "class_table_conflict_add_failed_title" = "Impossible d'ajouter";
 "class_table_course_name" = "Nom du cours";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Devoirs en attente";
 "home_section_add_quick_features" = "ACTIONS RAPIDES";
 "home_section_all_widgets_added" = "Toutes les actions rapides ont été ajoutées";
-"home_section_custom" = "Section personnalisée";
 "home_section_drag_hint" = "Appuyez longuement pour faire glisser et réorganiser";
 "home_section_name" = "Nom de la section";
 "home_section_quick_widgets" = "Widgets rapides";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Les taux de scolarisation";
 "score_course_detail_schedule_label" = "Horaire Ouverture";
 "score_credit_earned" = "Obtenus";
-"score_credit_earned_label" = "Validé";
 "score_credit_enrolled" = "Inscrits";
-"score_credit_enrolled_label" = "Inscrit(s)";
 "score_credit_summary_title" = "Récapitulatif des crédits";
 "score_credit_total" = "Total";
 "score_credit_type_education_program" = "Programme pédagogique";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Veuillez vous connecter pour charger les notes.";
 "score_rank_class" = "Rang dans la classe";
 "score_rank_department" = "Rang dans le département";
-"score_ranking_class_label" = "Rang de la classe";
 "score_ranking_dept_label" = "Grade du département";
 "score_scope_cumulative" = "Cumulé";
 "score_scope_semester" = "Semestre";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Demain · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "Ven";
-"watch_weekday_mon_short" = "Lun";
-"watch_weekday_sat_short" = "Sam";
-"watch_weekday_sun_short" = "Dim";
-"watch_weekday_thu_short" = "Jeu";
-"watch_weekday_tue_short" = "Mar";
-"watch_weekday_wed_short" = "Mer";
 "watch_widget_next_class" = "Prochain cours";
 "watch_widget_next_class_description" = "Affiche votre prochain cours à venir.";
 "weekday_fri_short" = "Ven";

@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Desconocido";
 "bulletin_rule_add_action" = "Agregar regla";
 "bulletin_rule_add_title" = "Agregar regla";
-"bulletin_rule_all_orgs" = "Todos los departamentos";
+"bulletin_rule_all_depts" = "Todos los departamentos";
 "bulletin_rule_all_tags" = "Todas las categorias";
 "bulletin_rule_all_title" = "Todos los boletines";
 "bulletin_rule_delete_action" = "Eliminar regla";
 "bulletin_rule_dept_and_tag_title" = "Departamento + Categoría (%1$@)";
 "bulletin_rule_dept_only_title" = "Departamento específico";
+"bulletin_rule_dept_prefix" = "Departamento: ";
 "bulletin_rule_disabled_badge" = "Desactivado";
 "bulletin_rule_edit_title" = "Editar regla";
 "bulletin_rule_editor_dept_section" = "Departamento";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " y ";
 "bulletin_rule_join_or" = " o ";
-"bulletin_rule_orgs_prefix" = "Departamento: ";
 "bulletin_rule_tag_only_title" = "Categoría específica";
 "bulletin_rule_tags_prefix" = "Categoría: ";
 "bulletin_rules_footer" = "Cada regla puede filtrar por departamento, categoría y modo combinado. Déjelo en blanco para que coincida con todo lo que hay en esa dimensión. Máximo 32 reglas.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "No leído";
 "bulletin_withdrawn_badge" = "Retirado";
 "calendar_date_today_suffix" = " (Hoy)";
-"calendar_event_source_exam" = "Examen";
-"calendar_event_source_school" = "Escuela";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Mes siguiente";
 "calendar_no_events_on_day" = "No hay eventos este día";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Escuela";
 "calendar_today" = "Hoy";
-"class_table_add_course" = "Añadir curso";
 "class_table_conflict_add_failed_message" = "%1$@ ya tiene dos clases en este horario (Día %2$@, Período %3$@): %4$@ y %5$@. El sistema no admite conflictos triples.";
 "class_table_conflict_add_failed_title" = "No se puede agregar";
 "class_table_course_name" = "Nombre del curso";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Tareas pendientes";
 "home_section_add_quick_features" = "Agregar acciones rápidas";
 "home_section_all_widgets_added" = "Se han agregado todas las acciones rápidas.";
-"home_section_custom" = "Sección personalizada";
 "home_section_drag_hint" = "Mantenga presionado para arrastrar y reordenar";
 "home_section_name" = "Nombre de la sección";
 "home_section_quick_widgets" = "Widgets rápidos";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Inscripción";
 "score_course_detail_schedule_label" = "Horario de clases";
 "score_credit_earned" = "Obtenidos";
-"score_credit_earned_label" = "Ganado";
 "score_credit_enrolled" = "Inscritos";
-"score_credit_enrolled_label" = "Inscrito";
 "score_credit_summary_title" = "Resumen de créditos";
 "score_credit_total" = "Total";
 "score_credit_type_education_program" = "Programa educativo";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Por favor, inicia sesión para cargar los datos de calificaciones.";
 "score_rank_class" = "Posición en clase";
 "score_rank_department" = "Posición en departamento";
-"score_ranking_class_label" = "rango de clase";
 "score_ranking_dept_label" = "rango de departamento";
 "score_scope_cumulative" = "Acumulado";
 "score_scope_semester" = "Semestre";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Mañana · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "Vie";
-"watch_weekday_mon_short" = "Lun";
-"watch_weekday_sat_short" = "Sáb";
-"watch_weekday_sun_short" = "Dom";
-"watch_weekday_thu_short" = "Jue";
-"watch_weekday_tue_short" = "Mar";
-"watch_weekday_wed_short" = "Mié";
 "watch_widget_next_class" = "Siguiente clase";
 "watch_widget_next_class_description" = "Muestra tu próxima clase.";
 "weekday_fri_short" = "Vie";

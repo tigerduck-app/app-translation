@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "不明";
 "bulletin_rule_add_action" = "ルールを追加";
 "bulletin_rule_add_title" = "ルールを追加";
-"bulletin_rule_all_orgs" = "すべての部署";
+"bulletin_rule_all_depts" = "すべての部署";
 "bulletin_rule_all_tags" = "すべてのカテゴリ";
 "bulletin_rule_all_title" = "すべてのお知らせ";
 "bulletin_rule_delete_action" = "ルールを削除";
 "bulletin_rule_dept_and_tag_title" = "部署 + カテゴリ（%1$@）";
 "bulletin_rule_dept_only_title" = "特定の部署";
+"bulletin_rule_dept_prefix" = "部署：";
 "bulletin_rule_disabled_badge" = "無効";
 "bulletin_rule_edit_title" = "ルールを編集";
 "bulletin_rule_editor_dept_section" = "部署";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = "、";
 "bulletin_rule_join_and" = " および ";
 "bulletin_rule_join_or" = " または ";
-"bulletin_rule_orgs_prefix" = "部署：";
 "bulletin_rule_tag_only_title" = "特定のカテゴリ";
 "bulletin_rule_tags_prefix" = "カテゴリ：";
 "bulletin_rules_footer" = "各ルールは部門、カテゴリ、および組み合わせモードでフィルタリングできます。その条件をすべて一致させるには空白のままにしてください。最大32ルール。";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "未読";
 "bulletin_withdrawn_badge" = "取り下げ済み";
 "calendar_date_today_suffix" = "（今日）";
-"calendar_event_source_exam" = "試験";
-"calendar_event_source_school" = "学校";
 "calendar_month_year" = "%1$d年%2$d月";
 "calendar_next_month" = "次の月";
 "calendar_no_events_on_day" = "この日には予定がありません";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "学校";
 "calendar_today" = "今日";
-"class_table_add_course" = "授業を追加";
 "class_table_conflict_add_failed_message" = "%1$@ の時間帯（%2$@曜日 第%3$@時限）にはすでに2つの授業があります：%4$@ と %5$@。3つ以上の重複には対応していません。";
 "class_table_conflict_add_failed_title" = "追加できません";
 "class_table_course_name" = "授業名";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "未提出の課題";
 "home_section_add_quick_features" = "クイックアクションを追加";
 "home_section_all_widgets_added" = "すべてのクイックアクションが追加されました";
-"home_section_custom" = "カスタムセクション";
 "home_section_drag_hint" = "長押しでドラッグして並び替え";
 "home_section_name" = "セクション名";
 "home_section_quick_widgets" = "クイックウィジェット";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "履修登録";
 "score_course_detail_schedule_label" = "授業スケジュール";
 "score_credit_earned" = "取得済み";
-"score_credit_earned_label" = "取得済み";
 "score_credit_enrolled" = "履修中";
-"score_credit_enrolled_label" = "登録済み";
 "score_credit_summary_title" = "単位概要";
 "score_credit_total" = "合計";
 "score_credit_type_education_program" = "教職課程";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "成績データを読み込むにはサインインしてください。";
 "score_rank_class" = "クラス順位";
 "score_rank_department" = "学科順位";
-"score_ranking_class_label" = "クラス順位";
 "score_ranking_dept_label" = "学科順位";
 "score_scope_cumulative" = "累計";
 "score_scope_semester" = "学期";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "明日 · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "金";
-"watch_weekday_mon_short" = "月";
-"watch_weekday_sat_short" = "土";
-"watch_weekday_sun_short" = "日";
-"watch_weekday_thu_short" = "木";
-"watch_weekday_tue_short" = "火";
-"watch_weekday_wed_short" = "水";
 "watch_widget_next_class" = "次の授業";
 "watch_widget_next_class_description" = "次の授業を表示します。";
 "weekday_fri_short" = "金";

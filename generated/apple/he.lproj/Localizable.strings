@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "לא ידוע";
 "bulletin_rule_add_action" = "הוספת כלל";
 "bulletin_rule_add_title" = "הוספת כלל";
-"bulletin_rule_all_orgs" = "כל הקטגוריות";
+"bulletin_rule_all_depts" = "כל הקטגוריות";
 "bulletin_rule_all_tags" = "כל הקטגוריות";
 "bulletin_rule_all_title" = "כל המבזקים";
 "bulletin_rule_delete_action" = "מחק כלל";
 "bulletin_rule_dept_and_tag_title" = "מחלקה + קטגוריה (%1$@)";
 "bulletin_rule_dept_only_title" = "מחלקה ספציפית";
+"bulletin_rule_dept_prefix" = "Dept.";
 "bulletin_rule_disabled_badge" = "כבוי";
 "bulletin_rule_edit_title" = "ערוך כלל";
 "bulletin_rule_editor_dept_section" = "מחלקה";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = "גם";
 "bulletin_rule_join_or" = " או ";
-"bulletin_rule_orgs_prefix" = "Dept.";
 "bulletin_rule_tag_only_title" = "הצג קטגוריה מסוימת";
 "bulletin_rule_tags_prefix" = "קטגוריה: ";
 "bulletin_rules_footer" = "כל כלל יכול לסנן לפי מחלקה, קטגוריה ומצב שילוב. השאר ריק כדי להתאים לכל דבר בממד הזה. מקסימום 32 כללים.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "לא נקרא";
 "bulletin_withdrawn_badge" = "נסיגה";
 "calendar_date_today_suffix" = " (היום)";
-"calendar_event_source_exam" = "מבחן";
-"calendar_event_source_school" = "בית ספר";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "חודש הבא";
 "calendar_no_events_on_day" = "אין אירועים ביום זה";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "בית ספר";
 "calendar_today" = "היום";
-"class_table_add_course" = "הוסף קורס";
 "class_table_conflict_add_failed_message" = "ל-%1$@ כבר יש שני שיעורים בחריץ זה (יום %2$@, שיעור %3$@): %4$@ ו-%5$@. המערכת אינה תומכת בשלושה קורסים חופפים.";
 "class_table_conflict_add_failed_title" = "לא ניתן להוסיף";
 "class_table_course_name" = "שם קורס";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "מטלות ממתינות";
 "home_section_add_quick_features" = "הוספת פעולות מהירות";
 "home_section_all_widgets_added" = "כל הפעולות המהירות נוספו";
-"home_section_custom" = "קטע מותאם אישית";
 "home_section_drag_hint" = "לחיצה ארוכה כדי לגרור ולסדר מחדש";
 "home_section_name" = "שם קטע";
 "home_section_quick_widgets" = "ווידג'טים מהירים";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "הצטרפות";
 "score_course_detail_schedule_label" = "לוח זמנים של כיתה";
 "score_credit_earned" = "נצברו";
-"score_credit_earned_label" = "רווח";
 "score_credit_enrolled" = "בלמידה";
-"score_credit_enrolled_label" = "יש להירשם לקורס";
 "score_credit_summary_title" = "סיכום נקודות זכות";
 "score_credit_total" = "סה\"כ";
 "score_credit_type_education_program" = "תוכנית חינוך";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "אנא התחבר כדי לטעון נתוני ציונים.";
 "score_rank_class" = "דירוג כיתה";
 "score_rank_department" = "דירוג מחלקה";
-"score_ranking_class_label" = "דרגה בכיתה";
 "score_ranking_dept_label" = "דרגת מחלקה";
 "score_scope_cumulative" = "מצטבר";
 "score_scope_semester" = "סמסטר";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "מחר · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "ו'";
-"watch_weekday_mon_short" = "ב'";
-"watch_weekday_sat_short" = "ש'";
-"watch_weekday_sun_short" = "א'";
-"watch_weekday_thu_short" = "ה'";
-"watch_weekday_tue_short" = "ג'";
-"watch_weekday_wed_short" = "ד'";
 "watch_widget_next_class" = "שיעור הבא";
 "watch_widget_next_class_description" = "מציג את השיעור הבא הקרוב שלך.";
 "weekday_fri_short" = "שישי";

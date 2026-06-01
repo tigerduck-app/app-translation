@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "未知";
 "bulletin_rule_add_action" = "添加规则";
 "bulletin_rule_add_title" = "添加规则";
-"bulletin_rule_all_orgs" = "全部处室";
+"bulletin_rule_all_depts" = "全部处室";
 "bulletin_rule_all_tags" = "全部类别";
 "bulletin_rule_all_title" = "全部公告";
 "bulletin_rule_delete_action" = "删除规则";
 "bulletin_rule_dept_and_tag_title" = "处室 + 类别 (%1$@)";
 "bulletin_rule_dept_only_title" = "指定处室";
+"bulletin_rule_dept_prefix" = "处室:";
 "bulletin_rule_disabled_badge" = "已停用";
 "bulletin_rule_edit_title" = "编辑规则";
 "bulletin_rule_editor_dept_section" = "处室";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " 且 ";
 "bulletin_rule_join_or" = " 或 ";
-"bulletin_rule_orgs_prefix" = "处室:";
 "bulletin_rule_tag_only_title" = "指定类别";
 "bulletin_rule_tags_prefix" = "类别:";
 "bulletin_rules_footer" = "每条规则可选处室、类别与组合模式。留空代表该维度不筛选。最多 32 条。";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "未读";
 "bulletin_withdrawn_badge" = "已撤下";
 "calendar_date_today_suffix" = " (今日)";
-"calendar_event_source_exam" = "考试";
-"calendar_event_source_school" = "学校";
 "calendar_month_year" = "%1$d年%2$d月";
 "calendar_next_month" = "下个月";
 "calendar_no_events_on_day" = "这天没有活动";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "学校";
 "calendar_today" = "今天";
-"class_table_add_course" = "添加课程";
 "class_table_conflict_add_failed_message" = "%1$@ 的时段（周%2$@ 第%3$@节）已有两堂课程：%4$@ 和 %5$@。系统不支持三堂以上冲堂。";
 "class_table_conflict_add_failed_title" = "无法加入";
 "class_table_course_name" = "课程名称";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "待办作业";
 "home_section_add_quick_features" = "添加快速功能";
 "home_section_all_widgets_added" = "所有快速功能已添加";
-"home_section_custom" = "自订区块";
 "home_section_drag_hint" = "长按拖拽排序";
 "home_section_name" = "区块名称";
 "home_section_quick_widgets" = "快速功能";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "选课人数";
 "score_course_detail_schedule_label" = "上课时段";
 "score_credit_earned" = "已得";
-"score_credit_earned_label" = "已实得";
 "score_credit_enrolled" = "修习中";
-"score_credit_enrolled_label" = "修习中";
 "score_credit_summary_title" = "学分总览";
 "score_credit_total" = "总计";
 "score_credit_type_education_program" = "教育学程";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "请先登录以加载成绩数据。";
 "score_rank_class" = "班排";
 "score_rank_department" = "系排";
-"score_ranking_class_label" = "班级排名";
 "score_ranking_dept_label" = "系所排名";
 "score_scope_cumulative" = "累积";
 "score_scope_semester" = "学期";
@@ -715,13 +708,6 @@
 "watch_today" = "今日";
 "watch_tomorrow_at" = "明天 · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "五";
-"watch_weekday_mon_short" = "一";
-"watch_weekday_sat_short" = "六";
-"watch_weekday_sun_short" = "日";
-"watch_weekday_thu_short" = "四";
-"watch_weekday_tue_short" = "二";
-"watch_weekday_wed_short" = "三";
 "watch_widget_next_class" = "下一堂课";
 "watch_widget_next_class_description" = "显示你下一堂即将开始的课程。";
 "weekday_fri_short" = "五";

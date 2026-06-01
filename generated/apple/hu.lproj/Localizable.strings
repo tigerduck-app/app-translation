@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Ismeretlen";
 "bulletin_rule_add_action" = "Szabály hozzáadása";
 "bulletin_rule_add_title" = "Szabály hozzáadása";
-"bulletin_rule_all_orgs" = "Összes tanszék";
+"bulletin_rule_all_depts" = "Összes tanszék";
 "bulletin_rule_all_tags" = "Összes kategória";
 "bulletin_rule_all_title" = "Összes hirdetmény";
 "bulletin_rule_delete_action" = "Szabály törlése";
 "bulletin_rule_dept_and_tag_title" = "Tanszék + Kategória (%1$@)";
 "bulletin_rule_dept_only_title" = "Adott tanszék";
+"bulletin_rule_dept_prefix" = "Tanszék: ";
 "bulletin_rule_disabled_badge" = "Letiltva";
 "bulletin_rule_edit_title" = "Szabály szerkesztése";
 "bulletin_rule_editor_dept_section" = "Tanszék";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " és ";
 "bulletin_rule_join_or" = " vagy ";
-"bulletin_rule_orgs_prefix" = "Tanszék: ";
 "bulletin_rule_tag_only_title" = "Spezifische Kategorie";
 "bulletin_rule_tags_prefix" = "Kategorie: ";
 "bulletin_rules_footer" = "Jede Regel kann nach Abteilung, Kategorie und einem Kombinationsmodus filtern. Lassen Sie das Feld leer, um alles in dieser Dimension abzugleichen. Maximal 32 Regeln.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Ungelesen";
 "bulletin_withdrawn_badge" = "Zurückgezogen";
 "calendar_date_today_suffix" = " (Ma)";
-"calendar_event_source_exam" = "Vizsga";
-"calendar_event_source_school" = "Iskola";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Következő hónap";
 "calendar_no_events_on_day" = "Ezen a napon nincsenek események";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Iskola";
 "calendar_today" = "Ma";
-"class_table_add_course" = "Kurzus hozzáadása";
 "class_table_conflict_add_failed_message" = "%1$@-nél már két óra van ennél az időpontnál (%2$@ nap, %3$@. óra): %4$@ és %5$@. A rendszer nem támogat hármas ütközést.";
 "class_table_conflict_add_failed_title" = "Nem adható hozzá";
 "class_table_course_name" = "Kurzus neve";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Függőben lévő házi feladatok";
 "home_section_add_quick_features" = "Fügen Sie Schnellaktionen hinzu";
 "home_section_all_widgets_added" = "Alle Schnellaktionen wurden hinzugefügt";
-"home_section_custom" = "Egyéni szekció";
 "home_section_drag_hint" = "Zum Ziehen und Neuanordnen lange drücken";
 "home_section_name" = "Szekció neve";
 "home_section_quick_widgets" = "Gyors widgetek";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Beiratkozás";
 "score_course_detail_schedule_label" = "Órarend";
 "score_credit_earned" = "Megszerzett";
-"score_credit_earned_label" = "Megszerzett";
 "score_credit_enrolled" = "Folyamatban";
-"score_credit_enrolled_label" = "Beiratkozott";
 "score_credit_summary_title" = "Kredit összefoglaló";
 "score_credit_total" = "Összesen";
 "score_credit_type_education_program" = "Oktatási program";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Kérjük, jelentkezzen be az osztályzatok betöltéséhez.";
 "score_rank_class" = "Osztályrangsor";
 "score_rank_department" = "Tanszéki rangsor";
-"score_ranking_class_label" = "Osztályrangsor";
 "score_ranking_dept_label" = "Tanszéki rangsor";
 "score_scope_cumulative" = "Kumulatív";
 "score_scope_semester" = "Félév";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Holnap · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "P";
-"watch_weekday_mon_short" = "H";
-"watch_weekday_sat_short" = "Szo";
-"watch_weekday_sun_short" = "V";
-"watch_weekday_thu_short" = "Cs";
-"watch_weekday_tue_short" = "K";
-"watch_weekday_wed_short" = "Sze";
 "watch_widget_next_class" = "Következő óra";
 "watch_widget_next_class_description" = "Megmutatja a következő közelgő óráját.";
 "weekday_fri_short" = "P";

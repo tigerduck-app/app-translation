@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "अज्ञात";
 "bulletin_rule_add_action" = "नियम जोड़ें";
 "bulletin_rule_add_title" = "नियम जोड़ें";
-"bulletin_rule_all_orgs" = "सभी विभाग";
+"bulletin_rule_all_depts" = "सभी विभाग";
 "bulletin_rule_all_tags" = "सभी श्रेणियां";
 "bulletin_rule_all_title" = "सभी बुलेटिन";
 "bulletin_rule_delete_action" = "नियम हटाएं";
 "bulletin_rule_dept_and_tag_title" = "विभाग + श्रेणी (%1$@)";
 "bulletin_rule_dept_only_title" = "विशिष्ट विभाग";
+"bulletin_rule_dept_prefix" = "विभाग: ";
 "bulletin_rule_disabled_badge" = "अक्षम";
 "bulletin_rule_edit_title" = "नियम संपादित करें";
 "bulletin_rule_editor_dept_section" = "विभाग";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " और ";
 "bulletin_rule_join_or" = " या ";
-"bulletin_rule_orgs_prefix" = "विभाग: ";
 "bulletin_rule_tag_only_title" = "विशिष्ट श्रेणी";
 "bulletin_rule_tags_prefix" = "श्रेणी: ";
 "bulletin_rules_footer" = "प्रत्येक नियम विभाग, श्रेणी और संयोजन मोड के आधार पर फ़िल्टर कर सकता है। उस आयाम में सब कुछ मिलाने के लिए खाली छोड़ें। अधिकतम 32 नियम।";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "अपठित";
 "bulletin_withdrawn_badge" = "वापस लिया गया";
 "calendar_date_today_suffix" = " (आज)";
-"calendar_event_source_exam" = "परीक्षा";
-"calendar_event_source_school" = "स्कूल";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "अगला महीना";
 "calendar_no_events_on_day" = "इस दिन कोई इवेंट नहीं";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "स्कूल";
 "calendar_today" = "आज";
-"class_table_add_course" = "कोर्स जोड़ें";
 "class_table_conflict_add_failed_message" = "%1$@ में इस स्लॉट (सप्ताहदिन %2$@, पीरियड %3$@) पर पहले से दो कक्षाएँ हैं: %4$@ और %5$@। सिस्टम तीन टकराव का समर्थन नहीं करता।";
 "class_table_conflict_add_failed_title" = "जोड़ने में असमर्थ";
 "class_table_course_name" = "कोर्स का नाम";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "लंबित असाइनमेंट";
 "home_section_add_quick_features" = "त्वरित क्रियाएं जोड़ें";
 "home_section_all_widgets_added" = "सभी त्वरित क्रियाएं जोड़ी जा चुकी हैं";
-"home_section_custom" = "कस्टम सेक्शन";
 "home_section_drag_hint" = "खींचने और क्रम बदलने के लिए देर तक दबाएं";
 "home_section_name" = "सेक्शन का नाम";
 "home_section_quick_widgets" = "त्वरित विजेट";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "नामांकन";
 "score_course_detail_schedule_label" = "कक्षा अनुसूची";
 "score_credit_earned" = "अर्जित";
-"score_credit_earned_label" = "अर्जित";
 "score_credit_enrolled" = "नामांकित";
-"score_credit_enrolled_label" = "नामांकित";
 "score_credit_summary_title" = "क्रेडिट सारांश";
 "score_credit_total" = "कुल";
 "score_credit_type_education_program" = "शिक्षा कार्यक्रम";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "अंक डेटा लोड करने के लिए कृपया साइन इन करें।";
 "score_rank_class" = "कक्षा रैंक";
 "score_rank_department" = "विभाग रैंक";
-"score_ranking_class_label" = "कक्षा रैंक";
 "score_ranking_dept_label" = "विभाग रैंक";
 "score_scope_cumulative" = "संचयी";
 "score_scope_semester" = "सेमेस्टर";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "कल · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "शुक्र";
-"watch_weekday_mon_short" = "सोम";
-"watch_weekday_sat_short" = "शनि";
-"watch_weekday_sun_short" = "रवि";
-"watch_weekday_thu_short" = "गुरु";
-"watch_weekday_tue_short" = "मंगल";
-"watch_weekday_wed_short" = "बुध";
 "watch_widget_next_class" = "अगली क्लास";
 "watch_widget_next_class_description" = "आपकी अगली आने वाली क्लास दिखाता है।";
 "weekday_fri_short" = "शुक्र";

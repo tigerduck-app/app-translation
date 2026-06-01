@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Desconegut";
 "bulletin_rule_add_action" = "Afegeix una regla";
 "bulletin_rule_add_title" = "Afegeix una regla";
-"bulletin_rule_all_orgs" = "Tots els departaments";
+"bulletin_rule_all_depts" = "Tots els departaments";
 "bulletin_rule_all_tags" = "Totes les categories";
 "bulletin_rule_all_title" = "Tots els butlletins";
 "bulletin_rule_delete_action" = "Suprimeix la regla";
 "bulletin_rule_dept_and_tag_title" = "Departament + Categoria (%1$@)";
 "bulletin_rule_dept_only_title" = "Departament específic";
+"bulletin_rule_dept_prefix" = "Departament: ";
 "bulletin_rule_disabled_badge" = "Inhabilitat";
 "bulletin_rule_edit_title" = "Edita la regla";
 "bulletin_rule_editor_dept_section" = "Departament";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " i ";
 "bulletin_rule_join_or" = " o ";
-"bulletin_rule_orgs_prefix" = "Departament: ";
 "bulletin_rule_tag_only_title" = "Categoria específica";
 "bulletin_rule_tags_prefix" = "Categoria: ";
 "bulletin_rules_footer" = "Cada regla pot filtrar per departament, categoria i un mode de combinació. Deixa en blanc perquè coincideixi amb tot en aquesta dimensió. Màxim 32 regles.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Sense llegir";
 "bulletin_withdrawn_badge" = "Retirada";
 "calendar_date_today_suffix" = " (Avui)";
-"calendar_event_source_exam" = "Examen";
-"calendar_event_source_school" = "Universitat";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Mes següent";
 "calendar_no_events_on_day" = "Cap esdeveniment aquest dia";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Escola";
 "calendar_today" = "Avui";
-"class_table_add_course" = "Afegeix curs";
 "class_table_conflict_add_failed_message" = "%1$@ ja té dues classes en aquest horari (dia %2$@, període %3$@): %4$@ i %5$@. El sistema no suporta conflictes triples.";
 "class_table_conflict_add_failed_title" = "No s'ha pogut afegir";
 "class_table_course_name" = "Nom del curs";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Tasques pendents";
 "home_section_add_quick_features" = "Afegeix accions ràpides";
 "home_section_all_widgets_added" = "S'han afegit totes les accions ràpides";
-"home_section_custom" = "Secció personalitzada";
 "home_section_drag_hint" = "Premeu llargament per arrossegar i reordenar";
 "home_section_name" = "Nom de la secció";
 "home_section_quick_widgets" = "Ginys ràpids";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Inscripció";
 "score_course_detail_schedule_label" = "Horari de classe";
 "score_credit_earned" = "Obtinguts";
-"score_credit_earned_label" = "Guanyat";
 "score_credit_enrolled" = "Matriculats";
-"score_credit_enrolled_label" = "Inscrits";
 "score_credit_summary_title" = "Resum de crèdits";
 "score_credit_total" = "Total";
 "score_credit_type_education_program" = "Programa educatiu";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Inicieu la sessió per carregar les dades de notes.";
 "score_rank_class" = "Rànquing de classe";
 "score_rank_department" = "Rànquing de departament";
-"score_ranking_class_label" = "Grau de classe";
 "score_ranking_dept_label" = "Grau del departament";
 "score_scope_cumulative" = "Acumulat";
 "score_scope_semester" = "Semestre";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Demà · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "Dv";
-"watch_weekday_mon_short" = "Dl";
-"watch_weekday_sat_short" = "Ds";
-"watch_weekday_sun_short" = "Dg";
-"watch_weekday_thu_short" = "Dj";
-"watch_weekday_tue_short" = "Dt";
-"watch_weekday_wed_short" = "Dc";
 "watch_widget_next_class" = "Classe següent";
 "watch_widget_next_class_description" = "Mostra la vostra propera classe.";
 "weekday_fri_short" = "Dv";

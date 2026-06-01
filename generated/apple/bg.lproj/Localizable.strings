@@ -105,12 +105,13 @@
 "bulletin_push_status_unknown" = "Неизвестно";
 "bulletin_rule_add_action" = "Добавете правило";
 "bulletin_rule_add_title" = "Добавете правило";
-"bulletin_rule_all_orgs" = "Всички отдели";
+"bulletin_rule_all_depts" = "Всички отдели";
 "bulletin_rule_all_tags" = "Всички категории";
 "bulletin_rule_all_title" = "Всички бюлетини";
 "bulletin_rule_delete_action" = "Изтриване на правило";
 "bulletin_rule_dept_and_tag_title" = "Отдел + категория (%1$@)";
 "bulletin_rule_dept_only_title" = "Конкретен отдел";
+"bulletin_rule_dept_prefix" = "Отдел: ";
 "bulletin_rule_disabled_badge" = "Забранено";
 "bulletin_rule_edit_title" = "Редактиране на правило";
 "bulletin_rule_editor_dept_section" = "Отдел";
@@ -125,7 +126,6 @@
 "bulletin_rule_filter_separator" = ", ";
 "bulletin_rule_join_and" = " и ";
 "bulletin_rule_join_or" = " или ";
-"bulletin_rule_orgs_prefix" = "Отдел: ";
 "bulletin_rule_tag_only_title" = "Конкретна категория";
 "bulletin_rule_tags_prefix" = "категория: ";
 "bulletin_rules_footer" = "Всяко правило може да филтрира по отдел, категория и комбиниран режим. Оставете празно, за да съответства на всичко в това измерение. Максимум 32 правила.";
@@ -146,8 +146,6 @@
 "bulletin_unread_dot_label" = "Непрочетено";
 "bulletin_withdrawn_badge" = "Оттеглено";
 "calendar_date_today_suffix" = " (Днес)";
-"calendar_event_source_exam" = "Изпит";
-"calendar_event_source_school" = "Университет";
 "calendar_month_year" = "%1$d/%2$d";
 "calendar_next_month" = "Следващ месец";
 "calendar_no_events_on_day" = "Няма събития на този ден";
@@ -157,7 +155,6 @@
 "calendar_source_moodle" = "Moodle";
 "calendar_source_school" = "Училище";
 "calendar_today" = "Днес";
-"class_table_add_course" = "Добави курс";
 "class_table_conflict_add_failed_message" = "%1$@ вече има два часа в този слот (Делничен ден %2$@, Период %3$@): %4$@ и %5$@. Системата не поддържа тройни конфликти.";
 "class_table_conflict_add_failed_title" = "Не може да се добави";
 "class_table_course_name" = "Наименование на курса";
@@ -363,7 +360,6 @@
 "home_pending_assignments" = "Чакащи задания";
 "home_section_add_quick_features" = "Добавете бързи действия";
 "home_section_all_widgets_added" = "Всички бързи действия са добавени";
-"home_section_custom" = "Персонализирана секция";
 "home_section_drag_hint" = "Натиснете продължително, за да плъзнете и пренаредите";
 "home_section_name" = "Наименование на секцията";
 "home_section_quick_widgets" = "Бързи приспособления";
@@ -527,9 +523,7 @@
 "score_course_detail_enrollment_label" = "Записване";
 "score_course_detail_schedule_label" = "Разписание на часовете";
 "score_credit_earned" = "Получени";
-"score_credit_earned_label" = "Спечелени";
 "score_credit_enrolled" = "Записани";
-"score_credit_enrolled_label" = "Записан";
 "score_credit_summary_title" = "Обобщение на кредити";
 "score_credit_total" = "Общо";
 "score_credit_type_education_program" = "Образователна програма";
@@ -570,7 +564,6 @@
 "score_not_logged_in_message" = "Моля, влезте, за да заредите данните за оценките.";
 "score_rank_class" = "Класово класиране";
 "score_rank_department" = "Факултетно класиране";
-"score_ranking_class_label" = "Класен ранг";
 "score_ranking_dept_label" = "Департамент ранг";
 "score_scope_cumulative" = "Кумулативен";
 "score_scope_semester" = "Семестър";
@@ -715,13 +708,6 @@
 "watch_today" = "Today";
 "watch_tomorrow_at" = "Утре · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
-"watch_weekday_fri_short" = "Пт";
-"watch_weekday_mon_short" = "Пн";
-"watch_weekday_sat_short" = "Сб";
-"watch_weekday_sun_short" = "Нд";
-"watch_weekday_thu_short" = "Чт";
-"watch_weekday_tue_short" = "Вт";
-"watch_weekday_wed_short" = "Ср";
 "watch_widget_next_class" = "Следващ час";
 "watch_widget_next_class_description" = "Показва следващия ви предстоящ час.";
 "weekday_fri_short" = "Пет";
