@@ -1,8 +1,12 @@
 # AI
-.claude/
+.claude/settings.local.json
+docs/superpowers/
 
 # IDE
 .idea/
 
 # Python
-__pycache__/
+**/__pycache__/
+
+# macOS
+**/.DS_Store
