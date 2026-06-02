@@ -55,7 +55,7 @@ built-in *stale-reference guard* that fails if any old key survives the pass).
 |---|---|---|---|---|
 | 2.1 | Dedup identical-value + merge apple dups + `org`→`dept` | 16 | §3b/§4a/§5c | 12 Swift · 15 Kotlin |
 | 2.2 | `login`/`logged_in` → `sign_in`/`signed_in` | 35 | §5b | 52 Swift · 37 Kotlin |
-| 2.3 | `desktop_*` → `mac_*` (macOS-only keys) | 59 | §5d | 60 Swift · 0 Kotlin |
+| 2.3 | `desktop_*` → `desktop_*` (macOS-only keys) | 59 | §5d | 60 Swift · 0 Kotlin |
 
 Group 2.1 detail: `watch_weekday_*_short`→`weekday_*_short` (wear now uses the
 shared base), `score_credit_*_label`→`score_credit_*`, `score_ranking_class_label`→

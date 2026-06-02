@@ -253,10 +253,10 @@ Within one feature: `bulletin_rule_all_orgs` / `bulletin_rule_orgs_prefix` ("Dep
 while `bulletin_rule_editor_dept_section` / `bulletin_rule_dept_only_title` use **dept**, and values
 say **"Department"**. Standardize the key token on `dept` (matches the values and the other keys).
 
-### 5d. `desktop_*` is the macOS app — consider `mac_*`
+### 5d. `desktop_*` is the macOS app — consider `desktop_*`
 
 61 `desktop_*` keys live in `shared` but are consumed **only by the macOS target** (Apple).
-"desktop" is ambiguous (the project has no web-desktop). Renaming to `mac_*` would make the platform
+"desktop" is ambiguous (the project has no web-desktop). Renaming to `desktop_*` would make the platform
 obvious. *(Lower priority — large rename, purely cosmetic. If done, do it in one sweep.)*
 
 ### 5e. `live_activity_status_*` (shared) vs `live_activity_status_*_short` (apple)

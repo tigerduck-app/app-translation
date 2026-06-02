@@ -105,6 +105,7 @@ before inventing a new one):
 | `common_` | Cross-feature small bits ("Not signed in" etc.) |
 | `conflict_course_picker_` | Course-conflict picker dialog |
 | `course_card_` / `course_*_value` | Course card / detail formatters |
+| `desktop_` | Desktop-app surface (see *Surface prefixes* below) |
 | `error_` | Generic error messages |
 | `feature_` / `feature_category_` | Feature names + grouping in launcher / more screen |
 | `greeting_` | Time-of-day greetings |
@@ -122,6 +123,7 @@ before inventing a new one):
 | `sync_` | Sync indicators |
 | `tab_editor_` | Tab editor screen |
 | `update_` | In-app update prompt + "what's new" |
+| `watch_` | Watch-app surface (see *Surface prefixes* below) |
 | `weekday_*_short` | Short weekday labels |
 | `widget_` | Home-screen widgets |
 
@@ -136,6 +138,45 @@ Suffix conventions:
 
 Before adding a key, search the source for an existing one that fits. Avoid
 near-duplicates like `error_network_unavailable` vs `network_error`.
+
+### Surface prefixes (`desktop_`, `watch_`)
+
+Most prefixes name a *feature area*. Two name an **app surface** (form factor)
+instead: `desktop_` and `watch_`. A surface prefix marks a string that renders
+only on that surface's own UI, where the layout or wording differs from the main
+phone/tablet app. The main app is the default surface and carries **no** surface
+prefix — `score_title` is the phone screen, `desktop_score_title` is the desktop
+window, `watch_now_next_title` is the wrist.
+
+Compose a surface prefix in front of the normal feature-area naming, then apply
+the usual suffix conventions: `desktop_settings_section_interface`,
+`watch_course_instructor_label`. Everything after the surface prefix follows the
+same rules as an unprefixed key.
+
+**Name the form factor, not the OS.** The prefix is `desktop_`, not `mac_`, even
+though the desktop app ships on macOS first — a desktop string is the same string
+whether the build target is macOS, Windows, Linux, or something else, so the key
+must not bake today's OS into its name. A future Windows/Linux desktop build
+reuses these keys untouched; `mac_` would have forced a rename. Same logic for
+`watch_` (the watch surface) over `apple_watch_` / `watchos_`: watchOS today,
+potentially Wear OS later.
+
+For the same reason, **surface-prefixed keys live in `shared`, not in the
+`android` / `apple` platform groups.** The `android` / `apple` split is about
+which *OS primitive* a string touches (see *Choosing a group*); a surface is a
+form factor that can be built on more than one OS, so its strings stay in
+`shared` and flow to whichever platform bundle compiles that surface. Only fork a
+surface key into a platform group if it genuinely references a platform OS
+primitive, under the normal forking rule.
+
+A string that is merely *about* a surface but renders on the main app is **not** a
+surface-prefixed key. `onboarding_watchos_title` ("Apple Watch support") is phone
+onboarding copy that happens to name the watch, so it stays under `onboarding_`
+(and in `apple`, because it uses the "Apple Watch" brand term) — it does not get
+the `watch_` prefix. Reserve `watch_` / `desktop_` for strings that actually draw
+on that surface. Likewise, don't clone a base key into a surface prefix just
+because the surface shows the same label — reuse the unprefixed `shared` key and
+add a surface key only when that surface's copy genuinely diverges.
 
 ## Translation reference locales
 
