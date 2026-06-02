@@ -1,0 +1,18 @@
+{
+  "watch_weekday_mon_short": "weekday_mon_short",
+  "watch_weekday_tue_short": "weekday_tue_short",
+  "watch_weekday_wed_short": "weekday_wed_short",
+  "watch_weekday_thu_short": "weekday_thu_short",
+  "watch_weekday_fri_short": "weekday_fri_short",
+  "watch_weekday_sat_short": "weekday_sat_short",
+  "watch_weekday_sun_short": "weekday_sun_short",
+  "score_credit_earned_label": "score_credit_earned",
+  "score_credit_enrolled_label": "score_credit_enrolled",
+  "score_ranking_class_label": "score_rank_class",
+  "home_section_custom": "home_custom_section",
+  "calendar_event_source_exam": "calendar_source_exam",
+  "calendar_event_source_school": "calendar_source_school",
+  "class_table_add_course": "add_course_title",
+  "bulletin_rule_all_orgs": "bulletin_rule_all_depts",
+  "bulletin_rule_orgs_prefix": "bulletin_rule_dept_prefix"
+}
