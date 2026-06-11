@@ -172,13 +172,13 @@
 "class_table_total_credits_value" = "%1$d 学分";
 "cloud_sync_disable_button" = "停用云端同步";
 "cloud_sync_disable_confirm_action" = "停用";
-"cloud_sync_disable_confirm_message" = "停用后会撤销服务器上的此设备与已上传的凭证，本机数据不受影响。";
+"cloud_sync_disable_confirm_message" = "停用后会登出并撤销此设备在服务器上的注册（包含推送凭证）。本机数据不受影响。";
 "cloud_sync_disable_confirm_title" = "停用云端同步？";
 "cloud_sync_disabled_footer" = "在多台设备间同步课表编辑、作业状态与设置，并由服务器定期代抓 Moodle 作业。";
 "cloud_sync_enable_button" = "启用云端同步";
 "cloud_sync_last_synced_label" = "上次同步";
 "cloud_sync_last_synced_never" = "尚未同步";
-"cloud_sync_privacy_body" = "启用云端同步后，你的校务系统密码与 Moodle token 将加密上传至 TigerDuck 服务器，用于服务器端定期代抓 Moodle 作业，并在多台设备间同步课表编辑、作业状态与设置。\n\n你可以随时停用云端同步；停用时会撤销服务器上的此设备与已上传的凭证。本机数据不受影响。";
+"cloud_sync_privacy_body" = "启用云端同步后，你的校务系统密码与 Moodle token 将加密上传至 TigerDuck 服务器，用于服务器端定期代抓 Moodle 作业，并在多台设备间同步课表编辑、作业状态与设置。\n\n你可以随时停用云端同步。停用后会登出并撤销此设备在服务器上的注册（包含推送凭证）；已上传的账号凭证仅在其他已启用同步的设备仍使用时保留于服务器。本机数据不受影响。";
 "cloud_sync_privacy_confirm" = "同意并启用";
 "cloud_sync_privacy_title" = "云端同步与隐私";
 "cloud_sync_reauth_button" = "重新启用";
