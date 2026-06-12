@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 mínútur áður",
         "assignment_reminder_offset_8h": "8 klukkustundir áður",
         "assignment_status_overdue": "Liðinn tími",
-        "assignment_status_overdue_rejected": "Liðinn tími (hafnað)",
+        "assignment_status_overdue_rejected": "Liðinn tími (skil lokuð)",
         "assignment_status_submitted": "Skilað",
         "assignment_status_submitted_late": "Skilað seint",
         "assignment_time_days_with_suffix": "%1$d dagar %2$s",

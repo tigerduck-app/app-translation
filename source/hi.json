@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 मिनट पहले",
         "assignment_reminder_offset_8h": "8 घंटे पहले",
         "assignment_status_overdue": "समय सीमा पार",
-        "assignment_status_overdue_rejected": "समय सीमा पार (अस्वीकृत)",
+        "assignment_status_overdue_rejected": "समय सीमा पार (सबमिशन बंद)",
         "assignment_status_submitted": "जमा किया गया",
         "assignment_status_submitted_late": "देर से जमा किया",
         "assignment_time_days_with_suffix": "%1$d दिन %2$s",

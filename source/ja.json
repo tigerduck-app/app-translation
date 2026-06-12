@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5分前",
         "assignment_reminder_offset_8h": "8時間前",
         "assignment_status_overdue": "期限切れ",
-        "assignment_status_overdue_rejected": "期限切れ（却下）",
+        "assignment_status_overdue_rejected": "期限切れ（提出受付終了）",
         "assignment_status_submitted": "提出済み",
         "assignment_status_submitted_late": "期限後に提出",
         "assignment_time_days_with_suffix": "%1$d日%2$s",

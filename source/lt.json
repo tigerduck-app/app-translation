@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minutes prieš",
         "assignment_reminder_offset_8h": "8 valandos prieš",
         "assignment_status_overdue": "Praleistas terminas",
-        "assignment_status_overdue_rejected": "Praleistas terminas (atmesta)",
+        "assignment_status_overdue_rejected": "Praleistas terminas (pateikimas uždarytas)",
         "assignment_status_submitted": "Pateikta",
         "assignment_status_submitted_late": "Pateikta vėlai",
         "assignment_time_days_with_suffix": "%1$d d. %2$s",

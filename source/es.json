@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minutos antes",
         "assignment_reminder_offset_8h": "8 horas antes",
         "assignment_status_overdue": "Vencida",
-        "assignment_status_overdue_rejected": "Vencida (rechazada)",
+        "assignment_status_overdue_rejected": "Vencida (entrega cerrada)",
         "assignment_status_submitted": "Entregada",
         "assignment_status_submitted_late": "Entregada tarde",
         "assignment_time_days_with_suffix": "%1$d días %2$s",

@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 دقیقه قبل",
         "assignment_reminder_offset_8h": "8 ساعت قبل",
         "assignment_status_overdue": "دیرکرده",
-        "assignment_status_overdue_rejected": "دیرکرده (رد شده)",
+        "assignment_status_overdue_rejected": "دیرکرده (ارسال بسته شد)",
         "assignment_status_submitted": "ارسال‌شده",
         "assignment_status_submitted_late": "با تأخیر ارسال‌شده",
         "assignment_time_days_with_suffix": "%1$d روز %2$s",

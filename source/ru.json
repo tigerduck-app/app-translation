@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 минут до",
         "assignment_reminder_offset_8h": "8 часов до",
         "assignment_status_overdue": "Просрочено",
-        "assignment_status_overdue_rejected": "Просрочено (отклонено)",
+        "assignment_status_overdue_rejected": "Просрочено (приём закрыт)",
         "assignment_status_submitted": "Сдано",
         "assignment_status_submitted_late": "Сдано с опозданием",
         "assignment_time_days_with_suffix": "%1$d дн. %2$s",

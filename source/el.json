@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 λεπτά πριν",
         "assignment_reminder_offset_8h": "8 ώρες πριν",
         "assignment_status_overdue": "Εκπρόθεσμο",
-        "assignment_status_overdue_rejected": "Εκπρόθεσμο (απορρίφθηκε)",
+        "assignment_status_overdue_rejected": "Εκπρόθεσμο (η υποβολή έκλεισε)",
         "assignment_status_submitted": "Υποβλήθηκε",
         "assignment_status_submitted_late": "Υποβλήθηκε καθυστερημένα",
         "assignment_time_days_with_suffix": "%1$d ημέρες %2$s",

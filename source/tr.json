@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 dakika öncesi",
         "assignment_reminder_offset_8h": "8 saat öncesi",
         "assignment_status_overdue": "Süresi geçti",
-        "assignment_status_overdue_rejected": "Süresi geçti (reddedildi)",
+        "assignment_status_overdue_rejected": "Süresi geçti (gönderim kapalı)",
         "assignment_status_submitted": "Teslim edildi",
         "assignment_status_submitted_late": "Geç teslim edildi",
         "assignment_time_days_with_suffix": "%1$d gün %2$s",

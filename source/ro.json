@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minute înainte",
         "assignment_reminder_offset_8h": "8 ore înainte",
         "assignment_status_overdue": "Expirat",
-        "assignment_status_overdue_rejected": "Expirat (respins)",
+        "assignment_status_overdue_rejected": "Expirat (trimitere închisă)",
         "assignment_status_submitted": "Trimis",
         "assignment_status_submitted_late": "Trimis cu întârziere",
         "assignment_time_days_with_suffix": "%1$d zile %2$s",

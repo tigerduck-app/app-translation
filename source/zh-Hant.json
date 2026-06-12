@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 分鐘前",
         "assignment_reminder_offset_8h": "8 小時前",
         "assignment_status_overdue": "已逾期",
-        "assignment_status_overdue_rejected": "逾期未過",
+        "assignment_status_overdue_rejected": "逾期（已關閉繳交）",
         "assignment_status_submitted": "已繳交",
         "assignment_status_submitted_late": "逾期繳交",
         "assignment_time_days_with_suffix": "%1$d天%2$s",

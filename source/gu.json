@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 મિનિટ પહેલાં",
         "assignment_reminder_offset_8h": "8 કલાક પહેલાં",
         "assignment_status_overdue": "ઓવરડ્યૂ",
-        "assignment_status_overdue_rejected": "ઓવરડ્યૂ (અસ્વીકૃત)",
+        "assignment_status_overdue_rejected": "ઓવરડ્યૂ (સબમિશન બંધ)",
         "assignment_status_submitted": "સબમિટ કર્યું",
         "assignment_status_submitted_late": "મોડું સબમિટ",
         "assignment_time_days_with_suffix": "%1$d દિવસ %2$s",

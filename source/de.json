@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 Minuten vorher",
         "assignment_reminder_offset_8h": "8 Stunden vorher",
         "assignment_status_overdue": "Überfällig",
-        "assignment_status_overdue_rejected": "Überfällig (abgelehnt)",
+        "assignment_status_overdue_rejected": "Überfällig (Abgabe geschlossen)",
         "assignment_status_submitted": "Abgegeben",
         "assignment_status_submitted_late": "Verspätet abgegeben",
         "assignment_time_days_with_suffix": "%1$d Tage %2$s",

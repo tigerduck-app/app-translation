@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 perccel előbb",
         "assignment_reminder_offset_8h": "8 órával előbb",
         "assignment_status_overdue": "Lejárt",
-        "assignment_status_overdue_rejected": "Lejárt (elutasítva)",
+        "assignment_status_overdue_rejected": "Lejárt (beadás lezárva)",
         "assignment_status_submitted": "Beadva",
         "assignment_status_submitted_late": "Késve beadva",
         "assignment_time_days_with_suffix": "%1$d nap %2$s",

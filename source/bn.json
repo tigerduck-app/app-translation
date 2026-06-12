@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "৫ মিনিট আগে",
         "assignment_reminder_offset_8h": "8 ঘন্টা আগে",
         "assignment_status_overdue": "মেয়াদ শেষ",
-        "assignment_status_overdue_rejected": "মেয়াদ শেষ (প্রত্যাখ্যাত)",
+        "assignment_status_overdue_rejected": "মেয়াদ শেষ (জমা দেওয়া বন্ধ)",
         "assignment_status_submitted": "জমা দেওয়া হয়েছে",
         "assignment_status_submitted_late": "দেরিতে জমা দেওয়া হয়েছে",
         "assignment_time_days_with_suffix": "%1$d দিন %2$s",

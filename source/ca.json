@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minuts abans",
         "assignment_reminder_offset_8h": "8 hores abans",
         "assignment_status_overdue": "Vençuda",
-        "assignment_status_overdue_rejected": "Vençuda (rebutjada)",
+        "assignment_status_overdue_rejected": "Vençuda (lliurament tancat)",
         "assignment_status_submitted": "Lliurada",
         "assignment_status_submitted_late": "Lliurada amb retard",
         "assignment_time_days_with_suffix": "%1$d dies %2$s",

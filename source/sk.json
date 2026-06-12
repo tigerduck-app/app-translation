@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minút pred",
         "assignment_reminder_offset_8h": "8 hodín pred",
         "assignment_status_overdue": "Po termíne",
-        "assignment_status_overdue_rejected": "Po termíne (zamietnuté)",
+        "assignment_status_overdue_rejected": "Po termíne (odovzdávanie uzavreté)",
         "assignment_status_submitted": "Odovzdané",
         "assignment_status_submitted_late": "Odovzdané neskoro",
         "assignment_time_days_with_suffix": "%1$d dní %2$s",

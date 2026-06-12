@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 минут бұрын",
         "assignment_reminder_offset_8h": "8 сағат бұрын",
         "assignment_status_overdue": "Мерзімі өтіп кетті",
-        "assignment_status_overdue_rejected": "Мерзімі өтті (қабылданбады)",
+        "assignment_status_overdue_rejected": "Мерзімі өтті (тапсыру жабылды)",
         "assignment_status_submitted": "Тапсырылды",
         "assignment_status_submitted_late": "Кешіктіріліп тапсырылды",
         "assignment_time_days_with_suffix": "%1$d күн %2$s",

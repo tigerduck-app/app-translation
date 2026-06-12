@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minuten tevoren",
         "assignment_reminder_offset_8h": "8 uur tevoren",
         "assignment_status_overdue": "Verlopen",
-        "assignment_status_overdue_rejected": "Verlopen (afgewezen)",
+        "assignment_status_overdue_rejected": "Verlopen (inleveren gesloten)",
         "assignment_status_submitted": "Ingeleverd",
         "assignment_status_submitted_late": "Te laat ingeleverd",
         "assignment_time_days_with_suffix": "%1$d dagen %2$s",

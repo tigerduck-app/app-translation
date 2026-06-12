@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 ನಿಮಿಷಗಳ ಪೂರ್ವದಲ್ಲಿ",
         "assignment_reminder_offset_8h": "8 ಗಂಟೆಗಳ ಪೂರ್ವದಲ್ಲಿ",
         "assignment_status_overdue": "ಗಡುವು ಮೀರಿದೆ",
-        "assignment_status_overdue_rejected": "ಗಡುವು ಮೀರಿದೆ (ತಿರಸ್ಕರಿಸಲಾಗಿದೆ)",
+        "assignment_status_overdue_rejected": "ಗಡುವು ಮೀರಿದೆ (ಸಲ್ಲಿಕೆ ಮುಚ್ಚಲಾಗಿದೆ)",
         "assignment_status_submitted": "ಸಲ್ಲಿಸಲಾಗಿದೆ",
         "assignment_status_submitted_late": "ತಡವಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ",
         "assignment_time_days_with_suffix": "%1$d ದಿನ %2$s",

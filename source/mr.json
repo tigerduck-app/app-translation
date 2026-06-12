@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 मिनिटे आधी",
         "assignment_reminder_offset_8h": "8 तास आधी",
         "assignment_status_overdue": "मुदत उलटली",
-        "assignment_status_overdue_rejected": "मुदत उलटली (नाकारले)",
+        "assignment_status_overdue_rejected": "मुदत उलटली (सबमिशन बंद)",
         "assignment_status_submitted": "सादर केले",
         "assignment_status_submitted_late": "उशिरा सादर केले",
         "assignment_time_days_with_suffix": "%1$d दिवस %2$s",

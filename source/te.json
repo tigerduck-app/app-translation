@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 నిమిషాల ముందు",
         "assignment_reminder_offset_8h": "8 గంటలకు ముందు",
         "assignment_status_overdue": "గడువు మించింది",
-        "assignment_status_overdue_rejected": "గడువు మించింది (తిరస్కరించారు)",
+        "assignment_status_overdue_rejected": "గడువు మించింది (సమర్పణ మూసివేయబడింది)",
         "assignment_status_submitted": "సమర్పించారు",
         "assignment_status_submitted_late": "ఆలస్యంగా సమర్పించారు",
         "assignment_time_days_with_suffix": "%1$d రోజులు %2$s",

@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 דקות לפני",
         "assignment_reminder_offset_8h": "8 שעות לפני",
         "assignment_status_overdue": "פג תוקף",
-        "assignment_status_overdue_rejected": "פג תוקף (נדחה)",
+        "assignment_status_overdue_rejected": "פג תוקף (ההגשה נסגרה)",
         "assignment_status_submitted": "הוגש",
         "assignment_status_submitted_late": "הוגש באיחור",
         "assignment_time_days_with_suffix": "%1$d ימים %2$s",

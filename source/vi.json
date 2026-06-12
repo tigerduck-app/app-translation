@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 phút trước",
         "assignment_reminder_offset_8h": "8 giờ trước",
         "assignment_status_overdue": "Quá hạn",
-        "assignment_status_overdue_rejected": "Quá hạn (bị từ chối)",
+        "assignment_status_overdue_rejected": "Quá hạn (đã đóng nộp bài)",
         "assignment_status_submitted": "Đã nộp",
         "assignment_status_submitted_late": "Nộp trễ",
         "assignment_time_days_with_suffix": "%1$d ngày %2$s",

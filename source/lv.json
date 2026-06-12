@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minūtes iepriekš",
         "assignment_reminder_offset_8h": "8 stundas iepriekš",
         "assignment_status_overdue": "Nokavēts",
-        "assignment_status_overdue_rejected": "Nokavēts (noraidīts)",
+        "assignment_status_overdue_rejected": "Nokavēts (iesniegšana slēgta)",
         "assignment_status_submitted": "Iesniegts",
         "assignment_status_submitted_late": "Iesniegts ar nokavēšanos",
         "assignment_time_days_with_suffix": "%1$d dienas %2$s",

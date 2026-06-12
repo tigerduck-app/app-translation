@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minuter tidigare",
         "assignment_reminder_offset_8h": "8 timmar tidigare",
         "assignment_status_overdue": "Försenad",
-        "assignment_status_overdue_rejected": "Försenad (avvisad)",
+        "assignment_status_overdue_rejected": "Försenad (inlämning stängd)",
         "assignment_status_submitted": "Inlämnad",
         "assignment_status_submitted_late": "Inlämnad för sent",
         "assignment_time_days_with_suffix": "%1$d dagar %2$s",

@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 ਮਿੰਟ ਪਹਿਲਾਂ",
         "assignment_reminder_offset_8h": "8 ਘੰਟੇ ਪਹਿਲਾਂ",
         "assignment_status_overdue": "ਮਿਆਦ ਪੁੱਗ ਗਈ",
-        "assignment_status_overdue_rejected": "ਮਿਆਦ ਪੁੱਗੀ (ਰੱਦ ਕੀਤਾ)",
+        "assignment_status_overdue_rejected": "ਮਿਆਦ ਪੁੱਗੀ (ਜਮ੍ਹਾਂ ਕਰਨਾ ਬੰਦ)",
         "assignment_status_submitted": "ਜਮ੍ਹਾਂ ਕੀਤਾ",
         "assignment_status_submitted_late": "ਦੇਰ ਨਾਲ ਜਮ੍ਹਾਂ ਕੀਤਾ",
         "assignment_time_days_with_suffix": "%1$d ਦਿਨ %2$s",

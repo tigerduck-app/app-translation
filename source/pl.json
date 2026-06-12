@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 minut wcześniej",
         "assignment_reminder_offset_8h": "8 godzin wcześniej",
         "assignment_status_overdue": "Po terminie",
-        "assignment_status_overdue_rejected": "Po terminie (odrzucone)",
+        "assignment_status_overdue_rejected": "Po terminie (przesyłanie zamknięte)",
         "assignment_status_submitted": "Oddane",
         "assignment_status_submitted_late": "Oddane po terminie",
         "assignment_time_days_with_suffix": "%1$d dni %2$s",

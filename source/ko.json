@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5분 전",
         "assignment_reminder_offset_8h": "8시간 전",
         "assignment_status_overdue": "기한 초과",
-        "assignment_status_overdue_rejected": "기한 초과(반려)",
+        "assignment_status_overdue_rejected": "기한 초과(제출 마감)",
         "assignment_status_submitted": "제출됨",
         "assignment_status_submitted_late": "지연 제출",
         "assignment_time_days_with_suffix": "%1$d일 %2$s",

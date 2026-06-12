@@ -63,7 +63,7 @@
         "assignment_reminder_offset_5m": "5 நிமிடங்களுக்கு முன்",
         "assignment_reminder_offset_8h": "8 மணிநேரங்களுக்கு முன்",
         "assignment_status_overdue": "காலம் கடந்தது",
-        "assignment_status_overdue_rejected": "காலம் கடந்தது (நிராகரிக்கப்பட்டது)",
+        "assignment_status_overdue_rejected": "காலம் கடந்தது (சமர்ப்பிப்பு மூடப்பட்டது)",
         "assignment_status_submitted": "சமர்பிக்கப்பட்டது",
         "assignment_status_submitted_late": "தாமதமாக சமர்பிக்கப்பட்டது",
         "assignment_time_days_with_suffix": "%1$d நாட்கள் %2$s",
