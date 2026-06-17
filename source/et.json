@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Homme %1$s",
         "widget_until_time": "Kuni %1$s",
         "widget_week_light_desc": "Selle nädala täielik tunniplaan. Teema järgib rakenduse seadet.",
-        "widget_week_light_label": "Tunniplaan (nädal)"
+        "widget_week_light_label": "Tunniplaan (nädal)",
+        "settings_analytics_enabled": "Kasutusanalüütika",
+        "settings_analytics_description": "Jaga anonüümseid kasutusandmeid (külastatud lehed, vidinate kasutamine), et aidata TigerDucki paremaks muuta",
+        "onboarding_analytics_label": "Kasutusanalüütika (valikuline)",
+        "onboarding_analytics_description": "Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardklaviatuur",

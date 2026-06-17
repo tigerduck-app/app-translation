@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 perccel előbb";
 "assignment_reminder_offset_8h" = "8 órával előbb";
 "assignment_status_overdue" = "Lejárt";
-"assignment_status_overdue_rejected" = "Lejárt (elutasítva)";
+"assignment_status_overdue_rejected" = "Lejárt (beadás lezárva)";
 "assignment_status_submitted" = "Beadva";
 "assignment_status_submitted_late" = "Késve beadva";
 "assignment_time_days_with_suffix" = "%1$d nap %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Hamarosan kezdődik az óra: %1$@";
 "notification_setup_description" = "Az alábbi engedélyek engedélyezésével biztosítható, hogy a házi feladat emlékeztetők, az órakezdés figyelmeztetések és az élő tevékenység akkor is időben megérkezzenek, amikor az alkalmazás be van zárva.";
 "notification_setup_title" = "Értesítések újrakonfigurálása";
+"onboarding_analytics_description" = "Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban.";
+"onboarding_analytics_label" = "Használati analitika (nem kötelező)";
 "onboarding_permissions_subtitle" = "Adja meg ezeket az engedélyeket, hogy a házi feladat és az óra emlékeztetők akkor is időben megérkezzenek, amikor az alkalmazás be van zárva. Később a Beállításokban módosíthatja őket.";
 "onboarding_permissions_title" = "Értesítési és emlékeztető engedélyek";
 "onboarding_privacy_continue_hint" = "Erősítsd meg mindkét elemet a folytatáshoz";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Könyvtári rendszer";
 "settings_account_ntust_system" = "Tanulmányi rendszer";
 "settings_acknowledged" = "Értem";
+"settings_analytics_description" = "Ossz meg névtelen használati adatokat (meglátogatott oldalak, widget-használat), hogy segíts fejleszteni a TigerDuck-ot";
+"settings_analytics_enabled" = "Használati analitika";
 "settings_assignment_due_reminder" = "Házi feladat határidő emlékeztetők";
 "settings_browser_in_app" = "Alkalmazáson belüli böngésző";
 "settings_browser_system_default" = "Rendszer alapértelmezett böngésző";

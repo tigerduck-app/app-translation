@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "I morgen %1$s",
         "widget_until_time": "Indtil %1$s",
         "widget_week_light_desc": "Fuldt skema for denne uge. Tema følger app-indstilling.",
-        "widget_week_light_label": "Skema (uge)"
+        "widget_week_light_label": "Skema (uge)",
+        "settings_analytics_enabled": "Brugsanalyse",
+        "settings_analytics_description": "Del anonyme brugsdata (besøgte sider, brug af widgets) for at hjælpe med at forbedre TigerDuck",
+        "onboarding_analytics_label": "Brugsanalyse (valgfrit)",
+        "onboarding_analytics_description": "Hjælp med at forbedre TigerDuck ved at dele anonyme sidebesøg og brug af widgets. Du kan ændre dette til enhver tid i Indstillinger."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardtastatur",

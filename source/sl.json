@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Jutri %1$s",
         "widget_until_time": "Do %1$s",
         "widget_week_light_desc": "Celoten urnik za ta teden. Tema sledi nastavitvi aplikacije.",
-        "widget_week_light_label": "Urnik (teden)"
+        "widget_week_light_label": "Urnik (teden)",
+        "settings_analytics_enabled": "Analitika uporabe",
+        "settings_analytics_description": "Deli anonimne podatke o uporabi (obiskane strani, uporaba widgetov), da pomagaš izboljšati TigerDuck",
+        "onboarding_analytics_label": "Analitika uporabe (neobvezno)",
+        "onboarding_analytics_description": "Pomagaj izboljšati TigerDuck z deljenjem anonimnih podatkov o obiskanih straneh in uporabi widgetov. To lahko kadarkoli spremenite v Nastavitvah."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardna tipkovnica",

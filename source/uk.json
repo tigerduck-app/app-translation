@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Завтра %1$s",
         "widget_until_time": "До %1$s",
         "widget_week_light_desc": "Повний розклад на цей тиждень. Тема відповідає налаштуванням застосунку.",
-        "widget_week_light_label": "Розклад (тиждень)"
+        "widget_week_light_label": "Розклад (тиждень)",
+        "settings_analytics_enabled": "Аналітика використання",
+        "settings_analytics_description": "Діліться анонімними даними про використання (відвідані сторінки, використання віджетів), щоб допомогти покращити TigerDuck",
+        "onboarding_analytics_label": "Аналітика використання (необов'язково)",
+        "onboarding_analytics_description": "Допоможи покращити TigerDuck, ділячись анонімними даними про відвідані сторінки та використання віджетів. Це можна змінити будь-коли в Налаштуваннях."
     },
     "android": {
         "account_id_use_standard_keyboard": "Стандартна клавіатура",

@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "നാളെ %1$s",
         "widget_until_time": "%1$s വരെ",
         "widget_week_light_desc": "ഈ ആഴ്ചത്തെ പൂർണ്ണ ഷെഡ്യൂൾ. തീം ആപ്പ് ക്രമീകരണം പിന്തുടരുന്നു.",
-        "widget_week_light_label": "ഷെഡ്യൂൾ (ആഴ്ച)"
+        "widget_week_light_label": "ഷെഡ്യൂൾ (ആഴ്ച)",
+        "settings_analytics_enabled": "ഉപയോഗ വിശകലനം",
+        "settings_analytics_description": "TigerDuck മെച്ചപ്പെടുത്താൻ സഹായിക്കാൻ അജ്ഞാത ഉപയോഗ ഡേറ്റ (സന്ദർശിച്ച പേജുകൾ, വിജറ്റ് ഉപയോഗം) പങ്കിടുക",
+        "onboarding_analytics_label": "ഉപയോഗ വിശകലനം (ഐച്ഛികം)",
+        "onboarding_analytics_description": "അജ്ഞാത പേജ് സന്ദർശനങ്ങളും വിജറ്റ് ഉപയോഗവും പങ്കിട്ട് TigerDuck മെച്ചപ്പെടുത്താൻ സഹായിക്കൂ. ഇത് എപ്പോൾ വേണമെങ്കിലും ക്രമീകരണങ്ങളിൽ മാറ്റാം."
     },
     "android": {
         "account_id_use_standard_keyboard": "സ്റ്റാൻഡേർഡ് കീബോർഡ്",

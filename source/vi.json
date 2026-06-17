@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Ngày mai %1$s",
         "widget_until_time": "Đến %1$s",
         "widget_week_light_desc": "Thời khóa biểu đầy đủ của tuần này. Giao diện theo cài đặt ứng dụng.",
-        "widget_week_light_label": "Thời khóa biểu (Tuần)"
+        "widget_week_light_label": "Thời khóa biểu (Tuần)",
+        "settings_analytics_enabled": "Phân tích sử dụng",
+        "settings_analytics_description": "Chia sẻ dữ liệu sử dụng ẩn danh (trang đã truy cập, sử dụng widget) để giúp cải thiện TigerDuck",
+        "onboarding_analytics_label": "Phân tích sử dụng (tùy chọn)",
+        "onboarding_analytics_description": "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt."
     },
     "android": {
         "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",

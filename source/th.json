@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "พรุ่งนี้ %1$s",
         "widget_until_time": "ถึง %1$s",
         "widget_week_light_desc": "ตารางเรียนเต็มของสัปดาห์นี้ ธีมเป็นไปตามการตั้งค่าแอป",
-        "widget_week_light_label": "ตารางเรียน (สัปดาห์)"
+        "widget_week_light_label": "ตารางเรียน (สัปดาห์)",
+        "settings_analytics_enabled": "การวิเคราะห์การใช้งาน",
+        "settings_analytics_description": "แชร์ข้อมูลการใช้งานแบบไม่ระบุตัวตน (หน้าที่เข้าชม, การใช้วิดเจ็ต) เพื่อช่วยพัฒนา TigerDuck",
+        "onboarding_analytics_label": "การวิเคราะห์การใช้งาน (ไม่บังคับ)",
+        "onboarding_analytics_description": "ช่วยพัฒนา TigerDuck ด้วยการแชร์ข้อมูลการเข้าชมหน้าและการใช้วิดเจ็ตแบบไม่ระบุตัวตน คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า"
     },
     "android": {
         "account_id_use_standard_keyboard": "แป้นพิมพ์มาตรฐาน",

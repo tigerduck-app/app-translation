@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 минут до";
 "assignment_reminder_offset_8h" = "8 часов до";
 "assignment_status_overdue" = "Просрочено";
-"assignment_status_overdue_rejected" = "Просрочено (отклонено)";
+"assignment_status_overdue_rejected" = "Просрочено (приём закрыт)";
 "assignment_status_submitted" = "Сдано";
 "assignment_status_submitted_late" = "Сдано с опозданием";
 "assignment_time_days_with_suffix" = "%1$d дн. %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Скоро начнётся занятие: %1$@";
 "notification_setup_description" = "Включите указанные ниже разрешения, чтобы напоминания о заданиях, оповещения о начале занятий и live-активность приходили вовремя, даже когда приложение закрыто.";
 "notification_setup_title" = "Настроить уведомления заново";
+"onboarding_analytics_description" = "Помоги улучшить TigerDuck, делясь анонимными данными о посещённых страницах и использовании виджетов. Изменить это можно в любой момент в Настройках.";
+"onboarding_analytics_label" = "Аналитика использования (необязательно)";
 "onboarding_permissions_subtitle" = "Предоставьте эти разрешения, чтобы напоминания о заданиях и занятиях приходили вовремя, даже когда приложение закрыто. Вы сможете изменить их позже в настройках.";
 "onboarding_permissions_title" = "Разрешения для уведомлений и напоминаний";
 "onboarding_privacy_continue_hint" = "Подтвердите оба пункта, чтобы продолжить";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Система библиотеки";
 "settings_account_ntust_system" = "Школьная система";
 "settings_acknowledged" = "Понятно";
+"settings_analytics_description" = "Делись анонимными данными об использовании (посещённые страницы, использование виджетов), чтобы помочь улучшить TigerDuck";
+"settings_analytics_enabled" = "Аналитика использования";
 "settings_assignment_due_reminder" = "Напоминания о сроках сдачи заданий";
 "settings_browser_in_app" = "Встроенный браузер";
 "settings_browser_system_default" = "Системный браузер по умолчанию";

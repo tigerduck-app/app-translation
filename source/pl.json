@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Jutro %1$s",
         "widget_until_time": "Do %1$s",
         "widget_week_light_desc": "Pełny plan zajęć na ten tydzień. Motyw zgodny z ustawieniami aplikacji.",
-        "widget_week_light_label": "Plan zajęć (tydzień)"
+        "widget_week_light_label": "Plan zajęć (tydzień)",
+        "settings_analytics_enabled": "Analityka użytkowania",
+        "settings_analytics_description": "Udostępniaj anonimowe dane o użytkowaniu (odwiedzone strony, używanie widgetów), aby pomóc ulepszać TigerDuck",
+        "onboarding_analytics_label": "Analityka użytkowania (opcjonalne)",
+        "onboarding_analytics_description": "Pomóż ulepszać TigerDuck, udostępniając anonimowe dane o odwiedzanych stronach i używaniu widgetów. Możesz to zmienić w dowolnym momencie w Ustawieniach."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardowa klawiatura",

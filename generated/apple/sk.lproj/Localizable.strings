@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minút pred";
 "assignment_reminder_offset_8h" = "8 hodín pred";
 "assignment_status_overdue" = "Po termíne";
-"assignment_status_overdue_rejected" = "Po termíne (zamietnuté)";
+"assignment_status_overdue_rejected" = "Po termíne (odovzdávanie uzavreté)";
 "assignment_status_submitted" = "Odovzdané";
 "assignment_status_submitted_late" = "Odovzdané neskoro";
 "assignment_time_days_with_suffix" = "%1$d dní %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Čoskoro začína hodina: %1$@";
 "notification_setup_description" = "Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a živá aktivita prichádzali včas aj keď je aplikácia zatvorená.";
 "notification_setup_title" = "Znovu nastaviť notifikácie";
+"onboarding_analytics_description" = "Pomôž nám vylepšiť TigerDuck zdieľaním anonymných údajov o navštívených stránkach a používaní widgetov. Kedykoľvek to môžeš zmeniť v Nastaveniach.";
+"onboarding_analytics_label" = "Analytika používania (voliteľné)";
 "onboarding_permissions_subtitle" = "Udeľte tieto povolenia, aby pripomienky úloh a hodín mohli prichádzať včas aj keď je aplikácia zatvorená. Môžete ich neskôr zmeniť v Nastaveniach.";
 "onboarding_permissions_title" = "Povolenia notifikácií a pripomienok";
 "onboarding_privacy_continue_hint" = "Pre pokračovanie potvrďte obe položky";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Systém knižnice";
 "settings_account_ntust_system" = "Školský systém";
 "settings_acknowledged" = "Rozumiem";
+"settings_analytics_description" = "Zdieľaj anonymné údaje o používaní (navštívené stránky, používanie widgetov) a pomôž nám vylepšiť TigerDuck";
+"settings_analytics_enabled" = "Analytika používania";
 "settings_assignment_due_reminder" = "Pripomienky termínov úloh";
 "settings_browser_in_app" = "Prehliadač v aplikácii";
 "settings_browser_system_default" = "Predvolený systémový prehliadač";

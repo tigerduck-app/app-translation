@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Сутра %1$s",
         "widget_until_time": "До %1$s",
         "widget_week_light_desc": "Комплетан распоред за ову недељу. Тема прати поставке апликације.",
-        "widget_week_light_label": "Распоред (недеља)"
+        "widget_week_light_label": "Распоред (недеља)",
+        "settings_analytics_enabled": "Аналитика коришћења",
+        "settings_analytics_description": "Дели анонимне податке о коришћењу (посећене странице, коришћење виџета) да би помогао у побољшању TigerDuck-а",
+        "onboarding_analytics_label": "Аналитика коришћења (опционално)",
+        "onboarding_analytics_description": "Помози у побољшању TigerDuck-а дељењем анонимних података о посећеним страницама и коришћењу виџета. Ово можеш променити у било ком тренутку у Подешавањима."
     },
     "android": {
         "account_id_use_standard_keyboard": "Стандардна тастатура",

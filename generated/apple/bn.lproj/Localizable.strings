@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "৫ মিনিট আগে";
 "assignment_reminder_offset_8h" = "8 ঘন্টা আগে";
 "assignment_status_overdue" = "মেয়াদ শেষ";
-"assignment_status_overdue_rejected" = "মেয়াদ শেষ (প্রত্যাখ্যাত)";
+"assignment_status_overdue_rejected" = "মেয়াদ শেষ (জমা দেওয়া বন্ধ)";
 "assignment_status_submitted" = "জমা দেওয়া হয়েছে";
 "assignment_status_submitted_late" = "দেরিতে জমা দেওয়া হয়েছে";
 "assignment_time_days_with_suffix" = "%1$d দিন %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "ক্লাস শুরু হতে চলেছে: %1$@";
 "notification_setup_description" = "নিচের অনুমতিগুলি চালু করুন যাতে অ্যাপ বন্ধ থাকলেও অ্যাসাইনমেন্টের স্মরণিকা, ক্লাসের প্রস্তুতি সতর্কতা এবং লাইভ অ্যাক্টিভিটি সময়মতো আসে।";
 "notification_setup_title" = "বিজ্ঞপ্তি পুনরায় কনফিগার করুন";
+"onboarding_analytics_description" = "বেনামী পেজ ভিজিট ও উইজেট ব্যবহারের তথ্য শেয়ার করে TigerDuck উন্নত করতে সাহায্য করুন। আপনি যেকোনো সময় সেটিংসে এটি পরিবর্তন করতে পারবেন।";
+"onboarding_analytics_label" = "ব্যবহার বিশ্লেষণ (ঐচ্ছিক)";
 "onboarding_permissions_subtitle" = "এই অনুমতিগুলি দিন যাতে অ্যাপ বন্ধ থাকলেও অ্যাসাইনমেন্ট ও ক্লাসের স্মরণিকা সময়মতো আসে। পরে সেটিংসে পরিবর্তন করা যাবে।";
 "onboarding_permissions_title" = "বিজ্ঞপ্তি ও স্মরণিকার অনুমতি";
 "onboarding_privacy_continue_hint" = "চালিয়ে যেতে দুটি আইটেমই নিশ্চিত করুন";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "লাইব্রেরি সিস্টেম";
 "settings_account_ntust_system" = "একাডেমিক সিস্টেম";
 "settings_acknowledged" = "বুঝেছি";
+"settings_analytics_description" = "TigerDuck উন্নত করতে সাহায্য করতে বেনামী ব্যবহারের তথ্য (পরিদর্শন করা পেজ, উইজেট ব্যবহার) শেয়ার করুন";
+"settings_analytics_enabled" = "ব্যবহার বিশ্লেষণ";
 "settings_assignment_due_reminder" = "অ্যাসাইনমেন্টের সময়সীমার স্মরণিকা";
 "settings_browser_in_app" = "অ্যাপ-ইন ব্রাউজার";
 "settings_browser_system_default" = "সিস্টেম ডিফল্ট ব্রাউজার";

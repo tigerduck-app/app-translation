@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "நாளை %1$s",
         "widget_until_time": "%1$s வரை",
         "widget_week_light_desc": "இந்த வாரத்தின் முழு நேர அட்டவணை. தீம் App அமைப்பைப் பின்பற்றும்.",
-        "widget_week_light_label": "நேர அட்டவணை (வாரம்)"
+        "widget_week_light_label": "நேர அட்டவணை (வாரம்)",
+        "settings_analytics_enabled": "பயன்பாட்டு பகுப்பாய்வு",
+        "settings_analytics_description": "TigerDuck-ஐ மேம்படுத்த உதவ அநாமதேய பயன்பாட்டு தரவு (பார்வையிட்ட பக்கங்கள், விட்ஜெட் பயன்பாடு) பகிரவும்",
+        "onboarding_analytics_label": "பயன்பாட்டு பகுப்பாய்வு (விரும்பினால்)",
+        "onboarding_analytics_description": "அநாமதேய பக்க வருகைகள் மற்றும் விட்ஜெட் பயன்பாட்டை பகிர்ந்து TigerDuck-ஐ மேம்படுத்த உதவுங்கள். இதை எப்போது வேண்டுமானாலும் அமைப்புகளில் மாற்றலாம்."
     },
     "android": {
         "account_id_use_standard_keyboard": "நிலையான விசைப்பலகை",

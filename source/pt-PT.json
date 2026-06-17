@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Amanhã %1$s",
         "widget_until_time": "Até %1$s",
         "widget_week_light_desc": "Horário completo desta semana. O tema segue a definição da aplicação.",
-        "widget_week_light_label": "Horário (Semana)"
+        "widget_week_light_label": "Horário (Semana)",
+        "settings_analytics_enabled": "Análise de utilização",
+        "settings_analytics_description": "Partilha dados de utilização anónimos (páginas visitadas, utilização de widgets) para ajudar a melhorar o TigerDuck",
+        "onboarding_analytics_label": "Análise de utilização (opcional)",
+        "onboarding_analytics_description": "Ajuda a melhorar o TigerDuck partilhando visitas a páginas e utilização de widgets de forma anónima. Podes alterar isto a qualquer momento nas Definições."
     },
     "android": {
         "account_id_use_standard_keyboard": "Teclado padrão",

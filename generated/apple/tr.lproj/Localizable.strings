@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 dakika öncesi";
 "assignment_reminder_offset_8h" = "8 saat öncesi";
 "assignment_status_overdue" = "Süresi geçti";
-"assignment_status_overdue_rejected" = "Süresi geçti (reddedildi)";
+"assignment_status_overdue_rejected" = "Süresi geçti (gönderim kapalı)";
 "assignment_status_submitted" = "Teslim edildi";
 "assignment_status_submitted_late" = "Geç teslim edildi";
 "assignment_time_days_with_suffix" = "%1$d gün %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Ders birazdan başlıyor: %1$@";
 "notification_setup_description" = "Aşağıdaki izinleri etkinleştirerek ödev hatırlatıcılarının, ders başlangıç uyarılarının ve canlı etkinliğin uygulama kapalıyken bile zamanında ulaşmasını sağlayın.";
 "notification_setup_title" = "Bildirimleri yeniden yapılandır";
+"onboarding_analytics_description" = "Ziyaret edilen sayfalar ve widget kullanımına ilişkin anonim verileri paylaşarak TigerDuck'ı geliştirmeye yardımcı ol. Bunu istediğin zaman Ayarlar'dan değiştirebilirsin.";
+"onboarding_analytics_label" = "Kullanım analitiği (isteğe bağlı)";
 "onboarding_permissions_subtitle" = "Bu izinleri verin ki ödev ve ders hatırlatıcıları uygulama kapalıyken bile zamanında ulaşsın. Daha sonra Ayarlar'dan değiştirebilirsiniz.";
 "onboarding_permissions_title" = "Bildirim ve hatırlatıcı izinleri";
 "onboarding_privacy_continue_hint" = "Devam etmek için her iki maddeyi de onaylayın";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Kütüphane sistemi";
 "settings_account_ntust_system" = "Öğrenci bilgi sistemi";
 "settings_acknowledged" = "Anladım";
+"settings_analytics_description" = "TigerDuck'ı geliştirmeye yardımcı olmak için anonim kullanım verilerini (ziyaret edilen sayfalar, widget kullanımı) paylaş";
+"settings_analytics_enabled" = "Kullanım analitiği";
 "settings_assignment_due_reminder" = "Ödev teslim hatırlatıcıları";
 "settings_browser_in_app" = "Uygulama içi tarayıcı";
 "settings_browser_system_default" = "Sistem varsayılan tarayıcısı";

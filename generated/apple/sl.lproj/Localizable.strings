@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minut prej";
 "assignment_reminder_offset_8h" = "8 ur prej";
 "assignment_status_overdue" = "Zamujeno";
-"assignment_status_overdue_rejected" = "Zamujeno (zavrnjeno)";
+"assignment_status_overdue_rejected" = "Zamujeno (oddaja zaprta)";
 "assignment_status_submitted" = "Oddano";
 "assignment_status_submitted_late" = "Oddano z zamudo";
 "assignment_time_days_with_suffix" = "%1$d dni %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Ura se kmalu začne: %1$@";
 "notification_setup_description" = "Omogočite spodnja dovoljenja, da zagotovite pravočasno dostavo opomnikov za naloge, opozoril pred poukom in žive dejavnosti, tudi ko je aplikacija zaprta.";
 "notification_setup_title" = "Ponovna nastavitev obvestil";
+"onboarding_analytics_description" = "Pomagaj izboljšati TigerDuck z deljenjem anonimnih podatkov o obiskanih straneh in uporabi widgetov. To lahko kadarkoli spremenite v Nastavitvah.";
+"onboarding_analytics_label" = "Analitika uporabe (neobvezno)";
 "onboarding_permissions_subtitle" = "Dodelite ta dovoljenja, da opomniki za naloge in ure prispejo pravočasno, tudi ko je aplikacija zaprta. Pozneje jih lahko spremenite v nastavitvah.";
 "onboarding_permissions_title" = "Dovoljenja za obvestila in opomnike";
 "onboarding_privacy_continue_hint" = "Za nadaljevanje potrdite obe točki";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Sistem knjižnice";
 "settings_account_ntust_system" = "Študijski sistem";
 "settings_acknowledged" = "Razumem";
+"settings_analytics_description" = "Deli anonimne podatke o uporabi (obiskane strani, uporaba widgetov), da pomagaš izboljšati TigerDuck";
+"settings_analytics_enabled" = "Analitika uporabe";
 "settings_assignment_due_reminder" = "Opomniki za rok naloge";
 "settings_browser_in_app" = "Brskalnik v aplikaciji";
 "settings_browser_system_default" = "Privzeti sistemski brskalnik";

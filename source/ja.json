@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "明日 %1$s",
         "widget_until_time": "%1$s まで",
         "widget_week_light_desc": "今週の時間割全体。テーマはアプリの設定に従います。",
-        "widget_week_light_label": "時間割（週）"
+        "widget_week_light_label": "時間割（週）",
+        "settings_analytics_enabled": "利用状況の分析",
+        "settings_analytics_description": "匿名の利用データ（閲覧ページ、ウィジェットの使用状況）を共有して、TigerDuck の改善にご協力ください",
+        "onboarding_analytics_label": "利用状況の分析（任意）",
+        "onboarding_analytics_description": "閲覧ページやウィジェットの使用状況に関する匿名データを共有して、TigerDuck の改善にご協力ください。設定からいつでも変更できます。"
     },
     "android": {
         "account_id_use_standard_keyboard": "標準キーボード",

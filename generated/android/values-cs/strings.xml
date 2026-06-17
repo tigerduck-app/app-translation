@@ -66,7 +66,7 @@
     <string name="assignment_reminder_offset_5m">5 minut předem</string>
     <string name="assignment_reminder_offset_8h">8 hodin předem</string>
     <string name="assignment_status_overdue">Po termínu</string>
-    <string name="assignment_status_overdue_rejected">Po termínu (odmítnuto)</string>
+    <string name="assignment_status_overdue_rejected">Po termínu (odevzdávání uzavřeno)</string>
     <string name="assignment_status_submitted">Odevzdáno</string>
     <string name="assignment_status_submitted_late">Odevzdáno po termínu</string>
     <string name="assignment_time_days_with_suffix">%2$s %1$d dny</string>
@@ -498,6 +498,8 @@
     <string name="notification_class_preparing_title">Hodina brzy začne: %1$s</string>
     <string name="notification_setup_description">Povolte níže uvedená oprávnění, abyste zajistili, že upozornění na úkoly, na blížící se hodinu a aktuality živě budou doručena včas, i když je aplikace zavřená.</string>
     <string name="notification_setup_title">Znovu nastavit oznámení</string>
+    <string name="onboarding_analytics_description">Pomoz nám vylepšit TigerDuck sdílením anonymních dat o navštívených stránkách a používání widgetů. Kdykoli to můžeš změnit v Nastavení.</string>
+    <string name="onboarding_analytics_label">Analytika používání (volitelné)</string>
     <string name="onboarding_flavor_fdroid_description">Používáte sestavení F-Droid. Protože pravidla F-Droid zakazují závislost na službách Google (Firebase FCM, GMS atd.), nejsou v tomto sestavení dostupné následující dvě funkce:\n\n1. Doprovodná aplikace Wear OS\n2. Push oznámení v reálném čase</string>
     <string name="onboarding_flavor_fdroid_title">Upozornění k sestavení F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck obsahuje doprovodnou aplikaci Wear OS. Prohlížejte si zprávy z výuky na hodinkách — Wear TigerDuck synchronizuje informace z vašeho telefonu.</string>
@@ -621,6 +623,8 @@
     <string name="settings_account_library_system">Systém knihovny</string>
     <string name="settings_account_ntust_system">Školní systém</string>
     <string name="settings_acknowledged">Rozumím</string>
+    <string name="settings_analytics_description">Sdílej anonymní data o používání (navštívené stránky, používání widgetů) a pomoz nám vylepšit TigerDuck</string>
+    <string name="settings_analytics_enabled">Analytika používání</string>
     <string name="settings_assignment_due_reminder">Upozornění na blížící se termín úkolu</string>
     <string name="settings_browser_in_app">Prohlížeč v aplikaci</string>
     <string name="settings_browser_system_default">Výchozí systémový prohlížeč</string>

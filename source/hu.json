@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Holnap %1$s",
         "widget_until_time": "%1$s-ig",
         "widget_week_light_desc": "Az egész heti órarend. A téma az alkalmazás beállítását követi.",
-        "widget_week_light_label": "Órarend (hét)"
+        "widget_week_light_label": "Órarend (hét)",
+        "settings_analytics_enabled": "Használati analitika",
+        "settings_analytics_description": "Ossz meg névtelen használati adatokat (meglátogatott oldalak, widget-használat), hogy segíts fejleszteni a TigerDuck-ot",
+        "onboarding_analytics_label": "Használati analitika (nem kötelező)",
+        "onboarding_analytics_description": "Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban."
     },
     "android": {
         "account_id_use_standard_keyboard": "Normál billentyűzet",

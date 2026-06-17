@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minuts abans";
 "assignment_reminder_offset_8h" = "8 hores abans";
 "assignment_status_overdue" = "Vençuda";
-"assignment_status_overdue_rejected" = "Vençuda (rebutjada)";
+"assignment_status_overdue_rejected" = "Vençuda (lliurament tancat)";
 "assignment_status_submitted" = "Lliurada";
 "assignment_status_submitted_late" = "Lliurada amb retard";
 "assignment_time_days_with_suffix" = "%1$d dies %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "La classe comença aviat: %1$@";
 "notification_setup_description" = "Activeu els permisos següents per garantir que els recordatoris de tasques, les alertes de classe i l'activitat en temps real arribin a temps fins i tot quan l'aplicació estigui tancada.";
 "notification_setup_title" = "Reconfigura les notificacions";
+"onboarding_analytics_description" = "Ajuda a millorar TigerDuck compartint visites de pàgines i ús de widgets de manera anònima. Pots canviar-ho en qualsevol moment a Configuració.";
+"onboarding_analytics_label" = "Anàlisi d'ús (opcional)";
 "onboarding_permissions_subtitle" = "Concediu aquests permisos perquè els recordatoris de tasques i classes puguin arribar a temps fins i tot quan l'aplicació estigui tancada. Podeu canviar-los més tard a la configuració.";
 "onboarding_permissions_title" = "Permisos de notificació i recordatoris";
 "onboarding_privacy_continue_hint" = "Confirma els dos elements per continuar";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Sistema de la biblioteca";
 "settings_account_ntust_system" = "Sistema acadèmic";
 "settings_acknowledged" = "Entès";
+"settings_analytics_description" = "Comparteix dades d'ús anònimes (pàgines visitades, ús de widgets) per ajudar a millorar TigerDuck";
+"settings_analytics_enabled" = "Anàlisi d'ús";
 "settings_assignment_due_reminder" = "Recordatoris de venciment de tasques";
 "settings_browser_in_app" = "Navegador de l'aplicació";
 "settings_browser_system_default" = "Navegador predeterminat del sistema";

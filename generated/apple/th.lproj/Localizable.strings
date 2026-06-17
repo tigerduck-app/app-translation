@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 นาทีก่อน";
 "assignment_reminder_offset_8h" = "8 ชั่วโมงก่อน";
 "assignment_status_overdue" = "เลยกำหนดแล้ว";
-"assignment_status_overdue_rejected" = "เลยกำหนด (ไม่รับ)";
+"assignment_status_overdue_rejected" = "เลยกำหนด (ปิดรับการส่ง)";
 "assignment_status_submitted" = "ส่งแล้ว";
 "assignment_status_submitted_late" = "ส่งล่าช้า";
 "assignment_time_days_with_suffix" = "%1$d วัน%2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "กำลังจะเข้าเรียน: %1$@";
 "notification_setup_description" = "เปิดใช้งานสิทธิ์ด้านล่างเพื่อให้แน่ใจว่าการแจ้งเตือนการบ้าน การแจ้งเตือนก่อนเข้าเรียน และ Live Activity จะมาถึงตรงเวลาแม้ในขณะที่ปิดแอปอยู่";
 "notification_setup_title" = "ตั้งค่าการแจ้งเตือนใหม่";
+"onboarding_analytics_description" = "ช่วยพัฒนา TigerDuck ด้วยการแชร์ข้อมูลการเข้าชมหน้าและการใช้วิดเจ็ตแบบไม่ระบุตัวตน คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า";
+"onboarding_analytics_label" = "การวิเคราะห์การใช้งาน (ไม่บังคับ)";
 "onboarding_permissions_subtitle" = "อนุญาตสิทธิ์เหล่านี้เพื่อให้การแจ้งเตือนการบ้านและคาบเรียนมาถึงตรงเวลาแม้ในขณะที่ปิดแอปอยู่ คุณสามารถเปลี่ยนแปลงได้ในภายหลังที่การตั้งค่า";
 "onboarding_permissions_title" = "สิทธิ์การแจ้งเตือนและการเตือนความจำ";
 "onboarding_privacy_continue_hint" = "กรุณายืนยันทั้งสองรายการเพื่อดำเนินการต่อ";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "ระบบห้องสมุด";
 "settings_account_ntust_system" = "ระบบสารสนเทศนักศึกษา";
 "settings_acknowledged" = "เข้าใจแล้ว";
+"settings_analytics_description" = "แชร์ข้อมูลการใช้งานแบบไม่ระบุตัวตน (หน้าที่เข้าชม, การใช้วิดเจ็ต) เพื่อช่วยพัฒนา TigerDuck";
+"settings_analytics_enabled" = "การวิเคราะห์การใช้งาน";
 "settings_assignment_due_reminder" = "การแจ้งเตือนการบ้านใกล้ครบกำหนด";
 "settings_browser_in_app" = "เบราว์เซอร์ในแอป";
 "settings_browser_system_default" = "เบราว์เซอร์เริ่มต้นของระบบ";

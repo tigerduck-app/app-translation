@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Demain %1$s",
         "widget_until_time": "Jusqu'à %1$s",
         "widget_week_light_desc": "Emploi du temps complet de la semaine. Le thème suit le réglage de l'application.",
-        "widget_week_light_label": "Emploi du temps (Semaine)"
+        "widget_week_light_label": "Emploi du temps (Semaine)",
+        "settings_analytics_enabled": "Analyse d'utilisation",
+        "settings_analytics_description": "Partage des données d'utilisation anonymes (pages visitées, utilisation des widgets) pour aider à améliorer TigerDuck",
+        "onboarding_analytics_label": "Analyse d'utilisation (facultatif)",
+        "onboarding_analytics_description": "Aide à améliorer TigerDuck en partageant de façon anonyme tes visites de pages et l'utilisation des widgets. Tu peux modifier ça à tout moment dans les Réglages."
     },
     "android": {
         "account_id_use_standard_keyboard": "Clavier standard",

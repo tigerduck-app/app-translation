@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "غدًا %1$s",
         "widget_until_time": "حتى %1$s",
         "widget_week_light_desc": "الجدول الدراسي الكامل لهذا الأسبوع. يتبع المظهر إعداد التطبيق.",
-        "widget_week_light_label": "الجدول الدراسي (أسبوعي)"
+        "widget_week_light_label": "الجدول الدراسي (أسبوعي)",
+        "settings_analytics_enabled": "تحليلات الاستخدام",
+        "settings_analytics_description": "شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck",
+        "onboarding_analytics_label": "تحليلات الاستخدام (اختياري)",
+        "onboarding_analytics_description": "ساعد في تحسين TigerDuck بمشاركة زيارات الصفحات واستخدام الأدوات بشكل مجهول. يمكنك تغيير هذا في أي وقت من الإعدادات."
     },
     "android": {
         "account_id_use_standard_keyboard": "لوحة مفاتيح قياسية",

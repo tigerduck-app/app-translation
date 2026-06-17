@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Sutra %1$s",
         "widget_until_time": "Do %1$s",
         "widget_week_light_desc": "Potpuni raspored za ovaj tjedan. Tema prati postavku aplikacije.",
-        "widget_week_light_label": "Raspored (tjedan)"
+        "widget_week_light_label": "Raspored (tjedan)",
+        "settings_analytics_enabled": "Analitika korištenja",
+        "settings_analytics_description": "Dijeli anonimne podatke o korištenju (posjećene stranice, korištenje widgeta) kako bi pomogao/la poboljšati TigerDuck",
+        "onboarding_analytics_label": "Analitika korištenja (neobavezno)",
+        "onboarding_analytics_description": "Pomozi poboljšati TigerDuck dijeljenjem anonimnih podataka o posjećenim stranicama i korištenju widgeta. To možeš promijeniti u bilo kojem trenutku u Postavkama."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardna tipkovnica",

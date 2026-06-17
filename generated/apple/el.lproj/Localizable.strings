@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 λεπτά πριν";
 "assignment_reminder_offset_8h" = "8 ώρες πριν";
 "assignment_status_overdue" = "Εκπρόθεσμο";
-"assignment_status_overdue_rejected" = "Εκπρόθεσμο (απορρίφθηκε)";
+"assignment_status_overdue_rejected" = "Εκπρόθεσμο (η υποβολή έκλεισε)";
 "assignment_status_submitted" = "Υποβλήθηκε";
 "assignment_status_submitted_late" = "Υποβλήθηκε καθυστερημένα";
 "assignment_time_days_with_suffix" = "%1$d ημέρες %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Το μάθημα ξεκινά σύντομα: %1$@";
 "notification_setup_description" = "Ενεργοποιήστε τις παρακάτω άδειες για να διασφαλίσετε ότι οι υπενθυμίσεις εργασιών, οι ειδοποιήσεις έναρξης μαθήματος και η ζωντανή δραστηριότητα παραδίδονται έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.";
 "notification_setup_title" = "Επαναδιαμόρφωση ειδοποιήσεων";
+"onboarding_analytics_description" = "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις.";
+"onboarding_analytics_label" = "Ανάλυση χρήσης (προαιρετικό)";
 "onboarding_permissions_subtitle" = "Παραχωρήστε αυτές τις άδειες ώστε οι υπενθυμίσεις εργασιών και μαθημάτων να φτάνουν έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή. Μπορείτε να τις αλλάξετε αργότερα στις Ρυθμίσεις.";
 "onboarding_permissions_title" = "Άδειες ειδοποιήσεων & υπενθυμίσεων";
 "onboarding_privacy_continue_hint" = "Επιβεβαιώστε και τα δύο στοιχεία για να συνεχίσετε";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Σύστημα βιβλιοθήκης";
 "settings_account_ntust_system" = "Ακαδημαϊκό σύστημα";
 "settings_acknowledged" = "Κατάλαβα";
+"settings_analytics_description" = "Μοιράσου ανώνυμα δεδομένα χρήσης (σελίδες που επισκέφτηκες, χρήση widget) για να βοηθήσεις στη βελτίωση του TigerDuck";
+"settings_analytics_enabled" = "Ανάλυση χρήσης";
 "settings_assignment_due_reminder" = "Υπενθυμίσεις λήξης εργασίας";
 "settings_browser_in_app" = "Ενσωματωμένος περιηγητής";
 "settings_browser_system_default" = "Προεπιλεγμένος περιηγητής συστήματος";

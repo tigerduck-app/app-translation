@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "I morgen %1$s",
         "widget_until_time": "Til %1$s",
         "widget_week_light_desc": "Full timeplan for denne uken. Tema følger appinnstillingen.",
-        "widget_week_light_label": "Timeplan (uke)"
+        "widget_week_light_label": "Timeplan (uke)",
+        "settings_analytics_enabled": "Bruksanalyse",
+        "settings_analytics_description": "Del anonyme bruksdata (besøkte sider, bruk av widgets) for å hjelpe med å forbedre TigerDuck",
+        "onboarding_analytics_label": "Bruksanalyse (valgfritt)",
+        "onboarding_analytics_description": "Hjelp til å forbedre TigerDuck ved å dele anonyme sidebesøk og bruk av widgets. Du kan endre dette når som helst i Innstillinger."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardtastatur",

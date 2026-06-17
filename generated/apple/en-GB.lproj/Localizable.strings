@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minutes before";
 "assignment_reminder_offset_8h" = "8 hours before";
 "assignment_status_overdue" = "Overdue";
-"assignment_status_overdue_rejected" = "Overdue (rejected)";
+"assignment_status_overdue_rejected" = "Overdue (submission closed)";
 "assignment_status_submitted" = "Submitted";
 "assignment_status_submitted_late" = "Submitted late";
 "assignment_time_days_with_suffix" = "%1$d days %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Class starting soon: %1$@";
 "notification_setup_description" = "Enable the permissions below to ensure assignment reminders, class-preparing alerts, and live activity arrive on time even when the app is closed.";
 "notification_setup_title" = "Reconfigure notifications";
+"onboarding_analytics_description" = "Help improve TigerDuck by sharing anonymised page visits and widget usage. You can change this anytime in Settings.";
+"onboarding_analytics_label" = "Usage analytics (optional)";
 "onboarding_permissions_subtitle" = "Grant these permissions so assignment and class reminders can arrive on time even when the app is closed. You can change them later in Settings.";
 "onboarding_permissions_title" = "Notification & reminder permissions";
 "onboarding_privacy_continue_hint" = "Confirm both items to continue";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Library system";
 "settings_account_ntust_system" = "School system";
 "settings_acknowledged" = "Got it";
+"settings_analytics_description" = "Share anonymised usage data (pages visited, widget usage) to help improve TigerDuck";
+"settings_analytics_enabled" = "Usage analytics";
 "settings_assignment_due_reminder" = "Assignment due reminders";
 "settings_browser_in_app" = "In-app browser";
 "settings_browser_system_default" = "System default browser";

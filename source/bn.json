@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "আগামীকাল %1$s",
         "widget_until_time": "%1$s পর্যন্ত",
         "widget_week_light_desc": "এই সপ্তাহের সম্পূর্ণ সময়সূচি। থিম অ্যাপ সেটিং অনুসরণ করে।",
-        "widget_week_light_label": "সময়সূচি (সপ্তাহ)"
+        "widget_week_light_label": "সময়সূচি (সপ্তাহ)",
+        "settings_analytics_enabled": "ব্যবহার বিশ্লেষণ",
+        "settings_analytics_description": "TigerDuck উন্নত করতে সাহায্য করতে বেনামী ব্যবহারের তথ্য (পরিদর্শন করা পেজ, উইজেট ব্যবহার) শেয়ার করুন",
+        "onboarding_analytics_label": "ব্যবহার বিশ্লেষণ (ঐচ্ছিক)",
+        "onboarding_analytics_description": "বেনামী পেজ ভিজিট ও উইজেট ব্যবহারের তথ্য শেয়ার করে TigerDuck উন্নত করতে সাহায্য করুন। আপনি যেকোনো সময় সেটিংসে এটি পরিবর্তন করতে পারবেন।"
     },
     "android": {
         "account_id_use_standard_keyboard": "স্ট্যান্ডার্ড কীবোর্ড",

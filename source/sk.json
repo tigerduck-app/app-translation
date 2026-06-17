@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Zajtra %1$s",
         "widget_until_time": "Do %1$s",
         "widget_week_light_desc": "Úplný rozvrh na tento týždeň. Téma sa riadi nastavením aplikácie.",
-        "widget_week_light_label": "Rozvrh (týždeň)"
+        "widget_week_light_label": "Rozvrh (týždeň)",
+        "settings_analytics_enabled": "Analytika používania",
+        "settings_analytics_description": "Zdieľaj anonymné údaje o používaní (navštívené stránky, používanie widgetov) a pomôž nám vylepšiť TigerDuck",
+        "onboarding_analytics_label": "Analytika používania (voliteľné)",
+        "onboarding_analytics_description": "Pomôž nám vylepšiť TigerDuck zdieľaním anonymných údajov o navštívených stránkach a používaní widgetov. Kedykoľvek to môžeš zmeniť v Nastaveniach."
     },
     "android": {
         "account_id_use_standard_keyboard": "Štandardná klávesnica",

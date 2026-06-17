@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "کل %1$s",
         "widget_until_time": "%1$s تک",
         "widget_week_light_desc": "اس ہفتے کا مکمل شیڈول۔ تھیم ایپ کی ترتیب کے مطابق ہے۔",
-        "widget_week_light_label": "شیڈول (ہفتہ)"
+        "widget_week_light_label": "شیڈول (ہفتہ)",
+        "settings_analytics_enabled": "استعمال کا تجزیہ",
+        "settings_analytics_description": "TigerDuck کو بہتر بنانے میں مدد کے لیے گمنام استعمال کا ڈیٹا (دیکھے گئے صفحات، ویجٹ استعمال) شیئر کریں",
+        "onboarding_analytics_label": "استعمال کا تجزیہ (اختیاری)",
+        "onboarding_analytics_description": "گمنام صفحہ وزٹ اور ویجٹ استعمال شیئر کر کے TigerDuck کو بہتر بنانے میں مدد کریں۔ آپ اسے کسی بھی وقت ترتیبات میں تبدیل کر سکتے ہیں۔"
     },
     "android": {
         "account_id_use_standard_keyboard": "معیاری کی بورڈ",

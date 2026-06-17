@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minuter tidigare";
 "assignment_reminder_offset_8h" = "8 timmar tidigare";
 "assignment_status_overdue" = "Försenad";
-"assignment_status_overdue_rejected" = "Försenad (avvisad)";
+"assignment_status_overdue_rejected" = "Försenad (inlämning stängd)";
 "assignment_status_submitted" = "Inlämnad";
 "assignment_status_submitted_late" = "Inlämnad för sent";
 "assignment_time_days_with_suffix" = "%1$d dagar %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Lektionen börjar snart: %1$@";
 "notification_setup_description" = "Aktivera behörigheterna nedan för att säkerställa att påminnelser om uppgifter, förlektion-varningar och liveaktivitet levereras i tid även när appen är stängd.";
 "notification_setup_title" = "Konfigurera om aviseringar";
+"onboarding_analytics_description" = "Hjälp till att förbättra TigerDuck genom att anonymt dela sidbesök och användning av widgets. Du kan ändra detta när som helst i Inställningar.";
+"onboarding_analytics_label" = "Användningsanalys (valfritt)";
 "onboarding_permissions_subtitle" = "Bevilja dessa behörigheter så att påminnelser om uppgifter och lektioner kan levereras i tid även när appen är stängd. Du kan ändra dem senare i Inställningar.";
 "onboarding_permissions_title" = "Aviserings- och påminnelsebehörigheter";
 "onboarding_privacy_continue_hint" = "Bekräfta båda punkterna för att fortsätta";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Bibliotekets system";
 "settings_account_ntust_system" = "Studentportal";
 "settings_acknowledged" = "Förstår";
+"settings_analytics_description" = "Dela anonym användningsdata (besökta sidor, användning av widgets) för att hjälpa till att förbättra TigerDuck";
+"settings_analytics_enabled" = "Användningsanalys";
 "settings_assignment_due_reminder" = "Påminnelser om uppgifter";
 "settings_browser_in_app" = "Webbläsare i appen";
 "settings_browser_system_default" = "Systemets standardwebbläsare";

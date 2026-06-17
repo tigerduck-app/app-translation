@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Mâine %1$s",
         "widget_until_time": "Până la %1$s",
         "widget_week_light_desc": "Orarul complet al săptămânii. Tema urmează setarea aplicației.",
-        "widget_week_light_label": "Orar (Săptămână)"
+        "widget_week_light_label": "Orar (Săptămână)",
+        "settings_analytics_enabled": "Analiză utilizare",
+        "settings_analytics_description": "Împărtășește date anonime despre utilizare (pagini vizitate, utilizarea widget-urilor) pentru a ajuta la îmbunătățirea TigerDuck",
+        "onboarding_analytics_label": "Analiză utilizare (opțional)",
+        "onboarding_analytics_description": "Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări."
     },
     "android": {
         "account_id_use_standard_keyboard": "Tastatură standard",

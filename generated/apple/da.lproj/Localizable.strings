@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minutter før";
 "assignment_reminder_offset_8h" = "8 timer før";
 "assignment_status_overdue" = "Overskredet";
-"assignment_status_overdue_rejected" = "Overskredet (afvist)";
+"assignment_status_overdue_rejected" = "Overskredet (aflevering lukket)";
 "assignment_status_submitted" = "Afleveret";
 "assignment_status_submitted_late" = "Afleveret for sent";
 "assignment_time_days_with_suffix" = "%1$d dage %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Undervisning begynder snart: %1$@";
 "notification_setup_description" = "Aktivér nedenstående tilladelser for at sikre, at opgavepåmindelser, advarsler om kommende undervisning og live-aktivitet ankommer til tiden, selv når appen er lukket.";
 "notification_setup_title" = "Rekonfigurer notifikationer";
+"onboarding_analytics_description" = "Hjælp med at forbedre TigerDuck ved at dele anonyme sidebesøg og brug af widgets. Du kan ændre dette til enhver tid i Indstillinger.";
+"onboarding_analytics_label" = "Brugsanalyse (valgfrit)";
 "onboarding_permissions_subtitle" = "Giv disse tilladelser, så opgave- og undervisningspåmindelser kan ankomme til tiden, selv når appen er lukket. Du kan ændre dem senere i Indstillinger.";
 "onboarding_permissions_title" = "Notifikations- og påmindelsestilladelser";
 "onboarding_privacy_continue_hint" = "Bekræft begge punkter for at fortsætte";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Bibliotekssystem";
 "settings_account_ntust_system" = "Studentportal";
 "settings_acknowledged" = "Forstået";
+"settings_analytics_description" = "Del anonyme brugsdata (besøgte sider, brug af widgets) for at hjælpe med at forbedre TigerDuck";
+"settings_analytics_enabled" = "Brugsanalyse";
 "settings_assignment_due_reminder" = "Påmindelser om opgavefrist";
 "settings_browser_in_app" = "Indbygget browser";
 "settings_browser_system_default" = "Systemets standardbrowser";

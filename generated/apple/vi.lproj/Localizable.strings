@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 phút trước";
 "assignment_reminder_offset_8h" = "8 giờ trước";
 "assignment_status_overdue" = "Quá hạn";
-"assignment_status_overdue_rejected" = "Quá hạn (bị từ chối)";
+"assignment_status_overdue_rejected" = "Quá hạn (đã đóng nộp bài)";
 "assignment_status_submitted" = "Đã nộp";
 "assignment_status_submitted_late" = "Nộp trễ";
 "assignment_time_days_with_suffix" = "%1$d ngày %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Sắp vào lớp: %1$@";
 "notification_setup_description" = "Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và hoạt động trực tiếp đến đúng giờ ngay cả khi ứng dụng đã đóng.";
 "notification_setup_title" = "Cài đặt lại thông báo";
+"onboarding_analytics_description" = "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt.";
+"onboarding_analytics_label" = "Phân tích sử dụng (tùy chọn)";
 "onboarding_permissions_subtitle" = "Cấp các quyền này để nhắc bài tập và nhắc lớp học có thể đến đúng giờ ngay cả khi ứng dụng đã đóng. Bạn có thể thay đổi sau trong Cài đặt.";
 "onboarding_permissions_title" = "Quyền thông báo và nhắc nhở";
 "onboarding_privacy_continue_hint" = "Xác nhận cả hai mục để tiếp tục";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Hệ thống thư viện";
 "settings_account_ntust_system" = "Hệ thống học vụ";
 "settings_acknowledged" = "Đã hiểu";
+"settings_analytics_description" = "Chia sẻ dữ liệu sử dụng ẩn danh (trang đã truy cập, sử dụng widget) để giúp cải thiện TigerDuck";
+"settings_analytics_enabled" = "Phân tích sử dụng";
 "settings_assignment_due_reminder" = "Nhắc bài tập sắp đến hạn";
 "settings_browser_in_app" = "Trình duyệt trong ứng dụng";
 "settings_browser_system_default" = "Trình duyệt mặc định của hệ thống";

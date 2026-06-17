@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 分鐘前";
 "assignment_reminder_offset_8h" = "8 小時前";
 "assignment_status_overdue" = "已逾期";
-"assignment_status_overdue_rejected" = "逾期未過";
+"assignment_status_overdue_rejected" = "逾期（已關閉繳交）";
 "assignment_status_submitted" = "已繳交";
 "assignment_status_submitted_late" = "逾期繳交";
 "assignment_time_days_with_suffix" = "%1$d天%2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "就快上堂：%1$@";
 "notification_setup_description" = "設定以下權限可確保功課提醒、就快上堂、即時動態喺 App 關閉時都可以準時送達。";
 "notification_setup_title" = "重新設定通知";
+"onboarding_analytics_description" = "分享匿名嘅頁面瀏覽同小工具使用資料，協助改善 TigerDuck。你可以隨時喺設定度更改。";
+"onboarding_analytics_label" = "使用分析（可選）";
 "onboarding_permissions_subtitle" = "允許以下權限後，即使 App 關閉，作業與即將上課提醒也能準時送達。可之後在設定中調整。";
 "onboarding_permissions_title" = "需要權限";
 "onboarding_privacy_continue_hint" = "請剔咗兩項先可以繼續";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "圖書館系統";
 "settings_account_ntust_system" = "校務系統";
 "settings_acknowledged" = "知道了";
+"settings_analytics_description" = "分享匿名使用資料（瀏覽頁面、小工具使用情形）以協助改善 TigerDuck";
+"settings_analytics_enabled" = "使用分析";
 "settings_assignment_due_reminder" = "作業到期提醒";
 "settings_browser_in_app" = "App 內瀏覽器";
 "settings_browser_system_default" = "系統預設瀏覽器";

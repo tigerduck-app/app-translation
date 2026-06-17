@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Á morgun %1$s",
         "widget_until_time": "Til %1$s",
         "widget_week_light_desc": "Heildar stundaskrá vikunnar. Þema fylgir forritsstillingu.",
-        "widget_week_light_label": "Stundaskrá (vika)"
+        "widget_week_light_label": "Stundaskrá (vika)",
+        "settings_analytics_enabled": "Notkunargreining",
+        "settings_analytics_description": "Deildu nafnlausum notkunargögnum (heimsóttum síðum, notkun widgets) til að hjálpa til við að bæta TigerDuck",
+        "onboarding_analytics_label": "Notkunargreining (valfrjálst)",
+        "onboarding_analytics_description": "Hjálpaðu til við að bæta TigerDuck með því að deila nafnlausum síðuheimsóknum og notkun widgets. Þú getur breytt þessu hvenær sem er í Stillingar."
     },
     "android": {
         "account_id_use_standard_keyboard": "Staðlað lyklaborð",

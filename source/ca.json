@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Demà %1$s",
         "widget_until_time": "Fins a %1$s",
         "widget_week_light_desc": "Horari de classes complet per a aquesta setmana. El tema segueix la configuració de l'aplicació.",
-        "widget_week_light_label": "Horari (setmana)"
+        "widget_week_light_label": "Horari (setmana)",
+        "settings_analytics_enabled": "Anàlisi d'ús",
+        "settings_analytics_description": "Comparteix dades d'ús anònimes (pàgines visitades, ús de widgets) per ajudar a millorar TigerDuck",
+        "onboarding_analytics_label": "Anàlisi d'ús (opcional)",
+        "onboarding_analytics_description": "Ajuda a millorar TigerDuck compartint visites de pàgines i ús de widgets de manera anònima. Pots canviar-ho en qualsevol moment a Configuració."
     },
     "android": {
         "account_id_use_standard_keyboard": "Teclat estàndard",

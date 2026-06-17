@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Rīt %1$s",
         "widget_until_time": "Līdz %1$s",
         "widget_week_light_desc": "Pilns šīs nedēļas stundu plāns. Tēma seko lietotnes iestatījumiem.",
-        "widget_week_light_label": "Stundu plāns (nedēļa)"
+        "widget_week_light_label": "Stundu plāns (nedēļa)",
+        "settings_analytics_enabled": "Lietošanas analītika",
+        "settings_analytics_description": "Dalies ar anonīmiem lietošanas datiem (apmeklētās lapas, sīkrīku lietošana), lai palīdzētu uzlabot TigerDuck",
+        "onboarding_analytics_label": "Lietošanas analītika (neobligāti)",
+        "onboarding_analytics_description": "Palīdzi uzlabot TigerDuck, daloties ar anonīmiem datiem par apmeklētajām lapām un sīkrīku lietošanu. To var mainīt jebkurā laikā Iestatījumos."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standarta tastatūra",

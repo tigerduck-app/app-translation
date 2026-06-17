@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Завтра %1$s",
         "widget_until_time": "До %1$s",
         "widget_week_light_desc": "Полное расписание на эту неделю. Тема следует настройкам приложения.",
-        "widget_week_light_label": "Расписание (неделя)"
+        "widget_week_light_label": "Расписание (неделя)",
+        "settings_analytics_enabled": "Аналитика использования",
+        "settings_analytics_description": "Делись анонимными данными об использовании (посещённые страницы, использование виджетов), чтобы помочь улучшить TigerDuck",
+        "onboarding_analytics_label": "Аналитика использования (необязательно)",
+        "onboarding_analytics_description": "Помоги улучшить TigerDuck, делясь анонимными данными о посещённых страницах и использовании виджетов. Изменить это можно в любой момент в Настройках."
     },
     "android": {
         "account_id_use_standard_keyboard": "Стандартная клавиатура",

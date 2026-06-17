@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 דקות לפני";
 "assignment_reminder_offset_8h" = "8 שעות לפני";
 "assignment_status_overdue" = "פג תוקף";
-"assignment_status_overdue_rejected" = "פג תוקף (נדחה)";
+"assignment_status_overdue_rejected" = "פג תוקף (ההגשה נסגרה)";
 "assignment_status_submitted" = "הוגש";
 "assignment_status_submitted_late" = "הוגש באיחור";
 "assignment_time_days_with_suffix" = "%1$d ימים %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "השיעור מתחיל בקרוב: %1$@";
 "notification_setup_description" = "הפעל את ההרשאות שלהלן כדי להבטיח שתזכורות מטלות, התראות לפני שיעור ופעילות חיה יגיעו בזמן גם כשהאפליקציה סגורה.";
 "notification_setup_title" = "הגדר מחדש התראות";
+"onboarding_analytics_description" = "עזור לשפר את TigerDuck על ידי שיתוף ביקורי דפים אנונימיים ושימוש בווידג'טים. אפשר לשנות זאת בכל עת בהגדרות.";
+"onboarding_analytics_label" = "ניתוח שימוש (אופציונלי)";
 "onboarding_permissions_subtitle" = "אשר הרשאות אלו כדי שתזכורות מטלות ושיעורים יגיעו בזמן גם כשהאפליקציה סגורה. ניתן לשנות מאוחר יותר בהגדרות.";
 "onboarding_permissions_title" = "הרשאות התראות ותזכורות";
 "onboarding_privacy_continue_hint" = "אשר את שני הפריטים כדי להמשיך";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "מערכת ספרייה";
 "settings_account_ntust_system" = "מערכת אקדמית";
 "settings_acknowledged" = "הבנתי";
+"settings_analytics_description" = "שתף נתוני שימוש אנונימיים (דפים שביקרת, שימוש בווידג'טים) כדי לעזור לשפר את TigerDuck";
+"settings_analytics_enabled" = "ניתוח שימוש";
 "settings_assignment_due_reminder" = "תזכורות לתאריך הגשת מטלה";
 "settings_browser_in_app" = "דפדפן מובנה";
 "settings_browser_system_default" = "דפדפן ברירת מחדל של המערכת";

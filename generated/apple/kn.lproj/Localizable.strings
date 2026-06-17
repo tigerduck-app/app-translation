@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 ನಿಮಿಷಗಳ ಪೂರ್ವದಲ್ಲಿ";
 "assignment_reminder_offset_8h" = "8 ಗಂಟೆಗಳ ಪೂರ್ವದಲ್ಲಿ";
 "assignment_status_overdue" = "ಗಡುವು ಮೀರಿದೆ";
-"assignment_status_overdue_rejected" = "ಗಡುವು ಮೀರಿದೆ (ತಿರಸ್ಕರಿಸಲಾಗಿದೆ)";
+"assignment_status_overdue_rejected" = "ಗಡುವು ಮೀರಿದೆ (ಸಲ್ಲಿಕೆ ಮುಚ್ಚಲಾಗಿದೆ)";
 "assignment_status_submitted" = "ಸಲ್ಲಿಸಲಾಗಿದೆ";
 "assignment_status_submitted_late" = "ತಡವಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ";
 "assignment_time_days_with_suffix" = "%1$d ದಿನ %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ: %1$@";
 "notification_setup_description" = "ಕಾರ್ಯ ಜ್ಞಾಪನೆಗಳು, ತರಗತಿ ಸಿದ್ಧತೆ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ತಲುಪುವಂತೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.";
 "notification_setup_title" = "ಅಧಿಸೂಚನೆಗಳನ್ನು ಮರುಸಂರಚಿಸಿ";
+"onboarding_analytics_description" = "ಅನಾಮಧೇಯ ಪುಟ ಭೇಟಿಗಳು ಮತ್ತು ವಿಜೆಟ್ ಬಳಕೆ ಹಂಚಿಕೊಂಡು TigerDuck ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಿ. ನೀವು ಇದನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.";
+"onboarding_analytics_label" = "ಬಳಕೆ ವಿಶ್ಲೇಷಣೆ (ಐಚ್ಛಿಕ)";
 "onboarding_permissions_subtitle" = "ಈ ಅನುಮತಿಗಳನ್ನು ನೀಡಿ ಇದರಿಂದ ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಕಾರ್ಯ ಮತ್ತು ತರಗತಿ ಜ್ಞಾಪನೆಗಳು ಸಮಯಕ್ಕೆ ತಲುಪುತ್ತವೆ. ನಂತರ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.";
 "onboarding_permissions_title" = "ಅಧಿಸೂಚನೆ ಮತ್ತು ಜ್ಞಾಪನೆ ಅನುಮತಿಗಳು";
 "onboarding_privacy_continue_hint" = "ಮುಂದುವರಿಸಲು ಎರಡೂ ಐಟಂಗಳನ್ನು ದೃಢೀಕರಿಸಿ";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "ಗ್ರಂಥಾಲಯ ವ್ಯವಸ್ಥೆ";
 "settings_account_ntust_system" = "ಶಾಲಾ ವ್ಯವಸ್ಥೆ";
 "settings_acknowledged" = "ತಿಳಿಯಿತು";
+"settings_analytics_description" = "TigerDuck ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಲು ಅನಾಮಧೇಯ ಬಳಕೆ ಡೇಟಾ (ಭೇಟಿ ನೀಡಿದ ಪುಟಗಳು, ವಿಜೆಟ್ ಬಳಕೆ) ಹಂಚಿಕೊಳ್ಳಿ";
+"settings_analytics_enabled" = "ಬಳಕೆ ವಿಶ್ಲೇಷಣೆ";
 "settings_assignment_due_reminder" = "ಕಾರ್ಯ ಗಡುವು ಜ್ಞಾಪನೆಗಳು";
 "settings_browser_in_app" = "ಅಪ್ಲಿಕೇಶನ್ ಒಳಗಿನ ಬ್ರೌಸರ್";
 "settings_browser_system_default" = "ಸಿಸ್ಟಂ ಡೀಫಾಲ್ಟ್ ಬ್ರೌಸರ್";

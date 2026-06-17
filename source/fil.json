@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Bukas %1$s",
         "widget_until_time": "Hanggang %1$s",
         "widget_week_light_desc": "Kumpletong iskedyul para sa linggong ito. Sumusunod ang tema sa setting ng app.",
-        "widget_week_light_label": "Iskedyul (Linggo)"
+        "widget_week_light_label": "Iskedyul (Linggo)",
+        "settings_analytics_enabled": "Analytics ng paggamit",
+        "settings_analytics_description": "Ibahagi ang anonymous na datos ng paggamit (mga page na binisita, paggamit ng widget) para mapabuti ang TigerDuck",
+        "onboarding_analytics_label": "Analytics ng paggamit (opsyonal)",
+        "onboarding_analytics_description": "Tulungan kaming mapabuti ang TigerDuck sa pamamagitan ng pagbabahagi ng iyong anonymous na mga page visit at paggamit ng widget. Maaari mong baguhin ito anumang oras sa Mga Setting."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standard na keyboard",

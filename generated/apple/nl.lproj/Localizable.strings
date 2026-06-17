@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minuten tevoren";
 "assignment_reminder_offset_8h" = "8 uur tevoren";
 "assignment_status_overdue" = "Verlopen";
-"assignment_status_overdue_rejected" = "Verlopen (afgewezen)";
+"assignment_status_overdue_rejected" = "Verlopen (inleveren gesloten)";
 "assignment_status_submitted" = "Ingeleverd";
 "assignment_status_submitted_late" = "Te laat ingeleverd";
 "assignment_time_days_with_suffix" = "%1$d dagen %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Les begint zo: %1$@";
 "notification_setup_description" = "Schakel de onderstaande machtigingen in zodat opdrachtherinneringen, meldingen voor lessen die zo beginnen en live activiteit op tijd binnenkomen, ook als de app gesloten is.";
 "notification_setup_title" = "Meldingen opnieuw configureren";
+"onboarding_analytics_description" = "Help TigerDuck te verbeteren door anoniem paginabezoeken en widgetgebruik te delen. Je kunt dit altijd wijzigen in Instellingen.";
+"onboarding_analytics_label" = "Gebruiksanalyse (optioneel)";
 "onboarding_permissions_subtitle" = "Verleen deze machtigingen zodat opdracht- en lesherinneringen op tijd kunnen aankomen, ook als de app gesloten is. Je kunt ze later wijzigen in Instellingen.";
 "onboarding_permissions_title" = "Machtigingen voor meldingen en herinneringen";
 "onboarding_privacy_continue_hint" = "Bevestig beide items om door te gaan";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Bibliotheeksysteem";
 "settings_account_ntust_system" = "Studentenportaal";
 "settings_acknowledged" = "Begrepen";
+"settings_analytics_description" = "Deel anonieme gebruiksgegevens (bezochte pagina's, gebruik van widgets) om TigerDuck te helpen verbeteren";
+"settings_analytics_enabled" = "Gebruiksanalyse";
 "settings_assignment_due_reminder" = "Herinneringen voor opdrachtdeadlines";
 "settings_browser_in_app" = "Browser in app";
 "settings_browser_system_default" = "Standaardbrowser van systeem";

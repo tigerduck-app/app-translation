@@ -66,7 +66,7 @@
     <string name="assignment_reminder_offset_5m">قبل 5 دقائق</string>
     <string name="assignment_reminder_offset_8h">قبل 8 ساعات</string>
     <string name="assignment_status_overdue">متأخر</string>
-    <string name="assignment_status_overdue_rejected">متأخر (مرفوض)</string>
+    <string name="assignment_status_overdue_rejected">متأخر (تم إغلاق التسليم)</string>
     <string name="assignment_status_submitted">تم التسليم</string>
     <string name="assignment_status_submitted_late">تم التسليم متأخرًا</string>
     <string name="assignment_time_days_with_suffix">%1$d أيام %2$s</string>
@@ -498,6 +498,8 @@
     <string name="notification_class_preparing_title">ستبدأ المحاضرة قريبًا: %1$s</string>
     <string name="notification_setup_description">فعّل الأذونات أدناه لضمان وصول تذكيرات الواجبات وتنبيهات بدء المحاضرات والتحديثات الفورية في وقتها حتى عند إغلاق التطبيق.</string>
     <string name="notification_setup_title">إعادة ضبط الإشعارات</string>
+    <string name="onboarding_analytics_description">ساعد في تحسين TigerDuck بمشاركة زيارات الصفحات واستخدام الأدوات بشكل مجهول. يمكنك تغيير هذا في أي وقت من الإعدادات.</string>
+    <string name="onboarding_analytics_label">تحليلات الاستخدام (اختياري)</string>
     <string name="onboarding_flavor_fdroid_description">أنت تستخدم نسخة F-Droid. بما أن سياسة F-Droid تحظر الاعتماد على خدمات Google (Firebase FCM وGMS وغيرها)، فإن الميزتين التاليتين غير متاحتين في هذه النسخة:\n\n1. تطبيق Wear OS المرافق\n2. إشعارات الإعلانات الفورية</string>
     <string name="onboarding_flavor_fdroid_title">إشعار نسخة F-Droid</string>
     <string name="onboarding_flavor_play_description">يتضمن TigerDuck تطبيقًا مرافقًا لـ Wear OS. اعرض رسائل الدروس على ساعتك — يقوم Wear TigerDuck بمزامنة المعلومات من هاتفك.</string>
@@ -621,6 +623,8 @@
     <string name="settings_account_library_system">نظام المكتبة</string>
     <string name="settings_account_ntust_system">النظام الأكاديمي</string>
     <string name="settings_acknowledged">حسنًا</string>
+    <string name="settings_analytics_description">شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck</string>
+    <string name="settings_analytics_enabled">تحليلات الاستخدام</string>
     <string name="settings_assignment_due_reminder">تذكيرات استحقاق الواجبات</string>
     <string name="settings_browser_in_app">متصفح داخل التطبيق</string>
     <string name="settings_browser_system_default">متصفح النظام الافتراضي</string>

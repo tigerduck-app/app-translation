@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 నిమిషాల ముందు";
 "assignment_reminder_offset_8h" = "8 గంటలకు ముందు";
 "assignment_status_overdue" = "గడువు మించింది";
-"assignment_status_overdue_rejected" = "గడువు మించింది (తిరస్కరించారు)";
+"assignment_status_overdue_rejected" = "గడువు మించింది (సమర్పణ మూసివేయబడింది)";
 "assignment_status_submitted" = "సమర్పించారు";
 "assignment_status_submitted_late" = "ఆలస్యంగా సమర్పించారు";
 "assignment_time_days_with_suffix" = "%1$d రోజులు %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "తరగతి త్వరలో మొదలవుతుంది: %1$@";
 "notification_setup_description" = "అసైన్‌మెంట్ రిమైండర్లు, తరగతి హెచ్చరికలు మరియు లైవ్ యాక్టివిటీ యాప్ మూసివేసినా సమయానికి వచ్చేలా కింది అనుమతులు ఆన్ చేయండి.";
 "notification_setup_title" = "నోటిఫికేషన్లు తిరిగి సెట్ చేయండి";
+"onboarding_analytics_description" = "అనామక పేజీ సందర్శనలు మరియు విజెట్ వినియోగాన్ని పంచుకుని TigerDuck మెరుగుపరచడంలో సహాయపడండి. మీరు ఇది ఎప్పుడైనా సెట్టింగ్‌లలో మార్చవచ్చు.";
+"onboarding_analytics_label" = "వినియోగ విశ్లేషణ (ఐచ్ఛికం)";
 "onboarding_permissions_subtitle" = "ఈ అనుమతులు ఇవ్వడం వల్ల అసైన్‌మెంట్ మరియు తరగతి రిమైండర్లు యాప్ మూసివేసినా సమయానికి వస్తాయి. తర్వాత సెట్టింగ్స్‌లో మార్చవచ్చు.";
 "onboarding_permissions_title" = "నోటిఫికేషన్ & రిమైండర్ అనుమతులు";
 "onboarding_privacy_continue_hint" = "కొనసాగించడానికి రెండు అంశాలను నిర్ధారించండి";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "లైబ్రరీ సిస్టమ్";
 "settings_account_ntust_system" = "అకాడెమిక్ సిస్టమ్";
 "settings_acknowledged" = "అర్థమైంది";
+"settings_analytics_description" = "TigerDuck మెరుగుపరచడానికి అనామక వినియోగ డేటా (సందర్శించిన పేజీలు, విజెట్ వినియోగం) పంచుకోండి";
+"settings_analytics_enabled" = "వినియోగ విశ్లేషణ";
 "settings_assignment_due_reminder" = "అసైన్‌మెంట్ గడువు రిమైండర్లు";
 "settings_browser_in_app" = "యాప్ లోపల బ్రౌజర్";
 "settings_browser_system_default" = "సిస్టమ్ డిఫాల్ట్ బ్రౌజర్";

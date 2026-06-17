@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minutit enne";
 "assignment_reminder_offset_8h" = "8 tundi enne";
 "assignment_status_overdue" = "Tähtaeg ületatud";
-"assignment_status_overdue_rejected" = "Tähtaeg ületatud (tagasi lükatud)";
+"assignment_status_overdue_rejected" = "Tähtaeg ületatud (esitamine suletud)";
 "assignment_status_submitted" = "Esitatud";
 "assignment_status_submitted_late" = "Hilinenult esitatud";
 "assignment_time_days_with_suffix" = "%1$d päeva %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Tund algab varsti: %1$@";
 "notification_setup_description" = "Lubage allpool olevad load, et ülesande meeldetuletused, tunni alguse teavitused ja reaalajas tegevus jõuaksid õigel ajal kohale isegi siis, kui rakendus on suletud.";
 "notification_setup_title" = "Seadista teavitused uuesti";
+"onboarding_analytics_description" = "Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta.";
+"onboarding_analytics_label" = "Kasutusanalüütika (valikuline)";
 "onboarding_permissions_subtitle" = "Andke need load, et ülesande ja tunni meeldetuletused jõuaksid õigel ajal kohale isegi siis, kui rakendus on suletud. Saate neid hiljem Seadetes muuta.";
 "onboarding_permissions_title" = "Teavituste ja meeldetuletuste load";
 "onboarding_privacy_continue_hint" = "Jätkamiseks kinnitage mõlemad punktid";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Raamatukogu süsteem";
 "settings_account_ntust_system" = "Akadeemiline süsteem";
 "settings_acknowledged" = "Selge";
+"settings_analytics_description" = "Jaga anonüümseid kasutusandmeid (külastatud lehed, vidinate kasutamine), et aidata TigerDucki paremaks muuta";
+"settings_analytics_enabled" = "Kasutusanalüütika";
 "settings_assignment_due_reminder" = "Ülesande tähtaja meeldetuletused";
 "settings_browser_in_app" = "Rakendusesisene brauser";
 "settings_browser_system_default" = "Süsteemi vaikebrauser";

@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "מחר %1$s",
         "widget_until_time": "עד %1$s",
         "widget_week_light_desc": "מערכת שעות מלאה לשבוע זה. הנושא עוקב אחר הגדרות האפליקציה.",
-        "widget_week_light_label": "מערכת שעות (שבוע)"
+        "widget_week_light_label": "מערכת שעות (שבוע)",
+        "settings_analytics_enabled": "ניתוח שימוש",
+        "settings_analytics_description": "שתף נתוני שימוש אנונימיים (דפים שביקרת, שימוש בווידג'טים) כדי לעזור לשפר את TigerDuck",
+        "onboarding_analytics_label": "ניתוח שימוש (אופציונלי)",
+        "onboarding_analytics_description": "עזור לשפר את TigerDuck על ידי שיתוף ביקורי דפים אנונימיים ושימוש בווידג'טים. אפשר לשנות זאת בכל עת בהגדרות."
     },
     "android": {
         "account_id_use_standard_keyboard": "מקלדת רגילה",

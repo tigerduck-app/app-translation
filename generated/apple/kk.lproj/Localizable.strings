@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 минут бұрын";
 "assignment_reminder_offset_8h" = "8 сағат бұрын";
 "assignment_status_overdue" = "Мерзімі өтіп кетті";
-"assignment_status_overdue_rejected" = "Мерзімі өтті (қабылданбады)";
+"assignment_status_overdue_rejected" = "Мерзімі өтті (тапсыру жабылды)";
 "assignment_status_submitted" = "Тапсырылды";
 "assignment_status_submitted_late" = "Кешіктіріліп тапсырылды";
 "assignment_time_days_with_suffix" = "%1$d күн %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Сабақ жақын басталады: %1$@";
 "notification_setup_description" = "Қолданба жабық болса да тапсырма еске салулары, сабақ басталу ескертулері және тікелей белсенділік уақытында жетуі үшін төмендегі рұқсаттарды қосыңыз.";
 "notification_setup_title" = "Хабарландыруларды қайта орнату";
+"onboarding_analytics_description" = "Қаралған беттер мен виджет пайдалануы туралы анонимді деректерді бөлісу арқылы TigerDuck-ты жақсартуға көмектесіңіз. Мұны Параметрлерде кез келген уақытта өзгертуге болады.";
+"onboarding_analytics_label" = "Пайдалану аналитикасы (міндетті емес)";
 "onboarding_permissions_subtitle" = "Қолданба жабық болса да тапсырма мен сабақ еске салулары уақытында жетуі үшін осы рұқсаттарды беріңіз. Оларды кейін Параметрлерде өзгертуге болады.";
 "onboarding_permissions_title" = "Хабарландыру және еске салу рұқсаттары";
 "onboarding_privacy_continue_hint" = "Жалғастыру үшін екі тармақты да растаңыз";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Кітапхана жүйесі";
 "settings_account_ntust_system" = "Оқу жүйесі";
 "settings_acknowledged" = "Түсінікті";
+"settings_analytics_description" = "TigerDuck-ты жақсартуға көмектесу үшін анонимді пайдалану деректерін (қаралған беттер, виджет пайдалануы) бөлісіңіз";
+"settings_analytics_enabled" = "Пайдалану аналитикасы";
 "settings_assignment_due_reminder" = "Тапсырма мерзімі туралы еске салулар";
 "settings_browser_in_app" = "Қолданба ішіндегі браузер";
 "settings_browser_system_default" = "Жүйенің әдепкі браузері";

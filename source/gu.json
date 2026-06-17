@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "આવતીકાલ %1$s",
         "widget_until_time": "%1$s સુધી",
         "widget_week_light_desc": "આ સપ્તાહનો સંપૂર્ણ શિડ્યૂલ. થીમ App સેટિંગ પ્રમાણે.",
-        "widget_week_light_label": "શિડ્યૂલ (સપ્તાહ)"
+        "widget_week_light_label": "શિડ્યૂલ (સપ્તાહ)",
+        "settings_analytics_enabled": "ઉપયોગ વિશ્લેષણ",
+        "settings_analytics_description": "TigerDuck સુધારવામાં મદદ કરવા અજ્ઞાત ઉપયોગ ડેટા (મુલાકાત લીધેલ પૃષ્ઠો, વિજેટ ઉપયોગ) શેર કરો",
+        "onboarding_analytics_label": "ઉપયોગ વિશ્લેષણ (વૈકલ્પિક)",
+        "onboarding_analytics_description": "અજ્ઞાત પૃષ્ઠ મુલાકાત અને વિજેટ ઉપયોગ શેર કરીને TigerDuck સુધારવામાં મદદ કરો. તમે આ ગમે ત્યારે સેટિંગ્સમાં બદલી શકો છો."
     },
     "android": {
         "account_id_use_standard_keyboard": "પ્રમાણભૂત કીબોર્ડ",

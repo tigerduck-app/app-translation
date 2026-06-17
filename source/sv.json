@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Imorgon %1$s",
         "widget_until_time": "Till %1$s",
         "widget_week_light_desc": "Fullständigt schema för den här veckan. Tema följer appinställning.",
-        "widget_week_light_label": "Schema (Vecka)"
+        "widget_week_light_label": "Schema (Vecka)",
+        "settings_analytics_enabled": "Användningsanalys",
+        "settings_analytics_description": "Dela anonym användningsdata (besökta sidor, användning av widgets) för att hjälpa till att förbättra TigerDuck",
+        "onboarding_analytics_label": "Användningsanalys (valfritt)",
+        "onboarding_analytics_description": "Hjälp till att förbättra TigerDuck genom att anonymt dela sidbesök och användning av widgets. Du kan ändra detta när som helst i Inställningar."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardtangentbord",

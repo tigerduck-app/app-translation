@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minutos antes";
 "assignment_reminder_offset_8h" = "8 horas antes";
 "assignment_status_overdue" = "Em atraso";
-"assignment_status_overdue_rejected" = "Em atraso (rejeitado)";
+"assignment_status_overdue_rejected" = "Em atraso (entrega encerrada)";
 "assignment_status_submitted" = "Entregue";
 "assignment_status_submitted_late" = "Entregue com atraso";
 "assignment_time_days_with_suffix" = "%1$d dias %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Aula a começar em breve: %1$@";
 "notification_setup_description" = "Ativa as permissões abaixo para garantir que os lembretes de trabalhos, os alertas de aulas a começar e a atividade em direto chegam a tempo, mesmo com a aplicação fechada.";
 "notification_setup_title" = "Reconfigurar notificações";
+"onboarding_analytics_description" = "Ajuda a melhorar o TigerDuck partilhando visitas a páginas e utilização de widgets de forma anónima. Podes alterar isto a qualquer momento nas Definições.";
+"onboarding_analytics_label" = "Análise de utilização (opcional)";
 "onboarding_permissions_subtitle" = "Concede estas permissões para que os lembretes de trabalhos e aulas cheguem a tempo, mesmo com a aplicação fechada. Podes alterá-las mais tarde nas Definições.";
 "onboarding_permissions_title" = "Permissões de notificações e lembretes";
 "onboarding_privacy_continue_hint" = "Confirme ambos os itens para continuar";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Sistema da biblioteca";
 "settings_account_ntust_system" = "Sistema académico";
 "settings_acknowledged" = "Entendido";
+"settings_analytics_description" = "Partilha dados de utilização anónimos (páginas visitadas, utilização de widgets) para ajudar a melhorar o TigerDuck";
+"settings_analytics_enabled" = "Análise de utilização";
 "settings_assignment_due_reminder" = "Lembretes de prazo de trabalhos";
 "settings_browser_in_app" = "Navegador integrado";
 "settings_browser_system_default" = "Navegador predefinido do sistema";

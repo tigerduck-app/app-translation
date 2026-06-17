@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Rytoj %1$s",
         "widget_until_time": "Iki %1$s",
         "widget_week_light_desc": "Pilnas šios savaitės tvarkaraštis. Tema atitinka programos nustatymą.",
-        "widget_week_light_label": "Tvarkaraštis (savaitė)"
+        "widget_week_light_label": "Tvarkaraštis (savaitė)",
+        "settings_analytics_enabled": "Naudojimo analizė",
+        "settings_analytics_description": "Dalinkis anonimais naudojimo duomenimis (lankyti puslapiai, valdiklių naudojimas), kad padėtum tobulinti TigerDuck",
+        "onboarding_analytics_label": "Naudojimo analizė (neprivaloma)",
+        "onboarding_analytics_description": "Padėk tobulinti TigerDuck dalindamasis anoniminiais duomenimis apie lankytus puslapius ir valdiklių naudojimą. Tai galite keisti bet kada Nustatymuose."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standartinė klaviatūra",

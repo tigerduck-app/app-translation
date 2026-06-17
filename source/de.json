@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Morgen %1$s",
         "widget_until_time": "Bis %1$s",
         "widget_week_light_desc": "Vollständiger Stundenplan dieser Woche. Das Design folgt der App-Einstellung.",
-        "widget_week_light_label": "Stundenplan (Woche)"
+        "widget_week_light_label": "Stundenplan (Woche)",
+        "settings_analytics_enabled": "Nutzungsanalyse",
+        "settings_analytics_description": "Teile anonyme Nutzungsdaten (besuchte Seiten, Widget-Nutzung), um TigerDuck zu verbessern",
+        "onboarding_analytics_label": "Nutzungsanalyse (optional)",
+        "onboarding_analytics_description": "Hilf dabei, TigerDuck zu verbessern, indem du anonyme Seitenaufrufe und Widget-Nutzung teilst. Du kannst das jederzeit in den Einstellungen ändern."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardtastatur",

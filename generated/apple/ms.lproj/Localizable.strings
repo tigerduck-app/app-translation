@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 menit sebelumnya";
 "assignment_reminder_offset_8h" = "8 jam sebelumnya";
 "assignment_status_overdue" = "Sudah tamat tempoh";
-"assignment_status_overdue_rejected" = "Tamat tempoh (ditolak)";
+"assignment_status_overdue_rejected" = "Tamat tempoh (penghantaran ditutup)";
 "assignment_status_submitted" = "Telah dihantar";
 "assignment_status_submitted_late" = "Dihantar lewat";
 "assignment_time_days_with_suffix" = "%1$d hari %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Kelas akan bermula: %1$@";
 "notification_setup_description" = "Aktifkan kebenaran di bawah untuk memastikan peringatan tugasan, amaran kelas akan bermula, dan aktiviti langsung tiba tepat pada masanya walaupun aplikasi ditutup.";
 "notification_setup_title" = "Konfigurasi semula pemberitahuan";
+"onboarding_analytics_description" = "Bantu tingkatkan TigerDuck dengan berkongsi lawatan halaman dan penggunaan widget secara tanpa nama. Anda boleh ubah ini bila-bila masa dalam Tetapan.";
+"onboarding_analytics_label" = "Analitik penggunaan (pilihan)";
 "onboarding_permissions_subtitle" = "Berikan kebenaran ini supaya peringatan tugasan dan kelas dapat tiba tepat pada masanya walaupun aplikasi ditutup. Anda boleh ubahnya kemudian dalam Tetapan.";
 "onboarding_permissions_title" = "Kebenaran pemberitahuan & peringatan";
 "onboarding_privacy_continue_hint" = "Sahkan kedua-dua item untuk meneruskan";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Sistem perpustakaan";
 "settings_account_ntust_system" = "Sistem akademik";
 "settings_acknowledged" = "Faham";
+"settings_analytics_description" = "Kongsi data penggunaan tanpa nama (halaman dilawati, penggunaan widget) untuk membantu meningkatkan TigerDuck";
+"settings_analytics_enabled" = "Analitik penggunaan";
 "settings_assignment_due_reminder" = "Peringatan tugasan hampir tamat";
 "settings_browser_in_app" = "Pelayar dalam aplikasi";
 "settings_browser_system_default" = "Pelayar lalai sistem";

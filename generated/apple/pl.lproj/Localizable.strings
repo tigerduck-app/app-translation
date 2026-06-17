@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minut wcześniej";
 "assignment_reminder_offset_8h" = "8 godzin wcześniej";
 "assignment_status_overdue" = "Po terminie";
-"assignment_status_overdue_rejected" = "Po terminie (odrzucone)";
+"assignment_status_overdue_rejected" = "Po terminie (przesyłanie zamknięte)";
 "assignment_status_submitted" = "Oddane";
 "assignment_status_submitted_late" = "Oddane po terminie";
 "assignment_time_days_with_suffix" = "%1$d dni %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Wkrótce zajęcia: %1$@";
 "notification_setup_description" = "Włączyć poniższe uprawnienia, aby przypomnienia o zadaniach, alerty o nadchodzących zajęciach oraz aktywność na żywo docierały na czas, nawet gdy aplikacja jest zamknięta.";
 "notification_setup_title" = "Skonfiguruj powiadomienia ponownie";
+"onboarding_analytics_description" = "Pomóż ulepszać TigerDuck, udostępniając anonimowe dane o odwiedzanych stronach i używaniu widgetów. Możesz to zmienić w dowolnym momencie w Ustawieniach.";
+"onboarding_analytics_label" = "Analityka użytkowania (opcjonalne)";
 "onboarding_permissions_subtitle" = "Przyznać te uprawnienia, aby przypomnienia o zadaniach i zajęciach docierały na czas, nawet gdy aplikacja jest zamknięta. Można je później zmienić w Ustawieniach.";
 "onboarding_permissions_title" = "Uprawnienia powiadomień i przypomnień";
 "onboarding_privacy_continue_hint" = "Aby kontynuować, potwierdź obie pozycje";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "System biblioteczny";
 "settings_account_ntust_system" = "System uczelniany";
 "settings_acknowledged" = "Rozumiem";
+"settings_analytics_description" = "Udostępniaj anonimowe dane o użytkowaniu (odwiedzone strony, używanie widgetów), aby pomóc ulepszać TigerDuck";
+"settings_analytics_enabled" = "Analityka użytkowania";
 "settings_assignment_due_reminder" = "Przypomnienia o terminach zadań";
 "settings_browser_in_app" = "Przeglądarka wbudowana";
 "settings_browser_system_default" = "Domyślna przeglądarka systemowa";

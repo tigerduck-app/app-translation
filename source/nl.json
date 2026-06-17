@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Morgen %1$s",
         "widget_until_time": "Tot %1$s",
         "widget_week_light_desc": "Volledig rooster voor deze week. Thema volgt de app-instelling.",
-        "widget_week_light_label": "Rooster (week)"
+        "widget_week_light_label": "Rooster (week)",
+        "settings_analytics_enabled": "Gebruiksanalyse",
+        "settings_analytics_description": "Deel anonieme gebruiksgegevens (bezochte pagina's, gebruik van widgets) om TigerDuck te helpen verbeteren",
+        "onboarding_analytics_label": "Gebruiksanalyse (optioneel)",
+        "onboarding_analytics_description": "Help TigerDuck te verbeteren door anoniem paginabezoeken en widgetgebruik te delen. Je kunt dit altijd wijzigen in Instellingen."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standaardtoetsenbord",

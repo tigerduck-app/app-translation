@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 минути преди";
 "assignment_reminder_offset_8h" = "8 часа преди";
 "assignment_status_overdue" = "Просрочено";
-"assignment_status_overdue_rejected" = "Просрочено (отхвърлено)";
+"assignment_status_overdue_rejected" = "Просрочено (предаването е затворено)";
 "assignment_status_submitted" = "Предадено";
 "assignment_status_submitted_late" = "Предадено закъсняло";
 "assignment_time_days_with_suffix" = "%1$d дни %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Час започва скоро: %1$@";
 "notification_setup_description" = "Активирайте разрешенията по-долу, за да се гарантира, че напомнянията за задания, предупрежденията за предстоящ час и динамичните дейности пристигат навреме дори когато приложението е затворено.";
 "notification_setup_title" = "Преконфигуриране на известия";
+"onboarding_analytics_description" = "Помогни за подобряването на TigerDuck, като споделяш анонимни данни за посетени страници и използване на виджети. Можеш да промениш това по всяко време в Настройки.";
+"onboarding_analytics_label" = "Анализ на използването (по избор)";
 "onboarding_permissions_subtitle" = "Предоставете тези разрешения, за да могат напомнянията за задания и часове да пристигат навреме дори когато приложението е затворено. Можете да ги промените по-късно в Настройки.";
 "onboarding_permissions_title" = "Разрешения за известия и напомняния";
 "onboarding_privacy_continue_hint" = "Потвърдете двата елемента, за да продължите";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Система на библиотека";
 "settings_account_ntust_system" = "Академична система";
 "settings_acknowledged" = "Разбрах";
+"settings_analytics_description" = "Споделяй анонимни данни за използването (посетени страници, използване на виджети), за да помогнеш за подобряването на TigerDuck";
+"settings_analytics_enabled" = "Анализ на използването";
 "settings_assignment_due_reminder" = "Напомняния за крайни срокове на задания";
 "settings_browser_in_app" = "Вграден браузър";
 "settings_browser_system_default" = "Системен браузър по подразбиране";

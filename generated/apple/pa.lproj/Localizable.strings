@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 ਮਿੰਟ ਪਹਿਲਾਂ";
 "assignment_reminder_offset_8h" = "8 ਘੰਟੇ ਪਹਿਲਾਂ";
 "assignment_status_overdue" = "ਮਿਆਦ ਪੁੱਗ ਗਈ";
-"assignment_status_overdue_rejected" = "ਮਿਆਦ ਪੁੱਗੀ (ਰੱਦ ਕੀਤਾ)";
+"assignment_status_overdue_rejected" = "ਮਿਆਦ ਪੁੱਗੀ (ਜਮ੍ਹਾਂ ਕਰਨਾ ਬੰਦ)";
 "assignment_status_submitted" = "ਜਮ੍ਹਾਂ ਕੀਤਾ";
 "assignment_status_submitted_late" = "ਦੇਰ ਨਾਲ ਜਮ੍ਹਾਂ ਕੀਤਾ";
 "assignment_time_days_with_suffix" = "%1$d ਦਿਨ %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ: %1$@";
 "notification_setup_description" = "ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਚਾਲੂ ਕਰੋ ਤਾਂ ਜੋ ਅਸਾਈਨਮੈਂਟ ਰੀਮਾਈਂਡਰ, ਕਲਾਸ-ਸ਼ੁਰੂ ਹੋਣ ਦੀਆਂ ਸੂਚਨਾਵਾਂ, ਅਤੇ ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਐਪ ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ ਸਮੇਂ 'ਤੇ ਪਹੁੰਚ ਸਕਣ।";
 "notification_setup_title" = "ਸੂਚਨਾਵਾਂ ਦੁਬਾਰਾ ਸੈੱਟ ਕਰੋ";
+"onboarding_analytics_description" = "ਅਗਿਆਤ ਪੰਨਾ ਵਿਜ਼ਿਟ ਅਤੇ ਵਿਜੇਟ ਵਰਤੋਂ ਸਾਂਝੀ ਕਰਕੇ TigerDuck ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰੋ। ਤੁਸੀਂ ਇਹ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਦਲ ਸਕਦੇ ਹੋ।";
+"onboarding_analytics_label" = "ਵਰਤੋਂ ਵਿਸ਼ਲੇਸ਼ਣ (ਵਿਕਲਪਿਕ)";
 "onboarding_permissions_subtitle" = "ਇਹ ਅਨੁਮਤੀਆਂ ਦਿਓ ਤਾਂ ਜੋ ਅਸਾਈਨਮੈਂਟ ਅਤੇ ਕਲਾਸ ਰੀਮਾਈਂਡਰ ਐਪ ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ ਸਮੇਂ 'ਤੇ ਪਹੁੰਚ ਸਕਣ। ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਦਲ ਸਕਦੇ ਹੋ।";
 "onboarding_permissions_title" = "ਸੂਚਨਾ ਅਤੇ ਰੀਮਾਈਂਡਰ ਅਨੁਮਤੀਆਂ";
 "onboarding_privacy_continue_hint" = "ਜਾਰੀ ਰੱਖਣ ਲਈ ਦੋਵੇਂ ਆਈਟਮਾਂ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "ਲਾਇਬ੍ਰੇਰੀ ਸਿਸਟਮ";
 "settings_account_ntust_system" = "ਅਕਾਦਮਿਕ ਸਿਸਟਮ";
 "settings_acknowledged" = "ਸਮਝ ਗਿਆ";
+"settings_analytics_description" = "TigerDuck ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਅਗਿਆਤ ਵਰਤੋਂ ਡੇਟਾ (ਵੇਖੇ ਗਏ ਪੰਨੇ, ਵਿਜੇਟ ਵਰਤੋਂ) ਸਾਂਝਾ ਕਰੋ";
+"settings_analytics_enabled" = "ਵਰਤੋਂ ਵਿਸ਼ਲੇਸ਼ਣ";
 "settings_assignment_due_reminder" = "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ";
 "settings_browser_in_app" = "ਐਪ ਦੇ ਅੰਦਰ ਬ੍ਰਾਊਜ਼ਰ";
 "settings_browser_system_default" = "ਸਿਸਟਮ ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ";

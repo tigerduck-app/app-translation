@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "قبل 5 دقائق";
 "assignment_reminder_offset_8h" = "قبل 8 ساعات";
 "assignment_status_overdue" = "متأخر";
-"assignment_status_overdue_rejected" = "متأخر (مرفوض)";
+"assignment_status_overdue_rejected" = "متأخر (تم إغلاق التسليم)";
 "assignment_status_submitted" = "تم التسليم";
 "assignment_status_submitted_late" = "تم التسليم متأخرًا";
 "assignment_time_days_with_suffix" = "%1$d أيام %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "ستبدأ المحاضرة قريبًا: %1$@";
 "notification_setup_description" = "فعّل الأذونات أدناه لضمان وصول تذكيرات الواجبات وتنبيهات بدء المحاضرات والنشاط المباشر في وقتها حتى عند إغلاق التطبيق.";
 "notification_setup_title" = "إعادة ضبط الإشعارات";
+"onboarding_analytics_description" = "ساعد في تحسين TigerDuck بمشاركة زيارات الصفحات واستخدام الأدوات بشكل مجهول. يمكنك تغيير هذا في أي وقت من الإعدادات.";
+"onboarding_analytics_label" = "تحليلات الاستخدام (اختياري)";
 "onboarding_permissions_subtitle" = "امنح هذه الأذونات لتصل تذكيرات الواجبات والمحاضرات في وقتها حتى عند إغلاق التطبيق. يمكنك تغييرها لاحقًا في الإعدادات.";
 "onboarding_permissions_title" = "أذونات الإشعارات والتذكيرات";
 "onboarding_privacy_continue_hint" = "يرجى تأكيد البندين للمتابعة";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "نظام المكتبة";
 "settings_account_ntust_system" = "النظام الأكاديمي";
 "settings_acknowledged" = "حسنًا";
+"settings_analytics_description" = "شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck";
+"settings_analytics_enabled" = "تحليلات الاستخدام";
 "settings_assignment_due_reminder" = "تذكيرات استحقاق الواجبات";
 "settings_browser_in_app" = "متصفح داخل التطبيق";
 "settings_browser_system_default" = "متصفح النظام الافتراضي";

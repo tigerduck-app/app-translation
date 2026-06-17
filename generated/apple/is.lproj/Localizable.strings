@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 mínútur áður";
 "assignment_reminder_offset_8h" = "8 klukkustundir áður";
 "assignment_status_overdue" = "Liðinn tími";
-"assignment_status_overdue_rejected" = "Liðinn tími (hafnað)";
+"assignment_status_overdue_rejected" = "Liðinn tími (skil lokuð)";
 "assignment_status_submitted" = "Skilað";
 "assignment_status_submitted_late" = "Skilað seint";
 "assignment_time_days_with_suffix" = "%1$d dagar %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Tími byrjar bráðum: %1$@";
 "notification_setup_description" = "Virkjaðu leyfi hér að neðan til að tryggja að verkefnaáminningar, tímaviðvaranir og bein virkni berist á réttum tíma jafnvel þegar forritið er lokað.";
 "notification_setup_title" = "Endursetja tilkynningar";
+"onboarding_analytics_description" = "Hjálpaðu til við að bæta TigerDuck með því að deila nafnlausum síðuheimsóknum og notkun widgets. Þú getur breytt þessu hvenær sem er í Stillingar.";
+"onboarding_analytics_label" = "Notkunargreining (valfrjálst)";
 "onboarding_permissions_subtitle" = "Veittu þessi leyfi svo verkefna- og tímaáminningar berist á réttum tíma jafnvel þegar forritið er lokað. Þú getur breytt þessum stillingum seinna.";
 "onboarding_permissions_title" = "Tilkynninga- og áminningarleyfi";
 "onboarding_privacy_continue_hint" = "Staðfestu bæði atriðin til að halda áfram";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Bókasafnskerfi";
 "settings_account_ntust_system" = "Námskerfi";
 "settings_acknowledged" = "Skil";
+"settings_analytics_description" = "Deildu nafnlausum notkunargögnum (heimsóttum síðum, notkun widgets) til að hjálpa til við að bæta TigerDuck";
+"settings_analytics_enabled" = "Notkunargreining";
 "settings_assignment_due_reminder" = "Verkefnaáminningar";
 "settings_browser_in_app" = "Innbyggðum vafra";
 "settings_browser_system_default" = "Sjálfgefinn kerfisvafrinn";

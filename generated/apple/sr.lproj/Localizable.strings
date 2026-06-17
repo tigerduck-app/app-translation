@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 минута раније";
 "assignment_reminder_offset_8h" = "8 сата раније";
 "assignment_status_overdue" = "Прекорачен рок";
-"assignment_status_overdue_rejected" = "Прекорачен рок (одбијено)";
+"assignment_status_overdue_rejected" = "Прекорачен рок (предаја затворена)";
 "assignment_status_submitted" = "Предато";
 "assignment_status_submitted_late" = "Предато са закашњењем";
 "assignment_time_days_with_suffix" = "%1$d дана %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Час ускоро почиње: %1$@";
 "notification_setup_description" = "Омогућите следеће дозволе да бисте осигурали да подсетници за задатке, упозорења о почетку часа и живе активности стижу на вријеме чак и кад је апликација затворена.";
 "notification_setup_title" = "Поново подеси обавештења";
+"onboarding_analytics_description" = "Помози у побољшању TigerDuck-а дељењем анонимних података о посећеним страницама и коришћењу виџета. Ово можеш променити у било ком тренутку у Подешавањима.";
+"onboarding_analytics_label" = "Аналитика коришћења (опционално)";
 "onboarding_permissions_subtitle" = "Доделите ове дозволе да би подсетници за задатке и часове стизали на вријеме чак и кад је апликација затворена. Можете их касније променити у Поставкама.";
 "onboarding_permissions_title" = "Дозволе за обавештења и подсетнике";
 "onboarding_privacy_continue_hint" = "Потврдите обе ставке да бисте наставили";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Библиотечки систем";
 "settings_account_ntust_system" = "Академски систем";
 "settings_acknowledged" = "Разумем";
+"settings_analytics_description" = "Дели анонимне податке о коришћењу (посећене странице, коришћење виџета) да би помогао у побољшању TigerDuck-а";
+"settings_analytics_enabled" = "Аналитика коришћења";
 "settings_assignment_due_reminder" = "Подсетници за рок задатка";
 "settings_browser_in_app" = "Уграђени претраживач";
 "settings_browser_system_default" = "Подразумевани системски претраживач";

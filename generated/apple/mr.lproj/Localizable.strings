@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 मिनिटे आधी";
 "assignment_reminder_offset_8h" = "8 तास आधी";
 "assignment_status_overdue" = "मुदत उलटली";
-"assignment_status_overdue_rejected" = "मुदत उलटली (नाकारले)";
+"assignment_status_overdue_rejected" = "मुदत उलटली (सबमिशन बंद)";
 "assignment_status_submitted" = "सादर केले";
 "assignment_status_submitted_late" = "उशिरा सादर केले";
 "assignment_time_days_with_suffix" = "%1$d दिवस %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "वर्ग लवकरच सुरू होणार: %1$@";
 "notification_setup_description" = "असाइनमेंट स्मरणपत्रे, वर्ग सुरू होण्याच्या सूचना आणि लाइव्ह ॲक्टिव्हिटी ॲप बंद असतानाही वेळेवर येण्यासाठी खालील परवानग्या सक्षम करा.";
 "notification_setup_title" = "अधिसूचना पुन्हा सेट करा";
+"onboarding_analytics_description" = "अनामिक पृष्ठ भेटी आणि विजेट वापर शेअर करून TigerDuck सुधारण्यास मदत करा. तुम्ही हे कधीही सेटिंग्जमध्ये बदलू शकता.";
+"onboarding_analytics_label" = "वापर विश्लेषण (पर्यायी)";
 "onboarding_permissions_subtitle" = "या परवानग्या द्या जेणेकरून असाइनमेंट आणि वर्ग स्मरणपत्रे ॲप बंद असतानाही वेळेवर येतील. तुम्ही नंतर सेटिंग्जमध्ये बदलू शकता.";
 "onboarding_permissions_title" = "अधिसूचना आणि स्मरणपत्र परवानग्या";
 "onboarding_privacy_continue_hint" = "पुढे सुरू ठेवण्यासाठी दोन्ही बाबींची पुष्टी करा";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "ग्रंथालय प्रणाली";
 "settings_account_ntust_system" = "शैक्षणिक प्रणाली";
 "settings_acknowledged" = "समजले";
+"settings_analytics_description" = "TigerDuck सुधारण्यास मदत करण्यासाठी अनामिक वापर डेटा (भेट दिलेली पृष्ठे, विजेट वापर) शेअर करा";
+"settings_analytics_enabled" = "वापर विश्लेषण";
 "settings_assignment_due_reminder" = "असाइनमेंट मुदत स्मरणपत्रे";
 "settings_browser_in_app" = "ॲप-अंतर्गत ब्राउझर";
 "settings_browser_system_default" = "सिस्टम डीफॉल्ट ब्राउझर";

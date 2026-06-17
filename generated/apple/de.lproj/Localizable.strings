@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 Minuten vorher";
 "assignment_reminder_offset_8h" = "8 Stunden vorher";
 "assignment_status_overdue" = "Überfällig";
-"assignment_status_overdue_rejected" = "Überfällig (abgelehnt)";
+"assignment_status_overdue_rejected" = "Überfällig (Abgabe geschlossen)";
 "assignment_status_submitted" = "Abgegeben";
 "assignment_status_submitted_late" = "Verspätet abgegeben";
 "assignment_time_days_with_suffix" = "%1$d Tage %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Unterricht beginnt bald: %1$@";
 "notification_setup_description" = "Aktivieren Sie die folgenden Berechtigungen, damit Aufgabenerinnerungen, Unterrichtsvorwarnungen und Live-Aktivität auch bei geschlossener App rechtzeitig eintreffen.";
 "notification_setup_title" = "Benachrichtigungen neu einrichten";
+"onboarding_analytics_description" = "Hilf dabei, TigerDuck zu verbessern, indem du anonyme Seitenaufrufe und Widget-Nutzung teilst. Du kannst das jederzeit in den Einstellungen ändern.";
+"onboarding_analytics_label" = "Nutzungsanalyse (optional)";
 "onboarding_permissions_subtitle" = "Erteilen Sie diese Berechtigungen, damit Aufgaben- und Unterrichtserinnerungen auch bei geschlossener App rechtzeitig eintreffen. Sie können dies später in den Einstellungen ändern.";
 "onboarding_permissions_title" = "Berechtigungen für Benachrichtigungen und Erinnerungen";
 "onboarding_privacy_continue_hint" = "Bestätige beide Punkte, um fortzufahren";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Bibliothekssystem";
 "settings_account_ntust_system" = "Hochschulsystem";
 "settings_acknowledged" = "Verstanden";
+"settings_analytics_description" = "Teile anonyme Nutzungsdaten (besuchte Seiten, Widget-Nutzung), um TigerDuck zu verbessern";
+"settings_analytics_enabled" = "Nutzungsanalyse";
 "settings_assignment_due_reminder" = "Erinnerungen an fällige Aufgaben";
 "settings_browser_in_app" = "In-App-Browser";
 "settings_browser_system_default" = "Standardbrowser des Systems";

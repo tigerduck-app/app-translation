@@ -66,7 +66,7 @@
     <string name="assignment_reminder_offset_5m">5 хвилин до</string>
     <string name="assignment_reminder_offset_8h">8 годин до</string>
     <string name="assignment_status_overdue">Прострочено</string>
-    <string name="assignment_status_overdue_rejected">Прострочено (відхилено)</string>
+    <string name="assignment_status_overdue_rejected">Прострочено (подання закрито)</string>
     <string name="assignment_status_submitted">Здано</string>
     <string name="assignment_status_submitted_late">Здано із запізненням</string>
     <string name="assignment_time_days_with_suffix">%1$d дн. %2$s</string>
@@ -498,6 +498,8 @@
     <string name="notification_class_preparing_title">Скоро початок заняття: %1$s</string>
     <string name="notification_setup_description">Увімкніть наведені нижче дозволи, щоб нагадування про завдання, сповіщення про початок заняття та новини в реальному часі надходили вчасно навіть тоді, коли застосунок закрито.</string>
     <string name="notification_setup_title">Переналаштувати сповіщення</string>
+    <string name="onboarding_analytics_description">Допоможи покращити TigerDuck, ділячись анонімними даними про відвідані сторінки та використання віджетів. Це можна змінити будь-коли в Налаштуваннях.</string>
+    <string name="onboarding_analytics_label">Аналітика використання (необов\'язково)</string>
     <string name="onboarding_flavor_fdroid_description">Ви використовуєте збірку F-Droid. Оскільки правила F-Droid забороняють залежність від сервісів Google (Firebase FCM, GMS тощо), у цій збірці недоступні дві наведені нижче функції:\n\n1. Супутній застосунок Wear OS\n2. Push-сповіщення в реальному часі</string>
     <string name="onboarding_flavor_fdroid_title">Сповіщення про збірку F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck містить супутній застосунок Wear OS. Переглядайте повідомлення занять на годиннику — Wear TigerDuck синхронізує дані з вашого телефона.</string>
@@ -621,6 +623,8 @@
     <string name="settings_account_library_system">Система бібліотеки</string>
     <string name="settings_account_ntust_system">Шкільна система</string>
     <string name="settings_acknowledged">Зрозуміло</string>
+    <string name="settings_analytics_description">Діліться анонімними даними про використання (відвідані сторінки, використання віджетів), щоб допомогти покращити TigerDuck</string>
+    <string name="settings_analytics_enabled">Аналітика використання</string>
     <string name="settings_assignment_due_reminder">Нагадування про дедлайн завдань</string>
     <string name="settings_browser_in_app">Вбудований браузер</string>
     <string name="settings_browser_system_default">Стандартний системний браузер</string>

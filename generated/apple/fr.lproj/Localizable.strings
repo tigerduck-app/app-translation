@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minutes avant";
 "assignment_reminder_offset_8h" = "8 heures avant";
 "assignment_status_overdue" = "En retard";
-"assignment_status_overdue_rejected" = "En retard (refusé)";
+"assignment_status_overdue_rejected" = "En retard (remise fermée)";
 "assignment_status_submitted" = "Rendu";
 "assignment_status_submitted_late" = "Rendu en retard";
 "assignment_time_days_with_suffix" = "%2$@ %1$d jours";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Cours imminent : %1$@";
 "notification_setup_description" = "Activez les autorisations ci-dessous pour vous assurer que les rappels de devoirs, les alertes avant les cours et l'activité en direct arrivent à temps, même lorsque l'application est fermée.";
 "notification_setup_title" = "Reconfigurer les notifications";
+"onboarding_analytics_description" = "Aide à améliorer TigerDuck en partageant de façon anonyme tes visites de pages et l'utilisation des widgets. Tu peux modifier ça à tout moment dans les Réglages.";
+"onboarding_analytics_label" = "Analyse d'utilisation (facultatif)";
 "onboarding_permissions_subtitle" = "Accordez ces autorisations pour que les rappels de devoirs et de cours arrivent à temps, même lorsque l'application est fermée. Vous pouvez les modifier plus tard dans les Paramètres.";
 "onboarding_permissions_title" = "Autorisations de notifications et de rappels";
 "onboarding_privacy_continue_hint" = "Confirmez les deux éléments pour continuer";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Système de la bibliothèque";
 "settings_account_ntust_system" = "Système universitaire";
 "settings_acknowledged" = "Compris";
+"settings_analytics_description" = "Partage des données d'utilisation anonymes (pages visitées, utilisation des widgets) pour aider à améliorer TigerDuck";
+"settings_analytics_enabled" = "Analyse d'utilisation";
 "settings_assignment_due_reminder" = "Rappels d'échéance des devoirs";
 "settings_browser_in_app" = "Navigateur intégré";
 "settings_browser_system_default" = "Navigateur par défaut du système";

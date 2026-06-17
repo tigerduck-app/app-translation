@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minuuttia ennen";
 "assignment_reminder_offset_8h" = "8 tuntia ennen";
 "assignment_status_overdue" = "Myöhässä";
-"assignment_status_overdue_rejected" = "Myöhässä (hylätty)";
+"assignment_status_overdue_rejected" = "Myöhässä (palautus suljettu)";
 "assignment_status_submitted" = "Palautettu";
 "assignment_status_submitted_late" = "Myöhässä palautettu";
 "assignment_time_days_with_suffix" = "%1$d päivää %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Tunti alkaa pian: %1$@";
 "notification_setup_description" = "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja live-toiminto saapuvat ajoissa myös sovelluksen ollessa suljettuna.";
 "notification_setup_title" = "Määritä ilmoitukset uudelleen";
+"onboarding_analytics_description" = "Auta kehittämään TigerDuckia jakamalla anonyymejä sivuvierailuja ja widgetien käyttötietoja. Voit muuttaa tätä milloin tahansa Asetuksista.";
+"onboarding_analytics_label" = "Käyttöanalytiikka (valinnainen)";
 "onboarding_permissions_subtitle" = "Myönnä nämä luvat, jotta tehtävä- ja tuntimuistutukset saapuvat ajoissa myös sovelluksen ollessa suljettuna. Voit muuttaa niitä myöhemmin asetuksissa.";
 "onboarding_permissions_title" = "Ilmoitus- ja muistutusluvat";
 "onboarding_privacy_continue_hint" = "Vahvista molemmat kohdat jatkaaksesi";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Kirjastojärjestelmä";
 "settings_account_ntust_system" = "Opiskelijaportaali";
 "settings_acknowledged" = "Selvä";
+"settings_analytics_description" = "Jaa anonyymiä käyttödataa (vieraillut sivut, widgetien käyttö) TigerDuckin kehittämiseksi";
+"settings_analytics_enabled" = "Käyttöanalytiikka";
 "settings_assignment_due_reminder" = "Tehtävän palautusmuistutukset";
 "settings_browser_in_app" = "Sovelluksen sisäinen selain";
 "settings_browser_system_default" = "Järjestelmän oletusselain";

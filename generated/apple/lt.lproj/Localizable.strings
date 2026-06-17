@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minutes prieš";
 "assignment_reminder_offset_8h" = "8 valandos prieš";
 "assignment_status_overdue" = "Praleistas terminas";
-"assignment_status_overdue_rejected" = "Praleistas terminas (atmesta)";
+"assignment_status_overdue_rejected" = "Praleistas terminas (pateikimas uždarytas)";
 "assignment_status_submitted" = "Pateikta";
 "assignment_status_submitted_late" = "Pateikta vėlai";
 "assignment_time_days_with_suffix" = "%1$d d. %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "Paskaita prasideda: %1$@";
 "notification_setup_description" = "Įjunkite toliau nurodytus leidimus, kad užduočių priminimai, paskaitų įspėjimai ir tiesioginė veikla būtų pristatomi laiku net uždarius programą.";
 "notification_setup_title" = "Iš naujo konfigūruoti pranešimus";
+"onboarding_analytics_description" = "Padėk tobulinti TigerDuck dalindamasis anoniminiais duomenimis apie lankytus puslapius ir valdiklių naudojimą. Tai galite keisti bet kada Nustatymuose.";
+"onboarding_analytics_label" = "Naudojimo analizė (neprivaloma)";
 "onboarding_permissions_subtitle" = "Suteikite šiuos leidimus, kad užduočių ir paskaitų priminimai būtų pristatomi laiku net uždarius programą. Vėliau galite keisti nustatymuose.";
 "onboarding_permissions_title" = "Pranešimų ir priminimų leidimai";
 "onboarding_privacy_continue_hint" = "Kad galėtumėte tęsti, patvirtinkite abu punktus";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Bibliotekos sistema";
 "settings_account_ntust_system" = "Mokyklos sistema";
 "settings_acknowledged" = "Supratau";
+"settings_analytics_description" = "Dalinkis anonimais naudojimo duomenimis (lankyti puslapiai, valdiklių naudojimas), kad padėtum tobulinti TigerDuck";
+"settings_analytics_enabled" = "Naudojimo analizė";
 "settings_assignment_due_reminder" = "Užduočių terminų priminimai";
 "settings_browser_in_app" = "Programos vidaus naršyklė";
 "settings_browser_system_default" = "Numatytoji sistemos naršyklė";

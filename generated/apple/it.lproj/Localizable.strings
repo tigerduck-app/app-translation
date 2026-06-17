@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 minuti prima";
 "assignment_reminder_offset_8h" = "8 ore prima";
 "assignment_status_overdue" = "Scaduto";
-"assignment_status_overdue_rejected" = "Scaduto (rifiutato)";
+"assignment_status_overdue_rejected" = "Scaduto (consegna chiusa)";
 "assignment_status_submitted" = "Consegnato";
 "assignment_status_submitted_late" = "Consegnato in ritardo";
 "assignment_time_days_with_suffix" = "%1$d giorni %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "La lezione sta per iniziare: %1$@";
 "notification_setup_description" = "Abilita le autorizzazioni qui sotto per assicurarti che i promemoria dei compiti, gli avvisi di preparazione lezione e l'attività in tempo reale arrivino in tempo anche quando l'app è chiusa.";
 "notification_setup_title" = "Riconfigura le notifiche";
+"onboarding_analytics_description" = "Aiuta a migliorare TigerDuck condividendo in modo anonimo le pagine visitate e l'utilizzo dei widget. Puoi cambiare questa impostazione in qualsiasi momento nelle Impostazioni.";
+"onboarding_analytics_label" = "Analisi dell'utilizzo (opzionale)";
 "onboarding_permissions_subtitle" = "Concedi queste autorizzazioni affinché i promemoria di compiti e lezioni arrivino in tempo anche quando l'app è chiusa. Potrai modificarli in seguito nelle Impostazioni.";
 "onboarding_permissions_title" = "Autorizzazioni notifiche e promemoria";
 "onboarding_privacy_continue_hint" = "Conferma entrambe le voci per continuare";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "Sistema biblioteca";
 "settings_account_ntust_system" = "Sistema accademico";
 "settings_acknowledged" = "Ho capito";
+"settings_analytics_description" = "Condividi dati d'uso anonimi (pagine visitate, utilizzo dei widget) per migliorare TigerDuck";
+"settings_analytics_enabled" = "Analisi dell'utilizzo";
 "settings_assignment_due_reminder" = "Promemoria scadenze compiti";
 "settings_browser_in_app" = "Browser interno all'app";
 "settings_browser_system_default" = "Browser predefinito di sistema";

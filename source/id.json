@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "Besok %1$s",
         "widget_until_time": "Hingga %1$s",
         "widget_week_light_desc": "Jadwal lengkap minggu ini. Tema mengikuti pengaturan aplikasi.",
-        "widget_week_light_label": "Jadwal (Mingguan)"
+        "widget_week_light_label": "Jadwal (Mingguan)",
+        "settings_analytics_enabled": "Analitik penggunaan",
+        "settings_analytics_description": "Bagikan data penggunaan anonim (halaman yang dikunjungi, penggunaan widget) untuk membantu meningkatkan TigerDuck",
+        "onboarding_analytics_label": "Analitik penggunaan (opsional)",
+        "onboarding_analytics_description": "Bantu tingkatkan TigerDuck dengan berbagi data anonim tentang halaman yang dikunjungi dan penggunaan widget. Kamu bisa mengubah ini kapan saja di Pengaturan."
     },
     "android": {
         "account_id_use_standard_keyboard": "Keyboard standar",

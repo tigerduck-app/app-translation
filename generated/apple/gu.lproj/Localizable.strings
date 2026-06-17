@@ -62,7 +62,7 @@
 "assignment_reminder_offset_5m" = "5 મિનિટ પહેલાં";
 "assignment_reminder_offset_8h" = "8 કલાક પહેલાં";
 "assignment_status_overdue" = "ઓવરડ્યૂ";
-"assignment_status_overdue_rejected" = "ઓવરડ્યૂ (અસ્વીકૃત)";
+"assignment_status_overdue_rejected" = "ઓવરડ્યૂ (સબમિશન બંધ)";
 "assignment_status_submitted" = "સબમિટ કર્યું";
 "assignment_status_submitted_late" = "મોડું સબમિટ";
 "assignment_time_days_with_suffix" = "%1$d દિવસ %2$@";
@@ -479,6 +479,8 @@
 "notification_class_preparing_title" = "વર્ગ ટૂંક સમયમાં શરૂ: %1$@";
 "notification_setup_description" = "નીચેની પરમિશન ચાલુ કરો જેથી App બંધ હોય ત્યારે પણ અસાઇનમેન્ટ રિમાઇન્ડર, ક્લાસ-તૈયારી એલર્ટ અને લાઇવ એક્ટિવિટી સમયસર આવે.";
 "notification_setup_title" = "નોટિફિકેશન ફરીથી ગોઠવો";
+"onboarding_analytics_description" = "અજ્ઞાત પૃષ્ઠ મુલાકાત અને વિજેટ ઉપયોગ શેર કરીને TigerDuck સુધારવામાં મદદ કરો. તમે આ ગમે ત્યારે સેટિંગ્સમાં બદલી શકો છો.";
+"onboarding_analytics_label" = "ઉપયોગ વિશ્લેષણ (વૈકલ્પિક)";
 "onboarding_permissions_subtitle" = "આ પરમિશન આપો જેથી App બંધ હોય ત્યારે પણ અસાઇનમેન્ટ અને ક્લાસ રિમાઇન્ડર સમયસર આવે. પછી Settings માં બદલી શકો છો.";
 "onboarding_permissions_title" = "નોટિફિકેશન અને રિમાઇન્ડર પરમિશન";
 "onboarding_privacy_continue_hint" = "ચાલુ રાખવા માટે બંને વસ્તુઓની પુષ્ટિ કરો";
@@ -598,6 +600,8 @@
 "settings_account_library_system" = "લાઇબ્રેરી સિસ્ટમ";
 "settings_account_ntust_system" = "શૈક્ષણિક સિસ્ટમ";
 "settings_acknowledged" = "સમજ્યા";
+"settings_analytics_description" = "TigerDuck સુધારવામાં મદદ કરવા અજ્ઞાત ઉપયોગ ડેટા (મુલાકાત લીધેલ પૃષ્ઠો, વિજેટ ઉપયોગ) શેર કરો";
+"settings_analytics_enabled" = "ઉપયોગ વિશ્લેષણ";
 "settings_assignment_due_reminder" = "અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર";
 "settings_browser_in_app" = "App ની અંદર બ્રાઉઝર";
 "settings_browser_system_default" = "સિસ્ટમ ડિફૉલ્ટ બ્રાઉઝર";

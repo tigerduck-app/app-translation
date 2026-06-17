@@ -745,7 +745,11 @@
         "widget_tomorrow_time": "明天 %1$s",
         "widget_until_time": "至 %1$s",
         "widget_week_light_desc": "本週完整課表，主題跟隨 App 設定",
-        "widget_week_light_label": "課表 週視圖"
+        "widget_week_light_label": "課表 週視圖",
+        "settings_analytics_enabled": "使用分析",
+        "settings_analytics_description": "分享匿名使用資料（瀏覽頁面、小工具使用情形）以協助改善 TigerDuck",
+        "onboarding_analytics_label": "使用分析（選填）",
+        "onboarding_analytics_description": "分享匿名的頁面瀏覽和小工具使用資料，協助改善 TigerDuck。你可以隨時在設定中更改。"
     },
     "android": {
         "account_id_use_standard_keyboard": "標準鍵盤",
