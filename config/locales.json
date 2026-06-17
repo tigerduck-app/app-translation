@@ -6,8 +6,8 @@
     "specialLocaleToDir": {
       "en": "values",
       "zh-Hant": "values-zh-rTW",
-      "tl": "fil",
-      "zh": "zh-Hans",
+      "tl": "values-fil",
+      "zh": "values-zh-rCN",
       "zh-Hans": "values-zh-rCN",
       "pt-BR": "values-pt-rBR",
       "pt-PT": "values-pt-rPT",
