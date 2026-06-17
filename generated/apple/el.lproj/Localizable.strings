@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d ακόμη";
 "desktop_widget_now" = "ΤΩΡΑ";
 "desktop_widget_starts_in" = "Ξεκινά σε %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "Το ID συσκευής αντιγράφηκε";
+"device_id_copy_action" = "Αντιγραφή ID συσκευής";
 "error_bulletin_decoding_failed_format" = "Αποτυχία ανάλυσης απάντησης ανακοινώσεων: %1$@";
 "error_bulletin_encoding_failed_format" = "Αποτυχία κωδικοποίησης αιτήματος ανακοινώσεων: %1$@";
 "error_bulletin_http_status_format" = "Ο διακομιστής ανακοινώσεων επέστρεψε HTTP %1$d: %2$@";

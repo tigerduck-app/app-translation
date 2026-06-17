@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d개 더";
 "desktop_widget_now" = "진행 중";
 "desktop_widget_starts_in" = "%@ 후 시작";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "기기 ID가 복사되었습니다";
+"device_id_copy_action" = "기기 ID 복사";
 "error_bulletin_decoding_failed_format" = "공지 응답 파싱에 실패했습니다: %1$@";
 "error_bulletin_encoding_failed_format" = "공지 요청 인코딩에 실패했습니다: %1$@";
 "error_bulletin_http_status_format" = "공지 서버가 HTTP %1$d을(를) 반환했습니다: %2$@";

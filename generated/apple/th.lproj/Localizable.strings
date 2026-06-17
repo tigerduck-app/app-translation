@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "อีก %1$d";
 "desktop_widget_now" = "ตอนนี้";
 "desktop_widget_starts_in" = "เริ่มใน %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "คัดลอก ID อุปกรณ์แล้ว";
+"device_id_copy_action" = "คัดลอก ID อุปกรณ์";
 "error_bulletin_decoding_failed_format" = "ไม่สามารถแยกวิเคราะห์ข้อมูลประกาศ: %1$@";
 "error_bulletin_encoding_failed_format" = "ไม่สามารถเข้ารหัสคำขอประกาศ: %1$@";
 "error_bulletin_http_status_format" = "เซิร์ฟเวอร์ประกาศส่งกลับ HTTP %1$d: %2$@";

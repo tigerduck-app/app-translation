@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d de plus</string>
     <string name="desktop_widget_now">MAINTENANT</string>
     <string name="desktop_widget_starts_in">Commence dans %@</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">ID de l\'appareil copié</string>
+    <string name="device_id_copy_action">Copier l\'ID de l\'appareil</string>
     <string name="error_bulletin_decoding_failed_format">Échec de l\'analyse de la réponse du bulletin : %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Échec de l\'encodage de la requête du bulletin : %1$@</string>
     <string name="error_bulletin_http_status_format">Le serveur de bulletins a renvoyé HTTP %1$d : %2$@</string>

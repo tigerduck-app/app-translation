@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d lagi";
 "desktop_widget_now" = "SEKARANG";
 "desktop_widget_starts_in" = "Dimulai dalam %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ID perangkat disalin";
+"device_id_copy_action" = "Salin ID perangkat";
 "error_bulletin_decoding_failed_format" = "Gagal mengurai respons buletin: %1$@";
 "error_bulletin_encoding_failed_format" = "Gagal mengkodekan permintaan buletin: %1$@";
 "error_bulletin_http_status_format" = "Server buletin mengembalikan HTTP %1$d: %2$@";

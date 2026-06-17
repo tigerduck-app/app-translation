@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">Почиње за %@</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">ID уређаја је копиран</string>
+    <string name="device_id_copy_action">Копирај ID уређаја</string>
     <string name="error_bulletin_decoding_failed_format">Анализа одговора огласне табле није успела: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Кодирање захтева огласне табле није успело: %1$@</string>
     <string name="error_bulletin_http_status_format">Сервер огласне табле је вратио HTTP %1$d: %2$@</string>

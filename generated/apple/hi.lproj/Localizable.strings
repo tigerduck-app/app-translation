@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d और";
 "desktop_widget_now" = "अभी";
 "desktop_widget_starts_in" = "%@ में शुरू होगा";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "डिवाइस ID कॉपी हो गया";
+"device_id_copy_action" = "डिवाइस ID कॉपी करें";
 "error_bulletin_decoding_failed_format" = "बुलेटिन प्रतिक्रिया पार्स करने में विफल: %1$@";
 "error_bulletin_encoding_failed_format" = "बुलेटिन अनुरोध एन्कोड करने में विफल: %1$@";
 "error_bulletin_http_status_format" = "बुलेटिन सर्वर ने HTTP %1$d लौटाया: %2$@";

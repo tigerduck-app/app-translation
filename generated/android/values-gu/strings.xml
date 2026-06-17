@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">%@ માં શરૂ થાય</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">ઉપકરણ ID કૉપિ થઈ</string>
+    <string name="device_id_copy_action">ઉપકરણ ID કૉપિ કરો</string>
     <string name="error_bulletin_decoding_failed_format">બુલેટિન પ્રતિસાદ પ્રોસેસ કરવામાં નિષ્ફળ: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">બુલેટિન વિનંતી એન્કોડ કરવામાં નિષ્ફળ: %1$@</string>
     <string name="error_bulletin_http_status_format">બુલેટિન સર્વરે HTTP %1$d આપ્યો: %2$@</string>

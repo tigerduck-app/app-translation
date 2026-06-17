@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">还有 %1$d 个</string>
     <string name="desktop_widget_now">进行中</string>
     <string name="desktop_widget_starts_in">%@ 后开始</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">已复制设备 ID</string>
+    <string name="device_id_copy_action">复制设备 ID</string>
     <string name="error_bulletin_decoding_failed_format">公告响应解析失败：%1$@</string>
     <string name="error_bulletin_encoding_failed_format">公告请求编码失败：%1$@</string>
     <string name="error_bulletin_http_status_format">公告服务器返回 HTTP %1$d：%2$@</string>

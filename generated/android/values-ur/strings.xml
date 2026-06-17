@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d اور</string>
     <string name="desktop_widget_now">ابھی</string>
     <string name="desktop_widget_starts_in">%@ میں شروع ہوگا</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">ڈیوائس ID کاپی ہو گئی</string>
+    <string name="device_id_copy_action">ڈیوائس ID کاپی کریں</string>
     <string name="error_bulletin_decoding_failed_format">اعلان کا جواب پارس نہیں ہوا: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">اعلان کی درخواست انکوڈ نہیں ہوئی: %1$@</string>
     <string name="error_bulletin_http_status_format">اعلان سرور نے HTTP %1$d واپس کیا: %2$@</string>

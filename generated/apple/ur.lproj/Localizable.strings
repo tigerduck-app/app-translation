@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d اور";
 "desktop_widget_now" = "ابھی";
 "desktop_widget_starts_in" = "%@ میں شروع ہوگا";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ڈیوائس ID کاپی ہو گئی";
+"device_id_copy_action" = "ڈیوائس ID کاپی کریں";
 "error_bulletin_decoding_failed_format" = "اعلان کا جواب پارس نہیں ہوا: %1$@";
 "error_bulletin_encoding_failed_format" = "اعلان کی درخواست انکوڈ نہیں ہوئی: %1$@";
 "error_bulletin_http_status_format" = "اعلان سرور نے HTTP %1$d واپس کیا: %2$@";

@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d meer";
 "desktop_widget_now" = "NU";
 "desktop_widget_starts_in" = "Begint over %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "Apparaat-ID gekopieerd";
+"device_id_copy_action" = "Apparaat-ID kopiëren";
 "error_bulletin_decoding_failed_format" = "Mededelingenrespons ontleden mislukt: %1$@";
 "error_bulletin_encoding_failed_format" = "Mededelingenverzoek coderen mislukt: %1$@";
 "error_bulletin_http_status_format" = "Mededelingenserver retourneerde HTTP %1$d: %2$@";

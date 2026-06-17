@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d más";
 "desktop_widget_now" = "AHORA";
 "desktop_widget_starts_in" = "Comienza en %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ID del dispositivo copiado";
+"device_id_copy_action" = "Copiar ID del dispositivo";
 "error_bulletin_decoding_failed_format" = "No se pudo analizar la respuesta del boletín: %1$@";
 "error_bulletin_encoding_failed_format" = "No se pudo codificar la solicitud del boletín: %1$@";
 "error_bulletin_http_status_format" = "El servidor del boletín devolvió HTTP %1$d: %2$@";

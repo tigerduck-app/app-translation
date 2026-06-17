@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d další</string>
     <string name="desktop_widget_now">TEĎ</string>
     <string name="desktop_widget_starts_in">Začíná za %@</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">ID zařízení zkopírováno</string>
+    <string name="device_id_copy_action">Kopírovat ID zařízení</string>
     <string name="error_bulletin_decoding_failed_format">Nepodařilo se zpracovat odpověď oznámení: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Nepodařilo se zakódovat požadavek oznámení: %1$@</string>
     <string name="error_bulletin_http_status_format">Server oznámení vrátil HTTP %1$d: %2$@</string>

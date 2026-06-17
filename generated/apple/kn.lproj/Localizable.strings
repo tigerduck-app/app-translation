@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "%@ ನಲ್ಲಿ ಪ್ರಾರಂಭ";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ಸಾಧನ ID ನಕಲಿಸಲಾಗಿದೆ";
+"device_id_copy_action" = "ಸಾಧನ ID ನಕಲಿಸಿ";
 "error_bulletin_decoding_failed_format" = "ಬುಲೆಟಿನ್ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಾರ್ಸ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ: %1$@";
 "error_bulletin_encoding_failed_format" = "ಬುಲೆಟಿನ್ ವಿನಂತಿಯನ್ನು ಎನ್‌ಕೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ: %1$@";
 "error_bulletin_http_status_format" = "ಬುಲೆಟಿನ್ ಸರ್ವರ್ HTTP %1$d ಹಿಂತಿರುಗಿಸಿದೆ: %2$@";

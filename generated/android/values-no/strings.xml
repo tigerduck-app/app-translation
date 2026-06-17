@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d til</string>
     <string name="desktop_widget_now">NÅ</string>
     <string name="desktop_widget_starts_in">Starter om %@</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">Enhets-ID kopiert</string>
+    <string name="device_id_copy_action">Kopier enhets-ID</string>
     <string name="error_bulletin_decoding_failed_format">Klarte ikke å tolke oppslagssvaret: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Klarte ikke å kode oppslagsforespørselen: %1$@</string>
     <string name="error_bulletin_http_status_format">Oppslagsserveren returnerte HTTP %1$d: %2$@</string>

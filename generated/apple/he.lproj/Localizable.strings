@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "‎+%1$d נוספים";
 "desktop_widget_now" = "כעת";
 "desktop_widget_starts_in" = "מתחיל בעוד %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ID המכשיר הועתק";
+"device_id_copy_action" = "העתק ID מכשיר";
 "error_bulletin_decoding_failed_format" = "עיבוד תגובת הלוח נכשל: %1$@";
 "error_bulletin_encoding_failed_format" = "קידוד בקשת הלוח נכשל: %1$@";
 "error_bulletin_http_status_format" = "שרת הלוח החזיר HTTP %1$d: %2$@";

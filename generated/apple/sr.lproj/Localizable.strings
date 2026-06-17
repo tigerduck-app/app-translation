@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d more";
 "desktop_widget_now" = "NOW";
 "desktop_widget_starts_in" = "Почиње за %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ID уређаја је копиран";
+"device_id_copy_action" = "Копирај ID уређаја";
 "error_bulletin_decoding_failed_format" = "Анализа одговора огласне табле није успела: %1$@";
 "error_bulletin_encoding_failed_format" = "Кодирање захтева огласне табле није успело: %1$@";
 "error_bulletin_http_status_format" = "Сервер огласне табле је вратио HTTP %1$d: %2$@";

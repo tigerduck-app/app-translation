@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d mere";
 "desktop_widget_now" = "NU";
 "desktop_widget_starts_in" = "Starter om %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "Enheds-ID kopieret";
+"device_id_copy_action" = "Kopiér enheds-ID";
 "error_bulletin_decoding_failed_format" = "Kunne ikke fortolke bulletinsvar: %1$@";
 "error_bulletin_encoding_failed_format" = "Kunne ikke kode bulletinanmodning: %1$@";
 "error_bulletin_http_status_format" = "Bulletinserveren returnerede HTTP %1$d: %2$@";

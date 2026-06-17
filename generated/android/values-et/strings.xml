@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">Algab %@ pärast</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">Seadme ID kopeeritud</string>
+    <string name="device_id_copy_action">Kopeeri seadme ID</string>
     <string name="error_bulletin_decoding_failed_format">Teadete vastuse parsimine ebaõnnestus: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Teadete päringu kodeerimine ebaõnnestus: %1$@</string>
     <string name="error_bulletin_http_status_format">Teadete server tagastas HTTP %1$d: %2$@</string>

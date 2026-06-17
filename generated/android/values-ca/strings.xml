@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">Comença en %@</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">ID del dispositiu copiada</string>
+    <string name="device_id_copy_action">Copia la ID del dispositiu</string>
     <string name="error_bulletin_decoding_failed_format">No s’ha pogut analitzar la resposta del butlletí: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">No s’ha pogut codificar la sol·licitud del butlletí: %1$@</string>
     <string name="error_bulletin_http_status_format">El servidor de butlletins ha retornat HTTP %1$d: %2$@</string>

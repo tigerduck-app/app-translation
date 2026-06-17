@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d ещё";
 "desktop_widget_now" = "СЕЙЧАС";
 "desktop_widget_starts_in" = "Начнётся через %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ID устройства скопирован";
+"device_id_copy_action" = "Скопировать ID устройства";
 "error_bulletin_decoding_failed_format" = "Не удалось разобрать ответ объявлений: %1$@";
 "error_bulletin_encoding_failed_format" = "Не удалось закодировать запрос объявлений: %1$@";
 "error_bulletin_http_status_format" = "Сервер объявлений вернул HTTP %1$d: %2$@";

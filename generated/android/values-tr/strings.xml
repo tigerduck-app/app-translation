@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d daha</string>
     <string name="desktop_widget_now">ŞİMDİ</string>
     <string name="desktop_widget_starts_in">%@ sonra başlıyor</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">Cihaz ID\'si kopyalandı</string>
+    <string name="device_id_copy_action">Cihaz ID\'sini kopyala</string>
     <string name="error_bulletin_decoding_failed_format">Duyuru yanıtı ayrıştırılamadı: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Duyuru isteği kodlanamadı: %1$@</string>
     <string name="error_bulletin_http_status_format">Duyuru sunucusu HTTP %1$d döndürdü: %2$@</string>

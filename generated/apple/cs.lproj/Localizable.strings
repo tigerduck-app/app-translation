@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "+%1$d další";
 "desktop_widget_now" = "TEĎ";
 "desktop_widget_starts_in" = "Začíná za %@";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "ID zařízení zkopírováno";
+"device_id_copy_action" = "Kopírovat ID zařízení";
 "error_bulletin_decoding_failed_format" = "Nepodařilo se zpracovat odpověď oznámení: %1$@";
 "error_bulletin_encoding_failed_format" = "Nepodařilo se zakódovat požadavek oznámení: %1$@";
 "error_bulletin_http_status_format" = "Server oznámení vrátil HTTP %1$d: %2$@";

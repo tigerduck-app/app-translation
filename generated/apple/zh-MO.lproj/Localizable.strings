@@ -289,8 +289,8 @@
 "desktop_widget_more_count" = "仲有 %1$d 個";
 "desktop_widget_now" = "進行緊";
 "desktop_widget_starts_in" = "%@ 後開始";
-"device_id_copied" = "Device ID copied";
-"device_id_copy_action" = "Copy device ID";
+"device_id_copied" = "已複製裝置 ID";
+"device_id_copy_action" = "複製裝置 ID";
 "error_bulletin_decoding_failed_format" = "公告回應解析失敗：%1$@";
 "error_bulletin_encoding_failed_format" = "公告請求編碼失敗：%1$@";
 "error_bulletin_http_status_format" = "公告伺服器回傳 HTTP %1$d：%2$@";

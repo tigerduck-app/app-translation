@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d till</string>
     <string name="desktop_widget_now">NU</string>
     <string name="desktop_widget_starts_in">Börjar om %@</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">Enhets-ID kopierat</string>
+    <string name="device_id_copy_action">Kopiera enhets-ID</string>
     <string name="error_bulletin_decoding_failed_format">Det gick inte att tolka anslagstavlans svar: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Det gick inte att koda anslagstavlans begäran: %1$@</string>
     <string name="error_bulletin_http_status_format">Anslagstavlans server returnerade HTTP %1$d: %2$@</string>

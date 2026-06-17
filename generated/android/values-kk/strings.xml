@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d more</string>
     <string name="desktop_widget_now">NOW</string>
     <string name="desktop_widget_starts_in">%@ кейін басталады</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">Құрылғы ID көшірілді</string>
+    <string name="device_id_copy_action">Құрылғы ID көшіру</string>
     <string name="error_bulletin_decoding_failed_format">Хабарландыру жауабын талдау сәтсіз: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Хабарландыру сұранысын кодтау сәтсіз: %1$@</string>
     <string name="error_bulletin_http_status_format">Хабарландыру сервері HTTP %1$d қайтарды: %2$@</string>

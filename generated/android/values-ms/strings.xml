@@ -293,8 +293,8 @@
     <string name="desktop_widget_more_count">+%1$d lagi</string>
     <string name="desktop_widget_now">SEKARANG</string>
     <string name="desktop_widget_starts_in">Bermula dalam %@</string>
-    <string name="device_id_copied">Device ID copied</string>
-    <string name="device_id_copy_action">Copy device ID</string>
+    <string name="device_id_copied">ID peranti disalin</string>
+    <string name="device_id_copy_action">Salin ID peranti</string>
     <string name="error_bulletin_decoding_failed_format">Gagal menghuraikan respons buletin: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Gagal mengekod permintaan buletin: %1$@</string>
     <string name="error_bulletin_http_status_format">Pelayan buletin mengembalikan HTTP %1$d: %2$@</string>
