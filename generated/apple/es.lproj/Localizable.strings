@@ -516,7 +516,7 @@
 "permission_warning_title" = "Permisos relacionados con notificaciones desactivados";
 "push_server_enable_toggle" = "Habilitar envío de servidor";
 "push_server_footer" = "Se utiliza para recibir notificaciones de boletines escolares en tiempo real y para activar recordatorios de forma activa.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Última inscripción";
 "push_server_last_sync" = "Última sincronización";
 "push_server_latest_error" = "Error reciente";

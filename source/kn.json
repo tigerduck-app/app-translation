@@ -501,7 +501,7 @@
         "permission_warning_title": "ಅಧಿಸೂಚನೆ ಸಂಬಂಧಿ ಅನುಮತಿಗಳು ಆಫ್ ಆಗಿವೆ",
         "push_server_enable_toggle": "ಸರ್ವರ್ ಪುಶ್ ಸಕ್ರಿಯಗೊಳಿಸಿ",
         "push_server_footer": "ನೈಜ-ಸಮಯದ ಶಾಲಾ ಬುಲೆಟಿನ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಲು ಮತ್ತು ಜ್ಞಾಪನೆಗಳನ್ನು ಸಕ್ರಿಯವಾಗಿ ಪ್ರಚೋದಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.",
-        "push_server_ids_section": "IDs",
+        "push_server_ids_section": "ID",
         "push_server_last_registration": "ಕೊನೆಯ ನೋಂದಣಿ",
         "push_server_last_sync": "ಕೊನೆಯ ಸಿಂಕ್",
         "push_server_latest_error": "ಇತ್ತೀಚಿನ ದೋಷ",

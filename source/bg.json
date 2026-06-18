@@ -501,7 +501,7 @@
         "permission_warning_title": "Разрешенията за известия са изключени",
         "push_server_enable_toggle": "Активирайте натискане на сървъра",
         "push_server_footer": "Използва се за получаване на известия за училищен бюлетин в реално време и за активно задействане на напомняния.",
-        "push_server_ids_section": "IDs",
+        "push_server_ids_section": "ID",
         "push_server_last_registration": "Последна регистрация",
         "push_server_last_sync": "Последна синхронизация",
         "push_server_latest_error": "Скорошна грешка",

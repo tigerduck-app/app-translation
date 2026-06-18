@@ -516,7 +516,7 @@
 "permission_warning_title" = "Benachrichtigungsbezogene Berechtigungen deaktiviert";
 "push_server_enable_toggle" = "Server-Push aktivieren";
 "push_server_footer" = "Wird verwendet, um Schulbulletin-Benachrichtigungen in Echtzeit zu erhalten und Erinnerungen aktiv auszulösen.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Letzte Anmeldung";
 "push_server_last_sync" = "Letzte Synchronisierung";
 "push_server_latest_error" = "Aktueller Fehler";

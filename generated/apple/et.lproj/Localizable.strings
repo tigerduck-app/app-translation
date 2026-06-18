@@ -516,7 +516,7 @@
 "permission_warning_title" = "Teavitusega seotud load on välja lülitatud";
 "push_server_enable_toggle" = "Luba serveri tõuge";
 "push_server_footer" = "Kasutatakse reaalajas koolibülletäänide teavituste saamiseks ja meeldetuletuste aktiivseks käivitamiseks.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Viimane registreerimine";
 "push_server_last_sync" = "Viimane sünkroonimine";
 "push_server_latest_error" = "Hiljutine viga";

@@ -516,7 +516,7 @@
 "permission_warning_title" = "Aviseringsrelaterade behörigheter är inaktiverade";
 "push_server_enable_toggle" = "Aktivera server-push";
 "push_server_footer" = "Används för att ta emot realtidsaviseringar från skolans anslagstavla och för att aktivt utlösa påminnelser.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Senaste registrering";
 "push_server_last_sync" = "Senaste synkronisering";
 "push_server_latest_error" = "Senaste fel";

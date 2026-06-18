@@ -516,7 +516,7 @@
 "permission_warning_title" = "Varslingsrelaterte tillatelser er slått av";
 "push_server_enable_toggle" = "Aktiver server-push";
 "push_server_footer" = "Brukes til å motta sanntidsvarsler fra skolens oppslagstavle og aktivt utløse påminnelser.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Siste registrering";
 "push_server_last_sync" = "Siste synkronisering";
 "push_server_latest_error" = "Nylig feil";

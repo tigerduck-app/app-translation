@@ -501,7 +501,7 @@
         "permission_warning_title": "अधिसूचना-संबंधित परवानग्या बंद केल्या आहेत",
         "push_server_enable_toggle": "सर्व्हर पुश सक्षम करा",
         "push_server_footer": "रिअल-टाइम शाळा बुलेटिन सूचना प्राप्त करण्यासाठी आणि स्मरणपत्रे सक्रियपणे ट्रिगर करण्यासाठी वापरले जाते.",
-        "push_server_ids_section": "IDs",
+        "push_server_ids_section": "ID",
         "push_server_last_registration": "शेवटची नोंदणी",
         "push_server_last_sync": "शेवटची समक्रमण",
         "push_server_latest_error": "अलीकडील त्रुटी",

@@ -501,7 +501,7 @@
         "permission_warning_title": "Permisos de notificació desactivats",
         "push_server_enable_toggle": "Habiliteu el servidor push",
         "push_server_footer": "S'utilitza per rebre notificacions de butlletins escolars en temps real i activar recordatoris de manera activa.",
-        "push_server_ids_section": "IDs",
+        "push_server_ids_section": "ID",
         "push_server_last_registration": "Última inscripció",
         "push_server_last_sync": "Última sincronització",
         "push_server_latest_error": "Error recent",

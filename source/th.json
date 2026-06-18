@@ -501,7 +501,7 @@
         "permission_warning_title": "สิทธิ์ที่เกี่ยวข้องกับการแจ้งเตือนถูกปิดอยู่",
         "push_server_enable_toggle": "Server-Push aktivieren",
         "push_server_footer": "Wird verwendet, um Schulbulletin-Benachrichtigungen in Echtzeit zu erhalten und Erinnerungen aktiv auszulösen.",
-        "push_server_ids_section": "IDs",
+        "push_server_ids_section": "ID",
         "push_server_last_registration": "การลงทะเบียนครั้งล่าสุด",
         "push_server_last_sync": "ซิงค์ล่าสุด",
         "push_server_latest_error": "ข้อผิดพลาดล่าสุด",

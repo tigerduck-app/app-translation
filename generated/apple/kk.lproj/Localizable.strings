@@ -516,7 +516,7 @@
 "permission_warning_title" = "Хабарландыруға қатысты рұқсаттар өшірілді";
 "push_server_enable_toggle" = "Сервер push-хабарламасын қосу";
 "push_server_footer" = "Мектептің жедел хабарландыруларын алу және еске салғыштарды белсенді іске қосу үшін пайдаланылады.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Соңғы тіркеу";
 "push_server_last_sync" = "Соңғы синхрондау";
 "push_server_latest_error" = "Соңғы қате";

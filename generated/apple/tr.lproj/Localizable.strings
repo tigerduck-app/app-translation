@@ -516,7 +516,7 @@
 "permission_warning_title" = "Bildirimle ilgili izinler kapalı";
 "push_server_enable_toggle" = "Sunucu push bildirimlerini etkinleştir";
 "push_server_footer" = "Gerçek zamanlı okul duyurusu bildirimleri almak ve hatırlatıcıları aktif olarak tetiklemek için kullanılır.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Son kayıt";
 "push_server_last_sync" = "Son senkronizasyon";
 "push_server_latest_error" = "Son hata";

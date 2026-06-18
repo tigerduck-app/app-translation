@@ -516,7 +516,7 @@
 "permission_warning_title" = "Notifikationsrelaterede tilladelser er slået fra";
 "push_server_enable_toggle" = "Aktiver server-push";
 "push_server_footer" = "Bruges til at modtage skolebulletinmeddelelser i realtid og til aktivt at udløse påmindelser.";
-"push_server_ids_section" = "IDs";
+"push_server_ids_section" = "ID";
 "push_server_last_registration" = "Sidste tilmelding";
 "push_server_last_sync" = "Sidste synkronisering";
 "push_server_latest_error" = "Seneste fejl";
