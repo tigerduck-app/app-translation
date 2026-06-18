@@ -168,6 +168,8 @@
         "class_table_rename_revert": "Επαναφορά προεπιλογής",
         "class_table_rename_title": "Μετονομασία",
         "class_table_rename_with_course": "Μετονομασία — %1$s",
+        "class_table_reset_message": "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.",
+        "class_table_reset_title": "Reset course table",
         "class_table_semester_picker_label": "Ακαδημαϊκό εξάμηνο",
         "class_table_sign_in_required_message": "Συνδεθείτε για να δείτε τον πίνακα της τάξης σας",
         "class_table_total_credits_value": "%1$d πιστωτικές μονάδες",

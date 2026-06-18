@@ -167,6 +167,8 @@
 "class_table_rename_revert" = "기본값으로 되돌리기";
 "class_table_rename_title" = "이름 바꾸기";
 "class_table_rename_with_course" = "이름 바꾸기 — %1$@";
+"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
+"class_table_reset_title" = "Reset course table";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "시간표를 보려면 로그인하세요";
 "class_table_total_credits_value" = "%1$d 학점";

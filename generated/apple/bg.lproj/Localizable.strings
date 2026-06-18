@@ -167,6 +167,8 @@
 "class_table_rename_revert" = "Връщане към подразбиране";
 "class_table_rename_title" = "Преименуване";
 "class_table_rename_with_course" = "Преименуване — %1$@";
+"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
+"class_table_reset_title" = "Reset course table";
 "class_table_semester_picker_label" = "Семестър";
 "class_table_sign_in_required_message" = "Влезте, за да видите таблицата на вашия клас";
 "class_table_total_credits_value" = "%1$d кредити";

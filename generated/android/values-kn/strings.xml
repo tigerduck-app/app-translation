@@ -171,6 +171,8 @@
     <string name="class_table_rename_revert">ಡೀಫಾಲ್ಟ್‌ಗೆ ಮರಳಿಸಿ</string>
     <string name="class_table_rename_title">ಮರುಹೆಸರಿಸಿ</string>
     <string name="class_table_rename_with_course">ಮರುಹೆಸರಿಸಿ — %1$s</string>
+    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
+    <string name="class_table_reset_title">Reset course table</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">ನಿಮ್ಮ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ನೋಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
     <string name="class_table_total_credits_value">%1$d ಕ್ರೆಡಿಟ್‌ಗಳು</string>

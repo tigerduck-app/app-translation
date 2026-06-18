@@ -171,6 +171,8 @@
     <string name="class_table_rename_revert">Palauta oletus</string>
     <string name="class_table_rename_title">Nimeä uudelleen</string>
     <string name="class_table_rename_with_course">Nimeä uudelleen — %1$s</string>
+    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
+    <string name="class_table_reset_title">Reset course table</string>
     <string name="class_table_semester_picker_label">Lukukausi</string>
     <string name="class_table_sign_in_required_message">Kirjaudu sisään nähdäksesi luokkataulukkosi</string>
     <string name="class_table_total_credits_value">%1$d opintopistettä</string>

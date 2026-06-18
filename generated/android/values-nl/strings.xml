@@ -171,6 +171,8 @@
     <string name="class_table_rename_revert">Standaard herstellen</string>
     <string name="class_table_rename_title">Naam wijzigen</string>
     <string name="class_table_rename_with_course">Naam wijzigen — %1$s</string>
+    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
+    <string name="class_table_reset_title">Reset course table</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Meld je aan om je rooster te bekijken</string>
     <string name="class_table_total_credits_value">%1$d studiepunten</string>

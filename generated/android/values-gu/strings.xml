@@ -171,6 +171,8 @@
     <string name="class_table_rename_revert">ડિફૉલ્ટ પર પાછા ફરો</string>
     <string name="class_table_rename_title">નામ બદલો</string>
     <string name="class_table_rename_with_course">નામ બદલો — %1$s</string>
+    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
+    <string name="class_table_reset_title">Reset course table</string>
     <string name="class_table_semester_picker_label">સેમેસ્ટર </string>
     <string name="class_table_sign_in_required_message">તમારું વર્ગ કોષ્ટક જોવા માટે સાઇન ઇન કરો</string>
     <string name="class_table_total_credits_value">%1$d ક્રેડિટ</string>

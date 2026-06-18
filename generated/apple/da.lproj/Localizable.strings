@@ -167,6 +167,8 @@
 "class_table_rename_revert" = "Gendan standard";
 "class_table_rename_title" = "Omdøb";
 "class_table_rename_with_course" = "Omdøb — %1$@";
+"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
+"class_table_reset_title" = "Reset course table";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Log ind for at se din klassetabel";
 "class_table_total_credits_value" = "%1$d ECTS-point";

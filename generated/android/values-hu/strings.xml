@@ -171,6 +171,8 @@
     <string name="class_table_rename_revert">Alapértelmezett visszaállítása</string>
     <string name="class_table_rename_title">Átnevezés</string>
     <string name="class_table_rename_with_course">Átnevezés — %1$s</string>
+    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
+    <string name="class_table_reset_title">Reset course table</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
     <string name="class_table_total_credits_value">%1$d kredit</string>

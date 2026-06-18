@@ -167,6 +167,8 @@
 "class_table_rename_revert" = "恢复默认";
 "class_table_rename_title" = "重命名";
 "class_table_rename_with_course" = "重命名 — %1$@";
+"class_table_reset_message" = "這會將你的課表重置為 Moodle 選課紀錄。被隱藏的課程會重新出現，手動新增的課程會被移除。";
+"class_table_reset_title" = "重置課表";
 "class_table_semester_picker_label" = "学期";
 "class_table_sign_in_required_message" = "请登录后查看课程表";
 "class_table_total_credits_value" = "%1$d 学分";
