@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">Restablecer predeterminado</string>
     <string name="class_table_rename_title">Renombrar</string>
     <string name="class_table_rename_with_course">Renombrar — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">Esto restablecerá tu horario de cursos para que coincida con tu inscripción en Moodle. Los cursos ocultos volverán a aparecer y los cursos añadidos manualmente se eliminarán.</string>
+    <string name="class_table_reset_title">Restablecer horario de cursos</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Inicia sesión para ver tu tabla de clases</string>
     <string name="class_table_total_credits_value">%1$d créditos</string>

@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">Әдепкіге қайтару</string>
     <string name="class_table_rename_title">Атауын өзгерту</string>
     <string name="class_table_rename_with_course">Атауын өзгерту — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">Бұл сабақ кестеңізді Moodle тіркелуіңізге сәйкестендіріп қалпына келтіреді. Жасырылған пәндер қайта пайда болады, ал қолмен қосылған пәндер жойылады.</string>
+    <string name="class_table_reset_title">Сабақ кестесін қалпына келтіру</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Сабақ кестесін қарау үшін жүйеге кіріңіз</string>
     <string name="class_table_total_credits_value">%1$d кредит</string>

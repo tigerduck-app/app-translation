@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">Ibalik sa default</string>
     <string name="class_table_rename_title">Palitan ng pangalan</string>
     <string name="class_table_rename_with_course">Palitan ng pangalan — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">Ire-reset nito ang iyong talaan ng kurso upang tumugma sa iyong Moodle enrollment. Muling lalabas ang mga nakatagong kurso at maaalis ang mga manu-manong idinagdag na kurso.</string>
+    <string name="class_table_reset_title">I-reset ang talaan ng kurso</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Mag-sign in upang tingnan ang iyong talahanayan ng klase</string>
     <string name="class_table_total_credits_value">%1$d na credit</string>

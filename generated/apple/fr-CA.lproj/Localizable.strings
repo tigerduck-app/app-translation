@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "Rétablir par défaut";
 "class_table_rename_title" = "Renommer";
 "class_table_rename_with_course" = "Renommer — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "Cela réinitialisera votre emploi du temps pour correspondre à votre inscription Moodle. Les cours masqués réapparaîtront et les cours ajoutés manuellement seront supprimés.";
+"class_table_reset_title" = "Réinitialiser l'emploi du temps";
 "class_table_semester_picker_label" = "Semestre";
 "class_table_sign_in_required_message" = "Connectez-vous pour voir votre tableau de classe";
 "class_table_total_credits_value" = "%1$d crédits";

@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">Obnovi privzeto</string>
     <string name="class_table_rename_title">Preimenuj</string>
     <string name="class_table_rename_with_course">Preimenuj — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">To bo ponastavilo vaš urnik predmetov glede na vpis v Moodle. Skriti predmeti se bodo ponovno prikazali, ročno dodani predmeti pa bodo odstranjeni.</string>
+    <string name="class_table_reset_title">Ponastavi urnik predmetov</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Prijavite se za ogled urnika</string>
     <string name="class_table_total_credits_value">%1$d kreditnih točk</string>

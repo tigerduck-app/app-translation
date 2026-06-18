@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "डिफ़ॉल्ट पर लौटें";
 "class_table_rename_title" = "नाम बदलें";
 "class_table_rename_with_course" = "नाम बदलें — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "यह आपकी कोर्स टेबल को आपके Moodle नामांकन के अनुसार रीसेट करेगा। छिपे हुए कोर्स फिर से दिखाई देंगे और मैन्युअल रूप से जोड़े गए कोर्स हटा दिए जाएंगे।";
+"class_table_reset_title" = "कोर्स टेबल रीसेट करें";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "अपनी क्लास टेबल देखने के लिए साइन इन करें";
 "class_table_total_credits_value" = "%1$d क्रेडिट";

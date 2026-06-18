@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">ਡਿਫਾਲਟ \'ਤੇ ਵਾਪਸ ਜਾਓ</string>
     <string name="class_table_rename_title">ਨਾਂ ਬਦਲੋ</string>
     <string name="class_table_rename_with_course">ਨਾਂ ਬਦਲੋ — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">ਇਹ ਤੁਹਾਡੀ ਕੋਰਸ ਟੇਬਲ ਨੂੰ ਤੁਹਾਡੀ Moodle ਨਾਮਾਂਕਣ ਨਾਲ ਮੇਲ ਖਾਂਦੀ ਰੀਸੈੱਟ ਕਰੇਗਾ। ਲੁਕੇ ਹੋਏ ਕੋਰਸ ਮੁੜ ਦਿਖਾਈ ਦੇਣਗੇ ਅਤੇ ਹੱਥੀਂ ਜੋੜੇ ਗਏ ਕੋਰਸ ਹਟਾ ਦਿੱਤੇ ਜਾਣਗੇ।</string>
+    <string name="class_table_reset_title">ਕੋਰਸ ਟੇਬਲ ਰੀਸੈੱਟ ਕਰੋ</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">ਆਪਣੀ ਕਲਾਸ ਟੇਬਲ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ</string>
     <string name="class_table_total_credits_value">%1$d ਕ੍ਰੈਡਿਟ</string>

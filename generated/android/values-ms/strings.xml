@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">Kembalikan ke lalai</string>
     <string name="class_table_rename_title">Namakan semula</string>
     <string name="class_table_rename_with_course">Namakan semula — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">Ini akan menetapkan semula jadual kursus anda agar sepadan dengan pendaftaran Moodle anda. Kursus yang disembunyikan akan muncul semula dan kursus yang ditambah secara manual akan dialih keluar.</string>
+    <string name="class_table_reset_title">Tetapkan semula jadual kursus</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Log masuk untuk melihat jadual kelas anda</string>
     <string name="class_table_total_credits_value">%1$d kredit</string>

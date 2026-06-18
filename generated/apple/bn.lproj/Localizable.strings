@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "ডিফল্টে ফিরে যান";
 "class_table_rename_title" = "নাম পরিবর্তন";
 "class_table_rename_with_course" = "নাম পরিবর্তন — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "এটি আপনার কোর্স সময়সূচি Moodle-এ আপনার তালিকাভুক্তির সাথে মিলিয়ে রিসেট করবে। লুকানো কোর্সগুলি আবার দেখা যাবে এবং ম্যানুয়ালি যোগ করা কোর্সগুলি মুছে ফেলা হবে।";
+"class_table_reset_title" = "কোর্স সময়সূচি রিসেট করুন";
 "class_table_semester_picker_label" = "সেমিস্টার";
 "class_table_sign_in_required_message" = "আপনার ক্লাস টেবিল দেখতে সাইন ইন করুন";
 "class_table_total_credits_value" = "%1$d ক্রেডিট";

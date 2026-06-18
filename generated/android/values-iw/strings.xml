@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">חזור לברירת המחדל</string>
     <string name="class_table_rename_title">שנה שם</string>
     <string name="class_table_rename_with_course">שנה שם — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">פעולה זו תאפס את מערכת השעות שלך לפי ההרשמה ב-Moodle. קורסים מוסתרים יופיעו מחדש וקורסים שנוספו ידנית יוסרו.</string>
+    <string name="class_table_reset_title">איפוס מערכת שעות</string>
     <string name="class_table_semester_picker_label">שנת הלימודים</string>
     <string name="class_table_sign_in_required_message">היכנס כדי להציג את טבלת הכיתה שלך</string>
     <string name="class_table_total_credits_value">%1$d נקודות זכות</string>

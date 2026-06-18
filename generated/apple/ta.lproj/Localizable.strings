@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "இயல்புநிலைக்கு மீட்டமை";
 "class_table_rename_title" = "மறுபெயரிடு";
 "class_table_rename_with_course" = "மறுபெயரிடு — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "இது உங்கள் பாடநேர அட்டவணையை உங்கள் Moodle பதிவுக்கு ஏற்ப மீட்டமைக்கும். மறைக்கப்பட்ட பாடங்கள் மீண்டும் தோன்றும் மற்றும் கைமுறையாக சேர்க்கப்பட்ட பாடங்கள் நீக்கப்படும்.";
+"class_table_reset_title" = "பாடநேர அட்டவணையை மீட்டமைக்கவும்";
 "class_table_semester_picker_label" = "பருவம்";
 "class_table_sign_in_required_message" = "உங்கள் வகுப்பு அட்டவணையை காண உள்நுழையவும்";
 "class_table_total_credits_value" = "%1$d கிரெடிட்கள்";

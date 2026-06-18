@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">Restaurar padrão</string>
     <string name="class_table_rename_title">Renomear</string>
     <string name="class_table_rename_with_course">Renomear — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">Isso vai redefinir sua grade de cursos para corresponder à sua matrícula no Moodle. Cursos ocultos reaparecerão e cursos adicionados manualmente serão removidos.</string>
+    <string name="class_table_reset_title">Redefinir grade de cursos</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Faça login para ver sua grade de aulas</string>
     <string name="class_table_total_credits_value">%1$d créditos</string>

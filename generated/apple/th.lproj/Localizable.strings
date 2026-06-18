@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "คืนค่าเริ่มต้น";
 "class_table_rename_title" = "เปลี่ยนชื่อ";
 "class_table_rename_with_course" = "เปลี่ยนชื่อ — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "การดำเนินการนี้จะรีเซ็ตตารางเรียนของคุณให้ตรงกับการลงทะเบียนใน Moodle รายวิชาที่ซ่อนไว้จะปรากฏขึ้นอีกครั้ง และรายวิชาที่เพิ่มด้วยตนเองจะถูกลบออก";
+"class_table_reset_title" = "รีเซ็ตตารางเรียน";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_total_credits_value" = "%1$d หน่วยกิต";

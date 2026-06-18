@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "Khôi phục mặc định";
 "class_table_rename_title" = "Đổi tên";
 "class_table_rename_with_course" = "Đổi tên — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "Thao tác này sẽ đặt lại lịch học của bạn theo đăng ký trên Moodle. Các môn đã ẩn sẽ hiển thị lại và các môn được thêm thủ công sẽ bị xóa.";
+"class_table_reset_title" = "Đặt lại lịch học";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Đăng nhập để xem thời khóa biểu";
 "class_table_total_credits_value" = "%1$d tín chỉ";

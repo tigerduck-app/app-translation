@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "Повернути до типового";
 "class_table_rename_title" = "Перейменувати";
 "class_table_rename_with_course" = "Перейменувати — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "Це скине ваш розклад відповідно до реєстрації в Moodle. Приховані курси з'являться знову, а додані вручну курси будуть видалені.";
+"class_table_reset_title" = "Скинути розклад";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Увійдіть, щоб переглянути розклад занять";
 "class_table_total_credits_value" = "%1$d кредитів";

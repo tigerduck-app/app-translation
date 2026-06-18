@@ -167,8 +167,8 @@
 "class_table_rename_revert" = "Obnovit výchozí";
 "class_table_rename_title" = "Přejmenovat";
 "class_table_rename_with_course" = "Přejmenovat — %1$@";
-"class_table_reset_message" = "This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.";
-"class_table_reset_title" = "Reset course table";
+"class_table_reset_message" = "Tímto se obnoví váš rozvrh předmětů podle zápisu v Moodle. Skryté předměty se znovu zobrazí a ručně přidané předměty budou odstraněny.";
+"class_table_reset_title" = "Obnovit rozvrh předmětů";
 "class_table_semester_picker_label" = "Semestr";
 "class_table_sign_in_required_message" = "Chcete-li zobrazit tabulku třídy, přihlaste se";
 "class_table_total_credits_value" = "%1$d kreditů";

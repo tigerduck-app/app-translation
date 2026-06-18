@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">Endurstilla á sjálfgefið</string>
     <string name="class_table_rename_title">Endurnefna</string>
     <string name="class_table_rename_with_course">Endurnefna — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">Þetta mun endurstilla stundatöfluna þína til að passa við Moodle-skráninguna þína. Faldir áfangar munu birtast aftur og handvirkt bættir áfangar verða fjarlægðir.</string>
+    <string name="class_table_reset_title">Endurstilla stundatöflu</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
     <string name="class_table_total_credits_value">%1$d einingar</string>

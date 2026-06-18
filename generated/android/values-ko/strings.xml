@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">기본값으로 되돌리기</string>
     <string name="class_table_rename_title">이름 바꾸기</string>
     <string name="class_table_rename_with_course">이름 바꾸기 — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">시간표가 Moodle 수강 등록에 맞게 초기화됩니다. 숨겨진 과목이 다시 표시되고, 수동으로 추가한 과목은 삭제됩니다.</string>
+    <string name="class_table_reset_title">시간표 초기화</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">시간표를 보려면 로그인하세요</string>
     <string name="class_table_total_credits_value">%1$d 학점</string>

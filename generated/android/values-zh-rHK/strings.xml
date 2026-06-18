@@ -171,8 +171,8 @@
     <string name="class_table_rename_revert">還原預設</string>
     <string name="class_table_rename_title">重新命名</string>
     <string name="class_table_rename_with_course">重新命名 — %1$s</string>
-    <string name="class_table_reset_message">This will reset your course table to match your Moodle enrollment. Hidden courses will reappear and manually added courses will be removed.</string>
-    <string name="class_table_reset_title">Reset course table</string>
+    <string name="class_table_reset_message">呢個會將你嘅課程表重設為 Moodle 選課紀錄。隱藏咗嘅課程會重新出現，手動新增嘅課程會被刪除。</string>
+    <string name="class_table_reset_title">重設課程表</string>
     <string name="class_table_semester_picker_label">學期</string>
     <string name="class_table_sign_in_required_message">尚未登入,無法查看課表</string>
     <string name="class_table_total_credits_value">%1$d 學分</string>
