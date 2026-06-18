@@ -704,6 +704,8 @@
     <string name="source_code_picker_repo_translation_description">UI ترجمہ</string>
     <string name="source_code_picker_repo_web_description">سرکاری ویب پیج</string>
     <string name="source_code_picker_section_repositories">ریپوزٹریز</string>
+    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
+    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
     <string name="sync_success_content_description">سنک کامیاب</string>
     <string name="tab_editor_apply_action">لागو کریں</string>
     <string name="tab_editor_drag_reorder">ترتیب بدلنے کے لیے گھسیٹیں</string>

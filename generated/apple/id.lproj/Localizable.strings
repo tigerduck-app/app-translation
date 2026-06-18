@@ -681,6 +681,8 @@
 "source_code_picker_repo_translation_description" = "Terjemahan antarmuka";
 "source_code_picker_repo_web_description" = "Halaman web resmi";
 "source_code_picker_section_repositories" = "Repositori";
+"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
+"sync_backend_session_expired_title" = "Backend Connection Failed";
 "sync_success_content_description" = "Sinkronisasi berhasil";
 "tab_editor_apply_action" = "Terapkan";
 "tab_editor_drag_reorder" = "Seret untuk mengurutkan";

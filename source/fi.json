@@ -751,7 +751,9 @@
         "settings_analytics_enabled": "Käyttöanalytiikka",
         "settings_analytics_description": "Jaa anonyymiä käyttödataa (vieraillut sivut, widgetien käyttö) TigerDuckin kehittämiseksi",
         "onboarding_analytics_label": "Käyttöanalytiikka (valinnainen)",
-        "onboarding_analytics_description": "Auta kehittämään TigerDuckia jakamalla anonyymejä sivuvierailuja ja widgetien käyttötietoja. Voit muuttaa tätä milloin tahansa Asetuksista."
+        "onboarding_analytics_description": "Auta kehittämään TigerDuckia jakamalla anonyymejä sivuvierailuja ja widgetien käyttötietoja. Voit muuttaa tätä milloin tahansa Asetuksista.",
+        "sync_backend_session_expired_title": "Backend Connection Failed",
+        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
     },
     "android": {
         "account_id_use_standard_keyboard": "Vakionäppäimistö",

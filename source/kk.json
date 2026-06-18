@@ -751,7 +751,9 @@
         "settings_analytics_enabled": "Пайдалану аналитикасы",
         "settings_analytics_description": "TigerDuck-ты жақсартуға көмектесу үшін анонимді пайдалану деректерін (қаралған беттер, виджет пайдалануы) бөлісіңіз",
         "onboarding_analytics_label": "Пайдалану аналитикасы (міндетті емес)",
-        "onboarding_analytics_description": "Қаралған беттер мен виджет пайдалануы туралы анонимді деректерді бөлісу арқылы TigerDuck-ты жақсартуға көмектесіңіз. Мұны Параметрлерде кез келген уақытта өзгертуге болады."
+        "onboarding_analytics_description": "Қаралған беттер мен виджет пайдалануы туралы анонимді деректерді бөлісу арқылы TigerDuck-ты жақсартуға көмектесіңіз. Мұны Параметрлерде кез келген уақытта өзгертуге болады.",
+        "sync_backend_session_expired_title": "Backend Connection Failed",
+        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
     },
     "android": {
         "account_id_use_standard_keyboard": "Стандартты пернетақта",

@@ -681,6 +681,8 @@
 "source_code_picker_repo_translation_description" = "界面翻译";
 "source_code_picker_repo_web_description" = "官方网页";
 "source_code_picker_section_repositories" = "代码仓库";
+"sync_backend_session_expired_message" = "請登出並重新登入校務系統，已重新啟用多裝置同步。";
+"sync_backend_session_expired_title" = "連接至後端伺服器失敗";
 "sync_success_content_description" = "同步成功";
 "tab_editor_apply_action" = "应用";
 "tab_editor_drag_reorder" = "拖动排序";

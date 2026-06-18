@@ -704,6 +704,8 @@
     <string name="source_code_picker_repo_translation_description">Pagsasalin ng UI</string>
     <string name="source_code_picker_repo_web_description">Opisyal na webpage</string>
     <string name="source_code_picker_section_repositories">Mga repository</string>
+    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
+    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
     <string name="sync_success_content_description">Matagumpay na na-sync</string>
     <string name="tab_editor_apply_action">Mag-apply</string>
     <string name="tab_editor_drag_reorder">I-drag para muling ayusin</string>

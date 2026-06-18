@@ -704,6 +704,8 @@
     <string name="source_code_picker_repo_translation_description">Arayüz çevirisi</string>
     <string name="source_code_picker_repo_web_description">Resmi web sayfası</string>
     <string name="source_code_picker_section_repositories">Depolar</string>
+    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
+    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
     <string name="sync_success_content_description">Eşitleme başarılı</string>
     <string name="tab_editor_apply_action">Uygula</string>
     <string name="tab_editor_drag_reorder">Sıralamak için sürükleyin</string>

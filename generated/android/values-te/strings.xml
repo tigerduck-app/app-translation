@@ -704,6 +704,8 @@
     <string name="source_code_picker_repo_translation_description">UI అనువాదం</string>
     <string name="source_code_picker_repo_web_description">అధికారిక వెబ్‌పేజీ</string>
     <string name="source_code_picker_section_repositories">రిపోజిటరీలు</string>
+    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
+    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
     <string name="sync_success_content_description">సమకాలీకరణ విజయవంతమైంది</string>
     <string name="tab_editor_apply_action">వర్తించు</string>
     <string name="tab_editor_drag_reorder">క్రమాన్ని మార్చడానికి లాగండి</string>

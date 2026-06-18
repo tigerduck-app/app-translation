@@ -751,7 +751,9 @@
         "settings_analytics_enabled": "Usage analytics",
         "settings_analytics_description": "Share anonymised usage data (pages visited, widget usage) to help improve TigerDuck",
         "onboarding_analytics_label": "Usage analytics (optional)",
-        "onboarding_analytics_description": "Help improve TigerDuck by sharing anonymised page visits and widget usage. You can change this anytime in Settings."
+        "onboarding_analytics_description": "Help improve TigerDuck by sharing anonymised page visits and widget usage. You can change this anytime in Settings.",
+        "sync_backend_session_expired_title": "Backend Connection Failed",
+        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standard keyboard",

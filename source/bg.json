@@ -751,7 +751,9 @@
         "settings_analytics_enabled": "Анализ на използването",
         "settings_analytics_description": "Споделяй анонимни данни за използването (посетени страници, използване на виджети), за да помогнеш за подобряването на TigerDuck",
         "onboarding_analytics_label": "Анализ на използването (по избор)",
-        "onboarding_analytics_description": "Помогни за подобряването на TigerDuck, като споделяш анонимни данни за посетени страници и използване на виджети. Можеш да промениш това по всяко време в Настройки."
+        "onboarding_analytics_description": "Помогни за подобряването на TigerDuck, като споделяш анонимни данни за посетени страници и използване на виджети. Можеш да промениш това по всяко време в Настройки.",
+        "sync_backend_session_expired_title": "Backend Connection Failed",
+        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
     },
     "android": {
         "account_id_use_standard_keyboard": "Стандартна клавиатура",
