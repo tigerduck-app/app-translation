@@ -704,8 +704,8 @@
     <string name="source_code_picker_repo_translation_description">ترجمة الواجهة</string>
     <string name="source_code_picker_repo_web_description">الموقع الرسمي</string>
     <string name="source_code_picker_section_repositories">المستودعات</string>
-    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
-    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
+    <string name="sync_backend_session_expired_message">يرجى تسجيل الخروج وإعادة تسجيل الدخول إلى نظام NTUST لإعادة تفعيل المزامنة متعددة الأجهزة.</string>
+    <string name="sync_backend_session_expired_title">فشل الاتصال بالخادم الخلفي</string>
     <string name="sync_success_content_description">تمت المزامنة بنجاح</string>
     <string name="tab_editor_apply_action">يتقدم</string>
     <string name="tab_editor_drag_reorder">اسحب لإعادة الترتيب</string>

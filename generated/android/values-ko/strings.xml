@@ -704,8 +704,8 @@
     <string name="source_code_picker_repo_translation_description">UI 번역</string>
     <string name="source_code_picker_repo_web_description">공식 웹페이지</string>
     <string name="source_code_picker_section_repositories">저장소</string>
-    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
-    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
+    <string name="sync_backend_session_expired_message">다중 기기 동기화를 다시 활성화하려면 NTUST 시스템에서 로그아웃 후 다시 로그인해 주세요.</string>
+    <string name="sync_backend_session_expired_title">서버 연결 실패</string>
     <string name="sync_success_content_description">동기화 성공</string>
     <string name="tab_editor_apply_action">적용</string>
     <string name="tab_editor_drag_reorder">끌어서 순서 변경</string>

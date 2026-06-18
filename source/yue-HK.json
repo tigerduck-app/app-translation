@@ -752,8 +752,8 @@
         "settings_analytics_description": "分享匿名使用資料（瀏覽頁面、小工具使用情形）以協助改善 TigerDuck",
         "onboarding_analytics_label": "使用分析（可選）",
         "onboarding_analytics_description": "分享匿名嘅頁面瀏覽同小工具使用資料，協助改善 TigerDuck。你可以隨時喺設定度更改。",
-        "sync_backend_session_expired_title": "Backend Connection Failed",
-        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
+        "sync_backend_session_expired_title": "連接後端伺服器失敗",
+        "sync_backend_session_expired_message": "請登出再重新登入校務系統，重新啟用多裝置同步。"
     },
     "android": {
         "account_id_use_standard_keyboard": "標準鍵盤",

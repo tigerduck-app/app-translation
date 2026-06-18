@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "UI-vertaling";
 "source_code_picker_repo_web_description" = "Officiële webpagina";
 "source_code_picker_section_repositories" = "Repositories";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "Meld u af en meld u opnieuw aan bij het NTUST-systeem om de synchronisatie tussen meerdere apparaten opnieuw in te schakelen.";
+"sync_backend_session_expired_title" = "Verbinding met server mislukt";
 "sync_success_content_description" = "Synchronisatie geslaagd";
 "tab_editor_apply_action" = "Toepassen";
 "tab_editor_drag_reorder" = "Sleep om opnieuw te ordenen";

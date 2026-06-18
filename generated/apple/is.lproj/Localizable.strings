@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "Þýðing viðmóts";
 "source_code_picker_repo_web_description" = "Opinber vefsíða";
 "source_code_picker_section_repositories" = "Geymslur";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "Vinsamlegast skráðu þig út og aftur inn í NTUST kerfið til að virkja samstillingu milli tækja aftur.";
+"sync_backend_session_expired_title" = "Tenging við þjón mistókst";
 "sync_success_content_description" = "Samstilling tókst";
 "tab_editor_apply_action" = "Nota";
 "tab_editor_drag_reorder" = "Dragðu til að raða";

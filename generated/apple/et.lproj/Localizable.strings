@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "UI tõlge";
 "source_code_picker_repo_web_description" = "Ametlik veebileht";
 "source_code_picker_section_repositories" = "Repositooriumid";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "Palun logige välja ja logige uuesti sisse NTUST süsteemi, et taasaktiveerida mitme seadme sünkroniseerimine.";
+"sync_backend_session_expired_title" = "Ühendus serveriga ebaõnnestus";
 "sync_success_content_description" = "Sünkroonimine õnnestus";
 "tab_editor_apply_action" = "Rakenda";
 "tab_editor_drag_reorder" = "Lohistage ümberjärjestamiseks";

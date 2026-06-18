@@ -752,8 +752,8 @@
         "settings_analytics_description": "TigerDuck-ஐ மேம்படுத்த உதவ அநாமதேய பயன்பாட்டு தரவு (பார்வையிட்ட பக்கங்கள், விட்ஜெட் பயன்பாடு) பகிரவும்",
         "onboarding_analytics_label": "பயன்பாட்டு பகுப்பாய்வு (விரும்பினால்)",
         "onboarding_analytics_description": "அநாமதேய பக்க வருகைகள் மற்றும் விட்ஜெட் பயன்பாட்டை பகிர்ந்து TigerDuck-ஐ மேம்படுத்த உதவுங்கள். இதை எப்போது வேண்டுமானாலும் அமைப்புகளில் மாற்றலாம்.",
-        "sync_backend_session_expired_title": "Backend Connection Failed",
-        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
+        "sync_backend_session_expired_title": "சேவையக இணைப்பு தோல்வி",
+        "sync_backend_session_expired_message": "பல சாதன ஒத்திசைவை மீண்டும் இயக்க, NTUST அமைப்பிலிருந்து வெளியேறி மீண்டும் உள்நுழையவும்."
     },
     "android": {
         "account_id_use_standard_keyboard": "நிலையான விசைப்பலகை",

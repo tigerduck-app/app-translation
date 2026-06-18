@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "UI అనువాదం";
 "source_code_picker_repo_web_description" = "అధికారిక వెబ్‌పేజీ";
 "source_code_picker_section_repositories" = "రిపోజిటరీలు";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "మల్టీ-డివైస్ సింక్‌ను మళ్ళీ ప్రారంభించడానికి దయచేసి NTUST సిస్టమ్ నుండి సైన్ అవుట్ చేసి మళ్ళీ సైన్ ఇన్ చేయండి.";
+"sync_backend_session_expired_title" = "బ్యాకెండ్ కనెక్షన్ విఫలమైంది";
 "sync_success_content_description" = "సమకాలీకరణ విజయవంతమైంది";
 "tab_editor_apply_action" = "వర్తించు";
 "tab_editor_drag_reorder" = "క్రమాన్ని మార్చడానికి లాగండి";

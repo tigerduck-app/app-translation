@@ -752,8 +752,8 @@
         "settings_analytics_description": "Zdieľaj anonymné údaje o používaní (navštívené stránky, používanie widgetov) a pomôž nám vylepšiť TigerDuck",
         "onboarding_analytics_label": "Analytika používania (voliteľné)",
         "onboarding_analytics_description": "Pomôž nám vylepšiť TigerDuck zdieľaním anonymných údajov o navštívených stránkach a používaní widgetov. Kedykoľvek to môžeš zmeniť v Nastaveniach.",
-        "sync_backend_session_expired_title": "Backend Connection Failed",
-        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
+        "sync_backend_session_expired_title": "Pripojenie k serveru zlyhalo",
+        "sync_backend_session_expired_message": "Odhláste sa a znova sa prihláste do systému NTUST, aby ste znova aktivovali synchronizáciu medzi zariadeniami."
     },
     "android": {
         "account_id_use_standard_keyboard": "Štandardná klávesnica",

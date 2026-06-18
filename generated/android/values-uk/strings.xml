@@ -704,8 +704,8 @@
     <string name="source_code_picker_repo_translation_description">Переклад інтерфейсу</string>
     <string name="source_code_picker_repo_web_description">Офіційна веб-сторінка</string>
     <string name="source_code_picker_section_repositories">Репозиторії</string>
-    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
-    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
+    <string name="sync_backend_session_expired_message">Будь ласка, вийдіть і увійдіть знову в систему NTUST, щоб повторно активувати синхронізацію між пристроями.</string>
+    <string name="sync_backend_session_expired_title">Помилка підключення до сервера</string>
     <string name="sync_success_content_description">Синхронізація успішна</string>
     <string name="tab_editor_apply_action">Застосувати</string>
     <string name="tab_editor_drag_reorder">Перетягніть, щоб змінити порядок</string>

@@ -704,8 +704,8 @@
     <string name="source_code_picker_repo_translation_description">UI અનુવાદ</string>
     <string name="source_code_picker_repo_web_description">સત્તાવાર વેબપેજ</string>
     <string name="source_code_picker_section_repositories">રિપોઝિટરી</string>
-    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
-    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
+    <string name="sync_backend_session_expired_message">મલ્ટી-ડિવાઇસ સિંક ફરીથી સક્ષમ કરવા માટે કૃપા કરીને NTUST સિસ્ટમમાંથી સાઇન આઉટ કરો અને ફરીથી સાઇન ઇન કરો.</string>
+    <string name="sync_backend_session_expired_title">બેકએન્ડ કનેક્શન નિષ્ફળ</string>
     <string name="sync_success_content_description">સિંક સફળ</string>
     <string name="tab_editor_apply_action">ઍપ્લાય કરો</string>
     <string name="tab_editor_drag_reorder">ક્રમ બદલવા ખેંચો</string>

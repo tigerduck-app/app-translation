@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "Переклад інтерфейсу";
 "source_code_picker_repo_web_description" = "Офіційна веб-сторінка";
 "source_code_picker_section_repositories" = "Репозиторії";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "Будь ласка, вийдіть і увійдіть знову в систему NTUST, щоб повторно активувати синхронізацію між пристроями.";
+"sync_backend_session_expired_title" = "Помилка підключення до сервера";
 "sync_success_content_description" = "Синхронізація успішна";
 "tab_editor_apply_action" = "Застосувати";
 "tab_editor_drag_reorder" = "Перетягніть, щоб змінити порядок";

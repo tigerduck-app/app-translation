@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "Traducció de la interfície";
 "source_code_picker_repo_web_description" = "Pàgina web oficial";
 "source_code_picker_section_repositories" = "Repositoris";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "Si us plau, tanqueu la sessió i torneu a iniciar sessió al sistema NTUST per reactivar la sincronització multidispositiu.";
+"sync_backend_session_expired_title" = "Error de connexió amb el servidor";
 "sync_success_content_description" = "Sincronització correcta";
 "tab_editor_apply_action" = "Aplicar";
 "tab_editor_drag_reorder" = "Arrossegueu per reordenar";

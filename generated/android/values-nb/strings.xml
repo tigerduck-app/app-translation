@@ -704,8 +704,8 @@
     <string name="source_code_picker_repo_translation_description">UI-oversettelse</string>
     <string name="source_code_picker_repo_web_description">Offisiell nettside</string>
     <string name="source_code_picker_section_repositories">Repositories</string>
-    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
-    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
+    <string name="sync_backend_session_expired_message">Vennligst logg ut og logg inn igjen i NTUST-systemet for å reaktivere synkronisering mellom enheter.</string>
+    <string name="sync_backend_session_expired_title">Tilkobling til server mislyktes</string>
     <string name="sync_success_content_description">Synkronisering vellykket</string>
     <string name="tab_editor_apply_action">Bruk</string>
     <string name="tab_editor_drag_reorder">Dra for å endre rekkefølge</string>

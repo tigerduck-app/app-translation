@@ -752,8 +752,8 @@
         "settings_analytics_description": "匿名の利用データ（閲覧ページ、ウィジェットの使用状況）を共有して、TigerDuck の改善にご協力ください",
         "onboarding_analytics_label": "利用状況の分析（任意）",
         "onboarding_analytics_description": "閲覧ページやウィジェットの使用状況に関する匿名データを共有して、TigerDuck の改善にご協力ください。設定からいつでも変更できます。",
-        "sync_backend_session_expired_title": "Backend Connection Failed",
-        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
+        "sync_backend_session_expired_title": "サーバー接続に失敗しました",
+        "sync_backend_session_expired_message": "NTUSTシステムからサインアウトし、再度サインインしてマルチデバイス同期を再有効化してください。"
     },
     "android": {
         "account_id_use_standard_keyboard": "標準キーボード",

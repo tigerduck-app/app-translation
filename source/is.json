@@ -752,8 +752,8 @@
         "settings_analytics_description": "Deildu nafnlausum notkunargögnum (heimsóttum síðum, notkun widgets) til að hjálpa til við að bæta TigerDuck",
         "onboarding_analytics_label": "Notkunargreining (valfrjálst)",
         "onboarding_analytics_description": "Hjálpaðu til við að bæta TigerDuck með því að deila nafnlausum síðuheimsóknum og notkun widgets. Þú getur breytt þessu hvenær sem er í Stillingar.",
-        "sync_backend_session_expired_title": "Backend Connection Failed",
-        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
+        "sync_backend_session_expired_title": "Tenging við þjón mistókst",
+        "sync_backend_session_expired_message": "Vinsamlegast skráðu þig út og aftur inn í NTUST kerfið til að virkja samstillingu milli tækja aftur."
     },
     "android": {
         "account_id_use_standard_keyboard": "Staðlað lyklaborð",

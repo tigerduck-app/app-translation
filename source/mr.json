@@ -752,8 +752,8 @@
         "settings_analytics_description": "TigerDuck सुधारण्यास मदत करण्यासाठी अनामिक वापर डेटा (भेट दिलेली पृष्ठे, विजेट वापर) शेअर करा",
         "onboarding_analytics_label": "वापर विश्लेषण (पर्यायी)",
         "onboarding_analytics_description": "अनामिक पृष्ठ भेटी आणि विजेट वापर शेअर करून TigerDuck सुधारण्यास मदत करा. तुम्ही हे कधीही सेटिंग्जमध्ये बदलू शकता.",
-        "sync_backend_session_expired_title": "Backend Connection Failed",
-        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
+        "sync_backend_session_expired_title": "बॅकएंड कनेक्शन अयशस्वी",
+        "sync_backend_session_expired_message": "मल्टी-डिव्हाइस सिंक पुन्हा सक्षम करण्यासाठी कृपया NTUST सिस्टममधून साइन आउट करा आणि पुन्हा साइन इन करा."
     },
     "android": {
         "account_id_use_standard_keyboard": "मानक कीबोर्ड",

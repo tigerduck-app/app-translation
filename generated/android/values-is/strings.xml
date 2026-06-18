@@ -704,8 +704,8 @@
     <string name="source_code_picker_repo_translation_description">Þýðing viðmóts</string>
     <string name="source_code_picker_repo_web_description">Opinber vefsíða</string>
     <string name="source_code_picker_section_repositories">Geymslur</string>
-    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
-    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
+    <string name="sync_backend_session_expired_message">Vinsamlegast skráðu þig út og aftur inn í NTUST kerfið til að virkja samstillingu milli tækja aftur.</string>
+    <string name="sync_backend_session_expired_title">Tenging við þjón mistókst</string>
     <string name="sync_success_content_description">Samstilling tókst</string>
     <string name="tab_editor_apply_action">Nota</string>
     <string name="tab_editor_drag_reorder">Dragðu til að raða</string>

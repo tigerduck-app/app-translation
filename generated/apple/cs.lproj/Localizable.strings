@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "Překlad rozhraní";
 "source_code_picker_repo_web_description" = "Oficiální webová stránka";
 "source_code_picker_section_repositories" = "Repozitáře";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "Odhlaste se a znovu se přihlaste do systému NTUST pro opětovné aktivování synchronizace mezi zařízeními.";
+"sync_backend_session_expired_title" = "Připojení k serveru selhalo";
 "sync_success_content_description" = "Synchronizace úspěšná";
 "tab_editor_apply_action" = "Použít";
 "tab_editor_drag_reorder" = "Přetažením změníte pořadí";

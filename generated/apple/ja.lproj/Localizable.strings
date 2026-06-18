@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "UI翻訳";
 "source_code_picker_repo_web_description" = "公式ウェブページ";
 "source_code_picker_section_repositories" = "リポジトリ";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "NTUSTシステムからサインアウトし、再度サインインしてマルチデバイス同期を再有効化してください。";
+"sync_backend_session_expired_title" = "サーバー接続に失敗しました";
 "sync_success_content_description" = "同期に成功しました";
 "tab_editor_apply_action" = "適用";
 "tab_editor_drag_reorder" = "ドラッグして並び替え";

@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "介面翻譯";
 "source_code_picker_repo_web_description" = "官方網頁";
 "source_code_picker_section_repositories" = "程式碼庫";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "請登出再重新登入校務系統，重新啟用多裝置同步。";
+"sync_backend_session_expired_title" = "連接後端伺服器失敗";
 "sync_success_content_description" = "同步成功";
 "tab_editor_apply_action" = "套用";
 "tab_editor_drag_reorder" = "拖動排序";

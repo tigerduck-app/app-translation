@@ -704,8 +704,8 @@
     <string name="source_code_picker_repo_translation_description">Felhasználói felület fordítása</string>
     <string name="source_code_picker_repo_web_description">Hivatalos weboldal</string>
     <string name="source_code_picker_section_repositories">Tárolók</string>
-    <string name="sync_backend_session_expired_message">Please sign out and sign back into the NTUST system to re-enable multi-device sync.</string>
-    <string name="sync_backend_session_expired_title">Backend Connection Failed</string>
+    <string name="sync_backend_session_expired_message">Kérjük, jelentkezzen ki, majd jelentkezzen be újra az NTUST rendszerbe a többeszközös szinkronizálás újbóli engedélyezéséhez.</string>
+    <string name="sync_backend_session_expired_title">Szerverkapcsolat sikertelen</string>
     <string name="sync_success_content_description">Szinkronizálás sikeres</string>
     <string name="tab_editor_apply_action">Alkalmaz</string>
     <string name="tab_editor_drag_reorder">Húzza az átrendezéshez</string>

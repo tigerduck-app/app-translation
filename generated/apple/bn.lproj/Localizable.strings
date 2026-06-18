@@ -681,8 +681,8 @@
 "source_code_picker_repo_translation_description" = "UI অনুবাদ";
 "source_code_picker_repo_web_description" = "অফিসিয়াল ওয়েবপেজ";
 "source_code_picker_section_repositories" = "রিপোজিটরি";
-"sync_backend_session_expired_message" = "Please sign out and sign back into the NTUST system to re-enable multi-device sync.";
-"sync_backend_session_expired_title" = "Backend Connection Failed";
+"sync_backend_session_expired_message" = "মাল্টি-ডিভাইস সিঙ্ক পুনরায় সক্রিয় করতে অনুগ্রহ করে NTUST সিস্টেম থেকে সাইন আউট করে পুনরায় সাইন ইন করুন।";
+"sync_backend_session_expired_title" = "ব্যাকএন্ড সংযোগ ব্যর্থ";
 "sync_success_content_description" = "সিঙ্ক সফল";
 "tab_editor_apply_action" = "আবেদন করুন";
 "tab_editor_drag_reorder" = "টেনে পুনর্বিন্যাস করুন";

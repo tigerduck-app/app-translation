@@ -752,8 +752,8 @@
         "settings_analytics_description": "شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck",
         "onboarding_analytics_label": "تحليلات الاستخدام (اختياري)",
         "onboarding_analytics_description": "ساعد في تحسين TigerDuck بمشاركة زيارات الصفحات واستخدام الأدوات بشكل مجهول. يمكنك تغيير هذا في أي وقت من الإعدادات.",
-        "sync_backend_session_expired_title": "Backend Connection Failed",
-        "sync_backend_session_expired_message": "Please sign out and sign back into the NTUST system to re-enable multi-device sync."
+        "sync_backend_session_expired_title": "فشل الاتصال بالخادم الخلفي",
+        "sync_backend_session_expired_message": "يرجى تسجيل الخروج وإعادة تسجيل الدخول إلى نظام NTUST لإعادة تفعيل المزامنة متعددة الأجهزة."
     },
     "android": {
         "account_id_use_standard_keyboard": "لوحة مفاتيح قياسية",
