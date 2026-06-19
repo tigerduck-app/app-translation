@@ -664,6 +664,7 @@
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">Följ systemet (Reserv: engelska)</string>
     <string name="settings_language_traditional_chinese">Traditionell kinesiska</string>
+    <string name="settings_learn_more_backend">Learn more about the TigerDuck Backend</string>
     <string name="settings_library_account_subtitle">Lösenordet kan skilja sig från studentportalen; standard är ditt nationella ID-nummer</string>
     <string name="settings_library_feature_disabled_message">Aktivera \"Bibliotek och relaterade funktioner\" först, och använd sedan bibliotekets QR-kod-genväg.</string>
     <string name="settings_library_feature_disabled_title">Biblioteksfunktionen är inaktiverad</string>

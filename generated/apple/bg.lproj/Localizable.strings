@@ -643,6 +643,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Следване на системата (резервен: английски)";
 "settings_language_traditional_chinese" = "Традиционен китайски";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "Паролата може да се различава от тази в академичната система; по подразбиране е вашият национален идентификационен номер";
 "settings_library_feature_disabled_message" = "Първо активирайте „Библиотека и свързани функции“, след което използвайте бързия достъп до QR код за библиотека.";
 "settings_library_feature_disabled_title" = "Функцията за библиотека е деактивирана";

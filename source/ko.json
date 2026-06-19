@@ -759,7 +759,8 @@
     "onboarding_sync_shared_courses": "강좌 데이터",
     "onboarding_sync_shared_assignments": "과제 데이터",
     "onboarding_sync_not_shared_password": "비밀번호는 업로드되지 않습니다",
-    "settings_cloud_sync_title": "기기 간 동기화"
+    "settings_cloud_sync_title": "기기 간 동기화",
+    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
   },
   "android": {
     "account_id_use_standard_keyboard": "표준 키보드",

@@ -643,6 +643,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Järgi süsteemi (varuvariant: inglise)";
 "settings_language_traditional_chinese" = "Traditsiooniline hiina";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "Parool võib erineda akadeemilisest süsteemist; vaikimisi on teie isikukood";
 "settings_library_feature_disabled_message" = "Lubage esmalt „Raamatukogu ja seotud funktsioonid\", seejärel kasutage raamatukogu QR-koodi otseteed.";
 "settings_library_feature_disabled_title" = "Raamatukogu funktsioon on keelatud";

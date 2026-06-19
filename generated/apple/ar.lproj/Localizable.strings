@@ -643,6 +643,7 @@
 "settings_language_english" = "الإنجليزية";
 "settings_language_follow_system" = "اتباع النظام (الإنجليزية كلغة احتياطية)";
 "settings_language_traditional_chinese" = "الصينية التقليدية";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "قد تختلف كلمة المرور عن النظام الأكاديمي؛ افتراضيًا هي رقم الهوية الوطنية";
 "settings_library_feature_disabled_message" = "فعّل أولًا \"المكتبة والميزات ذات الصلة\"، ثم استخدم اختصار QR Code للمكتبة.";
 "settings_library_feature_disabled_title" = "ميزة المكتبة معطّلة";

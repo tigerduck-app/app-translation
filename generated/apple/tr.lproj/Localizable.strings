@@ -643,6 +643,7 @@
 "settings_language_english" = "İngilizce";
 "settings_language_follow_system" = "Sistemi takip et (Yedek: İngilizce)";
 "settings_language_traditional_chinese" = "Geleneksel Çince";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "Parola, öğrenci bilgi sisteminden farklı olabilir; varsayılan olarak kimlik numaranızdır";
 "settings_library_feature_disabled_message" = "Önce \"Kütüphane ve ilgili özellikler\"i etkinleştirin, ardından kütüphane QR kısayolunu kullanın.";
 "settings_library_feature_disabled_title" = "Kütüphane özelliği devre dışı";

@@ -643,6 +643,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Слідувати системі (запасна: англійська)";
 "settings_language_traditional_chinese" = "Традиційна китайська";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "Пароль може відрізнятися від шкільної системи; типово — номер вашого посвідчення особи";
 "settings_library_feature_disabled_message" = "Спочатку увімкніть «Бібліотека та пов'язані функції», а потім використовуйте ярлик QR бібліотеки.";
 "settings_library_feature_disabled_title" = "Функцію бібліотеки вимкнено";

@@ -759,7 +759,8 @@
     "onboarding_sync_shared_courses": "課程資料",
     "onboarding_sync_shared_assignments": "作業資料",
     "onboarding_sync_not_shared_password": "密碼不會被上傳",
-    "settings_cloud_sync_title": "跨裝置同步"
+    "settings_cloud_sync_title": "跨裝置同步",
+    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
   },
   "android": {
     "account_id_use_standard_keyboard": "標準鍵盤",

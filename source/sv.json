@@ -759,7 +759,8 @@
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Lösenord laddas aldrig upp",
-    "settings_cloud_sync_title": "Synkronisering mellan enheter"
+    "settings_cloud_sync_title": "Synkronisering mellan enheter",
+    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtangentbord",

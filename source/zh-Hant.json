@@ -759,7 +759,8 @@
     "onboarding_sync_shared_courses": "課程資料",
     "onboarding_sync_shared_assignments": "作業資料",
     "onboarding_sync_not_shared_password": "密碼不會被上傳",
-    "settings_cloud_sync_title": "跨裝置同步"
+    "settings_cloud_sync_title": "跨裝置同步",
+    "settings_learn_more_backend": "有關 TigerDuck 後端伺服器的更多內容"
   },
   "android": {
     "account_id_use_standard_keyboard": "標準鍵盤",
@@ -831,6 +832,6 @@
     "settings_sync_status_on": "開啟",
     "settings_sync_status_off": "關閉",
     "settings_notifications_disabled_warning": "通知已關閉。點擊開啟系統設定。",
-    "settings_sync_off_notifications_warning": "跨裝置同步已關閉，推播通知與即時動態無法使用。"
+    "settings_sync_off_notifications_warning": "跨裝置同步已關閉。Apple 裝置需要 TigerDuck 後端伺服器才能接收通知，點擊了解更多。"
   }
 }

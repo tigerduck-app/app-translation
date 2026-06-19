@@ -643,6 +643,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Sekot sistēmai (rezerves angļu)";
 "settings_language_traditional_chinese" = "Tradicionālais ķīniešu";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "Parole var atšķirties no akadēmiskās sistēmas; pēc noklusējuma ir personas kods";
 "settings_library_feature_disabled_message" = "Vispirms iespējojiet \"Bibliotēka un saistītās funkcijas\", pēc tam izmantojiet bibliotēkas QR saīsni.";
 "settings_library_feature_disabled_title" = "Bibliotēkas funkcija ir atspējota";

@@ -643,6 +643,7 @@
 "settings_language_english" = "Angličtina";
 "settings_language_follow_system" = "Podľa systému (záložná: angličtina)";
 "settings_language_traditional_chinese" = "Tradičná čínština";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "Heslo sa môže líšiť od školského systému; predvolene je to číslo vášho občianskeho preukazu";
 "settings_library_feature_disabled_message" = "Najprv povoľte \"Knižnica a súvisiace funkcie\", potom použite skratku QR kódom knižnice.";
 "settings_library_feature_disabled_title" = "Funkcia knižnice je vypnutá";

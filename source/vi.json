@@ -759,7 +759,8 @@
     "onboarding_sync_shared_courses": "Dữ liệu môn học",
     "onboarding_sync_shared_assignments": "Dữ liệu bài tập",
     "onboarding_sync_not_shared_password": "Mật khẩu không bao giờ được tải lên",
-    "settings_cloud_sync_title": "Đồng bộ đa thiết bị"
+    "settings_cloud_sync_title": "Đồng bộ đa thiết bị",
+    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
   },
   "android": {
     "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",

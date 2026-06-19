@@ -759,7 +759,8 @@
     "onboarding_sync_shared_courses": "Données de cours",
     "onboarding_sync_shared_assignments": "Données de devoirs",
     "onboarding_sync_not_shared_password": "Le mot de passe n'est jamais envoyé",
-    "settings_cloud_sync_title": "Synchronisation multi-appareils"
+    "settings_cloud_sync_title": "Synchronisation multi-appareils",
+    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
   },
   "android": {
     "account_id_use_standard_keyboard": "Clavier standard",

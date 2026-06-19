@@ -759,7 +759,8 @@
     "onboarding_sync_shared_courses": "ข้อมูลรายวิชา",
     "onboarding_sync_shared_assignments": "ข้อมูลงานมอบหมาย",
     "onboarding_sync_not_shared_password": "รหัสผ่านจะไม่ถูกอัปโหลด",
-    "settings_cloud_sync_title": "ซิงค์ข้ามอุปกรณ์"
+    "settings_cloud_sync_title": "ซิงค์ข้ามอุปกรณ์",
+    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
   },
   "android": {
     "account_id_use_standard_keyboard": "แป้นพิมพ์มาตรฐาน",

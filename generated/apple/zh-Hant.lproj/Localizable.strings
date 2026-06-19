@@ -643,6 +643,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "跟隨系統（備用英文）";
 "settings_language_traditional_chinese" = "繁體中文";
+"settings_learn_more_backend" = "有關 TigerDuck 後端伺服器的更多內容";
 "settings_library_account_subtitle" = "密碼可能與校務系統不同，預設為身分證字號";
 "settings_library_feature_disabled_message" = "請先開啟「圖書館及相關功能」後，再使用圖書館 QR 捷徑。";
 "settings_library_feature_disabled_title" = "圖書館功能未啟用";
@@ -676,7 +677,7 @@
 "settings_sync_brief_description" = "在你的裝置間同步課表編輯與作業狀態。";
 "settings_sync_data_section" = "與伺服器共用的資料";
 "settings_sync_disabled_note" = "關閉同步後，所有資料僅儲存於本機。";
-"settings_sync_off_notifications_warning" = "跨裝置同步已關閉，推播通知與即時動態無法使用。";
+"settings_sync_off_notifications_warning" = "跨裝置同步已關閉。Apple 裝置需要 TigerDuck 後端伺服器才能接收通知，點擊了解更多。";
 "settings_sync_status_off" = "關閉";
 "settings_sync_status_on" = "開啟";
 "settings_sync_toggle_label" = "啟用跨裝置同步";

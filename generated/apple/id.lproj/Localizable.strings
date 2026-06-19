@@ -643,6 +643,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Ikuti sistem (Cadangan: Inggris)";
 "settings_language_traditional_chinese" = "Tionghoa Tradisional";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "Kata sandi mungkin berbeda dari sistem akademik; default-nya adalah nomor KTP kamu";
 "settings_library_feature_disabled_message" = "Aktifkan \"Perpustakaan dan fitur terkait\" terlebih dahulu, lalu gunakan pintasan QR perpustakaan.";
 "settings_library_feature_disabled_title" = "Fitur perpustakaan dinonaktifkan";

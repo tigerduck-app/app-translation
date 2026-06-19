@@ -643,6 +643,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "கணினியைப் பின்பற்று (மாற்று: ஆங்கிலம்)";
 "settings_language_traditional_chinese" = "பாரம்பரிய சீனம்";
+"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
 "settings_library_account_subtitle" = "பாஸ்வேர்ட் கல்வி அமைப்பிலிருந்து வேறுபடலாம்; இயல்புநிலை உங்கள் தேசிய அடையாள எண்";
 "settings_library_feature_disabled_message" = "நூலக QR Code குறுக்குவழியை பயன்படுத்த முதலில் \"நூலகம் மற்றும் தொடர்பான அம்சங்கள்\" இயக்கவும்.";
 "settings_library_feature_disabled_title" = "நூலக அம்சம் முடக்கப்பட்டுள்ளது";
