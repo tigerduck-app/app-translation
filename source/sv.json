@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Lösenord laddas aldrig upp",
     "settings_cloud_sync_title": "Synkronisering mellan enheter",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Läs mer om TigerDuck-servern"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtangentbord",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Följande behörigheter var tidigare aktiverade men är nu inaktiverade. Relaterade aviseringar och liveaktivitet kanske inte visas korrekt.",
     "push_server_status_live_activities": "Live-aktiviteter",
     "push_server_status_settings_hint": "Inaktiverat på systemnivå → Inställningar → TigerDuck → Aktivera",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "När den är aktiverad synkroniserar TigerDuck schemaändringar och uppgiftsstatus mellan dina enheter via TigerDuck-servern.",
+    "onboarding_sync_disabled_note": "När synkronisering är avstängd stannar all data bara på den här enheten. Push-notiser fungerar lokalt.",
+    "settings_sync_toggle_label": "Aktivera synkronisering mellan enheter",
+    "settings_sync_brief_description": "Synkronisera schemaändringar och uppgiftsstatus mellan dina enheter.",
+    "settings_sync_data_section": "Data delad med servern",
+    "settings_sync_disabled_note": "När synkronisering är avstängd stannar all data bara på den här enheten.",
     "settings_sync_status_on": "På",
     "settings_sync_status_off": "Av",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Aviseringar är avstängda. Tryck för att öppna Systeminställningar."
   }
 }

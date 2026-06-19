@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Данные заданий",
     "onboarding_sync_not_shared_password": "Пароль никогда не загружается",
     "settings_cloud_sync_title": "Синхронизация между устройствами",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Узнайте больше о сервере TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандартная клавиатура",
@@ -823,12 +823,12 @@
     "permission_warning_description": "Следующие разрешения ранее были включены, но сейчас отключены. Соответствующие уведомления и live-активность могут отображаться некорректно.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Отключено на уровне системы → Настройки → TigerDuck → Включить",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "При включении TigerDuck синхронизирует изменения расписания и статусы заданий между вашими устройствами через сервер TigerDuck.",
+    "onboarding_sync_disabled_note": "Когда синхронизация отключена, все данные остаются только на этом устройстве. Push-уведомления работают локально.",
+    "settings_sync_toggle_label": "Включить синхронизацию между устройствами",
+    "settings_sync_brief_description": "Синхронизируйте изменения расписания и статусы заданий между вашими устройствами.",
+    "settings_sync_data_section": "Данные, передаваемые серверу",
+    "settings_sync_disabled_note": "Когда синхронизация отключена, все данные остаются только на этом устройстве.",
     "settings_sync_status_on": "Вкл.",
     "settings_sync_status_off": "Выкл.",
     "settings_sync_off_notifications_warning": "Синхронизация отключена. Push-уведомления и Live Updates недоступны.",

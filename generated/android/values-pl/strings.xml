@@ -664,7 +664,7 @@
     <string name="settings_language_english">Angielski</string>
     <string name="settings_language_follow_system">Zgodnie z systemem (rezerwowy: angielski)</string>
     <string name="settings_language_traditional_chinese">Chiński tradycyjny</string>
-    <string name="settings_learn_more_backend">Learn more about the TigerDuck Backend</string>
+    <string name="settings_learn_more_backend">Dowiedz się więcej o serwerze TigerDuck</string>
     <string name="settings_library_account_subtitle">Hasło może różnić się od hasła systemu uczelnianego; domyślnie jest to numer dowodu tożsamości</string>
     <string name="settings_library_feature_disabled_message">Najpierw włączyć „Bibliotekę i funkcje powiązane”, a następnie skorzystać ze skrótu QR biblioteki.</string>
     <string name="settings_library_feature_disabled_title">Funkcja biblioteki jest wyłączona</string>

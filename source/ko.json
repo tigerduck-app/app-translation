@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "과제 데이터",
     "onboarding_sync_not_shared_password": "비밀번호는 업로드되지 않습니다",
     "settings_cloud_sync_title": "기기 간 동기화",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck 백엔드에 대해 자세히 알아보기"
   },
   "android": {
     "account_id_use_standard_keyboard": "표준 키보드",
@@ -823,12 +823,12 @@
     "permission_warning_description": "다음 권한이 이전에 허용되었으나 현재 비활성화되어 있습니다. 관련 알림과 라이브 액티비티가 정상적으로 표시되지 않을 수 있습니다.",
     "push_server_status_live_activities": "라이브 액티비티",
     "push_server_status_settings_hint": "시스템 수준에서 비활성화됨 → 설정 → TigerDuck → 활성화",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "활성화하면 TigerDuck이 TigerDuck 서버를 통해 기기 간에 시간표 편집 및 과제 상태를 동기화합니다.",
+    "onboarding_sync_disabled_note": "동기화가 꺼져 있으면 모든 데이터는 이 기기에만 저장됩니다. 푸시 알림은 로컬에서 작동합니다.",
+    "settings_sync_toggle_label": "기기 간 동기화 활성화",
+    "settings_sync_brief_description": "기기 간에 시간표 편집 및 과제 상태를 동기화합니다.",
+    "settings_sync_data_section": "서버와 공유되는 데이터",
+    "settings_sync_disabled_note": "동기화가 꺼져 있으면 모든 데이터는 이 기기에만 저장됩니다.",
     "settings_sync_status_on": "켜짐",
     "settings_sync_status_off": "꺼짐",
     "settings_sync_off_notifications_warning": "기기 간 동기화가 꺼져 있습니다. 푸시 알림과 Live Updates를 사용할 수 없습니다.",

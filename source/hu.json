@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Eszközök közötti szinkronizálás",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Tudjon meg többet a TigerDuck szerverről"
   },
   "android": {
     "account_id_use_standard_keyboard": "Normál billentyűzet",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Az alábbi engedélyek korábban engedélyezve voltak, de most le vannak tiltva. A kapcsolódó értesítések és az élő tevékenység esetleg nem jelenik meg megfelelően.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Rendszerszinten letiltva → Beállítások → TigerDuck → Engedélyezés",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Ha engedélyezve van, a TigerDuck szinkronizálja az órarend-módosításokat és a feladatok állapotát az eszközei között a TigerDuck szerveren keresztül.",
+    "onboarding_sync_disabled_note": "Ha a szinkronizálás ki van kapcsolva, minden adat csak ezen az eszközön marad. A push értesítések helyben működnek.",
+    "settings_sync_toggle_label": "Eszközök közötti szinkronizálás engedélyezése",
+    "settings_sync_brief_description": "Szinkronizálja az órarend-módosításokat és a feladatok állapotát az eszközei között.",
+    "settings_sync_data_section": "A szerverrel megosztott adatok",
+    "settings_sync_disabled_note": "Ha a szinkronizálás ki van kapcsolva, minden adat csak ezen az eszközön marad.",
     "settings_sync_status_on": "Be",
     "settings_sync_status_off": "Ki",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Az értesítések ki vannak kapcsolva. Koppintson a Rendszerbeállítások megnyitásához."
   }
 }

@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Sinhronizacija med napravami",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Več informacij o strežniku TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardna tipkovnica",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Naslednja dovoljenja so bila prej omogočena, zdaj pa so onemogočena. Povezana obvestila in živa dejavnost morda ne bodo pravilno prikazana.",
     "push_server_status_live_activities": "Aktivnosti v živo",
     "push_server_status_settings_hint": "Onemogočeno na ravni sistema → Nastavitve → TigerDuck → Omogoči",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Ko je vklopljena, TigerDuck sinhronizira urejanje urnika in stanja nalog med vašimi napravami prek strežnika TigerDuck.",
+    "onboarding_sync_disabled_note": "Ko je sinhronizacija izklopljena, vsi podatki ostanejo samo na tej napravi. Push obvestila delujejo lokalno.",
+    "settings_sync_toggle_label": "Vklopi sinhronizacijo med napravami",
+    "settings_sync_brief_description": "Sinhronizirajte urejanje urnika in stanja nalog med vašimi napravami.",
+    "settings_sync_data_section": "Podatki, deljeni s strežnikom",
+    "settings_sync_disabled_note": "Ko je sinhronizacija izklopljena, vsi podatki ostanejo samo na tej napravi.",
+    "settings_sync_status_on": "Vklopljeno",
+    "settings_sync_status_off": "Izklopljeno",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Obvestila so izklopljena. Tapnite za odpiranje sistemskih nastavitev."
   }
 }

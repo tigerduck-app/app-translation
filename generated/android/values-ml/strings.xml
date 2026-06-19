@@ -664,7 +664,7 @@
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">സിസ്റ്റം പിന്തുടരുക (ഫാൾബാക്ക് ഇംഗ്ലീഷ്)</string>
     <string name="settings_language_traditional_chinese">Traditional Chinese</string>
-    <string name="settings_learn_more_backend">Learn more about the TigerDuck Backend</string>
+    <string name="settings_learn_more_backend">TigerDuck ബാക്കെൻഡിനെ കുറിച്ച് കൂടുതൽ അറിയുക</string>
     <string name="settings_library_account_subtitle">പാസ്‌വേഡ് അക്കാദമിക് സിസ്റ്റത്തിൽ നിന്ന് വ്യത്യസ്‌തമായേക്കാം; ഡിഫോൾട്ട് ദേശീയ ഐഡി നമ്പർ ആണ്</string>
     <string name="settings_library_feature_disabled_message">ഗ്രന്ഥശാല QR കുറുക്കുവഴി ഉപയോഗിക്കുന്നതിന് ആദ്യം \"ഗ്രന്ഥശാല, അനുബന്ധ ഫീച്ചറുകൾ\" പ്രവർത്തനക്ഷമമാക്കുക.</string>
     <string name="settings_library_feature_disabled_title">ഗ്രന്ഥശാല ഫീച്ചർ ഓഫ് ആണ്</string>

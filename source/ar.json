@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "بيانات الواجبات",
     "onboarding_sync_not_shared_password": "لا يتم رفع كلمة المرور أبدًا",
     "settings_cloud_sync_title": "مزامنة عبر الأجهزة",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "تعرّف على المزيد حول خادم TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "لوحة مفاتيح قياسية",
@@ -823,12 +823,12 @@
     "permission_warning_description": "الأذونات التالية كانت مفعّلة سابقًا ولكنها معطّلة الآن. قد لا تظهر الإشعارات والنشاط المباشر بشكل صحيح.",
     "push_server_status_live_activities": "النشاط المباشر",
     "push_server_status_settings_hint": "معطّل على مستوى النظام → إعدادات → TigerDuck → تمكين",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "عند التفعيل، يقوم TigerDuck بمزامنة تعديلات الجدول وحالات الواجبات عبر أجهزتك من خلال خادم TigerDuck.",
+    "onboarding_sync_disabled_note": "عند إيقاف المزامنة، تبقى جميع البيانات على هذا الجهاز فقط. تعمل الإشعارات الفورية محليًا.",
+    "settings_sync_toggle_label": "تفعيل المزامنة عبر الأجهزة",
+    "settings_sync_brief_description": "مزامنة تعديلات الجدول وحالات الواجبات عبر أجهزتك.",
+    "settings_sync_data_section": "البيانات المشتركة مع الخادم",
+    "settings_sync_disabled_note": "عند إيقاف المزامنة، تبقى جميع البيانات على هذا الجهاز فقط.",
     "settings_sync_status_on": "مفعّل",
     "settings_sync_status_off": "معطّل",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",

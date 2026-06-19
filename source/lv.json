@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Sinhronizācija starp ierīcēm",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Uzziniet vairāk par TigerDuck serveri"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standarta tastatūra",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Tālāk minētās atļaujas iepriekš bija iespējotas, bet tagad ir atspējotas. Saistītie paziņojumi un tiešā darbība var netikt rādīti pareizi.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Atspējots sistēmas līmenī → Iestatījumi → TigerDuck → Ieslēgt",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Kad ir ieslēgta, TigerDuck sinhronizē stundu plāna izmaiņas un uzdevumu statusus starp jūsu ierīcēm, izmantojot TigerDuck serveri.",
+    "onboarding_sync_disabled_note": "Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē. Push paziņojumi darbojas lokāli.",
+    "settings_sync_toggle_label": "Ieslēgt sinhronizāciju starp ierīcēm",
+    "settings_sync_brief_description": "Sinhronizējiet stundu plāna izmaiņas un uzdevumu statusus starp savām ierīcēm.",
+    "settings_sync_data_section": "Ar serveri koplietotie dati",
+    "settings_sync_disabled_note": "Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē.",
+    "settings_sync_status_on": "Ieslēgts",
+    "settings_sync_status_off": "Izslēgts",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Paziņojumi ir izslēgti. Pieskarieties, lai atvērtu sistēmas iestatījumus."
   }
 }

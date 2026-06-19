@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "పరికరాల మధ్య సమకాలీకరణ",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck బ్యాకెండ్ గురించి మరింత తెలుసుకోండి"
   },
   "android": {
     "account_id_use_standard_keyboard": "ప్రామాణిక కీబోర్డ్",
@@ -823,15 +823,15 @@
     "permission_warning_description": "కింది అనుమతులు మునుపు ఆన్ చేయబడ్డాయి కానీ ఇప్పుడు ఆఫ్ చేయబడ్డాయి. సంబంధిత నోటిఫికేషన్లు మరియు లైవ్ యాక్టివిటీ సరిగ్గా కనిపించకపోవచ్చు.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "సిస్టం స్థాయిలో నిలిపివేయబడింది → సెట్టింగ్‌లు → TigerDuck → ప్రారంభించండి",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "ఎనేబుల్ చేసినప్పుడు, TigerDuck సర్వర్ ద్వారా మీ పరికరాల మధ్య టైమ్‌టేబుల్ ఎడిట్‌లు మరియు అసైన్‌మెంట్ స్థితులను TigerDuck సింక్ చేస్తుంది.",
+    "onboarding_sync_disabled_note": "సింక్ ఆఫ్‌లో ఉన్నప్పుడు, మొత్తం డేటా ఈ పరికరంలో మాత్రమే ఉంటుంది. పుష్ నోటిఫికేషన్‌లు స్థానికంగా పనిచేస్తాయి.",
+    "settings_sync_toggle_label": "క్రాస్-డివైస్ సింక్‌ను ఎనేబుల్ చేయండి",
+    "settings_sync_brief_description": "మీ పరికరాల మధ్య టైమ్‌టేబుల్ ఎడిట్‌లు మరియు అసైన్‌మెంట్ స్థితులను సింక్ చేయండి.",
+    "settings_sync_data_section": "సర్వర్‌తో షేర్ చేసిన డేటా",
+    "settings_sync_disabled_note": "సింక్ ఆఫ్‌లో ఉన్నప్పుడు, మొత్తం డేటా ఈ పరికరంలో మాత్రమే ఉంటుంది.",
+    "settings_sync_status_on": "ఆన్",
+    "settings_sync_status_off": "ఆఫ్",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "నోటిఫికేషన్‌లు ఆఫ్‌లో ఉన్నాయి. సిస్టమ్ సెట్టింగ్‌లను తెరవడానికి ట్యాప్ చేయండి."
   }
 }

@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Seadmete vaheline sünkroonimine",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Lisateave TigerDucki serveri kohta"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardklaviatuur",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja reaalajas tegevus ei pruugi õigesti kuvada.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Süsteemi tasemel keelatud → Seaded → TigerDuck → Luba",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Kui see on sisse lülitatud, sünkroonib TigerDuck tunniplaani muudatused ja ülesannete olekud teie seadmete vahel TigerDucki serveri kaudu.",
+    "onboarding_sync_disabled_note": "Kui sünkroonimine on välja lülitatud, jäävad kõik andmed ainult sellesse seadmesse. Tõuketeavitused töötavad kohalikult.",
+    "settings_sync_toggle_label": "Luba seadmetevaheline sünkroonimine",
+    "settings_sync_brief_description": "Sünkroonige tunniplaani muudatused ja ülesannete olekud oma seadmete vahel.",
+    "settings_sync_data_section": "Serveriga jagatud andmed",
+    "settings_sync_disabled_note": "Kui sünkroonimine on välja lülitatud, jäävad kõik andmed ainult sellesse seadmesse.",
+    "settings_sync_status_on": "Sees",
+    "settings_sync_status_off": "Väljas",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Teavitused on välja lülitatud. Puudutage süsteemiseadete avamiseks."
   }
 }

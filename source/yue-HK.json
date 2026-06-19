@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "作業資料",
     "onboarding_sync_not_shared_password": "密碼不會被上傳",
     "settings_cloud_sync_title": "跨裝置同步",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "了解更多有關 TigerDuck 後端伺服器嘅資訊"
   },
   "android": {
     "account_id_use_standard_keyboard": "標準鍵盤",
@@ -823,12 +823,12 @@
     "permission_warning_description": "以下權限你之前已允許，但而家已被關閉。關閉後相應嘅通知同即時動態可能無法正常顯示。",
     "push_server_status_live_activities": "即時動態",
     "push_server_status_settings_hint": "系統層面已停用 → 系統設定 → TigerDuck → 啟用",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "啟用之後，TigerDuck 會透過 TigerDuck 伺服器喺你嘅裝置之間同步課表編輯同功課狀態。",
+    "onboarding_sync_disabled_note": "關咗同步之後，所有資料淨係儲喺呢部裝置。推送通知仲係可以喺本機正常運作。",
+    "settings_sync_toggle_label": "啟用跨裝置同步",
+    "settings_sync_brief_description": "喺你嘅裝置之間同步課表編輯同功課狀態。",
+    "settings_sync_data_section": "同伺服器共享嘅資料",
+    "settings_sync_disabled_note": "關咗同步之後，所有資料淨係儲喺呢部裝置。",
     "settings_sync_status_on": "開啟",
     "settings_sync_status_off": "關閉",
     "settings_sync_off_notifications_warning": "跨裝置同步已關閉，推播通知同即時動態無法使用。",

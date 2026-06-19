@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Συγχρονισμός μεταξύ συσκευών",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Μάθετε περισσότερα για τον διακομιστή TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Τυπικό πληκτρολόγιο",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Οι παρακάτω άδειες ήταν προηγουμένως ενεργοποιημένες αλλά τώρα είναι απενεργοποιημένες. Οι σχετικές ειδοποιήσεις και η ζωντανή δραστηριότητα ενδέχεται να μην εμφανίζονται σωστά.",
     "push_server_status_live_activities": "Ζωντανές δραστηριότητες",
     "push_server_status_settings_hint": "Απενεργοποιημένο σε επίπεδο συστήματος → Ρυθμίσεις → TigerDuck → Ενεργοποίηση",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Όταν είναι ενεργοποιημένη, η εφαρμογή TigerDuck συγχρονίζει τις αλλαγές προγράμματος και τις καταστάσεις εργασιών μεταξύ των συσκευών σας μέσω του διακομιστή TigerDuck.",
+    "onboarding_sync_disabled_note": "Όταν ο συγχρονισμός είναι απενεργοποιημένος, όλα τα δεδομένα παραμένουν μόνο σε αυτή τη συσκευή. Οι ειδοποιήσεις push λειτουργούν τοπικά.",
+    "settings_sync_toggle_label": "Ενεργοποίηση συγχρονισμού μεταξύ συσκευών",
+    "settings_sync_brief_description": "Συγχρονισμός αλλαγών προγράμματος και καταστάσεων εργασιών μεταξύ των συσκευών σας.",
+    "settings_sync_data_section": "Δεδομένα που μοιράζονται με τον διακομιστή",
+    "settings_sync_disabled_note": "Όταν ο συγχρονισμός είναι απενεργοποιημένος, όλα τα δεδομένα παραμένουν μόνο σε αυτή τη συσκευή.",
+    "settings_sync_status_on": "Ενεργό",
+    "settings_sync_status_off": "Ανενεργό",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Οι ειδοποιήσεις είναι απενεργοποιημένες. Πατήστε για να ανοίξετε τις Ρυθμίσεις συστήματος."
   }
 }

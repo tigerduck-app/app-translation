@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "पासवर्ड कभी अपलोड नहीं किया जाता",
     "settings_cloud_sync_title": "क्रॉस-डिवाइस सिंक",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck बैकएंड के बारे में अधिक जानें"
   },
   "android": {
     "account_id_use_standard_keyboard": "मानक कीबोर्ड",
@@ -823,15 +823,15 @@
     "permission_warning_description": "निम्नलिखित अनुमतियाँ पहले सक्षम थीं लेकिन अब अक्षम हैं। संबंधित नोटिफिकेशन और लाइव एक्टिविटी सही तरह से नहीं दिख सकतीं।",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "सिस्टम स्तर पर अक्षम → सेटिंग्स → TigerDuck → सक्षम करें",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "सक्षम होने पर, TigerDuck आपके डिवाइस के बीच टाइमटेबल संपादन और असाइनमेंट स्थितियों को TigerDuck सर्वर के माध्यम से सिंक करता है।",
+    "onboarding_sync_disabled_note": "जब सिंक बंद हो, तो सभी डेटा केवल इस डिवाइस पर ही रहता है। पुश नोटिफिकेशन स्थानीय रूप से काम करते हैं।",
+    "settings_sync_toggle_label": "क्रॉस-डिवाइस सिंक सक्षम करें",
+    "settings_sync_brief_description": "अपने डिवाइस के बीच टाइमटेबल संपादन और असाइनमेंट स्थितियाँ सिंक करें।",
+    "settings_sync_data_section": "सर्वर के साथ साझा किया गया डेटा",
+    "settings_sync_disabled_note": "जब सिंक बंद हो, तो सभी डेटा केवल इस डिवाइस पर ही रहता है।",
     "settings_sync_status_on": "चालू",
     "settings_sync_status_off": "बंद",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "सूचनाएँ बंद हैं। सिस्टम सेटिंग्स खोलने के लिए टैप करें।"
   }
 }

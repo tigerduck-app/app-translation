@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Sinchronizacija tarp įrenginių",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Sužinokite daugiau apie TigerDuck serverį"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standartinė klaviatūra",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Toliau nurodyti leidimai anksčiau buvo įjungti, tačiau dabar yra išjungti. Susiję pranešimai ir tiesioginė veikla gali būti rodomi neteisingai.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Išjungta sistemos lygiu → Nustatymai → TigerDuck → Įjungti",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Kai įjungta, TigerDuck sinchronizuoja tvarkaraščio pakeitimus ir užduočių būsenas tarp jūsų įrenginių per TigerDuck serverį.",
+    "onboarding_sync_disabled_note": "Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje. Push pranešimai veikia vietiniame režime.",
+    "settings_sync_toggle_label": "Įjungti sinchronizaciją tarp įrenginių",
+    "settings_sync_brief_description": "Sinchronizuokite tvarkaraščio pakeitimus ir užduočių būsenas tarp savo įrenginių.",
+    "settings_sync_data_section": "Duomenys, bendrinti su serveriu",
+    "settings_sync_disabled_note": "Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje.",
+    "settings_sync_status_on": "Įjungta",
+    "settings_sync_status_off": "Išjungta",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Pranešimai išjungti. Bakstelėkite, kad atidarytumėte sistemos nustatymus."
   }
 }

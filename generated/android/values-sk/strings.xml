@@ -664,7 +664,7 @@
     <string name="settings_language_english">Angličtina</string>
     <string name="settings_language_follow_system">Podľa systému (záložná: angličtina)</string>
     <string name="settings_language_traditional_chinese">Tradičná čínština</string>
-    <string name="settings_learn_more_backend">Learn more about the TigerDuck Backend</string>
+    <string name="settings_learn_more_backend">Viac informácií o serveri TigerDuck</string>
     <string name="settings_library_account_subtitle">Heslo sa môže líšiť od školského systému; predvolene je to číslo vášho občianskeho preukazu</string>
     <string name="settings_library_feature_disabled_message">Najprv povoľte \"Knižnica a súvisiace funkcie\", potom použite skratku QR kódom knižnice.</string>
     <string name="settings_library_feature_disabled_title">Funkcia knižnice je vypnutá</string>

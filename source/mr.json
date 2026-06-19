@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "उपकरणांमधील सिंक",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck बॅकएंडबद्दल अधिक जाणून घ्या"
   },
   "android": {
     "account_id_use_standard_keyboard": "मानक कीबोर्ड",
@@ -823,15 +823,15 @@
     "permission_warning_description": "खालील परवानग्या आधी सक्षम होत्या परंतु आता अक्षम केल्या आहेत. संबंधित अधिसूचना आणि लाइव्ह ॲक्टिव्हिटी योग्यरित्या दिसणार नाहीत.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "सिस्टम स्तरावर अक्षम → सेटिंग्ज → TigerDuck → सक्षम करा",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "सक्षम असताना, TigerDuck तुमच्या डिव्हाइसेसमध्ये वेळापत्रक संपादने आणि असाइनमेंट स्थिती TigerDuck सर्व्हरद्वारे सिंक करतो.",
+    "onboarding_sync_disabled_note": "सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो. पुश सूचना स्थानिक पातळीवर कार्य करतात.",
+    "settings_sync_toggle_label": "क्रॉस-डिव्हाइस सिंक सक्षम करा",
+    "settings_sync_brief_description": "तुमच्या डिव्हाइसेसमध्ये वेळापत्रक संपादने आणि असाइनमेंट स्थिती सिंक करा.",
+    "settings_sync_data_section": "सर्व्हरसोबत शेअर केलेला डेटा",
+    "settings_sync_disabled_note": "सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो.",
+    "settings_sync_status_on": "चालू",
+    "settings_sync_status_off": "बंद",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "सूचना बंद आहेत. सिस्टम सेटिंग्ज उघडण्यासाठी टॅप करा."
   }
 }

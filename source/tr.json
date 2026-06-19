@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Ödev verileri",
     "onboarding_sync_not_shared_password": "Şifre asla yüklenmez",
     "settings_cloud_sync_title": "Cihazlar Arası Senkronizasyon",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck Sunucusu hakkında daha fazla bilgi edinin"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standart klavye",
@@ -823,12 +823,12 @@
     "permission_warning_description": "Aşağıdaki izinler daha önce etkindi ancak şu anda devre dışı. İlgili bildirimler ve canlı etkinlik düzgün görüntülenmeyebilir.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Sistem düzeyinde devre dışı → Ayarlar → TigerDuck → Etkinleştir",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Etkinleştirildiğinde, TigerDuck ders programı düzenlemelerini ve ödev durumlarını cihazlarınız arasında TigerDuck sunucusu aracılığıyla senkronize eder.",
+    "onboarding_sync_disabled_note": "Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır. Push bildirimleri yerel olarak çalışır.",
+    "settings_sync_toggle_label": "Cihazlar arası senkronizasyonu etkinleştir",
+    "settings_sync_brief_description": "Ders programı düzenlemelerini ve ödev durumlarını cihazlarınız arasında senkronize edin.",
+    "settings_sync_data_section": "Sunucuyla paylaşılan veriler",
+    "settings_sync_disabled_note": "Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır.",
     "settings_sync_status_on": "Açık",
     "settings_sync_status_off": "Kapalı",
     "settings_sync_off_notifications_warning": "Cihazlar arası senkronizasyon kapalı. Push bildirimleri ve Canlı Güncellemeler kullanılamaz.",

@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Aufgabendaten",
     "onboarding_sync_not_shared_password": "Passwort wird niemals hochgeladen",
     "settings_cloud_sync_title": "Geräteübergreifende Synchronisierung",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Mehr über den TigerDuck-Server erfahren"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtastatur",
@@ -823,12 +823,12 @@
     "permission_warning_description": "Die folgenden Berechtigungen waren zuvor aktiviert, sind jetzt aber deaktiviert. Zugehörige Benachrichtigungen und Live-Aktivitäten werden möglicherweise nicht korrekt angezeigt.",
     "push_server_status_live_activities": "Live-Aktivitäten",
     "push_server_status_settings_hint": "Auf Systemebene deaktiviert → Einstellungen → TigerDuck → Aktivieren",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Wenn aktiviert, synchronisiert TigerDuck Stundenplan-Änderungen und Aufgabenstatus über deine Geräte hinweg über den TigerDuck-Server.",
+    "onboarding_sync_disabled_note": "Wenn die Synchronisierung deaktiviert ist, verbleiben alle Daten nur auf diesem Gerät. Push-Benachrichtigungen funktionieren lokal.",
+    "settings_sync_toggle_label": "Geräteübergreifende Synchronisierung aktivieren",
+    "settings_sync_brief_description": "Synchronisiere Stundenplan-Änderungen und Aufgabenstatus über deine Geräte hinweg.",
+    "settings_sync_data_section": "Mit dem Server geteilte Daten",
+    "settings_sync_disabled_note": "Wenn die Synchronisierung deaktiviert ist, verbleiben alle Daten nur auf diesem Gerät.",
     "settings_sync_status_on": "Ein",
     "settings_sync_status_off": "Aus",
     "settings_sync_off_notifications_warning": "Geräteübergreifende Sync ist deaktiviert. Push-Benachrichtigungen und Live Updates sind nicht verfügbar.",

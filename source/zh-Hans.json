@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "作业数据",
     "onboarding_sync_not_shared_password": "密码不会被上传",
     "settings_cloud_sync_title": "跨设备同步",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "了解更多关于 TigerDuck 后端服务器的信息"
   },
   "android": {
     "account_id_use_standard_keyboard": "标准键盘",
@@ -823,12 +823,12 @@
     "permission_warning_description": "以下权限在您之前已允许，但现在已被关闭。关闭后对应的通知与即时动态可能无法正常显示。",
     "push_server_status_live_activities": "实时活动",
     "push_server_status_settings_hint": "系统层关闭 → 系统设置 → TigerDuck 开启",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "启用后，TigerDuck 会通过 TigerDuck 服务器在你的设备间同步课表编辑和作业状态。",
+    "onboarding_sync_disabled_note": "关闭同步后，所有数据仅保存在此设备上。推送通知仍可在本地正常工作。",
+    "settings_sync_toggle_label": "启用跨设备同步",
+    "settings_sync_brief_description": "在你的设备间同步课表编辑与作业状态。",
+    "settings_sync_data_section": "与服务器共享的数据",
+    "settings_sync_disabled_note": "关闭同步后，所有数据仅保存在此设备上。",
     "settings_sync_status_on": "开启",
     "settings_sync_status_off": "关闭",
     "settings_sync_off_notifications_warning": "跨设备同步已关闭，推送通知与即时动态无法使用。",

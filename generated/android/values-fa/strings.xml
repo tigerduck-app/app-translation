@@ -664,7 +664,7 @@
     <string name="settings_language_english">English</string>
     <string name="settings_language_follow_system">همگام با سیستم (زبان جایگزین: انگلیسی)</string>
     <string name="settings_language_traditional_chinese">چینی سنتی</string>
-    <string name="settings_learn_more_backend">Learn more about the TigerDuck Backend</string>
+    <string name="settings_learn_more_backend">اطلاعات بیشتر درباره سرور TigerDuck</string>
     <string name="settings_library_account_subtitle">گذرواژه ممکن است با سیستم دانشگاه متفاوت باشد؛ مقدار پیش‌فرض معمولاً شماره ملی شماست</string>
     <string name="settings_library_feature_disabled_message">ابتدا «قابلیت‌های کتابخانه و مرتبط» را فعال کنید، سپس از میانبر QR کتابخانه استفاده کنید.</string>
     <string name="settings_library_feature_disabled_title">قابلیت کتابخانه غیرفعال است</string>

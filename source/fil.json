@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Cross-Device Sync",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Alamin pa ang tungkol sa TigerDuck Backend"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standard na keyboard",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Ang mga sumusunod na pahintulot ay dati nang pinagana ngunit naka-disable na ngayon. Maaaring hindi wastong maipakita ang mga kaugnay na notification at live activity.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Naka-disable sa antas ng system → Mga Setting → TigerDuck → I-enable",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Kapag naka-enable, sini-sync ng TigerDuck ang mga pagbabago sa timetable at estado ng mga assignment sa iyong mga device sa pamamagitan ng TigerDuck server.",
+    "onboarding_sync_disabled_note": "Kapag naka-off ang sync, ang lahat ng data ay nananatili sa device na ito lamang. Gumagana pa rin nang lokal ang push notification.",
+    "settings_sync_toggle_label": "I-enable ang cross-device sync",
+    "settings_sync_brief_description": "I-sync ang mga pagbabago sa timetable at estado ng mga assignment sa iyong mga device.",
+    "settings_sync_data_section": "Data na ibinabahagi sa server",
+    "settings_sync_disabled_note": "Kapag naka-off ang sync, ang lahat ng data ay nananatili sa device na ito lamang.",
+    "settings_sync_status_on": "Naka-on",
+    "settings_sync_status_off": "Naka-off",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Naka-off ang mga notification. I-tap para buksan ang System Settings."
   }
 }

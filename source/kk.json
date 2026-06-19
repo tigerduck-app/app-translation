@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Құрылғылар арасындағы синхрондау",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck серверi туралы көбірек біліңіз"
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандартты пернетақта",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Төмендегі рұқсаттар бұрын қосылған болатын, бірақ қазір өшірілген. Тиісті хабарландырулар мен тікелей белсенділік дұрыс көрсетілмеуі мүмкін.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Жүйе деңгейінде өшірілген → Баптаулар → TigerDuck → Қосу",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Қосылғанда, TigerDuck кесте өзгерістері мен тапсырма күйлерін TigerDuck сервері арқылы құрылғыларыңыз арасында синхрондайды.",
+    "onboarding_sync_disabled_note": "Синхрондау өшірулі кезде барлық деректер тек осы құрылғыда сақталады. Push хабарландырулар жергілікті жұмыс істейді.",
+    "settings_sync_toggle_label": "Құрылғылар арасындағы синхрондауды қосу",
+    "settings_sync_brief_description": "Кесте өзгерістері мен тапсырма күйлерін құрылғыларыңыз арасында синхрондаңыз.",
+    "settings_sync_data_section": "Сервермен бөлісілген деректер",
+    "settings_sync_disabled_note": "Синхрондау өшірулі кезде барлық деректер тек осы құрылғыда сақталады.",
+    "settings_sync_status_on": "Қосулы",
+    "settings_sync_status_off": "Өшірулі",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Хабарландырулар өшірулі. Жүйе параметрлерін ашу үшін түртіңіз."
   }
 }

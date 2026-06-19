@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "ক্রস-ডিভাইস সিঙ্ক",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck ব্যাকএন্ড সম্পর্কে আরও জানুন"
   },
   "android": {
     "account_id_use_standard_keyboard": "স্ট্যান্ডার্ড কীবোর্ড",
@@ -823,15 +823,15 @@
     "permission_warning_description": "নিচের অনুমতিগুলি আগে চালু ছিল কিন্তু এখন বন্ধ। সম্পর্কিত বিজ্ঞপ্তি ও লাইভ অ্যাক্টিভিটি সঠিকভাবে প্রদর্শিত নাও হতে পারে।",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "সিস্টেম স্তরে নিষ্ক্রিয় → সেটিংস → TigerDuck → চালু",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "সক্রিয় থাকলে, TigerDuck আপনার ডিভাইসগুলোর মধ্যে টাইমটেবিল সম্পাদনা এবং অ্যাসাইনমেন্টের অবস্থা TigerDuck সার্ভারের মাধ্যমে সিঙ্ক করে।",
+    "onboarding_sync_disabled_note": "সিঙ্ক বন্ধ থাকলে সব ডেটা শুধুমাত্র এই ডিভাইসে থাকে। পুশ নোটিফিকেশন স্থানীয়ভাবে কাজ করে।",
+    "settings_sync_toggle_label": "ক্রস-ডিভাইস সিঙ্ক সক্রিয় করুন",
+    "settings_sync_brief_description": "আপনার ডিভাইসগুলোর মধ্যে টাইমটেবিল সম্পাদনা ও অ্যাসাইনমেন্টের অবস্থা সিঙ্ক করুন।",
+    "settings_sync_data_section": "সার্ভারের সাথে শেয়ার করা ডেটা",
+    "settings_sync_disabled_note": "সিঙ্ক বন্ধ থাকলে সব ডেটা শুধুমাত্র এই ডিভাইসে থাকে।",
+    "settings_sync_status_on": "চালু",
+    "settings_sync_status_off": "বন্ধ",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "নোটিফিকেশন বন্ধ আছে। সিস্টেম সেটিংস খুলতে ট্যাপ করুন।"
   }
 }

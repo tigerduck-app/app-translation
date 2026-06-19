@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Hasło nigdy nie jest przesyłane",
     "settings_cloud_sync_title": "Synchronizacja między urządzeniami",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Dowiedz się więcej o serwerze TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardowa klawiatura",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Następujące uprawnienia były wcześniej włączone, lecz obecnie są wyłączone. Powiązane powiadomienia oraz aktywność na żywo mogą nie być wyświetlane prawidłowo.",
     "push_server_status_live_activities": "Aktywności na żywo",
     "push_server_status_settings_hint": "Wyłączone na poziomie systemu → Ustawienia → TigerDuck → Włącz",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Po włączeniu TigerDuck synchronizuje edycje planu zajęć i stany zadań między Twoimi urządzeniami za pośrednictwem serwera TigerDuck.",
+    "onboarding_sync_disabled_note": "Gdy synchronizacja jest wyłączona, wszystkie dane pozostają tylko na tym urządzeniu. Powiadomienia push działają lokalnie.",
+    "settings_sync_toggle_label": "Włącz synchronizację między urządzeniami",
+    "settings_sync_brief_description": "Synchronizuj edycje planu zajęć i stany zadań między swoimi urządzeniami.",
+    "settings_sync_data_section": "Dane udostępniane serwerowi",
+    "settings_sync_disabled_note": "Gdy synchronizacja jest wyłączona, wszystkie dane pozostają tylko na tym urządzeniu.",
     "settings_sync_status_on": "Wł.",
     "settings_sync_status_off": "Wył.",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Powiadomienia są wyłączone. Stuknij, aby otworzyć Ustawienia systemowe."
   }
 }

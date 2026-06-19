@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Données de devoirs",
     "onboarding_sync_not_shared_password": "Le mot de passe n'est jamais envoyé",
     "settings_cloud_sync_title": "Synchronisation multi-appareils",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "En savoir plus sur le serveur TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Clavier standard",
@@ -823,12 +823,12 @@
     "permission_warning_description": "Les autorisations suivantes étaient précédemment activées mais sont maintenant désactivées. Les notifications et l'activité en direct associées peuvent ne pas s'afficher correctement.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Désactivé au niveau du système → Réglages → TigerDuck → Activer",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Lorsqu'elle est activée, TigerDuck synchronise les modifications d'emploi du temps et les états des devoirs entre vos appareils via le serveur TigerDuck.",
+    "onboarding_sync_disabled_note": "Quand la synchronisation est désactivée, toutes les données restent uniquement sur cet appareil. Les notifications push fonctionnent localement.",
+    "settings_sync_toggle_label": "Activer la synchronisation multi-appareils",
+    "settings_sync_brief_description": "Synchronisez les modifications d'emploi du temps et les états des devoirs entre vos appareils.",
+    "settings_sync_data_section": "Données partagées avec le serveur",
+    "settings_sync_disabled_note": "Quand la synchronisation est désactivée, toutes les données restent uniquement sur cet appareil.",
     "settings_sync_status_on": "Activé",
     "settings_sync_status_off": "Désactivé",
     "settings_sync_off_notifications_warning": "La sync multi-appareils est désactivée. Les notifications push et Live Updates ne sont pas disponibles.",

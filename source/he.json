@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "סנכרון בין מכשירים",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "למידע נוסף על שרת TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "מקלדת רגילה",
@@ -823,15 +823,15 @@
     "permission_warning_description": "ההרשאות הבאות היו מופעלות בעבר אך כעת מושבתות. התראות ופעילות חיה קשורות עלולות שלא להופיע כראוי.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "מושבת ברמת המערכת → הגדרות → TigerDuck → הפעלה",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "כאשר מופעל, TigerDuck מסנכרן עריכות מערכת שעות ומצבי מטלות בין המכשירים שלך דרך שרת TigerDuck.",
+    "onboarding_sync_disabled_note": "כאשר הסנכרון כבוי, כל הנתונים נשארים במכשיר זה בלבד. התראות פוש פועלות מקומית.",
+    "settings_sync_toggle_label": "הפעל סנכרון בין מכשירים",
+    "settings_sync_brief_description": "סנכרן עריכות מערכת שעות ומצבי מטלות בין המכשירים שלך.",
+    "settings_sync_data_section": "נתונים המשותפים עם השרת",
+    "settings_sync_disabled_note": "כאשר הסנכרון כבוי, כל הנתונים נשארים במכשיר זה בלבד.",
     "settings_sync_status_on": "פעיל",
     "settings_sync_status_off": "כבוי",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "ההתראות כבויות. הקש כדי לפתוח את הגדרות המערכת."
   }
 }

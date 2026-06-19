@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "ഉപകരണങ്ങൾ തമ്മിലുള്ള സിൻക്",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "TigerDuck ബാക്കെൻഡിനെ കുറിച്ച് കൂടുതൽ അറിയുക"
   },
   "android": {
     "account_id_use_standard_keyboard": "സ്റ്റാൻഡേർഡ് കീബോർഡ്",
@@ -823,15 +823,15 @@
     "permission_warning_description": "ഇനിപ്പറയുന്ന അനുമതികൾ മുമ്പ് പ്രവർത്തനക്ഷമമായിരുന്നു, ഇപ്പോൾ അക്ഷമം ചെയ്തിരിക്കുന്നു. ബന്ധപ്പെട്ട അറിയിപ്പുകളും Live Activity-ഉം ശരിയായി പ്രദർശിപ്പിക്കില്ല.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "സിസ്റ്റം നിലയിൽ ഓഫ് → Settings → TigerDuck → പ്രവർത്തനക്ഷമമാക്കുക",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "പ്രവർത്തനക്ഷമമാക്കുമ്പോൾ, TigerDuck സർവർ വഴി നിങ്ങളുടെ ഉപകരണങ്ങൾക്കിടയിൽ ടൈംടേബിൾ എഡിറ്റുകളും അസൈൻമെന്റ് നിലകളും TigerDuck സിങ്ക് ചെയ്യുന്നു.",
+    "onboarding_sync_disabled_note": "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും. പുഷ് അറിയിപ്പുകൾ പ്രാദേശികമായി പ്രവർത്തിക്കും.",
+    "settings_sync_toggle_label": "ക്രോസ്-ഡിവൈസ് സിങ്ക് പ്രവർത്തനക്ഷമമാക്കുക",
+    "settings_sync_brief_description": "നിങ്ങളുടെ ഉപകരണങ്ങൾക്കിടയിൽ ടൈംടേബിൾ എഡിറ്റുകളും അസൈൻമെന്റ് നിലകളും സിങ്ക് ചെയ്യുക.",
+    "settings_sync_data_section": "സെർവറുമായി പങ്കിട്ട ഡാറ്റ",
+    "settings_sync_disabled_note": "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.",
+    "settings_sync_status_on": "ഓൺ",
+    "settings_sync_status_off": "ഓഫ്",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "അറിയിപ്പുകൾ ഓഫ് ആണ്. സിസ്റ്റം സെറ്റിംഗ്സ് തുറക്കാൻ ടാപ്പ് ചെയ്യുക."
   }
 }

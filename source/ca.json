@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Sincronització entre dispositius",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Més informació sobre el servidor de TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Teclat estàndard",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Els permisos següents estaven activats anteriorment però ara estan desactivats. Les notificacions i l'activitat en temps real relacionades poden no mostrar-se correctament.",
     "push_server_status_live_activities": "Activitats en viu",
     "push_server_status_settings_hint": "Desactivat a nivell de sistema → Configuració → TigerDuck → Activar",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off",
+    "onboarding_sync_subtitle": "Quan està activada, TigerDuck sincronitza les edicions de l'horari i els estats dels treballs entre els teus dispositius a través del servidor de TigerDuck.",
+    "onboarding_sync_disabled_note": "Quan la sincronització és desactivada, totes les dades es queden només en aquest dispositiu. Les notificacions push funcionen localment.",
+    "settings_sync_toggle_label": "Activar la sincronització entre dispositius",
+    "settings_sync_brief_description": "Sincronitza les edicions de l'horari i els estats dels treballs entre els teus dispositius.",
+    "settings_sync_data_section": "Dades compartides amb el servidor",
+    "settings_sync_disabled_note": "Quan la sincronització és desactivada, totes les dades es queden només en aquest dispositiu.",
+    "settings_sync_status_on": "Activat",
+    "settings_sync_status_off": "Desactivat",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Les notificacions estan desactivades. Toca per obrir Configuració del sistema."
   }
 }

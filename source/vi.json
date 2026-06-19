@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Dữ liệu bài tập",
     "onboarding_sync_not_shared_password": "Mật khẩu không bao giờ được tải lên",
     "settings_cloud_sync_title": "Đồng bộ đa thiết bị",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Tìm hiểu thêm về máy chủ TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",
@@ -823,12 +823,12 @@
     "permission_warning_description": "Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và hoạt động trực tiếp liên quan có thể không hiển thị đúng.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Tắt ở cấp hệ thống → Cài đặt → TigerDuck → Bật",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Khi bật, TigerDuck đồng bộ các chỉnh sửa thời khóa biểu và trạng thái bài tập giữa các thiết bị của bạn qua máy chủ TigerDuck.",
+    "onboarding_sync_disabled_note": "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này. Thông báo đẩy vẫn hoạt động cục bộ.",
+    "settings_sync_toggle_label": "Bật đồng bộ xuyên thiết bị",
+    "settings_sync_brief_description": "Đồng bộ các chỉnh sửa thời khóa biểu và trạng thái bài tập giữa các thiết bị của bạn.",
+    "settings_sync_data_section": "Dữ liệu được chia sẻ với máy chủ",
+    "settings_sync_disabled_note": "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này.",
     "settings_sync_status_on": "Bật",
     "settings_sync_status_off": "Tắt",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",

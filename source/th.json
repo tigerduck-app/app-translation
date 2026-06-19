@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "ข้อมูลงานมอบหมาย",
     "onboarding_sync_not_shared_password": "รหัสผ่านจะไม่ถูกอัปโหลด",
     "settings_cloud_sync_title": "ซิงค์ข้ามอุปกรณ์",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "เรียนรู้เพิ่มเติมเกี่ยวกับเซิร์ฟเวอร์ TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "แป้นพิมพ์มาตรฐาน",
@@ -823,12 +823,12 @@
     "permission_warning_description": "สิทธิ์ต่อไปนี้เคยถูกอนุญาตไว้ก่อนหน้านี้ แต่ปัจจุบันถูกปิดใช้งานแล้ว การแจ้งเตือนและ Live Activity ที่เกี่ยวข้องอาจไม่แสดงผลอย่างถูกต้อง",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "ปิดใช้งานในระดับระบบ → ตั้งค่า → TigerDuck → เปิดใช้งาน",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "เมื่อเปิดใช้งาน TigerDuck จะซิงค์การแก้ไขตารางเรียนและสถานะงานระหว่างอุปกรณ์ของคุณผ่านเซิร์ฟเวอร์ TigerDuck",
+    "onboarding_sync_disabled_note": "เมื่อปิดการซิงค์ ข้อมูลทั้งหมดจะอยู่บนอุปกรณ์นี้เท่านั้น การแจ้งเตือนแบบพุชยังคงทำงานในเครื่อง",
+    "settings_sync_toggle_label": "เปิดใช้งานการซิงค์ข้ามอุปกรณ์",
+    "settings_sync_brief_description": "ซิงค์การแก้ไขตารางเรียนและสถานะงานระหว่างอุปกรณ์ของคุณ",
+    "settings_sync_data_section": "ข้อมูลที่แชร์กับเซิร์ฟเวอร์",
+    "settings_sync_disabled_note": "เมื่อปิดการซิงค์ ข้อมูลทั้งหมดจะอยู่บนอุปกรณ์นี้เท่านั้น",
     "settings_sync_status_on": "เปิด",
     "settings_sync_status_off": "ปิด",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",

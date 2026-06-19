@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Datos de tareas",
     "onboarding_sync_not_shared_password": "La contraseña nunca se sube",
     "settings_cloud_sync_title": "Sincronización entre dispositivos",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Más información sobre el servidor de TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Teclado estándar",
@@ -823,12 +823,12 @@
     "permission_warning_description": "Los siguientes permisos estaban habilitados anteriormente pero ahora están deshabilitados. Es posible que las notificaciones relacionadas y la actividad en vivo no se muestren correctamente.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Desactivado a nivel del sistema → Ajustes → TigerDuck → Activar",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Cuando está activada, TigerDuck sincroniza las ediciones del horario y los estados de las tareas entre tus dispositivos a través del servidor de TigerDuck.",
+    "onboarding_sync_disabled_note": "Cuando la sincronización está desactivada, todos los datos permanecen solo en este dispositivo. Las notificaciones push funcionan localmente.",
+    "settings_sync_toggle_label": "Activar sincronización entre dispositivos",
+    "settings_sync_brief_description": "Sincroniza las ediciones del horario y los estados de las tareas entre tus dispositivos.",
+    "settings_sync_data_section": "Datos compartidos con el servidor",
+    "settings_sync_disabled_note": "Cuando la sincronización está desactivada, todos los datos permanecen solo en este dispositivo.",
     "settings_sync_status_on": "Activado",
     "settings_sync_status_off": "Desactivado",
     "settings_sync_off_notifications_warning": "La sincronización está desactivada. Las notificaciones push y Live Updates no están disponibles.",

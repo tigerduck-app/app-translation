@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "La password non viene mai caricata",
     "settings_cloud_sync_title": "Sincronizzazione tra dispositivi",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Scopri di più sul server TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Tastiera standard",
@@ -823,12 +823,12 @@
     "permission_warning_description": "Le seguenti autorizzazioni erano abilitate in precedenza ma ora sono disattivate. Le notifiche e l'attività in tempo reale correlate potrebbero non essere visualizzate correttamente.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Disattivato a livello di sistema → Impostazioni → TigerDuck → Abilita",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Quando attivata, TigerDuck sincronizza le modifiche all'orario e gli stati dei compiti tra i tuoi dispositivi tramite il server TigerDuck.",
+    "onboarding_sync_disabled_note": "Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo. Le notifiche push funzionano localmente.",
+    "settings_sync_toggle_label": "Attiva la sincronizzazione tra dispositivi",
+    "settings_sync_brief_description": "Sincronizza le modifiche all'orario e gli stati dei compiti tra i tuoi dispositivi.",
+    "settings_sync_data_section": "Dati condivisi con il server",
+    "settings_sync_disabled_note": "Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo.",
     "settings_sync_status_on": "Attivo",
     "settings_sync_status_off": "Disattivo",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",

@@ -664,7 +664,7 @@
     <string name="settings_language_english">ਅੰਗਰੇਜ਼ੀ</string>
     <string name="settings_language_follow_system">ਸਿਸਟਮ ਮੁਤਾਬਕ (ਫਾਲਬੈਕ ਅੰਗਰੇਜ਼ੀ)</string>
     <string name="settings_language_traditional_chinese">ਰਵਾਇਤੀ ਚੀਨੀ</string>
-    <string name="settings_learn_more_backend">Learn more about the TigerDuck Backend</string>
+    <string name="settings_learn_more_backend">TigerDuck ਬੈਕਐਂਡ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</string>
     <string name="settings_library_account_subtitle">ਪਾਸਵਰਡ ਅਕਾਦਮਿਕ ਸਿਸਟਮ ਤੋਂ ਵੱਖਰਾ ਹੋ ਸਕਦਾ ਹੈ; ਡਿਫੌਲਟ ਤੁਹਾਡਾ ਰਾਸ਼ਟਰੀ ID ਨੰਬਰ ਹੈ</string>
     <string name="settings_library_feature_disabled_message">ਪਹਿਲਾਂ \"ਲਾਇਬ੍ਰੇਰੀ ਅਤੇ ਸੰਬੰਧਿਤ ਫੀਚਰ\" ਚਾਲੂ ਕਰੋ, ਫਿਰ ਲਾਇਬ੍ਰੇਰੀ QR ਸ਼ਾਰਟਕੱਟ ਵਰਤੋ।</string>
     <string name="settings_library_feature_disabled_title">ਲਾਇਬ੍ਰੇਰੀ ਫੀਚਰ ਅਯੋਗ ਹੈ</string>

@@ -760,7 +760,7 @@
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_cloud_sync_title": "Sincronizare între dispozitive",
-    "settings_learn_more_backend": "Learn more about the TigerDuck Backend"
+    "settings_learn_more_backend": "Aflați mai multe despre serverul TigerDuck"
   },
   "android": {
     "account_id_use_standard_keyboard": "Tastatură standard",
@@ -823,15 +823,15 @@
     "permission_warning_description": "Următoarele permisiuni au fost activate anterior, dar acum sunt dezactivate. Notificările și activitatea live asociate pot să nu se afișeze corect.",
     "push_server_status_live_activities": "Activități Live",
     "push_server_status_settings_hint": "Dezactivat la nivel de sistem → Setări → TigerDuck → Activează",
-    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
-    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "settings_sync_toggle_label": "Enable cross-device sync",
-    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
-    "settings_sync_data_section": "Data shared with the server",
-    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "onboarding_sync_subtitle": "Când este activată, TigerDuck sincronizează editările orarului și stările temelor între dispozitivele tale prin serverul TigerDuck.",
+    "onboarding_sync_disabled_note": "Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv. Notificările push funcționează local.",
+    "settings_sync_toggle_label": "Activează sincronizarea între dispozitive",
+    "settings_sync_brief_description": "Sincronizează editările orarului și stările temelor între dispozitivele tale.",
+    "settings_sync_data_section": "Date partajate cu serverul",
+    "settings_sync_disabled_note": "Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv.",
     "settings_sync_status_on": "Pornit",
     "settings_sync_status_off": "Oprit",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
+    "settings_notifications_disabled_warning": "Notificările sunt dezactivate. Atinge pentru a deschide Setările sistemului."
   }
 }
