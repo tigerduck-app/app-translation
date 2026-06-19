@@ -486,8 +486,8 @@
 "onboarding_permissions_subtitle" = "Grant these permissions so assignment and class reminders can arrive on time even when the app is closed. You can change them later in Settings.";
 "onboarding_permissions_title" = "Notification & reminder permissions";
 "onboarding_privacy_continue_hint" = "Confirm both items to continue";
-"onboarding_privacy_delete_account_label" = "Account deletion";
-"onboarding_privacy_policy_label" = "Privacy policy";
+"onboarding_privacy_delete_account_label" = "Delete Account";
+"onboarding_privacy_policy_label" = "Privacy Policy";
 "onboarding_privacy_subtitle" = "Before using TigerDuck, please make sure you fully understand its terms.";
 "onboarding_privacy_title" = "Privacy & terms";
 "onboarding_ready_subtitle" = "Start exploring campus life";
