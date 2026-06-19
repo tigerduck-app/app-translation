@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">Bejelentkezés</string>
     <string name="onboarding_skip_for_now">Kihagyás egyelőre</string>
     <string name="onboarding_start_button">TigerDuck használatának megkezdése</string>
+    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">A TigerDuck egy kampusz-asszisztens, amelyet egy hallgatói csapat hozott létre azért, hogy orvosolja a szétszórt forrásokat, a késedelmes értesítéseket és a kényelmetlen felületeket. \nAz alkalmazás teljes egészében a fejlesztők jóindulatából működik — ha problémát találsz, kérlek, jelezd (látogass el az alábbi weboldalra, csatlakozz a Discordunkhoz, vagy töltsd ki a visszajelzési űrlapot). Szívesen vesszük, ha segítesz a fejlesztésben vagy közvetlenül hozzájárulsz.</string>
     <string name="onboarding_welcome_github_label">TigerDuck a GitHubon</string>
     <string name="onboarding_welcome_subtitle">Az Ön NTUST kampusz asszisztense</string>

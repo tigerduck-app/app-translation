@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">登入帳號</string>
     <string name="onboarding_skip_for_now">暫時跳過</string>
     <string name="onboarding_start_button">開始使用 TigerDuck</string>
+    <string name="onboarding_sync_title">跨裝置同步</string>
+    <string name="onboarding_sync_toggle_label">啟用跨裝置同步</string>
     <string name="onboarding_welcome_description">這是由一群學生共同開發的校園助手，為了解決資源零散、通知不及時與介面不直觀等問題。\n本應用程式純靠各位開發者用愛發電，若發現問題請盡量回報（進入以下官網可以加入我們的 Discord 群組或是填寫回饋表單），協助我們開發，您也可以親自參與開發。</string>
     <string name="onboarding_welcome_github_label">TigerDuck 應用程式 GitHub</string>
     <string name="onboarding_welcome_subtitle">你的臺科大校園助手</string>

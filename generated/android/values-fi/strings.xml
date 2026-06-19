@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">Kirjaudu sisään</string>
     <string name="onboarding_skip_for_now">Ohita toistaiseksi</string>
     <string name="onboarding_start_button">Aloita TigerDuckin käyttö</string>
+    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck on kampusapulainen, jonka opiskelijaryhmä on rakentanut korjatakseen hajaantuneet resurssit, myöhästyneet ilmoitukset ja kömpelöt käyttöliittymät. \nSovellus pyörii kokonaan kehittäjien hyväntahdolla — jos törmäät ongelmiin, ilmoita niistä (käy alla olevalla sivustolla liittyäksesi Discord-kanavallemme tai täyttääksesi palautelomakkeen). Tervetuloa auttamaan parantamisessa tai osallistumaan suoraan kehitykseen.</string>
     <string name="onboarding_welcome_github_label">TigerDuck GitHubissa</string>
     <string name="onboarding_welcome_subtitle">NTUST-kampusavustajasi</string>

@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">登入帳號</string>
     <string name="onboarding_skip_for_now">暫時跳過</string>
     <string name="onboarding_start_button">開始使用 TigerDuck</string>
+    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">呢個應用係由一班學生一齊開發嘅校園助手，解決資源散亂、通知唔夠及時、介面唔夠直觀等問題。\n本應用程式完全靠各位開發者用愛發電，如果發現問題請盡量回報（入以下官網可以加入我哋嘅 Discord 群組或者填寫意見表），協助我哋開發；你亦都可以親自參與開發。</string>
     <string name="onboarding_welcome_github_label">TigerDuck 應用程式 GitHub</string>
     <string name="onboarding_welcome_subtitle">你的臺科大校園助手</string>

@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">साइन इन करें</string>
     <string name="onboarding_skip_for_now">अभी के लिए छोड़ें</string>
     <string name="onboarding_start_button">TigerDuck उपयोग करना शुरू करें</string>
+    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck छात्रों के एक समूह द्वारा बनाया गया कैंपस सहायक है, जो बिखरे हुए संसाधनों, देरी से आने वाली सूचनाओं और असुविधाजनक इंटरफ़ेस की समस्याओं को हल करता है। \nयह ऐप पूरी तरह से डेवलपर्स की सद्भावना पर चलता है — यदि कोई समस्या मिले, तो कृपया बताएँ (नीचे दी गई वेबसाइट पर जाकर हमारे Discord से जुड़ें या फीडबैक फ़ॉर्म भरें)। आपका सुधार में मदद करने या विकास में सीधे योगदान करने का स्वागत है।</string>
     <string name="onboarding_welcome_github_label">GitHub पर TigerDuck</string>
     <string name="onboarding_welcome_subtitle">आपका NTUST कैंपस सहायक</string>

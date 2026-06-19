@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">Innskrá</string>
     <string name="onboarding_skip_for_now">Sleppa í bili</string>
     <string name="onboarding_start_button">Byrja að nota TigerDuck</string>
+    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck er háskólaaðstoðarmaður búinn til af hópi nemenda til að leysa dreifðar auðlindir, seinkar tilkynningar og óþjál viðmót. \nAppið keyrir alfarið á góðvilja forritaranna — ef þú finnur einhver vandamál, vinsamlegast tilkynntu þau (heimsæktu vefsíðuna hér að neðan til að ganga til liðs við Discord-svæðið okkar eða fylla út endurgjafareyðublaðið). Þér er velkomið að hjálpa okkur að bæta það eða leggja beint til þróunarinnar.</string>
     <string name="onboarding_welcome_github_label">TigerDuck á GitHub</string>
     <string name="onboarding_welcome_subtitle">Háskólaassistentinn þinn hjá NTUST</string>

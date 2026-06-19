@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">Zaloguj się</string>
     <string name="onboarding_skip_for_now">Pomiń na razie</string>
     <string name="onboarding_start_button">Rozpocznij korzystanie z TigerDuck</string>
+    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck to asystent kampusowy stworzony przez grupę studentów, by rozwiązać problemy rozproszonych zasobów, opóźnionych powiadomień i niewygodnych interfejsów. \nAplikacja działa wyłącznie dzięki dobrej woli twórców — jeśli zauważysz problemy, zgłoś je (odwiedź stronę poniżej, aby dołączyć do naszego Discorda lub wypełnić formularz opinii). Zapraszamy do pomocy w ulepszaniu aplikacji lub bezpośredniego udziału w jej rozwoju.</string>
     <string name="onboarding_welcome_github_label">TigerDuck na GitHubie</string>
     <string name="onboarding_welcome_subtitle">Państwa asystent kampusu NTUST</string>

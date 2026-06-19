@@ -751,7 +751,9 @@
     "settings_analytics_enabled": "Usage analytics",
     "settings_analytics_description": "Share anonymous usage data (pages visited, widget usage) to help improve TigerDuck",
     "onboarding_analytics_label": "Usage analytics (optional)",
-    "onboarding_analytics_description": "Help improve TigerDuck by sharing anonymous page visits and widget usage. You can change this anytime in Settings."
+    "onboarding_analytics_description": "Help improve TigerDuck by sharing anonymous page visits and widget usage. You can change this anytime in Settings.",
+    "onboarding_sync_title": "Cross-Device Sync",
+    "onboarding_sync_toggle_label": "Enable cross-device sync"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standard keyboard",
@@ -813,6 +815,20 @@
     "permission_notifications_description": "Allow the app to show notifications; otherwise notifications and live activity will not appear.",
     "permission_warning_description": "The following permissions were previously enabled but are now disabled. Related notifications and live activity may not display correctly.",
     "push_server_status_live_activities": "Live Activities",
-    "push_server_status_settings_hint": "Disabled at system level → Settings → TigerDuck → Enable"
+    "push_server_status_settings_hint": "Disabled at system level → Settings → TigerDuck → Enable",
+    "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
+    "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
+    "onboarding_sync_shared_student_id": "Student ID",
+    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
+    "onboarding_sync_shared_device_id": "Device ID",
+    "onboarding_sync_shared_courses": "Course data",
+    "onboarding_sync_shared_assignments": "Assignment data",
+    "onboarding_sync_not_shared_password": "Password is never uploaded",
+    "settings_sync_toggle_label": "Enable cross-device sync",
+    "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
+    "settings_sync_data_section": "Data shared with the server",
+    "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
+    "settings_sync_status_on": "On",
+    "settings_sync_status_off": "Off"
   }
 }

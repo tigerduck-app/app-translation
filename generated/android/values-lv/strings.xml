@@ -520,6 +520,8 @@
     <string name="onboarding_sign_in_title">Pieteikties</string>
     <string name="onboarding_skip_for_now">Pagaidām izlaist</string>
     <string name="onboarding_start_button">Sākt lietot TigerDuck</string>
+    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck ir studentu grupas izveidots universitātes palīgs, kas risina izklaidētu resursu, novēlotu paziņojumu un neērtu interfeisu problēmas. \nLietotne darbojas vienīgi pateicoties izstrādātāju labvēlībai — ja pamanāt problēmas, lūdzu, ziņojiet par tām (apmeklējiet zemāk norādīto vietni, lai pievienotos mūsu Discord vai aizpildītu atsauksmju veidlapu). Aicinām palīdzēt to uzlabot vai tieši piedalīties izstrādē.</string>
     <string name="onboarding_welcome_github_label">TigerDuck vietnē GitHub</string>
     <string name="onboarding_welcome_subtitle">Jūsu NTUST universitātes palīgs</string>
