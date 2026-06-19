@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Prikaži original";
 "settings_classroom_mandarin_display_pinyin" = "Prikaži pinyin";
 "settings_classroom_mandarin_display_translated" = "Prikaži prijevod";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Tema boja";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Povratne informacije / Prijava problema";

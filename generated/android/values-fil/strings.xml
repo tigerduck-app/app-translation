@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Mag-sign in</string>
     <string name="onboarding_skip_for_now">Laktawan muna</string>
     <string name="onboarding_start_button">Simulan na gamitin ang TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">Ang TigerDuck ay isang campus assistant na ginawa ng grupo ng mga estudyante para ayusin ang nakakalat na mga mapagkukunan, naantalang mga abiso, at hindi madaling gamitin na mga interface. \nGumagana ang app dahil lamang sa kabutihang-loob ng mga developer — kung may makita kang problema, mangyaring iulat ito (bisitahin ang website sa ibaba para sumali sa aming Discord o punan ang feedback form). Tinatanggap ka naming tumulong sa paggawa nito o direktang mag-ambag sa development.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Ipakita ang orihinal</string>
     <string name="settings_classroom_mandarin_display_pinyin">Ipakita ang pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Ipakita ang salin</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Kulay na tema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Feedback / Mag-ulat ng isyu</string>

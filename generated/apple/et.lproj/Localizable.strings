@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Kuva originaal";
 "settings_classroom_mandarin_display_pinyin" = "Kuva pinyin";
 "settings_classroom_mandarin_display_translated" = "Kuva tõlge";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Värvi teema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Tagasiside / Vea aruanne";

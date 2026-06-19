@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Rodyti originalą";
 "settings_classroom_mandarin_display_pinyin" = "Rodyti pinyin";
 "settings_classroom_mandarin_display_translated" = "Rodyti vertimą";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Spalvų tema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Atsiliepimai / Pranešti apie klaidą";

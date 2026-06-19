@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Bejelentkezés</string>
     <string name="onboarding_skip_for_now">Kihagyás egyelőre</string>
     <string name="onboarding_start_button">TigerDuck használatának megkezdése</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">A TigerDuck egy kampusz-asszisztens, amelyet egy hallgatói csapat hozott létre azért, hogy orvosolja a szétszórt forrásokat, a késedelmes értesítéseket és a kényelmetlen felületeket. \nAz alkalmazás teljes egészében a fejlesztők jóindulatából működik — ha problémát találsz, kérlek, jelezd (látogass el az alábbi weboldalra, csatlakozz a Discordunkhoz, vagy töltsd ki a visszajelzési űrlapot). Szívesen vesszük, ha segítesz a fejlesztésben vagy közvetlenül hozzájárulsz.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Eredeti megjelenítése</string>
     <string name="settings_classroom_mandarin_display_pinyin">Pinyin megjelenítése</string>
     <string name="settings_classroom_mandarin_display_translated">Fordítás megjelenítése</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Színtéma</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Visszajelzés / Hibabejelentés</string>

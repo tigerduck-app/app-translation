@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "اصل دکھائیں";
 "settings_classroom_mandarin_display_pinyin" = "پنین دکھائیں";
 "settings_classroom_mandarin_display_translated" = "ترجمہ دکھائیں";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "رنگ تھیم";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "رائے / مسئلہ رپورٹ کریں";

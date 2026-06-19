@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Innskrá</string>
     <string name="onboarding_skip_for_now">Sleppa í bili</string>
     <string name="onboarding_start_button">Byrja að nota TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck er háskólaaðstoðarmaður búinn til af hópi nemenda til að leysa dreifðar auðlindir, seinkar tilkynningar og óþjál viðmót. \nAppið keyrir alfarið á góðvilja forritaranna — ef þú finnur einhver vandamál, vinsamlegast tilkynntu þau (heimsæktu vefsíðuna hér að neðan til að ganga til liðs við Discord-svæðið okkar eða fylla út endurgjafareyðublaðið). Þér er velkomið að hjálpa okkur að bæta það eða leggja beint til þróunarinnar.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Sýna upprunalegt</string>
     <string name="settings_classroom_mandarin_display_pinyin">Sýna pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Sýna þýðingu</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Litaþema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Endurgjöf / Tilkynna villu</string>

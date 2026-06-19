@@ -753,7 +753,14 @@
     "onboarding_analytics_label": "ব্যবহার বিশ্লেষণ (ঐচ্ছিক)",
     "onboarding_analytics_description": "বেনামী পেজ ভিজিট ও উইজেট ব্যবহারের তথ্য শেয়ার করে TigerDuck উন্নত করতে সাহায্য করুন। আপনি যেকোনো সময় সেটিংসে এটি পরিবর্তন করতে পারবেন।",
     "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync"
+    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_shared_student_id": "Student ID",
+    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
+    "onboarding_sync_shared_device_id": "Device ID",
+    "onboarding_sync_shared_courses": "Course data",
+    "onboarding_sync_shared_assignments": "Assignment data",
+    "onboarding_sync_not_shared_password": "Password is never uploaded",
+    "settings_cloud_sync_title": "Cross-Device Sync"
   },
   "android": {
     "account_id_use_standard_keyboard": "স্ট্যান্ডার্ড কীবোর্ড",
@@ -818,12 +825,6 @@
     "push_server_status_settings_hint": "সিস্টেম স্তরে নিষ্ক্রিয় → সেটিংস → TigerDuck → চালু",
     "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
     "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_sync_toggle_label": "Enable cross-device sync",
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",

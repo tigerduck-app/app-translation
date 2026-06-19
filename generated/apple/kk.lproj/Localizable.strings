@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Түпнұсқаны көрсету";
 "settings_classroom_mandarin_display_pinyin" = "Пиньиньді көрсету";
 "settings_classroom_mandarin_display_translated" = "Аударманы көрсету";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Түс тақырыбы";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Пікір / Мәселені хабарлау";

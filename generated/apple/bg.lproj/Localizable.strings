@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Показване на оригинал";
 "settings_classroom_mandarin_display_pinyin" = "Показване на пиньинь";
 "settings_classroom_mandarin_display_translated" = "Показване на превод";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Цветова тема";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Обратна връзка / Докладване на проблем";

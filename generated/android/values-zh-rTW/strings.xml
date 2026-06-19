@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">登入帳號</string>
     <string name="onboarding_skip_for_now">暫時跳過</string>
     <string name="onboarding_start_button">開始使用 TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">密碼不會被上傳</string>
+    <string name="onboarding_sync_shared_assignments">作業資料</string>
+    <string name="onboarding_sync_shared_courses">課程資料</string>
+    <string name="onboarding_sync_shared_device_id">裝置 ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token（加密上傳）</string>
+    <string name="onboarding_sync_shared_student_id">學號</string>
     <string name="onboarding_sync_title">跨裝置同步</string>
     <string name="onboarding_sync_toggle_label">啟用跨裝置同步</string>
     <string name="onboarding_welcome_description">這是由一群學生共同開發的校園助手，為了解決資源零散、通知不及時與介面不直觀等問題。\n本應用程式純靠各位開發者用愛發電，若發現問題請盡量回報（進入以下官網可以加入我們的 Discord 群組或是填寫回饋表單），協助我們開發，您也可以親自參與開發。</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">顯示原文</string>
     <string name="settings_classroom_mandarin_display_pinyin">顯示拼音</string>
     <string name="settings_classroom_mandarin_display_translated">顯示翻譯</string>
+    <string name="settings_cloud_sync_title">跨裝置同步</string>
     <string name="settings_color_theme">顏色主題</string>
     <string name="settings_delete_account">刪除帳號</string>
     <string name="settings_feedback_bug_report">回饋/問題回報</string>

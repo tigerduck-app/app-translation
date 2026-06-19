@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Sýna upprunalegt";
 "settings_classroom_mandarin_display_pinyin" = "Sýna pinyin";
 "settings_classroom_mandarin_display_translated" = "Sýna þýðingu";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Litaþema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Endurgjöf / Tilkynna villu";

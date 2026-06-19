@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "顯示原文";
 "settings_classroom_mandarin_display_pinyin" = "顯示拼音";
 "settings_classroom_mandarin_display_translated" = "顯示譯文";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "顏色主題";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "回饋/問題回報";

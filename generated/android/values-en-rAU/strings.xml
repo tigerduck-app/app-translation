@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Sign in</string>
     <string name="onboarding_skip_for_now">Skip for now</string>
     <string name="onboarding_start_button">Start using TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck is a campus assistant built by a group of students to fix scattered resources, late notifications, and clunky interfaces. \nThe app runs entirely on the developers\' goodwill — if you find any issues, please report them (visit the website below to join our Discord or fill out the feedback form). You\'re welcome to help us improve, or contribute directly to development.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Display original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Display pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Display translated</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Colour theme</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Feedback / Report issue</string>

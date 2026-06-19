@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Кіру</string>
     <string name="onboarding_skip_for_now">Қазіргіше өткізіп жіберу</string>
     <string name="onboarding_start_button">TigerDuck-ты қолдануды бастау</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck — шашыраңқы ресурстарды, кешіккен хабарландыруларды және ыңғайсыз интерфейстерді шешу үшін студенттер тобы жасаған кампус көмекшісі. \nҚосымша тек әзірлеушілердің ниетімен жұмыс істейді — егер кез келген ақау тапсаңыз, хабарлап қойыңыз (Discord-қа қосылу немесе кері байланыс формасын толтыру үшін төмендегі сайтқа кіріңіз). Жақсартуға көмектесуге немесе тікелей әзірлеуге үлес қосуға қош келдіңіз.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Түпнұсқаны көрсету</string>
     <string name="settings_classroom_mandarin_display_pinyin">Пиньиньді көрсету</string>
     <string name="settings_classroom_mandarin_display_translated">Аударманы көрсету</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Түс тақырыбы</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Пікір / Мәселені хабарлау</string>

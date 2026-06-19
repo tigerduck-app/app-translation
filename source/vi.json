@@ -753,7 +753,14 @@
     "onboarding_analytics_label": "Phân tích sử dụng (tùy chọn)",
     "onboarding_analytics_description": "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt.",
     "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync"
+    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_shared_student_id": "Student ID",
+    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
+    "onboarding_sync_shared_device_id": "Device ID",
+    "onboarding_sync_shared_courses": "Course data",
+    "onboarding_sync_shared_assignments": "Assignment data",
+    "onboarding_sync_not_shared_password": "Password is never uploaded",
+    "settings_cloud_sync_title": "Cross-Device Sync"
   },
   "android": {
     "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",
@@ -818,12 +825,6 @@
     "push_server_status_settings_hint": "Tắt ở cấp hệ thống → Cài đặt → TigerDuck → Bật",
     "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
     "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_sync_toggle_label": "Enable cross-device sync",
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",

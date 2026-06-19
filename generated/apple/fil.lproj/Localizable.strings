@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Ipakita ang orihinal";
 "settings_classroom_mandarin_display_pinyin" = "Ipakita ang pinyin";
 "settings_classroom_mandarin_display_translated" = "Ipakita ang salin";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Kulay na tema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Feedback / Mag-ulat ng isyu";

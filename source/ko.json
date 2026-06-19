@@ -753,7 +753,14 @@
     "onboarding_analytics_label": "사용 분석 (선택 사항)",
     "onboarding_analytics_description": "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.",
     "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync"
+    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_shared_student_id": "Student ID",
+    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
+    "onboarding_sync_shared_device_id": "Device ID",
+    "onboarding_sync_shared_courses": "Course data",
+    "onboarding_sync_shared_assignments": "Assignment data",
+    "onboarding_sync_not_shared_password": "Password is never uploaded",
+    "settings_cloud_sync_title": "Cross-Device Sync"
   },
   "android": {
     "account_id_use_standard_keyboard": "표준 키보드",
@@ -818,12 +825,6 @@
     "push_server_status_settings_hint": "시스템 수준에서 비활성화됨 → 설정 → TigerDuck → 활성화",
     "onboarding_sync_subtitle": "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.",
     "onboarding_sync_disabled_note": "When sync is off, all data stays on this device only. Push notifications still work locally.",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
     "settings_sync_toggle_label": "Enable cross-device sync",
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",

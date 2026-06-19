@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Prijava</string>
     <string name="onboarding_skip_for_now">Preskoči za sada</string>
     <string name="onboarding_start_button">Počni koristiti TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck je kampusni pomoćnik koji je izradila skupina studenata kako bi riješili razbacane resurse, zakašnjele obavijesti i neugodna sučelja. \nAplikacija radi isključivo zahvaljujući dobroj volji programera — ako naiđete na probleme, prijavite ih (posjetite donju web-stranicu kako biste se pridružili našem Discordu ili ispunili obrazac za povratne informacije). Slobodno nam pomozite poboljšati je ili izravno doprinijeti razvoju.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Prikaži original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Prikaži pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Prikaži prijevod</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Tema boja</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Povratne informacije / Prijava problema</string>

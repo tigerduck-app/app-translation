@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Σύνδεση</string>
     <string name="onboarding_skip_for_now">Παράλειψη προς το παρόν</string>
     <string name="onboarding_start_button">Ξεκινήστε να χρησιμοποιείτε το TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">Το TigerDuck είναι ένας βοηθός πανεπιστημιούπολης φτιαγμένος από μια ομάδα φοιτητών για να λύσει διάσπαρτους πόρους, καθυστερημένες ειδοποιήσεις και άβολα περιβάλλοντα χρήσης. \nΗ εφαρμογή τρέχει εξ ολοκλήρου χάρη στη διάθεση των προγραμματιστών — αν εντοπίσετε προβλήματα, αναφέρετέ τα (επισκεφθείτε τον ιστότοπο παρακάτω για να συμμετάσχετε στο Discord μας ή να συμπληρώσετε τη φόρμα σχολίων). Θα χαρούμε να μας βοηθήσετε να τη βελτιώσουμε ή να συνεισφέρετε άμεσα στην ανάπτυξη.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Εμφάνιση πρωτότυπου</string>
     <string name="settings_classroom_mandarin_display_pinyin">Εμφάνιση πινγίν</string>
     <string name="settings_classroom_mandarin_display_translated">Εμφάνιση μετάφρασης</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Θέμα χρωμάτων</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Σχόλια / Αναφορά προβλήματος</string>

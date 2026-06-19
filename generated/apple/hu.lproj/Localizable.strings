@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Eredeti megjelenítése";
 "settings_classroom_mandarin_display_pinyin" = "Pinyin megjelenítése";
 "settings_classroom_mandarin_display_translated" = "Fordítás megjelenítése";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Színtéma";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Visszajelzés / Hibabejelentés";

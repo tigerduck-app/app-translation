@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "மூலத்தைக் காட்டு";
 "settings_classroom_mandarin_display_pinyin" = "பின்யினைக் காட்டு";
 "settings_classroom_mandarin_display_translated" = "மொழிபெயர்ப்பைக் காட்டு";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "நிற தீம்";
 "settings_delete_account" = "கணக்கை நீக்கு";
 "settings_feedback_bug_report" = "கருத்து / சிக்கல் அறிக்கை";

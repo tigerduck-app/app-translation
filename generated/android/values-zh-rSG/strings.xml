@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">登录帐号</string>
     <string name="onboarding_skip_for_now">暂时跳过</string>
     <string name="onboarding_start_button">开始使用 TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">这是由一群学生共同开发的校园助手，旨在解决资源零散、通知不及时与界面不直观等问题。\n本应用程序完全靠各位开发者用爱发电，若发现问题请尽量回报（进入以下官网可以加入我们的 Discord 群组或是填写反馈表单），协助我们开发，您也可以亲自参与开发。</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">显示原文</string>
     <string name="settings_classroom_mandarin_display_pinyin">显示拼音</string>
     <string name="settings_classroom_mandarin_display_translated">显示翻译</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">颜色主题</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">回馈/问题回报</string>

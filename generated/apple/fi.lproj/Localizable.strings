@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Näytä alkuperäinen";
 "settings_classroom_mandarin_display_pinyin" = "Näytä pinyin";
 "settings_classroom_mandarin_display_translated" = "Näytä käännös";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Väriteema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Palaute / Ilmoita ongelma";

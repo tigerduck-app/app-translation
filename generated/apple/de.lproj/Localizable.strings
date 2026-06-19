@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Originalanzeige";
 "settings_classroom_mandarin_display_pinyin" = "Pinyin anzeigen";
 "settings_classroom_mandarin_display_translated" = "Übersetzung anzeigen";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Farbschema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Feedback / Fehler melden";

@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Zobraziť pôvodný text";
 "settings_classroom_mandarin_display_pinyin" = "Zobraziť pinyin";
 "settings_classroom_mandarin_display_translated" = "Zobraziť preklad";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "Farebná téma";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Spätná väzba / Nahlásenie problému";

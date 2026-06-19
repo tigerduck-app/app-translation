@@ -520,6 +520,12 @@
     <string name="onboarding_sign_in_title">Logg inn</string>
     <string name="onboarding_skip_for_now">Hopp over for nå</string>
     <string name="onboarding_start_button">Begynn å bruke TigerDuck</string>
+    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_shared_assignments">Assignment data</string>
+    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_shared_device_id">Device ID</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">TigerDuck er en campushjelper bygget av en gruppe studenter for å løse spredte ressurser, sene varsler og klønete grensesnitt. \nAppen drives utelukkende av utviklernes velvilje — hvis du finner problemer, vennligst meld fra (besøk nettstedet nedenfor for å bli med på Discord-en vår eller fylle ut tilbakemeldingsskjemaet). Du er velkommen til å hjelpe oss med å forbedre den eller bidra direkte til utviklingen.</string>
@@ -637,6 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Vis original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Vis pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Vis oversettelse</string>
+    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
     <string name="settings_color_theme">Fargetema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Tilbakemelding / Rapporter problem</string>

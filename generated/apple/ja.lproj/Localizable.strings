@@ -622,6 +622,7 @@
 "settings_classroom_mandarin_display_original" = "原文を表示";
 "settings_classroom_mandarin_display_pinyin" = "ピンインを表示";
 "settings_classroom_mandarin_display_translated" = "訳語を表示";
+"settings_cloud_sync_title" = "Cross-Device Sync";
 "settings_color_theme" = "カラーテーマ";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "フィードバック / 不具合報告";
