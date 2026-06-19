@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">Terjemahan UI</string>
     <string name="source_code_picker_repo_web_description">Laman web rasmi</string>
     <string name="source_code_picker_section_repositories">Repositori</string>
-    <string name="sync_backend_session_expired_message">Sila log keluar dan log masuk semula ke sistem NTUST untuk mengaktifkan semula penyegerakan pelbagai peranti.</string>
-    <string name="sync_backend_session_expired_title">Sambungan ke pelayan gagal</string>
     <string name="sync_success_content_description">Segerak berjaya</string>
     <string name="tab_editor_apply_action">Guna</string>
     <string name="tab_editor_drag_reorder">Seret untuk susun semula</string>

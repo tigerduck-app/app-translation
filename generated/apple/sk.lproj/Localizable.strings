@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Preklad rozhrania";
 "source_code_picker_repo_web_description" = "Oficiálna webová stránka";
 "source_code_picker_section_repositories" = "Repozitáre";
-"sync_backend_session_expired_message" = "Odhláste sa a znova sa prihláste do systému NTUST, aby ste znova aktivovali synchronizáciu medzi zariadeniami.";
-"sync_backend_session_expired_title" = "Pripojenie k serveru zlyhalo";
 "sync_success_content_description" = "Synchronizácia úspešná";
 "tab_editor_apply_action" = "Použiť";
 "tab_editor_drag_reorder" = "Ťahaním zmeňte poradie";

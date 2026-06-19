@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Analytics ng paggamit",
         "settings_analytics_description": "Ibahagi ang anonymous na datos ng paggamit (mga page na binisita, paggamit ng widget) para mapabuti ang TigerDuck",
         "onboarding_analytics_label": "Analytics ng paggamit (opsyonal)",
-        "onboarding_analytics_description": "Tulungan kaming mapabuti ang TigerDuck sa pamamagitan ng pagbabahagi ng iyong anonymous na mga page visit at paggamit ng widget. Maaari mong baguhin ito anumang oras sa Mga Setting.",
-        "sync_backend_session_expired_title": "Nabigo ang koneksyon sa server",
-        "sync_backend_session_expired_message": "Mangyaring mag-sign out at mag-sign in muli sa NTUST system upang muling i-enable ang multi-device sync."
+        "onboarding_analytics_description": "Tulungan kaming mapabuti ang TigerDuck sa pamamagitan ng pagbabahagi ng iyong anonymous na mga page visit at paggamit ng widget. Maaari mong baguhin ito anumang oras sa Mga Setting."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standard na keyboard",

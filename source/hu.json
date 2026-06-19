@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Használati analitika",
         "settings_analytics_description": "Ossz meg névtelen használati adatokat (meglátogatott oldalak, widget-használat), hogy segíts fejleszteni a TigerDuck-ot",
         "onboarding_analytics_label": "Használati analitika (nem kötelező)",
-        "onboarding_analytics_description": "Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban.",
-        "sync_backend_session_expired_title": "Szerverkapcsolat sikertelen",
-        "sync_backend_session_expired_message": "Kérjük, jelentkezzen ki, majd jelentkezzen be újra az NTUST rendszerbe a többeszközös szinkronizálás újbóli engedélyezéséhez."
+        "onboarding_analytics_description": "Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban."
     },
     "android": {
         "account_id_use_standard_keyboard": "Normál billentyűzet",

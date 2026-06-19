@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Превод на интерфейса";
 "source_code_picker_repo_web_description" = "Официален уебсайт";
 "source_code_picker_section_repositories" = "Хранилища";
-"sync_backend_session_expired_message" = "Моля, излезте и влезте отново в системата на NTUST, за да активирате отново синхронизацията между устройствата.";
-"sync_backend_session_expired_title" = "Неуспешна връзка със сървъра";
 "sync_success_content_description" = "Синхронизацията е успешна";
 "tab_editor_apply_action" = "Кандидатствайте";
 "tab_editor_drag_reorder" = "Плъзнете, за да пренаредите";

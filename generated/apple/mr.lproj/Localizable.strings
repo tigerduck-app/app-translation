@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "UI भाषांतर";
 "source_code_picker_repo_web_description" = "अधिकृत वेबपेज";
 "source_code_picker_section_repositories" = "रिपॉझिटरी";
-"sync_backend_session_expired_message" = "मल्टी-डिव्हाइस सिंक पुन्हा सक्षम करण्यासाठी कृपया NTUST सिस्टममधून साइन आउट करा आणि पुन्हा साइन इन करा.";
-"sync_backend_session_expired_title" = "बॅकएंड कनेक्शन अयशस्वी";
 "sync_success_content_description" = "सिंक यशस्वी";
 "tab_editor_apply_action" = "लागू करा";
 "tab_editor_drag_reorder" = "क्रम बदलण्यासाठी ड्रॅग करा";

@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Kullanım analitiği",
         "settings_analytics_description": "TigerDuck'ı geliştirmeye yardımcı olmak için anonim kullanım verilerini (ziyaret edilen sayfalar, widget kullanımı) paylaş",
         "onboarding_analytics_label": "Kullanım analitiği (isteğe bağlı)",
-        "onboarding_analytics_description": "Ziyaret edilen sayfalar ve widget kullanımına ilişkin anonim verileri paylaşarak TigerDuck'ı geliştirmeye yardımcı ol. Bunu istediğin zaman Ayarlar'dan değiştirebilirsin.",
-        "sync_backend_session_expired_title": "Sunucu bağlantısı başarısız",
-        "sync_backend_session_expired_message": "Çoklu cihaz senkronizasyonunu yeniden etkinleştirmek için lütfen NTUST sisteminden çıkış yapın ve tekrar giriş yapın."
+        "onboarding_analytics_description": "Ziyaret edilen sayfalar ve widget kullanımına ilişkin anonim verileri paylaşarak TigerDuck'ı geliştirmeye yardımcı ol. Bunu istediğin zaman Ayarlar'dan değiştirebilirsin."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standart klavye",

@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Gebruiksanalyse",
         "settings_analytics_description": "Deel anonieme gebruiksgegevens (bezochte pagina's, gebruik van widgets) om TigerDuck te helpen verbeteren",
         "onboarding_analytics_label": "Gebruiksanalyse (optioneel)",
-        "onboarding_analytics_description": "Help TigerDuck te verbeteren door anoniem paginabezoeken en widgetgebruik te delen. Je kunt dit altijd wijzigen in Instellingen.",
-        "sync_backend_session_expired_title": "Verbinding met server mislukt",
-        "sync_backend_session_expired_message": "Meld u af en meld u opnieuw aan bij het NTUST-systeem om de synchronisatie tussen meerdere apparaten opnieuw in te schakelen."
+        "onboarding_analytics_description": "Help TigerDuck te verbeteren door anoniem paginabezoeken en widgetgebruik te delen. Je kunt dit altijd wijzigen in Instellingen."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standaardtoetsenbord",

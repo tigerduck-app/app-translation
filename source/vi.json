@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Phân tích sử dụng",
         "settings_analytics_description": "Chia sẻ dữ liệu sử dụng ẩn danh (trang đã truy cập, sử dụng widget) để giúp cải thiện TigerDuck",
         "onboarding_analytics_label": "Phân tích sử dụng (tùy chọn)",
-        "onboarding_analytics_description": "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt.",
-        "sync_backend_session_expired_title": "Kết nối máy chủ thất bại",
-        "sync_backend_session_expired_message": "Vui lòng đăng xuất và đăng nhập lại vào hệ thống NTUST để kích hoạt lại đồng bộ đa thiết bị."
+        "onboarding_analytics_description": "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt."
     },
     "android": {
         "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",

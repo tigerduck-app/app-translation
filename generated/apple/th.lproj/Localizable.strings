@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "การแปล UI";
 "source_code_picker_repo_web_description" = "เว็บไซต์อย่างเป็นทางการ";
 "source_code_picker_section_repositories" = "รีโพซิทอรี";
-"sync_backend_session_expired_message" = "กรุณาออกจากระบบแล้วเข้าสู่ระบบ NTUST อีกครั้งเพื่อเปิดใช้งานการซิงค์หลายอุปกรณ์อีกครั้ง";
-"sync_backend_session_expired_title" = "การเชื่อมต่อเซิร์ฟเวอร์ล้มเหลว";
 "sync_success_content_description" = "ซิงค์สำเร็จ";
 "tab_editor_apply_action" = "นำไปใช้";
 "tab_editor_drag_reorder" = "ลากเพื่อจัดเรียง";

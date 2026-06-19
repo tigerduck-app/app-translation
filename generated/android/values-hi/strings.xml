@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">UI अनुवाद</string>
     <string name="source_code_picker_repo_web_description">आधिकारिक वेबपेज</string>
     <string name="source_code_picker_section_repositories">रिपॉजिटरी</string>
-    <string name="sync_backend_session_expired_message">मल्टी-डिवाइस सिंक को पुनः सक्षम करने के लिए कृपया NTUST सिस्टम से साइन आउट करें और फिर से साइन इन करें।</string>
-    <string name="sync_backend_session_expired_title">बैकएंड कनेक्शन विफल</string>
     <string name="sync_success_content_description">सिंक सफल</string>
     <string name="tab_editor_apply_action">लागू करें</string>
     <string name="tab_editor_drag_reorder">क्रम बदलने के लिए खींचें</string>

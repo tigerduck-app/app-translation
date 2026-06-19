@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Arayüz çevirisi";
 "source_code_picker_repo_web_description" = "Resmi web sayfası";
 "source_code_picker_section_repositories" = "Depolar";
-"sync_backend_session_expired_message" = "Çoklu cihaz senkronizasyonunu yeniden etkinleştirmek için lütfen NTUST sisteminden çıkış yapın ve tekrar giriş yapın.";
-"sync_backend_session_expired_title" = "Sunucu bağlantısı başarısız";
 "sync_success_content_description" = "Eşitleme başarılı";
 "tab_editor_apply_action" = "Uygula";
 "tab_editor_drag_reorder" = "Sıralamak için sürükleyin";

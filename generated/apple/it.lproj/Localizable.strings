@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Traduzione interfaccia";
 "source_code_picker_repo_web_description" = "Pagina web ufficiale";
 "source_code_picker_section_repositories" = "Repository";
-"sync_backend_session_expired_message" = "Disconnettiti e accedi nuovamente al sistema NTUST per riattivare la sincronizzazione multi-dispositivo.";
-"sync_backend_session_expired_title" = "Connessione al server fallita";
 "sync_success_content_description" = "Sincronizzazione riuscita";
 "tab_editor_apply_action" = "Applica";
 "tab_editor_drag_reorder" = "Trascina per riordinare";

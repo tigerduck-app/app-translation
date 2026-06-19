@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Kasutusanalüütika",
         "settings_analytics_description": "Jaga anonüümseid kasutusandmeid (külastatud lehed, vidinate kasutamine), et aidata TigerDucki paremaks muuta",
         "onboarding_analytics_label": "Kasutusanalüütika (valikuline)",
-        "onboarding_analytics_description": "Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta.",
-        "sync_backend_session_expired_title": "Ühendus serveriga ebaõnnestus",
-        "sync_backend_session_expired_message": "Palun logige välja ja logige uuesti sisse NTUST süsteemi, et taasaktiveerida mitme seadme sünkroniseerimine."
+        "onboarding_analytics_description": "Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardklaviatuur",

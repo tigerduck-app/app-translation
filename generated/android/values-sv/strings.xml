@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">UI-översättning</string>
     <string name="source_code_picker_repo_web_description">Officiell webbsida</string>
     <string name="source_code_picker_section_repositories">Repositorier</string>
-    <string name="sync_backend_session_expired_message">Logga ut och logga in igen i NTUST-systemet för att återaktivera synkronisering mellan enheter.</string>
-    <string name="sync_backend_session_expired_title">Anslutning till servern misslyckades</string>
     <string name="sync_success_content_description">Synkronisering lyckades</string>
     <string name="tab_editor_apply_action">Tillämpa</string>
     <string name="tab_editor_drag_reorder">Dra för att ändra ordning</string>

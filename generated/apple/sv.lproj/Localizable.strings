@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "UI-översättning";
 "source_code_picker_repo_web_description" = "Officiell webbsida";
 "source_code_picker_section_repositories" = "Repositorier";
-"sync_backend_session_expired_message" = "Logga ut och logga in igen i NTUST-systemet för att återaktivera synkronisering mellan enheter.";
-"sync_backend_session_expired_title" = "Anslutning till servern misslyckades";
 "sync_success_content_description" = "Synkronisering lyckades";
 "tab_editor_apply_action" = "Tillämpa";
 "tab_editor_drag_reorder" = "Dra för att ändra ordning";

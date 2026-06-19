@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">UI翻訳</string>
     <string name="source_code_picker_repo_web_description">公式ウェブページ</string>
     <string name="source_code_picker_section_repositories">リポジトリ</string>
-    <string name="sync_backend_session_expired_message">NTUSTシステムからサインアウトし、再度サインインしてマルチデバイス同期を再有効化してください。</string>
-    <string name="sync_backend_session_expired_title">サーバー接続に失敗しました</string>
     <string name="sync_success_content_description">同期に成功しました</string>
     <string name="tab_editor_apply_action">適用</string>
     <string name="tab_editor_drag_reorder">ドラッグして並び替え</string>

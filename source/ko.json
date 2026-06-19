@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "사용 분석",
         "settings_analytics_description": "익명 사용 데이터(방문한 페이지, 위젯 사용)를 공유하여 TigerDuck 개선에 도움을 주세요",
         "onboarding_analytics_label": "사용 분석 (선택 사항)",
-        "onboarding_analytics_description": "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.",
-        "sync_backend_session_expired_title": "서버 연결 실패",
-        "sync_backend_session_expired_message": "다중 기기 동기화를 다시 활성화하려면 NTUST 시스템에서 로그아웃 후 다시 로그인해 주세요."
+        "onboarding_analytics_description": "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요."
     },
     "android": {
         "account_id_use_standard_keyboard": "표준 키보드",

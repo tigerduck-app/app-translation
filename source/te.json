@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "వినియోగ విశ్లేషణ",
         "settings_analytics_description": "TigerDuck మెరుగుపరచడానికి అనామక వినియోగ డేటా (సందర్శించిన పేజీలు, విజెట్ వినియోగం) పంచుకోండి",
         "onboarding_analytics_label": "వినియోగ విశ్లేషణ (ఐచ్ఛికం)",
-        "onboarding_analytics_description": "అనామక పేజీ సందర్శనలు మరియు విజెట్ వినియోగాన్ని పంచుకుని TigerDuck మెరుగుపరచడంలో సహాయపడండి. మీరు ఇది ఎప్పుడైనా సెట్టింగ్‌లలో మార్చవచ్చు.",
-        "sync_backend_session_expired_title": "బ్యాకెండ్ కనెక్షన్ విఫలమైంది",
-        "sync_backend_session_expired_message": "మల్టీ-డివైస్ సింక్‌ను మళ్ళీ ప్రారంభించడానికి దయచేసి NTUST సిస్టమ్ నుండి సైన్ అవుట్ చేసి మళ్ళీ సైన్ ఇన్ చేయండి."
+        "onboarding_analytics_description": "అనామక పేజీ సందర్శనలు మరియు విజెట్ వినియోగాన్ని పంచుకుని TigerDuck మెరుగుపరచడంలో సహాయపడండి. మీరు ఇది ఎప్పుడైనా సెట్టింగ్‌లలో మార్చవచ్చు."
     },
     "android": {
         "account_id_use_standard_keyboard": "ప్రామాణిక కీబోర్డ్",

@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">Käyttöliittymän käännös</string>
     <string name="source_code_picker_repo_web_description">Virallinen verkkosivu</string>
     <string name="source_code_picker_section_repositories">Repositoriot</string>
-    <string name="sync_backend_session_expired_message">Kirjaudu ulos ja kirjaudu uudelleen NTUST-järjestelmään aktivoidaksesi monilaitesynkronoinnin uudelleen.</string>
-    <string name="sync_backend_session_expired_title">Yhteys palvelimeen epäonnistui</string>
     <string name="sync_success_content_description">Synkronointi onnistui</string>
     <string name="tab_editor_apply_action">Käytä</string>
     <string name="tab_editor_drag_reorder">Vedä järjestelläksesi</string>

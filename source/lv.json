@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Lietošanas analītika",
         "settings_analytics_description": "Dalies ar anonīmiem lietošanas datiem (apmeklētās lapas, sīkrīku lietošana), lai palīdzētu uzlabot TigerDuck",
         "onboarding_analytics_label": "Lietošanas analītika (neobligāti)",
-        "onboarding_analytics_description": "Palīdzi uzlabot TigerDuck, daloties ar anonīmiem datiem par apmeklētajām lapām un sīkrīku lietošanu. To var mainīt jebkurā laikā Iestatījumos.",
-        "sync_backend_session_expired_title": "Savienojums ar serveri neizdevās",
-        "sync_backend_session_expired_message": "Lūdzu, izrakstieties un pierakstieties vēlreiz NTUST sistēmā, lai atkārtoti iespējotu vairāku ierīču sinhronizāciju."
+        "onboarding_analytics_description": "Palīdzi uzlabot TigerDuck, daloties ar anonīmiem datiem par apmeklētajām lapām un sīkrīku lietošanu. To var mainīt jebkurā laikā Iestatījumos."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standarta tastatūra",

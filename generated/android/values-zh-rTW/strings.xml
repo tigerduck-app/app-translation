@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">介面翻譯</string>
     <string name="source_code_picker_repo_web_description">官方網頁</string>
     <string name="source_code_picker_section_repositories">程式碼庫</string>
-    <string name="sync_backend_session_expired_message">請登出並重新登入校務系統，已重新啟用多裝置同步。</string>
-    <string name="sync_backend_session_expired_title">連接至後端伺服器失敗</string>
     <string name="sync_success_content_description">同步成功</string>
     <string name="tab_editor_apply_action">套用</string>
     <string name="tab_editor_drag_reorder">拖曳圖示調整順序</string>

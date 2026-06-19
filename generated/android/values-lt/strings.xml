@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">Sąsajos vertimas</string>
     <string name="source_code_picker_repo_web_description">Oficialus tinklalapis</string>
     <string name="source_code_picker_section_repositories">Saugyklos</string>
-    <string name="sync_backend_session_expired_message">Atsijunkite ir vėl prisijunkite prie NTUST sistemos, kad iš naujo įgalintumėte kelių įrenginių sinchronizavimą.</string>
-    <string name="sync_backend_session_expired_title">Nepavyko prisijungti prie serverio</string>
     <string name="sync_success_content_description">Sinchronizavimas sėkmingas</string>
     <string name="tab_editor_apply_action">Taikyti</string>
     <string name="tab_editor_drag_reorder">Vilkite, kad pertvarkytumėte</string>

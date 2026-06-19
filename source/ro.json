@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Analiză utilizare",
         "settings_analytics_description": "Împărtășește date anonime despre utilizare (pagini vizitate, utilizarea widget-urilor) pentru a ajuta la îmbunătățirea TigerDuck",
         "onboarding_analytics_label": "Analiză utilizare (opțional)",
-        "onboarding_analytics_description": "Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări.",
-        "sync_backend_session_expired_title": "Conexiunea la server a eșuat",
-        "sync_backend_session_expired_message": "Vă rugăm să vă deconectați și să vă reconectați la sistemul NTUST pentru a reactiva sincronizarea între dispozitive."
+        "onboarding_analytics_description": "Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări."
     },
     "android": {
         "account_id_use_standard_keyboard": "Tastatură standard",

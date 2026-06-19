@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Ανάλυση χρήσης",
         "settings_analytics_description": "Μοιράσου ανώνυμα δεδομένα χρήσης (σελίδες που επισκέφτηκες, χρήση widget) για να βοηθήσεις στη βελτίωση του TigerDuck",
         "onboarding_analytics_label": "Ανάλυση χρήσης (προαιρετικό)",
-        "onboarding_analytics_description": "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις.",
-        "sync_backend_session_expired_title": "Αποτυχία σύνδεσης με τον διακομιστή",
-        "sync_backend_session_expired_message": "Παρακαλώ αποσυνδεθείτε και συνδεθείτε ξανά στο σύστημα NTUST για να ενεργοποιήσετε εκ νέου τον συγχρονισμό πολλαπλών συσκευών."
+        "onboarding_analytics_description": "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις."
     },
     "android": {
         "account_id_use_standard_keyboard": "Τυπικό πληκτρολόγιο",

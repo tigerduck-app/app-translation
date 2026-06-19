@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "การวิเคราะห์การใช้งาน",
         "settings_analytics_description": "แชร์ข้อมูลการใช้งานแบบไม่ระบุตัวตน (หน้าที่เข้าชม, การใช้วิดเจ็ต) เพื่อช่วยพัฒนา TigerDuck",
         "onboarding_analytics_label": "การวิเคราะห์การใช้งาน (ไม่บังคับ)",
-        "onboarding_analytics_description": "ช่วยพัฒนา TigerDuck ด้วยการแชร์ข้อมูลการเข้าชมหน้าและการใช้วิดเจ็ตแบบไม่ระบุตัวตน คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า",
-        "sync_backend_session_expired_title": "การเชื่อมต่อเซิร์ฟเวอร์ล้มเหลว",
-        "sync_backend_session_expired_message": "กรุณาออกจากระบบแล้วเข้าสู่ระบบ NTUST อีกครั้งเพื่อเปิดใช้งานการซิงค์หลายอุปกรณ์อีกครั้ง"
+        "onboarding_analytics_description": "ช่วยพัฒนา TigerDuck ด้วยการแชร์ข้อมูลการเข้าชมหน้าและการใช้วิดเจ็ตแบบไม่ระบุตัวตน คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า"
     },
     "android": {
         "account_id_use_standard_keyboard": "แป้นพิมพ์มาตรฐาน",

@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Μετάφραση διεπαφής";
 "source_code_picker_repo_web_description" = "Επίσημη ιστοσελίδα";
 "source_code_picker_section_repositories" = "Αποθετήρια";
-"sync_backend_session_expired_message" = "Παρακαλώ αποσυνδεθείτε και συνδεθείτε ξανά στο σύστημα NTUST για να ενεργοποιήσετε εκ νέου τον συγχρονισμό πολλαπλών συσκευών.";
-"sync_backend_session_expired_title" = "Αποτυχία σύνδεσης με τον διακομιστή";
 "sync_success_content_description" = "Επιτυχής συγχρονισμός";
 "tab_editor_apply_action" = "Εφαρμόζω";
 "tab_editor_drag_reorder" = "Σύρετε για αναδιάταξη";

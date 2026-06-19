@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">Arayüz çevirisi</string>
     <string name="source_code_picker_repo_web_description">Resmi web sayfası</string>
     <string name="source_code_picker_section_repositories">Depolar</string>
-    <string name="sync_backend_session_expired_message">Çoklu cihaz senkronizasyonunu yeniden etkinleştirmek için lütfen NTUST sisteminden çıkış yapın ve tekrar giriş yapın.</string>
-    <string name="sync_backend_session_expired_title">Sunucu bağlantısı başarısız</string>
     <string name="sync_success_content_description">Eşitleme başarılı</string>
     <string name="tab_editor_apply_action">Uygula</string>
     <string name="tab_editor_drag_reorder">Sıralamak için sürükleyin</string>

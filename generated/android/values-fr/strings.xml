@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">Traduction de l\'interface</string>
     <string name="source_code_picker_repo_web_description">Page web officielle</string>
     <string name="source_code_picker_section_repositories">Dépôts</string>
-    <string name="sync_backend_session_expired_message">Veuillez vous déconnecter et vous reconnecter au système NTUST pour réactiver la synchronisation multi-appareils.</string>
-    <string name="sync_backend_session_expired_title">Connexion au serveur échouée</string>
     <string name="sync_success_content_description">Synchronisation réussie</string>
     <string name="tab_editor_apply_action">Appliquer</string>
     <string name="tab_editor_drag_reorder">Glisser pour réorganiser</string>

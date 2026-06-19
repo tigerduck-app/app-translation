@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "使用分析",
         "settings_analytics_description": "分享匿名使用資料（瀏覽頁面、小工具使用情形）以協助改善 TigerDuck",
         "onboarding_analytics_label": "使用分析（選填）",
-        "onboarding_analytics_description": "分享匿名的頁面瀏覽和小工具使用資料，協助改善 TigerDuck。你可以隨時在設定中更改。",
-        "sync_backend_session_expired_title": "連接至後端伺服器失敗",
-        "sync_backend_session_expired_message": "請登出並重新登入校務系統，已重新啟用多裝置同步。"
+        "onboarding_analytics_description": "分享匿名的頁面瀏覽和小工具使用資料，協助改善 TigerDuck。你可以隨時在設定中更改。"
     },
     "android": {
         "account_id_use_standard_keyboard": "標準鍵盤",

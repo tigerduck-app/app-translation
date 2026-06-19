@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "תרגום ממשק";
 "source_code_picker_repo_web_description" = "דף אינטרנט רשמי";
 "source_code_picker_section_repositories" = "מאגרים";
-"sync_backend_session_expired_message" = "אנא התנתק והתחבר מחדש למערכת NTUST כדי להפעיל מחדש את הסנכרון בין מכשירים.";
-"sync_backend_session_expired_title" = "חיבור לשרת נכשל";
 "sync_success_content_description" = "סנכרון הצליח";
 "tab_editor_apply_action" = "הגשת בקשה";
 "tab_editor_drag_reorder" = "גרור לסידור מחדש";

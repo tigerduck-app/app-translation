@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Traducere interfață";
 "source_code_picker_repo_web_description" = "Pagina web oficială";
 "source_code_picker_section_repositories" = "Depozite";
-"sync_backend_session_expired_message" = "Vă rugăm să vă deconectați și să vă reconectați la sistemul NTUST pentru a reactiva sincronizarea între dispozitive.";
-"sync_backend_session_expired_title" = "Conexiunea la server a eșuat";
 "sync_success_content_description" = "Sincronizare reușită";
 "tab_editor_apply_action" = "Aplică";
 "tab_editor_drag_reorder" = "Trage pentru reordonare";

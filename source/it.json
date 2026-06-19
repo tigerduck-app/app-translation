@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Analisi dell'utilizzo",
         "settings_analytics_description": "Condividi dati d'uso anonimi (pagine visitate, utilizzo dei widget) per migliorare TigerDuck",
         "onboarding_analytics_label": "Analisi dell'utilizzo (opzionale)",
-        "onboarding_analytics_description": "Aiuta a migliorare TigerDuck condividendo in modo anonimo le pagine visitate e l'utilizzo dei widget. Puoi cambiare questa impostazione in qualsiasi momento nelle Impostazioni.",
-        "sync_backend_session_expired_title": "Connessione al server fallita",
-        "sync_backend_session_expired_message": "Disconnettiti e accedi nuovamente al sistema NTUST per riattivare la sincronizzazione multi-dispositivo."
+        "onboarding_analytics_description": "Aiuta a migliorare TigerDuck condividendo in modo anonimo le pagine visitate e l'utilizzo dei widget. Puoi cambiare questa impostazione in qualsiasi momento nelle Impostazioni."
     },
     "android": {
         "account_id_use_standard_keyboard": "Tastiera standard",

@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "UI ਅਨੁਵਾਦ";
 "source_code_picker_repo_web_description" = "ਅਧਿਕਾਰਤ ਵੈੱਬਪੇਜ";
 "source_code_picker_section_repositories" = "ਰਿਪੋਜ਼ਿਟਰੀ";
-"sync_backend_session_expired_message" = "ਮਲਟੀ-ਡਿਵਾਈਸ ਸਿੰਕ ਨੂੰ ਮੁੜ ਸਮਰੱਥ ਕਰਨ ਲਈ ਕਿਰਪਾ ਕਰਕੇ NTUST ਸਿਸਟਮ ਤੋਂ ਸਾਈਨ ਆਉਟ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।";
-"sync_backend_session_expired_title" = "ਬੈਕਐਂਡ ਕੁਨੈਕਸ਼ਨ ਅਸਫ਼ਲ";
 "sync_success_content_description" = "ਸਿੰਕ ਸਫਲ ਰਿਹਾ";
 "tab_editor_apply_action" = "ਲਾਗੂ ਕਰੋ";
 "tab_editor_drag_reorder" = "ਕ੍ਰਮ ਲਈ ਖਿੱਚੋ";

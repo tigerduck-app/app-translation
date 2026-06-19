@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "UI ترجمہ";
 "source_code_picker_repo_web_description" = "سرکاری ویب پیج";
 "source_code_picker_section_repositories" = "ریپوزٹریز";
-"sync_backend_session_expired_message" = "ملٹی ڈیوائس سنک دوبارہ فعال کرنے کے لیے براہ کرم NTUST سسٹم سے سائن آؤٹ کریں اور دوبارہ سائن ان کریں۔";
-"sync_backend_session_expired_title" = "بیک اینڈ کنکشن ناکام";
 "sync_success_content_description" = "سنک کامیاب";
 "tab_editor_apply_action" = "لागو کریں";
 "tab_editor_drag_reorder" = "ترتیب بدلنے کے لیے گھسیٹیں";

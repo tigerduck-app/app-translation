@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">Prijevod sučelja</string>
     <string name="source_code_picker_repo_web_description">Službena web-stranica</string>
     <string name="source_code_picker_section_repositories">Repozitoriji</string>
-    <string name="sync_backend_session_expired_message">Molimo odjavite se i ponovno se prijavite u NTUST sustav kako biste ponovno omogućili sinkronizaciju među uređajima.</string>
-    <string name="sync_backend_session_expired_title">Povezivanje s poslužiteljem nije uspjelo</string>
     <string name="sync_success_content_description">Sinkronizacija uspješna</string>
     <string name="tab_editor_apply_action">Primijeni</string>
     <string name="tab_editor_drag_reorder">Povucite za promjenu redoslijeda</string>

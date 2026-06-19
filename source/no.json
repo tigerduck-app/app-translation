@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "Bruksanalyse",
         "settings_analytics_description": "Del anonyme bruksdata (besøkte sider, bruk av widgets) for å hjelpe med å forbedre TigerDuck",
         "onboarding_analytics_label": "Bruksanalyse (valgfritt)",
-        "onboarding_analytics_description": "Hjelp til å forbedre TigerDuck ved å dele anonyme sidebesøk og bruk av widgets. Du kan endre dette når som helst i Innstillinger.",
-        "sync_backend_session_expired_title": "Tilkobling til server mislyktes",
-        "sync_backend_session_expired_message": "Vennligst logg ut og logg inn igjen i NTUST-systemet for å reaktivere synkronisering mellom enheter."
+        "onboarding_analytics_description": "Hjelp til å forbedre TigerDuck ved å dele anonyme sidebesøk og bruk av widgets. Du kan endre dette når som helst i Innstillinger."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardtastatur",

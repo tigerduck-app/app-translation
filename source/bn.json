@@ -751,9 +751,7 @@
         "settings_analytics_enabled": "ব্যবহার বিশ্লেষণ",
         "settings_analytics_description": "TigerDuck উন্নত করতে সাহায্য করতে বেনামী ব্যবহারের তথ্য (পরিদর্শন করা পেজ, উইজেট ব্যবহার) শেয়ার করুন",
         "onboarding_analytics_label": "ব্যবহার বিশ্লেষণ (ঐচ্ছিক)",
-        "onboarding_analytics_description": "বেনামী পেজ ভিজিট ও উইজেট ব্যবহারের তথ্য শেয়ার করে TigerDuck উন্নত করতে সাহায্য করুন। আপনি যেকোনো সময় সেটিংসে এটি পরিবর্তন করতে পারবেন।",
-        "sync_backend_session_expired_title": "ব্যাকএন্ড সংযোগ ব্যর্থ",
-        "sync_backend_session_expired_message": "মাল্টি-ডিভাইস সিঙ্ক পুনরায় সক্রিয় করতে অনুগ্রহ করে NTUST সিস্টেম থেকে সাইন আউট করে পুনরায় সাইন ইন করুন।"
+        "onboarding_analytics_description": "বেনামী পেজ ভিজিট ও উইজেট ব্যবহারের তথ্য শেয়ার করে TigerDuck উন্নত করতে সাহায্য করুন। আপনি যেকোনো সময় সেটিংসে এটি পরিবর্তন করতে পারবেন।"
     },
     "android": {
         "account_id_use_standard_keyboard": "স্ট্যান্ডার্ড কীবোর্ড",

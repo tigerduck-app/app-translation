@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">UI ਅਨੁਵਾਦ</string>
     <string name="source_code_picker_repo_web_description">ਅਧਿਕਾਰਤ ਵੈੱਬਪੇਜ</string>
     <string name="source_code_picker_section_repositories">ਰਿਪੋਜ਼ਿਟਰੀ</string>
-    <string name="sync_backend_session_expired_message">ਮਲਟੀ-ਡਿਵਾਈਸ ਸਿੰਕ ਨੂੰ ਮੁੜ ਸਮਰੱਥ ਕਰਨ ਲਈ ਕਿਰਪਾ ਕਰਕੇ NTUST ਸਿਸਟਮ ਤੋਂ ਸਾਈਨ ਆਉਟ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।</string>
-    <string name="sync_backend_session_expired_title">ਬੈਕਐਂਡ ਕੁਨੈਕਸ਼ਨ ਅਸਫ਼ਲ</string>
     <string name="sync_success_content_description">ਸਿੰਕ ਸਫਲ ਰਿਹਾ</string>
     <string name="tab_editor_apply_action">ਲਾਗੂ ਕਰੋ</string>
     <string name="tab_editor_drag_reorder">ਕ੍ਰਮ ਲਈ ਖਿੱਚੋ</string>

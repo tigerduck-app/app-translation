@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Prijevod sučelja";
 "source_code_picker_repo_web_description" = "Službena web-stranica";
 "source_code_picker_section_repositories" = "Repozitoriji";
-"sync_backend_session_expired_message" = "Molimo odjavite se i ponovno se prijavite u NTUST sustav kako biste ponovno omogućili sinkronizaciju među uređajima.";
-"sync_backend_session_expired_title" = "Povezivanje s poslužiteljem nije uspjelo";
 "sync_success_content_description" = "Sinkronizacija uspješna";
 "tab_editor_apply_action" = "Primijeni";
 "tab_editor_drag_reorder" = "Povucite za promjenu redoslijeda";

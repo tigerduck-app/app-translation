@@ -704,8 +704,6 @@
     <string name="source_code_picker_repo_translation_description">Prevod vmesnika</string>
     <string name="source_code_picker_repo_web_description">Uradna spletna stran</string>
     <string name="source_code_picker_section_repositories">Repozitoriji</string>
-    <string name="sync_backend_session_expired_message">Odjavite se in se znova prijavite v sistem NTUST, da ponovno omogočite sinhronizacijo med napravami.</string>
-    <string name="sync_backend_session_expired_title">Povezava s strežnikom ni uspela</string>
     <string name="sync_success_content_description">Sinhronizacija uspešna</string>
     <string name="tab_editor_apply_action">Uporabi</string>
     <string name="tab_editor_drag_reorder">Povlecite za preureditev</string>

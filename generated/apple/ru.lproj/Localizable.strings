@@ -681,8 +681,6 @@
 "source_code_picker_repo_translation_description" = "Перевод интерфейса";
 "source_code_picker_repo_web_description" = "Официальный сайт";
 "source_code_picker_section_repositories" = "Репозитории";
-"sync_backend_session_expired_message" = "Пожалуйста, выйдите и снова войдите в систему NTUST, чтобы повторно активировать синхронизацию между устройствами.";
-"sync_backend_session_expired_title" = "Ошибка подключения к серверу";
 "sync_success_content_description" = "Синхронизация выполнена";
 "tab_editor_apply_action" = "Применить";
 "tab_editor_drag_reorder" = "Перетащите для изменения порядка";
