@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Aquesta aplicació no és l'aplicació oficial de la biblioteca de NTUST i no ha estat aprovada per la biblioteca de l'escola. No podem garantir el funcionament normal ni les conseqüències de l'ús.\n\nUseu-la a criteri propi. Qualsevol resultat negatiu és responsabilitat vostra i no té relació amb tigerduck-app.",
     "settings_library_warning_title": "Atenció!",
     "settings_link_opening_method": "Obriu els enllaços amb",
-    "settings_notifications_disabled_warning": "Les notificacions estan desactivades — no apareixeran els recordatoris de tasques ni de classes. Toca per obrir Configuració del Sistema.",
     "settings_official_website": "Lloc web oficial",
     "settings_open_source_licenses": "Llicències de codi obert",
     "settings_privacy_policy": "Política de privadesa",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Comparteix dades d'ús anònimes (pàgines visitades, ús de widgets) per ajudar a millorar TigerDuck",
     "onboarding_analytics_label": "Anàlisi d'ús (opcional)",
     "onboarding_analytics_description": "Ajuda a millorar TigerDuck compartint visites de pàgines i ús de widgets de manera anònima. Pots canviar-ho en qualsevol moment a Configuració.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Sincronització entre dispositius",
+    "onboarding_sync_toggle_label": "Activa la sincronització",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "Sincronització entre dispositius"
   },
   "android": {
     "account_id_use_standard_keyboard": "Teclat estàndard",
@@ -830,6 +829,8 @@
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
     "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_off": "Off",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

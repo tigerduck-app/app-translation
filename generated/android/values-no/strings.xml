@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Synkronisering på tvers av enheter</string>
+    <string name="onboarding_sync_toggle_label">Aktiver synkronisering</string>
     <string name="onboarding_welcome_description">TigerDuck er en campushjelper bygget av en gruppe studenter for å løse spredte ressurser, sene varsler og klønete grensesnitt. \nAppen drives utelukkende av utviklernes velvilje — hvis du finner problemer, vennligst meld fra (besøk nettstedet nedenfor for å bli med på Discord-en vår eller fylle ut tilbakemeldingsskjemaet). Du er velkommen til å hjelpe oss med å forbedre den eller bidra direkte til utviklingen.</string>
     <string name="onboarding_welcome_github_label">TigerDuck på GitHub</string>
     <string name="onboarding_welcome_subtitle">Din NTUST-kampusassistent</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Vis original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Vis pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Vis oversettelse</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Synkronisering på tvers av enheter</string>
     <string name="settings_color_theme">Fargetema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Tilbakemelding / Rapporter problem</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Denne appen er ikke en offisiell NTUST-biblioteksapp og har ikke blitt godkjent av skolebiblioteket. Vi kan ikke garantere normal drift eller eventuelle konsekvenser ved bruk.\n\nBruk etter eget skjønn. Eventuelle negative utfall er ditt eget ansvar og uten tilknytning til tigerduck-app.</string>
     <string name="settings_library_warning_title">Merk deg dette!</string>
     <string name="settings_link_opening_method">Åpne lenker med</string>
-    <string name="settings_notifications_disabled_warning">Varsler er av — oppgave- og klassepåminnelser vises ikke. Trykk for å åpne Systeminnstillinger.</string>
     <string name="settings_official_website">Offisielt nettsted</string>
     <string name="settings_open_source_licenses">Åpen kildekode-lisenser</string>
     <string name="settings_privacy_policy">Personvernpolicy</string>

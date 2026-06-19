@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Denne appen er ikke en offisiell NTUST-biblioteksapp og har ikke blitt godkjent av skolebiblioteket. Vi kan ikke garantere normal drift eller eventuelle konsekvenser ved bruk.\n\nBruk etter eget skjønn. Eventuelle negative utfall er ditt eget ansvar og uten tilknytning til tigerduck-app.",
     "settings_library_warning_title": "Merk deg dette!",
     "settings_link_opening_method": "Åpne lenker med",
-    "settings_notifications_disabled_warning": "Varsler er av — oppgave- og klassepåminnelser vises ikke. Trykk for å åpne Systeminnstillinger.",
     "settings_official_website": "Offisielt nettsted",
     "settings_open_source_licenses": "Åpen kildekode-lisenser",
     "settings_privacy_policy": "Personvernpolicy",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Del anonyme bruksdata (besøkte sider, bruk av widgets) for å hjelpe med å forbedre TigerDuck",
     "onboarding_analytics_label": "Bruksanalyse (valgfritt)",
     "onboarding_analytics_description": "Hjelp til å forbedre TigerDuck ved å dele anonyme sidebesøk og bruk av widgets. Du kan endre dette når som helst i Innstillinger.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Synkronisering på tvers av enheter",
+    "onboarding_sync_toggle_label": "Aktiver synkronisering",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "Synkronisering på tvers av enheter"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtastatur",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "På",
+    "settings_sync_status_off": "Av",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

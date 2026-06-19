@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Sinhronizacija med napravami";
+"onboarding_sync_toggle_label" = "Omogoči sinhronizacijo";
 "onboarding_watchos_description" = "TigerDuck vključuje spremljevalno aplikacijo za Apple Watch. Naslednje predavanje in hitre opomnike preverite kar na zapestju — Watch TigerDuck se sinhronizira z vašim iPhoneom.";
 "onboarding_watchos_title" = "Podpora za Apple Watch";
 "onboarding_welcome_description" = "TigerDuck je univerzitetni pomočnik, ki ga je razvila skupina študentov, da bi rešili razpršene vire, zakasnjena obvestila in nerodne vmesnike. \nAplikacija deluje izključno zaradi dobre volje razvijalcev — če opazite kakšne težave, jih, prosimo, sporočite (obiščite spodnjo spletno stran, da se pridružite naši Discord skupnosti ali izpolnite obrazec za povratne informacije). Vabljeni, da nam pomagate izboljšati aplikacijo ali neposredno prispevate k razvoju.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Prikaži izvirnik";
 "settings_classroom_mandarin_display_pinyin" = "Prikaži pinyin";
 "settings_classroom_mandarin_display_translated" = "Prikaži prevod";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Sinhronizacija med napravami";
 "settings_color_theme" = "Barvna tema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Povratne informacije / Prijava napake";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "Ta aplikacija ni uradna aplikacija knjižnice NTUST in je šolska knjižnica ni odobrila. Ne moremo zagotoviti normalnega delovanja ali kakršnih koli posledic uporabe.\n\nUporabljajte po lastni presoji. Kakršne koli negativne posledice so vaša lastna odgovornost in niso povezane s tigerduck-app.";
 "settings_library_warning_title" = "Prosimo, upoštevajte!";
 "settings_link_opening_method" = "Odpri povezave z";
-"settings_notifications_disabled_warning" = "Obvestila so izklopljena — opomniki za naloge in ure se ne bodo prikazali. Tapnite za odpiranje sistemskih nastavitev.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Uradna spletna stran";
 "settings_open_source_licenses" = "Odprtokodne licence";
 "settings_privacy_policy" = "Pravilnik o zasebnosti";
@@ -676,6 +676,7 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
 "settings_sync_status_off" = "Off";
 "settings_sync_status_on" = "On";
 "settings_sync_toggle_label" = "Enable cross-device sync";

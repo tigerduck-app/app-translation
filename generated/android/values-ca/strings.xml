@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Sincronització entre dispositius</string>
+    <string name="onboarding_sync_toggle_label">Activa la sincronització</string>
     <string name="onboarding_welcome_description">TigerDuck és un assistent de campus creat per un grup d\'estudiants per resoldre els recursos dispersos, les notificacions tardanes i les interfícies poc intuïtives. \nL\'app funciona íntegrament gràcies a la bona voluntat dels desenvolupadors — si trobes algun problema, informa\'ns-en (visita el lloc web de sota per unir-te al nostre Discord o per omplir el formulari de comentaris). T\'animem a ajudar-nos a millorar-la o a contribuir directament al desenvolupament.</string>
     <string name="onboarding_welcome_github_label">TigerDuck a GitHub</string>
     <string name="onboarding_welcome_subtitle">El vostre assistent del campus de NTUST</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Mostra l\'original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Mostra pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Mostra traducció</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Sincronització entre dispositius</string>
     <string name="settings_color_theme">Tema de color</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Comentaris / Informeu d\'un problema</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Aquesta aplicació no és l\'aplicació oficial de la biblioteca de NTUST i no ha estat aprovada per la biblioteca de l\'escola. No podem garantir el funcionament normal ni les conseqüències de l\'ús.\n\nUseu-la a criteri propi. Qualsevol resultat negatiu és responsabilitat vostra i no té relació amb tigerduck-app.</string>
     <string name="settings_library_warning_title">Atenció!</string>
     <string name="settings_link_opening_method">Obriu els enllaços amb</string>
-    <string name="settings_notifications_disabled_warning">Les notificacions estan desactivades — no apareixeran els recordatoris de tasques ni de classes. Toca per obrir Configuració del Sistema.</string>
     <string name="settings_official_website">Lloc web oficial</string>
     <string name="settings_open_source_licenses">Llicències de codi obert</string>
     <string name="settings_privacy_policy">Política de privadesa</string>

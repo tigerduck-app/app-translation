@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "उपकरणांमधील सिंक";
+"onboarding_sync_toggle_label" = "सिंक सक्षम करा";
 "onboarding_watchos_description" = "TigerDuck मध्ये Apple Watch सहचर अॅप समाविष्ट आहे. तुमचा पुढील वर्ग आणि जलद स्मरणपत्रे थेट तुमच्या मनगटावर पाहा — Watch TigerDuck तुमच्या iPhone वरून सिंक करते.";
 "onboarding_watchos_title" = "Apple Watch सपोर्ट";
 "onboarding_welcome_description" = "विखुरलेले स्रोत, उशिराने येणाऱ्या सूचना आणि अवघड इंटरफेसच्या समस्या सोडवण्यासाठी विद्यार्थ्यांच्या गटाने तयार केलेला कॅम्पस सहायक म्हणजे TigerDuck. \nहे ॲप पूर्णपणे विकसकांच्या सद्भावनेवर चालते — तुम्हाला काही समस्या आढळल्यास, कृपया कळवा (आमच्या Discordमध्ये सहभागी होण्यासाठी किंवा फीडबॅक फॉर्म भरण्यासाठी खालील वेबसाइटला भेट द्या). हे सुधारण्यात मदत करण्यास किंवा थेट विकासात योगदान देण्यास तुमचे स्वागत आहे.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "मूळ दर्शवा";
 "settings_classroom_mandarin_display_pinyin" = "पिनयिन दर्शवा";
 "settings_classroom_mandarin_display_translated" = "भाषांतर दर्शवा";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "उपकरणांमधील सिंक";
 "settings_color_theme" = "रंग थीम";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "अभिप्राय / समस्या अहवाल";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "हे ॲप NTUST चे अधिकृत ग्रंथालय ॲप नाही आणि शाळेच्या ग्रंथालयाने मान्यता दिलेले नाही. आम्ही सामान्य ऑपरेशन किंवा वापराच्या कोणत्याही परिणामांची हमी देऊ शकत नाही.\n\nस्वतःच्या विवेकाने वापरा. कोणतेही नकारात्मक परिणाम तुमची स्वतःची जबाबदारी आहे आणि tigerduck-app शी असंबंधित आहे.";
 "settings_library_warning_title" = "कृपया लक्षात घ्या!";
 "settings_link_opening_method" = "लिंक उघडण्याची पद्धत";
-"settings_notifications_disabled_warning" = "सूचना बंद आहेत — असाइनमेंट आणि वर्ग स्मरणपत्रे दिसणार नाहीत. सिस्टम सेटिंग्ज उघडण्यासाठी टॅप करा.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "अधिकृत वेबसाइट";
 "settings_open_source_licenses" = "ओपन-सोर्स परवाने";
 "settings_privacy_policy" = "गोपनीयता धोरण";
@@ -676,6 +676,7 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
 "settings_sync_status_off" = "Off";
 "settings_sync_status_on" = "On";
 "settings_sync_toggle_label" = "Enable cross-device sync";

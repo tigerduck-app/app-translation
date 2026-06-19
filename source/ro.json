@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Această aplicație nu este aplicația oficială de bibliotecă NTUST și nu a fost aprobată de biblioteca școlii. Nu putem garanta funcționarea normală sau consecințele utilizării.\n\nFolosește pe propria răspundere. Orice rezultat negativ este responsabilitatea ta și nu are legătură cu tigerduck-app.",
     "settings_library_warning_title": "Atenție!",
     "settings_link_opening_method": "Deschide linkurile cu",
-    "settings_notifications_disabled_warning": "Notificările sunt dezactivate — mementourile pentru teme și cursuri nu vor apărea. Atingeți pentru a deschide Setările de sistem.",
     "settings_official_website": "Site web oficial",
     "settings_open_source_licenses": "Licențe open-source",
     "settings_privacy_policy": "Politică de confidențialitate",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Împărtășește date anonime despre utilizare (pagini vizitate, utilizarea widget-urilor) pentru a ajuta la îmbunătățirea TigerDuck",
     "onboarding_analytics_label": "Analiză utilizare (opțional)",
     "onboarding_analytics_description": "Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Sincronizare între dispozitive",
+    "onboarding_sync_toggle_label": "Activează sincronizarea",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "Sincronizare între dispozitive"
   },
   "android": {
     "account_id_use_standard_keyboard": "Tastatură standard",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Pornit",
+    "settings_sync_status_off": "Oprit",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

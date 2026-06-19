@@ -520,14 +520,14 @@
     <string name="onboarding_sign_in_title">Masuk</string>
     <string name="onboarding_skip_for_now">Lewati untuk sekarang</string>
     <string name="onboarding_start_button">Mulai gunakan TigerDuck</string>
-    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
-    <string name="onboarding_sync_shared_assignments">Assignment data</string>
-    <string name="onboarding_sync_shared_courses">Course data</string>
+    <string name="onboarding_sync_not_shared_password">Kata sandi tidak pernah diunggah</string>
+    <string name="onboarding_sync_shared_assignments">Data tugas</string>
+    <string name="onboarding_sync_shared_courses">Data mata kuliah</string>
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
-    <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_shared_student_id">NIM</string>
+    <string name="onboarding_sync_title">Sinkronisasi Lintas Perangkat</string>
+    <string name="onboarding_sync_toggle_label">Aktifkan sinkronisasi lintas perangkat</string>
     <string name="onboarding_welcome_description">TigerDuck adalah asisten kampus yang dibuat oleh sekelompok mahasiswa untuk mengatasi sumber daya yang tersebar, pemberitahuan yang terlambat, dan antarmuka yang kurang intuitif. \nAplikasi ini berjalan sepenuhnya berkat niat baik para pengembang — jika Anda menemukan masalah, harap laporkan (kunjungi situs di bawah ini untuk bergabung dengan Discord kami atau mengisi formulir umpan balik). Anda dipersilakan membantu kami meningkatkannya atau berkontribusi langsung pada pengembangannya.</string>
     <string name="onboarding_welcome_github_label">TigerDuck di GitHub</string>
     <string name="onboarding_welcome_subtitle">Asisten kampus NTUST kamu</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Tampilkan asli</string>
     <string name="settings_classroom_mandarin_display_pinyin">Tampilkan pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Tampilkan terjemahan</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Sinkronisasi Lintas Perangkat</string>
     <string name="settings_color_theme">Tema warna</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Umpan balik / Laporkan masalah</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Aplikasi ini bukan aplikasi perpustakaan resmi NTUST dan belum disetujui oleh perpustakaan kampus. Kami tidak dapat menjamin operasi normal atau konsekuensi apa pun dari penggunaan.\n\nGunakan dengan kebijaksanaan kamu sendiri. Setiap dampak negatif menjadi tanggung jawab kamu sendiri dan tidak terkait dengan tigerduck-app.</string>
     <string name="settings_library_warning_title">Mohon perhatikan!</string>
     <string name="settings_link_opening_method">Buka tautan dengan</string>
-    <string name="settings_notifications_disabled_warning">Notifikasi nonaktif — pengingat tugas dan kelas tidak akan muncul. Ketuk untuk membuka Pengaturan Sistem.</string>
     <string name="settings_official_website">Situs web resmi</string>
     <string name="settings_open_source_licenses">Lisensi sumber terbuka</string>
     <string name="settings_privacy_policy">Kebijakan privasi</string>

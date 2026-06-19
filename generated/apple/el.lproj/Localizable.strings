@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Συγχρονισμός μεταξύ συσκευών";
+"onboarding_sync_toggle_label" = "Ενεργοποίηση συγχρονισμού";
 "onboarding_watchos_description" = "Το TigerDuck περιλαμβάνει συνοδευτική εφαρμογή για το Apple Watch. Δείτε το επόμενο μάθημά σας και γρήγορες υπενθυμίσεις απευθείας στον καρπό σας — Το Watch TigerDuck συγχρονίζεται από το iPhone σας.";
 "onboarding_watchos_title" = "Υποστήριξη Apple Watch";
 "onboarding_welcome_description" = "Το TigerDuck είναι ένας βοηθός πανεπιστημιούπολης φτιαγμένος από μια ομάδα φοιτητών για να λύσει διάσπαρτους πόρους, καθυστερημένες ειδοποιήσεις και άβολα περιβάλλοντα χρήσης. \nΗ εφαρμογή τρέχει εξ ολοκλήρου χάρη στη διάθεση των προγραμματιστών — αν εντοπίσετε προβλήματα, αναφέρετέ τα (επισκεφθείτε τον ιστότοπο παρακάτω για να συμμετάσχετε στο Discord μας ή να συμπληρώσετε τη φόρμα σχολίων). Θα χαρούμε να μας βοηθήσετε να τη βελτιώσουμε ή να συνεισφέρετε άμεσα στην ανάπτυξη.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Εμφάνιση πρωτότυπου";
 "settings_classroom_mandarin_display_pinyin" = "Εμφάνιση πινγίν";
 "settings_classroom_mandarin_display_translated" = "Εμφάνιση μετάφρασης";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Συγχρονισμός μεταξύ συσκευών";
 "settings_color_theme" = "Θέμα χρωμάτων";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Σχόλια / Αναφορά προβλήματος";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "Αυτή η εφαρμογή δεν είναι επίσημη εφαρμογή βιβλιοθήκης NTUST και δεν έχει εγκριθεί από τη βιβλιοθήκη του σχολείου. Δεν μπορούμε να εγγυηθούμε κανονική λειτουργία ή οποιαδήποτε συνέπεια χρήσης.\n\nΧρησιμοποιείτε κατά την κρίση σας. Τυχόν αρνητικά αποτελέσματα είναι δική σας ευθύνη και δεν σχετίζονται με το tigerduck-app.";
 "settings_library_warning_title" = "Παρακαλώ σημειώστε!";
 "settings_link_opening_method" = "Άνοιγμα συνδέσμων με";
-"settings_notifications_disabled_warning" = "Οι ειδοποιήσεις είναι απενεργοποιημένες — οι υπενθυμίσεις εργασιών και μαθημάτων δεν θα εμφανίζονται. Πατήστε για να ανοίξετε τις Ρυθμίσεις συστήματος.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Επίσημος ιστότοπος";
 "settings_open_source_licenses" = "Άδειες ανοιχτού κώδικα";
 "settings_privacy_policy" = "Πολιτική απορρήτου";
@@ -676,6 +676,7 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
 "settings_sync_status_off" = "Off";
 "settings_sync_status_on" = "On";
 "settings_sync_toggle_label" = "Enable cross-device sync";

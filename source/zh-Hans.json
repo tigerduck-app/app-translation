@@ -623,7 +623,6 @@
     "settings_library_warning_message": "本应用程序非台科大官方图书馆应用程序，且尚未得到学校图书馆认可，无法保证各项功能的正常使用及其他相关使用后果。\n\n如需使用请谨慎。若使用后产生任何负面结果，需自负责任，且与 tigerduck-app 一律无关！",
     "settings_library_warning_title": "请注意！",
     "settings_link_opening_method": "打开链接方式",
-    "settings_notifications_disabled_warning": "通知已关闭，作业与课程提醒将无法送达。点击以打开系统设置。",
     "settings_official_website": "官网",
     "settings_open_source_licenses": "开源授权",
     "settings_privacy_policy": "隐私权政策",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "分享匿名使用数据（浏览页面、小组件使用情况），帮助改进 TigerDuck",
     "onboarding_analytics_label": "使用分析（可选）",
     "onboarding_analytics_description": "通过分享匿名的页面浏览和小组件使用数据，帮助改进 TigerDuck。你可以随时在设置中更改。",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_title": "跨设备同步",
+    "onboarding_sync_toggle_label": "启用跨设备同步",
+    "onboarding_sync_shared_student_id": "学号",
+    "onboarding_sync_shared_moodle_token": "Moodle token（加密上传）",
+    "onboarding_sync_shared_device_id": "设备 ID",
+    "onboarding_sync_shared_courses": "课程数据",
+    "onboarding_sync_shared_assignments": "作业数据",
+    "onboarding_sync_not_shared_password": "密码不会被上传",
+    "settings_cloud_sync_title": "跨设备同步"
   },
   "android": {
     "account_id_use_standard_keyboard": "标准键盘",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "开启",
+    "settings_sync_status_off": "关闭",
+    "settings_sync_off_notifications_warning": "跨设备同步已关闭，推送通知与即时动态无法使用。",
+    "settings_notifications_disabled_warning": "通知已关闭。点击打开系统设置。"
   }
 }

@@ -502,11 +502,11 @@
 "onboarding_sync_shared_assignments" = "Assignment data";
 "onboarding_sync_shared_courses" = "Course data";
 "onboarding_sync_shared_device_id" = "Device ID";
-"onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
+"onboarding_sync_shared_moodle_token" = "Moodle’i tunnus (krüpteeritud)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Seadmete vaheline sünkroonimine";
+"onboarding_sync_toggle_label" = "Luba sünkroonimine";
 "onboarding_watchos_description" = "TigerDuck sisaldab Apple Watchi kaaslasrakendust. Vaata järgmist tundi ja kiireid meeldetuletusi otse oma randmelt — Watch TigerDuck sünkroonib su iPhone'ist.";
 "onboarding_watchos_title" = "Apple Watchi tugi";
 "onboarding_welcome_description" = "TigerDuck on kämpuseabiline, mille on loonud rühm tudengeid, et lahendada hajutatud ressursside, hilinenud teavituste ja ebamugavate liideste probleemid. \nRakendus töötab ainult tänu arendajate heatahtlikkusele — kui leiate probleeme, andke neist palun teada (külastage allolevat veebisaiti, et liituda meie Discordiga või täita tagasisidevorm). Olete oodatud meid täiustamisel aitama või arendusse otse panustama.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Kuva originaal";
 "settings_classroom_mandarin_display_pinyin" = "Kuva pinyin";
 "settings_classroom_mandarin_display_translated" = "Kuva tõlge";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Seadmete vaheline sünkroonimine";
 "settings_color_theme" = "Värvi teema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Tagasiside / Vea aruanne";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "See rakendus ei ole NTUST-i ametlik raamatukogu rakendus ja kooli raamatukogu pole seda heaks kiitnud. Me ei saa tagada normaalset toimimist ega kasutamisest tulenevaid tagajärgi.\n\nKasutage omal vastutusel. Negatiivsed tagajärjed on teie enda vastutus ja ei ole seotud tigerduck-appiga.";
 "settings_library_warning_title" = "Pange tähele!";
 "settings_link_opening_method" = "Ava lingid rakendusega";
-"settings_notifications_disabled_warning" = "Teavitused on välja lülitatud — ülesannete ja tundide meeldetuletused ei kuvata. Puuduta süsteemi seadete avamiseks.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Ametlik veebisait";
 "settings_open_source_licenses" = "Avatud lähtekoodiga litsentsid";
 "settings_privacy_policy" = "Privaatsuspoliitika";
@@ -676,6 +676,7 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
 "settings_sync_status_off" = "Off";
 "settings_sync_status_on" = "On";
 "settings_sync_toggle_label" = "Enable cross-device sync";

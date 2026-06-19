@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Eszközök közötti szinkronizálás</string>
+    <string name="onboarding_sync_toggle_label">Szinkronizálás engedélyezése</string>
     <string name="onboarding_welcome_description">A TigerDuck egy kampusz-asszisztens, amelyet egy hallgatói csapat hozott létre azért, hogy orvosolja a szétszórt forrásokat, a késedelmes értesítéseket és a kényelmetlen felületeket. \nAz alkalmazás teljes egészében a fejlesztők jóindulatából működik — ha problémát találsz, kérlek, jelezd (látogass el az alábbi weboldalra, csatlakozz a Discordunkhoz, vagy töltsd ki a visszajelzési űrlapot). Szívesen vesszük, ha segítesz a fejlesztésben vagy közvetlenül hozzájárulsz.</string>
     <string name="onboarding_welcome_github_label">TigerDuck a GitHubon</string>
     <string name="onboarding_welcome_subtitle">Az Ön NTUST kampusz asszisztense</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Eredeti megjelenítése</string>
     <string name="settings_classroom_mandarin_display_pinyin">Pinyin megjelenítése</string>
     <string name="settings_classroom_mandarin_display_translated">Fordítás megjelenítése</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Eszközök közötti szinkronizálás</string>
     <string name="settings_color_theme">Színtéma</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Visszajelzés / Hibabejelentés</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Ez az alkalmazás nem az NTUST könyvtár hivatalos alkalmazása, és a könyvtár nem hagyta jóvá. Nem garantálhatjuk a normál működést vagy a használat következményeit.\n\nSaját belátása szerint használja. Minden negatív következményért Ön felel, és az nem kapcsolódik a tigerduck-app alkalmazáshoz.</string>
     <string name="settings_library_warning_title">Figyelem!</string>
     <string name="settings_link_opening_method">Hivatkozások megnyitása ezzel:</string>
-    <string name="settings_notifications_disabled_warning">Az értesítések ki vannak kapcsolva — a feladat- és óraemlékeztetők nem fognak megjelenni. Koppintson a Rendszerbeállítások megnyitásához.</string>
     <string name="settings_official_website">Hivatalos weboldal</string>
     <string name="settings_open_source_licenses">Nyílt forráskódú licencek</string>
     <string name="settings_privacy_policy">Adatvédelmi irányelvek</string>

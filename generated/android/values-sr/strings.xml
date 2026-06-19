@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Синхронизација између уређаја</string>
+    <string name="onboarding_sync_toggle_label">Укључи синхронизацију</string>
     <string name="onboarding_welcome_description">TigerDuck је кампус помоћник који је направила група студената како би решила проблеме раштрканих ресурса, закаснелих обавештења и непрактичних интерфејса. \nАпликација ради искључиво захваљујући доброј вољи развијача — ако наиђете на проблеме, пријавите их (посетите доњи сајт да се придружите нашем Discord-у или попуните образац за повратне информације). Слободно нам помозите да је унапредимо или директно допринесите развоју.</string>
     <string name="onboarding_welcome_github_label">TigerDuck на GitHub-у</string>
     <string name="onboarding_welcome_subtitle">Ваш NTUST кампус асистент</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Приказ оригинала</string>
     <string name="settings_classroom_mandarin_display_pinyin">Приказ пињина</string>
     <string name="settings_classroom_mandarin_display_translated">Приказ превода</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Синхронизација између уређаја</string>
     <string name="settings_color_theme">Тема боја</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Повратне информације / Пријави проблем</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Ова апликација није званична NTUST библиотечка апликација и није одобрена од стране школске библиотеке. Не можемо гарантовати исправан рад нити последице коришћења.\n\nКористите по свом нахођењу. Сви негативни исходи су Ваша лична одговорност и нису повезани са tigerduck-app.</string>
     <string name="settings_library_warning_title">Молимо обратите пажњу!</string>
     <string name="settings_link_opening_method">Отвори линкове са</string>
-    <string name="settings_notifications_disabled_warning">Обавештења су искључена — подсетници за задатке и часове неће се приказивати. Тапните да отворите Системска подешавања.</string>
     <string name="settings_official_website">Званични веб-сајт</string>
     <string name="settings_open_source_licenses">Лиценце отвореног кода</string>
     <string name="settings_privacy_policy">Политика приватности</string>

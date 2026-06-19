@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Synkronisering på tvers av enheter";
+"onboarding_sync_toggle_label" = "Aktiver synkronisering";
 "onboarding_watchos_description" = "TigerDuck inkluderer en Apple Watch-følgeapp. Se neste time og raske påminnelser rett på håndleddet — Watch TigerDuck synkroniseres fra din iPhone.";
 "onboarding_watchos_title" = "Apple Watch-støtte";
 "onboarding_welcome_description" = "TigerDuck er en campushjelper bygget av en gruppe studenter for å løse spredte ressurser, sene varsler og klønete grensesnitt. \nAppen drives utelukkende av utviklernes velvilje — hvis du finner problemer, vennligst meld fra (besøk nettstedet nedenfor for å bli med på Discord-en vår eller fylle ut tilbakemeldingsskjemaet). Du er velkommen til å hjelpe oss med å forbedre den eller bidra direkte til utviklingen.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Vis original";
 "settings_classroom_mandarin_display_pinyin" = "Vis pinyin";
 "settings_classroom_mandarin_display_translated" = "Vis oversettelse";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Synkronisering på tvers av enheter";
 "settings_color_theme" = "Fargetema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Tilbakemelding / Rapporter problem";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "Denne appen er ikke en offisiell NTUST-biblioteksapp og har ikke blitt godkjent av skolebiblioteket. Vi kan ikke garantere normal drift eller eventuelle konsekvenser ved bruk.\n\nBruk etter eget skjønn. Eventuelle negative utfall er ditt eget ansvar og uten tilknytning til tigerduck-app.";
 "settings_library_warning_title" = "Merk deg dette!";
 "settings_link_opening_method" = "Åpne lenker med";
-"settings_notifications_disabled_warning" = "Varsler er av — oppgave- og klassepåminnelser vises ikke. Trykk for å åpne Systeminnstillinger.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Offisielt nettsted";
 "settings_open_source_licenses" = "Åpen kildekode-lisenser";
 "settings_privacy_policy" = "Personvernpolicy";
@@ -676,8 +676,9 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
-"settings_sync_status_off" = "Off";
-"settings_sync_status_on" = "On";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
+"settings_sync_status_off" = "Av";
+"settings_sync_status_on" = "På";
 "settings_sync_toggle_label" = "Enable cross-device sync";
 "settings_theme_dark" = "Mørk modus";
 "settings_theme_light" = "Lys modus";

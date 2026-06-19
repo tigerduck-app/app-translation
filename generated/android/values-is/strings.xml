@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Samstilling milli tækja</string>
+    <string name="onboarding_sync_toggle_label">Virkja samstillingu</string>
     <string name="onboarding_welcome_description">TigerDuck er háskólaaðstoðarmaður búinn til af hópi nemenda til að leysa dreifðar auðlindir, seinkar tilkynningar og óþjál viðmót. \nAppið keyrir alfarið á góðvilja forritaranna — ef þú finnur einhver vandamál, vinsamlegast tilkynntu þau (heimsæktu vefsíðuna hér að neðan til að ganga til liðs við Discord-svæðið okkar eða fylla út endurgjafareyðublaðið). Þér er velkomið að hjálpa okkur að bæta það eða leggja beint til þróunarinnar.</string>
     <string name="onboarding_welcome_github_label">TigerDuck á GitHub</string>
     <string name="onboarding_welcome_subtitle">Háskólaassistentinn þinn hjá NTUST</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Sýna upprunalegt</string>
     <string name="settings_classroom_mandarin_display_pinyin">Sýna pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Sýna þýðingu</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Samstilling milli tækja</string>
     <string name="settings_color_theme">Litaþema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Endurgjöf / Tilkynna villu</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Þetta forrit er ekki opinbert NTUST bókasafnsforrit og hefur ekki verið samþykkt af skólabókasafninu. Við getum ekki tryggt eðlilega virkni eða neinar afleiðingar notkunar.\n\nNotaðu að eigin geðþótta. Allar neikvæðar afleiðingar eru á þínu eigin ábyrgð og ótengt tigerduck-app.</string>
     <string name="settings_library_warning_title">Vinsamlegast taktu eftir!</string>
     <string name="settings_link_opening_method">Opna tengla með</string>
-    <string name="settings_notifications_disabled_warning">Tilkynningar eru af — áminningar fyrir verkefni og kennslustundir munu ekki birtast. Pikkaðu til að opna kerfisstillingar.</string>
     <string name="settings_official_website">Opinber vefsíða</string>
     <string name="settings_open_source_licenses">Opinn uppspretta leyfi</string>
     <string name="settings_privacy_policy">Persónuverndarstefna</string>

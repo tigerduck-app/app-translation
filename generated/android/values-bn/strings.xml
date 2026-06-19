@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">ক্রস-ডিভাইস সিঙ্ক</string>
+    <string name="onboarding_sync_toggle_label">ক্রস-ডিভাইস সিঙ্ক সক্ষম করুন</string>
     <string name="onboarding_welcome_description">TigerDuck হল একদল ছাত্রের তৈরি ক্যাম্পাস সহকারী, যা ছড়িয়ে থাকা সংস্থান, দেরিতে আসা বিজ্ঞপ্তি এবং অস্বস্তিকর ইন্টারফেসের সমস্যা সমাধানের জন্য তৈরি। \nঅ্যাপটি সম্পূর্ণরূপে ডেভেলপারদের সদিচ্ছায় চলে — যদি কোনো সমস্যা দেখা দেয়, অনুগ্রহ করে রিপোর্ট করুন (নিচের ওয়েবসাইটে গিয়ে আমাদের Discord-এ যোগ দিন বা প্রতিক্রিয়া ফর্ম পূরণ করুন)। আপনাকে উন্নতিতে সাহায্য করতে বা সরাসরি ডেভেলপমেন্টে অবদান রাখতে স্বাগতম।</string>
     <string name="onboarding_welcome_github_label">GitHub-এ TigerDuck</string>
     <string name="onboarding_welcome_subtitle">আপনার NTUST ক্যাম্পাস সহকারী</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">মূল প্রদর্শন করুন</string>
     <string name="settings_classroom_mandarin_display_pinyin">পিনয়িন প্রদর্শন করুন</string>
     <string name="settings_classroom_mandarin_display_translated">অনুবাদ প্রদর্শন করুন</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">ক্রস-ডিভাইস সিঙ্ক</string>
     <string name="settings_color_theme">রং থিম</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">মতামত / সমস্যা রিপোর্ট করুন</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">এই অ্যাপটি NTUST-এর অফিশিয়াল লাইব্রেরি অ্যাপ নয় এবং স্কুল লাইব্রেরি কর্তৃক অনুমোদিত নয়। স্বাভাবিক কার্যক্রম বা ব্যবহারের পরিণতির কোনো নিশ্চয়তা দেওয়া যাচ্ছে না।\n\nনিজের বিচারে ব্যবহার করুন। যেকোনো নেতিবাচক পরিণতি আপনার নিজের দায়িত্ব এবং tigerduck-app-এর সাথে সম্পর্কহীন।</string>
     <string name="settings_library_warning_title">অনুগ্রহ করে নোট করুন!</string>
     <string name="settings_link_opening_method">লিংক খুলুন</string>
-    <string name="settings_notifications_disabled_warning">নোটিফিকেশন বন্ধ — অ্যাসাইনমেন্ট ও ক্লাসের অনুস্মারক দেখানো হবে না। সিস্টেম সেটিংস খুলতে ট্যাপ করুন।</string>
     <string name="settings_official_website">অফিসিয়াল ওয়েবসাইট</string>
     <string name="settings_open_source_licenses">ওপেন-সোর্স লাইসেন্স</string>
     <string name="settings_privacy_policy">গোপনীয়তা নীতি</string>

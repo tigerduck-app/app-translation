@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Sinhronizācija starp ierīcēm</string>
+    <string name="onboarding_sync_toggle_label">Iespējot sinhronizāciju</string>
     <string name="onboarding_welcome_description">TigerDuck ir studentu grupas izveidots universitātes palīgs, kas risina izklaidētu resursu, novēlotu paziņojumu un neērtu interfeisu problēmas. \nLietotne darbojas vienīgi pateicoties izstrādātāju labvēlībai — ja pamanāt problēmas, lūdzu, ziņojiet par tām (apmeklējiet zemāk norādīto vietni, lai pievienotos mūsu Discord vai aizpildītu atsauksmju veidlapu). Aicinām palīdzēt to uzlabot vai tieši piedalīties izstrādē.</string>
     <string name="onboarding_welcome_github_label">TigerDuck vietnē GitHub</string>
     <string name="onboarding_welcome_subtitle">Jūsu NTUST universitātes palīgs</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Rādīt oriģinālu</string>
     <string name="settings_classroom_mandarin_display_pinyin">Rādīt pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Rādīt tulkojumu</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Sinhronizācija starp ierīcēm</string>
     <string name="settings_color_theme">Krāsu tēma</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Atsauksme / Ziņot par problēmu</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Šī lietotne nav NTUST oficiālā bibliotēkas lietotne un nav apstiprināta no universitātes bibliotēkas puses. Mēs nevaram garantēt normālu darbību vai jebkādas lietošanas sekas.\n\nLietojiet pēc saviem ieskatiem. Par jebkādām negatīvām sekām atbild pats lietotājs, un tas nav saistīts ar tigerduck-app.</string>
     <string name="settings_library_warning_title">Lūdzu, ņemiet vērā!</string>
     <string name="settings_link_opening_method">Atvērt saites ar</string>
-    <string name="settings_notifications_disabled_warning">Paziņojumi ir izslēgti — uzdevumu un nodarbību atgādinājumi netiks parādīti. Pieskarieties, lai atvērtu sistēmas iestatījumus.</string>
     <string name="settings_official_website">Oficiālā vietne</string>
     <string name="settings_open_source_licenses">Atvērtā koda licences</string>
     <string name="settings_privacy_policy">Privātuma politika</string>

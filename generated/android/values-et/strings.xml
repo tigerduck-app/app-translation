@@ -524,10 +524,10 @@
     <string name="onboarding_sync_shared_assignments">Assignment data</string>
     <string name="onboarding_sync_shared_courses">Course data</string>
     <string name="onboarding_sync_shared_device_id">Device ID</string>
-    <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
+    <string name="onboarding_sync_shared_moodle_token">Moodle’i tunnus (krüpteeritud)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Seadmete vaheline sünkroonimine</string>
+    <string name="onboarding_sync_toggle_label">Luba sünkroonimine</string>
     <string name="onboarding_welcome_description">TigerDuck on kämpuseabiline, mille on loonud rühm tudengeid, et lahendada hajutatud ressursside, hilinenud teavituste ja ebamugavate liideste probleemid. \nRakendus töötab ainult tänu arendajate heatahtlikkusele — kui leiate probleeme, andke neist palun teada (külastage allolevat veebisaiti, et liituda meie Discordiga või täita tagasisidevorm). Olete oodatud meid täiustamisel aitama või arendusse otse panustama.</string>
     <string name="onboarding_welcome_github_label">TigerDuck GitHubis</string>
     <string name="onboarding_welcome_subtitle">Teie NTUST-i ülikoolilinnaku assistent</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Kuva originaal</string>
     <string name="settings_classroom_mandarin_display_pinyin">Kuva pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Kuva tõlge</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Seadmete vaheline sünkroonimine</string>
     <string name="settings_color_theme">Värvi teema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Tagasiside / Vea aruanne</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">See rakendus ei ole NTUST-i ametlik raamatukogu rakendus ja kooli raamatukogu pole seda heaks kiitnud. Me ei saa tagada normaalset toimimist ega kasutamisest tulenevaid tagajärgi.\n\nKasutage omal vastutusel. Negatiivsed tagajärjed on teie enda vastutus ja ei ole seotud tigerduck-appiga.</string>
     <string name="settings_library_warning_title">Pange tähele!</string>
     <string name="settings_link_opening_method">Ava lingid rakendusega</string>
-    <string name="settings_notifications_disabled_warning">Teavitused on välja lülitatud — ülesannete ja tundide meeldetuletused ei kuvata. Puuduta süsteemi seadete avamiseks.</string>
     <string name="settings_official_website">Ametlik veebisait</string>
     <string name="settings_open_source_licenses">Avatud lähtekoodiga litsentsid</string>
     <string name="settings_privacy_policy">Privaatsuspoliitika</string>

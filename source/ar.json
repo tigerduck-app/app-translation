@@ -623,7 +623,6 @@
     "settings_library_warning_message": "هذا التطبيق ليس تطبيقًا رسميًا لمكتبة NTUST ولم يحصل على موافقة مكتبة الجامعة. لا يمكننا ضمان التشغيل الطبيعي ولا أي عواقب للاستخدام.\n\nاستخدمه على مسؤوليتك. أي نتائج سلبية تقع على عاتقك ولا علاقة لها بـ tigerduck-app.",
     "settings_library_warning_title": "يرجى الانتباه!",
     "settings_link_opening_method": "فتح الروابط بواسطة",
-    "settings_notifications_disabled_warning": "الإشعارات معطّلة — لن تظهر تذكيرات الواجبات والحصص. انقر لفتح إعدادات النظام.",
     "settings_official_website": "الموقع الرسمي",
     "settings_open_source_licenses": "تراخيص المصادر المفتوحة",
     "settings_privacy_policy": "سياسة الخصوصية",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck",
     "onboarding_analytics_label": "تحليلات الاستخدام (اختياري)",
     "onboarding_analytics_description": "ساعد في تحسين TigerDuck بمشاركة زيارات الصفحات واستخدام الأدوات بشكل مجهول. يمكنك تغيير هذا في أي وقت من الإعدادات.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_title": "مزامنة عبر الأجهزة",
+    "onboarding_sync_toggle_label": "تفعيل المزامنة عبر الأجهزة",
+    "onboarding_sync_shared_student_id": "رقم الطالب",
+    "onboarding_sync_shared_moodle_token": "رمز Moodle (مشفّر)",
+    "onboarding_sync_shared_device_id": "معرّف الجهاز",
+    "onboarding_sync_shared_courses": "بيانات المقررات",
+    "onboarding_sync_shared_assignments": "بيانات الواجبات",
+    "onboarding_sync_not_shared_password": "لا يتم رفع كلمة المرور أبدًا",
+    "settings_cloud_sync_title": "مزامنة عبر الأجهزة"
   },
   "android": {
     "account_id_use_standard_keyboard": "لوحة مفاتيح قياسية",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "مفعّل",
+    "settings_sync_status_off": "معطّل",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "الإشعارات معطّلة. انقر لفتح إعدادات النظام."
   }
 }

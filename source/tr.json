@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Bu uygulama resmi bir NTUST kütüphane uygulaması değildir ve okul kütüphanesi tarafından onaylanmamıştır. Normal çalışmayı veya kullanımdan doğacak sonuçları garanti edemeyiz.\n\nKendi takdirinizle kullanın. Olumsuz sonuçların tüm sorumluluğu size aittir ve tigerduck-app ile ilgisi yoktur.",
     "settings_library_warning_title": "Lütfen dikkat!",
     "settings_link_opening_method": "Bağlantıları şununla aç",
-    "settings_notifications_disabled_warning": "Bildirimler kapalı — ödev ve ders hatırlatıcıları görünmeyecek. Sistem Ayarları'nı açmak için dokunun.",
     "settings_official_website": "Resmi web sitesi",
     "settings_open_source_licenses": "Açık kaynak lisansları",
     "settings_privacy_policy": "Gizlilik politikası",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "TigerDuck'ı geliştirmeye yardımcı olmak için anonim kullanım verilerini (ziyaret edilen sayfalar, widget kullanımı) paylaş",
     "onboarding_analytics_label": "Kullanım analitiği (isteğe bağlı)",
     "onboarding_analytics_description": "Ziyaret edilen sayfalar ve widget kullanımına ilişkin anonim verileri paylaşarak TigerDuck'ı geliştirmeye yardımcı ol. Bunu istediğin zaman Ayarlar'dan değiştirebilirsin.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_title": "Cihazlar Arası Senkronizasyon",
+    "onboarding_sync_toggle_label": "Cihazlar arası senkronizasyonu etkinleştir",
+    "onboarding_sync_shared_student_id": "Öğrenci numarası",
+    "onboarding_sync_shared_moodle_token": "Moodle jetonu (şifreli)",
+    "onboarding_sync_shared_device_id": "Cihaz kimliği",
+    "onboarding_sync_shared_courses": "Ders verileri",
+    "onboarding_sync_shared_assignments": "Ödev verileri",
+    "onboarding_sync_not_shared_password": "Şifre asla yüklenmez",
+    "settings_cloud_sync_title": "Cihazlar Arası Senkronizasyon"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standart klavye",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Açık",
+    "settings_sync_status_off": "Kapalı",
+    "settings_sync_off_notifications_warning": "Cihazlar arası senkronizasyon kapalı. Push bildirimleri ve Canlı Güncellemeler kullanılamaz.",
+    "settings_notifications_disabled_warning": "Bildirimler kapalı. Ayarları açmak için dokunun."
   }
 }

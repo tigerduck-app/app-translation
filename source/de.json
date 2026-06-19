@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Diese App ist keine offizielle NTUST-Bibliotheks-App und wurde nicht von der Hochschulbibliothek genehmigt. Wir können weder den normalen Betrieb noch etwaige Folgen der Nutzung garantieren.\n\nNutzung auf eigenes Ermessen. Etwaige negative Folgen liegen in Ihrer eigenen Verantwortung und stehen in keinem Zusammenhang mit tigerduck-app.",
     "settings_library_warning_title": "Bitte beachten!",
     "settings_link_opening_method": "Links öffnen mit",
-    "settings_notifications_disabled_warning": "Mitteilungen sind aus — Erinnerungen für Aufgaben und Kurse erscheinen nicht. Tippen, um Systemeinstellungen zu öffnen.",
     "settings_official_website": "Offizielle Website",
     "settings_open_source_licenses": "Open-Source-Lizenzen",
     "settings_privacy_policy": "Datenschutzerklärung",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Teile anonyme Nutzungsdaten (besuchte Seiten, Widget-Nutzung), um TigerDuck zu verbessern",
     "onboarding_analytics_label": "Nutzungsanalyse (optional)",
     "onboarding_analytics_description": "Hilf dabei, TigerDuck zu verbessern, indem du anonyme Seitenaufrufe und Widget-Nutzung teilst. Du kannst das jederzeit in den Einstellungen ändern.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_title": "Geräteübergreifende Synchronisierung",
+    "onboarding_sync_toggle_label": "Geräteübergreifende Sync aktivieren",
+    "onboarding_sync_shared_student_id": "Matrikelnummer",
+    "onboarding_sync_shared_moodle_token": "Moodle-Token (verschlüsselt)",
+    "onboarding_sync_shared_device_id": "Geräte-ID",
+    "onboarding_sync_shared_courses": "Kursdaten",
+    "onboarding_sync_shared_assignments": "Aufgabendaten",
+    "onboarding_sync_not_shared_password": "Passwort wird niemals hochgeladen",
+    "settings_cloud_sync_title": "Geräteübergreifende Synchronisierung"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtastatur",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Ein",
+    "settings_sync_status_off": "Aus",
+    "settings_sync_off_notifications_warning": "Geräteübergreifende Sync ist deaktiviert. Push-Benachrichtigungen und Live Updates sind nicht verfügbar.",
+    "settings_notifications_disabled_warning": "Benachrichtigungen sind deaktiviert. Tippen, um Einstellungen zu öffnen."
   }
 }

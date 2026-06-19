@@ -623,7 +623,6 @@
     "settings_library_warning_message": "이 앱은 NTUST 공식 도서관 앱이 아니며 학교 도서관의 승인을 받지 않았습니다. 정상 작동이나 사용으로 인한 결과를 보장할 수 없습니다.\n\n사용은 본인의 판단에 따르며, 부정적인 결과는 본인 책임이고 tigerduck-app과는 무관합니다.",
     "settings_library_warning_title": "주의해 주세요!",
     "settings_link_opening_method": "링크 열기 방식",
-    "settings_notifications_disabled_warning": "알림이 꺼져 있습니다 — 과제 및 수업 알림이 표시되지 않습니다. 탭하여 시스템 설정을 여세요.",
     "settings_official_website": "공식 웹사이트",
     "settings_open_source_licenses": "오픈소스 라이선스",
     "settings_privacy_policy": "개인정보 처리방침",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "익명 사용 데이터(방문한 페이지, 위젯 사용)를 공유하여 TigerDuck 개선에 도움을 주세요",
     "onboarding_analytics_label": "사용 분석 (선택 사항)",
     "onboarding_analytics_description": "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_title": "기기 간 동기화",
+    "onboarding_sync_toggle_label": "기기 간 동기화 활성화",
+    "onboarding_sync_shared_student_id": "학번",
+    "onboarding_sync_shared_moodle_token": "Moodle 토큰 (암호화)",
+    "onboarding_sync_shared_device_id": "기기 ID",
+    "onboarding_sync_shared_courses": "강좌 데이터",
+    "onboarding_sync_shared_assignments": "과제 데이터",
+    "onboarding_sync_not_shared_password": "비밀번호는 업로드되지 않습니다",
+    "settings_cloud_sync_title": "기기 간 동기화"
   },
   "android": {
     "account_id_use_standard_keyboard": "표준 키보드",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "켜짐",
+    "settings_sync_status_off": "꺼짐",
+    "settings_sync_off_notifications_warning": "기기 간 동기화가 꺼져 있습니다. 푸시 알림과 Live Updates를 사용할 수 없습니다.",
+    "settings_notifications_disabled_warning": "알림이 꺼져 있습니다. 탭하여 시스템 설정을 여세요."
   }
 }

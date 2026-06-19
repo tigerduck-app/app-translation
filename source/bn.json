@@ -623,7 +623,6 @@
     "settings_library_warning_message": "এই অ্যাপটি NTUST-এর অফিশিয়াল লাইব্রেরি অ্যাপ নয় এবং স্কুল লাইব্রেরি কর্তৃক অনুমোদিত নয়। স্বাভাবিক কার্যক্রম বা ব্যবহারের পরিণতির কোনো নিশ্চয়তা দেওয়া যাচ্ছে না।\n\nনিজের বিচারে ব্যবহার করুন। যেকোনো নেতিবাচক পরিণতি আপনার নিজের দায়িত্ব এবং tigerduck-app-এর সাথে সম্পর্কহীন।",
     "settings_library_warning_title": "অনুগ্রহ করে নোট করুন!",
     "settings_link_opening_method": "লিংক খুলুন",
-    "settings_notifications_disabled_warning": "নোটিফিকেশন বন্ধ — অ্যাসাইনমেন্ট ও ক্লাসের অনুস্মারক দেখানো হবে না। সিস্টেম সেটিংস খুলতে ট্যাপ করুন।",
     "settings_official_website": "অফিসিয়াল ওয়েবসাইট",
     "settings_open_source_licenses": "ওপেন-সোর্স লাইসেন্স",
     "settings_privacy_policy": "গোপনীয়তা নীতি",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "TigerDuck উন্নত করতে সাহায্য করতে বেনামী ব্যবহারের তথ্য (পরিদর্শন করা পেজ, উইজেট ব্যবহার) শেয়ার করুন",
     "onboarding_analytics_label": "ব্যবহার বিশ্লেষণ (ঐচ্ছিক)",
     "onboarding_analytics_description": "বেনামী পেজ ভিজিট ও উইজেট ব্যবহারের তথ্য শেয়ার করে TigerDuck উন্নত করতে সাহায্য করুন। আপনি যেকোনো সময় সেটিংসে এটি পরিবর্তন করতে পারবেন।",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "ক্রস-ডিভাইস সিঙ্ক",
+    "onboarding_sync_toggle_label": "ক্রস-ডিভাইস সিঙ্ক সক্ষম করুন",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "ক্রস-ডিভাইস সিঙ্ক"
   },
   "android": {
     "account_id_use_standard_keyboard": "স্ট্যান্ডার্ড কীবোর্ড",
@@ -830,6 +829,8 @@
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
     "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_off": "Off",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

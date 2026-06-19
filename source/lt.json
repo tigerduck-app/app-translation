@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Ši programa nėra oficiali NTUST bibliotekos programa ir nėra patvirtinta universiteto bibliotekos. Negalime garantuoti normalaus veikimo ar pasekmių dėl naudojimosi.\n\nNaudokite savo nuožiūra. Už bet kokias neigiamas pasekmes esate atsakingi patys, ir tai nesusiję su tigerduck-app.",
     "settings_library_warning_title": "Atkreipkite dėmesį!",
     "settings_link_opening_method": "Atidaryti nuorodas su",
-    "settings_notifications_disabled_warning": "Pranešimai išjungti — užduočių ir pamokų priminimai nerodomi. Bakstelėkite, kad atidarytumėte sistemos nustatymus.",
     "settings_official_website": "Oficiali svetainė",
     "settings_open_source_licenses": "Atvirojo kodo licencijos",
     "settings_privacy_policy": "Privatumo politika",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Dalinkis anonimais naudojimo duomenimis (lankyti puslapiai, valdiklių naudojimas), kad padėtum tobulinti TigerDuck",
     "onboarding_analytics_label": "Naudojimo analizė (neprivaloma)",
     "onboarding_analytics_description": "Padėk tobulinti TigerDuck dalindamasis anoniminiais duomenimis apie lankytus puslapius ir valdiklių naudojimą. Tai galite keisti bet kada Nustatymuose.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Sinchronizacija tarp įrenginių",
+    "onboarding_sync_toggle_label": "Įjungti sinchronizaciją",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "Sinchronizacija tarp įrenginių"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standartinė klaviatūra",
@@ -830,6 +829,8 @@
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
     "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_off": "Off",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

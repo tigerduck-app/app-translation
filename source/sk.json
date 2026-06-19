@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Táto aplikácia nie je oficiálna aplikácia knižnice NTUST a nebola schválená školskou knižnicou. Nemôžeme zaručiť normálnu prevádzku ani žiadne dôsledky používania.\n\nPoužívajte podľa vlastného uváženia. Za akékoľvek negatívne dôsledky zodpovedáte sami, čo nesúvisí s tigerduck-app.",
     "settings_library_warning_title": "Upozornenie!",
     "settings_link_opening_method": "Otvárať odkazy pomocou",
-    "settings_notifications_disabled_warning": "Oznámenia sú vypnuté — pripomienky úloh a hodín sa nebudú zobrazovať. Klepnutím otvoríte Systémové nastavenia.",
     "settings_official_website": "Oficiálna stránka",
     "settings_open_source_licenses": "Licencie open-source",
     "settings_privacy_policy": "Zásady ochrany súkromia",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Zdieľaj anonymné údaje o používaní (navštívené stránky, používanie widgetov) a pomôž nám vylepšiť TigerDuck",
     "onboarding_analytics_label": "Analytika používania (voliteľné)",
     "onboarding_analytics_description": "Pomôž nám vylepšiť TigerDuck zdieľaním anonymných údajov o navštívených stránkach a používaní widgetov. Kedykoľvek to môžeš zmeniť v Nastaveniach.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Synchronizácia medzi zariadeniami",
+    "onboarding_sync_toggle_label": "Zapnúť synchronizáciu",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "Synchronizácia medzi zariadeniami"
   },
   "android": {
     "account_id_use_standard_keyboard": "Štandardná klávesnica",
@@ -830,6 +829,8 @@
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
     "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_off": "Off",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

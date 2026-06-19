@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Esta app no es una app oficial de la biblioteca de NTUST y no ha sido aprobada por la biblioteca de la escuela. No podemos garantizar el funcionamiento normal ni ninguna consecuencia derivada de su uso.\n\nÚsala bajo tu propia responsabilidad. Cualquier resultado negativo es responsabilidad tuya y no está relacionado con tigerduck-app.",
     "settings_library_warning_title": "¡Por favor, ten en cuenta!",
     "settings_link_opening_method": "Abrir enlaces con",
-    "settings_notifications_disabled_warning": "Las notificaciones están desactivadas — no aparecerán los recordatorios de tareas y clases. Toca para abrir Ajustes del Sistema.",
     "settings_official_website": "Sitio web oficial",
     "settings_open_source_licenses": "Licencias de código abierto",
     "settings_privacy_policy": "Política de privacidad",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Comparte datos de uso anónimos (páginas visitadas, uso de widgets) para ayudar a mejorar TigerDuck",
     "onboarding_analytics_label": "Análisis de uso (opcional)",
     "onboarding_analytics_description": "Ayuda a mejorar TigerDuck compartiendo visitas de páginas y uso de widgets de forma anónima. Puedes cambiarlo en cualquier momento en Ajustes.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
-    "onboarding_sync_shared_student_id": "Student ID",
-    "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-    "onboarding_sync_shared_device_id": "Device ID",
-    "onboarding_sync_shared_courses": "Course data",
-    "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_title": "Sincronización entre dispositivos",
+    "onboarding_sync_toggle_label": "Activar sincronización entre dispositivos",
+    "onboarding_sync_shared_student_id": "ID de estudiante",
+    "onboarding_sync_shared_moodle_token": "Token de Moodle (cifrado)",
+    "onboarding_sync_shared_device_id": "ID del dispositivo",
+    "onboarding_sync_shared_courses": "Datos de cursos",
+    "onboarding_sync_shared_assignments": "Datos de tareas",
+    "onboarding_sync_not_shared_password": "La contraseña nunca se sube",
+    "settings_cloud_sync_title": "Sincronización entre dispositivos"
   },
   "android": {
     "account_id_use_standard_keyboard": "Teclado estándar",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Activado",
+    "settings_sync_status_off": "Desactivado",
+    "settings_sync_off_notifications_warning": "La sincronización está desactivada. Las notificaciones push y Live Updates no están disponibles.",
+    "settings_notifications_disabled_warning": "Las notificaciones están desactivadas. Toca para abrir los ajustes."
   }
 }

@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Sinchronizacija tarp įrenginių";
+"onboarding_sync_toggle_label" = "Įjungti sinchronizaciją";
 "onboarding_watchos_description" = "TigerDuck įdiegta Apple Watch palydovinė programėlė. Peržiūrėkite kitą pamoką ir greitus priminimus tiesiai ant riešo — Watch TigerDuck sinchronizuojasi iš jūsų iPhone.";
 "onboarding_watchos_title" = "Apple Watch palaikymas";
 "onboarding_welcome_description" = "TigerDuck — tai studentų grupės sukurtas universiteto pagalbininkas, sprendžiantis išsklaidytų išteklių, vėluojančių pranešimų ir nepatogių sąsajų problemas. \nProgramėlė veikia tik kūrėjų geranoriškumo dėka — jei pastebėsite problemų, praneškite (apsilankykite žemiau pateikiamoje svetainėje, kad prisijungtumėte prie mūsų Discord arba užpildytumėte atsiliepimo formą). Kviečiame padėti tobulinti programėlę arba tiesiogiai prisidėti prie kūrimo.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Rodyti originalą";
 "settings_classroom_mandarin_display_pinyin" = "Rodyti pinyin";
 "settings_classroom_mandarin_display_translated" = "Rodyti vertimą";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Sinchronizacija tarp įrenginių";
 "settings_color_theme" = "Spalvų tema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Atsiliepimai / Pranešti apie klaidą";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "Ši programa nėra oficiali NTUST bibliotekos programa ir nėra patvirtinta universiteto bibliotekos. Negalime garantuoti normalaus veikimo ar pasekmių dėl naudojimosi.\n\nNaudokite savo nuožiūra. Už bet kokias neigiamas pasekmes esate atsakingi patys, ir tai nesusiję su tigerduck-app.";
 "settings_library_warning_title" = "Atkreipkite dėmesį!";
 "settings_link_opening_method" = "Atidaryti nuorodas su";
-"settings_notifications_disabled_warning" = "Pranešimai išjungti — užduočių ir pamokų priminimai nerodomi. Bakstelėkite, kad atidarytumėte sistemos nustatymus.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Oficiali svetainė";
 "settings_open_source_licenses" = "Atvirojo kodo licencijos";
 "settings_privacy_policy" = "Privatumo politika";
@@ -676,6 +676,7 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
 "settings_sync_status_off" = "Off";
 "settings_sync_status_on" = "On";
 "settings_sync_toggle_label" = "Enable cross-device sync";

@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Ta aplikacja nie jest oficjalną aplikacją biblioteki NTUST i nie została zatwierdzona przez bibliotekę uczelnianą. Nie możemy zagwarantować poprawnego działania ani jakichkolwiek skutków korzystania z niej.\n\nKorzystanie odbywa się na własne ryzyko. Wszelkie negatywne skutki są wyłączną odpowiedzialnością użytkownika i nie mają związku z tigerduck-app.",
     "settings_library_warning_title": "Uwaga!",
     "settings_link_opening_method": "Otwieraj linki w",
-    "settings_notifications_disabled_warning": "Powiadomienia są wyłączone — przypomnienia o zadaniach i zajęciach nie będą wyświetlane. Stuknij, aby otworzyć Ustawienia systemowe.",
     "settings_official_website": "Oficjalna strona",
     "settings_open_source_licenses": "Licencje open source",
     "settings_privacy_policy": "Polityka prywatności",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Udostępniaj anonimowe dane o użytkowaniu (odwiedzone strony, używanie widgetów), aby pomóc ulepszać TigerDuck",
     "onboarding_analytics_label": "Analityka użytkowania (opcjonalne)",
     "onboarding_analytics_description": "Pomóż ulepszać TigerDuck, udostępniając anonimowe dane o odwiedzanych stronach i używaniu widgetów. Możesz to zmienić w dowolnym momencie w Ustawieniach.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Synchronizacja między urządzeniami",
+    "onboarding_sync_toggle_label": "Włącz synchronizację",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_not_shared_password": "Hasło nigdy nie jest przesyłane",
+    "settings_cloud_sync_title": "Synchronizacja między urządzeniami"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardowa klawiatura",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Wł.",
+    "settings_sync_status_off": "Wył.",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

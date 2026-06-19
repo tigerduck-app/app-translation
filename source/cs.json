@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Tato aplikace není oficiální aplikací knihovny NTUST a nebyla schválena školní knihovnou. Nemůžeme zaručit její bezproblémový provoz ani jakékoli důsledky používání.\n\nPoužívejte na vlastní uvážení. Případné negativní následky jsou vaší vlastní odpovědností a nesouvisí s tigerduck-app.",
     "settings_library_warning_title": "Upozornění!",
     "settings_link_opening_method": "Otevírat odkazy v",
-    "settings_notifications_disabled_warning": "Oznámení jsou vypnuta — připomínky úkolů a hodin se nebudou zobrazovat. Klepnutím otevřete Nastavení systému.",
     "settings_official_website": "Oficiální web",
     "settings_open_source_licenses": "Open-source licence",
     "settings_privacy_policy": "Zásady ochrany osobních údajů",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Sdílej anonymní data o používání (navštívené stránky, používání widgetů) a pomoz nám vylepšit TigerDuck",
     "onboarding_analytics_label": "Analytika používání (volitelné)",
     "onboarding_analytics_description": "Pomoz nám vylepšit TigerDuck sdílením anonymních dat o navštívených stránkách a používání widgetů. Kdykoli to můžeš změnit v Nastavení.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Synchronizace mezi zařízeními",
+    "onboarding_sync_toggle_label": "Zapnout synchronizaci",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_not_shared_password": "Heslo se nikdy nenahrává",
+    "settings_cloud_sync_title": "Synchronizace mezi zařízeními"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardní klávesnice",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Zapnuto",
+    "settings_sync_status_off": "Vypnuto",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

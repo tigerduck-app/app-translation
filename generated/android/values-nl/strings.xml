@@ -520,14 +520,14 @@
     <string name="onboarding_sign_in_title">Inloggen</string>
     <string name="onboarding_skip_for_now">Voorlopig overslaan</string>
     <string name="onboarding_start_button">Begin met TigerDuck</string>
-    <string name="onboarding_sync_not_shared_password">Password is never uploaded</string>
+    <string name="onboarding_sync_not_shared_password">Wachtwoord wordt nooit geüpload</string>
     <string name="onboarding_sync_shared_assignments">Assignment data</string>
     <string name="onboarding_sync_shared_courses">Course data</string>
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Synchronisatie tussen apparaten</string>
+    <string name="onboarding_sync_toggle_label">Synchronisatie inschakelen</string>
     <string name="onboarding_welcome_description">TigerDuck is een campus-assistent gebouwd door een groep studenten om verspreide bronnen, late meldingen en onhandige interfaces aan te pakken. \nDe app draait volledig op de goede wil van de ontwikkelaars — als je problemen tegenkomt, meld ze dan (bezoek de onderstaande website om lid te worden van onze Discord of het feedbackformulier in te vullen). Je bent welkom om mee te helpen bij verbeteringen of direct bij te dragen aan de ontwikkeling.</string>
     <string name="onboarding_welcome_github_label">TigerDuck op GitHub</string>
     <string name="onboarding_welcome_subtitle">Jouw NTUST campusassistent</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Origineel weergeven</string>
     <string name="settings_classroom_mandarin_display_pinyin">Pinyin weergeven</string>
     <string name="settings_classroom_mandarin_display_translated">Vertaling weergeven</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Synchronisatie tussen apparaten</string>
     <string name="settings_color_theme">Kleurthema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Feedback / Probleem melden</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Deze app is geen officiële NTUST-bibliotheekapp en is niet goedgekeurd door de schoolbibliotheek. We kunnen geen normale werking of gevolgen van het gebruik garanderen.\n\nGebruik op eigen risico. Eventuele negatieve gevolgen zijn voor je eigen verantwoordelijkheid en staan los van tigerduck-app.</string>
     <string name="settings_library_warning_title">Let op!</string>
     <string name="settings_link_opening_method">Links openen met</string>
-    <string name="settings_notifications_disabled_warning">Meldingen zijn uitgeschakeld — opdracht- en lesherinneringen worden niet weergegeven. Tik om Systeeminstellingen te openen.</string>
     <string name="settings_official_website">Officiële website</string>
     <string name="settings_open_source_licenses">Opensource-licenties</string>
     <string name="settings_privacy_policy">Privacybeleid</string>

@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Цей застосунок не є офіційним застосунком бібліотеки NTUST і не схвалений шкільною бібліотекою. Ми не можемо гарантувати нормальну роботу або будь-які наслідки використання.\n\nВикористовуйте на власний розсуд. Будь-які негативні наслідки — ваша особиста відповідальність і не пов'язані з tigerduck-app.",
     "settings_library_warning_title": "Зверніть увагу!",
     "settings_link_opening_method": "Відкривати посилання за допомогою",
-    "settings_notifications_disabled_warning": "Сповіщення вимкнено — нагадування про завдання та заняття не відображатимуться. Торкніться, щоб відкрити Системні налаштування.",
     "settings_official_website": "Офіційний сайт",
     "settings_open_source_licenses": "Ліцензії з відкритим кодом",
     "settings_privacy_policy": "Політика конфіденційності",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Діліться анонімними даними про використання (відвідані сторінки, використання віджетів), щоб допомогти покращити TigerDuck",
     "onboarding_analytics_label": "Аналітика використання (необов'язково)",
     "onboarding_analytics_description": "Допоможи покращити TigerDuck, ділячись анонімними даними про відвідані сторінки та використання віджетів. Це можна змінити будь-коли в Налаштуваннях.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Синхронізація між пристроями",
+    "onboarding_sync_toggle_label": "Увімкнути синхронізацію",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_not_shared_password": "Пароль ніколи не завантажується",
+    "settings_cloud_sync_title": "Синхронізація між пристроями"
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандартна клавіатура",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Увімк.",
+    "settings_sync_status_off": "Вимк.",
+    "settings_sync_off_notifications_warning": "Синхронізацію вимкнено. Push-сповіщення та Live Updates недоступні.",
+    "settings_notifications_disabled_warning": "Сповіщення вимкнено. Торкніться, щоб відкрити налаштування."
   }
 }

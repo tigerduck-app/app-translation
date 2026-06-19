@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">ഉപകരണങ്ങൾ തമ്മിലുള്ള സിൻക്</string>
+    <string name="onboarding_sync_toggle_label">സിൻക് പ്രവർത്തനക്ഷമമാക്കുക</string>
     <string name="onboarding_welcome_description">ചിതറിയ വിഭവങ്ങൾ, വൈകിയ അറിയിപ്പുകൾ, അസുഖകരമായ ഇന്റർഫേസുകൾ എന്നിവ പരിഹരിക്കാൻ വിദ്യാർഥികളുടെ ഒരു സംഘം നിർമ്മിച്ച ക്യാമ്പസ് സഹായിയാണ് TigerDuck. \nഈ ആപ്പ് ഡെവലപ്പർമാരുടെ സന്മനസ്സിൽ മാത്രം പ്രവർത്തിക്കുന്നു — എന്തെങ്കിലും പ്രശ്നങ്ങൾ കണ്ടാൽ ദയവായി അറിയിക്കുക (Discord-ൽ ചേരാനോ ഫീഡ്ബാക്ക് ഫോം പൂരിപ്പിക്കാനോ ചുവടെയുള്ള വെബ്സൈറ്റ് സന്ദർശിക്കുക). ഇത് മെച്ചപ്പെടുത്താനോ വികസനത്തിൽ നേരിട്ട് സംഭാവന ചെയ്യാനോ നിങ്ങളെ സ്വാഗതം ചെയ്യുന്നു.</string>
     <string name="onboarding_welcome_github_label">GitHub-ലെ TigerDuck</string>
     <string name="onboarding_welcome_subtitle">നിങ്ങളുടെ NTUST ക്യാമ്പസ് സഹായി</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">യഥാർത്ഥം കാണിക്കുക</string>
     <string name="settings_classroom_mandarin_display_pinyin">പിൻയിൻ കാണിക്കുക</string>
     <string name="settings_classroom_mandarin_display_translated">വിവർത്തനം കാണിക്കുക</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">ഉപകരണങ്ങൾ തമ്മിലുള്ള സിൻക്</string>
     <string name="settings_color_theme">നിറ തീം</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">ഫീഡ്‌ബാക്ക് / പ്രശ്‌നം റിപ്പോർട്ട് ചെയ്യുക</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">ഈ ആപ്പ് NTUST-ന്റെ ഔദ്യോഗിക ഗ്രന്ഥശാല ആപ്പ് അല്ല, സ്കൂൾ ഗ്രന്ഥശാല അംഗീകരിച്ചിട്ടുമില്ല. സാധാരണ പ്രവർത്തനം അല്ലെങ്കിൽ ഉപയോഗ ഫലങ്ങൾ ഞങ്ങൾ ഉറപ്പ് നൽകുന്നില്ല.\n\nവിവേകത്തോടെ ഉപയോഗിക്കുക. ഉണ്ടാകുന്ന ഏത് പ്രതികൂല ഫലത്തിനും നിങ്ങൾ തന്നെ ഉത്തരവാദിയാണ്, tigerduck-app-മായി ഇതിന് ഒരു ബന്ധവുമില്ല.</string>
     <string name="settings_library_warning_title">ദയവായി ശ്രദ്ധിക്കുക!</string>
     <string name="settings_link_opening_method">ലിങ്കുകൾ തുറക്കേണ്ടത്</string>
-    <string name="settings_notifications_disabled_warning">അറിയിപ്പുകൾ ഓഫാണ് — അസൈൻമെന്റ്, ക്ലാസ് ഓർമ്മപ്പെടുത്തലുകൾ ദൃശ്യമാകില്ല. സിസ്റ്റം ക്രമീകരണം തുറക്കാൻ ടാപ്പ് ചെയ്യുക.</string>
     <string name="settings_official_website">ഔദ്യോഗിക വെബ്സൈറ്റ്</string>
     <string name="settings_open_source_licenses">ഓപ്പൺ-സോഴ്‌സ് ലൈസൻസുകൾ</string>
     <string name="settings_privacy_policy">സ്വകാര്യതാ നയം</string>

@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Synkronointi laitteiden välillä</string>
+    <string name="onboarding_sync_toggle_label">Ota synkronointi käyttöön</string>
     <string name="onboarding_welcome_description">TigerDuck on kampusapulainen, jonka opiskelijaryhmä on rakentanut korjatakseen hajaantuneet resurssit, myöhästyneet ilmoitukset ja kömpelöt käyttöliittymät. \nSovellus pyörii kokonaan kehittäjien hyväntahdolla — jos törmäät ongelmiin, ilmoita niistä (käy alla olevalla sivustolla liittyäksesi Discord-kanavallemme tai täyttääksesi palautelomakkeen). Tervetuloa auttamaan parantamisessa tai osallistumaan suoraan kehitykseen.</string>
     <string name="onboarding_welcome_github_label">TigerDuck GitHubissa</string>
     <string name="onboarding_welcome_subtitle">NTUST-kampusavustajasi</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Näytä alkuperäinen</string>
     <string name="settings_classroom_mandarin_display_pinyin">Näytä pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Näytä käännös</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Synkronointi laitteiden välillä</string>
     <string name="settings_color_theme">Väriteema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Palaute / Ilmoita ongelma</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Tämä sovellus ei ole virallinen NTUST-kirjastosovellus eikä koulun kirjasto ole hyväksynyt sitä. Emme voi taata normaalia toimintaa tai käytön seurauksia.\n\nKäytä omalla harkinnalla. Mahdolliset negatiiviset seuraukset ovat omalla vastuullasi eivätkä liity tigerduck-app-sovellukseen.</string>
     <string name="settings_library_warning_title">Huomio!</string>
     <string name="settings_link_opening_method">Avaa linkit</string>
-    <string name="settings_notifications_disabled_warning">Ilmoitukset on poistettu käytöstä — tehtävien ja oppituntien muistutukset eivät näy. Avaa Järjestelmäasetukset napauttamalla.</string>
     <string name="settings_official_website">Virallinen verkkosivusto</string>
     <string name="settings_open_source_licenses">Avoimen lähdekoodin lisenssit</string>
     <string name="settings_privacy_policy">Tietosuojakäytäntö</string>

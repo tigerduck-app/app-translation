@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">סנכרון בין מכשירים</string>
+    <string name="onboarding_sync_toggle_label">הפעל סנכרון בין מכשירים</string>
     <string name="onboarding_welcome_description">TigerDuck הוא עוזר קמפוס שנבנה על ידי קבוצת סטודנטים כדי לפתור משאבים מפוזרים, התראות מאוחרות וממשקים מסורבלים. \nהאפליקציה פועלת לחלוטין בזכות רצונם הטוב של המפתחים — אם נתקלת בבעיות, אנא דווח עליהן (בקר באתר למטה כדי להצטרף ל-Discord שלנו או למלא את טופס המשוב). אנו שמחים לעזרתך בשיפור או בתרומה ישירה לפיתוח.</string>
     <string name="onboarding_welcome_github_label">TigerDuck ב-GitHub</string>
     <string name="onboarding_welcome_subtitle">העוזר שלך לקמפוס NTUST</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">הצג מקור</string>
     <string name="settings_classroom_mandarin_display_pinyin">הצג פיניין</string>
     <string name="settings_classroom_mandarin_display_translated">הצג תרגום</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">סנכרון בין מכשירים</string>
     <string name="settings_color_theme">ערכת צבעים</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">משוב / דיווח על בעיה</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">אפליקציה זו אינה אפליקציית ספריית NTUST הרשמית ולא אושרה על ידי ספריית בית הספר. איננו יכולים להבטיח תפעול תקין או כל השלכות הנובעות מהשימוש.\n\nהשתמש לפי שיקול דעתך. כל תוצאה שלילית היא באחריותך בלבד ואינה קשורה ל-tigerduck-app.</string>
     <string name="settings_library_warning_title">שים לב!</string>
     <string name="settings_link_opening_method">פתח קישורים עם</string>
-    <string name="settings_notifications_disabled_warning">ההתראות כבויות — תזכורות למטלות ולשיעורים לא יופיעו. הקש כדי לפתוח את הגדרות המערכת.</string>
     <string name="settings_official_website">אתר רשמי</string>
     <string name="settings_open_source_licenses">רישיונות קוד פתוח</string>
     <string name="settings_privacy_policy">מדיניות פרטיות</string>

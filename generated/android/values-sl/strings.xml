@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Sinhronizacija med napravami</string>
+    <string name="onboarding_sync_toggle_label">Omogoči sinhronizacijo</string>
     <string name="onboarding_welcome_description">TigerDuck je univerzitetni pomočnik, ki ga je razvila skupina študentov, da bi rešili razpršene vire, zakasnjena obvestila in nerodne vmesnike. \nAplikacija deluje izključno zaradi dobre volje razvijalcev — če opazite kakšne težave, jih, prosimo, sporočite (obiščite spodnjo spletno stran, da se pridružite naši Discord skupnosti ali izpolnite obrazec za povratne informacije). Vabljeni, da nam pomagate izboljšati aplikacijo ali neposredno prispevate k razvoju.</string>
     <string name="onboarding_welcome_github_label">TigerDuck na GitHubu</string>
     <string name="onboarding_welcome_subtitle">Vaš pomočnik na kampusu NTUST</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Prikaži izvirnik</string>
     <string name="settings_classroom_mandarin_display_pinyin">Prikaži pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Prikaži prevod</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Sinhronizacija med napravami</string>
     <string name="settings_color_theme">Barvna tema</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Povratne informacije / Prijava napake</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Ta aplikacija ni uradna aplikacija knjižnice NTUST in je šolska knjižnica ni odobrila. Ne moremo zagotoviti normalnega delovanja ali kakršnih koli posledic uporabe.\n\nUporabljajte po lastni presoji. Kakršne koli negativne posledice so vaša lastna odgovornost in niso povezane s tigerduck-app.</string>
     <string name="settings_library_warning_title">Prosimo, upoštevajte!</string>
     <string name="settings_link_opening_method">Odpri povezave z</string>
-    <string name="settings_notifications_disabled_warning">Obvestila so izklopljena — opomniki za naloge in ure se ne bodo prikazali. Tapnite za odpiranje sistemskih nastavitev.</string>
     <string name="settings_official_website">Uradna spletna stran</string>
     <string name="settings_open_source_licenses">Odprtokodne licence</string>
     <string name="settings_privacy_policy">Pravilnik o zasebnosti</string>

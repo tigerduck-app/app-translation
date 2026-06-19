@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Aplikasi ini bukan aplikasi perpustakaan rasmi NTUST dan belum mendapat kelulusan perpustakaan sekolah. Kami tidak dapat menjamin operasi normal atau sebarang akibat daripada penggunaan.\n\nGunakan atas budi bicara anda sendiri. Sebarang akibat negatif adalah tanggungjawab anda sendiri dan tidak berkaitan dengan tigerduck-app.",
     "settings_library_warning_title": "Sila ambil perhatian!",
     "settings_link_opening_method": "Buka pautan dengan",
-    "settings_notifications_disabled_warning": "Pemberitahuan dimatikan — peringatan tugasan dan kelas tidak akan muncul. Ketik untuk buka Tetapan Sistem.",
     "settings_official_website": "Laman web rasmi",
     "settings_open_source_licenses": "Lesen sumber terbuka",
     "settings_privacy_policy": "Dasar privasi",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Kongsi data penggunaan tanpa nama (halaman dilawati, penggunaan widget) untuk membantu meningkatkan TigerDuck",
     "onboarding_analytics_label": "Analitik penggunaan (pilihan)",
     "onboarding_analytics_description": "Bantu tingkatkan TigerDuck dengan berkongsi lawatan halaman dan penggunaan widget secara tanpa nama. Anda boleh ubah ini bila-bila masa dalam Tetapan.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Penyegerakan Merentas Peranti",
+    "onboarding_sync_toggle_label": "Aktifkan penyegerakan",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "Penyegerakan Merentas Peranti"
   },
   "android": {
     "account_id_use_standard_keyboard": "Papan kekunci standard",
@@ -830,6 +829,8 @@
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
     "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_off": "Off",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

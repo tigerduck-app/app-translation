@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">Penyegerakan Merentas Peranti</string>
+    <string name="onboarding_sync_toggle_label">Aktifkan penyegerakan</string>
     <string name="onboarding_welcome_description">TigerDuck ialah pembantu kampus yang dibina oleh sekumpulan pelajar untuk menyelesaikan sumber yang berselerak, pemberitahuan lewat dan antara muka yang menyusahkan. \nAplikasi ini berjalan sepenuhnya atas niat baik para pembangun — jika anda menemui sebarang isu, sila laporkan (lawati laman web di bawah untuk menyertai Discord kami atau mengisi borang maklum balas). Anda dialu-alukan untuk membantu menambah baik atau menyumbang terus kepada pembangunan.</string>
     <string name="onboarding_welcome_github_label">TigerDuck di GitHub</string>
     <string name="onboarding_welcome_subtitle">Pembantu kampus NTUST anda</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Papar asal</string>
     <string name="settings_classroom_mandarin_display_pinyin">Papar pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Papar terjemahan</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Penyegerakan Merentas Peranti</string>
     <string name="settings_color_theme">Tema warna</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Maklum balas / Laporkan isu</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Aplikasi ini bukan aplikasi perpustakaan rasmi NTUST dan belum mendapat kelulusan perpustakaan sekolah. Kami tidak dapat menjamin operasi normal atau sebarang akibat daripada penggunaan.\n\nGunakan atas budi bicara anda sendiri. Sebarang akibat negatif adalah tanggungjawab anda sendiri dan tidak berkaitan dengan tigerduck-app.</string>
     <string name="settings_library_warning_title">Sila ambil perhatian!</string>
     <string name="settings_link_opening_method">Buka pautan dengan</string>
-    <string name="settings_notifications_disabled_warning">Pemberitahuan dimatikan — peringatan tugasan dan kelas tidak akan muncul. Ketik untuk buka Tetapan Sistem.</string>
     <string name="settings_official_website">Laman web rasmi</string>
     <string name="settings_open_source_licenses">Lesen sumber terbuka</string>
     <string name="settings_privacy_policy">Dasar privasi</string>

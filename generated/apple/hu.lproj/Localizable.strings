@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Eszközök közötti szinkronizálás";
+"onboarding_sync_toggle_label" = "Szinkronizálás engedélyezése";
 "onboarding_watchos_description" = "A TigerDuck Apple Watch-kísérőalkalmazást is tartalmaz. Tekintsd meg a következő órádat és a gyors emlékeztetőket közvetlenül a csuklódon — a Watch TigerDuck az iPhone-odról szinkronizál.";
 "onboarding_watchos_title" = "Apple Watch támogatás";
 "onboarding_welcome_description" = "A TigerDuck egy kampusz-asszisztens, amelyet egy hallgatói csapat hozott létre azért, hogy orvosolja a szétszórt forrásokat, a késedelmes értesítéseket és a kényelmetlen felületeket. \nAz alkalmazás teljes egészében a fejlesztők jóindulatából működik — ha problémát találsz, kérlek, jelezd (látogass el az alábbi weboldalra, csatlakozz a Discordunkhoz, vagy töltsd ki a visszajelzési űrlapot). Szívesen vesszük, ha segítesz a fejlesztésben vagy közvetlenül hozzájárulsz.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Eredeti megjelenítése";
 "settings_classroom_mandarin_display_pinyin" = "Pinyin megjelenítése";
 "settings_classroom_mandarin_display_translated" = "Fordítás megjelenítése";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Eszközök közötti szinkronizálás";
 "settings_color_theme" = "Színtéma";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Visszajelzés / Hibabejelentés";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "Ez az alkalmazás nem az NTUST könyvtár hivatalos alkalmazása, és a könyvtár nem hagyta jóvá. Nem garantálhatjuk a normál működést vagy a használat következményeit.\n\nSaját belátása szerint használja. Minden negatív következményért Ön felel, és az nem kapcsolódik a tigerduck-app alkalmazáshoz.";
 "settings_library_warning_title" = "Figyelem!";
 "settings_link_opening_method" = "Hivatkozások megnyitása ezzel:";
-"settings_notifications_disabled_warning" = "Az értesítések ki vannak kapcsolva — a feladat- és óraemlékeztetők nem fognak megjelenni. Koppintson a Rendszerbeállítások megnyitásához.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Hivatalos weboldal";
 "settings_open_source_licenses" = "Nyílt forráskódú licencek";
 "settings_privacy_policy" = "Adatvédelmi irányelvek";
@@ -676,8 +676,9 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
-"settings_sync_status_off" = "Off";
-"settings_sync_status_on" = "On";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
+"settings_sync_status_off" = "Ki";
+"settings_sync_status_on" = "Be";
 "settings_sync_toggle_label" = "Enable cross-device sync";
 "settings_theme_dark" = "Sötét mód";
 "settings_theme_light" = "Világos mód";

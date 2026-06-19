@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Ez az alkalmazás nem az NTUST könyvtár hivatalos alkalmazása, és a könyvtár nem hagyta jóvá. Nem garantálhatjuk a normál működést vagy a használat következményeit.\n\nSaját belátása szerint használja. Minden negatív következményért Ön felel, és az nem kapcsolódik a tigerduck-app alkalmazáshoz.",
     "settings_library_warning_title": "Figyelem!",
     "settings_link_opening_method": "Hivatkozások megnyitása ezzel:",
-    "settings_notifications_disabled_warning": "Az értesítések ki vannak kapcsolva — a feladat- és óraemlékeztetők nem fognak megjelenni. Koppintson a Rendszerbeállítások megnyitásához.",
     "settings_official_website": "Hivatalos weboldal",
     "settings_open_source_licenses": "Nyílt forráskódú licencek",
     "settings_privacy_policy": "Adatvédelmi irányelvek",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Ossz meg névtelen használati adatokat (meglátogatott oldalak, widget-használat), hogy segíts fejleszteni a TigerDuck-ot",
     "onboarding_analytics_label": "Használati analitika (nem kötelező)",
     "onboarding_analytics_description": "Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Eszközök közötti szinkronizálás",
+    "onboarding_sync_toggle_label": "Szinkronizálás engedélyezése",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
     "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "settings_cloud_sync_title": "Eszközök közötti szinkronizálás"
   },
   "android": {
     "account_id_use_standard_keyboard": "Normál billentyűzet",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Be",
+    "settings_sync_status_off": "Ki",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

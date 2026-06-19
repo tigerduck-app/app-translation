@@ -526,8 +526,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_title">పరికరాల మధ్య సమకాలీకరణ</string>
+    <string name="onboarding_sync_toggle_label">సమకాలీకరణను ప్రారంభించు</string>
     <string name="onboarding_welcome_description">చెల్లాచెదురుగా ఉన్న వనరులు, ఆలస్యమైన నోటిఫికేషన్లు, అసౌకర్యమైన ఇంటర్‌ఫేస్‌ల సమస్యలను పరిష్కరించడానికి విద్యార్థుల బృందం రూపొందించిన కేంపస్ సహాయకుడు TigerDuck. \nఈ యాప్ పూర్తిగా డెవలపర్ల సదుద్దేశంతోనే నడుస్తుంది — ఏవైనా సమస్యలు ఎదురైతే దయచేసి తెలియజేయండి (మా Discordలో చేరడానికి లేదా ఫీడ్‌బ్యాక్ ఫారమ్ పూరించడానికి దిగువ వెబ్‌సైట్‌ను సందర్శించండి). మెరుగుదలలో సహాయపడేందుకు లేదా అభివృద్ధిలో నేరుగా పాల్గొనేందుకు మిమ్మల్ని స్వాగతిస్తున్నాము.</string>
     <string name="onboarding_welcome_github_label">GitHubలో TigerDuck</string>
     <string name="onboarding_welcome_subtitle">మీ NTUST క్యాంపస్ అసిస్టెంట్</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">మూలాన్ని చూపించు</string>
     <string name="settings_classroom_mandarin_display_pinyin">పిన్యిన్ చూపించు</string>
     <string name="settings_classroom_mandarin_display_translated">అనువాదాన్ని చూపించు</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">పరికరాల మధ్య సమకాలీకరణ</string>
     <string name="settings_color_theme">రంగు థీమ్</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">ఫీడ్‌బ్యాక్ / సమస్య నివేదించు</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">ఈ యాప్ అధికారిక NTUST లైబ్రరీ యాప్ కాదు మరియు పాఠశాల లైబ్రరీ ద్వారా ఆమోదించబడలేదు. సాధారణ పనితీరు లేదా వాడకం యొక్క ఏ పరిణామాలకైనా మేము హామీ ఇవ్వలేము.\n\nమీ స్వంత వివేచనతో వాడండి. ఏవైనా ప్రతికూల పరిణామాలు మీ స్వంత బాధ్యత మరియు tigerduck-app తో సంబంధం లేదు.</string>
     <string name="settings_library_warning_title">దయచేసి గమనించండి!</string>
     <string name="settings_link_opening_method">లింక్‌లు తెరవడానికి</string>
-    <string name="settings_notifications_disabled_warning">నోటిఫికేషన్‌లు ఆపివేయబడ్డాయి — అసైన్‌మెంట్ మరియు క్లాస్ రిమైండర్‌లు కనిపించవు. సిస్టమ్ సెట్టింగ్‌లు తెరవడానికి నొక్కండి.</string>
     <string name="settings_official_website">అధికారిక వెబ్‌సైట్</string>
     <string name="settings_open_source_licenses">ఓపెన్-సోర్స్ లైసెన్సులు</string>
     <string name="settings_privacy_policy">గోప్యతా విధానం</string>

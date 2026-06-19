@@ -623,7 +623,6 @@
     "settings_library_warning_message": "Deze app is geen officiële NTUST-bibliotheekapp en is niet goedgekeurd door de schoolbibliotheek. We kunnen geen normale werking of gevolgen van het gebruik garanderen.\n\nGebruik op eigen risico. Eventuele negatieve gevolgen zijn voor je eigen verantwoordelijkheid en staan los van tigerduck-app.",
     "settings_library_warning_title": "Let op!",
     "settings_link_opening_method": "Links openen met",
-    "settings_notifications_disabled_warning": "Meldingen zijn uitgeschakeld — opdracht- en lesherinneringen worden niet weergegeven. Tik om Systeeminstellingen te openen.",
     "settings_official_website": "Officiële website",
     "settings_open_source_licenses": "Opensource-licenties",
     "settings_privacy_policy": "Privacybeleid",
@@ -752,15 +751,15 @@
     "settings_analytics_description": "Deel anonieme gebruiksgegevens (bezochte pagina's, gebruik van widgets) om TigerDuck te helpen verbeteren",
     "onboarding_analytics_label": "Gebruiksanalyse (optioneel)",
     "onboarding_analytics_description": "Help TigerDuck te verbeteren door anoniem paginabezoeken en widgetgebruik te delen. Je kunt dit altijd wijzigen in Instellingen.",
-    "onboarding_sync_title": "Cross-Device Sync",
-    "onboarding_sync_toggle_label": "Enable cross-device sync",
+    "onboarding_sync_title": "Synchronisatie tussen apparaten",
+    "onboarding_sync_toggle_label": "Synchronisatie inschakelen",
     "onboarding_sync_shared_student_id": "Student ID",
     "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
     "onboarding_sync_shared_device_id": "Device ID",
     "onboarding_sync_shared_courses": "Course data",
     "onboarding_sync_shared_assignments": "Assignment data",
-    "onboarding_sync_not_shared_password": "Password is never uploaded",
-    "settings_cloud_sync_title": "Cross-Device Sync"
+    "onboarding_sync_not_shared_password": "Wachtwoord wordt nooit geüpload",
+    "settings_cloud_sync_title": "Synchronisatie tussen apparaten"
   },
   "android": {
     "account_id_use_standard_keyboard": "Standaardtoetsenbord",
@@ -829,7 +828,9 @@
     "settings_sync_brief_description": "Sync timetable edits and assignment states across your devices.",
     "settings_sync_data_section": "Data shared with the server",
     "settings_sync_disabled_note": "When sync is off, all data stays on this device only.",
-    "settings_sync_status_on": "On",
-    "settings_sync_status_off": "Off"
+    "settings_sync_status_on": "Aan",
+    "settings_sync_status_off": "Uit",
+    "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
+    "settings_notifications_disabled_warning": "Notifications are off. Tap to open System Settings."
   }
 }

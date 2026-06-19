@@ -526,7 +526,7 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
+    <string name="onboarding_sync_title">Sincronização entre dispositivos</string>
     <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
     <string name="onboarding_welcome_description">O TigerDuck é um assistente de campus criado por um grupo de estudantes para resolver recursos dispersos, notificações tardias e interfaces pouco intuitivas. \nA aplicação funciona inteiramente graças à boa vontade dos programadores — se encontrar algum problema, comunique-o (visite o site abaixo para se juntar ao nosso Discord ou preencher o formulário de comentários). É bem-vindo a ajudar-nos a melhorá-la ou a contribuir diretamente para o desenvolvimento.</string>
     <string name="onboarding_welcome_github_label">TigerDuck no GitHub</string>
@@ -643,7 +643,7 @@
     <string name="settings_classroom_mandarin_display_original">Mostrar original</string>
     <string name="settings_classroom_mandarin_display_pinyin">Mostrar pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Mostrar tradução</string>
-    <string name="settings_cloud_sync_title">Cross-Device Sync</string>
+    <string name="settings_cloud_sync_title">Sincronização entre dispositivos</string>
     <string name="settings_color_theme">Tema de cores</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Comentários / Reportar problema</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Esta aplicação não é uma aplicação oficial da biblioteca da NTUST e não foi aprovada pela biblioteca da escola. Não podemos garantir o funcionamento normal nem quaisquer consequências do uso.\n\nUsa por tua conta e risco. Quaisquer resultados negativos são da tua responsabilidade e não estão relacionados com a tigerduck-app.</string>
     <string name="settings_library_warning_title">Atenção!</string>
     <string name="settings_link_opening_method">Abrir hiperligações com</string>
-    <string name="settings_notifications_disabled_warning">As notificações estão desativadas — os lembretes de tarefas e aulas não serão exibidos. Toque para abrir as Definições do Sistema.</string>
     <string name="settings_official_website">Site oficial</string>
     <string name="settings_open_source_licenses">Licenças de código aberto</string>
     <string name="settings_privacy_policy">Política de privacidade</string>

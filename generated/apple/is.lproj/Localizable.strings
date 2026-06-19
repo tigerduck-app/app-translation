@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Samstilling milli tækja";
+"onboarding_sync_toggle_label" = "Virkja samstillingu";
 "onboarding_watchos_description" = "TigerDuck inniheldur Apple Watch fylgiforrit. Sjáðu næsta tíma og fljótlegar áminningar beint á úlnliðnum — Watch TigerDuck samstillir frá iPhone-tækinu þínu.";
 "onboarding_watchos_title" = "Apple Watch stuðningur";
 "onboarding_welcome_description" = "TigerDuck er háskólaaðstoðarmaður búinn til af hópi nemenda til að leysa dreifðar auðlindir, seinkar tilkynningar og óþjál viðmót. \nAppið keyrir alfarið á góðvilja forritaranna — ef þú finnur einhver vandamál, vinsamlegast tilkynntu þau (heimsæktu vefsíðuna hér að neðan til að ganga til liðs við Discord-svæðið okkar eða fylla út endurgjafareyðublaðið). Þér er velkomið að hjálpa okkur að bæta það eða leggja beint til þróunarinnar.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Sýna upprunalegt";
 "settings_classroom_mandarin_display_pinyin" = "Sýna pinyin";
 "settings_classroom_mandarin_display_translated" = "Sýna þýðingu";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Samstilling milli tækja";
 "settings_color_theme" = "Litaþema";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Endurgjöf / Tilkynna villu";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "Þetta forrit er ekki opinbert NTUST bókasafnsforrit og hefur ekki verið samþykkt af skólabókasafninu. Við getum ekki tryggt eðlilega virkni eða neinar afleiðingar notkunar.\n\nNotaðu að eigin geðþótta. Allar neikvæðar afleiðingar eru á þínu eigin ábyrgð og ótengt tigerduck-app.";
 "settings_library_warning_title" = "Vinsamlegast taktu eftir!";
 "settings_link_opening_method" = "Opna tengla með";
-"settings_notifications_disabled_warning" = "Tilkynningar eru af — áminningar fyrir verkefni og kennslustundir munu ekki birtast. Pikkaðu til að opna kerfisstillingar.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Opinber vefsíða";
 "settings_open_source_licenses" = "Opinn uppspretta leyfi";
 "settings_privacy_policy" = "Persónuverndarstefna";
@@ -676,6 +676,7 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
 "settings_sync_status_off" = "Off";
 "settings_sync_status_on" = "On";
 "settings_sync_toggle_label" = "Enable cross-device sync";

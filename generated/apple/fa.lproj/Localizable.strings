@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "همگام‌سازی بین دستگاه‌ها";
+"onboarding_sync_toggle_label" = "فعال کردن همگام‌سازی";
 "onboarding_watchos_description" = "TigerDuck شامل یک برنامهٔ همراه برای Apple Watch است. کلاس بعدی و یادآوری‌های سریع را مستقیماً روی مچ دست خود ببینید — Watch TigerDuck از iPhone شما همگام‌سازی می‌کند.";
 "onboarding_watchos_title" = "پشتیبانی از Apple Watch";
 "onboarding_welcome_description" = "TigerDuck یک دستیار دانشگاهی است که توسط گروهی از دانشجویان ساخته شده تا مشکلات منابع پراکنده، اعلان‌های دیرهنگام و رابط‌های ناخوشایند را حل کند. \nاین برنامه کاملاً با حسن‌نیت توسعه‌دهندگان اجرا می‌شود — اگر با مشکلی مواجه شدید، لطفاً گزارش دهید (برای پیوستن به Discord ما یا پر کردن فرم بازخورد، از وب‌سایت زیر دیدن کنید). از کمک شما برای بهبود یا مشارکت مستقیم در توسعه استقبال می‌کنیم.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "نمایش اصلی";
 "settings_classroom_mandarin_display_pinyin" = "نمایش پینیین";
 "settings_classroom_mandarin_display_translated" = "نمایش ترجمه شده";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "همگام‌سازی بین دستگاه‌ها";
 "settings_color_theme" = "تم رنگ";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "بازخورد / گزارش مشکل";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "این برنامه یک برنامه رسمی کتابخانه NTUST نیست و مورد تأیید کتابخانه دانشگاه قرار نگرفته است. ما عملکرد عادی یا هر پیامدی از استفاده را تضمین نمی‌کنیم.\n\nمسئولیت استفاده با خود شماست. هر نتیجه منفی بر عهده شماست و هیچ ارتباطی با tigerduck-app ندارد.";
 "settings_library_warning_title" = "لطفاً توجه کنید!";
 "settings_link_opening_method" = "باز کردن لینک‌ها با";
-"settings_notifications_disabled_warning" = "اعلان‌ها خاموش هستند — یادآوری‌های تکلیف و کلاس نمایش داده نمی‌شوند. برای باز کردن تنظیمات سیستم ضربه بزنید.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "وب‌سایت رسمی";
 "settings_open_source_licenses" = "مجوزهای متن‌باز";
 "settings_privacy_policy" = "سیاست حریم خصوصی";
@@ -676,8 +676,9 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
-"settings_sync_status_off" = "Off";
-"settings_sync_status_on" = "On";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
+"settings_sync_status_off" = "خاموش";
+"settings_sync_status_on" = "روشن";
 "settings_sync_toggle_label" = "Enable cross-device sync";
 "settings_theme_dark" = "حالت تاریک";
 "settings_theme_light" = "حالت روشن";

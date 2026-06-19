@@ -527,7 +527,7 @@
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_toggle_label">I-enable ang cross-device sync</string>
     <string name="onboarding_welcome_description">Ang TigerDuck ay isang campus assistant na ginawa ng grupo ng mga estudyante para ayusin ang nakakalat na mga mapagkukunan, naantalang mga abiso, at hindi madaling gamitin na mga interface. \nGumagana ang app dahil lamang sa kabutihang-loob ng mga developer — kung may makita kang problema, mangyaring iulat ito (bisitahin ang website sa ibaba para sumali sa aming Discord o punan ang feedback form). Tinatanggap ka naming tumulong sa paggawa nito o direktang mag-ambag sa development.</string>
     <string name="onboarding_welcome_github_label">TigerDuck sa GitHub</string>
     <string name="onboarding_welcome_subtitle">Ang iyong NTUST campus assistant</string>
@@ -674,7 +674,6 @@
     <string name="settings_library_warning_message">Hindi ito opisyal na library app ng NTUST at hindi pa ito aprubado ng school library. Hindi namin masisiguro ang normal na operasyon o anumang kahihinatnan ng paggamit.\n\nGamitin sa sariling pagpapasya. Ang anumang negatibong kinalabasan ay sarili mong responsibilidad at walang kaugnayan sa tigerduck-app.</string>
     <string name="settings_library_warning_title">Pakitandaan po!</string>
     <string name="settings_link_opening_method">Buksan ang mga link gamit ang</string>
-    <string name="settings_notifications_disabled_warning">Naka-off ang mga notification — hindi lalabas ang mga paalala sa assignment at klase. I-tap para buksan ang System Settings.</string>
     <string name="settings_official_website">Opisyal na website</string>
     <string name="settings_open_source_licenses">Mga open-source na lisensya</string>
     <string name="settings_privacy_policy">Patakaran sa privacy</string>

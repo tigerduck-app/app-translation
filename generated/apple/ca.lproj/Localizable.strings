@@ -505,8 +505,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle token (encrypted)";
 "onboarding_sync_shared_student_id" = "Student ID";
 "onboarding_sync_subtitle" = "When enabled, TigerDuck syncs timetable edits and assignment states across your devices via the TigerDuck server.";
-"onboarding_sync_title" = "Cross-Device Sync";
-"onboarding_sync_toggle_label" = "Enable cross-device sync";
+"onboarding_sync_title" = "Sincronització entre dispositius";
+"onboarding_sync_toggle_label" = "Activa la sincronització";
 "onboarding_watchos_description" = "TigerDuck inclou una aplicació complementària per a l'Apple Watch. Consulta la propera classe i recordatoris ràpids des del canell — Watch TigerDuck se sincronitza amb el teu iPhone.";
 "onboarding_watchos_title" = "Compatibilitat amb Apple Watch";
 "onboarding_welcome_description" = "TigerDuck és un assistent de campus creat per un grup d'estudiants per resoldre els recursos dispersos, les notificacions tardanes i les interfícies poc intuïtives. \nL'app funciona íntegrament gràcies a la bona voluntat dels desenvolupadors — si trobes algun problema, informa'ns-en (visita el lloc web de sota per unir-te al nostre Discord o per omplir el formulari de comentaris). T'animem a ajudar-nos a millorar-la o a contribuir directament al desenvolupament.";
@@ -622,7 +622,7 @@
 "settings_classroom_mandarin_display_original" = "Mostra l'original";
 "settings_classroom_mandarin_display_pinyin" = "Mostra pinyin";
 "settings_classroom_mandarin_display_translated" = "Mostra traducció";
-"settings_cloud_sync_title" = "Cross-Device Sync";
+"settings_cloud_sync_title" = "Sincronització entre dispositius";
 "settings_color_theme" = "Tema de color";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Comentaris / Informeu d'un problema";
@@ -653,7 +653,7 @@
 "settings_library_warning_message" = "Aquesta aplicació no és l'aplicació oficial de la biblioteca de NTUST i no ha estat aprovada per la biblioteca de l'escola. No podem garantir el funcionament normal ni les conseqüències de l'ús.\n\nUseu-la a criteri propi. Qualsevol resultat negatiu és responsabilitat vostra i no té relació amb tigerduck-app.";
 "settings_library_warning_title" = "Atenció!";
 "settings_link_opening_method" = "Obriu els enllaços amb";
-"settings_notifications_disabled_warning" = "Les notificacions estan desactivades — no apareixeran els recordatoris de tasques ni de classes. Toca per obrir Configuració del Sistema.";
+"settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";
 "settings_official_website" = "Lloc web oficial";
 "settings_open_source_licenses" = "Llicències de codi obert";
 "settings_privacy_policy" = "Política de privadesa";
@@ -676,6 +676,7 @@
 "settings_sync_brief_description" = "Sync timetable edits and assignment states across your devices.";
 "settings_sync_data_section" = "Data shared with the server";
 "settings_sync_disabled_note" = "When sync is off, all data stays on this device only.";
+"settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
 "settings_sync_status_off" = "Off";
 "settings_sync_status_on" = "On";
 "settings_sync_toggle_label" = "Enable cross-device sync";
