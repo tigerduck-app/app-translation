@@ -176,6 +176,15 @@
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Masuk untuk melihat jadwal kelas Anda</string>
     <string name="class_table_total_credits_value">%1$d SKS</string>
+    <string name="cloud_sync_assignments">Assignments</string>
+    <string name="cloud_sync_class_table">Class table</string>
+    <string name="cloud_sync_class_table_footer">Choose which class table data to sync across devices.</string>
+    <string name="cloud_sync_class_table_sync">Class table sync</string>
+    <string name="cloud_sync_course_colours">Course colours</string>
+    <string name="cloud_sync_courses">Courses</string>
+    <string name="cloud_sync_custom_course_names">Custom course names</string>
+    <string name="cloud_sync_device_id">Device ID</string>
+    <string name="cloud_sync_device_section">Device</string>
     <string name="cloud_sync_disable_button">Disable Cloud Sync</string>
     <string name="cloud_sync_disable_confirm_action">Disable</string>
     <string name="cloud_sync_disable_confirm_message">Disabling signs this device out and revokes its registration on the server. Local data is not affected.</string>
@@ -196,6 +205,8 @@
     <string name="cloud_sync_step_register">Registering device…</string>
     <string name="cloud_sync_step_upload">Uploading data…</string>
     <string name="cloud_sync_sync_now">Sync Now</string>
+    <string name="cloud_sync_sync_options">Sync options</string>
+    <string name="cloud_sync_title">Cloud Sync</string>
     <string name="color_name_blue">Biru</string>
     <string name="color_name_cyan">Sian</string>
     <string name="color_name_green">Hijau</string>
@@ -645,7 +656,6 @@
     <string name="settings_classroom_mandarin_display_original">Tampilkan asli</string>
     <string name="settings_classroom_mandarin_display_pinyin">Tampilkan pinyin</string>
     <string name="settings_classroom_mandarin_display_translated">Tampilkan terjemahan</string>
-    <string name="settings_cloud_sync_title">Sinkronisasi Lintas Perangkat</string>
     <string name="settings_color_theme">Tema warna</string>
     <string name="settings_delete_account">Delete account</string>
     <string name="settings_feedback_bug_report">Umpan balik / Laporkan masalah</string>

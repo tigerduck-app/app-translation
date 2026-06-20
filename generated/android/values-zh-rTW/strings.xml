@@ -176,6 +176,15 @@
     <string name="class_table_semester_picker_label">學期</string>
     <string name="class_table_sign_in_required_message">尚未登入，無法查看課表</string>
     <string name="class_table_total_credits_value">%1$d 學分</string>
+    <string name="cloud_sync_assignments">作業</string>
+    <string name="cloud_sync_class_table">課表</string>
+    <string name="cloud_sync_class_table_footer">選擇要在裝置間同步的課表資料。</string>
+    <string name="cloud_sync_class_table_sync">課表同步</string>
+    <string name="cloud_sync_course_colours">課程顏色</string>
+    <string name="cloud_sync_courses">課程</string>
+    <string name="cloud_sync_custom_course_names">自訂課程名稱</string>
+    <string name="cloud_sync_device_id">裝置 ID</string>
+    <string name="cloud_sync_device_section">裝置</string>
     <string name="cloud_sync_disable_button">停用雲端同步</string>
     <string name="cloud_sync_disable_confirm_action">停用</string>
     <string name="cloud_sync_disable_confirm_message">停用後會登出並撤銷此裝置在伺服器上的註冊（包含推播憑證）。本機資料不受影響。</string>
@@ -196,6 +205,8 @@
     <string name="cloud_sync_step_register">註冊裝置…</string>
     <string name="cloud_sync_step_upload">上傳資料…</string>
     <string name="cloud_sync_sync_now">立即同步</string>
+    <string name="cloud_sync_sync_options">同步選項</string>
+    <string name="cloud_sync_title">雲端同步</string>
     <string name="color_name_blue">藍</string>
     <string name="color_name_cyan">青</string>
     <string name="color_name_green">綠</string>
@@ -645,7 +656,6 @@
     <string name="settings_classroom_mandarin_display_original">顯示原文</string>
     <string name="settings_classroom_mandarin_display_pinyin">顯示拼音</string>
     <string name="settings_classroom_mandarin_display_translated">顯示翻譯</string>
-    <string name="settings_cloud_sync_title">跨裝置同步</string>
     <string name="settings_color_theme">顏色主題</string>
     <string name="settings_delete_account">刪除帳號</string>
     <string name="settings_feedback_bug_report">回饋/問題回報</string>

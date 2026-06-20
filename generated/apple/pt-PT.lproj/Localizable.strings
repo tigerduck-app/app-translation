@@ -172,6 +172,15 @@
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Inicia sessão para ver o teu horário";
 "class_table_total_credits_value" = "%1$d créditos";
+"cloud_sync_assignments" = "Assignments";
+"cloud_sync_class_table" = "Class table";
+"cloud_sync_class_table_footer" = "Choose which class table data to sync across devices.";
+"cloud_sync_class_table_sync" = "Class table sync";
+"cloud_sync_course_colours" = "Course colours";
+"cloud_sync_courses" = "Courses";
+"cloud_sync_custom_course_names" = "Custom course names";
+"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_section" = "Device";
 "cloud_sync_disable_button" = "Disable Cloud Sync";
 "cloud_sync_disable_confirm_action" = "Disable";
 "cloud_sync_disable_confirm_message" = "Disabling signs this device out and revokes its registration on the server. Local data is not affected.";
@@ -192,6 +201,8 @@
 "cloud_sync_step_register" = "Registering device…";
 "cloud_sync_step_upload" = "Uploading data…";
 "cloud_sync_sync_now" = "Sync Now";
+"cloud_sync_sync_options" = "Sync options";
+"cloud_sync_title" = "Cloud Sync";
 "color_name_blue" = "Azul";
 "color_name_cyan" = "Ciano";
 "color_name_green" = "Verde";
@@ -624,7 +635,6 @@
 "settings_classroom_mandarin_display_original" = "Mostrar original";
 "settings_classroom_mandarin_display_pinyin" = "Mostrar pinyin";
 "settings_classroom_mandarin_display_translated" = "Mostrar tradução";
-"settings_cloud_sync_title" = "Sincronização entre dispositivos";
 "settings_color_theme" = "Tema de cores";
 "settings_delete_account" = "Delete account";
 "settings_feedback_bug_report" = "Comentários / Reportar problema";
