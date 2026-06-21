@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Receba notificações únicas enviadas manualmente pelo operador. Padrão: ativado.",
     "settings_server_push_label": "Notificações do servidor",
     "settings_show_absolute_assignment_time": "Mostrar data completa para o prazo das atividades",
-    "settings_sync_brief_description": "Sincronize edições de horário e estados de tarefas entre seus dispositivos.",
     "settings_sync_disabled_note": "Quando a sincronização está desativada, todos os dados ficam apenas neste dispositivo.",
     "settings_sync_status_off": "Desligado",
     "settings_sync_status_on": "Ligado",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Sincronização bem-sucedida",
     "tab_editor_apply_action": "Aplicar",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Restaurar padrão",
     "vibration_settings_section_length_ms": "Duração (ms)",
     "vibration_settings_section_strength_pct": "Intensidade",
-    "vibration_settings_title": "Vibração"
+    "vibration_settings_title": "Vibração",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "A atividade ao vivo mostra a aula atual e a contagem regressiva nas notificações. \"Em aula\" e \"Aula começando em breve\" são atualizados em tempo real apenas com o app aberto; o \"Aviso de atividade\" continua alertando na hora certa mesmo com o app fechado.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Notificações desativadas. Toque para abrir os Ajustes.",
     "settings_sync_data_section": "Dados compartilhados com o servidor",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "Ativar sincronização entre dispositivos"
+    "settings_sync_toggle_label": "Ativar sincronização entre dispositivos",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

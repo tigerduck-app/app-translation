@@ -518,8 +518,8 @@
 "onboarding_sync_shared_moodle_token" = "Moodle 토큰 (암호화)";
 "onboarding_sync_shared_student_id" = "학번";
 "onboarding_sync_subtitle" = "활성화하면 TigerDuck이 TigerDuck 서버를 통해 기기 간에 시간표 편집 및 과제 상태를 동기화합니다.";
-"onboarding_sync_title" = "기기 간 동기화";
-"onboarding_sync_toggle_label" = "기기 간 동기화 활성화";
+"onboarding_sync_title" = "Cloud Sync";
+"onboarding_sync_toggle_label" = "Cloud Sync 활성화";
 "onboarding_watchos_description" = "TigerDuck에는 Apple Watch 컴패니언이 포함되어 있습니다. 다음 수업과 빠른 알림을 손목에서 바로 확인하세요 — Watch TigerDuck이 iPhone에서 정보를 동기화합니다.";
 "onboarding_watchos_title" = "Apple Watch 지원";
 "onboarding_welcome_description" = "TigerDuck은 흩어진 리소스, 늦은 알림, 불편한 인터페이스 문제를 해결하기 위해 학생 그룹이 만든 캠퍼스 도우미입니다. \n이 앱은 전적으로 개발자들의 호의로 운영됩니다 — 문제를 발견하시면 알려주세요 (아래 웹사이트를 방문해 Discord에 참여하거나 피드백 양식을 작성해 주세요). 개선에 도움을 주시거나 개발에 직접 기여하는 것도 환영합니다.";
@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "운영자가 수동으로 발송한 일회성 알림을 수신합니다. 기본값은 켜짐입니다.";
 "settings_server_push_label" = "서버 알림";
 "settings_show_absolute_assignment_time" = "과제 마감 시간을 전체 날짜로 표시";
-"settings_sync_brief_description" = "기기 간에 시간표 편집 및 과제 상태를 동기화합니다.";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "서버와 공유되는 데이터";
 "settings_sync_disabled_note" = "동기화가 꺼져 있으면 모든 데이터는 이 기기에만 저장됩니다.";
 "settings_sync_off_notifications_warning" = "기기 간 동기화가 꺼져 있습니다. 푸시 알림과 Live Updates를 사용할 수 없습니다.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "동기화 성공";
 "tab_editor_apply_action" = "적용";

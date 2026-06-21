@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Nhận thông báo một lần do người vận hành gửi thủ công. Mặc định: bật.",
     "settings_server_push_label": "Thông báo máy chủ",
     "settings_show_absolute_assignment_time": "Hiển thị ngày đầy đủ cho thời hạn bài tập",
-    "settings_sync_brief_description": "Đồng bộ các chỉnh sửa thời khóa biểu và trạng thái bài tập giữa các thiết bị của bạn.",
     "settings_sync_disabled_note": "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này.",
     "settings_sync_status_off": "Tắt",
     "settings_sync_status_on": "Bật",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Đồng bộ thành công",
     "tab_editor_apply_action": "Áp dụng",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Đặt lại mặc định",
     "vibration_settings_section_length_ms": "Thời lượng (ms)",
     "vibration_settings_section_strength_pct": "Cường độ",
-    "vibration_settings_title": "Rung"
+    "vibration_settings_title": "Rung",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "Hoạt động trực tiếp hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Thông báo đang tắt. Chạm để mở Cài đặt.",
     "settings_sync_data_section": "Dữ liệu được chia sẻ với máy chủ",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "Bật đồng bộ xuyên thiết bị"
+    "settings_sync_toggle_label": "Bật đồng bộ xuyên thiết bị",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

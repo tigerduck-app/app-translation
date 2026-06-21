@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Taka á móti einstaka tilkynningum sem rekstraraðili sendir handvirkt. Sjálfgefið kveikt.",
     "settings_server_push_label": "Þjónatilkynningar",
     "settings_show_absolute_assignment_time": "Sýna fulla dagsetningu fyrir skiladag verkefnis",
-    "settings_sync_brief_description": "Samstilltu breytingar á stundaskrá og stöður verkefna milli tækja þinna.",
     "settings_sync_disabled_note": "Þegar samstilling er slökkt eru öll gögn aðeins á þessu tæki.",
     "settings_sync_status_off": "Slökkt",
     "settings_sync_status_on": "Kveikt",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Samstilling tókst",
     "tab_editor_apply_action": "Nota",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Endurstilla sjálfgefið",
     "vibration_settings_section_length_ms": "Lengd (ms)",
     "vibration_settings_section_strength_pct": "Styrkur",
-    "vibration_settings_title": "Titringur"
+    "vibration_settings_title": "Titringur",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "Bein virkni sýnir núverandi tíma og niðurtal í tilkynningum. \"Í tíma\" og \"Tími byrjar bráðum\" uppfærast í rauntíma aðeins þegar forritið er opið; \"Verkefnaviðvörun\" getur enn gefið tilkynningu á réttum tíma þegar forritið er lokað.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Tilkynningar eru slökktar. Ýttu til að opna Kerfisstillingar.",
     "settings_sync_data_section": "Gögn deild með þjóninum",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "Virkja samstillingu milli tækja"
+    "settings_sync_toggle_label": "Virkja samstillingu milli tækja",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

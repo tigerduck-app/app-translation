@@ -540,7 +540,7 @@
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
     <string name="onboarding_sync_title">Sincronização entre dispositivos</string>
-    <string name="onboarding_sync_toggle_label">Enable cross-device sync</string>
+    <string name="onboarding_sync_toggle_label">Enable cloud sync</string>
     <string name="onboarding_welcome_description">O TigerDuck é um assistente de campus criado por um grupo de estudantes para resolver recursos dispersos, notificações tardias e interfaces pouco intuitivas. \nA aplicação funciona inteiramente graças à boa vontade dos programadores — se encontrar algum problema, comunique-o (visite o site abaixo para se juntar ao nosso Discord ou preencher o formulário de comentários). É bem-vindo a ajudar-nos a melhorá-la ou a contribuir diretamente para o desenvolvimento.</string>
     <string name="onboarding_welcome_github_label">TigerDuck no GitHub</string>
     <string name="onboarding_welcome_subtitle">O teu assistente de campus da NTUST</string>
@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">Receber notificações únicas enviadas manualmente pelo operador. Predefinição: ativado.</string>
     <string name="settings_server_push_label">Notificações do servidor</string>
     <string name="settings_show_absolute_assignment_time">Mostrar data completa do prazo dos trabalhos</string>
-    <string name="settings_sync_brief_description">Sincronize edições de horário e estados de tarefas entre os seus dispositivos.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">Quando a sincronização está desativada, todos os dados ficam apenas neste dispositivo.</string>
     <string name="settings_sync_status_off">Desligado</string>
     <string name="settings_sync_status_on">Ligado</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">Sincronização concluída</string>
     <string name="tab_editor_apply_action">Aplicar</string>

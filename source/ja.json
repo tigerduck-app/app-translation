@@ -507,8 +507,8 @@
     "onboarding_sync_shared_device_id": "デバイス ID",
     "onboarding_sync_shared_moodle_token": "Moodle トークン（暗号化）",
     "onboarding_sync_shared_student_id": "学籍番号",
-    "onboarding_sync_title": "クロスデバイス同期",
-    "onboarding_sync_toggle_label": "クロスデバイス同期を有効にする",
+    "onboarding_sync_title": "Cloud Sync",
+    "onboarding_sync_toggle_label": "Cloud Syncを有効にする",
     "onboarding_welcome_description": "TigerDuck は、散らばったリソース、遅い通知、使いにくいインターフェースを解決するために、学生グループが開発したキャンパスアシスタントです。\nこのアプリは完全に開発者の善意で動いています — 問題を見つけたら、ぜひご報告ください（下記の公式サイトから Discord に参加するか、フィードバックフォームをご記入ください）。改善のお手伝いや、開発への直接的な貢献も歓迎します。",
     "onboarding_welcome_github_label": "TigerDuck の GitHub",
     "onboarding_welcome_subtitle": "あなたの NTUST キャンパスアシスタント",
@@ -668,7 +668,6 @@
     "settings_server_push_footer": "管理者が手動で送信するワンタイム通知を受信します。デフォルト：オン。",
     "settings_server_push_label": "サーバー通知",
     "settings_show_absolute_assignment_time": "課題の期限に完全な日付を表示",
-    "settings_sync_brief_description": "デバイス間で時間割の編集や課題の状態を同期します。",
     "settings_sync_disabled_note": "同期がオフの場合、すべてのデータはこのデバイスのみに保存されます。",
     "settings_sync_status_off": "オフ",
     "settings_sync_status_on": "オン",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "同期に成功しました",
     "tab_editor_apply_action": "適用",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "デフォルトに戻す",
     "vibration_settings_section_length_ms": "長さ (ms)",
     "vibration_settings_section_strength_pct": "強さ",
-    "vibration_settings_title": "バイブレーション"
+    "vibration_settings_title": "バイブレーション",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "ライブアクティビティは現在の授業とカウントダウンを通知エリアに表示します。「授業中」と「まもなく授業開始」はアプリを開いている間のみリアルタイムで更新されます。「課題警告」はアプリを閉じていても時間どおりに通知できます。",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "通知がオフです。タップしてシステム設定を開いてください。",
     "settings_sync_data_section": "サーバーと共有されるデータ",
     "settings_sync_off_notifications_warning": "クロスデバイス同期がオフです。プッシュ通知と Live Updates は利用できません。",
-    "settings_sync_toggle_label": "クロスデバイス同期を有効にする"
+    "settings_sync_toggle_label": "クロスデバイス同期を有効にする",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

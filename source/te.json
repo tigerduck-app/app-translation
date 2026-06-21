@@ -668,7 +668,6 @@
     "settings_server_push_footer": "ఆపరేటర్ స్వయంగా పంపిన ఒక్కసారి నోటిఫికేషన్‌లు స్వీకరించండి. డిఫాల్ట్: ఆన్.",
     "settings_server_push_label": "సర్వర్ నోటిఫికేషన్‌లు",
     "settings_show_absolute_assignment_time": "అసైన్‌మెంట్ గడువు సమయానికి పూర్తి తేదీ చూపించు",
-    "settings_sync_brief_description": "మీ పరికరాల మధ్య టైమ్‌టేబుల్ ఎడిట్‌లు మరియు అసైన్‌మెంట్ స్థితులను సింక్ చేయండి.",
     "settings_sync_disabled_note": "సింక్ ఆఫ్‌లో ఉన్నప్పుడు, మొత్తం డేటా ఈ పరికరంలో మాత్రమే ఉంటుంది.",
     "settings_sync_status_off": "ఆఫ్",
     "settings_sync_status_on": "ఆన్",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "సమకాలీకరణ విజయవంతమైంది",
     "tab_editor_apply_action": "వర్తించు",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "డిఫాల్ట్‌కు రీసెట్ చేయండి",
     "vibration_settings_section_length_ms": "వ్యవధి (ms)",
     "vibration_settings_section_strength_pct": "తీవ్రత",
-    "vibration_settings_title": "వైబ్రేషన్"
+    "vibration_settings_title": "వైబ్రేషన్",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "లైవ్ యాక్టివిటీ నోటిఫికేషన్స్‌లో ప్రస్తుత తరగతి మరియు కౌంట్‌డౌన్ చూపిస్తుంది. 'తరగతిలో ఉన్నారు' మరియు 'తరగతి త్వరలో మొదలవుతుంది' కేవలం యాప్ తెరిచి ఉన్నప్పుడే రియల్-టైమ్‌లో అప్‌డేట్ అవుతాయి; 'అసైన్‌మెంట్ హెచ్చరిక' యాప్ మూసివేసినా సమయానికి హెచ్చరిస్తుంది.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "నోటిఫికేషన్‌లు ఆఫ్‌లో ఉన్నాయి. సిస్టమ్ సెట్టింగ్‌లను తెరవడానికి ట్యాప్ చేయండి.",
     "settings_sync_data_section": "సర్వర్‌తో షేర్ చేసిన డేటా",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "క్రాస్-డివైస్ సింక్‌ను ఎనేబుల్ చేయండి"
+    "settings_sync_toggle_label": "క్రాస్-డివైస్ సింక్‌ను ఎనేబుల్ చేయండి",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

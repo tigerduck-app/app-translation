@@ -668,7 +668,6 @@
     "settings_server_push_footer": "ऑपरेटर द्वारा मैन्युअल रूप से भेजी गई एकबारगी सूचनाएँ प्राप्त करें। डिफ़ॉल्ट रूप से चालू।",
     "settings_server_push_label": "सर्वर सूचनाएँ",
     "settings_show_absolute_assignment_time": "असाइनमेंट देय समय के लिए पूरी तारीख दिखाएँ",
-    "settings_sync_brief_description": "अपने डिवाइस के बीच टाइमटेबल संपादन और असाइनमेंट स्थितियाँ सिंक करें।",
     "settings_sync_disabled_note": "जब सिंक बंद हो, तो सभी डेटा केवल इस डिवाइस पर ही रहता है।",
     "settings_sync_status_off": "बंद",
     "settings_sync_status_on": "चालू",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "सिंक सफल",
     "tab_editor_apply_action": "लागू करें",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "डिफ़ॉल्ट पर रीसेट",
     "vibration_settings_section_length_ms": "अवधि (ms)",
     "vibration_settings_section_strength_pct": "तीव्रता",
-    "vibration_settings_title": "वाइब्रेशन"
+    "vibration_settings_title": "वाइब्रेशन",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "लाइव एक्टिविटी नोटिफिकेशन में वर्तमान कक्षा और काउंटडाउन दिखाती है। \"कक्षा में\" और \"कक्षा जल्द शुरू होगी\" केवल तब रियल-टाइम अपडेट होते हैं जब ऐप खुला हो; \"असाइनमेंट चेतावनी\" ऐप बंद होने पर भी समय पर अलर्ट कर सकती है।",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "सूचनाएँ बंद हैं। सिस्टम सेटिंग्स खोलने के लिए टैप करें।",
     "settings_sync_data_section": "सर्वर के साथ साझा किया गया डेटा",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "क्रॉस-डिवाइस सिंक सक्षम करें"
+    "settings_sync_toggle_label": "क्रॉस-डिवाइस सिंक सक्षम करें",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

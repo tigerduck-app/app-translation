@@ -539,8 +539,8 @@
     <string name="onboarding_sync_shared_device_id">기기 ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle 토큰 (암호화)</string>
     <string name="onboarding_sync_shared_student_id">학번</string>
-    <string name="onboarding_sync_title">기기 간 동기화</string>
-    <string name="onboarding_sync_toggle_label">기기 간 동기화 활성화</string>
+    <string name="onboarding_sync_title">Cloud Sync</string>
+    <string name="onboarding_sync_toggle_label">Cloud Sync 활성화</string>
     <string name="onboarding_welcome_description">TigerDuck은 흩어진 리소스, 늦은 알림, 불편한 인터페이스 문제를 해결하기 위해 학생 그룹이 만든 캠퍼스 도우미입니다. \n이 앱은 전적으로 개발자들의 호의로 운영됩니다 — 문제를 발견하시면 알려주세요 (아래 웹사이트를 방문해 Discord에 참여하거나 피드백 양식을 작성해 주세요). 개선에 도움을 주시거나 개발에 직접 기여하는 것도 환영합니다.</string>
     <string name="onboarding_welcome_github_label">GitHub의 TigerDuck</string>
     <string name="onboarding_welcome_subtitle">당신의 NTUST 캠퍼스 도우미</string>
@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">운영자가 수동으로 발송한 일회성 알림을 수신합니다. 기본값은 켜짐입니다.</string>
     <string name="settings_server_push_label">서버 알림</string>
     <string name="settings_show_absolute_assignment_time">과제 마감 시간을 전체 날짜로 표시</string>
-    <string name="settings_sync_brief_description">기기 간에 시간표 편집 및 과제 상태를 동기화합니다.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">동기화가 꺼져 있으면 모든 데이터는 이 기기에만 저장됩니다.</string>
     <string name="settings_sync_status_off">꺼짐</string>
     <string name="settings_sync_status_on">켜짐</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">동기화 성공</string>
     <string name="tab_editor_apply_action">적용</string>

@@ -507,7 +507,7 @@
     "onboarding_sync_shared_device_id": "ID de l'appareil",
     "onboarding_sync_shared_moodle_token": "Jeton Moodle (chiffré)",
     "onboarding_sync_shared_student_id": "Numéro étudiant",
-    "onboarding_sync_title": "Synchronisation multi-appareils",
+    "onboarding_sync_title": "Cloud Sync",
     "onboarding_sync_toggle_label": "Activer la sync multi-appareils",
     "onboarding_welcome_description": "TigerDuck est un assistant universitaire créé par un groupe d'étudiants pour résoudre la dispersion des ressources, le retard des notifications et l'inconfort des interfaces. \nL'application fonctionne entièrement grâce à la bienveillance de ses développeurs — si vous rencontrez des problèmes, signalez-les (visitez le site ci-dessous pour rejoindre notre Discord ou remplir le formulaire de retour). Vous êtes le bienvenu pour nous aider à l'améliorer ou pour contribuer directement au développement.",
     "onboarding_welcome_github_label": "TigerDuck sur GitHub",
@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Recevoir des notifications ponctuelles envoyées manuellement par l'opérateur. Activé par défaut.",
     "settings_server_push_label": "Notifications serveur",
     "settings_show_absolute_assignment_time": "Afficher la date complète pour l'échéance des devoirs",
-    "settings_sync_brief_description": "Synchronisez les modifications d'emploi du temps et les états des devoirs entre vos appareils.",
     "settings_sync_disabled_note": "Quand la synchronisation est désactivée, toutes les données restent uniquement sur cet appareil.",
     "settings_sync_status_off": "Désactivé",
     "settings_sync_status_on": "Activé",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Synchronisation réussie",
     "tab_editor_apply_action": "Appliquer",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Rétablir par défaut",
     "vibration_settings_section_length_ms": "Durée (ms)",
     "vibration_settings_section_strength_pct": "Intensité",
-    "vibration_settings_title": "Vibration"
+    "vibration_settings_title": "Vibration",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "L'activité en direct affiche le cours actuel et le compte à rebours dans les notifications. « En cours » et « Cours imminent » ne se mettent à jour en temps réel que lorsque l'application est ouverte ; « Alerte de devoir » peut toujours alerter à l'heure même lorsque l'application est fermée.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Les notifications sont désactivées. Appuyez pour ouvrir les réglages.",
     "settings_sync_data_section": "Données partagées avec le serveur",
     "settings_sync_off_notifications_warning": "La sync multi-appareils est désactivée. Les notifications push et Live Updates ne sont pas disponibles.",
-    "settings_sync_toggle_label": "Activer la synchronisation multi-appareils"
+    "settings_sync_toggle_label": "Activer la synchronisation multi-appareils",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

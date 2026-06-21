@@ -668,7 +668,6 @@
     "settings_server_push_footer": "ಆಪರೇಟರ್ ಕೈಯಾರೆ ಕಳುಹಿಸಿದ ಒಂದು-ಬಾರಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ. ಡೀಫಾಲ್ಟ್ ಆನ್.",
     "settings_server_push_label": "ಸರ್ವರ್ ಅಧಿಸೂಚನೆಗಳು",
     "settings_show_absolute_assignment_time": "ಕಾರ್ಯ ಗಡುವಿನ ಸಮಯಕ್ಕೆ ಪೂರ್ಣ ದಿನಾಂಕ ತೋರಿಸಿ",
-    "settings_sync_brief_description": "ನಿಮ್ಮ ಸಾಧನಗಳ ನಡುವೆ ಟೈಮ್‌ಟೇಬಲ್ ಬದಲಾವಣೆಗಳು ಮತ್ತು ಅಸೈನ್‌ಮೆಂಟ್ ಸ್ಥಿತಿಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ.",
     "settings_sync_disabled_note": "ಸಿಂಕ್ ಆಫ್ ಆಗಿದ್ದಾಗ, ಎಲ್ಲಾ ಡೇಟಾ ಈ ಸಾಧನದಲ್ಲಿ ಮಾತ್ರ ಉಳಿಯುತ್ತದೆ.",
     "settings_sync_status_off": "ಆಫ್",
     "settings_sync_status_on": "ಆನ್",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "ಸಿಂಕ್ ಯಶಸ್ವಿಯಾಗಿದೆ",
     "tab_editor_apply_action": "ಅನ್ವಯಿಸಿ",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "ಡೀಫಾಲ್ಟ್‌ಗೆ ಮರುಹೊಂದಿಸಿ",
     "vibration_settings_section_length_ms": "ಅವಧಿ (ms)",
     "vibration_settings_section_strength_pct": "ತೀವ್ರತೆ",
-    "vibration_settings_title": "ವೈಬ್ರೇಶನ್"
+    "vibration_settings_title": "ವೈಬ್ರೇಶನ್",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಧಿಸೂಚನೆಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ತರಗತಿ ಮತ್ತು ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. \"ತರಗತಿಯಲ್ಲಿ\" ಮತ್ತು \"ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭ\" ಅಪ್ಲಿಕೇಶನ್ ತೆರೆದಿರುವಾಗ ಮಾತ್ರ ನೈಜ ಸಮಯದಲ್ಲಿ ನವೀಕರಣಗೊಳ್ಳುತ್ತವೆ; \"ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ\" ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ಎಚ್ಚರಿಸಬಲ್ಲದು.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "ಅಧಿಸೂಚನೆಗಳು ಆಫ್ ಆಗಿವೆ. ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ.",
     "settings_sync_data_section": "ಸರ್ವರ್‌ನೊಂದಿಗೆ ಹಂಚಿಕೊಂಡ ಡೇಟಾ",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "ಕ್ರಾಸ್-ಡಿವೈಸ್ ಸಿಂಕ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+    "settings_sync_toggle_label": "ಕ್ರಾಸ್-ಡಿವೈಸ್ ಸಿಂಕ್ ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

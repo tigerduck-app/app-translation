@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Terima pemberitahuan sekali sahaja yang dihantar secara manual oleh pengendali. Lalai: aktif.",
     "settings_server_push_label": "Pemberitahuan pelayan",
     "settings_show_absolute_assignment_time": "Tunjukkan tarikh penuh untuk masa tamat tempoh tugasan",
-    "settings_sync_brief_description": "Segerakkan suntingan jadual waktu dan status tugasan merentas peranti anda.",
     "settings_sync_disabled_note": "Apabila segerak dimatikan, semua data kekal pada peranti ini sahaja.",
     "settings_sync_status_off": "Mati",
     "settings_sync_status_on": "Hidup",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Segerak berjaya",
     "tab_editor_apply_action": "Guna",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Tetapkan semula ke lalai",
     "vibration_settings_section_length_ms": "Tempoh (ms)",
     "vibration_settings_section_strength_pct": "Kekuatan",
-    "vibration_settings_title": "Getaran"
+    "vibration_settings_title": "Getaran",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "Aktiviti langsung menunjukkan kelas semasa dan kiraan detik dalam pemberitahuan. \"Dalam kelas\" dan \"Kelas akan bermula\" dikemas kini secara langsung hanya semasa aplikasi dibuka; \"Amaran tugasan\" masih boleh memberi amaran tepat pada masanya apabila aplikasi ditutup.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Pemberitahuan dimatikan. Ketik untuk membuka Tetapan Sistem.",
     "settings_sync_data_section": "Data yang dikongsi dengan pelayan",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "Aktifkan penyegerakan merentas peranti"
+    "settings_sync_toggle_label": "Aktifkan penyegerakan merentas peranti",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

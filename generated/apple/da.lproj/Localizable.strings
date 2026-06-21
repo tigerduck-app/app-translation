@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "Modtag engangsbeskeder sendt manuelt af operatøren. Slået til som standard.";
 "settings_server_push_label" = "Servernotifikationer";
 "settings_show_absolute_assignment_time" = "Vis fuld dato for opgavefrist";
-"settings_sync_brief_description" = "Synkroniser skemaændringer og opgavestatus på tværs af dine enheder.";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Data delt med serveren";
 "settings_sync_disabled_note" = "Når synkronisering er slået fra, forbliver alle data kun på denne enhed.";
 "settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "Synkronisering lykkedes";
 "tab_editor_apply_action" = "Anvende";

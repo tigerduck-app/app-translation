@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">Terima pemberitahuan sekali sahaja yang dihantar secara manual oleh pengendali. Lalai: aktif.</string>
     <string name="settings_server_push_label">Pemberitahuan pelayan</string>
     <string name="settings_show_absolute_assignment_time">Tunjukkan tarikh penuh untuk masa tamat tempoh tugasan</string>
-    <string name="settings_sync_brief_description">Segerakkan suntingan jadual waktu dan status tugasan merentas peranti anda.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">Apabila segerak dimatikan, semua data kekal pada peranti ini sahaja.</string>
     <string name="settings_sync_status_off">Mati</string>
     <string name="settings_sync_status_on">Hidup</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">Segerak berjaya</string>
     <string name="tab_editor_apply_action">Guna</string>

@@ -539,8 +539,8 @@
     <string name="onboarding_sync_shared_device_id">设备 ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token（加密上传）</string>
     <string name="onboarding_sync_shared_student_id">学号</string>
-    <string name="onboarding_sync_title">跨设备同步</string>
-    <string name="onboarding_sync_toggle_label">启用跨设备同步</string>
+    <string name="onboarding_sync_title">云同步</string>
+    <string name="onboarding_sync_toggle_label">启用云同步</string>
     <string name="onboarding_welcome_description">这是由一群学生共同开发的校园助手，旨在解决资源零散、通知不及时与界面不直观等问题。\n本应用程序完全靠各位开发者用爱发电，若发现问题请尽量回报（进入以下官网可以加入我们的 Discord 群组或是填写反馈表单），协助我们开发，您也可以亲自参与开发。</string>
     <string name="onboarding_welcome_github_label">TigerDuck 应用程序 GitHub</string>
     <string name="onboarding_welcome_subtitle">你的台科大校园助手</string>
@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">接收管理员手动发送的一次性通知。默认开启。</string>
     <string name="settings_server_push_label">服务器通知</string>
     <string name="settings_show_absolute_assignment_time">作业截止时间显示完整日期</string>
-    <string name="settings_sync_brief_description">在你的设备间同步课表编辑与作业状态。</string>
+    <string name="settings_sync_brief_description">云同步可让你将所选信息同步至所有已开启云同步的设备。未启用云同步的信息仅保留在此设备上。</string>
     <string name="settings_sync_disabled_note">关闭同步后，所有数据仅保存在此设备上。</string>
     <string name="settings_sync_status_off">关闭</string>
     <string name="settings_sync_status_on">开启</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">同步冲突</string>
     <string name="sync_conflict_use_local">使用本机</string>
     <string name="sync_conflict_use_server">使用服务器</string>
-    <string name="sync_fdroid_unavailable_body">跨设备同步需要 Google Play 服务，F-Droid 版本不支持此功能。</string>
+    <string name="sync_fdroid_unavailable_body">云同步需要 Google Play 服务，F-Droid 版本不支持此功能。</string>
     <string name="sync_fdroid_unavailable_title">F-Droid 不支持</string>
     <string name="sync_success_content_description">同步成功</string>
     <string name="tab_editor_apply_action">应用</string>

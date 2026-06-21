@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Primajte jednokatna obaveštenja koja operater šalje ručno. Podrazumevano: uključeno.",
     "settings_server_push_label": "Serverska obaveštenja",
     "settings_show_absolute_assignment_time": "Прикажи пун датум за рок задатка",
-    "settings_sync_brief_description": "Синхронизујте измене распореда и стања задатака између ваших уређаја.",
     "settings_sync_disabled_note": "Када је синхронизација искључена, сви подаци остају само на овом уређају.",
     "settings_sync_status_off": "Искључено",
     "settings_sync_status_on": "Укључено",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Синхронизација успешна",
     "tab_editor_apply_action": "Primeni",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Врати на подразумевано",
     "vibration_settings_section_length_ms": "Трајање (ms)",
     "vibration_settings_section_strength_pct": "Јачина",
-    "vibration_settings_title": "Вибрација"
+    "vibration_settings_title": "Вибрација",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "Живе активности приказују тренутни час и одбројавање у обавештењима. „На часу\" и „Час ускоро почиње\" ажурирају се у реалном времену само кад је апликација отворена; „Упозорење за задатак\" може упозорити на вријеме и кад је апликација затворена.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Обавештења су искључена. Додирните да отворите Подешавања система.",
     "settings_sync_data_section": "Подаци дељени са сервером",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "Укључи синхронизацију између уређаја"
+    "settings_sync_toggle_label": "Укључи синхронизацију између уређаја",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

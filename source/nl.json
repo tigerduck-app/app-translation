@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Ontvang eenmalige meldingen die handmatig door de beheerder worden verzonden. Standaard aan.",
     "settings_server_push_label": "Servermeldingen",
     "settings_show_absolute_assignment_time": "Volledige datum tonen voor opdrachtdeadline",
-    "settings_sync_brief_description": "Synchroniseer roosterbewerkingen en opdrachtstatussen tussen je apparaten.",
     "settings_sync_disabled_note": "Wanneer synchronisatie uit staat, blijven alle gegevens alleen op dit apparaat.",
     "settings_sync_status_off": "Uit",
     "settings_sync_status_on": "Aan",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Synchronisatie geslaagd",
     "tab_editor_apply_action": "Toepassen",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Standaard herstellen",
     "vibration_settings_section_length_ms": "Duur (ms)",
     "vibration_settings_section_strength_pct": "Sterkte",
-    "vibration_settings_title": "Trilstand"
+    "vibration_settings_title": "Trilstand",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "Live activiteit toont de huidige les en het aftellen in meldingen. \"In de les\" en \"Les begint zo\" worden alleen in realtime bijgewerkt zolang de app open is; \"Opdrachtwaarschuwing\" kan je nog steeds op tijd waarschuwen als de app gesloten is.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Meldingen staan uit. Tik om Systeeminstellingen te openen.",
     "settings_sync_data_section": "Gegevens gedeeld met de server",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "Synchronisatie tussen apparaten inschakelen"
+    "settings_sync_toggle_label": "Synchronisatie tussen apparaten inschakelen",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

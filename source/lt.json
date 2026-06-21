@@ -668,7 +668,6 @@
     "settings_server_push_footer": "Gauti vienkartines operatoriaus rankiniu būdu siunčiamas žinutes. Numatyta: įjungta.",
     "settings_server_push_label": "Serverio pranešimai",
     "settings_show_absolute_assignment_time": "Rodyti pilną datą užduoties terminui",
-    "settings_sync_brief_description": "Sinchronizuokite tvarkaraščio pakeitimus ir užduočių būsenas tarp savo įrenginių.",
     "settings_sync_disabled_note": "Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje.",
     "settings_sync_status_off": "Išjungta",
     "settings_sync_status_on": "Įjungta",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "Sinchronizavimas sėkmingas",
     "tab_editor_apply_action": "Taikyti",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "Atkurti numatytuosius",
     "vibration_settings_section_length_ms": "Trukmė (ms)",
     "vibration_settings_section_strength_pct": "Stiprumas",
-    "vibration_settings_title": "Vibracija"
+    "vibration_settings_title": "Vibracija",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "Tiesioginė veikla pranešimuose rodo dabartinę paskaitą ir atgalinį skaičiavimą. \"Paskaita vyksta\" ir \"Paskaita greitai\" atnaujinami realiu laiku tik kol programa atidaryta; \"Užduoties įspėjimas\" gali perspėti laiku net uždarius programą.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "Pranešimai išjungti. Bakstelėkite, kad atidarytumėte sistemos nustatymus.",
     "settings_sync_data_section": "Duomenys, bendrinti su serveriu",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "Įjungti sinchronizaciją tarp įrenginių"
+    "settings_sync_toggle_label": "Įjungti sinchronizaciją tarp įrenginių",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "Receba notificações únicas enviadas manualmente pelo operador. Padrão: ativado.";
 "settings_server_push_label" = "Notificações do servidor";
 "settings_show_absolute_assignment_time" = "Mostrar data completa para o prazo das atividades";
-"settings_sync_brief_description" = "Sincronize edições de horário e estados de tarefas entre seus dispositivos.";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Dados compartilhados com o servidor";
 "settings_sync_disabled_note" = "Quando a sincronização está desativada, todos os dados ficam apenas neste dispositivo.";
 "settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "Sincronização bem-sucedida";
 "tab_editor_apply_action" = "Aplicar";

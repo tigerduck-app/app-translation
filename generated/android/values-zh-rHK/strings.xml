@@ -539,8 +539,8 @@
     <string name="onboarding_sync_shared_device_id">裝置 ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token（加密上傳）</string>
     <string name="onboarding_sync_shared_student_id">學號</string>
-    <string name="onboarding_sync_title">跨裝置同步</string>
-    <string name="onboarding_sync_toggle_label">啟用跨裝置同步</string>
+    <string name="onboarding_sync_title">雲端同步</string>
+    <string name="onboarding_sync_toggle_label">啟用雲端同步</string>
     <string name="onboarding_welcome_description">呢個應用係由一班學生一齊開發嘅校園助手，解決資源散亂、通知唔夠及時、介面唔夠直觀等問題。\n本應用程式完全靠各位開發者用愛發電，如果發現問題請盡量回報（入以下官網可以加入我哋嘅 Discord 群組或者填寫意見表），協助我哋開發；你亦都可以親自參與開發。</string>
     <string name="onboarding_welcome_github_label">TigerDuck 應用程式 GitHub</string>
     <string name="onboarding_welcome_subtitle">你的臺科大校園助手</string>
@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">接收管理員手動發送的一次性通知。預設開啟。</string>
     <string name="settings_server_push_label">伺服器通知</string>
     <string name="settings_show_absolute_assignment_time">作業截止時間顯示完整日期</string>
-    <string name="settings_sync_brief_description">喺你嘅裝置之間同步課表編輯同功課狀態。</string>
+    <string name="settings_sync_brief_description">雲端同步可以將你揀嘅資料同步到所有開咗雲端同步嘅裝置。冇開雲端同步嘅資料淨係會留喺呢部裝置。</string>
     <string name="settings_sync_disabled_note">關咗同步之後，所有資料淨係儲喺呢部裝置。</string>
     <string name="settings_sync_status_off">關閉</string>
     <string name="settings_sync_status_on">開啟</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">同步衝突</string>
     <string name="sync_conflict_use_local">使用本機</string>
     <string name="sync_conflict_use_server">使用伺服器</string>
-    <string name="sync_fdroid_unavailable_body">跨裝置同步需要 Google Play 服務，F-Droid 版本不支援此功能。</string>
+    <string name="sync_fdroid_unavailable_body">雲端同步需要 Google Play 服務，F-Droid 版本不支援此功能。</string>
     <string name="sync_fdroid_unavailable_title">F-Droid 不支援</string>
     <string name="sync_success_content_description">同步成功</string>
     <string name="tab_editor_apply_action">套用</string>

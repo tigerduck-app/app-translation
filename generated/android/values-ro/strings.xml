@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">Primiți notificări unice trimise manual de operator. Implicit: activat.</string>
     <string name="settings_server_push_label">Notificări server</string>
     <string name="settings_show_absolute_assignment_time">Afișează data completă pentru termenul temei</string>
-    <string name="settings_sync_brief_description">Sincronizează editările orarului și stările temelor între dispozitivele tale.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv.</string>
     <string name="settings_sync_status_off">Oprit</string>
     <string name="settings_sync_status_on">Pornit</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">Sincronizare reușită</string>
     <string name="tab_editor_apply_action">Aplică</string>

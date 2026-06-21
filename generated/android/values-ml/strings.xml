@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">ഓപ്പറേറ്റർ സ്വമേധയാ അയച്ച ഒറ്റത്തവണ അറിയിപ്പുകൾ സ്വീകരിക്കുക. സ്ഥിരസ്ഥിതി: ഓൺ.</string>
     <string name="settings_server_push_label">സെർവർ അറിയിപ്പുകൾ</string>
     <string name="settings_show_absolute_assignment_time">അസൈൻമെന്റ് കാലാവധിക്ക് പൂർണ്ണ തീയതി കാണിക്കുക</string>
-    <string name="settings_sync_brief_description">നിങ്ങളുടെ ഉപകരണങ്ങൾക്കിടയിൽ ടൈംടേബിൾ എഡിറ്റുകളും അസൈൻമെന്റ് നിലകളും സിങ്ക് ചെയ്യുക.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.</string>
     <string name="settings_sync_status_off">ഓഫ്</string>
     <string name="settings_sync_status_on">ഓൺ</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">സമന്വയം വിജയകരം</string>
     <string name="tab_editor_apply_action">പ്രയോഗിക്കുക</string>

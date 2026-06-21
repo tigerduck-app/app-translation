@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "நிர்வாகியால் கைமுறையாக அனுப்பப்படும் ஒரு முறை அறிவிப்புகளைப் பெறவும். இயல்பாக இயக்கத்தில் இருக்கும்.";
 "settings_server_push_label" = "சேவையக அறிவிப்புகள்";
 "settings_show_absolute_assignment_time" = "ஒப்படைப்பு காலக்கெடுவிற்கு முழு தேதி காட்டு";
-"settings_sync_brief_description" = "உங்கள் சாதனங்களுக்கிடையே நேர அட்டவணை திருத்தங்கள் மற்றும் பணி நிலைகளை ஒத்திசைக்கவும்.";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "சேவையகத்துடன் பகிரப்பட்ட தரவு";
 "settings_sync_disabled_note" = "ஒத்திசைவு முடக்கப்பட்டிருக்கும்போது, எல்லா தரவும் இந்தச் சாதனத்தில் மட்டுமே இருக்கும்.";
 "settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "ஒத்திசைவு வெற்றி";
 "tab_editor_apply_action" = "பயன்படுத்து";

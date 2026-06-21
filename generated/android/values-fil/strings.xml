@@ -539,8 +539,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Student ID</string>
-    <string name="onboarding_sync_title">Cross-Device Sync</string>
-    <string name="onboarding_sync_toggle_label">I-enable ang cross-device sync</string>
+    <string name="onboarding_sync_title">Cloud Sync</string>
+    <string name="onboarding_sync_toggle_label">I-enable ang cloud sync</string>
     <string name="onboarding_welcome_description">Ang TigerDuck ay isang campus assistant na ginawa ng grupo ng mga estudyante para ayusin ang nakakalat na mga mapagkukunan, naantalang mga abiso, at hindi madaling gamitin na mga interface. \nGumagana ang app dahil lamang sa kabutihang-loob ng mga developer — kung may makita kang problema, mangyaring iulat ito (bisitahin ang website sa ibaba para sumali sa aming Discord o punan ang feedback form). Tinatanggap ka naming tumulong sa paggawa nito o direktang mag-ambag sa development.</string>
     <string name="onboarding_welcome_github_label">TigerDuck sa GitHub</string>
     <string name="onboarding_welcome_subtitle">Ang iyong NTUST campus assistant</string>
@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">Tumatanggap ng mga isang-beses na abiso na manu-manong ipinadala ng operator. Naka-on bilang default.</string>
     <string name="settings_server_push_label">Mga abiso ng server</string>
     <string name="settings_show_absolute_assignment_time">Ipakita ang kumpletong petsa para sa due time ng takdang-aralin</string>
-    <string name="settings_sync_brief_description">I-sync ang mga pagbabago sa timetable at estado ng mga assignment sa iyong mga device.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">Kapag naka-off ang sync, ang lahat ng data ay nananatili sa device na ito lamang.</string>
     <string name="settings_sync_status_off">Naka-off</string>
     <string name="settings_sync_status_on">Naka-on</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">Matagumpay na na-sync</string>
     <string name="tab_editor_apply_action">Mag-apply</string>

@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "Получать разовые уведомления, отправляемые оператором вручную. По умолчанию: включено.";
 "settings_server_push_label" = "Уведомления сервера";
 "settings_show_absolute_assignment_time" = "Показывать полную дату срока сдачи задания";
-"settings_sync_brief_description" = "Синхронизируйте изменения расписания и статусы заданий между вашими устройствами.";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Данные, передаваемые серверу";
 "settings_sync_disabled_note" = "Когда синхронизация отключена, все данные остаются только на этом устройстве.";
 "settings_sync_off_notifications_warning" = "Синхронизация отключена. Push-уведомления и Live Updates недоступны.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "Синхронизация выполнена";
 "tab_editor_apply_action" = "Применить";

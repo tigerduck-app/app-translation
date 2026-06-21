@@ -539,8 +539,8 @@
     <string name="onboarding_sync_shared_device_id">Device ID</string>
     <string name="onboarding_sync_shared_moodle_token">Moodle token (encrypted)</string>
     <string name="onboarding_sync_shared_student_id">Matricola</string>
-    <string name="onboarding_sync_title">Sincronizzazione tra dispositivi</string>
-    <string name="onboarding_sync_toggle_label">Attiva sincronizzazione tra dispositivi</string>
+    <string name="onboarding_sync_title">Cloud Sync</string>
+    <string name="onboarding_sync_toggle_label">Attiva Cloud Sync</string>
     <string name="onboarding_welcome_description">TigerDuck è un assistente per il campus realizzato da un gruppo di studenti per risolvere risorse sparse, notifiche in ritardo e interfacce poco pratiche. \nL\'app funziona interamente grazie alla buona volontà degli sviluppatori — se trovi problemi, segnalali pure (visita il sito qui sotto per unirti al nostro Discord o compilare il modulo di feedback). Sei il benvenuto se vuoi aiutarci a migliorarla o contribuire direttamente allo sviluppo.</string>
     <string name="onboarding_welcome_github_label">TigerDuck su GitHub</string>
     <string name="onboarding_welcome_subtitle">Il tuo assistente per il campus NTUST</string>
@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">Ricevi notifiche una-tantum inviate manualmente dall\'operatore. Attivo per impostazione predefinita.</string>
     <string name="settings_server_push_label">Notifiche del server</string>
     <string name="settings_show_absolute_assignment_time">Mostra la data completa per la scadenza dei compiti</string>
-    <string name="settings_sync_brief_description">Sincronizza le modifiche all\'orario e gli stati dei compiti tra i tuoi dispositivi.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo.</string>
     <string name="settings_sync_status_off">Disattivo</string>
     <string name="settings_sync_status_on">Attivo</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">Sincronizzazione riuscita</string>
     <string name="tab_editor_apply_action">Applica</string>

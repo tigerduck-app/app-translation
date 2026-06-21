@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "ਆਪਰੇਟਰ ਵੱਲੋਂ ਹੱਥੀਂ ਭੇਜੀਆਂ ਇੱਕ-ਵਾਰ ਦੀਆਂ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ। ਡਿਫ਼ਾਲਟ: ਚਾਲੂ।";
 "settings_server_push_label" = "ਸਰਵਰ ਸੂਚਨਾਵਾਂ";
 "settings_show_absolute_assignment_time" = "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਲਈ ਪੂਰੀ ਮਿਤੀ ਦਿਖਾਓ";
-"settings_sync_brief_description" = "ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਵਿਚਕਾਰ ਟਾਈਮਟੇਬਲ ਸੰਪਾਦਨ ਅਤੇ ਅਸਾਈਨਮੈਂਟ ਸਥਿਤੀਆਂ ਸਿੰਕ ਕਰੋ।";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "ਸਰਵਰ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਡੇਟਾ";
 "settings_sync_disabled_note" = "ਜਦੋਂ ਸਿੰਕ ਬੰਦ ਹੁੰਦਾ ਹੈ, ਸਾਰਾ ਡੇਟਾ ਸਿਰਫ਼ ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਰਹਿੰਦਾ ਹੈ।";
 "settings_sync_off_notifications_warning" = "Cross-device sync is off. Push notifications and Live Updates are unavailable.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "ਸਿੰਕ ਸਫਲ ਰਿਹਾ";
 "tab_editor_apply_action" = "ਲਾਗੂ ਕਰੋ";

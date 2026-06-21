@@ -518,8 +518,8 @@
 "onboarding_sync_shared_moodle_token" = "Token de Moodle (cifrado)";
 "onboarding_sync_shared_student_id" = "ID de estudiante";
 "onboarding_sync_subtitle" = "Cuando está activada, TigerDuck sincroniza las ediciones del horario y los estados de las tareas entre tus dispositivos a través del servidor de TigerDuck.";
-"onboarding_sync_title" = "Sincronización entre dispositivos";
-"onboarding_sync_toggle_label" = "Activar sincronización entre dispositivos";
+"onboarding_sync_title" = "Cloud Sync";
+"onboarding_sync_toggle_label" = "Activar Cloud Sync";
 "onboarding_watchos_description" = "TigerDuck incluye una app complementaria para Apple Watch. Mira tu próxima clase y recordatorios rápidos directamente en tu muñeca — Watch TigerDuck se sincroniza desde tu iPhone.";
 "onboarding_watchos_title" = "Compatibilidad con Apple Watch";
 "onboarding_welcome_description" = "TigerDuck es un asistente de campus creado por un grupo de estudiantes para resolver los recursos dispersos, las notificaciones tardías y las interfaces poco intuitivas. \nLa app funciona enteramente gracias a la buena voluntad de los desarrolladores — si encuentras algún problema, repórtalo (visita el sitio web de abajo para unirte a nuestro Discord o rellenar el formulario de comentarios). Eres bienvenido a ayudarnos a mejorarla o a contribuir directamente al desarrollo.";
@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "Recibe notificaciones únicas enviadas manualmente por el operador. Activado por defecto.";
 "settings_server_push_label" = "Notificaciones del servidor";
 "settings_show_absolute_assignment_time" = "Mostrar fecha completa para la fecha de entrega de tareas";
-"settings_sync_brief_description" = "Sincroniza las ediciones del horario y los estados de las tareas entre tus dispositivos.";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Datos compartidos con el servidor";
 "settings_sync_disabled_note" = "Cuando la sincronización está desactivada, todos los datos permanecen solo en este dispositivo.";
 "settings_sync_off_notifications_warning" = "La sincronización está desactivada. Las notificaciones push y Live Updates no están disponibles.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "Sincronización exitosa";
 "tab_editor_apply_action" = "Aplicar";

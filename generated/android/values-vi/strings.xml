@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">Nhận thông báo một lần do người vận hành gửi thủ công. Mặc định: bật.</string>
     <string name="settings_server_push_label">Thông báo máy chủ</string>
     <string name="settings_show_absolute_assignment_time">Hiển thị ngày đầy đủ cho thời hạn bài tập</string>
-    <string name="settings_sync_brief_description">Đồng bộ các chỉnh sửa thời khóa biểu và trạng thái bài tập giữa các thiết bị của bạn.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này.</string>
     <string name="settings_sync_status_off">Tắt</string>
     <string name="settings_sync_status_on">Bật</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">Đồng bộ thành công</string>
     <string name="tab_editor_apply_action">Áp dụng</string>

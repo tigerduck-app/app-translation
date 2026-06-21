@@ -668,7 +668,6 @@
     "settings_server_push_footer": "קבל הודעות חד-פעמיות שנשלחות ידנית על-ידי המפעיל. ברירת מחדל: מופעל.",
     "settings_server_push_label": "התראות שרת",
     "settings_show_absolute_assignment_time": "הצג תאריך מלא לתאריך הגשת מטלה",
-    "settings_sync_brief_description": "סנכרן עריכות מערכת שעות ומצבי מטלות בין המכשירים שלך.",
     "settings_sync_disabled_note": "כאשר הסנכרון כבוי, כל הנתונים נשארים במכשיר זה בלבד.",
     "settings_sync_status_off": "כבוי",
     "settings_sync_status_on": "פעיל",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "סנכרון הצליח",
     "tab_editor_apply_action": "הגשת בקשה",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "אפס לברירת מחדל",
     "vibration_settings_section_length_ms": "משך (ms)",
     "vibration_settings_section_strength_pct": "עוצמה",
-    "vibration_settings_title": "רטט"
+    "vibration_settings_title": "רטט",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "פעילות חיה מציגה את השיעור הנוכחי וספירה לאחור בהתראות. \"בשיעור\" ו\"השיעור מתחיל בקרוב\" מתעדכנים בזמן אמת רק כשהאפליקציה פתוחה; \"אזהרת מטלה\" יכולה עדיין להתריע בזמן כשהאפליקציה סגורה.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "ההתראות כבויות. הקש כדי לפתוח את הגדרות המערכת.",
     "settings_sync_data_section": "נתונים המשותפים עם השרת",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "הפעל סנכרון בין מכשירים"
+    "settings_sync_toggle_label": "הפעל סנכרון בין מכשירים",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

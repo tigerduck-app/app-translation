@@ -706,7 +706,7 @@
     <string name="settings_server_push_footer">Получать разовые уведомления, отправляемые оператором вручную. По умолчанию: включено.</string>
     <string name="settings_server_push_label">Уведомления сервера</string>
     <string name="settings_show_absolute_assignment_time">Показывать полную дату срока сдачи задания</string>
-    <string name="settings_sync_brief_description">Синхронизируйте изменения расписания и статусы заданий между вашими устройствами.</string>
+    <string name="settings_sync_brief_description">Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.</string>
     <string name="settings_sync_disabled_note">Когда синхронизация отключена, все данные остаются только на этом устройстве.</string>
     <string name="settings_sync_status_off">Выкл.</string>
     <string name="settings_sync_status_on">Вкл.</string>
@@ -738,7 +738,7 @@
     <string name="sync_conflict_title">Sync Conflict</string>
     <string name="sync_conflict_use_local">Use Local</string>
     <string name="sync_conflict_use_server">Use Server</string>
-    <string name="sync_fdroid_unavailable_body">Cross-device sync requires Google Play Services and is not available in the F-Droid build.</string>
+    <string name="sync_fdroid_unavailable_body">Cloud Sync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
     <string name="sync_success_content_description">Синхронизация выполнена</string>
     <string name="tab_editor_apply_action">Применить</string>

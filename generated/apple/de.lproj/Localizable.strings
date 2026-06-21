@@ -518,7 +518,7 @@
 "onboarding_sync_shared_moodle_token" = "Moodle-Token (verschlüsselt)";
 "onboarding_sync_shared_student_id" = "Matrikelnummer";
 "onboarding_sync_subtitle" = "Wenn aktiviert, synchronisiert TigerDuck Stundenplan-Änderungen und Aufgabenstatus über deine Geräte hinweg über den TigerDuck-Server.";
-"onboarding_sync_title" = "Geräteübergreifende Synchronisierung";
+"onboarding_sync_title" = "Cloud Sync";
 "onboarding_sync_toggle_label" = "Geräteübergreifende Sync aktivieren";
 "onboarding_watchos_description" = "TigerDuck enthält eine Apple-Watch-Begleit-App. Sieh dir deinen nächsten Kurs und schnelle Erinnerungen direkt am Handgelenk an — Watch TigerDuck synchronisiert sich von deinem iPhone.";
 "onboarding_watchos_title" = "Apple-Watch-Unterstützung";
@@ -686,7 +686,7 @@
 "settings_server_push_footer" = "Einmalige Benachrichtigungen empfangen, die manuell vom Betreiber gesendet werden. Standardmäßig aktiviert.";
 "settings_server_push_label" = "Serverbenachrichtigungen";
 "settings_show_absolute_assignment_time" = "Vollständiges Datum für Aufgaben-Fälligkeit anzeigen";
-"settings_sync_brief_description" = "Synchronisiere Stundenplan-Änderungen und Aufgabenstatus über deine Geräte hinweg.";
+"settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Mit dem Server geteilte Daten";
 "settings_sync_disabled_note" = "Wenn die Synchronisierung deaktiviert ist, verbleiben alle Daten nur auf diesem Gerät.";
 "settings_sync_off_notifications_warning" = "Geräteübergreifende Sync ist deaktiviert. Push-Benachrichtigungen und Live Updates sind nicht verfügbar.";
@@ -721,7 +721,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
-"sync_fdroid_unavailable_body" = "Cross-device sync requires Google Play Services and is not available in the F-Droid build.";
+"sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
 "sync_success_content_description" = "Synchronisierung erfolgreich";
 "tab_editor_apply_action" = "Anwenden";

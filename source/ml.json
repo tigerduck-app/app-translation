@@ -668,7 +668,6 @@
     "settings_server_push_footer": "ഓപ്പറേറ്റർ സ്വമേധയാ അയച്ച ഒറ്റത്തവണ അറിയിപ്പുകൾ സ്വീകരിക്കുക. സ്ഥിരസ്ഥിതി: ഓൺ.",
     "settings_server_push_label": "സെർവർ അറിയിപ്പുകൾ",
     "settings_show_absolute_assignment_time": "അസൈൻമെന്റ് കാലാവധിക്ക് പൂർണ്ണ തീയതി കാണിക്കുക",
-    "settings_sync_brief_description": "നിങ്ങളുടെ ഉപകരണങ്ങൾക്കിടയിൽ ടൈംടേബിൾ എഡിറ്റുകളും അസൈൻമെന്റ് നിലകളും സിങ്ക് ചെയ്യുക.",
     "settings_sync_disabled_note": "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.",
     "settings_sync_status_off": "ഓഫ്",
     "settings_sync_status_on": "ഓൺ",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "Sync Conflict",
     "sync_conflict_use_local": "Use Local",
     "sync_conflict_use_server": "Use Server",
-    "sync_fdroid_unavailable_body": "Cross-device sync requires Google Play Services and is not available in the F-Droid build.",
+    "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
     "sync_fdroid_unavailable_title": "Not available on F-Droid",
     "sync_success_content_description": "സമന്വയം വിജയകരം",
     "tab_editor_apply_action": "പ്രയോഗിക്കുക",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "ഡിഫോൾട്ടിലേക്ക് പുനഃസജ്ജമാക്കുക",
     "vibration_settings_section_length_ms": "ദൈർഘ്യം (ms)",
     "vibration_settings_section_strength_pct": "തീവ്രത",
-    "vibration_settings_title": "വൈബ്രേഷൻ"
+    "vibration_settings_title": "വൈബ്രേഷൻ",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "apple": {
     "live_activity_settings_description": "Live Activity അറിയിപ്പുകളിൽ നിലവിലെ ക്ലാസ്, കൗണ്ട്‌ഡൗൺ കാണിക്കുന്നു. \"ക്ലാസിൽ\", \"ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു\" എന്നിവ ആപ്പ് തുറന്നിരിക്കുമ്പോൾ മാത്രം തത്സമയം അപ്‌ഡേറ്റ് ആകും; \"അസൈൻമെന്റ് മുന്നറിയിപ്പ്\" ആപ്പ് അടച്ചിരിക്കുമ്പോഴും സമയത്ത് അലേർട്ട് ചെയ്യാം.",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "അറിയിപ്പുകൾ ഓഫ് ആണ്. സിസ്റ്റം സെറ്റിംഗ്സ് തുറക്കാൻ ടാപ്പ് ചെയ്യുക.",
     "settings_sync_data_section": "സെർവറുമായി പങ്കിട്ട ഡാറ്റ",
     "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
-    "settings_sync_toggle_label": "ക്രോസ്-ഡിവൈസ് സിങ്ക് പ്രവർത്തനക്ഷമമാക്കുക"
+    "settings_sync_toggle_label": "ക്രോസ്-ഡിവൈസ് സിങ്ക് പ്രവർത്തനക്ഷമമാക്കുക",
+    "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
   }
 }

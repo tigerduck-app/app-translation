@@ -507,8 +507,8 @@
     "onboarding_sync_shared_device_id": "裝置 ID",
     "onboarding_sync_shared_moodle_token": "Moodle token（加密上傳）",
     "onboarding_sync_shared_student_id": "學號",
-    "onboarding_sync_title": "跨裝置同步",
-    "onboarding_sync_toggle_label": "啟用跨裝置同步",
+    "onboarding_sync_title": "雲端同步",
+    "onboarding_sync_toggle_label": "啟用雲端同步",
     "onboarding_welcome_description": "這是由一群學生共同開發的校園助手，為了解決資源零散、通知不及時與介面不直觀等問題。\n本應用程式純靠各位開發者用愛發電，若發現問題請盡量回報（進入以下官網可以加入我們的 Discord 群組或是填寫回饋表單），協助我們開發，您也可以親自參與開發。",
     "onboarding_welcome_github_label": "TigerDuck 應用程式 GitHub",
     "onboarding_welcome_subtitle": "你的臺科大校園助手",
@@ -668,7 +668,6 @@
     "settings_server_push_footer": "接收管理員手動發送的一次性通知。預設開啟。",
     "settings_server_push_label": "伺服器通知",
     "settings_show_absolute_assignment_time": "作業截止時間顯示完整日期",
-    "settings_sync_brief_description": "在你的裝置間同步課表編輯與作業狀態。",
     "settings_sync_disabled_note": "關閉同步後，所有資料僅儲存於本機。",
     "settings_sync_status_off": "關閉",
     "settings_sync_status_on": "開啟",
@@ -700,7 +699,7 @@
     "sync_conflict_title": "同步衝突",
     "sync_conflict_use_local": "使用本機",
     "sync_conflict_use_server": "使用伺服器",
-    "sync_fdroid_unavailable_body": "跨裝置同步需要 Google Play 服務，F-Droid 版本不支援此功能。",
+    "sync_fdroid_unavailable_body": "雲端同步需要 Google Play 服務，F-Droid 版本不支援此功能。",
     "sync_fdroid_unavailable_title": "F-Droid 不支援",
     "sync_success_content_description": "同步成功",
     "tab_editor_apply_action": "套用",
@@ -831,7 +830,8 @@
     "vibration_settings_revert": "還原預設",
     "vibration_settings_section_length_ms": "長度（毫秒）",
     "vibration_settings_section_strength_pct": "強度",
-    "vibration_settings_title": "震動"
+    "vibration_settings_title": "震動",
+    "settings_sync_brief_description": "雲端同步可讓你將所選資料同步至所有已開啟雲端同步的裝置。未啟用雲端同步的資料僅會保留在此裝置上。"
   },
   "apple": {
     "live_activity_settings_description": "即時動態會在通知區顯示當前課程與倒數。「上課中」與「即將上課」僅在 App 開啟時會即時更新；「作業警告」即使 App 已關閉也會準時提醒。",
@@ -855,6 +855,7 @@
     "settings_notifications_disabled_warning": "通知已關閉。點擊開啟系統設定。",
     "settings_sync_data_section": "與伺服器共用的資料",
     "settings_sync_off_notifications_warning": "跨裝置同步已關閉。Apple 裝置需要 TigerDuck 後端伺服器才能接收通知，點擊了解更多。",
-    "settings_sync_toggle_label": "啟用跨裝置同步"
+    "settings_sync_toggle_label": "啟用跨裝置同步",
+    "settings_sync_brief_description_ios": "雲端同步可讓你接收推播通知，並將所選資料同步至所有已開啟雲端同步的裝置。未啟用同步的資料仍會傳送至伺服器以供推播通知使用。"
   }
 }
