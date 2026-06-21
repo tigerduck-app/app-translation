@@ -793,6 +793,7 @@
     "sync_conflict_reenable_courses_server_only": "Courses: %1$s server-only",
     "sync_conflict_reenable_colors_differ": "Course colours: different on server",
     "sync_conflict_reenable_names_differ": "Custom names: different on server",
+    "sync_conflict_reenable_assignments_differ": "Assignment status: different on server",
     "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {

@@ -732,6 +732,7 @@
     <string name="sync_conflict_item_detail">Local: %1$s → Server: %2$s</string>
     <string name="sync_conflict_item_header">%1$s: %2$s</string>
     <string name="sync_conflict_message">Some items differ between this device and the server:</string>
+    <string name="sync_conflict_reenable_assignments_differ">Assignment status: different on server</string>
     <string name="sync_conflict_reenable_colors_differ">과목 색상: 서버와 다름</string>
     <string name="sync_conflict_reenable_courses">과목: %1$s 로컬만, %2$s 서버만</string>
     <string name="sync_conflict_reenable_courses_local_only">과목: %1$s 로컬만</string>

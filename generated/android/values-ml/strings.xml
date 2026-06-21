@@ -732,6 +732,7 @@
     <string name="sync_conflict_item_detail">Local: %1$s → Server: %2$s</string>
     <string name="sync_conflict_item_header">%1$s: %2$s</string>
     <string name="sync_conflict_message">Some items differ between this device and the server:</string>
+    <string name="sync_conflict_reenable_assignments_differ">Assignment status: different on server</string>
     <string name="sync_conflict_reenable_colors_differ">കോഴ്‌സ് നിറങ്ങൾ: സെർവറിൽ വ്യത്യസ്തം</string>
     <string name="sync_conflict_reenable_courses">കോഴ്‌സുകൾ: %1$s ലോക്കൽ മാത്രം, %2$s സെർവറിൽ മാത്രം</string>
     <string name="sync_conflict_reenable_courses_local_only">കോഴ്‌സുകൾ: %1$s ലോക്കൽ മാത്രം</string>

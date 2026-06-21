@@ -716,6 +716,7 @@
 "sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "Some items differ between this device and the server:";
+"sync_conflict_reenable_assignments_differ" = "Assignment status: different on server";
 "sync_conflict_reenable_colors_differ" = "కోర్సు రంగులు: సర్వర్‌లో భిన్నంగా ఉన్నాయి";
 "sync_conflict_reenable_courses" = "కోర్సులు: %1$@ స్థానికంగా మాత్రమే, %2$@ సర్వర్‌లో మాత్రమే";
 "sync_conflict_reenable_courses_local_only" = "కోర్సులు: %1$@ స్థానికంగా మాత్రమే";

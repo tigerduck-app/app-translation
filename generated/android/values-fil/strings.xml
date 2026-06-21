@@ -732,6 +732,7 @@
     <string name="sync_conflict_item_detail">Local: %1$s → Server: %2$s</string>
     <string name="sync_conflict_item_header">%1$s: %2$s</string>
     <string name="sync_conflict_message">Some items differ between this device and the server:</string>
+    <string name="sync_conflict_reenable_assignments_differ">Assignment status: different on server</string>
     <string name="sync_conflict_reenable_colors_differ">Mga kulay ng kurso: iba sa server</string>
     <string name="sync_conflict_reenable_courses">Mga kurso: %1$s lokal lang, %2$s sa server lang</string>
     <string name="sync_conflict_reenable_courses_local_only">Mga kurso: %1$s lokal lang</string>

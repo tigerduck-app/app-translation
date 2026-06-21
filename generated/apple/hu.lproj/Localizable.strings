@@ -716,6 +716,7 @@
 "sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "Some items differ between this device and the server:";
+"sync_conflict_reenable_assignments_differ" = "Assignment status: different on server";
 "sync_conflict_reenable_colors_differ" = "Kurzusszínek: eltérőek a szerveren";
 "sync_conflict_reenable_courses" = "Kurzusok: %1$@ csak helyi, %2$@ csak a szerveren";
 "sync_conflict_reenable_courses_local_only" = "Kurzusok: %1$@ csak helyi";

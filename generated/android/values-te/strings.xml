@@ -732,6 +732,7 @@
     <string name="sync_conflict_item_detail">Local: %1$s → Server: %2$s</string>
     <string name="sync_conflict_item_header">%1$s: %2$s</string>
     <string name="sync_conflict_message">Some items differ between this device and the server:</string>
+    <string name="sync_conflict_reenable_assignments_differ">Assignment status: different on server</string>
     <string name="sync_conflict_reenable_colors_differ">కోర్సు రంగులు: సర్వర్‌లో భిన్నంగా ఉన్నాయి</string>
     <string name="sync_conflict_reenable_courses">కోర్సులు: %1$s స్థానికంగా మాత్రమే, %2$s సర్వర్‌లో మాత్రమే</string>
     <string name="sync_conflict_reenable_courses_local_only">కోర్సులు: %1$s స్థానికంగా మాత్రమే</string>

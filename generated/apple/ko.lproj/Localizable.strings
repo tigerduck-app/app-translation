@@ -716,6 +716,7 @@
 "sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "Some items differ between this device and the server:";
+"sync_conflict_reenable_assignments_differ" = "Assignment status: different on server";
 "sync_conflict_reenable_colors_differ" = "과목 색상: 서버와 다름";
 "sync_conflict_reenable_courses" = "과목: %1$@ 로컬만, %2$@ 서버만";
 "sync_conflict_reenable_courses_local_only" = "과목: %1$@ 로컬만";
