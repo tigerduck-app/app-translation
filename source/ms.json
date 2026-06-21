@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kursus: %1$s setempat sahaja",
     "sync_conflict_reenable_courses_server_only": "Kursus: %1$s di pelayan sahaja",
     "sync_conflict_reenable_colors_differ": "Warna kursus: berbeza di pelayan",
-    "sync_conflict_reenable_names_differ": "Nama tersuai: berbeza di pelayan"
+    "sync_conflict_reenable_names_differ": "Nama tersuai: berbeza di pelayan",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Papan kekunci standard",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Tetapkan semula ke lalai",
     "vibration_settings_section_length_ms": "Tempoh (ms)",
     "vibration_settings_section_strength_pct": "Kekuatan",
-    "vibration_settings_title": "Getaran",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Getaran"
   },
   "apple": {
     "live_activity_settings_description": "Aktiviti langsung menunjukkan kelas semasa dan kiraan detik dalam pemberitahuan. \"Dalam kelas\" dan \"Kelas akan bermula\" dikemas kini secara langsung hanya semasa aplikasi dibuka; \"Amaran tugasan\" masih boleh memberi amaran tepat pada masanya apabila aplikasi ditutup.",

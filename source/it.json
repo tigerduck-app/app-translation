@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Corsi: %1$s solo locali",
     "sync_conflict_reenable_courses_server_only": "Corsi: %1$s solo sul server",
     "sync_conflict_reenable_colors_differ": "Colori dei corsi: diversi sul server",
-    "sync_conflict_reenable_names_differ": "Nomi personalizzati: diversi sul server"
+    "sync_conflict_reenable_names_differ": "Nomi personalizzati: diversi sul server",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Tastiera standard",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Ripristina predefinito",
     "vibration_settings_section_length_ms": "Durata (ms)",
     "vibration_settings_section_strength_pct": "Intensità",
-    "vibration_settings_title": "Vibrazione",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibrazione"
   },
   "apple": {
     "live_activity_settings_description": "L'attività in tempo reale mostra la lezione attuale e il conto alla rovescia nelle notifiche. \"In lezione\" e \"La lezione sta per iniziare\" si aggiornano in tempo reale solo mentre l'app è aperta; \"Avviso compito\" può comunque avvisare in tempo quando l'app è chiusa.",

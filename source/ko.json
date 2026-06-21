@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "과목: %1$s 로컬만",
     "sync_conflict_reenable_courses_server_only": "과목: %1$s 서버만",
     "sync_conflict_reenable_colors_differ": "과목 색상: 서버와 다름",
-    "sync_conflict_reenable_names_differ": "사용자 지정 이름: 서버와 다름"
+    "sync_conflict_reenable_names_differ": "사용자 지정 이름: 서버와 다름",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "표준 키보드",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "기본값으로 재설정",
     "vibration_settings_section_length_ms": "길이 (ms)",
     "vibration_settings_section_strength_pct": "강도",
-    "vibration_settings_title": "진동",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "진동"
   },
   "apple": {
     "live_activity_settings_description": "라이브 액티비티는 알림에 현재 수업과 카운트다운을 표시합니다. \"수업 중\"과 \"곧 수업 시작\"은 앱이 열려 있을 때만 실시간 갱신되며, \"과제 경고\"는 앱이 닫혀 있어도 제때 알릴 수 있습니다.",

@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kursai: %1$s tik vietiniai",
     "sync_conflict_reenable_courses_server_only": "Kursai: %1$s tik serveryje",
     "sync_conflict_reenable_colors_differ": "Kursų spalvos: skiriasi serveryje",
-    "sync_conflict_reenable_names_differ": "Pasirinktiniai pavadinimai: skiriasi serveryje"
+    "sync_conflict_reenable_names_differ": "Pasirinktiniai pavadinimai: skiriasi serveryje",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standartinė klaviatūra",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Atkurti numatytuosius",
     "vibration_settings_section_length_ms": "Trukmė (ms)",
     "vibration_settings_section_strength_pct": "Stiprumas",
-    "vibration_settings_title": "Vibracija",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibracija"
   },
   "apple": {
     "live_activity_settings_description": "Tiesioginė veikla pranešimuose rodo dabartinę paskaitą ir atgalinį skaičiavimą. \"Paskaita vyksta\" ir \"Paskaita greitai\" atnaujinami realiu laiku tik kol programa atidaryta; \"Užduoties įspėjimas\" gali perspėti laiku net uždarius programą.",

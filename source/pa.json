@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "ਕੋਰਸ: %1$s ਸਿਰਫ਼ ਸਥਾਨਕ",
     "sync_conflict_reenable_courses_server_only": "ਕੋਰਸ: %1$s ਸਿਰਫ਼ ਸਰਵਰ 'ਤੇ",
     "sync_conflict_reenable_colors_differ": "ਕੋਰਸ ਦੇ ਰੰਗ: ਸਰਵਰ 'ਤੇ ਵੱਖਰੇ",
-    "sync_conflict_reenable_names_differ": "ਕਸਟਮ ਨਾਮ: ਸਰਵਰ 'ਤੇ ਵੱਖਰੇ"
+    "sync_conflict_reenable_names_differ": "ਕਸਟਮ ਨਾਮ: ਸਰਵਰ 'ਤੇ ਵੱਖਰੇ",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "ਸਟੈਂਡਰਡ ਕੀਬੋਰਡ",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "ਡਿਫੌਲਟ 'ਤੇ ਰੀਸੈੱਟ",
     "vibration_settings_section_length_ms": "ਅਵਧੀ (ms)",
     "vibration_settings_section_strength_pct": "ਤੀਬਰਤਾ",
-    "vibration_settings_title": "ਵਾਈਬ੍ਰੇਸ਼ਨ",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "ਵਾਈਬ੍ਰੇਸ਼ਨ"
   },
   "apple": {
     "live_activity_settings_description": "ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਮੌਜੂਦਾ ਕਲਾਸ ਅਤੇ ਕਾਊਂਟਡਾਊਨ ਦਿਖਾਉਂਦੀ ਹੈ। \"ਕਲਾਸ ਚੱਲ ਰਹੀ ਹੈ\" ਅਤੇ \"ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ\" ਸਿਰਫ਼ ਐਪ ਖੁੱਲ੍ਹਾ ਹੋਣ 'ਤੇ ਰੀਅਲ ਟਾਈਮ ਵਿੱਚ ਅੱਪਡੇਟ ਹੁੰਦੇ ਹਨ; \"ਅਸਾਈਨਮੈਂਟ ਚੇਤਾਵਨੀ\" ਐਪ ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ ਸਮੇਂ 'ਤੇ ਸੁਚੇਤ ਕਰ ਸਕਦੀ ਹੈ।",

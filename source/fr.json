@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Cours : %1$s en local uniquement",
     "sync_conflict_reenable_courses_server_only": "Cours : %1$s sur le serveur uniquement",
     "sync_conflict_reenable_colors_differ": "Couleurs des cours : différentes sur le serveur",
-    "sync_conflict_reenable_names_differ": "Noms personnalisés : différents sur le serveur"
+    "sync_conflict_reenable_names_differ": "Noms personnalisés : différents sur le serveur",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Clavier standard",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Rétablir par défaut",
     "vibration_settings_section_length_ms": "Durée (ms)",
     "vibration_settings_section_strength_pct": "Intensité",
-    "vibration_settings_title": "Vibration",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibration"
   },
   "apple": {
     "live_activity_settings_description": "L'activité en direct affiche le cours actuel et le compte à rebours dans les notifications. « En cours » et « Cours imminent » ne se mettent à jour en temps réel que lorsque l'application est ouverte ; « Alerte de devoir » peut toujours alerter à l'heure même lorsque l'application est fermée.",

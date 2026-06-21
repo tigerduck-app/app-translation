@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Saņemt operatora manuāli sūtītus vienreizējus paziņojumus. Noklusējums: ieslēgts.";
 "settings_server_push_label" = "Servera paziņojumi";
 "settings_show_absolute_assignment_time" = "Rādīt pilnu datumu uzdevuma termiņam";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Ar serveri koplietotie dati";
 "settings_sync_disabled_note" = "Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē.";

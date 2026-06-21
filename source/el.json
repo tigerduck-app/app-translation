@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Μαθήματα: %1$s μόνο τοπικά",
     "sync_conflict_reenable_courses_server_only": "Μαθήματα: %1$s μόνο στον διακομιστή",
     "sync_conflict_reenable_colors_differ": "Χρώματα μαθημάτων: διαφορετικά στον διακομιστή",
-    "sync_conflict_reenable_names_differ": "Προσαρμοσμένα ονόματα: διαφορετικά στον διακομιστή"
+    "sync_conflict_reenable_names_differ": "Προσαρμοσμένα ονόματα: διαφορετικά στον διακομιστή",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Τυπικό πληκτρολόγιο",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Επαναφορά προεπιλογής",
     "vibration_settings_section_length_ms": "Διάρκεια (ms)",
     "vibration_settings_section_strength_pct": "Ένταση",
-    "vibration_settings_title": "Δόνηση",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Δόνηση"
   },
   "apple": {
     "live_activity_settings_description": "Η ζωντανή δραστηριότητα εμφανίζει το τρέχον μάθημα και αντίστροφη μέτρηση στις ειδοποιήσεις. Το «Σε μάθημα» και το «Μάθημα ξεκινά σύντομα» ενημερώνονται σε πραγματικό χρόνο μόνο όταν η εφαρμογή είναι ανοιχτή· η «Προειδοποίηση εργασίας» μπορεί να ειδοποιεί έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.",

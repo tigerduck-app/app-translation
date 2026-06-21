@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kurse: %1$s nur lokal",
     "sync_conflict_reenable_courses_server_only": "Kurse: %1$s nur auf dem Server",
     "sync_conflict_reenable_colors_differ": "Kursfarben: unterschiedlich auf dem Server",
-    "sync_conflict_reenable_names_differ": "Eigene Namen: unterschiedlich auf dem Server"
+    "sync_conflict_reenable_names_differ": "Eigene Namen: unterschiedlich auf dem Server",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtastatur",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Standard wiederherstellen",
     "vibration_settings_section_length_ms": "Dauer (ms)",
     "vibration_settings_section_strength_pct": "Stärke",
-    "vibration_settings_title": "Vibration",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibration"
   },
   "apple": {
     "live_activity_settings_description": "Die Live-Aktivität zeigt aktuelle Unterrichtsstunde und Countdown in Benachrichtigungen an. „Im Unterricht“ und „Unterricht beginnt bald“ werden nur in Echtzeit aktualisiert, solange die App geöffnet ist; „Aufgaben-Warnung“ kann auch bei geschlossener App rechtzeitig benachrichtigen.",

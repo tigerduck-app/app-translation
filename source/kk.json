@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Курстар: %1$s тек жергілікті",
     "sync_conflict_reenable_courses_server_only": "Курстар: %1$s тек серверде",
     "sync_conflict_reenable_colors_differ": "Курс түстері: серверде өзгеше",
-    "sync_conflict_reenable_names_differ": "Реттелген атаулар: серверде өзгеше"
+    "sync_conflict_reenable_names_differ": "Реттелген атаулар: серверде өзгеше",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандартты пернетақта",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Әдепкіге қайтару",
     "vibration_settings_section_length_ms": "Ұзақтығы (ms)",
     "vibration_settings_section_strength_pct": "Күш",
-    "vibration_settings_title": "Вибрация",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Вибрация"
   },
   "apple": {
     "live_activity_settings_description": "Тікелей белсенділік хабарландыруларда ағымдағы сабақ пен кері санауды көрсетеді. «Сабақта» және «Сабақ жақын басталады» тек қолданба ашық болғанда нақты уақытта жаңартылады; «Тапсырма ескертуі» қолданба жабық болғанда да уақытында хабарлай алады.",

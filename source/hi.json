@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "कोर्स: %1$s केवल स्थानीय",
     "sync_conflict_reenable_courses_server_only": "कोर्स: %1$s केवल सर्वर पर",
     "sync_conflict_reenable_colors_differ": "कोर्स के रंग: सर्वर पर अलग",
-    "sync_conflict_reenable_names_differ": "कस्टम नाम: सर्वर पर अलग"
+    "sync_conflict_reenable_names_differ": "कस्टम नाम: सर्वर पर अलग",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "मानक कीबोर्ड",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "डिफ़ॉल्ट पर रीसेट",
     "vibration_settings_section_length_ms": "अवधि (ms)",
     "vibration_settings_section_strength_pct": "तीव्रता",
-    "vibration_settings_title": "वाइब्रेशन",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "वाइब्रेशन"
   },
   "apple": {
     "live_activity_settings_description": "लाइव एक्टिविटी नोटिफिकेशन में वर्तमान कक्षा और काउंटडाउन दिखाती है। \"कक्षा में\" और \"कक्षा जल्द शुरू होगी\" केवल तब रियल-टाइम अपडेट होते हैं जब ऐप खुला हो; \"असाइनमेंट चेतावनी\" ऐप बंद होने पर भी समय पर अलर्ट कर सकती है।",

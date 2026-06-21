@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Recevoir des notifications ponctuelles envoyées manuellement par l'opérateur. Activé par défaut.";
 "settings_server_push_label" = "Notifications serveur";
 "settings_show_absolute_assignment_time" = "Afficher la date complète pour l'échéance des devoirs";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Données partagées avec le serveur";
 "settings_sync_disabled_note" = "Quand la synchronisation est désactivée, toutes les données restent uniquement sur cet appareil.";

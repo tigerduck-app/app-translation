@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Modtag engangsbeskeder sendt manuelt af operatøren. Slået til som standard.";
 "settings_server_push_label" = "Servernotifikationer";
 "settings_show_absolute_assignment_time" = "Vis fuld dato for opgavefrist";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Data delt med serveren";
 "settings_sync_disabled_note" = "Når synkronisering er slået fra, forbliver alle data kun på denne enhed.";

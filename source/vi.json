@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Môn học: %1$s chỉ cục bộ",
     "sync_conflict_reenable_courses_server_only": "Môn học: %1$s chỉ trên máy chủ",
     "sync_conflict_reenable_colors_differ": "Màu môn học: khác trên máy chủ",
-    "sync_conflict_reenable_names_differ": "Tên tùy chỉnh: khác trên máy chủ"
+    "sync_conflict_reenable_names_differ": "Tên tùy chỉnh: khác trên máy chủ",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Đặt lại mặc định",
     "vibration_settings_section_length_ms": "Thời lượng (ms)",
     "vibration_settings_section_strength_pct": "Cường độ",
-    "vibration_settings_title": "Rung",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Rung"
   },
   "apple": {
     "live_activity_settings_description": "Hoạt động trực tiếp hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.",

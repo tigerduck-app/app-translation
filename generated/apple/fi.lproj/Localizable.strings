@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Vastaanota operaattorin manuaalisesti lähettämiä kertailmoituksia. Oletuksena päällä.";
 "settings_server_push_label" = "Palvelimilmoitukset";
 "settings_show_absolute_assignment_time" = "Näytä täysi päivämäärä tehtävän palautusajassa";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Palvelimen kanssa jaetut tiedot";
 "settings_sync_disabled_note" = "Kun synkronointi on pois päältä, kaikki tiedot pysyvät vain tässä laitteessa.";

@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "课程：%1$s 仅本地",
     "sync_conflict_reenable_courses_server_only": "课程：%1$s 仅服务器",
     "sync_conflict_reenable_colors_differ": "课程颜色：与服务器不同",
-    "sync_conflict_reenable_names_differ": "自定义名称：与服务器不同"
+    "sync_conflict_reenable_names_differ": "自定义名称：与服务器不同",
+    "settings_sync_brief_description": "云同步可让你将所选信息同步至所有已开启云同步的设备。未启用云同步的信息仅保留在此设备上。"
   },
   "android": {
     "account_id_use_standard_keyboard": "标准键盘",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "恢复默认",
     "vibration_settings_section_length_ms": "时长 (ms)",
     "vibration_settings_section_strength_pct": "强度",
-    "vibration_settings_title": "振动",
-    "settings_sync_brief_description": "云同步可让你将所选信息同步至所有已开启云同步的设备。未启用云同步的信息仅保留在此设备上。"
+    "vibration_settings_title": "振动"
   },
   "apple": {
     "live_activity_settings_description": "即时动态会在通知区显示当前课程与倒数。「上课中」与「即将上课」仅在 App 打开时会即时更新；「作业警告」即使 App 已关闭也会准时提醒。",

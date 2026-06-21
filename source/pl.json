@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Przedmioty: %1$s tylko lokalne",
     "sync_conflict_reenable_courses_server_only": "Przedmioty: %1$s tylko na serwerze",
     "sync_conflict_reenable_colors_differ": "Kolory przedmiotów: różne na serwerze",
-    "sync_conflict_reenable_names_differ": "Własne nazwy: różne na serwerze"
+    "sync_conflict_reenable_names_differ": "Własne nazwy: różne na serwerze",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardowa klawiatura",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Przywróć domyślne",
     "vibration_settings_section_length_ms": "Czas trwania (ms)",
     "vibration_settings_section_strength_pct": "Siła",
-    "vibration_settings_title": "Wibracje",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Wibracje"
   },
   "apple": {
     "live_activity_settings_description": "Aktywność na żywo wyświetla bieżące zajęcia oraz odliczanie w powiadomieniach. „W trakcie zajęć” oraz „Wkrótce zajęcia” aktualizują się w czasie rzeczywistym tylko, gdy aplikacja jest otwarta; „Ostrzeżenie o zadaniu” może powiadamiać na czas także przy zamkniętej aplikacji.",

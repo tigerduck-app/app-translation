@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "운영자가 수동으로 발송한 일회성 알림을 수신합니다. 기본값은 켜짐입니다.";
 "settings_server_push_label" = "서버 알림";
 "settings_show_absolute_assignment_time" = "과제 마감 시간을 전체 날짜로 표시";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "서버와 공유되는 데이터";
 "settings_sync_disabled_note" = "동기화가 꺼져 있으면 모든 데이터는 이 기기에만 저장됩니다.";

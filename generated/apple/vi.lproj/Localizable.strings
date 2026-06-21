@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Nhận thông báo một lần do người vận hành gửi thủ công. Mặc định: bật.";
 "settings_server_push_label" = "Thông báo máy chủ";
 "settings_show_absolute_assignment_time" = "Hiển thị ngày đầy đủ cho thời hạn bài tập";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Dữ liệu được chia sẻ với máy chủ";
 "settings_sync_disabled_note" = "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này.";

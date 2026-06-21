@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "รายวิชา: %1$s ในเครื่องเท่านั้น",
     "sync_conflict_reenable_courses_server_only": "รายวิชา: %1$s บนเซิร์ฟเวอร์เท่านั้น",
     "sync_conflict_reenable_colors_differ": "สีรายวิชา: แตกต่างบนเซิร์ฟเวอร์",
-    "sync_conflict_reenable_names_differ": "ชื่อที่กำหนดเอง: แตกต่างบนเซิร์ฟเวอร์"
+    "sync_conflict_reenable_names_differ": "ชื่อที่กำหนดเอง: แตกต่างบนเซิร์ฟเวอร์",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "แป้นพิมพ์มาตรฐาน",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "รีเซ็ตเป็นค่าเริ่มต้น",
     "vibration_settings_section_length_ms": "ระยะเวลา (ms)",
     "vibration_settings_section_strength_pct": "ความแรง",
-    "vibration_settings_title": "การสั่น",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "การสั่น"
   },
   "apple": {
     "live_activity_settings_description": "Live Activity จะแสดงคาบเรียนปัจจุบันและการนับถอยหลังในการแจ้งเตือน \"กำลังเรียน\" และ \"กำลังจะเข้าเรียน\" จะอัปเดตแบบเรียลไทม์เฉพาะตอนที่เปิดแอปอยู่ ส่วน \"การเตือนการบ้าน\" สามารถแจ้งเตือนตรงเวลาได้แม้ปิดแอป",

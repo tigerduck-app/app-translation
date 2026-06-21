@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "ഓപ്പറേറ്റർ സ്വമേധയാ അയച്ച ഒറ്റത്തവണ അറിയിപ്പുകൾ സ്വീകരിക്കുക. സ്ഥിരസ്ഥിതി: ഓൺ.";
 "settings_server_push_label" = "സെർവർ അറിയിപ്പുകൾ";
 "settings_show_absolute_assignment_time" = "അസൈൻമെന്റ് കാലാവധിക്ക് പൂർണ്ണ തീയതി കാണിക്കുക";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "സെർവറുമായി പങ്കിട്ട ഡാറ്റ";
 "settings_sync_disabled_note" = "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.";

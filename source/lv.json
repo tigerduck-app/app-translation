@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kursi: %1$s tikai lokāli",
     "sync_conflict_reenable_courses_server_only": "Kursi: %1$s tikai serverī",
     "sync_conflict_reenable_colors_differ": "Kursu krāsas: atšķiras serverī",
-    "sync_conflict_reenable_names_differ": "Pielāgotie nosaukumi: atšķiras serverī"
+    "sync_conflict_reenable_names_differ": "Pielāgotie nosaukumi: atšķiras serverī",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standarta tastatūra",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Atjaunot noklusējumu",
     "vibration_settings_section_length_ms": "Ilgums (ms)",
     "vibration_settings_section_strength_pct": "Spēks",
-    "vibration_settings_title": "Vibrācija",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibrācija"
   },
   "apple": {
     "live_activity_settings_description": "Tiešā darbība rāda pašreizējo nodarbību un atpakaļskaitīšanu paziņojumos. „Nodarbībā\" un „Nodarbība drīz sāksies\" tiek atjaunots reāllaikā tikai kamēr lietotne ir atvērta; „Uzdevuma brīdinājums\" joprojām var brīdināt laikā arī tad, kad lietotne ir aizvērta.",

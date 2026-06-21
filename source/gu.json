@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "કોર્સ: %1$s ફક્ત સ્થાનિક",
     "sync_conflict_reenable_courses_server_only": "કોર્સ: %1$s ફક્ત સર્વર પર",
     "sync_conflict_reenable_colors_differ": "કોર્સના રંગ: સર્વર પર અલગ",
-    "sync_conflict_reenable_names_differ": "કસ્ટમ નામ: સર્વર પર અલગ"
+    "sync_conflict_reenable_names_differ": "કસ્ટમ નામ: સર્વર પર અલગ",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "પ્રમાણભૂત કીબોર્ડ",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "ડિફૉલ્ટ પર રીસેટ",
     "vibration_settings_section_length_ms": "સમયગાળો (ms)",
     "vibration_settings_section_strength_pct": "તીવ્રતા",
-    "vibration_settings_title": "વાઇબ્રેશન",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "વાઇબ્રેશન"
   },
   "apple": {
     "live_activity_settings_description": "લાઇવ એક્ટિવિટી નોટિફિકેશનમાં વર્તમાન ક્લાસ અને કાઉન્ટડાઉન દર્શાવે છે. \"ક્લાસ ચાલુ\" અને \"ક્લાસ ટૂંક સમયમાં\" App ખુલ્લું હોય ત્યારે જ રીઅલ-ટાઇમ અપડેટ થાય; \"Assignment warning\" App બંધ હોય ત્યારે પણ સમયસર ચેતવણી આપી શકે.",

@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "קורסים: %1$s מקומיים בלבד",
     "sync_conflict_reenable_courses_server_only": "קורסים: %1$s בשרת בלבד",
     "sync_conflict_reenable_colors_differ": "צבעי קורסים: שונים בשרת",
-    "sync_conflict_reenable_names_differ": "שמות מותאמים אישית: שונים בשרת"
+    "sync_conflict_reenable_names_differ": "שמות מותאמים אישית: שונים בשרת",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "מקלדת רגילה",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "אפס לברירת מחדל",
     "vibration_settings_section_length_ms": "משך (ms)",
     "vibration_settings_section_strength_pct": "עוצמה",
-    "vibration_settings_title": "רטט",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "רטט"
   },
   "apple": {
     "live_activity_settings_description": "פעילות חיה מציגה את השיעור הנוכחי וספירה לאחור בהתראות. \"בשיעור\" ו\"השיעור מתחיל בקרוב\" מתעדכנים בזמן אמת רק כשהאפליקציה פתוחה; \"אזהרת מטלה\" יכולה עדיין להתריע בזמן כשהאפליקציה סגורה.",

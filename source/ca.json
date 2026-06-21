@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Cursos: %1$s només locals",
     "sync_conflict_reenable_courses_server_only": "Cursos: %1$s només al servidor",
     "sync_conflict_reenable_colors_differ": "Colors dels cursos: diferents al servidor",
-    "sync_conflict_reenable_names_differ": "Noms personalitzats: diferents al servidor"
+    "sync_conflict_reenable_names_differ": "Noms personalitzats: diferents al servidor",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Teclat estàndard",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Restablir per defecte",
     "vibration_settings_section_length_ms": "Durada (ms)",
     "vibration_settings_section_strength_pct": "Intensitat",
-    "vibration_settings_title": "Vibració",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibració"
   },
   "apple": {
     "live_activity_settings_description": "L'activitat en temps real mostra la classe actual i el compte enrere a les notificacions. «En classe» i «La classe comença aviat» s'actualitzen en temps real només mentre l'aplicació és oberta; «Avís de tasca» pot alertar a temps quan l'aplicació és tancada.",

@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kurser: %1$s bara lokala",
     "sync_conflict_reenable_courses_server_only": "Kurser: %1$s bara på servern",
     "sync_conflict_reenable_colors_differ": "Kursfärger: annorlunda på servern",
-    "sync_conflict_reenable_names_differ": "Egna namn: annorlunda på servern"
+    "sync_conflict_reenable_names_differ": "Egna namn: annorlunda på servern",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtangentbord",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Återställ standard",
     "vibration_settings_section_length_ms": "Varaktighet (ms)",
     "vibration_settings_section_strength_pct": "Styrka",
-    "vibration_settings_title": "Vibration",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibration"
   },
   "apple": {
     "live_activity_settings_description": "Liveaktivitet visar pågående lektion och nedräkning i aviseringar. \"På lektion\" och \"Lektionen börjar snart\" uppdateras i realtid endast när appen är öppen; \"Uppgiftsvarning\" kan fortfarande avisera i tid när appen är stängd.",

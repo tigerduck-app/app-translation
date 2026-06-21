@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "課程：%1$s 淨本機",
     "sync_conflict_reenable_courses_server_only": "課程：%1$s 淨伺服器",
     "sync_conflict_reenable_colors_differ": "課程顏色：同伺服器唔同",
-    "sync_conflict_reenable_names_differ": "自訂名稱：同伺服器唔同"
+    "sync_conflict_reenable_names_differ": "自訂名稱：同伺服器唔同",
+    "settings_sync_brief_description": "雲端同步可以將你揀嘅資料同步到所有開咗雲端同步嘅裝置。冇開雲端同步嘅資料淨係會留喺呢部裝置。"
   },
   "android": {
     "account_id_use_standard_keyboard": "標準鍵盤",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "還原預設",
     "vibration_settings_section_length_ms": "長度 (ms)",
     "vibration_settings_section_strength_pct": "強度",
-    "vibration_settings_title": "震動",
-    "settings_sync_brief_description": "雲端同步可以將你揀嘅資料同步到所有開咗雲端同步嘅裝置。冇開雲端同步嘅資料淨係會留喺呢部裝置。"
+    "vibration_settings_title": "震動"
   },
   "apple": {
     "live_activity_settings_description": "即時動態會在通知區顯示當前課程與倒數。「上課中」與「即將上課」僅在 App 開啟時會即時更新；「作業警告」即使 App 已關閉也會準時提醒。",

@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Курсове: %1$s само локални",
     "sync_conflict_reenable_courses_server_only": "Курсове: %1$s само на сървъра",
     "sync_conflict_reenable_colors_differ": "Цветове на курсовете: различни на сървъра",
-    "sync_conflict_reenable_names_differ": "Персонализирани имена: различни на сървъра"
+    "sync_conflict_reenable_names_differ": "Персонализирани имена: различни на сървъра",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандартна клавиатура",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Възстановяване по подразбиране",
     "vibration_settings_section_length_ms": "Продължителност (ms)",
     "vibration_settings_section_strength_pct": "Сила",
-    "vibration_settings_title": "Вибрация",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Вибрация"
   },
   "apple": {
     "live_activity_settings_description": "Динамичните известия показват текущия час и обратно броене в известията. „В час“ и „Часът започва скоро“ се актуализират в реално време само когато приложението е отворено; „Предупреждение за задание“ може да се появи навреме дори когато приложението е затворено.",

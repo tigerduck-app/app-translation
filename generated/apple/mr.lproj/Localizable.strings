@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "ऑपरेटरने मॅन्युअली पाठवलेल्या एकवेळच्या सूचना प्राप्त करा. डीफॉल्ट चालू.";
 "settings_server_push_label" = "सर्व्हर सूचना";
 "settings_show_absolute_assignment_time" = "असाइनमेंट मुदत वेळेसाठी पूर्ण तारीख दाखवा";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "सर्व्हरसोबत शेअर केलेला डेटा";
 "settings_sync_disabled_note" = "सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो.";

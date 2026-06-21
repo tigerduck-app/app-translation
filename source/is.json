@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Námskeið: %1$s aðeins staðbundið",
     "sync_conflict_reenable_courses_server_only": "Námskeið: %1$s aðeins á þjóni",
     "sync_conflict_reenable_colors_differ": "Litir námskeiða: ólíkir á þjóni",
-    "sync_conflict_reenable_names_differ": "Sérsniðin nöfn: ólík á þjóni"
+    "sync_conflict_reenable_names_differ": "Sérsniðin nöfn: ólík á þjóni",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Staðlað lyklaborð",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Endurstilla sjálfgefið",
     "vibration_settings_section_length_ms": "Lengd (ms)",
     "vibration_settings_section_strength_pct": "Styrkur",
-    "vibration_settings_title": "Titringur",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Titringur"
   },
   "apple": {
     "live_activity_settings_description": "Bein virkni sýnir núverandi tíma og niðurtal í tilkynningum. \"Í tíma\" og \"Tími byrjar bráðum\" uppfærast í rauntíma aðeins þegar forritið er opið; \"Verkefnaviðvörun\" getur enn gefið tilkynningu á réttum tíma þegar forritið er lokað.",

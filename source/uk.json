@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Курси: %1$s лише локальні",
     "sync_conflict_reenable_courses_server_only": "Курси: %1$s лише на сервері",
     "sync_conflict_reenable_colors_differ": "Кольори курсів: відрізняються на сервері",
-    "sync_conflict_reenable_names_differ": "Власні назви: відрізняються на сервері"
+    "sync_conflict_reenable_names_differ": "Власні назви: відрізняються на сервері",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандартна клавіатура",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Скинути до стандартних",
     "vibration_settings_section_length_ms": "Тривалість (ms)",
     "vibration_settings_section_strength_pct": "Сила",
-    "vibration_settings_title": "Вібрація",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Вібрація"
   },
   "apple": {
     "live_activity_settings_description": "Жива активність показує поточне заняття та зворотний відлік у сповіщеннях. «На занятті» та «Скоро початок заняття» оновлюються в режимі реального часу лише коли застосунок відкритий; «Попередження про завдання» може спрацювати вчасно навіть коли застосунок закрито.",

@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "接收管理员手动发送的一次性通知。默认开启。";
 "settings_server_push_label" = "服务器通知";
 "settings_show_absolute_assignment_time" = "作业截止时间显示完整日期";
+"settings_sync_brief_description" = "云同步可让你将所选信息同步至所有已开启云同步的设备。未启用云同步的信息仅保留在此设备上。";
 "settings_sync_brief_description_ios" = "云同步可让你接收推送通知，并将所选信息同步至所有已开启云同步的设备。未启用同步的信息仍会发送至服务器供推送通知使用。";
 "settings_sync_data_section" = "与服务器共享的数据";
 "settings_sync_disabled_note" = "关闭同步后，所有数据仅保存在此设备上。";

@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Gauti vienkartines operatoriaus rankiniu būdu siunčiamas žinutes. Numatyta: įjungta.";
 "settings_server_push_label" = "Serverio pranešimai";
 "settings_show_absolute_assignment_time" = "Rodyti pilną datą užduoties terminui";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Duomenys, bendrinti su serveriu";
 "settings_sync_disabled_note" = "Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje.";

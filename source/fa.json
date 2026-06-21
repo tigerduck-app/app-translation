@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "دروس: %1$s فقط محلی",
     "sync_conflict_reenable_courses_server_only": "دروس: %1$s فقط در سرور",
     "sync_conflict_reenable_colors_differ": "رنگ‌های دروس: در سرور متفاوت",
-    "sync_conflict_reenable_names_differ": "نام‌های سفارشی: در سرور متفاوت"
+    "sync_conflict_reenable_names_differ": "نام‌های سفارشی: در سرور متفاوت",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "صفحه‌کلید استاندارد",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "بازگشت به پیش‌فرض",
     "vibration_settings_section_length_ms": "مدت (ms)",
     "vibration_settings_section_strength_pct": "شدت",
-    "vibration_settings_title": "لرزش",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "لرزش"
   },
   "apple": {
     "live_activity_settings_description": "فعالیت زنده کلاس فعلی و شمارش معکوس را در اعلان‌ها نشان می‌دهد. «در کلاس» و «کلاس به‌زودی شروع می‌شود» فقط وقتی برنامه باز است به‌صورت بلادرنگ به‌روزرسانی می‌شوند؛ «هشدار تکلیف» حتی وقتی برنامه بسته است هم می‌تواند به‌موقع هشدار دهد.",

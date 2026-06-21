@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Operatör tarafından manuel olarak gönderilen tek seferlik bildirimleri alın. Varsayılan: açık.";
 "settings_server_push_label" = "Sunucu bildirimleri";
 "settings_show_absolute_assignment_time" = "Ödev teslim saatinde tam tarihi göster";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Sunucuyla paylaşılan veriler";
 "settings_sync_disabled_note" = "Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır.";

@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kurssit: %1$s vain paikallisia",
     "sync_conflict_reenable_courses_server_only": "Kurssit: %1$s vain palvelimella",
     "sync_conflict_reenable_colors_differ": "Kurssien värit: eri palvelimella",
-    "sync_conflict_reenable_names_differ": "Mukautetut nimet: eri palvelimella"
+    "sync_conflict_reenable_names_differ": "Mukautetut nimet: eri palvelimella",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Vakionäppäimistö",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Palauta oletukseksi",
     "vibration_settings_section_length_ms": "Kesto (ms)",
     "vibration_settings_section_strength_pct": "Voimakkuus",
-    "vibration_settings_title": "Värinä",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Värinä"
   },
   "apple": {
     "live_activity_settings_description": "Live-toiminto näyttää meneillään olevan tunnin ja lähtölaskennan ilmoituksissa. \"Tunnilla\" ja \"Tunti alkaa pian\" päivittyvät reaaliajassa vain sovelluksen ollessa auki; \"Tehtävävaroitus\" voi ilmoittaa ajoissa myös sovelluksen ollessa suljettuna.",

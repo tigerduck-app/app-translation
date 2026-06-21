@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "ಕೋರ್ಸ್‌ಗಳು: %1$s ಸ್ಥಳೀಯ ಮಾತ್ರ",
     "sync_conflict_reenable_courses_server_only": "ಕೋರ್ಸ್‌ಗಳು: %1$s ಸರ್ವರ್‌ನಲ್ಲಿ ಮಾತ್ರ",
     "sync_conflict_reenable_colors_differ": "ಕೋರ್ಸ್ ಬಣ್ಣಗಳು: ಸರ್ವರ್‌ನಲ್ಲಿ ಬೇರೆ",
-    "sync_conflict_reenable_names_differ": "ಕಸ್ಟಮ್ ಹೆಸರುಗಳು: ಸರ್ವರ್‌ನಲ್ಲಿ ಬೇರೆ"
+    "sync_conflict_reenable_names_differ": "ಕಸ್ಟಮ್ ಹೆಸರುಗಳು: ಸರ್ವರ್‌ನಲ್ಲಿ ಬೇರೆ",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "ಪ್ರಮಾಣಿತ ಕೀಬೋರ್ಡ್",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "ಡೀಫಾಲ್ಟ್‌ಗೆ ಮರುಹೊಂದಿಸಿ",
     "vibration_settings_section_length_ms": "ಅವಧಿ (ms)",
     "vibration_settings_section_strength_pct": "ತೀವ್ರತೆ",
-    "vibration_settings_title": "ವೈಬ್ರೇಶನ್",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "ವೈಬ್ರೇಶನ್"
   },
   "apple": {
     "live_activity_settings_description": "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಧಿಸೂಚನೆಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ತರಗತಿ ಮತ್ತು ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. \"ತರಗತಿಯಲ್ಲಿ\" ಮತ್ತು \"ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭ\" ಅಪ್ಲಿಕೇಶನ್ ತೆರೆದಿರುವಾಗ ಮಾತ್ರ ನೈಜ ಸಮಯದಲ್ಲಿ ನವೀಕರಣಗೊಳ್ಳುತ್ತವೆ; \"ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ\" ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ಎಚ್ಚರಿಸಬಲ್ಲದು.",

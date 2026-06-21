@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "کورسز: %1$s صرف مقامی",
     "sync_conflict_reenable_courses_server_only": "کورسز: %1$s صرف سرور پر",
     "sync_conflict_reenable_colors_differ": "کورس کے رنگ: سرور پر مختلف",
-    "sync_conflict_reenable_names_differ": "حسب ضرورت نام: سرور پر مختلف"
+    "sync_conflict_reenable_names_differ": "حسب ضرورت نام: سرور پر مختلف",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "معیاری کی بورڈ",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "ڈیفالٹ پر ری سیٹ",
     "vibration_settings_section_length_ms": "مدت (ms)",
     "vibration_settings_section_strength_pct": "شدت",
-    "vibration_settings_title": "وائبریشن",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "وائبریشن"
   },
   "apple": {
     "live_activity_settings_description": "لائیو ایکٹیویٹی اطلاعات میں موجودہ کلاس اور الٹی گنتی دکھاتا ہے۔ \"کلاس میں\" اور \"کلاس جلد شروع\" صرف ایپ کھلی ہونے پر ریئل ٹائم میں اپڈیٹ ہوتے ہیں؛ \"اسائنمنٹ وارننگ\" ایپ بند ہونے پر بھی وقت پر الرٹ کر سکتی ہے۔",

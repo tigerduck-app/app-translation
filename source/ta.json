@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "பாடங்கள்: %1$s உள்ளூர் மட்டும்",
     "sync_conflict_reenable_courses_server_only": "பாடங்கள்: %1$s சேவையகத்தில் மட்டும்",
     "sync_conflict_reenable_colors_differ": "பாட நிறங்கள்: சேவையகத்தில் வேறுபட்டவை",
-    "sync_conflict_reenable_names_differ": "தனிப்பயன் பெயர்கள்: சேவையகத்தில் வேறுபட்டவை"
+    "sync_conflict_reenable_names_differ": "தனிப்பயன் பெயர்கள்: சேவையகத்தில் வேறுபட்டவை",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "நிலையான விசைப்பலகை",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "இயல்புநிலைக்கு மீட்டமை",
     "vibration_settings_section_length_ms": "கால அளவு (ms)",
     "vibration_settings_section_strength_pct": "தீவிரம்",
-    "vibration_settings_title": "அதிர்வு",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "அதிர்வு"
   },
   "apple": {
     "live_activity_settings_description": "நேரடி செயல்பாடு அறிவிப்புகளில் தற்போதைய வகுப்பு மற்றும் கவுண்ட்டவுனை காட்டுகிறது. \"வகுப்பு நடக்கிறது\" மற்றும் \"வகுப்பு தொடங்க உள்ளது\" App திறந்திருக்கும்போது மட்டுமே நேரடியாக புதுப்பிக்கும்; \"ஒப்படைப்பு எச்சரிக்கை\" App மூடியிருக்கும்போதும் சரியான நேரத்தில் எச்சரிக்கலாம்.",

@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "Primiți notificări unice trimise manual de operator. Implicit: activat.";
 "settings_server_push_label" = "Notificări server";
 "settings_show_absolute_assignment_time" = "Afișează data completă pentru termenul temei";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "Date partajate cu serverul";
 "settings_sync_disabled_note" = "Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv.";

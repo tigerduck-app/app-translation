@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Курсеви: %1$s само локални",
     "sync_conflict_reenable_courses_server_only": "Курсеви: %1$s само на серверу",
     "sync_conflict_reenable_colors_differ": "Боје курсева: различите на серверу",
-    "sync_conflict_reenable_names_differ": "Прилагођена имена: различита на серверу"
+    "sync_conflict_reenable_names_differ": "Прилагођена имена: различита на серверу",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандардна тастатура",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Врати на подразумевано",
     "vibration_settings_section_length_ms": "Трајање (ms)",
     "vibration_settings_section_strength_pct": "Јачина",
-    "vibration_settings_title": "Вибрација",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Вибрација"
   },
   "apple": {
     "live_activity_settings_description": "Живе активности приказују тренутни час и одбројавање у обавештењима. „На часу\" и „Час ускоро почиње\" ажурирају се у реалном времену само кад је апликација отворена; „Упозорење за задатак\" може упозорити на вријеме и кад је апликација затворена.",

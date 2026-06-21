@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "آپریٹر کی طرف سے دستی بھیجی گئی یک بارہ اطلاعات موصول کریں۔ پہلے سے طے شدہ: آن۔";
 "settings_server_push_label" = "سرور اطلاعات";
 "settings_show_absolute_assignment_time" = "اسائنمنٹ کی آخری تاریخ کے لیے مکمل تاریخ دکھائیں";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "سرور کے ساتھ شیئر کیا گیا ڈیٹا";
 "settings_sync_disabled_note" = "جب سنک بند ہو تو تمام ڈیٹا صرف اس آلے پر رہتا ہے۔";

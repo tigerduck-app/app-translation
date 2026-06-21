@@ -686,6 +686,7 @@
 "settings_server_push_footer" = "অপারেটর ম্যানুয়ালি পাঠানো একক বিজ্ঞপ্তি গ্রহণ করুন। ডিফল্টরূপে চালু।";
 "settings_server_push_label" = "সার্ভার বিজ্ঞপ্তি";
 "settings_show_absolute_assignment_time" = "অ্যাসাইনমেন্টের সময়সীমার জন্য সম্পূর্ণ তারিখ দেখান";
+"settings_sync_brief_description" = "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only.";
 "settings_sync_brief_description_ios" = "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use.";
 "settings_sync_data_section" = "সার্ভারের সাথে শেয়ার করা ডেটা";
 "settings_sync_disabled_note" = "সিঙ্ক বন্ধ থাকলে সব ডেটা শুধুমাত্র এই ডিভাইসে থাকে।";

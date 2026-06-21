@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Disciplinas: %1$s apenas locais",
     "sync_conflict_reenable_courses_server_only": "Disciplinas: %1$s apenas no servidor",
     "sync_conflict_reenable_colors_differ": "Cores das disciplinas: diferentes no servidor",
-    "sync_conflict_reenable_names_differ": "Nomes personalizados: diferentes no servidor"
+    "sync_conflict_reenable_names_differ": "Nomes personalizados: diferentes no servidor",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Teclado padrão",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Repor predefinição",
     "vibration_settings_section_length_ms": "Duração (ms)",
     "vibration_settings_section_strength_pct": "Intensidade",
-    "vibration_settings_title": "Vibração",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibração"
   },
   "apple": {
     "live_activity_settings_description": "A atividade em direto mostra a aula atual e a contagem decrescente nas notificações. \"Em aula\" e \"Aula a começar em breve\" só atualizam em tempo real com a aplicação aberta; \"Aviso de trabalho\" pode alertar a tempo mesmo com a aplicação fechada.",

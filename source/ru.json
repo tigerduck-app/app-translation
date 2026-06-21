@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Курсы: %1$s только локальные",
     "sync_conflict_reenable_courses_server_only": "Курсы: %1$s только на сервере",
     "sync_conflict_reenable_colors_differ": "Цвета курсов: отличаются на сервере",
-    "sync_conflict_reenable_names_differ": "Пользовательские названия: отличаются на сервере"
+    "sync_conflict_reenable_names_differ": "Пользовательские названия: отличаются на сервере",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Стандартная клавиатура",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Сбросить к умолчанию",
     "vibration_settings_section_length_ms": "Длительность (ms)",
     "vibration_settings_section_strength_pct": "Сила",
-    "vibration_settings_title": "Вибрация",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Вибрация"
   },
   "apple": {
     "live_activity_settings_description": "Live-активность показывает текущее занятие и обратный отсчёт в уведомлениях. «На занятии» и «Скоро начнётся занятие» обновляются в реальном времени только при открытом приложении; «Предупреждение о задании» может своевременно уведомлять и при закрытом приложении.",

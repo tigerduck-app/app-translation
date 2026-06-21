@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Vakken: %1$s alleen lokaal",
     "sync_conflict_reenable_courses_server_only": "Vakken: %1$s alleen op de server",
     "sync_conflict_reenable_colors_differ": "Vakkleuren: anders op de server",
-    "sync_conflict_reenable_names_differ": "Aangepaste namen: anders op de server"
+    "sync_conflict_reenable_names_differ": "Aangepaste namen: anders op de server",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standaardtoetsenbord",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Standaard herstellen",
     "vibration_settings_section_length_ms": "Duur (ms)",
     "vibration_settings_section_strength_pct": "Sterkte",
-    "vibration_settings_title": "Trilstand",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Trilstand"
   },
   "apple": {
     "live_activity_settings_description": "Live activiteit toont de huidige les en het aftellen in meldingen. \"In de les\" en \"Les begint zo\" worden alleen in realtime bijgewerkt zolang de app open is; \"Opdrachtwaarschuwing\" kan je nog steeds op tijd waarschuwen als de app gesloten is.",

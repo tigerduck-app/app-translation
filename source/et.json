@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kursused: %1$s ainult kohalikud",
     "sync_conflict_reenable_courses_server_only": "Kursused: %1$s ainult serveris",
     "sync_conflict_reenable_colors_differ": "Kursuste värvid: serveris erinevad",
-    "sync_conflict_reenable_names_differ": "Kohandatud nimed: serveris erinevad"
+    "sync_conflict_reenable_names_differ": "Kohandatud nimed: serveris erinevad",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardklaviatuur",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Lähtesta vaikimisi",
     "vibration_settings_section_length_ms": "Kestus (ms)",
     "vibration_settings_section_strength_pct": "Tugevus",
-    "vibration_settings_title": "Vibratsioon",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibratsioon"
   },
   "apple": {
     "live_activity_settings_description": "Reaalajas tegevus näitab teavitustes praegust tundi ja loendust. „Tund käib\" ja „Tund algab varsti\" uuendatakse reaalajas ainult siis, kui rakendus on avatud; „Ülesande hoiatus\" saab siiski õigel ajal teavitada, kui rakendus on suletud.",

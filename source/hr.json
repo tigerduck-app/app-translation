@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kolegiji: %1$s samo lokalni",
     "sync_conflict_reenable_courses_server_only": "Kolegiji: %1$s samo na poslužitelju",
     "sync_conflict_reenable_colors_differ": "Boje kolegija: različite na poslužitelju",
-    "sync_conflict_reenable_names_differ": "Prilagođeni nazivi: različiti na poslužitelju"
+    "sync_conflict_reenable_names_differ": "Prilagođeni nazivi: različiti na poslužitelju",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardna tipkovnica",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Vrati na zadano",
     "vibration_settings_section_length_ms": "Trajanje (ms)",
     "vibration_settings_section_strength_pct": "Jakost",
-    "vibration_settings_title": "Vibracija",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibracija"
   },
   "apple": {
     "live_activity_settings_description": "Aktivnost u stvarnom vremenu prikazuje trenutno predavanje i odbrojavanje u obavijestima. „Na predavanju“ i „Predavanje uskoro počinje“ ažuriraju se u stvarnom vremenu samo dok je aplikacija otvorena; „Upozorenje na zadatak“ može pravovremeno upozoriti i kad je aplikacija zatvorena.",

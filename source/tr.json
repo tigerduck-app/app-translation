@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Dersler: %1$s yalnızca yerel",
     "sync_conflict_reenable_courses_server_only": "Dersler: %1$s yalnızca sunucuda",
     "sync_conflict_reenable_colors_differ": "Ders renkleri: sunucuda farklı",
-    "sync_conflict_reenable_names_differ": "Özel adlar: sunucuda farklı"
+    "sync_conflict_reenable_names_differ": "Özel adlar: sunucuda farklı",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standart klavye",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Varsayılana sıfırla",
     "vibration_settings_section_length_ms": "Süre (ms)",
     "vibration_settings_section_strength_pct": "Güç",
-    "vibration_settings_title": "Titreşim",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Titreşim"
   },
   "apple": {
     "live_activity_settings_description": "Canlı etkinlik, mevcut dersi ve geri sayımı bildirimlerde gösterir. \"Derste\" ve \"Ders birazdan başlıyor\" yalnızca uygulama açıkken gerçek zamanlı güncellenir; \"Ödev uyarısı\" ise uygulama kapalıyken bile zamanında uyarı verebilir.",

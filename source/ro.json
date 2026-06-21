@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Cursuri: %1$s doar locale",
     "sync_conflict_reenable_courses_server_only": "Cursuri: %1$s doar pe server",
     "sync_conflict_reenable_colors_differ": "Culorile cursurilor: diferite pe server",
-    "sync_conflict_reenable_names_differ": "Nume personalizate: diferite pe server"
+    "sync_conflict_reenable_names_differ": "Nume personalizate: diferite pe server",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Tastatură standard",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Restabilire implicită",
     "vibration_settings_section_length_ms": "Durată (ms)",
     "vibration_settings_section_strength_pct": "Intensitate",
-    "vibration_settings_title": "Vibrație",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibrație"
   },
   "apple": {
     "live_activity_settings_description": "Activitatea live afișează cursul curent și numărătoarea inversă în notificări. „La curs“ și „Curs începe în curând“ se actualizează în timp real doar când aplicația este deschisă; „Avertisment temă“ poate alerta la timp și când aplicația este închisă.",

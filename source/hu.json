@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Kurzusok: %1$s csak helyi",
     "sync_conflict_reenable_courses_server_only": "Kurzusok: %1$s csak a szerveren",
     "sync_conflict_reenable_colors_differ": "Kurzusszínek: eltérőek a szerveren",
-    "sync_conflict_reenable_names_differ": "Egyéni nevek: eltérőek a szerveren"
+    "sync_conflict_reenable_names_differ": "Egyéni nevek: eltérőek a szerveren",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Normál billentyűzet",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Alapértelmezett visszaállítása",
     "vibration_settings_section_length_ms": "Időtartam (ms)",
     "vibration_settings_section_strength_pct": "Erősség",
-    "vibration_settings_title": "Rezgés",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Rezgés"
   },
   "apple": {
     "live_activity_settings_description": "Az élő tevékenység megjeleníti az aktuális órát és visszaszámlálót az értesítésekben. Az \"Órán\" és az \"Óra hamarosan kezdődik\" csak akkor frissül valós időben, amíg az alkalmazás nyitva van; a \"Házi feladat figyelmeztetés\" még akkor is időben figyelmeztet, ha az alkalmazás be van zárva.",

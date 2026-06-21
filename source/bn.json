@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "কোর্স: %1$s শুধু স্থানীয়",
     "sync_conflict_reenable_courses_server_only": "কোর্স: %1$s শুধু সার্ভারে",
     "sync_conflict_reenable_colors_differ": "কোর্সের রং: সার্ভারে আলাদা",
-    "sync_conflict_reenable_names_differ": "কাস্টম নাম: সার্ভারে আলাদা"
+    "sync_conflict_reenable_names_differ": "কাস্টম নাম: সার্ভারে আলাদা",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "স্ট্যান্ডার্ড কীবোর্ড",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "ডিফল্টে ফিরুন",
     "vibration_settings_section_length_ms": "দৈর্ঘ্য (ms)",
     "vibration_settings_section_strength_pct": "তীব্রতা",
-    "vibration_settings_title": "ভাইব্রেশন",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "ভাইব্রেশন"
   },
   "apple": {
     "live_activity_settings_description": "লাইভ অ্যাক্টিভিটি বিজ্ঞপ্তিতে বর্তমান ক্লাস ও কাউন্টডাউন দেখায়। \"ক্লাসে আছেন\" ও \"ক্লাস শুরু হতে চলেছে\" শুধুমাত্র অ্যাপ খোলা থাকলে রিয়েল-টাইমে আপডেট হয়; \"অ্যাসাইনমেন্ট সতর্কতা\" অ্যাপ বন্ধ থাকলেও সময়মতো সতর্ক করতে পারে।",

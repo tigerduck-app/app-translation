@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Emner: %1$s kun lokale",
     "sync_conflict_reenable_courses_server_only": "Emner: %1$s kun på serveren",
     "sync_conflict_reenable_colors_differ": "Emnefarger: forskjellige på serveren",
-    "sync_conflict_reenable_names_differ": "Egendefinerte navn: forskjellige på serveren"
+    "sync_conflict_reenable_names_differ": "Egendefinerte navn: forskjellige på serveren",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Standardtastatur",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Gjenopprett standard",
     "vibration_settings_section_length_ms": "Varighet (ms)",
     "vibration_settings_section_strength_pct": "Styrke",
-    "vibration_settings_title": "Vibrasjon",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibrasjon"
   },
   "apple": {
     "live_activity_settings_description": "Direkteaktivitet viser gjeldende time og nedtelling i varsler. «I time» og «Timen starter snart» oppdateres i sanntid bare mens appen er åpen; «Oppgavevarsel» kan fortsatt varsle i tide når appen er lukket.",

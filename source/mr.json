@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "अभ्यासक्रम: %1$s फक्त स्थानिक",
     "sync_conflict_reenable_courses_server_only": "अभ्यासक्रम: %1$s फक्त सर्व्हरवर",
     "sync_conflict_reenable_colors_differ": "अभ्यासक्रम रंग: सर्व्हरवर वेगळे",
-    "sync_conflict_reenable_names_differ": "सानुकूल नावे: सर्व्हरवर वेगळी"
+    "sync_conflict_reenable_names_differ": "सानुकूल नावे: सर्व्हरवर वेगळी",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "मानक कीबोर्ड",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "डीफॉल्टवर रीसेट करा",
     "vibration_settings_section_length_ms": "कालावधी (ms)",
     "vibration_settings_section_strength_pct": "तीव्रता",
-    "vibration_settings_title": "कंपन",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "कंपन"
   },
   "apple": {
     "live_activity_settings_description": "लाइव्ह ॲक्टिव्हिटी अधिसूचनांमध्ये सध्याचा वर्ग आणि काउंटडाउन दाखवते. 'वर्ग सुरू आहे' आणि 'वर्ग लवकरच सुरू होणार' फक्त ॲप उघडे असताना रिअल टाइममध्ये अपडेट होतात; 'असाइनमेंट चेतावणी' ॲप बंद असतानाही वेळेवर सतर्क करू शकते.",

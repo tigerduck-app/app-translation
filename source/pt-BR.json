@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "Disciplinas: %1$s somente locais",
     "sync_conflict_reenable_courses_server_only": "Disciplinas: %1$s somente no servidor",
     "sync_conflict_reenable_colors_differ": "Cores das disciplinas: diferentes no servidor",
-    "sync_conflict_reenable_names_differ": "Nomes personalizados: diferentes no servidor"
+    "sync_conflict_reenable_names_differ": "Nomes personalizados: diferentes no servidor",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "Teclado padrão",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "Restaurar padrão",
     "vibration_settings_section_length_ms": "Duração (ms)",
     "vibration_settings_section_strength_pct": "Intensidade",
-    "vibration_settings_title": "Vibração",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "Vibração"
   },
   "apple": {
     "live_activity_settings_description": "A atividade ao vivo mostra a aula atual e a contagem regressiva nas notificações. \"Em aula\" e \"Aula começando em breve\" são atualizados em tempo real apenas com o app aberto; o \"Aviso de atividade\" continua alertando na hora certa mesmo com o app fechado.",

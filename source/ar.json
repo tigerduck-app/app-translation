@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "المقررات: %1$s محلية فقط",
     "sync_conflict_reenable_courses_server_only": "المقررات: %1$s على الخادم فقط",
     "sync_conflict_reenable_colors_differ": "ألوان المقررات: مختلفة على الخادم",
-    "sync_conflict_reenable_names_differ": "الأسماء المخصصة: مختلفة على الخادم"
+    "sync_conflict_reenable_names_differ": "الأسماء المخصصة: مختلفة على الخادم",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "لوحة مفاتيح قياسية",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "إعادة إلى الافتراضي",
     "vibration_settings_section_length_ms": "المدة (ms)",
     "vibration_settings_section_strength_pct": "الشدة",
-    "vibration_settings_title": "الاهتزاز",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "الاهتزاز"
   },
   "apple": {
     "live_activity_settings_description": "يعرض النشاط المباشر المحاضرة الحالية والعد التنازلي في الإشعارات. يتم تحديث \"في المحاضرة\" و\"ستبدأ المحاضرة قريبًا\" في الوقت الفعلي فقط أثناء فتح التطبيق؛ بينما يستطيع \"تنبيه الواجب\" التذكير في وقته حتى عند إغلاق التطبيق.",

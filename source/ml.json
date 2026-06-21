@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "കോഴ്‌സുകൾ: %1$s ലോക്കൽ മാത്രം",
     "sync_conflict_reenable_courses_server_only": "കോഴ്‌സുകൾ: %1$s സെർവറിൽ മാത്രം",
     "sync_conflict_reenable_colors_differ": "കോഴ്‌സ് നിറങ്ങൾ: സെർവറിൽ വ്യത്യസ്തം",
-    "sync_conflict_reenable_names_differ": "ഇഷ്ടാനുസൃത പേരുകൾ: സെർവറിൽ വ്യത്യസ്തം"
+    "sync_conflict_reenable_names_differ": "ഇഷ്ടാനുസൃത പേരുകൾ: സെർവറിൽ വ്യത്യസ്തം",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "സ്റ്റാൻഡേർഡ് കീബോർഡ്",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "ഡിഫോൾട്ടിലേക്ക് പുനഃസജ്ജമാക്കുക",
     "vibration_settings_section_length_ms": "ദൈർഘ്യം (ms)",
     "vibration_settings_section_strength_pct": "തീവ്രത",
-    "vibration_settings_title": "വൈബ്രേഷൻ",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "വൈബ്രേഷൻ"
   },
   "apple": {
     "live_activity_settings_description": "Live Activity അറിയിപ്പുകളിൽ നിലവിലെ ക്ലാസ്, കൗണ്ട്‌ഡൗൺ കാണിക്കുന്നു. \"ക്ലാസിൽ\", \"ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു\" എന്നിവ ആപ്പ് തുറന്നിരിക്കുമ്പോൾ മാത്രം തത്സമയം അപ്‌ഡേറ്റ് ആകും; \"അസൈൻമെന്റ് മുന്നറിയിപ്പ്\" ആപ്പ് അടച്ചിരിക്കുമ്പോഴും സമയത്ത് അലേർട്ട് ചെയ്യാം.",

@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "コース：%1$s ローカルのみ",
     "sync_conflict_reenable_courses_server_only": "コース：%1$s サーバーのみ",
     "sync_conflict_reenable_colors_differ": "コースの色：サーバーと異なる",
-    "sync_conflict_reenable_names_differ": "カスタム名：サーバーと異なる"
+    "sync_conflict_reenable_names_differ": "カスタム名：サーバーと異なる",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "標準キーボード",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "デフォルトに戻す",
     "vibration_settings_section_length_ms": "長さ (ms)",
     "vibration_settings_section_strength_pct": "強さ",
-    "vibration_settings_title": "バイブレーション",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "バイブレーション"
   },
   "apple": {
     "live_activity_settings_description": "ライブアクティビティは現在の授業とカウントダウンを通知エリアに表示します。「授業中」と「まもなく授業開始」はアプリを開いている間のみリアルタイムで更新されます。「課題警告」はアプリを閉じていても時間どおりに通知できます。",

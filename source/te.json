@@ -792,7 +792,8 @@
     "sync_conflict_reenable_courses_local_only": "కోర్సులు: %1$s స్థానికంగా మాత్రమే",
     "sync_conflict_reenable_courses_server_only": "కోర్సులు: %1$s సర్వర్‌లో మాత్రమే",
     "sync_conflict_reenable_colors_differ": "కోర్సు రంగులు: సర్వర్‌లో భిన్నంగా ఉన్నాయి",
-    "sync_conflict_reenable_names_differ": "అనుకూల పేర్లు: సర్వర్‌లో భిన్నంగా ఉన్నాయి"
+    "sync_conflict_reenable_names_differ": "అనుకూల పేర్లు: సర్వర్‌లో భిన్నంగా ఉన్నాయి",
+    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
   },
   "android": {
     "account_id_use_standard_keyboard": "ప్రామాణిక కీబోర్డ్",
@@ -836,8 +837,7 @@
     "vibration_settings_revert": "డిఫాల్ట్‌కు రీసెట్ చేయండి",
     "vibration_settings_section_length_ms": "వ్యవధి (ms)",
     "vibration_settings_section_strength_pct": "తీవ్రత",
-    "vibration_settings_title": "వైబ్రేషన్",
-    "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+    "vibration_settings_title": "వైబ్రేషన్"
   },
   "apple": {
     "live_activity_settings_description": "లైవ్ యాక్టివిటీ నోటిఫికేషన్స్‌లో ప్రస్తుత తరగతి మరియు కౌంట్‌డౌన్ చూపిస్తుంది. 'తరగతిలో ఉన్నారు' మరియు 'తరగతి త్వరలో మొదలవుతుంది' కేవలం యాప్ తెరిచి ఉన్నప్పుడే రియల్-టైమ్‌లో అప్‌డేట్ అవుతాయి; 'అసైన్‌మెంట్ హెచ్చరిక' యాప్ మూసివేసినా సమయానికి హెచ్చరిస్తుంది.",
