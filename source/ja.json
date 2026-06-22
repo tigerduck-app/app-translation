@@ -692,15 +692,15 @@
         "source_code_picker_section_repositories": "リポジトリ",
         "sync_conflict_item_detail": "Local: %1$s → Server: %2$s",
         "sync_conflict_item_header": "%1$s: %2$s",
-        "sync_conflict_message": "Some items differ between this device and the server:",
-        "sync_conflict_status_completed": "Completed",
-        "sync_conflict_status_ignored": "Ignored",
-        "sync_conflict_status_none": "None",
-        "sync_conflict_title": "Sync Conflict",
-        "sync_conflict_use_local": "Use Local",
-        "sync_conflict_use_server": "Use Server",
-        "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
-        "sync_fdroid_unavailable_title": "Not available on F-Droid",
+        "sync_conflict_message": "このデバイスとサーバーの間で一部の項目が異なります：",
+        "sync_conflict_status_completed": "完了",
+        "sync_conflict_status_ignored": "無視",
+        "sync_conflict_status_none": "なし",
+        "sync_conflict_title": "同期の競合",
+        "sync_conflict_use_local": "ローカルを使用",
+        "sync_conflict_use_server": "サーバーを使用",
+        "sync_fdroid_unavailable_body": "クラウド同期にはGoogle Playサービスが必要です。F-Droidビルドでは利用できません。",
+        "sync_fdroid_unavailable_title": "F-Droidでは利用不可",
         "sync_success_content_description": "同期に成功しました",
         "tab_editor_apply_action": "適用",
         "tab_editor_drag_reorder": "ドラッグして並び替え",
@@ -794,7 +794,7 @@
         "sync_conflict_reenable_colors_differ": "コースの色：サーバーと異なる",
         "sync_conflict_reenable_names_differ": "カスタム名：サーバーと異なる",
         "sync_conflict_reenable_assignments_differ": "Assignment status: different on server",
-        "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+        "settings_sync_brief_description": "クラウド同期を使用すると、選択した情報をすべてのデバイス間で同期できます。同期が有効でない情報はこのデバイスのみに保存されます。"
     },
     "android": {
         "account_id_use_standard_keyboard": "標準キーボード",
@@ -863,6 +863,6 @@
         "settings_sync_data_section": "サーバーと共有されるデータ",
         "settings_sync_off_notifications_warning": "クロスデバイス同期がオフです。プッシュ通知と Live Updates は利用できません。",
         "settings_sync_toggle_label": "クロスデバイス同期を有効にする",
-        "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
+        "settings_sync_brief_description_ios": "クラウド同期でプッシュ通知の受信と情報の同期ができます。同期が有効でない情報もプッシュ通知のためにサーバーに送信されます。"
     }
 }

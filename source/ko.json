@@ -692,15 +692,15 @@
         "source_code_picker_section_repositories": "저장소",
         "sync_conflict_item_detail": "Local: %1$s → Server: %2$s",
         "sync_conflict_item_header": "%1$s: %2$s",
-        "sync_conflict_message": "Some items differ between this device and the server:",
-        "sync_conflict_status_completed": "Completed",
-        "sync_conflict_status_ignored": "Ignored",
-        "sync_conflict_status_none": "None",
-        "sync_conflict_title": "Sync Conflict",
-        "sync_conflict_use_local": "Use Local",
-        "sync_conflict_use_server": "Use Server",
-        "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
-        "sync_fdroid_unavailable_title": "Not available on F-Droid",
+        "sync_conflict_message": "이 기기와 서버 간에 일부 항목이 다릅니다:",
+        "sync_conflict_status_completed": "완료",
+        "sync_conflict_status_ignored": "무시됨",
+        "sync_conflict_status_none": "없음",
+        "sync_conflict_title": "동기화 충돌",
+        "sync_conflict_use_local": "로컬 사용",
+        "sync_conflict_use_server": "서버 사용",
+        "sync_fdroid_unavailable_body": "클라우드 동기화에는 Google Play 서비스가 필요하며 F-Droid 빌드에서는 사용할 수 없습니다.",
+        "sync_fdroid_unavailable_title": "F-Droid에서 사용 불가",
         "sync_success_content_description": "동기화 성공",
         "tab_editor_apply_action": "적용",
         "tab_editor_drag_reorder": "끌어서 순서 변경",
@@ -794,7 +794,7 @@
         "sync_conflict_reenable_colors_differ": "과목 색상: 서버와 다름",
         "sync_conflict_reenable_names_differ": "사용자 지정 이름: 서버와 다름",
         "sync_conflict_reenable_assignments_differ": "Assignment status: different on server",
-        "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+        "settings_sync_brief_description": "클라우드 동기화를 사용하면 모든 기기에서 선택한 정보를 동기화할 수 있습니다. 동기화가 활성화되지 않은 정보는 이 기기에만 남습니다."
     },
     "android": {
         "account_id_use_standard_keyboard": "표준 키보드",
@@ -863,6 +863,6 @@
         "settings_sync_data_section": "서버와 공유되는 데이터",
         "settings_sync_off_notifications_warning": "기기 간 동기화가 꺼져 있습니다. 푸시 알림과 Live Updates를 사용할 수 없습니다.",
         "settings_sync_toggle_label": "기기 간 동기화 활성화",
-        "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
+        "settings_sync_brief_description_ios": "클라우드 동기화로 푸시 알림을 받고 정보를 동기화할 수 있습니다. 동기화가 활성화되지 않은 정보도 푸시 알림을 위해 서버에 전송됩니다."
     }
 }

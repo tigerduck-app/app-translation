@@ -692,15 +692,15 @@
         "source_code_picker_section_repositories": "Repositories",
         "sync_conflict_item_detail": "Local: %1$s → Server: %2$s",
         "sync_conflict_item_header": "%1$s: %2$s",
-        "sync_conflict_message": "Some items differ between this device and the server:",
-        "sync_conflict_status_completed": "Completed",
-        "sync_conflict_status_ignored": "Ignored",
-        "sync_conflict_status_none": "None",
-        "sync_conflict_title": "Sync Conflict",
-        "sync_conflict_use_local": "Use Local",
-        "sync_conflict_use_server": "Use Server",
-        "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
-        "sync_fdroid_unavailable_title": "Not available on F-Droid",
+        "sync_conflict_message": "Einige Einträge unterscheiden sich zwischen diesem Gerät und dem Server:",
+        "sync_conflict_status_completed": "Erledigt",
+        "sync_conflict_status_ignored": "Ignoriert",
+        "sync_conflict_status_none": "Keine",
+        "sync_conflict_title": "Synchronisierungskonflikt",
+        "sync_conflict_use_local": "Lokal verwenden",
+        "sync_conflict_use_server": "Server verwenden",
+        "sync_fdroid_unavailable_body": "Cloud Sync erfordert Google Play-Dienste und ist im F-Droid-Build nicht verfügbar.",
+        "sync_fdroid_unavailable_title": "Auf F-Droid nicht verfügbar",
         "sync_success_content_description": "Synchronisierung erfolgreich",
         "tab_editor_apply_action": "Anwenden",
         "tab_editor_drag_reorder": "Ziehen, um neu anzuordnen",
@@ -794,7 +794,7 @@
         "sync_conflict_reenable_colors_differ": "Kursfarben: unterschiedlich auf dem Server",
         "sync_conflict_reenable_names_differ": "Eigene Namen: unterschiedlich auf dem Server",
         "sync_conflict_reenable_assignments_differ": "Assignment status: different on server",
-        "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+        "settings_sync_brief_description": "Mit Cloud Sync kannst du ausgewählte Daten auf allen Geräten synchronisieren, auf denen Cloud Sync aktiviert ist. Nicht aktivierte Daten bleiben nur auf diesem Gerät."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardtastatur",
@@ -863,6 +863,6 @@
         "settings_sync_data_section": "Mit dem Server geteilte Daten",
         "settings_sync_off_notifications_warning": "Geräteübergreifende Sync ist deaktiviert. Push-Benachrichtigungen und Live Updates sind nicht verfügbar.",
         "settings_sync_toggle_label": "Geräteübergreifende Synchronisierung aktivieren",
-        "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
+        "settings_sync_brief_description_ios": "Cloud Sync ermöglicht dir Push-Benachrichtigungen zu empfangen und Daten zwischen Geräten zu synchronisieren. Nicht synchronisierte Daten werden trotzdem für Push-Benachrichtigungen an den Server gesendet."
     }
 }

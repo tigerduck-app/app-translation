@@ -500,12 +500,12 @@
         "onboarding_skip_for_now": "Laktawan muna",
         "onboarding_start_button": "Simulan na gamitin ang TigerDuck",
         "onboarding_sync_description": "Pinapanatili ng Cloud Sync na naka-sync ang iyong mga kurso, assignment, at settings sa lahat ng iyong device. Maaari mong piliin nang eksakto kung ano ang isi-sync sa Cloud Sync settings.",
-        "onboarding_sync_not_shared_password": "Password is never uploaded",
+        "onboarding_sync_not_shared_password": "Hindi kailanman ina-upload ang password",
         "onboarding_sync_note": "Kapag naka-off ang sync, ang lahat ng data ay nananatili sa device na ito lamang. Gumagana nang lokal ang push notification para sa mga paalala sa takdang-aralin kahit walang Cloud Sync.",
-        "onboarding_sync_shared_assignments": "Assignment data",
-        "onboarding_sync_shared_courses": "Course data",
+        "onboarding_sync_shared_assignments": "Data ng mga gawain",
+        "onboarding_sync_shared_courses": "Data ng mga kurso",
         "onboarding_sync_shared_device_id": "Device ID",
-        "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
+        "onboarding_sync_shared_moodle_token": "Moodle token (naka-encrypt)",
         "onboarding_sync_shared_student_id": "Student ID",
         "onboarding_sync_title": "Cloud Sync",
         "onboarding_sync_toggle_label": "I-enable ang cloud sync",
@@ -692,15 +692,15 @@
         "source_code_picker_section_repositories": "Mga repository",
         "sync_conflict_item_detail": "Local: %1$s → Server: %2$s",
         "sync_conflict_item_header": "%1$s: %2$s",
-        "sync_conflict_message": "Some items differ between this device and the server:",
-        "sync_conflict_status_completed": "Completed",
-        "sync_conflict_status_ignored": "Ignored",
-        "sync_conflict_status_none": "None",
-        "sync_conflict_title": "Sync Conflict",
-        "sync_conflict_use_local": "Use Local",
-        "sync_conflict_use_server": "Use Server",
-        "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
-        "sync_fdroid_unavailable_title": "Not available on F-Droid",
+        "sync_conflict_message": "May mga item na magkaiba sa pagitan ng device na ito at ng server:",
+        "sync_conflict_status_completed": "Natapos",
+        "sync_conflict_status_ignored": "Hindi pinansin",
+        "sync_conflict_status_none": "Wala",
+        "sync_conflict_title": "Salungatan sa Sync",
+        "sync_conflict_use_local": "Gamitin ang Lokal",
+        "sync_conflict_use_server": "Gamitin ang Server",
+        "sync_fdroid_unavailable_body": "Ang Cloud Sync ay nangangailangan ng Google Play Services at hindi available sa F-Droid build.",
+        "sync_fdroid_unavailable_title": "Hindi available sa F-Droid",
         "sync_success_content_description": "Matagumpay na na-sync",
         "tab_editor_apply_action": "Mag-apply",
         "tab_editor_drag_reorder": "I-drag para muling ayusin",
@@ -794,7 +794,7 @@
         "sync_conflict_reenable_colors_differ": "Mga kulay ng kurso: iba sa server",
         "sync_conflict_reenable_names_differ": "Mga custom na pangalan: iba sa server",
         "sync_conflict_reenable_assignments_differ": "Assignment status: different on server",
-        "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+        "settings_sync_brief_description": "Pinapayagan ka ng Cloud Sync na i-sync ang iyong napiling impormasyon sa lahat ng device. Ang impormasyong hindi naka-enable ay mananatili lamang sa device na ito."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standard na keyboard",
@@ -863,6 +863,6 @@
         "settings_sync_data_section": "Data na ibinabahagi sa server",
         "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
         "settings_sync_toggle_label": "I-enable ang cross-device sync",
-        "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
+        "settings_sync_brief_description_ios": "Pinapayagan ka ng Cloud Sync na makatanggap ng push notification at i-sync ang impormasyon. Ang hindi naka-enable na impormasyon ay ipinapadala pa rin sa server para sa push notification."
     }
 }

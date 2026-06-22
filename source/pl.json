@@ -502,11 +502,11 @@
         "onboarding_sync_description": "Cloud Sync synchronizuje Twoje przedmioty, zadania i ustawienia na wszystkich Twoich urządzeniach. Możesz dokładnie wybrać, co synchronizować, w ustawieniach Cloud Sync.",
         "onboarding_sync_not_shared_password": "Hasło nigdy nie jest przesyłane",
         "onboarding_sync_note": "Gdy synchronizacja jest wyłączona, wszystkie dane pozostają tylko na tym urządzeniu. Powiadomienia push o przypomnieniach o zadaniach działają lokalnie bez Cloud Sync.",
-        "onboarding_sync_shared_assignments": "Assignment data",
-        "onboarding_sync_shared_courses": "Course data",
+        "onboarding_sync_shared_assignments": "Dane zadań",
+        "onboarding_sync_shared_courses": "Dane kursów",
         "onboarding_sync_shared_device_id": "Device ID",
-        "onboarding_sync_shared_moodle_token": "Moodle token (encrypted)",
-        "onboarding_sync_shared_student_id": "Student ID",
+        "onboarding_sync_shared_moodle_token": "Token Moodle (zaszyfrowany)",
+        "onboarding_sync_shared_student_id": "Numer studenta",
         "onboarding_sync_title": "Synchronizacja między urządzeniami",
         "onboarding_sync_toggle_label": "Włącz synchronizację",
         "onboarding_welcome_description": "TigerDuck to asystent kampusowy stworzony przez grupę studentów, by rozwiązać problemy rozproszonych zasobów, opóźnionych powiadomień i niewygodnych interfejsów. \nAplikacja działa wyłącznie dzięki dobrej woli twórców — jeśli zauważysz problemy, zgłoś je (odwiedź stronę poniżej, aby dołączyć do naszego Discorda lub wypełnić formularz opinii). Zapraszamy do pomocy w ulepszaniu aplikacji lub bezpośredniego udziału w jej rozwoju.",
@@ -692,15 +692,15 @@
         "source_code_picker_section_repositories": "Repozytoria",
         "sync_conflict_item_detail": "Local: %1$s → Server: %2$s",
         "sync_conflict_item_header": "%1$s: %2$s",
-        "sync_conflict_message": "Some items differ between this device and the server:",
-        "sync_conflict_status_completed": "Completed",
-        "sync_conflict_status_ignored": "Ignored",
-        "sync_conflict_status_none": "None",
-        "sync_conflict_title": "Sync Conflict",
-        "sync_conflict_use_local": "Use Local",
-        "sync_conflict_use_server": "Use Server",
-        "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
-        "sync_fdroid_unavailable_title": "Not available on F-Droid",
+        "sync_conflict_message": "Niektóre elementy różnią się między tym urządzeniem a serwerem:",
+        "sync_conflict_status_completed": "Ukończone",
+        "sync_conflict_status_ignored": "Zignorowane",
+        "sync_conflict_status_none": "Brak",
+        "sync_conflict_title": "Konflikt synchronizacji",
+        "sync_conflict_use_local": "Użyj lokalnych",
+        "sync_conflict_use_server": "Użyj serwera",
+        "sync_fdroid_unavailable_body": "Synchronizacja w chmurze wymaga usług Google Play i nie jest dostępna w wersji F-Droid.",
+        "sync_fdroid_unavailable_title": "Niedostępne na F-Droid",
         "sync_success_content_description": "Synchronizacja zakończona powodzeniem",
         "tab_editor_apply_action": "Zastosuj",
         "tab_editor_drag_reorder": "Przeciągnij, aby zmienić kolejność",
@@ -794,7 +794,7 @@
         "sync_conflict_reenable_colors_differ": "Kolory przedmiotów: różne na serwerze",
         "sync_conflict_reenable_names_differ": "Własne nazwy: różne na serwerze",
         "sync_conflict_reenable_assignments_differ": "Assignment status: different on server",
-        "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+        "settings_sync_brief_description": "Synchronizacja w chmurze umożliwia synchronizację wybranych informacji na wszystkich urządzeniach. Informacje bez synchronizacji pozostają tylko na tym urządzeniu."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standardowa klawiatura",
@@ -863,6 +863,6 @@
         "settings_sync_data_section": "Dane udostępniane serwerowi",
         "settings_sync_off_notifications_warning": "Cross-device sync is off. Push notifications and Live Updates are unavailable.",
         "settings_sync_toggle_label": "Włącz synchronizację między urządzeniami",
-        "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
+        "settings_sync_brief_description_ios": "Synchronizacja w chmurze umożliwia otrzymywanie powiadomień push i synchronizację informacji. Informacje bez synchronizacji są nadal wysyłane na serwer w celu powiadomień push."
     }
 }

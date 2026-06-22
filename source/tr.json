@@ -692,15 +692,15 @@
         "source_code_picker_section_repositories": "Depolar",
         "sync_conflict_item_detail": "Local: %1$s → Server: %2$s",
         "sync_conflict_item_header": "%1$s: %2$s",
-        "sync_conflict_message": "Some items differ between this device and the server:",
-        "sync_conflict_status_completed": "Completed",
-        "sync_conflict_status_ignored": "Ignored",
-        "sync_conflict_status_none": "None",
-        "sync_conflict_title": "Sync Conflict",
-        "sync_conflict_use_local": "Use Local",
-        "sync_conflict_use_server": "Use Server",
-        "sync_fdroid_unavailable_body": "Cloud Sync requires Google Play Services and is not available in the F-Droid build.",
-        "sync_fdroid_unavailable_title": "Not available on F-Droid",
+        "sync_conflict_message": "Bu cihaz ile sunucu arasında bazı öğeler farklı:",
+        "sync_conflict_status_completed": "Tamamlandı",
+        "sync_conflict_status_ignored": "Yok sayıldı",
+        "sync_conflict_status_none": "Yok",
+        "sync_conflict_title": "Senkronizasyon Çakışması",
+        "sync_conflict_use_local": "Yereli Kullan",
+        "sync_conflict_use_server": "Sunucuyu Kullan",
+        "sync_fdroid_unavailable_body": "Bulut Senkronizasyon, Google Play Hizmetleri gerektirir ve F-Droid sürümünde mevcut değildir.",
+        "sync_fdroid_unavailable_title": "F-Droid'de mevcut değil",
         "sync_success_content_description": "Eşitleme başarılı",
         "tab_editor_apply_action": "Uygula",
         "tab_editor_drag_reorder": "Sıralamak için sürükleyin",
@@ -794,7 +794,7 @@
         "sync_conflict_reenable_colors_differ": "Ders renkleri: sunucuda farklı",
         "sync_conflict_reenable_names_differ": "Özel adlar: sunucuda farklı",
         "sync_conflict_reenable_assignments_differ": "Assignment status: different on server",
-        "settings_sync_brief_description": "Cloud Sync lets you sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for Cloud Sync stays on this device only."
+        "settings_sync_brief_description": "Bulut Senkronizasyon, seçtiğiniz bilgileri tüm cihazlarınızda senkronize etmenizi sağlar. Etkinleştirilmemiş bilgiler yalnızca bu cihazda kalır."
     },
     "android": {
         "account_id_use_standard_keyboard": "Standart klavye",
@@ -863,6 +863,6 @@
         "settings_sync_data_section": "Sunucuyla paylaşılan veriler",
         "settings_sync_off_notifications_warning": "Cihazlar arası senkronizasyon kapalı. Push bildirimleri ve Canlı Güncellemeler kullanılamaz.",
         "settings_sync_toggle_label": "Cihazlar arası senkronizasyonu etkinleştir",
-        "settings_sync_brief_description_ios": "Cloud Sync lets you receive push notifications and sync your chosen information across all your devices that have Cloud Sync turned on. Information not enabled for sync is still sent to the server for push notification use."
+        "settings_sync_brief_description_ios": "Bulut Senkronizasyon, push bildirimleri almanızı ve bilgileri senkronize etmenizi sağlar. Etkinleştirilmemiş bilgiler push bildirimleri için yine de sunucuya gönderilir."
     }
 }
