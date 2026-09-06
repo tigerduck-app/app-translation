@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">ورود منقضی شده است. لطفاً دوباره وارد شوید.</string>
     <string name="score_gpa_cumulative_to">GPA تجمیعی تا %1$s</string>
     <string name="score_gpa_latest">آخرین GPA</string>
+    <string name="score_gpa_provisional">موقت</string>
     <string name="score_gpa_term_label">GPA ترم (%1$s)</string>
     <string name="score_gpa_trend_title">روند GPA</string>
     <string name="score_grade_exempted">معاف/معادل‌سازی</string>

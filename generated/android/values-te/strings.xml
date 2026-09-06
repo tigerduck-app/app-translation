@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">లాగిన్ గడువు మించింది. దయచేసి మళ్ళీ సైన్ ఇన్ చేయండి.</string>
     <string name="score_gpa_cumulative_to">%1$s వరకు సంచిత GPA</string>
     <string name="score_gpa_latest">తాజా GPA</string>
+    <string name="score_gpa_provisional">తాత్కాలికం</string>
     <string name="score_gpa_term_label">సెమెస్టర్ GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA ట్రెండ్</string>
     <string name="score_grade_exempted">మినహాయించారు</string>

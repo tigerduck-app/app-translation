@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Сеанс мерзімі аяқталды. Қайта кіріңіз.",
     "score_gpa_cumulative_to": "%1$s дейінгі жинақталған GPA",
     "score_gpa_latest": "Соңғы GPA",
+    "score_gpa_provisional": "Алдын ала",
     "score_gpa_term_label": "Семестр GPA (%1$s)",
     "score_gpa_trend_title": "GPA үрдісі",
     "score_grade_exempted": "Есептелді",

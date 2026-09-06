@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "लॉगिन कालबाह्य झाले. कृपया पुन्हा साइन इन करा.",
     "score_gpa_cumulative_to": "%1$s पर्यंत संचयी GPA",
     "score_gpa_latest": "सर्वात अलीकडील GPA",
+    "score_gpa_provisional": "तात्पुरते",
     "score_gpa_term_label": "सत्र GPA (%1$s)",
     "score_gpa_trend_title": "GPA ट्रेंड",
     "score_grade_exempted": "सूट दिली",

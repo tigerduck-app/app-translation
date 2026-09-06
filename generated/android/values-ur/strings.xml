@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">لاگ ان کی میعاد ختم ہو گئی۔ دوبارہ سائن ان کریں۔</string>
     <string name="score_gpa_cumulative_to">%1$s تک مجموعی GPA</string>
     <string name="score_gpa_latest">تازہ ترین GPA</string>
+    <string name="score_gpa_provisional">عارضی</string>
     <string name="score_gpa_term_label">سمیسٹر GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA ٹرینڈ</string>
     <string name="score_grade_exempted">معاف</string>

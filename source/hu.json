@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "A bejelentkezés lejárt. Kérjük, jelentkezzen be újra.",
     "score_gpa_cumulative_to": "Kumulatív GPA %1$s-ig",
     "score_gpa_latest": "Legújabb GPA",
+    "score_gpa_provisional": "Előzetes",
     "score_gpa_term_label": "Féléves GPA (%1$s)",
     "score_gpa_trend_title": "GPA trend",
     "score_grade_exempted": "Felmentett",

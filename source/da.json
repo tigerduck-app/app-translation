@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Login udløbet. Log venligst ind igen.",
     "score_gpa_cumulative_to": "Kumulativ GPA til %1$s",
     "score_gpa_latest": "Seneste GPA",
+    "score_gpa_provisional": "Foreløbig",
     "score_gpa_term_label": "Semester GPA (%1$s)",
     "score_gpa_trend_title": "GPA-trend",
     "score_grade_exempted": "Fritaget",

@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Prisijungimas baigė galioti. Prisijunkite iš naujo.</string>
     <string name="score_gpa_cumulative_to">Kaupiamasis GPA iki %1$s</string>
     <string name="score_gpa_latest">Naujausias GPA</string>
+    <string name="score_gpa_provisional">Preliminarus</string>
     <string name="score_gpa_term_label">Semestro GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA tendencija</string>
     <string name="score_grade_exempted">Atleista</string>

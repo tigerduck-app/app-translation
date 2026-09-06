@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Пријава је истекла. Пријавите се поново.</string>
     <string name="score_gpa_cumulative_to">Кумулативни GPA до %1$s</string>
     <string name="score_gpa_latest">Најновији GPA</string>
+    <string name="score_gpa_provisional">Привремено</string>
     <string name="score_gpa_term_label">GPA за семестар (%1$s)</string>
     <string name="score_gpa_trend_title">Тренд GPA</string>
     <string name="score_grade_exempted">Ослобођено</string>

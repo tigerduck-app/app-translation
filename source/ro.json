@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Sesiunea a expirat. Autentifică-te din nou.",
     "score_gpa_cumulative_to": "GPA cumulativ până la %1$s",
     "score_gpa_latest": "Ultimul GPA",
+    "score_gpa_provisional": "Provizoriu",
     "score_gpa_term_label": "GPA semestru (%1$s)",
     "score_gpa_trend_title": "Tendință GPA",
     "score_grade_exempted": "Scutit",

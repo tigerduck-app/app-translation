@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "انتهت صلاحية تسجيل الدخول. يرجى تسجيل الدخول مرة أخرى.",
     "score_gpa_cumulative_to": "GPA التراكمي حتى %1$s",
     "score_gpa_latest": "أحدث GPA",
+    "score_gpa_provisional": "مؤقت",
     "score_gpa_term_label": "GPA الفصلي (%1$s)",
     "score_gpa_trend_title": "اتجاه GPA",
     "score_grade_exempted": "معفى",

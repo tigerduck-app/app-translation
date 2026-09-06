@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Nag-expire na ang login. Mag-sign in muli po.</string>
     <string name="score_gpa_cumulative_to">Cumulative GPA hanggang %1$s</string>
     <string name="score_gpa_latest">Pinakabagong GPA</string>
+    <string name="score_gpa_provisional">Pansamantala</string>
     <string name="score_gpa_term_label">Semester GPA (%1$s)</string>
     <string name="score_gpa_trend_title">Trend ng GPA</string>
     <string name="score_grade_exempted">Na-exempt</string>

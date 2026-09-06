@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">ログインの有効期限が切れました。再度サインインしてください。</string>
     <string name="score_gpa_cumulative_to">累計 GPA（%1$s 時点）</string>
     <string name="score_gpa_latest">最新の GPA</string>
+    <string name="score_gpa_provisional">暫定</string>
     <string name="score_gpa_term_label">学期 GPA（%1$s）</string>
     <string name="score_gpa_trend_title">GPA の推移</string>
     <string name="score_grade_exempted">免除</string>

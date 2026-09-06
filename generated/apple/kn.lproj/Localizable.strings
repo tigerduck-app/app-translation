@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "ಲಾಗಿನ್ ಅವಧಿ ಮುಗಿದಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.";
 "score_gpa_cumulative_to" = "%1$@ ವರೆಗಿನ ಸಂಚಿತ GPA";
 "score_gpa_latest" = "ಇತ್ತೀಚಿನ GPA";
+"score_gpa_provisional" = "ತಾತ್ಕಾಲಿಕ";
 "score_gpa_term_label" = "ಸೆಮಿಸ್ಟರ್ GPA (%1$@)";
 "score_gpa_trend_title" = "GPA ಪ್ರವೃತ್ತಿ";
 "score_grade_exempted" = "ವಿನಾಯಿತಿ";

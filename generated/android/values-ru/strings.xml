@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Срок сессии истёк. Пожалуйста, войдите заново.</string>
     <string name="score_gpa_cumulative_to">Совокупный GPA до %1$s</string>
     <string name="score_gpa_latest">Последний GPA</string>
+    <string name="score_gpa_provisional">Предварительно</string>
     <string name="score_gpa_term_label">GPA за семестр (%1$s)</string>
     <string name="score_gpa_trend_title">Динамика GPA</string>
     <string name="score_grade_exempted">Зачтено</string>

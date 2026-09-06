@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "ਲੌਗਇਨ ਮਿਆਦ ਖਤਮ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।",
     "score_gpa_cumulative_to": "%1$s ਤੱਕ ਇਕੱਠਾ GPA",
     "score_gpa_latest": "ਤਾਜ਼ਾ GPA",
+    "score_gpa_provisional": "ਆਰਜ਼ੀ",
     "score_gpa_term_label": "ਸਮੈਸਟਰ GPA (%1$s)",
     "score_gpa_trend_title": "GPA ਰੁਝਾਨ",
     "score_grade_exempted": "ਛੋਟ",

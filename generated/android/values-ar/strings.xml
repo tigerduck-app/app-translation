@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">انتهت صلاحية تسجيل الدخول. يرجى تسجيل الدخول مرة أخرى.</string>
     <string name="score_gpa_cumulative_to">GPA التراكمي حتى %1$s</string>
     <string name="score_gpa_latest">أحدث GPA</string>
+    <string name="score_gpa_provisional">مؤقت</string>
     <string name="score_gpa_term_label">GPA الفصلي (%1$s)</string>
     <string name="score_gpa_trend_title">اتجاه GPA</string>
     <string name="score_grade_exempted">معفى</string>

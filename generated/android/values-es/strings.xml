@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Sesión expirada. Por favor, inicia sesión de nuevo.</string>
     <string name="score_gpa_cumulative_to">GPA acumulado hasta %1$s</string>
     <string name="score_gpa_latest">GPA más reciente</string>
+    <string name="score_gpa_provisional">Provisional</string>
     <string name="score_gpa_term_label">GPA del semestre (%1$s)</string>
     <string name="score_gpa_trend_title">Tendencia del GPA</string>
     <string name="score_grade_exempted">Exento</string>

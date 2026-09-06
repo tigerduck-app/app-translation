@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">લૉગ ઇન એક્સ્પાયર. કૃપા ફરી સાઇન ઇન કરો.</string>
     <string name="score_gpa_cumulative_to">%1$s સુધીનો સંચિત GPA</string>
     <string name="score_gpa_latest">સૌથી નવો GPA</string>
+    <string name="score_gpa_provisional">કામચલાઉ</string>
     <string name="score_gpa_term_label">સેમેસ્ટર GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA ટ્રેન્ડ</string>
     <string name="score_grade_exempted">માફ</string>

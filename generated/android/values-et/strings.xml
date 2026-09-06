@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Sisselogimine aegus. Logige uuesti sisse.</string>
     <string name="score_gpa_cumulative_to">Kumulatiivne GPA kuni %1$s</string>
     <string name="score_gpa_latest">Viimane GPA</string>
+    <string name="score_gpa_provisional">Esialgne</string>
     <string name="score_gpa_term_label">Semestri GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA trend</string>
     <string name="score_grade_exempted">Vabastatud</string>

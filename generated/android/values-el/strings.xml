@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Η σύνδεση έληξε. Παρακαλώ συνδεθείτε ξανά.</string>
     <string name="score_gpa_cumulative_to">Αθροιστικό GPA έως %1$s</string>
     <string name="score_gpa_latest">Τελευταίο GPA</string>
+    <string name="score_gpa_provisional">Προσωρινό</string>
     <string name="score_gpa_term_label">GPA εξαμήνου (%1$s)</string>
     <string name="score_gpa_trend_title">Τάση GPA</string>
     <string name="score_grade_exempted">Απαλλαγή</string>

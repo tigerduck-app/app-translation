@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">लॉगिन समाप्त हो गया। कृपया फिर से साइन इन करें।</string>
     <string name="score_gpa_cumulative_to">%1$s तक संचयी GPA</string>
     <string name="score_gpa_latest">नवीनतम GPA</string>
+    <string name="score_gpa_provisional">अस्थायी</string>
     <string name="score_gpa_term_label">सेमेस्टर GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA ट्रेंड</string>
     <string name="score_grade_exempted">छूट</string>

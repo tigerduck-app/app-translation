@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Sesión expirada. Por favor, inicia sesión de nuevo.",
     "score_gpa_cumulative_to": "GPA acumulado hasta %1$s",
     "score_gpa_latest": "GPA más reciente",
+    "score_gpa_provisional": "Provisional",
     "score_gpa_term_label": "GPA del semestre (%1$s)",
     "score_gpa_trend_title": "Tendencia del GPA",
     "score_grade_exempted": "Exento",

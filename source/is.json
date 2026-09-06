@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Innskráning rann út. Skráðu þig inn aftur.",
     "score_gpa_cumulative_to": "Uppsafnað GPA til %1$s",
     "score_gpa_latest": "Nýjasta GPA",
+    "score_gpa_provisional": "Bráðabirgða",
     "score_gpa_term_label": "GPA misseris (%1$s)",
     "score_gpa_trend_title": "GPA þróun",
     "score_grade_exempted": "Undanþegin/n",

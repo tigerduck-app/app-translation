@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "Prihlásenie vypršalo. Prihláste sa prosím znova.";
 "score_gpa_cumulative_to" = "Kumulatívne GPA do %1$@";
 "score_gpa_latest" = "Najnovší GPA";
+"score_gpa_provisional" = "Predbežne";
 "score_gpa_term_label" = "GPA za semester (%1$@)";
 "score_gpa_trend_title" = "Trend GPA";
 "score_grade_exempted" = "Uznaný";

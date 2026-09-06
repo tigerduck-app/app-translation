@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "A sessão expirou. Inicia sessão novamente.";
 "score_gpa_cumulative_to" = "GPA cumulativo até %1$@";
 "score_gpa_latest" = "GPA mais recente";
+"score_gpa_provisional" = "Provisório";
 "score_gpa_term_label" = "GPA do semestre (%1$@)";
 "score_gpa_trend_title" = "Evolução do GPA";
 "score_grade_exempted" = "Dispensada";

@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "లాగిన్ గడువు మించింది. దయచేసి మళ్ళీ సైన్ ఇన్ చేయండి.",
     "score_gpa_cumulative_to": "%1$s వరకు సంచిత GPA",
     "score_gpa_latest": "తాజా GPA",
+    "score_gpa_provisional": "తాత్కాలికం",
     "score_gpa_term_label": "సెమెస్టర్ GPA (%1$s)",
     "score_gpa_trend_title": "GPA ట్రెండ్",
     "score_grade_exempted": "మినహాయించారు",

@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Oturum süresi doldu. Lütfen tekrar giriş yapın.</string>
     <string name="score_gpa_cumulative_to">%1$s tarihine kadar kümülatif GPA</string>
     <string name="score_gpa_latest">En son GPA</string>
+    <string name="score_gpa_provisional">Geçici</string>
     <string name="score_gpa_term_label">Dönem GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA eğilimi</string>
     <string name="score_grade_exempted">Muaf</string>

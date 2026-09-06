@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "การเข้าสู่ระบบหมดอายุ กรุณาเข้าสู่ระบบใหม่",
     "score_gpa_cumulative_to": "GPA สะสมถึง %1$s",
     "score_gpa_latest": "GPA ล่าสุด",
+    "score_gpa_provisional": "ชั่วคราว",
     "score_gpa_term_label": "GPA ภาคการศึกษา (%1$s)",
     "score_gpa_trend_title": "แนวโน้ม GPA",
     "score_grade_exempted": "ได้รับการยกเว้น",

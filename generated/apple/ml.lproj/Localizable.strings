@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "ലോഗിൻ കാലഹരണപ്പെട്ടു. വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.";
 "score_gpa_cumulative_to" = "%1$@ വരെ ക്യുമുലേറ്റീവ് GPA";
 "score_gpa_latest" = "ഏറ്റവും പുതിയ GPA";
+"score_gpa_provisional" = "താൽക്കാലികം";
 "score_gpa_term_label" = "സെമസ്റ്റർ GPA (%1$@)";
 "score_gpa_trend_title" = "GPA ട്രെൻഡ്";
 "score_grade_exempted" = "ഒഴിവാക്കപ്പെട്ടു";

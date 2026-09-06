@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Kirjautuminen vanhentunut. Kirjaudu uudelleen.</string>
     <string name="score_gpa_cumulative_to">Kumulatiivinen GPA %1$s asti</string>
     <string name="score_gpa_latest">Viimeisin GPA</string>
+    <string name="score_gpa_provisional">Alustava</string>
     <string name="score_gpa_term_label">Lukukauden GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA-kehitys</string>
     <string name="score_grade_exempted">Hyväksiluku</string>

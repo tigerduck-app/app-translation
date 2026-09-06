@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Сеанс минув. Будь ласка, увійдіть знову.",
     "score_gpa_cumulative_to": "Накопичений GPA до %1$s",
     "score_gpa_latest": "Останній GPA",
+    "score_gpa_provisional": "Попередньо",
     "score_gpa_term_label": "Семестровий GPA (%1$s)",
     "score_gpa_trend_title": "Тенденція GPA",
     "score_grade_exempted": "Звільнено",

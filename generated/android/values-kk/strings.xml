@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Сеанс мерзімі аяқталды. Қайта кіріңіз.</string>
     <string name="score_gpa_cumulative_to">%1$s дейінгі жинақталған GPA</string>
     <string name="score_gpa_latest">Соңғы GPA</string>
+    <string name="score_gpa_provisional">Алдын ала</string>
     <string name="score_gpa_term_label">Семестр GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA үрдісі</string>
     <string name="score_grade_exempted">Есептелді</string>

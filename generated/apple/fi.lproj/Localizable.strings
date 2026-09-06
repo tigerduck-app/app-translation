@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "Kirjautuminen vanhentunut. Kirjaudu uudelleen.";
 "score_gpa_cumulative_to" = "Kumulatiivinen GPA %1$@ asti";
 "score_gpa_latest" = "Viimeisin GPA";
+"score_gpa_provisional" = "Alustava";
 "score_gpa_term_label" = "Lukukauden GPA (%1$@)";
 "score_gpa_trend_title" = "GPA-kehitys";
 "score_grade_exempted" = "Hyväksiluku";

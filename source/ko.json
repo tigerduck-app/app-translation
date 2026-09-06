@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "로그인이 만료되었습니다. 다시 로그인해 주세요.",
     "score_gpa_cumulative_to": "%1$s까지의 누적 GPA",
     "score_gpa_latest": "최신 GPA",
+    "score_gpa_provisional": "잠정",
     "score_gpa_term_label": "학기 GPA (%1$s)",
     "score_gpa_trend_title": "GPA 추세",
     "score_grade_exempted": "면제",

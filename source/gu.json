@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "લૉગ ઇન એક્સ્પાયર. કૃપા ફરી સાઇન ઇન કરો.",
     "score_gpa_cumulative_to": "%1$s સુધીનો સંચિત GPA",
     "score_gpa_latest": "સૌથી નવો GPA",
+    "score_gpa_provisional": "કામચલાઉ",
     "score_gpa_term_label": "સેમેસ્ટર GPA (%1$s)",
     "score_gpa_trend_title": "GPA ટ્રેન્ડ",
     "score_grade_exempted": "માફ",

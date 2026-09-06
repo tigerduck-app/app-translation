@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Sesiunea a expirat. Autentifică-te din nou.</string>
     <string name="score_gpa_cumulative_to">GPA cumulativ până la %1$s</string>
     <string name="score_gpa_latest">Ultimul GPA</string>
+    <string name="score_gpa_provisional">Provizoriu</string>
     <string name="score_gpa_term_label">GPA semestru (%1$s)</string>
     <string name="score_gpa_trend_title">Tendință GPA</string>
     <string name="score_grade_exempted">Scutit</string>

@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Η σύνδεση έληξε. Παρακαλώ συνδεθείτε ξανά.",
     "score_gpa_cumulative_to": "Αθροιστικό GPA έως %1$s",
     "score_gpa_latest": "Τελευταίο GPA",
+    "score_gpa_provisional": "Προσωρινό",
     "score_gpa_term_label": "GPA εξαμήνου (%1$s)",
     "score_gpa_trend_title": "Τάση GPA",
     "score_grade_exempted": "Απαλλαγή",

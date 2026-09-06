@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">การเข้าสู่ระบบหมดอายุ กรุณาเข้าสู่ระบบใหม่</string>
     <string name="score_gpa_cumulative_to">GPA สะสมถึง %1$s</string>
     <string name="score_gpa_latest">GPA ล่าสุด</string>
+    <string name="score_gpa_provisional">ชั่วคราว</string>
     <string name="score_gpa_term_label">GPA ภาคการศึกษา (%1$s)</string>
     <string name="score_gpa_trend_title">แนวโน้ม GPA</string>
     <string name="score_grade_exempted">ได้รับการยกเว้น</string>

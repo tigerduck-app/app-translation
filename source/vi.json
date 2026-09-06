@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.",
     "score_gpa_cumulative_to": "GPA tích lũy đến %1$s",
     "score_gpa_latest": "GPA mới nhất",
+    "score_gpa_provisional": "Tạm tính",
     "score_gpa_term_label": "GPA học kỳ (%1$s)",
     "score_gpa_trend_title": "Xu hướng GPA",
     "score_grade_exempted": "Miễn",

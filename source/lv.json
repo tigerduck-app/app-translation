@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Pieteikšanās ir beigusies. Lūdzu, piesakieties vēlreiz.",
     "score_gpa_cumulative_to": "Kumulatīvais GPA līdz %1$s",
     "score_gpa_latest": "Jaunākais GPA",
+    "score_gpa_provisional": "Provizoriski",
     "score_gpa_term_label": "Semestra GPA (%1$s)",
     "score_gpa_trend_title": "GPA tendence",
     "score_grade_exempted": "Atbrīvots",

@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "הכניסה פגה. אנא התחבר שוב.";
 "score_gpa_cumulative_to" = "GPA מצטבר עד %1$@";
 "score_gpa_latest" = "GPA עדכני";
+"score_gpa_provisional" = "זמני";
 "score_gpa_term_label" = "GPA סמסטר (%1$@)";
 "score_gpa_trend_title" = "מגמת GPA";
 "score_grade_exempted" = "פטור";

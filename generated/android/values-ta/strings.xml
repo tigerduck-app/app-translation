@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">உள்நுழைவு காலாவதியானது. மீண்டும் உள்நுழையவும்.</string>
     <string name="score_gpa_cumulative_to">%1$s வரை ஒட்டுமொத்த GPA</string>
     <string name="score_gpa_latest">சமீபத்திய GPA</string>
+    <string name="score_gpa_provisional">தற்காலிகம்</string>
     <string name="score_gpa_term_label">பருவ GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA போக்கு</string>
     <string name="score_grade_exempted">விலக்கு அளிக்கப்பட்டது</string>

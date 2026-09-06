@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "Nag-expire na ang login. Mag-sign in muli po.";
 "score_gpa_cumulative_to" = "Cumulative GPA hanggang %1$@";
 "score_gpa_latest" = "Pinakabagong GPA";
+"score_gpa_provisional" = "Pansamantala";
 "score_gpa_term_label" = "Semester GPA (%1$@)";
 "score_gpa_trend_title" = "Trend ng GPA";
 "score_grade_exempted" = "Na-exempt";

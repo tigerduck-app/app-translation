@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Přihlášení vypršelo. Přihlaste se prosím znovu.</string>
     <string name="score_gpa_cumulative_to">Kumulativní GPA k %1$s</string>
     <string name="score_gpa_latest">Nejnovější GPA</string>
+    <string name="score_gpa_provisional">Předběžně</string>
     <string name="score_gpa_term_label">Semestrální GPA (%1$s)</string>
     <string name="score_gpa_trend_title">Vývoj GPA</string>
     <string name="score_grade_exempted">Uznáno</string>

@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "Log masuk tamat tempoh. Sila log masuk semula.";
 "score_gpa_cumulative_to" = "GPA kumulatif hingga %1$@";
 "score_gpa_latest" = "GPA terkini";
+"score_gpa_provisional" = "Sementara";
 "score_gpa_term_label" = "GPA semester (%1$@)";
 "score_gpa_trend_title" = "Trend GPA";
 "score_grade_exempted" = "Dikecualikan";

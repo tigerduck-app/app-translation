@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "ورود منقضی شده است. لطفاً دوباره وارد شوید.",
     "score_gpa_cumulative_to": "GPA تجمیعی تا %1$s",
     "score_gpa_latest": "آخرین GPA",
+    "score_gpa_provisional": "موقت",
     "score_gpa_term_label": "GPA ترم (%1$s)",
     "score_gpa_trend_title": "روند GPA",
     "score_grade_exempted": "معاف/معادل‌سازی",

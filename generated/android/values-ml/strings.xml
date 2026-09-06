@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">ലോഗിൻ കാലഹരണപ്പെട്ടു. വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.</string>
     <string name="score_gpa_cumulative_to">%1$s വരെ ക്യുമുലേറ്റീവ് GPA</string>
     <string name="score_gpa_latest">ഏറ്റവും പുതിയ GPA</string>
+    <string name="score_gpa_provisional">താൽക്കാലികം</string>
     <string name="score_gpa_term_label">സെമസ്റ്റർ GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA ട്രെൻഡ്</string>
     <string name="score_grade_exempted">ഒഴിവാക്കപ്പെട്ടു</string>

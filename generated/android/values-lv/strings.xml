@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Pieteikšanās ir beigusies. Lūdzu, piesakieties vēlreiz.</string>
     <string name="score_gpa_cumulative_to">Kumulatīvais GPA līdz %1$s</string>
     <string name="score_gpa_latest">Jaunākais GPA</string>
+    <string name="score_gpa_provisional">Provizoriski</string>
     <string name="score_gpa_term_label">Semestra GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA tendence</string>
     <string name="score_grade_exempted">Atbrīvots</string>

@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Срок сессии истёк. Пожалуйста, войдите заново.",
     "score_gpa_cumulative_to": "Совокупный GPA до %1$s",
     "score_gpa_latest": "Последний GPA",
+    "score_gpa_provisional": "Предварительно",
     "score_gpa_term_label": "GPA за семестр (%1$s)",
     "score_gpa_trend_title": "Динамика GPA",
     "score_grade_exempted": "Зачтено",

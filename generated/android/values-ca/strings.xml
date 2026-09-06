@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">La sessió ha caducat. Torneu a iniciar la sessió.</string>
     <string name="score_gpa_cumulative_to">GPA acumulat fins a %1$s</string>
     <string name="score_gpa_latest">Darrer GPA</string>
+    <string name="score_gpa_provisional">Provisional</string>
     <string name="score_gpa_term_label">GPA del semestre (%1$s)</string>
     <string name="score_gpa_trend_title">Tendència del GPA</string>
     <string name="score_grade_exempted">Exempt</string>

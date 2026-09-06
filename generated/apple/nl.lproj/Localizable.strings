@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "Inlogsessie verlopen. Log opnieuw in.";
 "score_gpa_cumulative_to" = "Cumulatief GPA tot %1$@";
 "score_gpa_latest" = "Laatste GPA";
+"score_gpa_provisional" = "Voorlopig";
 "score_gpa_term_label" = "Semester GPA (%1$@)";
 "score_gpa_trend_title" = "GPA-trend";
 "score_grade_exempted" = "Vrijgesteld";

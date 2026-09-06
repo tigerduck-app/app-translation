@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Přihlášení vypršelo. Přihlaste se prosím znovu.",
     "score_gpa_cumulative_to": "Kumulativní GPA k %1$s",
     "score_gpa_latest": "Nejnovější GPA",
+    "score_gpa_provisional": "Předběžně",
     "score_gpa_term_label": "Semestrální GPA (%1$s)",
     "score_gpa_trend_title": "Vývoj GPA",
     "score_grade_exempted": "Uznáno",

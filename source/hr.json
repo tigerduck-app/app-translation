@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "Prijava je istekla. Molimo prijavite se ponovo.",
     "score_gpa_cumulative_to": "Kumulativni GPA do %1$s",
     "score_gpa_latest": "Najnoviji GPA",
+    "score_gpa_provisional": "Privremeno",
     "score_gpa_term_label": "GPA za semestar (%1$s)",
     "score_gpa_trend_title": "Trend GPA",
     "score_grade_exempted": "Oslobođeno",

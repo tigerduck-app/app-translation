@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">登入已失效，請重新登入。</string>
     <string name="score_gpa_cumulative_to">累積 GPA（截至 %1$s）</string>
     <string name="score_gpa_latest">最新 GPA</string>
+    <string name="score_gpa_provisional">暫定</string>
     <string name="score_gpa_term_label">學期 GPA（%1$s）</string>
     <string name="score_gpa_trend_title">GPA 趨勢</string>
     <string name="score_grade_exempted">抵免</string>

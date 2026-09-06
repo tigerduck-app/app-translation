@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Sesi login berakhir. Silakan masuk kembali.</string>
     <string name="score_gpa_cumulative_to">GPA kumulatif hingga %1$s</string>
     <string name="score_gpa_latest">GPA terbaru</string>
+    <string name="score_gpa_provisional">Sementara</string>
     <string name="score_gpa_term_label">GPA semester (%1$s)</string>
     <string name="score_gpa_trend_title">Tren GPA</string>
     <string name="score_grade_exempted">Dikecualikan</string>

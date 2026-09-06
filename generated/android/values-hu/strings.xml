@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">A bejelentkezés lejárt. Kérjük, jelentkezzen be újra.</string>
     <string name="score_gpa_cumulative_to">Kumulatív GPA %1$s-ig</string>
     <string name="score_gpa_latest">Legújabb GPA</string>
+    <string name="score_gpa_provisional">Előzetes</string>
     <string name="score_gpa_term_label">Féléves GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA trend</string>
     <string name="score_grade_exempted">Felmentett</string>

@@ -573,6 +573,7 @@
     "score_error_sign_in_expired": "لاگ ان کی میعاد ختم ہو گئی۔ دوبارہ سائن ان کریں۔",
     "score_gpa_cumulative_to": "%1$s تک مجموعی GPA",
     "score_gpa_latest": "تازہ ترین GPA",
+    "score_gpa_provisional": "عارضی",
     "score_gpa_term_label": "سمیسٹر GPA (%1$s)",
     "score_gpa_trend_title": "GPA ٹرینڈ",
     "score_grade_exempted": "معاف",

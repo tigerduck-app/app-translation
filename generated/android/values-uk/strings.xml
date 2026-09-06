@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Сеанс минув. Будь ласка, увійдіть знову.</string>
     <string name="score_gpa_cumulative_to">Накопичений GPA до %1$s</string>
     <string name="score_gpa_latest">Останній GPA</string>
+    <string name="score_gpa_provisional">Попередньо</string>
     <string name="score_gpa_term_label">Семестровий GPA (%1$s)</string>
     <string name="score_gpa_trend_title">Тенденція GPA</string>
     <string name="score_grade_exempted">Звільнено</string>

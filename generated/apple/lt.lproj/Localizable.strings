@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "Prisijungimas baigė galioti. Prisijunkite iš naujo.";
 "score_gpa_cumulative_to" = "Kaupiamasis GPA iki %1$@";
 "score_gpa_latest" = "Naujausias GPA";
+"score_gpa_provisional" = "Preliminarus";
 "score_gpa_term_label" = "Semestro GPA (%1$@)";
 "score_gpa_trend_title" = "GPA tendencija";
 "score_grade_exempted" = "Atleista";

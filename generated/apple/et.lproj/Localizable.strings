@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "Sisselogimine aegus. Logige uuesti sisse.";
 "score_gpa_cumulative_to" = "Kumulatiivne GPA kuni %1$@";
 "score_gpa_latest" = "Viimane GPA";
+"score_gpa_provisional" = "Esialgne";
 "score_gpa_term_label" = "Semestri GPA (%1$@)";
 "score_gpa_trend_title" = "GPA trend";
 "score_grade_exempted" = "Vabastatud";

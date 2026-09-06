@@ -590,6 +590,7 @@
 "score_error_sign_in_expired" = "লগইন মেয়াদ শেষ। আবার সাইন ইন করুন।";
 "score_gpa_cumulative_to" = "%1$@ পর্যন্ত সঞ্চিত GPA";
 "score_gpa_latest" = "সর্বশেষ GPA";
+"score_gpa_provisional" = "অস্থায়ী";
 "score_gpa_term_label" = "সেমিস্টার GPA (%1$@)";
 "score_gpa_trend_title" = "GPA প্রবণতা";
 "score_grade_exempted" = "ছাড় দেওয়া হয়েছে";

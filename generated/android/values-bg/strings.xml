@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Сесията е изтекла. Моля, влезте отново.</string>
     <string name="score_gpa_cumulative_to">Кумулативен GPA до %1$s</string>
     <string name="score_gpa_latest">Последен GPA</string>
+    <string name="score_gpa_provisional">Предварително</string>
     <string name="score_gpa_term_label">GPA за семестър (%1$s)</string>
     <string name="score_gpa_trend_title">Тенденция на GPA</string>
     <string name="score_grade_exempted">Освободен</string>

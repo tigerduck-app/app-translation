@@ -611,6 +611,7 @@
     <string name="score_error_sign_in_expired">Inloggningen har gått ut. Logga in igen.</string>
     <string name="score_gpa_cumulative_to">Kumulativt GPA till %1$s</string>
     <string name="score_gpa_latest">Senaste GPA</string>
+    <string name="score_gpa_provisional">Preliminär</string>
     <string name="score_gpa_term_label">Terminens GPA (%1$s)</string>
     <string name="score_gpa_trend_title">GPA-trend</string>
     <string name="score_grade_exempted">Tillgodoräknad</string>
