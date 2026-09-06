@@ -693,7 +693,7 @@
     <string name="settings_official_website">Ametlik veebisait</string>
     <string name="settings_open_source_licenses">Avatud lähtekoodiga litsentsid</string>
     <string name="settings_privacy_policy">Privaatsuspoliitika</string>
-    <string name="settings_push_server_nav_label">Serveri tõuge (eksperimentaalne)</string>
+    <string name="settings_push_server_nav_label">Serveri tõuge</string>
     <string name="settings_remember_bulletin_filter">Pidage meeles bülletäänide filtreid</string>
     <string name="settings_reset_course_colors">Määra kursuste värvid uuesti</string>
     <string name="settings_reset_course_colors_confirm_message">Iga kursus saab uue ainulaadse värvi — kõigepealt eelmääratud paletist, seejärel juhuslikult, kui palett on otsas.</string>

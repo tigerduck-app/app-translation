@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "লাইভ অ্যাক্টিভিটি বিজ্ঞপ্তিতে বর্তমান ক্লাস ও কাউন্টডাউন দেখায়। \"ক্লাসে আছেন\" ও \"ক্লাস শুরু হতে চলেছে\" শুধুমাত্র অ্যাপ খোলা থাকলে রিয়েল-টাইমে আপডেট হয়; \"অ্যাসাইনমেন্ট সতর্কতা\" অ্যাপ বন্ধ থাকলেও সময়মতো সতর্ক করতে পারে।";
 "live_activity_settings_enable" = "লাইভ অ্যাক্টিভিটি চালু করুন";
 "live_activity_settings_enable_toggle" = "লাইভ অ্যাক্টিভিটি চালু করুন";
-"live_activity_settings_footer" = "লক স্ক্রিন বা ডায়নামিক আইল্যান্ডে বর্তমান ক্লাস ও অ্যাসাইনমেন্ট দেখায়। লাইভ আপডেটের জন্য অ্যাপটি খোলা থাকতে হবে।";
+"live_activity_settings_footer" = "লক স্ক্রিন বা ডায়নামিক আইল্যান্ডে বর্তমান ক্লাস ও অ্যাসাইনমেন্ট দেখায়।";
 "live_activity_settings_hours_label" = "%1$d ঘণ্টা";
 "live_activity_settings_hours_minutes_label" = "%1$d ঘণ্টা %2$d মিনিট";
 "live_activity_settings_hours_unit" = "ঘণ্টা";
 "live_activity_settings_lock_screen_hint" = "বন্ধ থাকলে লক স্ক্রিনে শুধু \"বিজ্ঞপ্তি লুকানো\" এর মতো প্লেসহোল্ডার টেক্সট দেখাবে। চালু করার পরেও কাজ না করলে সিস্টেম সেটিংসে এই বিজ্ঞপ্তি ধরনটি লক স্ক্রিনে দেখানোর অনুমতি দিন।";
 "live_activity_settings_minutes_label" = "%1$d মিনিট";
 "live_activity_settings_minutes_unit" = "মিনিট";
-"live_activity_settings_nav_title" = "লাইভ অ্যাক্টিভিটি (পরীক্ষামূলক)";
+"live_activity_settings_nav_title" = "লাইভ অ্যাক্টিভিটি";
 "live_activity_settings_range_hours" = "পরিসর: %1$d – %2$d ঘণ্টা";
 "live_activity_settings_range_min_to_hours" = "পরিসর: %1$d মিনিট – %2$d ঘণ্টা";
 "live_activity_settings_range_minutes" = "পরিসর: %1$d – %2$d মিনিট";
@@ -673,7 +673,7 @@
 "settings_official_website" = "অফিসিয়াল ওয়েবসাইট";
 "settings_open_source_licenses" = "ওপেন-সোর্স লাইসেন্স";
 "settings_privacy_policy" = "গোপনীয়তা নীতি";
-"settings_push_server_nav_label" = "সার্ভার পুশ (পরীক্ষামূলক)";
+"settings_push_server_nav_label" = "সার্ভার পুশ";
 "settings_remember_bulletin_filter" = "বুলেটিন ফিল্টার মনে রাখবেন";
 "settings_reset_course_colors" = "কোর্স রঙ পুনরায় বরাদ্দ করুন";
 "settings_reset_course_colors_confirm_message" = "প্রতিটি কোর্সকে একটি নতুন এবং অনন্য রঙ দেওয়া হবে — প্রথমে প্রিসেট প্যালেট থেকে, প্যালেট ফুরিয়ে গেলে এলোমেলোভাবে।";

@@ -693,7 +693,7 @@
     <string name="settings_official_website">અધિકૃત વેબસાઇટ</string>
     <string name="settings_open_source_licenses">ઓપન-સોર્સ લાઇસન્સ</string>
     <string name="settings_privacy_policy">ગોપનીયતા નીતિ</string>
-    <string name="settings_push_server_nav_label">સર્વર પુશ (પ્રાયોગિક)</string>
+    <string name="settings_push_server_nav_label">સર્વર પુશ</string>
     <string name="settings_remember_bulletin_filter">બુલેટિન ફિલ્ટર્સ યાદ રાખો</string>
     <string name="settings_reset_course_colors">કોર્સ રંગો ફરી ફાળવો</string>
     <string name="settings_reset_course_colors_confirm_message">દરેક કોર્સને નવો, અનન્ય રંગ સોંપાશે — પ્રથમ પ્રીસેટ પૅલેટ માંથી, પૅલેટ સમાપ્ત થયા પછી રેન્ડમ.</string>

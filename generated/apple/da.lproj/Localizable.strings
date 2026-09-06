@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Live-aktivitet viser den aktuelle undervisning og nedtælling i notifikationer. \"I undervisning\" og \"Undervisning begynder snart\" opdateres i realtid kun mens appen er åben; \"Opgaveadvarsel\" kan stadig give besked til tiden, når appen er lukket.";
 "live_activity_settings_enable" = "Aktivér live-aktivitet";
 "live_activity_settings_enable_toggle" = "Aktivér Live-aktivitet";
-"live_activity_settings_footer" = "Viser den aktuelle time og opgaver på låseskærmen eller Dynamic Island. Appen skal være åben for liveopdateringer.";
+"live_activity_settings_footer" = "Viser den aktuelle time og opgaver på låseskærmen eller Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d t";
 "live_activity_settings_hours_minutes_label" = "%1$d t %2$d min";
 "live_activity_settings_hours_unit" = "Timer";
 "live_activity_settings_lock_screen_hint" = "Når deaktiveret viser låseskærmen kun pladsholdertekst som \"Notifikation skjult\". Hvis aktivering stadig ikke har nogen effekt, skal du tillade denne notifikationstype på låseskærmen i systemindstillingerne.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minutter";
-"live_activity_settings_nav_title" = "Live-aktivitet (eksperimentel)";
+"live_activity_settings_nav_title" = "Live-aktivitet";
 "live_activity_settings_range_hours" = "Interval: %1$d – %2$d timer";
 "live_activity_settings_range_min_to_hours" = "Interval: %1$d min – %2$d timer";
 "live_activity_settings_range_minutes" = "Interval: %1$d – %2$d minutter";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Officiel hjemmeside";
 "settings_open_source_licenses" = "Open source-licenser";
 "settings_privacy_policy" = "Privatlivspolitik";
-"settings_push_server_nav_label" = "Server push (eksperimentel)";
+"settings_push_server_nav_label" = "Server push";
 "settings_remember_bulletin_filter" = "Husk bulletinfiltre";
 "settings_reset_course_colors" = "Tildel kursusfarver igen";
 "settings_reset_course_colors_confirm_message" = "Hvert kursus får en ny, unik farve — først fra paletten med forudindstillinger, derefter tilfældigt, når paletten er opbrugt.";

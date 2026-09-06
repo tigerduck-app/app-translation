@@ -693,7 +693,7 @@
     <string name="settings_official_website">Sito web ufficiale</string>
     <string name="settings_open_source_licenses">Licenze open source</string>
     <string name="settings_privacy_policy">Informativa sulla privacy</string>
-    <string name="settings_push_server_nav_label">Push server (Sperimentale)</string>
+    <string name="settings_push_server_nav_label">Push server</string>
     <string name="settings_remember_bulletin_filter">Ricorda i filtri del bollettino</string>
     <string name="settings_reset_course_colors">Riassegna i colori dei corsi</string>
     <string name="settings_reset_course_colors_confirm_message">Ogni corso riceverà un colore nuovo e univoco — prima dalla tavolozza preimpostata, poi in modo casuale una volta esaurita.</string>

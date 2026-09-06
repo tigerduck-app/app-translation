@@ -693,7 +693,7 @@
     <string name="settings_official_website">وب‌سایت رسمی</string>
     <string name="settings_open_source_licenses">مجوزهای متن‌باز</string>
     <string name="settings_privacy_policy">سیاست حریم خصوصی</string>
-    <string name="settings_push_server_nav_label">فشار سرور (تجربی)</string>
+    <string name="settings_push_server_nav_label">فشار سرور</string>
     <string name="settings_remember_bulletin_filter">فیلترهای بولتن را به خاطر بسپارید</string>
     <string name="settings_reset_course_colors">اختصاص دوبارهٔ رنگ‌های درس</string>
     <string name="settings_reset_course_colors_confirm_message">به هر درس یک رنگ جدید و منحصربه‌فرد اختصاص می‌یابد — ابتدا از پالت پیش‌فرض، پس از پایان پالت به‌صورت تصادفی.</string>

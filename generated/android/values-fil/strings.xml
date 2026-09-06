@@ -693,7 +693,7 @@
     <string name="settings_official_website">Opisyal na website</string>
     <string name="settings_open_source_licenses">Mga open-source na lisensya</string>
     <string name="settings_privacy_policy">Patakaran sa privacy</string>
-    <string name="settings_push_server_nav_label">Server push (Eksperimento)</string>
+    <string name="settings_push_server_nav_label">Server push</string>
     <string name="settings_remember_bulletin_filter">Tandaan ang mga filter ng bulletin</string>
     <string name="settings_reset_course_colors">Iulit ang pagtatalaga ng kulay ng kurso</string>
     <string name="settings_reset_course_colors_confirm_message">Bawat kurso ay bibigyan ng bago at natatanging kulay — una mula sa preset na palette, sumunod ay random kapag naubos na ang palette.</string>

@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Живе активности приказују тренутни час и одбројавање у обавештењима. „На часу\" и „Час ускоро почиње\" ажурирају се у реалном времену само кад је апликација отворена; „Упозорење за задатак\" може упозорити на вријеме и кад је апликација затворена.";
 "live_activity_settings_enable" = "Омогући живе активности";
 "live_activity_settings_enable_toggle" = "Омогући Live Activity";
-"live_activity_settings_footer" = "Приказује тренутни час и задатке на закључаном екрану или у Dynamic Island. За ажурирања уживо апликација мора бити отворена.";
+"live_activity_settings_footer" = "Приказује тренутни час и задатке на закључаном екрану или у Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d ч";
 "live_activity_settings_hours_minutes_label" = "%1$d ч %2$d мин";
 "live_activity_settings_hours_unit" = "Сати";
 "live_activity_settings_lock_screen_hint" = "Када је онемогућено, закључани екран приказује само текст попут „Обавештење скривено\". Ако омогућавање и даље нема ефекта, дозволите овај тип обавештења на закљученом екрану у системским поставкама.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минути";
-"live_activity_settings_nav_title" = "Live Activity (експериментално)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Опсег: %1$d – %2$d сати";
 "live_activity_settings_range_min_to_hours" = "Опсег: %1$d мин – %2$d сати";
 "live_activity_settings_range_minutes" = "Опсег: %1$d – %2$d минута";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Званични веб-сајт";
 "settings_open_source_licenses" = "Лиценце отвореног кода";
 "settings_privacy_policy" = "Политика приватности";
-"settings_push_server_nav_label" = "Server push (eksperimentalno)";
+"settings_push_server_nav_label" = "Server push";
 "settings_remember_bulletin_filter" = "Zapamti filtere biltena";
 "settings_reset_course_colors" = "Поново додели боје курсева";
 "settings_reset_course_colors_confirm_message" = "Сваки курс ће добити нову, јединствену боју — прво из унапред подешене палете, затим насумично када се палета исцрпи.";

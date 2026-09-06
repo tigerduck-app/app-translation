@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Hoạt động trực tiếp hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.";
 "live_activity_settings_enable" = "Bật hoạt động trực tiếp";
 "live_activity_settings_enable_toggle" = "Bật Live Activity";
-"live_activity_settings_footer" = "Hiển thị lớp hiện tại và bài tập trên Màn hình khóa hoặc Dynamic Island. Cần mở ứng dụng để cập nhật trực tiếp.";
+"live_activity_settings_footer" = "Hiển thị lớp hiện tại và bài tập trên Màn hình khóa hoặc Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d giờ";
 "live_activity_settings_hours_minutes_label" = "%1$d giờ %2$d phút";
 "live_activity_settings_hours_unit" = "Giờ";
 "live_activity_settings_lock_screen_hint" = "Khi tắt, màn hình khóa chỉ hiển thị văn bản tạm như \"Thông báo bị ẩn\". Nếu bật mà vẫn không có hiệu lực, hãy cho phép loại thông báo này hiển thị trên màn hình khóa trong cài đặt hệ thống.";
 "live_activity_settings_minutes_label" = "%1$d phút";
 "live_activity_settings_minutes_unit" = "Phút";
-"live_activity_settings_nav_title" = "Live Activity (Thử nghiệm)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Phạm vi: %1$d – %2$d giờ";
 "live_activity_settings_range_min_to_hours" = "Phạm vi: %1$d phút – %2$d giờ";
 "live_activity_settings_range_minutes" = "Phạm vi: %1$d – %2$d phút";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Trang web chính thức";
 "settings_open_source_licenses" = "Giấy phép mã nguồn mở";
 "settings_privacy_policy" = "Chính sách quyền riêng tư";
-"settings_push_server_nav_label" = "Đẩy máy chủ (Thử nghiệm)";
+"settings_push_server_nav_label" = "Đẩy máy chủ";
 "settings_remember_bulletin_filter" = "Ghi nhớ bộ lọc bản tin";
 "settings_reset_course_colors" = "Gán lại màu khóa học";
 "settings_reset_course_colors_confirm_message" = "Mỗi khóa học sẽ nhận màu mới, không trùng — trước hết từ bảng màu định sẵn, sau đó ngẫu nhiên khi đã dùng hết.";

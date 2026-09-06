@@ -693,7 +693,7 @@
     <string name="settings_official_website">Official website</string>
     <string name="settings_open_source_licenses">Open-source licences</string>
     <string name="settings_privacy_policy">Privacy policy</string>
-    <string name="settings_push_server_nav_label">Server push (Experimental)</string>
+    <string name="settings_push_server_nav_label">Server push</string>
     <string name="settings_remember_bulletin_filter">Remember bulletin filters</string>
     <string name="settings_reset_course_colors">Reset course colours</string>
     <string name="settings_reset_course_colors_confirm_message">This will randomly reassign class table colours using default presets.</string>

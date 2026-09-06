@@ -693,7 +693,7 @@
     <string name="settings_official_website">Lloc web oficial</string>
     <string name="settings_open_source_licenses">Llicències de codi obert</string>
     <string name="settings_privacy_policy">Política de privadesa</string>
-    <string name="settings_push_server_nav_label">Push del servidor (experimental)</string>
+    <string name="settings_push_server_nav_label">Push del servidor</string>
     <string name="settings_remember_bulletin_filter">Recordeu els filtres de butlletins</string>
     <string name="settings_reset_course_colors">Reassigna els colors dels cursos</string>
     <string name="settings_reset_course_colors_confirm_message">A cada curs se li assignarà un color nou i únic — primer de la paleta preestablerta i, després, aleatòriament quan s\'esgoti.</string>

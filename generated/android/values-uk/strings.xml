@@ -693,7 +693,7 @@
     <string name="settings_official_website">Офіційний сайт</string>
     <string name="settings_open_source_licenses">Ліцензії з відкритим кодом</string>
     <string name="settings_privacy_policy">Політика конфіденційності</string>
-    <string name="settings_push_server_nav_label">Push-сервер (Експериментально)</string>
+    <string name="settings_push_server_nav_label">Push-сервер</string>
     <string name="settings_remember_bulletin_filter">Запам\'ятати фільтри бюлетеня</string>
     <string name="settings_reset_course_colors">Перепризначити кольори курсів</string>
     <string name="settings_reset_course_colors_confirm_message">Кожному курсу буде призначено новий унікальний колір — спочатку з пресетної палітри, потім випадково, коли палітра вичерпається.</string>

@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Az élő tevékenység megjeleníti az aktuális órát és visszaszámlálót az értesítésekben. Az \"Órán\" és az \"Óra hamarosan kezdődik\" csak akkor frissül valós időben, amíg az alkalmazás nyitva van; a \"Házi feladat figyelmeztetés\" még akkor is időben figyelmeztet, ha az alkalmazás be van zárva.";
 "live_activity_settings_enable" = "Élő tevékenység engedélyezése";
 "live_activity_settings_enable_toggle" = "Élő tevékenység engedélyezése";
-"live_activity_settings_footer" = "Megjeleníti az aktuális órát és a feladatokat a Zárolási képernyőn vagy a Dynamic Islanden. Az élő frissítésekhez az alkalmazásnak nyitva kell lennie.";
+"live_activity_settings_footer" = "Megjeleníti az aktuális órát és a feladatokat a Zárolási képernyőn vagy a Dynamic Islanden.";
 "live_activity_settings_hours_label" = "%1$d óra";
 "live_activity_settings_hours_minutes_label" = "%1$d óra %2$d perc";
 "live_activity_settings_hours_unit" = "Óra";
 "live_activity_settings_lock_screen_hint" = "Ha letiltja, a zárolási képernyőn csak helyőrző szöveg jelenik meg, például \"Értesítés rejtve\". Ha az engedélyezés után sincs hatás, engedélyezze ezt az értesítéstípust a zárolási képernyőn a rendszerbeállításokban.";
 "live_activity_settings_minutes_label" = "%1$d perc";
 "live_activity_settings_minutes_unit" = "Perc";
-"live_activity_settings_nav_title" = "Élő tevékenység (kísérleti)";
+"live_activity_settings_nav_title" = "Élő tevékenység";
 "live_activity_settings_range_hours" = "Tartomány: %1$d – %2$d óra";
 "live_activity_settings_range_min_to_hours" = "Tartomány: %1$d perc – %2$d óra";
 "live_activity_settings_range_minutes" = "Tartomány: %1$d – %2$d perc";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Hivatalos weboldal";
 "settings_open_source_licenses" = "Nyílt forráskódú licencek";
 "settings_privacy_policy" = "Adatvédelmi irányelvek";
-"settings_push_server_nav_label" = "Szerver push (Kísérleti)";
+"settings_push_server_nav_label" = "Szerver push";
 "settings_remember_bulletin_filter" = "Hirdetményszűrők megjegyzése";
 "settings_reset_course_colors" = "Kurzusszínek újrakiosztása";
 "settings_reset_course_colors_confirm_message" = "Minden kurzus új, egyedi színt kap — előbb az előre beállított palettából, kimerülésekor véletlenszerűen.";

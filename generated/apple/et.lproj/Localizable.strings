@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Reaalajas tegevus näitab teavitustes praegust tundi ja loendust. „Tund käib\" ja „Tund algab varsti\" uuendatakse reaalajas ainult siis, kui rakendus on avatud; „Ülesande hoiatus\" saab siiski õigel ajal teavitada, kui rakendus on suletud.";
 "live_activity_settings_enable" = "Luba reaalajas tegevus";
 "live_activity_settings_enable_toggle" = "Luba Live Activity";
-"live_activity_settings_footer" = "Kuvab praeguse tunni ja ülesanded lukustuskuval või Dynamic Islandil. Otsevärskendusteks peab rakendus olema avatud.";
+"live_activity_settings_footer" = "Kuvab praeguse tunni ja ülesanded lukustuskuval või Dynamic Islandil.";
 "live_activity_settings_hours_label" = "%1$d t";
 "live_activity_settings_hours_minutes_label" = "%1$d t %2$d min";
 "live_activity_settings_hours_unit" = "Tunnid";
 "live_activity_settings_lock_screen_hint" = "Kui see on keelatud, kuvatakse lukustuskuval ainult kohatäitekiri nagu „Teavitus peidetud\". Kui lubamine ei mõju, lubage see teavituse tüüp süsteemiseadetes lukustuskuval.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minutid";
-"live_activity_settings_nav_title" = "Live Activity (eksperimentaalne)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Vahemik: %1$d – %2$d tundi";
 "live_activity_settings_range_min_to_hours" = "Vahemik: %1$d min – %2$d tundi";
 "live_activity_settings_range_minutes" = "Vahemik: %1$d – %2$d minutit";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Ametlik veebisait";
 "settings_open_source_licenses" = "Avatud lähtekoodiga litsentsid";
 "settings_privacy_policy" = "Privaatsuspoliitika";
-"settings_push_server_nav_label" = "Serveri tõuge (eksperimentaalne)";
+"settings_push_server_nav_label" = "Serveri tõuge";
 "settings_remember_bulletin_filter" = "Pidage meeles bülletäänide filtreid";
 "settings_reset_course_colors" = "Määra kursuste värvid uuesti";
 "settings_reset_course_colors_confirm_message" = "Iga kursus saab uue ainulaadse värvi — kõigepealt eelmääratud paletist, seejärel juhuslikult, kui palett on otsas.";

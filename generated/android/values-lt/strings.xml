@@ -693,7 +693,7 @@
     <string name="settings_official_website">Oficiali svetainė</string>
     <string name="settings_open_source_licenses">Atvirojo kodo licencijos</string>
     <string name="settings_privacy_policy">Privatumo politika</string>
-    <string name="settings_push_server_nav_label">Serverio siuntimas (eksperimentinis)</string>
+    <string name="settings_push_server_nav_label">Serverio siuntimas</string>
     <string name="settings_remember_bulletin_filter">Įsiminti biuletenių filtrus</string>
     <string name="settings_reset_course_colors">Iš naujo priskirti kursų spalvas</string>
     <string name="settings_reset_course_colors_confirm_message">Kiekvienam kursui bus priskirta nauja unikali spalva — pirma iš išankstinės paletės, paskui atsitiktinai, kai paletė pasibaigs.</string>

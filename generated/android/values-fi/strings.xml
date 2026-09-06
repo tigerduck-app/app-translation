@@ -693,7 +693,7 @@
     <string name="settings_official_website">Virallinen verkkosivusto</string>
     <string name="settings_open_source_licenses">Avoimen lähdekoodin lisenssit</string>
     <string name="settings_privacy_policy">Tietosuojakäytäntö</string>
-    <string name="settings_push_server_nav_label">Palvelimen push (kokeellinen)</string>
+    <string name="settings_push_server_nav_label">Palvelimen push</string>
     <string name="settings_remember_bulletin_filter">Muista tiedotesuodattimet</string>
     <string name="settings_reset_course_colors">Määritä kurssien värit uudelleen</string>
     <string name="settings_reset_course_colors_confirm_message">Kullekin kurssille määritetään uusi, ainutlaatuinen väri — ensin esivalintapaletista, sitten satunnaisesti, kun paletti loppuu.</string>

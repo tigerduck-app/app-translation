@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "يعرض النشاط المباشر المحاضرة الحالية والعد التنازلي في الإشعارات. يتم تحديث \"في المحاضرة\" و\"ستبدأ المحاضرة قريبًا\" في الوقت الفعلي فقط أثناء فتح التطبيق؛ بينما يستطيع \"تنبيه الواجب\" التذكير في وقته حتى عند إغلاق التطبيق.";
 "live_activity_settings_enable" = "تفعيل النشاط المباشر";
 "live_activity_settings_enable_toggle" = "تمكين النشاط المباشر";
-"live_activity_settings_footer" = "يعرض المحاضرة الحالية والواجبات على شاشة القفل أو الجزيرة الديناميكية. يتطلب إبقاء التطبيق مفتوحًا للحصول على تحديثات مباشرة.";
+"live_activity_settings_footer" = "يعرض المحاضرة الحالية والواجبات على شاشة القفل أو الجزيرة الديناميكية.";
 "live_activity_settings_hours_label" = "%1$d ساعة";
 "live_activity_settings_hours_minutes_label" = "%1$d ساعة %2$d دقيقة";
 "live_activity_settings_hours_unit" = "ساعات";
 "live_activity_settings_lock_screen_hint" = "عند التعطيل تعرض شاشة القفل نصًا بديلًا فقط مثل \"الإشعار مخفي\". إذا لم يظهر أي تأثير عند التفعيل، فاسمح بهذا النوع من الإشعارات على شاشة القفل في إعدادات النظام.";
 "live_activity_settings_minutes_label" = "%1$d دقيقة";
 "live_activity_settings_minutes_unit" = "دقائق";
-"live_activity_settings_nav_title" = "النشاط المباشر (تجريبي)";
+"live_activity_settings_nav_title" = "النشاط المباشر";
 "live_activity_settings_range_hours" = "النطاق: %1$d – %2$d ساعة";
 "live_activity_settings_range_min_to_hours" = "النطاق: %1$d دقيقة – %2$d ساعة";
 "live_activity_settings_range_minutes" = "النطاق: %1$d – %2$d دقيقة";
@@ -673,7 +673,7 @@
 "settings_official_website" = "الموقع الرسمي";
 "settings_open_source_licenses" = "تراخيص المصادر المفتوحة";
 "settings_privacy_policy" = "سياسة الخصوصية";
-"settings_push_server_nav_label" = "دفع الخادم (تجريبي)";
+"settings_push_server_nav_label" = "دفع الخادم";
 "settings_remember_bulletin_filter" = "تذكر مرشحات النشرة";
 "settings_reset_course_colors" = "إعادة تعيين ألوان المقررات";
 "settings_reset_course_colors_confirm_message" = "سيُسنَد لكل مقرر لون فريد جديد — من اللوحة المحددة أولاً، ثم عشوائياً عند نفاد اللوحة.";

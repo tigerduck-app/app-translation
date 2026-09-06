@@ -693,7 +693,7 @@
     <string name="settings_official_website">Sitio web oficial</string>
     <string name="settings_open_source_licenses">Licencias de código abierto</string>
     <string name="settings_privacy_policy">Política de privacidad</string>
-    <string name="settings_push_server_nav_label">Empuje del servidor (experimental)</string>
+    <string name="settings_push_server_nav_label">Empuje del servidor</string>
     <string name="settings_remember_bulletin_filter">Recuerde los filtros del boletín</string>
     <string name="settings_reset_course_colors">Reasignar colores de cursos</string>
     <string name="settings_reset_course_colors_confirm_message">Cada curso recibirá un color nuevo y único — primero de la paleta de presets, luego aleatoriamente cuando la paleta se agote.</string>

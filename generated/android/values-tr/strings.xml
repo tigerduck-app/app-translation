@@ -693,7 +693,7 @@
     <string name="settings_official_website">Resmi web sitesi</string>
     <string name="settings_open_source_licenses">Açık kaynak lisansları</string>
     <string name="settings_privacy_policy">Gizlilik politikası</string>
-    <string name="settings_push_server_nav_label">Sunucu push (Deneysel)</string>
+    <string name="settings_push_server_nav_label">Sunucu push</string>
     <string name="settings_remember_bulletin_filter">Bülten filtrelerini hatırla</string>
     <string name="settings_reset_course_colors">Ders renklerini yeniden ata</string>
     <string name="settings_reset_course_colors_confirm_message">Her ders yeni ve benzersiz bir renk alır — önce hazır paletten, palet bitince rastgele.</string>

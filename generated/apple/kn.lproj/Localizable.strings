@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಧಿಸೂಚನೆಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ತರಗತಿ ಮತ್ತು ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. \"ತರಗತಿಯಲ್ಲಿ\" ಮತ್ತು \"ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭ\" ಅಪ್ಲಿಕೇಶನ್ ತೆರೆದಿರುವಾಗ ಮಾತ್ರ ನೈಜ ಸಮಯದಲ್ಲಿ ನವೀಕರಣಗೊಳ್ಳುತ್ತವೆ; \"ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ\" ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ಎಚ್ಚರಿಸಬಲ್ಲದು.";
 "live_activity_settings_enable" = "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಸಕ್ರಿಯಗೊಳಿಸಿ";
 "live_activity_settings_enable_toggle" = "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಸಕ್ರಿಯಗೊಳಿಸಿ";
-"live_activity_settings_footer" = "ಲಾಕ್ ಸ್ಕ್ರೀನ್ ಅಥವಾ Dynamic Island‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ ಕ್ಲಾಸ್ ಮತ್ತು ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳನ್ನು ತೋರಿಸುತ್ತದೆ. ಲೈವ್ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗೆ ಅಪ್ ತೆರೆಯಿರಬೇಕು.";
+"live_activity_settings_footer" = "ಲಾಕ್ ಸ್ಕ್ರೀನ್ ಅಥವಾ Dynamic Island‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ ಕ್ಲಾಸ್ ಮತ್ತು ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.";
 "live_activity_settings_hours_label" = "%1$d ಗಂ";
 "live_activity_settings_hours_minutes_label" = "%1$d ಗಂ %2$d ನಿ";
 "live_activity_settings_hours_unit" = "ಗಂಟೆಗಳು";
 "live_activity_settings_lock_screen_hint" = "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಲಾಕ್ ಸ್ಕ್ರೀನ್ \"ಅಧಿಸೂಚನೆ ಮರೆಮಾಡಲಾಗಿದೆ\" ಎಂಬ ಪ್ಲೇಸ್‌ಹೋಲ್ಡರ್ ಮಾತ್ರ ತೋರಿಸುತ್ತದೆ. ಸಕ್ರಿಯಗೊಳಿಸಿದ ನಂತರವೂ ಪರಿಣಾಮ ಆಗದಿದ್ದರೆ, ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಈ ಅಧಿಸೂಚನೆ ಅನುಮತಿಸಿ.";
 "live_activity_settings_minutes_label" = "%1$d ನಿ";
 "live_activity_settings_minutes_unit" = "ನಿಮಿಷಗಳು";
-"live_activity_settings_nav_title" = "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ (ಪ್ರಾಯೋಗಿಕ)";
+"live_activity_settings_nav_title" = "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ";
 "live_activity_settings_range_hours" = "ಶ್ರೇಣಿ: %1$d – %2$d ಗಂಟೆ";
 "live_activity_settings_range_min_to_hours" = "ಶ್ರೇಣಿ: %1$d ನಿ – %2$d ಗಂ";
 "live_activity_settings_range_minutes" = "ಶ್ರೇಣಿ: %1$d – %2$d ನಿಮಿಷ";
@@ -673,7 +673,7 @@
 "settings_official_website" = "ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್";
 "settings_open_source_licenses" = "ಮುಕ್ತ ಮೂಲ ಪರವಾನಗಿಗಳು";
 "settings_privacy_policy" = "ಗೌಪ್ಯತಾ ನೀತಿ";
-"settings_push_server_nav_label" = "ಸರ್ವರ್ ಪುಶ್ (ಪ್ರಾಯೋಗಿಕ)";
+"settings_push_server_nav_label" = "ಸರ್ವರ್ ಪುಶ್";
 "settings_remember_bulletin_filter" = "ಬುಲೆಟಿನ್ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ನೆನಪಿಡಿ";
 "settings_reset_course_colors" = "ಕೋರ್ಸ್‌ಗಳಿಗೆ ಬಣ್ಣಗಳನ್ನು ಮರುಹೊಂದಿಸಿ";
 "settings_reset_course_colors_confirm_message" = "ಪ್ರತಿ ಕೋರ್ಸ್‌ಗೆ ಹೊಸ ಮತ್ತು ಅನನ್ಯ ಬಣ್ಣ ನಿಗದಿಯಾಗುತ್ತದೆ — ಮೊದಲು ಪ್ರಿಸೆಟ್ ಪ್ಯಾಲೆಟ್‌ನಿಂದ, ಪ್ಯಾಲೆಟ್ ಮುಗಿದ ಮೇಲೆ ಯಾದೃಚ್ಛಿಕವಾಗಿ.";

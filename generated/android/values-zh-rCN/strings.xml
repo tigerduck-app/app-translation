@@ -693,7 +693,7 @@
     <string name="settings_official_website">官网</string>
     <string name="settings_open_source_licenses">开源授权</string>
     <string name="settings_privacy_policy">隐私权政策</string>
-    <string name="settings_push_server_nav_label">服务器推送（实验性）</string>
+    <string name="settings_push_server_nav_label">服务器推送</string>
     <string name="settings_remember_bulletin_filter">记住公告筛选条件</string>
     <string name="settings_reset_course_colors">重新分配课表颜色</string>
     <string name="settings_reset_course_colors_confirm_message">每门课都会被指派一个全新且不重复的颜色——优先使用预设色盘，色盘用完后随机生成。</string>

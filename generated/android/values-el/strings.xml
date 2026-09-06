@@ -693,7 +693,7 @@
     <string name="settings_official_website">Επίσημος ιστότοπος</string>
     <string name="settings_open_source_licenses">Άδειες ανοιχτού κώδικα</string>
     <string name="settings_privacy_policy">Πολιτική απορρήτου</string>
-    <string name="settings_push_server_nav_label">Push διακομιστή (Πειραματικό)</string>
+    <string name="settings_push_server_nav_label">Push διακομιστή</string>
     <string name="settings_remember_bulletin_filter">Θυμηθείτε τα φίλτρα του δελτίου</string>
     <string name="settings_reset_course_colors">Επανεκχώρηση χρωμάτων μαθημάτων</string>
     <string name="settings_reset_course_colors_confirm_message">Κάθε μάθημα θα λάβει ένα νέο, μοναδικό χρώμα — πρώτα από την προκαθορισμένη παλέτα, στη συνέχεια τυχαία όταν εξαντληθεί.</string>

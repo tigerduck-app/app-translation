@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Tiešā darbība rāda pašreizējo nodarbību un atpakaļskaitīšanu paziņojumos. „Nodarbībā\" un „Nodarbība drīz sāksies\" tiek atjaunots reāllaikā tikai kamēr lietotne ir atvērta; „Uzdevuma brīdinājums\" joprojām var brīdināt laikā arī tad, kad lietotne ir aizvērta.";
 "live_activity_settings_enable" = "Iespējot tiešo darbību";
 "live_activity_settings_enable_toggle" = "Ieslēgt Live Activity";
-"live_activity_settings_footer" = "Rāda pašreizējo stundu un uzdevumus bloķēšanas ekrānā vai Dynamic Island. Lai saņemtu tiešraides atjauninājumus, lietotnei jābūt atvērtai.";
+"live_activity_settings_footer" = "Rāda pašreizējo stundu un uzdevumus bloķēšanas ekrānā vai Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d st";
 "live_activity_settings_hours_minutes_label" = "%1$d st %2$d min";
 "live_activity_settings_hours_unit" = "Stundas";
 "live_activity_settings_lock_screen_hint" = "Kad atspējots, bloķēšanas ekrānā rāda tikai viettura tekstu, piemēram, „Paziņojums paslēpts\". Ja iespējošana joprojām nesniedz efektu, atļaujiet šo paziņojumu tipu bloķēšanas ekrānā sistēmas iestatījumos.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minūtes";
-"live_activity_settings_nav_title" = "Live Activity (eksperimentāls)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Diapazons: %1$d – %2$d stundas";
 "live_activity_settings_range_min_to_hours" = "Diapazons: %1$d min – %2$d stundas";
 "live_activity_settings_range_minutes" = "Diapazons: %1$d – %2$d minūtes";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Oficiālā vietne";
 "settings_open_source_licenses" = "Atvērtā koda licences";
 "settings_privacy_policy" = "Privātuma politika";
-"settings_push_server_nav_label" = "Servera push (eksperimentāls)";
+"settings_push_server_nav_label" = "Servera push";
 "settings_remember_bulletin_filter" = "Atcerēties biļetenu filtrus";
 "settings_reset_course_colors" = "No jauna piešķirt kursu krāsas";
 "settings_reset_course_colors_confirm_message" = "Katram kursam tiks piešķirta jauna, unikāla krāsa — vispirms no iepriekšiestatītās paletes, pēc tās izsmelšanas — nejauši.";

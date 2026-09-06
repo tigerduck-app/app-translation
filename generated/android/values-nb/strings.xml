@@ -693,7 +693,7 @@
     <string name="settings_official_website">Offisielt nettsted</string>
     <string name="settings_open_source_licenses">Åpen kildekode-lisenser</string>
     <string name="settings_privacy_policy">Personvernpolicy</string>
-    <string name="settings_push_server_nav_label">Server-push (eksperimentell)</string>
+    <string name="settings_push_server_nav_label">Server-push</string>
     <string name="settings_remember_bulletin_filter">Husk oppslagstavlefiltre</string>
     <string name="settings_reset_course_colors">Tildel kursfarger på nytt</string>
     <string name="settings_reset_course_colors_confirm_message">Hvert kurs får en ny, unik farge – først fra forhåndsinnstilt palett, deretter tilfeldig når paletten er brukt opp.</string>

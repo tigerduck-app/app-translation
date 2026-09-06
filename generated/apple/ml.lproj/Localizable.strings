@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Live Activity അറിയിപ്പുകളിൽ നിലവിലെ ക്ലാസ്, കൗണ്ട്‌ഡൗൺ കാണിക്കുന്നു. \"ക്ലാസിൽ\", \"ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു\" എന്നിവ ആപ്പ് തുറന്നിരിക്കുമ്പോൾ മാത്രം തത്സമയം അപ്‌ഡേറ്റ് ആകും; \"അസൈൻമെന്റ് മുന്നറിയിപ്പ്\" ആപ്പ് അടച്ചിരിക്കുമ്പോഴും സമയത്ത് അലേർട്ട് ചെയ്യാം.";
 "live_activity_settings_enable" = "Live Activity പ്രവർത്തനക്ഷമമാക്കുക";
 "live_activity_settings_enable_toggle" = "Live Activity പ്രവർത്തനക്ഷമമാക്കുക";
-"live_activity_settings_footer" = "Lock Screen അല്ലെങ്കിൽ Dynamic Island-ൽ നിലവിലുള്ള ക്ലാസും അസൈൻമെന്റുകളും കാണിക്കുന്നു. ലൈവ് അപ്ഡേറ്റുകൾക്കായി ആപ്പ് തുറന്നിരിക്കണം.";
+"live_activity_settings_footer" = "Lock Screen അല്ലെങ്കിൽ Dynamic Island-ൽ നിലവിലുള്ള ക്ലാസും അസൈൻമെന്റുകളും കാണിക്കുന്നു.";
 "live_activity_settings_hours_label" = "%1$d മണിക്കൂർ";
 "live_activity_settings_hours_minutes_label" = "%1$d മണിക്കൂർ %2$d മിനിറ്റ്";
 "live_activity_settings_hours_unit" = "മണിക്കൂർ";
 "live_activity_settings_lock_screen_hint" = "ഓഫ് ആക്കുമ്പോൾ, ലോക്ക് സ്ക്രീനിൽ \"അറിയിപ്പ് മറഞ്ഞിരിക്കുന്നു\" എന്ന placeholder ടെക്‌സ്‌റ്റ് മാത്രം കാണിക്കും. ഓൺ ആക്കിയിട്ടും ഫലമില്ലെങ്കിൽ, സിസ്റ്റം ക്രമീകരണങ്ങളിൽ ലോക്ക് സ്ക്രീൻ അറിയിപ്പ് തരം അനുവദിക്കുക.";
 "live_activity_settings_minutes_label" = "%1$d മിനിറ്റ്";
 "live_activity_settings_minutes_unit" = "മിനിറ്റ്";
-"live_activity_settings_nav_title" = "Live Activity (പരീക്ഷണാത്മകം)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "ശ്രേണി: %1$d – %2$d മണിക്കൂർ";
 "live_activity_settings_range_min_to_hours" = "ശ്രേണി: %1$d മിനിറ്റ് – %2$d മണിക്കൂർ";
 "live_activity_settings_range_minutes" = "ശ്രേണി: %1$d – %2$d മിനിറ്റ്";
@@ -673,7 +673,7 @@
 "settings_official_website" = "ഔദ്യോഗിക വെബ്സൈറ്റ്";
 "settings_open_source_licenses" = "ഓപ്പൺ-സോഴ്‌സ് ലൈസൻസുകൾ";
 "settings_privacy_policy" = "സ്വകാര്യതാ നയം";
-"settings_push_server_nav_label" = "സെർവർ പുഷ് (പരീക്ഷണാത്മകം)";
+"settings_push_server_nav_label" = "സെർവർ പുഷ്";
 "settings_remember_bulletin_filter" = "ബുള്ളറ്റിൻ ഫിൽട്ടറുകൾ ഓർക്കുക";
 "settings_reset_course_colors" = "കോഴ്സ് നിറങ്ങൾ പുനഃനൽകുക";
 "settings_reset_course_colors_confirm_message" = "ഓരോ കോഴ്സിനും പുതിയ, വ്യത്യസ്തമായ ഒരു നിറം നൽകും — ആദ്യം പ്രീസെറ്റ് പാലെറ്റിൽ നിന്നു, അത് തീർന്നാൽ ക്രമരഹിതമായി.";

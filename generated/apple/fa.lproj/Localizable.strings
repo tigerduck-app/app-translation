@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "فعالیت زنده کلاس فعلی و شمارش معکوس را در اعلان‌ها نشان می‌دهد. «در کلاس» و «کلاس به‌زودی شروع می‌شود» فقط وقتی برنامه باز است به‌صورت بلادرنگ به‌روزرسانی می‌شوند؛ «هشدار تکلیف» حتی وقتی برنامه بسته است هم می‌تواند به‌موقع هشدار دهد.";
 "live_activity_settings_enable" = "فعال کردن فعالیت زنده";
 "live_activity_settings_enable_toggle" = "فعال کردن Live Activity";
-"live_activity_settings_footer" = "کلاس فعلی و تکالیف را روی صفحهٔ قفل یا Dynamic Island نمایش می‌دهد. برای به‌روزرسانی‌های زنده لازم است برنامه باز باشد.";
+"live_activity_settings_footer" = "کلاس فعلی و تکالیف را روی صفحهٔ قفل یا Dynamic Island نمایش می‌دهد.";
 "live_activity_settings_hours_label" = "%1$d ساعت";
 "live_activity_settings_hours_minutes_label" = "%1$d ساعت %2$d دقیقه";
 "live_activity_settings_hours_unit" = "ساعت";
 "live_activity_settings_lock_screen_hint" = "اگر غیرفعال باشد، صفحه قفل فقط متن جایگزین مانند «اعلان پنهان است» را نشان می‌دهد. اگر با فعال‌سازی هم تغییری ایجاد نشد، در تنظیمات سیستم اجازه نمایش این نوع اعلان روی صفحه قفل را بدهید.";
 "live_activity_settings_minutes_label" = "%1$d دقیقه";
 "live_activity_settings_minutes_unit" = "دقیقه";
-"live_activity_settings_nav_title" = "Live Activity (آزمایشی)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "بازه: %1$d تا %2$d ساعت";
 "live_activity_settings_range_min_to_hours" = "بازه: %1$d دقیقه تا %2$d ساعت";
 "live_activity_settings_range_minutes" = "بازه: %1$d تا %2$d دقیقه";
@@ -673,7 +673,7 @@
 "settings_official_website" = "وب‌سایت رسمی";
 "settings_open_source_licenses" = "مجوزهای متن‌باز";
 "settings_privacy_policy" = "سیاست حریم خصوصی";
-"settings_push_server_nav_label" = "فشار سرور (تجربی)";
+"settings_push_server_nav_label" = "فشار سرور";
 "settings_remember_bulletin_filter" = "فیلترهای بولتن را به خاطر بسپارید";
 "settings_reset_course_colors" = "اختصاص دوبارهٔ رنگ‌های درس";
 "settings_reset_course_colors_confirm_message" = "به هر درس یک رنگ جدید و منحصربه‌فرد اختصاص می‌یابد — ابتدا از پالت پیش‌فرض، پس از پایان پالت به‌صورت تصادفی.";

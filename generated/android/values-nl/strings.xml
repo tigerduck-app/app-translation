@@ -693,7 +693,7 @@
     <string name="settings_official_website">Officiële website</string>
     <string name="settings_open_source_licenses">Opensource-licenties</string>
     <string name="settings_privacy_policy">Privacybeleid</string>
-    <string name="settings_push_server_nav_label">Serverpush (experimenteel)</string>
+    <string name="settings_push_server_nav_label">Serverpush</string>
     <string name="settings_remember_bulletin_filter">Bulletinfilters onthouden</string>
     <string name="settings_reset_course_colors">Cursuskleuren opnieuw toewijzen</string>
     <string name="settings_reset_course_colors_confirm_message">Elke cursus krijgt een nieuwe, unieke kleur — eerst uit het voorgedefinieerde palet, daarna willekeurig zodra het palet op is.</string>

@@ -693,7 +693,7 @@
     <string name="settings_official_website">ഔദ്യോഗിക വെബ്സൈറ്റ്</string>
     <string name="settings_open_source_licenses">ഓപ്പൺ-സോഴ്‌സ് ലൈസൻസുകൾ</string>
     <string name="settings_privacy_policy">സ്വകാര്യതാ നയം</string>
-    <string name="settings_push_server_nav_label">സെർവർ പുഷ് (പരീക്ഷണാത്മകം)</string>
+    <string name="settings_push_server_nav_label">സെർവർ പുഷ്</string>
     <string name="settings_remember_bulletin_filter">ബുള്ളറ്റിൻ ഫിൽട്ടറുകൾ ഓർക്കുക</string>
     <string name="settings_reset_course_colors">കോഴ്സ് നിറങ്ങൾ പുനഃനൽകുക</string>
     <string name="settings_reset_course_colors_confirm_message">ഓരോ കോഴ്സിനും പുതിയ, വ്യത്യസ്തമായ ഒരു നിറം നൽകും — ആദ്യം പ്രീസെറ്റ് പാലെറ്റിൽ നിന്നു, അത് തീർന്നാൽ ക്രമരഹിതമായി.</string>

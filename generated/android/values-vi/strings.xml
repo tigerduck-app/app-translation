@@ -693,7 +693,7 @@
     <string name="settings_official_website">Trang web chính thức</string>
     <string name="settings_open_source_licenses">Giấy phép mã nguồn mở</string>
     <string name="settings_privacy_policy">Chính sách quyền riêng tư</string>
-    <string name="settings_push_server_nav_label">Đẩy máy chủ (Thử nghiệm)</string>
+    <string name="settings_push_server_nav_label">Đẩy máy chủ</string>
     <string name="settings_remember_bulletin_filter">Ghi nhớ bộ lọc bản tin</string>
     <string name="settings_reset_course_colors">Gán lại màu khóa học</string>
     <string name="settings_reset_course_colors_confirm_message">Mỗi khóa học sẽ nhận màu mới, không trùng — trước hết từ bảng màu định sẵn, sau đó ngẫu nhiên khi đã dùng hết.</string>

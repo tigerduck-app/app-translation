@@ -693,7 +693,7 @@
     <string name="settings_official_website">অফিসিয়াল ওয়েবসাইট</string>
     <string name="settings_open_source_licenses">ওপেন-সোর্স লাইসেন্স</string>
     <string name="settings_privacy_policy">গোপনীয়তা নীতি</string>
-    <string name="settings_push_server_nav_label">সার্ভার পুশ (পরীক্ষামূলক)</string>
+    <string name="settings_push_server_nav_label">সার্ভার পুশ</string>
     <string name="settings_remember_bulletin_filter">বুলেটিন ফিল্টার মনে রাখবেন</string>
     <string name="settings_reset_course_colors">কোর্স রঙ পুনরায় বরাদ্দ করুন</string>
     <string name="settings_reset_course_colors_confirm_message">প্রতিটি কোর্সকে একটি নতুন এবং অনন্য রঙ দেওয়া হবে — প্রথমে প্রিসেট প্যালেট থেকে, প্যালেট ফুরিয়ে গেলে এলোমেলোভাবে।</string>

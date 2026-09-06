@@ -693,7 +693,7 @@
     <string name="settings_official_website">Uradna spletna stran</string>
     <string name="settings_open_source_licenses">Odprtokodne licence</string>
     <string name="settings_privacy_policy">Pravilnik o zasebnosti</string>
-    <string name="settings_push_server_nav_label">Strežniški push (eksperimentalno)</string>
+    <string name="settings_push_server_nav_label">Strežniški push</string>
     <string name="settings_remember_bulletin_filter">Zapomni si filtre oglasne deske</string>
     <string name="settings_reset_course_colors">Znova dodeli barve predmetov</string>
     <string name="settings_reset_course_colors_confirm_message">Vsak predmet bo dobil novo, edinstveno barvo — najprej iz prednastavljene palete, nato naključno, ko se ta izčrpa.</string>

@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Die Live-Aktivität zeigt aktuelle Unterrichtsstunde und Countdown in Benachrichtigungen an. „Im Unterricht“ und „Unterricht beginnt bald“ werden nur in Echtzeit aktualisiert, solange die App geöffnet ist; „Aufgaben-Warnung“ kann auch bei geschlossener App rechtzeitig benachrichtigen.";
 "live_activity_settings_enable" = "Live-Aktivität aktivieren";
 "live_activity_settings_enable_toggle" = "Live-Aktivität aktivieren";
-"live_activity_settings_footer" = "Zeigt die aktuelle Stunde und Aufgaben auf dem Sperrbildschirm oder der Dynamic Island. Für Live-Updates muss die App geöffnet sein.";
+"live_activity_settings_footer" = "Zeigt die aktuelle Stunde und Aufgaben auf dem Sperrbildschirm oder der Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d Std.";
 "live_activity_settings_hours_minutes_label" = "%1$d Std. %2$d Min.";
 "live_activity_settings_hours_unit" = "Stunden";
 "live_activity_settings_lock_screen_hint" = "Wenn deaktiviert, zeigt der Sperrbildschirm nur Platzhaltertext wie „Benachrichtigung verborgen“. Falls das Aktivieren keine Wirkung zeigt, erlauben Sie diesen Benachrichtigungstyp in den Systemeinstellungen für den Sperrbildschirm.";
 "live_activity_settings_minutes_label" = "%1$d Min.";
 "live_activity_settings_minutes_unit" = "Minuten";
-"live_activity_settings_nav_title" = "Live-Aktivität (experimentell)";
+"live_activity_settings_nav_title" = "Live-Aktivität";
 "live_activity_settings_range_hours" = "Bereich: %1$d – %2$d Stunden";
 "live_activity_settings_range_min_to_hours" = "Bereich: %1$d Min. – %2$d Stunden";
 "live_activity_settings_range_minutes" = "Bereich: %1$d – %2$d Minuten";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Offizielle Website";
 "settings_open_source_licenses" = "Open-Source-Lizenzen";
 "settings_privacy_policy" = "Datenschutzerklärung";
-"settings_push_server_nav_label" = "Server-Push (experimentell)";
+"settings_push_server_nav_label" = "Server-Push";
 "settings_remember_bulletin_filter" = "Denken Sie an Bulletin-Filter";
 "settings_reset_course_colors" = "Kursfarben neu zuweisen";
 "settings_reset_course_colors_confirm_message" = "Jeder Kurs erhält eine neue, eindeutige Farbe – zunächst aus der voreingestellten Palette, anschließend zufällig, sobald die Palette ausgeschöpft ist.";

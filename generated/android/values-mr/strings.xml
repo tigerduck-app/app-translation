@@ -693,7 +693,7 @@
     <string name="settings_official_website">अधिकृत वेबसाइट</string>
     <string name="settings_open_source_licenses">ओपन-सोर्स परवाने</string>
     <string name="settings_privacy_policy">गोपनीयता धोरण</string>
-    <string name="settings_push_server_nav_label">सर्व्हर पुश (प्रायोगिक)</string>
+    <string name="settings_push_server_nav_label">सर्व्हर पुश</string>
     <string name="settings_remember_bulletin_filter">बुलेटिन फिल्टर लक्षात ठेवा</string>
     <string name="settings_reset_course_colors">अभ्यासक्रम रंग पुन्हा नियुक्त करा</string>
     <string name="settings_reset_course_colors_confirm_message">प्रत्येक अभ्यासक्रमाला नवा, अद्वितीय रंग दिला जाईल — आधी प्रीसेट पॅलेटमधून, पॅलेट संपल्यावर यादृच्छिक.</string>

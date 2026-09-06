@@ -693,7 +693,7 @@
     <string name="settings_official_website">Hivatalos weboldal</string>
     <string name="settings_open_source_licenses">Nyílt forráskódú licencek</string>
     <string name="settings_privacy_policy">Adatvédelmi irányelvek</string>
-    <string name="settings_push_server_nav_label">Szerver push (Kísérleti)</string>
+    <string name="settings_push_server_nav_label">Szerver push</string>
     <string name="settings_remember_bulletin_filter">Hirdetményszűrők megjegyzése</string>
     <string name="settings_reset_course_colors">Kurzusszínek újrakiosztása</string>
     <string name="settings_reset_course_colors_confirm_message">Minden kurzus új, egyedi színt kap — előbb az előre beállított palettából, kimerülésekor véletlenszerűen.</string>

@@ -693,7 +693,7 @@
     <string name="settings_official_website">Opinber vefsíða</string>
     <string name="settings_open_source_licenses">Opinn uppspretta leyfi</string>
     <string name="settings_privacy_policy">Persónuverndarstefna</string>
-    <string name="settings_push_server_nav_label">Þjónsendari (tilraunakennt)</string>
+    <string name="settings_push_server_nav_label">Þjónsendari</string>
     <string name="settings_remember_bulletin_filter">Muna síur tilkynninga</string>
     <string name="settings_reset_course_colors">Endurúthluta litum námskeiða</string>
     <string name="settings_reset_course_colors_confirm_message">Hverju námskeiði verður úthlutað nýjum, einstökum lit — fyrst úr fyrirfram skilgreindum litapall, og síðan af handahófi þegar pallinn klárast.</string>

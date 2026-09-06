@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "लाइव्ह ॲक्टिव्हिटी अधिसूचनांमध्ये सध्याचा वर्ग आणि काउंटडाउन दाखवते. 'वर्ग सुरू आहे' आणि 'वर्ग लवकरच सुरू होणार' फक्त ॲप उघडे असताना रिअल टाइममध्ये अपडेट होतात; 'असाइनमेंट चेतावणी' ॲप बंद असतानाही वेळेवर सतर्क करू शकते.";
 "live_activity_settings_enable" = "लाइव्ह ॲक्टिव्हिटी सक्षम करा";
 "live_activity_settings_enable_toggle" = "लाइव्ह अॅक्टिव्हिटी सक्षम करा";
-"live_activity_settings_footer" = "लॉक स्क्रीन किंवा Dynamic Island वर सध्याचा वर्ग आणि असाइनमेंट्स दाखवते. लाइव्ह अपडेट्ससाठी अॅप उघडे असणे आवश्यक आहे.";
+"live_activity_settings_footer" = "लॉक स्क्रीन किंवा Dynamic Island वर सध्याचा वर्ग आणि असाइनमेंट्स दाखवते.";
 "live_activity_settings_hours_label" = "%1$d तास";
 "live_activity_settings_hours_minutes_label" = "%1$d तास %2$d मिनिट";
 "live_activity_settings_hours_unit" = "तास";
 "live_activity_settings_lock_screen_hint" = "अक्षम केल्यावर, लॉक स्क्रीनवर फक्त 'अधिसूचना लपवली' सारखा प्लेसहोल्डर मजकूर दिसतो. सक्षम केल्यानंतरही परिणाम नसल्यास, सिस्टम सेटिंग्जमध्ये लॉक स्क्रीनवर या अधिसूचना प्रकाराला परवानगी द्या.";
 "live_activity_settings_minutes_label" = "%1$d मिनिट";
 "live_activity_settings_minutes_unit" = "मिनिटे";
-"live_activity_settings_nav_title" = "लाइव्ह अॅक्टिव्हिटी (प्रायोगिक)";
+"live_activity_settings_nav_title" = "लाइव्ह अॅक्टिव्हिटी";
 "live_activity_settings_range_hours" = "श्रेणी: %1$d – %2$d तास";
 "live_activity_settings_range_min_to_hours" = "श्रेणी: %1$d मिनिट – %2$d तास";
 "live_activity_settings_range_minutes" = "श्रेणी: %1$d – %2$d मिनिटे";
@@ -673,7 +673,7 @@
 "settings_official_website" = "अधिकृत वेबसाइट";
 "settings_open_source_licenses" = "ओपन-सोर्स परवाने";
 "settings_privacy_policy" = "गोपनीयता धोरण";
-"settings_push_server_nav_label" = "सर्व्हर पुश (प्रायोगिक)";
+"settings_push_server_nav_label" = "सर्व्हर पुश";
 "settings_remember_bulletin_filter" = "बुलेटिन फिल्टर लक्षात ठेवा";
 "settings_reset_course_colors" = "अभ्यासक्रम रंग पुन्हा नियुक्त करा";
 "settings_reset_course_colors_confirm_message" = "प्रत्येक अभ्यासक्रमाला नवा, अद्वितीय रंग दिला जाईल — आधी प्रीसेट पॅलेटमधून, पॅलेट संपल्यावर यादृच्छिक.";

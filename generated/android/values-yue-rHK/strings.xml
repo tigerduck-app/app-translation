@@ -693,7 +693,7 @@
     <string name="settings_official_website">官方網站</string>
     <string name="settings_open_source_licenses">開源授權</string>
     <string name="settings_privacy_policy">隱私權政策</string>
-    <string name="settings_push_server_nav_label">伺服器推播（實驗性）</string>
+    <string name="settings_push_server_nav_label">伺服器推播</string>
     <string name="settings_remember_bulletin_filter">記住公告篩選條件</string>
     <string name="settings_reset_course_colors">重新分配課表顏色</string>
     <string name="settings_reset_course_colors_confirm_message">每門課都會被指派一個全新且不重複的顏色——優先使用預設色盤，色盤用完後隨機產生。</string>

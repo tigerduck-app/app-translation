@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Živá aktivita zobrazuje aktuální hodinu a odpočet v oznámeních. „Probíhá hodina“ a „Hodina brzy začne“ se aktualizují v reálném čase pouze pokud je aplikace otevřená; „Upozornění na úkol“ může upozornit včas i když je aplikace zavřená.";
 "live_activity_settings_enable" = "Povolit živou aktivitu";
 "live_activity_settings_enable_toggle" = "Povolit Živou aktivitu";
-"live_activity_settings_footer" = "Zobrazuje aktuální hodinu a úkoly na zamčené obrazovce nebo v Dynamic Island. Pro živé aktualizace musí být aplikace otevřená.";
+"live_activity_settings_footer" = "Zobrazuje aktuální hodinu a úkoly na zamčené obrazovce nebo v Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d h";
 "live_activity_settings_hours_minutes_label" = "%1$d h %2$d min";
 "live_activity_settings_hours_unit" = "Hodiny";
 "live_activity_settings_lock_screen_hint" = "Pokud je vypnuto, obrazovka uzamčení zobrazuje pouze zástupný text jako „Oznámení skryto“. Pokud zapnutí stále nemá efekt, povolte tento typ oznámení na obrazovce uzamčení v nastavení systému.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minuty";
-"live_activity_settings_nav_title" = "Živá aktivita (experimentální)";
+"live_activity_settings_nav_title" = "Živá aktivita";
 "live_activity_settings_range_hours" = "Rozsah: %1$d – %2$d hodin";
 "live_activity_settings_range_min_to_hours" = "Rozsah: %1$d min – %2$d hodin";
 "live_activity_settings_range_minutes" = "Rozsah: %1$d – %2$d minut";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Oficiální web";
 "settings_open_source_licenses" = "Open-source licence";
 "settings_privacy_policy" = "Zásady ochrany osobních údajů";
-"settings_push_server_nav_label" = "Server push (experimentální)";
+"settings_push_server_nav_label" = "Server push";
 "settings_remember_bulletin_filter" = "Pamatujte na filtry bulletinů";
 "settings_reset_course_colors" = "Znovu přiřadit barvy kurzů";
 "settings_reset_course_colors_confirm_message" = "Každý kurz dostane novou jedinečnou barvu — nejprve z přednastavené palety, po vyčerpání náhodně.";

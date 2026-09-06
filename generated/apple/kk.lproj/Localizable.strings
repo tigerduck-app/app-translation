@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Тікелей белсенділік хабарландыруларда ағымдағы сабақ пен кері санауды көрсетеді. «Сабақта» және «Сабақ жақын басталады» тек қолданба ашық болғанда нақты уақытта жаңартылады; «Тапсырма ескертуі» қолданба жабық болғанда да уақытында хабарлай алады.";
 "live_activity_settings_enable" = "Тікелей белсенділікті қосу";
 "live_activity_settings_enable_toggle" = "Live Activity қосу";
-"live_activity_settings_footer" = "Құлыптау экранында немесе Dynamic Island-та ағымдағы сабақты және тапсырмаларды көрсетеді. Тікелей жаңартулар үшін қолданба ашық болуы керек.";
+"live_activity_settings_footer" = "Құлыптау экранында немесе Dynamic Island-та ағымдағы сабақты және тапсырмаларды көрсетеді.";
 "live_activity_settings_hours_label" = "%1$d сағ";
 "live_activity_settings_hours_minutes_label" = "%1$d сағ %2$d мин";
 "live_activity_settings_hours_unit" = "Сағат";
 "live_activity_settings_lock_screen_hint" = "Өшірілгенде құлыптау экранында тек «Хабарландыру жасырылған» сияқты орын басушы мәтін көрсетіледі. Қоссаңыз да нәтиже болмаса, жүйе параметрлерінде осы хабарландыру түрін құлыптау экранында рұқсат етіңіз.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минут";
-"live_activity_settings_nav_title" = "Live Activity (эксперименттік)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Ауқым: %1$d – %2$d сағат";
 "live_activity_settings_range_min_to_hours" = "Ауқым: %1$d мин – %2$d сағат";
 "live_activity_settings_range_minutes" = "Ауқым: %1$d – %2$d минут";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Ресми веб-сайт";
 "settings_open_source_licenses" = "Ашық бастапқы лицензиялар";
 "settings_privacy_policy" = "Құпиялылық саясаты";
-"settings_push_server_nav_label" = "Серверді итеру (Эксперименталды)";
+"settings_push_server_nav_label" = "Серверді итеру";
 "settings_remember_bulletin_filter" = "Хабарлама сүзгілерін есте сақтау";
 "settings_reset_course_colors" = "Курс түстерін қайта тағайындау";
 "settings_reset_course_colors_confirm_message" = "Әр курсқа жаңа, бірегей түс тағайындалады — әуелі алдын ала орнатылған палитрадан, палитра таусылған соң кездейсоқ.";

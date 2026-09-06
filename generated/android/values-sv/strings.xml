@@ -693,7 +693,7 @@
     <string name="settings_official_website">Officiell webbplats</string>
     <string name="settings_open_source_licenses">Öppen källkod-licenser</string>
     <string name="settings_privacy_policy">Integritetspolicy</string>
-    <string name="settings_push_server_nav_label">Server-push (Experimentell)</string>
+    <string name="settings_push_server_nav_label">Server-push</string>
     <string name="settings_remember_bulletin_filter">Kom ihåg anslagstavlefilter</string>
     <string name="settings_reset_course_colors">Tilldela kursfärger igen</string>
     <string name="settings_reset_course_colors_confirm_message">Varje kurs får en ny, unik färg — först från förinställd palett, sedan slumpmässigt när paletten är slut.</string>

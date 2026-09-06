@@ -693,7 +693,7 @@
     <string name="settings_official_website">அதிகாரப்பூர்வ இணையதளம்</string>
     <string name="settings_open_source_licenses">திறந்த மூல உரிமங்கள்</string>
     <string name="settings_privacy_policy">தனியுரிமை கொள்கை</string>
-    <string name="settings_push_server_nav_label">சேவையக புஷ் (சோதனை முறை)</string>
+    <string name="settings_push_server_nav_label">சேவையக புஷ்</string>
     <string name="settings_remember_bulletin_filter">அறிவிப்பு வடிகட்டிகளை நினைவில் வை</string>
     <string name="settings_reset_course_colors">பாடநெறி வண்ணங்களை மீண்டும் ஒதுக்குங்கள்</string>
     <string name="settings_reset_course_colors_confirm_message">ஒவ்வொரு பாடநெறிக்கும் புதிய, தனித்துவமான வண்ணம் ஒதுக்கப்படும் — முதலில் முன்னமைப்பு வண்ணப்பலகையில் இருந்து, பின்னர் அது தீர்ந்துவிட்டால் எழுந்தாற்போல்.</string>

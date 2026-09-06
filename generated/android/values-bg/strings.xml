@@ -693,7 +693,7 @@
     <string name="settings_official_website">Официален уебсайт</string>
     <string name="settings_open_source_licenses">Лицензи с отворен код</string>
     <string name="settings_privacy_policy">Политика за поверителност</string>
-    <string name="settings_push_server_nav_label">Натискане на сървъра (експериментално)</string>
+    <string name="settings_push_server_nav_label">Натискане на сървъра</string>
     <string name="settings_remember_bulletin_filter">Запомнете филтрите за бюлетини</string>
     <string name="settings_reset_course_colors">Преразпределяне на цветовете на курсовете</string>
     <string name="settings_reset_course_colors_confirm_message">Всеки курс ще получи нов уникален цвят — първо от готовата палитра, после случайно, когато палитрата свърши.</string>

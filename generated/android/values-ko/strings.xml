@@ -693,7 +693,7 @@
     <string name="settings_official_website">공식 웹사이트</string>
     <string name="settings_open_source_licenses">오픈소스 라이선스</string>
     <string name="settings_privacy_policy">개인정보 처리방침</string>
-    <string name="settings_push_server_nav_label">서버 푸시 (실험적)</string>
+    <string name="settings_push_server_nav_label">서버 푸시</string>
     <string name="settings_remember_bulletin_filter">게시판 필터 기억</string>
     <string name="settings_reset_course_colors">수업 색상 재할당</string>
     <string name="settings_reset_course_colors_confirm_message">모든 수업에 고유한 새 색상을 할당합니다. 먼저 프리셋 팔레트에서, 팔레트가 부족하면 무작위로 생성됩니다.</string>

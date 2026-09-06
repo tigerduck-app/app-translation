@@ -693,7 +693,7 @@
     <string name="settings_official_website">Oficiālā vietne</string>
     <string name="settings_open_source_licenses">Atvērtā koda licences</string>
     <string name="settings_privacy_policy">Privātuma politika</string>
-    <string name="settings_push_server_nav_label">Servera push (eksperimentāls)</string>
+    <string name="settings_push_server_nav_label">Servera push</string>
     <string name="settings_remember_bulletin_filter">Atcerēties biļetenu filtrus</string>
     <string name="settings_reset_course_colors">No jauna piešķirt kursu krāsas</string>
     <string name="settings_reset_course_colors_confirm_message">Katram kursam tiks piešķirta jauna, unikāla krāsa — vispirms no iepriekšiestatītās paletes, pēc tās izsmelšanas — nejauši.</string>

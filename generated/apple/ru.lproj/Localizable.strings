@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Live-активность показывает текущее занятие и обратный отсчёт в уведомлениях. «На занятии» и «Скоро начнётся занятие» обновляются в реальном времени только при открытом приложении; «Предупреждение о задании» может своевременно уведомлять и при закрытом приложении.";
 "live_activity_settings_enable" = "Включить live-активность";
 "live_activity_settings_enable_toggle" = "Включить Live Activity";
-"live_activity_settings_footer" = "Показывает текущий урок и задания на экране блокировки или Dynamic Island. Для обновлений в реальном времени приложение должно быть открыто.";
+"live_activity_settings_footer" = "Показывает текущий урок и задания на экране блокировки или Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d ч";
 "live_activity_settings_hours_minutes_label" = "%1$d ч %2$d мин";
 "live_activity_settings_hours_unit" = "Часы";
 "live_activity_settings_lock_screen_hint" = "Если отключено, на экране блокировки отображается только текст-заглушка вроде «Уведомление скрыто». Если включение не помогает, разрешите этот тип уведомлений на экране блокировки в системных настройках.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минуты";
-"live_activity_settings_nav_title" = "Live Activity (экспериментально)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Диапазон: %1$d – %2$d часов";
 "live_activity_settings_range_min_to_hours" = "Диапазон: %1$d мин – %2$d часов";
 "live_activity_settings_range_minutes" = "Диапазон: %1$d – %2$d минут";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Официальный сайт";
 "settings_open_source_licenses" = "Лицензии открытого кода";
 "settings_privacy_policy" = "Политика конфиденциальности";
-"settings_push_server_nav_label" = "Server push (Экспериментально)";
+"settings_push_server_nav_label" = "Server push";
 "settings_remember_bulletin_filter" = "Запомнить фильтры бюллетеней";
 "settings_reset_course_colors" = "Переназначить цвета курсов";
 "settings_reset_course_colors_confirm_message" = "Каждому курсу будет назначен новый уникальный цвет — сначала из палитры, затем случайно, когда палитра исчерпана.";

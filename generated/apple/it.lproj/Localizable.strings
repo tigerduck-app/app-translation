@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "L'attività in tempo reale mostra la lezione attuale e il conto alla rovescia nelle notifiche. \"In lezione\" e \"La lezione sta per iniziare\" si aggiornano in tempo reale solo mentre l'app è aperta; \"Avviso compito\" può comunque avvisare in tempo quando l'app è chiusa.";
 "live_activity_settings_enable" = "Abilita attività in tempo reale";
 "live_activity_settings_enable_toggle" = "Abilita Live Activity";
-"live_activity_settings_footer" = "Mostra la lezione corrente e i compiti sulla schermata di blocco o sulla Dynamic Island. Richiede che l’app sia aperta per aggiornamenti in tempo reale.";
+"live_activity_settings_footer" = "Mostra la lezione corrente e i compiti sulla schermata di blocco o sulla Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d h";
 "live_activity_settings_hours_minutes_label" = "%1$d h %2$d min";
 "live_activity_settings_hours_unit" = "Ore";
 "live_activity_settings_lock_screen_hint" = "Quando disabilitato, la schermata di blocco mostra solo testo segnaposto come \"Notifica nascosta\". Se l'attivazione non ha alcun effetto, consenti questo tipo di notifica sulla schermata di blocco nelle impostazioni di sistema.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minuti";
-"live_activity_settings_nav_title" = "Live Activity (sperimentale)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Intervallo: %1$d – %2$d ore";
 "live_activity_settings_range_min_to_hours" = "Intervallo: %1$d min – %2$d ore";
 "live_activity_settings_range_minutes" = "Intervallo: %1$d – %2$d minuti";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Sito web ufficiale";
 "settings_open_source_licenses" = "Licenze open source";
 "settings_privacy_policy" = "Informativa sulla privacy";
-"settings_push_server_nav_label" = "Push server (Sperimentale)";
+"settings_push_server_nav_label" = "Push server";
 "settings_remember_bulletin_filter" = "Ricorda i filtri del bollettino";
 "settings_reset_course_colors" = "Riassegna i colori dei corsi";
 "settings_reset_course_colors_confirm_message" = "Ogni corso riceverà un colore nuovo e univoco — prima dalla tavolozza preimpostata, poi in modo casuale una volta esaurita.";

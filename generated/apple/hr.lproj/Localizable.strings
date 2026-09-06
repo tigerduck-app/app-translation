@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Aktivnost u stvarnom vremenu prikazuje trenutno predavanje i odbrojavanje u obavijestima. „Na predavanju“ i „Predavanje uskoro počinje“ ažuriraju se u stvarnom vremenu samo dok je aplikacija otvorena; „Upozorenje na zadatak“ može pravovremeno upozoriti i kad je aplikacija zatvorena.";
 "live_activity_settings_enable" = "Omogući aktivnost u stvarnom vremenu";
 "live_activity_settings_enable_toggle" = "Omogući Live Activity";
-"live_activity_settings_footer" = "Prikazuje trenutni sat i zadatke na zaključanom zaslonu ili Dynamic Islandu. Za ažuriranja uživo aplikacija mora biti otvorena.";
+"live_activity_settings_footer" = "Prikazuje trenutni sat i zadatke na zaključanom zaslonu ili Dynamic Islandu.";
 "live_activity_settings_hours_label" = "%1$d h";
 "live_activity_settings_hours_minutes_label" = "%1$d h %2$d min";
 "live_activity_settings_hours_unit" = "Sati";
 "live_activity_settings_lock_screen_hint" = "Kad je onemogućeno, zaključani zaslon prikazuje samo tekst poput „Obavijest skrivena“. Ako omogućavanje i dalje nema učinka, dopustite ovaj tip obavijesti na zaključanom zaslonu u postavkama sustava.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minute";
-"live_activity_settings_nav_title" = "Live Activity (eksperimentalno)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Raspon: %1$d – %2$d sati";
 "live_activity_settings_range_min_to_hours" = "Raspon: %1$d min – %2$d sati";
 "live_activity_settings_range_minutes" = "Raspon: %1$d – %2$d minuta";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Službena web stranica";
 "settings_open_source_licenses" = "Licence otvorenog koda";
 "settings_privacy_policy" = "Pravila privatnosti";
-"settings_push_server_nav_label" = "Poslužiteljski push (eksperimentalno)";
+"settings_push_server_nav_label" = "Poslužiteljski push";
 "settings_remember_bulletin_filter" = "Zapamti filtre biltena";
 "settings_reset_course_colors" = "Ponovno dodijeli boje kolegija";
 "settings_reset_course_colors_confirm_message" = "Svaki kolegij dobit će novu, jedinstvenu boju — najprije iz unaprijed postavljene palete, zatim nasumično kada se paleta iscrpi.";

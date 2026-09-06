@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Direkteaktivitet viser gjeldende time og nedtelling i varsler. «I time» og «Timen starter snart» oppdateres i sanntid bare mens appen er åpen; «Oppgavevarsel» kan fortsatt varsle i tide når appen er lukket.";
 "live_activity_settings_enable" = "Aktiver direkteaktivitet";
 "live_activity_settings_enable_toggle" = "Aktiver Live-aktivitet";
-"live_activity_settings_footer" = "Viser gjeldende time og oppgaver på låseskjermen eller Dynamic Island. Krever at appen er åpen for liveoppdateringer.";
+"live_activity_settings_footer" = "Viser gjeldende time og oppgaver på låseskjermen eller Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d t";
 "live_activity_settings_hours_minutes_label" = "%1$d t %2$d min";
 "live_activity_settings_hours_unit" = "Timer";
 "live_activity_settings_lock_screen_hint" = "Når deaktivert viser låseskjermen bare plassholdertekst som «Varsel skjult». Hvis aktivering fortsatt ikke har effekt, tillat denne varslingstypen på låseskjermen i systeminnstillingene.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minutter";
-"live_activity_settings_nav_title" = "Live-aktivitet (eksperimentell)";
+"live_activity_settings_nav_title" = "Live-aktivitet";
 "live_activity_settings_range_hours" = "Område: %1$d – %2$d timer";
 "live_activity_settings_range_min_to_hours" = "Område: %1$d min – %2$d timer";
 "live_activity_settings_range_minutes" = "Område: %1$d – %2$d minutter";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Offisielt nettsted";
 "settings_open_source_licenses" = "Åpen kildekode-lisenser";
 "settings_privacy_policy" = "Personvernpolicy";
-"settings_push_server_nav_label" = "Server-push (eksperimentell)";
+"settings_push_server_nav_label" = "Server-push";
 "settings_remember_bulletin_filter" = "Husk oppslagstavlefiltre";
 "settings_reset_course_colors" = "Tildel kursfarger på nytt";
 "settings_reset_course_colors_confirm_message" = "Hvert kurs får en ny, unik farge – først fra forhåndsinnstilt palett, deretter tilfeldig når paletten er brukt opp.";

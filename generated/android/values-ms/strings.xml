@@ -693,7 +693,7 @@
     <string name="settings_official_website">Laman web rasmi</string>
     <string name="settings_open_source_licenses">Lesen sumber terbuka</string>
     <string name="settings_privacy_policy">Dasar privasi</string>
-    <string name="settings_push_server_nav_label">Tolak pelayan (Eksperimen)</string>
+    <string name="settings_push_server_nav_label">Tolak pelayan</string>
     <string name="settings_remember_bulletin_filter">Ingat penapis buletin</string>
     <string name="settings_reset_course_colors">Tetapkan semula warna kursus</string>
     <string name="settings_reset_course_colors_confirm_message">Setiap kursus akan diberikan warna baharu yang unik — mula-mula daripada palet praset, kemudian rawak apabila palet habis.</string>

@@ -693,7 +693,7 @@
     <string name="settings_official_website">אתר רשמי</string>
     <string name="settings_open_source_licenses">רישיונות קוד פתוח</string>
     <string name="settings_privacy_policy">מדיניות פרטיות</string>
-    <string name="settings_push_server_nav_label">דחיפת שרת (ניסיוני)</string>
+    <string name="settings_push_server_nav_label">דחיפת שרת</string>
     <string name="settings_remember_bulletin_filter">זכור את מסנני העדכונים</string>
     <string name="settings_reset_course_colors">הקצאה מחדש של צבעי קורסים</string>
     <string name="settings_reset_course_colors_confirm_message">כל קורס יקבל צבע חדש וייחודי — תחילה מהפלטה המוגדרת מראש, ולאחר מכן באופן אקראי כשהפלטה מתמצה.</string>

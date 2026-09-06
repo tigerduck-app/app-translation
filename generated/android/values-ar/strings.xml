@@ -693,7 +693,7 @@
     <string name="settings_official_website">الموقع الرسمي</string>
     <string name="settings_open_source_licenses">تراخيص المصادر المفتوحة</string>
     <string name="settings_privacy_policy">سياسة الخصوصية</string>
-    <string name="settings_push_server_nav_label">دفع الخادم (تجريبي)</string>
+    <string name="settings_push_server_nav_label">دفع الخادم</string>
     <string name="settings_remember_bulletin_filter">تذكر مرشحات النشرة</string>
     <string name="settings_reset_course_colors">إعادة تعيين ألوان المقررات</string>
     <string name="settings_reset_course_colors_confirm_message">سيُسنَد لكل مقرر لون فريد جديد — من اللوحة المحددة أولاً، ثم عشوائياً عند نفاد اللوحة.</string>

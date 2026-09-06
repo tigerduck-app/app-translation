@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "لائیو ایکٹیویٹی اطلاعات میں موجودہ کلاس اور الٹی گنتی دکھاتا ہے۔ \"کلاس میں\" اور \"کلاس جلد شروع\" صرف ایپ کھلی ہونے پر ریئل ٹائم میں اپڈیٹ ہوتے ہیں؛ \"اسائنمنٹ وارننگ\" ایپ بند ہونے پر بھی وقت پر الرٹ کر سکتی ہے۔";
 "live_activity_settings_enable" = "لائیو ایکٹیویٹی فعال کریں";
 "live_activity_settings_enable_toggle" = "لائیو ایکٹیویٹی فعال کریں";
-"live_activity_settings_footer" = "لاک اسکرین یا Dynamic Island پر موجودہ کلاس اور اسائنمنٹس دکھاتا ہے۔ لائیو اپڈیٹس کے لیے ایپ کھلی ہونی چاہیے۔";
+"live_activity_settings_footer" = "لاک اسکرین یا Dynamic Island پر موجودہ کلاس اور اسائنمنٹس دکھاتا ہے۔";
 "live_activity_settings_hours_label" = "%1$d گھنٹہ";
 "live_activity_settings_hours_minutes_label" = "%1$d گھنٹہ %2$d منٹ";
 "live_activity_settings_hours_unit" = "گھنٹے";
 "live_activity_settings_lock_screen_hint" = "بند ہونے پر لاک اسکرین صرف \"اطلاع چھپی ہوئی ہے\" جیسا متن دکھاتی ہے۔ اگر فعال کرنے کے باوجود اثر نہ ہو تو سسٹم ترتیبات میں اس اطلاع قسم کو لاک اسکرین پر اجازت دیں۔";
 "live_activity_settings_minutes_label" = "%1$d منٹ";
 "live_activity_settings_minutes_unit" = "منٹ";
-"live_activity_settings_nav_title" = "Live Activity (تجرباتی)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "رینج: %1$d – %2$d گھنٹے";
 "live_activity_settings_range_min_to_hours" = "رینج: %1$d منٹ – %2$d گھنٹے";
 "live_activity_settings_range_minutes" = "رینج: %1$d – %2$d منٹ";
@@ -673,7 +673,7 @@
 "settings_official_website" = "آفیشل ویب سائٹ";
 "settings_open_source_licenses" = "اوپن سورس لائسنسز";
 "settings_privacy_policy" = "رازداری کی پالیسی";
-"settings_push_server_nav_label" = "سرور پش (تجرباتی)";
+"settings_push_server_nav_label" = "سرور پش";
 "settings_remember_bulletin_filter" = "بلیٹن فلٹرز یاد رکھیں";
 "settings_reset_course_colors" = "کورس کے رنگ دوبارہ تفویض کریں";
 "settings_reset_course_colors_confirm_message" = "ہر کورس کو ایک نیا اور منفرد رنگ تفویض ہوگا — پہلے پری سیٹ پیلیٹ سے، پیلیٹ ختم ہونے پر بے ترتیب۔";

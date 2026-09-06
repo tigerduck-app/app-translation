@@ -693,7 +693,7 @@
     <string name="settings_official_website">Site web oficial</string>
     <string name="settings_open_source_licenses">Licențe open-source</string>
     <string name="settings_privacy_policy">Politică de confidențialitate</string>
-    <string name="settings_push_server_nav_label">Push server (Experimental)</string>
+    <string name="settings_push_server_nav_label">Push server</string>
     <string name="settings_remember_bulletin_filter">Reține filtrele buletinului</string>
     <string name="settings_reset_course_colors">Reatribuie culorile cursurilor</string>
     <string name="settings_reset_course_colors_confirm_message">Fiecare curs primește o culoare nouă, unică — întâi din paleta presetată, apoi aleatoriu când paleta este epuizată.</string>

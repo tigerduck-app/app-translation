@@ -439,14 +439,14 @@
 "live_activity_settings_description" = "Bein virkni sýnir núverandi tíma og niðurtal í tilkynningum. \"Í tíma\" og \"Tími byrjar bráðum\" uppfærast í rauntíma aðeins þegar forritið er opið; \"Verkefnaviðvörun\" getur enn gefið tilkynningu á réttum tíma þegar forritið er lokað.";
 "live_activity_settings_enable" = "Virkja beina virkni";
 "live_activity_settings_enable_toggle" = "Virkja Live Activity";
-"live_activity_settings_footer" = "Sýnir núverandi tíma og verkefni á læsiskjánum eða Dynamic Island. Forritið þarf að vera opið fyrir beinar uppfærslur.";
+"live_activity_settings_footer" = "Sýnir núverandi tíma og verkefni á læsiskjánum eða Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d klst";
 "live_activity_settings_hours_minutes_label" = "%1$d klst %2$d mín";
 "live_activity_settings_hours_unit" = "Klukkustundir";
 "live_activity_settings_lock_screen_hint" = "Þegar slökkt er á sýnir læsingaskjárinn aðeins staðgengilstexta eins og \"Tilkynning falin\". Ef að virkja hefur enn engin áhrif, leyfðu þessa tegund tilkynninga á læsingaskjánum í kerfistillingum.";
 "live_activity_settings_minutes_label" = "%1$d mín";
 "live_activity_settings_minutes_unit" = "Mínútur";
-"live_activity_settings_nav_title" = "Live Activity (tilraun)";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Svið: %1$d – %2$d klukkustundir";
 "live_activity_settings_range_min_to_hours" = "Svið: %1$d mín – %2$d klukkustundir";
 "live_activity_settings_range_minutes" = "Svið: %1$d – %2$d mínútur";
@@ -673,7 +673,7 @@
 "settings_official_website" = "Opinber vefsíða";
 "settings_open_source_licenses" = "Opinn uppspretta leyfi";
 "settings_privacy_policy" = "Persónuverndarstefna";
-"settings_push_server_nav_label" = "Þjónsendari (tilraunakennt)";
+"settings_push_server_nav_label" = "Þjónsendari";
 "settings_remember_bulletin_filter" = "Muna síur tilkynninga";
 "settings_reset_course_colors" = "Endurúthluta litum námskeiða";
 "settings_reset_course_colors_confirm_message" = "Hverju námskeiði verður úthlutað nýjum, einstökum lit — fyrst úr fyrirfram skilgreindum litapall, og síðan af handahófi þegar pallinn klárast.";

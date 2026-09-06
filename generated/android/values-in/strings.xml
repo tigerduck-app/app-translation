@@ -693,7 +693,7 @@
     <string name="settings_official_website">Situs web resmi</string>
     <string name="settings_open_source_licenses">Lisensi sumber terbuka</string>
     <string name="settings_privacy_policy">Kebijakan privasi</string>
-    <string name="settings_push_server_nav_label">Push server (Eksperimental)</string>
+    <string name="settings_push_server_nav_label">Push server</string>
     <string name="settings_remember_bulletin_filter">Ingat filter buletin</string>
     <string name="settings_reset_course_colors">Tetapkan ulang warna kursus</string>
     <string name="settings_reset_course_colors_confirm_message">Setiap kursus akan diberi warna baru yang unik — pertama dari palet preset, lalu acak setelah palet habis.</string>
