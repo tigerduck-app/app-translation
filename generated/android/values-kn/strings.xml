@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">ಡೀಫಾಲ್ಟ್‌ಗೆ ಮರಳಿಸಿ</string>
     <string name="class_table_rename_title">ಮರುಹೆಸರಿಸಿ</string>
     <string name="class_table_rename_with_course">ಮರುಹೆಸರಿಸಿ — %1$s</string>
-    <string name="class_table_reset_message">ಇದು ನಿಮ್ಮ ಕೋರ್ಸ್ ಟೇಬಲ್ ಅನ್ನು ನಿಮ್ಮ Moodle ನೋಂದಣಿಗೆ ಹೊಂದಿಕೆಯಾಗುವಂತೆ ಮರುಹೊಂದಿಸುತ್ತದೆ. ಮರೆಮಾಡಿದ ಕೋರ್ಸ್‌ಗಳು ಮತ್ತೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಹಸ್ತಚಾಲಿತವಾಗಿ ಸೇರಿಸಿದ ಕೋರ್ಸ್‌ಗಳು ತೆಗೆದುಹಾಕಲ್ಪಡುತ್ತವೆ.</string>
+    <string name="class_table_reset_message">ಕೋರ್ಸ್ ಟೇಬಲ್ ಅನ್ನು Moodle, ಕೋರ್ಸ್ ಆಯ್ಕೆ ವ್ಯವಸ್ಥೆ ಮತ್ತು ಅಂಕಗಳ ವ್ಯವಸ್ಥೆಯ ಆಧಾರದಲ್ಲಿ ಮತ್ತೆ ರಚಿಸಲಾಗುತ್ತದೆ. ಹಸ್ತಚಾಲಿತವಾಗಿ ಸೇರಿಸಿದ, ಅಳಿಸಿದ ಮತ್ತು ಮರುಹೆಸರಿಸಿದ ಕೋರ್ಸ್‌ಗಳು ಕಳೆದುಹೋಗುತ್ತವೆ.</string>
     <string name="class_table_reset_title">ಕೋರ್ಸ್ ಟೇಬಲ್ ಮರುಹೊಂದಿಸಿ</string>
+    <string name="class_table_reset_title_with_semester">%1$s ಕೋರ್ಸ್ ಟೇಬಲ್ ಮರುಹೊಂದಿಸಿ</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">ನಿಮ್ಮ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ನೋಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
     <string name="class_table_total_credits_value">%1$d ಕ್ರೆಡಿಟ್‌ಗಳು</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">ಸರ್ವರ್ ಬಳಸಿ</string>
     <string name="sync_fdroid_unavailable_body">ಕ್ಲೌಡ್ ಸಿಂಕ್‌ಗೆ Google Play ಸೇವೆಗಳು ಅಗತ್ಯ ಮತ್ತು F-Droid ಬಿಲ್ಡ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.</string>
     <string name="sync_fdroid_unavailable_title">F-Droid ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="sync_status_failed">ವಿಫಲ</string>
+    <string name="sync_status_ok">ಸರಿ</string>
+    <string name="sync_status_syncing">ಸಿಂಕ್ ಆಗುತ್ತಿದೆ…</string>
+    <string name="sync_status_title">ಸಿಂಕ್ ಸ್ಥಿತಿ</string>
     <string name="sync_success_content_description">ಸಿಂಕ್ ಯಶಸ್ವಿಯಾಗಿದೆ</string>
     <string name="tab_editor_apply_action">ಅನ್ವಯಿಸಿ</string>
     <string name="tab_editor_drag_reorder">ಮರುಕ್ರಮಿಸಲು ಎಳೆಯಿರಿ</string>

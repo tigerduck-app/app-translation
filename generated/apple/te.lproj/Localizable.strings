@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "డిఫాల్ట్‌కు తిరిగి వెళ్ళు";
 "class_table_rename_title" = "పేరు మార్చండి";
 "class_table_rename_with_course" = "పేరు మార్చండి — %1$@";
-"class_table_reset_message" = "ఇది మీ కోర్సు టేబుల్‌ను మీ Moodle నమోదుకు సరిపోయేలా రీసెట్ చేస్తుంది. దాచిన కోర్సులు మళ్ళీ కనిపిస్తాయి మరియు మాన్యువల్‌గా జోడించిన కోర్సులు తొలగించబడతాయి.";
+"class_table_reset_message" = "Moodle, కోర్సు ఎంపిక వ్యవస్థ మరియు మార్కుల వ్యవస్థ ఆధారంగా కోర్సు టేబుల్ మళ్లీ రూపొందించబడుతుంది. మాన్యువల్‌గా జోడించిన, తొలగించిన మరియు పేరు మార్చిన కోర్సులు పోతాయి.";
 "class_table_reset_title" = "కోర్సు టేబుల్ రీసెట్ చేయండి";
+"class_table_reset_title_with_semester" = "%1$@ కోర్సు టేబుల్ రీసెట్ చేయండి";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "మీ క్లాస్ టేబుల్ చూడటానికి సైన్ ఇన్ చేయండి";
 "class_table_total_credits_value" = "%1$d క్రెడిట్‌లు";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "సర్వర్ ఉపయోగించు";
 "sync_fdroid_unavailable_body" = "క్లౌడ్ సింక్‌కు Google Play సేవలు అవసరం, F-Droid బిల్డ్‌లో అందుబాటులో లేదు.";
 "sync_fdroid_unavailable_title" = "F-Droid లో అందుబాటులో లేదు";
+"sync_status_failed" = "విఫలమైంది";
+"sync_status_ok" = "సరే";
+"sync_status_syncing" = "సింక్ అవుతోంది…";
+"sync_status_title" = "సింక్ స్థితి";
 "sync_success_content_description" = "సమకాలీకరణ విజయవంతమైంది";
 "tab_editor_apply_action" = "వర్తించు";
 "tab_editor_drag_reorder" = "క్రమాన్ని మార్చడానికి లాగండి";

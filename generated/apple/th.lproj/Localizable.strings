@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "คืนค่าเริ่มต้น";
 "class_table_rename_title" = "เปลี่ยนชื่อ";
 "class_table_rename_with_course" = "เปลี่ยนชื่อ — %1$@";
-"class_table_reset_message" = "การดำเนินการนี้จะรีเซ็ตตารางเรียนของคุณให้ตรงกับการลงทะเบียนใน Moodle รายวิชาที่ซ่อนไว้จะปรากฏขึ้นอีกครั้ง และรายวิชาที่เพิ่มด้วยตนเองจะถูกลบออก";
+"class_table_reset_message" = "ตารางเรียนจะถูกสร้างใหม่ตามข้อมูลจาก Moodle ระบบลงทะเบียนเรียน และระบบผลการเรียน วิชาที่เพิ่ม ลบ หรือเปลี่ยนชื่อด้วยตนเองจะหายไป";
 "class_table_reset_title" = "รีเซ็ตตารางเรียน";
+"class_table_reset_title_with_semester" = "รีเซ็ตตารางเรียน %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_total_credits_value" = "%1$d หน่วยกิต";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "ใช้ของเซิร์ฟเวอร์";
 "sync_fdroid_unavailable_body" = "การซิงค์คลาวด์ต้องการ Google Play Services และไม่พร้อมใช้งานในเวอร์ชัน F-Droid";
 "sync_fdroid_unavailable_title" = "ไม่พร้อมใช้งานบน F-Droid";
+"sync_status_failed" = "ล้มเหลว";
+"sync_status_ok" = "ปกติ";
+"sync_status_syncing" = "กำลังซิงค์…";
+"sync_status_title" = "สถานะการซิงค์";
 "sync_success_content_description" = "ซิงค์สำเร็จ";
 "tab_editor_apply_action" = "นำไปใช้";
 "tab_editor_drag_reorder" = "ลากเพื่อจัดเรียง";

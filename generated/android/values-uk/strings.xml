@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Повернути до типового</string>
     <string name="class_table_rename_title">Перейменувати</string>
     <string name="class_table_rename_with_course">Перейменувати — %1$s</string>
-    <string name="class_table_reset_message">Це скине ваш розклад відповідно до реєстрації в Moodle. Приховані курси з\'являться знову, а додані вручну курси будуть видалені.</string>
+    <string name="class_table_reset_message">Розклад буде перебудовано за даними Moodle, системи вибору курсів і системи оцінок. Курси, додані, видалені або перейменовані вручну, буде втрачено.</string>
     <string name="class_table_reset_title">Скинути розклад</string>
+    <string name="class_table_reset_title_with_semester">Скинути розклад %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Увійдіть, щоб переглянути розклад занять</string>
     <string name="class_table_total_credits_value">%1$d кредитів</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Використати сервер</string>
     <string name="sync_fdroid_unavailable_body">Хмарна синхронізація потребує сервісів Google Play і недоступна у збірці F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">Недоступно в F-Droid</string>
+    <string name="sync_status_failed">Помилка</string>
+    <string name="sync_status_ok">ОК</string>
+    <string name="sync_status_syncing">Синхронізація…</string>
+    <string name="sync_status_title">Стан синхронізації</string>
     <string name="sync_success_content_description">Синхронізація успішна</string>
     <string name="tab_editor_apply_action">Застосувати</string>
     <string name="tab_editor_drag_reorder">Перетягніть, щоб змінити порядок</string>

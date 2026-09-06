@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Gendan standard";
 "class_table_rename_title" = "Omdøb";
 "class_table_rename_with_course" = "Omdøb — %1$@";
-"class_table_reset_message" = "Dette vil nulstille dit skema til at matche din Moodle-tilmelding. Skjulte kurser vil dukke op igen, og manuelt tilføjede kurser vil blive fjernet.";
+"class_table_reset_message" = "Skemaet genopbygges ud fra Moodle, kursusvalgssystemet og karaktersystemet. Manuelt tilføjede, slettede og omdøbte kurser går tabt.";
 "class_table_reset_title" = "Nulstil skema";
+"class_table_reset_title_with_semester" = "Nulstil skema for %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Log ind for at se din klassetabel";
 "class_table_total_credits_value" = "%1$d ECTS-point";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Brug server";
 "sync_fdroid_unavailable_body" = "Cloud Sync kræver Google Play-tjenester og er ikke tilgængelig i F-Droid-versionen.";
 "sync_fdroid_unavailable_title" = "Ikke tilgængelig på F-Droid";
+"sync_status_failed" = "Mislykkedes";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Synkroniserer…";
+"sync_status_title" = "Synkroniseringsstatus";
 "sync_success_content_description" = "Synkronisering lykkedes";
 "tab_editor_apply_action" = "Anvende";
 "tab_editor_drag_reorder" = "Træk for at omarrangere";

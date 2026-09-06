@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Tilbakestill til standard</string>
     <string name="class_table_rename_title">Gi nytt navn</string>
     <string name="class_table_rename_with_course">Gi nytt navn — %1$s</string>
-    <string name="class_table_reset_message">Dette vil tilbakestille timeplanen din for å samsvare med Moodle-registreringen din. Skjulte emner vil dukke opp igjen, og manuelt lagt til emner vil bli fjernet.</string>
+    <string name="class_table_reset_message">Timeplanen bygges opp på nytt fra Moodle, fagvalgsystemet og karaktersystemet. Manuelt lagt til, slettede og omdøpte emner går tapt.</string>
     <string name="class_table_reset_title">Tilbakestill timeplan</string>
+    <string name="class_table_reset_title_with_semester">Tilbakestill timeplan for %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Logg inn for å se timeplanen din</string>
     <string name="class_table_total_credits_value">%1$d studiepoeng</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Bruk server</string>
     <string name="sync_fdroid_unavailable_body">Skysynkronisering krever Google Play-tjenester og er ikke tilgjengelig i F-Droid-versjonen.</string>
     <string name="sync_fdroid_unavailable_title">Ikke tilgjengelig på F-Droid</string>
+    <string name="sync_status_failed">Mislyktes</string>
+    <string name="sync_status_ok">OK</string>
+    <string name="sync_status_syncing">Synkroniserer…</string>
+    <string name="sync_status_title">Synkroniseringsstatus</string>
     <string name="sync_success_content_description">Synkronisering vellykket</string>
     <string name="tab_editor_apply_action">Bruk</string>
     <string name="tab_editor_drag_reorder">Dra for å endre rekkefølge</string>

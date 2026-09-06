@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Standaard herstellen";
 "class_table_rename_title" = "Naam wijzigen";
 "class_table_rename_with_course" = "Naam wijzigen — %1$@";
-"class_table_reset_message" = "Dit zal uw lesrooster herstellen op basis van uw Moodle-inschrijving. Verborgen vakken worden weer zichtbaar en handmatig toegevoegde vakken worden verwijderd.";
+"class_table_reset_message" = "Het lesrooster wordt opnieuw opgebouwd op basis van Moodle, de vakkeuze en het cijfersysteem. Handmatig toegevoegde, verwijderde en hernoemde vakken gaan verloren.";
 "class_table_reset_title" = "Lesrooster herstellen";
+"class_table_reset_title_with_semester" = "Lesrooster %1$@ herstellen";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Meld je aan om je rooster te bekijken";
 "class_table_total_credits_value" = "%1$d studiepunten";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Server gebruiken";
 "sync_fdroid_unavailable_body" = "Cloud Sync vereist Google Play-services en is niet beschikbaar in de F-Droid-versie.";
 "sync_fdroid_unavailable_title" = "Niet beschikbaar op F-Droid";
+"sync_status_failed" = "Mislukt";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Synchroniseren…";
+"sync_status_title" = "Synchronisatiestatus";
 "sync_success_content_description" = "Synchronisatie geslaagd";
 "tab_editor_apply_action" = "Toepassen";
 "tab_editor_drag_reorder" = "Sleep om opnieuw te ordenen";

@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">デフォルトに戻す</string>
     <string name="class_table_rename_title">名前を変更</string>
     <string name="class_table_rename_with_course">名前を変更 — %1$s</string>
-    <string name="class_table_reset_message">時間割が Moodle の履修登録に合わせてリセットされます。非表示にした科目が再表示され、手動で追加した科目は削除されます。</string>
+    <string name="class_table_reset_message">Moodle、履修登録システム、成績システムの状態に基づいて時間割をリセットします。手動で追加・削除・名前変更した科目は失われます。</string>
     <string name="class_table_reset_title">時間割をリセット</string>
+    <string name="class_table_reset_title_with_semester">%1$s の時間割をリセット</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">時間割を表示するにはサインインしてください</string>
     <string name="class_table_total_credits_value">%1$d 単位</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">サーバーを使用</string>
     <string name="sync_fdroid_unavailable_body">クラウド同期には Google Play サービスが必要です。F-Droid ビルドでは利用できません。</string>
     <string name="sync_fdroid_unavailable_title">F-Droid では利用不可</string>
+    <string name="sync_status_failed">失敗</string>
+    <string name="sync_status_ok">正常</string>
+    <string name="sync_status_syncing">同期中…</string>
+    <string name="sync_status_title">同期状態</string>
     <string name="sync_success_content_description">同期に成功しました</string>
     <string name="tab_editor_apply_action">適用</string>
     <string name="tab_editor_drag_reorder">ドラッグして並び替え</string>

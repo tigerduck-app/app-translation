@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Endurstilla á sjálfgefið</string>
     <string name="class_table_rename_title">Endurnefna</string>
     <string name="class_table_rename_with_course">Endurnefna — %1$s</string>
-    <string name="class_table_reset_message">Þetta mun endurstilla stundatöfluna þína til að passa við Moodle-skráninguna þína. Faldir áfangar munu birtast aftur og handvirkt bættir áfangar verða fjarlægðir.</string>
+    <string name="class_table_reset_message">Stundataflan verður endurbyggð út frá Moodle, námsvalskerfinu og einkunnakerfinu. Áfangar sem var bætt við, fjarlægðir eða endurnefndir handvirkt glatast.</string>
     <string name="class_table_reset_title">Endurstilla stundatöflu</string>
+    <string name="class_table_reset_title_with_semester">Endurstilla stundatöflu %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
     <string name="class_table_total_credits_value">%1$d einingar</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Nota þjón</string>
     <string name="sync_fdroid_unavailable_body">Skýjasamstilling krefst Google Play þjónustu og er ekki í boði í F-Droid útgáfunni.</string>
     <string name="sync_fdroid_unavailable_title">Ekki í boði á F-Droid</string>
+    <string name="sync_status_failed">Mistókst</string>
+    <string name="sync_status_ok">Í lagi</string>
+    <string name="sync_status_syncing">Samstillir…</string>
+    <string name="sync_status_title">Staða samstillingar</string>
     <string name="sync_success_content_description">Samstilling tókst</string>
     <string name="tab_editor_apply_action">Nota</string>
     <string name="tab_editor_drag_reorder">Dragðu til að raða</string>

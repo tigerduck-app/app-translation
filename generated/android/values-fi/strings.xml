@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Palauta oletus</string>
     <string name="class_table_rename_title">Nimeä uudelleen</string>
     <string name="class_table_rename_with_course">Nimeä uudelleen — %1$s</string>
-    <string name="class_table_reset_message">Tämä palauttaa lukujärjestyksesi vastaamaan Moodle-ilmoittautumistasi. Piilotetut kurssit tulevat takaisin näkyviin ja manuaalisesti lisätyt kurssit poistetaan.</string>
+    <string name="class_table_reset_message">Lukujärjestys rakennetaan uudelleen Moodlen, kurssivalintajärjestelmän ja arvosanajärjestelmän perusteella. Käsin lisätyt, poistetut ja uudelleennimetyt kurssit menetetään.</string>
     <string name="class_table_reset_title">Palauta lukujärjestys</string>
+    <string name="class_table_reset_title_with_semester">Palauta lukujärjestys %1$s</string>
     <string name="class_table_semester_picker_label">Lukukausi</string>
     <string name="class_table_sign_in_required_message">Kirjaudu sisään nähdäksesi luokkataulukkosi</string>
     <string name="class_table_total_credits_value">%1$d opintopistettä</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Käytä palvelinta</string>
     <string name="sync_fdroid_unavailable_body">Pilvisynkronointi vaatii Google Play -palvelut eikä ole käytettävissä F-Droid-versiossa.</string>
     <string name="sync_fdroid_unavailable_title">Ei saatavilla F-Droidissa</string>
+    <string name="sync_status_failed">Epäonnistui</string>
+    <string name="sync_status_ok">OK</string>
+    <string name="sync_status_syncing">Synkronoidaan…</string>
+    <string name="sync_status_title">Synkronoinnin tila</string>
     <string name="sync_success_content_description">Synkronointi onnistui</string>
     <string name="tab_editor_apply_action">Käytä</string>
     <string name="tab_editor_drag_reorder">Vedä järjestelläksesi</string>

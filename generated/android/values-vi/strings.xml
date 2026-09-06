@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Khôi phục mặc định</string>
     <string name="class_table_rename_title">Đổi tên</string>
     <string name="class_table_rename_with_course">Đổi tên — %1$s</string>
-    <string name="class_table_reset_message">Thao tác này sẽ đặt lại lịch học của bạn theo đăng ký trên Moodle. Các môn đã ẩn sẽ hiển thị lại và các môn được thêm thủ công sẽ bị xóa.</string>
+    <string name="class_table_reset_message">Lịch học sẽ được dựng lại từ Moodle, hệ thống đăng ký môn học và hệ thống điểm. Các môn được thêm, xoá hoặc đổi tên thủ công sẽ bị mất.</string>
     <string name="class_table_reset_title">Đặt lại lịch học</string>
+    <string name="class_table_reset_title_with_semester">Đặt lại lịch học %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Đăng nhập để xem thời khóa biểu</string>
     <string name="class_table_total_credits_value">%1$d tín chỉ</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Dùng máy chủ</string>
     <string name="sync_fdroid_unavailable_body">Đồng bộ đám mây yêu cầu Dịch vụ Google Play và không khả dụng trong bản F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">Không khả dụng trên F-Droid</string>
+    <string name="sync_status_failed">Thất bại</string>
+    <string name="sync_status_ok">Bình thường</string>
+    <string name="sync_status_syncing">Đang đồng bộ…</string>
+    <string name="sync_status_title">Trạng thái đồng bộ</string>
     <string name="sync_success_content_description">Đồng bộ thành công</string>
     <string name="tab_editor_apply_action">Áp dụng</string>
     <string name="tab_editor_drag_reorder">Kéo để sắp xếp lại</string>

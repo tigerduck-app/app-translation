@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Przywróć domyślne";
 "class_table_rename_title" = "Zmień nazwę";
 "class_table_rename_with_course" = "Zmień nazwę — %1$@";
-"class_table_reset_message" = "Spowoduje to zresetowanie planu zajęć zgodnie z zapisem w Moodle. Ukryte kursy pojawią się ponownie, a ręcznie dodane kursy zostaną usunięte.";
+"class_table_reset_message" = "Plan zajęć zostanie odbudowany na podstawie Moodle, systemu wyboru przedmiotów i systemu ocen. Ręcznie dodane, usunięte i przemianowane przedmioty zostaną utracone.";
 "class_table_reset_title" = "Resetuj plan zajęć";
+"class_table_reset_title_with_semester" = "Resetuj plan zajęć %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_total_credits_value" = "%1$d ECTS";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Użyj serwera";
 "sync_fdroid_unavailable_body" = "Synchronizacja w chmurze wymaga usług Google Play i nie jest dostępna w wersji F-Droid.";
 "sync_fdroid_unavailable_title" = "Niedostępne na F-Droid";
+"sync_status_failed" = "Niepowodzenie";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Synchronizowanie…";
+"sync_status_title" = "Stan synchronizacji";
 "sync_success_content_description" = "Synchronizacja zakończona powodzeniem";
 "tab_editor_apply_action" = "Zastosuj";
 "tab_editor_drag_reorder" = "Przeciągnij, aby zmienić kolejność";

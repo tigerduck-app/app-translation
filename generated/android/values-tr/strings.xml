@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Varsayılana döndür</string>
     <string name="class_table_rename_title">Yeniden adlandır</string>
     <string name="class_table_rename_with_course">Yeniden adlandır — %1$s</string>
-    <string name="class_table_reset_message">Bu, ders programınızı Moodle kaydınızla eşleşecek şekilde sıfırlayacaktır. Gizlenen dersler tekrar görünecek ve elle eklenen dersler kaldırılacaktır.</string>
+    <string name="class_table_reset_message">Ders programı Moodle, ders seçim sistemi ve not sistemine göre yeniden oluşturulacak. Elle eklenen, silinen ve yeniden adlandırılan dersler kaybolacak.</string>
     <string name="class_table_reset_title">Ders programını sıfırla</string>
+    <string name="class_table_reset_title_with_semester">%1$s ders programını sıfırla</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Ders programınızı görmek için oturum açın</string>
     <string name="class_table_total_credits_value">%1$d kredi</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Sunucuyu Kullan</string>
     <string name="sync_fdroid_unavailable_body">Bulut Senkronizasyon, Google Play Hizmetleri gerektirir ve F-Droid sürümünde mevcut değildir.</string>
     <string name="sync_fdroid_unavailable_title">F-Droid\'de mevcut değil</string>
+    <string name="sync_status_failed">Başarısız</string>
+    <string name="sync_status_ok">Tamam</string>
+    <string name="sync_status_syncing">Eşitleniyor…</string>
+    <string name="sync_status_title">Eşitleme durumu</string>
     <string name="sync_success_content_description">Eşitleme başarılı</string>
     <string name="tab_editor_apply_action">Uygula</string>
     <string name="tab_editor_drag_reorder">Sıralamak için sürükleyin</string>

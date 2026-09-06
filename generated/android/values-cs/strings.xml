@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Obnovit výchozí</string>
     <string name="class_table_rename_title">Přejmenovat</string>
     <string name="class_table_rename_with_course">Přejmenovat — %1$s</string>
-    <string name="class_table_reset_message">Tímto se obnoví váš rozvrh předmětů podle zápisu v Moodle. Skryté předměty se znovu zobrazí a ručně přidané předměty budou odstraněny.</string>
+    <string name="class_table_reset_message">Rozvrh bude znovu sestaven podle Moodle, systému výběru kurzů a systému známek. Ručně přidané, odstraněné a přejmenované předměty budou ztraceny.</string>
     <string name="class_table_reset_title">Obnovit rozvrh předmětů</string>
+    <string name="class_table_reset_title_with_semester">Obnovit rozvrh %1$s</string>
     <string name="class_table_semester_picker_label">Semestr</string>
     <string name="class_table_sign_in_required_message">Chcete-li zobrazit tabulku třídy, přihlaste se</string>
     <string name="class_table_total_credits_value">%1$d kreditů</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Použít server</string>
     <string name="sync_fdroid_unavailable_body">Cloudová synchronizace vyžaduje služby Google Play a není dostupná v sestavení F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">Nedostupné na F-Droid</string>
+    <string name="sync_status_failed">Selhalo</string>
+    <string name="sync_status_ok">OK</string>
+    <string name="sync_status_syncing">Synchronizace…</string>
+    <string name="sync_status_title">Stav synchronizace</string>
     <string name="sync_success_content_description">Synchronizace úspěšná</string>
     <string name="tab_editor_apply_action">Použít</string>
     <string name="tab_editor_drag_reorder">Přetažením změníte pořadí</string>

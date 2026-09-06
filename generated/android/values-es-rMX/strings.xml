@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Restablecer predeterminado</string>
     <string name="class_table_rename_title">Renombrar</string>
     <string name="class_table_rename_with_course">Renombrar — %1$s</string>
-    <string name="class_table_reset_message">Esto restablecerá tu horario de cursos para que coincida con tu inscripción en Moodle. Los cursos ocultos volverán a aparecer y los cursos añadidos manualmente se eliminarán.</string>
+    <string name="class_table_reset_message">El horario se reconstruirá a partir de Moodle, el sistema de selección de cursos y el sistema de calificaciones. Los cursos añadidos, eliminados o renombrados manualmente se perderán.</string>
     <string name="class_table_reset_title">Restablecer horario de cursos</string>
+    <string name="class_table_reset_title_with_semester">Restablecer horario de %1$s</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Inicia sesión para ver tu tabla de clases</string>
     <string name="class_table_total_credits_value">%1$d créditos</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Usar servidor</string>
     <string name="sync_fdroid_unavailable_body">La sincronización en la nube requiere Google Play Services y no está disponible en la versión F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">No disponible en F-Droid</string>
+    <string name="sync_status_failed">Error</string>
+    <string name="sync_status_ok">Correcto</string>
+    <string name="sync_status_syncing">Sincronizando…</string>
+    <string name="sync_status_title">Estado de sincronización</string>
     <string name="sync_success_content_description">Sincronización exitosa</string>
     <string name="tab_editor_apply_action">Aplicar</string>
     <string name="tab_editor_drag_reorder">Arrastra para reordenar</string>

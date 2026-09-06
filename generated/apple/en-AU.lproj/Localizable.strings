@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Revert to default";
 "class_table_rename_title" = "Rename";
 "class_table_rename_with_course" = "Rename — %1$@";
-"class_table_reset_message" = "This will reset your course timetable to match your Moodle enrolment. Hidden courses will reappear and manually added courses will be removed.";
+"class_table_reset_message" = "This will rebuild the course timetable from Moodle, the course selection system and the grade system. Manually added, deleted and renamed courses will be lost.";
 "class_table_reset_title" = "Reset course timetable";
+"class_table_reset_title_with_semester" = "Reset %1$@ course timetable";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Sign in to view your class table";
 "class_table_total_credits_value" = "%1$d credits";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Use Server";
 "sync_fdroid_unavailable_body" = "Cloud Sync requires Google Play Services and is not available in the F-Droid build.";
 "sync_fdroid_unavailable_title" = "Not available on F-Droid";
+"sync_status_failed" = "Failed";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Syncing…";
+"sync_status_title" = "Sync status";
 "sync_success_content_description" = "Sync successful";
 "tab_editor_apply_action" = "Apply";
 "tab_editor_drag_reorder" = "Drag to reorder";

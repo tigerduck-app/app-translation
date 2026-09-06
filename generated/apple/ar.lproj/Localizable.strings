@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "العودة إلى الافتراضي";
 "class_table_rename_title" = "إعادة التسمية";
 "class_table_rename_with_course" = "إعادة التسمية — %1$@";
-"class_table_reset_message" = "سيتم إعادة تعيين جدول المواد ليتوافق مع تسجيلك في Moodle. ستظهر المواد المخفية مجددًا وسيتم حذف المواد المضافة يدويًا.";
+"class_table_reset_message" = "سيُعاد بناء الجدول وفق Moodle ونظام تسجيل المقررات ونظام الدرجات. ستُفقد المقررات المضافة أو المحذوفة أو المُعاد تسميتها يدويًا.";
 "class_table_reset_title" = "إعادة تعيين جدول المواد";
+"class_table_reset_title_with_semester" = "إعادة تعيين جدول %1$@";
 "class_table_semester_picker_label" = "الفصل الدراسي";
 "class_table_sign_in_required_message" = "قم بتسجيل الدخول لعرض جدول صفك";
 "class_table_total_credits_value" = "%1$d ساعات معتمدة";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "استخدام الخادم";
 "sync_fdroid_unavailable_body" = "تتطلب المزامنة السحابية خدمات Google Play وغير متوفرة في إصدار F-Droid.";
 "sync_fdroid_unavailable_title" = "غير متوفر على F-Droid";
+"sync_status_failed" = "فشل";
+"sync_status_ok" = "سليم";
+"sync_status_syncing" = "جارٍ المزامنة…";
+"sync_status_title" = "حالة المزامنة";
 "sync_success_content_description" = "تمت المزامنة بنجاح";
 "tab_editor_apply_action" = "يتقدم";
 "tab_editor_drag_reorder" = "اسحب لإعادة الترتيب";

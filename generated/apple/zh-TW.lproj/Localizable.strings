@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "回復預設";
 "class_table_rename_title" = "重新命名";
 "class_table_rename_with_course" = "重新命名 — %1$@";
-"class_table_reset_message" = "這會將你的課表重置為 Moodle 選課紀錄。被隱藏的課程會重新出現，手動新增的課程會被移除。";
+"class_table_reset_message" = "將根據 Moodle、選課系統、成績系統的狀態進行重置，手動新增、刪除與重命名的課都會遺失";
 "class_table_reset_title" = "重置課表";
+"class_table_reset_title_with_semester" = "重置 %1$@ 課表";
 "class_table_semester_picker_label" = "學期";
 "class_table_sign_in_required_message" = "尚未登入，無法查看課表";
 "class_table_total_credits_value" = "%1$d 學分";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "使用伺服器";
 "sync_fdroid_unavailable_body" = "雲端同步需要 Google Play 服務，F-Droid 版本不支援此功能。";
 "sync_fdroid_unavailable_title" = "F-Droid 不支援";
+"sync_status_failed" = "失敗";
+"sync_status_ok" = "正常";
+"sync_status_syncing" = "同步中…";
+"sync_status_title" = "同步狀態";
 "sync_success_content_description" = "同步成功";
 "tab_editor_apply_action" = "套用";
 "tab_editor_drag_reorder" = "拖曳圖示調整順序";

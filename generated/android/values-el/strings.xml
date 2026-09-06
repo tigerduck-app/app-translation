@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Επαναφορά προεπιλογής</string>
     <string name="class_table_rename_title">Μετονομασία</string>
     <string name="class_table_rename_with_course">Μετονομασία — %1$s</string>
-    <string name="class_table_reset_message">Αυτό θα επαναφέρει το πρόγραμμα μαθημάτων σας ώστε να αντιστοιχεί στην εγγραφή σας στο Moodle. Τα κρυφά μαθήματα θα εμφανιστούν ξανά και τα χειροκίνητα προστιθέμενα μαθήματα θα αφαιρεθούν.</string>
+    <string name="class_table_reset_message">Το πρόγραμμα θα αναδημιουργηθεί από το Moodle, το σύστημα επιλογής μαθημάτων και το σύστημα βαθμών. Τα μαθήματα που προστέθηκαν, διαγράφηκαν ή μετονομάστηκαν χειροκίνητα θα χαθούν.</string>
     <string name="class_table_reset_title">Επαναφορά προγράμματος μαθημάτων</string>
+    <string name="class_table_reset_title_with_semester">Επαναφορά προγράμματος %1$s</string>
     <string name="class_table_semester_picker_label">Ακαδημαϊκό εξάμηνο</string>
     <string name="class_table_sign_in_required_message">Συνδεθείτε για να δείτε τον πίνακα της τάξης σας</string>
     <string name="class_table_total_credits_value">%1$d πιστωτικές μονάδες</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Από διακομιστή</string>
     <string name="sync_fdroid_unavailable_body">Ο συγχρονισμός cloud απαιτεί υπηρεσίες Google Play και δεν είναι διαθέσιμος στην έκδοση F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">Μη διαθέσιμο στο F-Droid</string>
+    <string name="sync_status_failed">Απέτυχε</string>
+    <string name="sync_status_ok">OK</string>
+    <string name="sync_status_syncing">Συγχρονισμός…</string>
+    <string name="sync_status_title">Κατάσταση συγχρονισμού</string>
     <string name="sync_success_content_description">Επιτυχής συγχρονισμός</string>
     <string name="tab_editor_apply_action">Εφαρμόζω</string>
     <string name="tab_editor_drag_reorder">Σύρετε για αναδιάταξη</string>

@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Әдепкіге қайтару";
 "class_table_rename_title" = "Атауын өзгерту";
 "class_table_rename_with_course" = "Атауын өзгерту — %1$@";
-"class_table_reset_message" = "Бұл сабақ кестеңізді Moodle тіркелуіңізге сәйкестендіріп қалпына келтіреді. Жасырылған пәндер қайта пайда болады, ал қолмен қосылған пәндер жойылады.";
+"class_table_reset_message" = "Сабақ кестесі Moodle, курс таңдау жүйесі және бағалар жүйесі негізінде қайта құрылады. Қолмен қосылған, жойылған және атауы өзгертілген пәндер жоғалады.";
 "class_table_reset_title" = "Сабақ кестесін қалпына келтіру";
+"class_table_reset_title_with_semester" = "%1$@ сабақ кестесін қалпына келтіру";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Сабақ кестесін қарау үшін жүйеге кіріңіз";
 "class_table_total_credits_value" = "%1$d кредит";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Серверді пайдалану";
 "sync_fdroid_unavailable_body" = "Бұлтты синхрондау Google Play қызметтерін қажет етеді және F-Droid нұсқасында қолжетімді емес.";
 "sync_fdroid_unavailable_title" = "F-Droid-та қолжетімді емес";
+"sync_status_failed" = "Сәтсіз";
+"sync_status_ok" = "Дұрыс";
+"sync_status_syncing" = "Синхрондалуда…";
+"sync_status_title" = "Синхрондау күйі";
 "sync_success_content_description" = "Синхрондау сәтті аяқталды";
 "tab_editor_apply_action" = "Қолдану";
 "tab_editor_drag_reorder" = "Ретті өзгерту үшін сүйреңіз";

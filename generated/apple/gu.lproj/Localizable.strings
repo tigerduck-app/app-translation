@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "ડિફૉલ્ટ પર પાછા ફરો";
 "class_table_rename_title" = "નામ બદલો";
 "class_table_rename_with_course" = "નામ બદલો — %1$@";
-"class_table_reset_message" = "આ તમારા કોર્સ ટેબલને તમારી Moodle નોંધણી સાથે મેળ ખાતો રીસેટ કરશે. છુપાયેલા કોર્સ ફરી દેખાશે અને મેન્યુઅલી ઉમેરેલા કોર્સ દૂર થશે.";
+"class_table_reset_message" = "કોર્સ ટેબલ Moodle, કોર્સ સિલેક્શન સિસ્ટમ અને ગુણ સિસ્ટમ પ્રમાણે ફરીથી બનાવવામાં આવશે. મેન્યુઅલી ઉમેરેલા, દૂર કરેલા અને નામ બદલેલા કોર્સ ખોવાઈ જશે.";
 "class_table_reset_title" = "કોર્સ ટેબલ રીસેટ કરો";
+"class_table_reset_title_with_semester" = "%1$@ કોર્સ ટેબલ રીસેટ કરો";
 "class_table_semester_picker_label" = "સેમેસ્ટર ";
 "class_table_sign_in_required_message" = "તમારું વર્ગ કોષ્ટક જોવા માટે સાઇન ઇન કરો";
 "class_table_total_credits_value" = "%1$d ક્રેડિટ";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "સર્વર વાપરો";
 "sync_fdroid_unavailable_body" = "ક્લાઉડ સિંક માટે Google Play સેવાઓ જરૂરી છે અને F-Droid બિલ્ડમાં ઉપલબ્ધ નથી.";
 "sync_fdroid_unavailable_title" = "F-Droid પર ઉપલબ્ધ નથી";
+"sync_status_failed" = "નિષ્ફળ";
+"sync_status_ok" = "બરાબર";
+"sync_status_syncing" = "સિંક થઈ રહ્યું છે…";
+"sync_status_title" = "સિંક સ્થિતિ";
 "sync_success_content_description" = "સિંક સફળ";
 "tab_editor_apply_action" = "ઍપ્લાય કરો";
 "tab_editor_drag_reorder" = "ક્રમ બદલવા ખેંચો";

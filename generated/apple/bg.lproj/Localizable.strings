@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Връщане към подразбиране";
 "class_table_rename_title" = "Преименуване";
 "class_table_rename_with_course" = "Преименуване — %1$@";
-"class_table_reset_message" = "Това ще нулира вашето учебно разписание, за да съответства на записването ви в Moodle. Скритите курсове ще се появят отново, а ръчно добавените курсове ще бъдат премахнати.";
+"class_table_reset_message" = "Разписанието ще бъде изградено наново от Moodle, системата за избор на курсове и системата за оценки. Ръчно добавените, изтритите и преименуваните курсове ще бъдат загубени.";
 "class_table_reset_title" = "Нулиране на учебното разписание";
+"class_table_reset_title_with_semester" = "Нулиране на разписанието за %1$@";
 "class_table_semester_picker_label" = "Семестър";
 "class_table_sign_in_required_message" = "Влезте, за да видите таблицата на вашия клас";
 "class_table_total_credits_value" = "%1$d кредити";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "От сървъра";
 "sync_fdroid_unavailable_body" = "Облачната синхронизация изисква Google Play услуги и не е налична в F-Droid версията.";
 "sync_fdroid_unavailable_title" = "Не е налично за F-Droid";
+"sync_status_failed" = "Неуспешно";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Синхронизиране…";
+"sync_status_title" = "Състояние на синхронизацията";
 "sync_success_content_description" = "Синхронизацията е успешна";
 "tab_editor_apply_action" = "Кандидатствайте";
 "tab_editor_drag_reorder" = "Плъзнете, за да пренаредите";

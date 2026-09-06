@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Restablecer predeterminado";
 "class_table_rename_title" = "Renombrar";
 "class_table_rename_with_course" = "Renombrar — %1$@";
-"class_table_reset_message" = "Esto restablecerá tu horario de cursos para que coincida con tu inscripción en Moodle. Los cursos ocultos volverán a aparecer y los cursos añadidos manualmente se eliminarán.";
+"class_table_reset_message" = "El horario se reconstruirá a partir de Moodle, el sistema de selección de cursos y el sistema de calificaciones. Los cursos añadidos, eliminados o renombrados manualmente se perderán.";
 "class_table_reset_title" = "Restablecer horario de cursos";
+"class_table_reset_title_with_semester" = "Restablecer horario de %1$@";
 "class_table_semester_picker_label" = "Semestre";
 "class_table_sign_in_required_message" = "Inicia sesión para ver tu tabla de clases";
 "class_table_total_credits_value" = "%1$d créditos";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Usar servidor";
 "sync_fdroid_unavailable_body" = "La sincronización en la nube requiere Google Play Services y no está disponible en la versión F-Droid.";
 "sync_fdroid_unavailable_title" = "No disponible en F-Droid";
+"sync_status_failed" = "Error";
+"sync_status_ok" = "Correcto";
+"sync_status_syncing" = "Sincronizando…";
+"sync_status_title" = "Estado de sincronización";
 "sync_success_content_description" = "Sincronización exitosa";
 "tab_editor_apply_action" = "Aplicar";
 "tab_editor_drag_reorder" = "Arrastra para reordenar";

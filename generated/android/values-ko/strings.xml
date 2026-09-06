@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">기본값으로 되돌리기</string>
     <string name="class_table_rename_title">이름 바꾸기</string>
     <string name="class_table_rename_with_course">이름 바꾸기 — %1$s</string>
-    <string name="class_table_reset_message">시간표가 Moodle 수강 등록에 맞게 초기화됩니다. 숨겨진 과목이 다시 표시되고, 수동으로 추가한 과목은 삭제됩니다.</string>
+    <string name="class_table_reset_message">Moodle, 수강 신청 시스템, 성적 시스템의 상태에 따라 시간표를 초기화합니다. 수동으로 추가·삭제·이름 변경한 과목은 사라집니다.</string>
     <string name="class_table_reset_title">시간표 초기화</string>
+    <string name="class_table_reset_title_with_semester">%1$s 시간표 초기화</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">시간표를 보려면 로그인하세요</string>
     <string name="class_table_total_credits_value">%1$d 학점</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">서버 사용</string>
     <string name="sync_fdroid_unavailable_body">클라우드 동기화에는 Google Play 서비스가 필요하며 F-Droid 빌드에서는 사용할 수 없습니다.</string>
     <string name="sync_fdroid_unavailable_title">F-Droid에서 사용 불가</string>
+    <string name="sync_status_failed">실패</string>
+    <string name="sync_status_ok">정상</string>
+    <string name="sync_status_syncing">동기화 중…</string>
+    <string name="sync_status_title">동기화 상태</string>
     <string name="sync_success_content_description">동기화 성공</string>
     <string name="tab_editor_apply_action">적용</string>
     <string name="tab_editor_drag_reorder">끌어서 순서 변경</string>

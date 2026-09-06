@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "സ്ഥിരസ്ഥിതിയിലേക്ക് മടങ്ങുക";
 "class_table_rename_title" = "പുനർനാമകരണം ചെയ്യുക";
 "class_table_rename_with_course" = "പുനർനാമകരണം — %1$@";
-"class_table_reset_message" = "ഇത് നിങ്ങളുടെ കോഴ്‌സ് ടേബിൾ Moodle എൻറോൾമെന്റുമായി പൊരുത്തപ്പെടുത്തി റീസെറ്റ് ചെയ്യും. മറച്ച കോഴ്‌സുകൾ വീണ്ടും കാണിക്കുകയും സ്വമേധയാ ചേർത്ത കോഴ്‌സുകൾ നീക്കം ചെയ്യുകയും ചെയ്യും.";
+"class_table_reset_message" = "Moodle, കോഴ്‌സ് തിരഞ്ഞെടുക്കൽ സിസ്റ്റം, ഗ്രേഡ് സിസ്റ്റം എന്നിവയുടെ അടിസ്ഥാനത്തിൽ കോഴ്‌സ് ടേബിൾ വീണ്ടും നിർമ്മിക്കും. സ്വമേധയാ ചേർത്തതും നീക്കം ചെയ്തതും പേര് മാറ്റിയതുമായ കോഴ്‌സുകൾ നഷ്ടപ്പെടും.";
 "class_table_reset_title" = "കോഴ്‌സ് ടേബിൾ റീസെറ്റ് ചെയ്യുക";
+"class_table_reset_title_with_semester" = "%1$@ കോഴ്‌സ് ടേബിൾ റീസെറ്റ് ചെയ്യുക";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "നിങ്ങളുടെ ക്ലാസ് ടേബിൾ കാണാൻ സൈൻ ഇൻ ചെയ്യുക";
 "class_table_total_credits_value" = "%1$d ക്രെഡിറ്റുകൾ";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "സെർവർ ഉപയോഗിക്കുക";
 "sync_fdroid_unavailable_body" = "ക്ലൗഡ് സിങ്കിന് Google Play സേവനങ്ങൾ ആവശ്യമാണ്, F-Droid ബിൽഡിൽ ലഭ്യമല്ല.";
 "sync_fdroid_unavailable_title" = "F-Droid-ൽ ലഭ്യമല്ല";
+"sync_status_failed" = "പരാജയപ്പെട്ടു";
+"sync_status_ok" = "ശരി";
+"sync_status_syncing" = "സിങ്ക് ചെയ്യുന്നു…";
+"sync_status_title" = "സിങ്ക് നില";
 "sync_success_content_description" = "സമന്വയം വിജയകരം";
 "tab_editor_apply_action" = "പ്രയോഗിക്കുക";
 "tab_editor_drag_reorder" = "ക്രമമാക്കാൻ വലിക്കുക";

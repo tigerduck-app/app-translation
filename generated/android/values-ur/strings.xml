@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">ڈیفالٹ پر واپس جائیں</string>
     <string name="class_table_rename_title">نام تبدیل کریں</string>
     <string name="class_table_rename_with_course">نام تبدیل کریں — %1$s</string>
-    <string name="class_table_reset_message">یہ آپ کی کورس ٹیبل کو آپ کی Moodle اندراج کے مطابق ری سیٹ کر دے گا۔ چھپائے گئے کورسز دوبارہ نظر آئیں گے اور دستی طور پر شامل کیے گئے کورسز ہٹا دیے جائیں گے۔</string>
+    <string name="class_table_reset_message">کورس ٹیبل Moodle، کورس انتخاب سسٹم اور گریڈ سسٹم کے مطابق دوبارہ بنایا جائے گا۔ دستی طور پر شامل، حذف یا نام تبدیل کیے گئے کورسز ضائع ہو جائیں گے۔</string>
     <string name="class_table_reset_title">کورس ٹیبل ری سیٹ کریں</string>
+    <string name="class_table_reset_title_with_semester">%1$s کورس ٹیبل ری سیٹ کریں</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">اپنا کلاس ٹیبل دیکھنے کے لیے سائن ان کریں</string>
     <string name="class_table_total_credits_value">%1$d کریڈٹس</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">سرور استعمال کریں</string>
     <string name="sync_fdroid_unavailable_body">کلاؤڈ مطابقت پذیری کے لیے Google Play خدمات درکار ہیں اور F-Droid میں دستیاب نہیں ہے۔</string>
     <string name="sync_fdroid_unavailable_title">F-Droid پر دستیاب نہیں</string>
+    <string name="sync_status_failed">ناکام</string>
+    <string name="sync_status_ok">ٹھیک</string>
+    <string name="sync_status_syncing">ہم آہنگ ہو رہا ہے…</string>
+    <string name="sync_status_title">ہم آہنگی کی حالت</string>
     <string name="sync_success_content_description">سنک کامیاب</string>
     <string name="tab_editor_apply_action">لागو کریں</string>
     <string name="tab_editor_drag_reorder">ترتیب بدلنے کے لیے گھسیٹیں</string>

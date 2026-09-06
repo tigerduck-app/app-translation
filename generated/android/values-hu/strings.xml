@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Alapértelmezett visszaállítása</string>
     <string name="class_table_rename_title">Átnevezés</string>
     <string name="class_table_rename_with_course">Átnevezés — %1$s</string>
-    <string name="class_table_reset_message">Ez visszaállítja az órarendet a Moodle-beiratkozásnak megfelelően. A rejtett kurzusok újra megjelennek, a kézzel hozzáadott kurzusok pedig törlődnek.</string>
+    <string name="class_table_reset_message">Az órarend a Moodle, a kurzusválasztó rendszer és az osztályzatrendszer alapján újraépül. A kézzel hozzáadott, törölt és átnevezett kurzusok elvesznek.</string>
     <string name="class_table_reset_title">Órarend visszaállítása</string>
+    <string name="class_table_reset_title_with_semester">%1$s órarend visszaállítása</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
     <string name="class_table_total_credits_value">%1$d kredit</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Szerver használata</string>
     <string name="sync_fdroid_unavailable_body">A felhőszinkronizálás Google Play szolgáltatásokat igényel, és nem érhető el az F-Droid változatban.</string>
     <string name="sync_fdroid_unavailable_title">Nem érhető el az F-Droidon</string>
+    <string name="sync_status_failed">Sikertelen</string>
+    <string name="sync_status_ok">Rendben</string>
+    <string name="sync_status_syncing">Szinkronizálás…</string>
+    <string name="sync_status_title">Szinkronizálás állapota</string>
     <string name="sync_success_content_description">Szinkronizálás sikeres</string>
     <string name="tab_editor_apply_action">Alkalmaz</string>
     <string name="tab_editor_drag_reorder">Húzza az átrendezéshez</string>

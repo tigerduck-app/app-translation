@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">還原預設</string>
     <string name="class_table_rename_title">重新命名</string>
     <string name="class_table_rename_with_course">重新命名 — %1$s</string>
-    <string name="class_table_reset_message">呢個會將你嘅課程表重設為 Moodle 選課紀錄。隱藏咗嘅課程會重新出現，手動新增嘅課程會被刪除。</string>
+    <string name="class_table_reset_message">會根據 Moodle、選課系統同成績系統嘅狀態重設，手動新增、刪除同改名嘅課都會唔見</string>
     <string name="class_table_reset_title">重設課程表</string>
+    <string name="class_table_reset_title_with_semester">重設 %1$s 課程表</string>
     <string name="class_table_semester_picker_label">學期</string>
     <string name="class_table_sign_in_required_message">尚未登入,無法查看課表</string>
     <string name="class_table_total_credits_value">%1$d 學分</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">使用伺服器</string>
     <string name="sync_fdroid_unavailable_body">雲端同步需要 Google Play 服務，F-Droid 版本不支援此功能。</string>
     <string name="sync_fdroid_unavailable_title">F-Droid 不支援</string>
+    <string name="sync_status_failed">失敗</string>
+    <string name="sync_status_ok">正常</string>
+    <string name="sync_status_syncing">同步緊…</string>
+    <string name="sync_status_title">同步狀態</string>
     <string name="sync_success_content_description">同步成功</string>
     <string name="tab_editor_apply_action">套用</string>
     <string name="tab_editor_drag_reorder">拖動排序</string>

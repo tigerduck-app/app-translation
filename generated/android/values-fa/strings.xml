@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">بازگرداندن به پیش‌فرض</string>
     <string name="class_table_rename_title">تغییر نام</string>
     <string name="class_table_rename_with_course">تغییر نام — %1$s</string>
-    <string name="class_table_reset_message">این کار جدول دروس شما را مطابق با ثبت‌نام Moodle بازنشانی می‌کند. دروس پنهان‌شده دوباره نمایش داده می‌شوند و دروس اضافه‌شده به صورت دستی حذف خواهند شد.</string>
+    <string name="class_table_reset_message">جدول دروس بر اساس Moodle، سامانه انتخاب واحد و سامانه نمرات دوباره ساخته می‌شود. دروسی که به‌صورت دستی افزوده، حذف یا تغییر نام داده شده‌اند از بین می‌روند.</string>
     <string name="class_table_reset_title">بازنشانی جدول دروس</string>
+    <string name="class_table_reset_title_with_semester">بازنشانی جدول دروس %1$s</string>
     <string name="class_table_semester_picker_label">ترم</string>
     <string name="class_table_sign_in_required_message">برای مشاهده جدول کلاس خود وارد شوید</string>
     <string name="class_table_total_credits_value">%1$d واحد</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">استفاده از سرور</string>
     <string name="sync_fdroid_unavailable_body">همگام‌سازی ابری به خدمات Google Play نیاز دارد و در نسخه F-Droid موجود نیست.</string>
     <string name="sync_fdroid_unavailable_title">در F-Droid موجود نیست</string>
+    <string name="sync_status_failed">ناموفق</string>
+    <string name="sync_status_ok">عادی</string>
+    <string name="sync_status_syncing">در حال همگام‌سازی…</string>
+    <string name="sync_status_title">وضعیت همگام‌سازی</string>
     <string name="sync_success_content_description">همگام‌سازی موفق بود</string>
     <string name="tab_editor_apply_action">درخواست کنید</string>
     <string name="tab_editor_drag_reorder">برای تغییر ترتیب بکشید</string>

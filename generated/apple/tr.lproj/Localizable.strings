@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Varsayılana döndür";
 "class_table_rename_title" = "Yeniden adlandır";
 "class_table_rename_with_course" = "Yeniden adlandır — %1$@";
-"class_table_reset_message" = "Bu, ders programınızı Moodle kaydınızla eşleşecek şekilde sıfırlayacaktır. Gizlenen dersler tekrar görünecek ve elle eklenen dersler kaldırılacaktır.";
+"class_table_reset_message" = "Ders programı Moodle, ders seçim sistemi ve not sistemine göre yeniden oluşturulacak. Elle eklenen, silinen ve yeniden adlandırılan dersler kaybolacak.";
 "class_table_reset_title" = "Ders programını sıfırla";
+"class_table_reset_title_with_semester" = "%1$@ ders programını sıfırla";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Ders programınızı görmek için oturum açın";
 "class_table_total_credits_value" = "%1$d kredi";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Sunucuyu Kullan";
 "sync_fdroid_unavailable_body" = "Bulut Senkronizasyon, Google Play Hizmetleri gerektirir ve F-Droid sürümünde mevcut değildir.";
 "sync_fdroid_unavailable_title" = "F-Droid'de mevcut değil";
+"sync_status_failed" = "Başarısız";
+"sync_status_ok" = "Tamam";
+"sync_status_syncing" = "Eşitleniyor…";
+"sync_status_title" = "Eşitleme durumu";
 "sync_success_content_description" = "Eşitleme başarılı";
 "tab_editor_apply_action" = "Uygula";
 "tab_editor_drag_reorder" = "Sıralamak için sürükleyin";

@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">डिफ़ॉल्ट पर लौटें</string>
     <string name="class_table_rename_title">नाम बदलें</string>
     <string name="class_table_rename_with_course">नाम बदलें — %1$s</string>
-    <string name="class_table_reset_message">यह आपकी कोर्स टेबल को आपके Moodle नामांकन के अनुसार रीसेट करेगा। छिपे हुए कोर्स फिर से दिखाई देंगे और मैन्युअल रूप से जोड़े गए कोर्स हटा दिए जाएंगे।</string>
+    <string name="class_table_reset_message">कोर्स टेबल को Moodle, कोर्स चयन सिस्टम और अंक सिस्टम के अनुसार फिर से बनाया जाएगा। मैन्युअल रूप से जोड़े, हटाए या नाम बदले गए कोर्स खो जाएँगे।</string>
     <string name="class_table_reset_title">कोर्स टेबल रीसेट करें</string>
+    <string name="class_table_reset_title_with_semester">%1$s कोर्स टेबल रीसेट करें</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">अपनी क्लास टेबल देखने के लिए साइन इन करें</string>
     <string name="class_table_total_credits_value">%1$d क्रेडिट</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">सर्वर उपयोग करें</string>
     <string name="sync_fdroid_unavailable_body">क्लाउड सिंक के लिए Google Play सेवाओं की आवश्यकता है और F-Droid बिल्ड में उपलब्ध नहीं है।</string>
     <string name="sync_fdroid_unavailable_title">F-Droid पर उपलब्ध नहीं</string>
+    <string name="sync_status_failed">विफल</string>
+    <string name="sync_status_ok">ठीक</string>
+    <string name="sync_status_syncing">सिंक हो रहा है…</string>
+    <string name="sync_status_title">सिंक स्थिति</string>
     <string name="sync_success_content_description">सिंक सफल</string>
     <string name="tab_editor_apply_action">लागू करें</string>
     <string name="tab_editor_drag_reorder">क्रम बदलने के लिए खींचें</string>

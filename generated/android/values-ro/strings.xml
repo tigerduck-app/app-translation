@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Revenire la implicit</string>
     <string name="class_table_rename_title">Redenumire</string>
     <string name="class_table_rename_with_course">Redenumire — %1$s</string>
-    <string name="class_table_reset_message">Aceasta va reseta orarul cursurilor pentru a corespunde înscrierii tale pe Moodle. Cursurile ascunse vor reapărea, iar cursurile adăugate manual vor fi eliminate.</string>
+    <string name="class_table_reset_message">Orarul va fi reconstruit din Moodle, sistemul de selecție a cursurilor și sistemul de note. Cursurile adăugate, șterse sau redenumite manual se vor pierde.</string>
     <string name="class_table_reset_title">Resetează orarul cursurilor</string>
+    <string name="class_table_reset_title_with_semester">Resetează orarul %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
     <string name="class_table_total_credits_value">%1$d credite</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Folosește server</string>
     <string name="sync_fdroid_unavailable_body">Sincronizarea cloud necesită servicii Google Play și nu este disponibilă în versiunea F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">Indisponibil pe F-Droid</string>
+    <string name="sync_status_failed">Eșuat</string>
+    <string name="sync_status_ok">OK</string>
+    <string name="sync_status_syncing">Se sincronizează…</string>
+    <string name="sync_status_title">Stare sincronizare</string>
     <string name="sync_success_content_description">Sincronizare reușită</string>
     <string name="tab_editor_apply_action">Aplică</string>
     <string name="tab_editor_drag_reorder">Trage pentru reordonare</string>

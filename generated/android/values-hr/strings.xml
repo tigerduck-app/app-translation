@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Vrati na zadano</string>
     <string name="class_table_rename_title">Preimenovanje</string>
     <string name="class_table_rename_with_course">Preimenovanje — %1$s</string>
-    <string name="class_table_reset_message">Ovo će poništiti vaš raspored kolegija da odgovara vašem upisu na Moodle. Skriveni kolegiji će se ponovno pojaviti, a ručno dodani kolegiji bit će uklonjeni.</string>
+    <string name="class_table_reset_message">Raspored će se ponovno izgraditi prema Moodleu, sustavu odabira kolegija i sustavu ocjena. Ručno dodani, obrisani i preimenovani kolegiji bit će izgubljeni.</string>
     <string name="class_table_reset_title">Poništi raspored kolegija</string>
+    <string name="class_table_reset_title_with_semester">Poništi raspored %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
     <string name="class_table_total_credits_value">%1$d ECTS bodovi</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Koristi poslužitelj</string>
     <string name="sync_fdroid_unavailable_body">Cloud Sync zahtijeva Google Play usluge i nije dostupan u F-Droid verziji.</string>
     <string name="sync_fdroid_unavailable_title">Nije dostupno na F-Droid</string>
+    <string name="sync_status_failed">Neuspjelo</string>
+    <string name="sync_status_ok">U redu</string>
+    <string name="sync_status_syncing">Sinkronizacija…</string>
+    <string name="sync_status_title">Stanje sinkronizacije</string>
     <string name="sync_success_content_description">Sinkronizacija uspješna</string>
     <string name="tab_editor_apply_action">Primijeni</string>
     <string name="tab_editor_drag_reorder">Povucite za promjenu redoslijeda</string>

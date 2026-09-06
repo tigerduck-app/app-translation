@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Tilbakestill til standard";
 "class_table_rename_title" = "Gi nytt navn";
 "class_table_rename_with_course" = "Gi nytt navn — %1$@";
-"class_table_reset_message" = "Dette vil tilbakestille timeplanen din for å samsvare med Moodle-registreringen din. Skjulte emner vil dukke opp igjen, og manuelt lagt til emner vil bli fjernet.";
+"class_table_reset_message" = "Timeplanen bygges opp på nytt fra Moodle, fagvalgsystemet og karaktersystemet. Manuelt lagt til, slettede og omdøpte emner går tapt.";
 "class_table_reset_title" = "Tilbakestill timeplan";
+"class_table_reset_title_with_semester" = "Tilbakestill timeplan for %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Logg inn for å se timeplanen din";
 "class_table_total_credits_value" = "%1$d studiepoeng";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Bruk server";
 "sync_fdroid_unavailable_body" = "Skysynkronisering krever Google Play-tjenester og er ikke tilgjengelig i F-Droid-versjonen.";
 "sync_fdroid_unavailable_title" = "Ikke tilgjengelig på F-Droid";
+"sync_status_failed" = "Mislyktes";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Synkroniserer…";
+"sync_status_title" = "Synkroniseringsstatus";
 "sync_success_content_description" = "Synkronisering vellykket";
 "tab_editor_apply_action" = "Bruk";
 "tab_editor_drag_reorder" = "Dra for å endre rekkefølge";

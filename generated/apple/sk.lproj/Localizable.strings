@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Obnoviť predvolené";
 "class_table_rename_title" = "Premenovať";
 "class_table_rename_with_course" = "Premenovať — %1$@";
-"class_table_reset_message" = "Týmto sa obnoví váš rozvrh predmetov podľa zápisu v Moodle. Skryté predmety sa znova zobrazia a manuálne pridané predmety budú odstránené.";
+"class_table_reset_message" = "Rozvrh sa znovu zostaví podľa Moodle, systému výberu predmetov a systému známok. Ručne pridané, odstránené a premenované predmety sa stratia.";
 "class_table_reset_title" = "Obnoviť rozvrh predmetov";
+"class_table_reset_title_with_semester" = "Obnoviť rozvrh %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_total_credits_value" = "%1$d kreditov";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Použiť server";
 "sync_fdroid_unavailable_body" = "Cloudová synchronizácia vyžaduje služby Google Play a nie je dostupná vo verzii F-Droid.";
 "sync_fdroid_unavailable_title" = "Nedostupné na F-Droid";
+"sync_status_failed" = "Zlyhalo";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Synchronizuje sa…";
+"sync_status_title" = "Stav synchronizácie";
 "sync_success_content_description" = "Synchronizácia úspešná";
 "tab_editor_apply_action" = "Použiť";
 "tab_editor_drag_reorder" = "Ťahaním zmeňte poradie";

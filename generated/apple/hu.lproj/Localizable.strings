@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Alapértelmezett visszaállítása";
 "class_table_rename_title" = "Átnevezés";
 "class_table_rename_with_course" = "Átnevezés — %1$@";
-"class_table_reset_message" = "Ez visszaállítja az órarendet a Moodle-beiratkozásnak megfelelően. A rejtett kurzusok újra megjelennek, a kézzel hozzáadott kurzusok pedig törlődnek.";
+"class_table_reset_message" = "Az órarend a Moodle, a kurzusválasztó rendszer és az osztályzatrendszer alapján újraépül. A kézzel hozzáadott, törölt és átnevezett kurzusok elvesznek.";
 "class_table_reset_title" = "Órarend visszaállítása";
+"class_table_reset_title_with_semester" = "%1$@ órarend visszaállítása";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_total_credits_value" = "%1$d kredit";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Szerver használata";
 "sync_fdroid_unavailable_body" = "A felhőszinkronizálás Google Play szolgáltatásokat igényel, és nem érhető el az F-Droid változatban.";
 "sync_fdroid_unavailable_title" = "Nem érhető el az F-Droidon";
+"sync_status_failed" = "Sikertelen";
+"sync_status_ok" = "Rendben";
+"sync_status_syncing" = "Szinkronizálás…";
+"sync_status_title" = "Szinkronizálás állapota";
 "sync_success_content_description" = "Szinkronizálás sikeres";
 "tab_editor_apply_action" = "Alkalmaz";
 "tab_editor_drag_reorder" = "Húzza az átrendezéshez";

@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Вернуть по умолчанию</string>
     <string name="class_table_rename_title">Переименовать</string>
     <string name="class_table_rename_with_course">Переименовать — %1$s</string>
-    <string name="class_table_reset_message">Это сбросит ваше расписание в соответствии с записью в Moodle. Скрытые курсы появятся снова, а добавленные вручную курсы будут удалены.</string>
+    <string name="class_table_reset_message">Расписание будет пересобрано по данным Moodle, системы выбора курсов и системы оценок. Курсы, добавленные, удалённые или переименованные вручную, будут потеряны.</string>
     <string name="class_table_reset_title">Сбросить расписание</string>
+    <string name="class_table_reset_title_with_semester">Сбросить расписание %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Войдите, чтобы просмотреть расписание занятий</string>
     <string name="class_table_total_credits_value">%1$d кредитов</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Использовать сервер</string>
     <string name="sync_fdroid_unavailable_body">Облачная синхронизация требует сервисов Google Play и недоступна в сборке F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">Недоступно в F-Droid</string>
+    <string name="sync_status_failed">Ошибка</string>
+    <string name="sync_status_ok">ОК</string>
+    <string name="sync_status_syncing">Синхронизация…</string>
+    <string name="sync_status_title">Состояние синхронизации</string>
     <string name="sync_success_content_description">Синхронизация выполнена</string>
     <string name="tab_editor_apply_action">Применить</string>
     <string name="tab_editor_drag_reorder">Перетащите для изменения порядка</string>

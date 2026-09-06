@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Kembalikan ke lalai";
 "class_table_rename_title" = "Namakan semula";
 "class_table_rename_with_course" = "Namakan semula — %1$@";
-"class_table_reset_message" = "Ini akan menetapkan semula jadual kursus anda agar sepadan dengan pendaftaran Moodle anda. Kursus yang disembunyikan akan muncul semula dan kursus yang ditambah secara manual akan dialih keluar.";
+"class_table_reset_message" = "Jadual kursus akan dibina semula berdasarkan Moodle, sistem pemilihan kursus dan sistem markah. Kursus yang ditambah, dipadam atau dinamakan semula secara manual akan hilang.";
 "class_table_reset_title" = "Tetapkan semula jadual kursus";
+"class_table_reset_title_with_semester" = "Tetapkan semula jadual %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Log masuk untuk melihat jadual kelas anda";
 "class_table_total_credits_value" = "%1$d kredit";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Guna Pelayan";
 "sync_fdroid_unavailable_body" = "Penyegerakan Awan memerlukan Perkhidmatan Google Play dan tidak tersedia dalam binaan F-Droid.";
 "sync_fdroid_unavailable_title" = "Tidak tersedia di F-Droid";
+"sync_status_failed" = "Gagal";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Menyegerakkan…";
+"sync_status_title" = "Status penyegerakan";
 "sync_success_content_description" = "Segerak berjaya";
 "tab_editor_apply_action" = "Guna";
 "tab_editor_drag_reorder" = "Seret untuk susun semula";

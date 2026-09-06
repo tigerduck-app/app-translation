@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Ibalik sa default</string>
     <string name="class_table_rename_title">Palitan ng pangalan</string>
     <string name="class_table_rename_with_course">Palitan ng pangalan — %1$s</string>
-    <string name="class_table_reset_message">Ire-reset nito ang iyong talaan ng kurso upang tumugma sa iyong Moodle enrollment. Muling lalabas ang mga nakatagong kurso at maaalis ang mga manu-manong idinagdag na kurso.</string>
+    <string name="class_table_reset_message">Muling bubuuin ang talaan ng kurso batay sa Moodle, sa sistema ng pagpili ng kurso, at sa sistema ng marka. Mawawala ang mga kursong manu-manong idinagdag, inalis, o pinalitan ng pangalan.</string>
     <string name="class_table_reset_title">I-reset ang talaan ng kurso</string>
+    <string name="class_table_reset_title_with_semester">I-reset ang talaan ng kurso ng %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Mag-sign in upang tingnan ang iyong talahanayan ng klase</string>
     <string name="class_table_total_credits_value">%1$d na credit</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Gamitin ang Server</string>
     <string name="sync_fdroid_unavailable_body">Ang Cloud Sync ay nangangailangan ng Google Play Services at hindi available sa F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Hindi available sa F-Droid</string>
+    <string name="sync_status_failed">Nabigo</string>
+    <string name="sync_status_ok">OK</string>
+    <string name="sync_status_syncing">Nagsi-sync…</string>
+    <string name="sync_status_title">Katayuan ng pag-sync</string>
     <string name="sync_success_content_description">Matagumpay na na-sync</string>
     <string name="tab_editor_apply_action">Mag-apply</string>
     <string name="tab_editor_drag_reorder">I-drag para muling ayusin</string>

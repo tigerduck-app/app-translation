@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Restablir per defecte";
 "class_table_rename_title" = "Reanomena";
 "class_table_rename_with_course" = "Reanomena — %1$@";
-"class_table_reset_message" = "Això restablirà el teu horari de cursos perquè coincideixi amb la teva inscripció a Moodle. Els cursos ocults tornaran a aparèixer i els cursos afegits manualment s'eliminaran.";
+"class_table_reset_message" = "L'horari es reconstruirà a partir de Moodle, del sistema de selecció de cursos i del sistema de notes. Els cursos afegits, eliminats o reanomenats manualment es perdran.";
 "class_table_reset_title" = "Restableix l'horari de cursos";
+"class_table_reset_title_with_semester" = "Restableix l'horari de %1$@";
 "class_table_semester_picker_label" = "Semestre";
 "class_table_sign_in_required_message" = "Inicieu la sessió per veure la vostra taula de classe";
 "class_table_total_credits_value" = "%1$d crèdits";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Usar servidor";
 "sync_fdroid_unavailable_body" = "La sincronització al núvol requereix els serveis de Google Play i no està disponible a la versió F-Droid.";
 "sync_fdroid_unavailable_title" = "No disponible a F-Droid";
+"sync_status_failed" = "Ha fallat";
+"sync_status_ok" = "Correcte";
+"sync_status_syncing" = "Sincronitzant…";
+"sync_status_title" = "Estat de la sincronització";
 "sync_success_content_description" = "Sincronització correcta";
 "tab_editor_apply_action" = "Aplicar";
 "tab_editor_drag_reorder" = "Arrossegueu per reordenar";

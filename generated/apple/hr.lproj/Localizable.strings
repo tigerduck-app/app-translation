@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Vrati na zadano";
 "class_table_rename_title" = "Preimenovanje";
 "class_table_rename_with_course" = "Preimenovanje — %1$@";
-"class_table_reset_message" = "Ovo će poništiti vaš raspored kolegija da odgovara vašem upisu na Moodle. Skriveni kolegiji će se ponovno pojaviti, a ručno dodani kolegiji bit će uklonjeni.";
+"class_table_reset_message" = "Raspored će se ponovno izgraditi prema Moodleu, sustavu odabira kolegija i sustavu ocjena. Ručno dodani, obrisani i preimenovani kolegiji bit će izgubljeni.";
 "class_table_reset_title" = "Poništi raspored kolegija";
+"class_table_reset_title_with_semester" = "Poništi raspored %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
 "class_table_total_credits_value" = "%1$d ECTS bodovi";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Koristi poslužitelj";
 "sync_fdroid_unavailable_body" = "Cloud Sync zahtijeva Google Play usluge i nije dostupan u F-Droid verziji.";
 "sync_fdroid_unavailable_title" = "Nije dostupno na F-Droid";
+"sync_status_failed" = "Neuspjelo";
+"sync_status_ok" = "U redu";
+"sync_status_syncing" = "Sinkronizacija…";
+"sync_status_title" = "Stanje sinkronizacije";
 "sync_success_content_description" = "Sinkronizacija uspješna";
 "tab_editor_apply_action" = "Primijeni";
 "tab_editor_drag_reorder" = "Povucite za promjenu redoslijeda";

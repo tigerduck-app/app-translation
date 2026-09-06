@@ -167,8 +167,9 @@
 "class_table_rename_revert" = "Επαναφορά προεπιλογής";
 "class_table_rename_title" = "Μετονομασία";
 "class_table_rename_with_course" = "Μετονομασία — %1$@";
-"class_table_reset_message" = "Αυτό θα επαναφέρει το πρόγραμμα μαθημάτων σας ώστε να αντιστοιχεί στην εγγραφή σας στο Moodle. Τα κρυφά μαθήματα θα εμφανιστούν ξανά και τα χειροκίνητα προστιθέμενα μαθήματα θα αφαιρεθούν.";
+"class_table_reset_message" = "Το πρόγραμμα θα αναδημιουργηθεί από το Moodle, το σύστημα επιλογής μαθημάτων και το σύστημα βαθμών. Τα μαθήματα που προστέθηκαν, διαγράφηκαν ή μετονομάστηκαν χειροκίνητα θα χαθούν.";
 "class_table_reset_title" = "Επαναφορά προγράμματος μαθημάτων";
+"class_table_reset_title_with_semester" = "Επαναφορά προγράμματος %1$@";
 "class_table_semester_picker_label" = "Ακαδημαϊκό εξάμηνο";
 "class_table_sign_in_required_message" = "Συνδεθείτε για να δείτε τον πίνακα της τάξης σας";
 "class_table_total_credits_value" = "%1$d πιστωτικές μονάδες";
@@ -731,6 +732,10 @@
 "sync_conflict_use_server" = "Από διακομιστή";
 "sync_fdroid_unavailable_body" = "Ο συγχρονισμός cloud απαιτεί υπηρεσίες Google Play και δεν είναι διαθέσιμος στην έκδοση F-Droid.";
 "sync_fdroid_unavailable_title" = "Μη διαθέσιμο στο F-Droid";
+"sync_status_failed" = "Απέτυχε";
+"sync_status_ok" = "OK";
+"sync_status_syncing" = "Συγχρονισμός…";
+"sync_status_title" = "Κατάσταση συγχρονισμού";
 "sync_success_content_description" = "Επιτυχής συγχρονισμός";
 "tab_editor_apply_action" = "Εφαρμόζω";
 "tab_editor_drag_reorder" = "Σύρετε για αναδιάταξη";

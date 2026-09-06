@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">Restablir per defecte</string>
     <string name="class_table_rename_title">Reanomena</string>
     <string name="class_table_rename_with_course">Reanomena — %1$s</string>
-    <string name="class_table_reset_message">Això restablirà el teu horari de cursos perquè coincideixi amb la teva inscripció a Moodle. Els cursos ocults tornaran a aparèixer i els cursos afegits manualment s\'eliminaran.</string>
+    <string name="class_table_reset_message">L\'horari es reconstruirà a partir de Moodle, del sistema de selecció de cursos i del sistema de notes. Els cursos afegits, eliminats o reanomenats manualment es perdran.</string>
     <string name="class_table_reset_title">Restableix l\'horari de cursos</string>
+    <string name="class_table_reset_title_with_semester">Restableix l\'horari de %1$s</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Inicieu la sessió per veure la vostra taula de classe</string>
     <string name="class_table_total_credits_value">%1$d crèdits</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">Usar servidor</string>
     <string name="sync_fdroid_unavailable_body">La sincronització al núvol requereix els serveis de Google Play i no està disponible a la versió F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">No disponible a F-Droid</string>
+    <string name="sync_status_failed">Ha fallat</string>
+    <string name="sync_status_ok">Correcte</string>
+    <string name="sync_status_syncing">Sincronitzant…</string>
+    <string name="sync_status_title">Estat de la sincronització</string>
     <string name="sync_success_content_description">Sincronització correcta</string>
     <string name="tab_editor_apply_action">Aplicar</string>
     <string name="tab_editor_drag_reorder">Arrossegueu per reordenar</string>

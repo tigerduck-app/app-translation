@@ -171,8 +171,9 @@
     <string name="class_table_rename_revert">חזור לברירת המחדל</string>
     <string name="class_table_rename_title">שנה שם</string>
     <string name="class_table_rename_with_course">שנה שם — %1$s</string>
-    <string name="class_table_reset_message">פעולה זו תאפס את מערכת השעות שלך לפי ההרשמה ב-Moodle. קורסים מוסתרים יופיעו מחדש וקורסים שנוספו ידנית יוסרו.</string>
+    <string name="class_table_reset_message">מערכת השעות תיבנה מחדש לפי Moodle, מערכת בחירת הקורסים ומערכת הציונים. קורסים שנוספו, נמחקו או ששמם שונה ידנית יאבדו.</string>
     <string name="class_table_reset_title">איפוס מערכת שעות</string>
+    <string name="class_table_reset_title_with_semester">איפוס מערכת השעות של %1$s</string>
     <string name="class_table_semester_picker_label">שנת הלימודים</string>
     <string name="class_table_sign_in_required_message">היכנס כדי להציג את טבלת הכיתה שלך</string>
     <string name="class_table_total_credits_value">%1$d נקודות זכות</string>
@@ -747,6 +748,10 @@
     <string name="sync_conflict_use_server">השתמש בשרת</string>
     <string name="sync_fdroid_unavailable_body">סנכרון ענן דורש שירותי Google Play ואינו זמין בגרסת F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">לא זמין ב-F-Droid</string>
+    <string name="sync_status_failed">נכשל</string>
+    <string name="sync_status_ok">תקין</string>
+    <string name="sync_status_syncing">מסנכרן…</string>
+    <string name="sync_status_title">מצב הסנכרון</string>
     <string name="sync_success_content_description">סנכרון הצליח</string>
     <string name="tab_editor_apply_action">הגשת בקשה</string>
     <string name="tab_editor_drag_reorder">גרור לסידור מחדש</string>
