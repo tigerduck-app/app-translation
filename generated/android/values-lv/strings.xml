@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Sapratu</string>
     <string name="settings_analytics_description">Dalies ar anonīmiem lietošanas datiem (apmeklētās lapas, sīkrīku lietošana), lai palīdzētu uzlabot TigerDuck</string>
     <string name="settings_analytics_enabled">Lietošanas analītika</string>
+    <string name="settings_api_endpoint">API galapunkts</string>
     <string name="settings_assignment_due_reminder">Uzdevumu termiņa atgādinājumi</string>
     <string name="settings_browser_in_app">Pārlūks lietotnē</string>
     <string name="settings_browser_system_default">Sistēmas noklusējuma pārlūks</string>

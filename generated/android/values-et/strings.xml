@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Selge</string>
     <string name="settings_analytics_description">Jaga anonüümseid kasutusandmeid (külastatud lehed, vidinate kasutamine), et aidata TigerDucki paremaks muuta</string>
     <string name="settings_analytics_enabled">Kasutusanalüütika</string>
+    <string name="settings_api_endpoint">API lõpp-punkt</string>
     <string name="settings_assignment_due_reminder">Ülesande tähtaja meeldetuletused</string>
     <string name="settings_browser_in_app">Rakendusesisene brauser</string>
     <string name="settings_browser_system_default">Süsteemi vaikebrauser</string>

@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">متوجه شدم</string>
     <string name="settings_analytics_description">داده‌های ناشناس استفاده (صفحات بازدیدشده، استفاده از ویجت) را برای بهبود TigerDuck به اشتراک بگذارید</string>
     <string name="settings_analytics_enabled">آمار استفاده</string>
+    <string name="settings_api_endpoint">نقطهٔ پایانی API</string>
     <string name="settings_assignment_due_reminder">یادآورهای موعد تکلیف</string>
     <string name="settings_browser_in_app">مرورگر داخل برنامه</string>
     <string name="settings_browser_system_default">مرورگر پیش‌فرض سیستم</string>

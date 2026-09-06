@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Faham</string>
     <string name="settings_analytics_description">Kongsi data penggunaan tanpa nama (halaman dilawati, penggunaan widget) untuk membantu meningkatkan TigerDuck</string>
     <string name="settings_analytics_enabled">Analitik penggunaan</string>
+    <string name="settings_api_endpoint">Titik akhir API</string>
     <string name="settings_assignment_due_reminder">Peringatan tugasan hampir tamat</string>
     <string name="settings_browser_in_app">Pelayar dalam aplikasi</string>
     <string name="settings_browser_system_default">Pelayar lalai sistem</string>

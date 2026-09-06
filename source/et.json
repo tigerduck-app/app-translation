@@ -612,6 +612,7 @@
     "settings_acknowledged": "Selge",
     "settings_analytics_description": "Jaga anonüümseid kasutusandmeid (külastatud lehed, vidinate kasutamine), et aidata TigerDucki paremaks muuta",
     "settings_analytics_enabled": "Kasutusanalüütika",
+    "settings_api_endpoint": "API lõpp-punkt",
     "settings_assignment_due_reminder": "Ülesande tähtaja meeldetuletused",
     "settings_browser_in_app": "Rakendusesisene brauser",
     "settings_browser_system_default": "Süsteemi vaikebrauser",

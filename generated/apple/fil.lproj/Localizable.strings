@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Naintindihan ko";
 "settings_analytics_description" = "Ibahagi ang anonymous na datos ng paggamit (mga page na binisita, paggamit ng widget) para mapabuti ang TigerDuck";
 "settings_analytics_enabled" = "Analytics ng paggamit";
+"settings_api_endpoint" = "API endpoint";
 "settings_assignment_due_reminder" = "Mga paalala sa takdang-aralin";
 "settings_browser_in_app" = "Browser sa loob ng app";
 "settings_browser_system_default" = "Default na browser ng sistema";

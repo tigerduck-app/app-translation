@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Разумем</string>
     <string name="settings_analytics_description">Дели анонимне податке о коришћењу (посећене странице, коришћење виџета) да би помогао у побољшању TigerDuck-а</string>
     <string name="settings_analytics_enabled">Аналитика коришћења</string>
+    <string name="settings_api_endpoint">Крајња тачка API-ја</string>
     <string name="settings_assignment_due_reminder">Подсетници за рок задатка</string>
     <string name="settings_browser_in_app">Уграђени претраживач</string>
     <string name="settings_browser_system_default">Подразумевани системски претраживач</string>

@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Κατάλαβα</string>
     <string name="settings_analytics_description">Μοιράσου ανώνυμα δεδομένα χρήσης (σελίδες που επισκέφτηκες, χρήση widget) για να βοηθήσεις στη βελτίωση του TigerDuck</string>
     <string name="settings_analytics_enabled">Ανάλυση χρήσης</string>
+    <string name="settings_api_endpoint">Τελικό σημείο API</string>
     <string name="settings_assignment_due_reminder">Υπενθυμίσεις λήξης εργασίας</string>
     <string name="settings_browser_in_app">Ενσωματωμένος περιηγητής</string>
     <string name="settings_browser_system_default">Προεπιλεγμένος περιηγητής συστήματος</string>

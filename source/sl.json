@@ -612,6 +612,7 @@
     "settings_acknowledged": "Razumem",
     "settings_analytics_description": "Deli anonimne podatke o uporabi (obiskane strani, uporaba widgetov), da pomagaš izboljšati TigerDuck",
     "settings_analytics_enabled": "Analitika uporabe",
+    "settings_api_endpoint": "Končna točka API",
     "settings_assignment_due_reminder": "Opomniki za rok naloge",
     "settings_browser_in_app": "Brskalnik v aplikaciji",
     "settings_browser_system_default": "Privzeti sistemski brskalnik",

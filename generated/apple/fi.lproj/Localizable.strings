@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Selvä";
 "settings_analytics_description" = "Jaa anonyymiä käyttödataa (vieraillut sivut, widgetien käyttö) TigerDuckin kehittämiseksi";
 "settings_analytics_enabled" = "Käyttöanalytiikka";
+"settings_api_endpoint" = "API-päätepiste";
 "settings_assignment_due_reminder" = "Tehtävän palautusmuistutukset";
 "settings_browser_in_app" = "Sovelluksen sisäinen selain";
 "settings_browser_system_default" = "Järjestelmän oletusselain";

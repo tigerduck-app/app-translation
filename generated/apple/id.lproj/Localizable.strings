@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Mengerti";
 "settings_analytics_description" = "Bagikan data penggunaan anonim (halaman yang dikunjungi, penggunaan widget) untuk membantu meningkatkan TigerDuck";
 "settings_analytics_enabled" = "Analitik penggunaan";
+"settings_api_endpoint" = "Endpoint API";
 "settings_assignment_due_reminder" = "Pengingat tenggat tugas";
 "settings_browser_in_app" = "Peramban dalam aplikasi";
 "settings_browser_system_default" = "Peramban default sistem";

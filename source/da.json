@@ -612,6 +612,7 @@
     "settings_acknowledged": "Forstået",
     "settings_analytics_description": "Del anonyme brugsdata (besøgte sider, brug af widgets) for at hjælpe med at forbedre TigerDuck",
     "settings_analytics_enabled": "Brugsanalyse",
+    "settings_api_endpoint": "API-endepunkt",
     "settings_assignment_due_reminder": "Påmindelser om opgavefrist",
     "settings_browser_in_app": "Indbygget browser",
     "settings_browser_system_default": "Systemets standardbrowser",

@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Зрозуміло";
 "settings_analytics_description" = "Діліться анонімними даними про використання (відвідані сторінки, використання віджетів), щоб допомогти покращити TigerDuck";
 "settings_analytics_enabled" = "Аналітика використання";
+"settings_api_endpoint" = "Кінцева точка API";
 "settings_assignment_due_reminder" = "Нагадування про дедлайн завдань";
 "settings_browser_in_app" = "Вбудований браузер";
 "settings_browser_system_default" = "Стандартний системний браузер";

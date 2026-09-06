@@ -629,6 +629,7 @@
 "settings_acknowledged" = "అర్థమైంది";
 "settings_analytics_description" = "TigerDuck మెరుగుపరచడానికి అనామక వినియోగ డేటా (సందర్శించిన పేజీలు, విజెట్ వినియోగం) పంచుకోండి";
 "settings_analytics_enabled" = "వినియోగ విశ్లేషణ";
+"settings_api_endpoint" = "API ఎండ్‌పాయింట్";
 "settings_assignment_due_reminder" = "అసైన్‌మెంట్ గడువు రిమైండర్లు";
 "settings_browser_in_app" = "యాప్ లోపల బ్రౌజర్";
 "settings_browser_system_default" = "సిస్టమ్ డిఫాల్ట్ బ్రౌజర్";

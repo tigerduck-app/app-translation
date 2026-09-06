@@ -629,6 +629,7 @@
 "settings_acknowledged" = "הבנתי";
 "settings_analytics_description" = "שתף נתוני שימוש אנונימיים (דפים שביקרת, שימוש בווידג'טים) כדי לעזור לשפר את TigerDuck";
 "settings_analytics_enabled" = "ניתוח שימוש";
+"settings_api_endpoint" = "נקודת קצה של API";
 "settings_assignment_due_reminder" = "תזכורות לתאריך הגשת מטלה";
 "settings_browser_in_app" = "דפדפן מובנה";
 "settings_browser_system_default" = "דפדפן ברירת מחדל של המערכת";

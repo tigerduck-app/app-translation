@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Rozumiem</string>
     <string name="settings_analytics_description">Zdieľaj anonymné údaje o používaní (navštívené stránky, používanie widgetov) a pomôž nám vylepšiť TigerDuck</string>
     <string name="settings_analytics_enabled">Analytika používania</string>
+    <string name="settings_api_endpoint">Koncový bod API</string>
     <string name="settings_assignment_due_reminder">Pripomienky termínov úloh</string>
     <string name="settings_browser_in_app">Prehliadač v aplikácii</string>
     <string name="settings_browser_system_default">Predvolený systémový prehliadač</string>

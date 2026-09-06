@@ -612,6 +612,7 @@
     "settings_acknowledged": "Понятно",
     "settings_analytics_description": "Делись анонимными данными об использовании (посещённые страницы, использование виджетов), чтобы помочь улучшить TigerDuck",
     "settings_analytics_enabled": "Аналитика использования",
+    "settings_api_endpoint": "Конечная точка API",
     "settings_assignment_due_reminder": "Напоминания о сроках сдачи заданий",
     "settings_browser_in_app": "Встроенный браузер",
     "settings_browser_system_default": "Системный браузер по умолчанию",

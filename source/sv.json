@@ -612,6 +612,7 @@
     "settings_acknowledged": "Förstår",
     "settings_analytics_description": "Dela anonym användningsdata (besökta sidor, användning av widgets) för att hjälpa till att förbättra TigerDuck",
     "settings_analytics_enabled": "Användningsanalys",
+    "settings_api_endpoint": "API-slutpunkt",
     "settings_assignment_due_reminder": "Påminnelser om uppgifter",
     "settings_browser_in_app": "Webbläsare i appen",
     "settings_browser_system_default": "Systemets standardwebbläsare",

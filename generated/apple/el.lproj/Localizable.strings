@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Κατάλαβα";
 "settings_analytics_description" = "Μοιράσου ανώνυμα δεδομένα χρήσης (σελίδες που επισκέφτηκες, χρήση widget) για να βοηθήσεις στη βελτίωση του TigerDuck";
 "settings_analytics_enabled" = "Ανάλυση χρήσης";
+"settings_api_endpoint" = "Τελικό σημείο API";
 "settings_assignment_due_reminder" = "Υπενθυμίσεις λήξης εργασίας";
 "settings_browser_in_app" = "Ενσωματωμένος περιηγητής";
 "settings_browser_system_default" = "Προεπιλεγμένος περιηγητής συστήματος";

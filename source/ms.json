@@ -612,6 +612,7 @@
     "settings_acknowledged": "Faham",
     "settings_analytics_description": "Kongsi data penggunaan tanpa nama (halaman dilawati, penggunaan widget) untuk membantu meningkatkan TigerDuck",
     "settings_analytics_enabled": "Analitik penggunaan",
+    "settings_api_endpoint": "Titik akhir API",
     "settings_assignment_due_reminder": "Peringatan tugasan hampir tamat",
     "settings_browser_in_app": "Pelayar dalam aplikasi",
     "settings_browser_system_default": "Pelayar lalai sistem",

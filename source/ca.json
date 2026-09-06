@@ -612,6 +612,7 @@
     "settings_acknowledged": "Entès",
     "settings_analytics_description": "Comparteix dades d'ús anònimes (pàgines visitades, ús de widgets) per ajudar a millorar TigerDuck",
     "settings_analytics_enabled": "Anàlisi d'ús",
+    "settings_api_endpoint": "Punt final de l'API",
     "settings_assignment_due_reminder": "Recordatoris de venciment de tasques",
     "settings_browser_in_app": "Navegador de l'aplicació",
     "settings_browser_system_default": "Navegador predeterminat del sistema",

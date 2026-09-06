@@ -612,6 +612,7 @@
     "settings_acknowledged": "Skil",
     "settings_analytics_description": "Deildu nafnlausum notkunargögnum (heimsóttum síðum, notkun widgets) til að hjálpa til við að bæta TigerDuck",
     "settings_analytics_enabled": "Notkunargreining",
+    "settings_api_endpoint": "API-endapunktur",
     "settings_assignment_due_reminder": "Verkefnaáminningar",
     "settings_browser_in_app": "Innbyggðum vafra",
     "settings_browser_system_default": "Sjálfgefinn kerfisvafrinn",

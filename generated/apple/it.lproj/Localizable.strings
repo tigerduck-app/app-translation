@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Ho capito";
 "settings_analytics_description" = "Condividi dati d'uso anonimi (pagine visitate, utilizzo dei widget) per migliorare TigerDuck";
 "settings_analytics_enabled" = "Analisi dell'utilizzo";
+"settings_api_endpoint" = "Endpoint API";
 "settings_assignment_due_reminder" = "Promemoria scadenze compiti";
 "settings_browser_in_app" = "Browser interno all'app";
 "settings_browser_system_default" = "Browser predefinito di sistema";

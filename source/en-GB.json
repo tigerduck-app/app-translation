@@ -612,6 +612,7 @@
     "settings_acknowledged": "Got it",
     "settings_analytics_description": "Share anonymised usage data (pages visited, widget usage) to help improve TigerDuck",
     "settings_analytics_enabled": "Usage analytics",
+    "settings_api_endpoint": "API endpoint",
     "settings_assignment_due_reminder": "Assignment due reminders",
     "settings_browser_in_app": "In-app browser",
     "settings_browser_system_default": "System default browser",

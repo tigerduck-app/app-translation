@@ -612,6 +612,7 @@
     "settings_acknowledged": "Compris",
     "settings_analytics_description": "Partage des données d'utilisation anonymes (pages visitées, utilisation des widgets) pour aider à améliorer TigerDuck",
     "settings_analytics_enabled": "Analyse d'utilisation",
+    "settings_api_endpoint": "Point de terminaison de l'API",
     "settings_assignment_due_reminder": "Rappels d'échéance des devoirs",
     "settings_browser_in_app": "Navigateur intégré",
     "settings_browser_system_default": "Navigateur par défaut du système",

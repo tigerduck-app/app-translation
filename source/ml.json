@@ -612,6 +612,7 @@
     "settings_acknowledged": "മനസ്സിലായി",
     "settings_analytics_description": "TigerDuck മെച്ചപ്പെടുത്താൻ സഹായിക്കാൻ അജ്ഞാത ഉപയോഗ ഡേറ്റ (സന്ദർശിച്ച പേജുകൾ, വിജറ്റ് ഉപയോഗം) പങ്കിടുക",
     "settings_analytics_enabled": "ഉപയോഗ വിശകലനം",
+    "settings_api_endpoint": "API എൻഡ്‌പോയിന്റ്",
     "settings_assignment_due_reminder": "അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തലുകൾ",
     "settings_browser_in_app": "ആപ്പ് ഇൻ-ബ്രൗസർ",
     "settings_browser_system_default": "സിസ്റ്റം ഡിഫോൾട്ട് ബ്രൗസർ",

@@ -612,6 +612,7 @@
     "settings_acknowledged": "Anladım",
     "settings_analytics_description": "TigerDuck'ı geliştirmeye yardımcı olmak için anonim kullanım verilerini (ziyaret edilen sayfalar, widget kullanımı) paylaş",
     "settings_analytics_enabled": "Kullanım analitiği",
+    "settings_api_endpoint": "API uç noktası",
     "settings_assignment_due_reminder": "Ödev teslim hatırlatıcıları",
     "settings_browser_in_app": "Uygulama içi tarayıcı",
     "settings_browser_system_default": "Sistem varsayılan tarayıcısı",

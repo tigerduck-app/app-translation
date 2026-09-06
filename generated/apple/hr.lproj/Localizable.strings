@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Razumijem";
 "settings_analytics_description" = "Dijeli anonimne podatke o korištenju (posjećene stranice, korištenje widgeta) kako bi pomogao/la poboljšati TigerDuck";
 "settings_analytics_enabled" = "Analitika korištenja";
+"settings_api_endpoint" = "Krajnja točka API-ja";
 "settings_assignment_due_reminder" = "Podsjetnici za zadatke";
 "settings_browser_in_app" = "Preglednik unutar aplikacije";
 "settings_browser_system_default" = "Zadani preglednik sustava";

@@ -629,6 +629,7 @@
 "settings_acknowledged" = "Đã hiểu";
 "settings_analytics_description" = "Chia sẻ dữ liệu sử dụng ẩn danh (trang đã truy cập, sử dụng widget) để giúp cải thiện TigerDuck";
 "settings_analytics_enabled" = "Phân tích sử dụng";
+"settings_api_endpoint" = "Điểm cuối API";
 "settings_assignment_due_reminder" = "Nhắc bài tập sắp đến hạn";
 "settings_browser_in_app" = "Trình duyệt trong ứng dụng";
 "settings_browser_system_default" = "Trình duyệt mặc định của hệ thống";

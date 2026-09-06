@@ -612,6 +612,7 @@
     "settings_acknowledged": "Înțeles",
     "settings_analytics_description": "Împărtășește date anonime despre utilizare (pagini vizitate, utilizarea widget-urilor) pentru a ajuta la îmbunătățirea TigerDuck",
     "settings_analytics_enabled": "Analiză utilizare",
+    "settings_api_endpoint": "Punct final API",
     "settings_assignment_due_reminder": "Remindere teme scadente",
     "settings_browser_in_app": "Browser în aplicație",
     "settings_browser_system_default": "Browser implicit de sistem",

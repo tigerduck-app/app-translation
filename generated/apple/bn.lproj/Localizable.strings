@@ -629,6 +629,7 @@
 "settings_acknowledged" = "বুঝেছি";
 "settings_analytics_description" = "TigerDuck উন্নত করতে সাহায্য করতে বেনামী ব্যবহারের তথ্য (পরিদর্শন করা পেজ, উইজেট ব্যবহার) শেয়ার করুন";
 "settings_analytics_enabled" = "ব্যবহার বিশ্লেষণ";
+"settings_api_endpoint" = "API এন্ডপয়েন্ট";
 "settings_assignment_due_reminder" = "অ্যাসাইনমেন্টের সময়সীমার স্মরণিকা";
 "settings_browser_in_app" = "অ্যাপ-ইন ব্রাউজার";
 "settings_browser_system_default" = "সিস্টেম ডিফল্ট ব্রাউজার";

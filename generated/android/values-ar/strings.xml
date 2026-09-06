@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">حسنًا</string>
     <string name="settings_analytics_description">شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck</string>
     <string name="settings_analytics_enabled">تحليلات الاستخدام</string>
+    <string name="settings_api_endpoint">نقطة نهاية API</string>
     <string name="settings_assignment_due_reminder">تذكيرات استحقاق الواجبات</string>
     <string name="settings_browser_in_app">متصفح داخل التطبيق</string>
     <string name="settings_browser_system_default">متصفح النظام الافتراضي</string>

@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Đã hiểu</string>
     <string name="settings_analytics_description">Chia sẻ dữ liệu sử dụng ẩn danh (trang đã truy cập, sử dụng widget) để giúp cải thiện TigerDuck</string>
     <string name="settings_analytics_enabled">Phân tích sử dụng</string>
+    <string name="settings_api_endpoint">Điểm cuối API</string>
     <string name="settings_assignment_due_reminder">Nhắc bài tập sắp đến hạn</string>
     <string name="settings_browser_in_app">Trình duyệt trong ứng dụng</string>
     <string name="settings_browser_system_default">Trình duyệt mặc định của hệ thống</string>

@@ -629,6 +629,7 @@
 "settings_acknowledged" = "知道了";
 "settings_analytics_description" = "分享匿名使用数据（浏览页面、小组件使用情况），帮助改进 TigerDuck";
 "settings_analytics_enabled" = "使用分析";
+"settings_api_endpoint" = "API 端点";
 "settings_assignment_due_reminder" = "作业到期提醒";
 "settings_browser_in_app" = "App 内浏览器";
 "settings_browser_system_default" = "系统默认浏览器";

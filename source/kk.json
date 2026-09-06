@@ -612,6 +612,7 @@
     "settings_acknowledged": "Түсінікті",
     "settings_analytics_description": "TigerDuck-ты жақсартуға көмектесу үшін анонимді пайдалану деректерін (қаралған беттер, виджет пайдалануы) бөлісіңіз",
     "settings_analytics_enabled": "Пайдалану аналитикасы",
+    "settings_api_endpoint": "API соңғы нүктесі",
     "settings_assignment_due_reminder": "Тапсырма мерзімі туралы еске салулар",
     "settings_browser_in_app": "Қолданба ішіндегі браузер",
     "settings_browser_system_default": "Жүйенің әдепкі браузері",

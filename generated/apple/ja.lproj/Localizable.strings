@@ -629,6 +629,7 @@
 "settings_acknowledged" = "了解";
 "settings_analytics_description" = "匿名の利用データ（閲覧ページ、ウィジェットの使用状況）を共有して、TigerDuck の改善にご協力ください";
 "settings_analytics_enabled" = "利用状況の分析";
+"settings_api_endpoint" = "API エンドポイント";
 "settings_assignment_due_reminder" = "課題の期限リマインダー";
 "settings_browser_in_app" = "アプリ内ブラウザ";
 "settings_browser_system_default" = "システム標準ブラウザ";

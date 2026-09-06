@@ -612,6 +612,7 @@
     "settings_acknowledged": "เข้าใจแล้ว",
     "settings_analytics_description": "แชร์ข้อมูลการใช้งานแบบไม่ระบุตัวตน (หน้าที่เข้าชม, การใช้วิดเจ็ต) เพื่อช่วยพัฒนา TigerDuck",
     "settings_analytics_enabled": "การวิเคราะห์การใช้งาน",
+    "settings_api_endpoint": "ปลายทาง API",
     "settings_assignment_due_reminder": "การแจ้งเตือนการบ้านใกล้ครบกำหนด",
     "settings_browser_in_app": "เบราว์เซอร์ในแอป",
     "settings_browser_system_default": "เบราว์เซอร์เริ่มต้นของระบบ",

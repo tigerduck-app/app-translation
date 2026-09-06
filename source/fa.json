@@ -612,6 +612,7 @@
     "settings_acknowledged": "متوجه شدم",
     "settings_analytics_description": "داده‌های ناشناس استفاده (صفحات بازدیدشده، استفاده از ویجت) را برای بهبود TigerDuck به اشتراک بگذارید",
     "settings_analytics_enabled": "آمار استفاده",
+    "settings_api_endpoint": "نقطهٔ پایانی API",
     "settings_assignment_due_reminder": "یادآورهای موعد تکلیف",
     "settings_browser_in_app": "مرورگر داخل برنامه",
     "settings_browser_system_default": "مرورگر پیش‌فرض سیستم",

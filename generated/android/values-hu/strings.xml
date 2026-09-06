@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Értem</string>
     <string name="settings_analytics_description">Ossz meg névtelen használati adatokat (meglátogatott oldalak, widget-használat), hogy segíts fejleszteni a TigerDuck-ot</string>
     <string name="settings_analytics_enabled">Használati analitika</string>
+    <string name="settings_api_endpoint">API-végpont</string>
     <string name="settings_assignment_due_reminder">Házi feladat határidő emlékeztetők</string>
     <string name="settings_browser_in_app">Alkalmazáson belüli böngésző</string>
     <string name="settings_browser_system_default">Rendszer alapértelmezett böngésző</string>

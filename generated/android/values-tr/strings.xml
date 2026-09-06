@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Anladım</string>
     <string name="settings_analytics_description">TigerDuck\'ı geliştirmeye yardımcı olmak için anonim kullanım verilerini (ziyaret edilen sayfalar, widget kullanımı) paylaş</string>
     <string name="settings_analytics_enabled">Kullanım analitiği</string>
+    <string name="settings_api_endpoint">API uç noktası</string>
     <string name="settings_assignment_due_reminder">Ödev teslim hatırlatıcıları</string>
     <string name="settings_browser_in_app">Uygulama içi tarayıcı</string>
     <string name="settings_browser_system_default">Sistem varsayılan tarayıcısı</string>

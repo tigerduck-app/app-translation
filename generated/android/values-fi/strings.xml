@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Selvä</string>
     <string name="settings_analytics_description">Jaa anonyymiä käyttödataa (vieraillut sivut, widgetien käyttö) TigerDuckin kehittämiseksi</string>
     <string name="settings_analytics_enabled">Käyttöanalytiikka</string>
+    <string name="settings_api_endpoint">API-päätepiste</string>
     <string name="settings_assignment_due_reminder">Tehtävän palautusmuistutukset</string>
     <string name="settings_browser_in_app">Sovelluksen sisäinen selain</string>
     <string name="settings_browser_system_default">Järjestelmän oletusselain</string>

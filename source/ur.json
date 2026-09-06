@@ -612,6 +612,7 @@
     "settings_acknowledged": "سمجھ گیا",
     "settings_analytics_description": "TigerDuck کو بہتر بنانے میں مدد کے لیے گمنام استعمال کا ڈیٹا (دیکھے گئے صفحات، ویجٹ استعمال) شیئر کریں",
     "settings_analytics_enabled": "استعمال کا تجزیہ",
+    "settings_api_endpoint": "API اینڈ پوائنٹ",
     "settings_assignment_due_reminder": "اسائنمنٹ کی آخری تاریخ کی یاددہانی",
     "settings_browser_in_app": "ایپ کے اندر براؤزر",
     "settings_browser_system_default": "سسٹم کا ڈیفالٹ براؤزر",

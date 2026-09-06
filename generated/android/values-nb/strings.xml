@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Forstått</string>
     <string name="settings_analytics_description">Del anonyme bruksdata (besøkte sider, bruk av widgets) for å hjelpe med å forbedre TigerDuck</string>
     <string name="settings_analytics_enabled">Bruksanalyse</string>
+    <string name="settings_api_endpoint">API-endepunkt</string>
     <string name="settings_assignment_due_reminder">Påminnelser om oppgavefrist</string>
     <string name="settings_browser_in_app">Nettleser i appen</string>
     <string name="settings_browser_system_default">Standard systemnettleser</string>

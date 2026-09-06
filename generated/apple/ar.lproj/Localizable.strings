@@ -629,6 +629,7 @@
 "settings_acknowledged" = "حسنًا";
 "settings_analytics_description" = "شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck";
 "settings_analytics_enabled" = "تحليلات الاستخدام";
+"settings_api_endpoint" = "نقطة نهاية API";
 "settings_assignment_due_reminder" = "تذكيرات استحقاق الواجبات";
 "settings_browser_in_app" = "متصفح داخل التطبيق";
 "settings_browser_system_default" = "متصفح النظام الافتراضي";

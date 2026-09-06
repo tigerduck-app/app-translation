@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">Rozumiem</string>
     <string name="settings_analytics_description">Udostępniaj anonimowe dane o użytkowaniu (odwiedzone strony, używanie widgetów), aby pomóc ulepszać TigerDuck</string>
     <string name="settings_analytics_enabled">Analityka użytkowania</string>
+    <string name="settings_api_endpoint">Punkt końcowy API</string>
     <string name="settings_assignment_due_reminder">Przypomnienia o terminach zadań</string>
     <string name="settings_browser_in_app">Przeglądarka wbudowana</string>
     <string name="settings_browser_system_default">Domyślna przeglądarka systemowa</string>

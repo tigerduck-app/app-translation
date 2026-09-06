@@ -650,6 +650,7 @@
     <string name="settings_acknowledged">ತಿಳಿಯಿತು</string>
     <string name="settings_analytics_description">TigerDuck ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಲು ಅನಾಮಧೇಯ ಬಳಕೆ ಡೇಟಾ (ಭೇಟಿ ನೀಡಿದ ಪುಟಗಳು, ವಿಜೆಟ್ ಬಳಕೆ) ಹಂಚಿಕೊಳ್ಳಿ</string>
     <string name="settings_analytics_enabled">ಬಳಕೆ ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="settings_api_endpoint">API ಎಂಡ್‌ಪಾಯಿಂಟ್</string>
     <string name="settings_assignment_due_reminder">ಕಾರ್ಯ ಗಡುವು ಜ್ಞಾಪನೆಗಳು</string>
     <string name="settings_browser_in_app">ಅಪ್ಲಿಕೇಶನ್ ಒಳಗಿನ ಬ್ರೌಸರ್</string>
     <string name="settings_browser_system_default">ಸಿಸ್ಟಂ ಡೀಫಾಲ್ಟ್ ಬ್ರೌಸರ್</string>

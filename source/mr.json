@@ -612,6 +612,7 @@
     "settings_acknowledged": "समजले",
     "settings_analytics_description": "TigerDuck सुधारण्यास मदत करण्यासाठी अनामिक वापर डेटा (भेट दिलेली पृष्ठे, विजेट वापर) शेअर करा",
     "settings_analytics_enabled": "वापर विश्लेषण",
+    "settings_api_endpoint": "API एंडपॉइंट",
     "settings_assignment_due_reminder": "असाइनमेंट मुदत स्मरणपत्रे",
     "settings_browser_in_app": "ॲप-अंतर्गत ब्राउझर",
     "settings_browser_system_default": "सिस्टम डीफॉल्ट ब्राउझर",

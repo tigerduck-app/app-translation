@@ -612,6 +612,7 @@
     "settings_acknowledged": "知道了",
     "settings_analytics_description": "分享匿名使用資料（瀏覽頁面、小工具使用情形）以協助改善 TigerDuck",
     "settings_analytics_enabled": "使用分析",
+    "settings_api_endpoint": "API 端點",
     "settings_assignment_due_reminder": "作業到期提醒",
     "settings_browser_in_app": "App 內瀏覽器",
     "settings_browser_system_default": "系統預設瀏覽器",

@@ -612,6 +612,7 @@
     "settings_acknowledged": "Rozumím",
     "settings_analytics_description": "Sdílej anonymní data o používání (navštívené stránky, používání widgetů) a pomoz nám vylepšit TigerDuck",
     "settings_analytics_enabled": "Analytika používání",
+    "settings_api_endpoint": "Koncový bod API",
     "settings_assignment_due_reminder": "Upozornění na blížící se termín úkolu",
     "settings_browser_in_app": "Prohlížeč v aplikaci",
     "settings_browser_system_default": "Výchozí systémový prohlížeč",

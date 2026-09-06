@@ -612,6 +612,7 @@
     "settings_acknowledged": "Supratau",
     "settings_analytics_description": "Dalinkis anonimais naudojimo duomenimis (lankyti puslapiai, valdiklių naudojimas), kad padėtum tobulinti TigerDuck",
     "settings_analytics_enabled": "Naudojimo analizė",
+    "settings_api_endpoint": "API galinis taškas",
     "settings_assignment_due_reminder": "Užduočių terminų priminimai",
     "settings_browser_in_app": "Programos vidaus naršyklė",
     "settings_browser_system_default": "Numatytoji sistemos naršyklė",

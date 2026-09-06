@@ -612,6 +612,7 @@
     "settings_acknowledged": "Begrepen",
     "settings_analytics_description": "Deel anonieme gebruiksgegevens (bezochte pagina's, gebruik van widgets) om TigerDuck te helpen verbeteren",
     "settings_analytics_enabled": "Gebruiksanalyse",
+    "settings_api_endpoint": "API-eindpunt",
     "settings_assignment_due_reminder": "Herinneringen voor opdrachtdeadlines",
     "settings_browser_in_app": "Browser in app",
     "settings_browser_system_default": "Standaardbrowser van systeem",
