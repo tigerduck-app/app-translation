@@ -781,6 +781,9 @@
 "update_available_title" = "มีการอัปเดต";
 "update_check_failed_message" = "ไม่สามารถเข้าถึง App Store ได้ ลองอีกครั้งในภายหลัง";
 "update_check_failed_title" = "การตรวจสอบล้มเหลว";
+"update_required_action" = "อัปเดต";
+"update_required_message" = "TigerDuck เวอร์ชันนี้ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้อีกต่อไป อัปเดตเป็นเวอร์ชันล่าสุดเพื่อซิงค์ต่อ";
+"update_required_title" = "ต้องอัปเดต";
 "update_up_to_date_message" = "คุณมี %1$@ เวอร์ชันล่าสุดแล้ว";
 "update_up_to_date_title" = "คุณใช้เวอร์ชันล่าสุดแล้ว";
 "watch_action_back" = "ย้อนกลับ";

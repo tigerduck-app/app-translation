@@ -781,6 +781,9 @@
 "update_available_title" = "Actualització disponible";
 "update_check_failed_message" = "No s'ha pogut contactar amb l'App Store. Torna-ho a provar més tard.";
 "update_check_failed_title" = "La comprovació ha fallat";
+"update_required_action" = "Actualitza";
+"update_required_message" = "Aquesta versió de TigerDuck ja no es pot connectar al servidor. Actualitza a la darrera versió per continuar sincronitzant.";
+"update_required_title" = "Cal actualitzar";
 "update_up_to_date_message" = "Tens la darrera versió de %1$@.";
 "update_up_to_date_title" = "Estàs al dia";
 "watch_action_back" = "Enrere";

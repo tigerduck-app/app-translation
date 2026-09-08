@@ -781,6 +781,9 @@
 "update_available_title" = "Na voljo je posodobitev";
 "update_check_failed_message" = "App Store ni bil dosegljiv. Poskusite znova pozneje.";
 "update_check_failed_title" = "Preverjanje ni uspelo";
+"update_required_action" = "Posodobi";
+"update_required_message" = "Ta različica aplikacije TigerDuck se ne more več povezati s strežnikom. Posodobite na najnovejšo različico za nadaljevanje sinhronizacije.";
+"update_required_title" = "Potrebna je posodobitev";
 "update_up_to_date_message" = "Imate najnovejšo različico %1$@.";
 "update_up_to_date_title" = "Imate najnovejšo različico";
 "watch_action_back" = "Nazaj";

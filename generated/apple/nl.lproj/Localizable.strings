@@ -781,6 +781,9 @@
 "update_available_title" = "Update beschikbaar";
 "update_check_failed_message" = "Kon de App Store niet bereiken. Probeer het later opnieuw.";
 "update_check_failed_title" = "Controle mislukt";
+"update_required_action" = "Bijwerken";
+"update_required_message" = "Deze versie van TigerDuck kan geen verbinding meer maken met de server. Werk bij naar de nieuwste versie om te blijven synchroniseren.";
+"update_required_title" = "Update vereist";
 "update_up_to_date_message" = "Je hebt de nieuwste versie van %1$@.";
 "update_up_to_date_title" = "Je bent up-to-date";
 "watch_action_back" = "Terug";

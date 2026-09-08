@@ -781,6 +781,9 @@
 "update_available_title" = "Dostępna aktualizacja";
 "update_check_failed_message" = "Nie można połączyć się z App Store. Spróbuj ponownie później.";
 "update_check_failed_title" = "Sprawdzanie nie powiodło się";
+"update_required_action" = "Aktualizuj";
+"update_required_message" = "Ta wersja TigerDuck nie może już połączyć się z serwerem. Zaktualizuj do najnowszej wersji, aby kontynuować synchronizację.";
+"update_required_title" = "Wymagana aktualizacja";
 "update_up_to_date_message" = "Masz najnowszą wersję %1$@.";
 "update_up_to_date_title" = "Jesteś na bieżąco";
 "watch_action_back" = "Wstecz";

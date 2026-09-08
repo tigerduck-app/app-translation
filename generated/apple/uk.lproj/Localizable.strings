@@ -781,6 +781,9 @@
 "update_available_title" = "Доступне оновлення";
 "update_check_failed_message" = "Не вдалося підключитися до App Store. Спробуйте пізніше.";
 "update_check_failed_title" = "Перевірка не вдалася";
+"update_required_action" = "Оновити";
+"update_required_message" = "Ця версія TigerDuck більше не може підключитися до сервера. Оновіть до останньої версії, щоб синхронізація тривала.";
+"update_required_title" = "Потрібне оновлення";
 "update_up_to_date_message" = "У вас встановлена остання версія %1$@.";
 "update_up_to_date_title" = "У вас остання версія";
 "watch_action_back" = "Назад";

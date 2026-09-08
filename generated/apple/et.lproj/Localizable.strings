@@ -781,6 +781,9 @@
 "update_available_title" = "Uuendus saadaval";
 "update_check_failed_message" = "App Store'i ei õnnestunud ühendust luua. Proovi hiljem uuesti.";
 "update_check_failed_title" = "Kontrollimine ebaõnnestus";
+"update_required_action" = "Uuenda";
+"update_required_message" = "See TigerDucki versioon ei saa enam serveriga ühendust. Uuenda uusimale versioonile, et sünkroonimine jätkuks.";
+"update_required_title" = "Uuendus on vajalik";
 "update_up_to_date_message" = "Sul on rakenduse %1$@ viimane versioon.";
 "update_up_to_date_title" = "Oled ajakohane";
 "watch_action_back" = "Tagasi";

@@ -781,6 +781,9 @@
 "update_available_title" = "Διαθέσιμη ενημέρωση";
 "update_check_failed_message" = "Δεν ήταν δυνατή η πρόσβαση στο App Store. Δοκιμάστε ξανά αργότερα.";
 "update_check_failed_title" = "Αποτυχία ελέγχου";
+"update_required_action" = "Ενημέρωση";
+"update_required_message" = "Αυτή η έκδοση του TigerDuck δεν μπορεί πλέον να συνδεθεί στον διακομιστή. Ενημερώστε στην πιο πρόσφατη έκδοση για να συνεχίσετε τον συγχρονισμό.";
+"update_required_title" = "Απαιτείται ενημέρωση";
 "update_up_to_date_message" = "Έχετε την τελευταία έκδοση του %1$@.";
 "update_up_to_date_title" = "Είστε ενημερωμένοι";
 "watch_action_back" = "Πίσω";

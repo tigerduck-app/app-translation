@@ -781,6 +781,9 @@
 "update_available_title" = "K dispozícii je aktualizácia";
 "update_check_failed_message" = "Nepodarilo sa dosiahnuť App Store. Skúste to znova neskôr.";
 "update_check_failed_title" = "Kontrola zlyhala";
+"update_required_action" = "Aktualizovať";
+"update_required_message" = "Táto verzia aplikácie TigerDuck sa už nedokáže pripojiť k serveru. Aktualizujte na najnovšiu verziu, aby synchronizácia pokračovala.";
+"update_required_title" = "Vyžaduje sa aktualizácia";
 "update_up_to_date_message" = "Máte najnovšiu verziu %1$@.";
 "update_up_to_date_title" = "Máte aktuálnu verziu";
 "watch_action_back" = "Späť";

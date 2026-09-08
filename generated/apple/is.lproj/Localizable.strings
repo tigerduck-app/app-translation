@@ -781,6 +781,9 @@
 "update_available_title" = "Uppfærsla tiltæk";
 "update_check_failed_message" = "Náðist ekki í App Store. Reyndu aftur síðar.";
 "update_check_failed_title" = "Athugun mistókst";
+"update_required_action" = "Uppfæra";
+"update_required_message" = "Þessi útgáfa af TigerDuck getur ekki lengur tengst netþjóninum. Uppfærðu í nýjustu útgáfuna til að halda samstillingu áfram.";
+"update_required_title" = "Uppfærslu krafist";
 "update_up_to_date_message" = "Þú ert með nýjustu útgáfuna af %1$@.";
 "update_up_to_date_title" = "Þú ert uppfærð/ur";
 "watch_action_back" = "Til baka";

@@ -781,6 +781,9 @@
 "update_available_title" = "અપડેટ ઉપલબ્ધ છે";
 "update_check_failed_message" = "App Store સુધી પહોંચી શકાયું નહીં. પછી ફરી પ્રયાસ કરો.";
 "update_check_failed_title" = "તપાસ નિષ્ફળ";
+"update_required_action" = "અપડેટ કરો";
+"update_required_message" = "TigerDuck ની આ આવૃત્તિ હવે સર્વર સાથે કનેક્ટ થઈ શકતી નથી. સિંક ચાલુ રાખવા માટે નવીનતમ આવૃત્તિ પર અપડેટ કરો.";
+"update_required_title" = "અપડેટ જરૂરી છે";
 "update_up_to_date_message" = "તમારી પાસે %1$@ નું નવીનતમ વર્ઝન છે.";
 "update_up_to_date_title" = "તમે અપ ટૂ ડેટ છો";
 "watch_action_back" = "પાછા";
