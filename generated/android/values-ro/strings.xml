@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Deschide linkul Moodle în</string>
     <string name="desktop_settings_moodle_open_in_app">Aplicația Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Browser</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">Interfață</string>
     <string name="desktop_settings_section_links">Linkuri</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv.</string>
     <string name="settings_sync_status_off">Oprit</string>
     <string name="settings_sync_status_on">Pornit</string>
+    <string name="settings_system_language">Limba sistemului</string>
     <string name="settings_theme_dark">Mod întunecat</string>
     <string name="settings_theme_light">Mod luminos</string>
     <string name="settings_theme_system">Urmează sistemul</string>

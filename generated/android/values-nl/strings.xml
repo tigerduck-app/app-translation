@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Open Moodle-link in</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle-app</string>
     <string name="desktop_settings_moodle_open_in_browser">Browser</string>
-    <string name="desktop_settings_section_course_display">Vakkenweergave</string>
     <string name="desktop_settings_section_interface">Interface</string>
     <string name="desktop_settings_section_links">Links</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Rooster</string>
     <string name="desktop_settings_sidebar_available">Beschikbaar</string>
     <string name="desktop_settings_sidebar_description">Kies welke functies in de zijbalk verschijnen en in welke volgorde. Instellingen staat altijd onderaan.</string>
     <string name="desktop_settings_sidebar_empty_available">Alle functies zijn al vastgezet.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Wanneer synchronisatie uit staat, blijven alle gegevens alleen op dit apparaat.</string>
     <string name="settings_sync_status_off">Uit</string>
     <string name="settings_sync_status_on">Aan</string>
+    <string name="settings_system_language">Systeemtaal</string>
     <string name="settings_theme_dark">Donkere modus</string>
     <string name="settings_theme_light">Lichte modus</string>
     <string name="settings_theme_system">Systeem volgen</string>

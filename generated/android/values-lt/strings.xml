@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Atidaryti Moodle nuorodą</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle programa</string>
     <string name="desktop_settings_moodle_open_in_browser">Naršyklė</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">Sąsaja</string>
     <string name="desktop_settings_section_links">Nuorodos</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje.</string>
     <string name="settings_sync_status_off">Išjungta</string>
     <string name="settings_sync_status_on">Įjungta</string>
+    <string name="settings_system_language">Sistemos kalba</string>
     <string name="settings_theme_dark">Tamsus režimas</string>
     <string name="settings_theme_light">Šviesus režimas</string>
     <string name="settings_theme_system">Pagal sistemą</string>

@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Moodle لنک کھولیں";
 "desktop_settings_moodle_open_in_app" = "Moodle ایپ";
 "desktop_settings_moodle_open_in_browser" = "براؤزر";
-"desktop_settings_section_course_display" = "کورس کی نمائش";
 "desktop_settings_section_interface" = "انٹرفیس";
 "desktop_settings_section_links" = "روابط";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "شیڈول";
 "desktop_settings_sidebar_available" = "دستیاب";
 "desktop_settings_sidebar_description" = "منتخب کریں کہ سائیڈ بار میں کون سی خصوصیات اور کس ترتیب سے دکھائی دیں۔ سیٹنگز ہمیشہ نیچے دستیاب ہوتی ہے۔";
 "desktop_settings_sidebar_empty_available" = "تمام خصوصیات پہلے ہی پن ہیں۔";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "بند";
 "settings_sync_status_on" = "آن";
 "settings_sync_toggle_label" = "کراس ڈیوائس سنک فعال کریں";
+"settings_system_language" = "سسٹم کی زبان";
 "settings_theme_dark" = "ڈارک موڈ";
 "settings_theme_light" = "لائٹ موڈ";
 "settings_theme_system" = "سسٹم کے مطابق";

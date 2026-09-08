@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Obre l'enllaç de Moodle a";
 "desktop_settings_moodle_open_in_app" = "App Moodle";
 "desktop_settings_moodle_open_in_browser" = "Navegador";
-"desktop_settings_section_course_display" = "Course display";
 "desktop_settings_section_interface" = "Interfície";
 "desktop_settings_section_links" = "Enllaços";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
 "desktop_settings_sidebar_description" = "Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.";
 "desktop_settings_sidebar_empty_available" = "Every feature is already pinned.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Desactivat";
 "settings_sync_status_on" = "Activat";
 "settings_sync_toggle_label" = "Activar la sincronització entre dispositius";
+"settings_system_language" = "Idioma del sistema";
 "settings_theme_dark" = "Mode fosc";
 "settings_theme_light" = "Mode clar";
 "settings_theme_system" = "Segueix el sistema";

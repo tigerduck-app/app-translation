@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Abrir ligação do Moodle em</string>
     <string name="desktop_settings_moodle_open_in_app">App do Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Navegador</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">Interface</string>
     <string name="desktop_settings_section_links">Ligações</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Quando a sincronização está desativada, todos os dados ficam apenas neste dispositivo.</string>
     <string name="settings_sync_status_off">Desligado</string>
     <string name="settings_sync_status_on">Ligado</string>
+    <string name="settings_system_language">Idioma do sistema</string>
     <string name="settings_theme_dark">Modo escuro</string>
     <string name="settings_theme_light">Modo claro</string>
     <string name="settings_theme_system">Seguir o sistema</string>

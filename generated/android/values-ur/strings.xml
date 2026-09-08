@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle لنک کھولیں</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle ایپ</string>
     <string name="desktop_settings_moodle_open_in_browser">براؤزر</string>
-    <string name="desktop_settings_section_course_display">کورس کی نمائش</string>
     <string name="desktop_settings_section_interface">انٹرفیس</string>
     <string name="desktop_settings_section_links">روابط</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">شیڈول</string>
     <string name="desktop_settings_sidebar_available">دستیاب</string>
     <string name="desktop_settings_sidebar_description">منتخب کریں کہ سائیڈ بار میں کون سی خصوصیات اور کس ترتیب سے دکھائی دیں۔ سیٹنگز ہمیشہ نیچے دستیاب ہوتی ہے۔</string>
     <string name="desktop_settings_sidebar_empty_available">تمام خصوصیات پہلے ہی پن ہیں۔</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">جب سنک بند ہو تو تمام ڈیٹا صرف اس آلے پر رہتا ہے۔</string>
     <string name="settings_sync_status_off">بند</string>
     <string name="settings_sync_status_on">آن</string>
+    <string name="settings_system_language">سسٹم کی زبان</string>
     <string name="settings_theme_dark">ڈارک موڈ</string>
     <string name="settings_theme_light">لائٹ موڈ</string>
     <string name="settings_theme_system">سسٹم کے مطابق</string>

@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle લિંક ખોલો</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle એપ</string>
     <string name="desktop_settings_moodle_open_in_browser">બ્રાઉઝર</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">ઇન્ટરફેસ</string>
     <string name="desktop_settings_section_links">લિંક્સ</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">જ્યારે સિંક બંધ હોય, ત્યારે બધો ડેટા ફક્ત આ ડિવાઇસ પર જ રહે છે.</string>
     <string name="settings_sync_status_off">બંધ</string>
     <string name="settings_sync_status_on">ચાલુ</string>
+    <string name="settings_system_language">સિસ્ટમ ભાષા</string>
     <string name="settings_theme_dark">ડાર્ક મોડ</string>
     <string name="settings_theme_light">લાઇટ મોડ</string>
     <string name="settings_theme_system">સિસ્ટમ પ્રમાણે</string>

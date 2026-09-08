@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Отвори Moodle линк в</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle приложение</string>
     <string name="desktop_settings_moodle_open_in_browser">Браузър</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">Интерфейс</string>
     <string name="desktop_settings_section_links">Връзки</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Когато синхронизацията е изключена, всички данни остават само на това устройство.</string>
     <string name="settings_sync_status_off">Изкл.</string>
     <string name="settings_sync_status_on">Вкл.</string>
+    <string name="settings_system_language">Език на системата</string>
     <string name="settings_theme_dark">Тъмен режим</string>
     <string name="settings_theme_light">Светъл режим</string>
     <string name="settings_theme_system">Следване на системата</string>

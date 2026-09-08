@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Άνοιγμα συνδέσμου Moodle σε";
 "desktop_settings_moodle_open_in_app" = "Εφαρμογή Moodle";
 "desktop_settings_moodle_open_in_browser" = "Πρόγραμμα περιήγησης";
-"desktop_settings_section_course_display" = "Εμφάνιση μαθημάτων";
 "desktop_settings_section_interface" = "Διεπαφή";
 "desktop_settings_section_links" = "Σύνδεσμοι";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Πρόγραμμα";
 "desktop_settings_sidebar_available" = "Διαθέσιμα";
 "desktop_settings_sidebar_description" = "Επιλέξτε ποιες δυνατότητες εμφανίζονται στην πλαϊνή μπάρα και με ποια σειρά. Οι ρυθμίσεις είναι πάντα διαθέσιμες στο κάτω μέρος.";
 "desktop_settings_sidebar_empty_available" = "Όλες οι δυνατότητες είναι ήδη καρφιτσωμένες.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Ανενεργό";
 "settings_sync_status_on" = "Ενεργό";
 "settings_sync_toggle_label" = "Ενεργοποίηση συγχρονισμού μεταξύ συσκευών";
+"settings_system_language" = "Γλώσσα συστήματος";
 "settings_theme_dark" = "Σκοτεινή λειτουργία";
 "settings_theme_light" = "Φωτεινή λειτουργία";
 "settings_theme_system" = "Ακολουθεί σύστημα";

@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Moodle লিঙ্ক খুলুন";
 "desktop_settings_moodle_open_in_app" = "Moodle অ্যাপ";
 "desktop_settings_moodle_open_in_browser" = "ব্রাউজার";
-"desktop_settings_section_course_display" = "Course display";
 "desktop_settings_section_interface" = "ইন্টারফেস";
 "desktop_settings_section_links" = "লিঙ্ক";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
 "desktop_settings_sidebar_description" = "Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.";
 "desktop_settings_sidebar_empty_available" = "Every feature is already pinned.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "বন্ধ";
 "settings_sync_status_on" = "চালু";
 "settings_sync_toggle_label" = "ক্রস-ডিভাইস সিঙ্ক সক্রিয় করুন";
+"settings_system_language" = "সিস্টেম ভাষা";
 "settings_theme_dark" = "ডার্ক মোড";
 "settings_theme_light" = "লাইট মোড";
 "settings_theme_system" = "সিস্টেম অনুসরণ করুন";

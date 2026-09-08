@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Moodle दुवा उघडा";
 "desktop_settings_moodle_open_in_app" = "Moodle अ‍ॅप";
 "desktop_settings_moodle_open_in_browser" = "ब्राउझर";
-"desktop_settings_section_course_display" = "Course display";
 "desktop_settings_section_interface" = "इंटरफेस";
 "desktop_settings_section_links" = "दुवे";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
 "desktop_settings_sidebar_description" = "Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.";
 "desktop_settings_sidebar_empty_available" = "Every feature is already pinned.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "बंद";
 "settings_sync_status_on" = "चालू";
 "settings_sync_toggle_label" = "क्रॉस-डिव्हाइस सिंक सक्षम करा";
+"settings_system_language" = "सिस्टम भाषा";
 "settings_theme_dark" = "डार्क मोड";
 "settings_theme_light" = "लाइट मोड";
 "settings_theme_system" = "सिस्टमचे अनुसरण करा";

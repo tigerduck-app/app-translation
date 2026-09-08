@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Obre l\'enllaç de Moodle a</string>
     <string name="desktop_settings_moodle_open_in_app">App Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Navegador</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">Interfície</string>
     <string name="desktop_settings_section_links">Enllaços</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Quan la sincronització és desactivada, totes les dades es queden només en aquest dispositiu.</string>
     <string name="settings_sync_status_off">Desactivat</string>
     <string name="settings_sync_status_on">Activat</string>
+    <string name="settings_system_language">Idioma del sistema</string>
     <string name="settings_theme_dark">Mode fosc</string>
     <string name="settings_theme_light">Mode clar</string>
     <string name="settings_theme_system">Segueix el sistema</string>

@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Moodle リンクを開く先";
 "desktop_settings_moodle_open_in_app" = "Moodle アプリ";
 "desktop_settings_moodle_open_in_browser" = "ブラウザ";
-"desktop_settings_section_course_display" = "授業の表示";
 "desktop_settings_section_interface" = "インターフェース";
 "desktop_settings_section_links" = "リンク";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "スケジュール";
 "desktop_settings_sidebar_available" = "利用可能";
 "desktop_settings_sidebar_description" = "サイドバーに表示する機能と並び順を選びます。「設定」は常にサイドバー下部に表示されます。";
 "desktop_settings_sidebar_empty_available" = "すべての機能が固定済みです。";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "オフ";
 "settings_sync_status_on" = "オン";
 "settings_sync_toggle_label" = "クロスデバイス同期を有効にする";
+"settings_system_language" = "システム言語";
 "settings_theme_dark" = "ダークモード";
 "settings_theme_light" = "ライトモード";
 "settings_theme_system" = "システムに従う";

@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Άνοιγμα συνδέσμου Moodle σε</string>
     <string name="desktop_settings_moodle_open_in_app">Εφαρμογή Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Πρόγραμμα περιήγησης</string>
-    <string name="desktop_settings_section_course_display">Εμφάνιση μαθημάτων</string>
     <string name="desktop_settings_section_interface">Διεπαφή</string>
     <string name="desktop_settings_section_links">Σύνδεσμοι</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Πρόγραμμα</string>
     <string name="desktop_settings_sidebar_available">Διαθέσιμα</string>
     <string name="desktop_settings_sidebar_description">Επιλέξτε ποιες δυνατότητες εμφανίζονται στην πλαϊνή μπάρα και με ποια σειρά. Οι ρυθμίσεις είναι πάντα διαθέσιμες στο κάτω μέρος.</string>
     <string name="desktop_settings_sidebar_empty_available">Όλες οι δυνατότητες είναι ήδη καρφιτσωμένες.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Όταν ο συγχρονισμός είναι απενεργοποιημένος, όλα τα δεδομένα παραμένουν μόνο σε αυτή τη συσκευή.</string>
     <string name="settings_sync_status_off">Ανενεργό</string>
     <string name="settings_sync_status_on">Ενεργό</string>
+    <string name="settings_system_language">Γλώσσα συστήματος</string>
     <string name="settings_theme_dark">Σκοτεινή λειτουργία</string>
     <string name="settings_theme_light">Φωτεινή λειτουργία</string>
     <string name="settings_theme_system">Ακολουθεί σύστημα</string>

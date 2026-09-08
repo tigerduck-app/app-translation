@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Åpne Moodle-lenke i</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle-app</string>
     <string name="desktop_settings_moodle_open_in_browser">Nettleser</string>
-    <string name="desktop_settings_section_course_display">Kursvisning</string>
     <string name="desktop_settings_section_interface">Grensesnitt</string>
     <string name="desktop_settings_section_links">Lenker</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Timeplan</string>
     <string name="desktop_settings_sidebar_available">Tilgjengelig</string>
     <string name="desktop_settings_sidebar_description">Velg hvilke funksjoner som vises i sidefeltet og i hvilken rekkefølge. Innstillinger er alltid nederst.</string>
     <string name="desktop_settings_sidebar_empty_available">Alle funksjoner er allerede festet.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Når synkronisering er av, forblir alle data kun på denne enheten.</string>
     <string name="settings_sync_status_off">Av</string>
     <string name="settings_sync_status_on">På</string>
+    <string name="settings_system_language">Systemspråk</string>
     <string name="settings_theme_dark">Mørk modus</string>
     <string name="settings_theme_light">Lys modus</string>
     <string name="settings_theme_system">Følg system</string>

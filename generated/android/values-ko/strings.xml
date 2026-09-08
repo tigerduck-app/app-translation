@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle 링크 열기</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle 앱</string>
     <string name="desktop_settings_moodle_open_in_browser">브라우저</string>
-    <string name="desktop_settings_section_course_display">강의 표시</string>
     <string name="desktop_settings_section_interface">인터페이스</string>
     <string name="desktop_settings_section_links">링크</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">일정</string>
     <string name="desktop_settings_sidebar_available">사용 가능</string>
     <string name="desktop_settings_sidebar_description">사이드바에 표시할 기능과 순서를 선택합니다. 설정은 항상 사이드바 하단에 표시됩니다.</string>
     <string name="desktop_settings_sidebar_empty_available">모든 기능이 이미 고정되어 있습니다.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">동기화가 꺼져 있으면 모든 데이터는 이 기기에만 저장됩니다.</string>
     <string name="settings_sync_status_off">꺼짐</string>
     <string name="settings_sync_status_on">켜짐</string>
+    <string name="settings_system_language">시스템 언어</string>
     <string name="settings_theme_dark">다크 모드</string>
     <string name="settings_theme_light">라이트 모드</string>
     <string name="settings_theme_system">시스템 설정 따르기</string>

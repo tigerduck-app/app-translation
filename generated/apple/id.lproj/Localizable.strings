@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Buka tautan Moodle di";
 "desktop_settings_moodle_open_in_app" = "Aplikasi Moodle";
 "desktop_settings_moodle_open_in_browser" = "Browser";
-"desktop_settings_section_course_display" = "Tampilan mata kuliah";
 "desktop_settings_section_interface" = "Antarmuka";
 "desktop_settings_section_links" = "Tautan";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Jadwal";
 "desktop_settings_sidebar_available" = "Tersedia";
 "desktop_settings_sidebar_description" = "Pilih fitur mana yang muncul di bilah samping dan urutannya. Pengaturan selalu tersedia di bawah.";
 "desktop_settings_sidebar_empty_available" = "Semua fitur sudah disematkan.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Nonaktif";
 "settings_sync_status_on" = "Aktif";
 "settings_sync_toggle_label" = "Aktifkan sinkronisasi lintas perangkat";
+"settings_system_language" = "Bahasa sistem";
 "settings_theme_dark" = "Mode gelap";
 "settings_theme_light" = "Mode terang";
 "settings_theme_system" = "Ikuti sistem";

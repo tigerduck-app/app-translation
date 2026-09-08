@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "باز کردن پیوند Moodle در";
 "desktop_settings_moodle_open_in_app" = "برنامه Moodle";
 "desktop_settings_moodle_open_in_browser" = "مرورگر";
-"desktop_settings_section_course_display" = "نمایش درس‌ها";
 "desktop_settings_section_interface" = "رابط کاربری";
 "desktop_settings_section_links" = "پیوندها";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "برنامه";
 "desktop_settings_sidebar_available" = "در دسترس";
 "desktop_settings_sidebar_description" = "انتخاب کنید چه قابلیت‌هایی و با چه ترتیبی در نوار کناری نمایش داده شوند. تنظیمات همیشه در پایین در دسترس است.";
 "desktop_settings_sidebar_empty_available" = "همهٔ قابلیت‌ها قبلاً سنجاق شده‌اند.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "خاموش";
 "settings_sync_status_on" = "روشن";
 "settings_sync_toggle_label" = "فعال‌سازی همگام‌سازی بین دستگاه‌ها";
+"settings_system_language" = "زبان سیستم";
 "settings_theme_dark" = "حالت تاریک";
 "settings_theme_light" = "حالت روشن";
 "settings_theme_system" = "همگام با سیستم";

@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle లింక్ తెరవండి</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle యాప్</string>
     <string name="desktop_settings_moodle_open_in_browser">బ్రౌజర్</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">ఇంటర్‌ఫేస్</string>
     <string name="desktop_settings_section_links">లింక్‌లు</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">సింక్ ఆఫ్‌లో ఉన్నప్పుడు, మొత్తం డేటా ఈ పరికరంలో మాత్రమే ఉంటుంది.</string>
     <string name="settings_sync_status_off">ఆఫ్</string>
     <string name="settings_sync_status_on">ఆన్</string>
+    <string name="settings_system_language">సిస్టమ్ భాష</string>
     <string name="settings_theme_dark">డార్క్ మోడ్</string>
     <string name="settings_theme_light">లైట్ మోడ్</string>
     <string name="settings_theme_system">సిస్టమ్‌ను అనుసరించండి</string>

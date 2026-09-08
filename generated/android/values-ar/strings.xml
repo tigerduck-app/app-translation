@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">فتح رابط Moodle في</string>
     <string name="desktop_settings_moodle_open_in_app">تطبيق Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">المتصفح</string>
-    <string name="desktop_settings_section_course_display">عرض المقررات</string>
     <string name="desktop_settings_section_interface">الواجهة</string>
     <string name="desktop_settings_section_links">الروابط</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">الجدول</string>
     <string name="desktop_settings_sidebar_available">متاح</string>
     <string name="desktop_settings_sidebar_description">اختر الميزات الظاهرة في الشريط الجانبي وترتيبها. تكون الإعدادات دائمًا في الأسفل.</string>
     <string name="desktop_settings_sidebar_empty_available">كل الميزات مثبّتة بالفعل.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">عند إيقاف المزامنة، تبقى جميع البيانات على هذا الجهاز فقط.</string>
     <string name="settings_sync_status_off">معطّل</string>
     <string name="settings_sync_status_on">مفعّل</string>
+    <string name="settings_system_language">لغة النظام</string>
     <string name="settings_theme_dark">الوضع الداكن</string>
     <string name="settings_theme_light">الوضع الفاتح</string>
     <string name="settings_theme_system">اتباع النظام</string>

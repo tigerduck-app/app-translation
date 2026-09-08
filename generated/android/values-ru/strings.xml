@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Открыть ссылку Moodle в</string>
     <string name="desktop_settings_moodle_open_in_app">Приложение Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Браузер</string>
-    <string name="desktop_settings_section_course_display">Отображение курсов</string>
     <string name="desktop_settings_section_interface">Интерфейс</string>
     <string name="desktop_settings_section_links">Ссылки</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Расписание</string>
     <string name="desktop_settings_sidebar_available">Доступно</string>
     <string name="desktop_settings_sidebar_description">Выберите, какие функции и в каком порядке отображать в боковой панели. «Настройки» всегда внизу.</string>
     <string name="desktop_settings_sidebar_empty_available">Все функции уже закреплены.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Когда синхронизация отключена, все данные остаются только на этом устройстве.</string>
     <string name="settings_sync_status_off">Выкл.</string>
     <string name="settings_sync_status_on">Вкл.</string>
+    <string name="settings_system_language">Язык системы</string>
     <string name="settings_theme_dark">Тёмный режим</string>
     <string name="settings_theme_light">Светлый режим</string>
     <string name="settings_theme_system">Как в системе</string>

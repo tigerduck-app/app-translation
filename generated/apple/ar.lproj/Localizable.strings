@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "فتح رابط Moodle في";
 "desktop_settings_moodle_open_in_app" = "تطبيق Moodle";
 "desktop_settings_moodle_open_in_browser" = "المتصفح";
-"desktop_settings_section_course_display" = "عرض المقررات";
 "desktop_settings_section_interface" = "الواجهة";
 "desktop_settings_section_links" = "الروابط";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "الجدول";
 "desktop_settings_sidebar_available" = "متاح";
 "desktop_settings_sidebar_description" = "اختر الميزات الظاهرة في الشريط الجانبي وترتيبها. تكون الإعدادات دائمًا في الأسفل.";
 "desktop_settings_sidebar_empty_available" = "كل الميزات مثبّتة بالفعل.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "معطّل";
 "settings_sync_status_on" = "مفعّل";
 "settings_sync_toggle_label" = "تفعيل المزامنة عبر الأجهزة";
+"settings_system_language" = "لغة النظام";
 "settings_theme_dark" = "الوضع الداكن";
 "settings_theme_light" = "الوضع الفاتح";
 "settings_theme_system" = "اتباع النظام";

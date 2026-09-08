@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Öppna Moodle-länk i";
 "desktop_settings_moodle_open_in_app" = "Moodle-appen";
 "desktop_settings_moodle_open_in_browser" = "Webbläsare";
-"desktop_settings_section_course_display" = "Kursvisning";
 "desktop_settings_section_interface" = "Gränssnitt";
 "desktop_settings_section_links" = "Länkar";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Schema";
 "desktop_settings_sidebar_available" = "Tillgängliga";
 "desktop_settings_sidebar_description" = "Välj vilka funktioner som visas i sidofältet och i vilken ordning. Inställningar är alltid längst ned.";
 "desktop_settings_sidebar_empty_available" = "Alla funktioner är redan fästa.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Av";
 "settings_sync_status_on" = "På";
 "settings_sync_toggle_label" = "Aktivera synkronisering mellan enheter";
+"settings_system_language" = "Systemspråk";
 "settings_theme_dark" = "Mörkt läge";
 "settings_theme_light" = "Ljust läge";
 "settings_theme_system" = "Följ systemet";

@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Buksan ang Moodle link sa";
 "desktop_settings_moodle_open_in_app" = "Moodle app";
 "desktop_settings_moodle_open_in_browser" = "Browser";
-"desktop_settings_section_course_display" = "Pagpapakita ng kurso";
 "desktop_settings_section_interface" = "Interface";
 "desktop_settings_section_links" = "Mga Link";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Iskedyul";
 "desktop_settings_sidebar_available" = "Available";
 "desktop_settings_sidebar_description" = "Piliin kung aling feature ang lumalabas sa sidebar at sa anong pagkakasunud-sunod. Ang Settings ay laging nasa ibaba.";
 "desktop_settings_sidebar_empty_available" = "Lahat ng feature ay naka-pin na.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Naka-off";
 "settings_sync_status_on" = "Naka-on";
 "settings_sync_toggle_label" = "I-enable ang cross-device sync";
+"settings_system_language" = "Wika ng sistema";
 "settings_theme_dark" = "Madilim na mode";
 "settings_theme_light" = "Maliwanag na mode";
 "settings_theme_system" = "Sundan ang sistema";

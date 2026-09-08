@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle bağlantısını aç</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle uygulaması</string>
     <string name="desktop_settings_moodle_open_in_browser">Tarayıcı</string>
-    <string name="desktop_settings_section_course_display">Ders görünümü</string>
     <string name="desktop_settings_section_interface">Arayüz</string>
     <string name="desktop_settings_section_links">Bağlantılar</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Program</string>
     <string name="desktop_settings_sidebar_available">Mevcut</string>
     <string name="desktop_settings_sidebar_description">Kenar çubuğunda hangi özelliklerin ve hangi sırayla görüneceğini seçin. Ayarlar her zaman alttadır.</string>
     <string name="desktop_settings_sidebar_empty_available">Tüm özellikler zaten sabitlenmiş.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır.</string>
     <string name="settings_sync_status_off">Kapalı</string>
     <string name="settings_sync_status_on">Açık</string>
+    <string name="settings_system_language">Sistem dili</string>
     <string name="settings_theme_dark">Koyu mod</string>
     <string name="settings_theme_light">Açık mod</string>
     <string name="settings_theme_system">Sistemi takip et</string>

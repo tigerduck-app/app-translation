@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Apri link Moodle in";
 "desktop_settings_moodle_open_in_app" = "App Moodle";
 "desktop_settings_moodle_open_in_browser" = "Browser";
-"desktop_settings_section_course_display" = "Visualizzazione corsi";
 "desktop_settings_section_interface" = "Interfaccia";
 "desktop_settings_section_links" = "Link";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Orario";
 "desktop_settings_sidebar_available" = "Disponibile";
 "desktop_settings_sidebar_description" = "Scegli quali funzioni appaiono nella barra laterale e in che ordine. Impostazioni resta sempre disponibile in basso.";
 "desktop_settings_sidebar_empty_available" = "Tutte le funzioni sono già aggiunte.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Disattivo";
 "settings_sync_status_on" = "Attivo";
 "settings_sync_toggle_label" = "Attiva la sincronizzazione tra dispositivi";
+"settings_system_language" = "Lingua di sistema";
 "settings_theme_dark" = "Modalità scura";
 "settings_theme_light" = "Modalità chiara";
 "settings_theme_system" = "Segui il sistema";

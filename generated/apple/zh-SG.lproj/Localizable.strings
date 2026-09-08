@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "在以下位置打开 Moodle 链接";
 "desktop_settings_moodle_open_in_app" = "Moodle App";
 "desktop_settings_moodle_open_in_browser" = "浏览器";
-"desktop_settings_section_course_display" = "课程显示";
 "desktop_settings_section_interface" = "界面";
 "desktop_settings_section_links" = "链接";
 "desktop_settings_section_ntust" = "台科大";
-"desktop_settings_section_schedule" = "课表";
 "desktop_settings_sidebar_available" = "可用";
 "desktop_settings_sidebar_description" = "选择要显示在侧边栏的功能与顺序。「设置」始终显示在侧边栏底部。";
 "desktop_settings_sidebar_empty_available" = "所有功能都已固定。";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "关闭";
 "settings_sync_status_on" = "开启";
 "settings_sync_toggle_label" = "启用跨设备同步";
+"settings_system_language" = "系统语言";
 "settings_theme_dark" = "暗色模式";
 "settings_theme_light" = "亮色模式";
 "settings_theme_system" = "跟随系统";

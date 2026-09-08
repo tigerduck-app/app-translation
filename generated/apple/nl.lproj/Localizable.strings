@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Open Moodle-link in";
 "desktop_settings_moodle_open_in_app" = "Moodle-app";
 "desktop_settings_moodle_open_in_browser" = "Browser";
-"desktop_settings_section_course_display" = "Vakkenweergave";
 "desktop_settings_section_interface" = "Interface";
 "desktop_settings_section_links" = "Links";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Rooster";
 "desktop_settings_sidebar_available" = "Beschikbaar";
 "desktop_settings_sidebar_description" = "Kies welke functies in de zijbalk verschijnen en in welke volgorde. Instellingen staat altijd onderaan.";
 "desktop_settings_sidebar_empty_available" = "Alle functies zijn al vastgezet.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Uit";
 "settings_sync_status_on" = "Aan";
 "settings_sync_toggle_label" = "Synchronisatie tussen apparaten inschakelen";
+"settings_system_language" = "Systeemtaal";
 "settings_theme_dark" = "Donkere modus";
 "settings_theme_light" = "Lichte modus";
 "settings_theme_system" = "Systeem volgen";

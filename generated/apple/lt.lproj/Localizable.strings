@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Atidaryti Moodle nuorodą";
 "desktop_settings_moodle_open_in_app" = "Moodle programa";
 "desktop_settings_moodle_open_in_browser" = "Naršyklė";
-"desktop_settings_section_course_display" = "Course display";
 "desktop_settings_section_interface" = "Sąsaja";
 "desktop_settings_section_links" = "Nuorodos";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
 "desktop_settings_sidebar_description" = "Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.";
 "desktop_settings_sidebar_empty_available" = "Every feature is already pinned.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Išjungta";
 "settings_sync_status_on" = "Įjungta";
 "settings_sync_toggle_label" = "Įjungti sinchronizaciją tarp įrenginių";
+"settings_system_language" = "Sistemos kalba";
 "settings_theme_dark" = "Tamsus režimas";
 "settings_theme_light" = "Šviesus režimas";
 "settings_theme_system" = "Pagal sistemą";

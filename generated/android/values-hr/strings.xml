@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Otvori Moodle vezu u</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle aplikacija</string>
     <string name="desktop_settings_moodle_open_in_browser">Preglednik</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">Sučelje</string>
     <string name="desktop_settings_section_links">Veze</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Kad je sinkronizacija isključena, svi podaci ostaju samo na ovom uređaju.</string>
     <string name="settings_sync_status_off">Isključeno</string>
     <string name="settings_sync_status_on">Uključeno</string>
+    <string name="settings_system_language">Jezik sustava</string>
     <string name="settings_theme_dark">Tamni način</string>
     <string name="settings_theme_light">Svijetli način</string>
     <string name="settings_theme_system">Prati sustav</string>

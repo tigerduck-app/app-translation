@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Avaa Moodle-linkki</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle-sovellus</string>
     <string name="desktop_settings_moodle_open_in_browser">Selain</string>
-    <string name="desktop_settings_section_course_display">Kurssien näyttö</string>
     <string name="desktop_settings_section_interface">Käyttöliittymä</string>
     <string name="desktop_settings_section_links">Linkit</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Lukujärjestys</string>
     <string name="desktop_settings_sidebar_available">Saatavilla</string>
     <string name="desktop_settings_sidebar_description">Valitse, mitä toimintoja näytetään sivupalkissa ja missä järjestyksessä. Asetukset on aina alhaalla.</string>
     <string name="desktop_settings_sidebar_empty_available">Kaikki toiminnot on jo kiinnitetty.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Kun synkronointi on pois päältä, kaikki tiedot pysyvät vain tässä laitteessa.</string>
     <string name="settings_sync_status_off">Pois</string>
     <string name="settings_sync_status_on">Päällä</string>
+    <string name="settings_system_language">Järjestelmän kieli</string>
     <string name="settings_theme_dark">Tumma tila</string>
     <string name="settings_theme_light">Vaalea tila</string>
     <string name="settings_theme_system">Seuraa järjestelmää</string>

@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "פתח קישור Moodle ב-";
 "desktop_settings_moodle_open_in_app" = "אפליקציית Moodle";
 "desktop_settings_moodle_open_in_browser" = "דפדפן";
-"desktop_settings_section_course_display" = "תצוגת קורסים";
 "desktop_settings_section_interface" = "ממשק";
 "desktop_settings_section_links" = "קישורים";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "לוח זמנים";
 "desktop_settings_sidebar_available" = "זמינים";
 "desktop_settings_sidebar_description" = "בחר אילו תכונות מופיעות בסרגל הצד ובאיזה סדר. ההגדרות תמיד זמינות בתחתית.";
 "desktop_settings_sidebar_empty_available" = "כל התכונות כבר מוצמדות.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "כבוי";
 "settings_sync_status_on" = "פעיל";
 "settings_sync_toggle_label" = "הפעל סנכרון בין מכשירים";
+"settings_system_language" = "שפת המערכת";
 "settings_theme_dark" = "מצב כהה";
 "settings_theme_light" = "מצב בהיר";
 "settings_theme_system" = "עקוב אחר המערכת";

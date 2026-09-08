@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Отвори Moodle везу у";
 "desktop_settings_moodle_open_in_app" = "Moodle апликација";
 "desktop_settings_moodle_open_in_browser" = "Претраживач";
-"desktop_settings_section_course_display" = "Course display";
 "desktop_settings_section_interface" = "Интерфејс";
 "desktop_settings_section_links" = "Везе";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
 "desktop_settings_sidebar_description" = "Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.";
 "desktop_settings_sidebar_empty_available" = "Every feature is already pinned.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Искључено";
 "settings_sync_status_on" = "Укључено";
 "settings_sync_toggle_label" = "Укључи синхронизацију између уређаја";
+"settings_system_language" = "Језик система";
 "settings_theme_dark" = "Тамни режим";
 "settings_theme_light" = "Светли режим";
 "settings_theme_system" = "Прати систем";

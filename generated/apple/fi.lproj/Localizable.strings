@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Avaa Moodle-linkki";
 "desktop_settings_moodle_open_in_app" = "Moodle-sovellus";
 "desktop_settings_moodle_open_in_browser" = "Selain";
-"desktop_settings_section_course_display" = "Kurssien näyttö";
 "desktop_settings_section_interface" = "Käyttöliittymä";
 "desktop_settings_section_links" = "Linkit";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Lukujärjestys";
 "desktop_settings_sidebar_available" = "Saatavilla";
 "desktop_settings_sidebar_description" = "Valitse, mitä toimintoja näytetään sivupalkissa ja missä järjestyksessä. Asetukset on aina alhaalla.";
 "desktop_settings_sidebar_empty_available" = "Kaikki toiminnot on jo kiinnitetty.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Pois";
 "settings_sync_status_on" = "Päällä";
 "settings_sync_toggle_label" = "Ota laitteiden välinen synkronointi käyttöön";
+"settings_system_language" = "Järjestelmän kieli";
 "settings_theme_dark" = "Tumma tila";
 "settings_theme_light" = "Vaalea tila";
 "settings_theme_system" = "Seuraa järjestelmää";

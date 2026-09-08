@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle-Link öffnen in</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle-App</string>
     <string name="desktop_settings_moodle_open_in_browser">Browser</string>
-    <string name="desktop_settings_section_course_display">Kursanzeige</string>
     <string name="desktop_settings_section_interface">Benutzeroberfläche</string>
     <string name="desktop_settings_section_links">Links</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Stundenplan</string>
     <string name="desktop_settings_sidebar_available">Verfügbar</string>
     <string name="desktop_settings_sidebar_description">Wähle, welche Funktionen in der Seitenleiste erscheinen und in welcher Reihenfolge. Einstellungen sind immer unten in der Seitenleiste verfügbar.</string>
     <string name="desktop_settings_sidebar_empty_available">Alle Funktionen sind bereits angeheftet.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Wenn die Synchronisierung deaktiviert ist, verbleiben alle Daten nur auf diesem Gerät.</string>
     <string name="settings_sync_status_off">Aus</string>
     <string name="settings_sync_status_on">Ein</string>
+    <string name="settings_system_language">Systemsprache</string>
     <string name="settings_theme_dark">Dunkler Modus</string>
     <string name="settings_theme_light">Heller Modus</string>
     <string name="settings_theme_system">System folgen</string>

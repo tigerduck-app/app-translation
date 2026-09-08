@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Moodle сілтемесін ашу";
 "desktop_settings_moodle_open_in_app" = "Moodle қолданбасы";
 "desktop_settings_moodle_open_in_browser" = "Браузер";
-"desktop_settings_section_course_display" = "Course display";
 "desktop_settings_section_interface" = "Интерфейс";
 "desktop_settings_section_links" = "Сілтемелер";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Schedule";
 "desktop_settings_sidebar_available" = "Available";
 "desktop_settings_sidebar_description" = "Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.";
 "desktop_settings_sidebar_empty_available" = "Every feature is already pinned.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Өшірулі";
 "settings_sync_status_on" = "Қосулы";
 "settings_sync_toggle_label" = "Құрылғылар арасындағы синхрондауды қосу";
+"settings_system_language" = "Жүйе тілі";
 "settings_theme_dark" = "Қараңғы режим";
 "settings_theme_light" = "Жарық режим";
 "settings_theme_system" = "Жүйеге сәйкес";

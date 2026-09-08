@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Moodle bağlantısını aç";
 "desktop_settings_moodle_open_in_app" = "Moodle uygulaması";
 "desktop_settings_moodle_open_in_browser" = "Tarayıcı";
-"desktop_settings_section_course_display" = "Ders görünümü";
 "desktop_settings_section_interface" = "Arayüz";
 "desktop_settings_section_links" = "Bağlantılar";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Program";
 "desktop_settings_sidebar_available" = "Mevcut";
 "desktop_settings_sidebar_description" = "Kenar çubuğunda hangi özelliklerin ve hangi sırayla görüneceğini seçin. Ayarlar her zaman alttadır.";
 "desktop_settings_sidebar_empty_available" = "Tüm özellikler zaten sabitlenmiş.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Kapalı";
 "settings_sync_status_on" = "Açık";
 "settings_sync_toggle_label" = "Cihazlar arası senkronizasyonu etkinleştir";
+"settings_system_language" = "Sistem dili";
 "settings_theme_dark" = "Koyu mod";
 "settings_theme_light" = "Açık mod";
 "settings_theme_system" = "Sistemi takip et";

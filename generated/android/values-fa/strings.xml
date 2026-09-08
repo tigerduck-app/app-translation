@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">باز کردن پیوند Moodle در</string>
     <string name="desktop_settings_moodle_open_in_app">برنامه Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">مرورگر</string>
-    <string name="desktop_settings_section_course_display">نمایش درس‌ها</string>
     <string name="desktop_settings_section_interface">رابط کاربری</string>
     <string name="desktop_settings_section_links">پیوندها</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">برنامه</string>
     <string name="desktop_settings_sidebar_available">در دسترس</string>
     <string name="desktop_settings_sidebar_description">انتخاب کنید چه قابلیت‌هایی و با چه ترتیبی در نوار کناری نمایش داده شوند. تنظیمات همیشه در پایین در دسترس است.</string>
     <string name="desktop_settings_sidebar_empty_available">همهٔ قابلیت‌ها قبلاً سنجاق شده‌اند.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">وقتی همگام‌سازی خاموش است، همه داده‌ها فقط در این دستگاه باقی می‌مانند.</string>
     <string name="settings_sync_status_off">خاموش</string>
     <string name="settings_sync_status_on">روشن</string>
+    <string name="settings_system_language">زبان سیستم</string>
     <string name="settings_theme_dark">حالت تاریک</string>
     <string name="settings_theme_light">حالت روشن</string>
     <string name="settings_theme_system">همگام با سیستم</string>

@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Buka pautan Moodle dalam</string>
     <string name="desktop_settings_moodle_open_in_app">Aplikasi Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Pelayar</string>
-    <string name="desktop_settings_section_course_display">Paparan kursus</string>
     <string name="desktop_settings_section_interface">Antara Muka</string>
     <string name="desktop_settings_section_links">Pautan</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Jadual</string>
     <string name="desktop_settings_sidebar_available">Tersedia</string>
     <string name="desktop_settings_sidebar_description">Pilih ciri yang dipaparkan di bar sisi dan susunannya. Tetapan sentiasa di bahagian bawah.</string>
     <string name="desktop_settings_sidebar_empty_available">Semua ciri sudah dipin.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Apabila segerak dimatikan, semua data kekal pada peranti ini sahaja.</string>
     <string name="settings_sync_status_off">Mati</string>
     <string name="settings_sync_status_on">Hidup</string>
+    <string name="settings_system_language">Bahasa sistem</string>
     <string name="settings_theme_dark">Mod gelap</string>
     <string name="settings_theme_light">Mod cerah</string>
     <string name="settings_theme_system">Ikut sistem</string>

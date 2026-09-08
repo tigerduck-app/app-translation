@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Otevřít odkaz Moodle v</string>
     <string name="desktop_settings_moodle_open_in_app">Aplikace Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Prohlížeč</string>
-    <string name="desktop_settings_section_course_display">Zobrazení předmětů</string>
     <string name="desktop_settings_section_interface">Rozhraní</string>
     <string name="desktop_settings_section_links">Odkazy</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Rozvrh</string>
     <string name="desktop_settings_sidebar_available">Dostupné</string>
     <string name="desktop_settings_sidebar_description">Zvolte, které funkce se zobrazí v bočním panelu a v jakém pořadí. Nastavení je vždy dole.</string>
     <string name="desktop_settings_sidebar_empty_available">Všechny funkce jsou již připnuté.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Když je synchronizace vypnutá, všechna data zůstávají pouze na tomto zařízení.</string>
     <string name="settings_sync_status_off">Vypnuto</string>
     <string name="settings_sync_status_on">Zapnuto</string>
+    <string name="settings_system_language">Jazyk systému</string>
     <string name="settings_theme_dark">Tmavý režim</string>
     <string name="settings_theme_light">Světlý režim</string>
     <string name="settings_theme_system">Podle systému</string>

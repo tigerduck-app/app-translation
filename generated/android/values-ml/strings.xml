@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle ലിങ്ക് തുറക്കുക</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle ആപ്പ്</string>
     <string name="desktop_settings_moodle_open_in_browser">ബ്രൗസർ</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">ഇന്റർഫേസ്</string>
     <string name="desktop_settings_section_links">ലിങ്കുകൾ</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.</string>
     <string name="settings_sync_status_off">ഓഫ്</string>
     <string name="settings_sync_status_on">ഓൺ</string>
+    <string name="settings_system_language">സിസ്റ്റം ഭാഷ</string>
     <string name="settings_theme_dark">ഡാർക്ക് മോഡ്</string>
     <string name="settings_theme_light">ലൈറ്റ് മോഡ്</string>
     <string name="settings_theme_system">സിസ്റ്റം പിന്തുടരുക</string>

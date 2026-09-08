@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Buka tautan Moodle di</string>
     <string name="desktop_settings_moodle_open_in_app">Aplikasi Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Browser</string>
-    <string name="desktop_settings_section_course_display">Tampilan mata kuliah</string>
     <string name="desktop_settings_section_interface">Antarmuka</string>
     <string name="desktop_settings_section_links">Tautan</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Jadwal</string>
     <string name="desktop_settings_sidebar_available">Tersedia</string>
     <string name="desktop_settings_sidebar_description">Pilih fitur mana yang muncul di bilah samping dan urutannya. Pengaturan selalu tersedia di bawah.</string>
     <string name="desktop_settings_sidebar_empty_available">Semua fitur sudah disematkan.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Saat sinkronisasi mati, semua data hanya tersimpan di perangkat ini.</string>
     <string name="settings_sync_status_off">Nonaktif</string>
     <string name="settings_sync_status_on">Aktif</string>
+    <string name="settings_system_language">Bahasa sistem</string>
     <string name="settings_theme_dark">Mode gelap</string>
     <string name="settings_theme_light">Mode terang</string>
     <string name="settings_theme_system">Ikuti sistem</string>

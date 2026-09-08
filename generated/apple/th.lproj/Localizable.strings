@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "เปิดลิงก์ Moodle ใน";
 "desktop_settings_moodle_open_in_app" = "แอป Moodle";
 "desktop_settings_moodle_open_in_browser" = "เบราว์เซอร์";
-"desktop_settings_section_course_display" = "การแสดงรายวิชา";
 "desktop_settings_section_interface" = "อินเทอร์เฟซ";
 "desktop_settings_section_links" = "ลิงก์";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "ตารางเรียน";
 "desktop_settings_sidebar_available" = "พร้อมใช้";
 "desktop_settings_sidebar_description" = "เลือกว่าฟีเจอร์ใดบ้างและลำดับใดปรากฏในแถบด้านข้าง ตั้งค่าจะอยู่ด้านล่างเสมอ";
 "desktop_settings_sidebar_empty_available" = "ทุกฟีเจอร์ถูกปักหมุดแล้ว";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "ปิด";
 "settings_sync_status_on" = "เปิด";
 "settings_sync_toggle_label" = "เปิดใช้งานการซิงค์ข้ามอุปกรณ์";
+"settings_system_language" = "ภาษาระบบ";
 "settings_theme_dark" = "โหมดมืด";
 "settings_theme_light" = "โหมดสว่าง";
 "settings_theme_system" = "ตามระบบ";

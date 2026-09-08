@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Moodle-link megnyitása itt:</string>
     <string name="desktop_settings_moodle_open_in_app">Moodle alkalmazás</string>
     <string name="desktop_settings_moodle_open_in_browser">Böngésző</string>
-    <string name="desktop_settings_section_course_display">Course display</string>
     <string name="desktop_settings_section_interface">Felület</string>
     <string name="desktop_settings_section_links">Hivatkozások</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Schedule</string>
     <string name="desktop_settings_sidebar_available">Available</string>
     <string name="desktop_settings_sidebar_description">Choose which features appear in the sidebar and what order they show in. Settings is always available at the bottom of the sidebar.</string>
     <string name="desktop_settings_sidebar_empty_available">Every feature is already pinned.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Ha a szinkronizálás ki van kapcsolva, minden adat csak ezen az eszközön marad.</string>
     <string name="settings_sync_status_off">Ki</string>
     <string name="settings_sync_status_on">Be</string>
+    <string name="settings_system_language">Rendszer nyelve</string>
     <string name="settings_theme_dark">Sötét mód</string>
     <string name="settings_theme_light">Világos mód</string>
     <string name="settings_theme_system">Rendszer szerint</string>

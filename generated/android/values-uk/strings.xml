@@ -290,11 +290,9 @@
     <string name="desktop_settings_moodle_open_in">Відкрити посилання Moodle у</string>
     <string name="desktop_settings_moodle_open_in_app">Додаток Moodle</string>
     <string name="desktop_settings_moodle_open_in_browser">Браузер</string>
-    <string name="desktop_settings_section_course_display">Відображення курсів</string>
     <string name="desktop_settings_section_interface">Інтерфейс</string>
     <string name="desktop_settings_section_links">Посилання</string>
     <string name="desktop_settings_section_ntust">NTUST</string>
-    <string name="desktop_settings_section_schedule">Розклад</string>
     <string name="desktop_settings_sidebar_available">Доступні</string>
     <string name="desktop_settings_sidebar_description">Виберіть, які функції відображати на бічній панелі та в якому порядку. «Налаштування» завжди внизу.</string>
     <string name="desktop_settings_sidebar_empty_available">Усі функції вже закріплені.</string>
@@ -739,6 +737,7 @@
     <string name="settings_sync_disabled_note">Коли синхронізацію вимкнено, усі дані залишаються лише на цьому пристрої.</string>
     <string name="settings_sync_status_off">Вимк.</string>
     <string name="settings_sync_status_on">Увімк.</string>
+    <string name="settings_system_language">Мова системи</string>
     <string name="settings_theme_dark">Темний режим</string>
     <string name="settings_theme_light">Світлий режим</string>
     <string name="settings_theme_system">Слідувати системі</string>

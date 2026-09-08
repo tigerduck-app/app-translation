@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Buka pautan Moodle dalam";
 "desktop_settings_moodle_open_in_app" = "Aplikasi Moodle";
 "desktop_settings_moodle_open_in_browser" = "Pelayar";
-"desktop_settings_section_course_display" = "Paparan kursus";
 "desktop_settings_section_interface" = "Antara Muka";
 "desktop_settings_section_links" = "Pautan";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Jadual";
 "desktop_settings_sidebar_available" = "Tersedia";
 "desktop_settings_sidebar_description" = "Pilih ciri yang dipaparkan di bar sisi dan susunannya. Tetapan sentiasa di bahagian bawah.";
 "desktop_settings_sidebar_empty_available" = "Semua ciri sudah dipin.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Mati";
 "settings_sync_status_on" = "Hidup";
 "settings_sync_toggle_label" = "Aktifkan penyegerakan merentas peranti";
+"settings_system_language" = "Bahasa sistem";
 "settings_theme_dark" = "Mod gelap";
 "settings_theme_light" = "Mod cerah";
 "settings_theme_system" = "Ikut sistem";

@@ -286,11 +286,9 @@
 "desktop_settings_moodle_open_in" = "Mở liên kết Moodle trong";
 "desktop_settings_moodle_open_in_app" = "Ứng dụng Moodle";
 "desktop_settings_moodle_open_in_browser" = "Trình duyệt";
-"desktop_settings_section_course_display" = "Hiển thị môn học";
 "desktop_settings_section_interface" = "Giao diện";
 "desktop_settings_section_links" = "Liên kết";
 "desktop_settings_section_ntust" = "NTUST";
-"desktop_settings_section_schedule" = "Lịch học";
 "desktop_settings_sidebar_available" = "Có sẵn";
 "desktop_settings_sidebar_description" = "Chọn các tính năng và thứ tự hiển thị trên thanh bên. Cài đặt luôn ở dưới cùng.";
 "desktop_settings_sidebar_empty_available" = "Mọi tính năng đã được ghim.";
@@ -723,6 +721,7 @@
 "settings_sync_status_off" = "Tắt";
 "settings_sync_status_on" = "Bật";
 "settings_sync_toggle_label" = "Bật đồng bộ xuyên thiết bị";
+"settings_system_language" = "Ngôn ngữ hệ thống";
 "settings_theme_dark" = "Chế độ tối";
 "settings_theme_light" = "Chế độ sáng";
 "settings_theme_system" = "Theo hệ thống";
