@@ -616,6 +616,7 @@
     "settings_account_library_system": "Système de la bibliothèque",
     "settings_account_ntust_system": "Système universitaire",
     "settings_acknowledged": "Compris",
+    "settings_always_show_periods_abc": "Always show class A B and C",
     "settings_analytics_description": "Partage des données d'utilisation anonymes (pages visitées, utilisation des widgets) pour aider à améliorer TigerDuck",
     "settings_analytics_enabled": "Analyse d'utilisation",
     "settings_api_endpoint": "Point de terminaison de l'API",

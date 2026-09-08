@@ -635,6 +635,7 @@
 "settings_account_library_system" = "Bibliotekos sistema";
 "settings_account_ntust_system" = "Mokyklos sistema";
 "settings_acknowledged" = "Supratau";
+"settings_always_show_periods_abc" = "Always show class A B and C";
 "settings_analytics_description" = "Dalinkis anonimais naudojimo duomenimis (lankyti puslapiai, valdiklių naudojimas), kad padėtum tobulinti TigerDuck";
 "settings_analytics_enabled" = "Naudojimo analizė";
 "settings_api_endpoint" = "API galinis taškas";

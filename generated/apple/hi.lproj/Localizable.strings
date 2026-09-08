@@ -635,6 +635,7 @@
 "settings_account_library_system" = "पुस्तकालय प्रणाली";
 "settings_account_ntust_system" = "शैक्षणिक प्रणाली";
 "settings_acknowledged" = "समझ गया";
+"settings_always_show_periods_abc" = "Always show class A B and C";
 "settings_analytics_description" = "TigerDuck को बेहतर बनाने में मदद के लिए गुमनाम उपयोग डेटा (देखे गए पेज, विजेट उपयोग) साझा करें";
 "settings_analytics_enabled" = "उपयोग विश्लेषण";
 "settings_api_endpoint" = "API एंडपॉइंट";

@@ -616,6 +616,7 @@
     "settings_account_library_system": "Система бібліотеки",
     "settings_account_ntust_system": "Шкільна система",
     "settings_acknowledged": "Зрозуміло",
+    "settings_always_show_periods_abc": "Always show class A B and C",
     "settings_analytics_description": "Діліться анонімними даними про використання (відвідані сторінки, використання віджетів), щоб допомогти покращити TigerDuck",
     "settings_analytics_enabled": "Аналітика використання",
     "settings_api_endpoint": "Кінцева точка API",

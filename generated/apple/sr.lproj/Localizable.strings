@@ -635,6 +635,7 @@
 "settings_account_library_system" = "Библиотечки систем";
 "settings_account_ntust_system" = "Академски систем";
 "settings_acknowledged" = "Разумем";
+"settings_always_show_periods_abc" = "Always show class A B and C";
 "settings_analytics_description" = "Дели анонимне податке о коришћењу (посећене странице, коришћење виџета) да би помогао у побољшању TigerDuck-а";
 "settings_analytics_enabled" = "Аналитика коришћења";
 "settings_api_endpoint" = "Крајња тачка API-ја";

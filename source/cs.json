@@ -616,6 +616,7 @@
     "settings_account_library_system": "Systém knihovny",
     "settings_account_ntust_system": "Školní systém",
     "settings_acknowledged": "Rozumím",
+    "settings_always_show_periods_abc": "Always show class A B and C",
     "settings_analytics_description": "Sdílej anonymní data o používání (navštívené stránky, používání widgetů) a pomoz nám vylepšit TigerDuck",
     "settings_analytics_enabled": "Analytika používání",
     "settings_api_endpoint": "Koncový bod API",

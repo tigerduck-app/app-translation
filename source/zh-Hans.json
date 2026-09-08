@@ -616,6 +616,7 @@
     "settings_account_library_system": "图书馆系统",
     "settings_account_ntust_system": "校务系统",
     "settings_acknowledged": "知道了",
+    "settings_always_show_periods_abc": "随时显示第 A、B、C 堂课",
     "settings_analytics_description": "分享匿名使用数据（浏览页面、小组件使用情况），帮助改进 TigerDuck",
     "settings_analytics_enabled": "使用分析",
     "settings_api_endpoint": "API 端点",

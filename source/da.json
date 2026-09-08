@@ -616,6 +616,7 @@
     "settings_account_library_system": "Bibliotekssystem",
     "settings_account_ntust_system": "Studentportal",
     "settings_acknowledged": "Forstået",
+    "settings_always_show_periods_abc": "Always show class A B and C",
     "settings_analytics_description": "Del anonyme brugsdata (besøgte sider, brug af widgets) for at hjælpe med at forbedre TigerDuck",
     "settings_analytics_enabled": "Brugsanalyse",
     "settings_api_endpoint": "API-endepunkt",

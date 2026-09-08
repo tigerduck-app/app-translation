@@ -616,6 +616,7 @@
     "settings_account_library_system": "Bibliotheeksysteem",
     "settings_account_ntust_system": "Studentenportaal",
     "settings_acknowledged": "Begrepen",
+    "settings_always_show_periods_abc": "Always show class A B and C",
     "settings_analytics_description": "Deel anonieme gebruiksgegevens (bezochte pagina's, gebruik van widgets) om TigerDuck te helpen verbeteren",
     "settings_analytics_enabled": "Gebruiksanalyse",
     "settings_api_endpoint": "API-eindpunt",

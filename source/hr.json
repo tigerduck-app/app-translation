@@ -616,6 +616,7 @@
     "settings_account_library_system": "Sustav knjižnice",
     "settings_account_ntust_system": "Akademski sustav",
     "settings_acknowledged": "Razumijem",
+    "settings_always_show_periods_abc": "Always show class A B and C",
     "settings_analytics_description": "Dijeli anonimne podatke o korištenju (posjećene stranice, korištenje widgeta) kako bi pomogao/la poboljšati TigerDuck",
     "settings_analytics_enabled": "Analitika korištenja",
     "settings_api_endpoint": "Krajnja točka API-ja",

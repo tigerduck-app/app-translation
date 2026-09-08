@@ -616,6 +616,7 @@
     "settings_account_library_system": "Bibliotēkas sistēma",
     "settings_account_ntust_system": "Akadēmiskā sistēma",
     "settings_acknowledged": "Sapratu",
+    "settings_always_show_periods_abc": "Always show class A B and C",
     "settings_analytics_description": "Dalies ar anonīmiem lietošanas datiem (apmeklētās lapas, sīkrīku lietošana), lai palīdzētu uzlabot TigerDuck",
     "settings_analytics_enabled": "Lietošanas analītika",
     "settings_api_endpoint": "API galapunkts",

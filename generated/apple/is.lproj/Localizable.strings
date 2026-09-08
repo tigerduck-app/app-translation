@@ -635,6 +635,7 @@
 "settings_account_library_system" = "Bókasafnskerfi";
 "settings_account_ntust_system" = "Námskerfi";
 "settings_acknowledged" = "Skil";
+"settings_always_show_periods_abc" = "Always show class A B and C";
 "settings_analytics_description" = "Deildu nafnlausum notkunargögnum (heimsóttum síðum, notkun widgets) til að hjálpa til við að bæta TigerDuck";
 "settings_analytics_enabled" = "Notkunargreining";
 "settings_api_endpoint" = "API-endapunktur";

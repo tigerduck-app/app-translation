@@ -635,6 +635,7 @@
 "settings_account_library_system" = "Sistem perpustakaan";
 "settings_account_ntust_system" = "Sistem akademik";
 "settings_acknowledged" = "Mengerti";
+"settings_always_show_periods_abc" = "Always show class A B and C";
 "settings_analytics_description" = "Bagikan data penggunaan anonim (halaman yang dikunjungi, penggunaan widget) untuk membantu meningkatkan TigerDuck";
 "settings_analytics_enabled" = "Analitik penggunaan";
 "settings_api_endpoint" = "Endpoint API";

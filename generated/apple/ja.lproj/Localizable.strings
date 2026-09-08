@@ -635,6 +635,7 @@
 "settings_account_library_system" = "図書館システム";
 "settings_account_ntust_system" = "校務システム";
 "settings_acknowledged" = "了解";
+"settings_always_show_periods_abc" = "Always show class A B and C";
 "settings_analytics_description" = "匿名の利用データ（閲覧ページ、ウィジェットの使用状況）を共有して、TigerDuck の改善にご協力ください";
 "settings_analytics_enabled" = "利用状況の分析";
 "settings_api_endpoint" = "API エンドポイント";

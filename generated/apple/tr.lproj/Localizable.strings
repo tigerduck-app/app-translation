@@ -635,6 +635,7 @@
 "settings_account_library_system" = "Kütüphane sistemi";
 "settings_account_ntust_system" = "Öğrenci bilgi sistemi";
 "settings_acknowledged" = "Anladım";
+"settings_always_show_periods_abc" = "Always show class A B and C";
 "settings_analytics_description" = "TigerDuck'ı geliştirmeye yardımcı olmak için anonim kullanım verilerini (ziyaret edilen sayfalar, widget kullanımı) paylaş";
 "settings_analytics_enabled" = "Kullanım analitiği";
 "settings_api_endpoint" = "API uç noktası";
