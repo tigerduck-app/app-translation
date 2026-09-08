@@ -776,6 +776,7 @@
     <string name="sync_fdroid_unavailable_body">Облачная синхронизация требует сервисов Google Play и недоступна в сборке F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">Недоступно в F-Droid</string>
     <string name="sync_status_failed">Ошибка</string>
+    <string name="sync_status_minimal">Minimal</string>
     <string name="sync_status_ok">ОК</string>
     <string name="sync_status_syncing">Синхронизация…</string>
     <string name="sync_status_title">Состояние синхронизации</string>

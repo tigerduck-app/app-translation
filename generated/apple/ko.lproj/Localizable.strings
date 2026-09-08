@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "클라우드 동기화에는 Google Play 서비스가 필요하며 F-Droid 빌드에서는 사용할 수 없습니다.";
 "sync_fdroid_unavailable_title" = "F-Droid에서 사용 불가";
 "sync_status_failed" = "실패";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "정상";
 "sync_status_syncing" = "동기화 중…";
 "sync_status_title" = "동기화 상태";

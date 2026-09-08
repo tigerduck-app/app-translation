@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Debesų sinchronizacijai reikia „Google Play“ paslaugų ir ji nepasiekiama F-Droid versijoje.";
 "sync_fdroid_unavailable_title" = "Nepasiekiama F-Droid";
 "sync_status_failed" = "Nepavyko";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "Gerai";
 "sync_status_syncing" = "Sinchronizuojama…";
 "sync_status_title" = "Sinchronizavimo būsena";

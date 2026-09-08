@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "雲端同步需要 Google Play 服務，F-Droid 版本不支援此功能。";
 "sync_fdroid_unavailable_title" = "F-Droid 不支援";
 "sync_status_failed" = "失敗";
+"sync_status_minimal" = "最低限度";
 "sync_status_ok" = "正常";
 "sync_status_syncing" = "同步中…";
 "sync_status_title" = "同步狀態";

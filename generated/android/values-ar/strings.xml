@@ -776,6 +776,7 @@
     <string name="sync_fdroid_unavailable_body">تتطلب المزامنة السحابية خدمات Google Play وغير متوفرة في إصدار F-Droid.</string>
     <string name="sync_fdroid_unavailable_title">غير متوفر على F-Droid</string>
     <string name="sync_status_failed">فشل</string>
+    <string name="sync_status_minimal">Minimal</string>
     <string name="sync_status_ok">سليم</string>
     <string name="sync_status_syncing">جارٍ المزامنة…</string>
     <string name="sync_status_title">حالة المزامنة</string>

@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Ang Cloud Sync ay nangangailangan ng Google Play Services at hindi available sa F-Droid build.";
 "sync_fdroid_unavailable_title" = "Hindi available sa F-Droid";
 "sync_status_failed" = "Nabigo";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Nagsi-sync…";
 "sync_status_title" = "Katayuan ng pag-sync";

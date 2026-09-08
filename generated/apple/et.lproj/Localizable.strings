@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Pilve sünkroonimine nõuab Google Play teenuseid ja pole F-Droidi versioonis saadaval.";
 "sync_fdroid_unavailable_title" = "Pole F-Droidis saadaval";
 "sync_status_failed" = "Ebaõnnestus";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "Korras";
 "sync_status_syncing" = "Sünkroonimine…";
 "sync_status_title" = "Sünkroonimise olek";

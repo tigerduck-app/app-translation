@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "క్లౌడ్ సింక్‌కు Google Play సేవలు అవసరం, F-Droid బిల్డ్‌లో అందుబాటులో లేదు.",
     "sync_fdroid_unavailable_title": "F-Droid లో అందుబాటులో లేదు",
     "sync_status_failed": "విఫలమైంది",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "సరే",
     "sync_status_syncing": "సింక్ అవుతోంది…",
     "sync_status_title": "సింక్ స్థితి",

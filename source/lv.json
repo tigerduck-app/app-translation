@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "Mākoņsinhronizācijai nepieciešami Google Play pakalpojumi, un tā nav pieejama F-Droid versijā.",
     "sync_fdroid_unavailable_title": "Nav pieejams F-Droid",
     "sync_status_failed": "Neizdevās",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "Labi",
     "sync_status_syncing": "Sinhronizē…",
     "sync_status_title": "Sinhronizācijas statuss",

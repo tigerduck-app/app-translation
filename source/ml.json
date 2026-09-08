@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "ക്ലൗഡ് സിങ്കിന് Google Play സേവനങ്ങൾ ആവശ്യമാണ്, F-Droid ബിൽഡിൽ ലഭ്യമല്ല.",
     "sync_fdroid_unavailable_title": "F-Droid-ൽ ലഭ്യമല്ല",
     "sync_status_failed": "പരാജയപ്പെട്ടു",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "ശരി",
     "sync_status_syncing": "സിങ്ക് ചെയ്യുന്നു…",
     "sync_status_title": "സിങ്ക് നില",

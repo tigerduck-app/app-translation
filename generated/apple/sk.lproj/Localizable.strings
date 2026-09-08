@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Cloudová synchronizácia vyžaduje služby Google Play a nie je dostupná vo verzii F-Droid.";
 "sync_fdroid_unavailable_title" = "Nedostupné na F-Droid";
 "sync_status_failed" = "Zlyhalo";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Synchronizuje sa…";
 "sync_status_title" = "Stav synchronizácie";

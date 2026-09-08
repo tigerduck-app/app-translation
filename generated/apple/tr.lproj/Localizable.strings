@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Bulut Senkronizasyon, Google Play Hizmetleri gerektirir ve F-Droid sürümünde mevcut değildir.";
 "sync_fdroid_unavailable_title" = "F-Droid'de mevcut değil";
 "sync_status_failed" = "Başarısız";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "Tamam";
 "sync_status_syncing" = "Eşitleniyor…";
 "sync_status_title" = "Eşitleme durumu";

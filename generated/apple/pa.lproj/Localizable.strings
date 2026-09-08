@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "ਕਲਾਊਡ ਸਿੰਕ ਲਈ Google Play ਸੇਵਾਵਾਂ ਲੋੜੀਂਦੀਆਂ ਹਨ ਅਤੇ F-Droid ਬਿਲਡ ਵਿੱਚ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।";
 "sync_fdroid_unavailable_title" = "F-Droid ਤੇ ਉਪਲਬਧ ਨਹੀਂ";
 "sync_status_failed" = "ਅਸਫਲ";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "ਠੀਕ";
 "sync_status_syncing" = "ਸਿੰਕ ਹੋ ਰਿਹਾ ਹੈ…";
 "sync_status_title" = "ਸਿੰਕ ਸਥਿਤੀ";

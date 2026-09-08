@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "ક્લાઉડ સિંક માટે Google Play સેવાઓ જરૂરી છે અને F-Droid બિલ્ડમાં ઉપલબ્ધ નથી.";
 "sync_fdroid_unavailable_title" = "F-Droid પર ઉપલબ્ધ નથી";
 "sync_status_failed" = "નિષ્ફળ";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "બરાબર";
 "sync_status_syncing" = "સિંક થઈ રહ્યું છે…";
 "sync_status_title" = "સિંક સ્થિતિ";

@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "Synchronizacja w chmurze wymaga usług Google Play i nie jest dostępna w wersji F-Droid.",
     "sync_fdroid_unavailable_title": "Niedostępne na F-Droid",
     "sync_status_failed": "Niepowodzenie",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "OK",
     "sync_status_syncing": "Synchronizowanie…",
     "sync_status_title": "Stan synchronizacji",

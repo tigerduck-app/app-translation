@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "การซิงค์คลาวด์ต้องการ Google Play Services และไม่พร้อมใช้งานในเวอร์ชัน F-Droid",
     "sync_fdroid_unavailable_title": "ไม่พร้อมใช้งานบน F-Droid",
     "sync_status_failed": "ล้มเหลว",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "ปกติ",
     "sync_status_syncing": "กำลังซิงค์…",
     "sync_status_title": "สถานะการซิงค์",

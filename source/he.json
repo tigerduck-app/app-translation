@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "סנכרון ענן דורש שירותי Google Play ואינו זמין בגרסת F-Droid.",
     "sync_fdroid_unavailable_title": "לא זמין ב-F-Droid",
     "sync_status_failed": "נכשל",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "תקין",
     "sync_status_syncing": "מסנכרן…",
     "sync_status_title": "מצב הסנכרון",

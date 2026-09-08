@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "クラウド同期には Google Play サービスが必要です。F-Droid ビルドでは利用できません。",
     "sync_fdroid_unavailable_title": "F-Droid では利用不可",
     "sync_status_failed": "失敗",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "正常",
     "sync_status_syncing": "同期中…",
     "sync_status_title": "同期状態",

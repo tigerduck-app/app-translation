@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Pilvisynkronointi vaatii Google Play -palvelut eikä ole käytettävissä F-Droid-versiossa.";
 "sync_fdroid_unavailable_title" = "Ei saatavilla F-Droidissa";
 "sync_status_failed" = "Epäonnistui";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Synkronoidaan…";
 "sync_status_title" = "Synkronoinnin tila";

@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "Đồng bộ đám mây yêu cầu Dịch vụ Google Play và không khả dụng trong bản F-Droid.",
     "sync_fdroid_unavailable_title": "Không khả dụng trên F-Droid",
     "sync_status_failed": "Thất bại",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "Bình thường",
     "sync_status_syncing": "Đang đồng bộ…",
     "sync_status_title": "Trạng thái đồng bộ",

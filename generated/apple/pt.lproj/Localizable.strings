@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "A sincronização na nuvem requer os serviços Google Play e não está disponível na versão F-Droid.";
 "sync_fdroid_unavailable_title" = "Não disponível no F-Droid";
 "sync_status_failed" = "Falhou";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "A sincronizar…";
 "sync_status_title" = "Estado da sincronização";

@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "கிளவுட் ஒத்திசைவுக்கு Google Play சேவைகள் தேவை, F-Droid பதிப்பில் கிடைக்காது.";
 "sync_fdroid_unavailable_title" = "F-Droid இல் கிடைக்காது";
 "sync_status_failed" = "தோல்வி";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "சரி";
 "sync_status_syncing" = "ஒத்திசைக்கிறது…";
 "sync_status_title" = "ஒத்திசைவு நிலை";

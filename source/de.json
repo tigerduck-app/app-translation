@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "Cloud Sync erfordert Google Play-Dienste und ist im F-Droid-Build nicht verfügbar.",
     "sync_fdroid_unavailable_title": "Auf F-Droid nicht verfügbar",
     "sync_status_failed": "Fehlgeschlagen",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "OK",
     "sync_status_syncing": "Synchronisiere…",
     "sync_status_title": "Synchronisierungsstatus",

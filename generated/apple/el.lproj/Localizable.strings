@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Ο συγχρονισμός cloud απαιτεί υπηρεσίες Google Play και δεν είναι διαθέσιμος στην έκδοση F-Droid.";
 "sync_fdroid_unavailable_title" = "Μη διαθέσιμο στο F-Droid";
 "sync_status_failed" = "Απέτυχε";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Συγχρονισμός…";
 "sync_status_title" = "Κατάσταση συγχρονισμού";

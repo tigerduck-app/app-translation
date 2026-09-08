@@ -776,6 +776,7 @@
     <string name="sync_fdroid_unavailable_body">ক্লাউড সিঙ্কের জন্য Google Play পরিষেবা প্রয়োজন এবং F-Droid বিল্ডে উপলব্ধ নয়।</string>
     <string name="sync_fdroid_unavailable_title">F-Droid-এ উপলব্ধ নয়</string>
     <string name="sync_status_failed">ব্যর্থ</string>
+    <string name="sync_status_minimal">Minimal</string>
     <string name="sync_status_ok">ঠিক আছে</string>
     <string name="sync_status_syncing">সিঙ্ক হচ্ছে…</string>
     <string name="sync_status_title">সিঙ্ক অবস্থা</string>

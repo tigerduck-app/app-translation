@@ -760,6 +760,7 @@
 "sync_fdroid_unavailable_body" = "Cloud Sync vereist Google Play-services en is niet beschikbaar in de F-Droid-versie.";
 "sync_fdroid_unavailable_title" = "Niet beschikbaar op F-Droid";
 "sync_status_failed" = "Mislukt";
+"sync_status_minimal" = "Minimal";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Synchroniseren…";
 "sync_status_title" = "Synchronisatiestatus";

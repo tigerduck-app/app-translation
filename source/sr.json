@@ -736,6 +736,7 @@
     "sync_fdroid_unavailable_body": "Синхронизација у облаку захтева Google Play услуге и није доступна у F-Droid верзији.",
     "sync_fdroid_unavailable_title": "Није доступно на F-Droid",
     "sync_status_failed": "Неуспешно",
+    "sync_status_minimal": "Minimal",
     "sync_status_ok": "У реду",
     "sync_status_syncing": "Синхронизација…",
     "sync_status_title": "Стање синхронизације",
