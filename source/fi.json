@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Salli sovelluksen lähettää tehtävä- ja tuntimuistutukset tarkasti. Jos poistettu käytöstä, muistutukset voivat viivästyä useita minuutteja.",
     "permission_exact_alarm_name": "Tarkat hälytykset",
     "permission_notifications_description": "Salli sovelluksen näyttää ilmoituksia; muussa tapauksessa ilmoitukset ja livepäivitykset eivät näy.",
+    "permission_promoted_notifications_description": "Salli oppitunnin ajastimen näkyä siruna tilapalkissa. Jos tämä on pois käytöstä, live-tiedot näkyvät edelleen, kun vedät ilmoituspaneelin alas.",
+    "permission_promoted_notifications_name": "Tilapalkin siru",
     "permission_warning_description": "Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja livepäivitykset eivät ehkä näy oikein.",
     "vibration_settings_motor_warning": "Joillakin puhelimilla on heikomman laadun värinämoottorit, jotka saattavat jättää huomioimatta hyvin heikot tai hyvin lyhyet värinät. Jos et tunne asetusta, yritä lisätä sen voimakkuutta tai pituutta. Voit aloittaa kokeilemalla esiasetusta \"Keskipitkä\".",
     "vibration_settings_revert": "Palauta oletukseksi",

@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Allow the app to send assignment and class reminders at exact times. If disabled, reminders may be delayed by several minutes.",
     "permission_exact_alarm_name": "Exact alarms",
     "permission_notifications_description": "Allow the app to show notifications; otherwise notifications and Live Updates will not appear.",
+    "permission_promoted_notifications_description": "Allow the class countdown to show as a chip in the status bar. If disabled, the Live Update still appears when you pull down the notification shade.",
+    "permission_promoted_notifications_name": "Status bar chip",
     "permission_warning_description": "The following permissions were previously enabled but are now disabled. Related notifications and Live Updates may not display correctly.",
     "vibration_settings_motor_warning": "Some phones have lower-quality vibration motors that may ignore very weak or very short vibrations. If you can't feel a setting, try raising its strength or length. You can start by trying the medium preset first.",
     "vibration_settings_revert": "Reset to default",

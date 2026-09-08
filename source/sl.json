@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Dovolite aplikaciji pošiljanje opomnikov za naloge in ure ob natančnem času. Če je onemogočeno, so opomniki lahko zamaknjeni za nekaj minut.",
     "permission_exact_alarm_name": "Natančni alarmi",
     "permission_notifications_description": "Dovolite aplikaciji prikazovanje obvestil; sicer obvestila in sprotna obvestila ne bodo prikazana.",
+    "permission_promoted_notifications_description": "Dovolite, da se odštevanje ure prikaže kot ploščica v vrstici stanja. Če je izklopljeno, so informacije v živo še vedno vidne, ko povlečete obvestilno ploščo.",
+    "permission_promoted_notifications_name": "Ploščica v vrstici stanja",
     "permission_warning_description": "Naslednja dovoljenja so bila prej omogočena, zdaj pa so onemogočena. Povezana obvestila in sprotna obvestila morda ne bodo pravilno prikazana.",
     "vibration_settings_motor_warning": "Nekateri telefoni imajo vibromotorje nižje kakovosti, ki lahko ignorirajo zelo šibke ali zelo kratke vibracije. Če ne čutite nastavitve, poskusite povečati njeno moč ali dolžino. Začnete lahko s preizkusom prednastavitve \"Srednje\".",
     "vibration_settings_revert": "Ponastavi privzeto",

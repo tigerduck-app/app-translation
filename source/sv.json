@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Tillåt appen att skicka påminnelser om uppgifter och lektioner vid exakta tider. Om inaktiverat kan påminnelser försenas med flera minuter.",
     "permission_exact_alarm_name": "Exakta alarm",
     "permission_notifications_description": "Tillåt appen att visa aviseringar; annars visas inte aviseringar och liveuppdateringar.",
+    "permission_promoted_notifications_description": "Tillåt att lektionens nedräkning visas som ett chip i statusfältet. Om det är avstängt visas liveinformationen fortfarande när du drar ned aviseringspanelen.",
+    "permission_promoted_notifications_name": "Chip i statusfältet",
     "permission_warning_description": "Följande behörigheter var tidigare aktiverade men är nu inaktiverade. Relaterade aviseringar och liveuppdateringar kanske inte visas korrekt.",
     "vibration_settings_motor_warning": "Vissa telefoner har vibrationsmotorer av lägre kvalitet som kan ignorera mycket svaga eller mycket korta vibrationer. Om du inte kan känna en inställning, prova att öka dess styrka eller längd. Du kan börja med att prova förinställningen \"Medel\".",
     "vibration_settings_revert": "Återställ standard",

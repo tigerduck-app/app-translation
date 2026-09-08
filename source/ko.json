@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "앱이 정확한 시간에 과제 및 수업 알림을 보낼 수 있도록 허용해 주세요. 비활성화하면 알림이 몇 분 지연될 수 있습니다.",
     "permission_exact_alarm_name": "정확한 알람",
     "permission_notifications_description": "앱이 알림을 표시할 수 있도록 허용해 주세요. 그렇지 않으면 알림과 실시간 업데이트가 표시되지 않습니다.",
+    "permission_promoted_notifications_description": "수업 카운트다운이 상태 표시줄에 칩으로 표시되도록 허용합니다. 꺼져 있어도 알림 패널을 내리면 실시간 업데이트는 계속 표시됩니다.",
+    "permission_promoted_notifications_name": "상태 표시줄 칩",
     "permission_warning_description": "다음 권한이 이전에 허용되었으나 현재 비활성화되어 있습니다. 관련 알림과 실시간 업데이트가 정상적으로 표시되지 않을 수 있습니다.",
     "vibration_settings_motor_warning": "일부 스마트폰은 진동 모터 품질이 낮아 매우 약하거나 짧은 진동을 무시할 수 있습니다. 설정이 느껴지지 않으면 강도나 길이를 높여 보세요. 먼저 \"보통\" 프리셋을 시도해 보는 것을 권장합니다.",
     "vibration_settings_revert": "기본값으로 재설정",

@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Povolte aplikácii posielať pripomienky úloh a hodín v presnom čase. Ak je vypnuté, pripomienky môžu meškať niekoľko minút.",
     "permission_exact_alarm_name": "Presné alarmy",
     "permission_notifications_description": "Povolte aplikácii zobrazovať notifikácie; inak sa notifikácie a aktuality naživo nebudú zobrazovať.",
+    "permission_promoted_notifications_description": "Povoľte, aby sa odpočítavanie hodiny zobrazovalo ako čip v stavovom riadku. Ak je vypnuté, živé informácie sa stále zobrazia po stiahnutí panela upozornení.",
+    "permission_promoted_notifications_name": "Čip v stavovom riadku",
     "permission_warning_description": "Nasledujúce povolenia boli predtým povolené, ale teraz sú vypnuté. Súvisiace notifikácie a aktuality naživo sa nemusia zobrazovať správne.",
     "vibration_settings_motor_warning": "Niektoré telefóny majú vibračné motory nižšej kvality, ktoré môžu ignorovať veľmi slabé alebo veľmi krátke vibrácie. Ak neviete pocítiť nastavenie, skúste zvýšiť jeho silu alebo dĺžku. Môžete začať vyskúšaním predvoľby \"Stredný\".",
     "vibration_settings_revert": "Obnoviť predvolené",

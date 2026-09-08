@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "允许 App 在精确的时间送出作业与上课提醒；关闭后提醒可能延后数分钟至十几分钟。",
     "permission_exact_alarm_name": "精确闹钟",
     "permission_notifications_description": "允许 App 显示通知，否则所有通知与实时动态都不会出现。",
+    "permission_promoted_notifications_description": "允许上课倒计时以胶囊形式显示在状态栏。关闭后，下拉通知栏仍然可以看到实时动态。",
+    "permission_promoted_notifications_name": "状态栏胶囊",
     "permission_warning_description": "以下权限在您之前已允许，但现在已被关闭。关闭后对应的通知与实时动态可能无法正常显示。",
     "vibration_settings_motor_warning": "部分手机的震动马达品质较差，过弱或过短的震动可能完全感受不到。若感受不到震动，请试着调高强度或时长。建议先从「中」预设开始试试。",
     "vibration_settings_revert": "恢复默认",

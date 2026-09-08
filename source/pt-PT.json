@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Permite que a aplicação envie lembretes de trabalhos e aulas a horas exatas. Se estiver desativado, os lembretes podem atrasar-se vários minutos.",
     "permission_exact_alarm_name": "Alarmes exatos",
     "permission_notifications_description": "Permite que a aplicação mostre notificações; caso contrário, as notificações e as atualizações em tempo real não aparecerão.",
+    "permission_promoted_notifications_description": "Permita que a contagem decrescente da aula apareça como um chip na barra de estado. Se estiver desativado, a atualização em direto continua a aparecer ao puxar o painel de notificações.",
+    "permission_promoted_notifications_name": "Chip na barra de estado",
     "permission_warning_description": "As seguintes permissões estavam ativadas anteriormente, mas agora estão desativadas. As notificações e as atualizações em tempo real relacionadas podem não ser apresentadas corretamente.",
     "vibration_settings_motor_warning": "Alguns telemóveis têm motores de vibração de menor qualidade que podem ignorar vibrações muito fracas ou muito curtas. Se não conseguir sentir uma definição, tente aumentar a sua intensidade ou duração. Pode começar por experimentar a predefinição \"Médio\" primeiro.",
     "vibration_settings_revert": "Repor predefinição",

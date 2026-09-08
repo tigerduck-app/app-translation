@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Permet que l'aplicació enviï recordatoris de tasques i classes en moments exactes. Si està desactivat, els recordatoris poden arribar amb minuts de retard.",
     "permission_exact_alarm_name": "Alarmes exactes",
     "permission_notifications_description": "Permet que l'aplicació mostri notificacions; en cas contrari, les notificacions i les actualitzacions en temps real no apareixeran.",
+    "permission_promoted_notifications_description": "Permet que el compte enrere de la classe aparegui com un xip a la barra d'estat. Si es desactiva, la informació en directe continua apareixent en desplegar el plafó de notificacions.",
+    "permission_promoted_notifications_name": "Xip a la barra d'estat",
     "permission_warning_description": "Els permisos següents estaven activats anteriorment però ara estan desactivats. Les notificacions i les actualitzacions en temps real relacionades poden no mostrar-se correctament.",
     "vibration_settings_motor_warning": "Alguns telèfons tenen motors de vibració de menor qualitat que poden ignorar vibracions molt febles o molt curtes. Si no podeu sentir una configuració, proveu d'augmentar-ne la força o la durada. Podeu començar provant primer el preajust \"Mitjà\".",
     "vibration_settings_revert": "Restablir per defecte",

@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Erlauben Sie der App, Aufgaben- und Unterrichtserinnerungen zur exakten Zeit zu senden. Wenn deaktiviert, können sich Erinnerungen um mehrere Minuten verzögern.",
     "permission_exact_alarm_name": "Exakte Alarme",
     "permission_notifications_description": "Erlauben Sie der App, Benachrichtigungen anzuzeigen; andernfalls erscheinen weder Benachrichtigungen noch Livemeldungen.",
+    "permission_promoted_notifications_description": "Erlaube, dass der Countdown der Unterrichtsstunde als Chip in der Statusleiste erscheint. Ohne diese Berechtigung ist die Live-Info weiterhin in der Benachrichtigungsleiste zu sehen.",
+    "permission_promoted_notifications_name": "Chip in der Statusleiste",
     "permission_warning_description": "Die folgenden Berechtigungen waren zuvor aktiviert, sind jetzt aber deaktiviert. Zugehörige Benachrichtigungen und Livemeldungen werden möglicherweise nicht korrekt angezeigt.",
     "vibration_settings_motor_warning": "Einige Telefone haben Vibrationsmotoren geringerer Qualität, die sehr schwache oder sehr kurze Vibrationen ignorieren können. Falls Sie eine Einstellung nicht spüren, versuchen Sie, die Stärke oder Länge zu erhöhen. Sie können mit der Voreinstellung \"Mittel\" beginnen.",
     "vibration_settings_revert": "Standard wiederherstellen",

@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Uygulamanın ödev ve ders hatırlatıcılarını tam zamanında göndermesine izin verin. Devre dışı bırakılırsa hatırlatıcılar birkaç dakika gecikebilir.",
     "permission_exact_alarm_name": "Tam zamanlı alarmlar",
     "permission_notifications_description": "Uygulamanın bildirim göstermesine izin verin; aksi takdirde bildirimler ve canlı güncellemeler görünmez.",
+    "permission_promoted_notifications_description": "Ders geri sayımının durum çubuğunda çip olarak görünmesine izin verin. Kapalıyken canlı bilgi, bildirim panelini aşağı çektiğinizde yine görünür.",
+    "permission_promoted_notifications_name": "Durum çubuğu çipi",
     "permission_warning_description": "Aşağıdaki izinler daha önce etkindi ancak şu anda devre dışı. İlgili bildirimler ve canlı güncellemeler düzgün görüntülenmeyebilir.",
     "vibration_settings_motor_warning": "Bazı telefonlarda çok zayıf veya çok kısa titreşimleri görmezden gelebilecek daha düşük kaliteli titreşim motorları bulunur. Bir ayarı hissedemiyorsanız gücünü veya uzunluğunu artırmayı deneyin. \"Orta\" ön ayarını deneyerek başlayabilirsiniz.",
     "vibration_settings_revert": "Varsayılana sıfırla",

@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Leyfðu forritinu að senda verkefna- og tímaáminningar á nákvæmum tíma. Ef slökkt er á þessu gætu áminningar seinkað um nokkrar mínútur.",
     "permission_exact_alarm_name": "Nákvæmar virkjar",
     "permission_notifications_description": "Leyfðu forritinu að sýna tilkynningar; annars munu tilkynningar og Live Updates ekki birtast.",
+    "permission_promoted_notifications_description": "Leyfðu niðurtalningu kennslustundar að birtast sem flaga á stöðustikunni. Sé slökkt á þessu sést rauntímayfirlitið enn þegar tilkynningaspjaldið er dregið niður.",
+    "permission_promoted_notifications_name": "Flaga á stöðustiku",
     "permission_warning_description": "Eftirfarandi leyfi voru áður virk en eru nú óvirk. Tengdar tilkynningar og Live Updates birtast hugsanlega ekki rétt.",
     "vibration_settings_motor_warning": "Sumir símar hafa lægri gæða titringsmótor sem gætu hunsað mjög veika eða mjög stuttar titringshreyfingar. Ef þú finnur ekki fyrir stillingu skaltu reyna að auka styrk hennar eða lengd. Þú getur byrjað á að prófa \"Meðal\" forstillinguna fyrst.",
     "vibration_settings_revert": "Endurstilla sjálfgefið",

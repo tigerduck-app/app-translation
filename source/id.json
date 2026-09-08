@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Izinkan aplikasi mengirim pengingat tugas dan kelas pada waktu yang tepat. Jika dinonaktifkan, pengingat dapat tertunda beberapa menit.",
     "permission_exact_alarm_name": "Alarm presisi",
     "permission_notifications_description": "Izinkan aplikasi menampilkan notifikasi; jika tidak, notifikasi dan live update tidak akan muncul.",
+    "permission_promoted_notifications_description": "Izinkan hitung mundur kelas tampil sebagai chip di bilah status. Jika dinonaktifkan, Info Langsung tetap muncul saat menarik panel notifikasi.",
+    "permission_promoted_notifications_name": "Chip di bilah status",
     "permission_warning_description": "Izin berikut sebelumnya diaktifkan tetapi sekarang dinonaktifkan. Notifikasi dan live update terkait mungkin tidak ditampilkan dengan benar.",
     "vibration_settings_motor_warning": "Beberapa ponsel memiliki motor getar berkualitas lebih rendah yang mungkin mengabaikan getaran yang sangat lemah atau sangat pendek. Jika Anda tidak bisa merasakan suatu pengaturan, coba naikkan kekuatan atau panjangnya. Anda bisa mulai dengan mencoba preset \"Sedang\" terlebih dahulu.",
     "vibration_settings_revert": "Setel ulang ke default",

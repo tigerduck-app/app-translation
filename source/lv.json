@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Atļaujiet lietotnei sūtīt uzdevumu un nodarbību atgādinājumus precīzos laikos. Ja atspējots, atgādinājumi var aizkavēties par dažām minūtēm.",
     "permission_exact_alarm_name": "Precīzie alarmi",
     "permission_notifications_description": "Atļaujiet lietotnei rādīt paziņojumus; pretējā gadījumā paziņojumi un reāllaika atjauninājumi netiks rādīti.",
+    "permission_promoted_notifications_description": "Atļaujiet stundas atpakaļskaitīšanai parādīties kā mikroshēmai statusa joslā. Ja izslēgts, tiešraides informācija joprojām redzama, novelkot paziņojumu paneli.",
+    "permission_promoted_notifications_name": "Statusa joslas mikroshēma",
     "permission_warning_description": "Tālāk minētās atļaujas iepriekš bija iespējotas, bet tagad ir atspējotas. Saistītie paziņojumi un reāllaika atjauninājumi var netikt rādīti pareizi.",
     "vibration_settings_motor_warning": "Dažiem telefoniem ir zemākas kvalitātes vibrācijas motori, kas var ignorēt ļoti vājas vai ļoti īsas vibrācijas. Ja nevarat sajust kādu iestatījumu, mēģiniet palielināt tā stiprumu vai ilgumu. Varat sākt, izmēģinot \"Vidējs\" sākotnējo iestatījumu.",
     "vibration_settings_revert": "Atjaunot noklusējumu",

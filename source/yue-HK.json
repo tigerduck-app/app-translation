@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "允許 App 喺精確時間發出功課同上堂提醒；關閉後提醒可能會延後幾分鐘到十幾分鐘。",
     "permission_exact_alarm_name": "精確鬧鐘",
     "permission_notifications_description": "允許 App 顯示通知，否則所有通知同最新即時資訊都唔會出現。",
+    "permission_promoted_notifications_description": "允許上堂倒數喺狀態列以膠囊形式顯示。閂咗之後，拉低通知欄一樣睇到最新即時資訊。",
+    "permission_promoted_notifications_name": "狀態列膠囊",
     "permission_warning_description": "以下權限你之前已允許，但而家已被關閉。關閉後相應嘅通知同最新即時資訊可能無法正常顯示。",
     "vibration_settings_motor_warning": "部分手機嘅震動馬達質素較差，過弱或過短嘅震動可能完全感受唔到。若感受唔到震動，請試吓調高強度或時長。建議先試試「中」預設。",
     "vibration_settings_revert": "還原預設",

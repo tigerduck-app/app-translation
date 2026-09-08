@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Leiskite programai tiksliai laiku siųsti užduočių ir paskaitų priminimus. Jei išjungta, priminimai gali vėluoti kelias minutes.",
     "permission_exact_alarm_name": "Tikslūs signalai",
     "permission_notifications_description": "Leiskite programai rodyti pranešimus; kitu atveju pranešimai ir tiesioginiai atnaujinimai nebus rodomi.",
+    "permission_promoted_notifications_description": "Leiskite pamokos atgalinei atskaitai rodytis kaip lustui būsenos juostoje. Išjungus tiesioginė informacija vis tiek matoma patraukus pranešimų skydelį.",
+    "permission_promoted_notifications_name": "Būsenos juostos lustas",
     "permission_warning_description": "Toliau nurodyti leidimai anksčiau buvo įjungti, tačiau dabar yra išjungti. Susiję pranešimai ir tiesioginiai atnaujinimai gali būti rodomi neteisingai.",
     "vibration_settings_motor_warning": "Kai kuriuose telefonuose yra žemesnės kokybės vibromotoriai, kurie gali ignoruoti labai silpnas arba labai trumpas vibracijas. Jei negalite pajusti nustatymo, pabandykite padidinti jo stiprumą arba ilgį. Galite pradėti išbandydami \"Vidutinis\" išankstinį nustatymą.",
     "vibration_settings_revert": "Atkurti numatytuosius",

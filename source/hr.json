@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Dopustite aplikaciji slanje podsjetnika za zadatke i predavanja u točno određeno vrijeme. Ako je onemogućeno, podsjetnici mogu kasniti nekoliko minuta.",
     "permission_exact_alarm_name": "Precizni alarmi",
     "permission_notifications_description": "Dopustite aplikaciji prikazivanje obavijesti; u protivnom obavijesti uživo neće se prikazivati.",
+    "permission_promoted_notifications_description": "Dopustite da se odbrojavanje sata prikazuje kao čip na traci stanja. Ako je isključeno, informacije uživo i dalje se vide kad povučete ploču obavijesti.",
+    "permission_promoted_notifications_name": "Čip na traci stanja",
     "permission_warning_description": "Sljedeća dopuštenja bila su prethodno omogućena, ali su sada onemogućena. Povezane obavijesti uživo možda se neće ispravno prikazivati.",
     "vibration_settings_motor_warning": "Neki telefoni imaju vibromotore niže kvalitete koji mogu ignorirati vrlo slabe ili vrlo kratke vibracije. Ako ne možete osjetiti postavku, pokušajte povećati njenu snagu ili trajanje. Možete početi isprobavanjem unaprijed postavljene vrijednosti \"Srednje\".",
     "vibration_settings_revert": "Vrati na zadano",

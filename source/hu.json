@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Engedélyezze az alkalmazásnak, hogy pontosan időzített házi feladat és óra emlékeztetőket küldjön. Ha letiltja, az emlékeztetők néhány percet késhetnek.",
     "permission_exact_alarm_name": "Pontos ébresztők",
     "permission_notifications_description": "Engedélyezze az alkalmazásnak az értesítések megjelenítését; ellenkező esetben az értesítések és az élő frissítések nem jelenik meg.",
+    "permission_promoted_notifications_description": "Engedélyezd, hogy az óra visszaszámlálása chipként jelenjen meg az állapotsávban. Kikapcsolva az élő információ továbbra is látszik az értesítési panel lehúzásakor.",
+    "permission_promoted_notifications_name": "Chip az állapotsávban",
     "permission_warning_description": "Az alábbi engedélyek korábban engedélyezve voltak, de most le vannak tiltva. A kapcsolódó értesítések és az élő frissítések esetleg nem jelenik meg megfelelően.",
     "vibration_settings_motor_warning": "Egyes telefonokon alacsonyabb minőségű vibrációs motor van, amely figyelmen kívül hagyhatja a nagyon gyenge vagy nagyon rövid rezgéseket. Ha nem érez egy beállítást, próbálja növelni annak erősségét vagy hosszát. Kezdheti a \"Közepes\" előbeállítás kipróbálásával.",
     "vibration_settings_revert": "Alapértelmezett visszaállítása",

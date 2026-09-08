@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Cho phép ứng dụng gửi nhắc bài tập và lớp học vào đúng thời điểm. Nếu tắt, nhắc nhở có thể bị trễ vài phút.",
     "permission_exact_alarm_name": "Báo thức chính xác",
     "permission_notifications_description": "Cho phép ứng dụng hiển thị thông báo; nếu không, thông báo và thông tin cập nhật trực tiếp sẽ không xuất hiện.",
+    "permission_promoted_notifications_description": "Cho phép đồng hồ đếm ngược của tiết học hiển thị dưới dạng chip trên thanh trạng thái. Nếu tắt, thông tin trực tiếp vẫn hiện khi bạn kéo bảng thông báo xuống.",
+    "permission_promoted_notifications_name": "Chip trên thanh trạng thái",
     "permission_warning_description": "Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và thông tin cập nhật trực tiếp liên quan có thể không hiển thị đúng.",
     "vibration_settings_motor_warning": "Một số điện thoại có động cơ rung chất lượng thấp hơn có thể bỏ qua những rung động rất yếu hoặc rất ngắn. Nếu bạn không cảm nhận được một cài đặt, hãy thử tăng cường độ hoặc độ dài của nó. Bạn có thể bắt đầu bằng cách thử cài đặt trước \"Vừa\" trước.",
     "vibration_settings_revert": "Đặt lại mặc định",

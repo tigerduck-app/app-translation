@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Lubage rakendusel saata ülesande ja tunni meeldetuletusi täpselt õigel ajal. Kui see on keelatud, võivad meeldetuletused hilineda mõne minuti võrra.",
     "permission_exact_alarm_name": "Täpsed alarmid",
     "permission_notifications_description": "Lubage rakendusel teavitusi kuvada; muidu ei ilmu teavitused ega reaalajas teavitused.",
+    "permission_promoted_notifications_description": "Luba tunni loendur kuvada olekuribal kiibina. Kui see on välja lülitatud, on reaalajas teave endiselt näha teavituspaneeli alla tõmmates.",
+    "permission_promoted_notifications_name": "Kiip olekuribal",
     "permission_warning_description": "Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja reaalajas teavitused ei pruugi õigesti kuvada.",
     "vibration_settings_motor_warning": "Mõnel telefonil on madalama kvaliteediga vibraatorimootor, mis võib ignoreerida väga nõrku või väga lühikesi vibratsioone. Kui te seadistust ei tunne, proovige suurendada selle tugevust või pikkust. Võite alustada eelseade \"Keskmine\" proovimisest.",
     "vibration_settings_revert": "Lähtesta vaikimisi",

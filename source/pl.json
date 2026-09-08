@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Pozwolić aplikacji wysyłać przypomnienia o zadaniach i zajęciach o dokładnych porach. Po wyłączeniu przypomnienia mogą być opóźnione o kilka minut.",
     "permission_exact_alarm_name": "Dokładne alarmy",
     "permission_notifications_description": "Pozwolić aplikacji wyświetlać powiadomienia; w przeciwnym razie powiadomienia oraz aktualizacje na żywo nie będą się pojawiać.",
+    "permission_promoted_notifications_description": "Zezwól, aby odliczanie zajęć pojawiało się jako element na pasku stanu. Po wyłączeniu informacje na żywo nadal będą widoczne po rozwinięciu panelu powiadomień.",
+    "permission_promoted_notifications_name": "Element na pasku stanu",
     "permission_warning_description": "Następujące uprawnienia były wcześniej włączone, lecz obecnie są wyłączone. Powiązane powiadomienia oraz aktualizacje na żywo mogą nie być wyświetlane prawidłowo.",
     "vibration_settings_motor_warning": "Niektóre telefony mają silniki wibracji niższej jakości, które mogą ignorować bardzo słabe lub bardzo krótkie wibracje. Jeśli nie czujesz ustawienia, spróbuj zwiększyć jego siłę lub długość. Możesz zacząć od wypróbowania ustawienia wstępnego \"Średni\".",
     "vibration_settings_revert": "Przywróć domyślne",

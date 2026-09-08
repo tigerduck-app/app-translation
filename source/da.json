@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Tillad appen at sende påmindelser om opgaver og undervisning på præcise tidspunkter. Hvis deaktiveret, kan påmindelser blive forsinket med flere minutter.",
     "permission_exact_alarm_name": "Præcise alarmer",
     "permission_notifications_description": "Tillad appen at vise notifikationer; ellers vises notifikationer og liveopdateringer ikke.",
+    "permission_promoted_notifications_description": "Tillad, at nedtællingen til timen vises som en chip i statuslinjen. Hvis det er slået fra, vises live-opdateringen stadig, når du trækker notifikationspanelet ned.",
+    "permission_promoted_notifications_name": "Chip i statuslinjen",
     "permission_warning_description": "Følgende tilladelser var tidligere aktiveret, men er nu deaktiveret. Relaterede notifikationer og liveopdateringer vises muligvis ikke korrekt.",
     "vibration_settings_motor_warning": "Nogle telefoner har vibrationsmotor af lavere kvalitet, som muligvis ignorerer meget svage eller meget korte vibrationer. Hvis du ikke kan mærke en indstilling, kan du prøve at øge dens styrke eller længde. Du kan starte med at prøve \"Middel\"-forudindstillingen.",
     "vibration_settings_revert": "Gendan standard",

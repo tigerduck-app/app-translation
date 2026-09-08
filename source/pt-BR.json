@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Permita que o app envie lembretes de atividades e aulas em horários exatos. Se desativado, os lembretes podem atrasar alguns minutos.",
     "permission_exact_alarm_name": "Alarmes exatos",
     "permission_notifications_description": "Permita que o app exiba notificações; caso contrário, as notificações e as atualizações em tempo real não aparecerão.",
+    "permission_promoted_notifications_description": "Permita que a contagem regressiva da aula apareça como um chip na barra de status. Se desativado, a atualização ao vivo continua aparecendo ao puxar o painel de notificações.",
+    "permission_promoted_notifications_name": "Chip na barra de status",
     "permission_warning_description": "As permissões a seguir foram autorizadas anteriormente, mas agora estão desativadas. As notificações e as atualizações em tempo real relacionadas podem não ser exibidas corretamente.",
     "vibration_settings_motor_warning": "Alguns celulares têm motores de vibração de menor qualidade que podem ignorar vibrações muito fracas ou muito curtas. Se você não conseguir sentir uma configuração, tente aumentar sua intensidade ou duração. Você pode começar experimentando a predefinição \"Médio\" primeiro.",
     "vibration_settings_revert": "Restaurar padrão",

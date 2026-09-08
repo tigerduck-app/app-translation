@@ -869,6 +869,8 @@
     "permission_exact_alarm_description": "Permite aplicației să trimită remindere pentru teme și cursuri la ore exacte. Dacă este dezactivat, reminderele pot întârzia câteva minute.",
     "permission_exact_alarm_name": "Alarme exacte",
     "permission_notifications_description": "Permite aplicației să afișeze notificări; altfel notificările și actualizările live nu vor apărea.",
+    "permission_promoted_notifications_description": "Permite ca numărătoarea inversă a orei să apară ca un cip în bara de stare. Dacă este dezactivat, informațiile live rămân vizibile când tragi în jos panoul de notificări.",
+    "permission_promoted_notifications_name": "Cip în bara de stare",
     "permission_warning_description": "Următoarele permisiuni au fost activate anterior, dar acum sunt dezactivate. Notificările și actualizările live asociate pot să nu se afișeze corect.",
     "vibration_settings_motor_warning": "Unele telefoane au motoare de vibrație de calitate mai scăzută care pot ignora vibrațiile foarte slabe sau foarte scurte. Dacă nu simțiți o setare, încercați să îi creșteți intensitatea sau durata. Puteți începe încercând mai întâi presetul \"Mediu\".",
     "vibration_settings_revert": "Restabilire implicită",
