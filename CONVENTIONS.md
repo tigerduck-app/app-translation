@@ -86,6 +86,37 @@ Apply the same rule to any future OS-branded primitive (e.g. Apple "Focus" vs
 Android "Do Not Disturb", "Shortcuts" vs "Routines"): fork the key, match each
 platform's term, keep the rest of the sentence aligned.
 
+### TigerDuck's own product names (never translated)
+
+The opposite case: names TigerDuck coins for its own features are **proper
+nouns**, so they stay in Latin script in **every** locale, exactly as spelled
+here. They are never translated, never case-folded, and never described with a
+generic phrase in one locale and a name in another.
+
+| Name | What it covers |
+|---|---|
+| **TigerSync** | Everything the account syncs through the TigerDuck backend: timetable, assignment state, colours, custom names, settings. Key prefixes `cloud_sync_*`, `settings_sync_*`, `sync_*`, `onboarding_sync_*`. |
+
+Write the surrounding sentence so the name works as an indeclinable foreign
+noun -- subject or object, never inflected, and never carrying an article that
+has to agree with a gender it does not have. Chinese and Japanese take a space
+on each side (`啟用 TigerSync`); Korean binds its particles directly
+(`TigerSync는`, not `TigerSync 는`) but still spaces a following noun
+(`TigerSync 설정`).
+
+This rule exists because the feature previously had no declared status. Across
+55 locales it had accumulated four English spellings (`Cloud Sync`,
+`cloud sync`, `Cross-device sync`, `cross-device sync`) and roughly fifty
+translations, and 45 locales disagreed with themselves between
+`cloud_sync_title` and `onboarding_sync_title` -- the same screen calling the
+same feature two different things. A coined name has one spelling by
+construction.
+
+**When adding a name here:** rename in `source/*.json` for all 55 locales in
+one commit, then regenerate. Do **not** rename the JSON keys to match -- they
+are internal, and `cloudSyncEnabled` in both apps is a persisted preference
+key whose rename would silently drop every existing user's setting.
+
 ## Naming keys
 
 Keys are `snake_case` and lead with a stable feature/area prefix so related
