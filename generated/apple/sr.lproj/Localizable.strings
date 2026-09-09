@@ -166,14 +166,11 @@
 "class_table_conflict_add_failed_title" = "Није могуће додати";
 "class_table_course_name" = "Назив курса";
 "class_table_delete" = "Обриши";
-"class_table_delete_with_course" = "Обриши — %1$@";
 "class_table_empty_message" = "Повуците да освежите, додирните + да додате курс или пребаците се на други семестар";
 "class_table_pick_color" = "Одабери боју";
-"class_table_pick_color_with_course" = "Одабери боју — %1$@";
 "class_table_rename_default_label" = "Подразумевано: %1$@";
 "class_table_rename_revert" = "Врати на подразумевано";
 "class_table_rename_title" = "Преименуј";
-"class_table_rename_with_course" = "Преименуј — %1$@";
 "class_table_reset_message" = "Распоред ће бити поново изграђен на основу Moodle-а, система за избор курсева и система оцена. Ручно додати, обрисани и преименовани курсеви биће изгубљени.";
 "class_table_reset_title" = "Ресетуј распоред предмета";
 "class_table_reset_title_with_semester" = "Ресетуј распоред %1$@";

@@ -166,14 +166,11 @@
 "class_table_conflict_add_failed_title" = "לא ניתן להוסיף";
 "class_table_course_name" = "שם קורס";
 "class_table_delete" = "מחק";
-"class_table_delete_with_course" = "מחק — %1$@";
 "class_table_empty_message" = "יש למשוך כדי לרענן, להקיש על + כדי להוסיף קורס, או לעבור לסמסטר אחר";
 "class_table_pick_color" = "בחר צבע";
-"class_table_pick_color_with_course" = "בחר צבע — %1$@";
 "class_table_rename_default_label" = "ברירת מחדל: %1$@";
 "class_table_rename_revert" = "חזור לברירת המחדל";
 "class_table_rename_title" = "שנה שם";
-"class_table_rename_with_course" = "שנה שם — %1$@";
 "class_table_reset_message" = "מערכת השעות תיבנה מחדש לפי Moodle, מערכת בחירת הקורסים ומערכת הציונים. קורסים שנוספו, נמחקו או ששמם שונה ידנית יאבדו.";
 "class_table_reset_title" = "איפוס מערכת שעות";
 "class_table_reset_title_with_semester" = "איפוס מערכת השעות של %1$@";

@@ -166,14 +166,11 @@
 "class_table_conflict_add_failed_title" = "Nije moguće dodati";
 "class_table_course_name" = "Naziv kolegija";
 "class_table_delete" = "Obriši";
-"class_table_delete_with_course" = "Obriši — %1$@";
 "class_table_empty_message" = "Povucite za osvježavanje, dodirnite + za dodavanje kolegija ili prijeđite na drugi semestar";
 "class_table_pick_color" = "Odaberi boju";
-"class_table_pick_color_with_course" = "Odaberi boju — %1$@";
 "class_table_rename_default_label" = "Zadano: %1$@";
 "class_table_rename_revert" = "Vrati na zadano";
 "class_table_rename_title" = "Preimenovanje";
-"class_table_rename_with_course" = "Preimenovanje — %1$@";
 "class_table_reset_message" = "Raspored će se ponovno izgraditi prema Moodleu, sustavu odabira kolegija i sustavu ocjena. Ručno dodani, obrisani i preimenovani kolegiji bit će izgubljeni.";
 "class_table_reset_title" = "Poništi raspored kolegija";
 "class_table_reset_title_with_semester" = "Poništi raspored %1$@";

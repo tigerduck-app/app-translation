@@ -166,14 +166,11 @@
 "class_table_conflict_add_failed_title" = "Hinzufügen nicht möglich";
 "class_table_course_name" = "Kursname";
 "class_table_delete" = "Löschen";
-"class_table_delete_with_course" = "Löschen — %1$@";
 "class_table_empty_message" = "Ziehen Sie zum Aktualisieren, tippen Sie auf +, um einen Kurs hinzuzufügen, oder wechseln Sie zu einem anderen Semester";
 "class_table_pick_color" = "Farbe wählen";
-"class_table_pick_color_with_course" = "Farbe wählen — %1$@";
 "class_table_rename_default_label" = "Standard: %1$@";
 "class_table_rename_revert" = "Auf Standard zurücksetzen";
 "class_table_rename_title" = "Umbenennen";
-"class_table_rename_with_course" = "Umbenennen — %1$@";
 "class_table_reset_message" = "Der Stundenplan wird anhand von Moodle, der Kursanmeldung und dem Notensystem neu aufgebaut. Manuell hinzugefügte, gelöschte und umbenannte Kurse gehen verloren.";
 "class_table_reset_title" = "Stundenplan zurücksetzen";
 "class_table_reset_title_with_semester" = "Stundenplan %1$@ zurücksetzen";

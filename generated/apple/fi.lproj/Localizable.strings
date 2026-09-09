@@ -166,14 +166,11 @@
 "class_table_conflict_add_failed_title" = "Ei voi lisätä";
 "class_table_course_name" = "Kurssin nimi";
 "class_table_delete" = "Poista";
-"class_table_delete_with_course" = "Poista — %1$@";
 "class_table_empty_message" = "Päivitä vetämällä, lisää kurssi napauttamalla + tai vaihda lukukautta";
 "class_table_pick_color" = "Valitse väri";
-"class_table_pick_color_with_course" = "Valitse väri — %1$@";
 "class_table_rename_default_label" = "Oletus: %1$@";
 "class_table_rename_revert" = "Palauta oletus";
 "class_table_rename_title" = "Nimeä uudelleen";
-"class_table_rename_with_course" = "Nimeä uudelleen — %1$@";
 "class_table_reset_message" = "Lukujärjestys rakennetaan uudelleen Moodlen, kurssivalintajärjestelmän ja arvosanajärjestelmän perusteella. Käsin lisätyt, poistetut ja uudelleennimetyt kurssit menetetään.";
 "class_table_reset_title" = "Palauta lukujärjestys";
 "class_table_reset_title_with_semester" = "Palauta lukujärjestys %1$@";

@@ -166,14 +166,11 @@
 "class_table_conflict_add_failed_title" = "Nem adható hozzá";
 "class_table_course_name" = "Kurzus neve";
 "class_table_delete" = "Törlés";
-"class_table_delete_with_course" = "Törlés — %1$@";
 "class_table_empty_message" = "Húzza le a frissítéshez, koppintson a + gombra kurzus hozzáadásához, vagy váltson másik félévre";
 "class_table_pick_color" = "Szín kiválasztása";
-"class_table_pick_color_with_course" = "Szín kiválasztása — %1$@";
 "class_table_rename_default_label" = "Alapértelmezett: %1$@";
 "class_table_rename_revert" = "Alapértelmezett visszaállítása";
 "class_table_rename_title" = "Átnevezés";
-"class_table_rename_with_course" = "Átnevezés — %1$@";
 "class_table_reset_message" = "Az órarend a Moodle, a kurzusválasztó rendszer és az osztályzatrendszer alapján újraépül. A kézzel hozzáadott, törölt és átnevezett kurzusok elvesznek.";
 "class_table_reset_title" = "Órarend visszaállítása";
 "class_table_reset_title_with_semester" = "%1$@ órarend visszaállítása";

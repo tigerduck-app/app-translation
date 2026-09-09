@@ -166,14 +166,11 @@
 "class_table_conflict_add_failed_title" = "Kan ikke tilføje";
 "class_table_course_name" = "Kursusnavn";
 "class_table_delete" = "Slet";
-"class_table_delete_with_course" = "Slet — %1$@";
 "class_table_empty_message" = "Træk for at opdatere, tryk på + for at tilføje et kursus, eller skift til et andet semester";
 "class_table_pick_color" = "Vælg farve";
-"class_table_pick_color_with_course" = "Vælg farve — %1$@";
 "class_table_rename_default_label" = "Standard: %1$@";
 "class_table_rename_revert" = "Gendan standard";
 "class_table_rename_title" = "Omdøb";
-"class_table_rename_with_course" = "Omdøb — %1$@";
 "class_table_reset_message" = "Skemaet genopbygges ud fra Moodle, kursusvalgssystemet og karaktersystemet. Manuelt tilføjede, slettede og omdøbte kurser går tabt.";
 "class_table_reset_title" = "Nulstil skema";
 "class_table_reset_title_with_semester" = "Nulstil skema for %1$@";
