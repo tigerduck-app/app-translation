@@ -760,7 +760,7 @@
 "sync_fdroid_unavailable_body" = "TigerSync изисква Google Play услуги и не е наличен в F-Droid версията.";
 "sync_fdroid_unavailable_title" = "Не е налично за F-Droid";
 "sync_status_failed" = "Неуспешно";
-"sync_status_minimal" = "Minimal";
+"sync_status_minimal" = "Ограничено";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Синхронизиране…";
 "sync_status_title" = "Състояние на синхронизацията";

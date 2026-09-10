@@ -760,7 +760,7 @@
 "sync_fdroid_unavailable_body" = "TigerSync memerlukan Google Play Services dan tidak tersedia di build F-Droid.";
 "sync_fdroid_unavailable_title" = "Tidak tersedia di F-Droid";
 "sync_status_failed" = "Gagal";
-"sync_status_minimal" = "Minimal";
+"sync_status_minimal" = "Terbatas";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Menyinkronkan…";
 "sync_status_title" = "Status sinkronisasi";

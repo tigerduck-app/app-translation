@@ -760,7 +760,7 @@
 "sync_fdroid_unavailable_body" = "TigerSync به خدمات Google Play نیاز دارد و در نسخه F-Droid موجود نیست.";
 "sync_fdroid_unavailable_title" = "در F-Droid موجود نیست";
 "sync_status_failed" = "ناموفق";
-"sync_status_minimal" = "Minimal";
+"sync_status_minimal" = "محدود";
 "sync_status_ok" = "عادی";
 "sync_status_syncing" = "در حال همگام‌سازی…";
 "sync_status_title" = "وضعیت همگام‌سازی";

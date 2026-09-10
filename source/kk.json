@@ -733,7 +733,7 @@
     "sync_fdroid_unavailable_body": "TigerSync Google Play қызметтерін қажет етеді және F-Droid нұсқасында қолжетімді емес.",
     "sync_fdroid_unavailable_title": "F-Droid-та қолжетімді емес",
     "sync_status_failed": "Сәтсіз",
-    "sync_status_minimal": "Minimal",
+    "sync_status_minimal": "Шектеулі",
     "sync_status_ok": "Дұрыс",
     "sync_status_syncing": "Синхрондалуда…",
     "sync_status_title": "Синхрондау күйі",

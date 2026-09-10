@@ -733,7 +733,7 @@
     "sync_fdroid_unavailable_body": "TigerSync nepieciešami Google Play pakalpojumi, un tas nav pieejams F-Droid versijā.",
     "sync_fdroid_unavailable_title": "Nav pieejams F-Droid",
     "sync_status_failed": "Neizdevās",
-    "sync_status_minimal": "Minimal",
+    "sync_status_minimal": "Ierobežots",
     "sync_status_ok": "Labi",
     "sync_status_syncing": "Sinhronizē…",
     "sync_status_title": "Sinhronizācijas statuss",

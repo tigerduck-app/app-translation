@@ -760,7 +760,7 @@
 "sync_fdroid_unavailable_body" = "TigerSync کے لیے Google Play خدمات درکار ہیں اور F-Droid میں دستیاب نہیں ہے۔";
 "sync_fdroid_unavailable_title" = "F-Droid پر دستیاب نہیں";
 "sync_status_failed" = "ناکام";
-"sync_status_minimal" = "Minimal";
+"sync_status_minimal" = "محدود";
 "sync_status_ok" = "ٹھیک";
 "sync_status_syncing" = "ہم آہنگ ہو رہا ہے…";
 "sync_status_title" = "ہم آہنگی کی حالت";

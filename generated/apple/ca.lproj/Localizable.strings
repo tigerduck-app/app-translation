@@ -760,7 +760,7 @@
 "sync_fdroid_unavailable_body" = "TigerSync requereix els serveis de Google Play i no està disponible a la versió F-Droid.";
 "sync_fdroid_unavailable_title" = "No disponible a F-Droid";
 "sync_status_failed" = "Ha fallat";
-"sync_status_minimal" = "Minimal";
+"sync_status_minimal" = "Limitat";
 "sync_status_ok" = "Correcte";
 "sync_status_syncing" = "Sincronitzant…";
 "sync_status_title" = "Estat de la sincronització";

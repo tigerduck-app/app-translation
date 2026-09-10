@@ -733,7 +733,7 @@
     "sync_fdroid_unavailable_body": "يتطلب TigerSync خدمات Google Play وغير متوفر في إصدار F-Droid.",
     "sync_fdroid_unavailable_title": "غير متوفر على F-Droid",
     "sync_status_failed": "فشل",
-    "sync_status_minimal": "Minimal",
+    "sync_status_minimal": "محدود",
     "sync_status_ok": "سليم",
     "sync_status_syncing": "جارٍ المزامنة…",
     "sync_status_title": "حالة المزامنة",

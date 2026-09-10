@@ -760,7 +760,7 @@
 "sync_fdroid_unavailable_body" = "TigerSync krefst Google Play þjónustu og er ekki í boði í F-Droid útgáfunni.";
 "sync_fdroid_unavailable_title" = "Ekki í boði á F-Droid";
 "sync_status_failed" = "Mistókst";
-"sync_status_minimal" = "Minimal";
+"sync_status_minimal" = "Takmarkað";
 "sync_status_ok" = "Í lagi";
 "sync_status_syncing" = "Samstillir…";
 "sync_status_title" = "Staða samstillingar";
