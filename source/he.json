@@ -904,5 +904,6 @@
     "settings_sync_data_section": "נתונים המשותפים עם השרת",
     "settings_sync_off_notifications_warning": "TigerSync כבוי. מכשירי Apple מסתמכים על שרת TigerDuck לקבלת התראות. הקישו למידע נוסף.",
     "settings_sync_toggle_label": "הפעל TigerSync"
-  }
+  },
+  "backend": {}
 }

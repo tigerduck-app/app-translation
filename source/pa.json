@@ -904,5 +904,6 @@
     "settings_sync_data_section": "ਸਰਵਰ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਡੇਟਾ",
     "settings_sync_off_notifications_warning": "TigerSync ਬੰਦ ਹੈ। Apple ਡਿਵਾਈਸ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ TigerDuck ਬੈਕਐਂਡ ਤੇ ਨਿਰਭਰ ਹਨ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਟੈਪ ਕਰੋ।",
     "settings_sync_toggle_label": "TigerSync ਸਮਰੱਥ ਕਰੋ"
-  }
+  },
+  "backend": {}
 }

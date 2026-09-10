@@ -904,5 +904,6 @@
     "settings_sync_data_section": "与服务器共享的数据",
     "settings_sync_off_notifications_warning": "TigerSync 已关闭，推送通知与即时动态无法使用。",
     "settings_sync_toggle_label": "启用 TigerSync"
-  }
+  },
+  "backend": {}
 }

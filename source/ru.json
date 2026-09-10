@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Данные, передаваемые серверу",
     "settings_sync_off_notifications_warning": "TigerSync отключён. Push-уведомления и Live Updates недоступны.",
     "settings_sync_toggle_label": "Включить TigerSync"
-  }
+  },
+  "backend": {}
 }

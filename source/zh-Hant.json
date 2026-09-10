@@ -904,5 +904,6 @@
     "settings_sync_data_section": "與伺服器共用的資料",
     "settings_sync_off_notifications_warning": "TigerSync 已關閉。Apple 裝置需要 TigerDuck 後端伺服器才能接收通知，點擊了解更多。",
     "settings_sync_toggle_label": "啟用 TigerSync"
-  }
+  },
+  "backend": {}
 }

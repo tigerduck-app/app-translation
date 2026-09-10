@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Data yang dibagikan dengan server",
     "settings_sync_off_notifications_warning": "TigerSync nonaktif. Perangkat Apple bergantung pada backend TigerDuck untuk menerima notifikasi. Ketuk untuk info lebih lanjut.",
     "settings_sync_toggle_label": "Aktifkan TigerSync"
-  }
+  },
+  "backend": {}
 }

@@ -904,5 +904,6 @@
     "settings_sync_data_section": "சேவையகத்துடன் பகிரப்பட்ட தரவு",
     "settings_sync_off_notifications_warning": "TigerSync முடக்கப்பட்டுள்ளது. Apple சாதனங்கள் அறிவிப்புகளைப் பெற TigerDuck பின்தளத்தை நம்பியுள்ளன. மேலும் தகவலுக்கு தட்டவும்.",
     "settings_sync_toggle_label": "TigerSync இயக்கு"
-  }
+  },
+  "backend": {}
 }

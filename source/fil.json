@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Data na ibinabahagi sa server",
     "settings_sync_off_notifications_warning": "Naka-off ang TigerSync. Umaasa ang mga Apple device sa TigerDuck backend para makatanggap ng mga notification. I-tap para sa karagdagang impormasyon.",
     "settings_sync_toggle_label": "I-enable ang TigerSync"
-  }
+  },
+  "backend": {}
 }

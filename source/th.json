@@ -904,5 +904,6 @@
     "settings_sync_data_section": "ข้อมูลที่แชร์กับเซิร์ฟเวอร์",
     "settings_sync_off_notifications_warning": "การTigerSyncปิดอยู่ อุปกรณ์ Apple ต้องอาศัยเซิร์ฟเวอร์ TigerDuck เพื่อรับการแจ้งเตือน แตะเพื่อดูข้อมูลเพิ่มเติม",
     "settings_sync_toggle_label": "เปิดใช้งานการTigerSync"
-  }
+  },
+  "backend": {}
 }

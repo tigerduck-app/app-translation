@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Data delt med serveren",
     "settings_sync_off_notifications_warning": "TigerSync er slået fra. Apple-enheder er afhængige af TigerDuck-serveren for at modtage notifikationer. Tryk for mere info.",
     "settings_sync_toggle_label": "Aktiver TigerSync"
-  }
+  },
+  "backend": {}
 }

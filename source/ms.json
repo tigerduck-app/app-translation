@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Data yang dikongsi dengan pelayan",
     "settings_sync_off_notifications_warning": "TigerSync dimatikan. Peranti Apple bergantung pada pelayan TigerDuck untuk menerima pemberitahuan. Ketik untuk maklumat lanjut.",
     "settings_sync_toggle_label": "Aktifkan TigerSync"
-  }
+  },
+  "backend": {}
 }

@@ -5,13 +5,14 @@ keys are named. Read this before adding or renaming keys.
 
 ## Source layout
 
-Each `source/<locale>.json` has exactly three top-level groups:
+Each `source/<locale>.json` has exactly four top-level groups:
 
 ```json
 {
   "shared":  { "<key>": "<value>", ... },
   "android": { "<key>": "<value>", ... },
-  "apple":   { "<key>": "<value>", ... }
+  "apple":   { "<key>": "<value>", ... },
+  "backend": { "<key>": "<value>", ... }
 }
 ```
 
@@ -19,6 +20,7 @@ Generation rule:
 
 - Android bundle gets `shared ∪ android`
 - Apple bundle gets `shared ∪ apple`
+- Backend bundle gets `shared ∪ backend`
 
 A key may appear in only one group at a time. Keys are **alphabetically sorted**
 within each group; the rebucket / generator scripts depend on this for stable
@@ -38,6 +40,11 @@ have. Examples:
   battery-optimization permission, "press back again to exit" toast
 - `apple`: (none yet — add things like Siri shortcut prompts, App Clip
   invocation strings, or other Apple-only OS primitives here when they land)
+- `backend`: strings only the tigerduck-backend server renders — push
+  notification copy it composes itself, in the recipient device's language.
+  These never reach an app bundle. Do **not** put a string here merely
+  because the server sends it: if an app also displays that wording, it
+  belongs in `shared`, which flows into the backend bundle too.
 
 UI labels that *exist on both platforms but happen to be wired up first on one*
 go in `shared`, not in the platform group. "I haven't translated this on iOS

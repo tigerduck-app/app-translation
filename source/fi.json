@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Palvelimen kanssa jaetut tiedot",
     "settings_sync_off_notifications_warning": "TigerSync on pois päältä. Apple-laitteet tarvitsevat TigerDuck-palvelimen ilmoitusten vastaanottamiseen. Napauta saadaksesi lisätietoja.",
     "settings_sync_toggle_label": "Ota TigerSync käyttöön"
-  }
+  },
+  "backend": {}
 }

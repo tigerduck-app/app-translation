@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Данни, споделени със сървъра",
     "settings_sync_off_notifications_warning": "TigerSync е изключен. Apple устройствата разчитат на сървъра на TigerDuck за получаване на известия. Натиснете за повече информация.",
     "settings_sync_toggle_label": "Включване на TigerSync"
-  }
+  },
+  "backend": {}
 }

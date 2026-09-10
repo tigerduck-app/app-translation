@@ -904,5 +904,6 @@
     "settings_sync_data_section": "同伺服器共享嘅資料",
     "settings_sync_off_notifications_warning": "TigerSync 已關閉，推播通知同即時動態無法使用。",
     "settings_sync_toggle_label": "啟用 TigerSync"
-  }
+  },
+  "backend": {}
 }

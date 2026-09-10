@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Dữ liệu được chia sẻ với máy chủ",
     "settings_sync_off_notifications_warning": "TigerSync đang tắt. Thiết bị Apple cần máy chủ TigerDuck để nhận thông báo. Nhấn để biết thêm.",
     "settings_sync_toggle_label": "Bật TigerSync"
-  }
+  },
+  "backend": {}
 }

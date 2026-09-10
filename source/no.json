@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Data delt med serveren",
     "settings_sync_off_notifications_warning": "TigerSync er av. Apple-enheter er avhengige av TigerDuck-serveren for å motta varsler. Trykk for mer informasjon.",
     "settings_sync_toggle_label": "Aktiver TigerSync"
-  }
+  },
+  "backend": {}
 }

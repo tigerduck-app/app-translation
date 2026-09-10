@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Подаци дељени са сервером",
     "settings_sync_off_notifications_warning": "TigerSync је искључена. Apple уређаји се ослањају на TigerDuck сервер за пријем обавештења. Додирните за више информација.",
     "settings_sync_toggle_label": "Укључи TigerSync"
-  }
+  },
+  "backend": {}
 }

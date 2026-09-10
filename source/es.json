@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Datos compartidos con el servidor",
     "settings_sync_off_notifications_warning": "TigerSync está desactivado. Las notificaciones push y Live Updates no están disponibles.",
     "settings_sync_toggle_label": "Activar TigerSync"
-  }
+  },
+  "backend": {}
 }

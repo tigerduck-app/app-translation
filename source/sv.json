@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Data delad med servern",
     "settings_sync_off_notifications_warning": "TigerSync är avstängd. Apple-enheter förlitar sig på TigerDuck-servern för att ta emot aviseringar. Tryck för mer information.",
     "settings_sync_toggle_label": "Aktivera TigerSync"
-  }
+  },
+  "backend": {}
 }

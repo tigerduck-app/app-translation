@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Dati condivisi con il server",
     "settings_sync_off_notifications_warning": "TigerSync è disattivato. I dispositivi Apple dipendono dal server TigerDuck per ricevere le notifiche. Tocca per maggiori informazioni.",
     "settings_sync_toggle_label": "Attiva TigerSync"
-  }
+  },
+  "backend": {}
 }

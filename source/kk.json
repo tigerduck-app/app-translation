@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Сервермен бөлісілген деректер",
     "settings_sync_off_notifications_warning": "TigerSync өшірулі. Apple құрылғылары хабарландырулар алу үшін TigerDuck серверіне тәуелді. Қосымша ақпарат үшін түртіңіз.",
     "settings_sync_toggle_label": "TigerSyncды қосу"
-  }
+  },
+  "backend": {}
 }

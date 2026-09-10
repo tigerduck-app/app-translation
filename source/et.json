@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Serveriga jagatud andmed",
     "settings_sync_off_notifications_warning": "TigerSync on välja lülitatud. Apple'i seadmed sõltuvad TigerDuck serverist teavituste saamiseks. Puuduta lisateabe saamiseks.",
     "settings_sync_toggle_label": "Luba TigerSync"
-  }
+  },
+  "backend": {}
 }

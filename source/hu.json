@@ -904,5 +904,6 @@
     "settings_sync_data_section": "A szerverrel megosztott adatok",
     "settings_sync_off_notifications_warning": "A TigerSync ki van kapcsolva. Az Apple eszközök a TigerDuck szerverre támaszkodnak az értesítések fogadásához. Érintsd meg a további információkért.",
     "settings_sync_toggle_label": "TigerSync engedélyezése"
-  }
+  },
+  "backend": {}
 }

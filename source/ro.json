@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Date partajate cu serverul",
     "settings_sync_off_notifications_warning": "TigerSync este dezactivat. Dispozitivele Apple se bazează pe serverul TigerDuck pentru primirea notificărilor. Atingeți pentru mai multe informații.",
     "settings_sync_toggle_label": "Activare TigerSync"
-  }
+  },
+  "backend": {}
 }

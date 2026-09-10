@@ -904,5 +904,6 @@
     "settings_sync_data_section": "سرور کے ساتھ شیئر کیا گیا ڈیٹا",
     "settings_sync_off_notifications_warning": "TigerSync بند ہے۔ Apple آلات اطلاعات حاصل کرنے کے لیے TigerDuck بیک اینڈ پر انحصار کرتے ہیں۔ مزید معلومات کے لیے ٹیپ کریں۔",
     "settings_sync_toggle_label": "TigerSync چالو کریں"
-  }
+  },
+  "backend": {}
 }

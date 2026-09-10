@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Gegevens gedeeld met de server",
     "settings_sync_off_notifications_warning": "TigerSync is uitgeschakeld. Apple-apparaten zijn afhankelijk van de TigerDuck-server voor het ontvangen van meldingen. Tik voor meer informatie.",
     "settings_sync_toggle_label": "TigerSync inschakelen"
-  }
+  },
+  "backend": {}
 }

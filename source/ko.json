@@ -904,5 +904,6 @@
     "settings_sync_data_section": "서버와 공유되는 데이터",
     "settings_sync_off_notifications_warning": "TigerSync가 꺼져 있습니다. 푸시 알림과 Live Updates를 사용할 수 없습니다.",
     "settings_sync_toggle_label": "TigerSync 켜기"
-  }
+  },
+  "backend": {}
 }

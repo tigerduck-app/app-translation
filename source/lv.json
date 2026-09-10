@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Ar serveri koplietotie dati",
     "settings_sync_off_notifications_warning": "TigerSync ir izslēgta. Apple ierīces paļaujas uz TigerDuck serveri, lai saņemtu paziņojumus. Pieskarieties, lai uzzinātu vairāk.",
     "settings_sync_toggle_label": "Ieslēgt TigerSync"
-  }
+  },
+  "backend": {}
 }

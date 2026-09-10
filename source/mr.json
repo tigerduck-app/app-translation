@@ -904,5 +904,6 @@
     "settings_sync_data_section": "सर्व्हरसोबत शेअर केलेला डेटा",
     "settings_sync_off_notifications_warning": "TigerSync बंद आहे. Apple डिव्हाइसेसना सूचना मिळवण्यासाठी TigerDuck बॅकएंडवर अवलंबून आहे. अधिक माहितीसाठी टॅप करा.",
     "settings_sync_toggle_label": "TigerSync चालू करा"
-  }
+  },
+  "backend": {}
 }

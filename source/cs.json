@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Data sdílená se serverem",
     "settings_sync_off_notifications_warning": "TigerSync je vypnutá. Zařízení Apple se spoléhají na server TigerDuck pro příjem oznámení. Klepněte pro více informací.",
     "settings_sync_toggle_label": "Zapnout TigerSync"
-  }
+  },
+  "backend": {}
 }

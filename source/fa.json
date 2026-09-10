@@ -904,5 +904,6 @@
     "settings_sync_data_section": "داده‌های به اشتراک گذاشته شده با سرور",
     "settings_sync_off_notifications_warning": "TigerSync خاموش است. دستگاه‌های Apple برای دریافت اعلان‌ها به سرور TigerDuck وابسته هستند. برای اطلاعات بیشتر لمس کنید.",
     "settings_sync_toggle_label": "فعال‌سازی TigerSync"
-  }
+  },
+  "backend": {}
 }

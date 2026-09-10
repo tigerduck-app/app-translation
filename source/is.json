@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Gögn deild með þjóninum",
     "settings_sync_off_notifications_warning": "TigerSync er slökkt. Apple tæki reiða sig á TigerDuck netþjón til að fá tilkynningar. Ýttu til að fá frekari upplýsingar.",
     "settings_sync_toggle_label": "Kveikja á TigerSync"
-  }
+  },
+  "backend": {}
 }

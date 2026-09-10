@@ -6,6 +6,7 @@ This repo is the source of truth: `source/<locale>.json`.
 Outputs:
 - `generated/android/values-*/strings.xml`
 - `generated/apple/<locale>.lproj/Localizable.strings`
+- `generated/backend/<locale>.json`
 
 Generation is config-driven via `config/locales.json`.
 """
@@ -67,10 +68,17 @@ def _load_json_ordered(path: Path) -> OrderedDict:
 
 
 # Source schema is grouped: each source/<locale>.json has top-level keys
-# "shared", "android", "apple". Each group maps key -> value. The Android
-# bundle gets shared ∪ android; the Apple bundle gets shared ∪ apple.
+# "shared", "android", "apple", "backend". Each group maps key -> value.
+# The Android bundle gets shared ∪ android; the Apple bundle gets
+# shared ∪ apple; the backend bundle gets shared ∪ backend.
 # Keys must be unique across groups within a locale.
-SOURCE_GROUPS: tuple[str, ...] = ("shared", "android", "apple")
+#
+# `backend` holds strings only tigerduck-backend renders — push notification
+# copy it composes itself. They never reach an app bundle. `shared` still
+# flows into the backend bundle because copy such as the assignment reminder
+# wording is rendered by both the Android client and the server, and a key
+# may only live in one group.
+SOURCE_GROUPS: tuple[str, ...] = ("shared", "android", "apple", "backend")
 
 
 def _flatten_for_platform(grouped: OrderedDict, platform: str) -> OrderedDict[str, str]:
@@ -96,7 +104,7 @@ def _validate_grouped_source(locale: str, grouped: OrderedDict) -> None:
     # is NOT allowed is a key in `shared` together with a platform group, which
     # would let the platform value silently shadow the shared one.
     shared_keys = set(grouped.get("shared", {}).keys())
-    for platform in ("android", "apple"):
+    for platform in ("android", "apple", "backend"):
         clash = shared_keys & set(grouped.get(platform, {}).keys())
         if clash:
             key = sorted(clash)[0]
@@ -316,6 +324,9 @@ def generate(*, validate_only: bool) -> None:
     apple_flat: dict[str, OrderedDict[str, str]] = {
         loc: _flatten_for_platform(grouped, "apple") for loc, grouped in sources.items()
     }
+    backend_flat: dict[str, OrderedDict[str, str]] = {
+        loc: _flatten_for_platform(grouped, "backend") for loc, grouped in sources.items()
+    }
 
     android_extras: list[str] = []
     apple_extras: list[str] = []
@@ -361,6 +372,12 @@ def generate(*, validate_only: bool) -> None:
                 f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
         out_path = GENERATED_DIR / "apple" / f"{out_locale}.lproj" / "Localizable.strings"
         content = _render_apple_strings(apple_flat[base_locale])
+        _atomic_write_text(out_path, content)
+
+    # backend
+    for locale, flat in sorted(backend_flat.items()):
+        out_path = GENERATED_DIR / "backend" / f"{locale}.json"
+        content = json.dumps(flat, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
         _atomic_write_text(out_path, content)
 
 

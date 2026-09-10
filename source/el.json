@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Δεδομένα που μοιράζονται με τον διακομιστή",
     "settings_sync_off_notifications_warning": "Το TigerSync είναι απενεργοποιημένο. Οι συσκευές Apple βασίζονται στον διακομιστή TigerDuck για λήψη ειδοποιήσεων. Πατήστε για περισσότερες πληροφορίες.",
     "settings_sync_toggle_label": "Ενεργοποίηση TigerSync"
-  }
+  },
+  "backend": {}
 }

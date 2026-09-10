@@ -904,5 +904,6 @@
     "settings_sync_data_section": "సర్వర్‌తో షేర్ చేసిన డేటా",
     "settings_sync_off_notifications_warning": "TigerSync ఆఫ్‌లో ఉంది. Apple పరికరాలు నోటిఫికేషన్‌లు అందుకోవడానికి TigerDuck బ్యాకెండ్‌పై ఆధారపడతాయి. మరిన్ని వివరాలకు ట్యాప్ చేయండి.",
     "settings_sync_toggle_label": "TigerSync ప్రారంభించండి"
-  }
+  },
+  "backend": {}
 }

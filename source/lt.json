@@ -904,5 +904,6 @@
     "settings_sync_data_section": "Duomenys, bendrinti su serveriu",
     "settings_sync_off_notifications_warning": "TigerSync išjungtas. Apple įrenginiai priklauso nuo TigerDuck serverio pranešimams gauti. Palieskite daugiau informacijos.",
     "settings_sync_toggle_label": "Įjungti TigerSync"
-  }
+  },
+  "backend": {}
 }
