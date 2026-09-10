@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Өшірілгенде құлыптау экранында тек «Хабарландыру жасырылған» сияқты орын басушы мәтін көрсетіледі. Қоссаңыз да нәтиже болмаса, жүйе параметрлерінде осы хабарландыру түрін құлыптау экранында рұқсат етіңіз.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минут";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Нақты уақыттағы әрекет";
 "live_activity_settings_range_hours" = "Ауқым: %1$d – %2$d сағат";
 "live_activity_settings_range_min_to_hours" = "Ауқым: %1$d мин – %2$d сағат";
 "live_activity_settings_range_minutes" = "Ауқым: %1$d – %2$d минут";

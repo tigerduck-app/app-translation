@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Kad je onemogućeno, zaključani zaslon prikazuje samo tekst poput „Obavijest skrivena“. Ako omogućavanje i dalje nema učinka, dopustite ovaj tip obavijesti na zaključanom zaslonu u postavkama sustava.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minute";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Aktivnost uživo";
 "live_activity_settings_range_hours" = "Raspon: %1$d – %2$d sati";
 "live_activity_settings_range_min_to_hours" = "Raspon: %1$d min – %2$d sati";
 "live_activity_settings_range_minutes" = "Raspon: %1$d – %2$d minuta";

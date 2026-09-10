@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Когато е деактивирано, заключеният екран показва само текст-заместител като „Известието е скрито“. Ако активирането все още няма ефект, разрешете този вид известия на заключения екран в системните настройки.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минути";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Активност на живо";
 "live_activity_settings_range_hours" = "Диапазон: %1$d – %2$d часа";
 "live_activity_settings_range_min_to_hours" = "Диапазон: %1$d мин – %2$d часа";
 "live_activity_settings_range_minutes" = "Диапазон: %1$d – %2$d минути";

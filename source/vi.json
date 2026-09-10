@@ -885,7 +885,7 @@
     "live_activity_settings_enable": "Bật hoạt động trực tiếp",
     "live_activity_settings_enable_toggle": "Bật Live Activity",
     "live_activity_settings_footer": "Hiển thị lớp hiện tại và bài tập trên Màn hình khóa hoặc Dynamic Island.",
-    "live_activity_settings_nav_title": "Live Activity",
+    "live_activity_settings_nav_title": "Hoạt động trực tiếp",
     "live_activity_settings_reset_confirm_title": "Đặt lại tất cả cài đặt hoạt động trực tiếp?",
     "live_activity_settings_sound_hint": "Âm báo chỉ phát khi vào tình huống lần đầu; các cập nhật đếm ngược sau đó sẽ im lặng. Để điều chỉnh âm lượng hoặc chế độ Không làm phiền, hãy thay đổi kênh thông báo \"Hoạt động trực tiếp\" trong cài đặt hệ thống.",
     "live_activity_status_assignment_short": "Bài tập",

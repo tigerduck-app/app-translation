@@ -697,7 +697,7 @@
 "settings_official_website" = "Oficiální web";
 "settings_open_source_licenses" = "Open-source licence";
 "settings_privacy_policy" = "Zásady ochrany osobních údajů";
-"settings_push_server_nav_label" = "Server push";
+"settings_push_server_nav_label" = "Push ze serveru";
 "settings_remember_bulletin_filter" = "Pamatujte na filtry bulletinů";
 "settings_reset_course_colors" = "Znovu přiřadit barvy kurzů";
 "settings_reset_course_colors_confirm_message" = "Každý kurz dostane novou jedinečnou barvu — nejprve z přednastavené palety, po vyčerpání náhodně.";

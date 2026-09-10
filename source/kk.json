@@ -885,7 +885,7 @@
     "live_activity_settings_enable": "Тікелей белсенділікті қосу",
     "live_activity_settings_enable_toggle": "Live Activity қосу",
     "live_activity_settings_footer": "Құлыптау экранында немесе Dynamic Island-та ағымдағы сабақты және тапсырмаларды көрсетеді.",
-    "live_activity_settings_nav_title": "Live Activity",
+    "live_activity_settings_nav_title": "Нақты уақыттағы әрекет",
     "live_activity_settings_reset_confirm_title": "Барлық тікелей белсенділік параметрлерін қалпына келтіру керек пе?",
     "live_activity_settings_sound_hint": "Дыбыс сценарийге алғаш рет кіргенде ғана ойналады; кейінгі кері санау жаңартулары үнсіз болады. Дыбыс деңгейін немесе «Мазаламаңыз» режимін реттеу үшін жүйе параметрлеріндегі «Тікелей белсенділік» хабарландыру арнасын өзгертіңіз.",
     "live_activity_status_assignment_short": "Тапсырма",

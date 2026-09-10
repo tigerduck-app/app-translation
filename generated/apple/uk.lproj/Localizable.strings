@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Якщо вимкнено, на екрані блокування буде лише замінний текст на кшталт «Сповіщення приховано». Якщо ввімкнення не дає ефекту, дозвольте цей тип сповіщень на екрані блокування в системних налаштуваннях.";
 "live_activity_settings_minutes_label" = "%1$d хв";
 "live_activity_settings_minutes_unit" = "Хвилини";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Дія наживо";
 "live_activity_settings_range_hours" = "Діапазон: %1$d – %2$d годин";
 "live_activity_settings_range_min_to_hours" = "Діапазон: %1$d хв – %2$d годин";
 "live_activity_settings_range_minutes" = "Діапазон: %1$d – %2$d хвилин";

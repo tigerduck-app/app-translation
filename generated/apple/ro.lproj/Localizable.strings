@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Când este dezactivat, ecranul de blocare afișează doar text placeholder precum „Notificare ascunsă“. Dacă activarea nu are efect, permite acest tip de notificare pe ecranul de blocare în setările sistemului.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minute";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Activitate live";
 "live_activity_settings_range_hours" = "Interval: %1$d – %2$d ore";
 "live_activity_settings_range_min_to_hours" = "Interval: %1$d min – %2$d ore";
 "live_activity_settings_range_minutes" = "Interval: %1$d – %2$d minute";

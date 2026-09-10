@@ -885,7 +885,7 @@
     "live_activity_settings_enable": "Aktifkan aktivitas langsung",
     "live_activity_settings_enable_toggle": "Aktifkan Live Activity",
     "live_activity_settings_footer": "Menampilkan kelas saat ini dan tugas di Layar Kunci atau Dynamic Island.",
-    "live_activity_settings_nav_title": "Live Activity",
+    "live_activity_settings_nav_title": "Aktivitas Langsung",
     "live_activity_settings_reset_confirm_title": "Setel ulang semua pengaturan aktivitas langsung?",
     "live_activity_settings_sound_hint": "Suara hanya berbunyi saat memasuki skenario untuk pertama kali; pembaruan hitung mundur berikutnya tetap senyap. Untuk mengatur volume atau perilaku Jangan Ganggu, ubah saluran notifikasi \"Aktivitas langsung\" di pengaturan sistem.",
     "live_activity_status_assignment_short": "Tugas",

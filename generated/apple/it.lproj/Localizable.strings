@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Quando disabilitato, la schermata di blocco mostra solo testo segnaposto come \"Notifica nascosta\". Se l'attivazione non ha alcun effetto, consenti questo tipo di notifica sulla schermata di blocco nelle impostazioni di sistema.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minuti";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Attività in tempo reale";
 "live_activity_settings_range_hours" = "Intervallo: %1$d – %2$d ore";
 "live_activity_settings_range_min_to_hours" = "Intervallo: %1$d min – %2$d ore";
 "live_activity_settings_range_minutes" = "Intervallo: %1$d – %2$d minuti";

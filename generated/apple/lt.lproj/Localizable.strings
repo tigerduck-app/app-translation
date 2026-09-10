@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Kai išjungta, užrakinimo ekrane rodomas tik vietos rezervavimo tekstas, pvz., \"Pranešimas paslėptas\". Jei įjungus vis tiek nėra efekto, leiskite šio tipo pranešimus užrakinimo ekrane sistemos nustatymuose.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minutės";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Tiesioginė veikla";
 "live_activity_settings_range_hours" = "Diapazonas: %1$d – %2$d valandos";
 "live_activity_settings_range_min_to_hours" = "Diapazonas: %1$d min – %2$d val";
 "live_activity_settings_range_minutes" = "Diapazonas: %1$d – %2$d minutės";

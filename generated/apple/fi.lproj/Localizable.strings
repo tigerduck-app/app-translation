@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Kun poistettu käytöstä, lukitusnäyttö näyttää vain paikkamerkkitekstin kuten \"Ilmoitus piilotettu\". Jos käyttöönotto ei vielä vaikuta, salli tämä ilmoitustyyppi lukitusnäytöllä järjestelmäasetuksissa.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minuuttia";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Liveseuranta";
 "live_activity_settings_range_hours" = "Alue: %1$d – %2$d tuntia";
 "live_activity_settings_range_min_to_hours" = "Alue: %1$d min – %2$d tuntia";
 "live_activity_settings_range_minutes" = "Alue: %1$d – %2$d minuuttia";

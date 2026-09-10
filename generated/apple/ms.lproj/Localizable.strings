@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Apabila dilumpuhkan, skrin kunci hanya menunjukkan teks pemegang tempat seperti \"Pemberitahuan tersembunyi\". Jika mengaktifkan masih tiada kesan, benarkan jenis pemberitahuan ini pada skrin kunci dalam tetapan sistem.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minit";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Aktiviti Langsung";
 "live_activity_settings_range_hours" = "Julat: %1$d – %2$d jam";
 "live_activity_settings_range_min_to_hours" = "Julat: %1$d min – %2$d jam";
 "live_activity_settings_range_minutes" = "Julat: %1$d – %2$d minit";

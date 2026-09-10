@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "ഓഫ് ആക്കുമ്പോൾ, ലോക്ക് സ്ക്രീനിൽ \"അറിയിപ്പ് മറഞ്ഞിരിക്കുന്നു\" എന്ന placeholder ടെക്‌സ്‌റ്റ് മാത്രം കാണിക്കും. ഓൺ ആക്കിയിട്ടും ഫലമില്ലെങ്കിൽ, സിസ്റ്റം ക്രമീകരണങ്ങളിൽ ലോക്ക് സ്ക്രീൻ അറിയിപ്പ് തരം അനുവദിക്കുക.";
 "live_activity_settings_minutes_label" = "%1$d മിനിറ്റ്";
 "live_activity_settings_minutes_unit" = "മിനിറ്റ്";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "തത്സമയ പ്രവർത്തനം";
 "live_activity_settings_range_hours" = "ശ്രേണി: %1$d – %2$d മണിക്കൂർ";
 "live_activity_settings_range_min_to_hours" = "ശ്രേണി: %1$d മിനിറ്റ് – %2$d മണിക്കൂർ";
 "live_activity_settings_range_minutes" = "ശ്രേണി: %1$d – %2$d മിനിറ്റ്";

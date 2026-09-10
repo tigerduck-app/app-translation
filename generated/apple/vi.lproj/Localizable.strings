@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Khi tắt, màn hình khóa chỉ hiển thị văn bản tạm như \"Thông báo bị ẩn\". Nếu bật mà vẫn không có hiệu lực, hãy cho phép loại thông báo này hiển thị trên màn hình khóa trong cài đặt hệ thống.";
 "live_activity_settings_minutes_label" = "%1$d phút";
 "live_activity_settings_minutes_unit" = "Phút";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Hoạt động trực tiếp";
 "live_activity_settings_range_hours" = "Phạm vi: %1$d – %2$d giờ";
 "live_activity_settings_range_min_to_hours" = "Phạm vi: %1$d phút – %2$d giờ";
 "live_activity_settings_range_minutes" = "Phạm vi: %1$d – %2$d phút";

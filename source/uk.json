@@ -885,7 +885,7 @@
     "live_activity_settings_enable": "Увімкнути живу активність",
     "live_activity_settings_enable_toggle": "Увімкнути Live Activity",
     "live_activity_settings_footer": "Показує поточний урок і завдання на екрані блокування або Dynamic Island.",
-    "live_activity_settings_nav_title": "Live Activity",
+    "live_activity_settings_nav_title": "Дія наживо",
     "live_activity_settings_reset_confirm_title": "Скинути всі налаштування живої активності?",
     "live_activity_settings_sound_hint": "Звук відтворюється лише при першому вході в сценарій; подальші оновлення зворотного відліку залишаються беззвучними. Щоб налаштувати гучність або режим «Не турбувати», змініть канал сповіщень «Жива активність» у системних налаштуваннях.",
     "live_activity_status_assignment_short": "Завдання",

@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "بند ہونے پر لاک اسکرین صرف \"اطلاع چھپی ہوئی ہے\" جیسا متن دکھاتی ہے۔ اگر فعال کرنے کے باوجود اثر نہ ہو تو سسٹم ترتیبات میں اس اطلاع قسم کو لاک اسکرین پر اجازت دیں۔";
 "live_activity_settings_minutes_label" = "%1$d منٹ";
 "live_activity_settings_minutes_unit" = "منٹ";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "لائیو سرگرمی";
 "live_activity_settings_range_hours" = "رینج: %1$d – %2$d گھنٹے";
 "live_activity_settings_range_min_to_hours" = "رینج: %1$d منٹ – %2$d گھنٹے";
 "live_activity_settings_range_minutes" = "رینج: %1$d – %2$d منٹ";

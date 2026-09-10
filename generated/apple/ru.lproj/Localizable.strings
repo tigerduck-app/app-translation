@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Если отключено, на экране блокировки отображается только текст-заглушка вроде «Уведомление скрыто». Если включение не помогает, разрешите этот тип уведомлений на экране блокировки в системных настройках.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минуты";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Эфир активности";
 "live_activity_settings_range_hours" = "Диапазон: %1$d – %2$d часов";
 "live_activity_settings_range_min_to_hours" = "Диапазон: %1$d мин – %2$d часов";
 "live_activity_settings_range_minutes" = "Диапазон: %1$d – %2$d минут";
@@ -697,7 +697,7 @@
 "settings_official_website" = "Официальный сайт";
 "settings_open_source_licenses" = "Лицензии открытого кода";
 "settings_privacy_policy" = "Политика конфиденциальности";
-"settings_push_server_nav_label" = "Server push";
+"settings_push_server_nav_label" = "Серверный push";
 "settings_remember_bulletin_filter" = "Запомнить фильтры бюллетеней";
 "settings_reset_course_colors" = "Переназначить цвета курсов";
 "settings_reset_course_colors_confirm_message" = "Каждому курсу будет назначен новый уникальный цвет — сначала из палитры, затем случайно, когда палитра исчерпана.";

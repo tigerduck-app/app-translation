@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "Ko je onemogočeno, zaklenjen zaslon prikaže samo besedilo nadomestnega mesta, kot je »Obvestilo skrito«. Če omogočitev nima učinka, dovolite to vrsto obvestila na zaklenjenem zaslonu v sistemskih nastavitvah.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minute";
-"live_activity_settings_nav_title" = "Live Activity";
+"live_activity_settings_nav_title" = "Aktivnost v živo";
 "live_activity_settings_range_hours" = "Območje: %1$d – %2$d ur";
 "live_activity_settings_range_min_to_hours" = "Območje: %1$d min – %2$d ur";
 "live_activity_settings_range_minutes" = "Območje: %1$d – %2$d minut";

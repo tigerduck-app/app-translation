@@ -196,7 +196,7 @@
 "cloud_sync_last_synced_never" = "Nog niet gesynchroniseerd";
 "cloud_sync_privacy_body" = "Wanneer TigerSync is ingeschakeld, worden je schoolsysteemwachtwoord en Moodle-token versleuteld en geüpload naar de TigerDuck-server, waar ze worden gebruikt om periodiek Moodle-opdrachten op te halen namens jou en om roosterwijzigingen, opdrachtstatussen en instellingen te synchroniseren tussen je apparaten.\n\nJe kunt TigerSync op elk moment uitschakelen. Uitschakelen logt dit apparaat uit en trekt de registratie op de server in (inclusief push-inloggegevens); geüploade accountgegevens blijven alleen op de server zolang andere gesynchroniseerde apparaten ze gebruiken. Lokale gegevens worden niet beïnvloed.";
 "cloud_sync_privacy_confirm" = "Akkoord en inschakelen";
-"cloud_sync_privacy_title" = "TigerSync & Privacy";
+"cloud_sync_privacy_title" = "TigerSync en privacy";
 "cloud_sync_reauth_button" = "Opnieuw inschakelen";
 "cloud_sync_reauth_session_missing" = "TigerSync moet opnieuw ingeschakeld worden";
 "cloud_sync_reauth_session_revoked" = "Je sessie is verlopen — schakel opnieuw in";
