@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Her ders başlamadan önce hatırlatma gönderir",
     "notification_class_preparing_channel_name": "Ders başlangıç hatırlatıcıları",
     "notification_setup_description": "Aşağıdaki izinleri etkinleştirerek ödev hatırlatıcılarının, ders başlangıç uyarılarının ve canlı güncellemelerin uygulama kapalıyken bile zamanında ulaşmasını sağlayın.",
+    "notification_system_channel_description": "İlginizi gerektiren hesap ve eşitleme sorunları",
+    "notification_system_channel_name": "Sistem bildirimleri",
     "onboarding_flavor_fdroid_description": "F-Droid sürümünü kullanıyorsunuz. F-Droid politikası Google hizmetlerine (Firebase FCM, GMS vb.) bağımlılığa izin vermediği için bu sürümde aşağıdaki iki özellik kullanılamaz:\n\n1. Wear OS eşlik uygulaması\n2. Gerçek zamanlı push duyuruları",
     "onboarding_flavor_fdroid_title": "F-Droid sürümü hakkında bilgi",
     "onboarding_flavor_play_description": "TigerDuck bir Wear OS eşlik uygulaması içerir. Ders mesajlarını saatinizden görüntüleyin — Wear TigerDuck telefonunuzdaki bilgileri eşitler.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync kapalı. Push bildirimleri ve Canlı Güncellemeler kullanılamaz.",
     "settings_sync_toggle_label": "TigerSync'i etkinleştir"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Moodle bağlantısının süresi doldu. Eşitlemenin devam etmesi için TigerDuck uygulamasını açıp yeniden giriş yapın.",
+    "notification_reauth_required_title": "Arka plan eşitlemesi duraklatıldı"
+  }
 }

@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "సర్వర్ నోటిఫికేషన్‌లు (శబ్దం)",
   "notification_class_preparing_content_fallback": "తరగతి మొదలవబోతుంది",
   "notification_class_preparing_title": "తరగతి త్వరలో మొదలవుతుంది: %1$s",
+  "notification_reauth_required_body": "Moodle కనెక్షన్ గడువు ముగిసింది. సింక్ మళ్లీ కొనసాగడానికి TigerDuck తెరిచి మళ్లీ సైన్ ఇన్ చేయండి.",
+  "notification_reauth_required_title": "బ్యాక్‌గ్రౌండ్ సింక్ ఆగిపోయింది",
   "notification_setup_title": "నోటిఫికేషన్లు తిరిగి సెట్ చేయండి",
   "onboarding_analytics_description": "అనామక పేజీ సందర్శనలు మరియు విజెట్ వినియోగాన్ని పంచుకుని TigerDuck మెరుగుపరచడంలో సహాయపడండి. మీరు ఇది ఎప్పుడైనా సెట్టింగ్‌లలో మార్చవచ్చు.",
   "onboarding_analytics_label": "వినియోగ విశ్లేషణ (ఐచ్ఛికం)",

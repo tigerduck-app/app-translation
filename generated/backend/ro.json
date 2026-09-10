@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Notificări server (cu sunet)",
   "notification_class_preparing_content_fallback": "Cursul este pe cale să înceapă",
   "notification_class_preparing_title": "Curs începe în curând: %1$s",
+  "notification_reauth_required_body": "Conexiunea cu Moodle a expirat. Deschideți TigerDuck și autentificați-vă din nou pentru a relua sincronizarea.",
+  "notification_reauth_required_title": "Sincronizarea în fundal este întreruptă",
   "notification_setup_title": "Reconfigurează notificările",
   "onboarding_analytics_description": "Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări.",
   "onboarding_analytics_label": "Analiză utilizare (opțional)",

@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "伺服器通知（聲音）",
   "notification_class_preparing_content_fallback": "課程即將開始",
   "notification_class_preparing_title": "即將上課：%1$s",
+  "notification_reauth_required_body": "與 Moodle 的連線已過期，開啟 TigerDuck 重新登入即可恢復同步。",
+  "notification_reauth_required_title": "背景同步已暫停",
   "notification_setup_title": "重新設定通知",
   "onboarding_analytics_description": "分享匿名的頁面瀏覽和小工具使用資料，協助改善 TigerDuck。你可以隨時在設定中更改。",
   "onboarding_analytics_label": "使用分析（選填）",

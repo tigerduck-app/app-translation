@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Serverová oznámení (se zvukem)",
   "notification_class_preparing_content_fallback": "Hodina brzy začne",
   "notification_class_preparing_title": "Hodina brzy začne: %1$s",
+  "notification_reauth_required_body": "Platnost připojení k Moodle vypršela. Otevřete TigerDuck a znovu se přihlaste, aby se synchronizace obnovila.",
+  "notification_reauth_required_title": "Synchronizace na pozadí je pozastavena",
   "notification_setup_title": "Znovu nastavit oznámení",
   "onboarding_analytics_description": "Pomoz nám vylepšit TigerDuck sdílením anonymních dat o navštívených stránkách a používání widgetů. Kdykoli to můžeš změnit v Nastavení.",
   "onboarding_analytics_label": "Analytika používání (volitelné)",

@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "喺每堂課開始前按設定時間發出提醒",
     "notification_class_preparing_channel_name": "就快上堂提醒",
     "notification_setup_description": "設定以下權限可確保功課提醒、就快上堂、最新即時資訊喺 App 關閉時都可以準時送達。",
+    "notification_system_channel_description": "需要你處理嘅帳號同埋同步問題",
+    "notification_system_channel_name": "系統通知",
     "onboarding_flavor_fdroid_description": "你裝嗰個係 F-Droid 版本。由於 F-Droid 商店規範唔可以用 Google 嘅各項服務（Firebase FCM、GMS 等等），所以以下兩項功能喺 F-Droid 版本（你而家用緊嘅）入面冇：\n\n1. Wear OS 應用程式\n2. 主動公告通知推送",
     "onboarding_flavor_fdroid_title": "F-Droid 版本說明",
     "onboarding_flavor_play_description": "本應用程式提供 Wear OS 應用程式，你可以喺手錶睇課堂訊息。手錶 TigerDuck 會同步手機資料。",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync 已關閉，推播通知同即時動態無法使用。",
     "settings_sync_toggle_label": "啟用 TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Moodle 嘅連線已經過期，打開 TigerDuck 重新登入就可以繼續同步。",
+    "notification_reauth_required_title": "背景同步已經暫停"
+  }
 }

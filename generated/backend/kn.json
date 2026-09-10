@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "ಸರ್ವರ್ ಅಧಿಸೂಚನೆಗಳು (ಧ್ವನಿ)",
   "notification_class_preparing_content_fallback": "ತರಗತಿ ಆರಂಭವಾಗಲಿದೆ",
   "notification_class_preparing_title": "ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ: %1$s",
+  "notification_reauth_required_body": "Moodle ಸಂಪರ್ಕದ ಅವಧಿ ಮುಗಿದಿದೆ. ಸಿಂಕ್ ಮುಂದುವರಿಯಲು TigerDuck ತೆರೆದು ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.",
+  "notification_reauth_required_title": "ಹಿನ್ನೆಲೆ ಸಿಂಕ್ ನಿಂತಿದೆ",
   "notification_setup_title": "ಅಧಿಸೂಚನೆಗಳನ್ನು ಮರುಸಂರಚಿಸಿ",
   "onboarding_analytics_description": "ಅನಾಮಧೇಯ ಪುಟ ಭೇಟಿಗಳು ಮತ್ತು ವಿಜೆಟ್ ಬಳಕೆ ಹಂಚಿಕೊಂಡು TigerDuck ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಿ. ನೀವು ಇದನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.",
   "onboarding_analytics_label": "ಬಳಕೆ ವಿಶ್ಲೇಷಣೆ (ಐಚ್ಛಿಕ)",

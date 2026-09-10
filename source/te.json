@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "ప్రతి తరగతి మొదలవడానికి ముందు రిమైండర్ పంపిస్తుంది",
     "notification_class_preparing_channel_name": "తరగతి ప్రారంభ రిమైండర్లు",
     "notification_setup_description": "అసైన్‌మెంట్ రిమైండర్లు, తరగతి హెచ్చరికలు మరియు Live Updates యాప్ మూసివేసినా సమయానికి వచ్చేలా కింది అనుమతులు ఆన్ చేయండి.",
+    "notification_system_channel_description": "మీ దృష్టి అవసరమైన అకౌంట్ మరియు సింక్ సమస్యలు",
+    "notification_system_channel_name": "సిస్టమ్ నోటిఫికేషన్లు",
     "onboarding_flavor_fdroid_description": "మీరు F-Droid బిల్డ్ ఉపయోగిస్తున్నారు. F-Droid విధానం Google సేవలపై (Firebase FCM, GMS మొదలైనవి) ఆధారపడడాన్ని అనుమతించదు కాబట్టి, ఈ బిల్డ్‌లో ఈ రెండు ఫీచర్లు అందుబాటులో లేవు:\n\n1. Wear OS సహచర యాప్\n2. రియల్-టైమ్ పుష్ ప్రకటనలు",
     "onboarding_flavor_fdroid_title": "F-Droid బిల్డ్ సూచన",
     "onboarding_flavor_play_description": "TigerDuckలో Wear OS సహచర యాప్ ఉంది. మీ గడియారంలో తరగతి సందేశాలను చూడండి — Wear TigerDuck మీ ఫోన్ నుండి సమాచారాన్ని సింక్ చేస్తుంది.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync ఆఫ్‌లో ఉంది. Apple పరికరాలు నోటిఫికేషన్‌లు అందుకోవడానికి TigerDuck బ్యాకెండ్‌పై ఆధారపడతాయి. మరిన్ని వివరాలకు ట్యాప్ చేయండి.",
     "settings_sync_toggle_label": "TigerSync ప్రారంభించండి"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Moodle కనెక్షన్ గడువు ముగిసింది. సింక్ మళ్లీ కొనసాగడానికి TigerDuck తెరిచి మళ్లీ సైన్ ఇన్ చేయండి.",
+    "notification_reauth_required_title": "బ్యాక్‌గ్రౌండ్ సింక్ ఆగిపోయింది"
+  }
 }

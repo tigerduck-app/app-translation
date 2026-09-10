@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Thông báo máy chủ (có âm thanh)",
   "notification_class_preparing_content_fallback": "Lớp học sắp bắt đầu",
   "notification_class_preparing_title": "Sắp vào lớp: %1$s",
+  "notification_reauth_required_body": "Kết nối với Moodle đã hết hạn. Mở TigerDuck và đăng nhập lại để tiếp tục đồng bộ.",
+  "notification_reauth_required_title": "Đã tạm dừng đồng bộ nền",
   "notification_setup_title": "Cài đặt lại thông báo",
   "onboarding_analytics_description": "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt.",
   "onboarding_analytics_label": "Phân tích sử dụng (tùy chọn)",

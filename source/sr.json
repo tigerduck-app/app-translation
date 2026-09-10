@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Шаље подсетнике пре почетка сваког часа",
     "notification_class_preparing_channel_name": "Подсетници за почетак часа",
     "notification_setup_description": "Омогућите следеће дозволе да бисте осигурали да подсетници за задатке, упозорења о почетку часа и новости уживо стижу на вријеме чак и кад је апликација затворена.",
+    "notification_system_channel_description": "Проблеми са налогом и синхронизацијом који захтевају Вашу пажњу",
+    "notification_system_channel_name": "Системска обавештења",
     "onboarding_flavor_fdroid_description": "Користите F-Droid верзију. Пошто F-Droid политика забрањује ослањање на Google услуге (Firebase FCM, GMS итд.), следеће две функције нису доступне у овој верзији:\n\n1. Пратећа Wear OS апликација\n2. Push обавештења у реалном времену",
     "onboarding_flavor_fdroid_title": "Обавештење о F-Droid верзији",
     "onboarding_flavor_play_description": "TigerDuck укључује пратећу Wear OS апликацију. Прегледајте поруке са наставе на сату — Wear TigerDuck синхронизује информације са вашег телефона.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync је искључена. Apple уређаји се ослањају на TigerDuck сервер за пријем обавештења. Додирните за више информација.",
     "settings_sync_toggle_label": "Укључи TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Веза са услугом Moodle је истекла. Отворите TigerDuck и поново се пријавите да би се синхронизација наставила.",
+    "notification_reauth_required_title": "Синхронизација у позадини је заустављена"
+  }
 }

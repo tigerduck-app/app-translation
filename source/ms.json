@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Menghantar peringatan sebelum setiap kelas bermula",
     "notification_class_preparing_channel_name": "Peringatan kelas akan bermula",
     "notification_setup_description": "Aktifkan kebenaran di bawah untuk memastikan peringatan tugasan, amaran kelas akan bermula, dan Kemaskinian Langsung tiba tepat pada masanya walaupun aplikasi ditutup.",
+    "notification_system_channel_description": "Masalah akaun dan penyegerakan yang memerlukan perhatian anda",
+    "notification_system_channel_name": "Pemberitahuan sistem",
     "onboarding_flavor_fdroid_description": "Anda menggunakan binaan F-Droid. Oleh sebab dasar F-Droid melarang pergantungan pada perkhidmatan Google (Firebase FCM, GMS, dll.), dua ciri berikut tidak tersedia dalam binaan ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan tolak masa nyata",
     "onboarding_flavor_fdroid_title": "Notis binaan F-Droid",
     "onboarding_flavor_play_description": "TigerDuck merangkumi pendamping Wear OS. Lihat mesej kelas pada jam tangan anda — Wear TigerDuck menyegerakkan maklumat dari telefon anda.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync dimatikan. Peranti Apple bergantung pada pelayan TigerDuck untuk menerima pemberitahuan. Ketik untuk maklumat lanjut.",
     "settings_sync_toggle_label": "Aktifkan TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Sambungan ke Moodle telah tamat tempoh. Buka TigerDuck dan log masuk semula untuk menyambung semula penyegerakan.",
+    "notification_reauth_required_title": "Penyegerakan latar belakang dijeda"
+  }
 }

@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Serveriteated (heliga)",
   "notification_class_preparing_content_fallback": "Tund on kohe algamas",
   "notification_class_preparing_title": "Tund algab varsti: %1$s",
+  "notification_reauth_required_body": "Ühendus teenusega Moodle on aegunud. Avage TigerDuck ja logige uuesti sisse, siis sünkroonimine jätkub.",
+  "notification_reauth_required_title": "Taustasünkroonimine on peatatud",
   "notification_setup_title": "Seadista teavitused uuesti",
   "onboarding_analytics_description": "Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta.",
   "onboarding_analytics_label": "Kasutusanalüütika (valikuline)",

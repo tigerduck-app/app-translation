@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Sends reminders before each class starts",
     "notification_class_preparing_channel_name": "Class preparing reminders",
     "notification_setup_description": "Enable the permissions below to ensure assignment reminders, class-preparing alerts, and Live Updates arrive on time even when the app is closed.",
+    "notification_system_channel_description": "Account and sync problems that need your attention",
+    "notification_system_channel_name": "System notifications",
     "onboarding_flavor_fdroid_description": "You're using the F-Droid build. Because F-Droid policy forbids depending on Google's services (Firebase FCM, GMS, etc.), the following two features are unavailable in this build:\n\n1. Wear OS companion app\n2. Real-time push announcements",
     "onboarding_flavor_fdroid_title": "F-Droid build notice",
     "onboarding_flavor_play_description": "TigerDuck includes a Wear OS companion. View class messages on your watch — Wear TigerDuck syncs information from your phone.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync is off. Apple devices rely on TigerDuck backend to receive notifications. Tap for more info.",
     "settings_sync_toggle_label": "Enable TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Your Moodle connection expired. Open TigerDuck and sign in again to resume syncing.",
+    "notification_reauth_required_title": "Background sync paused"
+  }
 }

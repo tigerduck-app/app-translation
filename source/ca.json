@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Envia recordatoris abans que comenci cada classe",
     "notification_class_preparing_channel_name": "Recordatoris de classe",
     "notification_setup_description": "Activeu els permisos següents per garantir que els recordatoris de tasques, les alertes de classe i les actualitzacions en temps real arribin a temps fins i tot quan l'aplicació estigui tancada.",
+    "notification_system_channel_description": "Problemes de compte i de sincronització que requereixen la vostra atenció",
+    "notification_system_channel_name": "Notificacions del sistema",
     "onboarding_flavor_fdroid_description": "Estàs utilitzant la versió F-Droid. Com que la política de F-Droid prohibeix dependre dels serveis de Google (Firebase FCM, GMS, etc.), les dues funcions següents no estan disponibles en aquesta versió:\n\n1. App acompanyant per a Wear OS\n2. Notificacions push en temps real",
     "onboarding_flavor_fdroid_title": "Avís de la versió F-Droid",
     "onboarding_flavor_play_description": "TigerDuck inclou una app acompanyant per a Wear OS. Mira els missatges de classe al teu rellotge — Wear TigerDuck sincronitza la informació del teu telèfon.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync està desactivat. Els dispositius Apple depenen del servidor de TigerDuck per rebre notificacions. Toca per a més informació.",
     "settings_sync_toggle_label": "Activar TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "La connexió amb Moodle ha caducat. Obriu TigerDuck i torneu a iniciar la sessió per reprendre la sincronització.",
+    "notification_reauth_required_title": "La sincronització en segon pla està aturada"
+  }
 }

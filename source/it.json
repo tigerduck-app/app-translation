@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Invia promemoria prima dell'inizio di ogni lezione",
     "notification_class_preparing_channel_name": "Promemoria preparazione lezioni",
     "notification_setup_description": "Abilita le autorizzazioni qui sotto per assicurarti che i promemoria dei compiti, gli avvisi di preparazione lezione e gli aggiornamenti in tempo reale arrivino in tempo anche quando l'app è chiusa.",
+    "notification_system_channel_description": "Problemi di account e sincronizzazione che richiedono la tua attenzione",
+    "notification_system_channel_name": "Notifiche di sistema",
     "onboarding_flavor_fdroid_description": "Stai usando la versione F-Droid. Poiché la policy di F-Droid vieta dipendenze dai servizi Google (Firebase FCM, GMS, ecc.), le seguenti due funzionalità non sono disponibili in questa versione:\n\n1. App companion per Wear OS\n2. Notifiche push in tempo reale",
     "onboarding_flavor_fdroid_title": "Avviso versione F-Droid",
     "onboarding_flavor_play_description": "TigerDuck include un'app companion per Wear OS. Visualizza i messaggi delle lezioni sul tuo orologio — Wear TigerDuck sincronizza le informazioni dal tuo telefono.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync è disattivato. I dispositivi Apple dipendono dal server TigerDuck per ricevere le notifiche. Tocca per maggiori informazioni.",
     "settings_sync_toggle_label": "Attiva TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "La connessione a Moodle è scaduta. Apri TigerDuck e accedi di nuovo per riprendere la sincronizzazione.",
+    "notification_reauth_required_title": "Sincronizzazione in background sospesa"
+  }
 }

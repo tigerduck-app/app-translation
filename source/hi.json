@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "हर कक्षा शुरू होने से पहले अनुस्मारक भेजता है",
     "notification_class_preparing_channel_name": "कक्षा तैयारी अनुस्मारक",
     "notification_setup_description": "नीचे दी गई अनुमतियाँ सक्षम करें ताकि असाइनमेंट अनुस्मारक, कक्षा तैयारी अलर्ट और लाइव अपडेट ऐप बंद होने पर भी समय पर आ सकें।",
+    "notification_system_channel_description": "खाते और सिंक से जुड़ी समस्याएँ, जिन पर आपका ध्यान ज़रूरी है",
+    "notification_system_channel_name": "सिस्टम नोटिफिकेशन",
     "onboarding_flavor_fdroid_description": "आप F-Droid बिल्ड का उपयोग कर रहे हैं। चूँकि F-Droid नीति Google की सेवाओं (Firebase FCM, GMS आदि) पर निर्भरता निषिद्ध करती है, इसलिए निम्नलिखित दो सुविधाएँ इस बिल्ड में उपलब्ध नहीं हैं:\n\n1. Wear OS साथी ऐप\n2. रीयल-टाइम पुश सूचनाएँ",
     "onboarding_flavor_fdroid_title": "F-Droid बिल्ड सूचना",
     "onboarding_flavor_play_description": "TigerDuck में Wear OS साथी ऐप शामिल है। अपनी घड़ी पर कक्षा संदेश देखें — Wear TigerDuck आपके फ़ोन से जानकारी सिंक करता है।",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync बंद है। Apple डिवाइस सूचनाएँ प्राप्त करने के लिए TigerDuck बैकएंड पर निर्भर हैं। अधिक जानकारी के लिए टैप करें।",
     "settings_sync_toggle_label": "TigerSync सक्षम करें"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Moodle से कनेक्शन समाप्त हो गया है। सिंक फिर से शुरू करने के लिए TigerDuck खोलें और दोबारा साइन इन करें।",
+    "notification_reauth_required_title": "बैकग्राउंड सिंक रुका हुआ है"
+  }
 }

@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Palvelimilmoitukset (äänellä)",
   "notification_class_preparing_content_fallback": "Tunti alkaa pian",
   "notification_class_preparing_title": "Tunti alkaa pian: %1$s",
+  "notification_reauth_required_body": "Moodle-yhteys on vanhentunut. Avaa TigerDuck ja kirjaudu uudelleen sisään, niin synkronointi jatkuu.",
+  "notification_reauth_required_title": "Taustasynkronointi on keskeytetty",
   "notification_setup_title": "Määritä ilmoitukset uudelleen",
   "onboarding_analytics_description": "Auta kehittämään TigerDuckia jakamalla anonyymejä sivuvierailuja ja widgetien käyttötietoja. Voit muuttaa tätä milloin tahansa Asetuksista.",
   "onboarding_analytics_label": "Käyttöanalytiikka (valinnainen)",

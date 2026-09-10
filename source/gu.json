@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "દરેક ક્લાસ શરૂ થાય તે પહેલાં રિમાઇન્ડર મોકલે છે",
     "notification_class_preparing_channel_name": "ક્લાસ તૈયારી રિમાઇન્ડર",
     "notification_setup_description": "નીચેની પરમિશન ચાલુ કરો જેથી App બંધ હોય ત્યારે પણ અસાઇનમેન્ટ રિમાઇન્ડર, ક્લાસ-તૈયારી એલર્ટ અને Live Updates સમયસર આવે.",
+    "notification_system_channel_description": "એકાઉન્ટ અને સિંક સંબંધિત સમસ્યાઓ, જેમાં તમારું ધ્યાન જરૂરી છે",
+    "notification_system_channel_name": "સિસ્ટમ નોટિફિકેશન",
     "onboarding_flavor_fdroid_description": "તમે F-Droid બિલ્ડ વાપરી રહ્યાં છો. F-Droidની નીતિ Googleની સેવાઓ (Firebase FCM, GMS વગેરે) પર નિર્ભર રહેવાની મંજૂરી આપતી નથી, તેથી નીચેની બે સુવિધાઓ આ બિલ્ડમાં ઉપલબ્ધ નથી:\n\n1. Wear OS સાથી એપ\n2. રિયલ-ટાઇમ પુશ સૂચનાઓ",
     "onboarding_flavor_fdroid_title": "F-Droid બિલ્ડ સૂચના",
     "onboarding_flavor_play_description": "TigerDuckમાં Wear OS સાથી શામેલ છે. તમારી ઘડી પર વર્ગના સંદેશા જુઓ — Wear TigerDuck તમારા ફોનની માહિતી સિંક કરે છે.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync બંધ છે. Apple ડિવાઇસ સૂચનાઓ મેળવવા TigerDuck બેકએન્ડ પર આધાર રાખે છે. વધુ માહિતી માટે ટેપ કરો.",
     "settings_sync_toggle_label": "TigerSync સક્ષમ કરો"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Moodle સાથેનું જોડાણ સમાપ્ત થઈ ગયું છે. સિંક ફરી શરૂ કરવા માટે TigerDuck ખોલીને ફરી સાઇન ઇન કરો.",
+    "notification_reauth_required_title": "બૅકગ્રાઉન્ડ સિંક અટકી ગયું છે"
+  }
 }

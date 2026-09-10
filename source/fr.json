@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Envoie un rappel avant le début de chaque cours",
     "notification_class_preparing_channel_name": "Rappels avant le cours",
     "notification_setup_description": "Activez les autorisations ci-dessous pour vous assurer que les rappels de devoirs, les alertes avant les cours et les mises à jour en temps réel arrivent à temps, même lorsque l'application est fermée.",
+    "notification_system_channel_description": "Problèmes de compte et de synchronisation qui nécessitent votre attention",
+    "notification_system_channel_name": "Notifications système",
     "onboarding_flavor_fdroid_description": "Vous utilisez la version F-Droid. La politique de F-Droid interdisant la dépendance aux services Google (Firebase FCM, GMS, etc.), les deux fonctionnalités suivantes ne sont pas disponibles dans cette version :\n\n1. Application compagnon Wear OS\n2. Notifications push en temps réel",
     "onboarding_flavor_fdroid_title": "Avis concernant la version F-Droid",
     "onboarding_flavor_play_description": "TigerDuck inclut une application compagnon Wear OS. Consultez les messages de cours sur votre montre — Wear TigerDuck synchronise les informations depuis votre téléphone.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync est désactivé. Les notifications push et Live Updates ne sont pas disponibles.",
     "settings_sync_toggle_label": "Activer TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "La connexion à Moodle a expiré. Ouvrez TigerDuck et reconnectez-vous pour reprendre la synchronisation.",
+    "notification_reauth_required_title": "La synchronisation en arrière-plan est suspendue"
+  }
 }

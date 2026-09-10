@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Αποστέλλει υπενθυμίσεις πριν από κάθε μάθημα",
     "notification_class_preparing_channel_name": "Υπενθυμίσεις έναρξης μαθήματος",
     "notification_setup_description": "Ενεργοποιήστε τις παρακάτω άδειες για να διασφαλίσετε ότι οι υπενθυμίσεις εργασιών, οι ειδοποιήσεις έναρξης μαθήματος και οι ενημερώσεις σε πραγματικό χρόνο παραδίδονται έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.",
+    "notification_system_channel_description": "Προβλήματα λογαριασμού και συγχρονισμού που χρειάζονται την προσοχή σας",
+    "notification_system_channel_name": "Ειδοποιήσεις συστήματος",
     "onboarding_flavor_fdroid_description": "Χρησιμοποιείτε την έκδοση F-Droid. Επειδή η πολιτική του F-Droid απαγορεύει την εξάρτηση από υπηρεσίες της Google (Firebase FCM, GMS κ.λπ.), οι ακόλουθες δύο λειτουργίες δεν είναι διαθέσιμες σε αυτή την έκδοση:\n\n1. Συνοδευτική εφαρμογή Wear OS\n2. Ειδοποιήσεις σε πραγματικό χρόνο",
     "onboarding_flavor_fdroid_title": "Σημείωση για την έκδοση F-Droid",
     "onboarding_flavor_play_description": "Το TigerDuck περιλαμβάνει συνοδευτική εφαρμογή Wear OS. Δείτε μηνύματα μαθημάτων στο ρολόι σας — το Wear TigerDuck συγχρονίζει πληροφορίες από το κινητό σας.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "Το TigerSync είναι απενεργοποιημένο. Οι συσκευές Apple βασίζονται στον διακομιστή TigerDuck για λήψη ειδοποιήσεων. Πατήστε για περισσότερες πληροφορίες.",
     "settings_sync_toggle_label": "Ενεργοποίηση TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Η σύνδεση με το Moodle έληξε. Ανοίξτε το TigerDuck και συνδεθείτε ξανά για να συνεχιστεί ο συγχρονισμός.",
+    "notification_reauth_required_title": "Ο συγχρονισμός στο παρασκήνιο έχει διακοπεί"
+  }
 }

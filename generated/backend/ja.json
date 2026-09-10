@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "サーバー通知（サウンドあり）",
   "notification_class_preparing_content_fallback": "まもなく授業が始まります",
   "notification_class_preparing_title": "まもなく授業開始：%1$s",
+  "notification_reauth_required_body": "Moodle との接続の有効期限が切れました。TigerDuck を開いて再度サインインすると同期が再開されます。",
+  "notification_reauth_required_title": "バックグラウンド同期を一時停止しました",
   "notification_setup_title": "通知を再設定",
   "onboarding_analytics_description": "閲覧ページやウィジェットの使用状況に関する匿名データを共有して、TigerDuck の改善にご協力ください。設定からいつでも変更できます。",
   "onboarding_analytics_label": "利用状況の分析（任意）",

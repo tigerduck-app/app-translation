@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "يرسل تذكيرات قبل بدء كل محاضرة",
     "notification_class_preparing_channel_name": "تذكيرات بدء المحاضرات",
     "notification_setup_description": "فعّل الأذونات أدناه لضمان وصول تذكيرات الواجبات وتنبيهات بدء المحاضرات والتحديثات الفورية في وقتها حتى عند إغلاق التطبيق.",
+    "notification_system_channel_description": "مشكلات الحساب والمزامنة التي تتطلب انتباهك",
+    "notification_system_channel_name": "إشعارات النظام",
     "onboarding_flavor_fdroid_description": "أنت تستخدم نسخة F-Droid. بما أن سياسة F-Droid تحظر الاعتماد على خدمات Google (Firebase FCM وGMS وغيرها)، فإن الميزتين التاليتين غير متاحتين في هذه النسخة:\n\n1. تطبيق Wear OS المرافق\n2. إشعارات الإعلانات الفورية",
     "onboarding_flavor_fdroid_title": "إشعار نسخة F-Droid",
     "onboarding_flavor_play_description": "يتضمن TigerDuck تطبيقًا مرافقًا لـ Wear OS. اعرض رسائل الدروس على ساعتك — يقوم Wear TigerDuck بمزامنة المعلومات من هاتفك.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync معطّل. تعتمد أجهزة Apple على خادم TigerDuck لتلقي الإشعارات. انقر لمزيد من المعلومات.",
     "settings_sync_toggle_label": "تفعيل الTigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "انتهت صلاحية اتصال Moodle الخاص بك. افتح TigerDuck وسجّل الدخول مرة أخرى لاستئناف المزامنة.",
+    "notification_reauth_required_title": "توقّفت المزامنة في الخلفية"
+  }
 }

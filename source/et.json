@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Saadab meeldetuletuse enne iga tunni algust",
     "notification_class_preparing_channel_name": "Tunni alguse meeldetuletused",
     "notification_setup_description": "Lubage allpool olevad load, et ülesande meeldetuletused, tunni alguse teavitused ja reaalajas teavitused jõuaksid õigel ajal kohale isegi siis, kui rakendus on suletud.",
+    "notification_system_channel_description": "Konto ja sünkroonimise probleemid, mis vajavad teie tähelepanu",
+    "notification_system_channel_name": "Süsteemiteavitused",
     "onboarding_flavor_fdroid_description": "Kasutate F-Droidi versiooni. Kuna F-Droidi reeglid keelavad sõltumise Google'i teenustest (Firebase FCM, GMS jne), pole järgmised kaks funktsiooni selles versioonis saadaval:\n\n1. Wear OS-i kaasrakendus\n2. Reaalajas tõuketeated",
     "onboarding_flavor_fdroid_title": "F-Droidi versiooni teade",
     "onboarding_flavor_play_description": "TigerDuck sisaldab Wear OS-i kaasrakendust. Vaadake tunnisõnumeid oma kellal — Wear TigerDuck sünkroonib teavet teie telefonist.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync on välja lülitatud. Apple'i seadmed sõltuvad TigerDuck serverist teavituste saamiseks. Puuduta lisateabe saamiseks.",
     "settings_sync_toggle_label": "Luba TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Ühendus teenusega Moodle on aegunud. Avage TigerDuck ja logige uuesti sisse, siis sünkroonimine jätkub.",
+    "notification_reauth_required_title": "Taustasünkroonimine on peatatud"
+  }
 }

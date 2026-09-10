@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Sendir áminningu áður en hver tími byrjar",
     "notification_class_preparing_channel_name": "Áminningar um komandi tíma",
     "notification_setup_description": "Virkjaðu leyfi hér að neðan til að tryggja að verkefnaáminningar, tímaviðvaranir og Live Updates berist á réttum tíma jafnvel þegar forritið er lokað.",
+    "notification_system_channel_description": "Vandamál með reikning og samstillingu sem þarfnast athygli þinnar",
+    "notification_system_channel_name": "Kerfistilkynningar",
     "onboarding_flavor_fdroid_description": "Þú ert að nota F-Droid útgáfuna. Þar sem stefna F-Droid bannar að reiða sig á þjónustu Google (Firebase FCM, GMS o.s.frv.) eru eftirfarandi tveir eiginleikar ekki í boði í þessari útgáfu:\n\n1. Wear OS fylgiapp\n2. Tilkynningar í rauntíma",
     "onboarding_flavor_fdroid_title": "Tilkynning um F-Droid útgáfu",
     "onboarding_flavor_play_description": "TigerDuck inniheldur Wear OS fylgiapp. Sjáðu skilaboð úr tímum á úrinu þínu — Wear TigerDuck samstillir upplýsingar úr símanum þínum.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync er slökkt. Apple tæki reiða sig á TigerDuck netþjón til að fá tilkynningar. Ýttu til að fá frekari upplýsingar.",
     "settings_sync_toggle_label": "Kveikja á TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Tengingin við Moodle er útrunnin. Opnaðu TigerDuck og skráðu þig inn aftur til að halda samstillingu áfram.",
+    "notification_reauth_required_title": "Samstilling í bakgrunni er í bið"
+  }
 }

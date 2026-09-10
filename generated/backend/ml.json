@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "സെർവർ അറിയിപ്പുകൾ (ശബ്ദം)",
   "notification_class_preparing_content_fallback": "ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു",
   "notification_class_preparing_title": "ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു: %1$s",
+  "notification_reauth_required_body": "Moodle-മായുള്ള കണക്ഷൻ കാലഹരണപ്പെട്ടു. സിങ്ക് തുടരാൻ TigerDuck തുറന്ന് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.",
+  "notification_reauth_required_title": "പശ്ചാത്തല സിങ്ക് നിലച്ചിരിക്കുന്നു",
   "notification_setup_title": "അറിയിപ്പുകൾ പുനഃക്രമീകരിക്കുക",
   "onboarding_analytics_description": "അജ്ഞാത പേജ് സന്ദർശനങ്ങളും വിജറ്റ് ഉപയോഗവും പങ്കിട്ട് TigerDuck മെച്ചപ്പെടുത്താൻ സഹായിക്കൂ. ഇത് എപ്പോൾ വേണമെങ്കിലും ക്രമീകരണങ്ങളിൽ മാറ്റാം.",
   "onboarding_analytics_label": "ഉപയോഗ വിശകലനം (ഐച്ഛികം)",

@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "การแจ้งเตือนเซิร์ฟเวอร์ (มีเสียง)",
   "notification_class_preparing_content_fallback": "ใกล้ถึงเวลาเข้าเรียนแล้ว",
   "notification_class_preparing_title": "กำลังจะเข้าเรียน: %1$s",
+  "notification_reauth_required_body": "การเชื่อมต่อกับ Moodle หมดอายุแล้ว เปิด TigerDuck แล้วเข้าสู่ระบบอีกครั้งเพื่อให้การซิงค์ทำงานต่อ",
+  "notification_reauth_required_title": "การซิงค์เบื้องหลังหยุดชั่วคราว",
   "notification_setup_title": "ตั้งค่าการแจ้งเตือนใหม่",
   "onboarding_analytics_description": "ช่วยพัฒนา TigerDuck ด้วยการแชร์ข้อมูลการเข้าชมหน้าและการใช้วิดเจ็ตแบบไม่ระบุตัวตน คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า",
   "onboarding_analytics_label": "การวิเคราะห์การใช้งาน (ไม่บังคับ)",

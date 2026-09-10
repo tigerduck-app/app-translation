@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Notifikasi server (bersuara)",
   "notification_class_preparing_content_fallback": "Kelas akan segera dimulai",
   "notification_class_preparing_title": "Kelas akan segera dimulai: %1$s",
+  "notification_reauth_required_body": "Koneksi ke Moodle telah kedaluwarsa. Buka TigerDuck dan masuk kembali untuk melanjutkan sinkronisasi.",
+  "notification_reauth_required_title": "Sinkronisasi latar belakang dijeda",
   "notification_setup_title": "Konfigurasi ulang notifikasi",
   "onboarding_analytics_description": "Bantu tingkatkan TigerDuck dengan berbagi data anonim tentang halaman yang dikunjungi dan penggunaan widget. Kamu bisa mengubah ini kapan saja di Pengaturan.",
   "onboarding_analytics_label": "Analitik penggunaan (opsional)",

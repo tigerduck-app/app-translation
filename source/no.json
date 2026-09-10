@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Sender påminnelser før hver time starter",
     "notification_class_preparing_channel_name": "Påminnelser om kommende timer",
     "notification_setup_description": "Aktiver tillatelsene nedenfor for å sikre at oppgavepåminnelser, timevarsler og direkteoppdateringer kommer frem i tide selv når appen er lukket.",
+    "notification_system_channel_description": "Konto- og synkroniseringsproblemer som krever oppmerksomheten din",
+    "notification_system_channel_name": "Systemvarsler",
     "onboarding_flavor_fdroid_description": "Du bruker F-Droid-versjonen. Siden F-Droids retningslinjer forbyr avhengighet av Googles tjenester (Firebase FCM, GMS osv.), er følgende to funksjoner ikke tilgjengelige i denne versjonen:\n\n1. Wear OS-følgeapp\n2. Push-varsler i sanntid",
     "onboarding_flavor_fdroid_title": "Merknad om F-Droid-versjonen",
     "onboarding_flavor_play_description": "TigerDuck inkluderer en Wear OS-følgeapp. Se klassemeldinger på klokken din — Wear TigerDuck synkroniserer informasjon fra telefonen din.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync er av. Apple-enheter er avhengige av TigerDuck-serveren for å motta varsler. Trykk for mer informasjon.",
     "settings_sync_toggle_label": "Aktiver TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Tilkoblingen til Moodle er utløpt. Åpne TigerDuck og logg inn på nytt for å gjenoppta synkroniseringen.",
+    "notification_reauth_required_title": "Bakgrunnssynkronisering er satt på pause"
+  }
 }

@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "伺服器通知（聲音）",
   "notification_class_preparing_content_fallback": "就快開始上堂",
   "notification_class_preparing_title": "就快上堂：%1$s",
+  "notification_reauth_required_body": "Moodle 嘅連線已經過期，打開 TigerDuck 重新登入就可以繼續同步。",
+  "notification_reauth_required_title": "背景同步已經暫停",
   "notification_setup_title": "重新設定通知",
   "onboarding_analytics_description": "分享匿名嘅頁面瀏覽同小工具使用資料，協助改善 TigerDuck。你可以隨時喺設定度更改。",
   "onboarding_analytics_label": "使用分析（可選）",

@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Servervarsler (lyd)",
   "notification_class_preparing_content_fallback": "Timen er i ferd med å starte",
   "notification_class_preparing_title": "Timen starter snart: %1$s",
+  "notification_reauth_required_body": "Tilkoblingen til Moodle er utløpt. Åpne TigerDuck og logg inn på nytt for å gjenoppta synkroniseringen.",
+  "notification_reauth_required_title": "Bakgrunnssynkronisering er satt på pause",
   "notification_setup_title": "Konfigurer varsler på nytt",
   "onboarding_analytics_description": "Hjelp til å forbedre TigerDuck ved å dele anonyme sidebesøk og bruk av widgets. Du kan endre dette når som helst i Innstillinger.",
   "onboarding_analytics_label": "Bruksanalyse (valgfritt)",

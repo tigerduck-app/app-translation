@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "התראות שרת (עם קול)",
   "notification_class_preparing_content_fallback": "השיעור עומד להתחיל",
   "notification_class_preparing_title": "השיעור מתחיל בקרוב: %1$s",
+  "notification_reauth_required_body": "תוקף החיבור ל-Moodle פג. יש לפתוח את TigerDuck ולהתחבר שוב כדי לחדש את הסנכרון.",
+  "notification_reauth_required_title": "הסנכרון ברקע הופסק",
   "notification_setup_title": "הגדר מחדש התראות",
   "onboarding_analytics_description": "עזור לשפר את TigerDuck על ידי שיתוף ביקורי דפים אנונימיים ושימוש בווידג'טים. אפשר לשנות זאת בכל עת בהגדרות.",
   "onboarding_analytics_label": "ניתוח שימוש (אופציונלי)",

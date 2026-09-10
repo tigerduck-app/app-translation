@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Gửi nhắc nhở trước khi mỗi lớp học bắt đầu",
     "notification_class_preparing_channel_name": "Nhắc sắp vào lớp",
     "notification_setup_description": "Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và thông tin cập nhật trực tiếp đến đúng giờ ngay cả khi ứng dụng đã đóng.",
+    "notification_system_channel_description": "Sự cố tài khoản và đồng bộ cần bạn xử lý",
+    "notification_system_channel_name": "Thông báo hệ thống",
     "onboarding_flavor_fdroid_description": "Bạn đang sử dụng bản F-Droid. Vì chính sách F-Droid không cho phép phụ thuộc vào các dịch vụ của Google (Firebase FCM, GMS, v.v.), nên hai tính năng sau không có sẵn trong bản này:\n\n1. Ứng dụng đồng hành Wear OS\n2. Thông báo đẩy theo thời gian thực",
     "onboarding_flavor_fdroid_title": "Lưu ý về bản F-Droid",
     "onboarding_flavor_play_description": "TigerDuck đi kèm ứng dụng đồng hành Wear OS. Xem tin nhắn lớp học trên đồng hồ của bạn — Wear TigerDuck đồng bộ thông tin từ điện thoại.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync đang tắt. Thiết bị Apple cần máy chủ TigerDuck để nhận thông báo. Nhấn để biết thêm.",
     "settings_sync_toggle_label": "Bật TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Kết nối với Moodle đã hết hạn. Mở TigerDuck và đăng nhập lại để tiếp tục đồng bộ.",
+    "notification_reauth_required_title": "Đã tạm dừng đồng bộ nền"
+  }
 }

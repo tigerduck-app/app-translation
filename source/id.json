@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Mengirim pengingat sebelum setiap kelas dimulai",
     "notification_class_preparing_channel_name": "Pengingat sebelum kelas",
     "notification_setup_description": "Aktifkan izin di bawah ini untuk memastikan pengingat tugas, peringatan sebelum kelas, dan live update tiba tepat waktu meskipun aplikasi ditutup.",
+    "notification_system_channel_description": "Masalah akun dan sinkronisasi yang perlu Anda tangani",
+    "notification_system_channel_name": "Notifikasi sistem",
     "onboarding_flavor_fdroid_description": "Anda menggunakan build F-Droid. Karena kebijakan F-Droid melarang ketergantungan pada layanan Google (Firebase FCM, GMS, dll.), dua fitur berikut tidak tersedia di build ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan push waktu nyata",
     "onboarding_flavor_fdroid_title": "Pemberitahuan build F-Droid",
     "onboarding_flavor_play_description": "TigerDuck menyertakan pendamping Wear OS. Lihat pesan kelas di jam tangan Anda — Wear TigerDuck menyinkronkan informasi dari ponsel Anda.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync nonaktif. Perangkat Apple bergantung pada backend TigerDuck untuk menerima notifikasi. Ketuk untuk info lebih lanjut.",
     "settings_sync_toggle_label": "Aktifkan TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Koneksi ke Moodle telah kedaluwarsa. Buka TigerDuck dan masuk kembali untuk melanjutkan sinkronisasi.",
+    "notification_reauth_required_title": "Sinkronisasi latar belakang dijeda"
+  }
 }

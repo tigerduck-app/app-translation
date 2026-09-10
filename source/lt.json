@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Siunčia priminimus prieš kiekvienos paskaitos pradžią",
     "notification_class_preparing_channel_name": "Paskaitų pradžios priminimai",
     "notification_setup_description": "Įjunkite toliau nurodytus leidimus, kad užduočių priminimai, paskaitų įspėjimai ir tiesioginiai atnaujinimai būtų pristatomi laiku net uždarius programą.",
+    "notification_system_channel_description": "Paskyros ir sinchronizavimo problemos, kurioms reikia jūsų dėmesio",
+    "notification_system_channel_name": "Sistemos pranešimai",
     "onboarding_flavor_fdroid_description": "Naudojate F-Droid versiją. Kadangi F-Droid politika draudžia priklausomybę nuo Google paslaugų (Firebase FCM, GMS ir kt.), šios dvi funkcijos nepasiekiamos šioje versijoje:\n\n1. Wear OS palydovinė programėlė\n2. Tiesioginiai pranešimai realiu laiku",
     "onboarding_flavor_fdroid_title": "Pranešimas apie F-Droid versiją",
     "onboarding_flavor_play_description": "TigerDuck turi Wear OS palydovinę programėlę. Žiūrėkite paskaitų pranešimus laikrodyje — Wear TigerDuck sinchronizuoja informaciją iš jūsų telefono.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync išjungtas. Apple įrenginiai priklauso nuo TigerDuck serverio pranešimams gauti. Palieskite daugiau informacijos.",
     "settings_sync_toggle_label": "Įjungti TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Ryšio su Moodle galiojimas baigėsi. Atidarykite TigerDuck ir prisijunkite iš naujo, kad sinchronizavimas būtų atnaujintas.",
+    "notification_reauth_required_title": "Sinchronizavimas fone pristabdytas"
+  }
 }

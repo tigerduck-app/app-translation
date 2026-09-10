@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Sūta atgādinājumus pirms katras nodarbības sākuma",
     "notification_class_preparing_channel_name": "Nodarbības atgādinājumi",
     "notification_setup_description": "Iespējojiet tālāk minētās atļaujas, lai uzdevumu atgādinājumi, nodarbību brīdinājumi un reāllaika atjauninājumi tiktu piegādāti laikā arī tad, kad lietotne ir aizvērta.",
+    "notification_system_channel_description": "Konta un sinhronizācijas problēmas, kurām nepieciešama jūsu uzmanība",
+    "notification_system_channel_name": "Sistēmas paziņojumi",
     "onboarding_flavor_fdroid_description": "Jūs izmantojat F-Droid versiju. Tā kā F-Droid politika aizliedz atkarību no Google pakalpojumiem (Firebase FCM, GMS u.c.), šajā versijā nav pieejamas šādas divas funkcijas:\n\n1. Wear OS pavadošā lietotne\n2. Reāllaika tiešie paziņojumi",
     "onboarding_flavor_fdroid_title": "F-Droid versijas paziņojums",
     "onboarding_flavor_play_description": "TigerDuck ietver Wear OS pavadošo lietotni. Skatiet nodarbību ziņojumus savā pulkstenī — Wear TigerDuck sinhronizē informāciju no jūsu tālruņa.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "TigerSync ir izslēgta. Apple ierīces paļaujas uz TigerDuck serveri, lai saņemtu paziņojumus. Pieskarieties, lai uzzinātu vairāk.",
     "settings_sync_toggle_label": "Ieslēgt TigerSync"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "Savienojuma ar Moodle derīguma termiņš ir beidzies. Atveriet TigerDuck un piesakieties vēlreiz, lai sinhronizācija atsāktos.",
+    "notification_reauth_required_title": "Sinhronizācija fonā ir apturēta"
+  }
 }

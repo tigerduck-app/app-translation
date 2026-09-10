@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "Сървърни известия (звук)",
   "notification_class_preparing_content_fallback": "Часът е на път да започне",
   "notification_class_preparing_title": "Час започва скоро: %1$s",
+  "notification_reauth_required_body": "Връзката с Moodle изтече. Отворете TigerDuck и влезте отново, за да се възобнови синхронизирането.",
+  "notification_reauth_required_title": "Синхронизирането във фонов режим е спряно",
   "notification_setup_title": "Преконфигуриране на известия",
   "onboarding_analytics_description": "Помогни за подобряването на TigerDuck, като споделяш анонимни данни за посетени страници и използване на виджети. Можеш да промениш това по всяко време в Настройки.",
   "onboarding_analytics_label": "Анализ на използването (по избор)",

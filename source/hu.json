@@ -857,6 +857,8 @@
     "notification_class_preparing_channel_description": "Emlékeztetőt küld minden óra kezdete előtt",
     "notification_class_preparing_channel_name": "Órakezdés emlékeztetők",
     "notification_setup_description": "Az alábbi engedélyek engedélyezésével biztosítható, hogy a házi feladat emlékeztetők, az órakezdés figyelmeztetések és az élő frissítések akkor is időben megérkezzenek, amikor az alkalmazás be van zárva.",
+    "notification_system_channel_description": "Fiókkal és szinkronizálással kapcsolatos problémák, amelyek figyelmet igényelnek",
+    "notification_system_channel_name": "Rendszerértesítések",
     "onboarding_flavor_fdroid_description": "A F-Droid verziót használod. Mivel a F-Droid szabályzata tiltja a Google szolgáltatásaitól (Firebase FCM, GMS stb.) való függést, az alábbi két funkció nem érhető el ebben a verzióban:\n\n1. Wear OS kísérőalkalmazás\n2. Valós idejű push értesítések",
     "onboarding_flavor_fdroid_title": "F-Droid verzió tájékoztató",
     "onboarding_flavor_play_description": "A TigerDuck tartalmaz egy Wear OS kísérőalkalmazást. Nézd meg az órádon az órák üzeneteit — a Wear TigerDuck szinkronizálja az adatokat a telefonodról.",
@@ -905,5 +907,8 @@
     "settings_sync_off_notifications_warning": "A TigerSync ki van kapcsolva. Az Apple eszközök a TigerDuck szerverre támaszkodnak az értesítések fogadásához. Érintsd meg a további információkért.",
     "settings_sync_toggle_label": "TigerSync engedélyezése"
   },
-  "backend": {}
+  "backend": {
+    "notification_reauth_required_body": "A Moodle-kapcsolat lejárt. Nyissa meg a TigerDuck alkalmazást, és jelentkezzen be újra a szinkronizálás folytatásához.",
+    "notification_reauth_required_title": "A háttérszinkronizálás szünetel"
+  }
 }

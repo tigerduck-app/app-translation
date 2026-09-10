@@ -482,6 +482,8 @@
   "notification_bulletin_sound_channel_name": "서버 알림 (소리)",
   "notification_class_preparing_content_fallback": "수업이 곧 시작됩니다",
   "notification_class_preparing_title": "곧 수업 시작: %1$s",
+  "notification_reauth_required_body": "Moodle 연결이 만료되었습니다. TigerDuck을 열고 다시 로그인하면 동기화가 재개됩니다.",
+  "notification_reauth_required_title": "백그라운드 동기화가 중지되었습니다",
   "notification_setup_title": "알림 다시 설정",
   "onboarding_analytics_description": "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.",
   "onboarding_analytics_label": "사용 분석 (선택 사항)",
