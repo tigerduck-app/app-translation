@@ -266,4 +266,4 @@ python3 tools/localization/generate_localizations.py
 
 The script validates the source schema (group structure, no cross-group key
 collisions, identical key inventory across locales per group) before writing
-anything. Outputs land in `generated/{android,apple}/...` and are checked in.
+anything. Outputs land in `generated/{android,apple,backend}/...` and are checked in.
