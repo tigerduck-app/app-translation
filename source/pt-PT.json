@@ -909,6 +909,6 @@
   },
   "backend": {
     "notification_reauth_required_body": "A ligação ao Moodle expirou. Abra o TigerDuck e inicie sessão novamente para retomar a sincronização.",
-    "notification_reauth_required_title": "A sincronização em segundo plano está em pausa"
+    "notification_reauth_required_title": "Sincronização de fundo em pausa"
   }
 }

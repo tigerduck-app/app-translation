@@ -483,7 +483,7 @@
   "notification_class_preparing_content_fallback": "Ura se bo kmalu začela",
   "notification_class_preparing_title": "Ura se kmalu začne: %1$s",
   "notification_reauth_required_body": "Povezava s storitvijo Moodle je potekla. Odprite TigerDuck in se znova prijavite, da se sinhronizacija nadaljuje.",
-  "notification_reauth_required_title": "Sinhronizacija v ozadju je zaustavljena",
+  "notification_reauth_required_title": "Sinhronizacija ustavljena",
   "notification_setup_title": "Ponovna nastavitev obvestil",
   "onboarding_analytics_description": "Pomagaj izboljšati TigerDuck z deljenjem anonimnih podatkov o obiskanih straneh in uporabi widgetov. To lahko kadarkoli spremenite v Nastavitvah.",
   "onboarding_analytics_label": "Analitika uporabe (neobvezno)",

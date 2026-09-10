@@ -483,7 +483,7 @@
   "notification_class_preparing_content_fallback": "Predavanje uskoro počinje",
   "notification_class_preparing_title": "Predavanje uskoro počinje: %1$s",
   "notification_reauth_required_body": "Veza s uslugom Moodle je istekla. Otvorite TigerDuck i ponovno se prijavite kako bi se sinkronizacija nastavila.",
-  "notification_reauth_required_title": "Sinkronizacija u pozadini je zaustavljena",
+  "notification_reauth_required_title": "Pauza pozadinske sinkronizacije",
   "notification_setup_title": "Rekonfiguracija obavijesti",
   "onboarding_analytics_description": "Pomozi poboljšati TigerDuck dijeljenjem anonimnih podataka o posjećenim stranicama i korištenju widgeta. To možeš promijeniti u bilo kojem trenutku u Postavkama.",
   "onboarding_analytics_label": "Analitika korištenja (neobavezno)",

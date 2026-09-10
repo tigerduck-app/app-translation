@@ -483,7 +483,7 @@
   "notification_class_preparing_content_fallback": "Το μάθημα πρόκειται να ξεκινήσει",
   "notification_class_preparing_title": "Το μάθημα ξεκινά σύντομα: %1$s",
   "notification_reauth_required_body": "Η σύνδεση με το Moodle έληξε. Ανοίξτε το TigerDuck και συνδεθείτε ξανά για να συνεχιστεί ο συγχρονισμός.",
-  "notification_reauth_required_title": "Ο συγχρονισμός στο παρασκήνιο έχει διακοπεί",
+  "notification_reauth_required_title": "Παύση συγχρονισμού παρασκηνίου",
   "notification_setup_title": "Επαναδιαμόρφωση ειδοποιήσεων",
   "onboarding_analytics_description": "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις.",
   "onboarding_analytics_label": "Ανάλυση χρήσης (προαιρετικό)",

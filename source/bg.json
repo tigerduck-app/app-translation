@@ -909,6 +909,6 @@
   },
   "backend": {
     "notification_reauth_required_body": "Връзката с Moodle изтече. Отворете TigerDuck и влезте отново, за да се възобнови синхронизирането.",
-    "notification_reauth_required_title": "Синхронизирането във фонов режим е спряно"
+    "notification_reauth_required_title": "Спряна фонова синхронизация"
   }
 }

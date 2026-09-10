@@ -909,6 +909,6 @@
   },
   "backend": {
     "notification_reauth_required_body": "Η σύνδεση με το Moodle έληξε. Ανοίξτε το TigerDuck και συνδεθείτε ξανά για να συνεχιστεί ο συγχρονισμός.",
-    "notification_reauth_required_title": "Ο συγχρονισμός στο παρασκήνιο έχει διακοπεί"
+    "notification_reauth_required_title": "Παύση συγχρονισμού παρασκηνίου"
   }
 }

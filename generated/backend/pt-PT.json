@@ -483,7 +483,7 @@
   "notification_class_preparing_content_fallback": "A aula está prestes a começar",
   "notification_class_preparing_title": "Aula a começar em breve: %1$s",
   "notification_reauth_required_body": "A ligação ao Moodle expirou. Abra o TigerDuck e inicie sessão novamente para retomar a sincronização.",
-  "notification_reauth_required_title": "A sincronização em segundo plano está em pausa",
+  "notification_reauth_required_title": "Sincronização de fundo em pausa",
   "notification_setup_title": "Reconfigurar notificações",
   "onboarding_analytics_description": "Ajuda a melhorar o TigerDuck partilhando visitas a páginas e utilização de widgets de forma anónima. Podes alterar isto a qualquer momento nas Definições.",
   "onboarding_analytics_label": "Análise de utilização (opcional)",

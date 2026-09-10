@@ -909,6 +909,6 @@
   },
   "backend": {
     "notification_reauth_required_body": "Povezava s storitvijo Moodle je potekla. Odprite TigerDuck in se znova prijavite, da se sinhronizacija nadaljuje.",
-    "notification_reauth_required_title": "Sinhronizacija v ozadju je zaustavljena"
+    "notification_reauth_required_title": "Sinhronizacija ustavljena"
   }
 }

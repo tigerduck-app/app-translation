@@ -483,7 +483,7 @@
   "notification_class_preparing_content_fallback": "Les begint zo",
   "notification_class_preparing_title": "Les begint zo: %1$s",
   "notification_reauth_required_body": "De verbinding met Moodle is verlopen. Open TigerDuck en log opnieuw in om het synchroniseren te hervatten.",
-  "notification_reauth_required_title": "Synchronisatie op de achtergrond is gepauzeerd",
+  "notification_reauth_required_title": "Synchronisatie gepauzeerd",
   "notification_setup_title": "Meldingen opnieuw configureren",
   "onboarding_analytics_description": "Help TigerDuck te verbeteren door anoniem paginabezoeken en widgetgebruik te delen. Je kunt dit altijd wijzigen in Instellingen.",
   "onboarding_analytics_label": "Gebruiksanalyse (optioneel)",
