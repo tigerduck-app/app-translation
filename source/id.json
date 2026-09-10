@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Aktivitas langsung menampilkan kelas saat ini dan hitung mundur di notifikasi. \"Sedang di kelas\" dan \"Kelas akan segera dimulai\" diperbarui secara langsung hanya saat aplikasi terbuka; \"Peringatan tugas\" tetap dapat memberi peringatan tepat waktu meskipun aplikasi ditutup.",
     "live_activity_settings_enable": "Aktifkan aktivitas langsung",
     "live_activity_settings_enable_toggle": "Aktifkan Live Activity",

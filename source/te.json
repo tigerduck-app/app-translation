@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "లైవ్ యాక్టివిటీ నోటిఫికేషన్స్‌లో ప్రస్తుత తరగతి మరియు కౌంట్‌డౌన్ చూపిస్తుంది. 'తరగతిలో ఉన్నారు' మరియు 'తరగతి త్వరలో మొదలవుతుంది' కేవలం యాప్ తెరిచి ఉన్నప్పుడే రియల్-టైమ్‌లో అప్‌డేట్ అవుతాయి; 'అసైన్‌మెంట్ హెచ్చరిక' యాప్ మూసివేసినా సమయానికి హెచ్చరిస్తుంది.",
     "live_activity_settings_enable": "లైవ్ యాక్టివిటీ ఆన్ చేయండి",
     "live_activity_settings_enable_toggle": "లైవ్ యాక్టివిటీని ప్రారంభించండి",

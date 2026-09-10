@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "未登录";
 "library_status_signed_in" = "已登录";
 "library_virtual_pass_title" = "虚拟入馆证";
+"live_activity_countdown_done_assignment_urgent" = "已截止";
+"live_activity_countdown_done_class_preparing" = "已开始";
+"live_activity_countdown_done_in_class" = "已下课";
 "live_activity_settings_assignment_notification_footer" = "作业截止前会发通知提醒你";
 "live_activity_settings_assignment_notification_header" = "作业通知";
 "live_activity_settings_assignment_warning" = "作业警告";

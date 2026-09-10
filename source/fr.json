@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "L'activité en direct affiche le cours actuel et le compte à rebours dans les notifications. « En cours » et « Cours imminent » ne se mettent à jour en temps réel que lorsque l'application est ouverte ; « Alerte de devoir » peut toujours alerter à l'heure même lorsque l'application est fermée.",
     "live_activity_settings_enable": "Activer l'activité en direct",
     "live_activity_settings_enable_toggle": "Activer l’activité en direct",

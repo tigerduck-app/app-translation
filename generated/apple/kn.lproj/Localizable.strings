@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ";
 "library_status_signed_in" = "ಸೈನ್ ಇನ್ ಆಗಿದೆ";
 "library_virtual_pass_title" = "ವರ್ಚುಯಲ್ ಪಾಸ್";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "ಕಾರ್ಯಯೋಜನೆ ಸಲ್ಲಿಸುವ ಮೊದಲು ನಿಮಗೆ ಅಧಿಸೂಚನೆ ನೀಡಲಾಗುವುದು.";
 "live_activity_settings_assignment_notification_header" = "ಕಾರ್ಯಯೋಜನೆ ಅಧಿಸೂಚನೆಗಳು";
 "live_activity_settings_assignment_warning" = "ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ";

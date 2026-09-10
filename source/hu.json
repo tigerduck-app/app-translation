@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Az élő tevékenység megjeleníti az aktuális órát és visszaszámlálót az értesítésekben. Az \"Órán\" és az \"Óra hamarosan kezdődik\" csak akkor frissül valós időben, amíg az alkalmazás nyitva van; a \"Házi feladat figyelmeztetés\" még akkor is időben figyelmeztet, ha az alkalmazás be van zárva.",
     "live_activity_settings_enable": "Élő tevékenység engedélyezése",
     "live_activity_settings_enable_toggle": "Élő tevékenység engedélyezése",

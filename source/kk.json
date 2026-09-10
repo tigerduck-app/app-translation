@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Тікелей белсенділік хабарландыруларда ағымдағы сабақ пен кері санауды көрсетеді. «Сабақта» және «Сабақ жақын басталады» тек қолданба ашық болғанда нақты уақытта жаңартылады; «Тапсырма ескертуі» қолданба жабық болғанда да уақытында хабарлай алады.",
     "live_activity_settings_enable": "Тікелей белсенділікті қосу",
     "live_activity_settings_enable_toggle": "Live Activity қосу",

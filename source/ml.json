@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Live Activity അറിയിപ്പുകളിൽ നിലവിലെ ക്ലാസ്, കൗണ്ട്‌ഡൗൺ കാണിക്കുന്നു. \"ക്ലാസിൽ\", \"ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു\" എന്നിവ ആപ്പ് തുറന്നിരിക്കുമ്പോൾ മാത്രം തത്സമയം അപ്‌ഡേറ്റ് ആകും; \"അസൈൻമെന്റ് മുന്നറിയിപ്പ്\" ആപ്പ് അടച്ചിരിക്കുമ്പോഴും സമയത്ത് അലേർട്ട് ചെയ്യാം.",
     "live_activity_settings_enable": "Live Activity പ്രവർത്തനക്ഷമമാക്കുക",
     "live_activity_settings_enable_toggle": "Live Activity പ്രവർത്തനക്ഷമമാക്കുക",

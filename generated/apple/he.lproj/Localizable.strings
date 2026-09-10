@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "לא מחובר";
 "library_status_signed_in" = "מחובר";
 "library_virtual_pass_title" = "כרטיס כניסה וירטואלי";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "תישלח אליך הודעה לפני מועד ההגשה של המטלה.";
 "live_activity_settings_assignment_notification_header" = "התראות משימה";
 "live_activity_settings_assignment_warning" = "אזהרת מטלה";

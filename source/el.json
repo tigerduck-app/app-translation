@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Η ζωντανή δραστηριότητα εμφανίζει το τρέχον μάθημα και αντίστροφη μέτρηση στις ειδοποιήσεις. Το «Σε μάθημα» και το «Μάθημα ξεκινά σύντομα» ενημερώνονται σε πραγματικό χρόνο μόνο όταν η εφαρμογή είναι ανοιχτή· η «Προειδοποίηση εργασίας» μπορεί να ειδοποιεί έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.",
     "live_activity_settings_enable": "Ενεργοποίηση ζωντανής δραστηριότητας",
     "live_activity_settings_enable_toggle": "Ενεργοποίηση Live Activity",

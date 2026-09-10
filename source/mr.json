@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "लाइव्ह ॲक्टिव्हिटी अधिसूचनांमध्ये सध्याचा वर्ग आणि काउंटडाउन दाखवते. 'वर्ग सुरू आहे' आणि 'वर्ग लवकरच सुरू होणार' फक्त ॲप उघडे असताना रिअल टाइममध्ये अपडेट होतात; 'असाइनमेंट चेतावणी' ॲप बंद असतानाही वेळेवर सतर्क करू शकते.",
     "live_activity_settings_enable": "लाइव्ह ॲक्टिव्हिटी सक्षम करा",
     "live_activity_settings_enable_toggle": "लाइव्ह अॅक्टिव्हिटी सक्षम करा",

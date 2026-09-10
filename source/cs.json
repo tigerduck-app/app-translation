@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Živá aktivita zobrazuje aktuální hodinu a odpočet v oznámeních. „Probíhá hodina“ a „Hodina brzy začne“ se aktualizují v reálném čase pouze pokud je aplikace otevřená; „Upozornění na úkol“ může upozornit včas i když je aplikace zavřená.",
     "live_activity_settings_enable": "Povolit živou aktivitu",
     "live_activity_settings_enable_toggle": "Povolit Živou aktivitu",

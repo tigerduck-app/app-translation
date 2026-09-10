@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Hoạt động trực tiếp hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.",
     "live_activity_settings_enable": "Bật hoạt động trực tiếp",
     "live_activity_settings_enable_toggle": "Bật Live Activity",

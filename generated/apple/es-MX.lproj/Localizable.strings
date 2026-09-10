@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "Sesión no iniciada";
 "library_status_signed_in" = "Sesión iniciada";
 "library_virtual_pass_title" = "Pase virtual";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "Se le notificará antes de que venza la tarea.";
 "live_activity_settings_assignment_notification_header" = "Notificaciones de tareas";
 "live_activity_settings_assignment_warning" = "Aviso de tarea";

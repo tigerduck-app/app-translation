@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Live activity shows the current class and countdown in notifications. \"In class\" and \"Class starting soon\" update in real time only while the app is open; \"Assignment warning\" can still alert on time when the app is closed.",
     "live_activity_settings_enable": "Enable live activity",
     "live_activity_settings_enable_toggle": "Enable Live Activity",

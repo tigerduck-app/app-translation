@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Activitatea live afișează cursul curent și numărătoarea inversă în notificări. „La curs“ și „Curs începe în curând“ se actualizează în timp real doar când aplicația este deschisă; „Avertisment temă“ poate alerta la timp și când aplicația este închisă.",
     "live_activity_settings_enable": "Activează activitatea live",
     "live_activity_settings_enable_toggle": "Activează Live Activity",

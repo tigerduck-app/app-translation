@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Reaalajas tegevus näitab teavitustes praegust tundi ja loendust. „Tund käib\" ja „Tund algab varsti\" uuendatakse reaalajas ainult siis, kui rakendus on avatud; „Ülesande hoiatus\" saab siiski õigel ajal teavitada, kui rakendus on suletud.",
     "live_activity_settings_enable": "Luba reaalajas tegevus",
     "live_activity_settings_enable_toggle": "Luba Live Activity",

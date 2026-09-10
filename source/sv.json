@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Liveaktivitet visar pågående lektion och nedräkning i aviseringar. \"På lektion\" och \"Lektionen börjar snart\" uppdateras i realtid endast när appen är öppen; \"Uppgiftsvarning\" kan fortfarande avisera i tid när appen är stängd.",
     "live_activity_settings_enable": "Aktivera liveaktivitet",
     "live_activity_settings_enable_toggle": "Aktivera Live-aktivitet",

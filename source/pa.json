@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਮੌਜੂਦਾ ਕਲਾਸ ਅਤੇ ਕਾਊਂਟਡਾਊਨ ਦਿਖਾਉਂਦੀ ਹੈ। \"ਕਲਾਸ ਚੱਲ ਰਹੀ ਹੈ\" ਅਤੇ \"ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ\" ਸਿਰਫ਼ ਐਪ ਖੁੱਲ੍ਹਾ ਹੋਣ 'ਤੇ ਰੀਅਲ ਟਾਈਮ ਵਿੱਚ ਅੱਪਡੇਟ ਹੁੰਦੇ ਹਨ; \"ਅਸਾਈਨਮੈਂਟ ਚੇਤਾਵਨੀ\" ਐਪ ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ ਸਮੇਂ 'ਤੇ ਸੁਚੇਤ ਕਰ ਸਕਦੀ ਹੈ।",
     "live_activity_settings_enable": "ਲਾਈਵ ਐਕਟੀਵਿਟੀ ਚਾਲੂ ਕਰੋ",
     "live_activity_settings_enable_toggle": "ਲਾਈਵ ਐਕਟਿਵਟੀ ਚਾਲੂ ਕਰੋ",

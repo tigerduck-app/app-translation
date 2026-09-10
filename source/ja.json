@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "ライブアクティビティは現在の授業とカウントダウンを通知エリアに表示します。「授業中」と「まもなく授業開始」はアプリを開いている間のみリアルタイムで更新されます。「課題警告」はアプリを閉じていても時間どおりに通知できます。",
     "live_activity_settings_enable": "ライブアクティビティを有効にする",
     "live_activity_settings_enable_toggle": "ライブアクティビティを有効にする",

@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Tiešā darbība rāda pašreizējo nodarbību un atpakaļskaitīšanu paziņojumos. „Nodarbībā\" un „Nodarbība drīz sāksies\" tiek atjaunots reāllaikā tikai kamēr lietotne ir atvērta; „Uzdevuma brīdinājums\" joprojām var brīdināt laikā arī tad, kad lietotne ir aizvērta.",
     "live_activity_settings_enable": "Iespējot tiešo darbību",
     "live_activity_settings_enable_toggle": "Ieslēgt Live Activity",

@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "Non connecté";
 "library_status_signed_in" = "Connecté";
 "library_virtual_pass_title" = "Pass virtuel";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "Vous recevrez une notification avant l'échéance d'une tâche.";
 "live_activity_settings_assignment_notification_header" = "Notifications d'affectation";
 "live_activity_settings_assignment_warning" = "Alerte de devoir";

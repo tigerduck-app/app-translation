@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Canlı etkinlik, mevcut dersi ve geri sayımı bildirimlerde gösterir. \"Derste\" ve \"Ders birazdan başlıyor\" yalnızca uygulama açıkken gerçek zamanlı güncellenir; \"Ödev uyarısı\" ise uygulama kapalıyken bile zamanında uyarı verebilir.",
     "live_activity_settings_enable": "Canlı etkinliği etkinleştir",
     "live_activity_settings_enable_toggle": "Canlı Etkinliği etkinleştir",

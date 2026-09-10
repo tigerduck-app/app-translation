@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "ਸਾਈਨ ਇਨ ਨਹੀਂ ਕੀਤਾ";
 "library_status_signed_in" = "ਸਾਈਨ ਇਨ ਕੀਤਾ";
 "library_virtual_pass_title" = "ਵਰਚੁਅਲ ਪਾਸ";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਤੀ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕੀਤਾ ਜਾਵੇਗਾ।";
 "live_activity_settings_assignment_notification_header" = "ਅਸਾਈਨਮੈਂਟ ਸੂਚਨਾਵਾਂ";
 "live_activity_settings_assignment_warning" = "ਅਸਾਈਨਮੈਂਟ ਚੇਤਾਵਨੀ";

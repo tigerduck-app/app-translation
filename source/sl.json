@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Živa dejavnost prikazuje trenutno uro in odštevanje v obvestilih. »Med poukom« in »Ura se kmalu začne« se posodabljata v realnem času samo, ko je aplikacija odprta; »Opozorilo za nalogo« lahko opozori pravočasno, tudi ko je aplikacija zaprta.",
     "live_activity_settings_enable": "Omogoči živo dejavnost",
     "live_activity_settings_enable_toggle": "Omogoči Live Activity",

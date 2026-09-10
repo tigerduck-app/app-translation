@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Жива активність показує поточне заняття та зворотний відлік у сповіщеннях. «На занятті» та «Скоро початок заняття» оновлюються в режимі реального часу лише коли застосунок відкритий; «Попередження про завдання» може спрацювати вчасно навіть коли застосунок закрито.",
     "live_activity_settings_enable": "Увімкнути живу активність",
     "live_activity_settings_enable_toggle": "Увімкнути Live Activity",

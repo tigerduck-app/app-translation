@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Live activiteit toont de huidige les en het aftellen in meldingen. \"In de les\" en \"Les begint zo\" worden alleen in realtime bijgewerkt zolang de app open is; \"Opdrachtwaarschuwing\" kan je nog steeds op tijd waarschuwen als de app gesloten is.",
     "live_activity_settings_enable": "Live activiteit inschakelen",
     "live_activity_settings_enable_toggle": "Schakel Live-activiteit in",

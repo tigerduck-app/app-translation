@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "라이브 액티비티는 알림에 현재 수업과 카운트다운을 표시합니다. \"수업 중\"과 \"곧 수업 시작\"은 앱이 열려 있을 때만 실시간 갱신되며, \"과제 경고\"는 앱이 닫혀 있어도 제때 알릴 수 있습니다.",
     "live_activity_settings_enable": "라이브 액티비티 활성화",
     "live_activity_settings_enable_toggle": "라이브 액티비티 활성화",

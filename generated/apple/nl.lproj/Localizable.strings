@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "Niet ingelogd";
 "library_status_signed_in" = "Ingelogd";
 "library_virtual_pass_title" = "Virtuele pas";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "Je ontvangt een melding voordat een opdracht ingeleverd moet worden.";
 "live_activity_settings_assignment_notification_header" = "Opdrachtmeldingen";
 "live_activity_settings_assignment_warning" = "Opdrachtwaarschuwing";

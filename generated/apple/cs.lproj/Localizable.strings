@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "Nepřihlášeno";
 "library_status_signed_in" = "Přihlášeno";
 "library_virtual_pass_title" = "Virtuální průkaz";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "Před dokončením úkolu budete informováni.";
 "live_activity_settings_assignment_notification_header" = "Oznámení o přiřazení";
 "live_activity_settings_assignment_warning" = "Upozornění na úkol";

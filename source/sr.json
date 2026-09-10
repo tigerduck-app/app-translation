@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Живе активности приказују тренутни час и одбројавање у обавештењима. „На часу\" и „Час ускоро почиње\" ажурирају се у реалном времену само кад је апликација отворена; „Упозорење за задатак\" може упозорити на вријеме и кад је апликација затворена.",
     "live_activity_settings_enable": "Омогући живе активности",
     "live_activity_settings_enable_toggle": "Омогући Live Activity",

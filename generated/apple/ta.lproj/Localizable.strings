@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "உள்நுழையவில்லை";
 "library_status_signed_in" = "உள்நுழைந்துள்ளது";
 "library_virtual_pass_title" = "மெய்நிகர் பாஸ்";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "ஒரு பணி காலக்கெடுவிற்கு முன் உங்களுக்கு அறிவிப்பு வரும்.";
 "live_activity_settings_assignment_notification_header" = "பணி அறிவிப்புகள்";
 "live_activity_settings_assignment_warning" = "ஒப்படைப்பு எச்சரிக்கை";

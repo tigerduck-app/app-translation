@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Bein virkni sýnir núverandi tíma og niðurtal í tilkynningum. \"Í tíma\" og \"Tími byrjar bráðum\" uppfærast í rauntíma aðeins þegar forritið er opið; \"Verkefnaviðvörun\" getur enn gefið tilkynningu á réttum tíma þegar forritið er lokað.",
     "live_activity_settings_enable": "Virkja beina virkni",
     "live_activity_settings_enable_toggle": "Virkja Live Activity",

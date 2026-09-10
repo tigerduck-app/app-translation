@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Ipinapakita ng live activity ang kasalukuyang klase at countdown sa mga notification. Ang \"Nasa klase\" at \"Magsisimula na ang klase\" ay nag-a-update nang real time habang bukas ang app; ang \"Babala sa takdang-aralin\" ay maaari pa ring mag-alerto sa tamang oras kahit naka-close ang app.",
     "live_activity_settings_enable": "I-enable ang live activity",
     "live_activity_settings_enable_toggle": "I-enable ang Live Activity",

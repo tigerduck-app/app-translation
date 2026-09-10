@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Die Live-Aktivität zeigt aktuelle Unterrichtsstunde und Countdown in Benachrichtigungen an. „Im Unterricht“ und „Unterricht beginnt bald“ werden nur in Echtzeit aktualisiert, solange die App geöffnet ist; „Aufgaben-Warnung“ kann auch bei geschlossener App rechtzeitig benachrichtigen.",
     "live_activity_settings_enable": "Live-Aktivität aktivieren",
     "live_activity_settings_enable_toggle": "Live-Aktivität aktivieren",

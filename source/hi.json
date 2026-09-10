@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "लाइव एक्टिविटी नोटिफिकेशन में वर्तमान कक्षा और काउंटडाउन दिखाती है। \"कक्षा में\" और \"कक्षा जल्द शुरू होगी\" केवल तब रियल-टाइम अपडेट होते हैं जब ऐप खुला हो; \"असाइनमेंट चेतावनी\" ऐप बंद होने पर भी समय पर अलर्ट कर सकती है।",
     "live_activity_settings_enable": "लाइव एक्टिविटी सक्षम करें",
     "live_activity_settings_enable_toggle": "लाइव एक्टिविटी सक्षम करें",

@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "La actividad en vivo muestra la clase actual y la cuenta regresiva en las notificaciones. \"En clase\" y \"La clase comienza pronto\" se actualizan en tiempo real solo mientras la app esté abierta; \"Aviso de tarea\" puede seguir alertando a tiempo cuando la app esté cerrada.",
     "live_activity_settings_enable": "Habilitar actividad en vivo",
     "live_activity_settings_enable_toggle": "Activar actividad en vivo",

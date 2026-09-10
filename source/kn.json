@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಅಧಿಸೂಚನೆಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ತರಗತಿ ಮತ್ತು ಕೌಂಟ್‌ಡೌನ್ ತೋರಿಸುತ್ತದೆ. \"ತರಗತಿಯಲ್ಲಿ\" ಮತ್ತು \"ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭ\" ಅಪ್ಲಿಕೇಶನ್ ತೆರೆದಿರುವಾಗ ಮಾತ್ರ ನೈಜ ಸಮಯದಲ್ಲಿ ನವೀಕರಣಗೊಳ್ಳುತ್ತವೆ; \"ಕಾರ್ಯ ಎಚ್ಚರಿಕೆ\" ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ಎಚ್ಚರಿಸಬಲ್ಲದು.",
     "live_activity_settings_enable": "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಸಕ್ರಿಯಗೊಳಿಸಿ",
     "live_activity_settings_enable_toggle": "ಲೈವ್ ಆಕ್ಟಿವಿಟಿ ಸಕ್ರಿಯಗೊಳಿಸಿ",

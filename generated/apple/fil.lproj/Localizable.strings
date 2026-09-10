@@ -430,6 +430,9 @@
 "library_status_not_signed_in" = "Hindi naka-sign in";
 "library_status_signed_in" = "Naka-sign in";
 "library_virtual_pass_title" = "Virtual na pass";
+"live_activity_countdown_done_assignment_urgent" = "Due";
+"live_activity_countdown_done_class_preparing" = "Started";
+"live_activity_countdown_done_in_class" = "Ended";
 "live_activity_settings_assignment_notification_footer" = "Aabisuhan ka bago matapos ang isang takdang-aralin.";
 "live_activity_settings_assignment_notification_header" = "Mga abiso sa pagtatalaga";
 "live_activity_settings_assignment_warning" = "Babala sa takdang-aralin";

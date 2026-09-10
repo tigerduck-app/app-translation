@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "%1$@ 结束",
     "calendar_semester_start": "%1$@ 开始",
+    "live_activity_countdown_done_assignment_urgent": "已截止",
+    "live_activity_countdown_done_class_preparing": "已开始",
+    "live_activity_countdown_done_in_class": "已下课",
     "live_activity_settings_description": "即时动态会在通知区显示当前课程与倒数。「上课中」与「即将上课」仅在 App 打开时会即时更新；「作业警告」即使 App 已关闭也会准时提醒。",
     "live_activity_settings_enable": "激活即时动态",
     "live_activity_settings_enable_toggle": "启用实时活动 Live Activity",

@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "End of %1$@",
     "calendar_semester_start": "Start of %1$@",
+    "live_activity_countdown_done_assignment_urgent": "Due",
+    "live_activity_countdown_done_class_preparing": "Started",
+    "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Aktivnost u stvarnom vremenu prikazuje trenutno predavanje i odbrojavanje u obavijestima. „Na predavanju“ i „Predavanje uskoro počinje“ ažuriraju se u stvarnom vremenu samo dok je aplikacija otvorena; „Upozorenje na zadatak“ može pravovremeno upozoriti i kad je aplikacija zatvorena.",
     "live_activity_settings_enable": "Omogući aktivnost u stvarnom vremenu",
     "live_activity_settings_enable_toggle": "Omogući Live Activity",

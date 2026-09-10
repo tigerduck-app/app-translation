@@ -878,6 +878,9 @@
   "apple": {
     "calendar_semester_end": "%1$@ 結束",
     "calendar_semester_start": "%1$@ 開始",
+    "live_activity_countdown_done_assignment_urgent": "已截止",
+    "live_activity_countdown_done_class_preparing": "已開始",
+    "live_activity_countdown_done_in_class": "已下課",
     "live_activity_settings_description": "即時動態會在通知區顯示當前課程與倒數。「上課中」與「即將上課」僅在 App 開啟時會即時更新；「作業警告」即使 App 已關閉也會準時提醒。",
     "live_activity_settings_enable": "啟用即時動態",
     "live_activity_settings_enable_toggle": "啟用即時動態 Live Activity",
