@@ -526,7 +526,7 @@
     "permission_warning_action_later": "Можда касније",
     "permission_warning_mute_item": "Не подсећај ме о овоме поново",
     "permission_warning_title": "Дозволе за обавештења су искључене",
-    "push_server_enable_toggle": "Server-Push aktivieren",
+    "push_server_enable_toggle": "Укључи пуш са сервера",
     "push_server_footer": "Wird verwendet, um Schulbulletin-Benachrichtigungen in Echtzeit zu erhalten und Erinnerungen aktiv auszulösen.",
     "push_server_ids_section": "ID",
     "push_server_last_registration": "Poslednja registracija",

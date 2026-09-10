@@ -526,7 +526,7 @@
     "permission_warning_action_later": "Možno neskôr",
     "permission_warning_mute_item": "Viac mi to nepripomínať",
     "permission_warning_title": "Povolenia súvisiace s notifikáciami sú vypnuté",
-    "push_server_enable_toggle": "Server-Push aktivieren",
+    "push_server_enable_toggle": "Zapnúť serverový push",
     "push_server_footer": "Wird verwendet, um Schulbulletin-Benachrichtigungen in Echtzeit zu erhalten und Erinnerungen aktiv auszulösen.",
     "push_server_ids_section": "ID",
     "push_server_last_registration": "Posledná registrácia",
