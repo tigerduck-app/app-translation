@@ -630,7 +630,7 @@
 "settings_account_library_system" = "લાઇબ્રેરી સિસ્ટમ";
 "settings_account_ntust_system" = "શૈક્ષણિક સિસ્ટમ";
 "settings_acknowledged" = "સમજ્યા";
-"settings_always_show_periods_abc" = "હંમેશા ક્લાસ A, B અને C બતાવો";
+"settings_always_show_periods_abc" = "ક્લાસ ટાઇમટેબલમાં હંમેશા બધા સમયગાળા બતાવો";
 "settings_analytics_description" = "TigerDuck સુધારવામાં મદદ કરવા અજ્ઞાત ઉપયોગ ડેટા (મુલાકાત લીધેલ પૃષ્ઠો, વિજેટ ઉપયોગ) શેર કરો";
 "settings_analytics_enabled" = "ઉપયોગ વિશ્લેષણ";
 "settings_api_endpoint" = "API એન્ડપોઇન્ટ";

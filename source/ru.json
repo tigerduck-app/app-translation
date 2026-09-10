@@ -611,7 +611,7 @@
     "settings_account_library_system": "Система библиотеки",
     "settings_account_ntust_system": "Школьная система",
     "settings_acknowledged": "Понятно",
-    "settings_always_show_periods_abc": "Всегда показывать занятия A, B и C",
+    "settings_always_show_periods_abc": "Всегда показывать все пары в расписании",
     "settings_analytics_description": "Делись анонимными данными об использовании (посещённые страницы, использование виджетов), чтобы помочь улучшить TigerDuck",
     "settings_analytics_enabled": "Аналитика использования",
     "settings_api_endpoint": "Конечная точка API",

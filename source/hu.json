@@ -611,7 +611,7 @@
     "settings_account_library_system": "Könyvtári rendszer",
     "settings_account_ntust_system": "Tanulmányi rendszer",
     "settings_acknowledged": "Értem",
-    "settings_always_show_periods_abc": "Az A, B és C óra mindig látható",
+    "settings_always_show_periods_abc": "Az órarendben mindig minden óra látható",
     "settings_analytics_description": "Ossz meg névtelen használati adatokat (meglátogatott oldalak, widget-használat), hogy segíts fejleszteni a TigerDuck-ot",
     "settings_analytics_enabled": "Használati analitika",
     "settings_api_endpoint": "API-végpont",

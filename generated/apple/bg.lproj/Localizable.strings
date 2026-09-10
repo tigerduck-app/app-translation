@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Система на библиотека";
 "settings_account_ntust_system" = "Академична система";
 "settings_acknowledged" = "Разбрах";
-"settings_always_show_periods_abc" = "Винаги показвайте часовете A, B и C";
+"settings_always_show_periods_abc" = "Винаги показвай всички периоди в разписанието";
 "settings_analytics_description" = "Споделяй анонимни данни за използването (посетени страници, използване на виджети), за да помогнеш за подобряването на TigerDuck";
 "settings_analytics_enabled" = "Анализ на използването";
 "settings_api_endpoint" = "Крайна точка на API";

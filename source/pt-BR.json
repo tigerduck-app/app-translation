@@ -611,7 +611,7 @@
     "settings_account_library_system": "Sistema da biblioteca",
     "settings_account_ntust_system": "Sistema acadêmico",
     "settings_acknowledged": "Entendi",
-    "settings_always_show_periods_abc": "Mostrar sempre os períodos A, B e C",
+    "settings_always_show_periods_abc": "Mostrar sempre todos os períodos na grade horária",
     "settings_analytics_description": "Compartilhe dados de uso anônimos (páginas visitadas, uso de widgets) para ajudar a melhorar o TigerDuck",
     "settings_analytics_enabled": "Análise de uso",
     "settings_api_endpoint": "Endpoint da API",

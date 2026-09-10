@@ -611,7 +611,7 @@
     "settings_account_library_system": "Bibliotekos sistema",
     "settings_account_ntust_system": "Mokyklos sistema",
     "settings_acknowledged": "Supratau",
-    "settings_always_show_periods_abc": "Visada rodyti A, B ir C pamokas",
+    "settings_always_show_periods_abc": "Tvarkaraštyje visada rodyti visas pamokas",
     "settings_analytics_description": "Dalinkis anonimais naudojimo duomenimis (lankyti puslapiai, valdiklių naudojimas), kad padėtum tobulinti TigerDuck",
     "settings_analytics_enabled": "Naudojimo analizė",
     "settings_api_endpoint": "API galinis taškas",

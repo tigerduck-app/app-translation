@@ -611,7 +611,7 @@
     "settings_account_library_system": "Library system",
     "settings_account_ntust_system": "School system",
     "settings_acknowledged": "Got it",
-    "settings_always_show_periods_abc": "Always show class A B and C",
+    "settings_always_show_periods_abc": "Always show all periods on the class table",
     "settings_analytics_description": "Share anonymous usage data (pages visited, widget usage) to help improve TigerDuck",
     "settings_analytics_enabled": "Usage analytics",
     "settings_api_endpoint": "API endpoint",

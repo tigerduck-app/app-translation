@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Bibliotekets system";
 "settings_account_ntust_system" = "Studentportal";
 "settings_acknowledged" = "Forstått";
-"settings_always_show_periods_abc" = "Vis alltid time A, B og C";
+"settings_always_show_periods_abc" = "Vis alltid alle periodene i timeplanen";
 "settings_analytics_description" = "Del anonyme bruksdata (besøkte sider, bruk av widgets) for å hjelpe med å forbedre TigerDuck";
 "settings_analytics_enabled" = "Bruksanalyse";
 "settings_api_endpoint" = "API-endepunkt";

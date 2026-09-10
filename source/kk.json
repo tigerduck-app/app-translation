@@ -611,7 +611,7 @@
     "settings_account_library_system": "Кітапхана жүйесі",
     "settings_account_ntust_system": "Оқу жүйесі",
     "settings_acknowledged": "Түсінікті",
-    "settings_always_show_periods_abc": "A, B және C сабақтарын әрқашан көрсету",
+    "settings_always_show_periods_abc": "Сабақ кестесінде барлық сабақтарды әрқашан көрсету",
     "settings_analytics_description": "TigerDuck-ты жақсартуға көмектесу үшін анонимді пайдалану деректерін (қаралған беттер, виджет пайдалануы) бөлісіңіз",
     "settings_analytics_enabled": "Пайдалану аналитикасы",
     "settings_api_endpoint": "API соңғы нүктесі",

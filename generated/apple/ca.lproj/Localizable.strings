@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Sistema de la biblioteca";
 "settings_account_ntust_system" = "Sistema acadèmic";
 "settings_acknowledged" = "Entès";
-"settings_always_show_periods_abc" = "Mostra sempre els períodes A, B i C";
+"settings_always_show_periods_abc" = "Mostra sempre tots els períodes a l'horari de classes";
 "settings_analytics_description" = "Comparteix dades d'ús anònimes (pàgines visitades, ús de widgets) per ajudar a millorar TigerDuck";
 "settings_analytics_enabled" = "Anàlisi d'ús";
 "settings_api_endpoint" = "Punt final de l'API";

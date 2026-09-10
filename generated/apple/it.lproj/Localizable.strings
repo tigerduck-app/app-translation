@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Sistema biblioteca";
 "settings_account_ntust_system" = "Sistema accademico";
 "settings_acknowledged" = "Ho capito";
-"settings_always_show_periods_abc" = "Mostra sempre i periodi A, B e C";
+"settings_always_show_periods_abc" = "Mostra sempre tutti i periodi nell'orario delle lezioni";
 "settings_analytics_description" = "Condividi dati d'uso anonimi (pagine visitate, utilizzo dei widget) per migliorare TigerDuck";
 "settings_analytics_enabled" = "Analisi dell'utilizzo";
 "settings_api_endpoint" = "Endpoint API";

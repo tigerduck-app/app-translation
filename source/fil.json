@@ -611,7 +611,7 @@
     "settings_account_library_system": "Sistema ng aklatan",
     "settings_account_ntust_system": "Sistemang akademiko",
     "settings_acknowledged": "Naintindihan ko",
-    "settings_always_show_periods_abc": "Laging ipakita ang mga klase A, B, at C",
+    "settings_always_show_periods_abc": "Laging ipakita ang lahat ng period sa iskedyul ng klase",
     "settings_analytics_description": "Ibahagi ang anonymous na datos ng paggamit (mga page na binisita, paggamit ng widget) para mapabuti ang TigerDuck",
     "settings_analytics_enabled": "Analytics ng paggamit",
     "settings_api_endpoint": "API endpoint",

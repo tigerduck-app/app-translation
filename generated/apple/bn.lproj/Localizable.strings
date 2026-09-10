@@ -630,7 +630,7 @@
 "settings_account_library_system" = "লাইব্রেরি সিস্টেম";
 "settings_account_ntust_system" = "একাডেমিক সিস্টেম";
 "settings_acknowledged" = "বুঝেছি";
-"settings_always_show_periods_abc" = "সবসময় A, B এবং C ক্লাস দেখান";
+"settings_always_show_periods_abc" = "ক্লাস তালিকায় সব সময় সব পিরিয়ড দেখান";
 "settings_analytics_description" = "TigerDuck উন্নত করতে সাহায্য করতে বেনামী ব্যবহারের তথ্য (পরিদর্শন করা পেজ, উইজেট ব্যবহার) শেয়ার করুন";
 "settings_analytics_enabled" = "ব্যবহার বিশ্লেষণ";
 "settings_api_endpoint" = "API এন্ডপয়েন্ট";

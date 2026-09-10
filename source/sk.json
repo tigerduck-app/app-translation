@@ -611,7 +611,7 @@
     "settings_account_library_system": "Systém knižnice",
     "settings_account_ntust_system": "Školský systém",
     "settings_acknowledged": "Rozumiem",
-    "settings_always_show_periods_abc": "Vždy zobrazovať hodiny A, B a C",
+    "settings_always_show_periods_abc": "V rozvrhu vždy zobrazovať všetky hodiny",
     "settings_analytics_description": "Zdieľaj anonymné údaje o používaní (navštívené stránky, používanie widgetov) a pomôž nám vylepšiť TigerDuck",
     "settings_analytics_enabled": "Analytika používania",
     "settings_api_endpoint": "Koncový bod API",

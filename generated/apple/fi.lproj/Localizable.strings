@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Kirjastojärjestelmä";
 "settings_account_ntust_system" = "Opiskelijaportaali";
 "settings_acknowledged" = "Selvä";
-"settings_always_show_periods_abc" = "Näytä aina tunnit A, B ja C";
+"settings_always_show_periods_abc" = "Näytä lukujärjestyksessä aina kaikki tunnit";
 "settings_analytics_description" = "Jaa anonyymiä käyttödataa (vieraillut sivut, widgetien käyttö) TigerDuckin kehittämiseksi";
 "settings_analytics_enabled" = "Käyttöanalytiikka";
 "settings_api_endpoint" = "API-päätepiste";

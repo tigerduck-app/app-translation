@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Raamatukogu süsteem";
 "settings_account_ntust_system" = "Akadeemiline süsteem";
 "settings_acknowledged" = "Selge";
-"settings_always_show_periods_abc" = "Kuva alati tunnid A, B ja C";
+"settings_always_show_periods_abc" = "Kuva tunniplaanis alati kõik tunnid";
 "settings_analytics_description" = "Jaga anonüümseid kasutusandmeid (külastatud lehed, vidinate kasutamine), et aidata TigerDucki paremaks muuta";
 "settings_analytics_enabled" = "Kasutusanalüütika";
 "settings_api_endpoint" = "API lõpp-punkt";

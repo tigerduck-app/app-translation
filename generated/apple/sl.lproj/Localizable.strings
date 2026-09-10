@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Sistem knjižnice";
 "settings_account_ntust_system" = "Študijski sistem";
 "settings_acknowledged" = "Razumem";
-"settings_always_show_periods_abc" = "Vedno prikaži ure A, B in C";
+"settings_always_show_periods_abc" = "V urniku vedno prikaži vse ure";
 "settings_analytics_description" = "Deli anonimne podatke o uporabi (obiskane strani, uporaba widgetov), da pomagaš izboljšati TigerDuck";
 "settings_analytics_enabled" = "Analitika uporabe";
 "settings_api_endpoint" = "Končna točka API";

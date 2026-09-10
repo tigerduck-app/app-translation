@@ -630,7 +630,7 @@
 "settings_account_library_system" = "Bibliothekssystem";
 "settings_account_ntust_system" = "Hochschulsystem";
 "settings_acknowledged" = "Verstanden";
-"settings_always_show_periods_abc" = "Stunden A, B und C immer anzeigen";
+"settings_always_show_periods_abc" = "Im Stundenplan immer alle Stunden anzeigen";
 "settings_analytics_description" = "Teile anonyme Nutzungsdaten (besuchte Seiten, Widget-Nutzung), um TigerDuck zu verbessern";
 "settings_analytics_enabled" = "Nutzungsanalyse";
 "settings_api_endpoint" = "API-Endpunkt";
