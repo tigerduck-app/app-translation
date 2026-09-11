@@ -221,6 +221,101 @@ def _validate_sources(sources: dict[str, OrderedDict], canonical_locale: str) ->
                 )
 
 
+# Locale pairs that legitimately share a lot of wording, so a high count of
+# identical values between them says nothing about contamination. Everything
+# here is a real linguistic relationship -- script variants of one language,
+# pluricentric pairs, or close siblings -- confirmed against the actual data.
+#
+# Anything NOT listed here is expected to stay well under
+# `_CONTAMINATION_THRESHOLD` identical non-English values. See
+# `_validate_no_cross_locale_contamination` for why.
+_RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
+    frozenset(pair)
+    for pair in (
+        # Chinese variants
+        ("yue-HK", "zh-Hant"), ("yue-HK", "zh-Hans"), ("zh-Hans", "zh-Hant"),
+        ("ja", "zh-Hant"), ("ja", "zh-Hans"), ("ja", "yue-HK"),
+        # Portuguese / Spanish / Catalan / Italian -- Romance cluster
+        ("pt-BR", "pt-PT"), ("es", "pt-BR"), ("es", "pt-PT"), ("es", "it"),
+        ("ca", "es"), ("ca", "pt-BR"), ("ca", "pt-PT"), ("ca", "it"),
+        ("it", "pt-BR"), ("it", "pt-PT"),
+        # Malay / Indonesian
+        ("id", "ms"),
+        # Scandinavian
+        ("da", "no"), ("da", "sv"), ("no", "sv"),
+        # Slavic
+        ("cs", "sk"), ("hr", "sl"), ("hr", "sr"), ("bg", "ru"), ("bg", "sr"),
+        ("bg", "uk"), ("ru", "uk"), ("ru", "sr"), ("kk", "ru"),
+        # Indic
+        ("hi", "mr"),
+    )
+)
+
+# How many identical non-English values two unrelated locales may share before
+# the generator calls it contamination.
+#
+# Calibrated against real data, not guessed. Nine locales once carried a block
+# of German values copied in by an editing accident; the smallest of those
+# leaks was 48 strings, and it survived review because this script only ever
+# compared key *sets*, never values. With those repaired, the largest count
+# between any two unrelated locales is 11 -- cognates and shared loanwords like
+# Norwegian/German "Kalender" and "Konto". 20 sits comfortably between the two
+# and needs no allowlist of individual strings.
+_CONTAMINATION_THRESHOLD = 20
+
+
+def _validate_no_cross_locale_contamination(
+        sources: dict[str, OrderedDict], canonical_locale: str
+) -> None:
+    """Fail when one locale's file appears to contain another locale's text.
+
+    Matching key inventories (`_validate_sources`) prove every locale has every
+    string. They say nothing about what language those strings are *in*, which
+    is how nine locales shipped ~40-80 German values each without CI noticing.
+
+    The signal is values identical between two locales that also differ from
+    the canonical English -- shared English left untranslated is ordinary, but
+    two locales independently producing the same non-English sentence is not.
+    Related languages do it legitimately; `_RELATED_LOCALE_PAIRS` names those.
+    """
+    canonical = _flatten_all_groups(sources[canonical_locale])
+    flat = {loc: _flatten_all_groups(g) for loc, g in sources.items()}
+
+    offenders: list[str] = []
+    for i, a in enumerate(sorted(flat)):
+        for b in sorted(flat)[i + 1:]:
+            if frozenset((a, b)) in _RELATED_LOCALE_PAIRS:
+                continue
+            shared = [
+                k for k, v in flat[a].items()
+                if v == flat[b].get(k) and v != canonical.get(k)
+            ]
+            if len(shared) >= _CONTAMINATION_THRESHOLD:
+                offenders.append(
+                    f"  {a} and {b} share {len(shared)} identical non-English "
+                    f"values, e.g. {sorted(shared)[:3]}"
+                )
+
+    if offenders:
+        raise SystemExit(
+            "Cross-locale contamination detected -- one of these files most "
+            "likely contains another language's text:\n"
+            + "\n".join(offenders)
+            + "\n\nIf the two languages really are this close, add the pair to "
+              "_RELATED_LOCALE_PAIRS in this script with a one-line reason."
+        )
+
+
+def _flatten_all_groups(grouped: OrderedDict) -> dict[str, str]:
+    """Every key in every group, prefixed by group so two groups' same-named
+    keys stay distinct."""
+    return {
+        f"{group}.{key}": value
+        for group in SOURCE_GROUPS
+        for key, value in grouped.get(group, {}).items()
+    }
+
+
 def _android_dir_for_locale(locale: str, cfg: LocaleConfig) -> str:
     if locale in cfg.android_special_locale_to_dir:
         return cfg.android_special_locale_to_dir[locale]
@@ -317,6 +412,9 @@ def generate(*, validate_only: bool) -> None:
         sources[loc] = grouped
 
     _validate_sources(sources, canonical_locale=cfg.canonical_locale)
+    _validate_no_cross_locale_contamination(
+        sources, canonical_locale=cfg.canonical_locale
+    )
 
     android_flat: dict[str, OrderedDict[str, str]] = {
         loc: _flatten_for_platform(grouped, "android") for loc, grouped in sources.items()

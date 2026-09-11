@@ -267,3 +267,12 @@ python3 tools/localization/generate_localizations.py
 The script validates the source schema (group structure, no cross-group key
 collisions, identical key inventory across locales per group) before writing
 anything. Outputs land in `generated/{android,apple,backend}/...` and are checked in.
+
+It also runs a **cross-locale contamination check**: if two unrelated locales
+share 20 or more identical values that are not the canonical English, the run
+fails. Matching key inventories only prove every locale has every string --
+they say nothing about what language the string is in, which is how nine
+locales once shipped 40-96 German values each. Locale pairs that legitimately
+overlap (Chinese variants, `pt-BR`/`pt-PT`, Scandinavian, `cs`/`sk`, ...) are
+listed in `_RELATED_LOCALE_PAIRS` in the script; add a pair there, with a
+reason, if you hit a false positive.
