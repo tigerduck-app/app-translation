@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">Konflikt synchronizacji</string>
     <string name="sync_conflict_use_local">Użyj lokalnych</string>
     <string name="sync_conflict_use_server">Użyj serwera</string>
+    <string name="sync_content_assignment_reminders">Przypomnienia o terminach zadań</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

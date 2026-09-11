@@ -732,6 +732,7 @@
   "sync_conflict_title": "Конфликт при синхронизация",
   "sync_conflict_use_local": "Локално",
   "sync_conflict_use_server": "От сървъра",
+  "sync_content_assignment_reminders": "Напомняния за крайни срокове на задания",
   "sync_content_class_table_all": "Class table – all courses",
   "sync_content_class_table_colors": "Class table – course colours",
   "sync_content_class_table_names": "Class table – custom course names",

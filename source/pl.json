@@ -731,6 +731,7 @@
     "sync_conflict_title": "Konflikt synchronizacji",
     "sync_conflict_use_local": "Użyj lokalnych",
     "sync_conflict_use_server": "Użyj serwera",
+    "sync_content_assignment_reminders": "Przypomnienia o terminach zadań",
     "sync_content_class_table_all": "Class table – all courses",
     "sync_content_class_table_colors": "Class table – course colours",
     "sync_content_class_table_names": "Class table – custom course names",

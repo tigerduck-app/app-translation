@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">同期の競合</string>
     <string name="sync_conflict_use_local">ローカルを使用</string>
     <string name="sync_conflict_use_server">サーバーを使用</string>
+    <string name="sync_content_assignment_reminders">課題の期限リマインダー</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

@@ -759,6 +759,7 @@
 "sync_conflict_title" = "Conflict de sincronizare";
 "sync_conflict_use_local" = "Folosește local";
 "sync_conflict_use_server" = "Folosește server";
+"sync_content_assignment_reminders" = "Remindere teme scadente";
 "sync_content_class_table_all" = "Class table – all courses";
 "sync_content_class_table_colors" = "Class table – course colours";
 "sync_content_class_table_names" = "Class table – custom course names";

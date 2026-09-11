@@ -759,6 +759,7 @@
 "sync_conflict_title" = "ஒத்திசைவு முரண்பாடு";
 "sync_conflict_use_local" = "உள்ளூர் பயன்படுத்து";
 "sync_conflict_use_server" = "சேவையகம் பயன்படுத்து";
+"sync_content_assignment_reminders" = "ஒப்படைப்பு காலக்கெடு நினைவூட்டல்கள்";
 "sync_content_class_table_all" = "Class table – all courses";
 "sync_content_class_table_colors" = "Class table – course colours";
 "sync_content_class_table_names" = "Class table – custom course names";

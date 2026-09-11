@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">सिंक विरोध</string>
     <string name="sync_conflict_use_local">स्थानिक वापरा</string>
     <string name="sync_conflict_use_server">सर्व्हर वापरा</string>
+    <string name="sync_content_assignment_reminders">असाइनमेंट मुदत स्मरणपत्रे</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

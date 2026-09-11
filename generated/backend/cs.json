@@ -732,6 +732,7 @@
   "sync_conflict_title": "Konflikt synchronizace",
   "sync_conflict_use_local": "Použít místní",
   "sync_conflict_use_server": "Použít server",
+  "sync_content_assignment_reminders": "Upozornění na blížící se termín úkolu",
   "sync_content_class_table_all": "Class table – all courses",
   "sync_content_class_table_colors": "Class table – course colours",
   "sync_content_class_table_names": "Class table – custom course names",

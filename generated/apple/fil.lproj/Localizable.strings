@@ -759,6 +759,7 @@
 "sync_conflict_title" = "Salungatan sa Sync";
 "sync_conflict_use_local" = "Gamitin ang Lokal";
 "sync_conflict_use_server" = "Gamitin ang Server";
+"sync_content_assignment_reminders" = "Mga paalala sa takdang-aralin";
 "sync_content_class_table_all" = "Class table – all courses";
 "sync_content_class_table_colors" = "Class table – course colours";
 "sync_content_class_table_names" = "Class table – custom course names";

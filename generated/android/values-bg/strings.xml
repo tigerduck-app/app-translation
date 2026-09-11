@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">Конфликт при синхронизация</string>
     <string name="sync_conflict_use_local">Локално</string>
     <string name="sync_conflict_use_server">От сървъра</string>
+    <string name="sync_content_assignment_reminders">Напомняния за крайни срокове на задания</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

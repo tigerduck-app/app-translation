@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">Konflik Penyegerakan</string>
     <string name="sync_conflict_use_local">Guna Setempat</string>
     <string name="sync_conflict_use_server">Guna Pelayan</string>
+    <string name="sync_content_assignment_reminders">Peringatan tugasan hampir tamat</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

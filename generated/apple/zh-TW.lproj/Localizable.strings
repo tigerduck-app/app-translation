@@ -759,6 +759,7 @@
 "sync_conflict_title" = "同步衝突";
 "sync_conflict_use_local" = "使用本機";
 "sync_conflict_use_server" = "使用伺服器";
+"sync_content_assignment_reminders" = "作業到期提醒";
 "sync_content_class_table_all" = "課表 – 所有課程";
 "sync_content_class_table_colors" = "課表 – 課程顏色";
 "sync_content_class_table_names" = "課表 – 自定義課程名稱";

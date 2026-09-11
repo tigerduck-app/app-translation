@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">مطابقت پذیری تنازعہ</string>
     <string name="sync_conflict_use_local">مقامی استعمال کریں</string>
     <string name="sync_conflict_use_server">سرور استعمال کریں</string>
+    <string name="sync_content_assignment_reminders">اسائنمنٹ کی آخری تاریخ کی یاددہانی</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

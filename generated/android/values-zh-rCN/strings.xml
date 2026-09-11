@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">同步冲突</string>
     <string name="sync_conflict_use_local">使用本机</string>
     <string name="sync_conflict_use_server">使用服务器</string>
+    <string name="sync_content_assignment_reminders">作业到期提醒</string>
     <string name="sync_content_class_table_all">课表 – 所有课程</string>
     <string name="sync_content_class_table_colors">课表 – 课程颜色</string>
     <string name="sync_content_class_table_names">课表 – 自定义课程名称</string>

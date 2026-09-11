@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">Konflikt synchronizace</string>
     <string name="sync_conflict_use_local">Použít místní</string>
     <string name="sync_conflict_use_server">Použít server</string>
+    <string name="sync_content_assignment_reminders">Upozornění na blížící se termín úkolu</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">সিঙ্ক দ্বন্দ্ব</string>
     <string name="sync_conflict_use_local">স্থানীয় ব্যবহার করুন</string>
     <string name="sync_conflict_use_server">সার্ভার ব্যবহার করুন</string>
+    <string name="sync_content_assignment_reminders">অ্যাসাইনমেন্টের সময়সীমার স্মরণিকা</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>

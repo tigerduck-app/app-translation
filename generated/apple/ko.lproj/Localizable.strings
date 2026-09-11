@@ -759,6 +759,7 @@
 "sync_conflict_title" = "동기화 충돌";
 "sync_conflict_use_local" = "로컬 사용";
 "sync_conflict_use_server" = "서버 사용";
+"sync_content_assignment_reminders" = "과제 마감 알림";
 "sync_content_class_table_all" = "Class table – all courses";
 "sync_content_class_table_colors" = "Class table – course colours";
 "sync_content_class_table_names" = "Class table – custom course names";

@@ -759,6 +759,7 @@
 "sync_conflict_title" = "Sync Conflict";
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
+"sync_content_assignment_reminders" = "Assignment due reminders";
 "sync_content_class_table_all" = "Class table – all courses";
 "sync_content_class_table_colors" = "Class table – course colours";
 "sync_content_class_table_names" = "Class table – custom course names";

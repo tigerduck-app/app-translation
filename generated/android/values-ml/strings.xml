@@ -775,6 +775,7 @@
     <string name="sync_conflict_title">സിങ്ക് വൈരുദ്ധ്യം</string>
     <string name="sync_conflict_use_local">ലോക്കൽ ഉപയോഗിക്കുക</string>
     <string name="sync_conflict_use_server">സെർവർ ഉപയോഗിക്കുക</string>
+    <string name="sync_content_assignment_reminders">അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തലുകൾ</string>
     <string name="sync_content_class_table_all">Class table – all courses</string>
     <string name="sync_content_class_table_colors">Class table – course colours</string>
     <string name="sync_content_class_table_names">Class table – custom course names</string>
