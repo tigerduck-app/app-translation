@@ -857,7 +857,7 @@
     "haptic_scenario_time_slider_tick": "時間滑桿刻度",
     "live_activity_channel_description": "顯示而家上緊嘅堂、就快上堂同功課倒數；你可以喺 App 設定調整各情境會唔會播提示音",
     "live_activity_channel_name": "即時更新",
-    "live_activity_settings_description": "即時更新會在通知區顯示當前課程與倒數。「上課中」與「即將上課」僅在 App 開啟時會即時更新；「作業警告」即使 App 已關閉也會準時提醒。",
+    "live_activity_settings_description": "即時更新會在通知區顯示當前課程與倒數。「上課中」與「即將上課」僅在 App 開啟時會持續更新；「作業警告」即使 App 已關閉也會準時提醒。",
     "live_activity_settings_enable": "啟用即時更新",
     "live_activity_settings_permissions_hint": "通知與精確鬧鐘為發送提醒的必要條件；關閉省電限制可確保 App 關閉或背景時仍能準時提醒。",
     "live_activity_settings_reset_confirm_title": "重置所有即時更新設定？",

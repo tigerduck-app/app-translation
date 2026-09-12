@@ -857,7 +857,7 @@
     "haptic_scenario_time_slider_tick": "时间轴滑块刻度",
     "live_activity_channel_description": "显示当前课程、即将上课与作业倒数；可在 App 设置中调整各情境是否发出提示音",
     "live_activity_channel_name": "实时更新",
-    "live_activity_settings_description": "实时更新会在通知区显示当前课程与倒数。「上课中」与「即将上课」仅在 App 打开时会即时更新；「作业警告」即使 App 已关闭也会准时提醒。",
+    "live_activity_settings_description": "实时更新会在通知区显示当前课程与倒数。「上课中」与「即将上课」仅在 App 打开时会持续更新；「作业警告」即使 App 已关闭也会准时提醒。",
     "live_activity_settings_enable": "激活实时更新",
     "live_activity_settings_permissions_hint": "通知与精确闹钟为发送提醒的必要条件；关闭省电限制可确保 App 关闭或背景时仍能准时提醒。",
     "live_activity_settings_reset_confirm_title": "重置所有实时更新设置？",

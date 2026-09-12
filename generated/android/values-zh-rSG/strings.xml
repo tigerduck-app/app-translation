@@ -455,7 +455,7 @@
     <string name="live_activity_settings_custom_class_description">App 会在上课前这么久开始提醒。</string>
     <string name="live_activity_settings_custom_class_title">自订即将上课时间</string>
     <string name="live_activity_settings_custom_class_unit_hint">分钟（最多 %1$d 分钟）</string>
-    <string name="live_activity_settings_description">实时更新会在通知区显示当前课程与倒数。「上课中」与「即将上课」仅在 App 打开时会即时更新；「作业警告」即使 App 已关闭也会准时提醒。</string>
+    <string name="live_activity_settings_description">实时更新会在通知区显示当前课程与倒数。「上课中」与「即将上课」仅在 App 打开时会持续更新；「作业警告」即使 App 已关闭也会准时提醒。</string>
     <string name="live_activity_settings_enable">激活实时更新</string>
     <string name="live_activity_settings_hours_label">%1$d 小时</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d 小时 %2$d 分</string>
