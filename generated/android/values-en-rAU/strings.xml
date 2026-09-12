@@ -784,7 +784,7 @@
     <string name="sync_content_nav_label">Synced content</string>
     <string name="sync_courses_footer">Sends your custom timetable and assignment completion state to the server for use across your devices. Choose what to include below.</string>
     <string name="sync_courses_toggle">Sync course information</string>
-    <string name="sync_essential_footer">Semester dates, the calendar, and the bulletin board.</string>
+    <string name="sync_essential_footer">Semester dates, the calendar, and announcements.</string>
     <string name="sync_essential_toggle">Essential information</string>
     <string name="sync_fdroid_unavailable_body">TigerSync requires Google Play Services and is not available in the F-Droid build.</string>
     <string name="sync_fdroid_unavailable_title">Not available on F-Droid</string>
