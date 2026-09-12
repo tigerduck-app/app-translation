@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "اعلان‌های سرور (با صدا)",
   "notification_class_preparing_content_fallback": "کلاس در شُرف شروع است",
   "notification_class_preparing_title": "کلاس به‌زودی شروع می‌شود: %1$s",
+  "notification_permission_settings_nav_title": "مجوزهای اعلان‌ها",
   "notification_reauth_required_body": "اتصال به Moodle منقضی شده است. برای از سرگیری همگام‌سازی، TigerDuck را باز کنید و دوباره وارد شوید.",
   "notification_reauth_required_title": "همگام‌سازی پس‌زمینه متوقف شده است",
   "notification_setup_title": "پیکربندی مجدد اعلان‌ها",

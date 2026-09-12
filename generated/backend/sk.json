@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Serverové oznámenia (zvuk)",
   "notification_class_preparing_content_fallback": "Hodina čoskoro začína",
   "notification_class_preparing_title": "Čoskoro začína hodina: %1$s",
+  "notification_permission_settings_nav_title": "Povolenia notifikácií",
   "notification_reauth_required_body": "Platnosť pripojenia k Moodle vypršala. Otvorte TigerDuck a znova sa prihláste, aby sa synchronizácia obnovila.",
   "notification_reauth_required_title": "Synchronizácia pozastavená",
   "notification_setup_title": "Znovu nastaviť notifikácie",

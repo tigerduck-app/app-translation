@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Servernotifikationer (med lyd)";
 "notification_class_preparing_content_fallback" = "Undervisningen er ved at begynde";
 "notification_class_preparing_title" = "Undervisning begynder snart: %1$@";
+"notification_permission_settings_nav_title" = "Notifikationstilladelser";
 "notification_setup_description" = "Aktivér nedenstående tilladelser for at sikre, at opgavepåmindelser, advarsler om kommende undervisning og Live Activity ankommer til tiden, selv når appen er lukket.";
 "notification_setup_title" = "Rekonfigurer notifikationer";
 "onboarding_analytics_description" = "Hjælp med at forbedre TigerDuck ved at dele anonyme sidebesøg og brug af widgets. Du kan ændre dette til enhver tid i Indstillinger.";

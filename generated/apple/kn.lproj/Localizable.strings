@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "ಸರ್ವರ್ ಅಧಿಸೂಚನೆಗಳು (ಧ್ವನಿ)";
 "notification_class_preparing_content_fallback" = "ತರಗತಿ ಆರಂಭವಾಗಲಿದೆ";
 "notification_class_preparing_title" = "ತರಗತಿ ಶೀಘ್ರದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ: %1$@";
+"notification_permission_settings_nav_title" = "ಅಧಿಸೂಚನೆ ಅನುಮತಿಗಳು";
 "notification_setup_description" = "ಕಾರ್ಯ ಜ್ಞಾಪನೆಗಳು, ತರಗತಿ ಸಿದ್ಧತೆ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು Live Activity ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ತಲುಪುವಂತೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.";
 "notification_setup_title" = "ಅಧಿಸೂಚನೆಗಳನ್ನು ಮರುಸಂರಚಿಸಿ";
 "onboarding_analytics_description" = "ಅನಾಮಧೇಯ ಪುಟ ಭೇಟಿಗಳು ಮತ್ತು ವಿಜೆಟ್ ಬಳಕೆ ಹಂಚಿಕೊಂಡು TigerDuck ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಿ. ನೀವು ಇದನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.";

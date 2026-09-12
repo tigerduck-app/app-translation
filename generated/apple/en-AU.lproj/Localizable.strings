@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Server notifications (sound)";
 "notification_class_preparing_content_fallback" = "Class is about to start";
 "notification_class_preparing_title" = "Class starting soon: %1$@";
+"notification_permission_settings_nav_title" = "Notification permission settings";
 "notification_setup_description" = "Enable the permissions below to ensure assignment reminders, class-preparing alerts, and Live Activity arrive on time even when the app is closed.";
 "notification_setup_title" = "Reconfigure notifications";
 "onboarding_analytics_description" = "Help improve TigerDuck by sharing anonymised page visits and widget usage. You can change this anytime in Settings.";

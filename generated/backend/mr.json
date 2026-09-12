@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "सर्व्हर सूचना (आवाज)",
   "notification_class_preparing_content_fallback": "वर्ग सुरू होणार आहे",
   "notification_class_preparing_title": "वर्ग लवकरच सुरू होणार: %1$s",
+  "notification_permission_settings_nav_title": "अधिसूचना परवानग्या",
   "notification_reauth_required_body": "Moodle चे कनेक्शन कालबाह्य झाले आहे. सिंक पुन्हा सुरू करण्यासाठी TigerDuck उघडा आणि पुन्हा साइन इन करा.",
   "notification_reauth_required_title": "पार्श्वभूमी सिंक थांबले आहे",
   "notification_setup_title": "अधिसूचना पुन्हा सेट करा",

@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "Sunucu bildirimleri (sesli)",
     "notification_class_preparing_content_fallback": "Ders birazdan başlayacak",
     "notification_class_preparing_title": "Ders birazdan başlıyor: %1$s",
+    "notification_permission_settings_nav_title": "Bildirim izinleri",
     "notification_setup_title": "Bildirimleri yeniden yapılandır",
     "onboarding_analytics_description": "Ziyaret edilen sayfalar ve widget kullanımına ilişkin anonim verileri paylaşarak TigerDuck'ı geliştirmeye yardımcı ol. Bunu istediğin zaman Ayarlar'dan değiştirebilirsin.",
     "onboarding_analytics_label": "Kullanım analitiği (isteğe bağlı)",

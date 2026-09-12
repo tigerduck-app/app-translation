@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Sunucu bildirimleri (sesli)",
   "notification_class_preparing_content_fallback": "Ders birazdan başlayacak",
   "notification_class_preparing_title": "Ders birazdan başlıyor: %1$s",
+  "notification_permission_settings_nav_title": "Bildirim izinleri",
   "notification_reauth_required_body": "Moodle bağlantısının süresi doldu. Eşitlemenin devam etmesi için TigerDuck uygulamasını açıp yeniden giriş yapın.",
   "notification_reauth_required_title": "Arka plan eşitlemesi duraklatıldı",
   "notification_setup_title": "Bildirimleri yeniden yapılandır",

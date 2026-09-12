@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "伺服器通知（聲音）",
   "notification_class_preparing_content_fallback": "課程即將開始",
   "notification_class_preparing_title": "即將上課：%1$s",
+  "notification_permission_settings_nav_title": "通知權限設定",
   "notification_reauth_required_body": "與 Moodle 的連線已過期，開啟 TigerDuck 重新登入即可恢復同步。",
   "notification_reauth_required_title": "背景同步已暫停",
   "notification_setup_title": "重新設定通知",

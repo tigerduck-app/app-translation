@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "伺服器通知（聲音）";
 "notification_class_preparing_content_fallback" = "課程即將開始";
 "notification_class_preparing_title" = "即將上課：%1$@";
+"notification_permission_settings_nav_title" = "通知權限設定";
 "notification_setup_description" = "設定以下權限可確保作業提醒、即將上課、即時動態在 App 關閉時也能準時送達。";
 "notification_setup_title" = "重新設定通知";
 "onboarding_analytics_description" = "分享匿名的頁面瀏覽和小工具使用資料，協助改善 TigerDuck。你可以隨時在設定中更改。";

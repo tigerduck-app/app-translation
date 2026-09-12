@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "服务器通知（声音）",
   "notification_class_preparing_content_fallback": "课程即将开始",
   "notification_class_preparing_title": "即将上课：%1$s",
+  "notification_permission_settings_nav_title": "通知权限设置",
   "notification_reauth_required_body": "与 Moodle 的连接已过期，打开 TigerDuck 重新登录即可恢复同步。",
   "notification_reauth_required_title": "后台同步已暂停",
   "notification_setup_title": "重新设置通知",

@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Ειδοποιήσεις διακομιστή (με ήχο)",
   "notification_class_preparing_content_fallback": "Το μάθημα πρόκειται να ξεκινήσει",
   "notification_class_preparing_title": "Το μάθημα ξεκινά σύντομα: %1$s",
+  "notification_permission_settings_nav_title": "Άδειες ειδοποιήσεων",
   "notification_reauth_required_body": "Η σύνδεση με το Moodle έληξε. Ανοίξτε το TigerDuck και συνδεθείτε ξανά για να συνεχιστεί ο συγχρονισμός.",
   "notification_reauth_required_title": "Παύση συγχρονισμού παρασκηνίου",
   "notification_setup_title": "Επαναδιαμόρφωση ειδοποιήσεων",

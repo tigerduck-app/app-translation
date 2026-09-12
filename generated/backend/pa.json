@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "ਸਰਵਰ ਸੂਚਨਾਵਾਂ (ਆਵਾਜ਼)",
   "notification_class_preparing_content_fallback": "ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਵਾਲੀ ਹੈ",
   "notification_class_preparing_title": "ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ: %1$s",
+  "notification_permission_settings_nav_title": "ਸੂਚਨਾ ਅਨੁਮਤੀਆਂ",
   "notification_reauth_required_body": "Moodle ਨਾਲ ਕਨੈਕਸ਼ਨ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ। ਸਿੰਕ ਮੁੜ ਸ਼ੁਰੂ ਕਰਨ ਲਈ TigerDuck ਖੋਲ੍ਹੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।",
   "notification_reauth_required_title": "ਬੈਕਗਰਾਊਂਡ ਸਿੰਕ ਰੁਕ ਗਿਆ ਹੈ",
   "notification_setup_title": "ਸੂਚਨਾਵਾਂ ਦੁਬਾਰਾ ਸੈੱਟ ਕਰੋ",

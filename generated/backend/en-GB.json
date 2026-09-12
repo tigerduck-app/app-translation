@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Server notifications (sound)",
   "notification_class_preparing_content_fallback": "Class is about to start",
   "notification_class_preparing_title": "Class starting soon: %1$s",
+  "notification_permission_settings_nav_title": "Notification permission settings",
   "notification_reauth_required_body": "Your Moodle connection expired. Open TigerDuck and sign in again to resume syncing.",
   "notification_reauth_required_title": "Background sync paused",
   "notification_setup_title": "Reconfigure notifications",

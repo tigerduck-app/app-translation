@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Pemberitahuan pelayan (bunyi)",
   "notification_class_preparing_content_fallback": "Kelas akan bermula sebentar lagi",
   "notification_class_preparing_title": "Kelas akan bermula: %1$s",
+  "notification_permission_settings_nav_title": "Tetapan kebenaran pemberitahuan",
   "notification_reauth_required_body": "Sambungan ke Moodle telah tamat tempoh. Buka TigerDuck dan log masuk semula untuk menyambung semula penyegerakan.",
   "notification_reauth_required_title": "Penyegerakan latar belakang dijeda",
   "notification_setup_title": "Konfigurasi semula pemberitahuan",

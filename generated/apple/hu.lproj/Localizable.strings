@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Szerver-értesítések (hanggal)";
 "notification_class_preparing_content_fallback" = "Az óra hamarosan kezdődik";
 "notification_class_preparing_title" = "Hamarosan kezdődik az óra: %1$@";
+"notification_permission_settings_nav_title" = "Értesítési engedélyek";
 "notification_setup_description" = "Az alábbi engedélyek engedélyezésével biztosítható, hogy a házi feladat emlékeztetők, az órakezdés figyelmeztetések és a Live Activity akkor is időben megérkezzenek, amikor az alkalmazás be van zárva.";
 "notification_setup_title" = "Értesítések újrakonfigurálása";
 "onboarding_analytics_description" = "Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban.";

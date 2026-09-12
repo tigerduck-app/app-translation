@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Serverio pranešimai (su garsu)",
   "notification_class_preparing_content_fallback": "Paskaita tuoj prasidės",
   "notification_class_preparing_title": "Paskaita prasideda: %1$s",
+  "notification_permission_settings_nav_title": "Pranešimų leidimai",
   "notification_reauth_required_body": "Ryšio su Moodle galiojimas baigėsi. Atidarykite TigerDuck ir prisijunkite iš naujo, kad sinchronizavimas būtų atnaujintas.",
   "notification_reauth_required_title": "Sinchronizavimas fone pristabdytas",
   "notification_setup_title": "Iš naujo konfigūruoti pranešimus",

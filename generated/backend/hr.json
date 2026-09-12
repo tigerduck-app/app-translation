@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Obavijesti poslužitelja (sa zvukom)",
   "notification_class_preparing_content_fallback": "Predavanje uskoro počinje",
   "notification_class_preparing_title": "Predavanje uskoro počinje: %1$s",
+  "notification_permission_settings_nav_title": "Dopuštenja za obavijesti",
   "notification_reauth_required_body": "Veza s uslugom Moodle je istekla. Otvorite TigerDuck i ponovno se prijavite kako bi se sinkronizacija nastavila.",
   "notification_reauth_required_title": "Pauza pozadinske sinkronizacije",
   "notification_setup_title": "Rekonfiguracija obavijesti",

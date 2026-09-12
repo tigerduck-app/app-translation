@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Ειδοποιήσεις διακομιστή (με ήχο)";
 "notification_class_preparing_content_fallback" = "Το μάθημα πρόκειται να ξεκινήσει";
 "notification_class_preparing_title" = "Το μάθημα ξεκινά σύντομα: %1$@";
+"notification_permission_settings_nav_title" = "Άδειες ειδοποιήσεων";
 "notification_setup_description" = "Ενεργοποιήστε τις παρακάτω άδειες για να διασφαλίσετε ότι οι υπενθυμίσεις εργασιών, οι ειδοποιήσεις έναρξης μαθήματος και το Live Activity παραδίδονται έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.";
 "notification_setup_title" = "Επαναδιαμόρφωση ειδοποιήσεων";
 "onboarding_analytics_description" = "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις.";

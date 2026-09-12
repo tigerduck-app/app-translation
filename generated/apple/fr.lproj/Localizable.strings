@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Notifications serveur (avec son)";
 "notification_class_preparing_content_fallback" = "Le cours va bientôt commencer";
 "notification_class_preparing_title" = "Cours imminent : %1$@";
+"notification_permission_settings_nav_title" = "Autorisations des notifications";
 "notification_setup_description" = "Activez les autorisations ci-dessous pour vous assurer que les rappels de devoirs, les alertes avant les cours et Live Activity arrivent à temps, même lorsque l'application est fermée.";
 "notification_setup_title" = "Reconfigurer les notifications";
 "onboarding_analytics_description" = "Aide à améliorer TigerDuck en partageant de façon anonyme tes visites de pages et l'utilisation des widgets. Tu peux modifier ça à tout moment dans les Réglages.";

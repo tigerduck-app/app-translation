@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "सर्व्हर सूचना (आवाज)";
 "notification_class_preparing_content_fallback" = "वर्ग सुरू होणार आहे";
 "notification_class_preparing_title" = "वर्ग लवकरच सुरू होणार: %1$@";
+"notification_permission_settings_nav_title" = "अधिसूचना परवानग्या";
 "notification_setup_description" = "असाइनमेंट स्मरणपत्रे, वर्ग सुरू होण्याच्या सूचना आणि Live Activity ॲप बंद असतानाही वेळेवर येण्यासाठी खालील परवानग्या सक्षम करा.";
 "notification_setup_title" = "अधिसूचना पुन्हा सेट करा";
 "onboarding_analytics_description" = "अनामिक पृष्ठ भेटी आणि विजेट वापर शेअर करून TigerDuck सुधारण्यास मदत करा. तुम्ही हे कधीही सेटिंग्जमध्ये बदलू शकता.";

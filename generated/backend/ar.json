@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "إشعارات الخادم (بصوت)",
   "notification_class_preparing_content_fallback": "ستبدأ المحاضرة قريبًا",
   "notification_class_preparing_title": "ستبدأ المحاضرة قريبًا: %1$s",
+  "notification_permission_settings_nav_title": "أذونات الإشعارات",
   "notification_reauth_required_body": "انتهت صلاحية اتصال Moodle الخاص بك. افتح TigerDuck وسجّل الدخول مرة أخرى لاستئناف المزامنة.",
   "notification_reauth_required_title": "توقّفت المزامنة في الخلفية",
   "notification_setup_title": "إعادة ضبط الإشعارات",

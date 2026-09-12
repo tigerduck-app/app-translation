@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "การแจ้งเตือนเซิร์ฟเวอร์ (มีเสียง)";
 "notification_class_preparing_content_fallback" = "ใกล้ถึงเวลาเข้าเรียนแล้ว";
 "notification_class_preparing_title" = "กำลังจะเข้าเรียน: %1$@";
+"notification_permission_settings_nav_title" = "การตั้งค่าสิทธิ์การแจ้งเตือน";
 "notification_setup_description" = "เปิดใช้งานสิทธิ์ด้านล่างเพื่อให้แน่ใจว่าการแจ้งเตือนการบ้าน การแจ้งเตือนก่อนเข้าเรียน และ Live Activity จะมาถึงตรงเวลาแม้ในขณะที่ปิดแอปอยู่";
 "notification_setup_title" = "ตั้งค่าการแจ้งเตือนใหม่";
 "onboarding_analytics_description" = "ช่วยพัฒนา TigerDuck ด้วยการแชร์ข้อมูลการเข้าชมหน้าและการใช้วิดเจ็ตแบบไม่ระบุตัวตน คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า";

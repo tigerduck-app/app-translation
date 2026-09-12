@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "התראות שרת (עם קול)",
     "notification_class_preparing_content_fallback": "השיעור עומד להתחיל",
     "notification_class_preparing_title": "השיעור מתחיל בקרוב: %1$s",
+    "notification_permission_settings_nav_title": "הרשאות התראות",
     "notification_setup_title": "הגדר מחדש התראות",
     "onboarding_analytics_description": "עזור לשפר את TigerDuck על ידי שיתוף ביקורי דפים אנונימיים ושימוש בווידג'טים. אפשר לשנות זאת בכל עת בהגדרות.",
     "onboarding_analytics_label": "ניתוח שימוש (אופציונלי)",

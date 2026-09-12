@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Уведомления сервера (со звуком)",
   "notification_class_preparing_content_fallback": "Занятие скоро начнётся",
   "notification_class_preparing_title": "Скоро начнётся занятие: %1$s",
+  "notification_permission_settings_nav_title": "Разрешения на уведомления",
   "notification_reauth_required_body": "Срок действия подключения к Moodle истёк. Откройте TigerDuck и войдите снова, чтобы возобновить синхронизацию.",
   "notification_reauth_required_title": "Фоновая синхронизация приостановлена",
   "notification_setup_title": "Настроить уведомления заново",

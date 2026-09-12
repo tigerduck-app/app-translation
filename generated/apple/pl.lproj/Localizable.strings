@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Powiadomienia serwera (dźwięk)";
 "notification_class_preparing_content_fallback" = "Zajęcia wkrótce się rozpoczną";
 "notification_class_preparing_title" = "Wkrótce zajęcia: %1$@";
+"notification_permission_settings_nav_title" = "Uprawnienia do powiadomień";
 "notification_setup_description" = "Włączyć poniższe uprawnienia, aby przypomnienia o zadaniach, alerty o nadchodzących zajęciach oraz Live Activity docierały na czas, nawet gdy aplikacja jest zamknięta.";
 "notification_setup_title" = "Skonfiguruj powiadomienia ponownie";
 "onboarding_analytics_description" = "Pomóż ulepszać TigerDuck, udostępniając anonimowe dane o odwiedzanych stronach i używaniu widgetów. Możesz to zmienić w dowolnym momencie w Ustawieniach.";

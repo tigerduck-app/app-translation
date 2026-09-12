@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Serveraviseringar (ljud)",
   "notification_class_preparing_content_fallback": "Lektionen håller på att börja",
   "notification_class_preparing_title": "Lektionen börjar snart: %1$s",
+  "notification_permission_settings_nav_title": "Aviseringsbehörigheter",
   "notification_reauth_required_body": "Anslutningen till Moodle har upphört att gälla. Öppna TigerDuck och logga in igen för att återuppta synkroniseringen.",
   "notification_reauth_required_title": "Bakgrundssynkroniseringen är pausad",
   "notification_setup_title": "Konfigurera om aviseringar",

@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "Serverska obaveštenja (zvuk)",
     "notification_class_preparing_content_fallback": "Час ускоро почиње",
     "notification_class_preparing_title": "Час ускоро почиње: %1$s",
+    "notification_permission_settings_nav_title": "Дозволе за обавештења",
     "notification_setup_title": "Поново подеси обавештења",
     "onboarding_analytics_description": "Помози у побољшању TigerDuck-а дељењем анонимних података о посећеним страницама и коришћењу виџета. Ово можеш променити у било ком тренутку у Подешавањима.",
     "onboarding_analytics_label": "Аналитика коришћења (опционално)",

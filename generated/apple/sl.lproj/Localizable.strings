@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Strežniška obvestila (zvok)";
 "notification_class_preparing_content_fallback" = "Ura se bo kmalu začela";
 "notification_class_preparing_title" = "Ura se kmalu začne: %1$@";
+"notification_permission_settings_nav_title" = "Dovoljenja za obvestila";
 "notification_setup_description" = "Omogočite spodnja dovoljenja, da zagotovite pravočasno dostavo opomnikov za naloge, opozoril pred poukom in Live Activity, tudi ko je aplikacija zaprta.";
 "notification_setup_title" = "Ponovna nastavitev obvestil";
 "onboarding_analytics_description" = "Pomagaj izboljšati TigerDuck z deljenjem anonimnih podatkov o obiskanih straneh in uporabi widgetov. To lahko kadarkoli spremenite v Nastavitvah.";

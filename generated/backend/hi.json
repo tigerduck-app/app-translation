@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "सर्वर सूचनाएँ (ध्वनि सहित)",
   "notification_class_preparing_content_fallback": "कक्षा शुरू होने वाली है",
   "notification_class_preparing_title": "कक्षा जल्द शुरू होगी: %1$s",
+  "notification_permission_settings_nav_title": "नोटिफिकेशन अनुमतियाँ",
   "notification_reauth_required_body": "Moodle से कनेक्शन समाप्त हो गया है। सिंक फिर से शुरू करने के लिए TigerDuck खोलें और दोबारा साइन इन करें।",
   "notification_reauth_required_title": "बैकग्राउंड सिंक रुका हुआ है",
   "notification_setup_title": "नोटिफिकेशन पुनः कॉन्फ़िगर करें",

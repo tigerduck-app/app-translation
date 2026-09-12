@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Сървърни известия (звук)";
 "notification_class_preparing_content_fallback" = "Часът е на път да започне";
 "notification_class_preparing_title" = "Час започва скоро: %1$@";
+"notification_permission_settings_nav_title" = "Разрешения за известия";
 "notification_setup_description" = "Активирайте разрешенията по-долу, за да се гарантира, че напомнянията за задания, предупрежденията за предстоящ час и Live Activity пристигат навреме дори когато приложението е затворено.";
 "notification_setup_title" = "Преконфигуриране на известия";
 "onboarding_analytics_description" = "Помогни за подобряването на TigerDuck, като споделяш анонимни данни за посетени страници и използване на виджети. Можеш да промениш това по всяко време в Настройки.";

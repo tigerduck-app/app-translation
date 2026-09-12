@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Сервер хабарландырулары (дыбыспен)";
 "notification_class_preparing_content_fallback" = "Сабақ жақын басталады";
 "notification_class_preparing_title" = "Сабақ жақын басталады: %1$@";
+"notification_permission_settings_nav_title" = "Хабарландыру рұқсаттары";
 "notification_setup_description" = "Қолданба жабық болса да тапсырма еске салулары, сабақ басталу ескертулері және Live Activity уақытында жетуі үшін төмендегі рұқсаттарды қосыңыз.";
 "notification_setup_title" = "Хабарландыруларды қайта орнату";
 "onboarding_analytics_description" = "Қаралған беттер мен виджет пайдалануы туралы анонимді деректерді бөлісу арқылы TigerDuck-ты жақсартуға көмектесіңіз. Мұны Параметрлерде кез келген уақытта өзгертуге болады.";

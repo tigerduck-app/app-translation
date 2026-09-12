@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Serverio pranešimai (su garsu)";
 "notification_class_preparing_content_fallback" = "Paskaita tuoj prasidės";
 "notification_class_preparing_title" = "Paskaita prasideda: %1$@";
+"notification_permission_settings_nav_title" = "Pranešimų leidimai";
 "notification_setup_description" = "Įjunkite toliau nurodytus leidimus, kad užduočių priminimai, paskaitų įspėjimai ir Live Activity būtų pristatomi laiku net uždarius programą.";
 "notification_setup_title" = "Iš naujo konfigūruoti pranešimus";
 "onboarding_analytics_description" = "Padėk tobulinti TigerDuck dalindamasis anoniminiais duomenimis apie lankytus puslapius ir valdiklių naudojimą. Tai galite keisti bet kada Nustatymuose.";

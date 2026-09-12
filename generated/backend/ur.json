@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "سرور اطلاعات (آواز)",
   "notification_class_preparing_content_fallback": "کلاس شروع ہونے والی ہے",
   "notification_class_preparing_title": "کلاس جلد شروع ہو رہی ہے: %1$s",
+  "notification_permission_settings_nav_title": "اطلاع کی اجازتیں",
   "notification_reauth_required_body": "Moodle سے کنکشن کی میعاد ختم ہو گئی ہے۔ سنک دوبارہ شروع کرنے کے لیے TigerDuck کھولیں اور دوبارہ سائن ان کریں۔",
   "notification_reauth_required_title": "پس منظر کا سنک رک گیا ہے",
   "notification_setup_title": "اطلاعات دوبارہ ترتیب دیں",

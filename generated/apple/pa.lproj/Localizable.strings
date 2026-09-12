@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "ਸਰਵਰ ਸੂਚਨਾਵਾਂ (ਆਵਾਜ਼)";
 "notification_class_preparing_content_fallback" = "ਕਲਾਸ ਸ਼ੁਰੂ ਹੋਣ ਵਾਲੀ ਹੈ";
 "notification_class_preparing_title" = "ਕਲਾਸ ਜਲਦੀ ਸ਼ੁਰੂ ਹੋਵੇਗੀ: %1$@";
+"notification_permission_settings_nav_title" = "ਸੂਚਨਾ ਅਨੁਮਤੀਆਂ";
 "notification_setup_description" = "ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਚਾਲੂ ਕਰੋ ਤਾਂ ਜੋ ਅਸਾਈਨਮੈਂਟ ਰੀਮਾਈਂਡਰ, ਕਲਾਸ-ਸ਼ੁਰੂ ਹੋਣ ਦੀਆਂ ਸੂਚਨਾਵਾਂ, ਅਤੇ Live Activity ਐਪ ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ ਸਮੇਂ 'ਤੇ ਪਹੁੰਚ ਸਕਣ।";
 "notification_setup_title" = "ਸੂਚਨਾਵਾਂ ਦੁਬਾਰਾ ਸੈੱਟ ਕਰੋ";
 "onboarding_analytics_description" = "ਅਗਿਆਤ ਪੰਨਾ ਵਿਜ਼ਿਟ ਅਤੇ ਵਿਜੇਟ ਵਰਤੋਂ ਸਾਂਝੀ ਕਰਕੇ TigerDuck ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰੋ। ਤੁਸੀਂ ਇਹ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਦਲ ਸਕਦੇ ਹੋ।";

@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Notifikasi server (bersuara)";
 "notification_class_preparing_content_fallback" = "Kelas akan segera dimulai";
 "notification_class_preparing_title" = "Kelas akan segera dimulai: %1$@";
+"notification_permission_settings_nav_title" = "Pengaturan izin notifikasi";
 "notification_setup_description" = "Aktifkan izin di bawah ini untuk memastikan pengingat tugas, peringatan sebelum kelas, dan Live Activity tiba tepat waktu meskipun aplikasi ditutup.";
 "notification_setup_title" = "Konfigurasi ulang notifikasi";
 "onboarding_analytics_description" = "Bantu tingkatkan TigerDuck dengan berbagi data anonim tentang halaman yang dikunjungi dan penggunaan widget. Kamu bisa mengubah ini kapan saja di Pengaturan.";

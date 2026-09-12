@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "سرور اطلاعات (آواز)",
     "notification_class_preparing_content_fallback": "کلاس شروع ہونے والی ہے",
     "notification_class_preparing_title": "کلاس جلد شروع ہو رہی ہے: %1$s",
+    "notification_permission_settings_nav_title": "اطلاع کی اجازتیں",
     "notification_setup_title": "اطلاعات دوبارہ ترتیب دیں",
     "onboarding_analytics_description": "گمنام صفحہ وزٹ اور ویجٹ استعمال شیئر کر کے TigerDuck کو بہتر بنانے میں مدد کریں۔ آپ اسے کسی بھی وقت ترتیبات میں تبدیل کر سکتے ہیں۔",
     "onboarding_analytics_label": "استعمال کا تجزیہ (اختیاری)",

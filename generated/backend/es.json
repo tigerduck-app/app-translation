@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Notificaciones del servidor (con sonido)",
   "notification_class_preparing_content_fallback": "La clase está por comenzar",
   "notification_class_preparing_title": "La clase comienza pronto: %1$s",
+  "notification_permission_settings_nav_title": "Permisos de notificaciones",
   "notification_reauth_required_body": "La conexión con Moodle ha caducado. Abre TigerDuck e inicia sesión de nuevo para reanudar la sincronización.",
   "notification_reauth_required_title": "Sincronización de fondo pausada",
   "notification_setup_title": "Reconfigurar notificaciones",

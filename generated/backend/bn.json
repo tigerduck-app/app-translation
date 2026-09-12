@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "সার্ভার বিজ্ঞপ্তি (শব্দসহ)",
   "notification_class_preparing_content_fallback": "ক্লাস শুরু হতে চলেছে",
   "notification_class_preparing_title": "ক্লাস শুরু হতে চলেছে: %1$s",
+  "notification_permission_settings_nav_title": "বিজ্ঞপ্তির অনুমতি সেটিংস",
   "notification_reauth_required_body": "Moodle-এর সংযোগের মেয়াদ শেষ হয়েছে। সিঙ্ক আবার চালু করতে TigerDuck খুলে আবার সাইন ইন করুন।",
   "notification_reauth_required_title": "ব্যাকগ্রাউন্ড সিঙ্ক বন্ধ হয়ে আছে",
   "notification_setup_title": "বিজ্ঞপ্তি পুনরায় কনফিগার করুন",

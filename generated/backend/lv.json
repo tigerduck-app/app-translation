@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Servera paziņojumi (skaņa)",
   "notification_class_preparing_content_fallback": "Nodarbība drīz sāksies",
   "notification_class_preparing_title": "Drīz sāksies: %1$s",
+  "notification_permission_settings_nav_title": "Paziņojumu atļaujas",
   "notification_reauth_required_body": "Savienojuma ar Moodle derīguma termiņš ir beidzies. Atveriet TigerDuck un piesakieties vēlreiz, lai sinhronizācija atsāktos.",
   "notification_reauth_required_title": "Sinhronizācija fonā ir apturēta",
   "notification_setup_title": "Pārkonfigurēt paziņojumus",

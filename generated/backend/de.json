@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Serverbenachrichtigungen (mit Ton)",
   "notification_class_preparing_content_fallback": "Der Unterricht beginnt gleich",
   "notification_class_preparing_title": "Unterricht beginnt bald: %1$s",
+  "notification_permission_settings_nav_title": "Benachrichtigungsberechtigungen",
   "notification_reauth_required_body": "Die Verbindung zu Moodle ist abgelaufen. Öffnen Sie TigerDuck und melden Sie sich erneut an, um die Synchronisierung fortzusetzen.",
   "notification_reauth_required_title": "Hintergrundsynchronisierung angehalten",
   "notification_setup_title": "Benachrichtigungen neu einrichten",

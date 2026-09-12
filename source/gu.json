@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "સર્વર સૂચનાઓ (અવાજ સાથે)",
     "notification_class_preparing_content_fallback": "ક્લાસ શરૂ થવાની તૈયારીમાં છે",
     "notification_class_preparing_title": "વર્ગ ટૂંક સમયમાં શરૂ: %1$s",
+    "notification_permission_settings_nav_title": "નોટિફિકેશન પરમિશન સેટિંગ્સ",
     "notification_setup_title": "નોટિફિકેશન ફરીથી ગોઠવો",
     "onboarding_analytics_description": "અજ્ઞાત પૃષ્ઠ મુલાકાત અને વિજેટ ઉપયોગ શેર કરીને TigerDuck સુધારવામાં મદદ કરો. તમે આ ગમે ત્યારે સેટિંગ્સમાં બદલી શકો છો.",
     "onboarding_analytics_label": "ઉપયોગ વિશ્લેષણ (વૈકલ્પિક)",

@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "Serveriteated (heliga)",
     "notification_class_preparing_content_fallback": "Tund on kohe algamas",
     "notification_class_preparing_title": "Tund algab varsti: %1$s",
+    "notification_permission_settings_nav_title": "Teavituste load",
     "notification_setup_title": "Seadista teavitused uuesti",
     "onboarding_analytics_description": "Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta.",
     "onboarding_analytics_label": "Kasutusanalüütika (valikuline)",

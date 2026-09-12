@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Servera paziņojumi (skaņa)";
 "notification_class_preparing_content_fallback" = "Nodarbība drīz sāksies";
 "notification_class_preparing_title" = "Drīz sāksies: %1$@";
+"notification_permission_settings_nav_title" = "Paziņojumu atļaujas";
 "notification_setup_description" = "Iespējojiet tālāk minētās atļaujas, lai uzdevumu atgādinājumi, nodarbību brīdinājumi un Live Activity tiktu piegādāti laikā arī tad, kad lietotne ir aizvērta.";
 "notification_setup_title" = "Pārkonfigurēt paziņojumus";
 "onboarding_analytics_description" = "Palīdzi uzlabot TigerDuck, daloties ar anonīmiem datiem par apmeklētajām lapām un sīkrīku lietošanu. To var mainīt jebkurā laikā Iestatījumos.";

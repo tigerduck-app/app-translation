@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "সার্ভার বিজ্ঞপ্তি (শব্দসহ)",
     "notification_class_preparing_content_fallback": "ক্লাস শুরু হতে চলেছে",
     "notification_class_preparing_title": "ক্লাস শুরু হতে চলেছে: %1$s",
+    "notification_permission_settings_nav_title": "বিজ্ঞপ্তির অনুমতি সেটিংস",
     "notification_setup_title": "বিজ্ঞপ্তি পুনরায় কনফিগার করুন",
     "onboarding_analytics_description": "বেনামী পেজ ভিজিট ও উইজেট ব্যবহারের তথ্য শেয়ার করে TigerDuck উন্নত করতে সাহায্য করুন। আপনি যেকোনো সময় সেটিংসে এটি পরিবর্তন করতে পারবেন।",
     "onboarding_analytics_label": "ব্যবহার বিশ্লেষণ (ঐচ্ছিক)",

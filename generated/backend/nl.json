@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Servermeldingen (geluid)",
   "notification_class_preparing_content_fallback": "Les begint zo",
   "notification_class_preparing_title": "Les begint zo: %1$s",
+  "notification_permission_settings_nav_title": "Meldingsmachtigingen",
   "notification_reauth_required_body": "De verbinding met Moodle is verlopen. Open TigerDuck en log opnieuw in om het synchroniseren te hervatten.",
   "notification_reauth_required_title": "Synchronisatie gepauzeerd",
   "notification_setup_title": "Meldingen opnieuw configureren",

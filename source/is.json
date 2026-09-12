@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "Þjónatilkynningar (með hljóði)",
     "notification_class_preparing_content_fallback": "Tíminn er að byrja",
     "notification_class_preparing_title": "Tími byrjar bráðum: %1$s",
+    "notification_permission_settings_nav_title": "Tilkynningaleyfisstillingar",
     "notification_setup_title": "Endursetja tilkynningar",
     "onboarding_analytics_description": "Hjálpaðu til við að bæta TigerDuck með því að deila nafnlausum síðuheimsóknum og notkun widgets. Þú getur breytt þessu hvenær sem er í Stillingar.",
     "onboarding_analytics_label": "Notkunargreining (valfrjálst)",

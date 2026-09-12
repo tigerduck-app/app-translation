@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "サーバー通知（サウンドあり）";
 "notification_class_preparing_content_fallback" = "まもなく授業が始まります";
 "notification_class_preparing_title" = "まもなく授業開始：%1$@";
+"notification_permission_settings_nav_title" = "通知の許可設定";
 "notification_setup_description" = "以下の権限を有効にすると、アプリを閉じていても課題リマインダー、授業開始前の通知、Live Activity を時間どおりに受け取れます。";
 "notification_setup_title" = "通知を再設定";
 "onboarding_analytics_description" = "閲覧ページやウィジェットの使用状況に関する匿名データを共有して、TigerDuck の改善にご協力ください。設定からいつでも変更できます。";

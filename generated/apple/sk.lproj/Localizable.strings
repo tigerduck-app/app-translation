@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Serverové oznámenia (zvuk)";
 "notification_class_preparing_content_fallback" = "Hodina čoskoro začína";
 "notification_class_preparing_title" = "Čoskoro začína hodina: %1$@";
+"notification_permission_settings_nav_title" = "Povolenia notifikácií";
 "notification_setup_description" = "Povoľte nižšie uvedené oprávnenia, aby pripomienky úloh, upozornenia pred hodinou a Live Activity prichádzali včas aj keď je aplikácia zatvorená.";
 "notification_setup_title" = "Znovu nastaviť notifikácie";
 "onboarding_analytics_description" = "Pomôž nám vylepšiť TigerDuck zdieľaním anonymných údajov o navštívených stránkach a používaní widgetov. Kedykoľvek to môžeš zmeniť v Nastaveniach.";

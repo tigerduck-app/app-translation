@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Palvelimilmoitukset (äänellä)";
 "notification_class_preparing_content_fallback" = "Tunti alkaa pian";
 "notification_class_preparing_title" = "Tunti alkaa pian: %1$@";
+"notification_permission_settings_nav_title" = "Ilmoitusluvat";
 "notification_setup_description" = "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja Live Activity saapuvat ajoissa myös sovelluksen ollessa suljettuna.";
 "notification_setup_title" = "Määritä ilmoitukset uudelleen";
 "onboarding_analytics_description" = "Auta kehittämään TigerDuckia jakamalla anonyymejä sivuvierailuja ja widgetien käyttötietoja. Voit muuttaa tätä milloin tahansa Asetuksista.";

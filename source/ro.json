@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "Notificări server (cu sunet)",
     "notification_class_preparing_content_fallback": "Cursul este pe cale să înceapă",
     "notification_class_preparing_title": "Curs începe în curând: %1$s",
+    "notification_permission_settings_nav_title": "Permisiuni notificări",
     "notification_setup_title": "Reconfigurează notificările",
     "onboarding_analytics_description": "Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări.",
     "onboarding_analytics_label": "Analiză utilizare (opțional)",

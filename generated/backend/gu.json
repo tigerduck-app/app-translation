@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "સર્વર સૂચનાઓ (અવાજ સાથે)",
   "notification_class_preparing_content_fallback": "ક્લાસ શરૂ થવાની તૈયારીમાં છે",
   "notification_class_preparing_title": "વર્ગ ટૂંક સમયમાં શરૂ: %1$s",
+  "notification_permission_settings_nav_title": "નોટિફિકેશન પરમિશન સેટિંગ્સ",
   "notification_reauth_required_body": "Moodle સાથેનું જોડાણ સમાપ્ત થઈ ગયું છે. સિંક ફરી શરૂ કરવા માટે TigerDuck ખોલીને ફરી સાઇન ઇન કરો.",
   "notification_reauth_required_title": "બૅકગ્રાઉન્ડ સિંક અટકી ગયું છે",
   "notification_setup_title": "નોટિફિકેશન ફરીથી ગોઠવો",

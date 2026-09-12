@@ -496,6 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Servervarsler (lyd)";
 "notification_class_preparing_content_fallback" = "Timen er i ferd med å starte";
 "notification_class_preparing_title" = "Timen starter snart: %1$@";
+"notification_permission_settings_nav_title" = "Varslingstillatelser";
 "notification_setup_description" = "Aktiver tillatelsene nedenfor for å sikre at oppgavepåminnelser, timevarsler og Live Activity kommer frem i tide selv når appen er lukket.";
 "notification_setup_title" = "Konfigurer varsler på nytt";
 "onboarding_analytics_description" = "Hjelp til å forbedre TigerDuck ved å dele anonyme sidebesøk og bruk av widgets. Du kan endre dette når som helst i Innstillinger.";

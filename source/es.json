@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "Notificaciones del servidor (con sonido)",
     "notification_class_preparing_content_fallback": "La clase está por comenzar",
     "notification_class_preparing_title": "La clase comienza pronto: %1$s",
+    "notification_permission_settings_nav_title": "Permisos de notificaciones",
     "notification_setup_title": "Reconfigurar notificaciones",
     "onboarding_analytics_description": "Ayuda a mejorar TigerDuck compartiendo visitas de páginas y uso de widgets de forma anónima. Puedes cambiarlo en cualquier momento en Ajustes.",
     "onboarding_analytics_label": "Análisis de uso (opcional)",

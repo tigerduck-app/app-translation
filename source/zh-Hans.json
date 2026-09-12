@@ -483,6 +483,7 @@
     "notification_bulletin_sound_channel_name": "服务器通知（声音）",
     "notification_class_preparing_content_fallback": "课程即将开始",
     "notification_class_preparing_title": "即将上课：%1$s",
+    "notification_permission_settings_nav_title": "通知权限设置",
     "notification_setup_title": "重新设置通知",
     "onboarding_analytics_description": "通过分享匿名的页面浏览和小组件使用数据，帮助改进 TigerDuck。你可以随时在设置中更改。",
     "onboarding_analytics_label": "使用分析（可选）",

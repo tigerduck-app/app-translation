@@ -482,6 +482,7 @@
   "notification_bulletin_sound_channel_name": "Сервер хабарландырулары (дыбыспен)",
   "notification_class_preparing_content_fallback": "Сабақ жақын басталады",
   "notification_class_preparing_title": "Сабақ жақын басталады: %1$s",
+  "notification_permission_settings_nav_title": "Хабарландыру рұқсаттары",
   "notification_reauth_required_body": "Moodle байланысының мерзімі аяқталды. Синхрондауды жалғастыру үшін TigerDuck қолданбасын ашып, қайта кіріңіз.",
   "notification_reauth_required_title": "Фондық синхрондау тоқтатылды",
   "notification_setup_title": "Хабарландыруларды қайта орнату",
