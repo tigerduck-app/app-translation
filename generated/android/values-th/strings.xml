@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">ช่วยพัฒนา TigerDuck ด้วยการแชร์ข้อมูลการเข้าชมหน้าและการใช้วิดเจ็ตแบบไม่ระบุตัวตน คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า</string>
     <string name="onboarding_analytics_label">การวิเคราะห์การใช้งาน (ไม่บังคับ)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">คุณกำลังใช้บิลด์ F-Droid เนื่องจากนโยบายของ F-Droid ห้ามการพึ่งพาบริการของ Google (Firebase FCM, GMS ฯลฯ) ฟีเจอร์สองอย่างต่อไปนี้จึงไม่มีในบิลด์นี้:\n\n1. แอปคู่กับ Wear OS\n2. การแจ้งเตือนแบบพุชเรียลไทม์</string>
+    <string name="onboarding_flavor_fdroid_description">คุณกำลังใช้บิลด์ F-Droid เนื่องจากนโยบายของ F-Droid ห้ามการพึ่งพาบริการของ Google (Firebase FCM, GMS ฯลฯ) ฟีเจอร์ต่อไปนี้จึงไม่มีในบิลด์นี้:\n\n1. แอปคู่กับ Wear OS\n2. การแจ้งเตือนแบบพุชเรียลไทม์\n3. TigerSync: ซิงค์ข้อมูลรายวิชา\n4. TigerSync: รับการแจ้งเตือนเซิร์ฟเวอร์เพิ่มเติม</string>
     <string name="onboarding_flavor_fdroid_title">ประกาศเกี่ยวกับบิลด์ F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck มาพร้อมแอปคู่กับ Wear OS ดูข้อความในชั้นเรียนบนนาฬิกาของคุณ — Wear TigerDuck จะซิงค์ข้อมูลจากโทรศัพท์ของคุณ</string>
     <string name="onboarding_flavor_play_title">รองรับ Wear OS</string>

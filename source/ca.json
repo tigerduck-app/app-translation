@@ -871,7 +871,7 @@
     "notification_setup_description": "Activeu els permisos següents per garantir que els recordatoris de tasques, les alertes de classe i Live Updates arribin a temps fins i tot quan l'aplicació estigui tancada.",
     "notification_system_channel_description": "Problemes de compte i de sincronització que requereixen la vostra atenció",
     "notification_system_channel_name": "Notificacions del sistema",
-    "onboarding_flavor_fdroid_description": "Estàs utilitzant la versió F-Droid. Com que la política de F-Droid prohibeix dependre dels serveis de Google (Firebase FCM, GMS, etc.), les dues funcions següents no estan disponibles en aquesta versió:\n\n1. App acompanyant per a Wear OS\n2. Notificacions push en temps real",
+    "onboarding_flavor_fdroid_description": "Estàs utilitzant la versió F-Droid. Com que la política de F-Droid prohibeix dependre dels serveis de Google (Firebase FCM, GMS, etc.), les funcions següents no estan disponibles en aquesta versió:\n\n1. App acompanyant per a Wear OS\n2. Notificacions push en temps real\n3. TigerSync: Sincronitza la informació del curs\n4. TigerSync: Rep notificacions addicionals del servidor",
     "onboarding_flavor_fdroid_title": "Avís de la versió F-Droid",
     "onboarding_flavor_play_description": "TigerDuck inclou una app acompanyant per a Wear OS. Mira els missatges de classe al teu rellotge — Wear TigerDuck sincronitza la informació del teu telèfon.",
     "onboarding_flavor_play_title": "Compatibilitat amb Wear OS",

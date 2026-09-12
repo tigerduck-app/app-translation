@@ -871,7 +871,7 @@
     "notification_setup_description": "असाइनमेंट स्मरणपत्रे, वर्ग सुरू होण्याच्या सूचना आणि Live Updates ॲप बंद असतानाही वेळेवर येण्यासाठी खालील परवानग्या सक्षम करा.",
     "notification_system_channel_description": "खाते आणि सिंक संबंधित समस्या, ज्यांकडे तुमचे लक्ष आवश्यक आहे",
     "notification_system_channel_name": "सिस्टम अधिसूचना",
-    "onboarding_flavor_fdroid_description": "तुम्ही F-Droid बिल्ड वापरत आहात. F-Droidच्या धोरणामुळे Google सेवांवर (Firebase FCM, GMS इत्यादी) अवलंबून राहता येत नाही, त्यामुळे या बिल्डमध्ये पुढील दोन वैशिष्ट्ये उपलब्ध नाहीत:\n\n1. Wear OS सोबती ॲप\n2. रिअल-टाइम पुश सूचना",
+    "onboarding_flavor_fdroid_description": "तुम्ही F-Droid बिल्ड वापरत आहात. F-Droidच्या धोरणामुळे Google सेवांवर (Firebase FCM, GMS इत्यादी) अवलंबून राहता येत नाही, त्यामुळे या बिल्डमध्ये पुढील वैशिष्ट्ये उपलब्ध नाहीत:\n\n1. Wear OS सोबती ॲप\n2. रिअल-टाइम पुश सूचना\n3. TigerSync: अभ्यासक्रम माहिती सिंक करा\n4. TigerSync: अतिरिक्त सर्व्हर सूचना मिळवा",
     "onboarding_flavor_fdroid_title": "F-Droid बिल्ड सूचना",
     "onboarding_flavor_play_description": "TigerDuckमध्ये Wear OS सोबती आहे. तुमच्या घड्याळावर वर्ग संदेश पाहा — Wear TigerDuck तुमच्या फोनवरील माहिती सिंक करते.",
     "onboarding_flavor_play_title": "Wear OS समर्थन",

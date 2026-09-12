@@ -871,7 +871,7 @@
     "notification_setup_description": "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja Live Updates saapuvat ajoissa myös sovelluksen ollessa suljettuna.",
     "notification_system_channel_description": "Tiliin ja synkronointiin liittyvät ongelmat, jotka vaativat huomiotasi",
     "notification_system_channel_name": "Järjestelmäilmoitukset",
-    "onboarding_flavor_fdroid_description": "Käytät F-Droid-versiota. Koska F-Droidin käytäntö kieltää riippuvuuden Googlen palveluista (Firebase FCM, GMS jne.), seuraavat kaksi ominaisuutta eivät ole käytettävissä tässä versiossa:\n\n1. Wear OS -kumppanisovellus\n2. Reaaliaikaiset push-ilmoitukset",
+    "onboarding_flavor_fdroid_description": "Käytät F-Droid-versiota. Koska F-Droidin käytäntö kieltää riippuvuuden Googlen palveluista (Firebase FCM, GMS jne.), seuraavat ominaisuudet eivät ole käytettävissä tässä versiossa:\n\n1. Wear OS -kumppanisovellus\n2. Reaaliaikaiset push-ilmoitukset\n3. TigerSync: Synkronoi kurssitiedot\n4. TigerSync: Vastaanota lisäilmoituksia palvelimelta",
     "onboarding_flavor_fdroid_title": "F-Droid-version huomautus",
     "onboarding_flavor_play_description": "TigerDuck sisältää Wear OS -kumppanisovelluksen. Katso oppituntien viestit kellostasi — Wear TigerDuck synkronoi tiedot puhelimestasi.",
     "onboarding_flavor_play_title": "Wear OS -tuki",

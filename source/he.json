@@ -871,7 +871,7 @@
     "notification_setup_description": "הפעל את ההרשאות שלהלן כדי להבטיח שתזכורות מטלות, התראות לפני שיעור ו-Live Updates יגיעו בזמן גם כשהאפליקציה סגורה.",
     "notification_system_channel_description": "בעיות בחשבון ובסנכרון שדורשות טיפול",
     "notification_system_channel_name": "התראות מערכת",
-    "onboarding_flavor_fdroid_description": "אתה משתמש בגרסת F-Droid. מכיוון שמדיניות F-Droid אוסרת על תלות בשירותי Google (Firebase FCM, GMS וכו'), שתי התכונות הבאות אינן זמינות בגרסה זו:\n\n1. אפליקציית Wear OS נלווית\n2. התראות פוש בזמן אמת",
+    "onboarding_flavor_fdroid_description": "אתה משתמש בגרסת F-Droid. מכיוון שמדיניות F-Droid אוסרת על תלות בשירותי Google (Firebase FCM, GMS וכו'), התכונות הבאות אינן זמינות בגרסה זו:\n\n1. אפליקציית Wear OS נלווית\n2. התראות פוש בזמן אמת\n3. TigerSync: סנכרון מידע על קורסים\n4. TigerSync: קבלת התראות נוספות מהשרת",
     "onboarding_flavor_fdroid_title": "הודעה על גרסת F-Droid",
     "onboarding_flavor_play_description": "TigerDuck כולל אפליקציה נלווית ל-Wear OS. צפה בהודעות שיעור על השעון שלך — Wear TigerDuck מסנכרן מידע מהטלפון שלך.",
     "onboarding_flavor_play_title": "תמיכה ב-Wear OS",

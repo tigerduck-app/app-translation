@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Padėk tobulinti TigerDuck dalindamasis anoniminiais duomenimis apie lankytus puslapius ir valdiklių naudojimą. Tai galite keisti bet kada Nustatymuose.</string>
     <string name="onboarding_analytics_label">Naudojimo analizė (neprivaloma)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Naudojate F-Droid versiją. Kadangi F-Droid politika draudžia priklausomybę nuo Google paslaugų (Firebase FCM, GMS ir kt.), šios dvi funkcijos nepasiekiamos šioje versijoje:\n\n1. Wear OS palydovinė programėlė\n2. Tiesioginiai pranešimai realiu laiku</string>
+    <string name="onboarding_flavor_fdroid_description">Naudojate F-Droid versiją. Kadangi F-Droid politika draudžia priklausomybę nuo Google paslaugų (Firebase FCM, GMS ir kt.), šios funkcijos nepasiekiamos šioje versijoje:\n\n1. Wear OS palydovinė programėlė\n2. Tiesioginiai pranešimai realiu laiku\n3. TigerSync: Sinchronizuoti kursų informaciją\n4. TigerSync: Gauti papildomus serverio pranešimus</string>
     <string name="onboarding_flavor_fdroid_title">Pranešimas apie F-Droid versiją</string>
     <string name="onboarding_flavor_play_description">TigerDuck turi Wear OS palydovinę programėlę. Žiūrėkite paskaitų pranešimus laikrodyje — Wear TigerDuck sinchronizuoja informaciją iš jūsų telefono.</string>
     <string name="onboarding_flavor_play_title">Wear OS palaikymas</string>

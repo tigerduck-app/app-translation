@@ -871,7 +871,7 @@
     "notification_setup_description": "Ative as permissões abaixo para garantir que os lembretes de atividades, alertas de início de aula e Live Updates cheguem na hora certa, mesmo com o app fechado.",
     "notification_system_channel_description": "Problemas de conta e sincronização que precisam da sua atenção",
     "notification_system_channel_name": "Notificações do sistema",
-    "onboarding_flavor_fdroid_description": "Você está usando a versão F-Droid. Como a política do F-Droid proíbe a dependência dos serviços do Google (Firebase FCM, GMS etc.), os dois recursos a seguir não estão disponíveis nesta versão:\n\n1. App complementar para Wear OS\n2. Notificações push em tempo real",
+    "onboarding_flavor_fdroid_description": "Você está usando a versão F-Droid. Como a política do F-Droid proíbe a dependência dos serviços do Google (Firebase FCM, GMS etc.), os recursos a seguir não estão disponíveis nesta versão:\n\n1. App complementar para Wear OS\n2. Notificações push em tempo real\n3. TigerSync: Sincronizar informações das disciplinas\n4. TigerSync: Receber notificações adicionais do servidor",
     "onboarding_flavor_fdroid_title": "Aviso da versão F-Droid",
     "onboarding_flavor_play_description": "O TigerDuck inclui um complementar para Wear OS. Veja mensagens das aulas no seu relógio — o Wear TigerDuck sincroniza as informações do seu celular.",
     "onboarding_flavor_play_title": "Suporte a Wear OS",

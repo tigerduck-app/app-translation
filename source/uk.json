@@ -871,7 +871,7 @@
     "notification_setup_description": "Увімкніть наведені нижче дозволи, щоб нагадування про завдання, сповіщення про початок заняття та Live Updates надходили вчасно навіть тоді, коли застосунок закрито.",
     "notification_system_channel_description": "Проблеми з обліковим записом і синхронізацією, які потребують вашої уваги",
     "notification_system_channel_name": "Системні сповіщення",
-    "onboarding_flavor_fdroid_description": "Ви використовуєте збірку F-Droid. Оскільки правила F-Droid забороняють залежність від сервісів Google (Firebase FCM, GMS тощо), у цій збірці недоступні дві наведені нижче функції:\n\n1. Супутній застосунок Wear OS\n2. Push-сповіщення в реальному часі",
+    "onboarding_flavor_fdroid_description": "Ви використовуєте збірку F-Droid. Оскільки правила F-Droid забороняють залежність від сервісів Google (Firebase FCM, GMS тощо), у цій збірці недоступні наведені нижче функції:\n\n1. Супутній застосунок Wear OS\n2. Push-сповіщення в реальному часі\n3. TigerSync: Синхронізувати інформацію про курси\n4. TigerSync: Отримувати додаткові сповіщення сервера",
     "onboarding_flavor_fdroid_title": "Сповіщення про збірку F-Droid",
     "onboarding_flavor_play_description": "TigerDuck містить супутній застосунок Wear OS. Переглядайте повідомлення занять на годиннику — Wear TigerDuck синхронізує дані з вашого телефона.",
     "onboarding_flavor_play_title": "Підтримка Wear OS",

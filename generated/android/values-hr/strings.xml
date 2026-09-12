@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Pomozi poboljšati TigerDuck dijeljenjem anonimnih podataka o posjećenim stranicama i korištenju widgeta. To možeš promijeniti u bilo kojem trenutku u Postavkama.</string>
     <string name="onboarding_analytics_label">Analitika korištenja (neobavezno)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Koristite F-Droid verziju. Budući da pravila F-Droida zabranjuju ovisnost o Googleovim uslugama (Firebase FCM, GMS itd.), sljedeće dvije značajke nisu dostupne u ovoj verziji:\n\n1. Prateća aplikacija Wear OS\n2. Push obavijesti u stvarnom vremenu</string>
+    <string name="onboarding_flavor_fdroid_description">Koristite F-Droid verziju. Budući da pravila F-Droida zabranjuju ovisnost o Googleovim uslugama (Firebase FCM, GMS itd.), sljedeće značajke nisu dostupne u ovoj verziji:\n\n1. Prateća aplikacija Wear OS\n2. Push obavijesti u stvarnom vremenu\n3. TigerSync: Sinkroniziraj podatke o kolegijima\n4. TigerSync: Primaj dodatne obavijesti poslužitelja</string>
     <string name="onboarding_flavor_fdroid_title">Obavijest o F-Droid verziji</string>
     <string name="onboarding_flavor_play_description">TigerDuck uključuje pratećeg pomoćnika za Wear OS. Pogledajte poruke s nastave na svom satu — Wear TigerDuck sinkronizira podatke s vašeg telefona.</string>
     <string name="onboarding_flavor_play_title">Podrška za Wear OS</string>

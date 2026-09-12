@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">அநாமதேய பக்க வருகைகள் மற்றும் விட்ஜெட் பயன்பாட்டை பகிர்ந்து TigerDuck-ஐ மேம்படுத்த உதவுங்கள். இதை எப்போது வேண்டுமானாலும் அமைப்புகளில் மாற்றலாம்.</string>
     <string name="onboarding_analytics_label">பயன்பாட்டு பகுப்பாய்வு (விரும்பினால்)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">நீங்கள் F-Droid பதிப்பைப் பயன்படுத்துகிறீர்கள். F-Droid கொள்கை Google சேவைகளை (Firebase FCM, GMS போன்றவை) சார்ந்திருப்பதைத் தடைசெய்வதால், கீழ்க்கண்ட இரண்டு அம்சங்கள் இந்தப் பதிப்பில் கிடைக்கவில்லை:\n\n1. Wear OS துணை ஆப்\n2. நேரடி புஷ் அறிவிப்புகள்</string>
+    <string name="onboarding_flavor_fdroid_description">நீங்கள் F-Droid பதிப்பைப் பயன்படுத்துகிறீர்கள். F-Droid கொள்கை Google சேவைகளை (Firebase FCM, GMS போன்றவை) சார்ந்திருப்பதைத் தடைசெய்வதால், கீழ்க்கண்ட அம்சங்கள் இந்தப் பதிப்பில் கிடைக்கவில்லை:\n\n1. Wear OS துணை ஆப்\n2. நேரடி புஷ் அறிவிப்புகள்\n3. TigerSync: பாடநெறி தகவலை ஒத்திசை\n4. TigerSync: கூடுதல் சேவையக அறிவிப்புகளைப் பெறு</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid பதிப்பு அறிவிப்பு</string>
     <string name="onboarding_flavor_play_description">TigerDuck இல் Wear OS துணை ஆப் உள்ளது. உங்கள் கடிகாரத்தில் வகுப்புச் செய்திகளைப் பாருங்கள் — Wear TigerDuck உங்கள் தொலைபேசியிலிருந்து தகவல்களை ஒத்திசைக்கிறது.</string>
     <string name="onboarding_flavor_play_title">Wear OS ஆதரவு</string>

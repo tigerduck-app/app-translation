@@ -871,7 +871,7 @@
     "notification_setup_description": "Aktivera behörigheterna nedan för att säkerställa att påminnelser om uppgifter, förlektion-varningar och Live Updates levereras i tid även när appen är stängd.",
     "notification_system_channel_description": "Konto- och synkroniseringsproblem som kräver din uppmärksamhet",
     "notification_system_channel_name": "Systemaviseringar",
-    "onboarding_flavor_fdroid_description": "Du använder F-Droid-versionen. Eftersom F-Droids policy förbjuder beroende av Googles tjänster (Firebase FCM, GMS osv.) är följande två funktioner inte tillgängliga i den här versionen:\n\n1. Wear OS-följeslagar-app\n2. Push-aviseringar i realtid",
+    "onboarding_flavor_fdroid_description": "Du använder F-Droid-versionen. Eftersom F-Droids policy förbjuder beroende av Googles tjänster (Firebase FCM, GMS osv.) är följande funktioner inte tillgängliga i den här versionen:\n\n1. Wear OS-följeslagar-app\n2. Push-aviseringar i realtid\n3. TigerSync: Synkronisera kursinformation\n4. TigerSync: Ta emot ytterligare serveraviseringar",
     "onboarding_flavor_fdroid_title": "Meddelande om F-Droid-versionen",
     "onboarding_flavor_play_description": "TigerDuck innehåller en Wear OS-följeslagare. Visa lektionsmeddelanden på din klocka — Wear TigerDuck synkroniserar information från din telefon.",
     "onboarding_flavor_play_title": "Stöd för Wear OS",

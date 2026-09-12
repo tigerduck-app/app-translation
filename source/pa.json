@@ -871,7 +871,7 @@
     "notification_setup_description": "ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਚਾਲੂ ਕਰੋ ਤਾਂ ਜੋ ਅਸਾਈਨਮੈਂਟ ਰੀਮਾਈਂਡਰ, ਕਲਾਸ-ਸ਼ੁਰੂ ਹੋਣ ਦੀਆਂ ਸੂਚਨਾਵਾਂ, ਅਤੇ Live Updates ਐਪ ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ ਸਮੇਂ 'ਤੇ ਪਹੁੰਚ ਸਕਣ।",
     "notification_system_channel_description": "ਖਾਤੇ ਅਤੇ ਸਿੰਕ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ, ਜਿਨ੍ਹਾਂ ਵੱਲ ਤੁਹਾਡਾ ਧਿਆਨ ਲੋੜੀਂਦਾ ਹੈ",
     "notification_system_channel_name": "ਸਿਸਟਮ ਸੂਚਨਾਵਾਂ",
-    "onboarding_flavor_fdroid_description": "ਤੁਸੀਂ F-Droid ਬਿਲਡ ਵਰਤ ਰਹੇ ਹੋ। ਕਿਉਂਕਿ F-Droid ਨੀਤੀ Google ਦੀਆਂ ਸੇਵਾਵਾਂ (Firebase FCM, GMS ਆਦਿ) 'ਤੇ ਨਿਰਭਰਤਾ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੰਦੀ, ਇਸ ਲਈ ਇਸ ਬਿਲਡ ਵਿੱਚ ਹੇਠਲੀਆਂ ਦੋ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ:\n\n1. Wear OS ਸਹਿਯੋਗੀ ਐਪ\n2. ਤੁਰੰਤ ਪੁਸ਼ ਨੋਟੀਫਿਕੇਸ਼ਨ",
+    "onboarding_flavor_fdroid_description": "ਤੁਸੀਂ F-Droid ਬਿਲਡ ਵਰਤ ਰਹੇ ਹੋ। ਕਿਉਂਕਿ F-Droid ਨੀਤੀ Google ਦੀਆਂ ਸੇਵਾਵਾਂ (Firebase FCM, GMS ਆਦਿ) 'ਤੇ ਨਿਰਭਰਤਾ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੰਦੀ, ਇਸ ਲਈ ਇਸ ਬਿਲਡ ਵਿੱਚ ਹੇਠਲੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ:\n\n1. Wear OS ਸਹਿਯੋਗੀ ਐਪ\n2. ਤੁਰੰਤ ਪੁਸ਼ ਨੋਟੀਫਿਕੇਸ਼ਨ\n3. TigerSync: ਕੋਰਸ ਦੀ ਜਾਣਕਾਰੀ ਸਿੰਕ ਕਰੋ\n4. TigerSync: ਵਾਧੂ ਸਰਵਰ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ",
     "onboarding_flavor_fdroid_title": "F-Droid ਬਿਲਡ ਸੂਚਨਾ",
     "onboarding_flavor_play_description": "TigerDuck ਵਿੱਚ Wear OS ਸਹਿਯੋਗੀ ਐਪ ਸ਼ਾਮਲ ਹੈ। ਆਪਣੀ ਘੜੀ 'ਤੇ ਕਲਾਸ ਸੁਨੇਹੇ ਵੇਖੋ — Wear TigerDuck ਤੁਹਾਡੇ ਫ਼ੋਨ ਤੋਂ ਜਾਣਕਾਰੀ ਸਿੰਕ ਕਰਦੀ ਹੈ।",
     "onboarding_flavor_play_title": "Wear OS ਸਹਾਇਤਾ",

@@ -871,7 +871,7 @@
     "notification_setup_description": "ಕಾರ್ಯ ಜ್ಞಾಪನೆಗಳು, ತರಗತಿ ಸಿದ್ಧತೆ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು Live Updates ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಿದ್ದರೂ ಸಮಯಕ್ಕೆ ತಲುಪುವಂತೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.",
     "notification_system_channel_description": "ನಿಮ್ಮ ಗಮನ ಬೇಕಿರುವ ಖಾತೆ ಮತ್ತು ಸಿಂಕ್ ಸಮಸ್ಯೆಗಳು",
     "notification_system_channel_name": "ಸಿಸ್ಟಂ ಅಧಿಸೂಚನೆಗಳು",
-    "onboarding_flavor_fdroid_description": "ನೀವು F-Droid ಬಿಲ್ಡ್ ಬಳಸುತ್ತಿದ್ದೀರಿ. F-Droid ನೀತಿಯು Google ಸೇವೆಗಳನ್ನು (Firebase FCM, GMS ಇತ್ಯಾದಿ) ಅವಲಂಬಿಸುವುದನ್ನು ನಿಷೇಧಿಸುವುದರಿಂದ, ಈ ಕೆಳಗಿನ ಎರಡು ವೈಶಿಷ್ಟ್ಯಗಳು ಈ ಬಿಲ್ಡ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ:\n\n1. Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್\n2. ರಿಯಲ್-ಟೈಮ್ ಪುಷ್ ಪ್ರಕಟಣೆಗಳು",
+    "onboarding_flavor_fdroid_description": "ನೀವು F-Droid ಬಿಲ್ಡ್ ಬಳಸುತ್ತಿದ್ದೀರಿ. F-Droid ನೀತಿಯು Google ಸೇವೆಗಳನ್ನು (Firebase FCM, GMS ಇತ್ಯಾದಿ) ಅವಲಂಬಿಸುವುದನ್ನು ನಿಷೇಧಿಸುವುದರಿಂದ, ಈ ಕೆಳಗಿನ ವೈಶಿಷ್ಟ್ಯಗಳು ಈ ಬಿಲ್ಡ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ:\n\n1. Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್\n2. ರಿಯಲ್-ಟೈಮ್ ಪುಷ್ ಪ್ರಕಟಣೆಗಳು\n3. TigerSync: ಕೋರ್ಸ್ ಮಾಹಿತಿ ಸಿಂಕ್ ಮಾಡಿ\n4. TigerSync: ಹೆಚ್ಚುವರಿ ಸರ್ವರ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ",
     "onboarding_flavor_fdroid_title": "F-Droid ಬಿಲ್ಡ್ ಸೂಚನೆ",
     "onboarding_flavor_play_description": "TigerDuck ಒಳಗೊಂಡಿರುವ Wear OS ಜೊತೆಗಿನ ಆ್ಯಪ್. ನಿಮ್ಮ ವಾಚ್‌ನಲ್ಲಿ ಕ್ಲಾಸ್ ಸಂದೇಶಗಳನ್ನು ನೋಡಿ — Wear TigerDuck ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಮಾಹಿತಿಯನ್ನು ಸಿಂಕ್ ಮಾಡುತ್ತದೆ.",
     "onboarding_flavor_play_title": "Wear OS ಬೆಂಬಲ",

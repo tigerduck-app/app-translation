@@ -871,7 +871,7 @@
     "notification_setup_description": "Aktifkan izin di bawah ini untuk memastikan pengingat tugas, peringatan sebelum kelas, dan Live Updates tiba tepat waktu meskipun aplikasi ditutup.",
     "notification_system_channel_description": "Masalah akun dan sinkronisasi yang perlu Anda tangani",
     "notification_system_channel_name": "Notifikasi sistem",
-    "onboarding_flavor_fdroid_description": "Anda menggunakan build F-Droid. Karena kebijakan F-Droid melarang ketergantungan pada layanan Google (Firebase FCM, GMS, dll.), dua fitur berikut tidak tersedia di build ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan push waktu nyata",
+    "onboarding_flavor_fdroid_description": "Anda menggunakan build F-Droid. Karena kebijakan F-Droid melarang ketergantungan pada layanan Google (Firebase FCM, GMS, dll.), fitur-fitur berikut tidak tersedia di build ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan push waktu nyata\n3. TigerSync: Sinkronkan informasi mata kuliah\n4. TigerSync: Terima notifikasi server tambahan",
     "onboarding_flavor_fdroid_title": "Pemberitahuan build F-Droid",
     "onboarding_flavor_play_description": "TigerDuck menyertakan pendamping Wear OS. Lihat pesan kelas di jam tangan Anda — Wear TigerDuck menyinkronkan informasi dari ponsel Anda.",
     "onboarding_flavor_play_title": "Dukungan Wear OS",

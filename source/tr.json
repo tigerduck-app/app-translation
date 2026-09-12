@@ -871,7 +871,7 @@
     "notification_setup_description": "Aşağıdaki izinleri etkinleştirerek ödev hatırlatıcılarının, ders başlangıç uyarılarının ve Live Updates özelliğinin uygulama kapalıyken bile zamanında ulaşmasını sağlayın.",
     "notification_system_channel_description": "İlginizi gerektiren hesap ve eşitleme sorunları",
     "notification_system_channel_name": "Sistem bildirimleri",
-    "onboarding_flavor_fdroid_description": "F-Droid sürümünü kullanıyorsunuz. F-Droid politikası Google hizmetlerine (Firebase FCM, GMS vb.) bağımlılığa izin vermediği için bu sürümde aşağıdaki iki özellik kullanılamaz:\n\n1. Wear OS eşlik uygulaması\n2. Gerçek zamanlı push duyuruları",
+    "onboarding_flavor_fdroid_description": "F-Droid sürümünü kullanıyorsunuz. F-Droid politikası Google hizmetlerine (Firebase FCM, GMS vb.) bağımlılığa izin vermediği için bu sürümde aşağıdaki özellikler kullanılamaz:\n\n1. Wear OS eşlik uygulaması\n2. Gerçek zamanlı push duyuruları\n3. TigerSync: Ders bilgilerini senkronize et\n4. TigerSync: Ek sunucu bildirimlerini al",
     "onboarding_flavor_fdroid_title": "F-Droid sürümü hakkında bilgi",
     "onboarding_flavor_play_description": "TigerDuck bir Wear OS eşlik uygulaması içerir. Ders mesajlarını saatinizden görüntüleyin — Wear TigerDuck telefonunuzdaki bilgileri eşitler.",
     "onboarding_flavor_play_title": "Wear OS desteği",

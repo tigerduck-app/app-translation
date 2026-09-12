@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Қаралған беттер мен виджет пайдалануы туралы анонимді деректерді бөлісу арқылы TigerDuck-ты жақсартуға көмектесіңіз. Мұны Параметрлерде кез келген уақытта өзгертуге болады.</string>
     <string name="onboarding_analytics_label">Пайдалану аналитикасы (міндетті емес)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Сіз F-Droid нұсқасын қолданып отырсыз. F-Droid саясаты Google қызметтеріне (Firebase FCM, GMS және т.б.) тәуелді болуға тыйым салатындықтан, осы нұсқада келесі екі мүмкіндік қолжетімсіз:\n\n1. Wear OS серіктес қосымшасы\n2. Нақты уақыттағы push хабарландырулары</string>
+    <string name="onboarding_flavor_fdroid_description">Сіз F-Droid нұсқасын қолданып отырсыз. F-Droid саясаты Google қызметтеріне (Firebase FCM, GMS және т.б.) тәуелді болуға тыйым салатындықтан, осы нұсқада келесі мүмкіндіктер қолжетімсіз:\n\n1. Wear OS серіктес қосымшасы\n2. Нақты уақыттағы push хабарландырулары\n3. TigerSync: Курс ақпаратын синхрондау\n4. TigerSync: Қосымша сервер хабарландыруларын алу</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid нұсқасы туралы хабар</string>
     <string name="onboarding_flavor_play_description">TigerDuck құрамында Wear OS серіктес қосымшасы бар. Сабақ хабарламаларын сағатыңыздан көріңіз — Wear TigerDuck телефоныңыздан ақпаратты синхрондайды.</string>
     <string name="onboarding_flavor_play_title">Wear OS қолдауы</string>

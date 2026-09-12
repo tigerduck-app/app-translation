@@ -871,7 +871,7 @@
     "notification_setup_description": "以下の権限を有効にすると、アプリを閉じていても課題リマインダー、授業開始前の通知、Live Updates を時間どおりに受け取れます。",
     "notification_system_channel_description": "対応が必要なアカウントと同期の問題",
     "notification_system_channel_name": "システム通知",
-    "onboarding_flavor_fdroid_description": "F-Droid 版を使用しています。F-Droid のポリシーにより Google のサービス（Firebase FCM、GMS など）への依存が禁じられているため、本ビルドでは以下の2つの機能が利用できません：\n\n1. Wear OS コンパニオンアプリ\n2. リアルタイムのプッシュ通知",
+    "onboarding_flavor_fdroid_description": "F-Droid 版を使用しています。F-Droid のポリシーにより Google のサービス（Firebase FCM、GMS など）への依存が禁じられているため、本ビルドでは以下の機能が利用できません：\n\n1. Wear OS コンパニオンアプリ\n2. リアルタイムのプッシュ通知\n3. TigerSync コース情報を同期\n4. TigerSync 追加のサーバー通知を受信",
     "onboarding_flavor_fdroid_title": "F-Droid 版についてのお知らせ",
     "onboarding_flavor_play_description": "TigerDuck は Wear OS コンパニオンを搭載しています。授業の通知を時計で確認できます — Wear TigerDuck はスマートフォンの情報を同期します。",
     "onboarding_flavor_play_title": "Wear OS 対応",

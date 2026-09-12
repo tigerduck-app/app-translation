@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">అనామక పేజీ సందర్శనలు మరియు విజెట్ వినియోగాన్ని పంచుకుని TigerDuck మెరుగుపరచడంలో సహాయపడండి. మీరు ఇది ఎప్పుడైనా సెట్టింగ్‌లలో మార్చవచ్చు.</string>
     <string name="onboarding_analytics_label">వినియోగ విశ్లేషణ (ఐచ్ఛికం)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">మీరు F-Droid బిల్డ్ ఉపయోగిస్తున్నారు. F-Droid విధానం Google సేవలపై (Firebase FCM, GMS మొదలైనవి) ఆధారపడడాన్ని అనుమతించదు కాబట్టి, ఈ బిల్డ్‌లో ఈ రెండు ఫీచర్లు అందుబాటులో లేవు:\n\n1. Wear OS సహచర యాప్\n2. రియల్-టైమ్ పుష్ ప్రకటనలు</string>
+    <string name="onboarding_flavor_fdroid_description">మీరు F-Droid బిల్డ్ ఉపయోగిస్తున్నారు. F-Droid విధానం Google సేవలపై (Firebase FCM, GMS మొదలైనవి) ఆధారపడడాన్ని అనుమతించదు కాబట్టి, ఈ బిల్డ్‌లో ఈ ఫీచర్లు అందుబాటులో లేవు:\n\n1. Wear OS సహచర యాప్\n2. రియల్-టైమ్ పుష్ ప్రకటనలు\n3. TigerSync: కోర్సు సమాచారాన్ని సింక్ చేయండి\n4. TigerSync: అదనపు సర్వర్ నోటిఫికేషన్‌లను స్వీకరించండి</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid బిల్డ్ సూచన</string>
     <string name="onboarding_flavor_play_description">TigerDuckలో Wear OS సహచర యాప్ ఉంది. మీ గడియారంలో తరగతి సందేశాలను చూడండి — Wear TigerDuck మీ ఫోన్ నుండి సమాచారాన్ని సింక్ చేస్తుంది.</string>
     <string name="onboarding_flavor_play_title">Wear OS మద్దతు</string>

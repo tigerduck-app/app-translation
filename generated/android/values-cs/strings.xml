@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Pomoz nám vylepšit TigerDuck sdílením anonymních dat o navštívených stránkách a používání widgetů. Kdykoli to můžeš změnit v Nastavení.</string>
     <string name="onboarding_analytics_label">Analytika používání (volitelné)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Používáte sestavení F-Droid. Protože pravidla F-Droid zakazují závislost na službách Google (Firebase FCM, GMS atd.), nejsou v tomto sestavení dostupné následující dvě funkce:\n\n1. Doprovodná aplikace Wear OS\n2. Push oznámení v reálném čase</string>
+    <string name="onboarding_flavor_fdroid_description">Používáte sestavení F-Droid. Protože pravidla F-Droid zakazují závislost na službách Google (Firebase FCM, GMS atd.), nejsou v tomto sestavení dostupné následující funkce:\n\n1. Doprovodná aplikace Wear OS\n2. Push oznámení v reálném čase\n3. TigerSync: Synchronizovat informace o předmětech\n4. TigerSync: Přijímat další oznámení ze serveru</string>
     <string name="onboarding_flavor_fdroid_title">Upozornění k sestavení F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck obsahuje doprovodnou aplikaci Wear OS. Prohlížejte si zprávy z výuky na hodinkách — Wear TigerDuck synchronizuje informace z vašeho telefonu.</string>
     <string name="onboarding_flavor_play_title">Podpora Wear OS</string>

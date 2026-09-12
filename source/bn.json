@@ -871,7 +871,7 @@
     "notification_setup_description": "নিচের অনুমতিগুলি চালু করুন যাতে অ্যাপ বন্ধ থাকলেও অ্যাসাইনমেন্টের স্মরণিকা, ক্লাসের প্রস্তুতি সতর্কতা এবং Live Updates সময়মতো আসে।",
     "notification_system_channel_description": "অ্যাকাউন্ট ও সিঙ্ক সংক্রান্ত সমস্যা, যেগুলিতে আপনার নজর দেওয়া দরকার",
     "notification_system_channel_name": "সিস্টেম বিজ্ঞপ্তি",
-    "onboarding_flavor_fdroid_description": "আপনি F-Droid বিল্ড ব্যবহার করছেন। যেহেতু F-Droid নীতি Google-এর পরিষেবার (Firebase FCM, GMS ইত্যাদি) উপর নির্ভরতা নিষিদ্ধ করে, এই বিল্ডে নিম্নলিখিত দুটি বৈশিষ্ট্য উপলব্ধ নয়:\n\n1. Wear OS সঙ্গী অ্যাপ\n2. রিয়েল-টাইম পুশ ঘোষণা",
+    "onboarding_flavor_fdroid_description": "আপনি F-Droid বিল্ড ব্যবহার করছেন। যেহেতু F-Droid নীতি Google-এর পরিষেবার (Firebase FCM, GMS ইত্যাদি) উপর নির্ভরতা নিষিদ্ধ করে, এই বিল্ডে নিম্নলিখিত বৈশিষ্ট্যগুলি উপলব্ধ নয়:\n\n1. Wear OS সঙ্গী অ্যাপ\n2. রিয়েল-টাইম পুশ ঘোষণা\n3. TigerSync: কোর্সের তথ্য সিঙ্ক করুন\n4. TigerSync: অতিরিক্ত সার্ভার বিজ্ঞপ্তি পান",
     "onboarding_flavor_fdroid_title": "F-Droid বিল্ড নোটিশ",
     "onboarding_flavor_play_description": "TigerDuck একটি Wear OS সঙ্গী অন্তর্ভুক্ত করে। আপনার ঘড়িতে ক্লাস বার্তা দেখুন — Wear TigerDuck আপনার ফোন থেকে তথ্য সিঙ্ক করে।",
     "onboarding_flavor_play_title": "Wear OS সমর্থন",

@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta.</string>
     <string name="onboarding_analytics_label">Kasutusanalüütika (valikuline)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Kasutate F-Droidi versiooni. Kuna F-Droidi reeglid keelavad sõltumise Google\'i teenustest (Firebase FCM, GMS jne), pole järgmised kaks funktsiooni selles versioonis saadaval:\n\n1. Wear OS-i kaasrakendus\n2. Reaalajas tõuketeated</string>
+    <string name="onboarding_flavor_fdroid_description">Kasutate F-Droidi versiooni. Kuna F-Droidi reeglid keelavad sõltumise Google\'i teenustest (Firebase FCM, GMS jne), pole järgmised funktsioonid selles versioonis saadaval:\n\n1. Wear OS-i kaasrakendus\n2. Reaalajas tõuketeated\n3. TigerSync: Sünkrooni ainete teave\n4. TigerSync: Võta vastu täiendavaid serveriteateid</string>
     <string name="onboarding_flavor_fdroid_title">F-Droidi versiooni teade</string>
     <string name="onboarding_flavor_play_description">TigerDuck sisaldab Wear OS-i kaasrakendust. Vaadake tunnisõnumeid oma kellal — Wear TigerDuck sünkroonib teavet teie telefonist.</string>
     <string name="onboarding_flavor_play_title">Wear OS-i tugi</string>

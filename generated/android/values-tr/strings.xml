@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Ziyaret edilen sayfalar ve widget kullanımına ilişkin anonim verileri paylaşarak TigerDuck\'ı geliştirmeye yardımcı ol. Bunu istediğin zaman Ayarlar\'dan değiştirebilirsin.</string>
     <string name="onboarding_analytics_label">Kullanım analitiği (isteğe bağlı)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">F-Droid sürümünü kullanıyorsunuz. F-Droid politikası Google hizmetlerine (Firebase FCM, GMS vb.) bağımlılığa izin vermediği için bu sürümde aşağıdaki iki özellik kullanılamaz:\n\n1. Wear OS eşlik uygulaması\n2. Gerçek zamanlı push duyuruları</string>
+    <string name="onboarding_flavor_fdroid_description">F-Droid sürümünü kullanıyorsunuz. F-Droid politikası Google hizmetlerine (Firebase FCM, GMS vb.) bağımlılığa izin vermediği için bu sürümde aşağıdaki özellikler kullanılamaz:\n\n1. Wear OS eşlik uygulaması\n2. Gerçek zamanlı push duyuruları\n3. TigerSync: Ders bilgilerini senkronize et\n4. TigerSync: Ek sunucu bildirimlerini al</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid sürümü hakkında bilgi</string>
     <string name="onboarding_flavor_play_description">TigerDuck bir Wear OS eşlik uygulaması içerir. Ders mesajlarını saatinizden görüntüleyin — Wear TigerDuck telefonunuzdaki bilgileri eşitler.</string>
     <string name="onboarding_flavor_play_title">Wear OS desteği</string>

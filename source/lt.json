@@ -871,7 +871,7 @@
     "notification_setup_description": "Įjunkite toliau nurodytus leidimus, kad užduočių priminimai, paskaitų įspėjimai ir Live Updates būtų pristatomi laiku net uždarius programą.",
     "notification_system_channel_description": "Paskyros ir sinchronizavimo problemos, kurioms reikia jūsų dėmesio",
     "notification_system_channel_name": "Sistemos pranešimai",
-    "onboarding_flavor_fdroid_description": "Naudojate F-Droid versiją. Kadangi F-Droid politika draudžia priklausomybę nuo Google paslaugų (Firebase FCM, GMS ir kt.), šios dvi funkcijos nepasiekiamos šioje versijoje:\n\n1. Wear OS palydovinė programėlė\n2. Tiesioginiai pranešimai realiu laiku",
+    "onboarding_flavor_fdroid_description": "Naudojate F-Droid versiją. Kadangi F-Droid politika draudžia priklausomybę nuo Google paslaugų (Firebase FCM, GMS ir kt.), šios funkcijos nepasiekiamos šioje versijoje:\n\n1. Wear OS palydovinė programėlė\n2. Tiesioginiai pranešimai realiu laiku\n3. TigerSync: Sinchronizuoti kursų informaciją\n4. TigerSync: Gauti papildomus serverio pranešimus",
     "onboarding_flavor_fdroid_title": "Pranešimas apie F-Droid versiją",
     "onboarding_flavor_play_description": "TigerDuck turi Wear OS palydovinę programėlę. Žiūrėkite paskaitų pranešimus laikrodyje — Wear TigerDuck sinchronizuoja informaciją iš jūsų telefono.",
     "onboarding_flavor_play_title": "Wear OS palaikymas",

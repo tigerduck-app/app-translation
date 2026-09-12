@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Bantu tingkatkan TigerDuck dengan berbagi data anonim tentang halaman yang dikunjungi dan penggunaan widget. Kamu bisa mengubah ini kapan saja di Pengaturan.</string>
     <string name="onboarding_analytics_label">Analitik penggunaan (opsional)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Anda menggunakan build F-Droid. Karena kebijakan F-Droid melarang ketergantungan pada layanan Google (Firebase FCM, GMS, dll.), dua fitur berikut tidak tersedia di build ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan push waktu nyata</string>
+    <string name="onboarding_flavor_fdroid_description">Anda menggunakan build F-Droid. Karena kebijakan F-Droid melarang ketergantungan pada layanan Google (Firebase FCM, GMS, dll.), fitur-fitur berikut tidak tersedia di build ini:\n\n1. Aplikasi pendamping Wear OS\n2. Pemberitahuan push waktu nyata\n3. TigerSync: Sinkronkan informasi mata kuliah\n4. TigerSync: Terima notifikasi server tambahan</string>
     <string name="onboarding_flavor_fdroid_title">Pemberitahuan build F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck menyertakan pendamping Wear OS. Lihat pesan kelas di jam tangan Anda — Wear TigerDuck menyinkronkan informasi dari ponsel Anda.</string>
     <string name="onboarding_flavor_play_title">Dukungan Wear OS</string>

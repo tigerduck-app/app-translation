@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban.</string>
     <string name="onboarding_analytics_label">Használati analitika (nem kötelező)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">A F-Droid verziót használod. Mivel a F-Droid szabályzata tiltja a Google szolgáltatásaitól (Firebase FCM, GMS stb.) való függést, az alábbi két funkció nem érhető el ebben a verzióban:\n\n1. Wear OS kísérőalkalmazás\n2. Valós idejű push értesítések</string>
+    <string name="onboarding_flavor_fdroid_description">A F-Droid verziót használod. Mivel a F-Droid szabályzata tiltja a Google szolgáltatásaitól (Firebase FCM, GMS stb.) való függést, az alábbi funkciók nem érhetők el ebben a verzióban:\n\n1. Wear OS kísérőalkalmazás\n2. Valós idejű push értesítések\n3. TigerSync: Kurzusadatok szinkronizálása\n4. TigerSync: További szerverértesítések fogadása</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid verzió tájékoztató</string>
     <string name="onboarding_flavor_play_description">A TigerDuck tartalmaz egy Wear OS kísérőalkalmazást. Nézd meg az órádon az órák üzeneteit — a Wear TigerDuck szinkronizálja az adatokat a telefonodról.</string>
     <string name="onboarding_flavor_play_title">Wear OS támogatás</string>

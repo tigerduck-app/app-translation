@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">分享匿名的頁面瀏覽和小工具使用資料，協助改善 TigerDuck。你可以隨時在設定中更改。</string>
     <string name="onboarding_analytics_label">使用分析（選填）</string>
     <string name="onboarding_custom_endpoint_button">使用其他 API 端點</string>
-    <string name="onboarding_flavor_fdroid_description">您安裝的是 F-Droid 版本，由於 F-Droid 商店規範不能使用 Google 所提供的各項服務（Firebase FCM、GMS 等等），所以以下兩項功能將在 F-Droid 版本（你正在使用）中缺失：\n\n1. Wear OS 應用程式\n2. 主動公告通知推送</string>
+    <string name="onboarding_flavor_fdroid_description">你安裝的是 F-Droid 版本，由於 F-Droid 商店規範不能使用 Google 所提供的各項服務（Firebase FCM、GMS 等等），所以以下功能將在 F-Droid 版本（你正在使用）中缺失：\n\n1. Wear OS 應用程式\n2. 主動公告通知推送\n3. TigerSync 同步課程資訊\n4. TigerSync 接收額外伺服器推播</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid 版本說明</string>
     <string name="onboarding_flavor_play_description">本應用程式提供 Wear OS 應用程式，您可以在手錶查看課堂訊息。手錶 TigerDuck 將同步手機資訊。</string>
     <string name="onboarding_flavor_play_title">支援 Wear OS</string>

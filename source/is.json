@@ -871,7 +871,7 @@
     "notification_setup_description": "Virkjaðu leyfi hér að neðan til að tryggja að verkefnaáminningar, tímaviðvaranir og Live Updates berist á réttum tíma jafnvel þegar forritið er lokað.",
     "notification_system_channel_description": "Vandamál með reikning og samstillingu sem þarfnast athygli þinnar",
     "notification_system_channel_name": "Kerfistilkynningar",
-    "onboarding_flavor_fdroid_description": "Þú ert að nota F-Droid útgáfuna. Þar sem stefna F-Droid bannar að reiða sig á þjónustu Google (Firebase FCM, GMS o.s.frv.) eru eftirfarandi tveir eiginleikar ekki í boði í þessari útgáfu:\n\n1. Wear OS fylgiapp\n2. Tilkynningar í rauntíma",
+    "onboarding_flavor_fdroid_description": "Þú ert að nota F-Droid útgáfuna. Þar sem stefna F-Droid bannar að reiða sig á þjónustu Google (Firebase FCM, GMS o.s.frv.) eru eftirfarandi eiginleikar ekki í boði í þessari útgáfu:\n\n1. Wear OS fylgiapp\n2. Tilkynningar í rauntíma\n3. TigerSync: Samstilla námskeiðaupplýsingar\n4. TigerSync: Taka á móti aukatilkynningum frá netþjóni",
     "onboarding_flavor_fdroid_title": "Tilkynning um F-Droid útgáfu",
     "onboarding_flavor_play_description": "TigerDuck inniheldur Wear OS fylgiapp. Sjáðu skilaboð úr tímum á úrinu þínu — Wear TigerDuck samstillir upplýsingar úr símanum þínum.",
     "onboarding_flavor_play_title": "Stuðningur við Wear OS",

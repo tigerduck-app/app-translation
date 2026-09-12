@@ -871,7 +871,7 @@
     "notification_setup_description": "Омогућите следеће дозволе да бисте осигурали да подсетници за задатке, упозорења о почетку часа и Live Updates стижу на вријеме чак и кад је апликација затворена.",
     "notification_system_channel_description": "Проблеми са налогом и синхронизацијом који захтевају Вашу пажњу",
     "notification_system_channel_name": "Системска обавештења",
-    "onboarding_flavor_fdroid_description": "Користите F-Droid верзију. Пошто F-Droid политика забрањује ослањање на Google услуге (Firebase FCM, GMS итд.), следеће две функције нису доступне у овој верзији:\n\n1. Пратећа Wear OS апликација\n2. Push обавештења у реалном времену",
+    "onboarding_flavor_fdroid_description": "Користите F-Droid верзију. Пошто F-Droid политика забрањује ослањање на Google услуге (Firebase FCM, GMS итд.), следеће функције нису доступне у овој верзији:\n\n1. Пратећа Wear OS апликација\n2. Push обавештења у реалном времену\n3. TigerSync: Синхронизација информација о курсевима\n4. TigerSync: Примање додатних обавештења са сервера",
     "onboarding_flavor_fdroid_title": "Обавештење о F-Droid верзији",
     "onboarding_flavor_play_description": "TigerDuck укључује пратећу Wear OS апликацију. Прегледајте поруке са наставе на сату — Wear TigerDuck синхронизује информације са вашег телефона.",
     "onboarding_flavor_play_title": "Подршка за Wear OS",

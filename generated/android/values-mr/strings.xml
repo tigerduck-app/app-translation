@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">अनामिक पृष्ठ भेटी आणि विजेट वापर शेअर करून TigerDuck सुधारण्यास मदत करा. तुम्ही हे कधीही सेटिंग्जमध्ये बदलू शकता.</string>
     <string name="onboarding_analytics_label">वापर विश्लेषण (पर्यायी)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">तुम्ही F-Droid बिल्ड वापरत आहात. F-Droidच्या धोरणामुळे Google सेवांवर (Firebase FCM, GMS इत्यादी) अवलंबून राहता येत नाही, त्यामुळे या बिल्डमध्ये पुढील दोन वैशिष्ट्ये उपलब्ध नाहीत:\n\n1. Wear OS सोबती ॲप\n2. रिअल-टाइम पुश सूचना</string>
+    <string name="onboarding_flavor_fdroid_description">तुम्ही F-Droid बिल्ड वापरत आहात. F-Droidच्या धोरणामुळे Google सेवांवर (Firebase FCM, GMS इत्यादी) अवलंबून राहता येत नाही, त्यामुळे या बिल्डमध्ये पुढील वैशिष्ट्ये उपलब्ध नाहीत:\n\n1. Wear OS सोबती ॲप\n2. रिअल-टाइम पुश सूचना\n3. TigerSync: अभ्यासक्रम माहिती सिंक करा\n4. TigerSync: अतिरिक्त सर्व्हर सूचना मिळवा</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid बिल्ड सूचना</string>
     <string name="onboarding_flavor_play_description">TigerDuckमध्ये Wear OS सोबती आहे. तुमच्या घड्याळावर वर्ग संदेश पाहा — Wear TigerDuck तुमच्या फोनवरील माहिती सिंक करते.</string>
     <string name="onboarding_flavor_play_title">Wear OS समर्थन</string>

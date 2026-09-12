@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.</string>
     <string name="onboarding_analytics_label">사용 분석 (선택 사항)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">F-Droid 빌드를 사용 중입니다. F-Droid 정책은 Google 서비스(Firebase FCM, GMS 등)에 대한 의존을 금지하므로, 이 빌드에서는 다음 두 기능을 사용할 수 없습니다:\n\n1. Wear OS 컴패니언 앱\n2. 실시간 푸시 공지</string>
+    <string name="onboarding_flavor_fdroid_description">F-Droid 빌드를 사용 중입니다. F-Droid 정책은 Google 서비스(Firebase FCM, GMS 등)에 대한 의존을 금지하므로, 이 빌드에서는 다음 기능을 사용할 수 없습니다:\n\n1. Wear OS 컴패니언 앱\n2. 실시간 푸시 공지\n3. TigerSync 과목 정보 동기화\n4. TigerSync 추가 서버 알림 수신</string>
     <string name="onboarding_flavor_fdroid_title">F-Droid 빌드 안내</string>
     <string name="onboarding_flavor_play_description">TigerDuck에는 Wear OS 컴패니언이 포함되어 있습니다. 시계에서 수업 메시지를 확인하세요 — Wear TigerDuck이 휴대폰의 정보를 동기화합니다.</string>
     <string name="onboarding_flavor_play_title">Wear OS 지원</string>

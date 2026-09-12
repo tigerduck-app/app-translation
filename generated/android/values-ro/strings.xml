@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări.</string>
     <string name="onboarding_analytics_label">Analiză utilizare (opțional)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Folosești versiunea F-Droid. Deoarece politica F-Droid interzice dependența de serviciile Google (Firebase FCM, GMS etc.), următoarele două funcții nu sunt disponibile în această versiune:\n\n1. Aplicație complementară Wear OS\n2. Notificări push în timp real</string>
+    <string name="onboarding_flavor_fdroid_description">Folosești versiunea F-Droid. Deoarece politica F-Droid interzice dependența de serviciile Google (Firebase FCM, GMS etc.), următoarele funcții nu sunt disponibile în această versiune:\n\n1. Aplicație complementară Wear OS\n2. Notificări push în timp real\n3. TigerSync: Sincronizează informațiile cursului\n4. TigerSync: Primește notificări suplimentare de la server</string>
     <string name="onboarding_flavor_fdroid_title">Notă privind versiunea F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck include un însoțitor Wear OS. Vizualizează mesajele de la cursuri pe ceasul tău — Wear TigerDuck sincronizează informațiile de pe telefon.</string>
     <string name="onboarding_flavor_play_title">Suport pentru Wear OS</string>

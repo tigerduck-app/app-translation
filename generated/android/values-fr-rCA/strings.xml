@@ -519,7 +519,7 @@
     <string name="onboarding_analytics_description">Aide à améliorer TigerDuck en partageant de façon anonyme tes visites de pages et l\'utilisation des widgets. Tu peux modifier ça à tout moment dans les Réglages.</string>
     <string name="onboarding_analytics_label">Analyse d\'utilisation (facultatif)</string>
     <string name="onboarding_custom_endpoint_button">Use custom API endpoint</string>
-    <string name="onboarding_flavor_fdroid_description">Vous utilisez la version F-Droid. La politique de F-Droid interdisant la dépendance aux services Google (Firebase FCM, GMS, etc.), les deux fonctionnalités suivantes ne sont pas disponibles dans cette version :\n\n1. Application compagnon Wear OS\n2. Notifications push en temps réel</string>
+    <string name="onboarding_flavor_fdroid_description">Vous utilisez la version F-Droid. La politique de F-Droid interdisant la dépendance aux services Google (Firebase FCM, GMS, etc.), les fonctionnalités suivantes ne sont pas disponibles dans cette version :\n\n1. Application compagnon Wear OS\n2. Notifications push en temps réel\n3. TigerSync: Synchroniser les informations de cours\n4. TigerSync: Recevoir des notifications serveur supplémentaires</string>
     <string name="onboarding_flavor_fdroid_title">Avis concernant la version F-Droid</string>
     <string name="onboarding_flavor_play_description">TigerDuck inclut une application compagnon Wear OS. Consultez les messages de cours sur votre montre — Wear TigerDuck synchronise les informations depuis votre téléphone.</string>
     <string name="onboarding_flavor_play_title">Prise en charge de Wear OS</string>

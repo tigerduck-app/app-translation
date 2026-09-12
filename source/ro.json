@@ -871,7 +871,7 @@
     "notification_setup_description": "Activează permisiunile de mai jos pentru a asigura că reminderele pentru teme, alertele de pregătire curs și Live Updates ajung la timp chiar și când aplicația este închisă.",
     "notification_system_channel_description": "Probleme de cont și de sincronizare care necesită atenția dvs.",
     "notification_system_channel_name": "Notificări de sistem",
-    "onboarding_flavor_fdroid_description": "Folosești versiunea F-Droid. Deoarece politica F-Droid interzice dependența de serviciile Google (Firebase FCM, GMS etc.), următoarele două funcții nu sunt disponibile în această versiune:\n\n1. Aplicație complementară Wear OS\n2. Notificări push în timp real",
+    "onboarding_flavor_fdroid_description": "Folosești versiunea F-Droid. Deoarece politica F-Droid interzice dependența de serviciile Google (Firebase FCM, GMS etc.), următoarele funcții nu sunt disponibile în această versiune:\n\n1. Aplicație complementară Wear OS\n2. Notificări push în timp real\n3. TigerSync: Sincronizează informațiile cursului\n4. TigerSync: Primește notificări suplimentare de la server",
     "onboarding_flavor_fdroid_title": "Notă privind versiunea F-Droid",
     "onboarding_flavor_play_description": "TigerDuck include un însoțitor Wear OS. Vizualizează mesajele de la cursuri pe ceasul tău — Wear TigerDuck sincronizează informațiile de pe telefon.",
     "onboarding_flavor_play_title": "Suport pentru Wear OS",
