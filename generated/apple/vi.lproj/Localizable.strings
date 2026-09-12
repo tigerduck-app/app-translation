@@ -759,7 +759,7 @@
 "sync_conflict_title" = "Xung đột đồng bộ";
 "sync_conflict_use_local" = "Dùng cục bộ";
 "sync_conflict_use_server" = "Dùng máy chủ";
-"sync_content_assignment_reminders" = "Nhắc bài tập sắp đến hạn";
+"sync_content_assignment_reminders" = "Lời nhắc hạn nộp bài tập";
 "sync_content_class_table_all" = "Thời khoá biểu – tất cả môn học";
 "sync_content_class_table_colors" = "Thời khoá biểu – màu sắc môn học";
 "sync_content_class_table_names" = "Thời khoá biểu – tên môn học tuỳ chỉnh";

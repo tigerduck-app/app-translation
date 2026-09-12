@@ -759,7 +759,7 @@
 "sync_conflict_title" = "ความขัดแย้งในการซิงค์";
 "sync_conflict_use_local" = "ใช้ของเครื่อง";
 "sync_conflict_use_server" = "ใช้ของเซิร์ฟเวอร์";
-"sync_content_assignment_reminders" = "การแจ้งเตือนการบ้านใกล้ครบกำหนด";
+"sync_content_assignment_reminders" = "การแจ้งเตือนกำหนดส่งการบ้าน";
 "sync_content_class_table_all" = "ตารางเรียน – รายวิชาทั้งหมด";
 "sync_content_class_table_colors" = "ตารางเรียน – สีรายวิชา";
 "sync_content_class_table_names" = "ตารางเรียน – ชื่อรายวิชาที่กำหนดเอง";

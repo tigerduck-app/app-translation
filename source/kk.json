@@ -898,7 +898,7 @@
     "live_activity_countdown_done_class_preparing": "Started",
     "live_activity_countdown_done_in_class": "Ended",
     "live_activity_settings_description": "Live Activity хабарландыруларда ағымдағы сабақ пен кері санауды көрсетеді. «Сабақта» және «Сабақ жақын басталады» тек қолданба ашық болғанда нақты уақытта жаңартылады; «Тапсырма ескертуі» қолданба жабық болғанда да уақытында хабарлай алады.",
-    "live_activity_settings_enable": "Live Activity қосу",
+    "live_activity_settings_enable": "Live Activity функциясын қосу",
     "live_activity_settings_enable_toggle": "Live Activity қосу",
     "live_activity_settings_footer": "Құлыптау экранында немесе Dynamic Island-та ағымдағы сабақты және тапсырмаларды көрсетеді.",
     "live_activity_settings_nav_title": "Live Activity",

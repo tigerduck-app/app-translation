@@ -775,7 +775,7 @@
     <string name="sync_conflict_title">ความขัดแย้งในการซิงค์</string>
     <string name="sync_conflict_use_local">ใช้ของเครื่อง</string>
     <string name="sync_conflict_use_server">ใช้ของเซิร์ฟเวอร์</string>
-    <string name="sync_content_assignment_reminders">การแจ้งเตือนการบ้านใกล้ครบกำหนด</string>
+    <string name="sync_content_assignment_reminders">การแจ้งเตือนกำหนดส่งการบ้าน</string>
     <string name="sync_content_class_table_all">ตารางเรียน – รายวิชาทั้งหมด</string>
     <string name="sync_content_class_table_colors">ตารางเรียน – สีรายวิชา</string>
     <string name="sync_content_class_table_names">ตารางเรียน – ชื่อรายวิชาที่กำหนดเอง</string>
