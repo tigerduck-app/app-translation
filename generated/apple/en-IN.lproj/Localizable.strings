@@ -683,7 +683,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Follow system (Fallback English)";
 "settings_language_traditional_chinese" = "Traditional Chinese";
-"settings_learn_more_backend" = "Learn more about the TigerDuck Backend";
+"settings_learn_more_backend" = "Learn more about TigerSync";
 "settings_library_account_subtitle" = "Password may differ from the school system; defaults to your national ID number";
 "settings_library_feature_disabled_message" = "Enable \"Library and related features\" first, then use the library QR shortcut.";
 "settings_library_feature_disabled_title" = "Library feature is disabled";
@@ -761,7 +761,7 @@
 "sync_conflict_use_local" = "Use Local";
 "sync_conflict_use_server" = "Use Server";
 "sync_content_assignment_reminders" = "Assignment due reminders";
-"sync_content_class_table_all" = "Class table – all courses";
+"sync_content_class_table_all" = "All courses";
 "sync_content_class_table_colors" = "Class table – course colours";
 "sync_content_class_table_names" = "Class table – custom course names";
 "sync_content_live_activity" = "Live Activity";
