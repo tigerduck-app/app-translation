@@ -12,7 +12,7 @@ fixed it, and what has not been checked — so nobody re-derives it.
 | Locales | `hr` `hu` `is` `lt` `pl` `ro` `sk` `sr` `th` — nine |
 | Scale | 48 keys shared by all nine; 99 distinct keys overall; `lt` worst at 96 |
 | Keys | Mostly the whole `bulletin_*` block, plus the library sign-in QR prompt that made this visible on phone and watch |
-| Where | **Generated output only** (`generated/android/values-*`, `generated/apple/*.lproj`) — `source/` was never wrong |
+| Where | `source/` and both generated bundles (`generated/android/values-*`, `generated/apple/*.lproj`) |
 | Fixed by | `039daaab` *fix(i18n): replace the German text leaked into nine locales* |
 | Guarded by | `a5fcbdd6` *feat(i18n): fail generation when one locale carries another's text* |
 
