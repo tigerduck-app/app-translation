@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Aplicația începe să reamintească cu atât timp înainte de începerea cursului.";
 "live_activity_settings_custom_class_title" = "Timp de avans personalizat pentru curs";
 "live_activity_settings_custom_class_unit_hint" = "Minute (până la %1$d minute)";
-"live_activity_settings_description" = "Activitatea live afișează cursul curent și numărătoarea inversă în notificări. „La curs“ și „Curs începe în curând“ se actualizează în timp real doar când aplicația este deschisă; „Avertisment temă“ poate alerta la timp și când aplicația este închisă.";
-"live_activity_settings_enable" = "Activează activitatea live";
+"live_activity_settings_description" = "Live Activity afișează cursul curent și numărătoarea inversă în notificări. „La curs“ și „Curs începe în curând“ se actualizează în timp real doar când aplicația este deschisă; „Avertisment temă“ poate alerta la timp și când aplicația este închisă.";
+"live_activity_settings_enable" = "Activează Live Activity";
 "live_activity_settings_enable_toggle" = "Activează Live Activity";
 "live_activity_settings_footer" = "Afișează clasa curentă și temele pe Ecranul de blocare sau Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d oră";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "Când este dezactivat, ecranul de blocare afișează doar text placeholder precum „Notificare ascunsă“. Dacă activarea nu are efect, permite acest tip de notificare pe ecranul de blocare în setările sistemului.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minute";
-"live_activity_settings_nav_title" = "Activitate live";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Interval: %1$d – %2$d ore";
 "live_activity_settings_range_min_to_hours" = "Interval: %1$d min – %2$d ore";
 "live_activity_settings_range_minutes" = "Interval: %1$d – %2$d minute";
 "live_activity_settings_reset" = "Resetare";
 "live_activity_settings_reset_confirm_message" = "Toate setările de scenarii și timp vor fi restaurate la valorile implicite.";
-"live_activity_settings_reset_confirm_title" = "Resetezi toate setările activității live?";
+"live_activity_settings_reset_confirm_title" = "Resetezi toate setările Live Activity?";
 "live_activity_settings_reset_defaults" = "Resetează la implicit";
 "live_activity_settings_section_display_scenarios" = "Scenarii de afișare";
 "live_activity_settings_section_lock_screen" = "Ecran de blocare";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Afișează conținut detaliat pe ecranul de blocare";
 "live_activity_settings_sound_assignment" = "Redă sunet pentru Avertisment temă";
 "live_activity_settings_sound_class_preparing" = "Redă sunet pentru Curs începe în curând";
-"live_activity_settings_sound_hint" = "Un sunet se redă doar la intrarea pentru prima dată într-un scenariu; actualizările ulterioare ale numărătorii inverse rămân silențioase. Pentru a ajusta volumul sau comportamentul Nu Deranja, schimbă canalul de notificări „Activitate live“ în setările sistemului.";
+"live_activity_settings_sound_hint" = "Un sunet se redă doar la intrarea pentru prima dată într-un scenariu; actualizările ulterioare ale numărătorii inverse rămân silențioase. Pentru a ajusta volumul sau comportamentul Nu Deranja, schimbă canalul de notificări „Live Activity“ în setările sistemului.";
 "live_activity_settings_sound_in_class" = "Redă sunet pentru La curs";
 "live_activity_settings_timing_hint" = "Glisorul acoperă intervalele comune. Pentru a seta valori în afara acestui interval (de exemplu, 1 zi înainte de scadența temei), apasă „Personalizat“.";
 "live_activity_status_assignment_short" = "Temă";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Notificări server (cu sunet)";
 "notification_class_preparing_content_fallback" = "Cursul este pe cale să înceapă";
 "notification_class_preparing_title" = "Curs începe în curând: %1$@";
-"notification_setup_description" = "Activează permisiunile de mai jos pentru a asigura că reminderele pentru teme, alertele de pregătire curs și activitatea live ajung la timp chiar și când aplicația este închisă.";
+"notification_setup_description" = "Activează permisiunile de mai jos pentru a asigura că reminderele pentru teme, alertele de pregătire curs și Live Activity ajung la timp chiar și când aplicația este închisă.";
 "notification_setup_title" = "Reconfigurează notificările";
 "onboarding_analytics_description" = "Ajută la îmbunătățirea TigerDuck prin partajarea datelor anonime despre paginile vizitate și utilizarea widget-urilor. Poți schimba asta oricând din Setări.";
 "onboarding_analytics_label" = "Analiză utilizare (opțional)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Permis";
 "permission_not_applicable" = "Indisponibil pe această versiune de sistem";
 "permission_not_granted_tap_settings" = "Nepermis · Apasă pentru a deschide setările";
-"permission_notifications_description" = "Permite aplicației să afișeze notificări; altfel notificările și activitatea live nu vor apărea.";
+"permission_notifications_description" = "Permite aplicației să afișeze notificări; altfel notificările și Live Activity nu vor apărea.";
 "permission_notifications_name" = "Permisiune notificări";
 "permission_warning_action_later" = "Mai târziu";
-"permission_warning_description" = "Următoarele permisiuni au fost activate anterior, dar acum sunt dezactivate. Notificările și activitatea live asociate pot să nu se afișeze corect.";
+"permission_warning_description" = "Următoarele permisiuni au fost activate anterior, dar acum sunt dezactivate. Notificările și Live Activity asociate pot să nu se afișeze corect.";
 "permission_warning_mute_item" = "Nu mai reaminti despre asta";
 "permission_warning_title" = "Permisiunile legate de notificări sunt dezactivate";
 "push_server_enable_toggle" = "Activează push-ul de la server";

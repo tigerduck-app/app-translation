@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Қолданба сабақ басталмас бұрын осы уақытта еске салуды бастайды.";
 "live_activity_settings_custom_class_title" = "Сабақтың жеке алдын ала хабарлау уақытын орнату";
 "live_activity_settings_custom_class_unit_hint" = "Минут (ең көбі %1$d минут)";
-"live_activity_settings_description" = "Тікелей белсенділік хабарландыруларда ағымдағы сабақ пен кері санауды көрсетеді. «Сабақта» және «Сабақ жақын басталады» тек қолданба ашық болғанда нақты уақытта жаңартылады; «Тапсырма ескертуі» қолданба жабық болғанда да уақытында хабарлай алады.";
-"live_activity_settings_enable" = "Тікелей белсенділікті қосу";
+"live_activity_settings_description" = "Live Activity хабарландыруларда ағымдағы сабақ пен кері санауды көрсетеді. «Сабақта» және «Сабақ жақын басталады» тек қолданба ашық болғанда нақты уақытта жаңартылады; «Тапсырма ескертуі» қолданба жабық болғанда да уақытында хабарлай алады.";
+"live_activity_settings_enable" = "Live Activity қосу";
 "live_activity_settings_enable_toggle" = "Live Activity қосу";
 "live_activity_settings_footer" = "Құлыптау экранында немесе Dynamic Island-та ағымдағы сабақты және тапсырмаларды көрсетеді.";
 "live_activity_settings_hours_label" = "%1$d сағ";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "Өшірілгенде құлыптау экранында тек «Хабарландыру жасырылған» сияқты орын басушы мәтін көрсетіледі. Қоссаңыз да нәтиже болмаса, жүйе параметрлерінде осы хабарландыру түрін құлыптау экранында рұқсат етіңіз.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минут";
-"live_activity_settings_nav_title" = "Нақты уақыттағы әрекет";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Ауқым: %1$d – %2$d сағат";
 "live_activity_settings_range_min_to_hours" = "Ауқым: %1$d мин – %2$d сағат";
 "live_activity_settings_range_minutes" = "Ауқым: %1$d – %2$d минут";
 "live_activity_settings_reset" = "Қалпына келтіру";
 "live_activity_settings_reset_confirm_message" = "Барлық сценарийлер мен уақыт параметрлері әдепкіге қайтарылады.";
-"live_activity_settings_reset_confirm_title" = "Барлық тікелей белсенділік параметрлерін қалпына келтіру керек пе?";
+"live_activity_settings_reset_confirm_title" = "Барлық Live Activity параметрлерін қалпына келтіру керек пе?";
 "live_activity_settings_reset_defaults" = "Әдепкіге қалпына келтіру";
 "live_activity_settings_section_display_scenarios" = "Көрсету сценарийлері";
 "live_activity_settings_section_lock_screen" = "Құлыптау экраны";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Құлыптау экранында толық мазмұнды көрсету";
 "live_activity_settings_sound_assignment" = "«Тапсырма ескертуі» үшін дыбыс ойнату";
 "live_activity_settings_sound_class_preparing" = "«Сабақ жақын басталады» үшін дыбыс ойнату";
-"live_activity_settings_sound_hint" = "Дыбыс сценарийге алғаш рет кіргенде ғана ойналады; кейінгі кері санау жаңартулары үнсіз болады. Дыбыс деңгейін немесе «Мазаламаңыз» режимін реттеу үшін жүйе параметрлеріндегі «Тікелей белсенділік» хабарландыру арнасын өзгертіңіз.";
+"live_activity_settings_sound_hint" = "Дыбыс сценарийге алғаш рет кіргенде ғана ойналады; кейінгі кері санау жаңартулары үнсіз болады. Дыбыс деңгейін немесе «Мазаламаңыз» режимін реттеу үшін жүйе параметрлеріндегі «Live Activity» хабарландыру арнасын өзгертіңіз.";
 "live_activity_settings_sound_in_class" = "«Сабақта» үшін дыбыс ойнату";
 "live_activity_settings_timing_hint" = "Жүгірткі жалпы ауқымды қамтиды. Осы ауқымнан тыс мәндерді орнату үшін (мысалы, тапсырма мерзімінен 1 күн бұрын) «Өзгертілетін» түймесін түртіңіз.";
 "live_activity_status_assignment_short" = "Тапсырма";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Сервер хабарландырулары (дыбыспен)";
 "notification_class_preparing_content_fallback" = "Сабақ жақын басталады";
 "notification_class_preparing_title" = "Сабақ жақын басталады: %1$@";
-"notification_setup_description" = "Қолданба жабық болса да тапсырма еске салулары, сабақ басталу ескертулері және тікелей белсенділік уақытында жетуі үшін төмендегі рұқсаттарды қосыңыз.";
+"notification_setup_description" = "Қолданба жабық болса да тапсырма еске салулары, сабақ басталу ескертулері және Live Activity уақытында жетуі үшін төмендегі рұқсаттарды қосыңыз.";
 "notification_setup_title" = "Хабарландыруларды қайта орнату";
 "onboarding_analytics_description" = "Қаралған беттер мен виджет пайдалануы туралы анонимді деректерді бөлісу арқылы TigerDuck-ты жақсартуға көмектесіңіз. Мұны Параметрлерде кез келген уақытта өзгертуге болады.";
 "onboarding_analytics_label" = "Пайдалану аналитикасы (міндетті емес)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Рұқсат берілген";
 "permission_not_applicable" = "Бұл жүйе нұсқасында қол жетімді емес";
 "permission_not_granted_tap_settings" = "Рұқсат берілмеген · Параметрлерді ашу үшін түртіңіз";
-"permission_notifications_description" = "Қолданбаға хабарландыруларды көрсетуге рұқсат беріңіз; болмаса хабарландырулар мен тікелей белсенділік пайда болмайды.";
+"permission_notifications_description" = "Қолданбаға хабарландыруларды көрсетуге рұқсат беріңіз; болмаса хабарландырулар мен Live Activity пайда болмайды.";
 "permission_notifications_name" = "Хабарландыру рұқсаты";
 "permission_warning_action_later" = "Кейінірек";
-"permission_warning_description" = "Төмендегі рұқсаттар бұрын қосылған болатын, бірақ қазір өшірілген. Тиісті хабарландырулар мен тікелей белсенділік дұрыс көрсетілмеуі мүмкін.";
+"permission_warning_description" = "Төмендегі рұқсаттар бұрын қосылған болатын, бірақ қазір өшірілген. Тиісті хабарландырулар мен Live Activity дұрыс көрсетілмеуі мүмкін.";
 "permission_warning_mute_item" = "Бұл туралы қайтадан еске салма";
 "permission_warning_title" = "Хабарландыруға қатысты рұқсаттар өшірілді";
 "push_server_enable_toggle" = "Сервер push-хабарламасын қосу";

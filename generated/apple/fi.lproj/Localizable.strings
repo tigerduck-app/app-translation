@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Sovellus alkaa muistuttaa tämän verran ennen tunnin alkua.";
 "live_activity_settings_custom_class_title" = "Mukautettu tunnin aloitusaika";
 "live_activity_settings_custom_class_unit_hint" = "Minuuttia (enintään %1$d minuuttia)";
-"live_activity_settings_description" = "Live-toiminto näyttää meneillään olevan tunnin ja lähtölaskennan ilmoituksissa. \"Tunnilla\" ja \"Tunti alkaa pian\" päivittyvät reaaliajassa vain sovelluksen ollessa auki; \"Tehtävävaroitus\" voi ilmoittaa ajoissa myös sovelluksen ollessa suljettuna.";
-"live_activity_settings_enable" = "Ota live-toiminto käyttöön";
+"live_activity_settings_description" = "Live Activity näyttää meneillään olevan tunnin ja lähtölaskennan ilmoituksissa. \"Tunnilla\" ja \"Tunti alkaa pian\" päivittyvät reaaliajassa vain sovelluksen ollessa auki; \"Tehtävävaroitus\" voi ilmoittaa ajoissa myös sovelluksen ollessa suljettuna.";
+"live_activity_settings_enable" = "Ota Live Activity käyttöön";
 "live_activity_settings_enable_toggle" = "Ota Live Activity käyttöön";
 "live_activity_settings_footer" = "Näyttää nykyisen tunnin ja tehtävät lukitusnäytöllä tai Dynamic Islandissa.";
 "live_activity_settings_hours_label" = "%1$d t";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "Kun poistettu käytöstä, lukitusnäyttö näyttää vain paikkamerkkitekstin kuten \"Ilmoitus piilotettu\". Jos käyttöönotto ei vielä vaikuta, salli tämä ilmoitustyyppi lukitusnäytöllä järjestelmäasetuksissa.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minuuttia";
-"live_activity_settings_nav_title" = "Liveseuranta";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Alue: %1$d – %2$d tuntia";
 "live_activity_settings_range_min_to_hours" = "Alue: %1$d min – %2$d tuntia";
 "live_activity_settings_range_minutes" = "Alue: %1$d – %2$d minuuttia";
 "live_activity_settings_reset" = "Nollaa";
 "live_activity_settings_reset_confirm_message" = "Kaikki tilanteet ja ajoitusasetukset palautetaan oletusarvoihin.";
-"live_activity_settings_reset_confirm_title" = "Nollatko kaikki live-toiminnon asetukset?";
+"live_activity_settings_reset_confirm_title" = "Nollatko kaikki Live Activity -asetukset?";
 "live_activity_settings_reset_defaults" = "Palauta oletukset";
 "live_activity_settings_section_display_scenarios" = "Näyttötilannat";
 "live_activity_settings_section_lock_screen" = "Lukitusnäyttö";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Näytä yksityiskohtainen sisältö lukitusnäytöllä";
 "live_activity_settings_sound_assignment" = "Soita ääni Tehtävävaroitus-tilanteessa";
 "live_activity_settings_sound_class_preparing" = "Soita ääni Tunti alkaa pian -tilanteessa";
-"live_activity_settings_sound_hint" = "Ääni soi vain kerran tilanteen alkaessa; myöhemmät lähtölaskennan päivitykset ovat hiljaisia. Säädä äänenvoimakkuutta tai Älä häiritse -toimintoa muuttamalla järjestelmäasetuksissa \"Live-toiminto\"-ilmoituskanavaa.";
+"live_activity_settings_sound_hint" = "Ääni soi vain kerran tilanteen alkaessa; myöhemmät lähtölaskennan päivitykset ovat hiljaisia. Säädä äänenvoimakkuutta tai Älä häiritse -toimintoa muuttamalla järjestelmäasetuksissa \"Live Activity\"-ilmoituskanavaa.";
 "live_activity_settings_sound_in_class" = "Soita ääni Tunnilla-tilanteessa";
 "live_activity_settings_timing_hint" = "Liukusäädin kattaa yleiset alueet. Jos haluat asettaa arvoja alueen ulkopuolelle (esim. 1 päivä ennen tehtävän palautusta), napauta \"Mukautettu\".";
 "live_activity_status_assignment_short" = "Tehtävä";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Palvelimilmoitukset (äänellä)";
 "notification_class_preparing_content_fallback" = "Tunti alkaa pian";
 "notification_class_preparing_title" = "Tunti alkaa pian: %1$@";
-"notification_setup_description" = "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja live-toiminto saapuvat ajoissa myös sovelluksen ollessa suljettuna.";
+"notification_setup_description" = "Ota alla olevat luvat käyttöön varmistaaksesi, että tehtävämuistutukset, tunnin alkamisvaroitukset ja Live Activity saapuvat ajoissa myös sovelluksen ollessa suljettuna.";
 "notification_setup_title" = "Määritä ilmoitukset uudelleen";
 "onboarding_analytics_description" = "Auta kehittämään TigerDuckia jakamalla anonyymejä sivuvierailuja ja widgetien käyttötietoja. Voit muuttaa tätä milloin tahansa Asetuksista.";
 "onboarding_analytics_label" = "Käyttöanalytiikka (valinnainen)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Sallittu";
 "permission_not_applicable" = "Ei saatavilla tässä järjestelmäversiossa";
 "permission_not_granted_tap_settings" = "Ei sallittu · Avaa asetukset napauttamalla";
-"permission_notifications_description" = "Salli sovelluksen näyttää ilmoituksia; muussa tapauksessa ilmoitukset ja live-toiminto eivät näy.";
+"permission_notifications_description" = "Salli sovelluksen näyttää ilmoituksia; muussa tapauksessa ilmoitukset ja Live Activity eivät näy.";
 "permission_notifications_name" = "Ilmoituslupa";
 "permission_warning_action_later" = "Ehkä myöhemmin";
-"permission_warning_description" = "Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja live-toiminto eivät ehkä näy oikein.";
+"permission_warning_description" = "Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja Live Activity eivät ehkä näy oikein.";
 "permission_warning_mute_item" = "Älä muistuta tästä enää";
 "permission_warning_title" = "Ilmoituksiin liittyvät luvat poistettu käytöstä";
 "push_server_enable_toggle" = "Ota palvelimen push käyttöön";

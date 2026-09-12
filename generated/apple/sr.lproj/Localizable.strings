@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Апликација почиње да подсећа толико времена пре почетка часа.";
 "live_activity_settings_custom_class_title" = "Прилагођено вријеме пред почетак часа";
 "live_activity_settings_custom_class_unit_hint" = "Минути (до %1$d минута)";
-"live_activity_settings_description" = "Живе активности приказују тренутни час и одбројавање у обавештењима. „На часу\" и „Час ускоро почиње\" ажурирају се у реалном времену само кад је апликација отворена; „Упозорење за задатак\" може упозорити на вријеме и кад је апликација затворена.";
-"live_activity_settings_enable" = "Омогући живе активности";
+"live_activity_settings_description" = "Live Activity приказује тренутни час и одбројавање у обавештењима. „На часу\" и „Час ускоро почиње\" ажурирају се у реалном времену само кад је апликација отворена; „Упозорење за задатак\" може упозорити на вријеме и кад је апликација затворена.";
+"live_activity_settings_enable" = "Омогући Live Activity";
 "live_activity_settings_enable_toggle" = "Омогући Live Activity";
 "live_activity_settings_footer" = "Приказује тренутни час и задатке на закључаном екрану или у Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d ч";
@@ -457,7 +457,7 @@
 "live_activity_settings_range_minutes" = "Опсег: %1$d – %2$d минута";
 "live_activity_settings_reset" = "Ресетуј";
 "live_activity_settings_reset_confirm_message" = "Сви сценарији и поставке временског распореда биће враћени на подразумеване вредности.";
-"live_activity_settings_reset_confirm_title" = "Ресетовати све поставке живих активности?";
+"live_activity_settings_reset_confirm_title" = "Ресетовати све поставке за Live Activity?";
 "live_activity_settings_reset_defaults" = "Ресетуј на подразумевано";
 "live_activity_settings_section_display_scenarios" = "Сценарији приказивања";
 "live_activity_settings_section_lock_screen" = "Закључан екран";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Прикажи детаљан садржај на закљученом екрану";
 "live_activity_settings_sound_assignment" = "Звук за Упозорење за задатак";
 "live_activity_settings_sound_class_preparing" = "Звук за Час ускоро почиње";
-"live_activity_settings_sound_hint" = "Звук се репродукује само при уласку у сценарио по први пут; каснија ажурирања одбројавања остају тиха. За подешавање јачине звука или режима Не узнемиравај, промените канал обавештења „Живе активности\" у системским поставкама.";
+"live_activity_settings_sound_hint" = "Звук се репродукује само при уласку у сценарио по први пут; каснија ажурирања одбројавања остају тиха. За подешавање јачине звука или режима Не узнемиравај, промените канал обавештења „Live Activity\" у системским поставкама.";
 "live_activity_settings_sound_in_class" = "Звук за На часу";
 "live_activity_settings_timing_hint" = "Клизач покрива уобичајене опсеге. За вредности изван тог опсега (на пример, 1 дан пре рока задатка) додирните „Прилагођено\".";
 "live_activity_status_assignment_short" = "Задатак";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Serverska obaveštenja (zvuk)";
 "notification_class_preparing_content_fallback" = "Час ускоро почиње";
 "notification_class_preparing_title" = "Час ускоро почиње: %1$@";
-"notification_setup_description" = "Омогућите следеће дозволе да бисте осигурали да подсетници за задатке, упозорења о почетку часа и живе активности стижу на вријеме чак и кад је апликација затворена.";
+"notification_setup_description" = "Омогућите следеће дозволе да бисте осигурали да подсетници за задатке, упозорења о почетку часа и Live Activity стижу на вријеме чак и кад је апликација затворена.";
 "notification_setup_title" = "Поново подеси обавештења";
 "onboarding_analytics_description" = "Помози у побољшању TigerDuck-а дељењем анонимних података о посећеним страницама и коришћењу виџета. Ово можеш променити у било ком тренутку у Подешавањима.";
 "onboarding_analytics_label" = "Аналитика коришћења (опционално)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Дозвољено";
 "permission_not_applicable" = "Није доступно у овој верзији система";
 "permission_not_granted_tap_settings" = "Није дозвољено · Додирните да отворите поставке";
-"permission_notifications_description" = "Дозволите апликацији да приказује обавештења; у супротном обавештења и живе активности неће бити приказане.";
+"permission_notifications_description" = "Дозволите апликацији да приказује обавештења; у супротном обавештења и Live Activity неће бити приказани.";
 "permission_notifications_name" = "Дозвола за обавештења";
 "permission_warning_action_later" = "Можда касније";
-"permission_warning_description" = "Следеће дозволе су раније биле омогућене, али су сада онемогућене. Одговарајућа обавештења и живе активности можда неће бити исправно приказане.";
+"permission_warning_description" = "Следеће дозволе су раније биле омогућене, али су сада онемогућене. Одговарајућа обавештења и Live Activity можда неће бити исправно приказани.";
 "permission_warning_mute_item" = "Не подсећај ме о овоме поново";
 "permission_warning_title" = "Дозволе за обавештења су искључене";
 "push_server_enable_toggle" = "Укључи пуш са сервера";

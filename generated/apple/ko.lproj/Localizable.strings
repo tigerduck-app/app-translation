@@ -441,9 +441,9 @@
 "live_activity_settings_custom_class_description" = "앱이 수업 시작보다 이만큼 일찍 알림을 시작합니다.";
 "live_activity_settings_custom_class_title" = "사용자 지정 수업 사전 알림 시간";
 "live_activity_settings_custom_class_unit_hint" = "분 (최대 %1$d분)";
-"live_activity_settings_description" = "라이브 액티비티는 알림에 현재 수업과 카운트다운을 표시합니다. \"수업 중\"과 \"곧 수업 시작\"은 앱이 열려 있을 때만 실시간 갱신되며, \"과제 경고\"는 앱이 닫혀 있어도 제때 알릴 수 있습니다.";
-"live_activity_settings_enable" = "라이브 액티비티 활성화";
-"live_activity_settings_enable_toggle" = "라이브 액티비티 활성화";
+"live_activity_settings_description" = "Live Activity는 알림에 현재 수업과 카운트다운을 표시합니다. \"수업 중\"과 \"곧 수업 시작\"은 앱이 열려 있을 때만 실시간 갱신되며, \"과제 경고\"는 앱이 닫혀 있어도 제때 알릴 수 있습니다.";
+"live_activity_settings_enable" = "Live Activity 활성화";
+"live_activity_settings_enable_toggle" = "Live Activity 활성화";
 "live_activity_settings_footer" = "잠금 화면 또는 Dynamic Island에 현재 수업과 과제를 표시합니다.";
 "live_activity_settings_hours_label" = "%1$d시간";
 "live_activity_settings_hours_minutes_label" = "%1$d시간 %2$d분";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "비활성화 시 잠금 화면에는 \"알림 숨김\"과 같은 자리 표시 텍스트만 표시됩니다. 활성화해도 효과가 없으면 시스템 설정에서 잠금 화면에 이 알림 유형을 허용해 주세요.";
 "live_activity_settings_minutes_label" = "%1$d분";
 "live_activity_settings_minutes_unit" = "분";
-"live_activity_settings_nav_title" = "라이브 액티비티";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "범위: %1$d – %2$d시간";
 "live_activity_settings_range_min_to_hours" = "범위: %1$d분 – %2$d시간";
 "live_activity_settings_range_minutes" = "범위: %1$d – %2$d분";
 "live_activity_settings_reset" = "재설정";
 "live_activity_settings_reset_confirm_message" = "모든 시나리오와 타이밍 설정이 기본값으로 복원됩니다.";
-"live_activity_settings_reset_confirm_title" = "모든 라이브 액티비티 설정을 재설정할까요?";
+"live_activity_settings_reset_confirm_title" = "모든 Live Activity 설정을 재설정할까요?";
 "live_activity_settings_reset_defaults" = "기본값으로 재설정";
 "live_activity_settings_section_display_scenarios" = "표시 시나리오";
 "live_activity_settings_section_lock_screen" = "잠금 화면";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "잠금 화면에 자세한 내용 표시";
 "live_activity_settings_sound_assignment" = "과제 경고 시 알림음 재생";
 "live_activity_settings_sound_class_preparing" = "곧 수업 시작 시 알림음 재생";
-"live_activity_settings_sound_hint" = "알림음은 시나리오에 처음 진입할 때만 재생되며 이후 카운트다운 갱신은 무음으로 유지됩니다. 음량이나 방해 금지 동작을 조정하려면 시스템 설정에서 \"라이브 액티비티\" 알림 채널을 변경하세요.";
+"live_activity_settings_sound_hint" = "알림음은 시나리오에 처음 진입할 때만 재생되며 이후 카운트다운 갱신은 무음으로 유지됩니다. 음량이나 방해 금지 동작을 조정하려면 시스템 설정에서 \"Live Activity\" 알림 채널을 변경하세요.";
 "live_activity_settings_sound_in_class" = "수업 중일 때 알림음 재생";
 "live_activity_settings_timing_hint" = "슬라이더는 일반적인 범위를 다룹니다. 그 범위를 벗어나는 값(예: 과제 마감 1일 전)은 \"사용자 지정\"을 탭하세요.";
 "live_activity_status_assignment_short" = "과제";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "서버 알림 (소리)";
 "notification_class_preparing_content_fallback" = "수업이 곧 시작됩니다";
 "notification_class_preparing_title" = "곧 수업 시작: %1$@";
-"notification_setup_description" = "아래 권한을 허용하면 앱이 닫혀 있어도 과제 알림, 수업 시작 알림, 라이브 액티비티가 제때 도착합니다.";
+"notification_setup_description" = "아래 권한을 허용하면 앱이 닫혀 있어도 과제 알림, 수업 시작 알림, Live Activity가 제때 도착합니다.";
 "notification_setup_title" = "알림 다시 설정";
 "onboarding_analytics_description" = "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.";
 "onboarding_analytics_label" = "사용 분석 (선택 사항)";
@@ -516,7 +516,7 @@
 "onboarding_skip_for_now" = "건너뛰기";
 "onboarding_start_button" = "TigerDuck 시작하기";
 "onboarding_sync_description" = "TigerSync는 모든 기기에서 시간표, 과제 및 설정을 동기화합니다. TigerSync 설정에서 동기화할 항목을 선택할 수 있습니다.";
-"onboarding_sync_disabled_note" = "동기화를 끄면 모든 데이터가 이 기기에만 저장됩니다. 푸시 알림과 라이브 액티비티를 사용할 수 없습니다.";
+"onboarding_sync_disabled_note" = "동기화를 끄면 모든 데이터가 이 기기에만 저장됩니다. 푸시 알림과 Live Activity를 사용할 수 없습니다.";
 "onboarding_sync_not_shared_password" = "비밀번호는 업로드되지 않습니다";
 "onboarding_sync_note" = "동기화를 끄면 모든 데이터가 이 기기에만 저장됩니다. 푸시 알림은 TigerSync 없이도 로컬에서 작동합니다.";
 "onboarding_sync_shared_assignments" = "과제 데이터";
@@ -524,7 +524,7 @@
 "onboarding_sync_shared_device_id" = "기기 ID";
 "onboarding_sync_shared_moodle_token" = "Moodle 토큰 (암호화)";
 "onboarding_sync_shared_student_id" = "학번";
-"onboarding_sync_subtitle" = "TigerSync는 모든 기기에서 시간표, 과제 및 설정을 동기화합니다. TigerSync 설정에서 동기화할 항목을 선택할 수 있습니다. 푸시 알림과 라이브 액티비티에는 TigerSync가 필요합니다.";
+"onboarding_sync_subtitle" = "TigerSync는 모든 기기에서 시간표, 과제 및 설정을 동기화합니다. TigerSync 설정에서 동기화할 항목을 선택할 수 있습니다. 푸시 알림과 Live Activity에는 TigerSync가 필요합니다.";
 "onboarding_sync_title" = "TigerSync";
 "onboarding_sync_toggle_label" = "TigerSync 활성화";
 "onboarding_watchos_description" = "TigerDuck에는 Apple Watch 컴패니언이 포함되어 있습니다. 다음 수업과 빠른 알림을 손목에서 바로 확인하세요 — Watch TigerDuck이 iPhone에서 정보를 동기화합니다.";
@@ -540,10 +540,10 @@
 "permission_granted" = "허용됨";
 "permission_not_applicable" = "이 시스템 버전에서는 사용할 수 없습니다";
 "permission_not_granted_tap_settings" = "허용 안 됨 · 탭하여 설정 열기";
-"permission_notifications_description" = "앱이 알림을 표시할 수 있도록 허용해 주세요. 그렇지 않으면 알림과 라이브 액티비티가 표시되지 않습니다.";
+"permission_notifications_description" = "앱이 알림을 표시할 수 있도록 허용해 주세요. 그렇지 않으면 알림과 Live Activity가 표시되지 않습니다.";
 "permission_notifications_name" = "알림 권한";
 "permission_warning_action_later" = "나중에";
-"permission_warning_description" = "다음 권한이 이전에 허용되었으나 현재 비활성화되어 있습니다. 관련 알림과 라이브 액티비티가 정상적으로 표시되지 않을 수 있습니다.";
+"permission_warning_description" = "다음 권한이 이전에 허용되었으나 현재 비활성화되어 있습니다. 관련 알림과 Live Activity가 정상적으로 표시되지 않을 수 있습니다.";
 "permission_warning_mute_item" = "이 항목을 다시 알리지 않기";
 "permission_warning_title" = "알림 관련 권한이 꺼져 있습니다";
 "push_server_enable_toggle" = "서버 푸시 활성화";

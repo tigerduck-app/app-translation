@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Rakendus hakkab nii kaua enne tunni algust meelde tuletama.";
 "live_activity_settings_custom_class_title" = "Kohandatud tunni eelhoiatuse aeg";
 "live_activity_settings_custom_class_unit_hint" = "Minutit (kuni %1$d minutit)";
-"live_activity_settings_description" = "Reaalajas tegevus näitab teavitustes praegust tundi ja loendust. „Tund käib\" ja „Tund algab varsti\" uuendatakse reaalajas ainult siis, kui rakendus on avatud; „Ülesande hoiatus\" saab siiski õigel ajal teavitada, kui rakendus on suletud.";
-"live_activity_settings_enable" = "Luba reaalajas tegevus";
+"live_activity_settings_description" = "Live Activity näitab teavitustes praegust tundi ja loendust. „Tund käib\" ja „Tund algab varsti\" uuendatakse reaalajas ainult siis, kui rakendus on avatud; „Ülesande hoiatus\" saab siiski õigel ajal teavitada, kui rakendus on suletud.";
+"live_activity_settings_enable" = "Luba Live Activity";
 "live_activity_settings_enable_toggle" = "Luba Live Activity";
 "live_activity_settings_footer" = "Kuvab praeguse tunni ja ülesanded lukustuskuval või Dynamic Islandil.";
 "live_activity_settings_hours_label" = "%1$d t";
@@ -457,7 +457,7 @@
 "live_activity_settings_range_minutes" = "Vahemik: %1$d – %2$d minutit";
 "live_activity_settings_reset" = "Lähtesta";
 "live_activity_settings_reset_confirm_message" = "Kõik stsenaariumid ja ajastuse seaded taastatakse vaikimisi.";
-"live_activity_settings_reset_confirm_title" = "Lähtestada kõik reaalajas tegevuse seaded?";
+"live_activity_settings_reset_confirm_title" = "Lähtestada kõik Live Activity seaded?";
 "live_activity_settings_reset_defaults" = "Lähtesta vaikimisi";
 "live_activity_settings_section_display_scenarios" = "Kuva stsenaariumid";
 "live_activity_settings_section_lock_screen" = "Lukustuskuva";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Kuva lukustuskuval üksikasjalik sisu";
 "live_activity_settings_sound_assignment" = "Esita heli olekus Ülesande hoiatus";
 "live_activity_settings_sound_class_preparing" = "Esita heli olekus Tund algab varsti";
-"live_activity_settings_sound_hint" = "Heli mängib ainult stsenaariumi esmakordselt sisenemisel; hilisemad loenduse uuendused jäävad vaikseks. Helitugevuse või mitte-segamise režiimi muutmiseks muutke süsteemiseadetes teavituste kanalit „Reaalajas tegevus\".";
+"live_activity_settings_sound_hint" = "Heli mängib ainult stsenaariumi esmakordselt sisenemisel; hilisemad loenduse uuendused jäävad vaikseks. Helitugevuse või mitte-segamise režiimi muutmiseks muutke süsteemiseadetes teavituste kanalit „Live Activity\".";
 "live_activity_settings_sound_in_class" = "Esita heli olekus Tund käib";
 "live_activity_settings_timing_hint" = "Liugur katab tavalised vahemikud. Vahemikust väljapoole jäävate väärtuste seadistamiseks (näiteks 1 päev enne ülesande tähtaega) puudutage „Kohandatud\".";
 "live_activity_status_assignment_short" = "Ülesanne";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Serveriteated (heliga)";
 "notification_class_preparing_content_fallback" = "Tund on kohe algamas";
 "notification_class_preparing_title" = "Tund algab varsti: %1$@";
-"notification_setup_description" = "Lubage allpool olevad load, et ülesande meeldetuletused, tunni alguse teavitused ja reaalajas tegevus jõuaksid õigel ajal kohale isegi siis, kui rakendus on suletud.";
+"notification_setup_description" = "Lubage allpool olevad load, et ülesande meeldetuletused, tunni alguse teavitused ja Live Activity jõuaksid õigel ajal kohale isegi siis, kui rakendus on suletud.";
 "notification_setup_title" = "Seadista teavitused uuesti";
 "onboarding_analytics_description" = "Aita TigerDucki paremaks muuta, jagades anonüümseid andmeid külastatud lehtede ja vidinate kasutamise kohta. Saad seda igal ajal Seadetes muuta.";
 "onboarding_analytics_label" = "Kasutusanalüütika (valikuline)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Lubatud";
 "permission_not_applicable" = "Pole selles süsteemiversioonis saadaval";
 "permission_not_granted_tap_settings" = "Pole lubatud · Puudutage seadete avamiseks";
-"permission_notifications_description" = "Lubage rakendusel teavitusi kuvada; muidu ei ilmu teavitused ega reaalajas tegevus.";
+"permission_notifications_description" = "Lubage rakendusel teavitusi kuvada; muidu ei ilmu teavitused ega Live Activity.";
 "permission_notifications_name" = "Teavituste luba";
 "permission_warning_action_later" = "Ehk hiljem";
-"permission_warning_description" = "Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja reaalajas tegevus ei pruugi õigesti kuvada.";
+"permission_warning_description" = "Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja Live Activity ei pruugi õigesti kuvada.";
 "permission_warning_mute_item" = "Ärge tuletage seda enam meelde";
 "permission_warning_title" = "Teavitusega seotud load on välja lülitatud";
 "push_server_enable_toggle" = "Luba serveri tõuge";

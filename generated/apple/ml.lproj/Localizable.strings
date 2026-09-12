@@ -451,7 +451,7 @@
 "live_activity_settings_lock_screen_hint" = "ഓഫ് ആക്കുമ്പോൾ, ലോക്ക് സ്ക്രീനിൽ \"അറിയിപ്പ് മറഞ്ഞിരിക്കുന്നു\" എന്ന placeholder ടെക്‌സ്‌റ്റ് മാത്രം കാണിക്കും. ഓൺ ആക്കിയിട്ടും ഫലമില്ലെങ്കിൽ, സിസ്റ്റം ക്രമീകരണങ്ങളിൽ ലോക്ക് സ്ക്രീൻ അറിയിപ്പ് തരം അനുവദിക്കുക.";
 "live_activity_settings_minutes_label" = "%1$d മിനിറ്റ്";
 "live_activity_settings_minutes_unit" = "മിനിറ്റ്";
-"live_activity_settings_nav_title" = "തത്സമയ പ്രവർത്തനം";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "ശ്രേണി: %1$d – %2$d മണിക്കൂർ";
 "live_activity_settings_range_min_to_hours" = "ശ്രേണി: %1$d മിനിറ്റ് – %2$d മണിക്കൂർ";
 "live_activity_settings_range_minutes" = "ശ്രേണി: %1$d – %2$d മിനിറ്റ്";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "ലോക്ക് സ്ക്രീനിൽ വിശദ ഉള്ളടക്കം കാണിക്കുക";
 "live_activity_settings_sound_assignment" = "\"അസൈൻമെന്റ് മുന്നറിയിപ്പ്\" ശബ്ദം പ്ലേ ചെയ്യുക";
 "live_activity_settings_sound_class_preparing" = "\"ക്ലാസ് ആരംഭിക്കാൻ പോകുന്നു\" ശബ്ദം പ്ലേ ചെയ്യുക";
-"live_activity_settings_sound_hint" = "ഒരു സ്ഥിതിയിലേക്ക് ആദ്യം പ്രവേശിക്കുമ്പോൾ മാത്രം ശബ്ദം കേൾക്കും; തുടർന്നുള്ള കൗണ്ട്‌ഡൗൺ അപ്‌ഡേറ്റുകൾ നിശബ്ദമായിരിക്കും. വോളിയം അല്ലെങ്കിൽ Do Not Disturb ക്രമീകരിക്കാൻ, സിസ്റ്റം ക്രമീകരണങ്ങളിലെ \"Live activity\" അറിയിപ്പ് ചാനൽ മാറ്റുക.";
+"live_activity_settings_sound_hint" = "ഒരു സ്ഥിതിയിലേക്ക് ആദ്യം പ്രവേശിക്കുമ്പോൾ മാത്രം ശബ്ദം കേൾക്കും; തുടർന്നുള്ള കൗണ്ട്‌ഡൗൺ അപ്‌ഡേറ്റുകൾ നിശബ്ദമായിരിക്കും. വോളിയം അല്ലെങ്കിൽ Do Not Disturb ക്രമീകരിക്കാൻ, സിസ്റ്റം ക്രമീകരണങ്ങളിലെ \"Live Activity\" അറിയിപ്പ് ചാനൽ മാറ്റുക.";
 "live_activity_settings_sound_in_class" = "\"ക്ലാസിൽ\" ശബ്ദം പ്ലേ ചെയ്യുക";
 "live_activity_settings_timing_hint" = "സ്ലൈഡർ സാധാരണ ശ്രേണികൾ ഉൾക്കൊള്ളുന്നു. ആ ശ്രേണിക്ക് പുറത്തുള്ള മൂല്യങ്ങൾ സജ്ജമാക്കാൻ (ഉദാ: അസൈൻമെന്റ് 1 ദിവസം മുമ്പ്) \"ഇഷ്ടാനുസൃതം\" ടാപ്പ് ചെയ്യുക.";
 "live_activity_status_assignment_short" = "അസൈൻമെന്റ്";

@@ -441,9 +441,9 @@
 "live_activity_settings_custom_class_description" = "アプリは授業開始のこの時間前からリマインドし始めます。";
 "live_activity_settings_custom_class_title" = "カスタム授業前リマインダー時間";
 "live_activity_settings_custom_class_unit_hint" = "分（最大 %1$d 分）";
-"live_activity_settings_description" = "ライブアクティビティは現在の授業とカウントダウンを通知エリアに表示します。「授業中」と「まもなく授業開始」はアプリを開いている間のみリアルタイムで更新されます。「課題警告」はアプリを閉じていても時間どおりに通知できます。";
-"live_activity_settings_enable" = "ライブアクティビティを有効にする";
-"live_activity_settings_enable_toggle" = "ライブアクティビティを有効にする";
+"live_activity_settings_description" = "Live Activity は現在の授業とカウントダウンを通知エリアに表示します。「授業中」と「まもなく授業開始」はアプリを開いている間のみリアルタイムで更新されます。「課題警告」はアプリを閉じていても時間どおりに通知できます。";
+"live_activity_settings_enable" = "Live Activity を有効にする";
+"live_activity_settings_enable_toggle" = "Live Activity を有効にする";
 "live_activity_settings_footer" = "ロック画面または Dynamic Island に現在の授業と課題を表示します。";
 "live_activity_settings_hours_label" = "%1$d 時間";
 "live_activity_settings_hours_minutes_label" = "%1$d 時間 %2$d 分";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "オフの場合、ロック画面には「通知が非表示」のようなプレースホルダーのみ表示されます。オンにしても効果がない場合は、システム設定でこの種類の通知をロック画面に表示できるよう許可してください。";
 "live_activity_settings_minutes_label" = "%1$d 分";
 "live_activity_settings_minutes_unit" = "分";
-"live_activity_settings_nav_title" = "ライブアクティビティ";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "範囲：%1$d – %2$d 時間";
 "live_activity_settings_range_min_to_hours" = "範囲：%1$d 分 – %2$d 時間";
 "live_activity_settings_range_minutes" = "範囲：%1$d – %2$d 分";
 "live_activity_settings_reset" = "リセット";
 "live_activity_settings_reset_confirm_message" = "すべてのシーンと表示タイミングの設定がデフォルト値に戻ります。";
-"live_activity_settings_reset_confirm_title" = "ライブアクティビティの設定をすべてリセットしますか？";
+"live_activity_settings_reset_confirm_title" = "Live Activity の設定をすべてリセットしますか？";
 "live_activity_settings_reset_defaults" = "デフォルトに戻す";
 "live_activity_settings_section_display_scenarios" = "表示シーン";
 "live_activity_settings_section_lock_screen" = "ロック画面";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "ロック画面に詳細を表示";
 "live_activity_settings_sound_assignment" = "課題警告で通知音を鳴らす";
 "live_activity_settings_sound_class_preparing" = "まもなく授業開始で通知音を鳴らす";
-"live_activity_settings_sound_hint" = "通知音はそのシーンに入った瞬間にのみ一度だけ鳴り、以後のカウントダウン更新では鳴りません。音量やおやすみモードの動作を調整するには、システム設定で「ライブアクティビティ」通知チャネルを変更してください。";
+"live_activity_settings_sound_hint" = "通知音はそのシーンに入った瞬間にのみ一度だけ鳴り、以後のカウントダウン更新では鳴りません。音量やおやすみモードの動作を調整するには、システム設定で「Live Activity」通知チャネルを変更してください。";
 "live_activity_settings_sound_in_class" = "授業中に通知音を鳴らす";
 "live_activity_settings_timing_hint" = "スライダーは一般的な範囲をカバーしています。範囲外の値（例：課題期限の1日前）を設定するには「カスタム」をタップしてください。";
 "live_activity_status_assignment_short" = "課題";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "サーバー通知（サウンドあり）";
 "notification_class_preparing_content_fallback" = "まもなく授業が始まります";
 "notification_class_preparing_title" = "まもなく授業開始：%1$@";
-"notification_setup_description" = "以下の権限を有効にすると、アプリを閉じていても課題リマインダー、授業開始前の通知、ライブアクティビティを時間どおりに受け取れます。";
+"notification_setup_description" = "以下の権限を有効にすると、アプリを閉じていても課題リマインダー、授業開始前の通知、Live Activity を時間どおりに受け取れます。";
 "notification_setup_title" = "通知を再設定";
 "onboarding_analytics_description" = "閲覧ページやウィジェットの使用状況に関する匿名データを共有して、TigerDuck の改善にご協力ください。設定からいつでも変更できます。";
 "onboarding_analytics_label" = "利用状況の分析（任意）";
@@ -516,7 +516,7 @@
 "onboarding_skip_for_now" = "今はスキップ";
 "onboarding_start_button" = "TigerDuck を使い始める";
 "onboarding_sync_description" = "TigerSync はすべてのデバイス間で時間割、課題、設定を同期します。TigerSync の設定で同期する項目を選択できます。";
-"onboarding_sync_disabled_note" = "同期をオフにすると、すべてのデータはこのデバイスのみに保存されます。プッシュ通知とライブアクティビティは利用できません。";
+"onboarding_sync_disabled_note" = "同期をオフにすると、すべてのデータはこのデバイスのみに保存されます。プッシュ通知と Live Activity は利用できません。";
 "onboarding_sync_not_shared_password" = "パスワードはアップロードされません";
 "onboarding_sync_note" = "同期をオフにすると、すべてのデータはこのデバイスのみに保存されます。プッシュ通知は TigerSync なしでもローカルで動作します。";
 "onboarding_sync_shared_assignments" = "課題データ";
@@ -524,7 +524,7 @@
 "onboarding_sync_shared_device_id" = "デバイス ID";
 "onboarding_sync_shared_moodle_token" = "Moodle トークン（暗号化）";
 "onboarding_sync_shared_student_id" = "学籍番号";
-"onboarding_sync_subtitle" = "TigerSync はすべてのデバイス間で時間割、課題、設定を同期します。TigerSync の設定で同期する項目を選択できます。プッシュ通知とライブアクティビティには TigerSync が必要です。";
+"onboarding_sync_subtitle" = "TigerSync はすべてのデバイス間で時間割、課題、設定を同期します。TigerSync の設定で同期する項目を選択できます。プッシュ通知と Live Activity には TigerSync が必要です。";
 "onboarding_sync_title" = "TigerSync";
 "onboarding_sync_toggle_label" = "TigerSync を有効にする";
 "onboarding_watchos_description" = "TigerDuck は Apple Watch コンパニオンを搭載しています。次の授業やクイックリマインダーを手元で確認できます — Watch TigerDuck は iPhone から情報を同期します。";
@@ -540,10 +540,10 @@
 "permission_granted" = "許可済み";
 "permission_not_applicable" = "このシステムバージョンでは利用できません";
 "permission_not_granted_tap_settings" = "未許可 · タップして設定を開く";
-"permission_notifications_description" = "アプリが通知を表示することを許可してください。許可しない場合、通知やライブアクティビティは表示されません。";
+"permission_notifications_description" = "アプリが通知を表示することを許可してください。許可しない場合、通知や Live Activity は表示されません。";
 "permission_notifications_name" = "通知の許可";
 "permission_warning_action_later" = "あとで";
-"permission_warning_description" = "以前は許可されていた以下の権限が現在はオフになっています。これに関連する通知やライブアクティビティが正しく表示されない場合があります。";
+"permission_warning_description" = "以前は許可されていた以下の権限が現在はオフになっています。これに関連する通知や Live Activity が正しく表示されない場合があります。";
 "permission_warning_mute_item" = "この項目を今後表示しない";
 "permission_warning_title" = "通知関連の権限がオフになっています";
 "push_server_enable_toggle" = "サーバープッシュを有効にする";

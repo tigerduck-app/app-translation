@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Sisimulan ng app na magpaalala nang ganitong tagal bago magsimula ang klase.";
 "live_activity_settings_custom_class_title" = "Custom na oras ng babala bago mag-klase";
 "live_activity_settings_custom_class_unit_hint" = "Minuto (hanggang %1$d minuto)";
-"live_activity_settings_description" = "Ipinapakita ng live activity ang kasalukuyang klase at countdown sa mga notification. Ang \"Nasa klase\" at \"Magsisimula na ang klase\" ay nag-a-update nang real time habang bukas ang app; ang \"Babala sa takdang-aralin\" ay maaari pa ring mag-alerto sa tamang oras kahit naka-close ang app.";
-"live_activity_settings_enable" = "I-enable ang live activity";
+"live_activity_settings_description" = "Ipinapakita ng Live Activity ang kasalukuyang klase at countdown sa mga notification. Ang \"Nasa klase\" at \"Magsisimula na ang klase\" ay nag-a-update nang real time habang bukas ang app; ang \"Babala sa takdang-aralin\" ay maaari pa ring mag-alerto sa tamang oras kahit naka-close ang app.";
+"live_activity_settings_enable" = "I-enable ang Live Activity";
 "live_activity_settings_enable_toggle" = "I-enable ang Live Activity";
 "live_activity_settings_footer" = "Ipinapakita ang kasalukuyang klase at mga assignment sa Lock Screen o Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d hr";
@@ -457,7 +457,7 @@
 "live_activity_settings_range_minutes" = "Range: %1$d – %2$d minuto";
 "live_activity_settings_reset" = "I-reset";
 "live_activity_settings_reset_confirm_message" = "Ang lahat ng sitwasyon at setting ng timing ay ibabalik sa defaults.";
-"live_activity_settings_reset_confirm_title" = "I-reset ang lahat ng live activity setting?";
+"live_activity_settings_reset_confirm_title" = "I-reset ang lahat ng Live Activity setting?";
 "live_activity_settings_reset_defaults" = "I-reset sa defaults";
 "live_activity_settings_section_display_scenarios" = "Mga sitwasyong ipinapakita";
 "live_activity_settings_section_lock_screen" = "Lock screen";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Ipakita ang detalyadong nilalaman sa lock screen";
 "live_activity_settings_sound_assignment" = "I-play ang tunog para sa Babala sa takdang-aralin";
 "live_activity_settings_sound_class_preparing" = "I-play ang tunog para sa Magsisimula na ang klase";
-"live_activity_settings_sound_hint" = "Isang beses lang tutunog kapag pumasok sa isang sitwasyon; ang mga susunod na countdown update ay mananatiling tahimik. Para ayusin ang volume o Do Not Disturb, baguhin ang \"Live activity\" notification channel sa mga setting ng sistema.";
+"live_activity_settings_sound_hint" = "Isang beses lang tutunog kapag pumasok sa isang sitwasyon; ang mga susunod na countdown update ay mananatiling tahimik. Para ayusin ang volume o Do Not Disturb, baguhin ang \"Live Activity\" notification channel sa mga setting ng sistema.";
 "live_activity_settings_sound_in_class" = "I-play ang tunog para sa Nasa klase";
 "live_activity_settings_timing_hint" = "Sinasaklaw ng slider ang mga karaniwang range. Para magtakda ng mga value sa labas ng range (halimbawa, 1 araw bago mag-due ang takdang-aralin), i-tap ang \"Custom\".";
 "live_activity_status_assignment_short" = "Takdang-aralin";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Mga abiso ng server (may tunog)";
 "notification_class_preparing_content_fallback" = "Malapit nang magsimula ang klase";
 "notification_class_preparing_title" = "Magsisimula na ang klase: %1$@";
-"notification_setup_description" = "I-enable ang mga pahintulot sa ibaba para matiyak na darating sa tamang oras ang mga paalala sa takdang-aralin, bago mag-klase, at live activity kahit naka-close ang app.";
+"notification_setup_description" = "I-enable ang mga pahintulot sa ibaba para matiyak na darating sa tamang oras ang mga paalala sa takdang-aralin, bago mag-klase, at Live Activity kahit naka-close ang app.";
 "notification_setup_title" = "I-reconfigure ang mga notification";
 "onboarding_analytics_description" = "Tulungan kaming mapabuti ang TigerDuck sa pamamagitan ng pagbabahagi ng iyong anonymous na mga page visit at paggamit ng widget. Maaari mong baguhin ito anumang oras sa Mga Setting.";
 "onboarding_analytics_label" = "Analytics ng paggamit (opsyonal)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Pinahintulutan";
 "permission_not_applicable" = "Hindi available sa bersyong ito ng sistema";
 "permission_not_granted_tap_settings" = "Hindi pinahintulutan · I-tap para buksan ang settings";
-"permission_notifications_description" = "Payagan ang app na magpakita ng mga notification; kung hindi, hindi lalabas ang mga notification at live activity.";
+"permission_notifications_description" = "Payagan ang app na magpakita ng mga notification; kung hindi, hindi lalabas ang mga notification at Live Activity.";
 "permission_notifications_name" = "Pahintulot sa notification";
 "permission_warning_action_later" = "Mamaya na lang";
-"permission_warning_description" = "Ang mga sumusunod na pahintulot ay dati nang pinagana ngunit naka-disable na ngayon. Maaaring hindi wastong maipakita ang mga kaugnay na notification at live activity.";
+"permission_warning_description" = "Ang mga sumusunod na pahintulot ay dati nang pinagana ngunit naka-disable na ngayon. Maaaring hindi wastong maipakita ang mga kaugnay na notification at Live Activity.";
 "permission_warning_mute_item" = "Huwag na akong paalalahanan tungkol dito";
 "permission_warning_title" = "Naka-off ang mga pahintulot na may kaugnayan sa notification";
 "push_server_enable_toggle" = "Paganahin ang server push";

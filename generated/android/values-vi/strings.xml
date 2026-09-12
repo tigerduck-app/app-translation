@@ -446,7 +446,7 @@
     <string name="library_status_signed_in">Đã đăng nhập</string>
     <string name="library_virtual_pass_title">Thẻ vào ảo</string>
     <string name="live_activity_channel_description">Hiển thị lớp hiện tại, lớp sắp tới và đếm ngược bài tập. Bạn có thể điều chỉnh âm báo cho từng tình huống trong cài đặt ứng dụng.</string>
-    <string name="live_activity_channel_name">Thông tin cập nhật trực tiếp</string>
+    <string name="live_activity_channel_name">Live Updates</string>
     <string name="live_activity_settings_assignment_notification_footer">Bạn sẽ được thông báo trước khi bài tập đến hạn.</string>
     <string name="live_activity_settings_assignment_notification_header">Thông báo bài tập</string>
     <string name="live_activity_settings_assignment_warning">Cảnh báo bài tập</string>
@@ -455,8 +455,8 @@
     <string name="live_activity_settings_custom_class_description">Ứng dụng bắt đầu nhắc trước khi lớp bắt đầu bao lâu.</string>
     <string name="live_activity_settings_custom_class_title">Tùy chỉnh thời gian báo trước lớp</string>
     <string name="live_activity_settings_custom_class_unit_hint">Phút (tối đa %1$d phút)</string>
-    <string name="live_activity_settings_description">Thông tin cập nhật trực tiếp hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.</string>
-    <string name="live_activity_settings_enable">Bật thông tin cập nhật trực tiếp</string>
+    <string name="live_activity_settings_description">Live Updates hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.</string>
+    <string name="live_activity_settings_enable">Bật Live Updates</string>
     <string name="live_activity_settings_hours_label">%1$d giờ</string>
     <string name="live_activity_settings_hours_minutes_label">%1$d giờ %2$d phút</string>
     <string name="live_activity_settings_hours_unit">Giờ</string>
@@ -469,7 +469,7 @@
     <string name="live_activity_settings_range_minutes">Phạm vi: %1$d – %2$d phút</string>
     <string name="live_activity_settings_reset">Đặt lại</string>
     <string name="live_activity_settings_reset_confirm_message">Tất cả tình huống và cài đặt thời điểm sẽ được khôi phục về mặc định.</string>
-    <string name="live_activity_settings_reset_confirm_title">Đặt lại tất cả cài đặt thông tin cập nhật trực tiếp?</string>
+    <string name="live_activity_settings_reset_confirm_title">Đặt lại tất cả cài đặt Live Updates?</string>
     <string name="live_activity_settings_reset_defaults">Đặt lại mặc định</string>
     <string name="live_activity_settings_section_display_scenarios">Tình huống hiển thị</string>
     <string name="live_activity_settings_section_lock_screen">Màn hình khóa</string>
@@ -479,7 +479,7 @@
     <string name="live_activity_settings_show_on_lock_screen">Hiển thị nội dung chi tiết trên màn hình khóa</string>
     <string name="live_activity_settings_sound_assignment">Phát âm báo cho Cảnh báo bài tập</string>
     <string name="live_activity_settings_sound_class_preparing">Phát âm báo cho Sắp vào lớp</string>
-    <string name="live_activity_settings_sound_hint">Âm báo chỉ phát khi vào tình huống lần đầu; các cập nhật đếm ngược sau đó sẽ im lặng. Để điều chỉnh âm lượng hoặc chế độ Không làm phiền, hãy thay đổi kênh thông báo \"Thông tin cập nhật trực tiếp\" trong cài đặt hệ thống.</string>
+    <string name="live_activity_settings_sound_hint">Âm báo chỉ phát khi vào tình huống lần đầu; các cập nhật đếm ngược sau đó sẽ im lặng. Để điều chỉnh âm lượng hoặc chế độ Không làm phiền, hãy thay đổi kênh thông báo \"Live Updates\" trong cài đặt hệ thống.</string>
     <string name="live_activity_settings_sound_in_class">Phát âm báo cho Đang trong lớp</string>
     <string name="live_activity_settings_timing_hint">Thanh trượt bao quát các khoảng thông dụng. Để đặt giá trị nằm ngoài phạm vi đó (ví dụ, 1 ngày trước khi bài tập đến hạn), nhấn \"Tùy chỉnh\".</string>
     <string name="live_activity_status_assignment_urgent">Bài tập sắp đến hạn</string>
@@ -512,7 +512,7 @@
     <string name="notification_class_preparing_channel_name">Nhắc sắp vào lớp</string>
     <string name="notification_class_preparing_content_fallback">Lớp học sắp bắt đầu</string>
     <string name="notification_class_preparing_title">Sắp vào lớp: %1$s</string>
-    <string name="notification_setup_description">Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và thông tin cập nhật trực tiếp đến đúng giờ ngay cả khi ứng dụng đã đóng.</string>
+    <string name="notification_setup_description">Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và Live Updates đến đúng giờ ngay cả khi ứng dụng đã đóng.</string>
     <string name="notification_setup_title">Cài đặt lại thông báo</string>
     <string name="notification_system_channel_description">Sự cố tài khoản và đồng bộ cần bạn xử lý</string>
     <string name="notification_system_channel_name">Thông báo hệ thống</string>
@@ -562,12 +562,12 @@
     <string name="permission_granted">Đã cho phép</string>
     <string name="permission_not_applicable">Không có trên phiên bản hệ thống này</string>
     <string name="permission_not_granted_tap_settings">Chưa cho phép · Nhấn để mở cài đặt</string>
-    <string name="permission_notifications_description">Cho phép ứng dụng hiển thị thông báo; nếu không, thông báo và thông tin cập nhật trực tiếp sẽ không xuất hiện.</string>
+    <string name="permission_notifications_description">Cho phép ứng dụng hiển thị thông báo; nếu không, thông báo và Live Updates sẽ không xuất hiện.</string>
     <string name="permission_notifications_name">Quyền thông báo</string>
-    <string name="permission_promoted_notifications_description">Cho phép đồng hồ đếm ngược của tiết học hiển thị dưới dạng chip trên thanh trạng thái. Nếu tắt, thông tin trực tiếp vẫn hiện khi bạn kéo bảng thông báo xuống.</string>
+    <string name="permission_promoted_notifications_description">Cho phép đồng hồ đếm ngược của tiết học hiển thị dưới dạng chip trên thanh trạng thái. Nếu tắt, Live Updates vẫn hiện khi bạn kéo bảng thông báo xuống.</string>
     <string name="permission_promoted_notifications_name">Chip trên thanh trạng thái</string>
     <string name="permission_warning_action_later">Để sau</string>
-    <string name="permission_warning_description">Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và thông tin cập nhật trực tiếp liên quan có thể không hiển thị đúng.</string>
+    <string name="permission_warning_description">Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và Live Updates liên quan có thể không hiển thị đúng.</string>
     <string name="permission_warning_mute_item">Đừng nhắc tôi về điều này nữa</string>
     <string name="permission_warning_title">Quyền liên quan đến thông báo đã tắt</string>
     <string name="push_server_enable_toggle">Bật đẩy thông báo từ máy chủ</string>

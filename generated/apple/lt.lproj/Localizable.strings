@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Programa pradeda priminti tiek laiko prieš paskaitos pradžią.";
 "live_activity_settings_custom_class_title" = "Pasirinktinis paskaitos išankstinis laikas";
 "live_activity_settings_custom_class_unit_hint" = "Minutės (iki %1$d minučių)";
-"live_activity_settings_description" = "Tiesioginė veikla pranešimuose rodo dabartinę paskaitą ir atgalinį skaičiavimą. \"Paskaita vyksta\" ir \"Paskaita greitai\" atnaujinami realiu laiku tik kol programa atidaryta; \"Užduoties įspėjimas\" gali perspėti laiku net uždarius programą.";
-"live_activity_settings_enable" = "Įjungti tiesioginę veiklą";
+"live_activity_settings_description" = "Live Activity pranešimuose rodo dabartinę paskaitą ir atgalinį skaičiavimą. \"Paskaita vyksta\" ir \"Paskaita greitai\" atnaujinami realiu laiku tik kol programa atidaryta; \"Užduoties įspėjimas\" gali perspėti laiku net uždarius programą.";
+"live_activity_settings_enable" = "Įjungti Live Activity";
 "live_activity_settings_enable_toggle" = "Įjungti Live Activity";
 "live_activity_settings_footer" = "Rodo dabartinę pamoką ir užduotis užrakto ekrane arba „Dynamic Island“.";
 "live_activity_settings_hours_label" = "%1$d val";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "Kai išjungta, užrakinimo ekrane rodomas tik vietos rezervavimo tekstas, pvz., \"Pranešimas paslėptas\". Jei įjungus vis tiek nėra efekto, leiskite šio tipo pranešimus užrakinimo ekrane sistemos nustatymuose.";
 "live_activity_settings_minutes_label" = "%1$d min";
 "live_activity_settings_minutes_unit" = "Minutės";
-"live_activity_settings_nav_title" = "Tiesioginė veikla";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Diapazonas: %1$d – %2$d valandos";
 "live_activity_settings_range_min_to_hours" = "Diapazonas: %1$d min – %2$d val";
 "live_activity_settings_range_minutes" = "Diapazonas: %1$d – %2$d minutės";
 "live_activity_settings_reset" = "Atstatyti";
 "live_activity_settings_reset_confirm_message" = "Visi scenarijai ir laiko nustatymai bus atkurti į numatytuosius.";
-"live_activity_settings_reset_confirm_title" = "Atstatyti visus tiesioginės veiklos nustatymus?";
+"live_activity_settings_reset_confirm_title" = "Atstatyti visus Live Activity nustatymus?";
 "live_activity_settings_reset_defaults" = "Atkurti numatytuosius";
 "live_activity_settings_section_display_scenarios" = "Rodymo scenarijai";
 "live_activity_settings_section_lock_screen" = "Užrakinimo ekranas";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Rodyti išsamų turinį užrakinimo ekrane";
 "live_activity_settings_sound_assignment" = "Groti garsą: Užduoties įspėjimas";
 "live_activity_settings_sound_class_preparing" = "Groti garsą: Paskaita greitai";
-"live_activity_settings_sound_hint" = "Garsas skamba tik pirmą kartą įeinant į scenarijų; vėlesni atgalinio skaičiavimo atnaujinimai bus tylūs. Norėdami reguliuoti garsumą ar \"Netrukdyti\" veikimą, keiskite \"Tiesioginės veiklos\" pranešimų kanalą sistemos nustatymuose.";
+"live_activity_settings_sound_hint" = "Garsas skamba tik pirmą kartą įeinant į scenarijų; vėlesni atgalinio skaičiavimo atnaujinimai bus tylūs. Norėdami reguliuoti garsumą ar \"Netrukdyti\" veikimą, keiskite \"Live Activity\" pranešimų kanalą sistemos nustatymuose.";
 "live_activity_settings_sound_in_class" = "Groti garsą: Paskaita vyksta";
 "live_activity_settings_timing_hint" = "Slankiklis apima dažniausiai naudojamus diapazonus. Norėdami nustatyti reikšmes už šio diapazono ribų (pvz., 1 dieną prieš užduoties terminą), bakstelėkite \"Pasirinktinė\".";
 "live_activity_status_assignment_short" = "Užduotis";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Serverio pranešimai (su garsu)";
 "notification_class_preparing_content_fallback" = "Paskaita tuoj prasidės";
 "notification_class_preparing_title" = "Paskaita prasideda: %1$@";
-"notification_setup_description" = "Įjunkite toliau nurodytus leidimus, kad užduočių priminimai, paskaitų įspėjimai ir tiesioginė veikla būtų pristatomi laiku net uždarius programą.";
+"notification_setup_description" = "Įjunkite toliau nurodytus leidimus, kad užduočių priminimai, paskaitų įspėjimai ir Live Activity būtų pristatomi laiku net uždarius programą.";
 "notification_setup_title" = "Iš naujo konfigūruoti pranešimus";
 "onboarding_analytics_description" = "Padėk tobulinti TigerDuck dalindamasis anoniminiais duomenimis apie lankytus puslapius ir valdiklių naudojimą. Tai galite keisti bet kada Nustatymuose.";
 "onboarding_analytics_label" = "Naudojimo analizė (neprivaloma)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Leista";
 "permission_not_applicable" = "Šioje sistemos versijoje nepasiekiama";
 "permission_not_granted_tap_settings" = "Neleista · Bakstelėkite, kad atidarytumėte nustatymus";
-"permission_notifications_description" = "Leiskite programai rodyti pranešimus; kitu atveju pranešimai ir tiesioginė veikla nebus rodomi.";
+"permission_notifications_description" = "Leiskite programai rodyti pranešimus; kitu atveju pranešimai ir Live Activity nebus rodomi.";
 "permission_notifications_name" = "Pranešimų leidimas";
 "permission_warning_action_later" = "Galbūt vėliau";
-"permission_warning_description" = "Toliau nurodyti leidimai anksčiau buvo įjungti, tačiau dabar yra išjungti. Susiję pranešimai ir tiesioginė veikla gali būti rodomi neteisingai.";
+"permission_warning_description" = "Toliau nurodyti leidimai anksčiau buvo įjungti, tačiau dabar yra išjungti. Susiję pranešimai ir Live Activity gali būti rodomi neteisingai.";
 "permission_warning_mute_item" = "Daugiau nebepriminti apie tai";
 "permission_warning_title" = "Su pranešimais susiję leidimai išjungti";
 "push_server_enable_toggle" = "Įjungti serverio push";

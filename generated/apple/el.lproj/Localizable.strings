@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Η εφαρμογή ξεκινά να υπενθυμίζει τόσο νωρίς πριν από το μάθημα.";
 "live_activity_settings_custom_class_title" = "Προσαρμοσμένος χρόνος προειδοποίησης μαθήματος";
 "live_activity_settings_custom_class_unit_hint" = "Λεπτά (έως %1$d λεπτά)";
-"live_activity_settings_description" = "Η ζωντανή δραστηριότητα εμφανίζει το τρέχον μάθημα και αντίστροφη μέτρηση στις ειδοποιήσεις. Το «Σε μάθημα» και το «Μάθημα ξεκινά σύντομα» ενημερώνονται σε πραγματικό χρόνο μόνο όταν η εφαρμογή είναι ανοιχτή· η «Προειδοποίηση εργασίας» μπορεί να ειδοποιεί έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.";
-"live_activity_settings_enable" = "Ενεργοποίηση ζωντανής δραστηριότητας";
+"live_activity_settings_description" = "Το Live Activity εμφανίζει το τρέχον μάθημα και αντίστροφη μέτρηση στις ειδοποιήσεις. Το «Σε μάθημα» και το «Μάθημα ξεκινά σύντομα» ενημερώνονται σε πραγματικό χρόνο μόνο όταν η εφαρμογή είναι ανοιχτή· η «Προειδοποίηση εργασίας» μπορεί να ειδοποιεί έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.";
+"live_activity_settings_enable" = "Ενεργοποίηση Live Activity";
 "live_activity_settings_enable_toggle" = "Ενεργοποίηση Live Activity";
 "live_activity_settings_footer" = "Εμφανίζει το τρέχον μάθημα και τις εργασίες στην Οθόνη κλειδώματος ή στο Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d ώρ";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "Όταν είναι απενεργοποιημένο, η κλειδωμένη οθόνη εμφανίζει μόνο κείμενο τοποθετητή όπως «Ειδοποίηση κρυμμένη». Εάν η ενεργοποίηση δεν έχει αποτέλεσμα, επιτρέψτε αυτόν τον τύπο ειδοποίησης στην κλειδωμένη οθόνη στις ρυθμίσεις συστήματος.";
 "live_activity_settings_minutes_label" = "%1$d λεπ";
 "live_activity_settings_minutes_unit" = "Λεπτά";
-"live_activity_settings_nav_title" = "Ζωντανή δραστηριότητα";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Εύρος: %1$d – %2$d ώρες";
 "live_activity_settings_range_min_to_hours" = "Εύρος: %1$d λεπ – %2$d ώρες";
 "live_activity_settings_range_minutes" = "Εύρος: %1$d – %2$d λεπτά";
 "live_activity_settings_reset" = "Επαναφορά";
 "live_activity_settings_reset_confirm_message" = "Όλες οι ρυθμίσεις σεναρίων και χρονισμού θα αποκατασταθούν στις προεπιλογές.";
-"live_activity_settings_reset_confirm_title" = "Επαναφορά όλων των ρυθμίσεων ζωντανής δραστηριότητας;";
+"live_activity_settings_reset_confirm_title" = "Επαναφορά όλων των ρυθμίσεων Live Activity;";
 "live_activity_settings_reset_defaults" = "Επαναφορά στις προεπιλογές";
 "live_activity_settings_section_display_scenarios" = "Σενάρια εμφάνισης";
 "live_activity_settings_section_lock_screen" = "Κλειδωμένη οθόνη";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Εμφάνιση λεπτομερούς περιεχομένου στην κλειδωμένη οθόνη";
 "live_activity_settings_sound_assignment" = "Αναπαραγωγή ήχου για Προειδοποίηση εργασίας";
 "live_activity_settings_sound_class_preparing" = "Αναπαραγωγή ήχου για Μάθημα ξεκινά σύντομα";
-"live_activity_settings_sound_hint" = "Ο ήχος αναπαράγεται μόνο κατά την πρώτη είσοδο σε ένα σενάριο· οι επακόλουθες ενημερώσεις αντίστροφης μέτρησης παραμένουν αθόρυβες. Για ρύθμιση έντασης ή λειτουργίας «μην ενοχλείτε», αλλάξτε το κανάλι ειδοποιήσεων «Ζωντανή δραστηριότητα» στις ρυθμίσεις συστήματος.";
+"live_activity_settings_sound_hint" = "Ο ήχος αναπαράγεται μόνο κατά την πρώτη είσοδο σε ένα σενάριο· οι επακόλουθες ενημερώσεις αντίστροφης μέτρησης παραμένουν αθόρυβες. Για ρύθμιση έντασης ή λειτουργίας «μην ενοχλείτε», αλλάξτε το κανάλι ειδοποιήσεων «Live Activity» στις ρυθμίσεις συστήματος.";
 "live_activity_settings_sound_in_class" = "Αναπαραγωγή ήχου για Σε μάθημα";
 "live_activity_settings_timing_hint" = "Το ρυθμιστικό καλύπτει συνηθισμένα εύρη. Για τιμές εκτός αυτού του εύρους (για παράδειγμα, 1 ημέρα πριν τη λήξη εργασίας), πατήστε «Προσαρμοσμένο».";
 "live_activity_status_assignment_short" = "Εργασία";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Ειδοποιήσεις διακομιστή (με ήχο)";
 "notification_class_preparing_content_fallback" = "Το μάθημα πρόκειται να ξεκινήσει";
 "notification_class_preparing_title" = "Το μάθημα ξεκινά σύντομα: %1$@";
-"notification_setup_description" = "Ενεργοποιήστε τις παρακάτω άδειες για να διασφαλίσετε ότι οι υπενθυμίσεις εργασιών, οι ειδοποιήσεις έναρξης μαθήματος και η ζωντανή δραστηριότητα παραδίδονται έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.";
+"notification_setup_description" = "Ενεργοποιήστε τις παρακάτω άδειες για να διασφαλίσετε ότι οι υπενθυμίσεις εργασιών, οι ειδοποιήσεις έναρξης μαθήματος και το Live Activity παραδίδονται έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή.";
 "notification_setup_title" = "Επαναδιαμόρφωση ειδοποιήσεων";
 "onboarding_analytics_description" = "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις.";
 "onboarding_analytics_label" = "Ανάλυση χρήσης (προαιρετικό)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Επιτρέπεται";
 "permission_not_applicable" = "Δεν είναι διαθέσιμο σε αυτήν την έκδοση συστήματος";
 "permission_not_granted_tap_settings" = "Δεν επιτρέπεται · Πατήστε για ρυθμίσεις";
-"permission_notifications_description" = "Επιτρέψτε στην εφαρμογή να εμφανίζει ειδοποιήσεις· διαφορετικά οι ειδοποιήσεις και η ζωντανή δραστηριότητα δεν θα εμφανίζονται.";
+"permission_notifications_description" = "Επιτρέψτε στην εφαρμογή να εμφανίζει ειδοποιήσεις· διαφορετικά οι ειδοποιήσεις και το Live Activity δεν θα εμφανίζονται.";
 "permission_notifications_name" = "Άδεια ειδοποιήσεων";
 "permission_warning_action_later" = "Ίσως αργότερα";
-"permission_warning_description" = "Οι παρακάτω άδειες ήταν προηγουμένως ενεργοποιημένες αλλά τώρα είναι απενεργοποιημένες. Οι σχετικές ειδοποιήσεις και η ζωντανή δραστηριότητα ενδέχεται να μην εμφανίζονται σωστά.";
+"permission_warning_description" = "Οι παρακάτω άδειες ήταν προηγουμένως ενεργοποιημένες αλλά τώρα είναι απενεργοποιημένες. Οι σχετικές ειδοποιήσεις και το Live Activity ενδέχεται να μην εμφανίζονται σωστά.";
 "permission_warning_mute_item" = "Να μην υπενθυμίζεται ξανά";
 "permission_warning_title" = "Οι σχετικές με ειδοποιήσεις άδειες απενεργοποιήθηκαν";
 "push_server_enable_toggle" = "Ενεργοποίηση προώθησης διακομιστή";

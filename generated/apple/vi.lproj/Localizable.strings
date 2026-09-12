@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Ứng dụng bắt đầu nhắc trước khi lớp bắt đầu bao lâu.";
 "live_activity_settings_custom_class_title" = "Tùy chỉnh thời gian báo trước lớp";
 "live_activity_settings_custom_class_unit_hint" = "Phút (tối đa %1$d phút)";
-"live_activity_settings_description" = "Hoạt động trực tiếp hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.";
-"live_activity_settings_enable" = "Bật hoạt động trực tiếp";
+"live_activity_settings_description" = "Live Activity hiển thị lớp hiện tại và đếm ngược trong thông báo. \"Đang trong lớp\" và \"Sắp vào lớp\" chỉ cập nhật theo thời gian thực khi ứng dụng đang mở; \"Cảnh báo bài tập\" vẫn có thể nhắc đúng giờ khi ứng dụng đã đóng.";
+"live_activity_settings_enable" = "Bật Live Activity";
 "live_activity_settings_enable_toggle" = "Bật Live Activity";
 "live_activity_settings_footer" = "Hiển thị lớp hiện tại và bài tập trên Màn hình khóa hoặc Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d giờ";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "Khi tắt, màn hình khóa chỉ hiển thị văn bản tạm như \"Thông báo bị ẩn\". Nếu bật mà vẫn không có hiệu lực, hãy cho phép loại thông báo này hiển thị trên màn hình khóa trong cài đặt hệ thống.";
 "live_activity_settings_minutes_label" = "%1$d phút";
 "live_activity_settings_minutes_unit" = "Phút";
-"live_activity_settings_nav_title" = "Hoạt động trực tiếp";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Phạm vi: %1$d – %2$d giờ";
 "live_activity_settings_range_min_to_hours" = "Phạm vi: %1$d phút – %2$d giờ";
 "live_activity_settings_range_minutes" = "Phạm vi: %1$d – %2$d phút";
 "live_activity_settings_reset" = "Đặt lại";
 "live_activity_settings_reset_confirm_message" = "Tất cả tình huống và cài đặt thời điểm sẽ được khôi phục về mặc định.";
-"live_activity_settings_reset_confirm_title" = "Đặt lại tất cả cài đặt hoạt động trực tiếp?";
+"live_activity_settings_reset_confirm_title" = "Đặt lại tất cả cài đặt Live Activity?";
 "live_activity_settings_reset_defaults" = "Đặt lại mặc định";
 "live_activity_settings_section_display_scenarios" = "Tình huống hiển thị";
 "live_activity_settings_section_lock_screen" = "Màn hình khóa";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Hiển thị nội dung chi tiết trên màn hình khóa";
 "live_activity_settings_sound_assignment" = "Phát âm báo cho Cảnh báo bài tập";
 "live_activity_settings_sound_class_preparing" = "Phát âm báo cho Sắp vào lớp";
-"live_activity_settings_sound_hint" = "Âm báo chỉ phát khi vào tình huống lần đầu; các cập nhật đếm ngược sau đó sẽ im lặng. Để điều chỉnh âm lượng hoặc chế độ Không làm phiền, hãy thay đổi kênh thông báo \"Hoạt động trực tiếp\" trong cài đặt hệ thống.";
+"live_activity_settings_sound_hint" = "Âm báo chỉ phát khi vào tình huống lần đầu; các cập nhật đếm ngược sau đó sẽ im lặng. Để điều chỉnh âm lượng hoặc chế độ Không làm phiền, hãy thay đổi kênh thông báo \"Live Activity\" trong cài đặt hệ thống.";
 "live_activity_settings_sound_in_class" = "Phát âm báo cho Đang trong lớp";
 "live_activity_settings_timing_hint" = "Thanh trượt bao quát các khoảng thông dụng. Để đặt giá trị nằm ngoài phạm vi đó (ví dụ, 1 ngày trước khi bài tập đến hạn), nhấn \"Tùy chỉnh\".";
 "live_activity_status_assignment_short" = "Bài tập";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Thông báo máy chủ (có âm thanh)";
 "notification_class_preparing_content_fallback" = "Lớp học sắp bắt đầu";
 "notification_class_preparing_title" = "Sắp vào lớp: %1$@";
-"notification_setup_description" = "Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và hoạt động trực tiếp đến đúng giờ ngay cả khi ứng dụng đã đóng.";
+"notification_setup_description" = "Bật các quyền dưới đây để đảm bảo nhắc bài tập, cảnh báo sắp vào lớp và Live Activity đến đúng giờ ngay cả khi ứng dụng đã đóng.";
 "notification_setup_title" = "Cài đặt lại thông báo";
 "onboarding_analytics_description" = "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt.";
 "onboarding_analytics_label" = "Phân tích sử dụng (tùy chọn)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Đã cho phép";
 "permission_not_applicable" = "Không có trên phiên bản hệ thống này";
 "permission_not_granted_tap_settings" = "Chưa cho phép · Nhấn để mở cài đặt";
-"permission_notifications_description" = "Cho phép ứng dụng hiển thị thông báo; nếu không, thông báo và hoạt động trực tiếp sẽ không xuất hiện.";
+"permission_notifications_description" = "Cho phép ứng dụng hiển thị thông báo; nếu không, thông báo và Live Activity sẽ không xuất hiện.";
 "permission_notifications_name" = "Quyền thông báo";
 "permission_warning_action_later" = "Để sau";
-"permission_warning_description" = "Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và hoạt động trực tiếp liên quan có thể không hiển thị đúng.";
+"permission_warning_description" = "Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và Live Activity liên quan có thể không hiển thị đúng.";
 "permission_warning_mute_item" = "Đừng nhắc tôi về điều này nữa";
 "permission_warning_title" = "Quyền liên quan đến thông báo đã tắt";
 "push_server_enable_toggle" = "Bật đẩy thông báo từ máy chủ";

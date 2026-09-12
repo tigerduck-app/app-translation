@@ -441,8 +441,8 @@
 "live_activity_settings_custom_class_description" = "Приложение начинает напоминать за это время до начала занятия.";
 "live_activity_settings_custom_class_title" = "Своё время предупреждения о занятии";
 "live_activity_settings_custom_class_unit_hint" = "Минуты (до %1$d минут)";
-"live_activity_settings_description" = "Live-активность показывает текущее занятие и обратный отсчёт в уведомлениях. «На занятии» и «Скоро начнётся занятие» обновляются в реальном времени только при открытом приложении; «Предупреждение о задании» может своевременно уведомлять и при закрытом приложении.";
-"live_activity_settings_enable" = "Включить live-активность";
+"live_activity_settings_description" = "Live Activity показывает текущее занятие и обратный отсчёт в уведомлениях. «На занятии» и «Скоро начнётся занятие» обновляются в реальном времени только при открытом приложении; «Предупреждение о задании» может своевременно уведомлять и при закрытом приложении.";
+"live_activity_settings_enable" = "Включить Live Activity";
 "live_activity_settings_enable_toggle" = "Включить Live Activity";
 "live_activity_settings_footer" = "Показывает текущий урок и задания на экране блокировки или Dynamic Island.";
 "live_activity_settings_hours_label" = "%1$d ч";
@@ -451,13 +451,13 @@
 "live_activity_settings_lock_screen_hint" = "Если отключено, на экране блокировки отображается только текст-заглушка вроде «Уведомление скрыто». Если включение не помогает, разрешите этот тип уведомлений на экране блокировки в системных настройках.";
 "live_activity_settings_minutes_label" = "%1$d мин";
 "live_activity_settings_minutes_unit" = "Минуты";
-"live_activity_settings_nav_title" = "Эфир активности";
+"live_activity_settings_nav_title" = "Live Activity";
 "live_activity_settings_range_hours" = "Диапазон: %1$d – %2$d часов";
 "live_activity_settings_range_min_to_hours" = "Диапазон: %1$d мин – %2$d часов";
 "live_activity_settings_range_minutes" = "Диапазон: %1$d – %2$d минут";
 "live_activity_settings_reset" = "Сбросить";
 "live_activity_settings_reset_confirm_message" = "Все сценарии и настройки времени будут восстановлены по умолчанию.";
-"live_activity_settings_reset_confirm_title" = "Сбросить все настройки live-активности?";
+"live_activity_settings_reset_confirm_title" = "Сбросить все настройки Live Activity?";
 "live_activity_settings_reset_defaults" = "Сбросить по умолчанию";
 "live_activity_settings_section_display_scenarios" = "Сценарии отображения";
 "live_activity_settings_section_lock_screen" = "Экран блокировки";
@@ -467,7 +467,7 @@
 "live_activity_settings_show_on_lock_screen" = "Показывать подробное содержимое на экране блокировки";
 "live_activity_settings_sound_assignment" = "Воспроизводить звук для «Предупреждение о задании»";
 "live_activity_settings_sound_class_preparing" = "Воспроизводить звук для «Скоро начнётся занятие»";
-"live_activity_settings_sound_hint" = "Звук воспроизводится только при первом входе в сценарий; последующие обновления обратного отсчёта остаются беззвучными. Чтобы настроить громкость или поведение режима «Не беспокоить», измените канал уведомлений «Live-активность» в системных настройках.";
+"live_activity_settings_sound_hint" = "Звук воспроизводится только при первом входе в сценарий; последующие обновления обратного отсчёта остаются беззвучными. Чтобы настроить громкость или поведение режима «Не беспокоить», измените канал уведомлений «Live Activity» в системных настройках.";
 "live_activity_settings_sound_in_class" = "Воспроизводить звук для «На занятии»";
 "live_activity_settings_timing_hint" = "Ползунок охватывает обычные диапазоны. Чтобы установить значения вне этого диапазона (например, за 1 день до сдачи задания), нажмите «Свой».";
 "live_activity_status_assignment_short" = "Задание";
@@ -496,7 +496,7 @@
 "notification_bulletin_sound_channel_name" = "Уведомления сервера (со звуком)";
 "notification_class_preparing_content_fallback" = "Занятие скоро начнётся";
 "notification_class_preparing_title" = "Скоро начнётся занятие: %1$@";
-"notification_setup_description" = "Включите указанные ниже разрешения, чтобы напоминания о заданиях, оповещения о начале занятий и live-активность приходили вовремя, даже когда приложение закрыто.";
+"notification_setup_description" = "Включите указанные ниже разрешения, чтобы напоминания о заданиях, оповещения о начале занятий и Live Activity приходили вовремя, даже когда приложение закрыто.";
 "notification_setup_title" = "Настроить уведомления заново";
 "onboarding_analytics_description" = "Помоги улучшить TigerDuck, делясь анонимными данными о посещённых страницах и использовании виджетов. Изменить это можно в любой момент в Настройках.";
 "onboarding_analytics_label" = "Аналитика использования (необязательно)";
@@ -540,10 +540,10 @@
 "permission_granted" = "Разрешено";
 "permission_not_applicable" = "Недоступно в этой версии системы";
 "permission_not_granted_tap_settings" = "Не разрешено · Нажмите, чтобы открыть настройки";
-"permission_notifications_description" = "Разрешите приложению показывать уведомления, иначе уведомления и live-активность не будут отображаться.";
+"permission_notifications_description" = "Разрешите приложению показывать уведомления, иначе уведомления и Live Activity не будут отображаться.";
 "permission_notifications_name" = "Разрешение на уведомления";
 "permission_warning_action_later" = "Может быть, позже";
-"permission_warning_description" = "Следующие разрешения ранее были включены, но сейчас отключены. Соответствующие уведомления и live-активность могут отображаться некорректно.";
+"permission_warning_description" = "Следующие разрешения ранее были включены, но сейчас отключены. Соответствующие уведомления и Live Activity могут отображаться некорректно.";
 "permission_warning_mute_item" = "Больше не напоминать об этом";
 "permission_warning_title" = "Разрешения для уведомлений отключены";
 "push_server_enable_toggle" = "Включить серверный push";
