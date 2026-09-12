@@ -5,13 +5,14 @@ keys are named. Read this before adding or renaming keys.
 
 ## Source layout
 
-Each `source/<locale>.json` has exactly three top-level groups:
+Each `source/<locale>.json` has exactly four top-level groups:
 
 ```json
 {
   "shared":  { "<key>": "<value>", ... },
   "android": { "<key>": "<value>", ... },
-  "apple":   { "<key>": "<value>", ... }
+  "apple":   { "<key>": "<value>", ... },
+  "backend": { "<key>": "<value>", ... }
 }
 ```
 
@@ -19,6 +20,7 @@ Generation rule:
 
 - Android bundle gets `shared ∪ android`
 - Apple bundle gets `shared ∪ apple`
+- Backend bundle gets `shared ∪ backend`
 
 A key may appear in only one group at a time. Keys are **alphabetically sorted**
 within each group; the rebucket / generator scripts depend on this for stable
@@ -38,6 +40,11 @@ have. Examples:
   battery-optimization permission, "press back again to exit" toast
 - `apple`: (none yet — add things like Siri shortcut prompts, App Clip
   invocation strings, or other Apple-only OS primitives here when they land)
+- `backend`: strings only the tigerduck-backend server renders — push
+  notification copy it composes itself, in the recipient device's language.
+  These never reach an app bundle. Do **not** put a string here merely
+  because the server sends it: if an app also displays that wording, it
+  belongs in `shared`, which flows into the backend bundle too.
 
 UI labels that *exist on both platforms but happen to be wired up first on one*
 go in `shared`, not in the platform group. "I haven't translated this on iOS
@@ -77,10 +84,43 @@ back into `shared`:
 | `permission_notifications_description` | "…notifications and live activity will not appear." | "…notifications and Live Updates will not appear." |
 | `permission_warning_description` | "…notifications and live activity may not display…" | "…notifications and Live Updates may not display…" |
 
-When translating these, keep the **brand term** consistent with how that OS
-localizes the feature in the target language (follow Apple's / Google's own
-localized naming), and keep the surrounding sentence parallel between the two
-platforms so they don't drift apart in meaning.
+#### Exception: these two brand names are not translated
+
+`Live Activity` and `Live Updates` are the one exception to the rule below.
+In every locale **except Chinese** they stay in English, exactly as spelled
+here -- do not follow Apple's or Google's localized naming for them, and do
+not transliterate them.
+
+| Locale group | `apple` term | `android` term |
+|---|---|---|
+| `zh-Hant`, `yue-HK` | 即時動態 | 即時更新 |
+| `zh-Hans` | 实时活动 | 实时更新 |
+| every other locale | Live Activity | Live Updates |
+
+Chinese keeps a translated name: the product's own Chinese names, chosen in
+the v2.1.0 spec (§4.7). They are deliberately not always the OS vendor's
+label -- Pixel Settings calls the Android feature 最新即時資訊 (zh-TW) and
+实时动态 (zh-CN), which this repo used until then, and the spec replaced
+them with 即時更新 / 实时更新. Do not revert them to the Pixel labels.
+Everywhere else the English names are used verbatim, by the same decision --
+including where the vendor localizes them (Pixel's ja ライブ情報 and ko
+실시간 업데이트 were in use here from bfa83913 until v2.1.0).
+
+Chinese copy must **not** carry the English in parentheses or apposition.
+`即時動態 (Live Activity)` and `即時動態 Live Activity` are both wrong; the
+name alone is right.
+
+Write the surrounding sentence so the English name works as an
+indeclinable foreign noun -- no case endings, no article that has to agree
+with a gender it does not have, and singular agreement on any verb that
+takes it as a subject. This is the same treatment `TigerSync` gets under
+*TigerDuck's own product names* below.
+
+For OS-branded primitives other than the two above, keep the **brand term**
+consistent with how that OS localizes the feature in the target language
+(follow Apple's / Google's own localized naming), and keep the surrounding
+sentence parallel between the two platforms so they don't drift apart in
+meaning.
 
 Apply the same rule to any future OS-branded primitive (e.g. Apple "Focus" vs
 Android "Do Not Disturb", "Shortcuts" vs "Routines"): fork the key, match each
@@ -259,4 +299,13 @@ python3 tools/localization/generate_localizations.py
 
 The script validates the source schema (group structure, no cross-group key
 collisions, identical key inventory across locales per group) before writing
-anything. Outputs land in `generated/{android,apple}/...` and are checked in.
+anything. Outputs land in `generated/{android,apple,backend}/...` and are checked in.
+
+It also runs a **cross-locale contamination check**: if two unrelated locales
+share 20 or more identical values that are not the canonical English, the run
+fails. Matching key inventories only prove every locale has every string --
+they say nothing about what language the string is in, which is how nine
+locales once shipped 40-96 German values each. Locale pairs that legitimately
+overlap (Chinese variants, `pt-BR`/`pt-PT`, Scandinavian, `cs`/`sk`, ...) are
+listed in `_RELATED_LOCALE_PAIRS` in the script; add a pair there, with a
+reason, if you hit a false positive.

@@ -182,7 +182,6 @@
 "cloud_sync_class_table_footer" = "選擇要在裝置間同步的課表資料。";
 "cloud_sync_class_table_sync" = "課表同步";
 "cloud_sync_course_colours" = "課程顏色";
-"cloud_sync_courses" = "課程";
 "cloud_sync_custom_course_names" = "自訂課程名稱";
 "cloud_sync_device_id" = "裝置 ID";
 "cloud_sync_device_section" = "裝置";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "停用 TigerSync？";
 "cloud_sync_disabled_footer" = "在多部裝置間同步課表編輯、作業狀態與設定，並由伺服器定期代抓 Moodle 作業。";
 "cloud_sync_enable_button" = "啟用 TigerSync";
-"cloud_sync_last_synced_label" = "上次同步";
-"cloud_sync_last_synced_never" = "尚未同步";
 "cloud_sync_privacy_body" = "啟用 TigerSync 後，你的校務系統密碼與 Moodle token 將加密上傳至 TigerDuck 伺服器，用於伺服器端定期代抓 Moodle 作業，並在多部裝置間同步課表編輯、作業狀態與設定。\n\n你可以隨時停用 TigerSync。停用後會登出並撤銷此裝置在伺服器上的註冊（包含推播憑證）；已上傳的帳號憑證僅在其他已啟用同步的裝置仍使用時保留於伺服器。本機資料不受影響。";
 "cloud_sync_privacy_confirm" = "同意並啟用";
 "cloud_sync_privacy_title" = "TigerSync 與隱私";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "登入帳號…";
 "cloud_sync_step_register" = "註冊裝置…";
 "cloud_sync_step_upload" = "上傳資料…";
-"cloud_sync_sync_now" = "立即同步";
 "cloud_sync_sync_options" = "同步選項";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "藍";
@@ -443,7 +439,7 @@
 "live_activity_settings_custom_class_unit_hint" = "分鐘（最多 %1$d 分鐘）";
 "live_activity_settings_description" = "即時動態會在通知區顯示當前課程與倒數。「上課中」與「即將上課」僅在 App 開啟時會即時更新；「作業警告」即使 App 已關閉也會準時提醒。";
 "live_activity_settings_enable" = "啟用即時動態";
-"live_activity_settings_enable_toggle" = "啟用即時動態 Live Activity";
+"live_activity_settings_enable_toggle" = "啟用即時動態";
 "live_activity_settings_footer" = "會在鎖定畫面或動態島顯示當前課程和作業。";
 "live_activity_settings_hours_label" = "%1$d 小時";
 "live_activity_settings_hours_minutes_label" = "%1$d 小時 %2$d 分";
@@ -451,7 +447,7 @@
 "live_activity_settings_lock_screen_hint" = "關閉時鎖定畫面只會顯示「通知已隱藏」類的佔位文字。若開啟後仍無效果，請至系統通知設定中允許在鎖定畫面顯示此類通知。";
 "live_activity_settings_minutes_label" = "%1$d 分鐘";
 "live_activity_settings_minutes_unit" = "分鐘";
-"live_activity_settings_nav_title" = "即時動態 Live Activity";
+"live_activity_settings_nav_title" = "即時動態";
 "live_activity_settings_range_hours" = "範圍：%1$d 小時 – %2$d 小時";
 "live_activity_settings_range_min_to_hours" = "範圍：%1$d 分 – %2$d 小時";
 "live_activity_settings_range_minutes" = "範圍：%1$d – %2$d 分鐘";
@@ -496,6 +492,7 @@
 "notification_bulletin_sound_channel_name" = "伺服器通知（聲音）";
 "notification_class_preparing_content_fallback" = "課程即將開始";
 "notification_class_preparing_title" = "即將上課：%1$@";
+"notification_permission_settings_nav_title" = "通知權限設定";
 "notification_setup_description" = "設定以下權限可確保作業提醒、即將上課、即時動態在 App 關閉時也能準時送達。";
 "notification_setup_title" = "重新設定通知";
 "onboarding_analytics_description" = "分享匿名的頁面瀏覽和小工具使用資料，協助改善 TigerDuck。你可以隨時在設定中更改。";
@@ -549,8 +546,6 @@
 "push_server_enable_toggle" = "啟用伺服器推播";
 "push_server_footer" = "用於接收學校即時公告訊息、主動觸發動態島等提醒。";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "上次註冊";
-"push_server_last_sync" = "上次同步";
 "push_server_latest_error" = "最近錯誤";
 "push_server_notification_status_authorized" = "已授權";
 "push_server_notification_status_denied_hint" = "被拒(至系統設定開啟)";
@@ -567,7 +562,6 @@
 "push_server_status_section" = "狀態";
 "push_server_status_settings_hint" = "系統層關閉 → 設定 → TigerDuck 開啟";
 "push_server_status_waiting_token" = "等系統指派 token";
-"push_server_sync_now_action" = "立即同步一次";
 "refreshing_message" = "頁面正在刷新，別急～";
 "score_academic_year_semester" = "%1$@ 學年度 %2$@學期";
 "score_course_credits" = "%1$d 學分";
@@ -682,7 +676,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "跟隨系統（備用英文）";
 "settings_language_traditional_chinese" = "繁體中文";
-"settings_learn_more_backend" = "有關 TigerDuck 後端伺服器的更多內容";
+"settings_learn_more_backend" = "有關 TigerSync 的更多內容";
 "settings_library_account_subtitle" = "密碼可能與校務系統不同，預設為身分證字號";
 "settings_library_feature_disabled_message" = "請先開啟「圖書館及相關功能」後，再使用圖書館 QR 捷徑。";
 "settings_library_feature_disabled_title" = "圖書館功能未啟用";
@@ -694,6 +688,7 @@
 "settings_library_warning_title" = "請注意！";
 "settings_link_opening_method" = "開啟連結方式";
 "settings_notifications_disabled_warning" = "通知已關閉。點擊開啟系統設定。";
+"settings_notifications_need_course_sync" = "需啟用 TigerSync 的「同步課程資訊」功能才可以推送通知";
 "settings_official_website" = "官網";
 "settings_open_source_licenses" = "開源授權";
 "settings_privacy_policy" = "隱私權政策";
@@ -710,8 +705,9 @@
 "settings_section_display" = "顯示";
 "settings_section_notifications" = "通知";
 "settings_section_other_settings" = "其他設定";
-"settings_server_push_footer" = "接收管理員手動發送的一次性通知。預設開啟。";
-"settings_server_push_label" = "伺服器通知";
+"settings_server_push_footer" = "接收由開發者不定期推送的額外通知，不包含廣告內容與垃圾訊息";
+"settings_server_push_label" = "接收額外伺服器推播";
+"settings_server_push_update_failed" = "伺服器未接受這項變更，請稍後再試。";
 "settings_show_absolute_assignment_time" = "作業截止時間顯示完整日期";
 "settings_sync_brief_description" = "TigerSync 可讓你將所選資料同步至所有已開啟 TigerSync 的裝置。未啟用 TigerSync 的資料僅會保留在此裝置上。";
 "settings_sync_brief_description_ios" = "TigerSync 可讓你接收推播通知，並將所選資料同步至所有已開啟 TigerSync 的裝置。未啟用同步的資料仍會傳送至伺服器以供推播通知使用。";
@@ -757,10 +753,21 @@
 "sync_conflict_title" = "同步衝突";
 "sync_conflict_use_local" = "使用本機";
 "sync_conflict_use_server" = "使用伺服器";
+"sync_content_assignment_reminders" = "作業到期提醒";
+"sync_content_class_table_all" = "所有課程";
+"sync_content_live_activity" = "即時動態";
+"sync_content_nav_label" = "同步內容";
+"sync_courses_footer" = "將自訂課表、作業完成狀態推送至伺服器，用於跨裝置同步。你可以在下列選單選擇同步項目";
+"sync_courses_footer_platform_note" = "由於平台限制，關閉同步時「即時動態」與「作業到期提醒」功能將不可用";
+"sync_courses_toggle" = "同步課程資訊";
+"sync_essential_footer" = "獲取學期日期、行事曆與公告欄等必要資訊";
+"sync_essential_toggle" = "取得必要資訊";
 "sync_fdroid_unavailable_body" = "TigerSync 需要 Google Play 服務，F-Droid 版本不支援此功能。";
 "sync_fdroid_unavailable_title" = "F-Droid 不支援";
+"sync_status_device_registered" = "裝置已註冊";
 "sync_status_failed" = "失敗";
 "sync_status_minimal" = "最低限度";
+"sync_status_nav_label" = "TigerSync 狀態";
 "sync_status_ok" = "正常";
 "sync_status_syncing" = "同步中…";
 "sync_status_title" = "同步狀態";

@@ -4,6 +4,12 @@ Branch `chore/i18n-unify` (app-translation from `main`; both apps from `dev`).
 Companion to [`localization-audit.md`](localization-audit.md). Driven by
 `tools/i18n_unify_migrate.py` (idempotent, value-preserving).
 
+> The migration scripts named here (`tools/i18n_unify_migrate.py`,
+> `tools/rename_keys_json.py`, `tools/rename_keys_code.py`, `tools/i18n_maps/`)
+> were one-off and have been deleted; read them in git history (last present
+> at `f33f11b9`). They predate the `backend` group and the indent-2 source
+> format, so do not revive them as they are.
+
 ## ✅ Phase 1 — DONE (value-preserving, zero app-code change, pushed)
 
 | Change | Count | Audit § |
