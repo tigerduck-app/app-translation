@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Raspored sati – boje kolegija</string>
     <string name="sync_content_class_table_names">Raspored sati – prilagođeni nazivi kolegija</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Postavke Live Updates</string>
     <string name="sync_content_nav_label">Sinkronizirani sadržaj</string>
     <string name="sync_courses_footer">Šalje vaš prilagođeni raspored sati i stanje dovršenosti zadataka na poslužitelj radi upotrebe na svim vašim uređajima. U nastavku odaberite što želite uključiti.</string>
     <string name="sync_courses_toggle">Sinkroniziraj podatke o kolegijima</string>

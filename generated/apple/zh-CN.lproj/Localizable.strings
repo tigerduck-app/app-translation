@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "课表 – 课程颜色";
 "sync_content_class_table_names" = "课表 – 自定义课程名称";
 "sync_content_live_activity" = "实时活动";
-"sync_content_live_activity_settings_nav" = "实时活动设置";
 "sync_content_nav_label" = "同步内容";
 "sync_courses_footer" = "将自定义课表、作业完成状态推送至服务器，用于跨设备同步。您可以在下方菜单中选择同步项目";
 "sync_courses_footer_platform_note" = "由于平台限制，关闭同步时「实时活动」与「作业到期提醒」功能将不可用";

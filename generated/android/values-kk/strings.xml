@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Сабақ кестесі – курс түстері</string>
     <string name="sync_content_class_table_names">Сабақ кестесі – курстардың реттелген атаулары</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates параметрлері</string>
     <string name="sync_content_nav_label">Синхрондалған мазмұн</string>
     <string name="sync_courses_footer">Барлық құрылғыларыңызда пайдалану үшін реттелген сабақ кестеңізді және тапсырмалардың орындалу күйін серверге жібереді. Төменде нені қосу керектігін таңдаңыз.</string>
     <string name="sync_courses_toggle">Курс ақпаратын синхрондау</string>

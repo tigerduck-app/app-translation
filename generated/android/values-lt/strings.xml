@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Tvarkaraštis – kursų spalvos</string>
     <string name="sync_content_class_table_names">Tvarkaraštis – pasirinktiniai kursų pavadinimai</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates nustatymai</string>
     <string name="sync_content_nav_label">Sinchronizuotas turinys</string>
     <string name="sync_courses_footer">Siunčia jūsų pasirinktinį tvarkaraštį ir užduočių atlikimo būseną į serverį, kad galėtumėte naudoti visuose savo įrenginiuose. Toliau pasirinkite, ką įtraukti.</string>
     <string name="sync_courses_toggle">Sinchronizuoti kursų informaciją</string>

@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Raspored sati – boje kolegija";
 "sync_content_class_table_names" = "Raspored sati – prilagođeni nazivi kolegija";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Postavke Live Activity";
 "sync_content_nav_label" = "Sinkronizirani sadržaj";
 "sync_courses_footer" = "Šalje vaš prilagođeni raspored sati i stanje dovršenosti zadataka na poslužitelj radi upotrebe na svim vašim uređajima. U nastavku odaberite što želite uključiti.";
 "sync_courses_footer_platform_note" = "Zbog ograničenja platforme, isključivanje ove opcije ujedno onemogućuje Live Activity i podsjetnike za zadatke.";

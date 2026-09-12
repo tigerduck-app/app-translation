@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "جدول الحصص – ألوان المقررات";
 "sync_content_class_table_names" = "جدول الحصص – أسماء المقررات المخصصة";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "إعدادات Live Activity";
 "sync_content_nav_label" = "المحتوى المتزامن";
 "sync_courses_footer" = "يرسل جدول حصصك المخصص وحالة إنجاز واجباتك إلى الخادم لاستخدامها عبر جميع أجهزتك. اختر ما تريد تضمينه أدناه.";
 "sync_courses_footer_platform_note" = "بسبب قيود المنصة، يؤدي إيقاف هذا الخيار أيضًا إلى تعطيل Live Activity وتذكيرات استحقاق الواجبات.";

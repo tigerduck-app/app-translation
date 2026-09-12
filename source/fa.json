@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "تراشه نوار وضعیت",
     "permission_warning_description": "مجوزهای زیر قبلاً فعال بوده‌اند اما اکنون غیرفعال شده‌اند. ممکن است اعلان‌ها و Live Updates به‌درستی نمایش داده نشوند.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "تنظیمات Live Updates",
     "vibration_settings_motor_warning": "برخی گوشی‌ها موتورهای لرزش با کیفیت پایین‌تری دارند که ممکن است لرزش‌های بسیار ضعیف یا بسیار کوتاه را نادیده بگیرند. اگر تنظیمی را حس نمی‌کنید، سعی کنید قدرت یا طول آن را افزایش دهید. می‌توانید با امتحان کردن پیش‌تنظیم \"متوسط\" شروع کنید.",
     "vibration_settings_revert": "بازگشت به پیش‌فرض",
     "vibration_settings_section_length_ms": "مدت (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync خاموش است. دستگاه‌های Apple برای دریافت اعلان‌ها به سرور TigerDuck وابسته هستند. برای اطلاعات بیشتر لمس کنید.",
     "settings_sync_toggle_label": "فعال‌سازی TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "تنظیمات Live Activity",
     "sync_courses_footer_platform_note": "به دلیل محدودیت‌های پلتفرم، غیرفعال کردن این گزینه، Live Activity و یادآورهای موعد تکلیف را نیز غیرفعال می‌کند."
   },
   "backend": {

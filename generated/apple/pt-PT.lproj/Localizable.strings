@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Horário de aulas – cores das disciplinas";
 "sync_content_class_table_names" = "Horário de aulas – nomes personalizados das disciplinas";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Definições de Live Activity";
 "sync_content_nav_label" = "Conteúdo sincronizado";
 "sync_courses_footer" = "Envia o teu horário de aulas personalizado e o estado de conclusão das tarefas para o servidor, para utilização em todos os teus dispositivos. Escolhe abaixo o que incluir.";
 "sync_courses_footer_platform_note" = "Devido a limitações da plataforma, desativar esta opção também desativa Live Activity e os lembretes de prazo de trabalhos.";

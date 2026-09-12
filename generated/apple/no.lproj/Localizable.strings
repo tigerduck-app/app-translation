@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Timeplan – emnefarger";
 "sync_content_class_table_names" = "Timeplan – egendefinerte emnenavn";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Innstillinger for Live Activity";
 "sync_content_nav_label" = "Synkronisert innhold";
 "sync_courses_footer" = "Sender din egendefinerte timeplan og fullføringsstatus for oppgavene dine til serveren for bruk på tvers av enhetene dine. Velg hva som skal inkluderes nedenfor.";
 "sync_courses_footer_platform_note" = "På grunn av plattformbegrensninger deaktiverer det å slå av dette også Live Activity og påminnelser om oppgavefrist.";

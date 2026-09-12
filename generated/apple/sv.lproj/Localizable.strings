@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Schema – kursfärger";
 "sync_content_class_table_names" = "Schema – anpassade kursnamn";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity-inställningar";
 "sync_content_nav_label" = "Synkroniserat innehåll";
 "sync_courses_footer" = "Skickar ditt anpassade schema och slutförandestatus för dina uppgifter till servern för användning på alla dina enheter. Välj vad som ska ingå nedan.";
 "sync_courses_footer_platform_note" = "På grund av plattformsbegränsningar inaktiverar avstängning av detta även Live Activity och påminnelser om uppgifter.";

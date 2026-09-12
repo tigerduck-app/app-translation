@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Распоред часова – боје курсева";
 "sync_content_class_table_names" = "Распоред часова – прилагођени називи курсева";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Поставке за Live Activity";
 "sync_content_nav_label" = "Синхронизовани садржај";
 "sync_courses_footer" = "Шаље ваш прилагођени распоред часова и статус завршености задатака на сервер за коришћење на свим вашим уређајима. Изаберите испод шта да укључите.";
 "sync_courses_footer_platform_note" = "Због ограничења платформе, искључивање ове опције онемогућава и Live Activity и подсетнике за рок задатка.";

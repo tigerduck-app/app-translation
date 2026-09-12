@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Расписание – цвета курсов</string>
     <string name="sync_content_class_table_names">Расписание – пользовательские названия курсов</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Настройки Live Updates</string>
     <string name="sync_content_nav_label">Синхронизируемый контент</string>
     <string name="sync_courses_footer">Отправляет ваше персональное расписание и статус выполнения заданий на сервер для использования на всех ваших устройствах. Выберите ниже, что включить.</string>
     <string name="sync_courses_toggle">Синхронизировать информацию о курсах</string>

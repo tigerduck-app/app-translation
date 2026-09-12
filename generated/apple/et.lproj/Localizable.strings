@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Tunniplaan – ainete värvid";
 "sync_content_class_table_names" = "Tunniplaan – kohandatud ainete nimed";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity seaded";
 "sync_content_nav_label" = "Sünkroonitud sisu";
 "sync_courses_footer" = "Saadab sinu kohandatud tunniplaani ja ülesannete täitmise oleku serverisse, et saaksid neid kasutada kõigis oma seadmetes. Vali allpool, mida soovid kaasata.";
 "sync_courses_footer_platform_note" = "Platvormi piirangute tõttu keelab selle väljalülitamine ka Live Activity ja ülesande tähtaja meeldetuletused.";

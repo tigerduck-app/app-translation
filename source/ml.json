@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "സ്റ്റാറ്റസ് ബാർ ചിപ്പ്",
     "permission_warning_description": "ഇനിപ്പറയുന്ന അനുമതികൾ മുമ്പ് പ്രവർത്തനക്ഷമമായിരുന്നു, ഇപ്പോൾ അക്ഷമം ചെയ്തിരിക്കുന്നു. ബന്ധപ്പെട്ട അറിയിപ്പുകളും Live Updates-ഉം ശരിയായി പ്രദർശിപ്പിക്കില്ല.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates ക്രമീകരണങ്ങൾ",
     "vibration_settings_motor_warning": "ചില ഫോണുകളിൽ നിലവാരം കുറഞ്ഞ വൈബ്രേഷൻ മോട്ടോറുകൾ ഉണ്ട്, അവ വളരെ ദുർബലമോ വളരെ ചെറുതോ ആയ വൈബ്രേഷനുകൾ അവഗണിക്കാം. ഒരു ക്രമീകരണം അനുഭവപ്പെടുന്നില്ലെങ്കിൽ, അതിന്റെ ശക്തി അല്ലെങ്കിൽ ദൈർഘ്യം വർദ്ധിപ്പിക്കാൻ ശ്രമിക്കൂ. ആദ്യം \"ഇടത്തരം\" പ്രീസെറ്റ് പരീക്ഷിക്കുന്നതിൽ നിന്ന് ആരംഭിക്കാം.",
     "vibration_settings_revert": "ഡിഫോൾട്ടിലേക്ക് പുനഃസജ്ജമാക്കുക",
     "vibration_settings_section_length_ms": "ദൈർഘ്യം (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync ഓഫ് ആണ്. Apple ഉപകരണങ്ങൾ അറിയിപ്പുകൾ ലഭിക്കാൻ TigerDuck ബാക്കെൻഡിനെ ആശ്രയിക്കുന്നു. കൂടുതൽ വിവരങ്ങൾക്ക് ടാപ്പ് ചെയ്യുക.",
     "settings_sync_toggle_label": "TigerSync പ്രവർത്തനക്ഷമമാക്കുക",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity ക്രമീകരണങ്ങൾ",
     "sync_courses_footer_platform_note": "പ്ലാറ്റ്‌ഫോം പരിമിതികൾ കാരണം, ഇത് ഓഫാക്കിയാൽ Live Activity, അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തലുകൾ എന്നിവ കൂടി പ്രവർത്തനരഹിതമാകും."
   },
   "backend": {

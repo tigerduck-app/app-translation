@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Tvarkaraštis – kursų spalvos";
 "sync_content_class_table_names" = "Tvarkaraštis – pasirinktiniai kursų pavadinimai";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity nustatymai";
 "sync_content_nav_label" = "Sinchronizuotas turinys";
 "sync_courses_footer" = "Siunčia jūsų pasirinktinį tvarkaraštį ir užduočių atlikimo būseną į serverį, kad galėtumėte naudoti visuose savo įrenginiuose. Toliau pasirinkite, ką įtraukti.";
 "sync_courses_footer_platform_note" = "Dėl platformos apribojimų, tai išjungus taip pat išjungiami Live Activity ir užduočių terminų priminimai.";

@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip az állapotsávban",
     "permission_warning_description": "Az alábbi engedélyek korábban engedélyezve voltak, de most le vannak tiltva. A kapcsolódó értesítések és a Live Updates esetleg nem jelenik meg megfelelően.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates beállítások",
     "vibration_settings_motor_warning": "Egyes telefonokon alacsonyabb minőségű vibrációs motor van, amely figyelmen kívül hagyhatja a nagyon gyenge vagy nagyon rövid rezgéseket. Ha nem érez egy beállítást, próbálja növelni annak erősségét vagy hosszát. Kezdheti a \"Közepes\" előbeállítás kipróbálásával.",
     "vibration_settings_revert": "Alapértelmezett visszaállítása",
     "vibration_settings_section_length_ms": "Időtartam (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "A TigerSync ki van kapcsolva. Az Apple eszközök a TigerDuck szerverre támaszkodnak az értesítések fogadásához. Érintsd meg a további információkért.",
     "settings_sync_toggle_label": "TigerSync engedélyezése",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity beállítások",
     "sync_courses_footer_platform_note": "A platform korlátai miatt ennek kikapcsolása letiltja a Live Activity funkciót és a házi feladat határidő emlékeztetőket is."
   },
   "backend": {

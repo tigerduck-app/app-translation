@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "સ્ટેટસ બારમાં ચિપ",
     "permission_warning_description": "નીચેની પરમિશન અગાઉ ચાલુ હતી, પરંતુ હવે બંધ છે. સંબંધિત નોટિફિકેશન અને Live Updates યોગ્ય રીતે દેખાશે નહીં.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates સેટિંગ્સ",
     "vibration_settings_motor_warning": "કેટલા ફોનમાં નીચી ગુણવત્તાના વાઇબ્રેશન મોટર હોય છે જે ખૂબ જ નબળા અથવા ખૂબ ટૂંકા વાઇબ્રેશનને અવગણી શકે છે. જો તમને કોઈ સેટિંગ ન અનુભવાય, તો તેની શક્તિ અથવા લંબાઈ વધારવાનો પ્રયાસ કરો. તમે પહેલા \"મધ્યમ\" પ્રીસેટ અજમાવીને શરૂ કરી શકો છો.",
     "vibration_settings_revert": "ડિફૉલ્ટ પર રીસેટ",
     "vibration_settings_section_length_ms": "સમયગાળો (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync બંધ છે. Apple ડિવાઇસ સૂચનાઓ મેળવવા TigerDuck બેકએન્ડ પર આધાર રાખે છે. વધુ માહિતી માટે ટેપ કરો.",
     "settings_sync_toggle_label": "TigerSync સક્ષમ કરો",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity સેટિંગ્સ",
     "sync_courses_footer_platform_note": "પ્લેટફોર્મની મર્યાદાઓને કારણે, આને બંધ કરવાથી Live Activity અને અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર પણ બંધ થઈ જશે."
   },
   "backend": {

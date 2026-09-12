@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Thời khoá biểu – màu sắc môn học";
 "sync_content_class_table_names" = "Thời khoá biểu – tên môn học tuỳ chỉnh";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Cài đặt Live Activity";
 "sync_content_nav_label" = "Nội dung đồng bộ";
 "sync_courses_footer" = "Gửi thời khoá biểu tuỳ chỉnh và trạng thái hoàn thành bài tập của bạn lên máy chủ để dùng trên mọi thiết bị. Chọn nội dung cần đồng bộ bên dưới.";
 "sync_courses_footer_platform_note" = "Do giới hạn nền tảng, tắt tính năng này cũng sẽ vô hiệu hoá Live Activity và nhắc bài tập sắp đến hạn.";

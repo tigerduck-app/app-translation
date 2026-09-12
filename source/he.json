@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "שבב בשורת הסטטוס",
     "permission_warning_description": "ההרשאות הבאות היו מופעלות בעבר אך כעת מושבתות. התראות ו-Live Updates קשורים עלולים שלא להופיע כראוי.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "הגדרות Live Updates",
     "vibration_settings_motor_warning": "לחלק מהטלפונים יש מנועי רטט באיכות נמוכה יותר שעלולים להתעלם מרטטים חלשים מאוד או קצרים מאוד. אם אינך מרגיש הגדרה מסוימת, נסה להגביר את עוצמתה או אורכה. תוכל להתחיל בניסוי הקבוע \"בינוני\" תחילה.",
     "vibration_settings_revert": "אפס לברירת מחדל",
     "vibration_settings_section_length_ms": "משך (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync כבוי. מכשירי Apple מסתמכים על שרת TigerDuck לקבלת התראות. הקישו למידע נוסף.",
     "settings_sync_toggle_label": "הפעל TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "הגדרות Live Activity",
     "sync_courses_footer_platform_note": "בשל מגבלות הפלטפורמה, כיבוי האפשרות הזו מבטל גם את Live Activity ואת תזכורות לתאריך הגשת מטלה."
   },
   "backend": {

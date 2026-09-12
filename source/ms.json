@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Cip pada bar status",
     "permission_warning_description": "Kebenaran berikut sebelum ini diaktifkan tetapi kini telah dilumpuhkan. Pemberitahuan dan Live Updates yang berkaitan mungkin tidak dipaparkan dengan betul.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Tetapan Live Updates",
     "vibration_settings_motor_warning": "Sesetengah telefon mempunyai motor getaran berkualiti lebih rendah yang mungkin mengabaikan getaran yang sangat lemah atau sangat pendek. Jika anda tidak dapat merasai sesuatu tetapan, cuba naikkan kekuatan atau panjangnya. Anda boleh mula dengan mencuba pratetap \"Sederhana\" terlebih dahulu.",
     "vibration_settings_revert": "Tetapkan semula ke lalai",
     "vibration_settings_section_length_ms": "Tempoh (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync dimatikan. Peranti Apple bergantung pada pelayan TigerDuck untuk menerima pemberitahuan. Ketik untuk maklumat lanjut.",
     "settings_sync_toggle_label": "Aktifkan TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Tetapan Live Activity",
     "sync_courses_footer_platform_note": "Disebabkan had platform, mematikan ini turut melumpuhkan Live Activity dan peringatan tugasan tamat tempoh."
   },
   "backend": {

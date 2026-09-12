@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Grade de horários – cores das disciplinas";
 "sync_content_class_table_names" = "Grade de horários – nomes personalizados das disciplinas";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Configurações de Live Activity";
 "sync_content_nav_label" = "Conteúdo sincronizado";
 "sync_courses_footer" = "Envia sua grade de horários personalizada e o estado de conclusão das tarefas para o servidor, para uso em todos os seus dispositivos. Escolha abaixo o que deseja incluir.";
 "sync_courses_footer_platform_note" = "Devido a limitações da plataforma, desativar esta opção também desativa Live Activity e os lembretes de prazo de atividades.";

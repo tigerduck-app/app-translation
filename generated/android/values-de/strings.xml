@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Stundenplan – Kursfarben</string>
     <string name="sync_content_class_table_names">Stundenplan – Eigene Kursnamen</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates-Einstellungen</string>
     <string name="sync_content_nav_label">Synchronisierte Inhalte</string>
     <string name="sync_courses_footer">Sendet deinen individuellen Stundenplan und den Bearbeitungsstatus deiner Aufgaben an den Server zur geräteübergreifenden Nutzung. Wähle unten aus, was enthalten sein soll.</string>
     <string name="sync_courses_toggle">Kursinformationen synchronisieren</string>

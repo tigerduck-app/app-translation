@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip na barra de status",
     "permission_warning_description": "As permissões a seguir foram autorizadas anteriormente, mas agora estão desativadas. As notificações e Live Updates relacionados podem não ser exibidos corretamente.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Configurações de Live Updates",
     "vibration_settings_motor_warning": "Alguns celulares têm motores de vibração de menor qualidade que podem ignorar vibrações muito fracas ou muito curtas. Se você não conseguir sentir uma configuração, tente aumentar sua intensidade ou duração. Você pode começar experimentando a predefinição \"Médio\" primeiro.",
     "vibration_settings_revert": "Restaurar padrão",
     "vibration_settings_section_length_ms": "Duração (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "O TigerSync está desativado. Dispositivos Apple dependem do servidor TigerDuck para receber notificações. Toque para mais informações.",
     "settings_sync_toggle_label": "Ativar TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Configurações de Live Activity",
     "sync_courses_footer_platform_note": "Devido a limitações da plataforma, desativar esta opção também desativa Live Activity e os lembretes de prazo de atividades."
   },
   "backend": {

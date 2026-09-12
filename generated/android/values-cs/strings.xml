@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Rozvrh – barvy předmětů</string>
     <string name="sync_content_class_table_names">Rozvrh – vlastní názvy předmětů</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Nastavení Live Updates</string>
     <string name="sync_content_nav_label">Synchronizovaný obsah</string>
     <string name="sync_courses_footer">Odesílá váš vlastní rozvrh a stav dokončení úkolů na server pro použití na všech vašich zařízeních. Níže vyberte, co chcete zahrnout.</string>
     <string name="sync_courses_toggle">Synchronizovat informace o předmětech</string>

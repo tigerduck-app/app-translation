@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Күй жолағындағы чип",
     "permission_warning_description": "Төмендегі рұқсаттар бұрын қосылған болатын, бірақ қазір өшірілген. Тиісті хабарландырулар мен Live Updates дұрыс көрсетілмеуі мүмкін.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates параметрлері",
     "vibration_settings_motor_warning": "Кейбір телефондарда сапасы төменірек дірілдеткіш моторлары болады, олар өте әлсіз немесе өте қысқа дірілдерді елемеуі мүмкін. Егер параметрді сезбесеңіз, оның күшін немесе ұзақтығын арттырып көріңіз. \"Орташа\" алдын ала орнатымын алдымен сынап бастай аласыз.",
     "vibration_settings_revert": "Әдепкіге қайтару",
     "vibration_settings_section_length_ms": "Ұзақтығы (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync өшірулі. Apple құрылғылары хабарландырулар алу үшін TigerDuck серверіне тәуелді. Қосымша ақпарат үшін түртіңіз.",
     "settings_sync_toggle_label": "TigerSyncды қосу",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity параметрлері",
     "sync_courses_footer_platform_note": "Платформа шектеулеріне байланысты, мұны өшіру Live Activity мен тапсырма мерзімі туралы еске салуларды да өшіреді."
   },
   "backend": {

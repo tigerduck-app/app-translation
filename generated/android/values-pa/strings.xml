@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">ਕਲਾਸ ਟੇਬਲ – ਕੋਰਸ ਦੇ ਰੰਗ</string>
     <string name="sync_content_class_table_names">ਕਲਾਸ ਟੇਬਲ – ਕਸਟਮ ਕੋਰਸ ਨਾਮ</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates ਸੈਟਿੰਗਾਂ</string>
     <string name="sync_content_nav_label">ਸਿੰਕ ਕੀਤੀ ਸਮੱਗਰੀ</string>
     <string name="sync_courses_footer">ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੇ ਵਰਤੋਂ ਲਈ ਤੁਹਾਡਾ ਕਸਟਮ ਕਲਾਸ ਟੇਬਲ ਅਤੇ ਅਸਾਈਨਮੈਂਟ ਪੂਰਾ ਹੋਣ ਦੀ ਸਥਿਤੀ ਸਰਵਰ ਤੇ ਭੇਜਦਾ ਹੈ। ਹੇਠਾਂ ਚੁਣੋ ਕਿ ਕੀ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ।</string>
     <string name="sync_courses_toggle">ਕੋਰਸ ਦੀ ਜਾਣਕਾਰੀ ਸਿੰਕ ਕਰੋ</string>

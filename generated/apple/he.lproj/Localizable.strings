@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "מערכת שעות – צבעי קורסים";
 "sync_content_class_table_names" = "מערכת שעות – שמות קורסים מותאמים אישית";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "הגדרות Live Activity";
 "sync_content_nav_label" = "תוכן מסונכרן";
 "sync_courses_footer" = "שולח את מערכת השעות המותאמת אישית שלך ואת מצב השלמת המטלות שלך לשרת לשימוש בכל המכשירים שלך. בחר מה לכלול למטה.";
 "sync_courses_footer_platform_note" = "בשל מגבלות הפלטפורמה, כיבוי האפשרות הזו מבטל גם את Live Activity ואת תזכורות לתאריך הגשת מטלה.";

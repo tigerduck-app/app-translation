@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Flaga á stöðustiku",
     "permission_warning_description": "Eftirfarandi leyfi voru áður virk en eru nú óvirk. Tengdar tilkynningar og Live Updates birtast hugsanlega ekki rétt.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates stillingar",
     "vibration_settings_motor_warning": "Sumir símar hafa lægri gæða titringsmótor sem gætu hunsað mjög veika eða mjög stuttar titringshreyfingar. Ef þú finnur ekki fyrir stillingu skaltu reyna að auka styrk hennar eða lengd. Þú getur byrjað á að prófa \"Meðal\" forstillinguna fyrst.",
     "vibration_settings_revert": "Endurstilla sjálfgefið",
     "vibration_settings_section_length_ms": "Lengd (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync er slökkt. Apple tæki reiða sig á TigerDuck netþjón til að fá tilkynningar. Ýttu til að fá frekari upplýsingar.",
     "settings_sync_toggle_label": "Kveikja á TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity stillingar",
     "sync_courses_footer_platform_note": "Vegna takmarkana á kerfinu slekkur þetta einnig á Live Activity og verkefnaáminningum."
   },
   "backend": {

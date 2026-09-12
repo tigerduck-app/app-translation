@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Τσιπ στη γραμμή κατάστασης",
     "permission_warning_description": "Οι παρακάτω άδειες ήταν προηγουμένως ενεργοποιημένες αλλά τώρα είναι απενεργοποιημένες. Οι σχετικές ειδοποιήσεις και το Live Updates ενδέχεται να μην εμφανίζονται σωστά.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Ρυθμίσεις Live Updates",
     "vibration_settings_motor_warning": "Ορισμένα τηλέφωνα διαθέτουν κινητήρες δόνησης χαμηλότερης ποιότητας που ενδέχεται να αγνοούν πολύ αδύναμες ή πολύ σύντομες δονήσεις. Αν δεν αισθάνεστε μια ρύθμιση, δοκιμάστε να αυξήσετε την ένταση ή τη διάρκειά της. Μπορείτε να ξεκινήσετε δοκιμάζοντας την προεπιλογή \"Μέτριο\".",
     "vibration_settings_revert": "Επαναφορά προεπιλογής",
     "vibration_settings_section_length_ms": "Διάρκεια (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "Το TigerSync είναι απενεργοποιημένο. Οι συσκευές Apple βασίζονται στον διακομιστή TigerDuck για λήψη ειδοποιήσεων. Πατήστε για περισσότερες πληροφορίες.",
     "settings_sync_toggle_label": "Ενεργοποίηση TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Ρυθμίσεις Live Activity",
     "sync_courses_footer_platform_note": "Λόγω περιορισμών της πλατφόρμας, η απενεργοποίηση αυτού απενεργοποιεί επίσης το Live Activity και τις υπενθυμίσεις λήξης εργασίας."
   },
   "backend": {

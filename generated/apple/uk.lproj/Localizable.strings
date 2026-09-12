@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Розклад – кольори курсів";
 "sync_content_class_table_names" = "Розклад – власні назви курсів";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Налаштування Live Activity";
 "sync_content_nav_label" = "Синхронізований вміст";
 "sync_courses_footer" = "Надсилає ваш власний розклад і стан виконання завдань на сервер для використання на всіх ваших пристроях. Виберіть нижче, що включити.";
 "sync_courses_footer_platform_note" = "Через обмеження платформи вимкнення цього параметра також вимикає Live Activity та нагадування про дедлайн завдань.";

@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">ക്ലാസ് ടേബിൾ – കോഴ്‌സ് നിറങ്ങൾ</string>
     <string name="sync_content_class_table_names">ക്ലാസ് ടേബിൾ – ഇഷ്ടാനുസൃത കോഴ്‌സ് പേരുകൾ</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates ക്രമീകരണങ്ങൾ</string>
     <string name="sync_content_nav_label">സമന്വയിപ്പിച്ച ഉള്ളടക്കം</string>
     <string name="sync_courses_footer">നിങ്ങളുടെ ഇഷ്ടാനുസൃത ടൈംടേബിളും അസൈൻമെന്റ് പൂർത്തീകരണ നിലയും നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും ഉപയോഗിക്കാൻ സെർവറിലേക്ക് അയയ്ക്കുന്നു. താഴെ എന്തെല്ലാം ഉൾപ്പെടുത്തണമെന്ന് തിരഞ്ഞെടുക്കുക.</string>
     <string name="sync_courses_toggle">കോഴ്‌സ് വിവരങ്ങൾ സമന്വയിപ്പിക്കുക</string>

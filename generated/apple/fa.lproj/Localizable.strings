@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "جدول کلاس‌ها – رنگ‌های دروس";
 "sync_content_class_table_names" = "جدول کلاس‌ها – نام‌های سفارشی دروس";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "تنظیمات Live Activity";
 "sync_content_nav_label" = "محتوای همگام‌شده";
 "sync_courses_footer" = "جدول کلاس‌های سفارشی و وضعیت تکمیل تکالیف شما را برای استفاده در همه دستگاه‌هایتان به سرور ارسال می‌کند. در زیر مشخص کنید چه مواردی لحاظ شوند.";
 "sync_courses_footer_platform_note" = "به دلیل محدودیت‌های پلتفرم، غیرفعال کردن این گزینه، Live Activity و یادآورهای موعد تکلیف را نیز غیرفعال می‌کند.";

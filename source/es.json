@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip en la barra de estado",
     "permission_warning_description": "Los siguientes permisos estaban habilitados anteriormente pero ahora están deshabilitados. Es posible que las notificaciones relacionadas y Live Updates no se muestren correctamente.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Configuración de Live Updates",
     "vibration_settings_motor_warning": "Algunos teléfonos tienen motores de vibración de menor calidad que pueden ignorar vibraciones muy débiles o muy cortas. Si no puedes sentir una configuración, intenta aumentar su intensidad o duración. Puedes empezar probando el ajuste preestablecido \"Medio\".",
     "vibration_settings_revert": "Restablecer por defecto",
     "vibration_settings_section_length_ms": "Duración (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync está desactivado. Las notificaciones push y Live Updates no están disponibles.",
     "settings_sync_toggle_label": "Activar TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Configuración de Live Activity",
     "sync_courses_footer_platform_note": "Debido a las limitaciones de la plataforma, desactivar esta opción también desactiva Live Activity y los recordatorios de entrega de tareas."
   },
   "backend": {

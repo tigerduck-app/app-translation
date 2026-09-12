@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "狀態列膠囊",
     "permission_warning_description": "以下權限在您之前已允許，但現在已被關閉。關閉後對應的通知與即時更新可能無法正常顯示。",
     "sync_content_live_activity": "即時更新",
-    "sync_content_live_activity_settings_nav": "即時更新設定",
     "vibration_settings_motor_warning": "部分手機的震動馬達品質較差，過弱或過短的震動可能完全感受不到。若感受不到震動，請試著調高強度或時長。建議先從「中」預設開始試試。",
     "vibration_settings_revert": "還原預設",
     "vibration_settings_section_length_ms": "長度（毫秒）",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync 已關閉。Apple 裝置需要 TigerDuck 後端伺服器才能接收通知，點擊了解更多。",
     "settings_sync_toggle_label": "啟用 TigerSync",
     "sync_content_live_activity": "即時動態",
-    "sync_content_live_activity_settings_nav": "即時動態設定",
     "sync_courses_footer_platform_note": "由於平台限制，關閉同步時「即時動態」與「作業到期提醒」功能將不可用"
   },
   "backend": {

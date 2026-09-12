@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "ตารางเรียน – สีรายวิชา";
 "sync_content_class_table_names" = "ตารางเรียน – ชื่อรายวิชาที่กำหนดเอง";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "การตั้งค่า Live Activity";
 "sync_content_nav_label" = "เนื้อหาที่ซิงค์";
 "sync_courses_footer" = "ส่งตารางเรียนที่กำหนดเองและสถานะการทำงานที่ได้รับมอบหมายเสร็จสิ้นของคุณไปยังเซิร์ฟเวอร์เพื่อใช้งานในทุกอุปกรณ์ เลือกรายการที่ต้องการรวมไว้ด้านล่าง";
 "sync_courses_footer_platform_note" = "เนื่องจากข้อจำกัดของแพลตฟอร์ม การปิดใช้งานนี้จะปิดใช้งาน Live Activity และการแจ้งเตือนการบ้านใกล้ครบกำหนดด้วย";

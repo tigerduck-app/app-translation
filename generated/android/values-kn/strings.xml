@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">ತರಗತಿ ವೇಳಾಪಟ್ಟಿ – ಕೋರ್ಸ್ ಬಣ್ಣಗಳು</string>
     <string name="sync_content_class_table_names">ತರಗತಿ ವೇಳಾಪಟ್ಟಿ – ಕಸ್ಟಮ್ ಕೋರ್ಸ್ ಹೆಸರುಗಳು</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
     <string name="sync_content_nav_label">ಸಿಂಕ್ ಮಾಡಿದ ವಿಷಯ</string>
     <string name="sync_courses_footer">ನಿಮ್ಮ ಕಸ್ಟಮ್ ವೇಳಾಪಟ್ಟಿ ಮತ್ತು ಕಾರ್ಯ ಪೂರ್ಣಗೊಂಡ ಸ್ಥಿತಿಯನ್ನು ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲಿ ಬಳಸಲು ಸರ್ವರ್‌ಗೆ ಕಳುಹಿಸುತ್ತದೆ. ಕೆಳಗೆ ಏನನ್ನು ಸೇರಿಸಬೇಕೆಂದು ಆಯ್ಕೆಮಾಡಿ.</string>
     <string name="sync_courses_toggle">ಕೋರ್ಸ್ ಮಾಹಿತಿ ಸಿಂಕ್ ಮಾಡಿ</string>

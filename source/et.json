@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Kiip olekuribal",
     "permission_warning_description": "Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja Live Updates ei pruugi õigesti kuvada.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates seaded",
     "vibration_settings_motor_warning": "Mõnel telefonil on madalama kvaliteediga vibraatorimootor, mis võib ignoreerida väga nõrku või väga lühikesi vibratsioone. Kui te seadistust ei tunne, proovige suurendada selle tugevust või pikkust. Võite alustada eelseade \"Keskmine\" proovimisest.",
     "vibration_settings_revert": "Lähtesta vaikimisi",
     "vibration_settings_section_length_ms": "Kestus (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync on välja lülitatud. Apple'i seadmed sõltuvad TigerDuck serverist teavituste saamiseks. Puuduta lisateabe saamiseks.",
     "settings_sync_toggle_label": "Luba TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity seaded",
     "sync_courses_footer_platform_note": "Platvormi piirangute tõttu keelab selle väljalülitamine ka Live Activity ja ülesande tähtaja meeldetuletused."
   },
   "backend": {

@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Lukujärjestys – kurssien värit";
 "sync_content_class_table_names" = "Lukujärjestys – mukautetut kurssinimet";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity -asetukset";
 "sync_content_nav_label" = "Synkronoitu sisältö";
 "sync_courses_footer" = "Lähettää mukautetun lukujärjestyksesi ja tehtävien suoritustilan palvelimelle, jotta voit käyttää niitä kaikilla laitteillasi. Valitse alta, mitä haluat sisällyttää.";
 "sync_courses_footer_platform_note" = "Alustan rajoitusten vuoksi tämän kytkeminen pois päältä poistaa käytöstä myös Live Activity -toiminnon ja tehtävän palautusmuistutukset.";

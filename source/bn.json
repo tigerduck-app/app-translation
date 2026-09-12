@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "স্ট্যাটাস বারের চিপ",
     "permission_warning_description": "নিচের অনুমতিগুলি আগে চালু ছিল কিন্তু এখন বন্ধ। সম্পর্কিত বিজ্ঞপ্তি ও Live Updates সঠিকভাবে প্রদর্শিত নাও হতে পারে।",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates সেটিংস",
     "vibration_settings_motor_warning": "কিছু ফোনে নিম্নমানের ভাইব্রেশন মোটর থাকে যা খুব দুর্বল বা খুব ছোট ভাইব্রেশন উপেক্ষা করতে পারে। যদি কোনো সেটিং অনুভব না করেন, তাহলে এর শক্তি বা দৈর্ঘ্য বাড়ানোর চেষ্টা করুন। আপনি প্রথমে \"মাঝারি\" প্রিসেট দিয়ে শুরু করতে পারেন।",
     "vibration_settings_revert": "ডিফল্টে ফিরুন",
     "vibration_settings_section_length_ms": "দৈর্ঘ্য (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync বন্ধ। Apple ডিভাইসগুলি বিজ্ঞপ্তি পেতে TigerDuck ব্যাকএন্ডের উপর নির্ভর করে। আরও জানতে ট্যাপ করুন।",
     "settings_sync_toggle_label": "TigerSync সক্রিয় করুন",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity সেটিংস",
     "sync_courses_footer_platform_note": "প্ল্যাটফর্মের সীমাবদ্ধতার কারণে, এটি বন্ধ করলে Live Activity এবং অ্যাসাইনমেন্টের সময়সীমার স্মরণিকাও বন্ধ হয়ে যাবে।"
   },
   "backend": {

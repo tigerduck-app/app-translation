@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Orar – culorile cursurilor</string>
     <string name="sync_content_class_table_names">Orar – nume personalizate ale cursurilor</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Setări Live Updates</string>
     <string name="sync_content_nav_label">Conținut sincronizat</string>
     <string name="sync_courses_footer">Trimite orarul tău personalizat și starea de finalizare a temelor către server, pentru a le folosi pe toate dispozitivele tale. Alege mai jos ce vrei să incluzi.</string>
     <string name="sync_courses_toggle">Sincronizează informațiile cursului</string>

@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "課表 – 課程顏色";
 "sync_content_class_table_names" = "課表 – 自訂課程名稱";
 "sync_content_live_activity" = "即時動態";
-"sync_content_live_activity_settings_nav" = "即時動態設定";
 "sync_content_nav_label" = "同步內容";
 "sync_courses_footer" = "將自訂課表、作業完成狀態推送至伺服器，用於跨裝置同步。你可以在下列選單選擇同步項目";
 "sync_courses_footer_platform_note" = "由於平台限制，關閉同步時「即時動態」與「作業到期提醒」功能將不可用";

@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "時間割 – コースの色";
 "sync_content_class_table_names" = "時間割 – カスタムコース名";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity 設定";
 "sync_content_nav_label" = "同期コンテンツ";
 "sync_courses_footer" = "カスタム時間割と課題の完了状況をサーバーに送信し、すべてのデバイス間で同期できるようにします。同期する項目は以下からお選びください。";
 "sync_courses_footer_platform_note" = "プラットフォームの制限により、これをオフにすると Live Activity と課題の期限リマインダーも無効になります。";

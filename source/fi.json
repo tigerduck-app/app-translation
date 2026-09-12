@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Tilapalkin siru",
     "permission_warning_description": "Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja Live Updates eivät ehkä näy oikein.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates -asetukset",
     "vibration_settings_motor_warning": "Joillakin puhelimilla on heikomman laadun värinämoottorit, jotka saattavat jättää huomioimatta hyvin heikot tai hyvin lyhyet värinät. Jos et tunne asetusta, yritä lisätä sen voimakkuutta tai pituutta. Voit aloittaa kokeilemalla esiasetusta \"Keskipitkä\".",
     "vibration_settings_revert": "Palauta oletukseksi",
     "vibration_settings_section_length_ms": "Kesto (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync on pois päältä. Apple-laitteet tarvitsevat TigerDuck-palvelimen ilmoitusten vastaanottamiseen. Napauta saadaksesi lisätietoja.",
     "settings_sync_toggle_label": "Ota TigerSync käyttöön",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity -asetukset",
     "sync_courses_footer_platform_note": "Alustan rajoitusten vuoksi tämän kytkeminen pois päältä poistaa käytöstä myös Live Activity -toiminnon ja tehtävän palautusmuistutukset."
   },
   "backend": {

@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Puce dans la barre d'état",
     "permission_warning_description": "Les autorisations suivantes étaient précédemment activées mais sont maintenant désactivées. Les notifications et Live Updates associées peuvent ne pas s'afficher correctement.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Paramètres de Live Updates",
     "vibration_settings_motor_warning": "Certains téléphones sont équipés de moteurs de vibration de moindre qualité qui peuvent ignorer les vibrations très faibles ou très courtes. Si vous ne ressentez pas un réglage, essayez d'augmenter son intensité ou sa durée. Vous pouvez commencer par essayer le préréglage \"Moyen\".",
     "vibration_settings_revert": "Rétablir par défaut",
     "vibration_settings_section_length_ms": "Durée (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync est désactivé. Les notifications push et Live Updates ne sont pas disponibles.",
     "settings_sync_toggle_label": "Activer TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Paramètres de Live Activity",
     "sync_courses_footer_platform_note": "En raison des limites de la plateforme, désactiver cette option désactive également Live Activity et les rappels d'échéance des devoirs."
   },
   "backend": {

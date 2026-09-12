@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">کلاس ٹیبل – کورس کے رنگ</string>
     <string name="sync_content_class_table_names">کلاس ٹیبل – اپنی مرضی کے کورس کے نام</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates ترتیبات</string>
     <string name="sync_content_nav_label">مطابقت پذیر مواد</string>
     <string name="sync_courses_footer">یہ آپ کا اپنی مرضی کا ٹائم ٹیبل اور اسائنمنٹ کی تکمیل کی صورتحال آپ کے تمام آلات پر استعمال کے لیے سرور کو بھیجتا ہے۔ نیچے منتخب کریں کہ کیا شامل کرنا ہے۔</string>
     <string name="sync_courses_toggle">کورس کی معلومات مطابقت پذیر کریں</string>

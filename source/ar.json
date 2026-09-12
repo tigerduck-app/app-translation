@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "شريحة شريط الحالة",
     "permission_warning_description": "الأذونات التالية كانت مفعّلة سابقًا ولكنها معطّلة الآن. قد لا تظهر الإشعارات و Live Updates بشكل صحيح.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "إعدادات Live Updates",
     "vibration_settings_motor_warning": "تعاني بعض الهواتف من محركات اهتزاز منخفضة الجودة قد تتجاهل الاهتزازات الضعيفة جداً أو القصيرة جداً. إذا كنت لا تشعر بالإعداد، حاول رفع قوته أو مدته. يمكنك البدء بتجربة الإعداد المسبق \"متوسط\" أولاً.",
     "vibration_settings_revert": "إعادة إلى الافتراضي",
     "vibration_settings_section_length_ms": "المدة (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync معطّل. تعتمد أجهزة Apple على خادم TigerDuck لتلقي الإشعارات. انقر لمزيد من المعلومات.",
     "settings_sync_toggle_label": "تفعيل الTigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "إعدادات Live Activity",
     "sync_courses_footer_platform_note": "بسبب قيود المنصة، يؤدي إيقاف هذا الخيار أيضًا إلى تعطيل Live Activity وتذكيرات استحقاق الواجبات."
   },
   "backend": {

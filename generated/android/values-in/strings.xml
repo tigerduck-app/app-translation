@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Jadwal kelas – warna mata kuliah</string>
     <string name="sync_content_class_table_names">Jadwal kelas – nama mata kuliah kustom</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Pengaturan Live Updates</string>
     <string name="sync_content_nav_label">Konten yang disinkronkan</string>
     <string name="sync_courses_footer">Mengirim jadwal kelas kustom dan status penyelesaian tugas Anda ke server untuk digunakan di semua perangkat. Pilih yang ingin disertakan di bawah ini.</string>
     <string name="sync_courses_toggle">Sinkronkan informasi mata kuliah</string>

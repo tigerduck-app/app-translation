@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Čip v stavovom riadku",
     "permission_warning_description": "Nasledujúce povolenia boli predtým povolené, ale teraz sú vypnuté. Súvisiace notifikácie a Live Updates sa nemusia zobrazovať správne.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Nastavenia Live Updates",
     "vibration_settings_motor_warning": "Niektoré telefóny majú vibračné motory nižšej kvality, ktoré môžu ignorovať veľmi slabé alebo veľmi krátke vibrácie. Ak neviete pocítiť nastavenie, skúste zvýšiť jeho silu alebo dĺžku. Môžete začať vyskúšaním predvoľby \"Stredný\".",
     "vibration_settings_revert": "Obnoviť predvolené",
     "vibration_settings_section_length_ms": "Trvanie (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync je vypnutá. Zariadenia Apple sa pri prijímaní oznámení spoliehajú na server TigerDuck. Klepnite pre viac informácií.",
     "settings_sync_toggle_label": "Zapnúť TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Nastavenia Live Activity",
     "sync_courses_footer_platform_note": "Kvôli obmedzeniam platformy vypnutie tejto možnosti zároveň vypne aj Live Activity a pripomienky termínov úloh."
   },
   "backend": {

@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "상태 표시줄 칩",
     "permission_warning_description": "다음 권한이 이전에 허용되었으나 현재 비활성화되어 있습니다. 관련 알림과 Live Updates가 정상적으로 표시되지 않을 수 있습니다.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates 설정",
     "vibration_settings_motor_warning": "일부 스마트폰은 진동 모터 품질이 낮아 매우 약하거나 짧은 진동을 무시할 수 있습니다. 설정이 느껴지지 않으면 강도나 길이를 높여 보세요. 먼저 \"보통\" 프리셋을 시도해 보는 것을 권장합니다.",
     "vibration_settings_revert": "기본값으로 재설정",
     "vibration_settings_section_length_ms": "길이 (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync가 꺼져 있습니다. 푸시 알림과 Live Updates를 사용할 수 없습니다.",
     "settings_sync_toggle_label": "TigerSync 켜기",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity 설정",
     "sync_courses_footer_platform_note": "플랫폼 제한으로 인해 이 기능을 끄면 Live Activity와 과제 마감 알림도 사용할 수 없게 됩니다."
   },
   "backend": {

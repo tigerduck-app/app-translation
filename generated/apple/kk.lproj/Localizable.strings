@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Сабақ кестесі – курс түстері";
 "sync_content_class_table_names" = "Сабақ кестесі – курстардың реттелген атаулары";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity параметрлері";
 "sync_content_nav_label" = "Синхрондалған мазмұн";
 "sync_courses_footer" = "Барлық құрылғыларыңызда пайдалану үшін реттелген сабақ кестеңізді және тапсырмалардың орындалу күйін серверге жібереді. Төменде нені қосу керектігін таңдаңыз.";
 "sync_courses_footer_platform_note" = "Платформа шектеулеріне байланысты, мұны өшіру Live Activity мен тапсырма мерзімі туралы еске салуларды да өшіреді.";

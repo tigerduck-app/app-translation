@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Plan zajęć – kolory kursów";
 "sync_content_class_table_names" = "Plan zajęć – niestandardowe nazwy kursów";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Ustawienia Live Activity";
 "sync_content_nav_label" = "Synchronizowana zawartość";
 "sync_courses_footer" = "Wysyła Twój niestandardowy plan zajęć oraz stan wykonania zadań na serwer, aby korzystać z nich na wszystkich urządzeniach. Wybierz poniżej, co chcesz uwzględnić.";
 "sync_courses_footer_platform_note" = "Ze względu na ograniczenia platformy, wyłączenie tej opcji wyłącza również Live Activity oraz przypomnienia o terminach zadań.";

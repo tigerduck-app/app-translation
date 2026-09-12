@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Iskedyul ng klase – mga kulay ng kurso";
 "sync_content_class_table_names" = "Iskedyul ng klase – mga custom na pangalan ng kurso";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Mga Setting ng Live Activity";
 "sync_content_nav_label" = "Na-sync na content";
 "sync_courses_footer" = "Ipinapadala nito ang iyong custom na iskedyul ng klase at ang katayuan ng pagkumpleto ng mga assignment sa server para magamit sa lahat ng iyong device. Piliin sa ibaba kung ano ang isasama.";
 "sync_courses_footer_platform_note" = "Dahil sa mga limitasyon ng platform, ang pag-off nito ay nag-disable din sa Live Activity at sa mga paalala sa takdang-aralin.";

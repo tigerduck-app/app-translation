@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Xip a la barra d'estat",
     "permission_warning_description": "Els permisos següents estaven activats anteriorment però ara estan desactivats. Les notificacions i Live Updates relacionades poden no mostrar-se correctament.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Configuració de Live Updates",
     "vibration_settings_motor_warning": "Alguns telèfons tenen motors de vibració de menor qualitat que poden ignorar vibracions molt febles o molt curtes. Si no podeu sentir una configuració, proveu d'augmentar-ne la força o la durada. Podeu començar provant primer el preajust \"Mitjà\".",
     "vibration_settings_revert": "Restablir per defecte",
     "vibration_settings_section_length_ms": "Durada (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync està desactivat. Els dispositius Apple depenen del servidor de TigerDuck per rebre notificacions. Toca per a més informació.",
     "settings_sync_toggle_label": "Activar TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Configuració de Live Activity",
     "sync_courses_footer_platform_note": "A causa de les limitacions de la plataforma, si desactiveu aquesta opció també es desactivaran Live Activity i els recordatoris de venciment de tasques."
   },
   "backend": {

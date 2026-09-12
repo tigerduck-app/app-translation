@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Jadual kelas – warna kursus";
 "sync_content_class_table_names" = "Jadual kelas – nama kursus tersuai";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Tetapan Live Activity";
 "sync_content_nav_label" = "Kandungan disegerakkan";
 "sync_courses_footer" = "Menghantar jadual kelas tersuai dan status penyiapan tugasan anda ke pelayan untuk digunakan pada semua peranti anda. Pilih perkara yang hendak disertakan di bawah.";
 "sync_courses_footer_platform_note" = "Disebabkan had platform, mematikan ini turut melumpuhkan Live Activity dan peringatan tugasan tamat tempoh.";

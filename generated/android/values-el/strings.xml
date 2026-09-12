@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Πρόγραμμα μαθημάτων – χρώματα μαθημάτων</string>
     <string name="sync_content_class_table_names">Πρόγραμμα μαθημάτων – προσαρμοσμένα ονόματα μαθημάτων</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Ρυθμίσεις Live Updates</string>
     <string name="sync_content_nav_label">Συγχρονισμένο περιεχόμενο</string>
     <string name="sync_courses_footer">Στέλνει το προσαρμοσμένο πρόγραμμά σας και την κατάσταση ολοκλήρωσης εργασιών στον διακομιστή για χρήση σε όλες τις συσκευές σας. Επιλέξτε παρακάτω τι θα συμπεριληφθεί.</string>
     <string name="sync_courses_toggle">Συγχρονισμός πληροφοριών μαθήματος</string>

@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Jadwal kelas – warna mata kuliah";
 "sync_content_class_table_names" = "Jadwal kelas – nama mata kuliah kustom";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Pengaturan Live Activity";
 "sync_content_nav_label" = "Konten yang disinkronkan";
 "sync_courses_footer" = "Mengirim jadwal kelas kustom dan status penyelesaian tugas Anda ke server untuk digunakan di semua perangkat. Pilih yang ingin disertakan di bawah ini.";
 "sync_courses_footer_platform_note" = "Karena keterbatasan platform, menonaktifkan fitur ini juga menonaktifkan Live Activity dan pengingat tenggat tugas.";

@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip i statusfältet",
     "permission_warning_description": "Följande behörigheter var tidigare aktiverade men är nu inaktiverade. Relaterade aviseringar och Live Updates kanske inte visas korrekt.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates-inställningar",
     "vibration_settings_motor_warning": "Vissa telefoner har vibrationsmotorer av lägre kvalitet som kan ignorera mycket svaga eller mycket korta vibrationer. Om du inte kan känna en inställning, prova att öka dess styrka eller längd. Du kan börja med att prova förinställningen \"Medel\".",
     "vibration_settings_revert": "Återställ standard",
     "vibration_settings_section_length_ms": "Varaktighet (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync är avstängd. Apple-enheter förlitar sig på TigerDuck-servern för att ta emot aviseringar. Tryck för mer information.",
     "settings_sync_toggle_label": "Aktivera TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity-inställningar",
     "sync_courses_footer_platform_note": "På grund av plattformsbegränsningar inaktiverar avstängning av detta även Live Activity och påminnelser om uppgifter."
   },
   "backend": {

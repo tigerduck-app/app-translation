@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Emploi du temps – couleurs des cours</string>
     <string name="sync_content_class_table_names">Emploi du temps – noms de cours personnalisés</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Paramètres de Live Updates</string>
     <string name="sync_content_nav_label">Contenu synchronisé</string>
     <string name="sync_courses_footer">Envoie votre emploi du temps personnalisé et l\'état d\'avancement de vos devoirs au serveur pour les utiliser sur tous vos appareils. Choisissez ci-dessous ce qu\'il faut inclure.</string>
     <string name="sync_courses_toggle">Synchroniser les informations de cours</string>

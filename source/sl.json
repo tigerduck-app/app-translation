@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Ploščica v vrstici stanja",
     "permission_warning_description": "Naslednja dovoljenja so bila prej omogočena, zdaj pa so onemogočena. Povezana obvestila in Live Updates morda ne bodo pravilno prikazana.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Nastavitve Live Updates",
     "vibration_settings_motor_warning": "Nekateri telefoni imajo vibromotorje nižje kakovosti, ki lahko ignorirajo zelo šibke ali zelo kratke vibracije. Če ne čutite nastavitve, poskusite povečati njeno moč ali dolžino. Začnete lahko s preizkusom prednastavitve \"Srednje\".",
     "vibration_settings_revert": "Ponastavi privzeto",
     "vibration_settings_section_length_ms": "Trajanje (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync je izklopljena. Naprave Apple se za prejemanje obvestil zanašajo na strežnik TigerDuck. Tapnite za več informacij.",
     "settings_sync_toggle_label": "Vklopi TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Nastavitve Live Activity",
     "sync_courses_footer_platform_note": "Zaradi omejitev platforme izklop te možnosti onemogoči tudi Live Activity in opomnike za rok naloge."
   },
   "backend": {

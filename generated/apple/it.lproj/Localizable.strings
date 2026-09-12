@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Orario delle lezioni – colori dei corsi";
 "sync_content_class_table_names" = "Orario delle lezioni – nomi personalizzati dei corsi";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Impostazioni Live Activity";
 "sync_content_nav_label" = "Contenuti sincronizzati";
 "sync_courses_footer" = "Invia il tuo orario personalizzato e lo stato di completamento dei compiti al server, per usarli su tutti i tuoi dispositivi. Scegli cosa includere qui sotto.";
 "sync_courses_footer_platform_note" = "A causa dei limiti della piattaforma, disattivando questa opzione si disattivano anche Live Activity e i promemoria delle scadenze dei compiti.";

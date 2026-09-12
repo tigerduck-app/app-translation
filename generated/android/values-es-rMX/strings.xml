@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Horario de clases – colores de los cursos</string>
     <string name="sync_content_class_table_names">Horario de clases – nombres personalizados de cursos</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Configuración de Live Updates</string>
     <string name="sync_content_nav_label">Contenido sincronizado</string>
     <string name="sync_courses_footer">Envía tu horario personalizado y el estado de finalización de tus tareas al servidor para usarlos en todos tus dispositivos. Elige qué incluir a continuación.</string>
     <string name="sync_courses_toggle">Sincronizar información del curso</string>

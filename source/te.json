@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "స్టేటస్ బార్ చిప్",
     "permission_warning_description": "కింది అనుమతులు మునుపు ఆన్ చేయబడ్డాయి కానీ ఇప్పుడు ఆఫ్ చేయబడ్డాయి. సంబంధిత నోటిఫికేషన్లు మరియు Live Updates సరిగ్గా కనిపించకపోవచ్చు.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates సెట్టింగ్స్",
     "vibration_settings_motor_warning": "కొన్ని ఫోన్లలో తక్కువ నాణ్యమైన వైబ్రేషన్ మోటార్లు ఉంటాయి, అవి చాలా బలహీనమైన లేదా చాలా తక్కువ వ్యవధిగల వైబ్రేషన్లను విస్మరించవచ్చు. మీకు ఏదైనా సెట్టింగ్ అనుభవం కాకపోతే, దాని బలం లేదా పొడవును పెంచడానికి ప్రయత్నించండి. ముందుగా \"మధ్యమ\" ప్రీసెట్‌ను ప్రయత్నించడం ద్వారా ప్రారంభించవచ్చు.",
     "vibration_settings_revert": "డిఫాల్ట్‌కు రీసెట్ చేయండి",
     "vibration_settings_section_length_ms": "వ్యవధి (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync ఆఫ్‌లో ఉంది. Apple పరికరాలు నోటిఫికేషన్‌లు అందుకోవడానికి TigerDuck బ్యాకెండ్‌పై ఆధారపడతాయి. మరిన్ని వివరాలకు ట్యాప్ చేయండి.",
     "settings_sync_toggle_label": "TigerSync ప్రారంభించండి",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity సెట్టింగ్స్",
     "sync_courses_footer_platform_note": "ప్లాట్‌ఫారమ్ పరిమితుల కారణంగా, దీన్ని ఆఫ్ చేస్తే Live Activity మరియు అసైన్‌మెంట్ గడువు రిమైండర్లు కూడా ఆఫ్ అవుతాయి."
   },
   "backend": {

@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Разписание – цветове на курсовете";
 "sync_content_class_table_names" = "Разписание – персонализирани имена на курсове";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Настройки на Live Activity";
 "sync_content_nav_label" = "Синхронизирано съдържание";
 "sync_courses_footer" = "Изпраща персонализираното ви разписание и състоянието на изпълнение на задачите към сървъра за използване на всички ваши устройства. Изберете какво да включите по-долу.";
 "sync_courses_footer_platform_note" = "Поради ограничения на платформата изключването на тази опция деактивира и Live Activity, и напомнянията за крайни срокове на задания.";

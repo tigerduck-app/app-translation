@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Skema – kursusfarver";
 "sync_content_class_table_names" = "Skema – brugerdefinerede kursusnavne";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity-indstillinger";
 "sync_content_nav_label" = "Synkroniseret indhold";
 "sync_courses_footer" = "Sender dit tilpassede skema og status for dine opgaver til serveren, så de kan bruges på tværs af dine enheder. Vælg nedenfor, hvad der skal inkluderes.";
 "sync_courses_footer_platform_note" = "På grund af platformsbegrænsninger deaktiverer det at slå dette fra også Live Activity og påmindelser om opgavefrist.";

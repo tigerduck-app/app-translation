@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Status bar chip",
     "permission_warning_description": "The following permissions were previously enabled but are now disabled. Related notifications and Live Updates may not display correctly.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates settings",
     "vibration_settings_motor_warning": "Some phones have lower-quality vibration motors that may ignore very weak or very short vibrations. If you can't feel a setting, try raising its strength or length. You can start by trying the medium preset first.",
     "vibration_settings_revert": "Reset to default",
     "vibration_settings_section_length_ms": "Length (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync is off. Apple devices rely on TigerDuck backend to receive notifications. Tap for more info.",
     "settings_sync_toggle_label": "Enable TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity settings",
     "sync_courses_footer_platform_note": "Because of platform limits, turning this off also disables Live Activity and assignment due reminders."
   },
   "backend": {

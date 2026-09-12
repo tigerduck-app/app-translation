@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "स्टेटस बार चिप",
     "permission_warning_description": "निम्नलिखित अनुमतियाँ पहले सक्षम थीं लेकिन अब अक्षम हैं। संबंधित नोटिफिकेशन और Live Updates सही तरह से नहीं दिख सकतीं।",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates सेटिंग",
     "vibration_settings_motor_warning": "कुछ फोनों में कम गुणवत्ता वाले वाइब्रेशन मोटर होते हैं जो बहुत कमज़ोर या बहुत छोटे वाइब्रेशन को अनदेखा कर सकते हैं। अगर आप कोई सेटिंग महसूस नहीं कर पाते, तो उसकी ताकत या लंबाई बढ़ाने की कोशिश करें। आप पहले \"मध्यम\" प्रीसेट आज़माकर शुरू कर सकते हैं।",
     "vibration_settings_revert": "डिफ़ॉल्ट पर रीसेट",
     "vibration_settings_section_length_ms": "अवधि (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync बंद है। Apple डिवाइस सूचनाएँ प्राप्त करने के लिए TigerDuck बैकएंड पर निर्भर हैं। अधिक जानकारी के लिए टैप करें।",
     "settings_sync_toggle_label": "TigerSync सक्षम करें",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity सेटिंग",
     "sync_courses_footer_platform_note": "प्लेटफ़ॉर्म की सीमाओं के कारण, इसे बंद करने पर Live Activity और असाइनमेंट देय अनुस्मारक भी अक्षम हो जाते हैं।"
   },
   "backend": {

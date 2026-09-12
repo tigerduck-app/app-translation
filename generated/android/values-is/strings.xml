@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Stundaskrá – litir námskeiða</string>
     <string name="sync_content_class_table_names">Stundaskrá – sérsniðin námskeiðaheiti</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates stillingar</string>
     <string name="sync_content_nav_label">Samstillt efni</string>
     <string name="sync_courses_footer">Sendir sérsniðna stundaskrá þína og stöðu verkefna til netþjónsins til notkunar á öllum tækjunum þínum. Veldu hér fyrir neðan hvað á að taka með.</string>
     <string name="sync_courses_toggle">Samstilla námskeiðaupplýsingar</string>

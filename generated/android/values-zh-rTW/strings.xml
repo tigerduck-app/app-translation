@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">課表 – 課程顏色</string>
     <string name="sync_content_class_table_names">課表 – 自訂課程名稱</string>
     <string name="sync_content_live_activity">即時更新</string>
-    <string name="sync_content_live_activity_settings_nav">即時更新設定</string>
     <string name="sync_content_nav_label">同步內容</string>
     <string name="sync_courses_footer">將自訂課表、作業完成狀態推送至伺服器，用於跨裝置同步。你可以在下列選單選擇同步項目</string>
     <string name="sync_courses_toggle">同步課程資訊</string>

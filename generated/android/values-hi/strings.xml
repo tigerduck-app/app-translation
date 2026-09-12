@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">क्लास टेबल – कोर्स के रंग</string>
     <string name="sync_content_class_table_names">क्लास टेबल – कस्टम कोर्स नाम</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates सेटिंग</string>
     <string name="sync_content_nav_label">सिंक सामग्री</string>
     <string name="sync_courses_footer">आपकी कस्टम क्लास टेबल और असाइनमेंट पूर्णता स्थिति को आपके सभी डिवाइस पर उपयोग के लिए सर्वर पर भेजता है। नीचे चुनें कि इसमें क्या शामिल करना है।</string>
     <string name="sync_courses_toggle">कोर्स जानकारी सिंक करें</string>

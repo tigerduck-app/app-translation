@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Emploi du temps – couleurs des cours";
 "sync_content_class_table_names" = "Emploi du temps – noms de cours personnalisés";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Paramètres de Live Activity";
 "sync_content_nav_label" = "Contenu synchronisé";
 "sync_courses_footer" = "Envoie votre emploi du temps personnalisé et l'état d'avancement de vos devoirs au serveur pour les utiliser sur tous vos appareils. Choisissez ci-dessous ce qu'il faut inclure.";
 "sync_courses_footer_platform_note" = "En raison des limites de la plateforme, désactiver cette option désactive également Live Activity et les rappels d'échéance des devoirs.";

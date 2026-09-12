@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">جدول الحصص – ألوان المقررات</string>
     <string name="sync_content_class_table_names">جدول الحصص – أسماء المقررات المخصصة</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">إعدادات Live Updates</string>
     <string name="sync_content_nav_label">المحتوى المتزامن</string>
     <string name="sync_courses_footer">يرسل جدول حصصك المخصص وحالة إنجاز واجباتك إلى الخادم لاستخدامها عبر جميع أجهزتك. اختر ما تريد تضمينه أدناه.</string>
     <string name="sync_courses_toggle">مزامنة معلومات المقررات</string>

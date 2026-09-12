@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Horari de classes – colors dels cursos</string>
     <string name="sync_content_class_table_names">Horari de classes – noms personalitzats dels cursos</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Configuració de Live Updates</string>
     <string name="sync_content_nav_label">Contingut sincronitzat</string>
     <string name="sync_courses_footer">Envia el vostre horari personalitzat i l\'estat de finalització de les tasques al servidor perquè es puguin utilitzar a tots els vostres dispositius. Trieu què voleu incloure a continuació.</string>
     <string name="sync_courses_toggle">Sincronitza la informació del curs</string>

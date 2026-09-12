@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip nella barra di stato",
     "permission_warning_description": "Le seguenti autorizzazioni erano abilitate in precedenza ma ora sono disattivate. Le notifiche e Live Updates correlati potrebbero non essere visualizzati correttamente.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Impostazioni Live Updates",
     "vibration_settings_motor_warning": "Alcuni telefoni hanno motori di vibrazione di qualità inferiore che potrebbero ignorare vibrazioni molto deboli o molto brevi. Se non riesci a sentire un'impostazione, prova ad aumentarne la forza o la durata. Puoi iniziare provando prima il preset \"Medio\".",
     "vibration_settings_revert": "Ripristina predefinito",
     "vibration_settings_section_length_ms": "Durata (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync è disattivato. I dispositivi Apple dipendono dal server TigerDuck per ricevere le notifiche. Tocca per maggiori informazioni.",
     "settings_sync_toggle_label": "Attiva TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Impostazioni Live Activity",
     "sync_courses_footer_platform_note": "A causa dei limiti della piattaforma, disattivando questa opzione si disattivano anche Live Activity e i promemoria delle scadenze dei compiti."
   },
   "backend": {

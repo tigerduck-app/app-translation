@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Órarend – kurzus színek";
 "sync_content_class_table_names" = "Órarend – egyéni kurzusnevek";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity beállítások";
 "sync_content_nav_label" = "Szinkronizált tartalom";
 "sync_courses_footer" = "Elküldi az egyéni órarendedet és a feladatok teljesítési állapotát a szervernek, hogy minden eszközödön elérhetők legyenek. Válaszd ki lent, mit szeretnél belefoglalni.";
 "sync_courses_footer_platform_note" = "A platform korlátai miatt ennek kikapcsolása letiltja a Live Activity funkciót és a házi feladat határidő emlékeztetőket is.";

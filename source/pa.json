@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "ਸਟੇਟਸ ਬਾਰ ਚਿੱਪ",
     "permission_warning_description": "ਹੇਠ ਲਿਖੀਆਂ ਅਨੁਮਤੀਆਂ ਪਹਿਲਾਂ ਚਾਲੂ ਸਨ ਪਰ ਹੁਣ ਬੰਦ ਹਨ। ਸੰਬੰਧਿਤ ਸੂਚਨਾਵਾਂ ਅਤੇ Live Updates ਸਹੀ ਤਰ੍ਹਾਂ ਨਹੀਂ ਦਿਖਾਈ ਦੇ ਸਕਦੀਆਂ।",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates ਸੈਟਿੰਗਾਂ",
     "vibration_settings_motor_warning": "ਕੁਝ ਫੋਨਾਂ ਵਿੱਚ ਘੱਟ ਗੁਣਵੱਤਾ ਵਾਲੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਮੋਟਰ ਹੁੰਦੇ ਹਨ ਜੋ ਬਹੁਤ ਕਮਜ਼ੋਰ ਜਾਂ ਬਹੁਤ ਛੋਟੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰ ਸਕਦੇ ਹਨ। ਜੇ ਤੁਸੀਂ ਕੋਈ ਸੈਟਿੰਗ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰ ਸਕਦੇ, ਤਾਂ ਇਸਦੀ ਤਾਕਤ ਜਾਂ ਲੰਬਾਈ ਵਧਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਤੁਸੀਂ ਪਹਿਲਾਂ \"ਦਰਮਿਆਨਾ\" ਪ੍ਰੀਸੈੱਟ ਅਜ਼ਮਾ ਕੇ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।",
     "vibration_settings_revert": "ਡਿਫੌਲਟ 'ਤੇ ਰੀਸੈੱਟ",
     "vibration_settings_section_length_ms": "ਅਵਧੀ (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync ਬੰਦ ਹੈ। Apple ਡਿਵਾਈਸ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ TigerDuck ਬੈਕਐਂਡ ਤੇ ਨਿਰਭਰ ਹਨ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਟੈਪ ਕਰੋ।",
     "settings_sync_toggle_label": "TigerSync ਸਮਰੱਥ ਕਰੋ",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity ਸੈਟਿੰਗਾਂ",
     "sync_courses_footer_platform_note": "ਪਲੇਟਫਾਰਮ ਦੀਆਂ ਸੀਮਾਵਾਂ ਕਾਰਨ, ਇਸਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ Live Activity ਅਤੇ ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ ਵੀ ਬੰਦ ਹੋ ਜਾਣਗੇ।"
   },
   "backend": {

@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "ชิปบนแถบสถานะ",
     "permission_warning_description": "สิทธิ์ต่อไปนี้เคยถูกอนุญาตไว้ก่อนหน้านี้ แต่ปัจจุบันถูกปิดใช้งานแล้ว การแจ้งเตือนและ Live Updates ที่เกี่ยวข้องอาจไม่แสดงผลอย่างถูกต้อง",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "การตั้งค่า Live Updates",
     "vibration_settings_motor_warning": "โทรศัพท์บางรุ่นมีมอเตอร์สั่นคุณภาพต่ำที่อาจไม่ตอบสนองต่อการสั่นที่อ่อนมากหรือสั้นมาก หากคุณรู้สึกไม่ได้ถึงการตั้งค่า ให้ลองเพิ่มความแรงหรือความยาว คุณสามารถเริ่มต้นด้วยการลองใช้ค่าตั้งต้น \"ปานกลาง\" ก่อน",
     "vibration_settings_revert": "รีเซ็ตเป็นค่าเริ่มต้น",
     "vibration_settings_section_length_ms": "ระยะเวลา (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "การTigerSyncปิดอยู่ อุปกรณ์ Apple ต้องอาศัยเซิร์ฟเวอร์ TigerDuck เพื่อรับการแจ้งเตือน แตะเพื่อดูข้อมูลเพิ่มเติม",
     "settings_sync_toggle_label": "เปิดใช้งานการTigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "การตั้งค่า Live Activity",
     "sync_courses_footer_platform_note": "เนื่องจากข้อจำกัดของแพลตฟอร์ม การปิดใช้งานนี้จะปิดใช้งาน Live Activity และการแจ้งเตือนการบ้านใกล้ครบกำหนดด้วย"
   },
   "backend": {

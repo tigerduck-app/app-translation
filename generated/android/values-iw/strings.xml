@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">מערכת שעות – צבעי קורסים</string>
     <string name="sync_content_class_table_names">מערכת שעות – שמות קורסים מותאמים אישית</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">הגדרות Live Updates</string>
     <string name="sync_content_nav_label">תוכן מסונכרן</string>
     <string name="sync_courses_footer">שולח את מערכת השעות המותאמת אישית שלך ואת מצב השלמת המטלות שלך לשרת לשימוש בכל המכשירים שלך. בחר מה לכלול למטה.</string>
     <string name="sync_courses_toggle">סנכרון מידע על קורסים</string>

@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">வகுப்பு அட்டவணை – பாடநெறி நிறங்கள்</string>
     <string name="sync_content_class_table_names">வகுப்பு அட்டவணை – தனிப்பயன் பாடநெறி பெயர்கள்</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates அமைப்புகள்</string>
     <string name="sync_content_nav_label">ஒத்திசைக்கப்பட்ட உள்ளடக்கம்</string>
     <string name="sync_courses_footer">உங்கள் தனிப்பயன் அட்டவணை மற்றும் பணி நிறைவு நிலையை உங்கள் சாதனங்கள் முழுவதும் பயன்படுத்த சேவையகத்திற்கு அனுப்புகிறது. கீழே என்ன சேர்க்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.</string>
     <string name="sync_courses_toggle">பாடநெறி தகவலை ஒத்திசை</string>

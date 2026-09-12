@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">वर्ग वेळापत्रक – अभ्यासक्रमांचे रंग</string>
     <string name="sync_content_class_table_names">वर्ग वेळापत्रक – सानुकूल अभ्यासक्रम नावे</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates सेटिंग्ज</string>
     <string name="sync_content_nav_label">सिंक केलेली सामग्री</string>
     <string name="sync_courses_footer">तुमचे सानुकूल वर्ग वेळापत्रक आणि असाइनमेंट पूर्णत्वाची स्थिती तुमच्या सर्व उपकरणांवर वापरण्यासाठी सर्व्हरवर पाठवते. खाली काय समाविष्ट करायचे ते निवडा.</string>
     <string name="sync_courses_toggle">अभ्यासक्रम माहिती सिंक करा</string>

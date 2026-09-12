@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Brikke i statuslinjen",
     "permission_warning_description": "Følgende tillatelser var tidligere aktivert, men er nå deaktivert. Relaterte varsler og Live Updates vises kanskje ikke riktig.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Innstillinger for Live Updates",
     "vibration_settings_motor_warning": "Noen telefoner har vibrasjonsmotorer av lavere kvalitet som kan ignorere veldig svake eller veldig korte vibrasjoner. Hvis du ikke kan kjenne en innstilling, prøv å øke styrken eller lengden. Du kan begynne med å prøve \"Middels\" forhåndsinnstillingen.",
     "vibration_settings_revert": "Gjenopprett standard",
     "vibration_settings_section_length_ms": "Varighet (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync er av. Apple-enheter er avhengige av TigerDuck-serveren for å motta varsler. Trykk for mer informasjon.",
     "settings_sync_toggle_label": "Aktiver TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Innstillinger for Live Activity",
     "sync_courses_footer_platform_note": "På grunn av plattformbegrensninger deaktiverer det å slå av dette også Live Activity og påminnelser om oppgavefrist."
   },
   "backend": {

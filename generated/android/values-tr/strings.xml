@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">Ders programı – ders renkleri</string>
     <string name="sync_content_class_table_names">Ders programı – özel ders adları</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates ayarları</string>
     <string name="sync_content_nav_label">Senkronize edilen içerik</string>
     <string name="sync_courses_footer">Tüm cihazlarınızda kullanabilmeniz için özel ders programınızı ve ödev tamamlanma durumunuzu sunucuya gönderir. Aşağıda nelerin dahil edileceğini seçin.</string>
     <string name="sync_courses_toggle">Ders bilgilerini senkronize et</string>

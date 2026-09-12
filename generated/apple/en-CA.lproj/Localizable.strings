@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Class table – course colours";
 "sync_content_class_table_names" = "Class table – custom course names";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity settings";
 "sync_content_nav_label" = "Synced content";
 "sync_courses_footer" = "Sends your custom timetable and assignment completion state to the server for use across your devices. Choose what to include below.";
 "sync_courses_footer_platform_note" = "Because of platform limits, turning this off also disables Live Activity and assignment due reminders.";

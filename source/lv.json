@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Statusa joslas mikroshēma",
     "permission_warning_description": "Tālāk minētās atļaujas iepriekš bija iespējotas, bet tagad ir atspējotas. Saistītie paziņojumi un Live Updates var netikt rādīti pareizi.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates iestatījumi",
     "vibration_settings_motor_warning": "Dažiem telefoniem ir zemākas kvalitātes vibrācijas motori, kas var ignorēt ļoti vājas vai ļoti īsas vibrācijas. Ja nevarat sajust kādu iestatījumu, mēģiniet palielināt tā stiprumu vai ilgumu. Varat sākt, izmēģinot \"Vidējs\" sākotnējo iestatījumu.",
     "vibration_settings_revert": "Atjaunot noklusējumu",
     "vibration_settings_section_length_ms": "Ilgums (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync ir izslēgta. Apple ierīces paļaujas uz TigerDuck serveri, lai saņemtu paziņojumus. Pieskarieties, lai uzzinātu vairāk.",
     "settings_sync_toggle_label": "Ieslēgt TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity iestatījumi",
     "sync_courses_footer_platform_note": "Platformas ierobežojumu dēļ šī izslēgšana atspējo arī Live Activity un uzdevumu termiņa atgādinājumus."
   },
   "backend": {

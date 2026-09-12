@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Stundu saraksts – kursu krāsas";
 "sync_content_class_table_names" = "Stundu saraksts – pielāgoti kursu nosaukumi";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity iestatījumi";
 "sync_content_nav_label" = "Sinhronizētais saturs";
 "sync_courses_footer" = "Nosūta jūsu pielāgoto stundu sarakstu un uzdevumu izpildes statusu uz serveri, lai izmantotu visās jūsu ierīcēs. Izvēlieties zemāk, ko iekļaut.";
 "sync_courses_footer_platform_note" = "Platformas ierobežojumu dēļ šī izslēgšana atspējo arī Live Activity un uzdevumu termiņa atgādinājumus.";

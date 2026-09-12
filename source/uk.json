@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Чип у рядку стану",
     "permission_warning_description": "Наведені нижче дозволи раніше були ввімкнені, але зараз вимкнені. Відповідні сповіщення та Live Updates можуть відображатися некоректно.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Налаштування Live Updates",
     "vibration_settings_motor_warning": "Деякі телефони мають вібромотори нижчої якості, які можуть ігнорувати дуже слабкі або дуже короткі вібрації. Якщо ви не відчуваєте певне налаштування, спробуйте збільшити його силу або тривалість. Ви можете почати з випробування попереднього налаштування «Середня».",
     "vibration_settings_revert": "Скинути до стандартних",
     "vibration_settings_section_length_ms": "Тривалість (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync вимкнено. Push-сповіщення та Live Updates недоступні.",
     "settings_sync_toggle_label": "Увімкнути TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Налаштування Live Activity",
     "sync_courses_footer_platform_note": "Через обмеження платформи вимкнення цього параметра також вимикає Live Activity та нагадування про дедлайн завдань."
   },
   "backend": {

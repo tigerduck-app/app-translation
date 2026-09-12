@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Stundenplan – Kursfarben";
 "sync_content_class_table_names" = "Stundenplan – Eigene Kursnamen";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity-Einstellungen";
 "sync_content_nav_label" = "Synchronisierte Inhalte";
 "sync_courses_footer" = "Sendet deinen individuellen Stundenplan und den Bearbeitungsstatus deiner Aufgaben an den Server zur geräteübergreifenden Nutzung. Wähle unten aus, was enthalten sein soll.";
 "sync_courses_footer_platform_note" = "Aufgrund von Plattformeinschränkungen deaktiviert das Ausschalten dieser Option auch Live Activity und Erinnerungen an fällige Aufgaben.";

@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">時間割 – コースの色</string>
     <string name="sync_content_class_table_names">時間割 – カスタムコース名</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">Live Updates 設定</string>
     <string name="sync_content_nav_label">同期コンテンツ</string>
     <string name="sync_courses_footer">カスタム時間割と課題の完了状況をサーバーに送信し、すべてのデバイス間で同期できるようにします。同期する項目は以下からお選びください。</string>
     <string name="sync_courses_toggle">コース情報を同期</string>

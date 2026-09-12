@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "क्लास टेबल – कोर्स के रंग";
 "sync_content_class_table_names" = "क्लास टेबल – कस्टम कोर्स नाम";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Live Activity सेटिंग";
 "sync_content_nav_label" = "सिंक सामग्री";
 "sync_courses_footer" = "आपकी कस्टम क्लास टेबल और असाइनमेंट पूर्णता स्थिति को आपके सभी डिवाइस पर उपयोग के लिए सर्वर पर भेजता है। नीचे चुनें कि इसमें क्या शामिल करना है।";
 "sync_courses_footer_platform_note" = "प्लेटफ़ॉर्म की सीमाओं के कारण, इसे बंद करने पर Live Activity और असाइनमेंट देय अनुस्मारक भी अक्षम हो जाते हैं।";

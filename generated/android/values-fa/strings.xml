@@ -780,7 +780,6 @@
     <string name="sync_content_class_table_colors">جدول کلاس‌ها – رنگ‌های دروس</string>
     <string name="sync_content_class_table_names">جدول کلاس‌ها – نام‌های سفارشی دروس</string>
     <string name="sync_content_live_activity">Live Updates</string>
-    <string name="sync_content_live_activity_settings_nav">تنظیمات Live Updates</string>
     <string name="sync_content_nav_label">محتوای همگام‌شده</string>
     <string name="sync_courses_footer">جدول کلاس‌های سفارشی و وضعیت تکمیل تکالیف شما را برای استفاده در همه دستگاه‌هایتان به سرور ارسال می‌کند. در زیر مشخص کنید چه مواردی لحاظ شوند.</string>
     <string name="sync_courses_toggle">همگام‌سازی اطلاعات دروس</string>

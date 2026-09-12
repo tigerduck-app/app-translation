@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Būsenos juostos lustas",
     "permission_warning_description": "Toliau nurodyti leidimai anksčiau buvo įjungti, tačiau dabar yra išjungti. Susiję pranešimai ir Live Updates gali būti rodomi neteisingai.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates nustatymai",
     "vibration_settings_motor_warning": "Kai kuriuose telefonuose yra žemesnės kokybės vibromotoriai, kurie gali ignoruoti labai silpnas arba labai trumpas vibracijas. Jei negalite pajusti nustatymo, pabandykite padidinti jo stiprumą arba ilgį. Galite pradėti išbandydami \"Vidutinis\" išankstinį nustatymą.",
     "vibration_settings_revert": "Atkurti numatytuosius",
     "vibration_settings_section_length_ms": "Trukmė (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync išjungtas. Apple įrenginiai priklauso nuo TigerDuck serverio pranešimams gauti. Palieskite daugiau informacijos.",
     "settings_sync_toggle_label": "Įjungti TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity nustatymai",
     "sync_courses_footer_platform_note": "Dėl platformos apribojimų, tai išjungus taip pat išjungiami Live Activity ir užduočių terminų priminimai."
   },
   "backend": {

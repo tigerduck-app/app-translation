@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip in de statusbalk",
     "permission_warning_description": "De volgende machtigingen waren eerder ingeschakeld, maar zijn nu uitgeschakeld. Bijbehorende meldingen en Live Updates worden mogelijk niet correct weergegeven.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Instellingen voor Live Updates",
     "vibration_settings_motor_warning": "Sommige telefoons hebben vibratieomoren van lagere kwaliteit die zeer zwakke of zeer korte trillingen kunnen negeren. Als u een instelling niet voelt, probeer dan de sterkte of lengte te verhogen. U kunt beginnen met het uitproberen van de voorinstelling \"Gemiddeld\".",
     "vibration_settings_revert": "Standaard herstellen",
     "vibration_settings_section_length_ms": "Duur (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync is uitgeschakeld. Apple-apparaten zijn afhankelijk van de TigerDuck-server voor het ontvangen van meldingen. Tik voor meer informatie.",
     "settings_sync_toggle_label": "TigerSync inschakelen",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Instellingen voor Live Activity",
     "sync_courses_footer_platform_note": "Vanwege platformbeperkingen schakelt het uitzetten hiervan ook Live Activity en herinneringen voor opdrachtdeadlines uit."
   },
   "backend": {

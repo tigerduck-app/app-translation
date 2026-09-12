@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip trên thanh trạng thái",
     "permission_warning_description": "Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và Live Updates liên quan có thể không hiển thị đúng.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Cài đặt Live Updates",
     "vibration_settings_motor_warning": "Một số điện thoại có động cơ rung chất lượng thấp hơn có thể bỏ qua những rung động rất yếu hoặc rất ngắn. Nếu bạn không cảm nhận được một cài đặt, hãy thử tăng cường độ hoặc độ dài của nó. Bạn có thể bắt đầu bằng cách thử cài đặt trước \"Vừa\" trước.",
     "vibration_settings_revert": "Đặt lại mặc định",
     "vibration_settings_section_length_ms": "Thời lượng (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync đang tắt. Thiết bị Apple cần máy chủ TigerDuck để nhận thông báo. Nhấn để biết thêm.",
     "settings_sync_toggle_label": "Bật TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Cài đặt Live Activity",
     "sync_courses_footer_platform_note": "Do giới hạn nền tảng, tắt tính năng này cũng sẽ vô hiệu hoá Live Activity và nhắc bài tập sắp đến hạn."
   },
   "backend": {

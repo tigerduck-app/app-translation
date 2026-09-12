@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "स्टेटस बार चिप",
     "permission_warning_description": "खालील परवानग्या आधी सक्षम होत्या परंतु आता अक्षम केल्या आहेत. संबंधित अधिसूचना आणि Live Updates योग्यरित्या दिसणार नाहीत.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates सेटिंग्ज",
     "vibration_settings_motor_warning": "काही फोनमध्ये कमी दर्जाचे व्हायब्रेशन मोटर असतात जे खूप कमकुवत किंवा खूप कमी कालावधीचे व्हायब्रेशन दुर्लक्षित करू शकतात. जर एखादी सेटिंग जाणवत नसेल, तर त्याची शक्ती किंवा लांबी वाढवण्याचा प्रयत्न करा. तुम्ही प्रथम \"मध्यम\" प्रीसेट वापरून पाहू शकता।",
     "vibration_settings_revert": "डीफॉल्टवर रीसेट करा",
     "vibration_settings_section_length_ms": "कालावधी (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync बंद आहे. Apple डिव्हाइसेसना सूचना मिळवण्यासाठी TigerDuck बॅकएंडवर अवलंबून आहे. अधिक माहितीसाठी टॅप करा.",
     "settings_sync_toggle_label": "TigerSync चालू करा",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity सेटिंग्ज",
     "sync_courses_footer_platform_note": "प्लॅटफॉर्मच्या मर्यादांमुळे, हे बंद केल्यास Live Activity आणि असाइनमेंट मुदत स्मरणपत्रे देखील अक्षम होतील."
   },
   "backend": {

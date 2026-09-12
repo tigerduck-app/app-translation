@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Durum çubuğu çipi",
     "permission_warning_description": "Aşağıdaki izinler daha önce etkindi ancak şu anda devre dışı. İlgili bildirimler ve Live Updates düzgün görüntülenmeyebilir.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Live Updates ayarları",
     "vibration_settings_motor_warning": "Bazı telefonlarda çok zayıf veya çok kısa titreşimleri görmezden gelebilecek daha düşük kaliteli titreşim motorları bulunur. Bir ayarı hissedemiyorsanız gücünü veya uzunluğunu artırmayı deneyin. \"Orta\" ön ayarını deneyerek başlayabilirsiniz.",
     "vibration_settings_revert": "Varsayılana sıfırla",
     "vibration_settings_section_length_ms": "Süre (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync kapalı. Push bildirimleri ve Canlı Güncellemeler kullanılamaz.",
     "settings_sync_toggle_label": "TigerSync'i etkinleştir",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Live Activity ayarları",
     "sync_courses_footer_platform_note": "Platform sınırlamaları nedeniyle bunu kapatmak Live Activity özelliğini ve ödev teslim hatırlatıcılarını da devre dışı bırakır."
   },
   "backend": {

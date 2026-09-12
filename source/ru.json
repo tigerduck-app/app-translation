@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Чип в строке состояния",
     "permission_warning_description": "Следующие разрешения ранее были включены, но сейчас отключены. Соответствующие уведомления и Live Updates могут отображаться некорректно.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Настройки Live Updates",
     "vibration_settings_motor_warning": "На некоторых телефонах установлены вибромоторы более низкого качества, которые могут игнорировать очень слабые или очень короткие вибрации. Если вы не ощущаете настройку, попробуйте увеличить её силу или длину. Для начала рекомендуем попробовать предустановку «Средняя».",
     "vibration_settings_revert": "Сбросить к умолчанию",
     "vibration_settings_section_length_ms": "Длительность (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "TigerSync отключён. Push-уведомления и Live Updates недоступны.",
     "settings_sync_toggle_label": "Включить TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Настройки Live Activity",
     "sync_courses_footer_platform_note": "Из-за ограничений платформы отключение этого параметра также отключает Live Activity и напоминания о сроках сдачи заданий."
   },
   "backend": {

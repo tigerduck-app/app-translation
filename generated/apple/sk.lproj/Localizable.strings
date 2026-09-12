@@ -764,7 +764,6 @@
 "sync_content_class_table_colors" = "Rozvrh – farby predmetov";
 "sync_content_class_table_names" = "Rozvrh – vlastné názvy predmetov";
 "sync_content_live_activity" = "Live Activity";
-"sync_content_live_activity_settings_nav" = "Nastavenia Live Activity";
 "sync_content_nav_label" = "Synchronizovaný obsah";
 "sync_courses_footer" = "Odosiela váš vlastný rozvrh a stav dokončenia úloh na server, aby ste ich mohli používať na všetkých svojich zariadeniach. Nižšie vyberte, čo chcete zahrnúť.";
 "sync_courses_footer_platform_note" = "Kvôli obmedzeniam platformy vypnutie tejto možnosti zároveň vypne aj Live Activity a pripomienky termínov úloh.";

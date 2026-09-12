@@ -884,7 +884,6 @@
     "permission_promoted_notifications_name": "Chip sa status bar",
     "permission_warning_description": "Ang mga sumusunod na pahintulot ay dati nang pinagana ngunit naka-disable na ngayon. Maaaring hindi wastong maipakita ang mga kaugnay na notification at Live Updates.",
     "sync_content_live_activity": "Live Updates",
-    "sync_content_live_activity_settings_nav": "Mga Setting ng Live Updates",
     "vibration_settings_motor_warning": "Ang ilang mga telepono ay may mas mababang kalidad na vibration motor na maaaring hindi mapansin ang napakahina o napakaikling vibration. Kung hindi mo maramdaman ang isang setting, subukang itaas ang lakas o haba nito. Maaari kang magsimula sa pamamagitan ng pagsubok sa \"Katamtaman\" na preset muna.",
     "vibration_settings_revert": "I-reset sa default",
     "vibration_settings_section_length_ms": "Haba (ms)",
@@ -922,7 +921,6 @@
     "settings_sync_off_notifications_warning": "Naka-off ang TigerSync. Umaasa ang mga Apple device sa TigerDuck backend para makatanggap ng mga notification. I-tap para sa karagdagang impormasyon.",
     "settings_sync_toggle_label": "I-enable ang TigerSync",
     "sync_content_live_activity": "Live Activity",
-    "sync_content_live_activity_settings_nav": "Mga Setting ng Live Activity",
     "sync_courses_footer_platform_note": "Dahil sa mga limitasyon ng platform, ang pag-off nito ay nag-disable din sa Live Activity at sa mga paalala sa takdang-aralin."
   },
   "backend": {
