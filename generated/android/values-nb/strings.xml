@@ -185,7 +185,7 @@
     <string name="cloud_sync_class_table">Timeplan</string>
     <string name="cloud_sync_class_table_footer">Velg hvilke timeplandata som skal synkroniseres mellom enheter.</string>
     <string name="cloud_sync_class_table_sync">Timeplansynkronisering</string>
-    <string name="cloud_sync_course_colours">Emnfarger</string>
+    <string name="cloud_sync_course_colours">Emnefarger</string>
     <string name="cloud_sync_courses">Emner</string>
     <string name="cloud_sync_custom_course_names">Egendefinerte emnenavn</string>
     <string name="cloud_sync_device_id">Device ID</string>
