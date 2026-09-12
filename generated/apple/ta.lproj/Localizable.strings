@@ -11,7 +11,7 @@
 "a11y_rankings_trend_no_selection" = "பருவம் தேர்வு செய்யப்படவில்லை";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
 "a11y_time_slider_swipe_hint" = "நேரத்தை மாற்ற இடது அல்லது வலது பக்கமாக ஸ்வைப் செய்யவும்";
-"a11y_timetable_cell" = "%1$@ period %2$@: %3$@";
+"a11y_timetable_cell" = "%1$@ பீரியட் %2$@: %3$@";
 "action_add" = "சேர்";
 "action_allow" = "அனுமதி";
 "action_back" = "பின்செல்";
@@ -26,7 +26,7 @@
 "action_remove" = "அகற்று";
 "action_reset" = "மீட்டமை";
 "action_retry" = "மீண்டும் முயற்சி செய்யவும்";
-"action_save" = "Save";
+"action_save" = "சேமி";
 "action_search" = "தேடு";
 "action_sign_in" = "உள்நுழைவு";
 "action_sign_in_again" = "மீண்டும் உள்நுழைக";
@@ -121,7 +121,7 @@
 "bulletin_rule_editor_mode_or_footer" = "துறை அல்லது வகை பொருந்தும்போது தெரிவிக்கவும்.";
 "bulletin_rule_editor_mode_section" = "பயன்முறை";
 "bulletin_rule_editor_name_placeholder" = "எ.கா.: கல்வி + உதவித்தொகை";
-"bulletin_rule_editor_name_section" = "Name";
+"bulletin_rule_editor_name_section" = "பெயர்";
 "bulletin_rule_editor_selected_count" = "%1$d தேர்ந்தெடுக்கப்பட்டது";
 "bulletin_rule_editor_tag_section" = "வகை";
 "bulletin_rule_filter_separator" = ", ";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "இந்த நாளில் நிகழ்வுகள் இல்லை";
 "calendar_no_events_today" = "இன்று நிகழ்வுகள் இல்லை";
 "calendar_previous_month" = "கடந்த மாதம்";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "%1$@ முடிவு";
+"calendar_semester_start" = "%1$@ தொடக்கம்";
 "calendar_source_exam" = "தேர்வு";
 "calendar_source_holiday" = "விடுமுறை";
 "calendar_source_moodle" = "Moodle";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "சாதனங்களுக்கிடையில் எந்த வகுப்பு அட்டவணை தரவை ஒத்திசைக்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.";
 "cloud_sync_class_table_sync" = "வகுப்பு அட்டவணை ஒத்திசைவு";
 "cloud_sync_course_colours" = "பாடநெறி நிறங்கள்";
-"cloud_sync_courses" = "பாடநெறிகள்";
 "cloud_sync_custom_course_names" = "தனிப்பயன் பாடநெறி பெயர்கள்";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "சாதன ID";
 "cloud_sync_device_section" = "சாதனம்";
 "cloud_sync_disable_button" = "TigerSync முடக்கு";
 "cloud_sync_disable_confirm_action" = "முடக்கு";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "TigerSync முடக்கவா?";
 "cloud_sync_disabled_footer" = "உங்கள் சாதனங்களுக்கிடையில் அட்டவணை திருத்தங்கள், பணி நிலைகள் மற்றும் அமைப்புகளை ஒத்திசைக்கவும், சேவையகம் உங்களுக்காக அவ்வப்போது Moodle பணிகளைப் பெறும்.";
 "cloud_sync_enable_button" = "TigerSync இயக்கு";
-"cloud_sync_last_synced_label" = "கடைசி ஒத்திசைவு";
-"cloud_sync_last_synced_never" = "இன்னும் ஒத்திசைக்கப்படவில்லை";
 "cloud_sync_privacy_body" = "TigerSync இயக்கப்பட்டால், உங்கள் பள்ளி-அமைப்பு கடவுச்சொல் மற்றும் Moodle டோக்கன் மறைகுறியாக்கம் செய்யப்பட்டு TigerDuck சேவையகத்தில் பதிவேற்றப்படும், அங்கு அவை உங்கள் சார்பாக அவ்வப்போது Moodle பணிகளைப் பெறவும், உங்கள் சாதனங்களுக்கிடையில் அட்டவணை திருத்தங்கள், பணி நிலைகள் மற்றும் அமைப்புகளை ஒத்திசைக்கவும் பயன்படுத்தப்படும்.\n\nTigerSync எந்த நேரத்திலும் முடக்கலாம். முடக்குவது இந்த சாதனத்தை வெளியேற்றி, சேவையகத்தில் அதன் பதிவை ரத்து செய்யும் (புஷ் சான்றுகள் உட்பட); பதிவேற்றப்பட்ட கணக்கு சான்றுகள் மற்ற ஒத்திசைக்கப்பட்ட சாதனங்கள் பயன்படுத்தும் வரை மட்டுமே சேவையகத்தில் இருக்கும். உள்ளூர் தரவு பாதிக்கப்படாது.";
 "cloud_sync_privacy_confirm" = "ஏற்று இயக்கு";
 "cloud_sync_privacy_title" = "TigerSync & தனியுரிமை";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "உள்நுழைகிறது…";
 "cloud_sync_step_register" = "சாதனத்தைப் பதிவு செய்கிறது…";
 "cloud_sync_step_upload" = "தரவைப் பதிவேற்றுகிறது…";
-"cloud_sync_sync_now" = "இப்போது ஒத்திசை";
 "cloud_sync_sync_options" = "ஒத்திசைவு விருப்பங்கள்";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "நீலம்";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "உள்நுழையவில்லை";
 "library_status_signed_in" = "உள்நுழைந்துள்ளது";
 "library_virtual_pass_title" = "மெய்நிகர் பாஸ்";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "காலம் கடந்தது";
+"live_activity_countdown_done_class_preparing" = "தொடங்கியது";
+"live_activity_countdown_done_in_class" = "முடிந்தது";
 "live_activity_settings_assignment_notification_footer" = "ஒரு பணி காலக்கெடுவிற்கு முன் உங்களுக்கு அறிவிப்பு வரும்.";
 "live_activity_settings_assignment_notification_header" = "பணி அறிவிப்புகள்";
 "live_activity_settings_assignment_warning" = "ஒப்படைப்பு எச்சரிக்கை";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "அறிவிப்புகளை மீண்டும் கட்டமை";
 "onboarding_analytics_description" = "அநாமதேய பக்க வருகைகள் மற்றும் விட்ஜெட் பயன்பாட்டை பகிர்ந்து TigerDuck-ஐ மேம்படுத்த உதவுங்கள். இதை எப்போது வேண்டுமானாலும் அமைப்புகளில் மாற்றலாம்.";
 "onboarding_analytics_label" = "பயன்பாட்டு பகுப்பாய்வு (விரும்பினால்)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "தனிப்பயன் API எண்ட்பாயிண்டைப் பயன்படுத்து";
 "onboarding_permissions_subtitle" = "App மூடியிருக்கும்போதும் ஒப்படைப்பு மற்றும் வகுப்பு நினைவூட்டல்கள் சரியான நேரத்தில் வர இந்த அனுமதிகளை வழங்கவும். இவற்றை பின்னர் அமைப்புகளில் மாற்றலாம்.";
 "onboarding_permissions_title" = "அறிவிப்பு மற்றும் நினைவூட்டல் அனுமதிகள்";
 "onboarding_privacy_continue_hint" = "தொடர இரண்டு உருப்படிகளையும் உறுதிப்படுத்தவும்";
@@ -522,7 +518,7 @@
 "onboarding_sync_note" = "ஒத்திசைவு முடக்கப்பட்டிருக்கும்போது, எல்லா தரவும் இந்தச் சாதனத்தில் மட்டுமே இருக்கும். வீட்டுப்பாட நினைவூட்டல்களுக்கான புஷ் அறிவிப்புகள் TigerSync இல்லாமல் உள்ளூரில் செயல்படும்.";
 "onboarding_sync_shared_assignments" = "பணி தரவு";
 "onboarding_sync_shared_courses" = "பாடநெறி தரவு";
-"onboarding_sync_shared_device_id" = "Device ID";
+"onboarding_sync_shared_device_id" = "சாதன ID";
 "onboarding_sync_shared_moodle_token" = "Moodle டோக்கன் (குறியாக்கம்)";
 "onboarding_sync_shared_student_id" = "மாணவர் ID";
 "onboarding_sync_subtitle" = "TigerSync உங்கள் பாடநெறிகள், ஒப்படைப்புகள் மற்றும் அமைப்புகளை உங்கள் அனைத்து சாதனங்களிலும் ஒத்திசைவாக வைத்திருக்கிறது. TigerSync அமைப்புகளில் எதை ஒத்திசைக்க வேண்டும் என்பதை நீங்கள் துல்லியமாகத் தேர்வுசெய்யலாம். புஷ் அறிவிப்புகள் மற்றும் Live Activity க்கு TigerSync தேவை.";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "சர்வர் புஷ் இயக்கு";
 "push_server_footer" = "நிகழ்நேர பள்ளி அறிவிப்பு அறிவிப்புகளை பெறவும் மற்றும் நினைவூட்டல்களை தீவிரமாக தூண்டவும் பயன்படுகிறது.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "கடைசி பதிவு";
-"push_server_last_sync" = "கடைசி ஒத்திசைவு";
 "push_server_latest_error" = "சமீபத்திய பிழை";
 "push_server_notification_status_authorized" = "அங்கீகரிக்கப்பட்டது";
 "push_server_notification_status_denied_hint" = "மறுக்கப்பட்டது (மீண்டும் இயக்க கணினி அமைப்புகளைத் திறக்கவும்)";
@@ -564,11 +558,10 @@
 "push_server_status_device_registration" = "சாதன பதிவு";
 "push_server_status_done" = "முடிந்தது";
 "push_server_status_enabled" = "இயக்கப்பட்டது";
-"push_server_status_live_activities" = "நேரடி செயல்பாடுகள்";
-"push_server_status_section" = "Status";
+"push_server_status_live_activities" = "Live Activities";
+"push_server_status_section" = "நிலை";
 "push_server_status_settings_hint" = "சிஸ்டம் நிலையில் முடக்கப்பட்டுள்ளது → அமைப்புகள் → TigerDuck → இயக்கு";
 "push_server_status_waiting_token" = "கணினி token வழங்குவதற்காக காத்திருக்கிறது";
-"push_server_sync_now_action" = "இப்போது ஒத்திசை";
 "refreshing_message" = "புதுப்பிக்கிறோம்… கொஞ்சம் காத்திருங்கள்";
 "score_academic_year_semester" = "கல்வியாண்டு %1$@ %2$@";
 "score_course_credits" = "%1$d கிரெடிட்கள்";
@@ -683,7 +676,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "கணினியைப் பின்பற்று (மாற்று: ஆங்கிலம்)";
 "settings_language_traditional_chinese" = "பாரம்பரிய சீனம்";
-"settings_learn_more_backend" = "TigerDuck பின்தளம் பற்றி மேலும் அறிக";
+"settings_learn_more_backend" = "TigerSync பற்றி மேலும் அறிக";
 "settings_library_account_subtitle" = "பாஸ்வேர்ட் கல்வி அமைப்பிலிருந்து வேறுபடலாம்; இயல்புநிலை உங்கள் தேசிய அடையாள எண்";
 "settings_library_feature_disabled_message" = "நூலக QR Code குறுக்குவழியை பயன்படுத்த முதலில் \"நூலகம் மற்றும் தொடர்பான அம்சங்கள்\" இயக்கவும்.";
 "settings_library_feature_disabled_title" = "நூலக அம்சம் முடக்கப்பட்டுள்ளது";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "UI மொழிபெயர்ப்பு";
 "source_code_picker_repo_web_description" = "அதிகாரப்பூர்வ வலைத்தளம்";
 "source_code_picker_section_repositories" = "களஞ்சியங்கள்";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "உள்ளூர்: %1$@ → சேவையகம்: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "இந்த சாதனத்திற்கும் சேவையகத்திற்கும் இடையே சில உருப்படிகள் வேறுபடுகின்றன:";
 "sync_conflict_reenable_assignments_differ" = "பணி நிலை: சேவையகத்தில் வேறுபட்டது";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "உள்ளூர் பயன்படுத்து";
 "sync_conflict_use_server" = "சேவையகம் பயன்படுத்து";
 "sync_content_assignment_reminders" = "ஒப்படைப்பு காலக்கெடு நினைவூட்டல்கள்";
-"sync_content_class_table_all" = "வகுப்பு அட்டவணை – அனைத்து பாடநெறிகள்";
-"sync_content_class_table_colors" = "வகுப்பு அட்டவணை – பாடநெறி நிறங்கள்";
-"sync_content_class_table_names" = "வகுப்பு அட்டவணை – தனிப்பயன் பாடநெறி பெயர்கள்";
+"sync_content_class_table_all" = "அனைத்து பாடநெறிகள்";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "ஒத்திசைக்கப்பட்ட உள்ளடக்கம்";
 "sync_courses_footer" = "உங்கள் தனிப்பயன் அட்டவணை மற்றும் பணி நிறைவு நிலையை உங்கள் சாதனங்கள் முழுவதும் பயன்படுத்த சேவையகத்திற்கு அனுப்புகிறது. கீழே என்ன சேர்க்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "இப்போது ஒத்திசை";
 "watch_starts_at" = "%1$@ மணிக்கு தொடங்கும்";
 "watch_starts_in_minutes" = "%1$d நிமிடங்களில் தொடங்கும்";
-"watch_today" = "Today";
+"watch_today" = "இன்று";
 "watch_tomorrow_at" = "நாளை · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "அடுத்த வகுப்பு";

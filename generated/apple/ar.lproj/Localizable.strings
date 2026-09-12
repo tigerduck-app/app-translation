@@ -26,7 +26,7 @@
 "action_remove" = "إزالة";
 "action_reset" = "إعادة الضبط";
 "action_retry" = "أعد المحاولة";
-"action_save" = "Save";
+"action_save" = "حفظ";
 "action_search" = "بحث";
 "action_sign_in" = "تسجيل الدخول";
 "action_sign_in_again" = "قم بتسجيل الدخول مرة أخرى";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "لا توجد أحداث في هذا اليوم";
 "calendar_no_events_today" = "لا توجد أحداث اليوم";
 "calendar_previous_month" = "الشهر السابق";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "نهاية %1$@";
+"calendar_semester_start" = "بداية %1$@";
 "calendar_source_exam" = "اختبار";
 "calendar_source_holiday" = "عطلة";
 "calendar_source_moodle" = "Moodle";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "اختر بيانات جدول الحصص التي تريد مزامنتها بين الأجهزة.";
 "cloud_sync_class_table_sync" = "مزامنة جدول الحصص";
 "cloud_sync_course_colours" = "ألوان المقررات";
-"cloud_sync_courses" = "المقررات";
 "cloud_sync_custom_course_names" = "أسماء المقررات المخصصة";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "معرّف الجهاز";
 "cloud_sync_device_section" = "الجهاز";
 "cloud_sync_disable_button" = "تعطيل TigerSync";
 "cloud_sync_disable_confirm_action" = "تعطيل";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "تعطيل TigerSync؟";
 "cloud_sync_disabled_footer" = "مزامنة تعديلات الجدول وحالات الواجبات والإعدادات بين أجهزتك، مع قيام الخادم بجلب واجبات Moodle دوريًا نيابةً عنك.";
 "cloud_sync_enable_button" = "تفعيل TigerSync";
-"cloud_sync_last_synced_label" = "آخر مزامنة";
-"cloud_sync_last_synced_never" = "لم تتم المزامنة بعد";
 "cloud_sync_privacy_body" = "عند تفعيل TigerSync، يتم تشفير كلمة مرور نظام المدرسة ورمز Moodle الخاص بك ورفعهما إلى خادم TigerDuck، حيث يُستخدمان لجلب واجبات Moodle دوريًا نيابةً عنك ولمزامنة تعديلات الجدول وحالات الواجبات والإعدادات بين أجهزتك.\n\nيمكنك تعطيل TigerSync في أي وقت. سيؤدي التعطيل إلى تسجيل الخروج من هذا الجهاز وإلغاء تسجيله على الخادم (بما في ذلك بيانات الإشعارات)؛ تبقى بيانات الحساب المرفوعة على الخادم فقط طالما تستخدمها أجهزة أخرى مفعّلة للمزامنة. لن تتأثر البيانات المحلية.";
 "cloud_sync_privacy_confirm" = "الموافقة والتفعيل";
 "cloud_sync_privacy_title" = "TigerSync والخصوصية";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "جارٍ تسجيل الدخول…";
 "cloud_sync_step_register" = "جارٍ تسجيل الجهاز…";
 "cloud_sync_step_upload" = "جارٍ رفع البيانات…";
-"cloud_sync_sync_now" = "مزامنة الآن";
 "cloud_sync_sync_options" = "خيارات المزامنة";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "أزرق";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "غير مسجَّل الدخول";
 "library_status_signed_in" = "مسجَّل الدخول";
 "library_virtual_pass_title" = "التصريح الافتراضي";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "مستحق";
+"live_activity_countdown_done_class_preparing" = "بدأ";
+"live_activity_countdown_done_in_class" = "انتهى";
 "live_activity_settings_assignment_notification_footer" = "سيتم إعلامك قبل استحقاق المهمة.";
 "live_activity_settings_assignment_notification_header" = "إشعارات الواجب";
 "live_activity_settings_assignment_warning" = "تنبيه الواجب";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "إعادة ضبط الإشعارات";
 "onboarding_analytics_description" = "ساعد في تحسين TigerDuck بمشاركة زيارات الصفحات واستخدام الأدوات بشكل مجهول. يمكنك تغيير هذا في أي وقت من الإعدادات.";
 "onboarding_analytics_label" = "تحليلات الاستخدام (اختياري)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "استخدام نقطة نهاية API مخصصة";
 "onboarding_permissions_subtitle" = "امنح هذه الأذونات لتصل تذكيرات الواجبات والمحاضرات في وقتها حتى عند إغلاق التطبيق. يمكنك تغييرها لاحقًا في الإعدادات.";
 "onboarding_permissions_title" = "أذونات الإشعارات والتذكيرات";
 "onboarding_privacy_continue_hint" = "يرجى تأكيد البندين للمتابعة";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "تمكين دفع الخادم";
 "push_server_footer" = "يُستخدم لتلقي إشعارات النشرات المدرسية في الوقت الفعلي ولتنشيط التذكيرات.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "التسجيل الأخير";
-"push_server_last_sync" = "آخر مزامنة";
 "push_server_latest_error" = "خطأ حديث";
 "push_server_notification_status_authorized" = "أذن";
 "push_server_notification_status_denied_hint" = "مرفوض (افتح إعدادات النظام لإعادة التمكين)";
@@ -564,11 +558,10 @@
 "push_server_status_device_registration" = "تسجيل الجهاز";
 "push_server_status_done" = "مكتمل";
 "push_server_status_enabled" = "ممكّن";
-"push_server_status_live_activities" = "النشاط المباشر";
+"push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "حالة";
 "push_server_status_settings_hint" = "معطّل على مستوى النظام → إعدادات → TigerDuck → تمكين";
 "push_server_status_waiting_token" = "في انتظار تعيين token من النظام";
-"push_server_sync_now_action" = "مزامنة الآن";
 "refreshing_message" = "جارٍ التحديث… انتظر قليلًا";
 "score_academic_year_semester" = "العام الدراسي %1$@ %2$@";
 "score_course_credits" = "%1$d ساعات معتمدة";
@@ -683,7 +676,7 @@
 "settings_language_english" = "الإنجليزية";
 "settings_language_follow_system" = "اتباع النظام (الإنجليزية كلغة احتياطية)";
 "settings_language_traditional_chinese" = "الصينية التقليدية";
-"settings_learn_more_backend" = "تعرّف على المزيد حول خادم TigerDuck";
+"settings_learn_more_backend" = "تعرّف على المزيد حول TigerSync";
 "settings_library_account_subtitle" = "قد تختلف كلمة المرور عن النظام الأكاديمي؛ افتراضيًا هي رقم الهوية الوطنية";
 "settings_library_feature_disabled_message" = "فعّل أولًا \"المكتبة والميزات ذات الصلة\"، ثم استخدم اختصار QR Code للمكتبة.";
 "settings_library_feature_disabled_title" = "ميزة المكتبة معطّلة";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "ترجمة الواجهة";
 "source_code_picker_repo_web_description" = "الموقع الرسمي";
 "source_code_picker_section_repositories" = "المستودعات";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "محلي: %1$@ → الخادم: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "بعض العناصر تختلف بين هذا الجهاز والخادم:";
 "sync_conflict_reenable_assignments_differ" = "حالة الواجبات: مختلفة على الخادم";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "استخدام المحلي";
 "sync_conflict_use_server" = "استخدام الخادم";
 "sync_content_assignment_reminders" = "تذكيرات استحقاق الواجبات";
-"sync_content_class_table_all" = "جدول الحصص – جميع المقررات";
-"sync_content_class_table_colors" = "جدول الحصص – ألوان المقررات";
-"sync_content_class_table_names" = "جدول الحصص – أسماء المقررات المخصصة";
+"sync_content_class_table_all" = "جميع المقررات";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "المحتوى المتزامن";
 "sync_courses_footer" = "يرسل جدول حصصك المخصص وحالة إنجاز واجباتك إلى الخادم لاستخدامها عبر جميع أجهزتك. اختر ما تريد تضمينه أدناه.";
@@ -807,7 +798,7 @@
 "watch_course_detail_title" = "المقرر";
 "watch_course_instructor_label" = "المُدرِّس";
 "watch_empty_not_signed_in" = "غير مسجّل الدخول. افتح TigerDuck على هاتفك.";
-"watch_just_now" = "Just now";
+"watch_just_now" = "للتو";
 "watch_last_synced_never" = "لم تتم المزامنة قط";
 "watch_last_synced_relative" = "آخر مزامنة %1$@";
 "watch_next" = "التالي";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "مزامنة الآن";
 "watch_starts_at" = "يبدأ %1$@";
 "watch_starts_in_minutes" = "يبدأ خلال %1$d دقيقة";
-"watch_today" = "Today";
+"watch_today" = "اليوم";
 "watch_tomorrow_at" = "غدًا · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "المحاضرة التالية";

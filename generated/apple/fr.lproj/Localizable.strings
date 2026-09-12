@@ -26,7 +26,7 @@
 "action_remove" = "Supprimer";
 "action_reset" = "Réinitialiser";
 "action_retry" = "Réessayer";
-"action_save" = "Save";
+"action_save" = "Enregistrer";
 "action_search" = "Rechercher";
 "action_sign_in" = "Se connecter";
 "action_sign_in_again" = "Se reconnecter";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "Aucun événement ce jour";
 "calendar_no_events_today" = "Aucun événement aujourd'hui";
 "calendar_previous_month" = "Mois précédent";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "Fin de %1$@";
+"calendar_semester_start" = "Début de %1$@";
 "calendar_source_exam" = "Examen";
 "calendar_source_holiday" = "Jour férié";
 "calendar_source_moodle" = "Moodle";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "Choisissez quelles données de l'emploi du temps synchroniser entre les appareils.";
 "cloud_sync_class_table_sync" = "Synchronisation de l'emploi du temps";
 "cloud_sync_course_colours" = "Couleurs des cours";
-"cloud_sync_courses" = "Cours";
 "cloud_sync_custom_course_names" = "Noms de cours personnalisés";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "ID de l'appareil";
 "cloud_sync_device_section" = "Appareil";
 "cloud_sync_disable_button" = "Désactiver TigerSync";
 "cloud_sync_disable_confirm_action" = "Désactiver";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "Désactiver TigerSync ?";
 "cloud_sync_disabled_footer" = "Synchronisez les modifications de l'emploi du temps, les états des devoirs et les paramètres entre vos appareils, le serveur récupérant périodiquement les devoirs Moodle pour vous.";
 "cloud_sync_enable_button" = "Activer TigerSync";
-"cloud_sync_last_synced_label" = "Dernière synchronisation";
-"cloud_sync_last_synced_never" = "Pas encore synchronisé";
 "cloud_sync_privacy_body" = "Lorsque TigerSync est activé, votre mot de passe du système scolaire et votre jeton Moodle sont chiffrés et envoyés au serveur TigerDuck, où ils sont utilisés pour récupérer périodiquement les devoirs Moodle en votre nom et pour synchroniser les modifications de l'emploi du temps, les états des devoirs et les paramètres entre vos appareils.\n\nVous pouvez désactiver TigerSync à tout moment. La désactivation déconnecte cet appareil et révoque son inscription sur le serveur (y compris les identifiants push) ; les identifiants du compte envoyés restent sur le serveur uniquement tant que d'autres appareils synchronisés les utilisent. Les données locales ne sont pas affectées.";
 "cloud_sync_privacy_confirm" = "Accepter et activer";
 "cloud_sync_privacy_title" = "TigerSync et confidentialité";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "Connexion…";
 "cloud_sync_step_register" = "Enregistrement de l'appareil…";
 "cloud_sync_step_upload" = "Envoi des données…";
-"cloud_sync_sync_now" = "Synchroniser";
 "cloud_sync_sync_options" = "Options de synchronisation";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "Bleu";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "Non connecté";
 "library_status_signed_in" = "Connecté";
 "library_virtual_pass_title" = "Pass virtuel";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "En retard";
+"live_activity_countdown_done_class_preparing" = "Commencé";
+"live_activity_countdown_done_in_class" = "Terminé";
 "live_activity_settings_assignment_notification_footer" = "Vous recevrez une notification avant l'échéance d'une tâche.";
 "live_activity_settings_assignment_notification_header" = "Notifications d'affectation";
 "live_activity_settings_assignment_warning" = "Alerte de devoir";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "Reconfigurer les notifications";
 "onboarding_analytics_description" = "Aide à améliorer TigerDuck en partageant de façon anonyme tes visites de pages et l'utilisation des widgets. Tu peux modifier ça à tout moment dans les Réglages.";
 "onboarding_analytics_label" = "Analyse d'utilisation (facultatif)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "Utiliser un point de terminaison API personnalisé";
 "onboarding_permissions_subtitle" = "Accordez ces autorisations pour que les rappels de devoirs et de cours arrivent à temps, même lorsque l'application est fermée. Vous pouvez les modifier plus tard dans les Paramètres.";
 "onboarding_permissions_title" = "Autorisations de notifications et de rappels";
 "onboarding_privacy_continue_hint" = "Confirmez les deux éléments pour continuer";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "Activer le push du serveur";
 "push_server_footer" = "Utilisé pour recevoir des notifications de bulletins scolaires en temps réel et pour déclencher activement des rappels.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "Dernière inscription";
-"push_server_last_sync" = "Dernière synchronisation";
 "push_server_latest_error" = "Erreur récente";
 "push_server_notification_status_authorized" = "Autorisé";
 "push_server_notification_status_denied_hint" = "Refusé (ouvrez les paramètres système pour les réactiver)";
@@ -568,7 +562,6 @@
 "push_server_status_section" = "Statut";
 "push_server_status_settings_hint" = "Désactivé au niveau du système → Réglages → TigerDuck → Activer";
 "push_server_status_waiting_token" = "En attente que le système attribue un token";
-"push_server_sync_now_action" = "Synchroniser maintenant";
 "refreshing_message" = "Actualisation en cours… patientez";
 "score_academic_year_semester" = "Année universitaire %1$@ %2$@";
 "score_course_credits" = "%1$d crédits";
@@ -683,7 +676,7 @@
 "settings_language_english" = "Anglais";
 "settings_language_follow_system" = "Suivre le système (Anglais de secours)";
 "settings_language_traditional_chinese" = "Chinois traditionnel";
-"settings_learn_more_backend" = "En savoir plus sur le serveur TigerDuck";
+"settings_learn_more_backend" = "En savoir plus sur TigerSync";
 "settings_library_account_subtitle" = "Le mot de passe peut différer de celui du système universitaire ; par défaut, il s'agit de votre numéro de carte d'identité";
 "settings_library_feature_disabled_message" = "Activez d'abord « Bibliothèque et fonctionnalités associées », puis utilisez le raccourci QR de la bibliothèque.";
 "settings_library_feature_disabled_title" = "La fonctionnalité Bibliothèque est désactivée";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "Traduction de l'interface";
 "source_code_picker_repo_web_description" = "Page web officielle";
 "source_code_picker_section_repositories" = "Dépôts";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "Local : %1$@ → Serveur : %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "Certains éléments diffèrent entre cet appareil et le serveur :";
 "sync_conflict_reenable_assignments_differ" = "État des devoirs : différent sur le serveur";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "Utiliser local";
 "sync_conflict_use_server" = "Utiliser serveur";
 "sync_content_assignment_reminders" = "Rappels d'échéance des devoirs";
-"sync_content_class_table_all" = "Emploi du temps – tous les cours";
-"sync_content_class_table_colors" = "Emploi du temps – couleurs des cours";
-"sync_content_class_table_names" = "Emploi du temps – noms de cours personnalisés";
+"sync_content_class_table_all" = "Tous les cours";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "Contenu synchronisé";
 "sync_courses_footer" = "Envoie votre emploi du temps personnalisé et l'état d'avancement de vos devoirs au serveur pour les utiliser sur tous vos appareils. Choisissez ci-dessous ce qu'il faut inclure.";
@@ -807,7 +798,7 @@
 "watch_course_detail_title" = "Cours";
 "watch_course_instructor_label" = "Enseignant";
 "watch_empty_not_signed_in" = "Non connecté. Ouvrez TigerDuck sur votre téléphone.";
-"watch_just_now" = "Just now";
+"watch_just_now" = "À l'instant";
 "watch_last_synced_never" = "Jamais synchronisé";
 "watch_last_synced_relative" = "Dernière synchro %1$@";
 "watch_next" = "SUIVANT";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "Synchroniser maintenant";
 "watch_starts_at" = "Commence à %1$@";
 "watch_starts_in_minutes" = "Commence dans %1$d min";
-"watch_today" = "Today";
+"watch_today" = "Aujourd'hui";
 "watch_tomorrow_at" = "Demain · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "Prochain cours";

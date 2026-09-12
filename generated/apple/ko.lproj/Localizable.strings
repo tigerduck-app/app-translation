@@ -26,7 +26,7 @@
 "action_remove" = "제거";
 "action_reset" = "재설정";
 "action_retry" = "다시 시도";
-"action_save" = "Save";
+"action_save" = "저장";
 "action_search" = "검색";
 "action_sign_in" = "로그인";
 "action_sign_in_again" = "다시 로그인";
@@ -121,7 +121,7 @@
 "bulletin_rule_editor_mode_or_footer" = "학과 또는 카테고리 중 하나가 일치하면 알립니다.";
 "bulletin_rule_editor_mode_section" = "모드";
 "bulletin_rule_editor_name_placeholder" = "예: 학사 + 장학금";
-"bulletin_rule_editor_name_section" = "Name";
+"bulletin_rule_editor_name_section" = "이름";
 "bulletin_rule_editor_selected_count" = "%1$d개 선택됨";
 "bulletin_rule_editor_tag_section" = "카테고리";
 "bulletin_rule_filter_separator" = ", ";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "이 날에는 일정이 없습니다";
 "calendar_no_events_today" = "오늘 일정이 없습니다";
 "calendar_previous_month" = "이전 달";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "%1$@ 종료";
+"calendar_semester_start" = "%1$@ 시작";
 "calendar_source_exam" = "시험";
 "calendar_source_holiday" = "휴일";
 "calendar_source_moodle" = "Moodle";
@@ -174,7 +174,7 @@
 "class_table_reset_message" = "Moodle, 수강 신청 시스템, 성적 시스템의 상태에 따라 시간표를 초기화합니다. 수동으로 추가·삭제·이름 변경한 과목은 사라집니다.";
 "class_table_reset_title" = "시간표 초기화";
 "class_table_reset_title_with_semester" = "%1$@ 시간표 초기화";
-"class_table_semester_picker_label" = "Semester";
+"class_table_semester_picker_label" = "학기";
 "class_table_sign_in_required_message" = "시간표를 보려면 로그인하세요";
 "class_table_total_credits_value" = "%1$d 학점";
 "cloud_sync_assignments" = "과제";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "기기 간에 동기화할 시간표 데이터를 선택하세요.";
 "cloud_sync_class_table_sync" = "시간표 동기화";
 "cloud_sync_course_colours" = "과목 색상";
-"cloud_sync_courses" = "과목";
 "cloud_sync_custom_course_names" = "사용자 지정 과목 이름";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "기기 ID";
 "cloud_sync_device_section" = "기기";
 "cloud_sync_disable_button" = "TigerSync 끄기";
 "cloud_sync_disable_confirm_action" = "끄기";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "TigerSync를 끌까요?";
 "cloud_sync_disabled_footer" = "기기 간에 시간표 수정 사항, 과제 상태 및 설정을 동기화하고, 서버가 주기적으로 Moodle 과제를 가져옵니다.";
 "cloud_sync_enable_button" = "TigerSync 켜기";
-"cloud_sync_last_synced_label" = "마지막 동기화";
-"cloud_sync_last_synced_never" = "아직 동기화되지 않음";
 "cloud_sync_privacy_body" = "TigerSync가 켜져 있으면 학교 시스템 비밀번호와 Moodle 토큰이 암호화되어 TigerDuck 서버에 업로드되며, 주기적으로 Moodle 과제를 가져오고 기기 간에 시간표 수정 사항, 과제 상태 및 설정을 동기화하는 데 사용됩니다.\n\nTigerSync는 언제든지 끌 수 있습니다. 끄면 이 기기가 로그아웃되고 서버에서 등록이 취소됩니다(푸시 자격 증명 포함). 업로드된 계정 자격 증명은 다른 동기화된 기기가 사용하는 동안에만 서버에 남아 있습니다. 로컬 데이터는 영향을 받지 않습니다.";
 "cloud_sync_privacy_confirm" = "동의 및 켜기";
 "cloud_sync_privacy_title" = "TigerSync 및 개인정보";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "로그인 중…";
 "cloud_sync_step_register" = "기기 등록 중…";
 "cloud_sync_step_upload" = "데이터 업로드 중…";
-"cloud_sync_sync_now" = "지금 동기화";
 "cloud_sync_sync_options" = "동기화 옵션";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "파랑";
@@ -239,8 +235,8 @@
 "course_color_picker_title" = "색상 편집";
 "course_credits_value" = "학점: %1$d";
 "course_detail_classroom_label" = "강의실";
-"course_detail_code_label" = "Code";
-"course_detail_credits_label" = "Credits";
+"course_detail_code_label" = "코드";
+"course_detail_credits_label" = "학점";
 "course_detail_due_prefix" = "마감: %1$@";
 "course_detail_enrollment_label" = "수강 인원";
 "course_detail_incomplete_assignments" = "미완료 과제";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "로그인되지 않음";
 "library_status_signed_in" = "로그인됨";
 "library_virtual_pass_title" = "가상 출입증";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "마감";
+"live_activity_countdown_done_class_preparing" = "시작";
+"live_activity_countdown_done_in_class" = "종료";
 "live_activity_settings_assignment_notification_footer" = "과제 마감 전에 알림을 받습니다.";
 "live_activity_settings_assignment_notification_header" = "과제 알림";
 "live_activity_settings_assignment_warning" = "과제 경고";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "알림 다시 설정";
 "onboarding_analytics_description" = "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.";
 "onboarding_analytics_label" = "사용 분석 (선택 사항)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "사용자 지정 API 엔드포인트 사용";
 "onboarding_permissions_subtitle" = "이 권한을 허용하면 앱이 닫혀 있어도 과제 및 수업 알림이 제때 도착합니다. 나중에 설정에서 변경할 수 있습니다.";
 "onboarding_permissions_title" = "알림 및 리마인더 권한";
 "onboarding_privacy_continue_hint" = "계속하려면 두 항목을 모두 확인하세요";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "서버 푸시 활성화";
 "push_server_footer" = "실시간 학교 공지 알림 수신 및 알림 능동적 트리거에 사용됩니다.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "마지막 등록";
-"push_server_last_sync" = "마지막 동기화";
 "push_server_latest_error" = "최근 오류";
 "push_server_notification_status_authorized" = "승인됨";
 "push_server_notification_status_denied_hint" = "거부됨 (시스템 설정을 열어 다시 활성화)";
@@ -564,11 +558,10 @@
 "push_server_status_device_registration" = "기기 등록";
 "push_server_status_done" = "완료";
 "push_server_status_enabled" = "활성화됨";
-"push_server_status_live_activities" = "라이브 액티비티";
-"push_server_status_section" = "Status";
+"push_server_status_live_activities" = "Live Activities";
+"push_server_status_section" = "상태";
 "push_server_status_settings_hint" = "시스템 수준에서 비활성화됨 → 설정 → TigerDuck → 활성화";
 "push_server_status_waiting_token" = "시스템이 token을 할당하기를 기다리는 중";
-"push_server_sync_now_action" = "지금 동기화";
 "refreshing_message" = "새로고침 중… 잠시만요";
 "score_academic_year_semester" = "%1$@ 학년도 %2$@";
 "score_course_credits" = "%1$d 학점";
@@ -683,7 +676,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "시스템 설정 따르기 (대체: 영어)";
 "settings_language_traditional_chinese" = "번체 중국어";
-"settings_learn_more_backend" = "TigerDuck 백엔드에 대해 자세히 알아보기";
+"settings_learn_more_backend" = "TigerSync에 대해 자세히 알아보기";
 "settings_library_account_subtitle" = "비밀번호는 학사 시스템과 다를 수 있으며, 기본값은 주민등록번호입니다";
 "settings_library_feature_disabled_message" = "\"도서관 및 관련 기능\"을 먼저 활성화한 다음 도서관 QR 바로가기를 사용하세요.";
 "settings_library_feature_disabled_title" = "도서관 기능이 비활성화되어 있습니다";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "UI 번역";
 "source_code_picker_repo_web_description" = "공식 웹페이지";
 "source_code_picker_section_repositories" = "저장소";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "로컬: %1$@ → 서버: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "이 기기와 서버 간에 일부 항목이 다릅니다:";
 "sync_conflict_reenable_assignments_differ" = "과제 상태: 서버와 다름";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "로컬 사용";
 "sync_conflict_use_server" = "서버 사용";
 "sync_content_assignment_reminders" = "과제 마감 알림";
-"sync_content_class_table_all" = "시간표 – 모든 과목";
-"sync_content_class_table_colors" = "시간표 – 과목 색상";
-"sync_content_class_table_names" = "시간표 – 사용자 지정 과목 이름";
+"sync_content_class_table_all" = "모든 과목";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "동기화된 콘텐츠";
 "sync_courses_footer" = "사용자 지정 시간표와 과제 완료 상태를 서버로 전송하여 모든 기기에서 사용할 수 있도록 합니다. 아래에서 포함할 항목을 선택하세요.";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "지금 동기화";
 "watch_starts_at" = "%1$@ 시작";
 "watch_starts_in_minutes" = "%1$d분 후 시작";
-"watch_today" = "Today";
+"watch_today" = "오늘";
 "watch_tomorrow_at" = "내일 · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "다음 수업";

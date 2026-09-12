@@ -26,7 +26,7 @@
 "action_remove" = "Αφαίρεση";
 "action_reset" = "Επαναφορά";
 "action_retry" = "Δοκιμάζω πάλι";
-"action_save" = "Save";
+"action_save" = "Αποθήκευση";
 "action_search" = "Αναζήτηση";
 "action_sign_in" = "Σύνδεση";
 "action_sign_in_again" = "Συνδεθείτε ξανά";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "Δεν υπάρχουν εκδηλώσεις αυτή την ημέρα";
 "calendar_no_events_today" = "Δεν υπάρχουν εκδηλώσεις σήμερα";
 "calendar_previous_month" = "Προηγούμενος μήνας";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "Τέλος %1$@";
+"calendar_semester_start" = "Έναρξη %1$@";
 "calendar_source_exam" = "Εξέταση";
 "calendar_source_holiday" = "Αργία";
 "calendar_source_moodle" = "Moodle";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "Επιλέξτε ποια δεδομένα προγράμματος θα συγχρονίζονται μεταξύ συσκευών.";
 "cloud_sync_class_table_sync" = "Συγχρονισμός προγράμματος";
 "cloud_sync_course_colours" = "Χρώματα μαθημάτων";
-"cloud_sync_courses" = "Μαθήματα";
 "cloud_sync_custom_course_names" = "Προσαρμοσμένα ονόματα μαθημάτων";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "Αναγνωριστικό συσκευής";
 "cloud_sync_device_section" = "Συσκευή";
 "cloud_sync_disable_button" = "Απενεργοποίηση TigerSync";
 "cloud_sync_disable_confirm_action" = "Απενεργοποίηση";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "Απενεργοποίηση TigerSync;";
 "cloud_sync_disabled_footer" = "Συγχρονίστε αλλαγές προγράμματος, καταστάσεις εργασιών και ρυθμίσεις μεταξύ των συσκευών σας, ενώ ο διακομιστής ανακτά περιοδικά εργασίες Moodle για εσάς.";
 "cloud_sync_enable_button" = "Ενεργοποίηση TigerSync";
-"cloud_sync_last_synced_label" = "Τελευταίος συγχρονισμός";
-"cloud_sync_last_synced_never" = "Δεν έχει συγχρονιστεί ακόμα";
 "cloud_sync_privacy_body" = "Όταν το TigerSync είναι ενεργοποιημένο, ο κωδικός πρόσβασης του σχολικού συστήματος και το token Moodle κρυπτογραφούνται και ανεβαίνουν στον διακομιστή TigerDuck, όπου χρησιμοποιούνται για περιοδική ανάκτηση εργασιών Moodle για λογαριασμό σας και για συγχρονισμό αλλαγών προγράμματος, καταστάσεων εργασιών και ρυθμίσεων μεταξύ των συσκευών σας.\n\nΜπορείτε να απενεργοποιήσετε το TigerSync ανά πάσα στιγμή. Η απενεργοποίηση αποσυνδέει αυτή τη συσκευή και ανακαλεί την εγγραφή της στον διακομιστή (συμπεριλαμβανομένων των διαπιστευτηρίων push). Τα ανεβασμένα διαπιστευτήρια λογαριασμού παραμένουν στον διακομιστή μόνο όσο τα χρησιμοποιούν άλλες συγχρονισμένες συσκευές. Τα τοπικά δεδομένα δεν επηρεάζονται.";
 "cloud_sync_privacy_confirm" = "Αποδοχή και ενεργοποίηση";
 "cloud_sync_privacy_title" = "TigerSync & Απόρρητο";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "Σύνδεση…";
 "cloud_sync_step_register" = "Εγγραφή συσκευής…";
 "cloud_sync_step_upload" = "Μεταφόρτωση δεδομένων…";
-"cloud_sync_sync_now" = "Συγχρονισμός τώρα";
 "cloud_sync_sync_options" = "Επιλογές συγχρονισμού";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "Μπλε";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "Μη συνδεδεμένος";
 "library_status_signed_in" = "Συνδεδεμένος";
 "library_virtual_pass_title" = "Εικονική κάρτα εισόδου";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "Έληξε";
+"live_activity_countdown_done_class_preparing" = "Ξεκίνησε";
+"live_activity_countdown_done_in_class" = "Τελείωσε";
 "live_activity_settings_assignment_notification_footer" = "Θα ειδοποιηθείτε πριν από τη λήξη μιας εργασίας.";
 "live_activity_settings_assignment_notification_header" = "Ειδοποιήσεις ανάθεσης";
 "live_activity_settings_assignment_warning" = "Προειδοποίηση εργασίας";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "Επαναδιαμόρφωση ειδοποιήσεων";
 "onboarding_analytics_description" = "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις.";
 "onboarding_analytics_label" = "Ανάλυση χρήσης (προαιρετικό)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "Χρήση προσαρμοσμένου τελικού σημείου API";
 "onboarding_permissions_subtitle" = "Παραχωρήστε αυτές τις άδειες ώστε οι υπενθυμίσεις εργασιών και μαθημάτων να φτάνουν έγκαιρα ακόμα και όταν η εφαρμογή είναι κλειστή. Μπορείτε να τις αλλάξετε αργότερα στις Ρυθμίσεις.";
 "onboarding_permissions_title" = "Άδειες ειδοποιήσεων & υπενθυμίσεων";
 "onboarding_privacy_continue_hint" = "Επιβεβαιώστε και τα δύο στοιχεία για να συνεχίσετε";
@@ -522,7 +518,7 @@
 "onboarding_sync_note" = "Όταν ο συγχρονισμός είναι απενεργοποιημένος, όλα τα δεδομένα παραμένουν μόνο σε αυτή τη συσκευή. Οι ειδοποιήσεις push για υπενθυμίσεις εργασιών λειτουργούν τοπικά χωρίς TigerSync.";
 "onboarding_sync_shared_assignments" = "Δεδομένα εργασιών";
 "onboarding_sync_shared_courses" = "Δεδομένα μαθημάτων";
-"onboarding_sync_shared_device_id" = "Device ID";
+"onboarding_sync_shared_device_id" = "Αναγνωριστικό συσκευής";
 "onboarding_sync_shared_moodle_token" = "Token Moodle (κρυπτογραφημένο)";
 "onboarding_sync_shared_student_id" = "Αριθμός φοιτητή";
 "onboarding_sync_subtitle" = "Το TigerSync διατηρεί τα μαθήματα, τις εργασίες και τις ρυθμίσεις σας συγχρονισμένα σε όλες τις συσκευές σας. Μπορείτε να επιλέξετε ακριβώς τι θα συγχρονίζεται στις ρυθμίσεις TigerSync. Οι ειδοποιήσεις push και το Live Activity απαιτούν TigerSync.";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "Ενεργοποίηση προώθησης διακομιστή";
 "push_server_footer" = "Χρησιμοποιείται για τη λήψη ειδοποιήσεων σχολικού δελτίου σε πραγματικό χρόνο και για την ενεργή ενεργοποίηση υπενθυμίσεων.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "Τελευταία εγγραφή";
-"push_server_last_sync" = "Τελευταίος συγχρονισμός";
 "push_server_latest_error" = "Πρόσφατο σφάλμα";
 "push_server_notification_status_authorized" = "Εξουσιοδοτημένος";
 "push_server_notification_status_denied_hint" = "Απορρίφθηκε (ανοίξτε τις Ρυθμίσεις συστήματος για επανενεργοποίηση)";
@@ -564,11 +558,10 @@
 "push_server_status_device_registration" = "Εγγραφή συσκευής";
 "push_server_status_done" = "Πλήρης";
 "push_server_status_enabled" = "Ενεργοποιημένο";
-"push_server_status_live_activities" = "Ζωντανές δραστηριότητες";
+"push_server_status_live_activities" = "Live Activities";
 "push_server_status_section" = "Κατάσταση";
 "push_server_status_settings_hint" = "Απενεργοποιημένο σε επίπεδο συστήματος → Ρυθμίσεις → TigerDuck → Ενεργοποίηση";
 "push_server_status_waiting_token" = "Αναμονή για ανάθεση token από το σύστημα";
-"push_server_sync_now_action" = "Συγχρονισμός τώρα";
 "refreshing_message" = "Ανανέωση… παρακαλώ περιμένετε";
 "score_academic_year_semester" = "Ακαδημαϊκό Έτος %1$@ %2$@";
 "score_course_credits" = "%1$d πιστωτικές μονάδες";
@@ -683,7 +676,7 @@
 "settings_language_english" = "Αγγλικά";
 "settings_language_follow_system" = "Ακολουθεί σύστημα (Εφεδρικά Αγγλικά)";
 "settings_language_traditional_chinese" = "Παραδοσιακά Κινεζικά";
-"settings_learn_more_backend" = "Μάθετε περισσότερα για τον διακομιστή TigerDuck";
+"settings_learn_more_backend" = "Μάθετε περισσότερα για το TigerSync";
 "settings_library_account_subtitle" = "Ο κωδικός μπορεί να διαφέρει από το ακαδημαϊκό σύστημα· προεπιλογή είναι ο αριθμός ταυτότητάς σας";
 "settings_library_feature_disabled_message" = "Ενεργοποιήστε πρώτα «Βιβλιοθήκη και σχετικές λειτουργίες», στη συνέχεια χρησιμοποιήστε τη συντόμευση QR βιβλιοθήκης.";
 "settings_library_feature_disabled_title" = "Η λειτουργία βιβλιοθήκης είναι απενεργοποιημένη";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "Μετάφραση διεπαφής";
 "source_code_picker_repo_web_description" = "Επίσημη ιστοσελίδα";
 "source_code_picker_section_repositories" = "Αποθετήρια";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "Τοπικά: %1$@ → Διακομιστής: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "Ορισμένα στοιχεία διαφέρουν μεταξύ αυτής της συσκευής και του διακομιστή:";
 "sync_conflict_reenable_assignments_differ" = "Κατάσταση εργασιών: διαφορετική στον διακομιστή";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "Τοπικά";
 "sync_conflict_use_server" = "Από διακομιστή";
 "sync_content_assignment_reminders" = "Υπενθυμίσεις λήξης εργασίας";
-"sync_content_class_table_all" = "Πρόγραμμα μαθημάτων – όλα τα μαθήματα";
-"sync_content_class_table_colors" = "Πρόγραμμα μαθημάτων – χρώματα μαθημάτων";
-"sync_content_class_table_names" = "Πρόγραμμα μαθημάτων – προσαρμοσμένα ονόματα μαθημάτων";
+"sync_content_class_table_all" = "Όλα τα μαθήματα";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "Συγχρονισμένο περιεχόμενο";
 "sync_courses_footer" = "Στέλνει το προσαρμοσμένο πρόγραμμά σας και την κατάσταση ολοκλήρωσης εργασιών στον διακομιστή για χρήση σε όλες τις συσκευές σας. Επιλέξτε παρακάτω τι θα συμπεριληφθεί.";
@@ -777,7 +768,7 @@
 "sync_status_failed" = "Απέτυχε";
 "sync_status_minimal" = "Περιορισμένο";
 "sync_status_nav_label" = "Κατάσταση TigerSync";
-"sync_status_ok" = "OK";
+"sync_status_ok" = "Εντάξει";
 "sync_status_syncing" = "Συγχρονισμός…";
 "sync_status_title" = "Κατάσταση συγχρονισμού";
 "sync_success_content_description" = "Επιτυχής συγχρονισμός";
@@ -807,7 +798,7 @@
 "watch_course_detail_title" = "Μάθημα";
 "watch_course_instructor_label" = "Διδάσκων";
 "watch_empty_not_signed_in" = "Δεν έχετε συνδεθεί. Ανοίξτε το TigerDuck στο τηλέφωνό σας.";
-"watch_just_now" = "Just now";
+"watch_just_now" = "Μόλις τώρα";
 "watch_last_synced_never" = "Ποτέ δεν συγχρονίστηκε";
 "watch_last_synced_relative" = "Τελευταίος συγχρονισμός %1$@";
 "watch_next" = "ΕΠΌΜΕΝΟ";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "Συγχρονισμός τώρα";
 "watch_starts_at" = "Αρχίζει %1$@";
 "watch_starts_in_minutes" = "Αρχίζει σε %1$d λεπ.";
-"watch_today" = "Today";
+"watch_today" = "Σήμερα";
 "watch_tomorrow_at" = "Αύριο · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "Επόμενο μάθημα";

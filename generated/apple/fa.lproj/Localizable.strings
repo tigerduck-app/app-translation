@@ -26,7 +26,7 @@
 "action_remove" = "حذف";
 "action_reset" = "بازنشانی";
 "action_retry" = "دوباره امتحان کنید";
-"action_save" = "Save";
+"action_save" = "ذخیره";
 "action_search" = "جست‌وجو";
 "action_sign_in" = "ورود";
 "action_sign_in_again" = "دوباره وارد شوید";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "در این روز رویدادی وجود ندارد";
 "calendar_no_events_today" = "امروز رویدادی نیست";
 "calendar_previous_month" = "ماه قبل";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "پایان %1$@";
+"calendar_semester_start" = "شروع %1$@";
 "calendar_source_exam" = "آزمون";
 "calendar_source_holiday" = "تعطیلی";
 "calendar_source_moodle" = "Moodle";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "انتخاب کنید کدام داده‌های جدول کلاس بین دستگاه‌ها همگام‌سازی شود.";
 "cloud_sync_class_table_sync" = "همگام‌سازی جدول کلاس";
 "cloud_sync_course_colours" = "رنگ‌های دروس";
-"cloud_sync_courses" = "دروس";
 "cloud_sync_custom_course_names" = "نام‌های سفارشی دروس";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "شناسه دستگاه";
 "cloud_sync_device_section" = "دستگاه";
 "cloud_sync_disable_button" = "غیرفعال کردن TigerSync";
 "cloud_sync_disable_confirm_action" = "غیرفعال کردن";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "TigerSync غیرفعال شود؟";
 "cloud_sync_disabled_footer" = "ویرایش‌های جدول، وضعیت تکالیف و تنظیمات را بین دستگاه‌هایتان همگام‌سازی کنید، در حالی که سرور به‌صورت دوره‌ای تکالیف Moodle را برای شما دریافت می‌کند.";
 "cloud_sync_enable_button" = "فعال کردن TigerSync";
-"cloud_sync_last_synced_label" = "آخرین همگام‌سازی";
-"cloud_sync_last_synced_never" = "هنوز همگام‌سازی نشده";
 "cloud_sync_privacy_body" = "وقتی TigerSync فعال است، رمز عبور سیستم مدرسه و توکن Moodle شما رمزنگاری شده و به سرور TigerDuck آپلود می‌شوند، جایی که برای دریافت دوره‌ای تکالیف Moodle از طرف شما و همگام‌سازی ویرایش‌های جدول، وضعیت تکالیف و تنظیمات بین دستگاه‌هایتان استفاده می‌شوند.\n\nمی‌توانید TigerSync را در هر زمانی غیرفعال کنید. غیرفعال کردن باعث خروج این دستگاه و لغو ثبت‌نام آن در سرور می‌شود (شامل اعتبارنامه‌های پوش)؛ اعتبارنامه‌های حساب آپلود شده فقط تا زمانی که دستگاه‌های همگام‌سازی شده دیگر از آنها استفاده می‌کنند در سرور باقی می‌مانند. داده‌های محلی تأثیر نمی‌پذیرند.";
 "cloud_sync_privacy_confirm" = "موافقت و فعال‌سازی";
 "cloud_sync_privacy_title" = "TigerSync و حریم خصوصی";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "ورود به سیستم…";
 "cloud_sync_step_register" = "ثبت دستگاه…";
 "cloud_sync_step_upload" = "آپلود داده‌ها…";
-"cloud_sync_sync_now" = "همگام‌سازی";
 "cloud_sync_sync_options" = "گزینه‌های همگام‌سازی";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "آبی";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "وارد نشده‌اید";
 "library_status_signed_in" = "وارد شده‌اید";
 "library_virtual_pass_title" = "گذرنامه مجازی";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "سررسید";
+"live_activity_countdown_done_class_preparing" = "شروع‌شده";
+"live_activity_countdown_done_in_class" = "پایان‌یافته";
 "live_activity_settings_assignment_notification_footer" = "قبل از موعد مقرر به شما اطلاع داده می شود.";
 "live_activity_settings_assignment_notification_header" = "اطلاعیه های تکلیف";
 "live_activity_settings_assignment_warning" = "هشدار تکلیف";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "پیکربندی مجدد اعلان‌ها";
 "onboarding_analytics_description" = "با به اشتراک گذاشتن بازدید ناشناس صفحات و استفاده از ویجت، به بهبود TigerDuck کمک کنید. هر زمان می‌توانید این را در تنظیمات تغییر دهید.";
 "onboarding_analytics_label" = "آمار استفاده (اختیاری)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "استفاده از نقطه پایانی API سفارشی";
 "onboarding_permissions_subtitle" = "این مجوزها را بدهید تا یادآورهای تکلیف و شروع کلاس حتی وقتی برنامه بسته است به‌موقع برسند. بعداً می‌توانید در تنظیمات تغییرشان دهید.";
 "onboarding_permissions_title" = "مجوزهای اعلان و یادآور";
 "onboarding_privacy_continue_hint" = "برای ادامه هر دو مورد را تأیید کنید";
@@ -522,7 +518,7 @@
 "onboarding_sync_note" = "وقتی همگام‌سازی خاموش است، همه داده‌ها فقط در این دستگاه باقی می‌مانند. اعلان‌های فوری برای یادآوری تکالیف بدون TigerSync به صورت محلی کار می‌کنند.";
 "onboarding_sync_shared_assignments" = "داده‌های تکالیف";
 "onboarding_sync_shared_courses" = "داده‌های دروس";
-"onboarding_sync_shared_device_id" = "Device ID";
+"onboarding_sync_shared_device_id" = "شناسه دستگاه";
 "onboarding_sync_shared_moodle_token" = "توکن Moodle (رمزگذاری شده)";
 "onboarding_sync_shared_student_id" = "شماره دانشجویی";
 "onboarding_sync_subtitle" = "TigerSync دروس، تکالیف و تنظیمات شما را در همه دستگاه‌هایتان همگام نگه می‌دارد. می‌توانید در تنظیمات TigerSync دقیقاً انتخاب کنید چه چیزی همگام‌سازی شود. اعلان‌های فوری و Live Activity به TigerSync نیاز دارند.";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "فعال کردن فشار سرور";
 "push_server_footer" = "برای دریافت بی‌درنگ اعلان‌های بولتن مدرسه و فعال کردن یادآورها استفاده می‌شود.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "آخرین ثبت نام";
-"push_server_last_sync" = "آخرین همگام سازی";
 "push_server_latest_error" = "خطای اخیر";
 "push_server_notification_status_authorized" = "مجاز";
 "push_server_notification_status_denied_hint" = "رد شد (تنظیمات سیستم را برای فعال کردن مجدد باز کنید)";
@@ -568,7 +562,6 @@
 "push_server_status_section" = "وضعیت";
 "push_server_status_settings_hint" = "در سطح سیستم غیرفعال شده → تنظیمات → TigerDuck → فعال کردن";
 "push_server_status_waiting_token" = "در انتظار تخصیص token توسط سیستم";
-"push_server_sync_now_action" = "اکنون همگام سازی کنید";
 "refreshing_message" = "در حال به‌روزرسانی… کمی صبر کنید";
 "score_academic_year_semester" = "سال تحصیلی %1$@ %2$@";
 "score_course_credits" = "%1$d واحد";
@@ -683,7 +676,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "همگام با سیستم (زبان جایگزین: انگلیسی)";
 "settings_language_traditional_chinese" = "چینی سنتی";
-"settings_learn_more_backend" = "اطلاعات بیشتر درباره سرور TigerDuck";
+"settings_learn_more_backend" = "اطلاعات بیشتر درباره TigerSync";
 "settings_library_account_subtitle" = "گذرواژه ممکن است با سیستم دانشگاه متفاوت باشد؛ مقدار پیش‌فرض معمولاً شماره ملی شماست";
 "settings_library_feature_disabled_message" = "ابتدا «قابلیت‌های کتابخانه و مرتبط» را فعال کنید، سپس از میانبر QR کتابخانه استفاده کنید.";
 "settings_library_feature_disabled_title" = "قابلیت کتابخانه غیرفعال است";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "ترجمه رابط کاربری";
 "source_code_picker_repo_web_description" = "صفحه وب رسمی";
 "source_code_picker_section_repositories" = "مخازن";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "محلی: %1$@ → سرور: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "برخی موارد بین این دستگاه و سرور متفاوت هستند:";
 "sync_conflict_reenable_assignments_differ" = "وضعیت تکالیف: در سرور متفاوت است";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "استفاده از محلی";
 "sync_conflict_use_server" = "استفاده از سرور";
 "sync_content_assignment_reminders" = "یادآورهای موعد تکلیف";
-"sync_content_class_table_all" = "جدول کلاس‌ها – همه دروس";
-"sync_content_class_table_colors" = "جدول کلاس‌ها – رنگ‌های دروس";
-"sync_content_class_table_names" = "جدول کلاس‌ها – نام‌های سفارشی دروس";
+"sync_content_class_table_all" = "همه دروس";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "محتوای همگام‌شده";
 "sync_courses_footer" = "جدول کلاس‌های سفارشی و وضعیت تکمیل تکالیف شما را برای استفاده در همه دستگاه‌هایتان به سرور ارسال می‌کند. در زیر مشخص کنید چه مواردی لحاظ شوند.";
@@ -807,7 +798,7 @@
 "watch_course_detail_title" = "درس";
 "watch_course_instructor_label" = "مدرس";
 "watch_empty_not_signed_in" = "وارد نشده‌اید. TigerDuck را در گوشی خود باز کنید.";
-"watch_just_now" = "Just now";
+"watch_just_now" = "همین الان";
 "watch_last_synced_never" = "هرگز همگام‌سازی نشده";
 "watch_last_synced_relative" = "آخرین همگام‌سازی %1$@";
 "watch_next" = "بعدی";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "همگام‌سازی اکنون";
 "watch_starts_at" = "شروع %1$@";
 "watch_starts_in_minutes" = "%1$d دقیقه دیگر";
-"watch_today" = "Today";
+"watch_today" = "امروز";
 "watch_tomorrow_at" = "فردا · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "کلاس بعدی";

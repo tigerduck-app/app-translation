@@ -26,7 +26,7 @@
 "action_remove" = "Alisin";
 "action_reset" = "I-reset";
 "action_retry" = "Subukan muli";
-"action_save" = "Save";
+"action_save" = "I-save";
 "action_search" = "Maghanap";
 "action_sign_in" = "Mag-sign in";
 "action_sign_in_again" = "Mag-sign in muli";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "Walang event sa araw na ito";
 "calendar_no_events_today" = "Walang event ngayon";
 "calendar_previous_month" = "Nakaraang buwan";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "Katapusan ng %1$@";
+"calendar_semester_start" = "Simula ng %1$@";
 "calendar_source_exam" = "Eksamen";
 "calendar_source_holiday" = "Bakasyon";
 "calendar_source_moodle" = "Moodle";
@@ -174,7 +174,7 @@
 "class_table_reset_message" = "Muling bubuuin ang talaan ng kurso batay sa Moodle, sa sistema ng pagpili ng kurso, at sa sistema ng marka. Mawawala ang mga kursong manu-manong idinagdag, inalis, o pinalitan ng pangalan.";
 "class_table_reset_title" = "I-reset ang talaan ng kurso";
 "class_table_reset_title_with_semester" = "I-reset ang talaan ng kurso ng %1$@";
-"class_table_semester_picker_label" = "Semester";
+"class_table_semester_picker_label" = "Semestre";
 "class_table_sign_in_required_message" = "Mag-sign in upang tingnan ang iyong talahanayan ng klase";
 "class_table_total_credits_value" = "%1$d na credit";
 "cloud_sync_assignments" = "Mga Assignment";
@@ -182,7 +182,6 @@
 "cloud_sync_class_table_footer" = "Piliin kung aling data ng iskedyul ang isi-sync sa mga device.";
 "cloud_sync_class_table_sync" = "Pag-sync ng iskedyul";
 "cloud_sync_course_colours" = "Mga kulay ng kurso";
-"cloud_sync_courses" = "Mga Kurso";
 "cloud_sync_custom_course_names" = "Mga custom na pangalan ng kurso";
 "cloud_sync_device_id" = "Device ID";
 "cloud_sync_device_section" = "Device";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "I-disable ang TigerSync?";
 "cloud_sync_disabled_footer" = "I-sync ang mga pagbabago sa iskedyul, status ng assignment, at mga setting sa iyong mga device, habang pana-panahong kinukuha ng server ang mga Moodle assignment para sa iyo.";
 "cloud_sync_enable_button" = "I-enable ang TigerSync";
-"cloud_sync_last_synced_label" = "Huling na-sync";
-"cloud_sync_last_synced_never" = "Hindi pa nasi-sync";
 "cloud_sync_privacy_body" = "Kapag naka-enable ang TigerSync, ang password ng iyong school system at Moodle token ay ine-encrypt at ina-upload sa TigerDuck server, kung saan ginagamit ang mga ito para pana-panahong kunin ang mga Moodle assignment para sa iyo at i-sync ang mga pagbabago sa iskedyul, status ng assignment, at mga setting sa iyong mga device.\n\nMaaari mong i-disable ang TigerSync anumang oras. Ang pag-disable ay magsa-sign out sa device na ito at magre-revoke ng registration nito sa server (kasama ang push credentials); ang mga na-upload na account credential ay mananatili sa server habang ginagamit pa ng ibang mga synced na device. Hindi maaapektuhan ang lokal na data.";
 "cloud_sync_privacy_confirm" = "Sumang-ayon at i-enable";
 "cloud_sync_privacy_title" = "TigerSync at Privacy";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "Nagsa-sign in…";
 "cloud_sync_step_register" = "Nirerehistro ang device…";
 "cloud_sync_step_upload" = "Ina-upload ang data…";
-"cloud_sync_sync_now" = "I-sync Ngayon";
 "cloud_sync_sync_options" = "Mga opsyon sa pag-sync";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "Asul";
@@ -217,7 +213,7 @@
 "color_name_purple" = "Lila";
 "color_name_red" = "Pula";
 "color_picker_apply" = "I-apply";
-"color_picker_custom" = "Custom";
+"color_picker_custom" = "Pasadya";
 "color_picker_presets_note" = "Mga preset na kulay";
 "color_picker_preview_fallback" = "Kurso";
 "color_picker_selected" = "Napiling kulay";
@@ -247,7 +243,7 @@
 "course_detail_instructor_label" = "Tagapagturo";
 "course_detail_no_roster" = "Walang available na data sa pagpapatala para sa kursong ito";
 "course_detail_time_label" = "Oras";
-"course_instructor_value" = "Instructor: %1$@";
+"course_instructor_value" = "Tagapagturo: %1$@";
 "desktop_about_copyright" = "© Mga kontribyutor ng TigerDuck. Hindi kaugnay ng NTUST.";
 "desktop_about_subtitle" = "National Taiwan University of Science and Technology — app ng campus na gawa ng komunidad.";
 "desktop_about_version_value" = "Bersyon %1$@";
@@ -326,7 +322,7 @@
 "error_moodle_sso_rejected" = "Tinanggihan ng NTUST SSO ang Moodle authorization. Pakitiyak ang iyong credentials.";
 "error_moodle_sso_rejected_with_reason" = "Tinanggihan ng NTUST SSO ang Moodle authorization: %1$@";
 "error_moodle_webservice_disabled" = "Kasalukuyang hindi available ang Moodle webservice.";
-"error_network_format" = "Network error: %1$@";
+"error_network_format" = "Error sa network: %1$@";
 "error_network_unavailable" = "Hindi makakonekta. Pakisuri ang iyong koneksyon sa network.";
 "error_qr_generation_failed_format" = "Nabigong gumawa ng QR code: %1$@";
 "error_session_expired" = "Nag-expire ang session";
@@ -413,7 +409,7 @@
 "language_picker_ai_translation_note" = "Karamihan sa mga pagsasalin ay binuo ng AI at maaaring may mga error. Kung may napansin ka, mangyaring magbukas ng PR sa localization repo.";
 "library_coming_soon_badge" = "Paparating na";
 "library_feature_discussion_room" = "Silid ng talakayan";
-"library_feature_lecture" = "Lecture";
+"library_feature_lecture" = "Lektura";
 "library_password_hint" = "Maaaring iba ang password sa portal ng paaralan";
 "library_qr_content_description" = "Library pass QR Code";
 "library_qr_generate_failed" = "Nabigong gumawa ng QR Code";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "Hindi naka-sign in";
 "library_status_signed_in" = "Naka-sign in";
 "library_virtual_pass_title" = "Virtual na pass";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "Due na";
+"live_activity_countdown_done_class_preparing" = "Nagsimula na";
+"live_activity_countdown_done_in_class" = "Natapos na";
 "live_activity_settings_assignment_notification_footer" = "Aabisuhan ka bago matapos ang isang takdang-aralin.";
 "live_activity_settings_assignment_notification_header" = "Mga abiso sa pagtatalaga";
 "live_activity_settings_assignment_warning" = "Babala sa takdang-aralin";
@@ -445,8 +441,8 @@
 "live_activity_settings_enable" = "I-enable ang Live Activity";
 "live_activity_settings_enable_toggle" = "I-enable ang Live Activity";
 "live_activity_settings_footer" = "Ipinapakita ang kasalukuyang klase at mga assignment sa Lock Screen o Dynamic Island.";
-"live_activity_settings_hours_label" = "%1$d hr";
-"live_activity_settings_hours_minutes_label" = "%1$d hr %2$d min";
+"live_activity_settings_hours_label" = "%1$d oras";
+"live_activity_settings_hours_minutes_label" = "%1$d oras %2$d min";
 "live_activity_settings_hours_unit" = "Oras";
 "live_activity_settings_lock_screen_hint" = "Kapag naka-disable, ang lock screen ay magpapakita lamang ng placeholder text tulad ng \"Nakatago ang notification\". Kung wala pa ring epekto pagkatapos i-enable, payagan ang uri ng notification na ito sa lock screen sa mga setting ng sistema.";
 "live_activity_settings_minutes_label" = "%1$d min";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "I-reconfigure ang mga notification";
 "onboarding_analytics_description" = "Tulungan kaming mapabuti ang TigerDuck sa pamamagitan ng pagbabahagi ng iyong anonymous na mga page visit at paggamit ng widget. Maaari mong baguhin ito anumang oras sa Mga Setting.";
 "onboarding_analytics_label" = "Analytics ng paggamit (opsyonal)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "Gamitin ang custom na API endpoint";
 "onboarding_permissions_subtitle" = "Ibigay ang mga pahintulot na ito para makarating sa tamang oras ang mga paalala sa takdang-aralin at klase kahit naka-close ang app. Maaari mong baguhin ito sa Settings.";
 "onboarding_permissions_title" = "Pahintulot sa notification at paalala";
 "onboarding_privacy_continue_hint" = "Kumpirmahin ang dalawang item para magpatuloy";
@@ -524,7 +520,7 @@
 "onboarding_sync_shared_courses" = "Data ng mga kurso";
 "onboarding_sync_shared_device_id" = "Device ID";
 "onboarding_sync_shared_moodle_token" = "Moodle token (naka-encrypt)";
-"onboarding_sync_shared_student_id" = "Student ID";
+"onboarding_sync_shared_student_id" = "ID ng estudyante";
 "onboarding_sync_subtitle" = "Pinapanatili ng TigerSync na naka-sync ang iyong mga kurso, assignment, at settings sa lahat ng iyong device. Maaari mong piliin nang eksakto kung ano ang isi-sync sa TigerSync settings. Kinakailangan ng TigerSync ang push notification at Live Activity.";
 "onboarding_sync_title" = "TigerSync";
 "onboarding_sync_toggle_label" = "I-enable ang TigerSync";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "Paganahin ang server push";
 "push_server_footer" = "Ginagamit upang makatanggap ng real-time na mga abiso sa bulletin ng paaralan at upang aktibong mag-trigger ng mga paalala.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "Huling pagpaparehistro";
-"push_server_last_sync" = "Huling pag-sync";
 "push_server_latest_error" = "Kamakailang error";
 "push_server_notification_status_authorized" = "Awtorisado";
 "push_server_notification_status_denied_hint" = "Tinanggihan (buksan ang Mga Setting ng system upang muling paganahin)";
@@ -568,7 +562,6 @@
 "push_server_status_section" = "Katayuan";
 "push_server_status_settings_hint" = "Naka-disable sa antas ng system → Mga Setting → TigerDuck → I-enable";
 "push_server_status_waiting_token" = "Naghihintay na mag-assign ng token ang system";
-"push_server_sync_now_action" = "I-sync ngayon";
 "refreshing_message" = "Nire-refresh… sandali lang po";
 "score_academic_year_semester" = "Taong Akademiko %1$@ %2$@";
 "score_course_credits" = "%1$d na credit";
@@ -580,14 +573,14 @@
 "score_credit_summary_title" = "Buod ng credits";
 "score_credit_total" = "Kabuuan";
 "score_credit_type_education_program" = "Programang pang-edukasyon";
-"score_credit_type_education_program_short" = "EP";
+"score_credit_type_education_program_short" = "PPE";
 "score_credit_type_not_counted" = "Hindi binibilang";
-"score_credit_type_not_counted_short" = "Skip";
+"score_credit_type_not_counted_short" = "Laktaw";
 "score_credit_type_not_earned" = "Hindi nakuha";
 "score_credit_type_not_earned_short" = "Bagsak";
 "score_credit_type_not_required" = "Hindi required";
-"score_credit_type_not_required_short" = "Opt";
-"score_distance_learning" = "Remote";
+"score_credit_type_not_required_short" = "Opsyon";
+"score_distance_learning" = "Malayuan";
 "score_empty_message" = "Wala pang available na datos ng marka.";
 "score_empty_pull_to_refresh" = "Hilahin upang i-refresh, o subukang muli sa ibang pagkakataon";
 "score_empty_title" = "Walang datos ng marka";
@@ -598,7 +591,7 @@
 "score_gpa_cumulative_to" = "Cumulative GPA hanggang %1$@";
 "score_gpa_latest" = "Pinakabagong GPA";
 "score_gpa_provisional" = "Pansamantala";
-"score_gpa_term_label" = "Semester GPA (%1$@)";
+"score_gpa_term_label" = "Semestre GPA (%1$@)";
 "score_gpa_trend_title" = "Trend ng GPA";
 "score_grade_exempted" = "Na-exempt";
 "score_grade_failed" = "Bumagsak";
@@ -608,7 +601,7 @@
 "score_info_course_code" = "Code ng kurso";
 "score_info_credit_type" = "Uri ng credit";
 "score_info_credits" = "Mga credit";
-"score_info_general_dimension" = "GE dimension";
+"score_info_general_dimension" = "Dimensyon ng GE";
 "score_info_grade" = "Marka";
 "score_info_note" = "Tala";
 "score_info_teaching_method" = "Paraan ng pagtuturo";
@@ -617,9 +610,9 @@
 "score_not_signed_in_message" = "Mag-sign in muna para ma-load ang datos ng marka.";
 "score_rank_class" = "Ranggo sa klase";
 "score_rank_department" = "Ranggo sa departamento";
-"score_ranking_dept_label" = "Dept rank";
+"score_ranking_dept_label" = "Ranggo sa Dept";
 "score_scope_cumulative" = "Kabuuan";
-"score_scope_semester" = "Semester";
+"score_scope_semester" = "Semestre";
 "score_semester_first" = "Unang semestre";
 "score_semester_first_short" = "Una";
 "score_semester_lower" = "Ikalawang Semestre";
@@ -682,8 +675,8 @@
 "settings_language" = "Wika (Language)";
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Sundan ang sistema (Fallback Ingles)";
-"settings_language_traditional_chinese" = "Traditional Chinese";
-"settings_learn_more_backend" = "Alamin pa ang tungkol sa TigerDuck Backend";
+"settings_language_traditional_chinese" = "Tradisyonal na Tsino";
+"settings_learn_more_backend" = "Alamin pa ang tungkol sa TigerSync";
 "settings_library_account_subtitle" = "Maaaring magkaiba ang password sa sistemang akademiko; ang default ay ang iyong national ID number";
 "settings_library_feature_disabled_message" = "I-enable muna ang \"Aklatan at mga kaugnay na feature\", pagkatapos ay gamitin ang library QR shortcut.";
 "settings_library_feature_disabled_title" = "Naka-disable ang library feature";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "Pagsasalin ng UI";
 "source_code_picker_repo_web_description" = "Opisyal na webpage";
 "source_code_picker_section_repositories" = "Mga repository";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "Lokal: %1$@ → Server: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "May mga item na magkaiba sa pagitan ng device na ito at ng server:";
 "sync_conflict_reenable_assignments_differ" = "Status ng assignment: iba sa server";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "Gamitin ang Lokal";
 "sync_conflict_use_server" = "Gamitin ang Server";
 "sync_content_assignment_reminders" = "Mga paalala sa takdang-aralin";
-"sync_content_class_table_all" = "Iskedyul ng klase – lahat ng kurso";
-"sync_content_class_table_colors" = "Iskedyul ng klase – mga kulay ng kurso";
-"sync_content_class_table_names" = "Iskedyul ng klase – mga custom na pangalan ng kurso";
+"sync_content_class_table_all" = "Lahat ng kurso";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "Na-sync na content";
 "sync_courses_footer" = "Ipinapadala nito ang iyong custom na iskedyul ng klase at ang katayuan ng pagkumpleto ng mga assignment sa server para magamit sa lahat ng iyong device. Piliin sa ibaba kung ano ang isasama.";
@@ -807,7 +798,7 @@
 "watch_course_detail_title" = "Kurso";
 "watch_course_instructor_label" = "Tagapagturo";
 "watch_empty_not_signed_in" = "Hindi naka-sign in. Buksan ang TigerDuck sa iyong telepono.";
-"watch_just_now" = "Just now";
+"watch_just_now" = "Ngayon lang";
 "watch_last_synced_never" = "Hindi pa na-sync";
 "watch_last_synced_relative" = "Huling na-sync %1$@";
 "watch_next" = "SUSUNOD";
@@ -822,7 +813,7 @@
 "watch_padding_decrease_cd" = "Bawasan ang padding";
 "watch_padding_increase_cd" = "Dagdagan ang padding";
 "watch_padding_value_dp" = "%1$d dp";
-"watch_qr_padding" = "Library QR padding";
+"watch_qr_padding" = "Padding ng QR ng Aklatan";
 "watch_relative_days_ago_short" = "%1$d d nakaraon";
 "watch_relative_hours_ago_short" = "%1$d o nakaraon";
 "watch_relative_minutes_ago_short" = "%1$d min nakaraon";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "I-sync ngayon";
 "watch_starts_at" = "Magsisimula %1$@";
 "watch_starts_in_minutes" = "Magsisimula sa %1$d min";
-"watch_today" = "Today";
+"watch_today" = "Ngayon";
 "watch_tomorrow_at" = "Bukas · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "Susunod na klase";

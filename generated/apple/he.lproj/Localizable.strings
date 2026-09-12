@@ -26,7 +26,7 @@
 "action_remove" = "הסר";
 "action_reset" = "איפוס";
 "action_retry" = "נסה שוב";
-"action_save" = "Save";
+"action_save" = "שמור";
 "action_search" = "חפש";
 "action_sign_in" = "כניסה";
 "action_sign_in_again" = "התחברות מחדש";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "אין אירועים ביום זה";
 "calendar_no_events_today" = "אין אירועים היום";
 "calendar_previous_month" = "חודש קודם";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "סוף %1$@";
+"calendar_semester_start" = "תחילת %1$@";
 "calendar_source_exam" = "מבחן";
 "calendar_source_holiday" = "חופשה";
 "calendar_source_moodle" = "Moodle";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "בחרו אילו נתוני מערכת שעות לסנכרן בין מכשירים.";
 "cloud_sync_class_table_sync" = "סנכרון מערכת שעות";
 "cloud_sync_course_colours" = "צבעי קורסים";
-"cloud_sync_courses" = "קורסים";
 "cloud_sync_custom_course_names" = "שמות קורסים מותאמים אישית";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "מזהה מכשיר";
 "cloud_sync_device_section" = "מכשיר";
 "cloud_sync_disable_button" = "השבתת TigerSync";
 "cloud_sync_disable_confirm_action" = "השבתה";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "להשבית את TigerSync?";
 "cloud_sync_disabled_footer" = "סנכרנו שינויים במערכת השעות, מצבי מטלות והגדרות בין המכשירים שלכם, כאשר השרת מביא מטלות Moodle מעת לעת עבורכם.";
 "cloud_sync_enable_button" = "הפעלת TigerSync";
-"cloud_sync_last_synced_label" = "סונכרן לאחרונה";
-"cloud_sync_last_synced_never" = "טרם סונכרן";
 "cloud_sync_privacy_body" = "כאשר TigerSync מופעל, סיסמת מערכת בית הספר וטוקן Moodle שלכם מוצפנים ומועלים לשרת TigerDuck, שם הם משמשים להבאת מטלות Moodle מעת לעת עבורכם ולסנכרון שינויים במערכת השעות, מצבי מטלות והגדרות בין המכשירים שלכם.\n\nניתן להשבית את TigerSync בכל עת. השבתה מנתקת מכשיר זה ומבטלת את רישומו בשרת (כולל אישורי push); אישורי חשבון שהועלו נשארים בשרת רק כל עוד מכשירים מסונכרנים אחרים משתמשים בהם. נתונים מקומיים לא יושפעו.";
 "cloud_sync_privacy_confirm" = "הסכמה והפעלה";
 "cloud_sync_privacy_title" = "TigerSync ופרטיות";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "מתחבר…";
 "cloud_sync_step_register" = "רושם מכשיר…";
 "cloud_sync_step_upload" = "מעלה נתונים…";
-"cloud_sync_sync_now" = "סנכרון עכשיו";
 "cloud_sync_sync_options" = "אפשרויות סנכרון";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "כחול";
@@ -305,8 +301,8 @@
 "desktop_widget_more_count" = "‎+%1$d נוספים";
 "desktop_widget_now" = "כעת";
 "desktop_widget_starts_in" = "מתחיל בעוד %@";
-"device_id_copied" = "ID המכשיר הועתק";
-"device_id_copy_action" = "העתק ID מכשיר";
+"device_id_copied" = "מזהה המכשיר הועתק";
+"device_id_copy_action" = "העתק מזהה מכשיר";
 "error_bulletin_decoding_failed_format" = "עיבוד תגובת הלוח נכשל: %1$@";
 "error_bulletin_encoding_failed_format" = "קידוד בקשת הלוח נכשל: %1$@";
 "error_bulletin_http_status_format" = "שרת הלוח החזיר HTTP %1$d: %2$@";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "לא מחובר";
 "library_status_signed_in" = "מחובר";
 "library_virtual_pass_title" = "כרטיס כניסה וירטואלי";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "באיחור";
+"live_activity_countdown_done_class_preparing" = "התחיל";
+"live_activity_countdown_done_in_class" = "הסתיים";
 "live_activity_settings_assignment_notification_footer" = "תישלח אליך הודעה לפני מועד ההגשה של המטלה.";
 "live_activity_settings_assignment_notification_header" = "התראות משימה";
 "live_activity_settings_assignment_warning" = "אזהרת מטלה";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "הגדר מחדש התראות";
 "onboarding_analytics_description" = "עזור לשפר את TigerDuck על ידי שיתוף ביקורי דפים אנונימיים ושימוש בווידג'טים. אפשר לשנות זאת בכל עת בהגדרות.";
 "onboarding_analytics_label" = "ניתוח שימוש (אופציונלי)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "השתמש בנקודת קצה מותאמת אישית של API";
 "onboarding_permissions_subtitle" = "אשר הרשאות אלו כדי שתזכורות מטלות ושיעורים יגיעו בזמן גם כשהאפליקציה סגורה. ניתן לשנות מאוחר יותר בהגדרות.";
 "onboarding_permissions_title" = "הרשאות התראות ותזכורות";
 "onboarding_privacy_continue_hint" = "אשר את שני הפריטים כדי להמשיך";
@@ -522,7 +518,7 @@
 "onboarding_sync_note" = "כאשר הסנכרון כבוי, כל הנתונים נשארים במכשיר זה בלבד. התראות פוש לתזכורות שיעורי בית פועלות מקומית ללא TigerSync.";
 "onboarding_sync_shared_assignments" = "נתוני מטלות";
 "onboarding_sync_shared_courses" = "נתוני קורסים";
-"onboarding_sync_shared_device_id" = "Device ID";
+"onboarding_sync_shared_device_id" = "מזהה מכשיר";
 "onboarding_sync_shared_moodle_token" = "טוקן Moodle (מוצפן)";
 "onboarding_sync_shared_student_id" = "מספר סטודנט";
 "onboarding_sync_subtitle" = "TigerSync שומר על הקורסים, המטלות וההגדרות שלך מסונכרנים בכל המכשירים שלך. תוכל לבחור בדיוק מה לסנכרן בהגדרות TigerSync. התראות פוש ו-Live Activity דורשים TigerSync.";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "אפשר דחיפת שרת";
 "push_server_footer" = "משמש לקבלת הודעות עלון בזמן אמת בבית הספר ולהפעלת תזכורות באופן פעיל.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "רישום אחרון";
-"push_server_last_sync" = "סנכרון אחרון";
 "push_server_latest_error" = "שגיאה אחרונה";
 "push_server_notification_status_authorized" = "מאושר";
 "push_server_notification_status_denied_hint" = "נדחה (יש לפתוח את הגדרות המערכת כדי להפעיל מחדש)";
@@ -568,7 +562,6 @@
 "push_server_status_section" = "סטטוס";
 "push_server_status_settings_hint" = "מושבת ברמת המערכת → הגדרות → TigerDuck → הפעלה";
 "push_server_status_waiting_token" = "ממתין שהמערכת תקצה token";
-"push_server_sync_now_action" = "סנכרנו כעת";
 "refreshing_message" = "מרענן… רגע";
 "score_academic_year_semester" = "שנת לימודים %1$@ %2$@";
 "score_course_credits" = "%1$d נקודות זכות";
@@ -683,7 +676,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "עקוב אחר המערכת (אנגלית כשפת גיבוי)";
 "settings_language_traditional_chinese" = "סינית מסורתית";
-"settings_learn_more_backend" = "למידע נוסף על שרת TigerDuck";
+"settings_learn_more_backend" = "למידע נוסף על TigerSync";
 "settings_library_account_subtitle" = "הסיסמה עשויה להיות שונה ממערכת אקדמית; ברירת המחדל היא מספר תעודת הזהות שלך";
 "settings_library_feature_disabled_message" = "הפעל תחילה \"ספרייה ותכונות קשורות\", ולאחר מכן השתמש בקיצור הדרך QR Code של הספרייה.";
 "settings_library_feature_disabled_title" = "תכונת הספרייה מושבתת";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "תרגום ממשק";
 "source_code_picker_repo_web_description" = "דף אינטרנט רשמי";
 "source_code_picker_section_repositories" = "מאגרים";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "מקומי: %1$@ → שרת: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "חלק מהפריטים שונים בין מכשיר זה לשרת:";
 "sync_conflict_reenable_assignments_differ" = "מצב מטלות: שונה בשרת";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "השתמש במקומי";
 "sync_conflict_use_server" = "השתמש בשרת";
 "sync_content_assignment_reminders" = "תזכורות לתאריך הגשת מטלה";
-"sync_content_class_table_all" = "מערכת שעות – כל הקורסים";
-"sync_content_class_table_colors" = "מערכת שעות – צבעי קורסים";
-"sync_content_class_table_names" = "מערכת שעות – שמות קורסים מותאמים אישית";
+"sync_content_class_table_all" = "כל הקורסים";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "תוכן מסונכרן";
 "sync_courses_footer" = "שולח את מערכת השעות המותאמת אישית שלך ואת מצב השלמת המטלות שלך לשרת לשימוש בכל המכשירים שלך. בחר מה לכלול למטה.";
@@ -807,7 +798,7 @@
 "watch_course_detail_title" = "קורס";
 "watch_course_instructor_label" = "מרצה";
 "watch_empty_not_signed_in" = "לא מחובר. פתח את TigerDuck בטלפון שלך.";
-"watch_just_now" = "Just now";
+"watch_just_now" = "הרגע";
 "watch_last_synced_never" = "מעולם לא סונכרן";
 "watch_last_synced_relative" = "סנכרון אחרון %1$@";
 "watch_next" = "הבא";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "סנכרן עכשיו";
 "watch_starts_at" = "מתחיל ב-%1$@";
 "watch_starts_in_minutes" = "מתחיל בעוד %1$d דק'";
-"watch_today" = "Today";
+"watch_today" = "היום";
 "watch_tomorrow_at" = "מחר · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "שיעור הבא";

@@ -26,7 +26,7 @@
 "action_remove" = "Xóa";
 "action_reset" = "Đặt lại";
 "action_retry" = "Thử lại";
-"action_save" = "Save";
+"action_save" = "Lưu";
 "action_search" = "Tìm kiếm";
 "action_sign_in" = "Đăng nhập";
 "action_sign_in_again" = "Đăng nhập lại";
@@ -121,7 +121,7 @@
 "bulletin_rule_editor_mode_or_footer" = "Thông báo khi phòng ban hoặc danh mục khớp.";
 "bulletin_rule_editor_mode_section" = "Chế độ";
 "bulletin_rule_editor_name_placeholder" = "Ví dụ: Học vụ + Học bổng";
-"bulletin_rule_editor_name_section" = "Name";
+"bulletin_rule_editor_name_section" = "Tên";
 "bulletin_rule_editor_selected_count" = "%1$d đã chọn";
 "bulletin_rule_editor_tag_section" = "Danh mục";
 "bulletin_rule_filter_separator" = ", ";
@@ -154,8 +154,8 @@
 "calendar_no_events_on_day" = "Không có sự kiện vào ngày này";
 "calendar_no_events_today" = "Hôm nay không có sự kiện";
 "calendar_previous_month" = "Tháng trước";
-"calendar_semester_end" = "End of %1$@";
-"calendar_semester_start" = "Start of %1$@";
+"calendar_semester_end" = "Kết thúc %1$@";
+"calendar_semester_start" = "Bắt đầu %1$@";
 "calendar_source_exam" = "Kỳ thi";
 "calendar_source_holiday" = "Ngày nghỉ";
 "calendar_source_moodle" = "Moodle";
@@ -174,7 +174,7 @@
 "class_table_reset_message" = "Lịch học sẽ được dựng lại từ Moodle, hệ thống đăng ký môn học và hệ thống điểm. Các môn được thêm, xoá hoặc đổi tên thủ công sẽ bị mất.";
 "class_table_reset_title" = "Đặt lại lịch học";
 "class_table_reset_title_with_semester" = "Đặt lại lịch học %1$@";
-"class_table_semester_picker_label" = "Semester";
+"class_table_semester_picker_label" = "Học kỳ";
 "class_table_sign_in_required_message" = "Đăng nhập để xem thời khóa biểu";
 "class_table_total_credits_value" = "%1$d tín chỉ";
 "cloud_sync_assignments" = "Bài tập";
@@ -182,9 +182,8 @@
 "cloud_sync_class_table_footer" = "Chọn dữ liệu thời khoá biểu nào để đồng bộ giữa các thiết bị.";
 "cloud_sync_class_table_sync" = "Đồng bộ thời khoá biểu";
 "cloud_sync_course_colours" = "Màu sắc môn học";
-"cloud_sync_courses" = "Môn học";
 "cloud_sync_custom_course_names" = "Tên môn học tuỳ chỉnh";
-"cloud_sync_device_id" = "Device ID";
+"cloud_sync_device_id" = "ID thiết bị";
 "cloud_sync_device_section" = "Thiết bị";
 "cloud_sync_disable_button" = "Tắt TigerSync";
 "cloud_sync_disable_confirm_action" = "Tắt";
@@ -192,8 +191,6 @@
 "cloud_sync_disable_confirm_title" = "Tắt TigerSync?";
 "cloud_sync_disabled_footer" = "Đồng bộ các chỉnh sửa thời khoá biểu, trạng thái bài tập và cài đặt giữa các thiết bị của bạn, máy chủ sẽ định kỳ lấy bài tập Moodle cho bạn.";
 "cloud_sync_enable_button" = "Bật TigerSync";
-"cloud_sync_last_synced_label" = "Đồng bộ lần cuối";
-"cloud_sync_last_synced_never" = "Chưa đồng bộ";
 "cloud_sync_privacy_body" = "Khi TigerSync được bật, mật khẩu hệ thống trường và token Moodle của bạn được mã hoá và tải lên máy chủ TigerDuck, nơi chúng được sử dụng để định kỳ lấy bài tập Moodle thay bạn và đồng bộ các chỉnh sửa thời khoá biểu, trạng thái bài tập và cài đặt giữa các thiết bị của bạn.\n\nBạn có thể tắt TigerSync bất cứ lúc nào. Tắt sẽ đăng xuất thiết bị này và thu hồi đăng ký trên máy chủ (bao gồm thông tin push); thông tin tài khoản đã tải lên chỉ được giữ trên máy chủ khi các thiết bị đồng bộ khác còn sử dụng. Dữ liệu cục bộ không bị ảnh hưởng.";
 "cloud_sync_privacy_confirm" = "Đồng ý và bật";
 "cloud_sync_privacy_title" = "TigerSync & Quyền riêng tư";
@@ -205,7 +202,6 @@
 "cloud_sync_step_login" = "Đang đăng nhập…";
 "cloud_sync_step_register" = "Đang đăng ký thiết bị…";
 "cloud_sync_step_upload" = "Đang tải dữ liệu lên…";
-"cloud_sync_sync_now" = "Đồng bộ ngay";
 "cloud_sync_sync_options" = "Tuỳ chọn đồng bộ";
 "cloud_sync_title" = "TigerSync";
 "color_name_blue" = "Xanh dương";
@@ -239,8 +235,8 @@
 "course_color_picker_title" = "Chỉnh sửa màu";
 "course_credits_value" = "Tín chỉ: %1$d";
 "course_detail_classroom_label" = "Phòng học";
-"course_detail_code_label" = "Code";
-"course_detail_credits_label" = "Credits";
+"course_detail_code_label" = "Mã";
+"course_detail_credits_label" = "Tín chỉ";
 "course_detail_due_prefix" = "Hạn nộp: %1$@";
 "course_detail_enrollment_label" = "Đăng ký học";
 "course_detail_incomplete_assignments" = "Bài tập chưa hoàn thành";
@@ -430,9 +426,9 @@
 "library_status_not_signed_in" = "Chưa đăng nhập";
 "library_status_signed_in" = "Đã đăng nhập";
 "library_virtual_pass_title" = "Thẻ vào ảo";
-"live_activity_countdown_done_assignment_urgent" = "Due";
-"live_activity_countdown_done_class_preparing" = "Started";
-"live_activity_countdown_done_in_class" = "Ended";
+"live_activity_countdown_done_assignment_urgent" = "Đến hạn";
+"live_activity_countdown_done_class_preparing" = "Đã bắt đầu";
+"live_activity_countdown_done_in_class" = "Đã kết thúc";
 "live_activity_settings_assignment_notification_footer" = "Bạn sẽ được thông báo trước khi bài tập đến hạn.";
 "live_activity_settings_assignment_notification_header" = "Thông báo bài tập";
 "live_activity_settings_assignment_warning" = "Cảnh báo bài tập";
@@ -501,7 +497,7 @@
 "notification_setup_title" = "Cài đặt lại thông báo";
 "onboarding_analytics_description" = "Giúp cải thiện TigerDuck bằng cách chia sẻ lượt truy cập trang và sử dụng widget ẩn danh. Bạn có thể thay đổi điều này bất cứ lúc nào trong Cài đặt.";
 "onboarding_analytics_label" = "Phân tích sử dụng (tùy chọn)";
-"onboarding_custom_endpoint_button" = "Use custom API endpoint";
+"onboarding_custom_endpoint_button" = "Dùng điểm cuối API tùy chỉnh";
 "onboarding_permissions_subtitle" = "Cấp các quyền này để nhắc bài tập và nhắc lớp học có thể đến đúng giờ ngay cả khi ứng dụng đã đóng. Bạn có thể thay đổi sau trong Cài đặt.";
 "onboarding_permissions_title" = "Quyền thông báo và nhắc nhở";
 "onboarding_privacy_continue_hint" = "Xác nhận cả hai mục để tiếp tục";
@@ -550,8 +546,6 @@
 "push_server_enable_toggle" = "Bật đẩy thông báo từ máy chủ";
 "push_server_footer" = "Dùng để nhận thông báo bảng tin trường theo thời gian thực và chủ động kích hoạt nhắc nhở.";
 "push_server_ids_section" = "ID";
-"push_server_last_registration" = "Lần đăng ký cuối";
-"push_server_last_sync" = "Lần đồng bộ cuối";
 "push_server_latest_error" = "Lỗi gần đây";
 "push_server_notification_status_authorized" = "Đã được cấp phép";
 "push_server_notification_status_denied_hint" = "Bị từ chối (mở Cài đặt hệ thống để bật lại)";
@@ -565,10 +559,9 @@
 "push_server_status_done" = "Hoàn tất";
 "push_server_status_enabled" = "Đã bật";
 "push_server_status_live_activities" = "Live Activities";
-"push_server_status_section" = "Status";
+"push_server_status_section" = "Trạng thái";
 "push_server_status_settings_hint" = "Tắt ở cấp hệ thống → Cài đặt → TigerDuck → Bật";
 "push_server_status_waiting_token" = "Đang chờ hệ thống gán token";
-"push_server_sync_now_action" = "Đồng bộ ngay";
 "refreshing_message" = "Đang làm mới… vui lòng chờ";
 "score_academic_year_semester" = "Năm học %1$@ %2$@";
 "score_course_credits" = "%1$d tín chỉ";
@@ -683,7 +676,7 @@
 "settings_language_english" = "English";
 "settings_language_follow_system" = "Theo hệ thống (Dự phòng: tiếng Anh)";
 "settings_language_traditional_chinese" = "Tiếng Trung phồn thể";
-"settings_learn_more_backend" = "Tìm hiểu thêm về máy chủ TigerDuck";
+"settings_learn_more_backend" = "Tìm hiểu thêm về TigerSync";
 "settings_library_account_subtitle" = "Mật khẩu có thể khác với hệ thống học vụ; mặc định là số CMND của bạn";
 "settings_library_feature_disabled_message" = "Hãy bật \"Thư viện và các tính năng liên quan\" trước, sau đó dùng lối tắt QR thư viện.";
 "settings_library_feature_disabled_title" = "Tính năng thư viện đã bị tắt";
@@ -744,7 +737,7 @@
 "source_code_picker_repo_translation_description" = "Bản dịch giao diện";
 "source_code_picker_repo_web_description" = "Trang web chính thức";
 "source_code_picker_section_repositories" = "Kho lưu trữ";
-"sync_conflict_item_detail" = "Local: %1$@ → Server: %2$@";
+"sync_conflict_item_detail" = "Cục bộ: %1$@ → Máy chủ: %2$@";
 "sync_conflict_item_header" = "%1$@: %2$@";
 "sync_conflict_message" = "Một số mục khác nhau giữa thiết bị này và máy chủ:";
 "sync_conflict_reenable_assignments_differ" = "Trạng thái bài tập: khác trên máy chủ";
@@ -761,9 +754,7 @@
 "sync_conflict_use_local" = "Dùng cục bộ";
 "sync_conflict_use_server" = "Dùng máy chủ";
 "sync_content_assignment_reminders" = "Lời nhắc hạn nộp bài tập";
-"sync_content_class_table_all" = "Thời khoá biểu – tất cả môn học";
-"sync_content_class_table_colors" = "Thời khoá biểu – màu sắc môn học";
-"sync_content_class_table_names" = "Thời khoá biểu – tên môn học tuỳ chỉnh";
+"sync_content_class_table_all" = "Tất cả môn học";
 "sync_content_live_activity" = "Live Activity";
 "sync_content_nav_label" = "Nội dung đồng bộ";
 "sync_courses_footer" = "Gửi thời khoá biểu tuỳ chỉnh và trạng thái hoàn thành bài tập của bạn lên máy chủ để dùng trên mọi thiết bị. Chọn nội dung cần đồng bộ bên dưới.";
@@ -807,7 +798,7 @@
 "watch_course_detail_title" = "Khóa học";
 "watch_course_instructor_label" = "Giảng viên";
 "watch_empty_not_signed_in" = "Chưa đăng nhập. Mở TigerDuck trên điện thoại.";
-"watch_just_now" = "Just now";
+"watch_just_now" = "Vừa xong";
 "watch_last_synced_never" = "Chưa bao giờ đồng bộ";
 "watch_last_synced_relative" = "Đồng bộ lần cuối %1$@";
 "watch_next" = "TIẾP";
@@ -833,7 +824,7 @@
 "watch_settings_sync_now" = "Đồng bộ ngay";
 "watch_starts_at" = "Bắt đầu %1$@";
 "watch_starts_in_minutes" = "Bắt đầu sau %1$d phút";
-"watch_today" = "Today";
+"watch_today" = "Hôm nay";
 "watch_tomorrow_at" = "Ngày mai · %1$@";
 "watch_weekday_at" = "%1$@ · %2$@";
 "watch_widget_next_class" = "Lớp tiếp theo";
