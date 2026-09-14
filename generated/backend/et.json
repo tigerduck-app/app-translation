@@ -726,7 +726,6 @@
   "sync_conflict_title": "Sünkroonimise konflikt",
   "sync_conflict_use_local": "Kasuta kohalikku",
   "sync_conflict_use_server": "Kasuta serverit",
-  "sync_content_assignment_reminders": "Ülesande tähtaja meeldetuletused",
   "sync_content_class_table_all": "Kõik ained",
   "sync_content_nav_label": "Sünkroonitud sisu",
   "sync_courses_footer": "Saadab sinu kohandatud tunniplaani ja ülesannete täitmise oleku serverisse, et saaksid neid kasutada kõigis oma seadmetes. Vali allpool, mida soovid kaasata.",

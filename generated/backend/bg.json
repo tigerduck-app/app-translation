@@ -726,7 +726,6 @@
   "sync_conflict_title": "Конфликт при синхронизация",
   "sync_conflict_use_local": "Локално",
   "sync_conflict_use_server": "От сървъра",
-  "sync_content_assignment_reminders": "Напомняния за крайни срокове на задания",
   "sync_content_class_table_all": "Всички курсове",
   "sync_content_nav_label": "Синхронизирано съдържание",
   "sync_courses_footer": "Изпраща персонализираното ви разписание и състоянието на изпълнение на задачите към сървъра за използване на всички ваши устройства. Изберете какво да включите по-долу.",

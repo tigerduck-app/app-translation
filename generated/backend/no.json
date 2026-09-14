@@ -726,7 +726,6 @@
   "sync_conflict_title": "Synkroniseringskonflikt",
   "sync_conflict_use_local": "Bruk lokal",
   "sync_conflict_use_server": "Bruk server",
-  "sync_content_assignment_reminders": "Påminnelser om oppgavefrist",
   "sync_content_class_table_all": "Alle emner",
   "sync_content_nav_label": "Synkronisert innhold",
   "sync_courses_footer": "Sender din egendefinerte timeplan og fullføringsstatus for oppgavene dine til serveren for bruk på tvers av enhetene dine. Velg hva som skal inkluderes nedenfor.",

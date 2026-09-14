@@ -726,7 +726,6 @@
   "sync_conflict_title": "Sync Conflict",
   "sync_conflict_use_local": "Use Local",
   "sync_conflict_use_server": "Use Server",
-  "sync_content_assignment_reminders": "Assignment due reminders",
   "sync_content_class_table_all": "All courses",
   "sync_content_nav_label": "Synced content",
   "sync_courses_footer": "Sends your custom timetable and assignment completion state to the server for use across your devices. Choose what to include below.",

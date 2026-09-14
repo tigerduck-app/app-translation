@@ -769,9 +769,9 @@
     <string name="sync_conflict_title">同步衝突</string>
     <string name="sync_conflict_use_local">使用本機</string>
     <string name="sync_conflict_use_server">使用伺服器</string>
-    <string name="sync_content_assignment_reminders">作業到期提醒</string>
+    <string name="sync_content_assignment_reminders">作業到期提醒設定</string>
     <string name="sync_content_class_table_all">所有課程</string>
-    <string name="sync_content_live_activity">即時更新</string>
+    <string name="sync_content_live_activity">即時更新設定</string>
     <string name="sync_content_nav_label">同步內容</string>
     <string name="sync_courses_footer">將自訂課表、作業完成狀態推送至伺服器，用於跨裝置同步。你可以在下列選單選擇同步項目</string>
     <string name="sync_courses_toggle">同步課程資訊</string>

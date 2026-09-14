@@ -726,7 +726,6 @@
   "sync_conflict_title": "Conflit de synchronisation",
   "sync_conflict_use_local": "Utiliser local",
   "sync_conflict_use_server": "Utiliser serveur",
-  "sync_content_assignment_reminders": "Rappels d'échéance des devoirs",
   "sync_content_class_table_all": "Tous les cours",
   "sync_content_nav_label": "Contenu synchronisé",
   "sync_courses_footer": "Envoie votre emploi du temps personnalisé et l'état d'avancement de vos devoirs au serveur pour les utiliser sur tous vos appareils. Choisissez ci-dessous ce qu'il faut inclure.",

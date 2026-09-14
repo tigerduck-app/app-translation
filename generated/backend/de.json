@@ -726,7 +726,6 @@
   "sync_conflict_title": "Synchronisierungskonflikt",
   "sync_conflict_use_local": "Lokal verwenden",
   "sync_conflict_use_server": "Server verwenden",
-  "sync_content_assignment_reminders": "Erinnerungen an fällige Aufgaben",
   "sync_content_class_table_all": "Alle Kurse",
   "sync_content_nav_label": "Synchronisierte Inhalte",
   "sync_courses_footer": "Sendet deinen individuellen Stundenplan und den Bearbeitungsstatus deiner Aufgaben an den Server zur geräteübergreifenden Nutzung. Wähle unten aus, was enthalten sein soll.",

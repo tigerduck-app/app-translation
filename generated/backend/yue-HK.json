@@ -726,7 +726,6 @@
   "sync_conflict_title": "同步衝突",
   "sync_conflict_use_local": "使用本機",
   "sync_conflict_use_server": "使用伺服器",
-  "sync_content_assignment_reminders": "作業到期提醒",
   "sync_content_class_table_all": "所有課程",
   "sync_content_nav_label": "同步內容",
   "sync_courses_footer": "將自訂課表、作業完成狀態推送到伺服器，用嚟跨裝置同步。你可以喺下面嘅選單揀要同步嘅項目",

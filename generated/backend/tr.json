@@ -726,7 +726,6 @@
   "sync_conflict_title": "Senkronizasyon Çakışması",
   "sync_conflict_use_local": "Yereli Kullan",
   "sync_conflict_use_server": "Sunucuyu Kullan",
-  "sync_content_assignment_reminders": "Ödev teslim hatırlatıcıları",
   "sync_content_class_table_all": "Tüm dersler",
   "sync_content_nav_label": "Senkronize edilen içerik",
   "sync_courses_footer": "Tüm cihazlarınızda kullanabilmeniz için özel ders programınızı ve ödev tamamlanma durumunuzu sunucuya gönderir. Aşağıda nelerin dahil edileceğini seçin.",

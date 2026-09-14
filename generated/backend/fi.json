@@ -726,7 +726,6 @@
   "sync_conflict_title": "Synkronointiristiriita",
   "sync_conflict_use_local": "Käytä paikallista",
   "sync_conflict_use_server": "Käytä palvelinta",
-  "sync_content_assignment_reminders": "Tehtävän palautusmuistutukset",
   "sync_content_class_table_all": "Kaikki kurssit",
   "sync_content_nav_label": "Synkronoitu sisältö",
   "sync_courses_footer": "Lähettää mukautetun lukujärjestyksesi ja tehtävien suoritustilan palvelimelle, jotta voit käyttää niitä kaikilla laitteillasi. Valitse alta, mitä haluat sisällyttää.",

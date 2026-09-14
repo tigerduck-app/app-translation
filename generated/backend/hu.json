@@ -726,7 +726,6 @@
   "sync_conflict_title": "Szinkronizálási ütközés",
   "sync_conflict_use_local": "Helyi használata",
   "sync_conflict_use_server": "Szerver használata",
-  "sync_content_assignment_reminders": "Házi feladat határidő emlékeztetők",
   "sync_content_class_table_all": "Összes kurzus",
   "sync_content_nav_label": "Szinkronizált tartalom",
   "sync_courses_footer": "Elküldi az egyéni órarendedet és a feladatok teljesítési állapotát a szervernek, hogy minden eszközödön elérhetők legyenek. Válaszd ki lent, mit szeretnél belefoglalni.",

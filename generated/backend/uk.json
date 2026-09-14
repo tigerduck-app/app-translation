@@ -726,7 +726,6 @@
   "sync_conflict_title": "Конфлікт синхронізації",
   "sync_conflict_use_local": "Використати локальне",
   "sync_conflict_use_server": "Використати сервер",
-  "sync_content_assignment_reminders": "Нагадування про дедлайн завдань",
   "sync_content_class_table_all": "Усі курси",
   "sync_content_nav_label": "Синхронізований вміст",
   "sync_courses_footer": "Надсилає ваш власний розклад і стан виконання завдань на сервер для використання на всіх ваших пристроях. Виберіть нижче, що включити.",

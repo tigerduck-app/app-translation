@@ -726,7 +726,6 @@
   "sync_conflict_title": "Synkroniseringskonflikt",
   "sync_conflict_use_local": "Brug lokal",
   "sync_conflict_use_server": "Brug server",
-  "sync_content_assignment_reminders": "Påmindelser om opgavefrist",
   "sync_content_class_table_all": "Alle kurser",
   "sync_content_nav_label": "Synkroniseret indhold",
   "sync_courses_footer": "Sender dit tilpassede skema og status for dine opgaver til serveren, så de kan bruges på tværs af dine enheder. Vælg nedenfor, hvad der skal inkluderes.",

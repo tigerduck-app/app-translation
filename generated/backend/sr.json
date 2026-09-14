@@ -726,7 +726,6 @@
   "sync_conflict_title": "Конфликт синхронизације",
   "sync_conflict_use_local": "Користи локално",
   "sync_conflict_use_server": "Користи сервер",
-  "sync_content_assignment_reminders": "Подсетници за рок задатка",
   "sync_content_class_table_all": "Сви курсеви",
   "sync_content_nav_label": "Синхронизовани садржај",
   "sync_courses_footer": "Шаље ваш прилагођени распоред часова и статус завршености задатака на сервер за коришћење на свим вашим уређајима. Изаберите испод шта да укључите.",

@@ -726,7 +726,6 @@
   "sync_conflict_title": "同步冲突",
   "sync_conflict_use_local": "使用本机",
   "sync_conflict_use_server": "使用服务器",
-  "sync_content_assignment_reminders": "作业到期提醒",
   "sync_content_class_table_all": "所有课程",
   "sync_content_nav_label": "同步内容",
   "sync_courses_footer": "将自定义课表、作业完成状态推送至服务器，用于跨设备同步。您可以在下方菜单中选择同步项目",
