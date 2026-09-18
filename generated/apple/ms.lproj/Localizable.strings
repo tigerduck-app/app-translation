@@ -640,6 +640,7 @@
 "school_mail_search_local_only" = "The server can't run this search. Showing matches from loaded mail only.";
 "school_mail_search_prompt" = "Search mail";
 "school_mail_send" = "Send";
+"school_mail_send_confirm_title" = "Send this mail?";
 "school_mail_send_failed" = "Couldn't send the mail";
 "school_mail_settings_background_refresh_hint" = "iOS decides how often TigerDuck can check for mail in the background, often only every few hours. Open School Mail to check right away.";
 "school_mail_settings_diagnostics" = "Notification diagnostics";

@@ -640,6 +640,7 @@
 "school_mail_search_local_only" = "伺服器不支援這個搜尋，只搜尋已載入的郵件。";
 "school_mail_search_prompt" = "搜尋郵件";
 "school_mail_send" = "傳送";
+"school_mail_send_confirm_title" = "要傳送這封信嗎？";
 "school_mail_send_failed" = "無法傳送郵件";
 "school_mail_settings_background_refresh_hint" = "iOS 會決定 TigerDuck 在背景檢查新信的頻率，通常要數小時才一次。打開校園信箱可以立即檢查。";
 "school_mail_settings_diagnostics" = "通知診斷";
