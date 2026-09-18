@@ -574,10 +574,15 @@
 "school_mail_auth_failed_notification_title" = "School mail sign-in failed";
 "school_mail_bcc" = "Bcc";
 "school_mail_body" = "Message";
+"school_mail_bounce_warning" = "Did you mistype an address in the mail you just sent?";
+"school_mail_cache_size" = "Cache size";
 "school_mail_cc" = "Cc";
+"school_mail_clear_cache" = "Clear cache";
 "school_mail_compose" = "New mail";
 "school_mail_copy_all" = "Copy all";
 "school_mail_delete" = "Delete";
+"school_mail_delete_confirm_message" = "It will be moved to Trash.";
+"school_mail_delete_confirm_title" = "Delete this mail?";
 "school_mail_delete_forever_message" = "This can't be undone.";
 "school_mail_delete_forever_title" = "Delete permanently?";
 "school_mail_details_cc" = "Cc: %1$@";
