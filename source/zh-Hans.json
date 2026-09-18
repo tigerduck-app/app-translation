@@ -598,6 +598,7 @@
     "school_mail_no_recipient": "请至少填写一位收件人",
     "school_mail_no_sender": "（没有发件人）",
     "school_mail_no_subject": "（没有主题）",
+    "school_mail_notification_settings_title": "校园信箱通知",
     "school_mail_notification_title": "Email:%1$@",
     "school_mail_open": "打开",
     "school_mail_parse_failed": "无法解析这封邮件的格式，改为显示源代码。",

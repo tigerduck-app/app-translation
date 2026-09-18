@@ -598,6 +598,7 @@
     "school_mail_no_recipient": "請至少填一位收件者",
     "school_mail_no_sender": "（沒有寄件者）",
     "school_mail_no_subject": "（沒有主旨）",
+    "school_mail_notification_settings_title": "校園信箱通知",
     "school_mail_notification_title": "Email:%1$@",
     "school_mail_open": "開啟",
     "school_mail_parse_failed": "無法解析這封信的格式，改為顯示原始碼。",
