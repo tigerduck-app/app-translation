@@ -591,6 +591,7 @@
 "school_mail_error_generic" = "Something went wrong with school mail";
 "school_mail_error_network" = "Can't reach the mail server";
 "school_mail_external_badge" = "External";
+"school_mail_folder_all" = "All mail";
 "school_mail_folder_drafts" = "Drafts";
 "school_mail_folder_inbox" = "Inbox";
 "school_mail_folder_junk" = "Junk";

@@ -591,6 +591,7 @@
 "school_mail_error_generic" = "校園信箱發生錯誤";
 "school_mail_error_network" = "無法連線到郵件伺服器";
 "school_mail_external_badge" = "外部";
+"school_mail_folder_all" = "所有信件";
 "school_mail_folder_drafts" = "草稿";
 "school_mail_folder_inbox" = "收件匣";
 "school_mail_folder_junk" = "廣告信";
