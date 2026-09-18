@@ -624,6 +624,7 @@
 "school_mail_no_recipient" = "Add at least one recipient";
 "school_mail_no_sender" = "(No sender)";
 "school_mail_no_subject" = "(No subject)";
+"school_mail_notification_title" = "Email:%1$@";
 "school_mail_open" = "Open";
 "school_mail_parse_failed" = "Couldn't read this mail's format. Showing its source instead.";
 "school_mail_quote_header" = "On %1$@, %2$@ wrote:";
