@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Kein Absender)";
 "school_mail_no_subject" = "(Kein Betreff)";
 "school_mail_notification_settings_title" = "Uni-Mail-Benachrichtigungen";
-"school_mail_notification_title" = "E-Mail:%1$@";
+"school_mail_notification_title" = "E-Mail: %1$@";
 "school_mail_open" = "Öffnen";
 "school_mail_parse_failed" = "Das Format dieser E-Mail konnte nicht gelesen werden. Es wird stattdessen der Quelltext angezeigt.";
 "school_mail_quote_header" = "Am %1$@ schrieb %2$@:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Matrikelnummer und Passwort entsprechen denen des Hochschulsystems. Dieses Passwort ist zugleich das Passwort für das Campus-WLAN (NTUST-PEAP); TigerDuck speichert es nur verschlüsselt auf diesem Gerät und lädt es niemals hoch.";
 "school_mail_sign_in_prompt_title" = "Bei Uni-Mail anmelden";
 "school_mail_source_failed" = "Der Quelltext konnte nicht geladen werden.";
-"school_mail_source_large_message" = "Diese E-Mail ist %1$@ groß. Das Laden des Quelltexts kann viel Datenvolumen verbrauchen.";
-"school_mail_source_large_title" = "Vollständigen Quelltext laden?";
 "school_mail_subject" = "Betreff";
 "school_mail_to" = "An";
 "school_mail_too_large" = "Anhänge überschreiten das Limit von 50 MB";

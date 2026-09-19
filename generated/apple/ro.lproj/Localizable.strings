@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Fără expeditor)";
 "school_mail_no_subject" = "(Fără subiect)";
 "school_mail_notification_settings_title" = "Notificări E-mail universitar";
-"school_mail_notification_title" = "E-mail:%1$@";
+"school_mail_notification_title" = "E-mail: %1$@";
 "school_mail_open" = "Deschide";
 "school_mail_parse_failed" = "Formatul acestui e-mail nu a putut fi citit. Se afișează sursa în schimb.";
 "school_mail_quote_header" = "Pe %1$@, %2$@ a scris:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Numărul de matricol și parola ta trebuie să fie aceleași ca în sistemul universitar. Această parolă este și parola Wi-Fi din campus (NTUST-PEAP); TigerDuck o stochează doar criptat pe acest dispozitiv și nu o încarcă niciodată online.";
 "school_mail_sign_in_prompt_title" = "Conectează-te la e-mailul universitar";
 "school_mail_source_failed" = "Sursa nu a putut fi încărcată.";
-"school_mail_source_large_message" = "Acest e-mail are %1$@. Încărcarea sursei sale poate consuma multe date.";
-"school_mail_source_large_title" = "Încarci sursa completă?";
 "school_mail_subject" = "Subiect";
 "school_mail_to" = "Către";
 "school_mail_too_large" = "Atașamentele depășesc limita de 50 MB";

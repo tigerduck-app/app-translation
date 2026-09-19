@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Gönderen yok)";
 "school_mail_no_subject" = "(Konu yok)";
 "school_mail_notification_settings_title" = "Okul Postası bildirimleri";
-"school_mail_notification_title" = "Email:%1$@";
+"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Aç";
 "school_mail_parse_failed" = "Bu postanın biçimi okunamadı. Bunun yerine kaynağı gösteriliyor.";
 "school_mail_quote_header" = "%1$@ tarihinde %2$@ şunu yazdı:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Öğrenci numaranız ve şifreniz okul sistemindekiyle aynı olmalıdır. Bu şifre aynı zamanda kampüs Wi-Fi (NTUST-PEAP) şifresidir; TigerDuck uygulaması bunu yalnızca bu cihazda şifreli olarak saklar ve hiçbir zaman yüklemez.";
 "school_mail_sign_in_prompt_title" = "Okul postasına giriş yapın";
 "school_mail_source_failed" = "Kaynak yüklenemedi.";
-"school_mail_source_large_message" = "Bu posta %1$@ boyutunda. Kaynağını yüklemek çok veri kullanabilir.";
-"school_mail_source_large_title" = "Tüm kaynak yüklensin mi?";
 "school_mail_subject" = "Konu";
 "school_mail_to" = "Kime";
 "school_mail_too_large" = "Ekler 50 MB sınırını aşıyor";

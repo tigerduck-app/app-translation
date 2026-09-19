@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Bez odesílatele)";
 "school_mail_no_subject" = "(Bez předmětu)";
 "school_mail_notification_settings_title" = "Oznámení školní pošty";
-"school_mail_notification_title" = "Email:%1$@";
+"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Otevřít";
 "school_mail_parse_failed" = "Formát zprávy se nepodařilo rozpoznat. Zobrazuje se její zdrojový kód.";
 "school_mail_quote_header" = "Dne %1$@ uživatel %2$@ napsal:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Vaše přihlašovací jméno a heslo by měly být stejné jako ve školním systému. Toto heslo je zároveň heslem ke kampusové síti Wi-Fi (NTUST-PEAP); TigerDuck ho na tomto zařízení ukládá jen v zašifrované podobě a nikdy ho nikam neodesílá.";
 "school_mail_sign_in_prompt_title" = "Přihlásit se ke školní poště";
 "school_mail_source_failed" = "Zdrojový kód se nepodařilo načíst.";
-"school_mail_source_large_message" = "Tato zpráva má velikost %1$@. Načtení jejího zdrojového kódu může spotřebovat hodně dat.";
-"school_mail_source_large_title" = "Načíst celý zdrojový kód?";
 "school_mail_subject" = "Předmět";
 "school_mail_to" = "Komu";
 "school_mail_too_large" = "Přílohy překračují limit 50 MB";

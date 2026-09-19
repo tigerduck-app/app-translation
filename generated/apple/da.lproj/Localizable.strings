@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Ingen afsender)";
 "school_mail_no_subject" = "(Intet emne)";
 "school_mail_notification_settings_title" = "Notifikationer for Skolemail";
-"school_mail_notification_title" = "E-mail:%1$@";
+"school_mail_notification_title" = "E-mail: %1$@";
 "school_mail_open" = "Åbn";
 "school_mail_parse_failed" = "Formatet på denne mail kunne ikke læses. Viser kildekoden i stedet.";
 "school_mail_quote_header" = "Den %1$@ skrev %2$@:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Dit studienummer og din adgangskode skal være de samme som til skolens system. Denne adgangskode er også adgangskoden til campus-wifi (NTUST-PEAP); TigerDuck gemmer den kun krypteret på denne enhed og uploader den aldrig.";
 "school_mail_sign_in_prompt_title" = "Log ind på Skolemail";
 "school_mail_source_failed" = "Kildekoden kunne ikke indlæses.";
-"school_mail_source_large_message" = "Denne mail fylder %1$@. Indlæsning af kildekoden kan bruge meget data.";
-"school_mail_source_large_title" = "Indlæs hele kildekoden?";
 "school_mail_subject" = "Emne";
 "school_mail_to" = "Til";
 "school_mail_too_large" = "Vedhæftninger overskrider grænsen på 50 MB";

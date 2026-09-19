@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Nincs feladó)";
 "school_mail_no_subject" = "(Nincs tárgy)";
 "school_mail_notification_settings_title" = "Iskolai posta értesítések";
-"school_mail_notification_title" = "Email:%1$@";
+"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Megnyitás";
 "school_mail_parse_failed" = "Nem sikerült beolvasni ennek az üzenetnek a formátumát. Helyette a forrása jelenik meg.";
 "school_mail_quote_header" = "%2$@ ezt írta (%1$@):";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "A hallgatói azonosítónak és a jelszónak meg kell egyeznie az egyetemi rendszerben használttal. Ez a jelszó egyben a campus Wi-Fi (NTUST-PEAP) jelszava is; a TigerDuck alkalmazás csak titkosítva tárolja ezen az eszközön, és soha nem tölti fel.";
 "school_mail_sign_in_prompt_title" = "Bejelentkezés az iskolai postába";
 "school_mail_source_failed" = "Nem sikerült betölteni a forrást.";
-"school_mail_source_large_message" = "Ennek az üzenetnek a mérete %1$@. A forrásának betöltése sok adatforgalmat használhat.";
-"school_mail_source_large_title" = "Betölti a teljes forrást?";
 "school_mail_subject" = "Tárgy";
 "school_mail_to" = "Címzett";
 "school_mail_too_large" = "A mellékletek meghaladják az 50 MB-os korlátot";

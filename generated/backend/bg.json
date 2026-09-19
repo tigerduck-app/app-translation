@@ -645,8 +645,6 @@
   "school_mail_show_cc_bcc": "Добави Cc/Bcc",
   "school_mail_sign_in_note": "Вашият студентски номер и парола трябва да са същите като в системата на училището. Тази парола е и паролата за университетската Wi-Fi мрежа (NTUST-PEAP); TigerDuck я съхранява само криптирана на това устройство и никога не я качва в мрежата.",
   "school_mail_sign_in_prompt_title": "Влезте в училищната поща",
-  "school_mail_source_large_message": "Този имейл е %1$@. Зареждането на изходния му код може да използва много трафик.",
-  "school_mail_source_large_title": "Да заредя ли пълния изходен код?",
   "school_mail_subject": "Тема",
   "school_mail_to": "До",
   "school_mail_too_large": "Прикачените файлове надвишават лимита от 50 MB",

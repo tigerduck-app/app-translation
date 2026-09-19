@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Brak nadawcy)";
 "school_mail_no_subject" = "(Brak tematu)";
 "school_mail_notification_settings_title" = "Powiadomienia poczty uczelnianej";
-"school_mail_notification_title" = "Email:%1$@";
+"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Otwórz";
 "school_mail_parse_failed" = "Nie udało się odczytać formatu wiadomości. Wyświetlono jej kod źródłowy.";
 "school_mail_quote_header" = "W dniu %1$@ użytkownik %2$@ napisał:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Twój login i hasło powinny być takie same jak w systemie uczelnianym. To hasło jest też hasłem do kampusowej sieci Wi-Fi (NTUST-PEAP); TigerDuck przechowuje je wyłącznie w postaci zaszyfrowanej na tym urządzeniu i nigdy go nie przesyła.";
 "school_mail_sign_in_prompt_title" = "Zaloguj się do poczty uczelnianej";
 "school_mail_source_failed" = "Nie udało się wczytać kodu źródłowego.";
-"school_mail_source_large_message" = "Ta wiadomość ma rozmiar %1$@. Wczytanie jej kodu źródłowego może zużyć dużo danych.";
-"school_mail_source_large_title" = "Wczytać pełny kod źródłowy?";
 "school_mail_subject" = "Temat";
 "school_mail_to" = "Do";
 "school_mail_too_large" = "Załączniki przekraczają limit 50 MB";

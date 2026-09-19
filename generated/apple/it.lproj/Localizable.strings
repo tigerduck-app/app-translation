@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Nessun mittente)";
 "school_mail_no_subject" = "(Nessun oggetto)";
 "school_mail_notification_settings_title" = "Notifiche di Posta universitaria";
-"school_mail_notification_title" = "Posta:%1$@";
+"school_mail_notification_title" = "Posta: %1$@";
 "school_mail_open" = "Apri";
 "school_mail_parse_failed" = "Impossibile leggere il formato di questo messaggio. Viene mostrato il codice sorgente.";
 "school_mail_quote_header" = "Il %1$@, %2$@ ha scritto:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Il numero di matricola e la password devono essere gli stessi del sistema universitario. Questa password è anche quella del Wi-Fi del campus (NTUST-PEAP); TigerDuck la salva solo in forma crittografata su questo dispositivo e non la carica mai online.";
 "school_mail_sign_in_prompt_title" = "Accedi alla posta universitaria";
 "school_mail_source_failed" = "Impossibile caricare il codice sorgente.";
-"school_mail_source_large_message" = "Questo messaggio è di %1$@. Caricarne il codice sorgente può consumare molti dati.";
-"school_mail_source_large_title" = "Caricare il codice sorgente completo?";
 "school_mail_subject" = "Oggetto";
 "school_mail_to" = "A";
 "school_mail_too_large" = "Gli allegati superano il limite di 50 MB";

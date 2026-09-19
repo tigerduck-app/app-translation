@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Vaša študentska številka in geslo morata biti enaka kot v šolskem sistemu. To geslo je tudi geslo za kampusni Wi-Fi (NTUST-PEAP); TigerDuck ga shrani šifrirano samo na tej napravi in ga nikoli ne naloži v splet.";
 "school_mail_sign_in_prompt_title" = "Prijavite se v šolsko pošto";
 "school_mail_source_failed" = "Izvorne kode ni bilo mogoče naložiti.";
-"school_mail_source_large_message" = "To sporočilo ima %1$@. Nalaganje njegove izvorne kode lahko porabi veliko podatkov.";
-"school_mail_source_large_title" = "Naložim celotno izvorno kodo?";
 "school_mail_subject" = "Zadeva";
 "school_mail_to" = "Komu";
 "school_mail_too_large" = "Priloge presegajo omejitev 50 MB";

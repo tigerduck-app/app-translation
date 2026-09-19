@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(Tiada penghantar)";
 "school_mail_no_subject" = "(Tiada subjek)";
 "school_mail_notification_settings_title" = "Pemberitahuan e-mel sekolah";
-"school_mail_notification_title" = "Email:%1$@";
+"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Buka";
 "school_mail_parse_failed" = "Tidak dapat membaca format e-mel ini. Memaparkan kod sumbernya sebagai gantinya.";
 "school_mail_quote_header" = "Pada %1$@, %2$@ telah menulis:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "ID dan kata laluan anda perlu sama seperti sistem sekolah. Kata laluan ini juga merupakan kata laluan Wi-Fi kampus (NTUST-PEAP); TigerDuck hanya menyimpannya dalam bentuk disulitkan pada peranti ini dan tidak sekali-kali memuat naiknya.";
 "school_mail_sign_in_prompt_title" = "Log masuk ke e-mel sekolah";
 "school_mail_source_failed" = "Tidak dapat memuatkan kod sumber.";
-"school_mail_source_large_message" = "E-mel ini bersaiz %1$@. Memuatkan kod sumbernya boleh menggunakan banyak data.";
-"school_mail_source_large_title" = "Muatkan keseluruhan kod sumber?";
 "school_mail_subject" = "Subjek";
 "school_mail_to" = "Kepada";
 "school_mail_too_large" = "Lampiran melebihi had 50 MB";

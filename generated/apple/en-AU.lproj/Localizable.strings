@@ -644,7 +644,7 @@
 "school_mail_no_sender" = "(No sender)";
 "school_mail_no_subject" = "(No subject)";
 "school_mail_notification_settings_title" = "School Mail notifications";
-"school_mail_notification_title" = "Email:%1$@";
+"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Open";
 "school_mail_parse_failed" = "Couldn't read this mail's format. Showing its source instead.";
 "school_mail_quote_header" = "On %1$@, %2$@ wrote:";
@@ -672,8 +672,6 @@
 "school_mail_sign_in_note" = "Your ID and password should be the same as the school system's. This password is also the campus Wi-Fi (NTUST-PEAP) password; TigerDuck only stores it encrypted on this device and never uploads it.";
 "school_mail_sign_in_prompt_title" = "Sign in to school mail";
 "school_mail_source_failed" = "Couldn't load the source.";
-"school_mail_source_large_message" = "This mail is %1$@. Loading its source can use a lot of data.";
-"school_mail_source_large_title" = "Load the full source?";
 "school_mail_subject" = "Subject";
 "school_mail_to" = "To";
 "school_mail_too_large" = "Attachments are over the 50 MB limit";

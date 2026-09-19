@@ -645,8 +645,6 @@
   "school_mail_show_cc_bcc": "Dodaj Cc/Bcc",
   "school_mail_sign_in_note": "Vaš studentski broj i lozinka trebaju biti isti kao u školskom sustavu. Ta je lozinka ujedno i lozinka za kampus Wi-Fi (NTUST-PEAP); TigerDuck je pohranjuje samo šifrirano na ovom uređaju i nikada je ne učitava.",
   "school_mail_sign_in_prompt_title": "Prijavite se u školsku poštu",
-  "school_mail_source_large_message": "Ova poruka ima %1$@. Učitavanje njezinog izvornog koda može potrošiti puno podataka.",
-  "school_mail_source_large_title": "Učitati cijeli izvorni kod?",
   "school_mail_subject": "Predmet",
   "school_mail_to": "Prima",
   "school_mail_too_large": "Privici prelaze ograničenje od 50 MB",
