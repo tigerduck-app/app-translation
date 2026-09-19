@@ -606,7 +606,7 @@
   "school_mail_no_sender": "(Nav sūtītāja)",
   "school_mail_no_subject": "(Nav tēmas)",
   "school_mail_notification_settings_title": "Skolas pasta paziņojumi",
-  "school_mail_notification_title": "E-pasts:%1$@",
+  "school_mail_notification_title": "Vēstule: %1$@",
   "school_mail_open": "Atvērt",
   "school_mail_parse_failed": "Neizdevās nolasīt šīs vēstules formātu. Tā vietā tiek rādīts tās pirmkods.",
   "school_mail_quote_header": "%1$@, %2$@ rakstīja:",

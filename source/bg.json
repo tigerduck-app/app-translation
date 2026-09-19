@@ -605,7 +605,7 @@
     "school_mail_no_sender": "(Няма подател)",
     "school_mail_no_subject": "(Няма тема)",
     "school_mail_notification_settings_title": "Известия за училищната поща",
-    "school_mail_notification_title": "Имейл:%1$@",
+    "school_mail_notification_title": "Имейл: %1$@",
     "school_mail_open": "Отвори",
     "school_mail_parse_failed": "Форматът на този имейл не можа да бъде разчетен. Вместо това се показва изходният код.",
     "school_mail_quote_header": "На %1$@, %2$@ написа:",

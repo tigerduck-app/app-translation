@@ -605,7 +605,7 @@
     "school_mail_no_sender": "(Nėra siuntėjo)",
     "school_mail_no_subject": "(Nėra temos)",
     "school_mail_notification_settings_title": "Mokyklos pašto pranešimai",
-    "school_mail_notification_title": "El. paštas:%1$@",
+    "school_mail_notification_title": "Laiškas: %1$@",
     "school_mail_open": "Atidaryti",
     "school_mail_parse_failed": "Nepavyko atpažinti šio laiško formato. Rodomas jo pirminis kodas.",
     "school_mail_quote_header": "%1$@, %2$@ rašė:",
