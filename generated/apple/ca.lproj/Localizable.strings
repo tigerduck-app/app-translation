@@ -755,6 +755,7 @@
 "score_semester_upper" = "Tardor";
 "score_sign_in_required_message" = "Inicieu la sessió per veure el vostre historial de notes";
 "score_term_format" = "Semestre actual: %1$@-%2$@";
+"settings_about_others" = "Altres";
 "settings_accent_color" = "Color d'accent";
 "settings_account_library_system" = "Sistema de la biblioteca";
 "settings_account_ntust_system" = "Sistema acadèmic";

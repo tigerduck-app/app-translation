@@ -755,6 +755,7 @@
 "score_semester_upper" = "Sügis";
 "score_sign_in_required_message" = "Hinnete ajaloo vaatamiseks logige sisse";
 "score_term_format" = "Praegune semester: %1$@-%2$@";
+"settings_about_others" = "Muu";
 "settings_accent_color" = "Rõhuvärv";
 "settings_account_library_system" = "Raamatukogu süsteem";
 "settings_account_ntust_system" = "Akadeemiline süsteem";

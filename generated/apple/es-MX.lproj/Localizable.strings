@@ -755,6 +755,7 @@
 "score_semester_upper" = "Otoño";
 "score_sign_in_required_message" = "Inicia sesión para ver tu historial de calificaciones";
 "score_term_format" = "Período actual: %1$@-%2$@";
+"settings_about_others" = "Otros";
 "settings_accent_color" = "Color de acento";
 "settings_account_library_system" = "Sistema de biblioteca";
 "settings_account_ntust_system" = "Sistema académico";

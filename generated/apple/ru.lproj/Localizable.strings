@@ -755,6 +755,7 @@
 "score_semester_upper" = "Осенний";
 "score_sign_in_required_message" = "Войдите, чтобы просмотреть историю оценок";
 "score_term_format" = "Текущий семестр: %1$@-%2$@";
+"settings_about_others" = "Другое";
 "settings_accent_color" = "Акцентный цвет";
 "settings_account_library_system" = "Система библиотеки";
 "settings_account_ntust_system" = "Школьная система";

@@ -755,6 +755,7 @@
 "score_semester_upper" = "خزاں";
 "score_sign_in_required_message" = "اپنی گریڈ ہسٹری دیکھنے کے لیے سائن ان کریں";
 "score_term_format" = "موجودہ ٹرم: %1$@-%2$@";
+"settings_about_others" = "دیگر";
 "settings_accent_color" = "ایکسنٹ رنگ";
 "settings_account_library_system" = "لائبریری سسٹم";
 "settings_account_ntust_system" = "اکیڈمک سسٹم";

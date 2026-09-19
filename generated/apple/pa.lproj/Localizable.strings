@@ -755,6 +755,7 @@
 "score_semester_upper" = "ਪਤਝੜ";
 "score_sign_in_required_message" = "ਆਪਣਾ ਗ੍ਰੇਡ ਇਤਿਹਾਸ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ";
 "score_term_format" = "ਮੌਜੂਦਾ ਸਮੈਸਟਰ: %1$@-%2$@";
+"settings_about_others" = "ਹੋਰ";
 "settings_accent_color" = "ਐਕਸੈਂਟ ਰੰਗ";
 "settings_account_library_system" = "ਲਾਇਬ੍ਰੇਰੀ ਸਿਸਟਮ";
 "settings_account_ntust_system" = "ਅਕਾਦਮਿਕ ਸਿਸਟਮ";

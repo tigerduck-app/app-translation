@@ -755,6 +755,7 @@
 "score_semester_upper" = "1학기";
 "score_sign_in_required_message" = "성적 기록을 보려면 로그인하세요";
 "score_term_format" = "현재 학기: %1$@-%2$@";
+"settings_about_others" = "기타";
 "settings_accent_color" = "강조 색상";
 "settings_account_library_system" = "도서관 시스템";
 "settings_account_ntust_system" = "학사 시스템";

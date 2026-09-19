@@ -755,6 +755,7 @@
 "score_semester_upper" = "Rudens";
 "score_sign_in_required_message" = "Pierakstieties, lai skatītu atzīmju vēsturi";
 "score_term_format" = "Pašreizējais semestris: %1$@-%2$@";
+"settings_about_others" = "Cits";
 "settings_accent_color" = "Akcenta krāsa";
 "settings_account_library_system" = "Bibliotēkas sistēma";
 "settings_account_ntust_system" = "Akadēmiskā sistēma";

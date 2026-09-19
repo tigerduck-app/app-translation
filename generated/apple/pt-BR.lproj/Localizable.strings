@@ -755,6 +755,7 @@
 "score_semester_upper" = "Outono";
 "score_sign_in_required_message" = "Faça login para ver seu histórico de notas";
 "score_term_format" = "Período atual: %1$@-%2$@";
+"settings_about_others" = "Outros";
 "settings_accent_color" = "Cor de destaque";
 "settings_account_library_system" = "Sistema da biblioteca";
 "settings_account_ntust_system" = "Sistema acadêmico";

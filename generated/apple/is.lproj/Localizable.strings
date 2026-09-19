@@ -755,6 +755,7 @@
 "score_semester_upper" = "Haust";
 "score_sign_in_required_message" = "Skráðu þig inn til að skoða einkunnasöguna þína";
 "score_term_format" = "Núverandi misseri: %1$@-%2$@";
+"settings_about_others" = "Annað";
 "settings_accent_color" = "Áherslulitir";
 "settings_account_library_system" = "Bókasafnskerfi";
 "settings_account_ntust_system" = "Námskerfi";

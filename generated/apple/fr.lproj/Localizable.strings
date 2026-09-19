@@ -755,6 +755,7 @@
 "score_semester_upper" = "Automne";
 "score_sign_in_required_message" = "Connectez-vous pour consulter l'historique de vos notes";
 "score_term_format" = "Semestre actuel : %1$@-%2$@";
+"settings_about_others" = "Autres";
 "settings_accent_color" = "Couleur d'accentuation";
 "settings_account_library_system" = "Système de la bibliothèque";
 "settings_account_ntust_system" = "Système universitaire";

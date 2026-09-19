@@ -755,6 +755,7 @@
 "score_semester_upper" = "Јесењи";
 "score_sign_in_required_message" = "Пријавите се да видите историју оцена";
 "score_term_format" = "Тренутни семестар: %1$@-%2$@";
+"settings_about_others" = "Остало";
 "settings_accent_color" = "Акцентна боја";
 "settings_account_library_system" = "Библиотечки систем";
 "settings_account_ntust_system" = "Академски систем";
