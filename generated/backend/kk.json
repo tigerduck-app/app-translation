@@ -792,6 +792,8 @@
   "settings_library_warning_dismiss": "Артқа",
   "settings_library_warning_message": "Бұл қолданба NTUST-тің ресми кітапхана қолданбасы емес және мектеп кітапханасы мақұлдамаған. Қалыпты жұмысты немесе пайдалану салдарын кепілдендіре алмаймыз.\n\nОз қалауыңызша пайдаланыңыз. Кез келген теріс нәтижелер сіздің жауапкершілігіңізде болады және tigerduck-app-қа қатысы жоқ.",
   "settings_library_warning_title": "Назар аударыңыз!",
+  "settings_licenses_section_third_party": "Үшінші тарап кітапханалары",
+  "settings_licenses_website": "Веб-сайт",
   "settings_link_opening_method": "Сілтемелерді ашу",
   "settings_official_website": "Ресми веб-сайт",
   "settings_open_source_licenses": "Ашық бастапқы лицензиялар",

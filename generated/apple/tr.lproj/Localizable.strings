@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Geri dön";
 "settings_library_warning_message" = "Bu uygulama resmi bir NTUST kütüphane uygulaması değildir ve okul kütüphanesi tarafından onaylanmamıştır. Normal çalışmayı veya kullanımdan doğacak sonuçları garanti edemeyiz.\n\nKendi takdirinizle kullanın. Olumsuz sonuçların tüm sorumluluğu size aittir ve tigerduck-app ile ilgisi yoktur.";
 "settings_library_warning_title" = "Lütfen dikkat!";
+"settings_licenses_section_third_party" = "Üçüncü taraf kitaplıklar";
+"settings_licenses_website" = "Web sitesi";
 "settings_link_opening_method" = "Bağlantıları şununla aç";
 "settings_notifications_disabled_warning" = "Bildirimler kapalı. Ayarları açmak için dokunun.";
 "settings_notifications_need_course_sync" = "Bildirim almak için TigerSync \"Ders bilgilerini senkronize et\" ayarını açın.";

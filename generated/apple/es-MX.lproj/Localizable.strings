@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Volver";
 "settings_library_warning_message" = "Esta app no es una app oficial de la biblioteca de NTUST y no ha sido aprobada por la biblioteca de la escuela. No podemos garantizar el funcionamiento normal ni ninguna consecuencia derivada de su uso.\n\nÚsala bajo tu propia responsabilidad. Cualquier resultado negativo es responsabilidad tuya y no está relacionado con tigerduck-app.";
 "settings_library_warning_title" = "¡Por favor, ten en cuenta!";
+"settings_licenses_section_third_party" = "Bibliotecas de terceros";
+"settings_licenses_website" = "Sitio web";
 "settings_link_opening_method" = "Abrir enlaces con";
 "settings_notifications_disabled_warning" = "Las notificaciones están desactivadas. Toca para abrir los ajustes.";
 "settings_notifications_need_course_sync" = "Activa la función \"Sincronizar información del curso\" de TigerSync para recibir notificaciones.";

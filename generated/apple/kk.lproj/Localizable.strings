@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Артқа";
 "settings_library_warning_message" = "Бұл қолданба NTUST-тің ресми кітапхана қолданбасы емес және мектеп кітапханасы мақұлдамаған. Қалыпты жұмысты немесе пайдалану салдарын кепілдендіре алмаймыз.\n\nОз қалауыңызша пайдаланыңыз. Кез келген теріс нәтижелер сіздің жауапкершілігіңізде болады және tigerduck-app-қа қатысы жоқ.";
 "settings_library_warning_title" = "Назар аударыңыз!";
+"settings_licenses_section_third_party" = "Үшінші тарап кітапханалары";
+"settings_licenses_website" = "Веб-сайт";
 "settings_link_opening_method" = "Сілтемелерді ашу";
 "settings_notifications_disabled_warning" = "Хабарландырулар өшірулі. Жүйе параметрлерін ашу үшін түртіңіз.";
 "settings_notifications_need_course_sync" = "Хабарландыруларды алу үшін TigerSync ішіндегі «Курс ақпаратын синхрондау» опциясын қосыңыз.";

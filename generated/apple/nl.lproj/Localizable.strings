@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Terug";
 "settings_library_warning_message" = "Deze app is geen officiële NTUST-bibliotheekapp en is niet goedgekeurd door de schoolbibliotheek. We kunnen geen normale werking of gevolgen van het gebruik garanderen.\n\nGebruik op eigen risico. Eventuele negatieve gevolgen zijn voor je eigen verantwoordelijkheid en staan los van tigerduck-app.";
 "settings_library_warning_title" = "Let op!";
+"settings_licenses_section_third_party" = "Bibliotheken van derden";
+"settings_licenses_website" = "Website";
 "settings_link_opening_method" = "Links openen met";
 "settings_notifications_disabled_warning" = "Meldingen staan uit. Tik om Systeeminstellingen te openen.";
 "settings_notifications_need_course_sync" = "Schakel de functie \"Vakinformatie synchroniseren\" van TigerSync in om meldingen te ontvangen.";

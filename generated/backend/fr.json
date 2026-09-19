@@ -792,6 +792,8 @@
   "settings_library_warning_dismiss": "Retour",
   "settings_library_warning_message": "Cette application n'est pas une application officielle de la bibliothèque NTUST et n'a pas été approuvée par la bibliothèque universitaire. Nous ne pouvons garantir son bon fonctionnement ni les conséquences de son utilisation.\n\nUtilisez-la à votre propre discrétion. Tout résultat négatif est de votre seule responsabilité et n'a aucun lien avec tigerduck-app.",
   "settings_library_warning_title": "Attention !",
+  "settings_licenses_section_third_party": "Bibliothèques tierces",
+  "settings_licenses_website": "Site web",
   "settings_link_opening_method": "Ouvrir les liens avec",
   "settings_official_website": "Site web officiel",
   "settings_open_source_licenses": "Licences open source",

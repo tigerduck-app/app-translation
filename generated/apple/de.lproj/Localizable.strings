@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Zurück";
 "settings_library_warning_message" = "Diese App ist keine offizielle NTUST-Bibliotheks-App und wurde nicht von der Hochschulbibliothek genehmigt. Wir können weder den normalen Betrieb noch etwaige Folgen der Nutzung garantieren.\n\nNutzung auf eigenes Ermessen. Etwaige negative Folgen liegen in Ihrer eigenen Verantwortung und stehen in keinem Zusammenhang mit tigerduck-app.";
 "settings_library_warning_title" = "Bitte beachten!";
+"settings_licenses_section_third_party" = "Bibliotheken von Drittanbietern";
+"settings_licenses_website" = "Website";
 "settings_link_opening_method" = "Links öffnen mit";
 "settings_notifications_disabled_warning" = "Benachrichtigungen sind deaktiviert. Tippen, um Einstellungen zu öffnen.";
 "settings_notifications_need_course_sync" = "Aktivieren Sie in TigerSync die Funktion „Kursinformationen synchronisieren“, um Benachrichtigungen zu erhalten.";

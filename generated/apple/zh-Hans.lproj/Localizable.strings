@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "退回";
 "settings_library_warning_message" = "本应用程序非台科大官方图书馆应用程序，且尚未得到学校图书馆认可，无法保证各项功能的正常使用及其他相关使用后果。\n\n如需使用请谨慎。若使用后产生任何负面结果，需自负责任，且与 tigerduck-app 一律无关！";
 "settings_library_warning_title" = "请注意！";
+"settings_licenses_section_third_party" = "第三方库";
+"settings_licenses_website" = "网站";
 "settings_link_opening_method" = "打开链接方式";
 "settings_notifications_disabled_warning" = "通知已关闭。点击打开系统设置。";
 "settings_notifications_need_course_sync" = "需启用 TigerSync 的「同步课程信息」功能才能推送通知";

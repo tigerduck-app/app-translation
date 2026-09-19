@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Takaisin";
 "settings_library_warning_message" = "Tämä sovellus ei ole virallinen NTUST-kirjastosovellus eikä koulun kirjasto ole hyväksynyt sitä. Emme voi taata normaalia toimintaa tai käytön seurauksia.\n\nKäytä omalla harkinnalla. Mahdolliset negatiiviset seuraukset ovat omalla vastuullasi eivätkä liity tigerduck-app-sovellukseen.";
 "settings_library_warning_title" = "Huomio!";
+"settings_licenses_section_third_party" = "Kolmannen osapuolen kirjastot";
+"settings_licenses_website" = "Verkkosivusto";
 "settings_link_opening_method" = "Avaa linkit";
 "settings_notifications_disabled_warning" = "Ilmoitukset ovat pois päältä. Napauta avataksesi Järjestelmäasetukset.";
 "settings_notifications_need_course_sync" = "Ota käyttöön TigerSync-asetus \"Synkronoi kurssitiedot\" saadaksesi ilmoituksia.";

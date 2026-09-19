@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Torna enrere";
 "settings_library_warning_message" = "Aquesta aplicació no és l'aplicació oficial de la biblioteca de NTUST i no ha estat aprovada per la biblioteca de l'escola. No podem garantir el funcionament normal ni les conseqüències de l'ús.\n\nUseu-la a criteri propi. Qualsevol resultat negatiu és responsabilitat vostra i no té relació amb tigerduck-app.";
 "settings_library_warning_title" = "Atenció!";
+"settings_licenses_section_third_party" = "Biblioteques de tercers";
+"settings_licenses_website" = "Lloc web";
 "settings_link_opening_method" = "Obriu els enllaços amb";
 "settings_notifications_disabled_warning" = "Les notificacions estan desactivades. Toca per obrir Configuració del sistema.";
 "settings_notifications_need_course_sync" = "Activeu «Sincronitza la informació del curs» de TigerSync per rebre notificacions.";

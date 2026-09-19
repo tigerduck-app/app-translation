@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Fara til baka";
 "settings_library_warning_message" = "Þetta forrit er ekki opinbert NTUST bókasafnsforrit og hefur ekki verið samþykkt af skólabókasafninu. Við getum ekki tryggt eðlilega virkni eða neinar afleiðingar notkunar.\n\nNotaðu að eigin geðþótta. Allar neikvæðar afleiðingar eru á þínu eigin ábyrgð og ótengt tigerduck-app.";
 "settings_library_warning_title" = "Vinsamlegast taktu eftir!";
+"settings_licenses_section_third_party" = "Forritasöfn þriðju aðila";
+"settings_licenses_website" = "Vefsíða";
 "settings_link_opening_method" = "Opna tengla með";
 "settings_notifications_disabled_warning" = "Tilkynningar eru slökktar. Ýttu til að opna Kerfisstillingar.";
 "settings_notifications_need_course_sync" = "Kveiktu á \"Samstilla námskeiðaupplýsingar\" í TigerSync til að fá tilkynningar.";

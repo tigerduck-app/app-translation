@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Vrátit se";
 "settings_library_warning_message" = "Tato aplikace není oficiální aplikací knihovny NTUST a nebyla schválena školní knihovnou. Nemůžeme zaručit její bezproblémový provoz ani jakékoli důsledky používání.\n\nPoužívejte na vlastní uvážení. Případné negativní následky jsou vaší vlastní odpovědností a nesouvisí s tigerduck-app.";
 "settings_library_warning_title" = "Upozornění!";
+"settings_licenses_section_third_party" = "Knihovny třetích stran";
+"settings_licenses_website" = "Web";
 "settings_link_opening_method" = "Otevírat odkazy v";
 "settings_notifications_disabled_warning" = "Oznámení jsou vypnutá. Klepněte pro otevření Nastavení systému.";
 "settings_notifications_need_course_sync" = "Zapněte v TigerSync možnost „Synchronizovat informace o předmětech“, abyste dostávali oznámení.";

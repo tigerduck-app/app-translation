@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Повернутися";
 "settings_library_warning_message" = "Цей застосунок не є офіційним застосунком бібліотеки NTUST і не схвалений шкільною бібліотекою. Ми не можемо гарантувати нормальну роботу або будь-які наслідки використання.\n\nВикористовуйте на власний розсуд. Будь-які негативні наслідки — ваша особиста відповідальність і не пов'язані з tigerduck-app.";
 "settings_library_warning_title" = "Зверніть увагу!";
+"settings_licenses_section_third_party" = "Сторонні бібліотеки";
+"settings_licenses_website" = "Сайт";
 "settings_link_opening_method" = "Відкривати посилання за допомогою";
 "settings_notifications_disabled_warning" = "Сповіщення вимкнено. Торкніться, щоб відкрити налаштування.";
 "settings_notifications_need_course_sync" = "Увімкніть параметр TigerSync «Синхронізувати інформацію про курси», щоб отримувати сповіщення.";

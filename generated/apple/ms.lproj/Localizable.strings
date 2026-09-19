@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "Kembali";
 "settings_library_warning_message" = "Aplikasi ini bukan aplikasi perpustakaan rasmi NTUST dan belum mendapat kelulusan perpustakaan sekolah. Kami tidak dapat menjamin operasi normal atau sebarang akibat daripada penggunaan.\n\nGunakan atas budi bicara anda sendiri. Sebarang akibat negatif adalah tanggungjawab anda sendiri dan tidak berkaitan dengan tigerduck-app.";
 "settings_library_warning_title" = "Sila ambil perhatian!";
+"settings_licenses_section_third_party" = "Pustaka pihak ketiga";
+"settings_licenses_website" = "Laman web";
 "settings_link_opening_method" = "Buka pautan dengan";
 "settings_notifications_disabled_warning" = "Pemberitahuan dimatikan. Ketik untuk membuka Tetapan Sistem.";
 "settings_notifications_need_course_sync" = "Hidupkan \"Segerakkan maklumat kursus\" TigerSync untuk menerima pemberitahuan.";

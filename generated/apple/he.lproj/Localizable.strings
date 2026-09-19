@@ -819,6 +819,8 @@
 "settings_library_warning_dismiss" = "חזור";
 "settings_library_warning_message" = "אפליקציה זו אינה אפליקציית ספריית NTUST הרשמית ולא אושרה על ידי ספריית בית הספר. איננו יכולים להבטיח תפעול תקין או כל השלכות הנובעות מהשימוש.\n\nהשתמש לפי שיקול דעתך. כל תוצאה שלילית היא באחריותך בלבד ואינה קשורה ל-tigerduck-app.";
 "settings_library_warning_title" = "שים לב!";
+"settings_licenses_section_third_party" = "ספריות צד שלישי";
+"settings_licenses_website" = "אתר";
 "settings_link_opening_method" = "פתח קישורים עם";
 "settings_notifications_disabled_warning" = "ההתראות כבויות. הקש כדי לפתוח את הגדרות המערכת.";
 "settings_notifications_need_course_sync" = "הפעל את \"סנכרון מידע על קורסים\" של TigerSync כדי לקבל התראות.";
