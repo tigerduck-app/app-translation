@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">색상 편집</string>
     <string name="course_credits_value">학점: %1$d</string>
     <string name="course_detail_classroom_label">강의실</string>
+    <string name="course_detail_code_copied">코드가 복사되었습니다</string>
     <string name="course_detail_code_label">코드</string>
     <string name="course_detail_copy_code">코드 복사</string>
     <string name="course_detail_credits_label">학점</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R로 NTUST 포털에서 최신 시간표를 가져옵니다.</string>
     <string name="desktop_class_table_empty_title">이번 학기에 강의가 없습니다</string>
     <string name="desktop_class_table_loading_value">%1$s 로드 중…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d 과목 · %3$d 학점</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d 과목 · %3$s 학점</string>
     <string name="desktop_home_section_upcoming_assignments">예정된 과제</string>
     <string name="desktop_more_not_implemented">아직 구현되지 않음</string>
     <string name="desktop_more_subtitle">Mac에서 사용할 수 있는 모든 TigerDuck 기능을 둘러보세요. 자주 쓰는 기능을 사이드바에 고정할 수 있습니다.</string>

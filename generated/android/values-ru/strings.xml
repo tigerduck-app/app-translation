@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Изменить цвет</string>
     <string name="course_credits_value">Кредиты: %1$d</string>
     <string name="course_detail_classroom_label">Аудитория</string>
+    <string name="course_detail_code_copied">Код скопирован</string>
     <string name="course_detail_code_label">Код</string>
     <string name="course_detail_copy_code">Скопировать код</string>
     <string name="course_detail_credits_label">Кредиты</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R получает последнее расписание с портала NTUST.</string>
     <string name="desktop_class_table_empty_title">В этом семестре нет курсов</string>
     <string name="desktop_class_table_loading_value">Загрузка %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d курсов · %3$d кредитов</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d курсов · %3$s кредитов</string>
     <string name="desktop_home_section_upcoming_assignments">Предстоящие задания</string>
     <string name="desktop_more_not_implemented">Ещё не реализовано</string>
     <string name="desktop_more_subtitle">Просмотрите все возможности TigerDuck на Mac. Закрепите часто используемые в боковой панели.</string>

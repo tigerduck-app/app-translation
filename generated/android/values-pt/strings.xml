@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Editar cor</string>
     <string name="course_credits_value">Créditos: %1$d</string>
     <string name="course_detail_classroom_label">Sala de aula</string>
+    <string name="course_detail_code_copied">Código copiado</string>
     <string name="course_detail_code_label">Código</string>
     <string name="course_detail_copy_code">Copiar código</string>
     <string name="course_detail_credits_label">Créditos</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">O ⌘R obtém a lista de disciplinas mais recente do portal da NTUST.</string>
     <string name="desktop_class_table_empty_title">Sem disciplinas neste semestre</string>
     <string name="desktop_class_table_loading_value">A carregar %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d disciplinas · %3$d créditos</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d disciplinas · %3$s créditos</string>
     <string name="desktop_home_section_upcoming_assignments">Próximos trabalhos</string>
     <string name="desktop_more_not_implemented">Ainda não implementado</string>
     <string name="desktop_more_subtitle">Explora todas as funcionalidades que o TigerDuck oferece no Mac. Fixa as que mais usas para que apareçam na barra lateral.</string>

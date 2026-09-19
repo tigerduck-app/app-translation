@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Edit warna";
 "course_credits_value" = "Kredit: %1$d";
 "course_detail_classroom_label" = "Bilik darjah";
+"course_detail_code_copied" = "Kod disalin";
 "course_detail_code_label" = "Kod";
 "course_detail_copy_code" = "Salin kod";
 "course_detail_credits_label" = "Kredit";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R mengambil senarai kursus terkini dari portal NTUST.";
 "desktop_class_table_empty_title" = "Tiada kursus pada semester ini";
 "desktop_class_table_loading_value" = "Memuatkan %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d kursus · %3$d kredit";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d kursus · %3$@ kredit";
 "desktop_home_section_upcoming_assignments" = "Tugasan akan datang";
 "desktop_more_not_implemented" = "Belum dilaksanakan";
 "desktop_more_subtitle" = "Layari semua ciri TigerDuck di Mac. Pin yang paling kerap anda guna ke bar sisi.";

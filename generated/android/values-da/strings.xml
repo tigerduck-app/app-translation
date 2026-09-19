@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Rediger farve</string>
     <string name="course_credits_value">ECTS-point: %1$d</string>
     <string name="course_detail_classroom_label">Klasseværelse</string>
+    <string name="course_detail_code_copied">Koden er kopieret</string>
     <string name="course_detail_code_label">Kode</string>
     <string name="course_detail_copy_code">Kopiér kode</string>
     <string name="course_detail_credits_label">Kreditter</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R henter nyeste fagliste fra NTUST-portalen.</string>
     <string name="desktop_class_table_empty_title">Ingen fag dette semester</string>
     <string name="desktop_class_table_loading_value">Indlæser %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d fag · %3$d ECTS</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d fag · %3$s ECTS</string>
     <string name="desktop_home_section_upcoming_assignments">Kommende opgaver</string>
     <string name="desktop_more_not_implemented">Endnu ikke implementeret</string>
     <string name="desktop_more_subtitle">Se alle TigerDuck-funktioner på Mac. Fastgør dem du bruger mest i sidepanelet.</string>

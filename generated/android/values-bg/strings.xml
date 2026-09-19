@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Редактиране на цвят</string>
     <string name="course_credits_value">Кредити: %1$d</string>
     <string name="course_detail_classroom_label">Класна стая</string>
+    <string name="course_detail_code_copied">Кодът е копиран</string>
     <string name="course_detail_code_label">Код</string>
     <string name="course_detail_copy_code">Копиране на кода</string>
     <string name="course_detail_credits_label">Кредити</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R извлича най-новия списък с курсове от портала на NTUST.</string>
     <string name="desktop_class_table_empty_title">Няма курсове този семестър</string>
     <string name="desktop_class_table_loading_value">Зареждане на %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d курса · %3$d кредита</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d курса · %3$s кредита</string>
     <string name="desktop_home_section_upcoming_assignments">Предстоящи задачи</string>
     <string name="desktop_more_not_implemented">Все още не е реализирано</string>
     <string name="desktop_more_subtitle">Разгледайте всички функции, които TigerDuck предлага за Mac. Закачете най-често използваните, за да се показват в страничната лента.</string>

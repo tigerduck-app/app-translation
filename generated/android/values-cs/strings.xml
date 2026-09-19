@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Upravit barvu</string>
     <string name="course_credits_value">Kredity: %1$d</string>
     <string name="course_detail_classroom_label">Třída</string>
+    <string name="course_detail_code_copied">Kód zkopírován</string>
     <string name="course_detail_code_label">Kód</string>
     <string name="course_detail_copy_code">Kopírovat kód</string>
     <string name="course_detail_credits_label">Kredity</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R načte nejnovější seznam předmětů z portálu NTUST.</string>
     <string name="desktop_class_table_empty_title">V tomto semestru nejsou žádné předměty</string>
     <string name="desktop_class_table_loading_value">Načítání %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d předmětů · %3$d kreditů</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d předmětů · %3$s kreditů</string>
     <string name="desktop_home_section_upcoming_assignments">Nadcházející úkoly</string>
     <string name="desktop_more_not_implemented">Ještě neimplementováno</string>
     <string name="desktop_more_subtitle">Procházejte všechny funkce TigerDuck na Macu. Připněte ty nejpoužívanější do bočního panelu.</string>

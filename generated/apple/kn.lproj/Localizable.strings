@@ -235,6 +235,7 @@
 "course_color_picker_title" = "ಬಣ್ಣ ಸಂಪಾದಿಸಿ";
 "course_credits_value" = "ಕ್ರೆಡಿಟ್‌ಗಳು: %1$d";
 "course_detail_classroom_label" = "ತರಗತಿ ಕೊಠಡಿ";
+"course_detail_code_copied" = "ಕೋಡ್ ನಕಲಿಸಲಾಗಿದೆ";
 "course_detail_code_label" = "ಕೋಡ್";
 "course_detail_copy_code" = "ಕೋಡ್ ನಕಲಿಸಿ";
 "course_detail_credits_label" = "ಕ್ರೆಡಿಟ್‌ಗಳು";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R, NTUST ಪೋರ್ಟಲ್‌ನಿಂದ ಇತ್ತೀಚಿನ ಕೋರ್ಸ್ ಪಟ್ಟಿಯನ್ನು ಪಡೆಯುತ್ತದೆ.";
 "desktop_class_table_empty_title" = "ಈ ಸೆಮಿಸ್ಟರ್‌ನಲ್ಲಿ ಯಾವುದೇ ಕೋರ್ಸ್‌ಗಳಿಲ್ಲ";
 "desktop_class_table_loading_value" = "%1$@ ಲೋಡ್ ಆಗುತ್ತಿದೆ…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d ಕೋರ್ಸ್‌ಗಳು · %3$d ಕ್ರೆಡಿಟ್‌ಗಳು";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d ಕೋರ್ಸ್‌ಗಳು · %3$@ ಕ್ರೆಡಿಟ್‌ಗಳು";
 "desktop_home_section_upcoming_assignments" = "ಮುಂಬರುವ ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು";
 "desktop_more_not_implemented" = "ಇನ್ನೂ ಅಳವಡಿಸಲಾಗಿಲ್ಲ";
 "desktop_more_subtitle" = "Mac ನಲ್ಲಿ TigerDuck ನೀಡುವ ಎಲ್ಲಾ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ. ನೀವು ಹೆಚ್ಚು ಬಳಸುವವುಗಳನ್ನು ಪಿನ್ ಮಾಡಿ, ಇದರಿಂದ ಅವು ಸೈಡ್‌ಬಾರ್‌ನಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.";

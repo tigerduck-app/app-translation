@@ -235,6 +235,7 @@
 "course_color_picker_title" = "色を編集";
 "course_credits_value" = "単位：%1$d";
 "course_detail_classroom_label" = "教室";
+"course_detail_code_copied" = "コードをコピーしました";
 "course_detail_code_label" = "コード";
 "course_detail_copy_code" = "コードをコピー";
 "course_detail_credits_label" = "単位";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R で NTUST ポータルから最新の時間割を取得します。";
 "desktop_class_table_empty_title" = "この学期の授業はありません";
 "desktop_class_table_loading_value" = "%1$@ を読み込み中…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d 科目 · %3$d 単位";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d 科目 · %3$@ 単位";
 "desktop_home_section_upcoming_assignments" = "今後の課題";
 "desktop_more_not_implemented" = "未実装";
 "desktop_more_subtitle" = "Mac で利用できる TigerDuck の機能を一覧表示します。よく使う機能をサイドバーに固定できます。";

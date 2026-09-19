@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Modifica colore";
 "course_credits_value" = "Crediti: %1$d";
 "course_detail_classroom_label" = "Aula";
+"course_detail_code_copied" = "Codice copiato";
 "course_detail_code_label" = "Codice";
 "course_detail_copy_code" = "Copia codice";
 "course_detail_credits_label" = "Crediti";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R recupera l'elenco corsi più recente dal portale NTUST.";
 "desktop_class_table_empty_title" = "Nessun corso in questo semestre";
 "desktop_class_table_loading_value" = "Caricamento di %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d corsi · %3$d crediti";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d corsi · %3$@ crediti";
 "desktop_home_section_upcoming_assignments" = "Compiti in arrivo";
 "desktop_more_not_implemented" = "Non ancora implementato";
 "desktop_more_subtitle" = "Esplora tutte le funzioni di TigerDuck su Mac. Aggiungi quelle che usi di più alla barra laterale.";

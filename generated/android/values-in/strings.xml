@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Edit warna</string>
     <string name="course_credits_value">SKS: %1$d</string>
     <string name="course_detail_classroom_label">Ruang kelas</string>
+    <string name="course_detail_code_copied">Kode disalin</string>
     <string name="course_detail_code_label">Kode</string>
     <string name="course_detail_copy_code">Salin kode</string>
     <string name="course_detail_credits_label">SKS</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R mengambil daftar mata kuliah terbaru dari portal NTUST.</string>
     <string name="desktop_class_table_empty_title">Tidak ada mata kuliah di semester ini</string>
     <string name="desktop_class_table_loading_value">Memuat %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d mata kuliah · %3$d sks</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d mata kuliah · %3$s sks</string>
     <string name="desktop_home_section_upcoming_assignments">Tugas mendatang</string>
     <string name="desktop_more_not_implemented">Belum diimplementasikan</string>
     <string name="desktop_more_subtitle">Jelajahi semua fitur TigerDuck di Mac. Sematkan yang paling sering Anda gunakan di bilah samping.</string>

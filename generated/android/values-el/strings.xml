@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Επεξεργασία χρώματος</string>
     <string name="course_credits_value">Πιστωτικές μονάδες: %1$d</string>
     <string name="course_detail_classroom_label">Αίθουσα διδασκαλίας</string>
+    <string name="course_detail_code_copied">Ο κωδικός αντιγράφηκε</string>
     <string name="course_detail_code_label">Κώδικας</string>
     <string name="course_detail_copy_code">Αντιγραφή κωδικού</string>
     <string name="course_detail_credits_label">Πιστώσεις</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">Το ⌘R φέρνει την πιο πρόσφατη λίστα μαθημάτων από την πύλη NTUST.</string>
     <string name="desktop_class_table_empty_title">Κανένα μάθημα αυτό το εξάμηνο</string>
     <string name="desktop_class_table_loading_value">Φόρτωση %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d μαθήματα · %3$d ECTS</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d μαθήματα · %3$s ECTS</string>
     <string name="desktop_home_section_upcoming_assignments">Επερχόμενες εργασίες</string>
     <string name="desktop_more_not_implemented">Δεν έχει υλοποιηθεί ακόμη</string>
     <string name="desktop_more_subtitle">Δείτε όλες τις δυνατότητες του TigerDuck σε Mac. Καρφιτσώστε αυτές που χρησιμοποιείτε περισσότερο στην πλαϊνή μπάρα.</string>

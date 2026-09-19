@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Szín szerkesztése</string>
     <string name="course_credits_value">Kreditek: %1$d</string>
     <string name="course_detail_classroom_label">Tanterem</string>
+    <string name="course_detail_code_copied">Kód másolva</string>
     <string name="course_detail_code_label">Kód</string>
     <string name="course_detail_copy_code">Kód másolása</string>
     <string name="course_detail_credits_label">Kreditek</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">A ⌘R lekéri a legfrissebb kurzuslistát az NTUST portálról.</string>
     <string name="desktop_class_table_empty_title">Nincsenek kurzusok ebben a félévben</string>
     <string name="desktop_class_table_loading_value">%1$s betöltése…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d kurzus · %3$d kredit</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d kurzus · %3$s kredit</string>
     <string name="desktop_home_section_upcoming_assignments">Közelgő házi feladatok</string>
     <string name="desktop_more_not_implemented">Még nincs megvalósítva</string>
     <string name="desktop_more_subtitle">Tekintse át a TigerDuck összes Mac-es funkcióját. Tűzze ki a leggyakrabban használtakat, hogy megjelenjenek az oldalsávon.</string>

@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">ערוך צבע</string>
     <string name="course_credits_value">נקודות זכות: %1$d</string>
     <string name="course_detail_classroom_label">כיתה</string>
+    <string name="course_detail_code_copied">הקוד הועתק</string>
     <string name="course_detail_code_label">קוד</string>
     <string name="course_detail_copy_code">העתקת הקוד</string>
     <string name="course_detail_credits_label">קרדיטים</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">‎⌘R מושך את רשימת הקורסים העדכנית מפורטל NTUST.</string>
     <string name="desktop_class_table_empty_title">אין קורסים בסמסטר זה</string>
     <string name="desktop_class_table_loading_value">טוען את %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d קורסים · %3$d נקודות זכות</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d קורסים · %3$s נקודות זכות</string>
     <string name="desktop_home_section_upcoming_assignments">מטלות קרובות</string>
     <string name="desktop_more_not_implemented">טרם הוטמע</string>
     <string name="desktop_more_subtitle">עיין בכל התכונות של TigerDuck ב-Mac. הצמד את האהובות עליך לסרגל הצד.</string>

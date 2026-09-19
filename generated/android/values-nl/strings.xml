@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Kleur bewerken</string>
     <string name="course_credits_value">Studiepunten: %1$d</string>
     <string name="course_detail_classroom_label">Lokaal</string>
+    <string name="course_detail_code_copied">Code gekopieerd</string>
     <string name="course_detail_code_label">Code</string>
     <string name="course_detail_copy_code">Code kopiëren</string>
     <string name="course_detail_credits_label">Studiepunten</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R haalt de nieuwste vakkenlijst op uit het NTUST-portaal.</string>
     <string name="desktop_class_table_empty_title">Geen vakken dit semester</string>
     <string name="desktop_class_table_loading_value">%1$s laden…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d vakken · %3$d studiepunten</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d vakken · %3$s studiepunten</string>
     <string name="desktop_home_section_upcoming_assignments">Komende opdrachten</string>
     <string name="desktop_more_not_implemented">Nog niet beschikbaar</string>
     <string name="desktop_more_subtitle">Bekijk alle TigerDuck-functies op Mac. Zet de functies die je het meest gebruikt vast in de zijbalk.</string>

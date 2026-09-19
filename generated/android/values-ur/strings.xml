@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">رنگ تبدیل کریں</string>
     <string name="course_credits_value">کریڈٹس: %1$d</string>
     <string name="course_detail_classroom_label">کلاس روم</string>
+    <string name="course_detail_code_copied">کوڈ کاپی ہو گیا</string>
     <string name="course_detail_code_label">کوڈ</string>
     <string name="course_detail_copy_code">کوڈ کاپی کریں</string>
     <string name="course_detail_credits_label">کریڈٹس</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R NTUST پورٹل سے تازہ ترین کورس لسٹ لاتا ہے۔</string>
     <string name="desktop_class_table_empty_title">اس سمسٹر میں کوئی کورس نہیں</string>
     <string name="desktop_class_table_loading_value">%1$s لوڈ ہو رہا ہے…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d کورس · %3$d کریڈٹ</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d کورس · %3$s کریڈٹ</string>
     <string name="desktop_home_section_upcoming_assignments">آنے والی اسائنمنٹس</string>
     <string name="desktop_more_not_implemented">ابھی تک نہیں بنا</string>
     <string name="desktop_more_subtitle">Mac پر TigerDuck کی تمام خصوصیات دیکھیں۔ اکثر استعمال ہونے والی کو سائیڈ بار پر پن کریں۔</string>

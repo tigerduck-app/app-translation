@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Editează culoarea";
 "course_credits_value" = "Credite: %1$d";
 "course_detail_classroom_label" = "Sală";
+"course_detail_code_copied" = "Cod copiat";
 "course_detail_code_label" = "Cod";
 "course_detail_copy_code" = "Copiază codul";
 "course_detail_credits_label" = "Credite";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R preia cea mai recentă listă de cursuri din portalul NTUST.";
 "desktop_class_table_empty_title" = "Niciun curs în acest semestru";
 "desktop_class_table_loading_value" = "Se încarcă %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d cursuri · %3$d credite";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d cursuri · %3$@ credite";
 "desktop_home_section_upcoming_assignments" = "Teme viitoare";
 "desktop_more_not_implemented" = "Neimplementat încă";
 "desktop_more_subtitle" = "Răsfoiește toate funcțiile oferite de TigerDuck pe Mac. Fixează-le pe cele mai folosite, ca să apară în bara laterală.";

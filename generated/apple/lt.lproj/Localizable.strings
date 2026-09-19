@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Redaguoti spalvą";
 "course_credits_value" = "Kreditai: %1$d";
 "course_detail_classroom_label" = "Auditorija";
+"course_detail_code_copied" = "Kodas nukopijuotas";
 "course_detail_code_label" = "Kodas";
 "course_detail_copy_code" = "Kopijuoti kodą";
 "course_detail_credits_label" = "Kreditai";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R gauna naujausią kursų sąrašą iš NTUST portalo.";
 "desktop_class_table_empty_title" = "Šį semestrą kursų nėra";
 "desktop_class_table_loading_value" = "Įkeliama %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d kursai · %3$d kreditai";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d kursai · %3$@ kreditai";
 "desktop_home_section_upcoming_assignments" = "Artėjančios užduotys";
 "desktop_more_not_implemented" = "Dar neįgyvendinta";
 "desktop_more_subtitle" = "Peržiūrėkite visas TigerDuck funkcijas, pasiekiamas Mac programėlėje. Prisekite dažniausiai naudojamas, kad jos būtų rodomos šoninėje juostoje.";

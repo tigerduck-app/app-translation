@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Uredi barvo";
 "course_credits_value" = "Kreditne točke: %1$d";
 "course_detail_classroom_label" = "Učilnica";
+"course_detail_code_copied" = "Koda kopirana";
 "course_detail_code_label" = "Koda";
 "course_detail_copy_code" = "Kopiraj kodo";
 "course_detail_credits_label" = "Krediti";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R pridobi najnovejši seznam predmetov s portala NTUST.";
 "desktop_class_table_empty_title" = "V tem semestru ni predmetov";
 "desktop_class_table_loading_value" = "Nalaganje %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d predmetov · %3$d kreditov";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d predmetov · %3$@ kreditov";
 "desktop_home_section_upcoming_assignments" = "Prihajajoče naloge";
 "desktop_more_not_implemented" = "Še ni implementirano";
 "desktop_more_subtitle" = "Prebrskajte vse funkcije, ki jih TigerDuck ponuja za Mac. Pripnite tiste, ki jih uporabljate največ, da se prikažejo v stranski vrstici.";

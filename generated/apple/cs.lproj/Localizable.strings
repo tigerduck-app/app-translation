@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Upravit barvu";
 "course_credits_value" = "Kredity: %1$d";
 "course_detail_classroom_label" = "Třída";
+"course_detail_code_copied" = "Kód zkopírován";
 "course_detail_code_label" = "Kód";
 "course_detail_copy_code" = "Kopírovat kód";
 "course_detail_credits_label" = "Kredity";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R načte nejnovější seznam předmětů z portálu NTUST.";
 "desktop_class_table_empty_title" = "V tomto semestru nejsou žádné předměty";
 "desktop_class_table_loading_value" = "Načítání %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d předmětů · %3$d kreditů";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d předmětů · %3$@ kreditů";
 "desktop_home_section_upcoming_assignments" = "Nadcházející úkoly";
 "desktop_more_not_implemented" = "Ještě neimplementováno";
 "desktop_more_subtitle" = "Procházejte všechny funkce TigerDuck na Macu. Připněte ty nejpoužívanější do bočního panelu.";

@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">வண்ணத்தைத் திருத்து</string>
     <string name="course_credits_value">கிரெடிட்கள்: %1$d</string>
     <string name="course_detail_classroom_label">வகுப்பறை</string>
+    <string name="course_detail_code_copied">குறியீடு நகலெடுக்கப்பட்டது</string>
     <string name="course_detail_code_label">வகுப்பு குறியீடு</string>
     <string name="course_detail_copy_code">குறியீட்டை நகலெடு</string>
     <string name="course_detail_credits_label">கிரெடிட்கள்</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R NTUST போர்டலிலிருந்து சமீபத்திய வகுப்பு பட்டியலை பெறும்.</string>
     <string name="desktop_class_table_empty_title">இந்த பருவத்தில் வகுப்புகள் இல்லை</string>
     <string name="desktop_class_table_loading_value">%1$s ஏற்றுகிறது…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d வகுப்புகள் · %3$d கிரெடிட்கள்</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d வகுப்புகள் · %3$s கிரெடிட்கள்</string>
     <string name="desktop_home_section_upcoming_assignments">வரவிருக்கும் ஒப்படைப்புகள்</string>
     <string name="desktop_more_not_implemented">இன்னும் செயல்படுத்தப்படவில்லை</string>
     <string name="desktop_more_subtitle">Mac-ல் TigerDuck வழங்கும் அனைத்து அம்சங்களையும் உலாவுங்கள். அடிக்கடி பயன்படுத்துவனவற்றை பக்கப்பட்டியில் காட்டும்படி பின் செய்யுங்கள்.</string>

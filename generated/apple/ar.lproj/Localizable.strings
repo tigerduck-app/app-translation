@@ -235,6 +235,7 @@
 "course_color_picker_title" = "تعديل اللون";
 "course_credits_value" = "الساعات المعتمدة: %1$d";
 "course_detail_classroom_label" = "الفصل الدراسي";
+"course_detail_code_copied" = "تم نسخ الرمز";
 "course_detail_code_label" = "شفرة";
 "course_detail_copy_code" = "نسخ الرمز";
 "course_detail_credits_label" = "الاعتمادات";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "يجلب ⌘R أحدث قائمة مقررات من بوابة NTUST.";
 "desktop_class_table_empty_title" = "لا توجد مقررات في هذا الفصل";
 "desktop_class_table_loading_value" = "جارٍ تحميل %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d مقررات · %3$d وحدات";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d مقررات · %3$@ وحدات";
 "desktop_home_section_upcoming_assignments" = "الواجبات القادمة";
 "desktop_more_not_implemented" = "لم يُنفَّذ بعد";
 "desktop_more_subtitle" = "تصفح جميع ميزات TigerDuck على Mac. ثبّت الميزات الأكثر استخدامًا في الشريط الجانبي.";

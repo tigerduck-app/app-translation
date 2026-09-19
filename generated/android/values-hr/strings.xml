@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Uredi boju</string>
     <string name="course_credits_value">ECTS bodovi: %1$d</string>
     <string name="course_detail_classroom_label">Učionica</string>
+    <string name="course_detail_code_copied">Kôd kopiran</string>
     <string name="course_detail_code_label">Šifra</string>
     <string name="course_detail_copy_code">Kopiraj kôd</string>
     <string name="course_detail_credits_label">ECTS bodovi</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R dohvaća najnoviji popis kolegija s NTUST portala.</string>
     <string name="desktop_class_table_empty_title">Nema kolegija u ovom semestru</string>
     <string name="desktop_class_table_loading_value">Učitavanje %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d kolegija · %3$d ECTS bodova</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d kolegija · %3$s ECTS bodova</string>
     <string name="desktop_home_section_upcoming_assignments">Nadolazeći zadaci</string>
     <string name="desktop_more_not_implemented">Još nije implementirano</string>
     <string name="desktop_more_subtitle">Pregledajte sve značajke koje TigerDuck nudi na Macu. Prikvačite one koje najčešće koristite kako bi se prikazale na bočnoj traci.</string>

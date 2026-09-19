@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">ویرایش رنگ</string>
     <string name="course_credits_value">واحد: %1$d</string>
     <string name="course_detail_classroom_label">کلاس درس</string>
+    <string name="course_detail_code_copied">کد کپی شد</string>
     <string name="course_detail_code_label">کد</string>
     <string name="course_detail_copy_code">کپی کد</string>
     <string name="course_detail_credits_label">اعتبارات</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R آخرین فهرست درس‌ها را از درگاه NTUST می‌گیرد.</string>
     <string name="desktop_class_table_empty_title">درسی برای این ترم نیست</string>
     <string name="desktop_class_table_loading_value">در حال بارگذاری %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d درس · %3$d واحد</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d درس · %3$s واحد</string>
     <string name="desktop_home_section_upcoming_assignments">تکالیف پیش‌رو</string>
     <string name="desktop_more_not_implemented">هنوز پیاده‌سازی نشده</string>
     <string name="desktop_more_subtitle">همهٔ قابلیت‌های TigerDuck را در Mac ببینید. مواردی را که بیشتر استفاده می‌کنید به نوار کناری سنجاق کنید.</string>

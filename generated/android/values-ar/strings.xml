@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">تعديل اللون</string>
     <string name="course_credits_value">الساعات المعتمدة: %1$d</string>
     <string name="course_detail_classroom_label">الفصل الدراسي</string>
+    <string name="course_detail_code_copied">تم نسخ الرمز</string>
     <string name="course_detail_code_label">شفرة</string>
     <string name="course_detail_copy_code">نسخ الرمز</string>
     <string name="course_detail_credits_label">الاعتمادات</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">يجلب ⌘R أحدث قائمة مقررات من بوابة NTUST.</string>
     <string name="desktop_class_table_empty_title">لا توجد مقررات في هذا الفصل</string>
     <string name="desktop_class_table_loading_value">جارٍ تحميل %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d مقررات · %3$d وحدات</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d مقررات · %3$s وحدات</string>
     <string name="desktop_home_section_upcoming_assignments">الواجبات القادمة</string>
     <string name="desktop_more_not_implemented">لم يُنفَّذ بعد</string>
     <string name="desktop_more_subtitle">تصفح جميع ميزات TigerDuck على Mac. ثبّت الميزات الأكثر استخدامًا في الشريط الجانبي.</string>

@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Επεξεργασία χρώματος";
 "course_credits_value" = "Πιστωτικές μονάδες: %1$d";
 "course_detail_classroom_label" = "Αίθουσα διδασκαλίας";
+"course_detail_code_copied" = "Ο κωδικός αντιγράφηκε";
 "course_detail_code_label" = "Κώδικας";
 "course_detail_copy_code" = "Αντιγραφή κωδικού";
 "course_detail_credits_label" = "Πιστώσεις";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "Το ⌘R φέρνει την πιο πρόσφατη λίστα μαθημάτων από την πύλη NTUST.";
 "desktop_class_table_empty_title" = "Κανένα μάθημα αυτό το εξάμηνο";
 "desktop_class_table_loading_value" = "Φόρτωση %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d μαθήματα · %3$d ECTS";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d μαθήματα · %3$@ ECTS";
 "desktop_home_section_upcoming_assignments" = "Επερχόμενες εργασίες";
 "desktop_more_not_implemented" = "Δεν έχει υλοποιηθεί ακόμη";
 "desktop_more_subtitle" = "Δείτε όλες τις δυνατότητες του TigerDuck σε Mac. Καρφιτσώστε αυτές που χρησιμοποιείτε περισσότερο στην πλαϊνή μπάρα.";

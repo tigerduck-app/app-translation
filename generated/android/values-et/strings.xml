@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Muuda värvi</string>
     <string name="course_credits_value">Ainepunktid: %1$d</string>
     <string name="course_detail_classroom_label">Klassiruum</string>
+    <string name="course_detail_code_copied">Kood kopeeritud</string>
     <string name="course_detail_code_label">Kood</string>
     <string name="course_detail_copy_code">Kopeeri kood</string>
     <string name="course_detail_credits_label">Krediidid</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R toob NTUST portaalist uusima kursuste loendi.</string>
     <string name="desktop_class_table_empty_title">Sellel semestril kursusi pole</string>
     <string name="desktop_class_table_loading_value">Laadin %1$s…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d kursust · %3$d ainepunkti</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d kursust · %3$s ainepunkti</string>
     <string name="desktop_home_section_upcoming_assignments">Eelseisvad ülesanded</string>
     <string name="desktop_more_not_implemented">Pole veel teostatud</string>
     <string name="desktop_more_subtitle">Sirvi kõiki TigerDucki funktsioone Maci rakenduses. Kinnita enim kasutatavad, et need kuvataks külgribal.</string>

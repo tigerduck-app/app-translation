@@ -235,6 +235,7 @@
 "course_color_picker_title" = "Редактиране на цвят";
 "course_credits_value" = "Кредити: %1$d";
 "course_detail_classroom_label" = "Класна стая";
+"course_detail_code_copied" = "Кодът е копиран";
 "course_detail_code_label" = "Код";
 "course_detail_copy_code" = "Копиране на кода";
 "course_detail_credits_label" = "Кредити";
@@ -266,7 +267,7 @@
 "desktop_class_table_empty_hint" = "⌘R извлича най-новия списък с курсове от портала на NTUST.";
 "desktop_class_table_empty_title" = "Няма курсове този семестър";
 "desktop_class_table_loading_value" = "Зареждане на %1$@…";
-"desktop_class_table_subtitle_value" = "%1$@ · %2$d курса · %3$d кредита";
+"desktop_class_table_subtitle_value" = "%1$@ · %2$d курса · %3$@ кредита";
 "desktop_home_section_upcoming_assignments" = "Предстоящи задачи";
 "desktop_more_not_implemented" = "Все още не е реализирано";
 "desktop_more_subtitle" = "Разгледайте всички функции, които TigerDuck предлага за Mac. Закачете най-често използваните, за да се показват в страничната лента.";

@@ -239,6 +239,7 @@
     <string name="course_color_picker_title">Түсті өңдеу</string>
     <string name="course_credits_value">Кредит: %1$d</string>
     <string name="course_detail_classroom_label">Аудитория</string>
+    <string name="course_detail_code_copied">Код көшірілді</string>
     <string name="course_detail_code_label">Код</string>
     <string name="course_detail_copy_code">Кодты көшіру</string>
     <string name="course_detail_credits_label">Кредиттер</string>
@@ -270,7 +271,7 @@
     <string name="desktop_class_table_empty_hint">⌘R NTUST порталынан соңғы курстар тізімін алады.</string>
     <string name="desktop_class_table_empty_title">Бұл семестрде курстар жоқ</string>
     <string name="desktop_class_table_loading_value">%1$s жүктелуде…</string>
-    <string name="desktop_class_table_subtitle_value">%1$s · %2$d курс · %3$d кредит</string>
+    <string name="desktop_class_table_subtitle_value">%1$s · %2$d курс · %3$s кредит</string>
     <string name="desktop_home_section_upcoming_assignments">Алдағы тапсырмалар</string>
     <string name="desktop_more_not_implemented">Әлі іске асырылмаған</string>
     <string name="desktop_more_subtitle">TigerDuck Mac-те ұсынатын барлық мүмкіндіктерді шолыңыз. Жиі пайдаланатындарыңызды бүйірлік панельде көрінуі үшін бекітіңіз.</string>
