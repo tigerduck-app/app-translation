@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Μήπως έγραψες λάθος μια διεύθυνση στο email που μόλις έστειλες;";
 "school_mail_cache_size" = "Μέγεθος προσωρινής μνήμης";
 "school_mail_cc" = "Κοιν.";
+"school_mail_check_baseline_reset" = "Το σημείο εκκίνησης επαναφέρθηκε";
+"school_mail_check_failed" = "Ο έλεγχος απέτυχε: %1$@";
+"school_mail_check_no_new_mail" = "Δεν υπάρχουν νέα email";
+"school_mail_check_sign_in_failed" = "Η σύνδεση απέτυχε";
+"school_mail_check_skipped_auth_failed" = "Παραλείφθηκε: η σύνδεση απέτυχε";
+"school_mail_check_skipped_busy" = "Παραλείφθηκε: υπήρχε ήδη άλλος έλεγχος σε εξέλιξη";
+"school_mail_check_skipped_disabled" = "Παραλείφθηκε: οι ειδοποιήσεις είναι απενεργοποιημένες";
+"school_mail_check_skipped_signed_out" = "Παραλείφθηκε: αποσυνδεδεμένος";
+"school_mail_check_trigger_background" = "Έλεγχος στο παρασκήνιο";
+"school_mail_check_trigger_foreground" = "Η εφαρμογή άνοιξε";
+"school_mail_check_trigger_page" = "Οθόνη Πανεπιστημιακού email";
 "school_mail_clear_cache" = "Εκκαθάριση προσωρινής μνήμης";
 "school_mail_compose" = "Νέο email";
 "school_mail_copy_all" = "Αντιγραφή όλων";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Δεν ήταν δυνατή η επαλήθευση του πιστοποιητικού του διακομιστή email. Αυτό το δίκτυο μπορεί να μην είναι ασφαλές.";
 "school_mail_error_generic" = "Κάτι πήγε στραβά με το πανεπιστημιακό email";
 "school_mail_error_network" = "Δεν είναι δυνατή η σύνδεση με τον διακομιστή email";
+"school_mail_error_too_large" = "Αυτό το email είναι πολύ μεγάλο για να ανοίξει";
 "school_mail_external_badge" = "Εξωτερικός";
 "school_mail_folder_all" = "Όλα τα μηνύματα";
 "school_mail_folder_drafts" = "Πρόχειρα";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Φόρτωση εικόνων";
 "school_mail_mark_read" = "Σήμανση ως αναγνωσμένου";
 "school_mail_mark_unread" = "Σήμανση ως μη αναγνωσμένου";
+"school_mail_message_actions" = "Περισσότερες ενέργειες";
 "school_mail_move_to" = "Μετακίνηση σε…";
 "school_mail_new_mail_count" = "%1$@ νέα email";
 "school_mail_no_recipient" = "Πρόσθεσε τουλάχιστον έναν παραλήπτη";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Οι απομακρυσμένες εικόνες είναι αποκλεισμένες";
 "school_mail_reply" = "Απάντηση";
 "school_mail_reply_all" = "Απάντηση σε όλους";
+"school_mail_reply_menu" = "Επιλογές απάντησης";
 "school_mail_risky_message" = "Το %1$@ θα μπορούσε να βλάψει τη συσκευή σου. Συνέχισε μόνο αν εμπιστεύεσαι τον αποστολέα.";
 "school_mail_risky_title" = "Άνοιγμα αυτού του συνημμένου;";
 "school_mail_save_draft" = "Αποθήκευση πρόχειρου";

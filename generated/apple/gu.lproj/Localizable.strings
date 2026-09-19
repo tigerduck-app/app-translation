@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "શું તમે હમણાં મોકલેલા મેઇલમાં કોઈ સરનામું ખોટું ટાઇપ કર્યું હતું?";
 "school_mail_cache_size" = "કેશ સાઇઝ";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "શરૂઆતનો બિંદુ રીસેટ થયો";
+"school_mail_check_failed" = "ચેક નિષ્ફળ થયું: %1$@";
+"school_mail_check_no_new_mail" = "કોઈ નવો મેઇલ નથી";
+"school_mail_check_sign_in_failed" = "સાઇન-ઇન નિષ્ફળ થયું";
+"school_mail_check_skipped_auth_failed" = "છોડી દેવાયું: સાઇન-ઇન નિષ્ફળ થયું";
+"school_mail_check_skipped_busy" = "છોડી દેવાયું: બીજી ચેક પહેલેથી ચાલી રહી હતી";
+"school_mail_check_skipped_disabled" = "છોડી દેવાયું: નોટિફિકેશન નિષ્ક્રિય છે";
+"school_mail_check_skipped_signed_out" = "છોડી દેવાયું: સાઇન આઉટ હતા";
+"school_mail_check_trigger_background" = "બેકગ્રાઉન્ડ ચેક";
+"school_mail_check_trigger_foreground" = "એપ ખોલાઈ";
+"school_mail_check_trigger_page" = "શાળા મેઇલ સ્ક્રીન";
 "school_mail_clear_cache" = "કેશ સાફ કરો";
 "school_mail_compose" = "નવો મેઇલ";
 "school_mail_copy_all" = "બધું કૉપિ કરો";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "મેઇલ સર્વરનું પ્રમાણપત્ર ચકાસી શકાયું નહીં. આ નેટવર્ક સુરક્ષિત ન પણ હોઈ શકે.";
 "school_mail_error_generic" = "શાળા મેઇલમાં કંઈક ખોટું થયું";
 "school_mail_error_network" = "મેઇલ સર્વર સુધી પહોંચી શકાતું નથી";
+"school_mail_error_too_large" = "આ મેઇલ ખોલવા માટે ખૂબ મોટો છે";
 "school_mail_external_badge" = "બાહ્ય";
 "school_mail_folder_all" = "બધા મેઇલ";
 "school_mail_folder_drafts" = "ડ્રાફ્ટ";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "ઇમેજ લોડ કરો";
 "school_mail_mark_read" = "વાંચેલ તરીકે માર્ક કરો";
 "school_mail_mark_unread" = "ન વાંચેલ તરીકે માર્ક કરો";
+"school_mail_message_actions" = "વધુ ક્રિયાઓ";
 "school_mail_move_to" = "ખસેડો…";
 "school_mail_new_mail_count" = "%1$@ નવા મેઇલ";
 "school_mail_no_recipient" = "ઓછામાં ઓછો એક પ્રાપક ઉમેરો";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "રિમોટ ઇમેજ બ્લોક છે";
 "school_mail_reply" = "જવાબ આપો";
 "school_mail_reply_all" = "બધાને જવાબ આપો";
+"school_mail_reply_menu" = "જવાબના વિકલ્પો";
 "school_mail_risky_message" = "%1$@ તમારા ડિવાઇસને નુકસાન કરી શકે છે. પ્રેષક પર વિશ્વાસ હોય તો જ આગળ વધો.";
 "school_mail_risky_title" = "આ એટેચમેન્ટ ખોલવું છે?";
 "school_mail_save_draft" = "ડ્રાફ્ટ સેવ કરો";

@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Hai digitato male un indirizzo nel messaggio che hai appena inviato?";
 "school_mail_cache_size" = "Dimensione della cache";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Punto di partenza reimpostato";
+"school_mail_check_failed" = "Controllo non riuscito: %1$@";
+"school_mail_check_no_new_mail" = "Nessun nuovo messaggio";
+"school_mail_check_sign_in_failed" = "Accesso non riuscito";
+"school_mail_check_skipped_auth_failed" = "Saltato: accesso non riuscito";
+"school_mail_check_skipped_busy" = "Saltato: era già in corso un altro controllo";
+"school_mail_check_skipped_disabled" = "Saltato: le notifiche sono disattivate";
+"school_mail_check_skipped_signed_out" = "Saltato: disconnesso";
+"school_mail_check_trigger_background" = "Controllo in background";
+"school_mail_check_trigger_foreground" = "App aperta";
+"school_mail_check_trigger_page" = "Schermata di Posta universitaria";
 "school_mail_clear_cache" = "Svuota cache";
 "school_mail_compose" = "Nuovo messaggio";
 "school_mail_copy_all" = "Copia tutto";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Impossibile verificare il certificato del server di posta. Questa rete potrebbe non essere sicura.";
 "school_mail_error_generic" = "Si è verificato un errore con la posta universitaria";
 "school_mail_error_network" = "Impossibile raggiungere il server di posta";
+"school_mail_error_too_large" = "Questo messaggio è troppo grande per essere aperto";
 "school_mail_external_badge" = "Esterno";
 "school_mail_folder_all" = "Tutti i messaggi";
 "school_mail_folder_drafts" = "Bozze";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Carica immagini";
 "school_mail_mark_read" = "Segna come letto";
 "school_mail_mark_unread" = "Segna come da leggere";
+"school_mail_message_actions" = "Altre azioni";
 "school_mail_move_to" = "Sposta in…";
 "school_mail_new_mail_count" = "%1$@ nuovi messaggi";
 "school_mail_no_recipient" = "Aggiungi almeno un destinatario";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Le immagini remote sono bloccate";
 "school_mail_reply" = "Rispondi";
 "school_mail_reply_all" = "Rispondi a tutti";
+"school_mail_reply_menu" = "Opzioni di risposta";
 "school_mail_risky_message" = "%1$@ potrebbe danneggiare il tuo dispositivo. Continua solo se ti fidi del mittente.";
 "school_mail_risky_title" = "Aprire questo allegato?";
 "school_mail_save_draft" = "Salva bozza";

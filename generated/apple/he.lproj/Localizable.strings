@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "האם טעית בהקלדת כתובת בהודעה ששלחת הרגע?";
 "school_mail_cache_size" = "גודל המטמון";
 "school_mail_cc" = "עותק";
+"school_mail_check_baseline_reset" = "נקודת ההתחלה אופסה";
+"school_mail_check_failed" = "הבדיקה נכשלה: %1$@";
+"school_mail_check_no_new_mail" = "אין דואר חדש";
+"school_mail_check_sign_in_failed" = "הכניסה נכשלה";
+"school_mail_check_skipped_auth_failed" = "דולג: הכניסה נכשלה";
+"school_mail_check_skipped_busy" = "דולג: בדיקה אחרת כבר פעלה";
+"school_mail_check_skipped_disabled" = "דולג: ההתראות כבויות";
+"school_mail_check_skipped_signed_out" = "דולג: מנותק";
+"school_mail_check_trigger_background" = "בדיקה ברקע";
+"school_mail_check_trigger_foreground" = "פתיחת האפליקציה";
+"school_mail_check_trigger_page" = "מסך דואר בית הספר";
 "school_mail_clear_cache" = "נקה מטמון";
 "school_mail_compose" = "הודעה חדשה";
 "school_mail_copy_all" = "העתק הכול";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "לא ניתן לאמת את האישור של שרת הדואר. ייתכן שהרשת הזו אינה בטוחה.";
 "school_mail_error_generic" = "משהו השתבש בדואר בית הספר";
 "school_mail_error_network" = "לא ניתן להתחבר לשרת הדואר";
+"school_mail_error_too_large" = "ההודעה הזו גדולה מדי לפתיחה";
 "school_mail_external_badge" = "חיצוני";
 "school_mail_folder_all" = "כל הדואר";
 "school_mail_folder_drafts" = "טיוטות";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "טען תמונות";
 "school_mail_mark_read" = "סמן כנקרא";
 "school_mail_mark_unread" = "סמן כלא נקרא";
+"school_mail_message_actions" = "פעולות נוספות";
 "school_mail_move_to" = "העבר אל…";
 "school_mail_new_mail_count" = "%1$@ הודעות דואר חדשות";
 "school_mail_no_recipient" = "הוסף נמען אחד לפחות";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "תמונות מרוחקות חסומות";
 "school_mail_reply" = "השב";
 "school_mail_reply_all" = "השב לכולם";
+"school_mail_reply_menu" = "אפשרויות מענה";
 "school_mail_risky_message" = "%1$@ עלול לפגוע במכשיר שלך. המשך רק אם אתה סומך על השולח.";
 "school_mail_risky_title" = "לפתוח את הקובץ המצורף הזה?";
 "school_mail_save_draft" = "שמור טיוטה";

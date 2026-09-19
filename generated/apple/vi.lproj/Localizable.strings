@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Bạn có gõ sai địa chỉ trong thư vừa gửi không?";
 "school_mail_cache_size" = "Dung lượng bộ nhớ đệm";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Đã đặt lại điểm bắt đầu";
+"school_mail_check_failed" = "Kiểm tra không thành công: %1$@";
+"school_mail_check_no_new_mail" = "Không có thư mới";
+"school_mail_check_sign_in_failed" = "Đăng nhập không thành công";
+"school_mail_check_skipped_auth_failed" = "Đã bỏ qua: đăng nhập không thành công";
+"school_mail_check_skipped_busy" = "Đã bỏ qua: một lượt kiểm tra khác đang chạy";
+"school_mail_check_skipped_disabled" = "Đã bỏ qua: thông báo đang tắt";
+"school_mail_check_skipped_signed_out" = "Đã bỏ qua: đã đăng xuất";
+"school_mail_check_trigger_background" = "Kiểm tra nền";
+"school_mail_check_trigger_foreground" = "Mở ứng dụng";
+"school_mail_check_trigger_page" = "Màn hình Email trường";
 "school_mail_clear_cache" = "Xóa bộ nhớ đệm";
 "school_mail_compose" = "Thư mới";
 "school_mail_copy_all" = "Sao chép tất cả";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Không thể xác minh chứng chỉ của máy chủ thư. Mạng này có thể không an toàn.";
 "school_mail_error_generic" = "Đã xảy ra sự cố với Email trường";
 "school_mail_error_network" = "Không thể kết nối đến máy chủ thư";
+"school_mail_error_too_large" = "Thư này quá lớn để mở";
 "school_mail_external_badge" = "Bên ngoài";
 "school_mail_folder_all" = "Tất cả thư";
 "school_mail_folder_drafts" = "Thư nháp";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Tải hình ảnh";
 "school_mail_mark_read" = "Đánh dấu đã đọc";
 "school_mail_mark_unread" = "Đánh dấu chưa đọc";
+"school_mail_message_actions" = "Thêm thao tác";
 "school_mail_move_to" = "Chuyển đến…";
 "school_mail_new_mail_count" = "%1$@ thư mới";
 "school_mail_no_recipient" = "Thêm ít nhất một người nhận";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Hình ảnh từ xa đã bị chặn";
 "school_mail_reply" = "Trả lời";
 "school_mail_reply_all" = "Trả lời tất cả";
+"school_mail_reply_menu" = "Tùy chọn trả lời";
 "school_mail_risky_message" = "%1$@ có thể gây hại cho thiết bị của bạn. Chỉ tiếp tục nếu bạn tin tưởng người gửi.";
 "school_mail_risky_title" = "Mở tệp đính kèm này?";
 "school_mail_save_draft" = "Lưu thư nháp";

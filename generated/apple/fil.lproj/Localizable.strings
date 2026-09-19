@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Nagkamali ka ba ng type sa address sa mail na kakapadala mo lang?";
 "school_mail_cache_size" = "Laki ng cache";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Na-reset ang panimulang punto";
+"school_mail_check_failed" = "Nabigo ang check: %1$@";
+"school_mail_check_no_new_mail" = "Walang bagong mail";
+"school_mail_check_sign_in_failed" = "Nabigo ang sign-in";
+"school_mail_check_skipped_auth_failed" = "Nilaktawan: nabigo ang sign-in";
+"school_mail_check_skipped_busy" = "Nilaktawan: may isa pang check na tumatakbo na";
+"school_mail_check_skipped_disabled" = "Nilaktawan: naka-off ang mga notification";
+"school_mail_check_skipped_signed_out" = "Nilaktawan: naka-sign out";
+"school_mail_check_trigger_background" = "Check sa background";
+"school_mail_check_trigger_foreground" = "Binuksan ang app";
+"school_mail_check_trigger_page" = "Screen ng Mail ng paaralan";
 "school_mail_clear_cache" = "I-clear ang cache";
 "school_mail_compose" = "Bagong mail";
 "school_mail_copy_all" = "Kopyahin lahat";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Hindi ma-verify ang certificate ng mail server. Baka hindi safe ang network na ito.";
 "school_mail_error_generic" = "May nagkamali sa mail ng paaralan";
 "school_mail_error_network" = "Hindi maabot ang mail server";
+"school_mail_error_too_large" = "Masyadong malaki ang mail na ito para mabuksan";
 "school_mail_external_badge" = "Panlabas";
 "school_mail_folder_all" = "Lahat ng Mail";
 "school_mail_folder_drafts" = "Mga Draft";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "I-load ang mga larawan";
 "school_mail_mark_read" = "Markahan bilang nabasa na";
 "school_mail_mark_unread" = "Markahan bilang hindi pa nababasa";
+"school_mail_message_actions" = "Higit pang mga aksyon";
 "school_mail_move_to" = "Ilipat sa…";
 "school_mail_new_mail_count" = "%1$@ na bagong mail";
 "school_mail_no_recipient" = "Magdagdag ng kahit isang tatanggap";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Naka-block ang mga larawan mula sa labas";
 "school_mail_reply" = "Sagutin";
 "school_mail_reply_all" = "Sagutin lahat";
+"school_mail_reply_menu" = "Mga opsyon sa pagsagot";
 "school_mail_risky_message" = "Puwedeng makasama sa device mo ang %1$@. Ituloy lang kung pinagkakatiwalaan mo ang nagpadala.";
 "school_mail_risky_title" = "Buksan ang attachment na ito?";
 "school_mail_save_draft" = "I-save ang draft";

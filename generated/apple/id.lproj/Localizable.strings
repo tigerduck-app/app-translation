@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Apakah kamu salah mengetik alamat di email yang baru saja kamu kirim?";
 "school_mail_cache_size" = "Ukuran cache";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Titik awal direset";
+"school_mail_check_failed" = "Pemeriksaan gagal: %1$@";
+"school_mail_check_no_new_mail" = "Tidak ada email baru";
+"school_mail_check_sign_in_failed" = "Gagal masuk";
+"school_mail_check_skipped_auth_failed" = "Dilewati: gagal masuk";
+"school_mail_check_skipped_busy" = "Dilewati: ada pemeriksaan lain yang sedang berjalan";
+"school_mail_check_skipped_disabled" = "Dilewati: notifikasi nonaktif";
+"school_mail_check_skipped_signed_out" = "Dilewati: sudah keluar";
+"school_mail_check_trigger_background" = "Pemeriksaan latar belakang";
+"school_mail_check_trigger_foreground" = "Aplikasi dibuka";
+"school_mail_check_trigger_page" = "Layar email sekolah";
 "school_mail_clear_cache" = "Hapus cache";
 "school_mail_compose" = "Email baru";
 "school_mail_copy_all" = "Salin semua";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Tidak dapat memverifikasi sertifikat server email. Jaringan ini mungkin tidak aman.";
 "school_mail_error_generic" = "Terjadi kesalahan pada email sekolah";
 "school_mail_error_network" = "Tidak dapat menghubungi server email";
+"school_mail_error_too_large" = "Email ini terlalu besar untuk dibuka";
 "school_mail_external_badge" = "Eksternal";
 "school_mail_folder_all" = "Semua Email";
 "school_mail_folder_drafts" = "Draf";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Muat gambar";
 "school_mail_mark_read" = "Tandai sudah dibaca";
 "school_mail_mark_unread" = "Tandai belum dibaca";
+"school_mail_message_actions" = "Tindakan lainnya";
 "school_mail_move_to" = "Pindahkan ke…";
 "school_mail_new_mail_count" = "%1$@ email baru";
 "school_mail_no_recipient" = "Tambahkan setidaknya satu penerima";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Gambar jarak jauh diblokir";
 "school_mail_reply" = "Balas";
 "school_mail_reply_all" = "Balas semua";
+"school_mail_reply_menu" = "Opsi balasan";
 "school_mail_risky_message" = "%1$@ dapat membahayakan perangkatmu. Lanjutkan hanya jika kamu memercayai pengirimnya.";
 "school_mail_risky_title" = "Buka lampiran ini?";
 "school_mail_save_draft" = "Simpan draf";

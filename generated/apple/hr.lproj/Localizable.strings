@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Jeste li krivo upisali adresu u poruci koju ste upravo poslali?";
 "school_mail_cache_size" = "Veličina predmemorije";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Početna točka je resetirana";
+"school_mail_check_failed" = "Provjera nije uspjela: %1$@";
+"school_mail_check_no_new_mail" = "Nema novih poruka";
+"school_mail_check_sign_in_failed" = "Prijava nije uspjela";
+"school_mail_check_skipped_auth_failed" = "Preskočeno: prijava nije uspjela";
+"school_mail_check_skipped_busy" = "Preskočeno: druga provjera je već bila u tijeku";
+"school_mail_check_skipped_disabled" = "Preskočeno: obavijesti su isključene";
+"school_mail_check_skipped_signed_out" = "Preskočeno: odjavljeni ste";
+"school_mail_check_trigger_background" = "Provjera u pozadini";
+"school_mail_check_trigger_foreground" = "Aplikacija je otvorena";
+"school_mail_check_trigger_page" = "Zaslon „Školska pošta”";
 "school_mail_clear_cache" = "Izbriši predmemoriju";
 "school_mail_compose" = "Nova poruka";
 "school_mail_copy_all" = "Kopiraj sve";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Nije moguće provjeriti certifikat poslužitelja pošte. Ova mreža možda nije sigurna.";
 "school_mail_error_generic" = "Nešto je pošlo po zlu sa školskom poštom";
 "school_mail_error_network" = "Nije moguće uspostaviti vezu s poslužiteljem pošte";
+"school_mail_error_too_large" = "Ova je poruka prevelika za otvaranje";
 "school_mail_external_badge" = "Vanjski";
 "school_mail_folder_all" = "Sva pošta";
 "school_mail_folder_drafts" = "Skice";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Učitaj slike";
 "school_mail_mark_read" = "Označi kao pročitano";
 "school_mail_mark_unread" = "Označi kao nepročitano";
+"school_mail_message_actions" = "Više radnji";
 "school_mail_move_to" = "Premjesti u…";
 "school_mail_new_mail_count" = "%1$@ novih poruka";
 "school_mail_no_recipient" = "Dodajte barem jednog primatelja";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Udaljene slike su blokirane";
 "school_mail_reply" = "Odgovori";
 "school_mail_reply_all" = "Odgovori svima";
+"school_mail_reply_menu" = "Opcije odgovora";
 "school_mail_risky_message" = "%1$@ bi mogao naštetiti vašem uređaju. Nastavite samo ako vjerujete pošiljatelju.";
 "school_mail_risky_title" = "Otvoriti ovaj privitak?";
 "school_mail_save_draft" = "Spremi skicu";

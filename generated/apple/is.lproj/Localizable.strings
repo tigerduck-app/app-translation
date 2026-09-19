@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Skrifaðir þú vitlaust netfang í póstinn sem þú sendir rétt í þessu?";
 "school_mail_cache_size" = "Stærð skyndiminnis";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Upphafspunktur núllstilltur";
+"school_mail_check_failed" = "Athugun mistókst: %1$@";
+"school_mail_check_no_new_mail" = "Enginn nýr póstur";
+"school_mail_check_sign_in_failed" = "Innskráning mistókst";
+"school_mail_check_skipped_auth_failed" = "Sleppt: innskráning mistókst";
+"school_mail_check_skipped_busy" = "Sleppt: önnur athugun var þegar í gangi";
+"school_mail_check_skipped_disabled" = "Sleppt: tilkynningar eru óvirkar";
+"school_mail_check_skipped_signed_out" = "Sleppt: skráður út";
+"school_mail_check_trigger_background" = "Athugun í bakgrunni";
+"school_mail_check_trigger_foreground" = "Forritið opnað";
+"school_mail_check_trigger_page" = "Skjár Skólapósts";
 "school_mail_clear_cache" = "Hreinsa skyndiminni";
 "school_mail_compose" = "Nýr póstur";
 "school_mail_copy_all" = "Afrita allt";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Ekki tókst að staðfesta skilríki póstþjónsins. Þetta net er hugsanlega ekki öruggt.";
 "school_mail_error_generic" = "Eitthvað fór úrskeiðis með Skólapósti";
 "school_mail_error_network" = "Næst ekki samband við póstþjóninn";
+"school_mail_error_too_large" = "Þessi póstur er of stór til að opna";
 "school_mail_external_badge" = "Utanaðkomandi";
 "school_mail_folder_all" = "Allur póstur";
 "school_mail_folder_drafts" = "Drög";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Hlaða inn myndum";
 "school_mail_mark_read" = "Merkja sem lesið";
 "school_mail_mark_unread" = "Merkja sem ólesið";
+"school_mail_message_actions" = "Fleiri aðgerðir";
 "school_mail_move_to" = "Flytja í…";
 "school_mail_new_mail_count" = "%1$@ ný skeyti";
 "school_mail_no_recipient" = "Bættu við að minnsta kosti einum viðtakanda";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Myndir sóttar af netinu eru útilokaðar";
 "school_mail_reply" = "Svara";
 "school_mail_reply_all" = "Svara öllum";
+"school_mail_reply_menu" = "Svarmöguleikar";
 "school_mail_risky_message" = "%1$@ gæti skaðað tækið þitt. Haltu aðeins áfram ef þú treystir sendandanum.";
 "school_mail_risky_title" = "Opna þetta viðhengi?";
 "school_mail_save_draft" = "Vista drög";

@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Vai tikko nosūtītajā vēstulē kļūdījāties, ievadot adresi?";
 "school_mail_cache_size" = "Kešatmiņas izmērs";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Sākuma punkts ir atiestatīts";
+"school_mail_check_failed" = "Pārbaude neizdevās: %1$@";
+"school_mail_check_no_new_mail" = "Jaunu vēstuļu nav";
+"school_mail_check_sign_in_failed" = "Neizdevās pieteikties";
+"school_mail_check_skipped_auth_failed" = "Izlaists: neizdevās pieteikties";
+"school_mail_check_skipped_busy" = "Izlaists: jau notika cita pārbaude";
+"school_mail_check_skipped_disabled" = "Izlaists: paziņojumi ir izslēgti";
+"school_mail_check_skipped_signed_out" = "Izlaists: esat izrakstījies";
+"school_mail_check_trigger_background" = "Pārbaude fonā";
+"school_mail_check_trigger_foreground" = "Lietotne ir atvērta";
+"school_mail_check_trigger_page" = "Ekrāns „Skolas pasts”";
 "school_mail_clear_cache" = "Notīrīt kešatmiņu";
 "school_mail_compose" = "Jauna vēstule";
 "school_mail_copy_all" = "Kopēt visu";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Neizdevās pārbaudīt pasta servera sertifikātu. Šis tīkls, iespējams, nav drošs.";
 "school_mail_error_generic" = "Radās kļūda ar skolas pastu";
 "school_mail_error_network" = "Nevar sasniegt pasta serveri";
+"school_mail_error_too_large" = "Šī vēstule ir pārāk liela, lai to atvērtu";
 "school_mail_external_badge" = "Ārējs";
 "school_mail_folder_all" = "Visas vēstules";
 "school_mail_folder_drafts" = "Melnraksti";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Ielādēt attēlus";
 "school_mail_mark_read" = "Atzīmēt kā lasītu";
 "school_mail_mark_unread" = "Atzīmēt kā nelasītu";
+"school_mail_message_actions" = "Vairāk darbību";
 "school_mail_move_to" = "Pārvietot uz…";
 "school_mail_new_mail_count" = "%1$@ jaunas vēstules";
 "school_mail_no_recipient" = "Pievienojiet vismaz vienu saņēmēju";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Attālie attēli ir bloķēti";
 "school_mail_reply" = "Atbildēt";
 "school_mail_reply_all" = "Atbildēt visiem";
+"school_mail_reply_menu" = "Atbildes opcijas";
 "school_mail_risky_message" = "%1$@ var kaitēt jūsu ierīcei. Turpiniet tikai tad, ja uzticaties sūtītājam.";
 "school_mail_risky_title" = "Vai atvērt šo pielikumu?";
 "school_mail_save_draft" = "Saglabāt melnrakstu";

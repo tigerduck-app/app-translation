@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Ar suklydote įvesdami adresą ką tik išsiųstame laiške?";
 "school_mail_cache_size" = "Podėlio dydis";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Pradinis taškas nustatytas iš naujo";
+"school_mail_check_failed" = "Patikrinimas nepavyko: %1$@";
+"school_mail_check_no_new_mail" = "Naujų laiškų nėra";
+"school_mail_check_sign_in_failed" = "Nepavyko prisijungti";
+"school_mail_check_skipped_auth_failed" = "Praleista: nepavyko prisijungti";
+"school_mail_check_skipped_busy" = "Praleista: jau vyko kitas patikrinimas";
+"school_mail_check_skipped_disabled" = "Praleista: pranešimai išjungti";
+"school_mail_check_skipped_signed_out" = "Praleista: atsijungta";
+"school_mail_check_trigger_background" = "Patikrinimas fone";
+"school_mail_check_trigger_foreground" = "Programėlė atidaryta";
+"school_mail_check_trigger_page" = "Ekranas „Mokyklos paštas“";
 "school_mail_clear_cache" = "Išvalyti podėlį";
 "school_mail_compose" = "Naujas laiškas";
 "school_mail_copy_all" = "Kopijuoti viską";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Nepavyko patikrinti pašto serverio sertifikato. Šis tinklas gali būti nesaugus.";
 "school_mail_error_generic" = "Kilo klaida naudojant mokyklos paštą";
 "school_mail_error_network" = "Nepavyksta pasiekti pašto serverio";
+"school_mail_error_too_large" = "Šis laiškas per didelis, kad būtų atidarytas";
 "school_mail_external_badge" = "Išorinis";
 "school_mail_folder_all" = "Visi laiškai";
 "school_mail_folder_drafts" = "Juodraščiai";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Įkelti vaizdus";
 "school_mail_mark_read" = "Žymėti kaip skaitytą";
 "school_mail_mark_unread" = "Žymėti kaip neskaitytą";
+"school_mail_message_actions" = "Daugiau veiksmų";
 "school_mail_move_to" = "Perkelti į…";
 "school_mail_new_mail_count" = "%1$@ naujų laiškų";
 "school_mail_no_recipient" = "Pridėkite bent vieną gavėją";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Nuotoliniai vaizdai užblokuoti";
 "school_mail_reply" = "Atsakyti";
 "school_mail_reply_all" = "Atsakyti visiems";
+"school_mail_reply_menu" = "Atsakymo parinktys";
 "school_mail_risky_message" = "%1$@ gali pakenkti jūsų įrenginiui. Tęskite tik jei pasitikite siuntėju.";
 "school_mail_risky_title" = "Atidaryti šį priedą?";
 "school_mail_save_draft" = "Išsaugoti juodraštį";

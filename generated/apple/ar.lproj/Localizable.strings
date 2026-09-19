@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "هل أخطأت في كتابة عنوان في الرسالة التي أرسلتها للتو؟";
 "school_mail_cache_size" = "حجم التخزين المؤقت";
 "school_mail_cc" = "نسخة";
+"school_mail_check_baseline_reset" = "إعادة ضبط نقطة البداية";
+"school_mail_check_failed" = "فشل التحقق: %1$@";
+"school_mail_check_no_new_mail" = "لا رسائل جديدة";
+"school_mail_check_sign_in_failed" = "فشل تسجيل الدخول";
+"school_mail_check_skipped_auth_failed" = "تم التخطي: فشل تسجيل الدخول";
+"school_mail_check_skipped_busy" = "تم التخطي: كانت هناك عملية تحقق أخرى قيد التشغيل بالفعل";
+"school_mail_check_skipped_disabled" = "تم التخطي: الإشعارات معطّلة";
+"school_mail_check_skipped_signed_out" = "تم التخطي: تم تسجيل الخروج";
+"school_mail_check_trigger_background" = "التحقق في الخلفية";
+"school_mail_check_trigger_foreground" = "تم فتح التطبيق";
+"school_mail_check_trigger_page" = "شاشة البريد المدرسي";
 "school_mail_clear_cache" = "مسح التخزين المؤقت";
 "school_mail_compose" = "رسالة جديدة";
 "school_mail_copy_all" = "نسخ الكل";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "تعذّر التحقق من شهادة خادم البريد، قد تكون هذه الشبكة غير آمنة.";
 "school_mail_error_generic" = "حدث خطأ ما في البريد المدرسي";
 "school_mail_error_network" = "تعذّر الوصول إلى خادم البريد";
+"school_mail_error_too_large" = "هذه الرسالة كبيرة جدًا بحيث لا يمكن فتحها";
 "school_mail_external_badge" = "خارجي";
 "school_mail_folder_all" = "كل الرسائل";
 "school_mail_folder_drafts" = "المسودات";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "تحميل الصور";
 "school_mail_mark_read" = "تمييز كمقروءة";
 "school_mail_mark_unread" = "تمييز كغير مقروءة";
+"school_mail_message_actions" = "المزيد من الإجراءات";
 "school_mail_move_to" = "نقل إلى…";
 "school_mail_new_mail_count" = "%1$@ رسالة جديدة";
 "school_mail_no_recipient" = "أضف مستلمًا واحدًا على الأقل";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "الصور البعيدة محظورة";
 "school_mail_reply" = "رد";
 "school_mail_reply_all" = "الرد على الكل";
+"school_mail_reply_menu" = "خيارات الرد";
 "school_mail_risky_message" = "قد يضر %1$@ بجهازك. تابع فقط إذا كنت تثق بالمرسل.";
 "school_mail_risky_title" = "هل تريد فتح هذا المرفق؟";
 "school_mail_save_draft" = "حفظ المسودة";

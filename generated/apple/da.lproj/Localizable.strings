@@ -577,6 +577,17 @@
 "school_mail_bounce_warning" = "Kom du til at stave en adresse forkert i den mail, du lige sendte?";
 "school_mail_cache_size" = "Cachestørrelse";
 "school_mail_cc" = "Cc";
+"school_mail_check_baseline_reset" = "Udgangspunkt nulstillet";
+"school_mail_check_failed" = "Tjek mislykkedes: %1$@";
+"school_mail_check_no_new_mail" = "Ingen ny mail";
+"school_mail_check_sign_in_failed" = "Login mislykkedes";
+"school_mail_check_skipped_auth_failed" = "Oversprunget: login mislykkedes";
+"school_mail_check_skipped_busy" = "Oversprunget: der var allerede en anden tjek i gang";
+"school_mail_check_skipped_disabled" = "Oversprunget: notifikationer er slået fra";
+"school_mail_check_skipped_signed_out" = "Oversprunget: logget ud";
+"school_mail_check_trigger_background" = "Tjek i baggrunden";
+"school_mail_check_trigger_foreground" = "App åbnet";
+"school_mail_check_trigger_page" = "Skærmen for Skolemail";
 "school_mail_clear_cache" = "Ryd cache";
 "school_mail_compose" = "Ny mail";
 "school_mail_copy_all" = "Kopiér alt";
@@ -595,6 +606,7 @@
 "school_mail_error_certificate" = "Mailserverens certifikat kunne ikke bekræftes. Dette netværk er muligvis ikke sikkert.";
 "school_mail_error_generic" = "Der opstod en fejl med Skolemail";
 "school_mail_error_network" = "Kan ikke oprette forbindelse til mailserveren";
+"school_mail_error_too_large" = "Denne mail er for stor til at åbne";
 "school_mail_external_badge" = "Ekstern";
 "school_mail_folder_all" = "Alle mails";
 "school_mail_folder_drafts" = "Kladder";
@@ -625,6 +637,7 @@
 "school_mail_load_images" = "Indlæs billeder";
 "school_mail_mark_read" = "Markér som læst";
 "school_mail_mark_unread" = "Markér som ulæst";
+"school_mail_message_actions" = "Flere handlinger";
 "school_mail_move_to" = "Flyt til…";
 "school_mail_new_mail_count" = "%1$@ nye mails";
 "school_mail_no_recipient" = "Tilføj mindst én modtager";
@@ -638,6 +651,7 @@
 "school_mail_remote_images_blocked" = "Eksterne billeder er blokeret";
 "school_mail_reply" = "Svar";
 "school_mail_reply_all" = "Svar til alle";
+"school_mail_reply_menu" = "Svarmuligheder";
 "school_mail_risky_message" = "%1$@ kan skade din enhed. Fortsæt kun, hvis du stoler på afsenderen.";
 "school_mail_risky_title" = "Åbn denne vedhæftning?";
 "school_mail_save_draft" = "Gem kladde";
