@@ -240,8 +240,13 @@
     <string name="course_credits_value">Кредит: %1$d</string>
     <string name="course_detail_classroom_label">Аудитория</string>
     <string name="course_detail_code_label">Код</string>
+    <string name="course_detail_copy_code">Кодты көшіру</string>
     <string name="course_detail_credits_label">Кредиттер</string>
+    <string name="course_detail_dimension_label">Бағыт</string>
     <string name="course_detail_due_prefix">Тапсыру мерзімі: %1$s</string>
+    <string name="course_detail_duration_full_year">Бір жыл</string>
+    <string name="course_detail_duration_label">Ұзақтығы</string>
+    <string name="course_detail_duration_one_semester">Бір семестр</string>
     <string name="course_detail_enrollment_label">Тіркелу</string>
     <string name="course_detail_incomplete_assignments">Аяқталмаған тапсырмалар</string>
     <string name="course_detail_instructor_label">Оқытушы</string>

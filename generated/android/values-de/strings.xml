@@ -240,8 +240,13 @@
     <string name="course_credits_value">Leistungspunkte: %1$d</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
     <string name="course_detail_code_label">Code</string>
+    <string name="course_detail_copy_code">Code kopieren</string>
     <string name="course_detail_credits_label">Leistungspunkte</string>
+    <string name="course_detail_dimension_label">Dimension</string>
     <string name="course_detail_due_prefix">Fällig: %1$s</string>
+    <string name="course_detail_duration_full_year">Ganzes Jahr</string>
+    <string name="course_detail_duration_label">Dauer</string>
+    <string name="course_detail_duration_one_semester">Ein Semester</string>
     <string name="course_detail_enrollment_label">Einschreibung</string>
     <string name="course_detail_incomplete_assignments">Unvollständige Aufgaben</string>
     <string name="course_detail_instructor_label">Lehrer</string>

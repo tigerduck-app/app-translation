@@ -240,8 +240,13 @@
     <string name="course_credits_value">Credite: %1$d</string>
     <string name="course_detail_classroom_label">Sală</string>
     <string name="course_detail_code_label">Cod</string>
+    <string name="course_detail_copy_code">Copiază codul</string>
     <string name="course_detail_credits_label">Credite</string>
+    <string name="course_detail_dimension_label">Dimensiune</string>
     <string name="course_detail_due_prefix">Scadență: %1$s</string>
+    <string name="course_detail_duration_full_year">An întreg</string>
+    <string name="course_detail_duration_label">Durată</string>
+    <string name="course_detail_duration_one_semester">Un semestru</string>
     <string name="course_detail_enrollment_label">Înscriere</string>
     <string name="course_detail_incomplete_assignments">Teme neterminate</string>
     <string name="course_detail_instructor_label">Profesor</string>

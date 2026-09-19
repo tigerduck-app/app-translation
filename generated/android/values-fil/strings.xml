@@ -240,8 +240,13 @@
     <string name="course_credits_value">Mga credit: %1$d</string>
     <string name="course_detail_classroom_label">Silid-aralan</string>
     <string name="course_detail_code_label">Code</string>
+    <string name="course_detail_copy_code">Kopyahin ang code</string>
     <string name="course_detail_credits_label">Mga kredito</string>
+    <string name="course_detail_dimension_label">Dimensyon</string>
     <string name="course_detail_due_prefix">Dapat bayaran: %1$s</string>
+    <string name="course_detail_duration_full_year">Buong taon</string>
+    <string name="course_detail_duration_label">Tagal</string>
+    <string name="course_detail_duration_one_semester">Isang semestre</string>
     <string name="course_detail_enrollment_label">Pagpapatala</string>
     <string name="course_detail_incomplete_assignments">Mga hindi kumpleto na takdang-aralin</string>
     <string name="course_detail_instructor_label">Tagapagturo</string>

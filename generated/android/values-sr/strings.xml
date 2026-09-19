@@ -240,8 +240,13 @@
     <string name="course_credits_value">ЕСПБ бодови: %1$d</string>
     <string name="course_detail_classroom_label">Учионица</string>
     <string name="course_detail_code_label">Шифра</string>
+    <string name="course_detail_copy_code">Копирај код</string>
     <string name="course_detail_credits_label">ЕСПБ бодови</string>
+    <string name="course_detail_dimension_label">Димензија</string>
     <string name="course_detail_due_prefix">Рок: %1$s</string>
+    <string name="course_detail_duration_full_year">Цела година</string>
+    <string name="course_detail_duration_label">Трајање</string>
+    <string name="course_detail_duration_one_semester">Један семестар</string>
     <string name="course_detail_enrollment_label">Број уписаних</string>
     <string name="course_detail_incomplete_assignments">Недовршени задаци</string>
     <string name="course_detail_instructor_label">Предавач</string>

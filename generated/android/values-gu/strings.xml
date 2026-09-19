@@ -240,8 +240,13 @@
     <string name="course_credits_value">ક્રેડિટ: %1$d</string>
     <string name="course_detail_classroom_label">વર્ગખંડ</string>
     <string name="course_detail_code_label">કોડ</string>
+    <string name="course_detail_copy_code">કોડ કૉપિ કરો</string>
     <string name="course_detail_credits_label">યશ</string>
+    <string name="course_detail_dimension_label">પરિમાણ</string>
     <string name="course_detail_due_prefix">બાકી: %1$s</string>
+    <string name="course_detail_duration_full_year">આખું વર્ષ</string>
+    <string name="course_detail_duration_label">અવધિ</string>
+    <string name="course_detail_duration_one_semester">એક સેમેસ્ટર</string>
     <string name="course_detail_enrollment_label">નોંધણી</string>
     <string name="course_detail_incomplete_assignments">અપૂર્ણ સોંપણીઓ</string>
     <string name="course_detail_instructor_label">પ્રશિક્ષક</string>

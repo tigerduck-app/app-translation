@@ -240,8 +240,13 @@
     <string name="course_credits_value">Кредити: %1$d</string>
     <string name="course_detail_classroom_label">Аудиторія</string>
     <string name="course_detail_code_label">Код</string>
+    <string name="course_detail_copy_code">Скопіювати код</string>
     <string name="course_detail_credits_label">Кредити</string>
+    <string name="course_detail_dimension_label">Напрям</string>
     <string name="course_detail_due_prefix">Термін: %1$s</string>
+    <string name="course_detail_duration_full_year">Весь рік</string>
+    <string name="course_detail_duration_label">Тривалість</string>
+    <string name="course_detail_duration_one_semester">Один семестр</string>
     <string name="course_detail_enrollment_label">Зарахування</string>
     <string name="course_detail_incomplete_assignments">Незавершені завдання</string>
     <string name="course_detail_instructor_label">Викладач</string>

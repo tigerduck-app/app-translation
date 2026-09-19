@@ -240,8 +240,13 @@
     <string name="course_credits_value">Studiepoeng: %1$d</string>
     <string name="course_detail_classroom_label">Klasserom</string>
     <string name="course_detail_code_label">Fagkode</string>
+    <string name="course_detail_copy_code">Kopier kode</string>
     <string name="course_detail_credits_label">Studiepoeng</string>
+    <string name="course_detail_dimension_label">Dimensjon</string>
     <string name="course_detail_due_prefix">Frist: %1$s</string>
+    <string name="course_detail_duration_full_year">Helt år</string>
+    <string name="course_detail_duration_label">Varighet</string>
+    <string name="course_detail_duration_one_semester">Ett semester</string>
     <string name="course_detail_enrollment_label">Påmelding</string>
     <string name="course_detail_incomplete_assignments">Ufullførte oppgaver</string>
     <string name="course_detail_instructor_label">Foreleser</string>

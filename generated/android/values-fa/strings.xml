@@ -240,8 +240,13 @@
     <string name="course_credits_value">واحد: %1$d</string>
     <string name="course_detail_classroom_label">کلاس درس</string>
     <string name="course_detail_code_label">کد</string>
+    <string name="course_detail_copy_code">کپی کد</string>
     <string name="course_detail_credits_label">اعتبارات</string>
+    <string name="course_detail_dimension_label">بُعد</string>
     <string name="course_detail_due_prefix">سررسید: %1$s</string>
+    <string name="course_detail_duration_full_year">یک سال کامل</string>
+    <string name="course_detail_duration_label">مدت</string>
+    <string name="course_detail_duration_one_semester">یک نیم‌سال</string>
     <string name="course_detail_enrollment_label">ثبت نام</string>
     <string name="course_detail_incomplete_assignments">تکالیف ناقص</string>
     <string name="course_detail_instructor_label">مربی</string>

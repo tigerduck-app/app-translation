@@ -240,8 +240,13 @@
     <string name="course_credits_value">Kredi: %1$d</string>
     <string name="course_detail_classroom_label">Derslik</string>
     <string name="course_detail_code_label">Kod</string>
+    <string name="course_detail_copy_code">Kodu kopyala</string>
     <string name="course_detail_credits_label">Kredi</string>
+    <string name="course_detail_dimension_label">Boyut</string>
     <string name="course_detail_due_prefix">Son tarih: %1$s</string>
+    <string name="course_detail_duration_full_year">Tüm yıl</string>
+    <string name="course_detail_duration_label">Süre</string>
+    <string name="course_detail_duration_one_semester">Bir dönem</string>
     <string name="course_detail_enrollment_label">Kayıt</string>
     <string name="course_detail_incomplete_assignments">Tamamlanmamış ödevler</string>
     <string name="course_detail_instructor_label">Eğitmen</string>

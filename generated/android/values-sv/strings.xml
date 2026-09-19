@@ -240,8 +240,13 @@
     <string name="course_credits_value">Hp: %1$d</string>
     <string name="course_detail_classroom_label">Klassrum</string>
     <string name="course_detail_code_label">Kurskod</string>
+    <string name="course_detail_copy_code">Kopiera kod</string>
     <string name="course_detail_credits_label">Högskolepoäng</string>
+    <string name="course_detail_dimension_label">Dimension</string>
     <string name="course_detail_due_prefix">Deadline: %1$s</string>
+    <string name="course_detail_duration_full_year">Helt år</string>
+    <string name="course_detail_duration_label">Längd</string>
+    <string name="course_detail_duration_one_semester">En termin</string>
     <string name="course_detail_enrollment_label">Registrering</string>
     <string name="course_detail_incomplete_assignments">Ofullständiga uppgifter</string>
     <string name="course_detail_instructor_label">Lärare</string>

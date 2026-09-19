@@ -240,8 +240,13 @@
     <string name="course_credits_value">Ainepunktid: %1$d</string>
     <string name="course_detail_classroom_label">Klassiruum</string>
     <string name="course_detail_code_label">Kood</string>
+    <string name="course_detail_copy_code">Kopeeri kood</string>
     <string name="course_detail_credits_label">Krediidid</string>
+    <string name="course_detail_dimension_label">Mõõde</string>
     <string name="course_detail_due_prefix">Tähtaeg: %1$s</string>
+    <string name="course_detail_duration_full_year">Terve aasta</string>
+    <string name="course_detail_duration_label">Kestus</string>
+    <string name="course_detail_duration_one_semester">Üks semester</string>
     <string name="course_detail_enrollment_label">Registreerimine</string>
     <string name="course_detail_incomplete_assignments">Mittetäielikud ülesanded</string>
     <string name="course_detail_instructor_label">Juhendaja</string>

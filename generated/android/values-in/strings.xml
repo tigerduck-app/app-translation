@@ -240,8 +240,13 @@
     <string name="course_credits_value">SKS: %1$d</string>
     <string name="course_detail_classroom_label">Ruang kelas</string>
     <string name="course_detail_code_label">Kode</string>
+    <string name="course_detail_copy_code">Salin kode</string>
     <string name="course_detail_credits_label">SKS</string>
+    <string name="course_detail_dimension_label">Dimensi</string>
     <string name="course_detail_due_prefix">Tenggat: %1$s</string>
+    <string name="course_detail_duration_full_year">Satu tahun penuh</string>
+    <string name="course_detail_duration_label">Durasi</string>
+    <string name="course_detail_duration_one_semester">Satu semester</string>
     <string name="course_detail_enrollment_label">Pendaftaran</string>
     <string name="course_detail_incomplete_assignments">Tugas belum selesai</string>
     <string name="course_detail_instructor_label">Pengajar</string>

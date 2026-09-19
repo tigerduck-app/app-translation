@@ -236,8 +236,13 @@
 "course_credits_value" = "Πιστωτικές μονάδες: %1$d";
 "course_detail_classroom_label" = "Αίθουσα διδασκαλίας";
 "course_detail_code_label" = "Κώδικας";
+"course_detail_copy_code" = "Αντιγραφή κωδικού";
 "course_detail_credits_label" = "Πιστώσεις";
+"course_detail_dimension_label" = "Διάσταση";
 "course_detail_due_prefix" = "Προθεσμία: %1$@";
+"course_detail_duration_full_year" = "Ολόκληρο έτος";
+"course_detail_duration_label" = "Διάρκεια";
+"course_detail_duration_one_semester" = "Ένα εξάμηνο";
 "course_detail_enrollment_label" = "Εγγραφή";
 "course_detail_incomplete_assignments" = "Ημιτελείς εργασίες";
 "course_detail_instructor_label" = "Εκπαιδευτής";

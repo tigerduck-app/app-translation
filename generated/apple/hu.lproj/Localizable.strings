@@ -236,8 +236,13 @@
 "course_credits_value" = "Kreditek: %1$d";
 "course_detail_classroom_label" = "Tanterem";
 "course_detail_code_label" = "Kód";
+"course_detail_copy_code" = "Kód másolása";
 "course_detail_credits_label" = "Kreditek";
+"course_detail_dimension_label" = "Dimenzió";
 "course_detail_due_prefix" = "Határidő: %1$@";
+"course_detail_duration_full_year" = "Teljes év";
+"course_detail_duration_label" = "Időtartam";
+"course_detail_duration_one_semester" = "Egy félév";
 "course_detail_enrollment_label" = "Létszám";
 "course_detail_incomplete_assignments" = "Befejezetlen házi feladatok";
 "course_detail_instructor_label" = "Oktató";

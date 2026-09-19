@@ -240,8 +240,13 @@
     <string name="course_credits_value">Einingar: %1$d</string>
     <string name="course_detail_classroom_label">Kennslustofa</string>
     <string name="course_detail_code_label">Námskeiðskóði</string>
+    <string name="course_detail_copy_code">Afrita kóða</string>
     <string name="course_detail_credits_label">Einingar</string>
+    <string name="course_detail_dimension_label">Vídd</string>
     <string name="course_detail_due_prefix">Skilafrestur: %1$s</string>
+    <string name="course_detail_duration_full_year">Heilt ár</string>
+    <string name="course_detail_duration_label">Lengd</string>
+    <string name="course_detail_duration_one_semester">Ein önn</string>
     <string name="course_detail_enrollment_label">Skráning</string>
     <string name="course_detail_incomplete_assignments">Ókláruð verkefni</string>
     <string name="course_detail_instructor_label">Kennari</string>

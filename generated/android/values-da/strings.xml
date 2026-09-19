@@ -240,8 +240,13 @@
     <string name="course_credits_value">ECTS-point: %1$d</string>
     <string name="course_detail_classroom_label">Klasseværelse</string>
     <string name="course_detail_code_label">Kode</string>
+    <string name="course_detail_copy_code">Kopiér kode</string>
     <string name="course_detail_credits_label">Kreditter</string>
+    <string name="course_detail_dimension_label">Dimension</string>
     <string name="course_detail_due_prefix">Forfald: %1$s</string>
+    <string name="course_detail_duration_full_year">Helt år</string>
+    <string name="course_detail_duration_label">Varighed</string>
+    <string name="course_detail_duration_one_semester">Et semester</string>
     <string name="course_detail_enrollment_label">Tilmelding</string>
     <string name="course_detail_incomplete_assignments">Ufuldstændige opgaver</string>
     <string name="course_detail_instructor_label">Instruktør</string>

@@ -240,8 +240,13 @@
     <string name="course_credits_value">క్రెడిట్‌లు: %1$d</string>
     <string name="course_detail_classroom_label">తరగతి గది</string>
     <string name="course_detail_code_label">కోడ్</string>
+    <string name="course_detail_copy_code">కోడ్‌ను కాపీ చేయి</string>
     <string name="course_detail_credits_label">క్రెడిట్‌లు</string>
+    <string name="course_detail_dimension_label">పరిమాణం</string>
     <string name="course_detail_due_prefix">గడువు: %1$s</string>
+    <string name="course_detail_duration_full_year">పూర్తి సంవత్సరం</string>
+    <string name="course_detail_duration_label">వ్యవధి</string>
+    <string name="course_detail_duration_one_semester">ఒక సెమిస్టర్</string>
     <string name="course_detail_enrollment_label">నమోదు</string>
     <string name="course_detail_incomplete_assignments">అసంపూర్ణ అసైన్‌మెంట్లు</string>
     <string name="course_detail_instructor_label">బోధకుడు</string>

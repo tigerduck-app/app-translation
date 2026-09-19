@@ -236,8 +236,13 @@
 "course_credits_value" = "ક્રેડિટ: %1$d";
 "course_detail_classroom_label" = "વર્ગખંડ";
 "course_detail_code_label" = "કોડ";
+"course_detail_copy_code" = "કોડ કૉપિ કરો";
 "course_detail_credits_label" = "યશ";
+"course_detail_dimension_label" = "પરિમાણ";
 "course_detail_due_prefix" = "બાકી: %1$@";
+"course_detail_duration_full_year" = "આખું વર્ષ";
+"course_detail_duration_label" = "અવધિ";
+"course_detail_duration_one_semester" = "એક સેમેસ્ટર";
 "course_detail_enrollment_label" = "નોંધણી";
 "course_detail_incomplete_assignments" = "અપૂર્ણ સોંપણીઓ";
 "course_detail_instructor_label" = "પ્રશિક્ષક";

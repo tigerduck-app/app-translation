@@ -240,8 +240,13 @@
     <string name="course_credits_value">Kreditai: %1$d</string>
     <string name="course_detail_classroom_label">Auditorija</string>
     <string name="course_detail_code_label">Kodas</string>
+    <string name="course_detail_copy_code">Kopijuoti kodą</string>
     <string name="course_detail_credits_label">Kreditai</string>
+    <string name="course_detail_dimension_label">Dimensija</string>
     <string name="course_detail_due_prefix">Terminas: %1$s</string>
+    <string name="course_detail_duration_full_year">Visi metai</string>
+    <string name="course_detail_duration_label">Trukmė</string>
+    <string name="course_detail_duration_one_semester">Vienas semestras</string>
     <string name="course_detail_enrollment_label">Studentų skaičius</string>
     <string name="course_detail_incomplete_assignments">Neatliktos užduotys</string>
     <string name="course_detail_instructor_label">Dėstytojas</string>

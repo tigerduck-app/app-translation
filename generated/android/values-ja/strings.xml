@@ -240,8 +240,13 @@
     <string name="course_credits_value">単位：%1$d</string>
     <string name="course_detail_classroom_label">教室</string>
     <string name="course_detail_code_label">コード</string>
+    <string name="course_detail_copy_code">コードをコピー</string>
     <string name="course_detail_credits_label">単位</string>
+    <string name="course_detail_dimension_label">領域</string>
     <string name="course_detail_due_prefix">期限：%1$s</string>
+    <string name="course_detail_duration_full_year">通年</string>
+    <string name="course_detail_duration_label">期間</string>
+    <string name="course_detail_duration_one_semester">半期</string>
     <string name="course_detail_enrollment_label">履修者</string>
     <string name="course_detail_incomplete_assignments">未完了の課題</string>
     <string name="course_detail_instructor_label">担当教員</string>

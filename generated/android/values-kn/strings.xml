@@ -240,8 +240,13 @@
     <string name="course_credits_value">ಕ್ರೆಡಿಟ್‌ಗಳು: %1$d</string>
     <string name="course_detail_classroom_label">ತರಗತಿ ಕೊಠಡಿ</string>
     <string name="course_detail_code_label">ಕೋಡ್</string>
+    <string name="course_detail_copy_code">ಕೋಡ್ ನಕಲಿಸಿ</string>
     <string name="course_detail_credits_label">ಕ್ರೆಡಿಟ್‌ಗಳು</string>
+    <string name="course_detail_dimension_label">ಆಯಾಮ</string>
     <string name="course_detail_due_prefix">ಸಲ್ಲಿಸುವ ದಿನಾಂಕ: %1$s</string>
+    <string name="course_detail_duration_full_year">ಪೂರ್ಣ ವರ್ಷ</string>
+    <string name="course_detail_duration_label">ಅವಧಿ</string>
+    <string name="course_detail_duration_one_semester">ಒಂದು ಸೆಮಿಸ್ಟರ್</string>
     <string name="course_detail_enrollment_label">ನೋಂದಣಿ</string>
     <string name="course_detail_incomplete_assignments">ಅಪೂರ್ಣ ಕಾರ್ಯಯೋಜನೆಗಳು</string>
     <string name="course_detail_instructor_label">ಬೋಧಕ</string>

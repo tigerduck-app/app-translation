@@ -240,8 +240,13 @@
     <string name="course_credits_value">ECTS bodovi: %1$d</string>
     <string name="course_detail_classroom_label">Učionica</string>
     <string name="course_detail_code_label">Šifra</string>
+    <string name="course_detail_copy_code">Kopiraj kôd</string>
     <string name="course_detail_credits_label">ECTS bodovi</string>
+    <string name="course_detail_dimension_label">Dimenzija</string>
     <string name="course_detail_due_prefix">Rok: %1$s</string>
+    <string name="course_detail_duration_full_year">Cijela godina</string>
+    <string name="course_detail_duration_label">Trajanje</string>
+    <string name="course_detail_duration_one_semester">Jedan semestar</string>
     <string name="course_detail_enrollment_label">Broj upisanih</string>
     <string name="course_detail_incomplete_assignments">Nedovršeni zadaci</string>
     <string name="course_detail_instructor_label">Nastavnik</string>

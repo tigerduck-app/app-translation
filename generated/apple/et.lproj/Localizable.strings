@@ -236,8 +236,13 @@
 "course_credits_value" = "Ainepunktid: %1$d";
 "course_detail_classroom_label" = "Klassiruum";
 "course_detail_code_label" = "Kood";
+"course_detail_copy_code" = "Kopeeri kood";
 "course_detail_credits_label" = "Krediidid";
+"course_detail_dimension_label" = "Mõõde";
 "course_detail_due_prefix" = "Tähtaeg: %1$@";
+"course_detail_duration_full_year" = "Terve aasta";
+"course_detail_duration_label" = "Kestus";
+"course_detail_duration_one_semester" = "Üks semester";
 "course_detail_enrollment_label" = "Registreerimine";
 "course_detail_incomplete_assignments" = "Mittetäielikud ülesanded";
 "course_detail_instructor_label" = "Juhendaja";

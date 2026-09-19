@@ -240,8 +240,13 @@
     <string name="course_credits_value">Punkty ECTS: %1$d</string>
     <string name="course_detail_classroom_label">Sala</string>
     <string name="course_detail_code_label">Kod</string>
+    <string name="course_detail_copy_code">Kopiuj kod</string>
     <string name="course_detail_credits_label">Punkty ECTS</string>
+    <string name="course_detail_dimension_label">Wymiar</string>
     <string name="course_detail_due_prefix">Termin: %1$s</string>
+    <string name="course_detail_duration_full_year">Cały rok</string>
+    <string name="course_detail_duration_label">Czas trwania</string>
+    <string name="course_detail_duration_one_semester">Jeden semestr</string>
     <string name="course_detail_enrollment_label">Liczba zapisanych</string>
     <string name="course_detail_incomplete_assignments">Niezakończone zadania</string>
     <string name="course_detail_instructor_label">Wykładowca</string>

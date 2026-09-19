@@ -236,8 +236,13 @@
 "course_credits_value" = "學分：%1$d";
 "course_detail_classroom_label" = "教室";
 "course_detail_code_label" = "代碼";
+"course_detail_copy_code" = "複製代碼";
 "course_detail_credits_label" = "學分";
+"course_detail_dimension_label" = "向度";
 "course_detail_due_prefix" = "截止:%1$@";
+"course_detail_duration_full_year" = "全";
+"course_detail_duration_label" = "學年";
+"course_detail_duration_one_semester" = "半";
 "course_detail_enrollment_label" = "人數";
 "course_detail_incomplete_assignments" = "未完成作業";
 "course_detail_instructor_label" = "授課教師";

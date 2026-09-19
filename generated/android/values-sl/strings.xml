@@ -240,8 +240,13 @@
     <string name="course_credits_value">Kreditne točke: %1$d</string>
     <string name="course_detail_classroom_label">Učilnica</string>
     <string name="course_detail_code_label">Koda</string>
+    <string name="course_detail_copy_code">Kopiraj kodo</string>
     <string name="course_detail_credits_label">Krediti</string>
+    <string name="course_detail_dimension_label">Dimenzija</string>
     <string name="course_detail_due_prefix">Rok: %1$s</string>
+    <string name="course_detail_duration_full_year">Celo leto</string>
+    <string name="course_detail_duration_label">Trajanje</string>
+    <string name="course_detail_duration_one_semester">En semester</string>
     <string name="course_detail_enrollment_label">Vpis</string>
     <string name="course_detail_incomplete_assignments">Nedokončane naloge</string>
     <string name="course_detail_instructor_label">Predavatelj</string>

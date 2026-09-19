@@ -240,8 +240,13 @@
     <string name="course_credits_value">หน่วยกิต: %1$d</string>
     <string name="course_detail_classroom_label">ห้องเรียน</string>
     <string name="course_detail_code_label">รหัส</string>
+    <string name="course_detail_copy_code">คัดลอกรหัส</string>
     <string name="course_detail_credits_label">หน่วยกิต</string>
+    <string name="course_detail_dimension_label">มิติ</string>
     <string name="course_detail_due_prefix">ครบกำหนด: %1$s</string>
+    <string name="course_detail_duration_full_year">ทั้งปี</string>
+    <string name="course_detail_duration_label">ระยะเวลา</string>
+    <string name="course_detail_duration_one_semester">หนึ่งภาคเรียน</string>
     <string name="course_detail_enrollment_label">จำนวนผู้ลงทะเบียน</string>
     <string name="course_detail_incomplete_assignments">การบ้านที่ยังไม่เสร็จ</string>
     <string name="course_detail_instructor_label">อาจารย์ผู้สอน</string>

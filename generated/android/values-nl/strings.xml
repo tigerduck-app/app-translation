@@ -240,8 +240,13 @@
     <string name="course_credits_value">Studiepunten: %1$d</string>
     <string name="course_detail_classroom_label">Lokaal</string>
     <string name="course_detail_code_label">Code</string>
+    <string name="course_detail_copy_code">Code kopiëren</string>
     <string name="course_detail_credits_label">Studiepunten</string>
+    <string name="course_detail_dimension_label">Dimensie</string>
     <string name="course_detail_due_prefix">Deadline: %1$s</string>
+    <string name="course_detail_duration_full_year">Heel jaar</string>
+    <string name="course_detail_duration_label">Duur</string>
+    <string name="course_detail_duration_one_semester">Eén semester</string>
     <string name="course_detail_enrollment_label">Inschrijving</string>
     <string name="course_detail_incomplete_assignments">Onvoltooide opdrachten</string>
     <string name="course_detail_instructor_label">Docent</string>

@@ -240,8 +240,13 @@
     <string name="course_credits_value">الساعات المعتمدة: %1$d</string>
     <string name="course_detail_classroom_label">الفصل الدراسي</string>
     <string name="course_detail_code_label">شفرة</string>
+    <string name="course_detail_copy_code">نسخ الرمز</string>
     <string name="course_detail_credits_label">الاعتمادات</string>
+    <string name="course_detail_dimension_label">البُعد</string>
     <string name="course_detail_due_prefix">المستحق: %1$s</string>
+    <string name="course_detail_duration_full_year">سنة كاملة</string>
+    <string name="course_detail_duration_label">المدة</string>
+    <string name="course_detail_duration_one_semester">فصل دراسي واحد</string>
     <string name="course_detail_enrollment_label">التسجيل</string>
     <string name="course_detail_incomplete_assignments">مهام غير مكتملة</string>
     <string name="course_detail_instructor_label">مدرب</string>

@@ -240,8 +240,13 @@
     <string name="course_credits_value">Tín chỉ: %1$d</string>
     <string name="course_detail_classroom_label">Phòng học</string>
     <string name="course_detail_code_label">Mã</string>
+    <string name="course_detail_copy_code">Sao chép mã</string>
     <string name="course_detail_credits_label">Tín chỉ</string>
+    <string name="course_detail_dimension_label">Lĩnh vực</string>
     <string name="course_detail_due_prefix">Hạn nộp: %1$s</string>
+    <string name="course_detail_duration_full_year">Cả năm</string>
+    <string name="course_detail_duration_label">Thời lượng</string>
+    <string name="course_detail_duration_one_semester">Một học kỳ</string>
     <string name="course_detail_enrollment_label">Đăng ký học</string>
     <string name="course_detail_incomplete_assignments">Bài tập chưa hoàn thành</string>
     <string name="course_detail_instructor_label">Giảng viên</string>

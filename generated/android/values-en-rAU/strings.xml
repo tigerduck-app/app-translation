@@ -240,8 +240,13 @@
     <string name="course_credits_value">Credits: %1$d</string>
     <string name="course_detail_classroom_label">Classroom</string>
     <string name="course_detail_code_label">Code</string>
+    <string name="course_detail_copy_code">Copy code</string>
     <string name="course_detail_credits_label">Credits</string>
+    <string name="course_detail_dimension_label">Dimension</string>
     <string name="course_detail_due_prefix">Due: %1$s</string>
+    <string name="course_detail_duration_full_year">Full year</string>
+    <string name="course_detail_duration_label">Duration</string>
+    <string name="course_detail_duration_one_semester">One semester</string>
     <string name="course_detail_enrollment_label">Enrollment</string>
     <string name="course_detail_incomplete_assignments">Incomplete assignments</string>
     <string name="course_detail_instructor_label">Instructor</string>

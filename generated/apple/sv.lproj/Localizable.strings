@@ -236,8 +236,13 @@
 "course_credits_value" = "Hp: %1$d";
 "course_detail_classroom_label" = "Klassrum";
 "course_detail_code_label" = "Kurskod";
+"course_detail_copy_code" = "Kopiera kod";
 "course_detail_credits_label" = "Högskolepoäng";
+"course_detail_dimension_label" = "Dimension";
 "course_detail_due_prefix" = "Deadline: %1$@";
+"course_detail_duration_full_year" = "Helt år";
+"course_detail_duration_label" = "Längd";
+"course_detail_duration_one_semester" = "En termin";
 "course_detail_enrollment_label" = "Registrering";
 "course_detail_incomplete_assignments" = "Ofullständiga uppgifter";
 "course_detail_instructor_label" = "Lärare";

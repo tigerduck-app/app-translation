@@ -240,8 +240,13 @@
     <string name="course_credits_value">Kredit: %1$d</string>
     <string name="course_detail_classroom_label">Bilik darjah</string>
     <string name="course_detail_code_label">Kod</string>
+    <string name="course_detail_copy_code">Salin kod</string>
     <string name="course_detail_credits_label">Kredit</string>
+    <string name="course_detail_dimension_label">Dimensi</string>
     <string name="course_detail_due_prefix">Tarikh akhir: %1$s</string>
+    <string name="course_detail_duration_full_year">Setahun penuh</string>
+    <string name="course_detail_duration_label">Tempoh</string>
+    <string name="course_detail_duration_one_semester">Satu semester</string>
     <string name="course_detail_enrollment_label">Pendaftaran</string>
     <string name="course_detail_incomplete_assignments">Tugasan tidak lengkap</string>
     <string name="course_detail_instructor_label">Pengajar</string>

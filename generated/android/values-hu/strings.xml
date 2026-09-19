@@ -240,8 +240,13 @@
     <string name="course_credits_value">Kreditek: %1$d</string>
     <string name="course_detail_classroom_label">Tanterem</string>
     <string name="course_detail_code_label">Kód</string>
+    <string name="course_detail_copy_code">Kód másolása</string>
     <string name="course_detail_credits_label">Kreditek</string>
+    <string name="course_detail_dimension_label">Dimenzió</string>
     <string name="course_detail_due_prefix">Határidő: %1$s</string>
+    <string name="course_detail_duration_full_year">Teljes év</string>
+    <string name="course_detail_duration_label">Időtartam</string>
+    <string name="course_detail_duration_one_semester">Egy félév</string>
     <string name="course_detail_enrollment_label">Létszám</string>
     <string name="course_detail_incomplete_assignments">Befejezetlen házi feladatok</string>
     <string name="course_detail_instructor_label">Oktató</string>

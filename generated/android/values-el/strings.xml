@@ -240,8 +240,13 @@
     <string name="course_credits_value">Πιστωτικές μονάδες: %1$d</string>
     <string name="course_detail_classroom_label">Αίθουσα διδασκαλίας</string>
     <string name="course_detail_code_label">Κώδικας</string>
+    <string name="course_detail_copy_code">Αντιγραφή κωδικού</string>
     <string name="course_detail_credits_label">Πιστώσεις</string>
+    <string name="course_detail_dimension_label">Διάσταση</string>
     <string name="course_detail_due_prefix">Προθεσμία: %1$s</string>
+    <string name="course_detail_duration_full_year">Ολόκληρο έτος</string>
+    <string name="course_detail_duration_label">Διάρκεια</string>
+    <string name="course_detail_duration_one_semester">Ένα εξάμηνο</string>
     <string name="course_detail_enrollment_label">Εγγραφή</string>
     <string name="course_detail_incomplete_assignments">Ημιτελείς εργασίες</string>
     <string name="course_detail_instructor_label">Εκπαιδευτής</string>

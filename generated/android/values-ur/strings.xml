@@ -240,8 +240,13 @@
     <string name="course_credits_value">کریڈٹس: %1$d</string>
     <string name="course_detail_classroom_label">کلاس روم</string>
     <string name="course_detail_code_label">کوڈ</string>
+    <string name="course_detail_copy_code">کوڈ کاپی کریں</string>
     <string name="course_detail_credits_label">کریڈٹس</string>
+    <string name="course_detail_dimension_label">جہت</string>
     <string name="course_detail_due_prefix">واجب الادا: %1$s</string>
+    <string name="course_detail_duration_full_year">پورا سال</string>
+    <string name="course_detail_duration_label">دورانیہ</string>
+    <string name="course_detail_duration_one_semester">ایک سمسٹر</string>
     <string name="course_detail_enrollment_label">اندراج</string>
     <string name="course_detail_incomplete_assignments">نامکمل اسائنمنٹس</string>
     <string name="course_detail_instructor_label">استاد</string>

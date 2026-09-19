@@ -240,8 +240,13 @@
     <string name="course_credits_value">ക്രെഡിറ്റുകൾ: %1$d</string>
     <string name="course_detail_classroom_label">ക്ലാസ്റൂം</string>
     <string name="course_detail_code_label">കോഡ്</string>
+    <string name="course_detail_copy_code">കോഡ് പകർത്തുക</string>
     <string name="course_detail_credits_label">ക്രെഡിറ്റുകൾ</string>
+    <string name="course_detail_dimension_label">മാനം</string>
     <string name="course_detail_due_prefix">അവസാന തീയതി: %1$s</string>
+    <string name="course_detail_duration_full_year">മുഴുവൻ വർഷം</string>
+    <string name="course_detail_duration_label">ദൈർഘ്യം</string>
+    <string name="course_detail_duration_one_semester">ഒരു സെമസ്റ്റർ</string>
     <string name="course_detail_enrollment_label">എൻറോൾമെന്റ്</string>
     <string name="course_detail_incomplete_assignments">അപൂർണ്ണ അസൈൻമെന്റുകൾ</string>
     <string name="course_detail_instructor_label">അധ്യാപകൻ</string>

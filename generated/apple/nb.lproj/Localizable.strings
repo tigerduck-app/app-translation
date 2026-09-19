@@ -236,8 +236,13 @@
 "course_credits_value" = "Studiepoeng: %1$d";
 "course_detail_classroom_label" = "Klasserom";
 "course_detail_code_label" = "Fagkode";
+"course_detail_copy_code" = "Kopier kode";
 "course_detail_credits_label" = "Studiepoeng";
+"course_detail_dimension_label" = "Dimensjon";
 "course_detail_due_prefix" = "Frist: %1$@";
+"course_detail_duration_full_year" = "Helt år";
+"course_detail_duration_label" = "Varighet";
+"course_detail_duration_one_semester" = "Ett semester";
 "course_detail_enrollment_label" = "Påmelding";
 "course_detail_incomplete_assignments" = "Ufullførte oppgaver";
 "course_detail_instructor_label" = "Foreleser";

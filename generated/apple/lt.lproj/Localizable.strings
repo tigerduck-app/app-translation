@@ -236,8 +236,13 @@
 "course_credits_value" = "Kreditai: %1$d";
 "course_detail_classroom_label" = "Auditorija";
 "course_detail_code_label" = "Kodas";
+"course_detail_copy_code" = "Kopijuoti kodą";
 "course_detail_credits_label" = "Kreditai";
+"course_detail_dimension_label" = "Dimensija";
 "course_detail_due_prefix" = "Terminas: %1$@";
+"course_detail_duration_full_year" = "Visi metai";
+"course_detail_duration_label" = "Trukmė";
+"course_detail_duration_one_semester" = "Vienas semestras";
 "course_detail_enrollment_label" = "Studentų skaičius";
 "course_detail_incomplete_assignments" = "Neatliktos užduotys";
 "course_detail_instructor_label" = "Dėstytojas";

@@ -240,8 +240,13 @@
     <string name="course_credits_value">Kredity: %1$d</string>
     <string name="course_detail_classroom_label">Učebňa</string>
     <string name="course_detail_code_label">Kód</string>
+    <string name="course_detail_copy_code">Kopírovať kód</string>
     <string name="course_detail_credits_label">Kredity</string>
+    <string name="course_detail_dimension_label">Dimenzia</string>
     <string name="course_detail_due_prefix">Termín: %1$s</string>
+    <string name="course_detail_duration_full_year">Celý rok</string>
+    <string name="course_detail_duration_label">Trvanie</string>
+    <string name="course_detail_duration_one_semester">Jeden semester</string>
     <string name="course_detail_enrollment_label">Zápis</string>
     <string name="course_detail_incomplete_assignments">Nedokončené úlohy</string>
     <string name="course_detail_instructor_label">Vyučujúci</string>

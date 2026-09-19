@@ -240,8 +240,13 @@
     <string name="course_credits_value">Kredītpunkti: %1$d</string>
     <string name="course_detail_classroom_label">Auditorija</string>
     <string name="course_detail_code_label">Kods</string>
+    <string name="course_detail_copy_code">Kopēt kodu</string>
     <string name="course_detail_credits_label">Kredītpunkti</string>
+    <string name="course_detail_dimension_label">Dimensija</string>
     <string name="course_detail_due_prefix">Termiņš: %1$s</string>
+    <string name="course_detail_duration_full_year">Viss gads</string>
+    <string name="course_detail_duration_label">Ilgums</string>
+    <string name="course_detail_duration_one_semester">Viens semestris</string>
     <string name="course_detail_enrollment_label">Reģistrācija</string>
     <string name="course_detail_incomplete_assignments">Neizpildītie uzdevumi</string>
     <string name="course_detail_instructor_label">Pasniedzējs</string>

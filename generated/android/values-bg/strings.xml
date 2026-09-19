@@ -240,8 +240,13 @@
     <string name="course_credits_value">Кредити: %1$d</string>
     <string name="course_detail_classroom_label">Класна стая</string>
     <string name="course_detail_code_label">Код</string>
+    <string name="course_detail_copy_code">Копиране на кода</string>
     <string name="course_detail_credits_label">Кредити</string>
+    <string name="course_detail_dimension_label">Измерение</string>
     <string name="course_detail_due_prefix">Падеж: %1$s</string>
+    <string name="course_detail_duration_full_year">Цяла година</string>
+    <string name="course_detail_duration_label">Продължителност</string>
+    <string name="course_detail_duration_one_semester">Един семестър</string>
     <string name="course_detail_enrollment_label">Записване</string>
     <string name="course_detail_incomplete_assignments">Незавършени задачи</string>
     <string name="course_detail_instructor_label">Инструктор</string>

@@ -240,8 +240,13 @@
     <string name="course_credits_value">Кредиты: %1$d</string>
     <string name="course_detail_classroom_label">Аудитория</string>
     <string name="course_detail_code_label">Код</string>
+    <string name="course_detail_copy_code">Скопировать код</string>
     <string name="course_detail_credits_label">Кредиты</string>
+    <string name="course_detail_dimension_label">Направление</string>
     <string name="course_detail_due_prefix">Срок: %1$s</string>
+    <string name="course_detail_duration_full_year">Весь год</string>
+    <string name="course_detail_duration_label">Длительность</string>
+    <string name="course_detail_duration_one_semester">Один семестр</string>
     <string name="course_detail_enrollment_label">Запись</string>
     <string name="course_detail_incomplete_assignments">Незавершённые задания</string>
     <string name="course_detail_instructor_label">Преподаватель</string>

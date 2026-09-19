@@ -240,8 +240,13 @@
     <string name="course_credits_value">学分：%1$d</string>
     <string name="course_detail_classroom_label">教室</string>
     <string name="course_detail_code_label">代码</string>
+    <string name="course_detail_copy_code">复制代码</string>
     <string name="course_detail_credits_label">学分</string>
+    <string name="course_detail_dimension_label">向度</string>
     <string name="course_detail_due_prefix">截止：%1$s</string>
+    <string name="course_detail_duration_full_year">全</string>
+    <string name="course_detail_duration_label">学年</string>
+    <string name="course_detail_duration_one_semester">半</string>
     <string name="course_detail_enrollment_label">人数</string>
     <string name="course_detail_incomplete_assignments">未完成作业</string>
     <string name="course_detail_instructor_label">授课教师</string>

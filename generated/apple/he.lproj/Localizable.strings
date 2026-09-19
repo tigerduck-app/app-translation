@@ -236,8 +236,13 @@
 "course_credits_value" = "נקודות זכות: %1$d";
 "course_detail_classroom_label" = "כיתה";
 "course_detail_code_label" = "קוד";
+"course_detail_copy_code" = "העתקת הקוד";
 "course_detail_credits_label" = "קרדיטים";
+"course_detail_dimension_label" = "מימד";
 "course_detail_due_prefix" = "תוקף: %1$@";
+"course_detail_duration_full_year" = "שנה שלמה";
+"course_detail_duration_label" = "משך";
+"course_detail_duration_one_semester" = "סמסטר אחד";
 "course_detail_enrollment_label" = "הצטרפות";
 "course_detail_incomplete_assignments" = "משימות שלא הושלמו";
 "course_detail_instructor_label" = "מנחה";
