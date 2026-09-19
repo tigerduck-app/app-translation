@@ -661,6 +661,10 @@
 "school_mail_send" = "పంపు";
 "school_mail_send_confirm_title" = "ఈ ఇమెయిల్‌ను పంపాలా?";
 "school_mail_send_failed" = "ఇమెయిల్‌ను పంపలేకపోయింది";
+"school_mail_sent_copy_failed" = "ఇమెయిల్ పంపబడింది, కానీ కాపీని పంపినవిలో సేవ్ చేయలేకపోయింది.";
+"school_mail_sent_copy_no_folder" = "ఇమెయిల్ పంపబడింది, కానీ కాపీని ఉంచడానికి పంపినవి ఫోల్డర్ లేదు.";
+"school_mail_sent_copy_not_saved" = "ఇమెయిల్ పంపబడింది, కానీ దాని కాపీ పంపినవిలో సేవ్ కాలేదు";
+"school_mail_sent_copy_unknown" = "ఇమెయిల్ పంపబడింది. పంపినవిలో సర్వర్ సొంత కాపీ ఇప్పటికే ఉందా అని TigerDuck తనిఖీ చేయలేకపోయింది, కాబట్టి అది కొత్త కాపీని జోడించలేదు.";
 "school_mail_settings_background_refresh_hint" = "నేపథ్యంలో TigerDuck ఎంత తరచుగా ఇమెయిల్‌ను తనిఖీ చేయగలదో iOS నిర్ణయిస్తుంది, తరచుగా కొన్ని గంటలకు ఒకసారి మాత్రమే. వెంటనే తనిఖీ చేయడానికి స్కూల్ ఇమెయిల్ తెరవండి.";
 "school_mail_settings_diagnostics" = "నోటిఫికేషన్ డయాగ్నోస్టిక్స్";
 "school_mail_settings_display_name" = "స్వీకర్తలకు చూపించే పేరు";

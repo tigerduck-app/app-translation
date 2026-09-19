@@ -661,6 +661,10 @@
 "school_mail_send" = "إرسال";
 "school_mail_send_confirm_title" = "هل تريد إرسال هذه الرسالة؟";
 "school_mail_send_failed" = "تعذّر إرسال الرسالة";
+"school_mail_sent_copy_failed" = "تم إرسال الرسالة، لكن تعذّر حفظ النسخة في البريد المرسل.";
+"school_mail_sent_copy_no_folder" = "تم إرسال الرسالة، لكن لا يوجد مجلد البريد المرسل لحفظ نسخة فيه.";
+"school_mail_sent_copy_not_saved" = "تم إرسال الرسالة، لكن لم يتم حفظ نسخة في البريد المرسل";
+"school_mail_sent_copy_unknown" = "تم إرسال الرسالة. تعذّر على TigerDuck التحقق من وجود نسخة الخادم الخاصة في البريد المرسل، لذلك لم يُضِف نسخة.";
 "school_mail_settings_background_refresh_hint" = "يحدد iOS عدد مرات تحقق TigerDuck من البريد في الخلفية، وغالبًا ما يكون ذلك كل بضع ساعات فقط. افتح البريد المدرسي للتحقق فورًا.";
 "school_mail_settings_diagnostics" = "تشخيص الإشعارات";
 "school_mail_settings_display_name" = "الاسم الذي يظهر للمستلمين";

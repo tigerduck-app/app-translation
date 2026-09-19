@@ -661,6 +661,10 @@
 "school_mail_send" = "Жіберу";
 "school_mail_send_confirm_title" = "Бұл хат жіберілсін бе?";
 "school_mail_send_failed" = "Хатты жіберу мүмкін болмады";
+"school_mail_sent_copy_failed" = "Хат жіберілді, бірақ көшірмесі Жіберілген қалтасына сақтала алмады.";
+"school_mail_sent_copy_no_folder" = "Хат жіберілді, бірақ көшірмені сақтайтын Жіберілген қалтасы жоқ.";
+"school_mail_sent_copy_not_saved" = "Хат жіберілді, бірақ көшірмесі Жіберілген қалтасына сақталмады";
+"school_mail_sent_copy_unknown" = "Хат жіберілді. TigerDuck сервердің өз көшірмесі Жіберілген қалтасында бар-жоғын тексере алмады, сондықтан жаңасын қоспады.";
 "school_mail_settings_background_refresh_hint" = "TigerDuck қолданбасының хаттарды фондық режимде қаншалықты жиі тексеретінін iOS шешеді, бұл көбіне бірнеше сағат сайын болады. Дереу тексеру үшін Мектеп поштасын ашыңыз.";
 "school_mail_settings_diagnostics" = "Хабарландыру диагностикасы";
 "school_mail_settings_display_name" = "Алушыларға көрсетілетін атау";

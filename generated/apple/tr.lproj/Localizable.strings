@@ -661,6 +661,10 @@
 "school_mail_send" = "Gönder";
 "school_mail_send_confirm_title" = "Bu posta gönderilsin mi?";
 "school_mail_send_failed" = "Posta gönderilemedi";
+"school_mail_sent_copy_failed" = "Posta gönderildi, ancak kopyası Gönderilmişe kaydedilemedi.";
+"school_mail_sent_copy_no_folder" = "Posta gönderildi, ancak kopyayı saklayacak bir Gönderilmiş klasörü yok.";
+"school_mail_sent_copy_not_saved" = "Posta gönderildi, ancak kopyası Gönderilmişe kaydedilmedi";
+"school_mail_sent_copy_unknown" = "Posta gönderildi. TigerDuck sunucunun kendi kopyasının Gönderilmişte olup olmadığını kontrol edemediği için yeni bir kopya eklemedi.";
 "school_mail_settings_background_refresh_hint" = "TigerDuck uygulamasının postaları arka planda ne sıklıkla kontrol edebileceğine iOS karar verir; bu genellikle birkaç saatte bir olur. Hemen kontrol etmek için Okul Postası'nı açın.";
 "school_mail_settings_diagnostics" = "Bildirim tanılaması";
 "school_mail_settings_display_name" = "Alıcılara gösterilen ad";

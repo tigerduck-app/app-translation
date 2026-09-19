@@ -661,6 +661,10 @@
 "school_mail_send" = "Пошаљи";
 "school_mail_send_confirm_title" = "Да пошаљем ову поруку?";
 "school_mail_send_failed" = "Порука није послата";
+"school_mail_sent_copy_failed" = "Порука је послата, али копију није било могуће сачувати у фасцикли Послато.";
+"school_mail_sent_copy_no_folder" = "Порука је послата, али не постоји фасцикла Послато у коју би се сачувала копија.";
+"school_mail_sent_copy_not_saved" = "Порука је послата, али копија није сачувана у фасцикли Послато";
+"school_mail_sent_copy_unknown" = "Порука је послата. TigerDuck није могао да провери да ли сервер већ има сопствену копију у фасцикли Послато, па је није додао.";
 "school_mail_settings_background_refresh_hint" = "iOS одлучује колико често TigerDuck може да проверава пошту у позадини, често само на сваких неколико сати. Отворите школску пошту да бисте одмах проверили.";
 "school_mail_settings_diagnostics" = "Дијагностика обавештења";
 "school_mail_settings_display_name" = "Име које виде примаоци";

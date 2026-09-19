@@ -661,6 +661,10 @@
 "school_mail_send" = "Gửi";
 "school_mail_send_confirm_title" = "Gửi thư này?";
 "school_mail_send_failed" = "Không thể gửi thư";
+"school_mail_sent_copy_failed" = "Thư đã được gửi, nhưng không thể lưu bản sao vào Đã gửi.";
+"school_mail_sent_copy_no_folder" = "Thư đã được gửi, nhưng không có thư mục Đã gửi để lưu bản sao.";
+"school_mail_sent_copy_not_saved" = "Đã gửi thư, nhưng bản sao chưa được lưu vào Đã gửi";
+"school_mail_sent_copy_unknown" = "Thư đã được gửi. TigerDuck không thể kiểm tra xem Đã gửi đã có bản sao của máy chủ hay chưa, nên đã không thêm bản sao mới.";
 "school_mail_settings_background_refresh_hint" = "iOS quyết định tần suất TigerDuck có thể kiểm tra thư ở chế độ nền, thường chỉ vài giờ một lần. Mở Email trường để kiểm tra ngay.";
 "school_mail_settings_diagnostics" = "Chẩn đoán thông báo";
 "school_mail_settings_display_name" = "Tên hiển thị cho người nhận";

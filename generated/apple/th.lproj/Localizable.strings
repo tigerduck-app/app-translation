@@ -661,6 +661,10 @@
 "school_mail_send" = "ส่ง";
 "school_mail_send_confirm_title" = "ส่งอีเมลนี้หรือไม่?";
 "school_mail_send_failed" = "ส่งอีเมลไม่สำเร็จ";
+"school_mail_sent_copy_failed" = "ส่งอีเมลแล้ว แต่บันทึกสำเนาลงในส่งแล้วไม่สำเร็จ";
+"school_mail_sent_copy_no_folder" = "ส่งอีเมลแล้ว แต่ไม่มีโฟลเดอร์ส่งแล้วสำหรับเก็บสำเนา";
+"school_mail_sent_copy_not_saved" = "ส่งอีเมลแล้ว แต่ไม่ได้บันทึกสำเนาไว้ในส่งแล้ว";
+"school_mail_sent_copy_unknown" = "ส่งอีเมลแล้ว TigerDuck ตรวจสอบสำเนาของเซิร์ฟเวอร์ในส่งแล้วไม่ได้ จึงไม่ได้เพิ่มสำเนาให้";
 "school_mail_settings_background_refresh_hint" = "iOS เป็นผู้กำหนดความถี่ที่ TigerDuck จะตรวจสอบอีเมลในพื้นหลังได้ ซึ่งมักจะนานหลายชั่วโมงต่อครั้ง เปิดอีเมลมหาวิทยาลัยเพื่อตรวจสอบทันที";
 "school_mail_settings_diagnostics" = "การวินิจฉัยการแจ้งเตือน";
 "school_mail_settings_display_name" = "ชื่อที่แสดงให้ผู้รับเห็น";

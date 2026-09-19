@@ -661,6 +661,10 @@
 "school_mail_send" = "Saada";
 "school_mail_send_confirm_title" = "Kas saata see kiri?";
 "school_mail_send_failed" = "Kirja saatmine ebaõnnestus";
+"school_mail_sent_copy_failed" = "Kiri saadeti, kuid koopiat ei õnnestunud kausta Saadetud salvestada.";
+"school_mail_sent_copy_no_folder" = "Kiri saadeti, kuid kausta Saadetud pole, kuhu koopiat hoida.";
+"school_mail_sent_copy_not_saved" = "Kiri saadeti, kuid koopiat ei salvestatud kausta Saadetud";
+"school_mail_sent_copy_unknown" = "Kiri saadeti. TigerDuck ei saanud kontrollida, kas serveril oli juba oma koopia kaustas Saadetud, seega ei lisanud ühtegi.";
 "school_mail_settings_background_refresh_hint" = "iOS otsustab, kui sageli saab TigerDuck taustal posti kontrollida — sageli vaid paari tunni tagant. Ava kooli e-post, et kohe kontrollida.";
 "school_mail_settings_diagnostics" = "Teavituste diagnostika";
 "school_mail_settings_display_name" = "Saajatele kuvatav nimi";

@@ -661,6 +661,10 @@
 "school_mail_send" = "发送";
 "school_mail_send_confirm_title" = "要发送这封邮件吗？";
 "school_mail_send_failed" = "无法发送邮件";
+"school_mail_sent_copy_failed" = "邮件已发送，但副本无法保存到已发送。";
+"school_mail_sent_copy_no_folder" = "邮件已发送，但目前没有已发送文件夹可以保留副本。";
+"school_mail_sent_copy_not_saved" = "邮件已发送，但副本未保存到已发送";
+"school_mail_sent_copy_unknown" = "邮件已发送。TigerDuck 无法确认已发送中是否已有服务器自己的副本，因此未再添加一份。";
 "school_mail_settings_background_refresh_hint" = "iOS 会决定 TigerDuck 在后台检查新邮件的频率，通常要数小时才一次。打开校园信箱可以立即检查。";
 "school_mail_settings_diagnostics" = "通知诊断";
 "school_mail_settings_display_name" = "发件人显示名称";

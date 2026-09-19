@@ -661,6 +661,10 @@
 "school_mail_send" = "Send";
 "school_mail_send_confirm_title" = "Sende denne e-posten?";
 "school_mail_send_failed" = "Kunne ikke sende e-posten";
+"school_mail_sent_copy_failed" = "E-posten ble sendt, men kopien kunne ikke lagres i Sendt.";
+"school_mail_sent_copy_no_folder" = "E-posten ble sendt, men det finnes ingen Sendt-mappe å lagre en kopi i.";
+"school_mail_sent_copy_not_saved" = "E-post sendt, men en kopi ble ikke lagret i Sendt";
+"school_mail_sent_copy_unknown" = "E-posten ble sendt. TigerDuck kunne ikke sjekke om serveren allerede hadde sin egen kopi i Sendt, så la TigerDuck ikke til noen.";
 "school_mail_settings_background_refresh_hint" = "iOS bestemmer hvor ofte TigerDuck kan sjekke e-post i bakgrunnen, ofte bare hvert par timer. Åpne Skolepost for å sjekke med en gang.";
 "school_mail_settings_diagnostics" = "Varseldiagnostikk";
 "school_mail_settings_display_name" = "Navn som vises til mottakere";

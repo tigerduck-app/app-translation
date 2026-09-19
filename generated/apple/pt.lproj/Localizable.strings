@@ -661,6 +661,10 @@
 "school_mail_send" = "Enviar";
 "school_mail_send_confirm_title" = "Enviar este correio?";
 "school_mail_send_failed" = "Não foi possível enviar o correio";
+"school_mail_sent_copy_failed" = "O correio foi enviado, mas não foi possível guardar a cópia em Enviados.";
+"school_mail_sent_copy_no_folder" = "O correio foi enviado, mas não há nenhuma pasta Enviados onde guardar uma cópia.";
+"school_mail_sent_copy_not_saved" = "Correio enviado, mas a cópia não foi guardada em Enviados";
+"school_mail_sent_copy_unknown" = "O correio foi enviado. O TigerDuck não conseguiu verificar se o servidor já tinha uma cópia em Enviados, por isso não adicionou nenhuma.";
 "school_mail_settings_background_refresh_hint" = "O iOS decide com que frequência o TigerDuck pode verificar o correio em segundo plano, muitas vezes só de poucas em poucas horas. Abre o Correio universitário para verificar de imediato.";
 "school_mail_settings_diagnostics" = "Diagnóstico de notificações";
 "school_mail_settings_display_name" = "Nome apresentado aos destinatários";

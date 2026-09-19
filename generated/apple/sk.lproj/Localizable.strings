@@ -661,6 +661,10 @@
 "school_mail_send" = "Odoslať";
 "school_mail_send_confirm_title" = "Odoslať túto správu?";
 "school_mail_send_failed" = "Správu sa nepodarilo odoslať";
+"school_mail_sent_copy_failed" = "Správa bola odoslaná, ale kópiu sa nepodarilo uložiť do Odoslaných.";
+"school_mail_sent_copy_no_folder" = "Správa bola odoslaná, ale neexistuje priečinok Odoslané, do ktorého by sa dala uložiť kópia.";
+"school_mail_sent_copy_not_saved" = "Správa odoslaná, ale kópia sa neuložila do Odoslaných";
+"school_mail_sent_copy_unknown" = "Správa bola odoslaná. TigerDuck nemohol skontrolovať, či server už mal vlastnú kópiu v Odoslaných, takže žiadnu nepridal.";
 "school_mail_settings_background_refresh_hint" = "iOS rozhoduje, ako často môže TigerDuck kontrolovať poštu na pozadí, často len raz za niekoľko hodín. Otvorte Školskú poštu a skontrolujte ju hneď.";
 "school_mail_settings_diagnostics" = "Diagnostika oznámení";
 "school_mail_settings_display_name" = "Meno zobrazené príjemcom";
