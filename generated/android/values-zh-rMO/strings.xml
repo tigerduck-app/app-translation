@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">自訂</string>
     <string name="course_color_picker_custom_label">自訂顏色</string>
     <string name="course_color_picker_title">編輯顏色</string>
-    <string name="course_credits_value">學分：%1$d</string>
+    <string name="course_credits_value">學分：%1$s</string>
     <string name="course_detail_classroom_label">教室</string>
     <string name="course_detail_code_copied">已複製代碼</string>
     <string name="course_detail_code_label">代碼</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">排名 %1$s(%2$s)</string>
     <string name="score_semester_second">下學期</string>
     <string name="score_semester_second_short">下</string>
-    <string name="score_semester_total_credits">%1$d 學分</string>
+    <string name="score_semester_total_credits">%1$s 學分</string>
     <string name="score_semester_upper">上</string>
     <string name="score_sign_in_required_message">尚未登入,無法查看歷年成績</string>
     <string name="score_term_format">目前學期：%1$s-%2$s</string>

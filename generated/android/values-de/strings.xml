@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Eigene</string>
     <string name="course_color_picker_custom_label">Eigene Farbe</string>
     <string name="course_color_picker_title">Farbe bearbeiten</string>
-    <string name="course_credits_value">Leistungspunkte: %1$d</string>
+    <string name="course_credits_value">Leistungspunkte: %1$s</string>
     <string name="course_detail_classroom_label">Klassenzimmer</string>
     <string name="course_detail_code_copied">Code kopiert</string>
     <string name="course_detail_code_label">Code</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Rang %1$s(%2$s)</string>
     <string name="score_semester_second">Sommersemester</string>
     <string name="score_semester_second_short">SS</string>
-    <string name="score_semester_total_credits">%1$d Leistungspunkte</string>
+    <string name="score_semester_total_credits">%1$s Leistungspunkte</string>
     <string name="score_semester_upper">Wintersemester</string>
     <string name="score_sign_in_required_message">Melden Sie sich an, um Ihren Notenverlauf anzuzeigen</string>
     <string name="score_term_format">Aktuelles Semester: %1$s-%2$s</string>

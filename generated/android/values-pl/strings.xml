@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Niestandardowy</string>
     <string name="course_color_picker_custom_label">Kolor niestandardowy</string>
     <string name="course_color_picker_title">Edytuj kolor</string>
-    <string name="course_credits_value">Punkty ECTS: %1$d</string>
+    <string name="course_credits_value">Punkty ECTS: %1$s</string>
     <string name="course_detail_classroom_label">Sala</string>
     <string name="course_detail_code_copied">Skopiowano kod</string>
     <string name="course_detail_code_label">Kod</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Pozycja %1$s(%2$s)</string>
     <string name="score_semester_second">Semestr letni</string>
     <string name="score_semester_second_short">Lato</string>
-    <string name="score_semester_total_credits">%1$d ECTS</string>
+    <string name="score_semester_total_credits">%1$s ECTS</string>
     <string name="score_semester_upper">Jesień</string>
     <string name="score_sign_in_required_message">Zaloguj się, aby zobaczyć historię ocen</string>
     <string name="score_term_format">Bieżący semestr: %1$s-%2$s</string>

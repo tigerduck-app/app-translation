@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Tinkintas</string>
     <string name="course_color_picker_custom_label">Tinkinta spalva</string>
     <string name="course_color_picker_title">Redaguoti spalvą</string>
-    <string name="course_credits_value">Kreditai: %1$d</string>
+    <string name="course_credits_value">Kreditai: %1$s</string>
     <string name="course_detail_classroom_label">Auditorija</string>
     <string name="course_detail_code_copied">Kodas nukopijuotas</string>
     <string name="course_detail_code_label">Kodas</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Vieta %1$s(%2$s)</string>
     <string name="score_semester_second">Pavasario semestras</string>
     <string name="score_semester_second_short">Pavasaris</string>
-    <string name="score_semester_total_credits">%1$d kreditai</string>
+    <string name="score_semester_total_credits">%1$s kreditai</string>
     <string name="score_semester_upper">Ruduo</string>
     <string name="score_sign_in_required_message">Prisijunkite, kad peržiūrėtumėte savo pažymių istoriją</string>
     <string name="score_term_format">Dabartinis semestras: %1$s-%2$s</string>

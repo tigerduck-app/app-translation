@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Po meri</string>
     <string name="course_color_picker_custom_label">Barva po meri</string>
     <string name="course_color_picker_title">Uredi barvo</string>
-    <string name="course_credits_value">Kreditne točke: %1$d</string>
+    <string name="course_credits_value">Kreditne točke: %1$s</string>
     <string name="course_detail_classroom_label">Učilnica</string>
     <string name="course_detail_code_copied">Koda kopirana</string>
     <string name="course_detail_code_label">Koda</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Uvrstitev %1$s(%2$s)</string>
     <string name="score_semester_second">Letni semester</string>
     <string name="score_semester_second_short">Pomlad</string>
-    <string name="score_semester_total_credits">%1$d kreditnih točk</string>
+    <string name="score_semester_total_credits">%1$s kreditnih točk</string>
     <string name="score_semester_upper">Jesen</string>
     <string name="score_sign_in_required_message">Prijavite se za ogled zgodovine ocen</string>
     <string name="score_term_format">Trenutni semester: %1$s-%2$s</string>

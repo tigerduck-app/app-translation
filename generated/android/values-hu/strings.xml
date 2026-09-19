@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Egyéni</string>
     <string name="course_color_picker_custom_label">Egyéni szín</string>
     <string name="course_color_picker_title">Szín szerkesztése</string>
-    <string name="course_credits_value">Kreditek: %1$d</string>
+    <string name="course_credits_value">Kreditek: %1$s</string>
     <string name="course_detail_classroom_label">Tanterem</string>
     <string name="course_detail_code_copied">Kód másolva</string>
     <string name="course_detail_code_label">Kód</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">%1$s(%2$s) rangsor</string>
     <string name="score_semester_second">Tavaszi félév</string>
     <string name="score_semester_second_short">Tavasz</string>
-    <string name="score_semester_total_credits">%1$d kredit</string>
+    <string name="score_semester_total_credits">%1$s kredit</string>
     <string name="score_semester_upper">Őszi</string>
     <string name="score_sign_in_required_message">Jelentkezzen be a jegytörténet megtekintéséhez</string>
     <string name="score_term_format">Jelenlegi félév: %1$s-%2$s</string>

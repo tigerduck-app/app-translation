@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">सानुकूल</string>
     <string name="course_color_picker_custom_label">सानुकूल रंग</string>
     <string name="course_color_picker_title">रंग संपादित करा</string>
-    <string name="course_credits_value">क्रेडिट्स: %1$d</string>
+    <string name="course_credits_value">क्रेडिट्स: %1$s</string>
     <string name="course_detail_classroom_label">वर्गखोली</string>
     <string name="course_detail_code_copied">कोड कॉपी झाला</string>
     <string name="course_detail_code_label">कोड</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">क्रमांक %1$s(%2$s)</string>
     <string name="score_semester_second">वसंत सत्र</string>
     <string name="score_semester_second_short">वसंत</string>
-    <string name="score_semester_total_credits">%1$d क्रेडिट्स</string>
+    <string name="score_semester_total_credits">%1$s क्रेडिट्स</string>
     <string name="score_semester_upper">शरद</string>
     <string name="score_sign_in_required_message">तुमचा ग्रेड इतिहास पाहण्यासाठी साइन इन करा</string>
     <string name="score_term_format">सध्याचे सत्र: %1$s-%2$s</string>

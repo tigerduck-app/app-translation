@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">自定义</string>
     <string name="course_color_picker_custom_label">自定义颜色</string>
     <string name="course_color_picker_title">编辑颜色</string>
-    <string name="course_credits_value">学分：%1$d</string>
+    <string name="course_credits_value">学分：%1$s</string>
     <string name="course_detail_classroom_label">教室</string>
     <string name="course_detail_code_copied">已复制代码</string>
     <string name="course_detail_code_label">代码</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">排名 %1$s(%2$s)</string>
     <string name="score_semester_second">下学期</string>
     <string name="score_semester_second_short">下</string>
-    <string name="score_semester_total_credits">%1$d 学分</string>
+    <string name="score_semester_total_credits">%1$s 学分</string>
     <string name="score_semester_upper">上</string>
     <string name="score_sign_in_required_message">请登录后查看历年成绩</string>
     <string name="score_term_format">目前学期：%1$s-%2$s</string>

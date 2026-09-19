@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">అనుకూల</string>
     <string name="course_color_picker_custom_label">అనుకూల రంగు</string>
     <string name="course_color_picker_title">రంగు మార్చండి</string>
-    <string name="course_credits_value">క్రెడిట్‌లు: %1$d</string>
+    <string name="course_credits_value">క్రెడిట్‌లు: %1$s</string>
     <string name="course_detail_classroom_label">తరగతి గది</string>
     <string name="course_detail_code_copied">కోడ్ కాపీ చేయబడింది</string>
     <string name="course_detail_code_label">కోడ్</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">ర్యాంక్ %1$s(%2$s)</string>
     <string name="score_semester_second">వసంత సెమిస్టర్</string>
     <string name="score_semester_second_short">వసంత</string>
-    <string name="score_semester_total_credits">%1$d క్రెడిట్‌లు</string>
+    <string name="score_semester_total_credits">%1$s క్రెడిట్‌లు</string>
     <string name="score_semester_upper">ఫాల్</string>
     <string name="score_sign_in_required_message">మీ గ్రేడ్ చరిత్రను చూడటానికి సైన్ ఇన్ చేయండి</string>
     <string name="score_term_format">ప్రస్తుత సెమెస్టర్: %1$s-%2$s</string>

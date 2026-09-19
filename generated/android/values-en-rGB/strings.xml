@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Custom</string>
     <string name="course_color_picker_custom_label">Custom color</string>
     <string name="course_color_picker_title">Edit colour</string>
-    <string name="course_credits_value">Credits: %1$d</string>
+    <string name="course_credits_value">Credits: %1$s</string>
     <string name="course_detail_classroom_label">Classroom</string>
     <string name="course_detail_code_copied">Code copied</string>
     <string name="course_detail_code_label">Code</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Rank %1$s(%2$s)</string>
     <string name="score_semester_second">Spring semester</string>
     <string name="score_semester_second_short">Spring</string>
-    <string name="score_semester_total_credits">%1$d credits</string>
+    <string name="score_semester_total_credits">%1$s credits</string>
     <string name="score_semester_upper">Fall</string>
     <string name="score_sign_in_required_message">Sign in to view your grade history</string>
     <string name="score_term_format">Current term: %1$s-%2$s</string>

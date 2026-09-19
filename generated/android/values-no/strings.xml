@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Egendefinert</string>
     <string name="course_color_picker_custom_label">Egendefinert farge</string>
     <string name="course_color_picker_title">Rediger farge</string>
-    <string name="course_credits_value">Studiepoeng: %1$d</string>
+    <string name="course_credits_value">Studiepoeng: %1$s</string>
     <string name="course_detail_classroom_label">Klasserom</string>
     <string name="course_detail_code_copied">Koden er kopiert</string>
     <string name="course_detail_code_label">Fagkode</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Rangering %1$s(%2$s)</string>
     <string name="score_semester_second">Vårsemester</string>
     <string name="score_semester_second_short">Vår</string>
-    <string name="score_semester_total_credits">%1$d studiepoeng</string>
+    <string name="score_semester_total_credits">%1$s studiepoeng</string>
     <string name="score_semester_upper">Høst</string>
     <string name="score_sign_in_required_message">Logg inn for å se karakterhistorikken din</string>
     <string name="score_term_format">Gjeldende semester: %1$s-%2$s</string>

@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "Tùy chỉnh";
 "course_color_picker_custom_label" = "Màu tùy chỉnh";
 "course_color_picker_title" = "Chỉnh sửa màu";
-"course_credits_value" = "Tín chỉ: %1$d";
+"course_credits_value" = "Tín chỉ: %1$@";
 "course_detail_classroom_label" = "Phòng học";
 "course_detail_code_copied" = "Đã sao chép mã";
 "course_detail_code_label" = "Mã";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "Hạng %1$@(%2$@)";
 "score_semester_second" = "Học kỳ 2";
 "score_semester_second_short" = "Kỳ 2";
-"score_semester_total_credits" = "%1$d tín chỉ";
+"score_semester_total_credits" = "%1$@ tín chỉ";
 "score_semester_upper" = "Kỳ 1";
 "score_sign_in_required_message" = "Đăng nhập để xem lịch sử điểm của bạn";
 "score_term_format" = "Học kỳ hiện tại: %1$@-%2$@";

@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "Prilagođeno";
 "course_color_picker_custom_label" = "Prilagođena boja";
 "course_color_picker_title" = "Uredi boju";
-"course_credits_value" = "ECTS bodovi: %1$d";
+"course_credits_value" = "ECTS bodovi: %1$@";
 "course_detail_classroom_label" = "Učionica";
 "course_detail_code_copied" = "Kôd kopiran";
 "course_detail_code_label" = "Šifra";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "Poredak %1$@(%2$@)";
 "score_semester_second" = "Proljetni semestar";
 "score_semester_second_short" = "Proljeće";
-"score_semester_total_credits" = "%1$d ECTS bodovi";
+"score_semester_total_credits" = "%1$@ ECTS bodovi";
 "score_semester_upper" = "Jesen";
 "score_sign_in_required_message" = "Prijavite se za pregled povijesti ocjena";
 "score_term_format" = "Trenutni semestar: %1$@-%2$@";

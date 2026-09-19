@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Pasadya</string>
     <string name="course_color_picker_custom_label">Pasadyang kulay</string>
     <string name="course_color_picker_title">I-edit ang kulay</string>
-    <string name="course_credits_value">Mga credit: %1$d</string>
+    <string name="course_credits_value">Mga credit: %1$s</string>
     <string name="course_detail_classroom_label">Silid-aralan</string>
     <string name="course_detail_code_copied">Nakopya ang code</string>
     <string name="course_detail_code_label">Code</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Ranggo %1$s(%2$s)</string>
     <string name="score_semester_second">Ikalawang semestre</string>
     <string name="score_semester_second_short">Ika-2</string>
-    <string name="score_semester_total_credits">%1$d na credit</string>
+    <string name="score_semester_total_credits">%1$s na credit</string>
     <string name="score_semester_upper">Unang Semestre</string>
     <string name="score_sign_in_required_message">Mag-sign in upang tingnan ang iyong kasaysayan ng grado</string>
     <string name="score_term_format">Kasalukuyang term: %1$s-%2$s</string>

@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Aangepast</string>
     <string name="course_color_picker_custom_label">Aangepaste kleur</string>
     <string name="course_color_picker_title">Kleur bewerken</string>
-    <string name="course_credits_value">Studiepunten: %1$d</string>
+    <string name="course_credits_value">Studiepunten: %1$s</string>
     <string name="course_detail_classroom_label">Lokaal</string>
     <string name="course_detail_code_copied">Code gekopieerd</string>
     <string name="course_detail_code_label">Code</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Rang %1$s(%2$s)</string>
     <string name="score_semester_second">Lentesemester</string>
     <string name="score_semester_second_short">Lente</string>
-    <string name="score_semester_total_credits">%1$d studiepunten</string>
+    <string name="score_semester_total_credits">%1$s studiepunten</string>
     <string name="score_semester_upper">Najaar</string>
     <string name="score_sign_in_required_message">Meld je aan om je cijfergeschiedenis te bekijken</string>
     <string name="score_term_format">Huidig semester: %1$s-%2$s</string>

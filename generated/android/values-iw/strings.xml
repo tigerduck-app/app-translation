@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">מותאם אישית</string>
     <string name="course_color_picker_custom_label">צבע מותאם אישית</string>
     <string name="course_color_picker_title">ערוך צבע</string>
-    <string name="course_credits_value">נקודות זכות: %1$d</string>
+    <string name="course_credits_value">נקודות זכות: %1$s</string>
     <string name="course_detail_classroom_label">כיתה</string>
     <string name="course_detail_code_copied">הקוד הועתק</string>
     <string name="course_detail_code_label">קוד</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">דירוג %1$s(%2$s)</string>
     <string name="score_semester_second">סמסטר אביב</string>
     <string name="score_semester_second_short">אביב</string>
-    <string name="score_semester_total_credits">%1$d נקודות זכות</string>
+    <string name="score_semester_total_credits">%1$s נקודות זכות</string>
     <string name="score_semester_upper">סתיו</string>
     <string name="score_sign_in_required_message">היכנס כדי להציג את היסטוריית הציונים שלך</string>
     <string name="score_term_format">סמסטר נוכחי: %1$s-%2$s</string>

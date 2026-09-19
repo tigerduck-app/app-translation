@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Vlastní</string>
     <string name="course_color_picker_custom_label">Vlastní barva</string>
     <string name="course_color_picker_title">Upravit barvu</string>
-    <string name="course_credits_value">Kredity: %1$d</string>
+    <string name="course_credits_value">Kredity: %1$s</string>
     <string name="course_detail_classroom_label">Třída</string>
     <string name="course_detail_code_copied">Kód zkopírován</string>
     <string name="course_detail_code_label">Kód</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Pořadí %1$s(%2$s)</string>
     <string name="score_semester_second">Jarní semestr</string>
     <string name="score_semester_second_short">Jaro</string>
-    <string name="score_semester_total_credits">%1$d kreditů</string>
+    <string name="score_semester_total_credits">%1$s kreditů</string>
     <string name="score_semester_upper">Podzim</string>
     <string name="score_sign_in_required_message">Chcete-li zobrazit historii hodnocení, přihlaste se</string>
     <string name="score_term_format">Aktuální semestr: %1$s-%2$s</string>

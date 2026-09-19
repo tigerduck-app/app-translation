@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Pielāgots</string>
     <string name="course_color_picker_custom_label">Pielāgota krāsa</string>
     <string name="course_color_picker_title">Rediģēt krāsu</string>
-    <string name="course_credits_value">Kredītpunkti: %1$d</string>
+    <string name="course_credits_value">Kredītpunkti: %1$s</string>
     <string name="course_detail_classroom_label">Auditorija</string>
     <string name="course_detail_code_copied">Kods nokopēts</string>
     <string name="course_detail_code_label">Kods</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Vieta %1$s(%2$s)</string>
     <string name="score_semester_second">Pavasara semestris</string>
     <string name="score_semester_second_short">Pavasaris</string>
-    <string name="score_semester_total_credits">%1$d kredītpunkti</string>
+    <string name="score_semester_total_credits">%1$s kredītpunkti</string>
     <string name="score_semester_upper">Rudens</string>
     <string name="score_sign_in_required_message">Pierakstieties, lai skatītu atzīmju vēsturi</string>
     <string name="score_term_format">Pašreizējais semestris: %1$s-%2$s</string>

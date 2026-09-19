@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "Tilpasset";
 "course_color_picker_custom_label" = "Tilpasset farve";
 "course_color_picker_title" = "Rediger farve";
-"course_credits_value" = "ECTS-point: %1$d";
+"course_credits_value" = "ECTS-point: %1$@";
 "course_detail_classroom_label" = "Klasseværelse";
 "course_detail_code_copied" = "Koden er kopieret";
 "course_detail_code_label" = "Kode";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "Placering %1$@(%2$@)";
 "score_semester_second" = "Forårssemester";
 "score_semester_second_short" = "Forår";
-"score_semester_total_credits" = "%1$d ECTS-point";
+"score_semester_total_credits" = "%1$@ ECTS-point";
 "score_semester_upper" = "Efterår";
 "score_sign_in_required_message" = "Log ind for at se din karakterhistorik";
 "score_term_format" = "Aktuelt semester: %1$@-%2$@";

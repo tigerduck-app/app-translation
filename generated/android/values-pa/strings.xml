@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">ਕਸਟਮ</string>
     <string name="course_color_picker_custom_label">ਕਸਟਮ ਰੰਗ</string>
     <string name="course_color_picker_title">ਰੰਗ ਬਦਲੋ</string>
-    <string name="course_credits_value">ਕ੍ਰੈਡਿਟ: %1$d</string>
+    <string name="course_credits_value">ਕ੍ਰੈਡਿਟ: %1$s</string>
     <string name="course_detail_classroom_label">ਕਲਾਸਰੂਮ</string>
     <string name="course_detail_code_copied">ਕੋਡ ਕਾਪੀ ਹੋ ਗਿਆ</string>
     <string name="course_detail_code_label">ਕੋਡ</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">ਰੈਂਕ %1$s(%2$s)</string>
     <string name="score_semester_second">ਬਸੰਤ ਸਮੈਸਟਰ</string>
     <string name="score_semester_second_short">ਬਸੰਤ</string>
-    <string name="score_semester_total_credits">%1$d ਕ੍ਰੈਡਿਟ</string>
+    <string name="score_semester_total_credits">%1$s ਕ੍ਰੈਡਿਟ</string>
     <string name="score_semester_upper">ਪਤਝੜ</string>
     <string name="score_sign_in_required_message">ਆਪਣਾ ਗ੍ਰੇਡ ਇਤਿਹਾਸ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ</string>
     <string name="score_term_format">ਮੌਜੂਦਾ ਸਮੈਸਟਰ: %1$s-%2$s</string>

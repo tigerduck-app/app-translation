@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">حسب ضرورت</string>
     <string name="course_color_picker_custom_label">حسب ضرورت رنگ</string>
     <string name="course_color_picker_title">رنگ تبدیل کریں</string>
-    <string name="course_credits_value">کریڈٹس: %1$d</string>
+    <string name="course_credits_value">کریڈٹس: %1$s</string>
     <string name="course_detail_classroom_label">کلاس روم</string>
     <string name="course_detail_code_copied">کوڈ کاپی ہو گیا</string>
     <string name="course_detail_code_label">کوڈ</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">درجہ %1$s(%2$s)</string>
     <string name="score_semester_second">بہار سمیسٹر</string>
     <string name="score_semester_second_short">بہار</string>
-    <string name="score_semester_total_credits">%1$d کریڈٹس</string>
+    <string name="score_semester_total_credits">%1$s کریڈٹس</string>
     <string name="score_semester_upper">خزاں</string>
     <string name="score_sign_in_required_message">اپنی گریڈ ہسٹری دیکھنے کے لیے سائن ان کریں</string>
     <string name="score_term_format">موجودہ ٹرم: %1$s-%2$s</string>

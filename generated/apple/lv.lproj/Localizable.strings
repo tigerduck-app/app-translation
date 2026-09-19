@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "Pielāgots";
 "course_color_picker_custom_label" = "Pielāgota krāsa";
 "course_color_picker_title" = "Rediģēt krāsu";
-"course_credits_value" = "Kredītpunkti: %1$d";
+"course_credits_value" = "Kredītpunkti: %1$@";
 "course_detail_classroom_label" = "Auditorija";
 "course_detail_code_copied" = "Kods nokopēts";
 "course_detail_code_label" = "Kods";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "Vieta %1$@(%2$@)";
 "score_semester_second" = "Pavasara semestris";
 "score_semester_second_short" = "Pavasaris";
-"score_semester_total_credits" = "%1$d kredītpunkti";
+"score_semester_total_credits" = "%1$@ kredītpunkti";
 "score_semester_upper" = "Rudens";
 "score_sign_in_required_message" = "Pierakstieties, lai skatītu atzīmju vēsturi";
 "score_term_format" = "Pašreizējais semestris: %1$@-%2$@";

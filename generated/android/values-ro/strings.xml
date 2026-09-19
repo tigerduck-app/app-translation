@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Personalizat</string>
     <string name="course_color_picker_custom_label">Culoare personalizată</string>
     <string name="course_color_picker_title">Editează culoarea</string>
-    <string name="course_credits_value">Credite: %1$d</string>
+    <string name="course_credits_value">Credite: %1$s</string>
     <string name="course_detail_classroom_label">Sală</string>
     <string name="course_detail_code_copied">Cod copiat</string>
     <string name="course_detail_code_label">Cod</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Locul %1$s(%2$s)</string>
     <string name="score_semester_second">Semestrul de primăvară</string>
     <string name="score_semester_second_short">Prim</string>
-    <string name="score_semester_total_credits">%1$d credite</string>
+    <string name="score_semester_total_credits">%1$s credite</string>
     <string name="score_semester_upper">Toamnă</string>
     <string name="score_sign_in_required_message">Conectează-te pentru a vedea istoricul notelor</string>
     <string name="score_term_format">Semestrul curent: %1$s-%2$s</string>

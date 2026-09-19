@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "தனிப்பயன்";
 "course_color_picker_custom_label" = "தனிப்பயன் வண்ணம்";
 "course_color_picker_title" = "வண்ணத்தைத் திருத்து";
-"course_credits_value" = "கிரெடிட்கள்: %1$d";
+"course_credits_value" = "கிரெடிட்கள்: %1$@";
 "course_detail_classroom_label" = "வகுப்பறை";
 "course_detail_code_copied" = "குறியீடு நகலெடுக்கப்பட்டது";
 "course_detail_code_label" = "வகுப்பு குறியீடு";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "தர நிலை %1$@(%2$@)";
 "score_semester_second" = "வசந்த பருவம்";
 "score_semester_second_short" = "வசந்.";
-"score_semester_total_credits" = "%1$d கிரெடிட்கள்";
+"score_semester_total_credits" = "%1$@ கிரெடிட்கள்";
 "score_semester_upper" = "இலையுதிர்";
 "score_sign_in_required_message" = "உங்கள் தர வரலாற்றைப் பார்க்க உள்நுழையவும்";
 "score_term_format" = "தற்போதைய பருவம்: %1$@-%2$@";

@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">ഇഷ്ടാനുസൃതം</string>
     <string name="course_color_picker_custom_label">ഇഷ്ടാനുസൃത നിറം</string>
     <string name="course_color_picker_title">നിറം എഡിറ്റ് ചെയ്യുക</string>
-    <string name="course_credits_value">ക്രെഡിറ്റുകൾ: %1$d</string>
+    <string name="course_credits_value">ക്രെഡിറ്റുകൾ: %1$s</string>
     <string name="course_detail_classroom_label">ക്ലാസ്റൂം</string>
     <string name="course_detail_code_copied">കോഡ് പകർത്തി</string>
     <string name="course_detail_code_label">കോഡ്</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">റാങ്ക് %1$s(%2$s)</string>
     <string name="score_semester_second">സ്പ്രിംഗ് സെമസ്റ്റർ</string>
     <string name="score_semester_second_short">സ്പ്രിംഗ്</string>
-    <string name="score_semester_total_credits">%1$d ക്രെഡിറ്റുകൾ</string>
+    <string name="score_semester_total_credits">%1$s ക്രെഡിറ്റുകൾ</string>
     <string name="score_semester_upper">ഫോൾ</string>
     <string name="score_sign_in_required_message">നിങ്ങളുടെ ഗ്രേഡ് ചരിത്രം കാണാൻ സൈൻ ഇൻ ചെയ്യുക</string>
     <string name="score_term_format">നിലവിലെ ടേം: %1$s-%2$s</string>

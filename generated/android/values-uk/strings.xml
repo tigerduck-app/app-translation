@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Власний</string>
     <string name="course_color_picker_custom_label">Власний колір</string>
     <string name="course_color_picker_title">Змінити колір</string>
-    <string name="course_credits_value">Кредити: %1$d</string>
+    <string name="course_credits_value">Кредити: %1$s</string>
     <string name="course_detail_classroom_label">Аудиторія</string>
     <string name="course_detail_code_copied">Код скопійовано</string>
     <string name="course_detail_code_label">Код</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Місце %1$s(%2$s)</string>
     <string name="score_semester_second">Весняний семестр</string>
     <string name="score_semester_second_short">Весна</string>
-    <string name="score_semester_total_credits">%1$d кредитів</string>
+    <string name="score_semester_total_credits">%1$s кредитів</string>
     <string name="score_semester_upper">Осінь</string>
     <string name="score_sign_in_required_message">Увійдіть, щоб переглянути історію оцінок</string>
     <string name="score_term_format">Поточний семестр: %1$s-%2$s</string>

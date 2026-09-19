@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Anpassad</string>
     <string name="course_color_picker_custom_label">Anpassad färg</string>
     <string name="course_color_picker_title">Redigera färg</string>
-    <string name="course_credits_value">Hp: %1$d</string>
+    <string name="course_credits_value">Hp: %1$s</string>
     <string name="course_detail_classroom_label">Klassrum</string>
     <string name="course_detail_code_copied">Koden kopierad</string>
     <string name="course_detail_code_label">Kurskod</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Rankning %1$s(%2$s)</string>
     <string name="score_semester_second">Vårtermin</string>
     <string name="score_semester_second_short">Vår</string>
-    <string name="score_semester_total_credits">%1$d hp</string>
+    <string name="score_semester_total_credits">%1$s hp</string>
     <string name="score_semester_upper">Höst</string>
     <string name="score_sign_in_required_message">Logga in för att se ditt betygshistorik</string>
     <string name="score_term_format">Aktuell termin: %1$s-%2$s</string>

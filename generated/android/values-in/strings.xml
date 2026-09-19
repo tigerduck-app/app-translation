@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Khusus</string>
     <string name="course_color_picker_custom_label">Warna khusus</string>
     <string name="course_color_picker_title">Edit warna</string>
-    <string name="course_credits_value">SKS: %1$d</string>
+    <string name="course_credits_value">SKS: %1$s</string>
     <string name="course_detail_classroom_label">Ruang kelas</string>
     <string name="course_detail_code_copied">Kode disalin</string>
     <string name="course_detail_code_label">Kode</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Peringkat %1$s(%2$s)</string>
     <string name="score_semester_second">Semester genap</string>
     <string name="score_semester_second_short">Genap</string>
-    <string name="score_semester_total_credits">%1$d SKS</string>
+    <string name="score_semester_total_credits">%1$s SKS</string>
     <string name="score_semester_upper">Ganjil</string>
     <string name="score_sign_in_required_message">Masuk untuk melihat riwayat nilai Anda</string>
     <string name="score_term_format">Semester saat ini: %1$s-%2$s</string>

@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "Vlastné";
 "course_color_picker_custom_label" = "Vlastná farba";
 "course_color_picker_title" = "Upraviť farbu";
-"course_credits_value" = "Kredity: %1$d";
+"course_credits_value" = "Kredity: %1$@";
 "course_detail_classroom_label" = "Učebňa";
 "course_detail_code_copied" = "Kód skopírovaný";
 "course_detail_code_label" = "Kód";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "Poradie %1$@(%2$@)";
 "score_semester_second" = "Letný semester";
 "score_semester_second_short" = "Leto";
-"score_semester_total_credits" = "%1$d kreditov";
+"score_semester_total_credits" = "%1$@ kreditov";
 "score_semester_upper" = "Jeseň";
 "score_sign_in_required_message" = "Prihláste sa a zobrazte históriu známok";
 "score_term_format" = "Aktuálny semester: %1$@-%2$@";

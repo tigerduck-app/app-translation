@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "ಕಸ್ಟಮ್";
 "course_color_picker_custom_label" = "ಕಸ್ಟಮ್ ಬಣ್ಣ";
 "course_color_picker_title" = "ಬಣ್ಣ ಸಂಪಾದಿಸಿ";
-"course_credits_value" = "ಕ್ರೆಡಿಟ್‌ಗಳು: %1$d";
+"course_credits_value" = "ಕ್ರೆಡಿಟ್‌ಗಳು: %1$@";
 "course_detail_classroom_label" = "ತರಗತಿ ಕೊಠಡಿ";
 "course_detail_code_copied" = "ಕೋಡ್ ನಕಲಿಸಲಾಗಿದೆ";
 "course_detail_code_label" = "ಕೋಡ್";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "ಶ್ರೇಣಿ %1$@(%2$@)";
 "score_semester_second" = "ವಸಂತ ಸೆಮಿಸ್ಟರ್";
 "score_semester_second_short" = "ವಸಂತ";
-"score_semester_total_credits" = "%1$d ಕ್ರೆಡಿಟ್‌ಗಳು";
+"score_semester_total_credits" = "%1$@ ಕ್ರೆಡಿಟ್‌ಗಳು";
 "score_semester_upper" = "ಶರತ್ಕಾಲ";
 "score_sign_in_required_message" = "ನಿಮ್ಮ ಅಂಕಗಳ ಇತಿಹಾಸ ವೀಕ್ಷಿಸಲು ಸೈನ್ ಇನ್ ಮಾಡಿ";
 "score_term_format" = "ಪ್ರಸ್ತುತ ಸೆಮಿಸ್ಟರ್: %1$@-%2$@";

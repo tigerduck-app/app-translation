@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">По избор</string>
     <string name="course_color_picker_custom_label">Цвят по избор</string>
     <string name="course_color_picker_title">Редактиране на цвят</string>
-    <string name="course_credits_value">Кредити: %1$d</string>
+    <string name="course_credits_value">Кредити: %1$s</string>
     <string name="course_detail_classroom_label">Класна стая</string>
     <string name="course_detail_code_copied">Кодът е копиран</string>
     <string name="course_detail_code_label">Код</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Класиране %1$s(%2$s)</string>
     <string name="score_semester_second">Пролетен семестър</string>
     <string name="score_semester_second_short">Пролет</string>
-    <string name="score_semester_total_credits">%1$d кредити</string>
+    <string name="score_semester_total_credits">%1$s кредити</string>
     <string name="score_semester_upper">Есен</string>
     <string name="score_sign_in_required_message">Влезте, за да видите историята на оценките си</string>
     <string name="score_term_format">Текущ семестър: %1$s-%2$s</string>

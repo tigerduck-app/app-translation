@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Personalitzat</string>
     <string name="course_color_picker_custom_label">Color personalitzat</string>
     <string name="course_color_picker_title">Edita el color</string>
-    <string name="course_credits_value">Crèdits: %1$d</string>
+    <string name="course_credits_value">Crèdits: %1$s</string>
     <string name="course_detail_classroom_label">Aula</string>
     <string name="course_detail_code_copied">Codi copiat</string>
     <string name="course_detail_code_label">Codi</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Rànquing %1$s(%2$s)</string>
     <string name="score_semester_second">Semestre de primavera</string>
     <string name="score_semester_second_short">Prim.</string>
-    <string name="score_semester_total_credits">%1$d crèdits</string>
+    <string name="score_semester_total_credits">%1$s crèdits</string>
     <string name="score_semester_upper">Tardor</string>
     <string name="score_sign_in_required_message">Inicieu la sessió per veure el vostre historial de notes</string>
     <string name="score_term_format">Semestre actual: %1$s-%2$s</string>

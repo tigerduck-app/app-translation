@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">カスタム</string>
     <string name="course_color_picker_custom_label">カスタムカラー</string>
     <string name="course_color_picker_title">色を編集</string>
-    <string name="course_credits_value">単位：%1$d</string>
+    <string name="course_credits_value">単位：%1$s</string>
     <string name="course_detail_classroom_label">教室</string>
     <string name="course_detail_code_copied">コードをコピーしました</string>
     <string name="course_detail_code_label">コード</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">順位 %1$s(%2$s)</string>
     <string name="score_semester_second">後期</string>
     <string name="score_semester_second_short">後期</string>
-    <string name="score_semester_total_credits">%1$d 単位</string>
+    <string name="score_semester_total_credits">%1$s 単位</string>
     <string name="score_semester_upper">前期</string>
     <string name="score_sign_in_required_message">成績履歴を表示するにはサインインしてください</string>
     <string name="score_term_format">現在の学期：%1$s-%2$s</string>

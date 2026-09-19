@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">தனிப்பயன்</string>
     <string name="course_color_picker_custom_label">தனிப்பயன் வண்ணம்</string>
     <string name="course_color_picker_title">வண்ணத்தைத் திருத்து</string>
-    <string name="course_credits_value">கிரெடிட்கள்: %1$d</string>
+    <string name="course_credits_value">கிரெடிட்கள்: %1$s</string>
     <string name="course_detail_classroom_label">வகுப்பறை</string>
     <string name="course_detail_code_copied">குறியீடு நகலெடுக்கப்பட்டது</string>
     <string name="course_detail_code_label">வகுப்பு குறியீடு</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">தர நிலை %1$s(%2$s)</string>
     <string name="score_semester_second">வசந்த பருவம்</string>
     <string name="score_semester_second_short">வசந்.</string>
-    <string name="score_semester_total_credits">%1$d கிரெடிட்கள்</string>
+    <string name="score_semester_total_credits">%1$s கிரெடிட்கள்</string>
     <string name="score_semester_upper">இலையுதிர்</string>
     <string name="score_sign_in_required_message">உங்கள் தர வரலாற்றைப் பார்க்க உள்நுழையவும்</string>
     <string name="score_term_format">தற்போதைய பருவம்: %1$s-%2$s</string>

@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Personalizado</string>
     <string name="course_color_picker_custom_label">Color personalizado</string>
     <string name="course_color_picker_title">Editar color</string>
-    <string name="course_credits_value">Créditos: %1$d</string>
+    <string name="course_credits_value">Créditos: %1$s</string>
     <string name="course_detail_classroom_label">Aula</string>
     <string name="course_detail_code_copied">Código copiado</string>
     <string name="course_detail_code_label">Código</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Posición %1$s(%2$s)</string>
     <string name="score_semester_second">Segundo semestre</string>
     <string name="score_semester_second_short">2.º</string>
-    <string name="score_semester_total_credits">%1$d créditos</string>
+    <string name="score_semester_total_credits">%1$s créditos</string>
     <string name="score_semester_upper">Otoño</string>
     <string name="score_sign_in_required_message">Inicia sesión para ver tu historial de calificaciones</string>
     <string name="score_term_format">Período actual: %1$s-%2$s</string>

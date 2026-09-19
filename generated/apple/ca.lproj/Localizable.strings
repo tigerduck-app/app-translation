@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "Personalitzat";
 "course_color_picker_custom_label" = "Color personalitzat";
 "course_color_picker_title" = "Edita el color";
-"course_credits_value" = "Crèdits: %1$d";
+"course_credits_value" = "Crèdits: %1$@";
 "course_detail_classroom_label" = "Aula";
 "course_detail_code_copied" = "Codi copiat";
 "course_detail_code_label" = "Codi";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "Rànquing %1$@(%2$@)";
 "score_semester_second" = "Semestre de primavera";
 "score_semester_second_short" = "Prim.";
-"score_semester_total_credits" = "%1$d crèdits";
+"score_semester_total_credits" = "%1$@ crèdits";
 "score_semester_upper" = "Tardor";
 "score_sign_in_required_message" = "Inicieu la sessió per veure el vostre historial de notes";
 "score_term_format" = "Semestre actual: %1$@-%2$@";

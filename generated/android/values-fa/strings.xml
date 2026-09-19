@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">سفارشی</string>
     <string name="course_color_picker_custom_label">رنگ سفارشی</string>
     <string name="course_color_picker_title">ویرایش رنگ</string>
-    <string name="course_credits_value">واحد: %1$d</string>
+    <string name="course_credits_value">واحد: %1$s</string>
     <string name="course_detail_classroom_label">کلاس درس</string>
     <string name="course_detail_code_copied">کد کپی شد</string>
     <string name="course_detail_code_label">کد</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">رتبه %1$s(%2$s)</string>
     <string name="score_semester_second">نیم‌سال دوم</string>
     <string name="score_semester_second_short">دوم</string>
-    <string name="score_semester_total_credits">%1$d واحد</string>
+    <string name="score_semester_total_credits">%1$s واحد</string>
     <string name="score_semester_upper">پاییز</string>
     <string name="score_sign_in_required_message">برای مشاهده سابقه نمره خود وارد شوید</string>
     <string name="score_term_format">ترم فعلی: %1$s-%2$s</string>

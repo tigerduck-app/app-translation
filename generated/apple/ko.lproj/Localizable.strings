@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "사용자 지정";
 "course_color_picker_custom_label" = "사용자 지정 색상";
 "course_color_picker_title" = "색상 편집";
-"course_credits_value" = "학점: %1$d";
+"course_credits_value" = "학점: %1$@";
 "course_detail_classroom_label" = "강의실";
 "course_detail_code_copied" = "코드가 복사되었습니다";
 "course_detail_code_label" = "코드";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "등수 %1$@(%2$@)";
 "score_semester_second" = "2학기";
 "score_semester_second_short" = "2학기";
-"score_semester_total_credits" = "%1$d 학점";
+"score_semester_total_credits" = "%1$@ 학점";
 "score_semester_upper" = "1학기";
 "score_sign_in_required_message" = "성적 기록을 보려면 로그인하세요";
 "score_term_format" = "현재 학기: %1$@-%2$@";

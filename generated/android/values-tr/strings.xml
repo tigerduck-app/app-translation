@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Özel</string>
     <string name="course_color_picker_custom_label">Özel renk</string>
     <string name="course_color_picker_title">Rengi düzenle</string>
-    <string name="course_credits_value">Kredi: %1$d</string>
+    <string name="course_credits_value">Kredi: %1$s</string>
     <string name="course_detail_classroom_label">Derslik</string>
     <string name="course_detail_code_copied">Kod kopyalandı</string>
     <string name="course_detail_code_label">Kod</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Sıralama %1$s(%2$s)</string>
     <string name="score_semester_second">Bahar dönemi</string>
     <string name="score_semester_second_short">Bahar</string>
-    <string name="score_semester_total_credits">%1$d kredi</string>
+    <string name="score_semester_total_credits">%1$s kredi</string>
     <string name="score_semester_upper">Güz</string>
     <string name="score_sign_in_required_message">Not geçmişinizi görüntülemek için giriş yapın</string>
     <string name="score_term_format">Mevcut dönem: %1$s-%2$s</string>

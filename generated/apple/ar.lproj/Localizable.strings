@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "مخصص";
 "course_color_picker_custom_label" = "لون مخصص";
 "course_color_picker_title" = "تعديل اللون";
-"course_credits_value" = "الساعات المعتمدة: %1$d";
+"course_credits_value" = "الساعات المعتمدة: %1$@";
 "course_detail_classroom_label" = "الفصل الدراسي";
 "course_detail_code_copied" = "تم نسخ الرمز";
 "course_detail_code_label" = "شفرة";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "الترتيب %1$@(%2$@)";
 "score_semester_second" = "فصل الربيع";
 "score_semester_second_short" = "ربيع";
-"score_semester_total_credits" = "%1$d ساعات معتمدة";
+"score_semester_total_credits" = "%1$@ ساعات معتمدة";
 "score_semester_upper" = "الخريف";
 "score_sign_in_required_message" = "قم بتسجيل الدخول لعرض سجل الصف الخاص بك";
 "score_term_format" = "الفصل الحالي: %1$@-%2$@";

@@ -233,7 +233,7 @@
 "course_color_picker_custom_badge" = "Custom";
 "course_color_picker_custom_label" = "Custom color";
 "course_color_picker_title" = "Edit color";
-"course_credits_value" = "Credits: %1$d";
+"course_credits_value" = "Credits: %1$@";
 "course_detail_classroom_label" = "Classroom";
 "course_detail_code_copied" = "Code copied";
 "course_detail_code_label" = "Code";
@@ -625,7 +625,7 @@
 "score_semester_ranking" = "Rank %1$@(%2$@)";
 "score_semester_second" = "Spring semester";
 "score_semester_second_short" = "Spring";
-"score_semester_total_credits" = "%1$d credits";
+"score_semester_total_credits" = "%1$@ credits";
 "score_semester_upper" = "Fall";
 "score_sign_in_required_message" = "Sign in to view your grade history";
 "score_term_format" = "Current term: %1$@-%2$@";

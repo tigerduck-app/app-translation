@@ -237,7 +237,7 @@
     <string name="course_color_picker_custom_badge">Жеке</string>
     <string name="course_color_picker_custom_label">Жеке түс</string>
     <string name="course_color_picker_title">Түсті өңдеу</string>
-    <string name="course_credits_value">Кредит: %1$d</string>
+    <string name="course_credits_value">Кредит: %1$s</string>
     <string name="course_detail_classroom_label">Аудитория</string>
     <string name="course_detail_code_copied">Код көшірілді</string>
     <string name="course_detail_code_label">Код</string>
@@ -647,7 +647,7 @@
     <string name="score_semester_ranking">Орын %1$s(%2$s)</string>
     <string name="score_semester_second">Көктемгі семестр</string>
     <string name="score_semester_second_short">Көктем</string>
-    <string name="score_semester_total_credits">%1$d кредит</string>
+    <string name="score_semester_total_credits">%1$s кредит</string>
     <string name="score_semester_upper">Күзгі</string>
     <string name="score_sign_in_required_message">Баға тарихыңызды көру үшін кіріңіз</string>
     <string name="score_term_format">Ағымдағы семестр: %1$s-%2$s</string>
