@@ -864,9 +864,7 @@
     "update_action_later": "बाद में",
     "update_action_skip_version": "इस संस्करण को छोड़ें",
     "update_action_update_now": "अभी अपडेट करें",
-    "update_available_message": "App Store पर एक नया संस्करण (%1$@) उपलब्ध है। क्या आप अभी अपडेट करना चाहते हैं?",
     "update_available_title": "अपडेट उपलब्ध है",
-    "update_check_failed_message": "App Store तक पहुँचा नहीं जा सका। बाद में पुनः प्रयास करें।",
     "update_check_failed_title": "जाँच विफल रही",
     "update_required_action": "अपडेट करें",
     "update_required_message": "TigerDuck का यह संस्करण अब सर्वर से कनेक्ट नहीं हो सकता। सिंक जारी रखने के लिए नवीनतम संस्करण में अपडेट करें।",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "असाइनमेंट देय अनुस्मारक सेटिंग",
     "sync_content_live_activity": "Live Updates सेटिंग",
+    "update_available_message": "Play Store पर एक नया संस्करण उपलब्ध है। क्या आप अभी अपडेट करना चाहते हैं?",
+    "update_check_failed_message": "Play Store तक पहुँचा नहीं जा सका। बाद में पुनः प्रयास करें।",
     "vibration_settings_motor_warning": "कुछ फोनों में कम गुणवत्ता वाले वाइब्रेशन मोटर होते हैं जो बहुत कमज़ोर या बहुत छोटे वाइब्रेशन को अनदेखा कर सकते हैं। अगर आप कोई सेटिंग महसूस नहीं कर पाते, तो उसकी ताकत या लंबाई बढ़ाने की कोशिश करें। आप पहले \"मध्यम\" प्रीसेट आज़माकर शुरू कर सकते हैं।",
     "vibration_settings_revert": "डिफ़ॉल्ट पर रीसेट",
     "vibration_settings_section_length_ms": "अवधि (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync सक्षम करें",
     "sync_content_assignment_reminders": "असाइनमेंट देय अनुस्मारक",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "प्लेटफ़ॉर्म की सीमाओं के कारण, इसे बंद करने पर Live Activity और असाइनमेंट देय अनुस्मारक भी अक्षम हो जाते हैं।"
+    "sync_courses_footer_platform_note": "प्लेटफ़ॉर्म की सीमाओं के कारण, इसे बंद करने पर Live Activity और असाइनमेंट देय अनुस्मारक भी अक्षम हो जाते हैं।",
+    "update_available_message": "App Store पर एक नया संस्करण (%1$@) उपलब्ध है। क्या आप अभी अपडेट करना चाहते हैं?",
+    "update_check_failed_message": "App Store तक पहुँचा नहीं जा सका। बाद में पुनः प्रयास करें।"
   },
   "backend": {
     "notification_reauth_required_body": "Moodle से कनेक्शन समाप्त हो गया है। सिंक फिर से शुरू करने के लिए TigerDuck खोलें और दोबारा साइन इन करें।",

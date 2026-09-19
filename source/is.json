@@ -864,9 +864,7 @@
     "update_action_later": "Seinna",
     "update_action_skip_version": "Sleppa þessari útgáfu",
     "update_action_update_now": "Uppfæra núna",
-    "update_available_message": "Ný útgáfa (%1$@) er fáanleg í App Store. Viltu uppfæra núna?",
     "update_available_title": "Uppfærsla tiltæk",
-    "update_check_failed_message": "Náðist ekki í App Store. Reyndu aftur síðar.",
     "update_check_failed_title": "Athugun mistókst",
     "update_required_action": "Uppfæra",
     "update_required_message": "Þessi útgáfa af TigerDuck getur ekki lengur tengst netþjóninum. Uppfærðu í nýjustu útgáfuna til að halda samstillingu áfram.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Stillingar verkefnaáminninga",
     "sync_content_live_activity": "Stillingar Live Updates",
+    "update_available_message": "Ný útgáfa er fáanleg í Play Store. Viltu uppfæra núna?",
+    "update_check_failed_message": "Náðist ekki í Play Store. Reyndu aftur síðar.",
     "vibration_settings_motor_warning": "Sumir símar hafa lægri gæða titringsmótor sem gætu hunsað mjög veika eða mjög stuttar titringshreyfingar. Ef þú finnur ekki fyrir stillingu skaltu reyna að auka styrk hennar eða lengd. Þú getur byrjað á að prófa \"Meðal\" forstillinguna fyrst.",
     "vibration_settings_revert": "Endurstilla sjálfgefið",
     "vibration_settings_section_length_ms": "Lengd (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Kveikja á TigerSync",
     "sync_content_assignment_reminders": "Verkefnaáminningar",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Vegna takmarkana á kerfinu slekkur þetta einnig á Live Activity og verkefnaáminningum."
+    "sync_courses_footer_platform_note": "Vegna takmarkana á kerfinu slekkur þetta einnig á Live Activity og verkefnaáminningum.",
+    "update_available_message": "Ný útgáfa (%1$@) er fáanleg í App Store. Viltu uppfæra núna?",
+    "update_check_failed_message": "Náðist ekki í App Store. Reyndu aftur síðar."
   },
   "backend": {
     "notification_reauth_required_body": "Tengingin við Moodle er útrunnin. Opnaðu TigerDuck og skráðu þig inn aftur til að halda samstillingu áfram.",

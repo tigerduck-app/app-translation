@@ -864,9 +864,7 @@
     "update_action_later": "પછી",
     "update_action_skip_version": "આ વર્ઝન છોડો",
     "update_action_update_now": "હમણાં અપડેટ કરો",
-    "update_available_message": "App Store પર નવું વર્ઝન (%1$@) ઉપલબ્ધ છે. શું તમે હમણાં અપડેટ કરવા માંગો છો?",
     "update_available_title": "અપડેટ ઉપલબ્ધ છે",
-    "update_check_failed_message": "App Store સુધી પહોંચી શકાયું નહીં. પછી ફરી પ્રયાસ કરો.",
     "update_check_failed_title": "તપાસ નિષ્ફળ",
     "update_required_action": "અપડેટ કરો",
     "update_required_message": "TigerDuck ની આ આવૃત્તિ હવે સર્વર સાથે કનેક્ટ થઈ શકતી નથી. સિંક ચાલુ રાખવા માટે નવીનતમ આવૃત્તિ પર અપડેટ કરો.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર સેટિંગ્સ",
     "sync_content_live_activity": "Live Updates સેટિંગ્સ",
+    "update_available_message": "Play Store પર નવું વર્ઝન ઉપલબ્ધ છે. શું તમે હમણાં અપડેટ કરવા માંગો છો?",
+    "update_check_failed_message": "Play Store સુધી પહોંચી શકાયું નહીં. પછી ફરી પ્રયાસ કરો.",
     "vibration_settings_motor_warning": "કેટલા ફોનમાં નીચી ગુણવત્તાના વાઇબ્રેશન મોટર હોય છે જે ખૂબ જ નબળા અથવા ખૂબ ટૂંકા વાઇબ્રેશનને અવગણી શકે છે. જો તમને કોઈ સેટિંગ ન અનુભવાય, તો તેની શક્તિ અથવા લંબાઈ વધારવાનો પ્રયાસ કરો. તમે પહેલા \"મધ્યમ\" પ્રીસેટ અજમાવીને શરૂ કરી શકો છો.",
     "vibration_settings_revert": "ડિફૉલ્ટ પર રીસેટ",
     "vibration_settings_section_length_ms": "સમયગાળો (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync સક્ષમ કરો",
     "sync_content_assignment_reminders": "અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "પ્લેટફોર્મની મર્યાદાઓને કારણે, આને બંધ કરવાથી Live Activity અને અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર પણ બંધ થઈ જશે."
+    "sync_courses_footer_platform_note": "પ્લેટફોર્મની મર્યાદાઓને કારણે, આને બંધ કરવાથી Live Activity અને અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર પણ બંધ થઈ જશે.",
+    "update_available_message": "App Store પર નવું વર્ઝન (%1$@) ઉપલબ્ધ છે. શું તમે હમણાં અપડેટ કરવા માંગો છો?",
+    "update_check_failed_message": "App Store સુધી પહોંચી શકાયું નહીં. પછી ફરી પ્રયાસ કરો."
   },
   "backend": {
     "notification_reauth_required_body": "Moodle સાથેનું જોડાણ સમાપ્ત થઈ ગયું છે. સિંક ફરી શરૂ કરવા માટે TigerDuck ખોલીને ફરી સાઇન ઇન કરો.",

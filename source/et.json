@@ -864,9 +864,7 @@
     "update_action_later": "Hiljem",
     "update_action_skip_version": "Jäta see versioon vahele",
     "update_action_update_now": "Uuenda kohe",
-    "update_available_message": "App Store'is on saadaval uus versioon (%1$@). Kas soovid kohe uuendada?",
     "update_available_title": "Uuendus saadaval",
-    "update_check_failed_message": "App Store'i ei õnnestunud ühendust luua. Proovi hiljem uuesti.",
     "update_check_failed_title": "Kontrollimine ebaõnnestus",
     "update_required_action": "Uuenda",
     "update_required_message": "See TigerDucki versioon ei saa enam serveriga ühendust. Uuenda uusimale versioonile, et sünkroonimine jätkuks.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Ülesande tähtaja meeldetuletuste seaded",
     "sync_content_live_activity": "Live Updates seaded",
+    "update_available_message": "Play Store'is on saadaval uus versioon. Kas soovid kohe uuendada?",
+    "update_check_failed_message": "Play Store'i ei õnnestunud ühendust luua. Proovi hiljem uuesti.",
     "vibration_settings_motor_warning": "Mõnel telefonil on madalama kvaliteediga vibraatorimootor, mis võib ignoreerida väga nõrku või väga lühikesi vibratsioone. Kui te seadistust ei tunne, proovige suurendada selle tugevust või pikkust. Võite alustada eelseade \"Keskmine\" proovimisest.",
     "vibration_settings_revert": "Lähtesta vaikimisi",
     "vibration_settings_section_length_ms": "Kestus (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Luba TigerSync",
     "sync_content_assignment_reminders": "Ülesande tähtaja meeldetuletused",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Platvormi piirangute tõttu keelab selle väljalülitamine ka Live Activity ja ülesande tähtaja meeldetuletused."
+    "sync_courses_footer_platform_note": "Platvormi piirangute tõttu keelab selle väljalülitamine ka Live Activity ja ülesande tähtaja meeldetuletused.",
+    "update_available_message": "App Store'is on saadaval uus versioon (%1$@). Kas soovid kohe uuendada?",
+    "update_check_failed_message": "App Store'i ei õnnestunud ühendust luua. Proovi hiljem uuesti."
   },
   "backend": {
     "notification_reauth_required_body": "Ühendus teenusega Moodle on aegunud. Avage TigerDuck ja logige uuesti sisse, siis sünkroonimine jätkub.",

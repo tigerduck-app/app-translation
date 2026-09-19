@@ -864,9 +864,7 @@
     "update_action_later": "بعداً",
     "update_action_skip_version": "از این نسخه بگذر",
     "update_action_update_now": "همین الان به‌روزرسانی کن",
-    "update_available_message": "نسخه جدیدی (%1$@) در App Store موجود است. آیا می‌خواهید همین الان به‌روزرسانی کنید؟",
     "update_available_title": "به‌روزرسانی در دسترس است",
-    "update_check_failed_message": "اتصال به App Store برقرار نشد. بعداً دوباره امتحان کنید.",
     "update_check_failed_title": "بررسی ناموفق بود",
     "update_required_action": "به‌روزرسانی",
     "update_required_message": "این نسخه از TigerDuck دیگر نمی‌تواند به سرور متصل شود. برای ادامهٔ همگام‌سازی به آخرین نسخه به‌روزرسانی کنید.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "تنظیمات یادآورهای موعد تکلیف",
     "sync_content_live_activity": "تنظیمات Live Updates",
+    "update_available_message": "نسخه جدیدی در Play Store موجود است. آیا می‌خواهید همین الان به‌روزرسانی کنید؟",
+    "update_check_failed_message": "اتصال به Play Store برقرار نشد. بعداً دوباره امتحان کنید.",
     "vibration_settings_motor_warning": "برخی گوشی‌ها موتورهای لرزش با کیفیت پایین‌تری دارند که ممکن است لرزش‌های بسیار ضعیف یا بسیار کوتاه را نادیده بگیرند. اگر تنظیمی را حس نمی‌کنید، سعی کنید قدرت یا طول آن را افزایش دهید. می‌توانید با امتحان کردن پیش‌تنظیم \"متوسط\" شروع کنید.",
     "vibration_settings_revert": "بازگشت به پیش‌فرض",
     "vibration_settings_section_length_ms": "مدت (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "فعال‌سازی TigerSync",
     "sync_content_assignment_reminders": "یادآورهای موعد تکلیف",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "به دلیل محدودیت‌های پلتفرم، غیرفعال کردن این گزینه، Live Activity و یادآورهای موعد تکلیف را نیز غیرفعال می‌کند."
+    "sync_courses_footer_platform_note": "به دلیل محدودیت‌های پلتفرم، غیرفعال کردن این گزینه، Live Activity و یادآورهای موعد تکلیف را نیز غیرفعال می‌کند.",
+    "update_available_message": "نسخه جدیدی (%1$@) در App Store موجود است. آیا می‌خواهید همین الان به‌روزرسانی کنید؟",
+    "update_check_failed_message": "اتصال به App Store برقرار نشد. بعداً دوباره امتحان کنید."
   },
   "backend": {
     "notification_reauth_required_body": "اتصال به Moodle منقضی شده است. برای از سرگیری همگام‌سازی، TigerDuck را باز کنید و دوباره وارد شوید.",

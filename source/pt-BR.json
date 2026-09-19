@@ -864,9 +864,7 @@
     "update_action_later": "Depois",
     "update_action_skip_version": "Pular esta versão",
     "update_action_update_now": "Atualizar agora",
-    "update_available_message": "Uma nova versão (%1$@) está disponível na App Store. Deseja atualizar agora?",
     "update_available_title": "Atualização disponível",
-    "update_check_failed_message": "Não foi possível acessar a App Store. Tente novamente mais tarde.",
     "update_check_failed_title": "Falha na verificação",
     "update_required_action": "Atualizar",
     "update_required_message": "Esta versão do TigerDuck não consegue mais se conectar ao servidor. Atualize para a versão mais recente para continuar sincronizando.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Configurações de lembretes de prazo de atividades",
     "sync_content_live_activity": "Configurações de Live Updates",
+    "update_available_message": "Uma nova versão está disponível na Play Store. Deseja atualizar agora?",
+    "update_check_failed_message": "Não foi possível acessar a Play Store. Tente novamente mais tarde.",
     "vibration_settings_motor_warning": "Alguns celulares têm motores de vibração de menor qualidade que podem ignorar vibrações muito fracas ou muito curtas. Se você não conseguir sentir uma configuração, tente aumentar sua intensidade ou duração. Você pode começar experimentando a predefinição \"Médio\" primeiro.",
     "vibration_settings_revert": "Restaurar padrão",
     "vibration_settings_section_length_ms": "Duração (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Ativar TigerSync",
     "sync_content_assignment_reminders": "Lembretes de prazo de atividades",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Devido a limitações da plataforma, desativar esta opção também desativa Live Activity e os lembretes de prazo de atividades."
+    "sync_courses_footer_platform_note": "Devido a limitações da plataforma, desativar esta opção também desativa Live Activity e os lembretes de prazo de atividades.",
+    "update_available_message": "Uma nova versão (%1$@) está disponível na App Store. Deseja atualizar agora?",
+    "update_check_failed_message": "Não foi possível acessar a App Store. Tente novamente mais tarde."
   },
   "backend": {
     "notification_reauth_required_body": "A conexão com o Moodle expirou. Abra o TigerDuck e entre novamente para retomar a sincronização.",

@@ -864,9 +864,7 @@
     "update_action_later": "Més tard",
     "update_action_skip_version": "Omet aquesta versió",
     "update_action_update_now": "Actualitza ara",
-    "update_available_message": "Hi ha una nova versió (%1$@) disponible a l'App Store. Vols actualitzar ara?",
     "update_available_title": "Actualització disponible",
-    "update_check_failed_message": "No s'ha pogut contactar amb l'App Store. Torna-ho a provar més tard.",
     "update_check_failed_title": "La comprovació ha fallat",
     "update_required_action": "Actualitza",
     "update_required_message": "Aquesta versió de TigerDuck ja no es pot connectar al servidor. Actualitza a la darrera versió per continuar sincronitzant.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Configuració dels recordatoris de venciment de tasques",
     "sync_content_live_activity": "Configuració de Live Updates",
+    "update_available_message": "Hi ha una nova versió disponible a la Play Store. Vols actualitzar ara?",
+    "update_check_failed_message": "No s'ha pogut contactar amb la Play Store. Torna-ho a provar més tard.",
     "vibration_settings_motor_warning": "Alguns telèfons tenen motors de vibració de menor qualitat que poden ignorar vibracions molt febles o molt curtes. Si no podeu sentir una configuració, proveu d'augmentar-ne la força o la durada. Podeu començar provant primer el preajust \"Mitjà\".",
     "vibration_settings_revert": "Restablir per defecte",
     "vibration_settings_section_length_ms": "Durada (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Activar TigerSync",
     "sync_content_assignment_reminders": "Recordatoris de venciment de tasques",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "A causa de les limitacions de la plataforma, si desactiveu aquesta opció també es desactivaran Live Activity i els recordatoris de venciment de tasques."
+    "sync_courses_footer_platform_note": "A causa de les limitacions de la plataforma, si desactiveu aquesta opció també es desactivaran Live Activity i els recordatoris de venciment de tasques.",
+    "update_available_message": "Hi ha una nova versió (%1$@) disponible a l'App Store. Vols actualitzar ara?",
+    "update_check_failed_message": "No s'ha pogut contactar amb l'App Store. Torna-ho a provar més tard."
   },
   "backend": {
     "notification_reauth_required_body": "La connexió amb Moodle ha caducat. Obriu TigerDuck i torneu a iniciar la sessió per reprendre la sincronització.",

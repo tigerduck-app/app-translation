@@ -864,9 +864,7 @@
     "update_action_later": "తర్వాత",
     "update_action_skip_version": "ఈ వెర్షన్ దాటవేయండి",
     "update_action_update_now": "ఇప్పుడు అప్‌డేట్ చేయండి",
-    "update_available_message": "App Store లో కొత్త వెర్షన్ (%1$@) అందుబాటులో ఉంది. ఇప్పుడు అప్‌డేట్ చేయాలా?",
     "update_available_title": "అప్‌డేట్ అందుబాటులో ఉంది",
-    "update_check_failed_message": "App Store చేరుకోలేకపోయాం. తర్వాత మళ్ళీ ప్రయత్నించండి.",
     "update_check_failed_title": "తనిఖీ విఫలమైంది",
     "update_required_action": "అప్‌డేట్",
     "update_required_message": "TigerDuck యొక్క ఈ వెర్షన్ ఇకపై సర్వర్‌కు కనెక్ట్ కాలేదు. సింక్ కొనసాగించడానికి తాజా వెర్షన్‌కు అప్‌డేట్ చేయండి.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "అసైన్‌మెంట్ గడువు రిమైండర్ సెట్టింగ్స్",
     "sync_content_live_activity": "Live Updates సెట్టింగ్స్",
+    "update_available_message": "Play Store లో కొత్త వెర్షన్ అందుబాటులో ఉంది. ఇప్పుడు అప్‌డేట్ చేయాలా?",
+    "update_check_failed_message": "Play Store చేరుకోలేకపోయాం. తర్వాత మళ్ళీ ప్రయత్నించండి.",
     "vibration_settings_motor_warning": "కొన్ని ఫోన్లలో తక్కువ నాణ్యమైన వైబ్రేషన్ మోటార్లు ఉంటాయి, అవి చాలా బలహీనమైన లేదా చాలా తక్కువ వ్యవధిగల వైబ్రేషన్లను విస్మరించవచ్చు. మీకు ఏదైనా సెట్టింగ్ అనుభవం కాకపోతే, దాని బలం లేదా పొడవును పెంచడానికి ప్రయత్నించండి. ముందుగా \"మధ్యమ\" ప్రీసెట్‌ను ప్రయత్నించడం ద్వారా ప్రారంభించవచ్చు.",
     "vibration_settings_revert": "డిఫాల్ట్‌కు రీసెట్ చేయండి",
     "vibration_settings_section_length_ms": "వ్యవధి (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync ప్రారంభించండి",
     "sync_content_assignment_reminders": "అసైన్‌మెంట్ గడువు రిమైండర్లు",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "ప్లాట్‌ఫారమ్ పరిమితుల కారణంగా, దీన్ని ఆఫ్ చేస్తే Live Activity మరియు అసైన్‌మెంట్ గడువు రిమైండర్లు కూడా ఆఫ్ అవుతాయి."
+    "sync_courses_footer_platform_note": "ప్లాట్‌ఫారమ్ పరిమితుల కారణంగా, దీన్ని ఆఫ్ చేస్తే Live Activity మరియు అసైన్‌మెంట్ గడువు రిమైండర్లు కూడా ఆఫ్ అవుతాయి.",
+    "update_available_message": "App Store లో కొత్త వెర్షన్ (%1$@) అందుబాటులో ఉంది. ఇప్పుడు అప్‌డేట్ చేయాలా?",
+    "update_check_failed_message": "App Store చేరుకోలేకపోయాం. తర్వాత మళ్ళీ ప్రయత్నించండి."
   },
   "backend": {
     "notification_reauth_required_body": "Moodle కనెక్షన్ గడువు ముగిసింది. సింక్ మళ్లీ కొనసాగడానికి TigerDuck తెరిచి మళ్లీ సైన్ ఇన్ చేయండి.",

@@ -864,9 +864,7 @@
     "update_action_later": "Nanti",
     "update_action_skip_version": "Lewati versi ini",
     "update_action_update_now": "Perbarui sekarang",
-    "update_available_message": "Versi baru (%1$@) tersedia di App Store. Ingin memperbarui sekarang?",
     "update_available_title": "Pembaruan tersedia",
-    "update_check_failed_message": "Tidak dapat menjangkau App Store. Coba lagi nanti.",
     "update_check_failed_title": "Pemeriksaan gagal",
     "update_required_action": "Perbarui",
     "update_required_message": "Versi TigerDuck ini tidak dapat lagi terhubung ke server. Perbarui ke versi terbaru untuk melanjutkan sinkronisasi.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Pengaturan pengingat tenggat tugas",
     "sync_content_live_activity": "Pengaturan Live Updates",
+    "update_available_message": "Versi baru tersedia di Play Store. Ingin memperbarui sekarang?",
+    "update_check_failed_message": "Tidak dapat menjangkau Play Store. Coba lagi nanti.",
     "vibration_settings_motor_warning": "Beberapa ponsel memiliki motor getar berkualitas lebih rendah yang mungkin mengabaikan getaran yang sangat lemah atau sangat pendek. Jika Anda tidak bisa merasakan suatu pengaturan, coba naikkan kekuatan atau panjangnya. Anda bisa mulai dengan mencoba preset \"Sedang\" terlebih dahulu.",
     "vibration_settings_revert": "Setel ulang ke default",
     "vibration_settings_section_length_ms": "Durasi (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Aktifkan TigerSync",
     "sync_content_assignment_reminders": "Pengingat tenggat tugas",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Karena keterbatasan platform, menonaktifkan fitur ini juga menonaktifkan Live Activity dan pengingat tenggat tugas."
+    "sync_courses_footer_platform_note": "Karena keterbatasan platform, menonaktifkan fitur ini juga menonaktifkan Live Activity dan pengingat tenggat tugas.",
+    "update_available_message": "Versi baru (%1$@) tersedia di App Store. Ingin memperbarui sekarang?",
+    "update_check_failed_message": "Tidak dapat menjangkau App Store. Coba lagi nanti."
   },
   "backend": {
     "notification_reauth_required_body": "Koneksi ke Moodle telah kedaluwarsa. Buka TigerDuck dan masuk kembali untuk melanjutkan sinkronisasi.",

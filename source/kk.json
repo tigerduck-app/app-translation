@@ -864,9 +864,7 @@
     "update_action_later": "Кейінірек",
     "update_action_skip_version": "Бұл нұсқаны өткізіп жіберу",
     "update_action_update_now": "Қазір жаңарту",
-    "update_available_message": "App Store дүкенінде жаңа нұсқа (%1$@) қол жетімді. Қазір жаңартқыңыз келе ме?",
     "update_available_title": "Жаңарту қол жетімді",
-    "update_check_failed_message": "App Store дүкеніне қосылу мүмкін болмады. Кейінірек қайталаңыз.",
     "update_check_failed_title": "Тексеру сәтсіз аяқталды",
     "update_required_action": "Жаңарту",
     "update_required_message": "TigerDuck-тің бұл нұсқасы серверге қосыла алмайды. Синхрондауды жалғастыру үшін соңғы нұсқаға жаңартыңыз.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Тапсырма мерзімі туралы еске салу параметрлері",
     "sync_content_live_activity": "Live Updates параметрлері",
+    "update_available_message": "Play Store дүкенінде жаңа нұсқа қол жетімді. Қазір жаңартқыңыз келе ме?",
+    "update_check_failed_message": "Play Store дүкеніне қосылу мүмкін болмады. Кейінірек қайталаңыз.",
     "vibration_settings_motor_warning": "Кейбір телефондарда сапасы төменірек дірілдеткіш моторлары болады, олар өте әлсіз немесе өте қысқа дірілдерді елемеуі мүмкін. Егер параметрді сезбесеңіз, оның күшін немесе ұзақтығын арттырып көріңіз. \"Орташа\" алдын ала орнатымын алдымен сынап бастай аласыз.",
     "vibration_settings_revert": "Әдепкіге қайтару",
     "vibration_settings_section_length_ms": "Ұзақтығы (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSyncды қосу",
     "sync_content_assignment_reminders": "Тапсырма мерзімі туралы еске салулар",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Платформа шектеулеріне байланысты, мұны өшіру Live Activity мен тапсырма мерзімі туралы еске салуларды да өшіреді."
+    "sync_courses_footer_platform_note": "Платформа шектеулеріне байланысты, мұны өшіру Live Activity мен тапсырма мерзімі туралы еске салуларды да өшіреді.",
+    "update_available_message": "App Store дүкенінде жаңа нұсқа (%1$@) қол жетімді. Қазір жаңартқыңыз келе ме?",
+    "update_check_failed_message": "App Store дүкеніне қосылу мүмкін болмады. Кейінірек қайталаңыз."
   },
   "backend": {
     "notification_reauth_required_body": "Moodle байланысының мерзімі аяқталды. Синхрондауды жалғастыру үшін TigerDuck қолданбасын ашып, қайта кіріңіз.",

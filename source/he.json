@@ -864,9 +864,7 @@
     "update_action_later": "מאוחר יותר",
     "update_action_skip_version": "דלג על גרסה זו",
     "update_action_update_now": "עדכן עכשיו",
-    "update_available_message": "גרסה חדשה (%1$@) זמינה ב-App Store. האם ברצונך לעדכן עכשיו?",
     "update_available_title": "עדכון זמין",
-    "update_check_failed_message": "לא ניתן להגיע ל-App Store. נסה שוב מאוחר יותר.",
     "update_check_failed_title": "הבדיקה נכשלה",
     "update_required_action": "עדכון",
     "update_required_message": "גרסה זו של TigerDuck כבר לא יכולה להתחבר לשרת. עדכנו לגרסה האחרונה כדי להמשיך לסנכרן.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "הגדרות תזכורות לתאריך הגשת מטלה",
     "sync_content_live_activity": "הגדרות Live Updates",
+    "update_available_message": "גרסה חדשה זמינה ב-Play Store. האם ברצונך לעדכן עכשיו?",
+    "update_check_failed_message": "לא ניתן להגיע ל-Play Store. נסה שוב מאוחר יותר.",
     "vibration_settings_motor_warning": "לחלק מהטלפונים יש מנועי רטט באיכות נמוכה יותר שעלולים להתעלם מרטטים חלשים מאוד או קצרים מאוד. אם אינך מרגיש הגדרה מסוימת, נסה להגביר את עוצמתה או אורכה. תוכל להתחיל בניסוי הקבוע \"בינוני\" תחילה.",
     "vibration_settings_revert": "אפס לברירת מחדל",
     "vibration_settings_section_length_ms": "משך (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "הפעל TigerSync",
     "sync_content_assignment_reminders": "תזכורות לתאריך הגשת מטלה",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "בשל מגבלות הפלטפורמה, כיבוי האפשרות הזו מבטל גם את Live Activity ואת תזכורות לתאריך הגשת מטלה."
+    "sync_courses_footer_platform_note": "בשל מגבלות הפלטפורמה, כיבוי האפשרות הזו מבטל גם את Live Activity ואת תזכורות לתאריך הגשת מטלה.",
+    "update_available_message": "גרסה חדשה (%1$@) זמינה ב-App Store. האם ברצונך לעדכן עכשיו?",
+    "update_check_failed_message": "לא ניתן להגיע ל-App Store. נסה שוב מאוחר יותר."
   },
   "backend": {
     "notification_reauth_required_body": "תוקף החיבור ל-Moodle פג. יש לפתוח את TigerDuck ולהתחבר שוב כדי לחדש את הסנכרון.",

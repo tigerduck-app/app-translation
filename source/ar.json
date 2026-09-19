@@ -864,9 +864,7 @@
     "update_action_later": "لاحقاً",
     "update_action_skip_version": "تخطّي هذا الإصدار",
     "update_action_update_now": "تحديث الآن",
-    "update_available_message": "يتوفر إصدار جديد (%1$@) على App Store. هل تريد التحديث الآن؟",
     "update_available_title": "تحديث متاح",
-    "update_check_failed_message": "تعذّر الوصول إلى App Store. حاول مرة أخرى لاحقاً.",
     "update_check_failed_title": "فشل التحقق",
     "update_required_action": "تحديث",
     "update_required_message": "لم يعد بإمكان هذا الإصدار من TigerDuck الاتصال بالخادم. حدّث إلى أحدث إصدار لمواصلة المزامنة.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "إعدادات تذكيرات استحقاق الواجبات",
     "sync_content_live_activity": "إعدادات Live Updates",
+    "update_available_message": "يتوفر إصدار جديد على Play Store. هل تريد التحديث الآن؟",
+    "update_check_failed_message": "تعذّر الوصول إلى Play Store. حاول مرة أخرى لاحقاً.",
     "vibration_settings_motor_warning": "تعاني بعض الهواتف من محركات اهتزاز منخفضة الجودة قد تتجاهل الاهتزازات الضعيفة جداً أو القصيرة جداً. إذا كنت لا تشعر بالإعداد، حاول رفع قوته أو مدته. يمكنك البدء بتجربة الإعداد المسبق \"متوسط\" أولاً.",
     "vibration_settings_revert": "إعادة إلى الافتراضي",
     "vibration_settings_section_length_ms": "المدة (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "تفعيل الTigerSync",
     "sync_content_assignment_reminders": "تذكيرات استحقاق الواجبات",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "بسبب قيود المنصة، يؤدي إيقاف هذا الخيار أيضًا إلى تعطيل Live Activity وتذكيرات استحقاق الواجبات."
+    "sync_courses_footer_platform_note": "بسبب قيود المنصة، يؤدي إيقاف هذا الخيار أيضًا إلى تعطيل Live Activity وتذكيرات استحقاق الواجبات.",
+    "update_available_message": "يتوفر إصدار جديد (%1$@) على App Store. هل تريد التحديث الآن؟",
+    "update_check_failed_message": "تعذّر الوصول إلى App Store. حاول مرة أخرى لاحقاً."
   },
   "backend": {
     "notification_reauth_required_body": "انتهت صلاحية اتصال Moodle الخاص بك. افتح TigerDuck وسجّل الدخول مرة أخرى لاستئناف المزامنة.",

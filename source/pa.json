@@ -864,9 +864,7 @@
     "update_action_later": "ਬਾਅਦ ਵਿੱਚ",
     "update_action_skip_version": "ਇਸ ਵਰਜ਼ਨ ਨੂੰ ਛੱਡੋ",
     "update_action_update_now": "ਹੁਣ ਅੱਪਡੇਟ ਕਰੋ",
-    "update_available_message": "App Store ਤੇ ਨਵਾਂ ਵਰਜ਼ਨ (%1$@) ਉਪਲਬਧ ਹੈ। ਕੀ ਤੁਸੀਂ ਹੁਣ ਅੱਪਡੇਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
     "update_available_title": "ਅੱਪਡੇਟ ਉਪਲਬਧ ਹੈ",
-    "update_check_failed_message": "App Store ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੋਈ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
     "update_check_failed_title": "ਜਾਂਚ ਅਸਫਲ ਹੋਈ",
     "update_required_action": "ਅੱਪਡੇਟ ਕਰੋ",
     "update_required_message": "TigerDuck ਦਾ ਇਹ ਸੰਸਕਰਣ ਹੁਣ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ। ਸਿੰਕ ਜਾਰੀ ਰੱਖਣ ਲਈ ਨਵੀਨਤਮ ਸੰਸਕਰਣ 'ਤੇ ਅੱਪਡੇਟ ਕਰੋ।",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ ਸੈਟਿੰਗਾਂ",
     "sync_content_live_activity": "Live Updates ਸੈਟਿੰਗਾਂ",
+    "update_available_message": "Play Store ਤੇ ਨਵਾਂ ਵਰਜ਼ਨ ਉਪਲਬਧ ਹੈ। ਕੀ ਤੁਸੀਂ ਹੁਣ ਅੱਪਡੇਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "update_check_failed_message": "Play Store ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੋਈ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
     "vibration_settings_motor_warning": "ਕੁਝ ਫੋਨਾਂ ਵਿੱਚ ਘੱਟ ਗੁਣਵੱਤਾ ਵਾਲੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਮੋਟਰ ਹੁੰਦੇ ਹਨ ਜੋ ਬਹੁਤ ਕਮਜ਼ੋਰ ਜਾਂ ਬਹੁਤ ਛੋਟੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰ ਸਕਦੇ ਹਨ। ਜੇ ਤੁਸੀਂ ਕੋਈ ਸੈਟਿੰਗ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰ ਸਕਦੇ, ਤਾਂ ਇਸਦੀ ਤਾਕਤ ਜਾਂ ਲੰਬਾਈ ਵਧਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਤੁਸੀਂ ਪਹਿਲਾਂ \"ਦਰਮਿਆਨਾ\" ਪ੍ਰੀਸੈੱਟ ਅਜ਼ਮਾ ਕੇ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।",
     "vibration_settings_revert": "ਡਿਫੌਲਟ 'ਤੇ ਰੀਸੈੱਟ",
     "vibration_settings_section_length_ms": "ਅਵਧੀ (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync ਸਮਰੱਥ ਕਰੋ",
     "sync_content_assignment_reminders": "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "ਪਲੇਟਫਾਰਮ ਦੀਆਂ ਸੀਮਾਵਾਂ ਕਾਰਨ, ਇਸਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ Live Activity ਅਤੇ ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ ਵੀ ਬੰਦ ਹੋ ਜਾਣਗੇ।"
+    "sync_courses_footer_platform_note": "ਪਲੇਟਫਾਰਮ ਦੀਆਂ ਸੀਮਾਵਾਂ ਕਾਰਨ, ਇਸਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ Live Activity ਅਤੇ ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਦੇ ਰੀਮਾਈਂਡਰ ਵੀ ਬੰਦ ਹੋ ਜਾਣਗੇ।",
+    "update_available_message": "App Store ਤੇ ਨਵਾਂ ਵਰਜ਼ਨ (%1$@) ਉਪਲਬਧ ਹੈ। ਕੀ ਤੁਸੀਂ ਹੁਣ ਅੱਪਡੇਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "update_check_failed_message": "App Store ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੋਈ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
   },
   "backend": {
     "notification_reauth_required_body": "Moodle ਨਾਲ ਕਨੈਕਸ਼ਨ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ। ਸਿੰਕ ਮੁੜ ਸ਼ੁਰੂ ਕਰਨ ਲਈ TigerDuck ਖੋਲ੍ਹੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।",

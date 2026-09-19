@@ -864,9 +864,7 @@
     "update_action_later": "Più tardi",
     "update_action_skip_version": "Salta questa versione",
     "update_action_update_now": "Aggiorna ora",
-    "update_available_message": "È disponibile una nuova versione (%1$@) sull'App Store. Vuoi aggiornare adesso?",
     "update_available_title": "Aggiornamento disponibile",
-    "update_check_failed_message": "Impossibile contattare l'App Store. Riprova più tardi.",
     "update_check_failed_title": "Verifica non riuscita",
     "update_required_action": "Aggiorna",
     "update_required_message": "Questa versione di TigerDuck non può più connettersi al server. Aggiorna all'ultima versione per continuare la sincronizzazione.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Impostazioni dei promemoria scadenze compiti",
     "sync_content_live_activity": "Impostazioni di Live Updates",
+    "update_available_message": "È disponibile una nuova versione sul Play Store. Vuoi aggiornare adesso?",
+    "update_check_failed_message": "Impossibile contattare il Play Store. Riprova più tardi.",
     "vibration_settings_motor_warning": "Alcuni telefoni hanno motori di vibrazione di qualità inferiore che potrebbero ignorare vibrazioni molto deboli o molto brevi. Se non riesci a sentire un'impostazione, prova ad aumentarne la forza o la durata. Puoi iniziare provando prima il preset \"Medio\".",
     "vibration_settings_revert": "Ripristina predefinito",
     "vibration_settings_section_length_ms": "Durata (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Attiva TigerSync",
     "sync_content_assignment_reminders": "Promemoria scadenze compiti",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "A causa dei limiti della piattaforma, disattivando questa opzione si disattivano anche Live Activity e i promemoria delle scadenze dei compiti."
+    "sync_courses_footer_platform_note": "A causa dei limiti della piattaforma, disattivando questa opzione si disattivano anche Live Activity e i promemoria delle scadenze dei compiti.",
+    "update_available_message": "È disponibile una nuova versione (%1$@) sull'App Store. Vuoi aggiornare adesso?",
+    "update_check_failed_message": "Impossibile contattare l'App Store. Riprova più tardi."
   },
   "backend": {
     "notification_reauth_required_body": "La connessione a Moodle è scaduta. Apri TigerDuck e accedi di nuovo per riprendere la sincronizzazione.",

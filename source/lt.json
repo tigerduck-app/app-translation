@@ -864,9 +864,7 @@
     "update_action_later": "Vėliau",
     "update_action_skip_version": "Praleisti šią versiją",
     "update_action_update_now": "Atnaujinti dabar",
-    "update_available_message": "App Store pasiekiama nauja versija (%1$@). Ar norite atnaujinti dabar?",
     "update_available_title": "Yra atnaujinimas",
-    "update_check_failed_message": "Nepavyko pasiekti App Store. Bandykite vėliau.",
     "update_check_failed_title": "Patikrinimas nepavyko",
     "update_required_action": "Atnaujinti",
     "update_required_message": "Ši „TigerDuck“ versija nebegali prisijungti prie serverio. Atnaujinkite į naujausią versiją, kad sinchronizavimas tęstųsi.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Užduočių terminų priminimų nustatymai",
     "sync_content_live_activity": "Live Updates nustatymai",
+    "update_available_message": "Play Store pasiekiama nauja versija. Ar norite atnaujinti dabar?",
+    "update_check_failed_message": "Nepavyko pasiekti Play Store. Bandykite vėliau.",
     "vibration_settings_motor_warning": "Kai kuriuose telefonuose yra žemesnės kokybės vibromotoriai, kurie gali ignoruoti labai silpnas arba labai trumpas vibracijas. Jei negalite pajusti nustatymo, pabandykite padidinti jo stiprumą arba ilgį. Galite pradėti išbandydami \"Vidutinis\" išankstinį nustatymą.",
     "vibration_settings_revert": "Atkurti numatytuosius",
     "vibration_settings_section_length_ms": "Trukmė (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Įjungti TigerSync",
     "sync_content_assignment_reminders": "Užduočių terminų priminimai",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Dėl platformos apribojimų, tai išjungus taip pat išjungiami Live Activity ir užduočių terminų priminimai."
+    "sync_courses_footer_platform_note": "Dėl platformos apribojimų, tai išjungus taip pat išjungiami Live Activity ir užduočių terminų priminimai.",
+    "update_available_message": "App Store pasiekiama nauja versija (%1$@). Ar norite atnaujinti dabar?",
+    "update_check_failed_message": "Nepavyko pasiekti App Store. Bandykite vėliau."
   },
   "backend": {
     "notification_reauth_required_body": "Ryšio su Moodle galiojimas baigėsi. Atidarykite TigerDuck ir prisijunkite iš naujo, kad sinchronizavimas būtų atnaujintas.",

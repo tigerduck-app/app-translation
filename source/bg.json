@@ -864,9 +864,7 @@
     "update_action_later": "По-късно",
     "update_action_skip_version": "Пропусни тази версия",
     "update_action_update_now": "Актуализирай сега",
-    "update_available_message": "Нова версия (%1$@) е налична в App Store. Искате ли да актуализирате сега?",
     "update_available_title": "Налична актуализация",
-    "update_check_failed_message": "Не можа да се достигне App Store. Опитайте отново по-късно.",
     "update_check_failed_title": "Проверката не бе успешна",
     "update_required_action": "Обнови",
     "update_required_message": "Тази версия на TigerDuck вече не може да се свърже със сървъра. Обновете до най-новата версия, за да продължите синхронизацията.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Настройки за напомняния за крайни срокове на задания",
     "sync_content_live_activity": "Настройки за Live Updates",
+    "update_available_message": "Нова версия е налична в Play Store. Искате ли да актуализирате сега?",
+    "update_check_failed_message": "Не можа да се достигне Play Store. Опитайте отново по-късно.",
     "vibration_settings_motor_warning": "Някои телефони имат вибромотори с по-ниско качество, които може да игнорират много слаби или много кратки вибрации. Ако не усещате дадена настройка, опитайте да увеличите нейната сила или продължителност. Можете да започнете с пресет \"Среден\".",
     "vibration_settings_revert": "Възстановяване по подразбиране",
     "vibration_settings_section_length_ms": "Продължителност (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Включване на TigerSync",
     "sync_content_assignment_reminders": "Напомняния за крайни срокове на задания",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Поради ограничения на платформата изключването на тази опция деактивира и Live Activity, и напомнянията за крайни срокове на задания."
+    "sync_courses_footer_platform_note": "Поради ограничения на платформата изключването на тази опция деактивира и Live Activity, и напомнянията за крайни срокове на задания.",
+    "update_available_message": "Нова версия (%1$@) е налична в App Store. Искате ли да актуализирате сега?",
+    "update_check_failed_message": "Не можа да се достигне App Store. Опитайте отново по-късно."
   },
   "backend": {
     "notification_reauth_required_body": "Връзката с Moodle изтече. Отворете TigerDuck и влезте отново, за да се възобнови синхронизирането.",

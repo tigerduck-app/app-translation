@@ -864,9 +864,7 @@
     "update_action_later": "नंतर",
     "update_action_skip_version": "ही आवृत्ती वगळा",
     "update_action_update_now": "आत्ता अपडेट करा",
-    "update_available_message": "App Store वर नवीन आवृत्ती (%1$@) उपलब्ध आहे. आत्ता अपडेट करायचे?",
     "update_available_title": "अपडेट उपलब्ध",
-    "update_check_failed_message": "App Store पर्यंत पोहोचता आले नाही. नंतर पुन्हा प्रयत्न करा.",
     "update_check_failed_title": "तपासणी अयशस्वी",
     "update_required_action": "अपडेट करा",
     "update_required_message": "TigerDuck ची ही आवृत्ती आता सर्व्हरशी कनेक्ट होऊ शकत नाही. सिंक सुरू ठेवण्यासाठी नवीनतम आवृत्तीवर अपडेट करा.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "असाइनमेंट मुदत स्मरणपत्र सेटिंग्ज",
     "sync_content_live_activity": "Live Updates सेटिंग्ज",
+    "update_available_message": "Play Store वर नवीन आवृत्ती उपलब्ध आहे. आत्ता अपडेट करायचे?",
+    "update_check_failed_message": "Play Store पर्यंत पोहोचता आले नाही. नंतर पुन्हा प्रयत्न करा.",
     "vibration_settings_motor_warning": "काही फोनमध्ये कमी दर्जाचे व्हायब्रेशन मोटर असतात जे खूप कमकुवत किंवा खूप कमी कालावधीचे व्हायब्रेशन दुर्लक्षित करू शकतात. जर एखादी सेटिंग जाणवत नसेल, तर त्याची शक्ती किंवा लांबी वाढवण्याचा प्रयत्न करा. तुम्ही प्रथम \"मध्यम\" प्रीसेट वापरून पाहू शकता।",
     "vibration_settings_revert": "डीफॉल्टवर रीसेट करा",
     "vibration_settings_section_length_ms": "कालावधी (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync चालू करा",
     "sync_content_assignment_reminders": "असाइनमेंट मुदत स्मरणपत्रे",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "प्लॅटफॉर्मच्या मर्यादांमुळे, हे बंद केल्यास Live Activity आणि असाइनमेंट मुदत स्मरणपत्रे देखील अक्षम होतील."
+    "sync_courses_footer_platform_note": "प्लॅटफॉर्मच्या मर्यादांमुळे, हे बंद केल्यास Live Activity आणि असाइनमेंट मुदत स्मरणपत्रे देखील अक्षम होतील.",
+    "update_available_message": "App Store वर नवीन आवृत्ती (%1$@) उपलब्ध आहे. आत्ता अपडेट करायचे?",
+    "update_check_failed_message": "App Store पर्यंत पोहोचता आले नाही. नंतर पुन्हा प्रयत्न करा."
   },
   "backend": {
     "notification_reauth_required_body": "Moodle चे कनेक्शन कालबाह्य झाले आहे. सिंक पुन्हा सुरू करण्यासाठी TigerDuck उघडा आणि पुन्हा साइन इन करा.",

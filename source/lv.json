@@ -864,9 +864,7 @@
     "update_action_later": "Vēlāk",
     "update_action_skip_version": "Izlaist šo versiju",
     "update_action_update_now": "Atjaunināt tagad",
-    "update_available_message": "App Store ir pieejama jauna versija (%1$@). Vai vēlaties atjaunināt tagad?",
     "update_available_title": "Pieejams atjauninājums",
-    "update_check_failed_message": "Neizdevās sasniegt App Store. Mēģiniet vēlāk.",
     "update_check_failed_title": "Pārbaude neizdevās",
     "update_required_action": "Atjaunināt",
     "update_required_message": "Šī TigerDuck versija vairs nevar izveidot savienojumu ar serveri. Atjauniniet uz jaunāko versiju, lai turpinātu sinhronizāciju.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Uzdevumu termiņa atgādinājumu iestatījumi",
     "sync_content_live_activity": "Live Updates iestatījumi",
+    "update_available_message": "Play Store ir pieejama jauna versija. Vai vēlaties atjaunināt tagad?",
+    "update_check_failed_message": "Neizdevās sasniegt Play Store. Mēģiniet vēlāk.",
     "vibration_settings_motor_warning": "Dažiem telefoniem ir zemākas kvalitātes vibrācijas motori, kas var ignorēt ļoti vājas vai ļoti īsas vibrācijas. Ja nevarat sajust kādu iestatījumu, mēģiniet palielināt tā stiprumu vai ilgumu. Varat sākt, izmēģinot \"Vidējs\" sākotnējo iestatījumu.",
     "vibration_settings_revert": "Atjaunot noklusējumu",
     "vibration_settings_section_length_ms": "Ilgums (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Ieslēgt TigerSync",
     "sync_content_assignment_reminders": "Uzdevumu termiņa atgādinājumi",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Platformas ierobežojumu dēļ šī izslēgšana atspējo arī Live Activity un uzdevumu termiņa atgādinājumus."
+    "sync_courses_footer_platform_note": "Platformas ierobežojumu dēļ šī izslēgšana atspējo arī Live Activity un uzdevumu termiņa atgādinājumus.",
+    "update_available_message": "App Store ir pieejama jauna versija (%1$@). Vai vēlaties atjaunināt tagad?",
+    "update_check_failed_message": "Neizdevās sasniegt App Store. Mēģiniet vēlāk."
   },
   "backend": {
     "notification_reauth_required_body": "Savienojuma ar Moodle derīguma termiņš ir beidzies. Atveriet TigerDuck un piesakieties vēlreiz, lai sinhronizācija atsāktos.",

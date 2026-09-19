@@ -864,9 +864,7 @@
     "update_action_later": "Αργότερα",
     "update_action_skip_version": "Παράλειψη αυτής της έκδοσης",
     "update_action_update_now": "Ενημέρωση τώρα",
-    "update_available_message": "Μια νέα έκδοση (%1$@) είναι διαθέσιμη στο App Store. Θέλετε να ενημερώσετε τώρα;",
     "update_available_title": "Διαθέσιμη ενημέρωση",
-    "update_check_failed_message": "Δεν ήταν δυνατή η πρόσβαση στο App Store. Δοκιμάστε ξανά αργότερα.",
     "update_check_failed_title": "Αποτυχία ελέγχου",
     "update_required_action": "Ενημέρωση",
     "update_required_message": "Αυτή η έκδοση του TigerDuck δεν μπορεί πλέον να συνδεθεί στον διακομιστή. Ενημερώστε στην πιο πρόσφατη έκδοση για να συνεχίσετε τον συγχρονισμό.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Ρυθμίσεις υπενθυμίσεων λήξης εργασίας",
     "sync_content_live_activity": "Ρυθμίσεις Live Updates",
+    "update_available_message": "Μια νέα έκδοση είναι διαθέσιμη στο Play Store. Θέλετε να ενημερώσετε τώρα;",
+    "update_check_failed_message": "Δεν ήταν δυνατή η πρόσβαση στο Play Store. Δοκιμάστε ξανά αργότερα.",
     "vibration_settings_motor_warning": "Ορισμένα τηλέφωνα διαθέτουν κινητήρες δόνησης χαμηλότερης ποιότητας που ενδέχεται να αγνοούν πολύ αδύναμες ή πολύ σύντομες δονήσεις. Αν δεν αισθάνεστε μια ρύθμιση, δοκιμάστε να αυξήσετε την ένταση ή τη διάρκειά της. Μπορείτε να ξεκινήσετε δοκιμάζοντας την προεπιλογή \"Μέτριο\".",
     "vibration_settings_revert": "Επαναφορά προεπιλογής",
     "vibration_settings_section_length_ms": "Διάρκεια (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Ενεργοποίηση TigerSync",
     "sync_content_assignment_reminders": "Υπενθυμίσεις λήξης εργασίας",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Λόγω περιορισμών της πλατφόρμας, η απενεργοποίηση αυτού απενεργοποιεί επίσης το Live Activity και τις υπενθυμίσεις λήξης εργασίας."
+    "sync_courses_footer_platform_note": "Λόγω περιορισμών της πλατφόρμας, η απενεργοποίηση αυτού απενεργοποιεί επίσης το Live Activity και τις υπενθυμίσεις λήξης εργασίας.",
+    "update_available_message": "Μια νέα έκδοση (%1$@) είναι διαθέσιμη στο App Store. Θέλετε να ενημερώσετε τώρα;",
+    "update_check_failed_message": "Δεν ήταν δυνατή η πρόσβαση στο App Store. Δοκιμάστε ξανά αργότερα."
   },
   "backend": {
     "notification_reauth_required_body": "Η σύνδεση με το Moodle έληξε. Ανοίξτε το TigerDuck και συνδεθείτε ξανά για να συνεχιστεί ο συγχρονισμός.",

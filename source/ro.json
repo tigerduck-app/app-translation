@@ -864,9 +864,7 @@
     "update_action_later": "Mai târziu",
     "update_action_skip_version": "Omiteți această versiune",
     "update_action_update_now": "Actualizați acum",
-    "update_available_message": "O versiune nouă (%1$@) este disponibilă în App Store. Doriți să actualizați acum?",
     "update_available_title": "Actualizare disponibilă",
-    "update_check_failed_message": "Nu s-a putut contacta App Store. Încercați din nou mai târziu.",
     "update_check_failed_title": "Verificare eșuată",
     "update_required_action": "Actualizează",
     "update_required_message": "Această versiune TigerDuck nu se mai poate conecta la server. Actualizează la cea mai recentă versiune pentru a continua sincronizarea.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Setări remindere teme scadente",
     "sync_content_live_activity": "Setări Live Updates",
+    "update_available_message": "O versiune nouă este disponibilă în Play Store. Doriți să actualizați acum?",
+    "update_check_failed_message": "Nu s-a putut contacta Play Store. Încercați din nou mai târziu.",
     "vibration_settings_motor_warning": "Unele telefoane au motoare de vibrație de calitate mai scăzută care pot ignora vibrațiile foarte slabe sau foarte scurte. Dacă nu simțiți o setare, încercați să îi creșteți intensitatea sau durata. Puteți începe încercând mai întâi presetul \"Mediu\".",
     "vibration_settings_revert": "Restabilire implicită",
     "vibration_settings_section_length_ms": "Durată (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Activare TigerSync",
     "sync_content_assignment_reminders": "Remindere teme scadente",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Din cauza limitărilor platformei, dezactivarea acestei opțiuni dezactivează și Live Activity și reminderele pentru teme scadente."
+    "sync_courses_footer_platform_note": "Din cauza limitărilor platformei, dezactivarea acestei opțiuni dezactivează și Live Activity și reminderele pentru teme scadente.",
+    "update_available_message": "O versiune nouă (%1$@) este disponibilă în App Store. Doriți să actualizați acum?",
+    "update_check_failed_message": "Nu s-a putut contacta App Store. Încercați din nou mai târziu."
   },
   "backend": {
     "notification_reauth_required_body": "Conexiunea cu Moodle a expirat. Deschideți TigerDuck și autentificați-vă din nou pentru a relua sincronizarea.",

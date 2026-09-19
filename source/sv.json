@@ -864,9 +864,7 @@
     "update_action_later": "Senare",
     "update_action_skip_version": "Hoppa över den här versionen",
     "update_action_update_now": "Uppdatera nu",
-    "update_available_message": "En ny version (%1$@) finns tillgänglig i App Store. Vill du uppdatera nu?",
     "update_available_title": "Uppdatering tillgänglig",
-    "update_check_failed_message": "Det gick inte att nå App Store. Försök igen senare.",
     "update_check_failed_title": "Kontroll misslyckades",
     "update_required_action": "Uppdatera",
     "update_required_message": "Den här versionen av TigerDuck kan inte längre ansluta till servern. Uppdatera till den senaste versionen för att fortsätta synkronisera.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Inställningar för påminnelser om uppgifter",
     "sync_content_live_activity": "Live Updates-inställningar",
+    "update_available_message": "En ny version finns tillgänglig i Play Store. Vill du uppdatera nu?",
+    "update_check_failed_message": "Det gick inte att nå Play Store. Försök igen senare.",
     "vibration_settings_motor_warning": "Vissa telefoner har vibrationsmotorer av lägre kvalitet som kan ignorera mycket svaga eller mycket korta vibrationer. Om du inte kan känna en inställning, prova att öka dess styrka eller längd. Du kan börja med att prova förinställningen \"Medel\".",
     "vibration_settings_revert": "Återställ standard",
     "vibration_settings_section_length_ms": "Varaktighet (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Aktivera TigerSync",
     "sync_content_assignment_reminders": "Påminnelser om uppgifter",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "På grund av plattformsbegränsningar inaktiverar avstängning av detta även Live Activity och påminnelser om uppgifter."
+    "sync_courses_footer_platform_note": "På grund av plattformsbegränsningar inaktiverar avstängning av detta även Live Activity och påminnelser om uppgifter.",
+    "update_available_message": "En ny version (%1$@) finns tillgänglig i App Store. Vill du uppdatera nu?",
+    "update_check_failed_message": "Det gick inte att nå App Store. Försök igen senare."
   },
   "backend": {
     "notification_reauth_required_body": "Anslutningen till Moodle har upphört att gälla. Öppna TigerDuck och logga in igen för att återuppta synkroniseringen.",

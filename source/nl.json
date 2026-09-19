@@ -864,9 +864,7 @@
     "update_action_later": "Later",
     "update_action_skip_version": "Deze versie overslaan",
     "update_action_update_now": "Nu bijwerken",
-    "update_available_message": "Een nieuwe versie (%1$@) is beschikbaar in de App Store. Wil je nu bijwerken?",
     "update_available_title": "Update beschikbaar",
-    "update_check_failed_message": "Kon de App Store niet bereiken. Probeer het later opnieuw.",
     "update_check_failed_title": "Controle mislukt",
     "update_required_action": "Bijwerken",
     "update_required_message": "Deze versie van TigerDuck kan geen verbinding meer maken met de server. Werk bij naar de nieuwste versie om te blijven synchroniseren.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Instellingen voor herinneringen aan opdrachtdeadlines",
     "sync_content_live_activity": "Instellingen voor Live Updates",
+    "update_available_message": "Een nieuwe versie is beschikbaar in de Play Store. Wil je nu bijwerken?",
+    "update_check_failed_message": "Kon de Play Store niet bereiken. Probeer het later opnieuw.",
     "vibration_settings_motor_warning": "Sommige telefoons hebben vibratieomoren van lagere kwaliteit die zeer zwakke of zeer korte trillingen kunnen negeren. Als u een instelling niet voelt, probeer dan de sterkte of lengte te verhogen. U kunt beginnen met het uitproberen van de voorinstelling \"Gemiddeld\".",
     "vibration_settings_revert": "Standaard herstellen",
     "vibration_settings_section_length_ms": "Duur (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync inschakelen",
     "sync_content_assignment_reminders": "Herinneringen voor opdrachtdeadlines",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Vanwege platformbeperkingen schakelt het uitzetten hiervan ook Live Activity en herinneringen voor opdrachtdeadlines uit."
+    "sync_courses_footer_platform_note": "Vanwege platformbeperkingen schakelt het uitzetten hiervan ook Live Activity en herinneringen voor opdrachtdeadlines uit.",
+    "update_available_message": "Een nieuwe versie (%1$@) is beschikbaar in de App Store. Wil je nu bijwerken?",
+    "update_check_failed_message": "Kon de App Store niet bereiken. Probeer het later opnieuw."
   },
   "backend": {
     "notification_reauth_required_body": "De verbinding met Moodle is verlopen. Open TigerDuck en log opnieuw in om het synchroniseren te hervatten.",

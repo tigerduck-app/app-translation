@@ -864,9 +864,7 @@
     "update_action_later": "Daha sonra",
     "update_action_skip_version": "Bu sürümü atla",
     "update_action_update_now": "Şimdi güncelle",
-    "update_available_message": "App Store'da yeni bir sürüm (%1$@) mevcut. Şimdi güncellemek ister misiniz?",
     "update_available_title": "Güncelleme mevcut",
-    "update_check_failed_message": "App Store'a ulaşılamadı. Lütfen daha sonra tekrar deneyin.",
     "update_check_failed_title": "Denetim başarısız",
     "update_required_action": "Güncelle",
     "update_required_message": "TigerDuck'ın bu sürümü artık sunucuya bağlanamıyor. Eşitlemeye devam etmek için en son sürüme güncelleyin.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Ödev teslim hatırlatıcısı ayarları",
     "sync_content_live_activity": "Live Updates ayarları",
+    "update_available_message": "Play Store'da yeni bir sürüm mevcut. Şimdi güncellemek ister misiniz?",
+    "update_check_failed_message": "Play Store'a ulaşılamadı. Lütfen daha sonra tekrar deneyin.",
     "vibration_settings_motor_warning": "Bazı telefonlarda çok zayıf veya çok kısa titreşimleri görmezden gelebilecek daha düşük kaliteli titreşim motorları bulunur. Bir ayarı hissedemiyorsanız gücünü veya uzunluğunu artırmayı deneyin. \"Orta\" ön ayarını deneyerek başlayabilirsiniz.",
     "vibration_settings_revert": "Varsayılana sıfırla",
     "vibration_settings_section_length_ms": "Süre (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync'i etkinleştir",
     "sync_content_assignment_reminders": "Ödev teslim hatırlatıcıları",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Platform sınırlamaları nedeniyle bunu kapatmak Live Activity özelliğini ve ödev teslim hatırlatıcılarını da devre dışı bırakır."
+    "sync_courses_footer_platform_note": "Platform sınırlamaları nedeniyle bunu kapatmak Live Activity özelliğini ve ödev teslim hatırlatıcılarını da devre dışı bırakır.",
+    "update_available_message": "App Store'da yeni bir sürüm (%1$@) mevcut. Şimdi güncellemek ister misiniz?",
+    "update_check_failed_message": "App Store'a ulaşılamadı. Lütfen daha sonra tekrar deneyin."
   },
   "backend": {
     "notification_reauth_required_body": "Moodle bağlantısının süresi doldu. Eşitlemenin devam etmesi için TigerDuck uygulamasını açıp yeniden giriş yapın.",

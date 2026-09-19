@@ -864,9 +864,7 @@
     "update_action_later": "Později",
     "update_action_skip_version": "Přeskočit tuto verzi",
     "update_action_update_now": "Aktualizovat nyní",
-    "update_available_message": "V App Store je k dispozici nová verze (%1$@). Chcete aktualizovat nyní?",
     "update_available_title": "Dostupná aktualizace",
-    "update_check_failed_message": "Nepodařilo se připojit k App Store. Zkuste to prosím později.",
     "update_check_failed_title": "Kontrola se nezdařila",
     "update_required_action": "Aktualizovat",
     "update_required_message": "Tato verze aplikace TigerDuck se již nemůže připojit k serveru. Aktualizujte na nejnovější verzi, abyste mohli dál synchronizovat.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Nastavení upozornění na blížící se termín úkolu",
     "sync_content_live_activity": "Nastavení Live Updates",
+    "update_available_message": "V Play Store je k dispozici nová verze. Chcete aktualizovat nyní?",
+    "update_check_failed_message": "Nepodařilo se připojit k Play Store. Zkuste to prosím později.",
     "vibration_settings_motor_warning": "Některé telefony mají vibromotorek nižší kvality, který může ignorovat velmi slabé nebo velmi krátké vibrace. Pokud nastavení necítíte, zkuste zvýšit jeho sílu nebo délku. Můžete začít vyzkoušením předvolby \"Střední\".",
     "vibration_settings_revert": "Obnovit výchozí",
     "vibration_settings_section_length_ms": "Délka (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Zapnout TigerSync",
     "sync_content_assignment_reminders": "Upozornění na blížící se termín úkolu",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Kvůli omezením platformy vypnutí této možnosti zároveň vypne i Live Activity a upozornění na termíny úkolů."
+    "sync_courses_footer_platform_note": "Kvůli omezením platformy vypnutí této možnosti zároveň vypne i Live Activity a upozornění na termíny úkolů.",
+    "update_available_message": "V App Store je k dispozici nová verze (%1$@). Chcete aktualizovat nyní?",
+    "update_check_failed_message": "Nepodařilo se připojit k App Store. Zkuste to prosím později."
   },
   "backend": {
     "notification_reauth_required_body": "Platnost připojení k Moodle vypršela. Otevřete TigerDuck a znovu se přihlaste, aby se synchronizace obnovila.",

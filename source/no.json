@@ -864,9 +864,7 @@
     "update_action_later": "Senere",
     "update_action_skip_version": "Hopp over denne versjonen",
     "update_action_update_now": "Oppdater nå",
-    "update_available_message": "En ny versjon (%1$@) er tilgjengelig i App Store. Vil du oppdatere nå?",
     "update_available_title": "Oppdatering tilgjengelig",
-    "update_check_failed_message": "Kunne ikke nå App Store. Prøv igjen senere.",
     "update_check_failed_title": "Sjekk mislyktes",
     "update_required_action": "Oppdater",
     "update_required_message": "Denne versjonen av TigerDuck kan ikke lenger koble til serveren. Oppdater til nyeste versjon for å fortsette synkroniseringen.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Innstillinger for påminnelser om oppgavefrist",
     "sync_content_live_activity": "Innstillinger for Live Updates",
+    "update_available_message": "En ny versjon er tilgjengelig i Play Store. Vil du oppdatere nå?",
+    "update_check_failed_message": "Kunne ikke nå Play Store. Prøv igjen senere.",
     "vibration_settings_motor_warning": "Noen telefoner har vibrasjonsmotorer av lavere kvalitet som kan ignorere veldig svake eller veldig korte vibrasjoner. Hvis du ikke kan kjenne en innstilling, prøv å øke styrken eller lengden. Du kan begynne med å prøve \"Middels\" forhåndsinnstillingen.",
     "vibration_settings_revert": "Gjenopprett standard",
     "vibration_settings_section_length_ms": "Varighet (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Aktiver TigerSync",
     "sync_content_assignment_reminders": "Påminnelser om oppgavefrist",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "På grunn av plattformbegrensninger deaktiverer det å slå av dette også Live Activity og påminnelser om oppgavefrist."
+    "sync_courses_footer_platform_note": "På grunn av plattformbegrensninger deaktiverer det å slå av dette også Live Activity og påminnelser om oppgavefrist.",
+    "update_available_message": "En ny versjon (%1$@) er tilgjengelig i App Store. Vil du oppdatere nå?",
+    "update_check_failed_message": "Kunne ikke nå App Store. Prøv igjen senere."
   },
   "backend": {
     "notification_reauth_required_body": "Tilkoblingen til Moodle er utløpt. Åpne TigerDuck og logg inn på nytt for å gjenoppta synkroniseringen.",

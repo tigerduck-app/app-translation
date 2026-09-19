@@ -864,9 +864,7 @@
     "update_action_later": "後で",
     "update_action_skip_version": "このバージョンをスキップ",
     "update_action_update_now": "今すぐ更新",
-    "update_available_message": "App Store に新しいバージョン (%1$@) があります。今すぐ更新しますか？",
     "update_available_title": "アップデートあり",
-    "update_check_failed_message": "App Store に接続できませんでした。後でもう一度お試しください。",
     "update_check_failed_title": "確認に失敗",
     "update_required_action": "アップデート",
     "update_required_message": "このバージョンの TigerDuck はサーバーに接続できなくなりました。同期を続けるには最新バージョンにアップデートしてください。",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "課題の期限リマインダーの設定",
     "sync_content_live_activity": "Live Updates の設定",
+    "update_available_message": "Play ストアに新しいバージョンがあります。今すぐ更新しますか？",
+    "update_check_failed_message": "Play ストアに接続できませんでした。後でもう一度お試しください。",
     "vibration_settings_motor_warning": "一部のスマートフォンは振動モーターの品質が低く、非常に弱い振動や非常に短い振動を無視することがあります。設定を感じられない場合は、強度や長さを上げてみてください。まず「中間」のプリセットから試してみることをお勧めします。",
     "vibration_settings_revert": "デフォルトに戻す",
     "vibration_settings_section_length_ms": "長さ (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync を有効にする",
     "sync_content_assignment_reminders": "課題の期限リマインダー",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "プラットフォームの制限により、これをオフにすると Live Activity と課題の期限リマインダーも無効になります。"
+    "sync_courses_footer_platform_note": "プラットフォームの制限により、これをオフにすると Live Activity と課題の期限リマインダーも無効になります。",
+    "update_available_message": "App Store に新しいバージョン (%1$@) があります。今すぐ更新しますか？",
+    "update_check_failed_message": "App Store に接続できませんでした。後でもう一度お試しください。"
   },
   "backend": {
     "notification_reauth_required_body": "Moodle との接続の有効期限が切れました。TigerDuck を開いて再度サインインすると同期が再開されます。",

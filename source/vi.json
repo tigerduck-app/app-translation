@@ -864,9 +864,7 @@
     "update_action_later": "Để sau",
     "update_action_skip_version": "Bỏ qua phiên bản này",
     "update_action_update_now": "Cập nhật ngay",
-    "update_available_message": "Phiên bản mới (%1$@) đã có trên App Store. Bạn có muốn cập nhật ngay không?",
     "update_available_title": "Có bản cập nhật",
-    "update_check_failed_message": "Không thể kết nối App Store. Vui lòng thử lại sau.",
     "update_check_failed_title": "Kiểm tra thất bại",
     "update_required_action": "Cập nhật",
     "update_required_message": "Phiên bản TigerDuck này không còn kết nối được với máy chủ. Hãy cập nhật lên phiên bản mới nhất để tiếp tục đồng bộ.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Cài đặt lời nhắc hạn nộp bài tập",
     "sync_content_live_activity": "Cài đặt Live Updates",
+    "update_available_message": "Phiên bản mới đã có trên Play Store. Bạn có muốn cập nhật ngay không?",
+    "update_check_failed_message": "Không thể kết nối Play Store. Vui lòng thử lại sau.",
     "vibration_settings_motor_warning": "Một số điện thoại có động cơ rung chất lượng thấp hơn có thể bỏ qua những rung động rất yếu hoặc rất ngắn. Nếu bạn không cảm nhận được một cài đặt, hãy thử tăng cường độ hoặc độ dài của nó. Bạn có thể bắt đầu bằng cách thử cài đặt trước \"Vừa\" trước.",
     "vibration_settings_revert": "Đặt lại mặc định",
     "vibration_settings_section_length_ms": "Thời lượng (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Bật TigerSync",
     "sync_content_assignment_reminders": "Lời nhắc hạn nộp bài tập",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Do giới hạn nền tảng, tắt tính năng này cũng sẽ vô hiệu hoá Live Activity và nhắc bài tập sắp đến hạn."
+    "sync_courses_footer_platform_note": "Do giới hạn nền tảng, tắt tính năng này cũng sẽ vô hiệu hoá Live Activity và nhắc bài tập sắp đến hạn.",
+    "update_available_message": "Phiên bản mới (%1$@) đã có trên App Store. Bạn có muốn cập nhật ngay không?",
+    "update_check_failed_message": "Không thể kết nối App Store. Vui lòng thử lại sau."
   },
   "backend": {
     "notification_reauth_required_body": "Kết nối với Moodle đã hết hạn. Mở TigerDuck và đăng nhập lại để tiếp tục đồng bộ.",

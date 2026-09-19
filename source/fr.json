@@ -864,9 +864,7 @@
     "update_action_later": "Plus tard",
     "update_action_skip_version": "Ignorer cette version",
     "update_action_update_now": "Mettre à jour maintenant",
-    "update_available_message": "Une nouvelle version (%1$@) est disponible sur l'App Store. Voulez-vous mettre à jour maintenant ?",
     "update_available_title": "Mise à jour disponible",
-    "update_check_failed_message": "Impossible de contacter l'App Store. Réessayez plus tard.",
     "update_check_failed_title": "Échec de la vérification",
     "update_required_action": "Mettre à jour",
     "update_required_message": "Cette version de TigerDuck ne peut plus se connecter au serveur. Mettez à jour vers la dernière version pour continuer la synchronisation.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Paramètres des rappels d'échéance des devoirs",
     "sync_content_live_activity": "Paramètres de Live Updates",
+    "update_available_message": "Une nouvelle version est disponible sur le Play Store. Voulez-vous mettre à jour maintenant ?",
+    "update_check_failed_message": "Impossible de contacter le Play Store. Réessayez plus tard.",
     "vibration_settings_motor_warning": "Certains téléphones sont équipés de moteurs de vibration de moindre qualité qui peuvent ignorer les vibrations très faibles ou très courtes. Si vous ne ressentez pas un réglage, essayez d'augmenter son intensité ou sa durée. Vous pouvez commencer par essayer le préréglage \"Moyen\".",
     "vibration_settings_revert": "Rétablir par défaut",
     "vibration_settings_section_length_ms": "Durée (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Activer TigerSync",
     "sync_content_assignment_reminders": "Rappels d'échéance des devoirs",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "En raison des limites de la plateforme, désactiver cette option désactive également Live Activity et les rappels d'échéance des devoirs."
+    "sync_courses_footer_platform_note": "En raison des limites de la plateforme, désactiver cette option désactive également Live Activity et les rappels d'échéance des devoirs.",
+    "update_available_message": "Une nouvelle version (%1$@) est disponible sur l'App Store. Voulez-vous mettre à jour maintenant ?",
+    "update_check_failed_message": "Impossible de contacter l'App Store. Réessayez plus tard."
   },
   "backend": {
     "notification_reauth_required_body": "La connexion à Moodle a expiré. Ouvrez TigerDuck et reconnectez-vous pour reprendre la synchronisation.",

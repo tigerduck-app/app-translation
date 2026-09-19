@@ -864,9 +864,7 @@
     "update_action_later": "പിന്നീട്",
     "update_action_skip_version": "ഈ പതിപ്പ് ഒഴിവാക്കുക",
     "update_action_update_now": "ഇപ്പോൾ അപ്‌ഡേറ്റ് ചെയ്യുക",
-    "update_available_message": "App Store-ൽ പുതിയ പതിപ്പ് (%1$@) ലഭ്യമാണ്. ഇപ്പോൾ അപ്‌ഡേറ്റ് ചെയ്യണോ?",
     "update_available_title": "അപ്‌ഡേറ്റ് ലഭ്യമാണ്",
-    "update_check_failed_message": "App Store-ലേക്ക് എത്തിച്ചേരാൻ കഴിഞ്ഞില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.",
     "update_check_failed_title": "പരിശോധന പരാജയപ്പെട്ടു",
     "update_required_action": "അപ്‌ഡേറ്റ്",
     "update_required_message": "TigerDuck-ന്റെ ഈ പതിപ്പിന് ഇനി സെർവറുമായി കണക്റ്റ് ചെയ്യാൻ കഴിയില്ല. സമന്വയം തുടരാൻ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റ് ചെയ്യുക.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തൽ ക്രമീകരണങ്ങൾ",
     "sync_content_live_activity": "Live Updates ക്രമീകരണങ്ങൾ",
+    "update_available_message": "Play Store-ൽ പുതിയ പതിപ്പ് ലഭ്യമാണ്. ഇപ്പോൾ അപ്‌ഡേറ്റ് ചെയ്യണോ?",
+    "update_check_failed_message": "Play Store-ലേക്ക് എത്തിച്ചേരാൻ കഴിഞ്ഞില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.",
     "vibration_settings_motor_warning": "ചില ഫോണുകളിൽ നിലവാരം കുറഞ്ഞ വൈബ്രേഷൻ മോട്ടോറുകൾ ഉണ്ട്, അവ വളരെ ദുർബലമോ വളരെ ചെറുതോ ആയ വൈബ്രേഷനുകൾ അവഗണിക്കാം. ഒരു ക്രമീകരണം അനുഭവപ്പെടുന്നില്ലെങ്കിൽ, അതിന്റെ ശക്തി അല്ലെങ്കിൽ ദൈർഘ്യം വർദ്ധിപ്പിക്കാൻ ശ്രമിക്കൂ. ആദ്യം \"ഇടത്തരം\" പ്രീസെറ്റ് പരീക്ഷിക്കുന്നതിൽ നിന്ന് ആരംഭിക്കാം.",
     "vibration_settings_revert": "ഡിഫോൾട്ടിലേക്ക് പുനഃസജ്ജമാക്കുക",
     "vibration_settings_section_length_ms": "ദൈർഘ്യം (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync പ്രവർത്തനക്ഷമമാക്കുക",
     "sync_content_assignment_reminders": "അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തലുകൾ",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "പ്ലാറ്റ്‌ഫോം പരിമിതികൾ കാരണം, ഇത് ഓഫാക്കിയാൽ Live Activity, അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തലുകൾ എന്നിവ കൂടി പ്രവർത്തനരഹിതമാകും."
+    "sync_courses_footer_platform_note": "പ്ലാറ്റ്‌ഫോം പരിമിതികൾ കാരണം, ഇത് ഓഫാക്കിയാൽ Live Activity, അസൈൻമെന്റ് സമയ ഓർമ്മപ്പെടുത്തലുകൾ എന്നിവ കൂടി പ്രവർത്തനരഹിതമാകും.",
+    "update_available_message": "App Store-ൽ പുതിയ പതിപ്പ് (%1$@) ലഭ്യമാണ്. ഇപ്പോൾ അപ്‌ഡേറ്റ് ചെയ്യണോ?",
+    "update_check_failed_message": "App Store-ലേക്ക് എത്തിച്ചേരാൻ കഴിഞ്ഞില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
   },
   "backend": {
     "notification_reauth_required_body": "Moodle-മായുള്ള കണക്ഷൻ കാലഹരണപ്പെട്ടു. സിങ്ക് തുടരാൻ TigerDuck തുറന്ന് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.",

@@ -864,9 +864,7 @@
     "update_action_later": "Később",
     "update_action_skip_version": "Verzió kihagyása",
     "update_action_update_now": "Frissítés most",
-    "update_available_message": "Új verzió (%1$@) érhető el az App Store-ban. Szeretnéd most frissíteni?",
     "update_available_title": "Frissítés elérhető",
-    "update_check_failed_message": "Az App Store nem érhető el. Próbáld újra később.",
     "update_check_failed_title": "Az ellenőrzés sikertelen",
     "update_required_action": "Frissítés",
     "update_required_message": "A TigerDuck ezen verziója már nem tud csatlakozni a szerverhez. Frissíts a legújabb verzióra a szinkronizálás folytatásához.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Házi feladat határidő emlékeztetők beállításai",
     "sync_content_live_activity": "Live Updates beállítások",
+    "update_available_message": "Új verzió érhető el a Play Store-ban. Szeretnéd most frissíteni?",
+    "update_check_failed_message": "A Play Store nem érhető el. Próbáld újra később.",
     "vibration_settings_motor_warning": "Egyes telefonokon alacsonyabb minőségű vibrációs motor van, amely figyelmen kívül hagyhatja a nagyon gyenge vagy nagyon rövid rezgéseket. Ha nem érez egy beállítást, próbálja növelni annak erősségét vagy hosszát. Kezdheti a \"Közepes\" előbeállítás kipróbálásával.",
     "vibration_settings_revert": "Alapértelmezett visszaállítása",
     "vibration_settings_section_length_ms": "Időtartam (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "TigerSync engedélyezése",
     "sync_content_assignment_reminders": "Házi feladat határidő emlékeztetők",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "A platform korlátai miatt ennek kikapcsolása letiltja a Live Activity funkciót és a házi feladat határidő emlékeztetőket is."
+    "sync_courses_footer_platform_note": "A platform korlátai miatt ennek kikapcsolása letiltja a Live Activity funkciót és a házi feladat határidő emlékeztetőket is.",
+    "update_available_message": "Új verzió (%1$@) érhető el az App Store-ban. Szeretnéd most frissíteni?",
+    "update_check_failed_message": "Az App Store nem érhető el. Próbáld újra később."
   },
   "backend": {
     "notification_reauth_required_body": "A Moodle-kapcsolat lejárt. Nyissa meg a TigerDuck alkalmazást, és jelentkezzen be újra a szinkronizálás folytatásához.",

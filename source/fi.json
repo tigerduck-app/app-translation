@@ -864,9 +864,7 @@
     "update_action_later": "Myöhemmin",
     "update_action_skip_version": "Ohita tämä versio",
     "update_action_update_now": "Päivitä nyt",
-    "update_available_message": "App Storessa on saatavilla uusi versio (%1$@). Haluatko päivittää nyt?",
     "update_available_title": "Päivitys saatavilla",
-    "update_check_failed_message": "App Storeen ei saatu yhteyttä. Yritä myöhemmin uudelleen.",
     "update_check_failed_title": "Tarkistus epäonnistui",
     "update_required_action": "Päivitä",
     "update_required_message": "Tämä TigerDuckin versio ei voi enää muodostaa yhteyttä palvelimeen. Päivitä uusimpaan versioon jatkaaksesi synkronointia.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Tehtävän palautusmuistutusten asetukset",
     "sync_content_live_activity": "Live Updates -asetukset",
+    "update_available_message": "Play Storessa on saatavilla uusi versio. Haluatko päivittää nyt?",
+    "update_check_failed_message": "Play Storeen ei saatu yhteyttä. Yritä myöhemmin uudelleen.",
     "vibration_settings_motor_warning": "Joillakin puhelimilla on heikomman laadun värinämoottorit, jotka saattavat jättää huomioimatta hyvin heikot tai hyvin lyhyet värinät. Jos et tunne asetusta, yritä lisätä sen voimakkuutta tai pituutta. Voit aloittaa kokeilemalla esiasetusta \"Keskipitkä\".",
     "vibration_settings_revert": "Palauta oletukseksi",
     "vibration_settings_section_length_ms": "Kesto (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Ota TigerSync käyttöön",
     "sync_content_assignment_reminders": "Tehtävän palautusmuistutukset",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Alustan rajoitusten vuoksi tämän kytkeminen pois päältä poistaa käytöstä myös Live Activity -toiminnon ja tehtävän palautusmuistutukset."
+    "sync_courses_footer_platform_note": "Alustan rajoitusten vuoksi tämän kytkeminen pois päältä poistaa käytöstä myös Live Activity -toiminnon ja tehtävän palautusmuistutukset.",
+    "update_available_message": "App Storessa on saatavilla uusi versio (%1$@). Haluatko päivittää nyt?",
+    "update_check_failed_message": "App Storeen ei saatu yhteyttä. Yritä myöhemmin uudelleen."
   },
   "backend": {
     "notification_reauth_required_body": "Moodle-yhteys on vanhentunut. Avaa TigerDuck ja kirjaudu uudelleen sisään, niin synkronointi jatkuu.",

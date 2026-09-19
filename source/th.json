@@ -864,9 +864,7 @@
     "update_action_later": "ภายหลัง",
     "update_action_skip_version": "ข้ามเวอร์ชันนี้",
     "update_action_update_now": "อัปเดตเดี๋ยวนี้",
-    "update_available_message": "มีเวอร์ชันใหม่ (%1$@) ใน App Store ต้องการอัปเดตตอนนี้ไหม?",
     "update_available_title": "มีการอัปเดต",
-    "update_check_failed_message": "ไม่สามารถเข้าถึง App Store ได้ ลองอีกครั้งในภายหลัง",
     "update_check_failed_title": "การตรวจสอบล้มเหลว",
     "update_required_action": "อัปเดต",
     "update_required_message": "TigerDuck เวอร์ชันนี้ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้อีกต่อไป อัปเดตเป็นเวอร์ชันล่าสุดเพื่อซิงค์ต่อ",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "การตั้งค่าการแจ้งเตือนกำหนดส่งการบ้าน",
     "sync_content_live_activity": "การตั้งค่า Live Updates",
+    "update_available_message": "มีเวอร์ชันใหม่ใน Play Store ต้องการอัปเดตตอนนี้ไหม?",
+    "update_check_failed_message": "ไม่สามารถเข้าถึง Play Store ได้ ลองอีกครั้งในภายหลัง",
     "vibration_settings_motor_warning": "โทรศัพท์บางรุ่นมีมอเตอร์สั่นคุณภาพต่ำที่อาจไม่ตอบสนองต่อการสั่นที่อ่อนมากหรือสั้นมาก หากคุณรู้สึกไม่ได้ถึงการตั้งค่า ให้ลองเพิ่มความแรงหรือความยาว คุณสามารถเริ่มต้นด้วยการลองใช้ค่าตั้งต้น \"ปานกลาง\" ก่อน",
     "vibration_settings_revert": "รีเซ็ตเป็นค่าเริ่มต้น",
     "vibration_settings_section_length_ms": "ระยะเวลา (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "เปิดใช้งานการTigerSync",
     "sync_content_assignment_reminders": "การแจ้งเตือนกำหนดส่งการบ้าน",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "เนื่องจากข้อจำกัดของแพลตฟอร์ม การปิดใช้งานนี้จะปิดใช้งาน Live Activity และการแจ้งเตือนการบ้านใกล้ครบกำหนดด้วย"
+    "sync_courses_footer_platform_note": "เนื่องจากข้อจำกัดของแพลตฟอร์ม การปิดใช้งานนี้จะปิดใช้งาน Live Activity และการแจ้งเตือนการบ้านใกล้ครบกำหนดด้วย",
+    "update_available_message": "มีเวอร์ชันใหม่ (%1$@) ใน App Store ต้องการอัปเดตตอนนี้ไหม?",
+    "update_check_failed_message": "ไม่สามารถเข้าถึง App Store ได้ ลองอีกครั้งในภายหลัง"
   },
   "backend": {
     "notification_reauth_required_body": "การเชื่อมต่อกับ Moodle หมดอายุแล้ว เปิด TigerDuck แล้วเข้าสู่ระบบอีกครั้งเพื่อให้การซิงค์ทำงานต่อ",

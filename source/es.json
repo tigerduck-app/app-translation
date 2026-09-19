@@ -864,9 +864,7 @@
     "update_action_later": "Más tarde",
     "update_action_skip_version": "Omitir esta versión",
     "update_action_update_now": "Actualizar ahora",
-    "update_available_message": "Hay una nueva versión (%1$@) disponible en el App Store. ¿Quieres actualizar ahora?",
     "update_available_title": "Actualización disponible",
-    "update_check_failed_message": "No se pudo conectar al App Store. Inténtalo más tarde.",
     "update_check_failed_title": "Error al comprobar",
     "update_required_action": "Actualizar",
     "update_required_message": "Esta versión de TigerDuck ya no puede conectarse al servidor. Actualiza a la última versión para seguir sincronizando.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Configuración de recordatorios de entrega de tareas",
     "sync_content_live_activity": "Configuración de Live Updates",
+    "update_available_message": "Hay una nueva versión disponible en la Play Store. ¿Quieres actualizar ahora?",
+    "update_check_failed_message": "No se pudo conectar a la Play Store. Inténtalo más tarde.",
     "vibration_settings_motor_warning": "Algunos teléfonos tienen motores de vibración de menor calidad que pueden ignorar vibraciones muy débiles o muy cortas. Si no puedes sentir una configuración, intenta aumentar su intensidad o duración. Puedes empezar probando el ajuste preestablecido \"Medio\".",
     "vibration_settings_revert": "Restablecer por defecto",
     "vibration_settings_section_length_ms": "Duración (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Activar TigerSync",
     "sync_content_assignment_reminders": "Recordatorios de entrega de tareas",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Debido a las limitaciones de la plataforma, desactivar esta opción también desactiva Live Activity y los recordatorios de entrega de tareas."
+    "sync_courses_footer_platform_note": "Debido a las limitaciones de la plataforma, desactivar esta opción también desactiva Live Activity y los recordatorios de entrega de tareas.",
+    "update_available_message": "Hay una nueva versión (%1$@) disponible en el App Store. ¿Quieres actualizar ahora?",
+    "update_check_failed_message": "No se pudo conectar al App Store. Inténtalo más tarde."
   },
   "backend": {
     "notification_reauth_required_body": "La conexión con Moodle ha caducado. Abre TigerDuck e inicia sesión de nuevo para reanudar la sincronización.",

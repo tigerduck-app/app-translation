@@ -864,9 +864,7 @@
     "update_action_later": "Później",
     "update_action_skip_version": "Pomiń tę wersję",
     "update_action_update_now": "Aktualizuj teraz",
-    "update_available_message": "Nowa wersja (%1$@) jest dostępna w App Store. Czy chcesz zaktualizować teraz?",
     "update_available_title": "Dostępna aktualizacja",
-    "update_check_failed_message": "Nie można połączyć się z App Store. Spróbuj ponownie później.",
     "update_check_failed_title": "Sprawdzanie nie powiodło się",
     "update_required_action": "Aktualizuj",
     "update_required_message": "Ta wersja TigerDuck nie może już połączyć się z serwerem. Zaktualizuj do najnowszej wersji, aby kontynuować synchronizację.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Ustawienia przypomnień o terminach zadań",
     "sync_content_live_activity": "Ustawienia Live Updates",
+    "update_available_message": "Nowa wersja jest dostępna w Play Store. Czy chcesz zaktualizować teraz?",
+    "update_check_failed_message": "Nie można połączyć się z Play Store. Spróbuj ponownie później.",
     "vibration_settings_motor_warning": "Niektóre telefony mają silniki wibracji niższej jakości, które mogą ignorować bardzo słabe lub bardzo krótkie wibracje. Jeśli nie czujesz ustawienia, spróbuj zwiększyć jego siłę lub długość. Możesz zacząć od wypróbowania ustawienia wstępnego \"Średni\".",
     "vibration_settings_revert": "Przywróć domyślne",
     "vibration_settings_section_length_ms": "Czas trwania (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Włącz TigerSync",
     "sync_content_assignment_reminders": "Przypomnienia o terminach zadań",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Ze względu na ograniczenia platformy, wyłączenie tej opcji wyłącza również Live Activity oraz przypomnienia o terminach zadań."
+    "sync_courses_footer_platform_note": "Ze względu na ograniczenia platformy, wyłączenie tej opcji wyłącza również Live Activity oraz przypomnienia o terminach zadań.",
+    "update_available_message": "Nowa wersja (%1$@) jest dostępna w App Store. Czy chcesz zaktualizować teraz?",
+    "update_check_failed_message": "Nie można połączyć się z App Store. Spróbuj ponownie później."
   },
   "backend": {
     "notification_reauth_required_body": "Połączenie z Moodle wygasło. Otwórz TigerDuck i zaloguj się ponownie, aby wznowić synchronizację.",

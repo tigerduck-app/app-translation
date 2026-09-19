@@ -864,9 +864,7 @@
     "update_action_later": "Kemudian",
     "update_action_skip_version": "Langkau versi ini",
     "update_action_update_now": "Kemas kini sekarang",
-    "update_available_message": "Versi baharu (%1$@) tersedia di App Store. Ingin kemas kini sekarang?",
     "update_available_title": "Kemas kini tersedia",
-    "update_check_failed_message": "Tidak dapat menghubungi App Store. Cuba lagi kemudian.",
     "update_check_failed_title": "Semakan gagal",
     "update_required_action": "Kemas kini",
     "update_required_message": "Versi TigerDuck ini tidak lagi boleh menyambung ke pelayan. Kemas kini kepada versi terkini untuk terus menyegerak.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Tetapan peringatan tugasan tamat tempoh",
     "sync_content_live_activity": "Tetapan Live Updates",
+    "update_available_message": "Versi baharu tersedia di Play Store. Ingin kemas kini sekarang?",
+    "update_check_failed_message": "Tidak dapat menghubungi Play Store. Cuba lagi kemudian.",
     "vibration_settings_motor_warning": "Sesetengah telefon mempunyai motor getaran berkualiti lebih rendah yang mungkin mengabaikan getaran yang sangat lemah atau sangat pendek. Jika anda tidak dapat merasai sesuatu tetapan, cuba naikkan kekuatan atau panjangnya. Anda boleh mula dengan mencuba pratetap \"Sederhana\" terlebih dahulu.",
     "vibration_settings_revert": "Tetapkan semula ke lalai",
     "vibration_settings_section_length_ms": "Tempoh (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Aktifkan TigerSync",
     "sync_content_assignment_reminders": "Peringatan tugasan tamat tempoh",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Disebabkan had platform, mematikan ini turut melumpuhkan Live Activity dan peringatan tugasan tamat tempoh."
+    "sync_courses_footer_platform_note": "Disebabkan had platform, mematikan ini turut melumpuhkan Live Activity dan peringatan tugasan tamat tempoh.",
+    "update_available_message": "Versi baharu (%1$@) tersedia di App Store. Ingin kemas kini sekarang?",
+    "update_check_failed_message": "Tidak dapat menghubungi App Store. Cuba lagi kemudian."
   },
   "backend": {
     "notification_reauth_required_body": "Sambungan ke Moodle telah tamat tempoh. Buka TigerDuck dan log masuk semula untuk menyambung semula penyegerakan.",

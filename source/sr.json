@@ -864,9 +864,7 @@
     "update_action_later": "Касније",
     "update_action_skip_version": "Прескочи ову верзију",
     "update_action_update_now": "Ажурирај сада",
-    "update_available_message": "Нова верзија (%1$@) је доступна у App Store-у. Желите ли да ажурирате сада?",
     "update_available_title": "Доступно ажурирање",
-    "update_check_failed_message": "Није могуће досегнути App Store. Покушајте поново касније.",
     "update_check_failed_title": "Провера није успела",
     "update_required_action": "Ажурирај",
     "update_required_message": "Ова верзија апликације TigerDuck више не може да се повеже са сервером. Ажурирајте на најновију верзију да бисте наставили синхронизацију.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Поставке подсетника за рок задатка",
     "sync_content_live_activity": "Поставке за Live Updates",
+    "update_available_message": "Нова верзија је доступна у Play Store-у. Желите ли да ажурирате сада?",
+    "update_check_failed_message": "Није могуће досегнути Play Store. Покушајте поново касније.",
     "vibration_settings_motor_warning": "Неки телефони имају вибромоторе нижег квалитета који могу игнорисати врло слабе или врло кратке вибрације. Ако не можете да осетите подешавање, покушајте да повећате његову јачину или дужину. Можете почети испробавањем предпоставке \"Средње\".",
     "vibration_settings_revert": "Врати на подразумевано",
     "vibration_settings_section_length_ms": "Трајање (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Укључи TigerSync",
     "sync_content_assignment_reminders": "Подсетници за рок задатка",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Због ограничења платформе, искључивање ове опције онемогућава и Live Activity и подсетнике за рок задатка."
+    "sync_courses_footer_platform_note": "Због ограничења платформе, искључивање ове опције онемогућава и Live Activity и подсетнике за рок задатка.",
+    "update_available_message": "Нова верзија (%1$@) је доступна у App Store-у. Желите ли да ажурирате сада?",
+    "update_check_failed_message": "Није могуће досегнути App Store. Покушајте поново касније."
   },
   "backend": {
     "notification_reauth_required_body": "Веза са услугом Moodle је истекла. Отворите TigerDuck и поново се пријавите да би се синхронизација наставила.",

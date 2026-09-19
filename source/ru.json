@@ -864,9 +864,7 @@
     "update_action_later": "Позже",
     "update_action_skip_version": "Пропустить эту версию",
     "update_action_update_now": "Обновить сейчас",
-    "update_available_message": "В App Store доступна новая версия (%1$@). Хотите обновить сейчас?",
     "update_available_title": "Доступно обновление",
-    "update_check_failed_message": "Не удалось подключиться к App Store. Попробуйте позже.",
     "update_check_failed_title": "Проверка не удалась",
     "update_required_action": "Обновить",
     "update_required_message": "Эта версия TigerDuck больше не может подключиться к серверу. Обновите приложение до последней версии, чтобы синхронизация продолжилась.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Настройки напоминаний о сроках сдачи заданий",
     "sync_content_live_activity": "Настройки Live Updates",
+    "update_available_message": "В Play Store доступна новая версия. Хотите обновить сейчас?",
+    "update_check_failed_message": "Не удалось подключиться к Play Store. Попробуйте позже.",
     "vibration_settings_motor_warning": "На некоторых телефонах установлены вибромоторы более низкого качества, которые могут игнорировать очень слабые или очень короткие вибрации. Если вы не ощущаете настройку, попробуйте увеличить её силу или длину. Для начала рекомендуем попробовать предустановку «Средняя».",
     "vibration_settings_revert": "Сбросить к умолчанию",
     "vibration_settings_section_length_ms": "Длительность (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Включить TigerSync",
     "sync_content_assignment_reminders": "Напоминания о сроках сдачи заданий",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Из-за ограничений платформы отключение этого параметра также отключает Live Activity и напоминания о сроках сдачи заданий."
+    "sync_courses_footer_platform_note": "Из-за ограничений платформы отключение этого параметра также отключает Live Activity и напоминания о сроках сдачи заданий.",
+    "update_available_message": "В App Store доступна новая версия (%1$@). Хотите обновить сейчас?",
+    "update_check_failed_message": "Не удалось подключиться к App Store. Попробуйте позже."
   },
   "backend": {
     "notification_reauth_required_body": "Срок действия подключения к Moodle истёк. Откройте TigerDuck и войдите снова, чтобы возобновить синхронизацию.",

@@ -864,9 +864,7 @@
     "update_action_later": "Later",
     "update_action_skip_version": "Skip this version",
     "update_action_update_now": "Update now",
-    "update_available_message": "A new version (%1$@) is available on the App Store. Would you like to update now?",
     "update_available_title": "Update available",
-    "update_check_failed_message": "Couldn’t reach the App Store. Try again later.",
     "update_check_failed_title": "Check failed",
     "update_required_action": "Update",
     "update_required_message": "This version of TigerDuck can no longer connect to the server. Update to the latest version to keep syncing.",
@@ -991,6 +989,8 @@
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
     "sync_content_assignment_reminders": "Assignment due reminder settings",
     "sync_content_live_activity": "Live Updates settings",
+    "update_available_message": "A new version is available on the Play Store. Would you like to update now?",
+    "update_check_failed_message": "Couldn’t reach the Play Store. Try again later.",
     "vibration_settings_motor_warning": "Some phones have lower-quality vibration motors that may ignore very weak or very short vibrations. If you can't feel a setting, try raising its strength or length. You can start by trying the medium preset first.",
     "vibration_settings_revert": "Reset to default",
     "vibration_settings_section_length_ms": "Length (ms)",
@@ -1035,7 +1035,9 @@
     "settings_sync_toggle_label": "Enable TigerSync",
     "sync_content_assignment_reminders": "Assignment due reminders",
     "sync_content_live_activity": "Live Activity",
-    "sync_courses_footer_platform_note": "Because of platform limits, turning this off also disables Live Activity and assignment due reminders."
+    "sync_courses_footer_platform_note": "Because of platform limits, turning this off also disables Live Activity and assignment due reminders.",
+    "update_available_message": "A new version (%1$@) is available on the App Store. Would you like to update now?",
+    "update_check_failed_message": "Couldn’t reach the App Store. Try again later."
   },
   "backend": {
     "notification_reauth_required_body": "Your Moodle connection expired. Open TigerDuck and sign in again to resume syncing.",
