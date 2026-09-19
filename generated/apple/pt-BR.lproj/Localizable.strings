@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Receber notificações adicionais do servidor";
 "settings_server_push_update_failed" = "O servidor não aceitou a alteração. Tente novamente mais tarde.";
 "settings_show_absolute_assignment_time" = "Mostrar data completa para o prazo das atividades";
+"settings_show_classroom_on_class_table" = "Mostrar as salas na grade de horários";
 "settings_sync_brief_description" = "O TigerSync permite sincronizar as informações escolhidas em todos os seus dispositivos. As informações não ativadas permanecem apenas neste dispositivo.";
 "settings_sync_brief_description_ios" = "O TigerSync permite receber notificações push e sincronizar informações. As informações não ativadas ainda são enviadas ao servidor para notificações push.";
 "settings_sync_data_section" = "Dados compartilhados com o servidor";

@@ -714,6 +714,7 @@
 "settings_server_push_label" = "دریافت اعلان‌های اضافی سرور";
 "settings_server_push_update_failed" = "سرور این تغییر را نپذیرفت. بعداً دوباره امتحان کنید.";
 "settings_show_absolute_assignment_time" = "نمایش تاریخ کامل برای زمان موعد تکلیف";
+"settings_show_classroom_on_class_table" = "نمایش کلاس‌ها در برنامهٔ درسی";
 "settings_sync_brief_description" = "TigerSync به شما امکان می‌دهد اطلاعات انتخابی خود را در تمام دستگاه‌ها همگام کنید. اطلاعات غیرفعال فقط در این دستگاه باقی می‌مانند.";
 "settings_sync_brief_description_ios" = "TigerSync به شما امکان دریافت اعلان‌های فوری و همگام‌سازی اطلاعات را می‌دهد. اطلاعات غیرفعال همچنان برای اعلان‌ها به سرور ارسال می‌شوند.";
 "settings_sync_data_section" = "داده‌های به اشتراک گذاشته شده با سرور";

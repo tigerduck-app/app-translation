@@ -691,6 +691,7 @@
   "settings_server_push_label": "Receber notificações adicionais do servidor",
   "settings_server_push_update_failed": "O servidor não aceitou a alteração. Tenta novamente mais tarde.",
   "settings_show_absolute_assignment_time": "Mostrar data completa do prazo dos trabalhos",
+  "settings_show_classroom_on_class_table": "Mostrar as salas no horário",
   "settings_sync_brief_description": "O TigerSync permite sincronizar as informações escolhidas em todos os dispositivos. As informações não ativadas permanecem apenas neste dispositivo.",
   "settings_sync_disabled_note": "Quando a sincronização está desativada, todos os dados ficam apenas neste dispositivo.",
   "settings_sync_status_off": "Desligado",

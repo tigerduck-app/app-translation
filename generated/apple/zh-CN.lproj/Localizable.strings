@@ -714,6 +714,7 @@
 "settings_server_push_label" = "接收额外服务器推送";
 "settings_server_push_update_failed" = "服务器未接受此项更改，请稍后再试。";
 "settings_show_absolute_assignment_time" = "作业截止时间显示完整日期";
+"settings_show_classroom_on_class_table" = "在课表首页显示教室";
 "settings_sync_brief_description" = "TigerSync 可让你将所选信息同步至所有已开启 TigerSync 的设备。未启用 TigerSync 的信息仅保留在此设备上。";
 "settings_sync_brief_description_ios" = "TigerSync 可让你接收推送通知，并将所选信息同步至所有已开启 TigerSync 的设备。未启用同步的信息仍会发送至服务器供推送通知使用。";
 "settings_sync_data_section" = "与服务器共享的数据";

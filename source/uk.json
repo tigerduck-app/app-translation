@@ -690,6 +690,7 @@
     "settings_server_push_label": "Отримувати додаткові сповіщення сервера",
     "settings_server_push_update_failed": "Сервер не прийняв цю зміну. Спробуйте пізніше.",
     "settings_show_absolute_assignment_time": "Показувати повну дату для дедлайну завдання",
+    "settings_show_classroom_on_class_table": "Показувати аудиторії в розкладі",
     "settings_sync_brief_description": "TigerSync дозволяє синхронізувати обрану інформацію на всіх пристроях. Інформація без синхронізації залишається лише на цьому пристрої.",
     "settings_sync_disabled_note": "Коли синхронізацію вимкнено, усі дані залишаються лише на цьому пристрої.",
     "settings_sync_status_off": "Вимк.",

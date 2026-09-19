@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Ricevi notifiche aggiuntive dal server";
 "settings_server_push_update_failed" = "Il server non ha accettato la modifica. Riprova più tardi.";
 "settings_show_absolute_assignment_time" = "Mostra la data completa per la scadenza dei compiti";
+"settings_show_classroom_on_class_table" = "Mostra le aule nell'orario";
 "settings_sync_brief_description" = "TigerSync ti permette di sincronizzare le informazioni scelte su tutti i dispositivi. Le informazioni non abilitate restano solo su questo dispositivo.";
 "settings_sync_brief_description_ios" = "TigerSync ti permette di ricevere notifiche push e sincronizzare le informazioni. Le informazioni non abilitate vengono comunque inviate al server per le notifiche push.";
 "settings_sync_data_section" = "Dati condivisi con il server";

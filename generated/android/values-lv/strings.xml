@@ -734,6 +734,7 @@
     <string name="settings_server_push_label">Saņemt papildu servera paziņojumus</string>
     <string name="settings_server_push_update_failed">Serveris nepieņēma izmaiņas. Mēģiniet vēlreiz vēlāk.</string>
     <string name="settings_show_absolute_assignment_time">Rādīt pilnu datumu uzdevuma termiņam</string>
+    <string name="settings_show_classroom_on_class_table">Rādīt auditorijas stundu sarakstā</string>
     <string name="settings_sync_brief_description">TigerSync ļauj sinhronizēt izvēlēto informāciju visās ierīcēs. Nesinhronizēta informācija paliek tikai šajā ierīcē.</string>
     <string name="settings_sync_disabled_note">Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē.</string>
     <string name="settings_sync_status_off">Izslēgts</string>

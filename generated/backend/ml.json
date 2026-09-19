@@ -691,6 +691,7 @@
   "settings_server_push_label": "അധിക സെർവർ അറിയിപ്പുകൾ സ്വീകരിക്കുക",
   "settings_server_push_update_failed": "സെർവർ മാറ്റം സ്വീകരിച്ചില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.",
   "settings_show_absolute_assignment_time": "അസൈൻമെന്റ് കാലാവധിക്ക് പൂർണ്ണ തീയതി കാണിക്കുക",
+  "settings_show_classroom_on_class_table": "ടൈംടേബിളിൽ ക്ലാസ് മുറി കാണിക്കുക",
   "settings_sync_brief_description": "TigerSync നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും വിവരങ്ങൾ സമന്വയിപ്പിക്കാൻ അനുവദിക്കുന്നു. സിങ്കിന് പ്രാപ്തമാക്കാത്ത വിവരങ്ങൾ ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.",
   "settings_sync_disabled_note": "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.",
   "settings_sync_status_off": "ഓഫ്",

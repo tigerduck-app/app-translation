@@ -690,6 +690,7 @@
     "settings_server_push_label": "Примање додатних обавештења са сервера",
     "settings_server_push_update_failed": "Сервер није прихватио промену. Покушајте поново касније.",
     "settings_show_absolute_assignment_time": "Прикажи пун датум за рок задатка",
+    "settings_show_classroom_on_class_table": "Прикажи учионице у распореду",
     "settings_sync_brief_description": "TigerSync омогућава синхронизацију изабраних информација на свим уређајима. Неактивиране информације остају само на овом уређају.",
     "settings_sync_disabled_note": "Када је синхронизација искључена, сви подаци остају само на овом уређају.",
     "settings_sync_status_off": "Искључено",

@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Tumanggap ng mga karagdagang abiso ng server";
 "settings_server_push_update_failed" = "Hindi tinanggap ng server ang pagbabago. Subukang muli mamaya.";
 "settings_show_absolute_assignment_time" = "Ipakita ang kumpletong petsa para sa due time ng takdang-aralin";
+"settings_show_classroom_on_class_table" = "Ipakita ang mga silid-aralan sa iskedyul";
 "settings_sync_brief_description" = "Pinapayagan ka ng TigerSync na i-sync ang iyong napiling impormasyon sa lahat ng device. Ang impormasyong hindi naka-enable ay mananatili lamang sa device na ito.";
 "settings_sync_brief_description_ios" = "Pinapayagan ka ng TigerSync na makatanggap ng push notification at i-sync ang impormasyon. Ang hindi naka-enable na impormasyon ay ipinapadala pa rin sa server para sa push notification.";
 "settings_sync_data_section" = "Data na ibinabahagi sa server";

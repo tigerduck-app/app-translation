@@ -734,6 +734,7 @@
     <string name="settings_server_push_label">További szerverértesítések fogadása</string>
     <string name="settings_server_push_update_failed">A szerver nem fogadta el a módosítást. Próbálja újra később.</string>
     <string name="settings_show_absolute_assignment_time">Teljes dátum megjelenítése a házi feladat határidejénél</string>
+    <string name="settings_show_classroom_on_class_table">Tantermek megjelenítése az órarendben</string>
     <string name="settings_sync_brief_description">A TigerSync lehetővé teszi a kiválasztott adatok szinkronizálását az összes eszközön. A nem engedélyezett adatok csak ezen az eszközön maradnak.</string>
     <string name="settings_sync_disabled_note">Ha a szinkronizálás ki van kapcsolva, minden adat csak ezen az eszközön marad.</string>
     <string name="settings_sync_status_off">Ki</string>

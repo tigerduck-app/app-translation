@@ -691,6 +691,7 @@
   "settings_server_push_label": "વધારાની સર્વર સૂચનાઓ મેળવો",
   "settings_server_push_update_failed": "સર્વરે ફેરફાર સ્વીકાર્યો નહીં. કૃપા કરી પછીથી ફરી પ્રયાસ કરો.",
   "settings_show_absolute_assignment_time": "અસાઇનમેન્ટ ડ્યૂ ટાઇમ માટે સંપૂર્ણ તારીખ બતાવો",
+  "settings_show_classroom_on_class_table": "સમયપત્રકમાં વર્ગખંડ બતાવો",
   "settings_sync_brief_description": "TigerSync તમને તમારા બધા ઉપકરણો પર માહિતી સિંક કરવા દે છે. સિંક માટે સક્ષમ ન હોય તેવી માહિતી ફક્ત આ ઉપકરણ પર રહે છે.",
   "settings_sync_disabled_note": "જ્યારે સિંક બંધ હોય, ત્યારે બધો ડેટા ફક્ત આ ડિવાઇસ પર જ રહે છે.",
   "settings_sync_status_off": "બંધ",

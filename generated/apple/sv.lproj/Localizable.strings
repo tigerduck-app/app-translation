@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Ta emot ytterligare serveraviseringar";
 "settings_server_push_update_failed" = "Servern accepterade inte ändringen. Försök igen senare.";
 "settings_show_absolute_assignment_time" = "Visa fullständigt datum för uppgiftens förfallodatum";
+"settings_show_classroom_on_class_table" = "Visa salar i schemat";
 "settings_sync_brief_description" = "TigerSync låter dig synkronisera vald information på alla enheter. Information utan synkronisering förblir bara på den här enheten.";
 "settings_sync_brief_description_ios" = "TigerSync låter dig ta emot push-aviseringar och synkronisera information. Information utan synkronisering skickas ändå till servern för push-aviseringar.";
 "settings_sync_data_section" = "Data delad med servern";

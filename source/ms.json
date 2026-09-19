@@ -690,6 +690,7 @@
     "settings_server_push_label": "Terima pemberitahuan tambahan daripada pelayan",
     "settings_server_push_update_failed": "Pelayan tidak menerima perubahan ini. Sila cuba lagi kemudian.",
     "settings_show_absolute_assignment_time": "Tunjukkan tarikh penuh untuk masa tamat tempoh tugasan",
+    "settings_show_classroom_on_class_table": "Tunjukkan bilik darjah dalam jadual",
     "settings_sync_brief_description": "TigerSync membolehkan anda menyegerakkan maklumat pilihan anda di semua peranti. Maklumat yang tidak didayakan kekal pada peranti ini sahaja.",
     "settings_sync_disabled_note": "Apabila segerak dimatikan, semua data kekal pada peranti ini sahaja.",
     "settings_sync_status_off": "Mati",

@@ -734,6 +734,7 @@
     <string name="settings_server_push_label">اضافی سرور اطلاعات موصول کریں</string>
     <string name="settings_server_push_update_failed">سرور نے تبدیلی قبول نہیں کی۔ بعد میں دوبارہ کوشش کریں۔</string>
     <string name="settings_show_absolute_assignment_time">اسائنمنٹ کی آخری تاریخ کے لیے مکمل تاریخ دکھائیں</string>
+    <string name="settings_show_classroom_on_class_table">ٹائم ٹیبل میں کلاس روم دکھائیں</string>
     <string name="settings_sync_brief_description">TigerSync آپ کو تمام آلات پر معلومات مطابقت پذیر کرنے دیتا ہے۔ فعال نہ کی گئی معلومات صرف اس آلے پر رہتی ہیں۔</string>
     <string name="settings_sync_disabled_note">جب سنک بند ہو تو تمام ڈیٹا صرف اس آلے پر رہتا ہے۔</string>
     <string name="settings_sync_status_off">بند</string>

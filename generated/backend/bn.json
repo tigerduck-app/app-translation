@@ -691,6 +691,7 @@
   "settings_server_push_label": "অতিরিক্ত সার্ভার বিজ্ঞপ্তি পান",
   "settings_server_push_update_failed": "সার্ভার পরিবর্তনটি গ্রহণ করেনি। পরে আবার চেষ্টা করুন।",
   "settings_show_absolute_assignment_time": "অ্যাসাইনমেন্টের সময়সীমার জন্য সম্পূর্ণ তারিখ দেখান",
+  "settings_show_classroom_on_class_table": "রুটিনে শ্রেণিকক্ষ দেখান",
   "settings_sync_brief_description": "TigerSync আপনাকে আপনার সমস্ত ডিভাইসে তথ্য সিঙ্ক করতে দেয়। সিঙ্কের জন্য সক্ষম নয় এমন তথ্য শুধুমাত্র এই ডিভাইসে থাকে।",
   "settings_sync_disabled_note": "সিঙ্ক বন্ধ থাকলে সব ডেটা শুধুমাত্র এই ডিভাইসে থাকে।",
   "settings_sync_status_off": "বন্ধ",

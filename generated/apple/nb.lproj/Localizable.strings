@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Motta flere servervarsler";
 "settings_server_push_update_failed" = "Serveren godtok ikke endringen. Prøv igjen senere.";
 "settings_show_absolute_assignment_time" = "Vis full dato for oppgavefristens tid";
+"settings_show_classroom_on_class_table" = "Vis rom i timeplanen";
 "settings_sync_brief_description" = "TigerSync lar deg synkronisere valgt informasjon på alle enheter. Informasjon uten synkronisering forblir kun på denne enheten.";
 "settings_sync_brief_description_ios" = "TigerSync lar deg motta push-varsler og synkronisere informasjon. Informasjon uten synkronisering sendes likevel til serveren for push-varsler.";
 "settings_sync_data_section" = "Data delt med serveren";

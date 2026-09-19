@@ -691,6 +691,7 @@
   "settings_server_push_label": "Ek sunucu bildirimlerini al",
   "settings_server_push_update_failed": "Sunucu değişikliği kabul etmedi. Daha sonra tekrar deneyin.",
   "settings_show_absolute_assignment_time": "Ödev teslim saatinde tam tarihi göster",
+  "settings_show_classroom_on_class_table": "Ders programında derslikleri göster",
   "settings_sync_brief_description": "TigerSync, seçtiğiniz bilgileri tüm cihazlarınızda senkronize etmenizi sağlar. Etkinleştirilmemiş bilgiler yalnızca bu cihazda kalır.",
   "settings_sync_disabled_note": "Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır.",
   "settings_sync_status_off": "Kapalı",

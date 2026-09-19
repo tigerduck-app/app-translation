@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Primește notificări suplimentare de la server";
 "settings_server_push_update_failed" = "Serverul nu a acceptat modificarea. Încearcă din nou mai târziu.";
 "settings_show_absolute_assignment_time" = "Afișează data completă pentru termenul temei";
+"settings_show_classroom_on_class_table" = "Afișează sălile în orar";
 "settings_sync_brief_description" = "TigerSync vă permite să sincronizați informațiile alese pe toate dispozitivele. Informațiile neactivate rămân doar pe acest dispozitiv.";
 "settings_sync_brief_description_ios" = "TigerSync vă permite să primiți notificări push și să sincronizați informații. Informațiile neactivate sunt trimise oricum la server pentru notificări push.";
 "settings_sync_data_section" = "Date partajate cu serverul";

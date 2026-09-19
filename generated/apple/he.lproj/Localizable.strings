@@ -714,6 +714,7 @@
 "settings_server_push_label" = "קבלת התראות נוספות מהשרת";
 "settings_server_push_update_failed" = "השרת לא קיבל את השינוי. נסה שוב מאוחר יותר.";
 "settings_show_absolute_assignment_time" = "הצג תאריך מלא לתאריך הגשת מטלה";
+"settings_show_classroom_on_class_table" = "הצגת כיתות בלוח השיעורים";
 "settings_sync_brief_description" = "TigerSync מאפשר לך לסנכרן מידע נבחר בין כל המכשירים שלך. מידע שלא הופעל לסנכרון נשאר במכשיר זה בלבד.";
 "settings_sync_brief_description_ios" = "TigerSync מאפשר לך לקבל התראות push ולסנכרן מידע. מידע שלא הופעל לסנכרון עדיין נשלח לשרת להתראות push.";
 "settings_sync_data_section" = "נתונים המשותפים עם השרת";

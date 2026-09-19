@@ -714,6 +714,7 @@
 "settings_server_push_label" = "अतिरिक्त सर्वर सूचनाएँ प्राप्त करें";
 "settings_server_push_update_failed" = "सर्वर ने बदलाव स्वीकार नहीं किया। कृपया बाद में पुनः प्रयास करें।";
 "settings_show_absolute_assignment_time" = "असाइनमेंट देय समय के लिए पूरी तारीख दिखाएँ";
+"settings_show_classroom_on_class_table" = "समय-सारणी में कक्षाएँ दिखाएँ";
 "settings_sync_brief_description" = "TigerSync आपको अपने सभी डिवाइस पर जानकारी सिंक करने देता है। सिंक के लिए सक्षम नहीं की गई जानकारी केवल इस डिवाइस पर रहती है।";
 "settings_sync_brief_description_ios" = "TigerSync आपको पुश नोटिफिकेशन प्राप्त करने और जानकारी सिंक करने देता है। सिंक के लिए सक्षम नहीं की गई जानकारी भी पुश नोटिफिकेशन के लिए सर्वर पर भेजी जाती है।";
 "settings_sync_data_section" = "सर्वर के साथ साझा किया गया डेटा";

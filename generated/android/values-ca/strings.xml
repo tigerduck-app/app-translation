@@ -734,6 +734,7 @@
     <string name="settings_server_push_label">Rep notificacions addicionals del servidor</string>
     <string name="settings_server_push_update_failed">El servidor no ha acceptat el canvi. Torneu-ho a provar més tard.</string>
     <string name="settings_show_absolute_assignment_time">Mostra la data completa per al venciment de les tasques</string>
+    <string name="settings_show_classroom_on_class_table">Mostra les aules a l\'horari</string>
     <string name="settings_sync_brief_description">TigerSync permet sincronitzar la informació seleccionada entre tots els dispositius amb TigerSync activat. La informació no activada es queda només en aquest dispositiu.</string>
     <string name="settings_sync_disabled_note">Quan la sincronització és desactivada, totes les dades es queden només en aquest dispositiu.</string>
     <string name="settings_sync_status_off">Desactivat</string>

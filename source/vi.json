@@ -690,6 +690,7 @@
     "settings_server_push_label": "Nhận thêm thông báo từ máy chủ",
     "settings_server_push_update_failed": "Máy chủ không chấp nhận thay đổi này. Vui lòng thử lại sau.",
     "settings_show_absolute_assignment_time": "Hiển thị ngày đầy đủ cho thời hạn bài tập",
+    "settings_show_classroom_on_class_table": "Hiển thị phòng học trên thời khoá biểu",
     "settings_sync_brief_description": "TigerSync cho phép bạn đồng bộ thông tin đã chọn trên tất cả thiết bị. Thông tin không được bật sẽ chỉ ở trên thiết bị này.",
     "settings_sync_disabled_note": "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này.",
     "settings_sync_status_off": "Tắt",

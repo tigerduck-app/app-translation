@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Gauti papildomus serverio pranešimus";
 "settings_server_push_update_failed" = "Serveris nepriėmė pakeitimo. Bandykite dar kartą vėliau.";
 "settings_show_absolute_assignment_time" = "Rodyti pilną datą užduoties terminui";
+"settings_show_classroom_on_class_table" = "Rodyti auditorijas tvarkaraštyje";
 "settings_sync_brief_description" = "TigerSync leidžia sinchronizuoti pasirinktą informaciją visuose įrenginiuose. Nesinchronizuota informacija lieka tik šiame įrenginyje.";
 "settings_sync_brief_description_ios" = "TigerSync leidžia gauti push pranešimus ir sinchronizuoti informaciją. Nesinchronizuota informacija vis tiek siunčiama į serverį push pranešimams.";
 "settings_sync_data_section" = "Duomenys, bendrinti su serveriu";

@@ -734,6 +734,7 @@
     <string name="settings_server_push_label">Receive additional server notifications</string>
     <string name="settings_server_push_update_failed">The server didn\'t accept the change. Try again later.</string>
     <string name="settings_show_absolute_assignment_time">Show full date for assignment due time</string>
+    <string name="settings_show_classroom_on_class_table">Show classrooms on the class table</string>
     <string name="settings_sync_brief_description">TigerSync lets you sync your chosen information across all your devices that have TigerSync turned on. Information not enabled for TigerSync stays on this device only.</string>
     <string name="settings_sync_disabled_note">When sync is off, all data stays on this device only.</string>
     <string name="settings_sync_status_off">Off</string>

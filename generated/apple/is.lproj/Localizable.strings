@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Taka á móti aukatilkynningum frá netþjóni";
 "settings_server_push_update_failed" = "Netþjónninn samþykkti ekki breytinguna. Reyndu aftur síðar.";
 "settings_show_absolute_assignment_time" = "Sýna fulla dagsetningu fyrir skiladag verkefnis";
+"settings_show_classroom_on_class_table" = "Sýna stofur í stundatöflunni";
 "settings_sync_brief_description" = "TigerSync gerir þér kleift að samstilla valdar upplýsingar á öllum tækjum. Upplýsingar sem ekki eru virkar eru aðeins á þessu tæki.";
 "settings_sync_brief_description_ios" = "TigerSync gerir þér kleift að fá push-tilkynningar og samstilla upplýsingar. Óvirkar upplýsingar eru samt sendar á þjóninn fyrir push-tilkynningar.";
 "settings_sync_data_section" = "Gögn deild með þjóninum";

@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Terima notifikasi server tambahan";
 "settings_server_push_update_failed" = "Server tidak menerima perubahan ini. Coba lagi nanti.";
 "settings_show_absolute_assignment_time" = "Tampilkan tanggal lengkap untuk waktu jatuh tempo tugas";
+"settings_show_classroom_on_class_table" = "Tampilkan ruang kelas di jadwal";
 "settings_sync_brief_description" = "TigerSync memungkinkan Anda menyinkronkan informasi pilihan di semua perangkat. Informasi yang tidak diaktifkan tetap hanya di perangkat ini.";
 "settings_sync_brief_description_ios" = "TigerSync memungkinkan Anda menerima notifikasi push dan menyinkronkan informasi. Informasi yang tidak diaktifkan tetap dikirim ke server untuk notifikasi push.";
 "settings_sync_data_section" = "Data yang dibagikan dengan server";

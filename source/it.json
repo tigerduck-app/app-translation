@@ -690,6 +690,7 @@
     "settings_server_push_label": "Ricevi notifiche aggiuntive dal server",
     "settings_server_push_update_failed": "Il server non ha accettato la modifica. Riprova più tardi.",
     "settings_show_absolute_assignment_time": "Mostra la data completa per la scadenza dei compiti",
+    "settings_show_classroom_on_class_table": "Mostra le aule nell'orario",
     "settings_sync_brief_description": "TigerSync ti permette di sincronizzare le informazioni scelte su tutti i dispositivi. Le informazioni non abilitate restano solo su questo dispositivo.",
     "settings_sync_disabled_note": "Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo.",
     "settings_sync_status_off": "Disattivo",

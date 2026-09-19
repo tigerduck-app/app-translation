@@ -690,6 +690,7 @@
     "settings_server_push_label": "Prijímať ďalšie oznámenia zo servera",
     "settings_server_push_update_failed": "Server zmenu neprijal. Skúste to znova neskôr.",
     "settings_show_absolute_assignment_time": "Zobraziť úplný dátum termínu úlohy",
+    "settings_show_classroom_on_class_table": "Zobrazovať učebne v rozvrhu",
     "settings_sync_brief_description": "TigerSync umožňuje synchronizovať vybrané informácie na všetkých zariadeniach. Neaktivované informácie zostávajú iba na tomto zariadení.",
     "settings_sync_disabled_note": "Keď je synchronizácia vypnutá, všetky údaje zostávajú iba na tomto zariadení.",
     "settings_sync_status_off": "Vypnuté",

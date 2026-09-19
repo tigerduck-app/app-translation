@@ -734,6 +734,7 @@
     <string name="settings_server_push_label">Получать дополнительные уведомления сервера</string>
     <string name="settings_server_push_update_failed">Сервер не принял изменение. Повторите попытку позже.</string>
     <string name="settings_show_absolute_assignment_time">Показывать полную дату срока сдачи задания</string>
+    <string name="settings_show_classroom_on_class_table">Показывать аудитории в расписании</string>
     <string name="settings_sync_brief_description">TigerSync позволяет синхронизировать выбранную информацию на всех устройствах. Информация без синхронизации остаётся только на этом устройстве.</string>
     <string name="settings_sync_disabled_note">Когда синхронизация отключена, все данные остаются только на этом устройстве.</string>
     <string name="settings_sync_status_off">Выкл.</string>

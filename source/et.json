@@ -690,6 +690,7 @@
     "settings_server_push_label": "Võta vastu täiendavaid serveriteateid",
     "settings_server_push_update_failed": "Server ei nõustunud muudatusega. Proovi hiljem uuesti.",
     "settings_show_absolute_assignment_time": "Kuva ülesande tähtajana täielik kuupäev",
+    "settings_show_classroom_on_class_table": "Näita tunniplaanis ruume",
     "settings_sync_brief_description": "TigerSync võimaldab sünkroonida valitud teavet kõigi seadmete vahel. Sünkroonimata teave jääb ainult sellesse seadmesse.",
     "settings_sync_disabled_note": "Kui sünkroonimine on välja lülitatud, jäävad kõik andmed ainult sellesse seadmesse.",
     "settings_sync_status_off": "Väljas",

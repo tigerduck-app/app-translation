@@ -690,6 +690,7 @@
     "settings_server_push_label": "Taka á móti aukatilkynningum frá netþjóni",
     "settings_server_push_update_failed": "Netþjónninn samþykkti ekki breytinguna. Reyndu aftur síðar.",
     "settings_show_absolute_assignment_time": "Sýna fulla dagsetningu fyrir skiladag verkefnis",
+    "settings_show_classroom_on_class_table": "Sýna stofur í stundatöflunni",
     "settings_sync_brief_description": "TigerSync gerir þér kleift að samstilla valdar upplýsingar á öllum tækjum. Upplýsingar sem ekki eru virkar eru aðeins á þessu tæki.",
     "settings_sync_disabled_note": "Þegar samstilling er slökkt eru öll gögn aðeins á þessu tæki.",
     "settings_sync_status_off": "Slökkt",

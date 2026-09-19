@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Получать дополнительные уведомления сервера";
 "settings_server_push_update_failed" = "Сервер не принял изменение. Повторите попытку позже.";
 "settings_show_absolute_assignment_time" = "Показывать полную дату срока сдачи задания";
+"settings_show_classroom_on_class_table" = "Показывать аудитории в расписании";
 "settings_sync_brief_description" = "TigerSync позволяет синхронизировать выбранную информацию на всех устройствах. Информация без синхронизации остаётся только на этом устройстве.";
 "settings_sync_brief_description_ios" = "TigerSync позволяет получать push-уведомления и синхронизировать информацию. Информация без синхронизации всё равно отправляется на сервер для push-уведомлений.";
 "settings_sync_data_section" = "Данные, передаваемые серверу";

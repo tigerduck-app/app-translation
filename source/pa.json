@@ -690,6 +690,7 @@
     "settings_server_push_label": "ਵਾਧੂ ਸਰਵਰ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ",
     "settings_server_push_update_failed": "ਸਰਵਰ ਨੇ ਬਦਲਾਅ ਸਵੀਕਾਰ ਨਹੀਂ ਕੀਤਾ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
     "settings_show_absolute_assignment_time": "ਅਸਾਈਨਮੈਂਟ ਦੀ ਮਿਆਦ ਲਈ ਪੂਰੀ ਮਿਤੀ ਦਿਖਾਓ",
+    "settings_show_classroom_on_class_table": "ਸਮਾਂ-ਸਾਰਣੀ ਵਿੱਚ ਕਲਾਸਰੂਮ ਦਿਖਾਓ",
     "settings_sync_brief_description": "TigerSync ਤੁਹਾਨੂੰ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੇ ਜਾਣਕਾਰੀ ਸਿੰਕ ਕਰਨ ਦਿੰਦਾ ਹੈ। ਸਿੰਕ ਲਈ ਸਮਰੱਥ ਨਾ ਹੋਈ ਜਾਣਕਾਰੀ ਸਿਰਫ਼ ਇਸ ਡਿਵਾਈਸ ਤੇ ਰਹਿੰਦੀ ਹੈ।",
     "settings_sync_disabled_note": "ਜਦੋਂ ਸਿੰਕ ਬੰਦ ਹੁੰਦਾ ਹੈ, ਸਾਰਾ ਡੇਟਾ ਸਿਰਫ਼ ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਰਹਿੰਦਾ ਹੈ।",
     "settings_sync_status_off": "ਬੰਦ",

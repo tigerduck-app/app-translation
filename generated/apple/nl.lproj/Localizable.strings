@@ -714,6 +714,7 @@
 "settings_server_push_label" = "Extra servermeldingen ontvangen";
 "settings_server_push_update_failed" = "De server heeft de wijziging niet geaccepteerd. Probeer het later opnieuw.";
 "settings_show_absolute_assignment_time" = "Volledige datum tonen voor opdrachtdeadline";
+"settings_show_classroom_on_class_table" = "Lokalen tonen in het rooster";
 "settings_sync_brief_description" = "TigerSync synchroniseert je gekozen informatie op al je apparaten. Niet-ingeschakelde informatie blijft alleen op dit apparaat.";
 "settings_sync_brief_description_ios" = "TigerSync laat je pushmeldingen ontvangen en informatie synchroniseren. Niet-ingeschakelde informatie wordt toch naar de server gestuurd voor pushmeldingen.";
 "settings_sync_data_section" = "Gegevens gedeeld met de server";
