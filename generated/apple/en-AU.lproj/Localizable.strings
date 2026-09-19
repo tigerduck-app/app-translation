@@ -647,7 +647,7 @@
 "school_mail_send" = "Send";
 "school_mail_send_confirm_title" = "Send this mail?";
 "school_mail_send_failed" = "Couldn't send the mail";
-"school_mail_settings_background_refresh_hint" = "iOS decides how often TigerDuck can check for mail in the background, often only every few hours. Open School Mail to check right away.";
+"school_mail_settings_background_refresh_hint" = "iOS decides how often TigerDuck can check for mail in the background, often only every few hours. Open School Mail to check straight away.";
 "school_mail_settings_diagnostics" = "Notification diagnostics";
 "school_mail_settings_display_name" = "Name shown to recipients";
 "school_mail_settings_display_name_hint" = "Leave empty to show only your address.";
@@ -670,7 +670,7 @@
 "school_mail_view_plain" = "Plain text";
 "school_mail_view_source" = "Source";
 "school_mail_warning_attachment" = "These attachments could harm your device: %1$@";
-"school_mail_warning_display_name" = "The name shows a different address than the real sender";
+"school_mail_warning_display_name" = "The name shows a different address from the real sender";
 "school_mail_warning_external" = "This sender isn't a school address";
 "school_mail_warning_password" = "The school never asks for your password by email.";
 "score_academic_year_semester" = "Academic Year %1$@ %2$@";

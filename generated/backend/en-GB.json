@@ -643,7 +643,7 @@
   "school_mail_view_plain": "Plain text",
   "school_mail_view_source": "Source",
   "school_mail_warning_attachment": "These attachments could harm your device: %1$@",
-  "school_mail_warning_display_name": "The name shows a different address than the real sender",
+  "school_mail_warning_display_name": "The name shows a different address from the real sender",
   "school_mail_warning_external": "This sender isn't a school address",
   "school_mail_warning_password": "The school never asks for your password by email.",
   "score_academic_year_semester": "Academic Year %1$s %2$s",
