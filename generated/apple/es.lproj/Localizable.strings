@@ -35,7 +35,7 @@
 "add_course_example" = "Ejemplo: EC1013701, Cálculo, John Wang";
 "add_course_not_found" = "No se encontraron cursos coincidentes";
 "add_course_placeholder" = "Ingresa código del curso, nombre o instructor";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d créditos";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ créditos";
 "add_course_search_failed" = "Error en la búsqueda: %1$@";
 "add_course_searching" = "Buscando…";
 "add_course_title" = "Agregar curso";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Restablecer horario de %1$@";
 "class_table_semester_picker_label" = "Semestre";
 "class_table_sign_in_required_message" = "Inicia sesión para ver tu tabla de clases";
-"class_table_total_credits_value" = "%1$d créditos";
+"class_table_total_credits_value" = "%1$@ créditos";
 "cloud_sync_assignments" = "Tareas";
 "cloud_sync_class_table" = "Horario de clases";
 "cloud_sync_class_table_footer" = "Elige qué datos del horario sincronizar entre dispositivos.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Esperando que el sistema asigne un token";
 "refreshing_message" = "Actualizando… espera un momento";
 "score_academic_year_semester" = "Año académico %1$@ %2$@";
-"score_course_credits" = "%1$d créditos";
-"score_course_credits_meta" = "%1$@ · %2$d créditos";
+"score_course_credits" = "%1$@ créditos";
+"score_course_credits_meta" = "%1$@ · %2$@ créditos";
 "score_course_detail_enrollment_label" = "Inscripción";
 "score_course_detail_schedule_label" = "Horario de clases";
 "score_credit_earned" = "Obtenidos";

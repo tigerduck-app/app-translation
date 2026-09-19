@@ -35,7 +35,7 @@
 "add_course_example" = "Przykład: EC1013701, Analiza matematyczna, John Wang";
 "add_course_not_found" = "Nie znaleziono pasujących przedmiotów";
 "add_course_placeholder" = "Wprowadź kod przedmiotu, nazwę lub wykładowcę";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d ECTS";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ ECTS";
 "add_course_search_failed" = "Wyszukiwanie nie powiodło się: %1$@";
 "add_course_searching" = "Wyszukiwanie…";
 "add_course_title" = "Dodaj przedmiot";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Resetuj plan zajęć %1$@";
 "class_table_semester_picker_label" = "Semestr";
 "class_table_sign_in_required_message" = "Zaloguj się, aby zobaczyć plan zajęć";
-"class_table_total_credits_value" = "%1$d ECTS";
+"class_table_total_credits_value" = "%1$@ ECTS";
 "cloud_sync_assignments" = "Zadania";
 "cloud_sync_class_table" = "Plan zajęć";
 "cloud_sync_class_table_footer" = "Wybierz, które dane planu zajęć synchronizować między urządzeniami.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Oczekiwanie na przypisanie token przez system";
 "refreshing_message" = "Odświeżanie… proszę czekać";
 "score_academic_year_semester" = "Rok akademicki %1$@ %2$@";
-"score_course_credits" = "%1$d ECTS";
-"score_course_credits_meta" = "%1$@ · %2$d ECTS";
+"score_course_credits" = "%1$@ ECTS";
+"score_course_credits_meta" = "%1$@ · %2$@ ECTS";
 "score_course_detail_enrollment_label" = "Rejestracja";
 "score_course_detail_schedule_label" = "Plan zajęć";
 "score_credit_earned" = "Zdobyte";

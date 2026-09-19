@@ -38,7 +38,7 @@
     <string name="add_course_example">Esimerkki: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">Kursseja ei löydy</string>
     <string name="add_course_placeholder">Syötä kurssikoodi, nimi tai opettaja</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d opintopistettä</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s opintopistettä</string>
     <string name="add_course_search_failed">Haku epäonnistui: %1$s</string>
     <string name="add_course_searching">Haetaan…</string>
     <string name="add_course_title">Lisää kurssi</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Palauta lukujärjestys %1$s</string>
     <string name="class_table_semester_picker_label">Lukukausi</string>
     <string name="class_table_sign_in_required_message">Kirjaudu sisään nähdäksesi luokkataulukkosi</string>
-    <string name="class_table_total_credits_value">%1$d opintopistettä</string>
+    <string name="class_table_total_credits_value">%1$s opintopistettä</string>
     <string name="cloud_sync_assignments">Tehtävät</string>
     <string name="cloud_sync_class_table">Lukujärjestys</string>
     <string name="cloud_sync_class_table_footer">Valitse, mitkä lukujärjestystiedot synkronoidaan laitteiden välillä.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Odottaa järjestelmän tokenin määrittämistä</string>
     <string name="refreshing_message">Päivitetään… odota hetki</string>
     <string name="score_academic_year_semester">Lukuvuosi %1$s %2$s</string>
-    <string name="score_course_credits">%1$d opintopistettä</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d opintopistettä</string>
+    <string name="score_course_credits">%1$s opintopistettä</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s opintopistettä</string>
     <string name="score_course_detail_enrollment_label">Ilmoittautuminen</string>
     <string name="score_course_detail_schedule_label">Tuntien aikataulu</string>
     <string name="score_credit_earned">Suoritettu</string>

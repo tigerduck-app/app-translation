@@ -35,7 +35,7 @@
 "add_course_example" = "Пример: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "Нису пронађени одговарајући курсеви";
 "add_course_placeholder" = "Унесите шифру курса, назив или предавача";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d ЕСПБ бодова";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ ЕСПБ бодова";
 "add_course_search_failed" = "Претрага није успела: %1$@";
 "add_course_searching" = "Претраживање…";
 "add_course_title" = "Додај курс";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Ресетуј распоред %1$@";
 "class_table_semester_picker_label" = "Семестар";
 "class_table_sign_in_required_message" = "Пријавите се да бисте видели свој распоред часова";
-"class_table_total_credits_value" = "%1$d ЕСПБ бодова";
+"class_table_total_credits_value" = "%1$@ ЕСПБ бодова";
 "cloud_sync_assignments" = "Задаци";
 "cloud_sync_class_table" = "Распоред часова";
 "cloud_sync_class_table_footer" = "Изаберите које податке распореда да синхронизујете између уређаја.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Чекање да систем додели token";
 "refreshing_message" = "Освежавање… причекајте";
 "score_academic_year_semester" = "Академска година %1$@ %2$@";
-"score_course_credits" = "%1$d ЕСПБ бодова";
-"score_course_credits_meta" = "%1$@ · %2$d ЕСПБ";
+"score_course_credits" = "%1$@ ЕСПБ бодова";
+"score_course_credits_meta" = "%1$@ · %2$@ ЕСПБ";
 "score_course_detail_enrollment_label" = "Упис";
 "score_course_detail_schedule_label" = "Распоред наставе";
 "score_credit_earned" = "Остварено";

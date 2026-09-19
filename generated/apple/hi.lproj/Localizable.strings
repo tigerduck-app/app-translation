@@ -35,7 +35,7 @@
 "add_course_example" = "उदाहरण: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "कोई मिलान कोर्स नहीं मिला";
 "add_course_placeholder" = "कोर्स कोड, नाम या इंस्ट्रक्टर दर्ज करें";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d क्रेडिट";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ क्रेडिट";
 "add_course_search_failed" = "खोज विफल: %1$@";
 "add_course_searching" = "खोज रहे हैं…";
 "add_course_title" = "कोर्स जोड़ें";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "%1$@ कोर्स टेबल रीसेट करें";
 "class_table_semester_picker_label" = "सेमेस्टर";
 "class_table_sign_in_required_message" = "अपनी क्लास टेबल देखने के लिए साइन इन करें";
-"class_table_total_credits_value" = "%1$d क्रेडिट";
+"class_table_total_credits_value" = "%1$@ क्रेडिट";
 "cloud_sync_assignments" = "असाइनमेंट";
 "cloud_sync_class_table" = "क्लास टेबल";
 "cloud_sync_class_table_footer" = "चुनें कि कौन सा क्लास टेबल डेटा डिवाइसों के बीच सिंक करना है।";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "सिस्टम द्वारा token असाइन होने का इंतज़ार";
 "refreshing_message" = "रिफ्रेश हो रहा है… थोड़ा रुकें";
 "score_academic_year_semester" = "शैक्षणिक वर्ष %1$@ %2$@";
-"score_course_credits" = "%1$d क्रेडिट";
-"score_course_credits_meta" = "%1$@ · %2$d क्रेडिट";
+"score_course_credits" = "%1$@ क्रेडिट";
+"score_course_credits_meta" = "%1$@ · %2$@ क्रेडिट";
 "score_course_detail_enrollment_label" = "नामांकन";
 "score_course_detail_schedule_label" = "कक्षा अनुसूची";
 "score_credit_earned" = "अर्जित";

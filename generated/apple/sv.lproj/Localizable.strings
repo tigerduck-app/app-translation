@@ -35,7 +35,7 @@
 "add_course_example" = "Exempel: EC1013701, Kalkyl, Johan Wang";
 "add_course_not_found" = "Inga matchande kurser hittades";
 "add_course_placeholder" = "Ange kurskod, namn eller lärare";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d hp";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ hp";
 "add_course_search_failed" = "Sökning misslyckades: %1$@";
 "add_course_searching" = "Söker…";
 "add_course_title" = "Lägg till kurs";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Återställ schemat för %1$@";
 "class_table_semester_picker_label" = "Termin";
 "class_table_sign_in_required_message" = "Logga in för att visa ditt schema";
-"class_table_total_credits_value" = "%1$d hp";
+"class_table_total_credits_value" = "%1$@ hp";
 "cloud_sync_assignments" = "Uppgifter";
 "cloud_sync_class_table" = "Schema";
 "cloud_sync_class_table_footer" = "Välj vilka schemadata som ska synkroniseras mellan enheter.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Väntar på att systemet ska tilldela en token";
 "refreshing_message" = "Uppdaterar… vänta lite";
 "score_academic_year_semester" = "Läsår %1$@ %2$@";
-"score_course_credits" = "%1$d hp";
-"score_course_credits_meta" = "%1$@ · %2$d hp";
+"score_course_credits" = "%1$@ hp";
+"score_course_credits_meta" = "%1$@ · %2$@ hp";
 "score_course_detail_enrollment_label" = "Registrering";
 "score_course_detail_schedule_label" = "Kursschema";
 "score_credit_earned" = "Intjänade";

@@ -38,7 +38,7 @@
     <string name="add_course_example">Например: EC1013701, Смятане, Иван Иванов</string>
     <string name="add_course_not_found">Не са намерени съвпадащи курсове</string>
     <string name="add_course_placeholder">Въведете код на курса, наименование или преподавател</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d кредити</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s кредити</string>
     <string name="add_course_search_failed">Търсенето е неуспешно: %1$s</string>
     <string name="add_course_searching">Търсене…</string>
     <string name="add_course_title">Добавяне на курс</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Нулиране на разписанието за %1$s</string>
     <string name="class_table_semester_picker_label">Семестър</string>
     <string name="class_table_sign_in_required_message">Влезте, за да видите таблицата на вашия клас</string>
-    <string name="class_table_total_credits_value">%1$d кредити</string>
+    <string name="class_table_total_credits_value">%1$s кредити</string>
     <string name="cloud_sync_assignments">Задачи</string>
     <string name="cloud_sync_class_table">Разписание</string>
     <string name="cloud_sync_class_table_footer">Изберете кои данни от разписанието да се синхронизират между устройствата.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Изчаква системата да присвои token</string>
     <string name="refreshing_message">Опресняване… моля изчакайте</string>
     <string name="score_academic_year_semester">Учебна година %1$s %2$s</string>
-    <string name="score_course_credits">%1$d кредити</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d кредита</string>
+    <string name="score_course_credits">%1$s кредити</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s кредита</string>
     <string name="score_course_detail_enrollment_label">Записване</string>
     <string name="score_course_detail_schedule_label">Разписание на часовете</string>
     <string name="score_credit_earned">Получени</string>

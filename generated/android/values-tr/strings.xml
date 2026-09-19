@@ -38,7 +38,7 @@
     <string name="add_course_example">Örnek: EC1013701, Kalkülüs, John Wang</string>
     <string name="add_course_not_found">Eşleşen ders bulunamadı</string>
     <string name="add_course_placeholder">Ders kodu, adı veya öğretim üyesi girin</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d kredi</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s kredi</string>
     <string name="add_course_search_failed">Arama başarısız: %1$s</string>
     <string name="add_course_searching">Aranıyor…</string>
     <string name="add_course_title">Ders ekle</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s ders programını sıfırla</string>
     <string name="class_table_semester_picker_label">Dönem</string>
     <string name="class_table_sign_in_required_message">Ders programınızı görmek için oturum açın</string>
-    <string name="class_table_total_credits_value">%1$d kredi</string>
+    <string name="class_table_total_credits_value">%1$s kredi</string>
     <string name="cloud_sync_assignments">Ödevler</string>
     <string name="cloud_sync_class_table">Ders programı</string>
     <string name="cloud_sync_class_table_footer">Cihazlar arasında hangi ders programı verilerinin senkronize edileceğini seçin.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Sistemin token ataması bekleniyor</string>
     <string name="refreshing_message">Yenileniyor… lütfen bekleyin</string>
     <string name="score_academic_year_semester">%1$s Akademik Yılı %2$s</string>
-    <string name="score_course_credits">%1$d kredi</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d kredi</string>
+    <string name="score_course_credits">%1$s kredi</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s kredi</string>
     <string name="score_course_detail_enrollment_label">Kayıt</string>
     <string name="score_course_detail_schedule_label">Ders programı</string>
     <string name="score_credit_earned">Kazanılan</string>

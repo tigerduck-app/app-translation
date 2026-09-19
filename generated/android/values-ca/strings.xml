@@ -38,7 +38,7 @@
     <string name="add_course_example">Exemple: EC1013701, Càlcul, Joan Wang</string>
     <string name="add_course_not_found">No s\'ha trobat cap curs coincident</string>
     <string name="add_course_placeholder">Introduïu el codi del curs, el nom o el professor</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d crèdits</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s crèdits</string>
     <string name="add_course_search_failed">La cerca ha fallat: %1$s</string>
     <string name="add_course_searching">S’està cercant…</string>
     <string name="add_course_title">Afegeix un curs</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Restableix l\'horari de %1$s</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Inicieu la sessió per veure la vostra taula de classe</string>
-    <string name="class_table_total_credits_value">%1$d crèdits</string>
+    <string name="class_table_total_credits_value">%1$s crèdits</string>
     <string name="cloud_sync_assignments">Tasques</string>
     <string name="cloud_sync_class_table">Horari de classes</string>
     <string name="cloud_sync_class_table_footer">Tria quines dades de l\'horari vols sincronitzar entre dispositius.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Esperant que el sistema assigni un token</string>
     <string name="refreshing_message">Actualitzant… un moment</string>
     <string name="score_academic_year_semester">Any acadèmic %1$s %2$s</string>
-    <string name="score_course_credits">%1$d crèdits</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d crèdits</string>
+    <string name="score_course_credits">%1$s crèdits</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s crèdits</string>
     <string name="score_course_detail_enrollment_label">Inscripció</string>
     <string name="score_course_detail_schedule_label">Horari de classe</string>
     <string name="score_credit_earned">Obtinguts</string>

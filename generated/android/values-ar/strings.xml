@@ -38,7 +38,7 @@
     <string name="add_course_example">مثال: EC1013701، التفاضل والتكامل، John Wang</string>
     <string name="add_course_not_found">لم يُعثر على مقررات مطابقة</string>
     <string name="add_course_placeholder">أدخل رمز المقرر أو اسمه أو اسم المُحاضِر</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d ساعات معتمدة</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s ساعات معتمدة</string>
     <string name="add_course_search_failed">فشل البحث: %1$s</string>
     <string name="add_course_searching">جارٍ البحث…</string>
     <string name="add_course_title">إضافة مقرر</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">إعادة تعيين جدول %1$s</string>
     <string name="class_table_semester_picker_label">الفصل الدراسي</string>
     <string name="class_table_sign_in_required_message">قم بتسجيل الدخول لعرض جدول صفك</string>
-    <string name="class_table_total_credits_value">%1$d ساعات معتمدة</string>
+    <string name="class_table_total_credits_value">%1$s ساعات معتمدة</string>
     <string name="cloud_sync_assignments">الواجبات</string>
     <string name="cloud_sync_class_table">جدول الحصص</string>
     <string name="cloud_sync_class_table_footer">اختر بيانات جدول الحصص التي تريد مزامنتها بين الأجهزة.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">في انتظار تعيين token من النظام</string>
     <string name="refreshing_message">جارٍ التحديث… انتظر قليلًا</string>
     <string name="score_academic_year_semester">العام الدراسي %1$s %2$s</string>
-    <string name="score_course_credits">%1$d ساعات معتمدة</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d ساعة معتمدة</string>
+    <string name="score_course_credits">%1$s ساعات معتمدة</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s ساعة معتمدة</string>
     <string name="score_course_detail_enrollment_label">التسجيل</string>
     <string name="score_course_detail_schedule_label">الجدول الدراسي</string>
     <string name="score_credit_earned">المكتسبة</string>

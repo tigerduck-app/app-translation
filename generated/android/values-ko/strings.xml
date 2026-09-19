@@ -38,7 +38,7 @@
     <string name="add_course_example">예: EC1013701, 미적분학, John Wang</string>
     <string name="add_course_not_found">일치하는 수업을 찾을 수 없습니다</string>
     <string name="add_course_placeholder">수업 코드, 이름 또는 강사명을 입력하세요</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d 학점</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s 학점</string>
     <string name="add_course_search_failed">검색 실패: %1$s</string>
     <string name="add_course_searching">검색 중…</string>
     <string name="add_course_title">수업 추가</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s 시간표 초기화</string>
     <string name="class_table_semester_picker_label">학기</string>
     <string name="class_table_sign_in_required_message">시간표를 보려면 로그인하세요</string>
-    <string name="class_table_total_credits_value">%1$d 학점</string>
+    <string name="class_table_total_credits_value">%1$s 학점</string>
     <string name="cloud_sync_assignments">과제</string>
     <string name="cloud_sync_class_table">시간표</string>
     <string name="cloud_sync_class_table_footer">기기 간에 동기화할 시간표 데이터를 선택하세요.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">시스템이 token을 할당하기를 기다리는 중</string>
     <string name="refreshing_message">새로고침 중… 잠시만요</string>
     <string name="score_academic_year_semester">%1$s 학년도 %2$s</string>
-    <string name="score_course_credits">%1$d 학점</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d학점</string>
+    <string name="score_course_credits">%1$s 학점</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s학점</string>
     <string name="score_course_detail_enrollment_label">수강 신청</string>
     <string name="score_course_detail_schedule_label">수업 일정</string>
     <string name="score_credit_earned">취득</string>

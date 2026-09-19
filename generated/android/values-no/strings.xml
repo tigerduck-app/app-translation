@@ -38,7 +38,7 @@
     <string name="add_course_example">Eksempel: EC1013701, Kalkulus, John Wang</string>
     <string name="add_course_not_found">Ingen samsvarende fag funnet</string>
     <string name="add_course_placeholder">Skriv inn fagkode, navn eller faglærer</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d studiepoeng</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s studiepoeng</string>
     <string name="add_course_search_failed">Søk mislyktes: %1$s</string>
     <string name="add_course_searching">Søker…</string>
     <string name="add_course_title">Legg til fag</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Tilbakestill timeplan for %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Logg inn for å se timeplanen din</string>
-    <string name="class_table_total_credits_value">%1$d studiepoeng</string>
+    <string name="class_table_total_credits_value">%1$s studiepoeng</string>
     <string name="cloud_sync_assignments">Oppgaver</string>
     <string name="cloud_sync_class_table">Timeplan</string>
     <string name="cloud_sync_class_table_footer">Velg hvilke timeplandata som skal synkroniseres mellom enheter.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Venter på at systemet skal tildele en token</string>
     <string name="refreshing_message">Oppdaterer… vent litt</string>
     <string name="score_academic_year_semester">Studieår %1$s %2$s</string>
-    <string name="score_course_credits">%1$d studiepoeng</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d studiepoeng</string>
+    <string name="score_course_credits">%1$s studiepoeng</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s studiepoeng</string>
     <string name="score_course_detail_enrollment_label">Påmelding</string>
     <string name="score_course_detail_schedule_label">Timeplan</string>
     <string name="score_credit_earned">Oppnådd</string>

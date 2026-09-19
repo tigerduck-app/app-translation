@@ -38,7 +38,7 @@
     <string name="add_course_example">ಉದಾಹರಣೆ: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">ಯಾವ ಹೊಂದಾಣಿಕೆಯ ಕೋರ್ಸ್‌ಗಳೂ ಸಿಗಲಿಲ್ಲ</string>
     <string name="add_course_placeholder">ಕೋರ್ಸ್ ಕೋಡ್, ಹೆಸರು ಅಥವಾ ಬೋಧಕರ ಹೆಸರು ನಮೂದಿಸಿ</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d ಕ್ರೆಡಿಟ್‌ಗಳು</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s ಕ್ರೆಡಿಟ್‌ಗಳು</string>
     <string name="add_course_search_failed">ಹುಡುಕಾಟ ವಿಫಲವಾಯಿತು: %1$s</string>
     <string name="add_course_searching">ಹುಡುಕಲಾಗುತ್ತಿದೆ…</string>
     <string name="add_course_title">ಕೋರ್ಸ್ ಸೇರಿಸಿ</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s ಕೋರ್ಸ್ ಟೇಬಲ್ ಮರುಹೊಂದಿಸಿ</string>
     <string name="class_table_semester_picker_label">ಸೆಮಿಸ್ಟರ್</string>
     <string name="class_table_sign_in_required_message">ನಿಮ್ಮ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ನೋಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
-    <string name="class_table_total_credits_value">%1$d ಕ್ರೆಡಿಟ್‌ಗಳು</string>
+    <string name="class_table_total_credits_value">%1$s ಕ್ರೆಡಿಟ್‌ಗಳು</string>
     <string name="cloud_sync_assignments">ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು</string>
     <string name="cloud_sync_class_table">ತರಗತಿ ವೇಳಾಪಟ್ಟಿ</string>
     <string name="cloud_sync_class_table_footer">ಸಾಧನಗಳ ನಡುವೆ ಯಾವ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ಡೇಟಾವನ್ನು ಸಿಂಕ್ ಮಾಡಬೇಕೆಂದು ಆಯ್ಕೆ ಮಾಡಿ.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">ಸಿಸ್ಟಮ್ token ನಿಯೋಜಿಸಲು ಕಾಯುತ್ತಿದೆ</string>
     <string name="refreshing_message">ರಿಫ್ರೆಶ್ ಆಗುತ್ತಿದೆ… ಸ್ವಲ್ಪ ನಿರೀಕ್ಷಿಸಿ</string>
     <string name="score_academic_year_semester">ಶೈಕ್ಷಣಿಕ ವರ್ಷ %1$s %2$s</string>
-    <string name="score_course_credits">%1$d ಕ್ರೆಡಿಟ್‌ಗಳು</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d ಕ್ರೆಡಿಟ್‌ಗಳು</string>
+    <string name="score_course_credits">%1$s ಕ್ರೆಡಿಟ್‌ಗಳು</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s ಕ್ರೆಡಿಟ್‌ಗಳು</string>
     <string name="score_course_detail_enrollment_label">ನೋಂದಣಿ</string>
     <string name="score_course_detail_schedule_label">ತರಗತಿ ವೇಳಾಪಟ್ಟಿ</string>
     <string name="score_credit_earned">ಗಳಿಸಿದ್ದು</string>

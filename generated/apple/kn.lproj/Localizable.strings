@@ -35,7 +35,7 @@
 "add_course_example" = "ಉದಾಹರಣೆ: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "ಯಾವ ಹೊಂದಾಣಿಕೆಯ ಕೋರ್ಸ್‌ಗಳೂ ಸಿಗಲಿಲ್ಲ";
 "add_course_placeholder" = "ಕೋರ್ಸ್ ಕೋಡ್, ಹೆಸರು ಅಥವಾ ಬೋಧಕರ ಹೆಸರು ನಮೂದಿಸಿ";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d ಕ್ರೆಡಿಟ್‌ಗಳು";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ ಕ್ರೆಡಿಟ್‌ಗಳು";
 "add_course_search_failed" = "ಹುಡುಕಾಟ ವಿಫಲವಾಯಿತು: %1$@";
 "add_course_searching" = "ಹುಡುಕಲಾಗುತ್ತಿದೆ…";
 "add_course_title" = "ಕೋರ್ಸ್ ಸೇರಿಸಿ";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "%1$@ ಕೋರ್ಸ್ ಟೇಬಲ್ ಮರುಹೊಂದಿಸಿ";
 "class_table_semester_picker_label" = "ಸೆಮಿಸ್ಟರ್";
 "class_table_sign_in_required_message" = "ನಿಮ್ಮ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ನೋಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ";
-"class_table_total_credits_value" = "%1$d ಕ್ರೆಡಿಟ್‌ಗಳು";
+"class_table_total_credits_value" = "%1$@ ಕ್ರೆಡಿಟ್‌ಗಳು";
 "cloud_sync_assignments" = "ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು";
 "cloud_sync_class_table" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿ";
 "cloud_sync_class_table_footer" = "ಸಾಧನಗಳ ನಡುವೆ ಯಾವ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ಡೇಟಾವನ್ನು ಸಿಂಕ್ ಮಾಡಬೇಕೆಂದು ಆಯ್ಕೆ ಮಾಡಿ.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "ಸಿಸ್ಟಮ್ token ನಿಯೋಜಿಸಲು ಕಾಯುತ್ತಿದೆ";
 "refreshing_message" = "ರಿಫ್ರೆಶ್ ಆಗುತ್ತಿದೆ… ಸ್ವಲ್ಪ ನಿರೀಕ್ಷಿಸಿ";
 "score_academic_year_semester" = "ಶೈಕ್ಷಣಿಕ ವರ್ಷ %1$@ %2$@";
-"score_course_credits" = "%1$d ಕ್ರೆಡಿಟ್‌ಗಳು";
-"score_course_credits_meta" = "%1$@ · %2$d ಕ್ರೆಡಿಟ್‌ಗಳು";
+"score_course_credits" = "%1$@ ಕ್ರೆಡಿಟ್‌ಗಳು";
+"score_course_credits_meta" = "%1$@ · %2$@ ಕ್ರೆಡಿಟ್‌ಗಳು";
 "score_course_detail_enrollment_label" = "ನೋಂದಣಿ";
 "score_course_detail_schedule_label" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿ";
 "score_credit_earned" = "ಗಳಿಸಿದ್ದು";

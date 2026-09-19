@@ -38,7 +38,7 @@
     <string name="add_course_example">Dæmi: EC1013701, Stærðfræðigreining, Jón Jónsson</string>
     <string name="add_course_not_found">Engin námskeið fundust</string>
     <string name="add_course_placeholder">Sláðu inn námskeiðskóða, nafn eða kennara</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d einingar</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s einingar</string>
     <string name="add_course_search_failed">Leit mistókst: %1$s</string>
     <string name="add_course_searching">Leita…</string>
     <string name="add_course_title">Bæta við námskeiði</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Endurstilla stundatöflu %1$s</string>
     <string name="class_table_semester_picker_label">Misseri</string>
     <string name="class_table_sign_in_required_message">Skráðu þig inn til að sjá stundaskrána þína</string>
-    <string name="class_table_total_credits_value">%1$d einingar</string>
+    <string name="class_table_total_credits_value">%1$s einingar</string>
     <string name="cloud_sync_assignments">Verkefni</string>
     <string name="cloud_sync_class_table">Stundaskrá</string>
     <string name="cloud_sync_class_table_footer">Veldu hvaða stundaskrárgögn á samstilla á milli tækja.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Bíður eftir að kerfið úthluti token</string>
     <string name="refreshing_message">Uppfærir… bíddu aðeins</string>
     <string name="score_academic_year_semester">Skólaár %1$s %2$s</string>
-    <string name="score_course_credits">%1$d einingar</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d einingar</string>
+    <string name="score_course_credits">%1$s einingar</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s einingar</string>
     <string name="score_course_detail_enrollment_label">Skráning</string>
     <string name="score_course_detail_schedule_label">Stundaskrá</string>
     <string name="score_credit_earned">Aflað</string>

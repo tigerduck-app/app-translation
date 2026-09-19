@@ -38,7 +38,7 @@
     <string name="add_course_example">לדוגמה: EC1013701, חשבון אינפיניטסימלי, ג\'ון וואנג</string>
     <string name="add_course_not_found">לא נמצאו קורסים תואמים</string>
     <string name="add_course_placeholder">הזן קוד קורס, שם או מרצה</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d נקודות זכות</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s נקודות זכות</string>
     <string name="add_course_search_failed">החיפוש נכשל: %1$s</string>
     <string name="add_course_searching">מחפש…</string>
     <string name="add_course_title">הוסף קורס</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">איפוס מערכת השעות של %1$s</string>
     <string name="class_table_semester_picker_label">שנת הלימודים</string>
     <string name="class_table_sign_in_required_message">היכנס כדי להציג את טבלת הכיתה שלך</string>
-    <string name="class_table_total_credits_value">%1$d נקודות זכות</string>
+    <string name="class_table_total_credits_value">%1$s נקודות זכות</string>
     <string name="cloud_sync_assignments">מטלות</string>
     <string name="cloud_sync_class_table">מערכת שעות</string>
     <string name="cloud_sync_class_table_footer">בחרו אילו נתוני מערכת שעות לסנכרן בין מכשירים.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">ממתין שהמערכת תקצה token</string>
     <string name="refreshing_message">מרענן… רגע</string>
     <string name="score_academic_year_semester">שנת לימודים %1$s %2$s</string>
-    <string name="score_course_credits">%1$d נקודות זכות</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d נקודות זכות</string>
+    <string name="score_course_credits">%1$s נקודות זכות</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s נקודות זכות</string>
     <string name="score_course_detail_enrollment_label">הצטרפות</string>
     <string name="score_course_detail_schedule_label">לוח זמנים של כיתה</string>
     <string name="score_credit_earned">נצברו</string>

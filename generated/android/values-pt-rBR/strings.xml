@@ -38,7 +38,7 @@
     <string name="add_course_example">Exemplo: EC1013701, Cálculo, João Silva</string>
     <string name="add_course_not_found">Nenhuma disciplina correspondente encontrada</string>
     <string name="add_course_placeholder">Digite o código, nome da disciplina ou professor</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d créditos</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s créditos</string>
     <string name="add_course_search_failed">Falha na busca: %1$s</string>
     <string name="add_course_searching">Buscando…</string>
     <string name="add_course_title">Adicionar disciplina</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Redefinir grade de %1$s</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Faça login para ver sua grade de aulas</string>
-    <string name="class_table_total_credits_value">%1$d créditos</string>
+    <string name="class_table_total_credits_value">%1$s créditos</string>
     <string name="cloud_sync_assignments">Tarefas</string>
     <string name="cloud_sync_class_table">Grade de horários</string>
     <string name="cloud_sync_class_table_footer">Escolha quais dados da grade sincronizar entre dispositivos.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Aguardando o sistema atribuir um token</string>
     <string name="refreshing_message">Atualizando… aguarde</string>
     <string name="score_academic_year_semester">Ano letivo %1$s %2$s</string>
-    <string name="score_course_credits">%1$d créditos</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d créditos</string>
+    <string name="score_course_credits">%1$s créditos</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s créditos</string>
     <string name="score_course_detail_enrollment_label">Matrícula</string>
     <string name="score_course_detail_schedule_label">Grade de aulas</string>
     <string name="score_credit_earned">Obtidos</string>

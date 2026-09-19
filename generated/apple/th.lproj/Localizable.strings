@@ -35,7 +35,7 @@
 "add_course_example" = "ตัวอย่าง: EC1013701, แคลคูลัส, John Wang";
 "add_course_not_found" = "ไม่พบรายวิชาที่ตรงกัน";
 "add_course_placeholder" = "ใส่รหัสวิชา ชื่อวิชา หรือชื่ออาจารย์";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d หน่วยกิต";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ หน่วยกิต";
 "add_course_search_failed" = "ค้นหาล้มเหลว: %1$@";
 "add_course_searching" = "กำลังค้นหา…";
 "add_course_title" = "เพิ่มรายวิชา";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "รีเซ็ตตารางเรียน %1$@";
 "class_table_semester_picker_label" = "ภาคการศึกษา";
 "class_table_sign_in_required_message" = "เข้าสู่ระบบเพื่อดูตารางเรียนของคุณ";
-"class_table_total_credits_value" = "%1$d หน่วยกิต";
+"class_table_total_credits_value" = "%1$@ หน่วยกิต";
 "cloud_sync_assignments" = "งานที่ได้รับมอบหมาย";
 "cloud_sync_class_table" = "ตารางเรียน";
 "cloud_sync_class_table_footer" = "เลือกข้อมูลตารางเรียนที่จะซิงค์ระหว่างอุปกรณ์";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "รอให้ระบบกำหนด token";
 "refreshing_message" = "กำลังรีเฟรช… โปรดรอสักครู่";
 "score_academic_year_semester" = "ปีการศึกษา %1$@ %2$@";
-"score_course_credits" = "%1$d หน่วยกิต";
-"score_course_credits_meta" = "%1$@ · %2$d หน่วยกิต";
+"score_course_credits" = "%1$@ หน่วยกิต";
+"score_course_credits_meta" = "%1$@ · %2$@ หน่วยกิต";
 "score_course_detail_enrollment_label" = "การลงทะเบียน";
 "score_course_detail_schedule_label" = "ตารางเรียน";
 "score_credit_earned" = "ได้รับแล้ว";

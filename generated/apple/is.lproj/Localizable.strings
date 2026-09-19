@@ -35,7 +35,7 @@
 "add_course_example" = "Dæmi: EC1013701, Stærðfræðigreining, Jón Jónsson";
 "add_course_not_found" = "Engin námskeið fundust";
 "add_course_placeholder" = "Sláðu inn námskeiðskóða, nafn eða kennara";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d einingar";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ einingar";
 "add_course_search_failed" = "Leit mistókst: %1$@";
 "add_course_searching" = "Leita…";
 "add_course_title" = "Bæta við námskeiði";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Endurstilla stundatöflu %1$@";
 "class_table_semester_picker_label" = "Misseri";
 "class_table_sign_in_required_message" = "Skráðu þig inn til að sjá stundaskrána þína";
-"class_table_total_credits_value" = "%1$d einingar";
+"class_table_total_credits_value" = "%1$@ einingar";
 "cloud_sync_assignments" = "Verkefni";
 "cloud_sync_class_table" = "Stundaskrá";
 "cloud_sync_class_table_footer" = "Veldu hvaða stundaskrárgögn á samstilla á milli tækja.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Bíður eftir að kerfið úthluti token";
 "refreshing_message" = "Uppfærir… bíddu aðeins";
 "score_academic_year_semester" = "Skólaár %1$@ %2$@";
-"score_course_credits" = "%1$d einingar";
-"score_course_credits_meta" = "%1$@ · %2$d einingar";
+"score_course_credits" = "%1$@ einingar";
+"score_course_credits_meta" = "%1$@ · %2$@ einingar";
 "score_course_detail_enrollment_label" = "Skráning";
 "score_course_detail_schedule_label" = "Stundaskrá";
 "score_credit_earned" = "Aflað";

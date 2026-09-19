@@ -35,7 +35,7 @@
 "add_course_example" = "Beispiel: EC1013701, Analysis, John Wang";
 "add_course_not_found" = "Keine passenden Kurse gefunden";
 "add_course_placeholder" = "Kurscode, Name oder Dozent eingeben";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d Leistungspunkte";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ Leistungspunkte";
 "add_course_search_failed" = "Suche fehlgeschlagen: %1$@";
 "add_course_searching" = "Suche läuft…";
 "add_course_title" = "Kurs hinzufügen";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Stundenplan %1$@ zurücksetzen";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
-"class_table_total_credits_value" = "%1$d Leistungspunkte";
+"class_table_total_credits_value" = "%1$@ Leistungspunkte";
 "cloud_sync_assignments" = "Aufgaben";
 "cloud_sync_class_table" = "Stundenplan";
 "cloud_sync_class_table_footer" = "Wähle aus, welche Stundenplan-Daten zwischen Geräten synchronisiert werden sollen.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Warte auf Token-Zuweisung durch das System";
 "refreshing_message" = "Wird aktualisiert … einen Moment";
 "score_academic_year_semester" = "Akademisches Jahr %1$@ %2$@";
-"score_course_credits" = "%1$d Leistungspunkte";
-"score_course_credits_meta" = "%1$@ · %2$d Leistungspunkte";
+"score_course_credits" = "%1$@ Leistungspunkte";
+"score_course_credits_meta" = "%1$@ · %2$@ Leistungspunkte";
 "score_course_detail_enrollment_label" = "Einschreibung";
 "score_course_detail_schedule_label" = "Stundenplan";
 "score_credit_earned" = "Erworben";

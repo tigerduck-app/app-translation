@@ -38,7 +38,7 @@
     <string name="add_course_example">Мысалы: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">Сәйкес курстар табылмады</string>
     <string name="add_course_placeholder">Курс кодын, атауын немесе оқытушыны енгізіңіз</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d кредит</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s кредит</string>
     <string name="add_course_search_failed">Іздеу сәтсіз аяқталды: %1$s</string>
     <string name="add_course_searching">Іздеу…</string>
     <string name="add_course_title">Курс қосу</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s сабақ кестесін қалпына келтіру</string>
     <string name="class_table_semester_picker_label">Семестр</string>
     <string name="class_table_sign_in_required_message">Сабақ кестесін қарау үшін жүйеге кіріңіз</string>
-    <string name="class_table_total_credits_value">%1$d кредит</string>
+    <string name="class_table_total_credits_value">%1$s кредит</string>
     <string name="cloud_sync_assignments">Тапсырмалар</string>
     <string name="cloud_sync_class_table">Сабақ кестесі</string>
     <string name="cloud_sync_class_table_footer">Құрылғылар арасында қандай сабақ кестесі деректерін синхрондау керектігін таңдаңыз.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Жүйенің token тағайындауын күтуде</string>
     <string name="refreshing_message">Жаңартылуда… күтіңіз</string>
     <string name="score_academic_year_semester">%1$s оқу жылы %2$s семестр</string>
-    <string name="score_course_credits">%1$d кредит</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d кредит</string>
+    <string name="score_course_credits">%1$s кредит</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s кредит</string>
     <string name="score_course_detail_enrollment_label">Тіркелу</string>
     <string name="score_course_detail_schedule_label">Сабақ кестесі</string>
     <string name="score_credit_earned">Алынған</string>

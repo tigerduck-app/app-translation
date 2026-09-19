@@ -35,7 +35,7 @@
 "add_course_example" = "Örnek: EC1013701, Kalkülüs, John Wang";
 "add_course_not_found" = "Eşleşen ders bulunamadı";
 "add_course_placeholder" = "Ders kodu, adı veya öğretim üyesi girin";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d kredi";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ kredi";
 "add_course_search_failed" = "Arama başarısız: %1$@";
 "add_course_searching" = "Aranıyor…";
 "add_course_title" = "Ders ekle";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "%1$@ ders programını sıfırla";
 "class_table_semester_picker_label" = "Dönem";
 "class_table_sign_in_required_message" = "Ders programınızı görmek için oturum açın";
-"class_table_total_credits_value" = "%1$d kredi";
+"class_table_total_credits_value" = "%1$@ kredi";
 "cloud_sync_assignments" = "Ödevler";
 "cloud_sync_class_table" = "Ders programı";
 "cloud_sync_class_table_footer" = "Cihazlar arasında hangi ders programı verilerinin senkronize edileceğini seçin.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Sistemin token ataması bekleniyor";
 "refreshing_message" = "Yenileniyor… lütfen bekleyin";
 "score_academic_year_semester" = "%1$@ Akademik Yılı %2$@";
-"score_course_credits" = "%1$d kredi";
-"score_course_credits_meta" = "%1$@ · %2$d kredi";
+"score_course_credits" = "%1$@ kredi";
+"score_course_credits_meta" = "%1$@ · %2$@ kredi";
 "score_course_detail_enrollment_label" = "Kayıt";
 "score_course_detail_schedule_label" = "Ders programı";
 "score_credit_earned" = "Kazanılan";

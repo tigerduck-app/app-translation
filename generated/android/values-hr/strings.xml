@@ -38,7 +38,7 @@
     <string name="add_course_example">Primjer: EC1013701, Matematička analiza, Ivan Horvat</string>
     <string name="add_course_not_found">Nema pronađenih kolegija</string>
     <string name="add_course_placeholder">Unesite šifru kolegija, naziv ili nastavnika</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d ECTS bodovi</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s ECTS bodovi</string>
     <string name="add_course_search_failed">Pretraga nije uspjela: %1$s</string>
     <string name="add_course_searching">Pretraživanje…</string>
     <string name="add_course_title">Dodaj kolegij</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Poništi raspored %1$s</string>
     <string name="class_table_semester_picker_label">Semestar</string>
     <string name="class_table_sign_in_required_message">Prijavite se za pregled rasporeda nastave</string>
-    <string name="class_table_total_credits_value">%1$d ECTS bodovi</string>
+    <string name="class_table_total_credits_value">%1$s ECTS bodovi</string>
     <string name="cloud_sync_assignments">Zadaci</string>
     <string name="cloud_sync_class_table">Raspored sati</string>
     <string name="cloud_sync_class_table_footer">Odaberite koje podatke rasporeda želite sinkronizirati između uređaja.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Čeka da sustav dodijeli token</string>
     <string name="refreshing_message">Osvježavanje… pričekajte</string>
     <string name="score_academic_year_semester">Akademska godina %1$s %2$s</string>
-    <string name="score_course_credits">%1$d ECTS bodovi</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d ECTS bodova</string>
+    <string name="score_course_credits">%1$s ECTS bodovi</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s ECTS bodova</string>
     <string name="score_course_detail_enrollment_label">Upis</string>
     <string name="score_course_detail_schedule_label">Raspored nastave</string>
     <string name="score_credit_earned">Stečeni</string>

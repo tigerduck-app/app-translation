@@ -38,7 +38,7 @@
     <string name="add_course_example">Pvz.: EC1013701, Matematika, Jonas Jonaitis</string>
     <string name="add_course_not_found">Atitinkamų kursų nerasta</string>
     <string name="add_course_placeholder">Įveskite kurso kodą, pavadinimą arba dėstytoją</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d kreditai</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s kreditai</string>
     <string name="add_course_search_failed">Paieška nepavyko: %1$s</string>
     <string name="add_course_searching">Ieškoma…</string>
     <string name="add_course_title">Pridėti kursą</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Atstatyti %1$s tvarkaraštį</string>
     <string name="class_table_semester_picker_label">Semestras</string>
     <string name="class_table_sign_in_required_message">Prisijunkite, kad matytumėte savo tvarkaraštį</string>
-    <string name="class_table_total_credits_value">%1$d kreditai</string>
+    <string name="class_table_total_credits_value">%1$s kreditai</string>
     <string name="cloud_sync_assignments">Užduotys</string>
     <string name="cloud_sync_class_table">Tvarkaraštis</string>
     <string name="cloud_sync_class_table_footer">Pasirinkite, kuriuos tvarkaraščio duomenis sinchronizuoti tarp įrenginių.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Laukiama, kol sistema priskirs token</string>
     <string name="refreshing_message">Atnaujinama… palaukite</string>
     <string name="score_academic_year_semester">Akademiniai metai %1$s %2$s</string>
-    <string name="score_course_credits">%1$d kreditai</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d kreditai</string>
+    <string name="score_course_credits">%1$s kreditai</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s kreditai</string>
     <string name="score_course_detail_enrollment_label">Registracija</string>
     <string name="score_course_detail_schedule_label">Pamokų tvarkaraštis</string>
     <string name="score_credit_earned">Gauta</string>

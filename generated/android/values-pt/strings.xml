@@ -38,7 +38,7 @@
     <string name="add_course_example">Exemplo: EC1013701, Cálculo, John Wang</string>
     <string name="add_course_not_found">Não foram encontradas cadeiras correspondentes</string>
     <string name="add_course_placeholder">Introduz o código, o nome ou o docente da cadeira</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d créditos</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s créditos</string>
     <string name="add_course_search_failed">Falha na pesquisa: %1$s</string>
     <string name="add_course_searching">A procurar…</string>
     <string name="add_course_title">Adicionar cadeira</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Repor horário de %1$s</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Inicia sessão para ver o teu horário</string>
-    <string name="class_table_total_credits_value">%1$d créditos</string>
+    <string name="class_table_total_credits_value">%1$s créditos</string>
     <string name="cloud_sync_assignments">Tarefas</string>
     <string name="cloud_sync_class_table">Horário de aulas</string>
     <string name="cloud_sync_class_table_footer">Escolha que dados do horário sincronizar entre dispositivos.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">A aguardar que o sistema atribua um token</string>
     <string name="refreshing_message">A atualizar… aguarda um momento</string>
     <string name="score_academic_year_semester">Ano Letivo %1$s %2$s</string>
-    <string name="score_course_credits">%1$d créditos</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d créditos</string>
+    <string name="score_course_credits">%1$s créditos</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s créditos</string>
     <string name="score_course_detail_enrollment_label">Inscrição</string>
     <string name="score_course_detail_schedule_label">Horário das aulas</string>
     <string name="score_credit_earned">Obtidos</string>

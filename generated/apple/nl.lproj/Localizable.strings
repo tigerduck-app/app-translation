@@ -35,7 +35,7 @@
 "add_course_example" = "Voorbeeld: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "Geen overeenkomende vakken gevonden";
 "add_course_placeholder" = "Voer vakcode, naam of docent in";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d studiepunten";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ studiepunten";
 "add_course_search_failed" = "Zoeken mislukt: %1$@";
 "add_course_searching" = "Zoeken…";
 "add_course_title" = "Vak toevoegen";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Lesrooster %1$@ herstellen";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Meld je aan om je rooster te bekijken";
-"class_table_total_credits_value" = "%1$d studiepunten";
+"class_table_total_credits_value" = "%1$@ studiepunten";
 "cloud_sync_assignments" = "Opdrachten";
 "cloud_sync_class_table" = "Lesrooster";
 "cloud_sync_class_table_footer" = "Kies welke lesroostergegevens tussen apparaten gesynchroniseerd worden.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Wachten tot het systeem een token toewijst";
 "refreshing_message" = "Bezig met vernieuwen… momentje";
 "score_academic_year_semester" = "Studiejaar %1$@ %2$@";
-"score_course_credits" = "%1$d studiepunten";
-"score_course_credits_meta" = "%1$@ · %2$d studiepunten";
+"score_course_credits" = "%1$@ studiepunten";
+"score_course_credits_meta" = "%1$@ · %2$@ studiepunten";
 "score_course_detail_enrollment_label" = "Inschrijving";
 "score_course_detail_schedule_label" = "Lesrooster";
 "score_credit_earned" = "Behaald";

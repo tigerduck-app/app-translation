@@ -38,7 +38,7 @@
     <string name="add_course_example">Exempel: EC1013701, Kalkyl, Johan Wang</string>
     <string name="add_course_not_found">Inga matchande kurser hittades</string>
     <string name="add_course_placeholder">Ange kurskod, namn eller lärare</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d hp</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s hp</string>
     <string name="add_course_search_failed">Sökning misslyckades: %1$s</string>
     <string name="add_course_searching">Söker…</string>
     <string name="add_course_title">Lägg till kurs</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Återställ schemat för %1$s</string>
     <string name="class_table_semester_picker_label">Termin</string>
     <string name="class_table_sign_in_required_message">Logga in för att visa ditt schema</string>
-    <string name="class_table_total_credits_value">%1$d hp</string>
+    <string name="class_table_total_credits_value">%1$s hp</string>
     <string name="cloud_sync_assignments">Uppgifter</string>
     <string name="cloud_sync_class_table">Schema</string>
     <string name="cloud_sync_class_table_footer">Välj vilka schemadata som ska synkroniseras mellan enheter.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Väntar på att systemet ska tilldela en token</string>
     <string name="refreshing_message">Uppdaterar… vänta lite</string>
     <string name="score_academic_year_semester">Läsår %1$s %2$s</string>
-    <string name="score_course_credits">%1$d hp</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d hp</string>
+    <string name="score_course_credits">%1$s hp</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s hp</string>
     <string name="score_course_detail_enrollment_label">Registrering</string>
     <string name="score_course_detail_schedule_label">Kursschema</string>
     <string name="score_credit_earned">Intjänade</string>

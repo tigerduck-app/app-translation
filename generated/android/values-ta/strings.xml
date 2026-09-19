@@ -38,7 +38,7 @@
     <string name="add_course_example">எடுத்துக்காட்டு: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">பொருந்தும் வகுப்புகள் எதுவும் கிடைக்கவில்லை</string>
     <string name="add_course_placeholder">வகுப்பு குறியீடு, பெயர் அல்லது விரிவுரையாளர் உள்ளிடவும்</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d கிரெடிட்கள்</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s கிரெடிட்கள்</string>
     <string name="add_course_search_failed">தேடல் தோல்வியடைந்தது: %1$s</string>
     <string name="add_course_searching">தேடுகிறது…</string>
     <string name="add_course_title">வகுப்பு சேர்</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s பாடநேர அட்டவணையை மீட்டமைக்கவும்</string>
     <string name="class_table_semester_picker_label">பருவம்</string>
     <string name="class_table_sign_in_required_message">உங்கள் வகுப்பு அட்டவணையை காண உள்நுழையவும்</string>
-    <string name="class_table_total_credits_value">%1$d கிரெடிட்கள்</string>
+    <string name="class_table_total_credits_value">%1$s கிரெடிட்கள்</string>
     <string name="cloud_sync_assignments">பணிகள்</string>
     <string name="cloud_sync_class_table">வகுப்பு அட்டவணை</string>
     <string name="cloud_sync_class_table_footer">சாதனங்களுக்கிடையில் எந்த வகுப்பு அட்டவணை தரவை ஒத்திசைக்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">கணினி token வழங்குவதற்காக காத்திருக்கிறது</string>
     <string name="refreshing_message">புதுப்பிக்கிறோம்… கொஞ்சம் காத்திருங்கள்</string>
     <string name="score_academic_year_semester">கல்வியாண்டு %1$s %2$s</string>
-    <string name="score_course_credits">%1$d கிரெடிட்கள்</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d மதிப்பெண்கள்</string>
+    <string name="score_course_credits">%1$s கிரெடிட்கள்</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s மதிப்பெண்கள்</string>
     <string name="score_course_detail_enrollment_label">சேர்க்கை</string>
     <string name="score_course_detail_schedule_label">வகுப்பு அட்டவணை</string>
     <string name="score_credit_earned">பெற்றவை</string>

@@ -35,7 +35,7 @@
 "add_course_example" = "Contoh: EC1013701, Kalkulus, John Wang";
 "add_course_not_found" = "Tidak ada mata kuliah yang cocok";
 "add_course_placeholder" = "Masukkan kode mata kuliah, nama, atau dosen";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d SKS";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ SKS";
 "add_course_search_failed" = "Pencarian gagal: %1$@";
 "add_course_searching" = "Mencari…";
 "add_course_title" = "Tambah mata kuliah";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Reset jadwal kuliah %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Masuk untuk melihat jadwal kelas Anda";
-"class_table_total_credits_value" = "%1$d SKS";
+"class_table_total_credits_value" = "%1$@ SKS";
 "cloud_sync_assignments" = "Tugas";
 "cloud_sync_class_table" = "Jadwal kelas";
 "cloud_sync_class_table_footer" = "Pilih data jadwal kelas mana yang akan disinkronkan antar perangkat.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Menunggu sistem menetapkan token";
 "refreshing_message" = "Sedang menyegarkan… mohon tunggu";
 "score_academic_year_semester" = "Tahun Akademik %1$@ %2$@";
-"score_course_credits" = "%1$d SKS";
-"score_course_credits_meta" = "%1$@ · %2$d sks";
+"score_course_credits" = "%1$@ SKS";
+"score_course_credits_meta" = "%1$@ · %2$@ sks";
 "score_course_detail_enrollment_label" = "Pendaftaran";
 "score_course_detail_schedule_label" = "Jadwal kelas";
 "score_credit_earned" = "Diperoleh";

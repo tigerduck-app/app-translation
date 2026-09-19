@@ -35,7 +35,7 @@
 "add_course_example" = "Example: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "No matching courses found";
 "add_course_placeholder" = "Enter course code, name, or instructor";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d credits";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ credits";
 "add_course_search_failed" = "Search failed: %1$@";
 "add_course_searching" = "Searching…";
 "add_course_title" = "Add course";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Reset %1$@ course timetable";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Sign in to view your class table";
-"class_table_total_credits_value" = "%1$d credits";
+"class_table_total_credits_value" = "%1$@ credits";
 "cloud_sync_assignments" = "Assignments";
 "cloud_sync_class_table" = "Class table";
 "cloud_sync_class_table_footer" = "Choose which class table data to sync across devices.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Waiting for System to assign a token";
 "refreshing_message" = "Refreshing… hold on";
 "score_academic_year_semester" = "Academic Year %1$@ %2$@";
-"score_course_credits" = "%1$d credits";
-"score_course_credits_meta" = "%1$@ · %2$d credits";
+"score_course_credits" = "%1$@ credits";
+"score_course_credits_meta" = "%1$@ · %2$@ credits";
 "score_course_detail_enrollment_label" = "Enrollment";
 "score_course_detail_schedule_label" = "Class schedule";
 "score_credit_earned" = "Earned";

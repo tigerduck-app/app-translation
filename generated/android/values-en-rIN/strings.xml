@@ -38,7 +38,7 @@
     <string name="add_course_example">Example: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">No matching courses found</string>
     <string name="add_course_placeholder">Enter course code, name, or instructor</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d credits</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s credits</string>
     <string name="add_course_search_failed">Search failed: %1$s</string>
     <string name="add_course_searching">Searching…</string>
     <string name="add_course_title">Add course</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Reset %1$s class table</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Sign in to view your class table</string>
-    <string name="class_table_total_credits_value">%1$d credits</string>
+    <string name="class_table_total_credits_value">%1$s credits</string>
     <string name="cloud_sync_assignments">Assignments</string>
     <string name="cloud_sync_class_table">Class table</string>
     <string name="cloud_sync_class_table_footer">Choose which class table data to sync across devices.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Waiting for System to assign a token</string>
     <string name="refreshing_message">Refreshing… hold on</string>
     <string name="score_academic_year_semester">Academic Year %1$s %2$s</string>
-    <string name="score_course_credits">%1$d credits</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d credits</string>
+    <string name="score_course_credits">%1$s credits</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s credits</string>
     <string name="score_course_detail_enrollment_label">Enrollment</string>
     <string name="score_course_detail_schedule_label">Class schedule</string>
     <string name="score_credit_earned">Earned</string>

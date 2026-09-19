@@ -35,7 +35,7 @@
 "add_course_example" = "לדוגמה: EC1013701, חשבון אינפיניטסימלי, ג'ון וואנג";
 "add_course_not_found" = "לא נמצאו קורסים תואמים";
 "add_course_placeholder" = "הזן קוד קורס, שם או מרצה";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d נקודות זכות";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ נקודות זכות";
 "add_course_search_failed" = "החיפוש נכשל: %1$@";
 "add_course_searching" = "מחפש…";
 "add_course_title" = "הוסף קורס";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "איפוס מערכת השעות של %1$@";
 "class_table_semester_picker_label" = "שנת הלימודים";
 "class_table_sign_in_required_message" = "היכנס כדי להציג את טבלת הכיתה שלך";
-"class_table_total_credits_value" = "%1$d נקודות זכות";
+"class_table_total_credits_value" = "%1$@ נקודות זכות";
 "cloud_sync_assignments" = "מטלות";
 "cloud_sync_class_table" = "מערכת שעות";
 "cloud_sync_class_table_footer" = "בחרו אילו נתוני מערכת שעות לסנכרן בין מכשירים.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "ממתין שהמערכת תקצה token";
 "refreshing_message" = "מרענן… רגע";
 "score_academic_year_semester" = "שנת לימודים %1$@ %2$@";
-"score_course_credits" = "%1$d נקודות זכות";
-"score_course_credits_meta" = "%1$@ · %2$d נקודות זכות";
+"score_course_credits" = "%1$@ נקודות זכות";
+"score_course_credits_meta" = "%1$@ · %2$@ נקודות זכות";
 "score_course_detail_enrollment_label" = "הצטרפות";
 "score_course_detail_schedule_label" = "לוח זמנים של כיתה";
 "score_credit_earned" = "נצברו";

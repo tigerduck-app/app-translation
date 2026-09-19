@@ -38,7 +38,7 @@
     <string name="add_course_example">Piemērs: EC1013701, Matemātiskā analīze, Jānis Bērziņš</string>
     <string name="add_course_not_found">Nav atrasts neviens atbilstošs kurss</string>
     <string name="add_course_placeholder">Ievadiet kursa kodu, nosaukumu vai pasniedzēju</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d kredītpunkti</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s kredītpunkti</string>
     <string name="add_course_search_failed">Meklēšana neizdevās: %1$s</string>
     <string name="add_course_searching">Meklē…</string>
     <string name="add_course_title">Pievienot kursu</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Atiestatīt %1$s stundu sarakstu</string>
     <string name="class_table_semester_picker_label">Semestris</string>
     <string name="class_table_sign_in_required_message">Pierakstieties, lai skatītu savu stundu sarakstu</string>
-    <string name="class_table_total_credits_value">%1$d kredītpunkti</string>
+    <string name="class_table_total_credits_value">%1$s kredītpunkti</string>
     <string name="cloud_sync_assignments">Uzdevumi</string>
     <string name="cloud_sync_class_table">Stundu saraksts</string>
     <string name="cloud_sync_class_table_footer">Izvēlieties, kurus stundu saraksta datus sinhronizēt starp ierīcēm.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Gaida, kad sistēma piešķirs token</string>
     <string name="refreshing_message">Atjauno… pagaidiet</string>
     <string name="score_academic_year_semester">Akadēmiskais gads %1$s %2$s</string>
-    <string name="score_course_credits">%1$d kredītpunkti</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d kredītp.</string>
+    <string name="score_course_credits">%1$s kredītpunkti</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s kredītp.</string>
     <string name="score_course_detail_enrollment_label">Reģistrācija</string>
     <string name="score_course_detail_schedule_label">Stundu saraksts</string>
     <string name="score_credit_earned">Iegūti</string>

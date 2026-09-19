@@ -38,7 +38,7 @@
     <string name="add_course_example">例：EC1013701、微積分、王小明</string>
     <string name="add_course_not_found">一致する授業が見つかりません</string>
     <string name="add_course_placeholder">授業コード、授業名、または教員名を入力</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d 単位</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s 単位</string>
     <string name="add_course_search_failed">検索に失敗しました：%1$s</string>
     <string name="add_course_searching">検索中…</string>
     <string name="add_course_title">授業を追加</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s の時間割をリセット</string>
     <string name="class_table_semester_picker_label">学期</string>
     <string name="class_table_sign_in_required_message">時間割を表示するにはサインインしてください</string>
-    <string name="class_table_total_credits_value">%1$d 単位</string>
+    <string name="class_table_total_credits_value">%1$s 単位</string>
     <string name="cloud_sync_assignments">課題</string>
     <string name="cloud_sync_class_table">時間割</string>
     <string name="cloud_sync_class_table_footer">デバイス間で同期する時間割データを選択してください。</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">システムの token 割り当てを待機中</string>
     <string name="refreshing_message">更新中です。少々お待ちください…</string>
     <string name="score_academic_year_semester">%1$s 年度 %2$s</string>
-    <string name="score_course_credits">%1$d 単位</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d 単位</string>
+    <string name="score_course_credits">%1$s 単位</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s 単位</string>
     <string name="score_course_detail_enrollment_label">履修登録</string>
     <string name="score_course_detail_schedule_label">授業スケジュール</string>
     <string name="score_credit_earned">取得済み</string>

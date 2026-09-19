@@ -38,7 +38,7 @@
     <string name="add_course_example">例如：EC1013701、微積分、王小明</string>
     <string name="add_course_not_found">找不到符合的課程</string>
     <string name="add_course_placeholder">輸入課程代碼、課名或老師</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d學分</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s學分</string>
     <string name="add_course_search_failed">搜尋失敗：%1$s</string>
     <string name="add_course_searching">搜尋中…</string>
     <string name="add_course_title">新增課程</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">重置 %1$s 課表</string>
     <string name="class_table_semester_picker_label">學期</string>
     <string name="class_table_sign_in_required_message">尚未登入，無法查看課表</string>
-    <string name="class_table_total_credits_value">%1$d 學分</string>
+    <string name="class_table_total_credits_value">%1$s 學分</string>
     <string name="cloud_sync_assignments">作業</string>
     <string name="cloud_sync_class_table">課表</string>
     <string name="cloud_sync_class_table_footer">選擇要在裝置間同步的課表資料。</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">等系統指派 token</string>
     <string name="refreshing_message">頁面正在刷新，別急～</string>
     <string name="score_academic_year_semester">%1$s 學年度 %2$s學期</string>
-    <string name="score_course_credits">%1$d 學分</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d 學分</string>
+    <string name="score_course_credits">%1$s 學分</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s 學分</string>
     <string name="score_course_detail_enrollment_label">修課人數</string>
     <string name="score_course_detail_schedule_label">上課時段</string>
     <string name="score_credit_earned">已實得</string>

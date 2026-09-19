@@ -38,7 +38,7 @@
     <string name="add_course_example">Halimbawa: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">Walang nahanap na magkakatugmang kurso</string>
     <string name="add_course_placeholder">Ilagay ang course code, pangalan, o instructor</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d na credit</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s na credit</string>
     <string name="add_course_search_failed">Nabigong maghanap: %1$s</string>
     <string name="add_course_searching">Naghahanap…</string>
     <string name="add_course_title">Magdagdag ng kurso</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">I-reset ang talaan ng kurso ng %1$s</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Mag-sign in upang tingnan ang iyong talahanayan ng klase</string>
-    <string name="class_table_total_credits_value">%1$d na credit</string>
+    <string name="class_table_total_credits_value">%1$s na credit</string>
     <string name="cloud_sync_assignments">Mga Assignment</string>
     <string name="cloud_sync_class_table">Iskedyul ng klase</string>
     <string name="cloud_sync_class_table_footer">Piliin kung aling data ng iskedyul ang isi-sync sa mga device.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Naghihintay na mag-assign ng token ang system</string>
     <string name="refreshing_message">Nire-refresh… sandali lang po</string>
     <string name="score_academic_year_semester">Taong Akademiko %1$s %2$s</string>
-    <string name="score_course_credits">%1$d na credit</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d na credit</string>
+    <string name="score_course_credits">%1$s na credit</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s na credit</string>
     <string name="score_course_detail_enrollment_label">Pagpapatala</string>
     <string name="score_course_detail_schedule_label">Iskedyul ng klase</string>
     <string name="score_credit_earned">Nakuha</string>

@@ -35,7 +35,7 @@
 "add_course_example" = "Príklad: EC1013701, Kalkulus, Ján Kováč";
 "add_course_not_found" = "Nenašli sa žiadne zodpovedajúce kurzy";
 "add_course_placeholder" = "Zadajte kód kurzu, názov alebo vyučujúceho";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d kreditov";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ kreditov";
 "add_course_search_failed" = "Vyhľadávanie zlyhalo: %1$@";
 "add_course_searching" = "Vyhľadávanie…";
 "add_course_title" = "Pridať kurz";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Obnoviť rozvrh %1$@";
 "class_table_semester_picker_label" = "Semester";
 "class_table_sign_in_required_message" = "Prihláste sa na zobrazenie rozvrhu";
-"class_table_total_credits_value" = "%1$d kreditov";
+"class_table_total_credits_value" = "%1$@ kreditov";
 "cloud_sync_assignments" = "Úlohy";
 "cloud_sync_class_table" = "Rozvrh";
 "cloud_sync_class_table_footer" = "Vyberte, ktoré údaje rozvrhu sa majú synchronizovať medzi zariadeniami.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Čakanie, kým systém priradí token";
 "refreshing_message" = "Obnovuje sa… chvíľku počkajte";
 "score_academic_year_semester" = "Akademický rok %1$@ %2$@";
-"score_course_credits" = "%1$d kreditov";
-"score_course_credits_meta" = "%1$@ · %2$d kreditov";
+"score_course_credits" = "%1$@ kreditov";
+"score_course_credits_meta" = "%1$@ · %2$@ kreditov";
 "score_course_detail_enrollment_label" = "Zápis";
 "score_course_detail_schedule_label" = "Rozvrh hodín";
 "score_credit_earned" = "Získané";

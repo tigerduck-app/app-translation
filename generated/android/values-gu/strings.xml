@@ -38,7 +38,7 @@
     <string name="add_course_example">ઉદ: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">મેળ ખાતા કોર્સ મળ્યા નહીં</string>
     <string name="add_course_placeholder">કોર્સ કોડ, નામ અથવા ઇન્સ્ટ્રક્ટર દાખલ કરો</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d ક્રેડિટ</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s ક્રેડિટ</string>
     <string name="add_course_search_failed">શોધ નિષ્ફળ: %1$s</string>
     <string name="add_course_searching">શોધી રહ્યા છીએ…</string>
     <string name="add_course_title">કોર્સ ઉમેરો</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s કોર્સ ટેબલ રીસેટ કરો</string>
     <string name="class_table_semester_picker_label">સેમેસ્ટર </string>
     <string name="class_table_sign_in_required_message">તમારું વર્ગ કોષ્ટક જોવા માટે સાઇન ઇન કરો</string>
-    <string name="class_table_total_credits_value">%1$d ક્રેડિટ</string>
+    <string name="class_table_total_credits_value">%1$s ક્રેડિટ</string>
     <string name="cloud_sync_assignments">અસાઇનમેન્ટ</string>
     <string name="cloud_sync_class_table">ક્લાસ ટેબલ</string>
     <string name="cloud_sync_class_table_footer">ડિવાઇસ વચ્ચે કયા ક્લાસ ટેબલ ડેટાને સિંક કરવા તે પસંદ કરો.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">સિસ્ટમ token સોંપવાની રાહ જોઈ રહ્યા છીએ</string>
     <string name="refreshing_message">રિફ્રેશ થઈ રહ્યું છે… ક્ષણ રાહ જુઓ</string>
     <string name="score_academic_year_semester">શૈક્ષણિક વર્ષ %1$s %2$s</string>
-    <string name="score_course_credits">%1$d ક્રેડિટ</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d ક્રેડિટ</string>
+    <string name="score_course_credits">%1$s ક્રેડિટ</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s ક્રેડિટ</string>
     <string name="score_course_detail_enrollment_label">નોંધણી</string>
     <string name="score_course_detail_schedule_label">વર્ગ શેડ્યૂલ</string>
     <string name="score_credit_earned">મળ્યા</string>

@@ -35,7 +35,7 @@
 "add_course_example" = "Например: EC1013701, Смятане, Иван Иванов";
 "add_course_not_found" = "Не са намерени съвпадащи курсове";
 "add_course_placeholder" = "Въведете код на курса, наименование или преподавател";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d кредити";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ кредити";
 "add_course_search_failed" = "Търсенето е неуспешно: %1$@";
 "add_course_searching" = "Търсене…";
 "add_course_title" = "Добавяне на курс";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Нулиране на разписанието за %1$@";
 "class_table_semester_picker_label" = "Семестър";
 "class_table_sign_in_required_message" = "Влезте, за да видите таблицата на вашия клас";
-"class_table_total_credits_value" = "%1$d кредити";
+"class_table_total_credits_value" = "%1$@ кредити";
 "cloud_sync_assignments" = "Задачи";
 "cloud_sync_class_table" = "Разписание";
 "cloud_sync_class_table_footer" = "Изберете кои данни от разписанието да се синхронизират между устройствата.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Изчаква системата да присвои token";
 "refreshing_message" = "Опресняване… моля изчакайте";
 "score_academic_year_semester" = "Учебна година %1$@ %2$@";
-"score_course_credits" = "%1$d кредити";
-"score_course_credits_meta" = "%1$@ · %2$d кредита";
+"score_course_credits" = "%1$@ кредити";
+"score_course_credits_meta" = "%1$@ · %2$@ кредита";
 "score_course_detail_enrollment_label" = "Записване";
 "score_course_detail_schedule_label" = "Разписание на часовете";
 "score_credit_earned" = "Получени";

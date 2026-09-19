@@ -38,7 +38,7 @@
     <string name="add_course_example">उदाहरण: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">कोई मिलान कोर्स नहीं मिला</string>
     <string name="add_course_placeholder">कोर्स कोड, नाम या इंस्ट्रक्टर दर्ज करें</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d क्रेडिट</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s क्रेडिट</string>
     <string name="add_course_search_failed">खोज विफल: %1$s</string>
     <string name="add_course_searching">खोज रहे हैं…</string>
     <string name="add_course_title">कोर्स जोड़ें</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s कोर्स टेबल रीसेट करें</string>
     <string name="class_table_semester_picker_label">सेमेस्टर</string>
     <string name="class_table_sign_in_required_message">अपनी क्लास टेबल देखने के लिए साइन इन करें</string>
-    <string name="class_table_total_credits_value">%1$d क्रेडिट</string>
+    <string name="class_table_total_credits_value">%1$s क्रेडिट</string>
     <string name="cloud_sync_assignments">असाइनमेंट</string>
     <string name="cloud_sync_class_table">क्लास टेबल</string>
     <string name="cloud_sync_class_table_footer">चुनें कि कौन सा क्लास टेबल डेटा डिवाइसों के बीच सिंक करना है।</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">सिस्टम द्वारा token असाइन होने का इंतज़ार</string>
     <string name="refreshing_message">रिफ्रेश हो रहा है… थोड़ा रुकें</string>
     <string name="score_academic_year_semester">शैक्षणिक वर्ष %1$s %2$s</string>
-    <string name="score_course_credits">%1$d क्रेडिट</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d क्रेडिट</string>
+    <string name="score_course_credits">%1$s क्रेडिट</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s क्रेडिट</string>
     <string name="score_course_detail_enrollment_label">नामांकन</string>
     <string name="score_course_detail_schedule_label">कक्षा अनुसूची</string>
     <string name="score_credit_earned">अर्जित</string>

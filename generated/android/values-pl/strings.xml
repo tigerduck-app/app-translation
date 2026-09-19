@@ -38,7 +38,7 @@
     <string name="add_course_example">Przykład: EC1013701, Analiza matematyczna, John Wang</string>
     <string name="add_course_not_found">Nie znaleziono pasujących przedmiotów</string>
     <string name="add_course_placeholder">Wprowadź kod przedmiotu, nazwę lub wykładowcę</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d ECTS</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s ECTS</string>
     <string name="add_course_search_failed">Wyszukiwanie nie powiodło się: %1$s</string>
     <string name="add_course_searching">Wyszukiwanie…</string>
     <string name="add_course_title">Dodaj przedmiot</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Resetuj plan zajęć %1$s</string>
     <string name="class_table_semester_picker_label">Semestr</string>
     <string name="class_table_sign_in_required_message">Zaloguj się, aby zobaczyć plan zajęć</string>
-    <string name="class_table_total_credits_value">%1$d ECTS</string>
+    <string name="class_table_total_credits_value">%1$s ECTS</string>
     <string name="cloud_sync_assignments">Zadania</string>
     <string name="cloud_sync_class_table">Plan zajęć</string>
     <string name="cloud_sync_class_table_footer">Wybierz, które dane planu zajęć synchronizować między urządzeniami.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Oczekiwanie na przypisanie token przez system</string>
     <string name="refreshing_message">Odświeżanie… proszę czekać</string>
     <string name="score_academic_year_semester">Rok akademicki %1$s %2$s</string>
-    <string name="score_course_credits">%1$d ECTS</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d ECTS</string>
+    <string name="score_course_credits">%1$s ECTS</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s ECTS</string>
     <string name="score_course_detail_enrollment_label">Rejestracja</string>
     <string name="score_course_detail_schedule_label">Plan zajęć</string>
     <string name="score_credit_earned">Zdobyte</string>

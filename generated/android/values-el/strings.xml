@@ -38,7 +38,7 @@
     <string name="add_course_example">Παράδειγμα: EC1013701, Λογισμός, Γιάννης Παπαδόπουλος</string>
     <string name="add_course_not_found">Δεν βρέθηκαν αντίστοιχα μαθήματα</string>
     <string name="add_course_placeholder">Εισαγάγετε κωδικό μαθήματος, όνομα ή καθηγητή</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d πιστωτικές μονάδες</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s πιστωτικές μονάδες</string>
     <string name="add_course_search_failed">Η αναζήτηση απέτυχε: %1$s</string>
     <string name="add_course_searching">Αναζήτηση…</string>
     <string name="add_course_title">Προσθήκη μαθήματος</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Επαναφορά προγράμματος %1$s</string>
     <string name="class_table_semester_picker_label">Ακαδημαϊκό εξάμηνο</string>
     <string name="class_table_sign_in_required_message">Συνδεθείτε για να δείτε τον πίνακα της τάξης σας</string>
-    <string name="class_table_total_credits_value">%1$d πιστωτικές μονάδες</string>
+    <string name="class_table_total_credits_value">%1$s πιστωτικές μονάδες</string>
     <string name="cloud_sync_assignments">Εργασίες</string>
     <string name="cloud_sync_class_table">Πρόγραμμα μαθημάτων</string>
     <string name="cloud_sync_class_table_footer">Επιλέξτε ποια δεδομένα προγράμματος θα συγχρονίζονται μεταξύ συσκευών.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Αναμονή για ανάθεση token από το σύστημα</string>
     <string name="refreshing_message">Ανανέωση… παρακαλώ περιμένετε</string>
     <string name="score_academic_year_semester">Ακαδημαϊκό Έτος %1$s %2$s</string>
-    <string name="score_course_credits">%1$d πιστωτικές μονάδες</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d πιστ. μον.</string>
+    <string name="score_course_credits">%1$s πιστωτικές μονάδες</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s πιστ. μον.</string>
     <string name="score_course_detail_enrollment_label">Εγγραφή</string>
     <string name="score_course_detail_schedule_label">Πρόγραμμα μαθημάτων</string>
     <string name="score_credit_earned">Αποκτήθηκαν</string>

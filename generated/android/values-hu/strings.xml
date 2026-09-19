@@ -38,7 +38,7 @@
     <string name="add_course_example">Példa: EC1013701, Kalkulus, John Wang</string>
     <string name="add_course_not_found">Nem találhatók megfelelő kurzusok</string>
     <string name="add_course_placeholder">Adja meg a kurzuskódot, nevet vagy oktatót</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d kredit</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s kredit</string>
     <string name="add_course_search_failed">Keresés sikertelen: %1$s</string>
     <string name="add_course_searching">Keresés…</string>
     <string name="add_course_title">Kurzus hozzáadása</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s órarend visszaállítása</string>
     <string name="class_table_semester_picker_label">Félév</string>
     <string name="class_table_sign_in_required_message">Jelentkezzen be az órarend megtekintéséhez</string>
-    <string name="class_table_total_credits_value">%1$d kredit</string>
+    <string name="class_table_total_credits_value">%1$s kredit</string>
     <string name="cloud_sync_assignments">Feladatok</string>
     <string name="cloud_sync_class_table">Órarend</string>
     <string name="cloud_sync_class_table_footer">Válaszd ki, mely órarend-adatokat szinkronizáld az eszközök között.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Várakozás a rendszer token-hozzárendelésére</string>
     <string name="refreshing_message">Frissítés folyamatban… kérem várjon</string>
     <string name="score_academic_year_semester">%1$s. tanév %2$s félév</string>
-    <string name="score_course_credits">%1$d kredit</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d kredit</string>
+    <string name="score_course_credits">%1$s kredit</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s kredit</string>
     <string name="score_course_detail_enrollment_label">Beiratkozás</string>
     <string name="score_course_detail_schedule_label">Órarend</string>
     <string name="score_credit_earned">Megszerzett</string>

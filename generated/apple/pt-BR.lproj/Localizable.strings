@@ -35,7 +35,7 @@
 "add_course_example" = "Exemplo: EC1013701, Cálculo, João Silva";
 "add_course_not_found" = "Nenhuma disciplina correspondente encontrada";
 "add_course_placeholder" = "Digite o código, nome da disciplina ou professor";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d créditos";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ créditos";
 "add_course_search_failed" = "Falha na busca: %1$@";
 "add_course_searching" = "Buscando…";
 "add_course_title" = "Adicionar disciplina";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "Redefinir grade de %1$@";
 "class_table_semester_picker_label" = "Semestre";
 "class_table_sign_in_required_message" = "Faça login para ver sua grade de aulas";
-"class_table_total_credits_value" = "%1$d créditos";
+"class_table_total_credits_value" = "%1$@ créditos";
 "cloud_sync_assignments" = "Tarefas";
 "cloud_sync_class_table" = "Grade de horários";
 "cloud_sync_class_table_footer" = "Escolha quais dados da grade sincronizar entre dispositivos.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "Aguardando o sistema atribuir um token";
 "refreshing_message" = "Atualizando… aguarde";
 "score_academic_year_semester" = "Ano letivo %1$@ %2$@";
-"score_course_credits" = "%1$d créditos";
-"score_course_credits_meta" = "%1$@ · %2$d créditos";
+"score_course_credits" = "%1$@ créditos";
+"score_course_credits_meta" = "%1$@ · %2$@ créditos";
 "score_course_detail_enrollment_label" = "Matrícula";
 "score_course_detail_schedule_label" = "Grade de aulas";
 "score_credit_earned" = "Obtidos";

@@ -38,7 +38,7 @@
     <string name="add_course_example">Contoh: EC1013701, Kalkulus, John Wang</string>
     <string name="add_course_not_found">Tiada kursus yang sepadan ditemui</string>
     <string name="add_course_placeholder">Masukkan kod kursus, nama, atau pengajar</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d kredit</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s kredit</string>
     <string name="add_course_search_failed">Carian gagal: %1$s</string>
     <string name="add_course_searching">Mencari…</string>
     <string name="add_course_title">Tambah kursus</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Tetapkan semula jadual %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Log masuk untuk melihat jadual kelas anda</string>
-    <string name="class_table_total_credits_value">%1$d kredit</string>
+    <string name="class_table_total_credits_value">%1$s kredit</string>
     <string name="cloud_sync_assignments">Tugasan</string>
     <string name="cloud_sync_class_table">Jadual kelas</string>
     <string name="cloud_sync_class_table_footer">Pilih data jadual kelas yang hendak disegerakkan antara peranti.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Menunggu Sistem menetapkan token</string>
     <string name="refreshing_message">Menyegar semula… sila tunggu</string>
     <string name="score_academic_year_semester">Tahun Akademik %1$s %2$s</string>
-    <string name="score_course_credits">%1$d kredit</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d kredit</string>
+    <string name="score_course_credits">%1$s kredit</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s kredit</string>
     <string name="score_course_detail_enrollment_label">Pendaftaran</string>
     <string name="score_course_detail_schedule_label">Jadual kelas</string>
     <string name="score_credit_earned">Diperoleh</string>

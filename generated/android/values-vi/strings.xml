@@ -38,7 +38,7 @@
     <string name="add_course_example">Ví dụ: EC1013701, Giải tích, Nguyễn Văn A</string>
     <string name="add_course_not_found">Không tìm thấy môn học phù hợp</string>
     <string name="add_course_placeholder">Nhập mã môn, tên môn hoặc giảng viên</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d tín chỉ</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s tín chỉ</string>
     <string name="add_course_search_failed">Tìm kiếm thất bại: %1$s</string>
     <string name="add_course_searching">Đang tìm…</string>
     <string name="add_course_title">Thêm môn học</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Đặt lại lịch học %1$s</string>
     <string name="class_table_semester_picker_label">Học kỳ</string>
     <string name="class_table_sign_in_required_message">Đăng nhập để xem thời khóa biểu</string>
-    <string name="class_table_total_credits_value">%1$d tín chỉ</string>
+    <string name="class_table_total_credits_value">%1$s tín chỉ</string>
     <string name="cloud_sync_assignments">Bài tập</string>
     <string name="cloud_sync_class_table">Thời khoá biểu</string>
     <string name="cloud_sync_class_table_footer">Chọn dữ liệu thời khoá biểu nào để đồng bộ giữa các thiết bị.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Đang chờ hệ thống gán token</string>
     <string name="refreshing_message">Đang làm mới… vui lòng chờ</string>
     <string name="score_academic_year_semester">Năm học %1$s %2$s</string>
-    <string name="score_course_credits">%1$d tín chỉ</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d tín chỉ</string>
+    <string name="score_course_credits">%1$s tín chỉ</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s tín chỉ</string>
     <string name="score_course_detail_enrollment_label">Ghi danh</string>
     <string name="score_course_detail_schedule_label">Lịch học</string>
     <string name="score_credit_earned">Đã đạt</string>

@@ -38,7 +38,7 @@
     <string name="add_course_example">Contoh: EC1013701, Kalkulus, John Wang</string>
     <string name="add_course_not_found">Tidak ada mata kuliah yang cocok</string>
     <string name="add_course_placeholder">Masukkan kode mata kuliah, nama, atau dosen</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d SKS</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s SKS</string>
     <string name="add_course_search_failed">Pencarian gagal: %1$s</string>
     <string name="add_course_searching">Mencari…</string>
     <string name="add_course_title">Tambah mata kuliah</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Reset jadwal kuliah %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Masuk untuk melihat jadwal kelas Anda</string>
-    <string name="class_table_total_credits_value">%1$d SKS</string>
+    <string name="class_table_total_credits_value">%1$s SKS</string>
     <string name="cloud_sync_assignments">Tugas</string>
     <string name="cloud_sync_class_table">Jadwal kelas</string>
     <string name="cloud_sync_class_table_footer">Pilih data jadwal kelas mana yang akan disinkronkan antar perangkat.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Menunggu sistem menetapkan token</string>
     <string name="refreshing_message">Sedang menyegarkan… mohon tunggu</string>
     <string name="score_academic_year_semester">Tahun Akademik %1$s %2$s</string>
-    <string name="score_course_credits">%1$d SKS</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d sks</string>
+    <string name="score_course_credits">%1$s SKS</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s sks</string>
     <string name="score_course_detail_enrollment_label">Pendaftaran</string>
     <string name="score_course_detail_schedule_label">Jadwal kelas</string>
     <string name="score_credit_earned">Diperoleh</string>

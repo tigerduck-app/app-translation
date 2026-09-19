@@ -35,7 +35,7 @@
 "add_course_example" = "مثال: EC1013701، التفاضل والتكامل، John Wang";
 "add_course_not_found" = "لم يُعثر على مقررات مطابقة";
 "add_course_placeholder" = "أدخل رمز المقرر أو اسمه أو اسم المُحاضِر";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d ساعات معتمدة";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ ساعات معتمدة";
 "add_course_search_failed" = "فشل البحث: %1$@";
 "add_course_searching" = "جارٍ البحث…";
 "add_course_title" = "إضافة مقرر";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "إعادة تعيين جدول %1$@";
 "class_table_semester_picker_label" = "الفصل الدراسي";
 "class_table_sign_in_required_message" = "قم بتسجيل الدخول لعرض جدول صفك";
-"class_table_total_credits_value" = "%1$d ساعات معتمدة";
+"class_table_total_credits_value" = "%1$@ ساعات معتمدة";
 "cloud_sync_assignments" = "الواجبات";
 "cloud_sync_class_table" = "جدول الحصص";
 "cloud_sync_class_table_footer" = "اختر بيانات جدول الحصص التي تريد مزامنتها بين الأجهزة.";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "في انتظار تعيين token من النظام";
 "refreshing_message" = "جارٍ التحديث… انتظر قليلًا";
 "score_academic_year_semester" = "العام الدراسي %1$@ %2$@";
-"score_course_credits" = "%1$d ساعات معتمدة";
-"score_course_credits_meta" = "%1$@ · %2$d ساعة معتمدة";
+"score_course_credits" = "%1$@ ساعات معتمدة";
+"score_course_credits_meta" = "%1$@ · %2$@ ساعة معتمدة";
 "score_course_detail_enrollment_label" = "التسجيل";
 "score_course_detail_schedule_label" = "الجدول الدراسي";
 "score_credit_earned" = "المكتسبة";

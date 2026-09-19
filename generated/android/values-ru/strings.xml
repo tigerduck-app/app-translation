@@ -38,7 +38,7 @@
     <string name="add_course_example">Например: EC1013701, Высшая математика, Иван Иванов</string>
     <string name="add_course_not_found">Подходящие курсы не найдены</string>
     <string name="add_course_placeholder">Введите код курса, название или преподавателя</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d кредитов</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s кредитов</string>
     <string name="add_course_search_failed">Поиск не удался: %1$s</string>
     <string name="add_course_searching">Поиск…</string>
     <string name="add_course_title">Добавить курс</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Сбросить расписание %1$s</string>
     <string name="class_table_semester_picker_label">Семестр</string>
     <string name="class_table_sign_in_required_message">Войдите, чтобы просмотреть расписание занятий</string>
-    <string name="class_table_total_credits_value">%1$d кредитов</string>
+    <string name="class_table_total_credits_value">%1$s кредитов</string>
     <string name="cloud_sync_assignments">Задания</string>
     <string name="cloud_sync_class_table">Расписание</string>
     <string name="cloud_sync_class_table_footer">Выберите, какие данные расписания синхронизировать между устройствами.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Ожидание назначения token системой</string>
     <string name="refreshing_message">Обновляется… подождите</string>
     <string name="score_academic_year_semester">Учебный год %1$s, %2$s семестр</string>
-    <string name="score_course_credits">%1$d кредитов</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d кредитов</string>
+    <string name="score_course_credits">%1$s кредитов</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s кредитов</string>
     <string name="score_course_detail_enrollment_label">Зачисление</string>
     <string name="score_course_detail_schedule_label">Расписание занятий</string>
     <string name="score_credit_earned">Получено</string>

@@ -38,7 +38,7 @@
     <string name="add_course_example">Príklad: EC1013701, Kalkulus, Ján Kováč</string>
     <string name="add_course_not_found">Nenašli sa žiadne zodpovedajúce kurzy</string>
     <string name="add_course_placeholder">Zadajte kód kurzu, názov alebo vyučujúceho</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d kreditov</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s kreditov</string>
     <string name="add_course_search_failed">Vyhľadávanie zlyhalo: %1$s</string>
     <string name="add_course_searching">Vyhľadávanie…</string>
     <string name="add_course_title">Pridať kurz</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Obnoviť rozvrh %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Prihláste sa na zobrazenie rozvrhu</string>
-    <string name="class_table_total_credits_value">%1$d kreditov</string>
+    <string name="class_table_total_credits_value">%1$s kreditov</string>
     <string name="cloud_sync_assignments">Úlohy</string>
     <string name="cloud_sync_class_table">Rozvrh</string>
     <string name="cloud_sync_class_table_footer">Vyberte, ktoré údaje rozvrhu sa majú synchronizovať medzi zariadeniami.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Čakanie, kým systém priradí token</string>
     <string name="refreshing_message">Obnovuje sa… chvíľku počkajte</string>
     <string name="score_academic_year_semester">Akademický rok %1$s %2$s</string>
-    <string name="score_course_credits">%1$d kreditov</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d kreditov</string>
+    <string name="score_course_credits">%1$s kreditov</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s kreditov</string>
     <string name="score_course_detail_enrollment_label">Zápis</string>
     <string name="score_course_detail_schedule_label">Rozvrh hodín</string>
     <string name="score_credit_earned">Získané</string>

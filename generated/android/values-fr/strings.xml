@@ -38,7 +38,7 @@
     <string name="add_course_example">Exemple : EC1013701, Calcul, John Wang</string>
     <string name="add_course_not_found">Aucun cours correspondant trouvé</string>
     <string name="add_course_placeholder">Saisissez un code de cours, un nom ou un enseignant</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d crédits</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s crédits</string>
     <string name="add_course_search_failed">Échec de la recherche : %1$s</string>
     <string name="add_course_searching">Recherche…</string>
     <string name="add_course_title">Ajouter un cours</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Réinitialiser l\'emploi du temps %1$s</string>
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_sign_in_required_message">Connectez-vous pour voir votre tableau de classe</string>
-    <string name="class_table_total_credits_value">%1$d crédits</string>
+    <string name="class_table_total_credits_value">%1$s crédits</string>
     <string name="cloud_sync_assignments">Devoirs</string>
     <string name="cloud_sync_class_table">Emploi du temps</string>
     <string name="cloud_sync_class_table_footer">Choisissez quelles données de l\'emploi du temps synchroniser entre les appareils.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">En attente que le système attribue un token</string>
     <string name="refreshing_message">Actualisation en cours… patientez</string>
     <string name="score_academic_year_semester">Année universitaire %1$s %2$s</string>
-    <string name="score_course_credits">%1$d crédits</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d crédits</string>
+    <string name="score_course_credits">%1$s crédits</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s crédits</string>
     <string name="score_course_detail_enrollment_label">Les taux de scolarisation</string>
     <string name="score_course_detail_schedule_label">Horaire Ouverture</string>
     <string name="score_credit_earned">Obtenus</string>

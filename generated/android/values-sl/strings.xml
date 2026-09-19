@@ -38,7 +38,7 @@
     <string name="add_course_example">Primer: EC1013701, Matematična analiza, Janez Novak</string>
     <string name="add_course_not_found">Ni najdenih ustreznih predmetov</string>
     <string name="add_course_placeholder">Vnesite kodo predmeta, ime ali predavatelja</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d kreditnih točk</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s kreditnih točk</string>
     <string name="add_course_search_failed">Iskanje ni uspelo: %1$s</string>
     <string name="add_course_searching">Iskanje…</string>
     <string name="add_course_title">Dodaj predmet</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Ponastavi urnik %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Prijavite se za ogled urnika</string>
-    <string name="class_table_total_credits_value">%1$d kreditnih točk</string>
+    <string name="class_table_total_credits_value">%1$s kreditnih točk</string>
     <string name="cloud_sync_assignments">Naloge</string>
     <string name="cloud_sync_class_table">Urnik</string>
     <string name="cloud_sync_class_table_footer">Izberite, katere podatke urnika želite sinhronizirati med napravami.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Čakanje, da sistem dodeli token</string>
     <string name="refreshing_message">Osvežujem… počakajte</string>
     <string name="score_academic_year_semester">Šolsko leto %1$s %2$s</string>
-    <string name="score_course_credits">%1$d kreditnih točk</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d KT</string>
+    <string name="score_course_credits">%1$s kreditnih točk</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s KT</string>
     <string name="score_course_detail_enrollment_label">Vpis</string>
     <string name="score_course_detail_schedule_label">Urnik pouka</string>
     <string name="score_credit_earned">Pridobljene</string>

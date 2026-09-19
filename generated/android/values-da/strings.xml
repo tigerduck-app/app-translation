@@ -38,7 +38,7 @@
     <string name="add_course_example">Eksempel: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">Ingen matchende kurser fundet</string>
     <string name="add_course_placeholder">Indtast kurskode, navn eller underviser</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d ECTS-point</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s ECTS-point</string>
     <string name="add_course_search_failed">Søgning mislykkedes: %1$s</string>
     <string name="add_course_searching">Søger…</string>
     <string name="add_course_title">Tilføj kursus</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Nulstil skema for %1$s</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Log ind for at se din klassetabel</string>
-    <string name="class_table_total_credits_value">%1$d ECTS-point</string>
+    <string name="class_table_total_credits_value">%1$s ECTS-point</string>
     <string name="cloud_sync_assignments">Opgaver</string>
     <string name="cloud_sync_class_table">Skema</string>
     <string name="cloud_sync_class_table_footer">Vælg hvilke skemadata der skal synkroniseres mellem enheder.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Venter på, at systemet tildeler et token</string>
     <string name="refreshing_message">Opdaterer… vent et øjeblik</string>
     <string name="score_academic_year_semester">Akademisk år %1$s %2$s</string>
-    <string name="score_course_credits">%1$d ECTS-point</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d ECTS</string>
+    <string name="score_course_credits">%1$s ECTS-point</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s ECTS</string>
     <string name="score_course_detail_enrollment_label">Tilmelding</string>
     <string name="score_course_detail_schedule_label">Klasseskema</string>
     <string name="score_credit_earned">Optjent</string>

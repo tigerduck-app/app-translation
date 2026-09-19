@@ -38,7 +38,7 @@
     <string name="add_course_example">Beispiel: EC1013701, Analysis, John Wang</string>
     <string name="add_course_not_found">Keine passenden Kurse gefunden</string>
     <string name="add_course_placeholder">Kurscode, Name oder Dozent eingeben</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d Leistungspunkte</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s Leistungspunkte</string>
     <string name="add_course_search_failed">Suche fehlgeschlagen: %1$s</string>
     <string name="add_course_searching">Suche läuft…</string>
     <string name="add_course_title">Kurs hinzufügen</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Stundenplan %1$s zurücksetzen</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
-    <string name="class_table_total_credits_value">%1$d Leistungspunkte</string>
+    <string name="class_table_total_credits_value">%1$s Leistungspunkte</string>
     <string name="cloud_sync_assignments">Aufgaben</string>
     <string name="cloud_sync_class_table">Stundenplan</string>
     <string name="cloud_sync_class_table_footer">Wähle aus, welche Stundenplan-Daten zwischen Geräten synchronisiert werden sollen.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Warte auf Token-Zuweisung durch das System</string>
     <string name="refreshing_message">Wird aktualisiert … einen Moment</string>
     <string name="score_academic_year_semester">Akademisches Jahr %1$s %2$s</string>
-    <string name="score_course_credits">%1$d Leistungspunkte</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d Leistungspunkte</string>
+    <string name="score_course_credits">%1$s Leistungspunkte</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s Leistungspunkte</string>
     <string name="score_course_detail_enrollment_label">Einschreibung</string>
     <string name="score_course_detail_schedule_label">Stundenplan</string>
     <string name="score_credit_earned">Erworben</string>

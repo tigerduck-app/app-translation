@@ -38,7 +38,7 @@
     <string name="add_course_example">ഉദാഹരണം: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">പൊരുത്തപ്പെടുന്ന കോഴ്‌സുകൾ കണ്ടെത്തിയില്ല</string>
     <string name="add_course_placeholder">കോഴ്‌സ് കോഡ്, പേര്, അല്ലെങ്കിൽ അധ്യാപകൻ നൽകുക</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d ക്രെഡിറ്റുകൾ</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s ക്രെഡിറ്റുകൾ</string>
     <string name="add_course_search_failed">തിരയൽ പരാജയപ്പെട്ടു: %1$s</string>
     <string name="add_course_searching">തിരയുന്നു…</string>
     <string name="add_course_title">കോഴ്‌സ് ചേർക്കുക</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">%1$s കോഴ്‌സ് ടേബിൾ റീസെറ്റ് ചെയ്യുക</string>
     <string name="class_table_semester_picker_label">സെമസ്റ്റർ</string>
     <string name="class_table_sign_in_required_message">നിങ്ങളുടെ ക്ലാസ് ടേബിൾ കാണാൻ സൈൻ ഇൻ ചെയ്യുക</string>
-    <string name="class_table_total_credits_value">%1$d ക്രെഡിറ്റുകൾ</string>
+    <string name="class_table_total_credits_value">%1$s ക്രെഡിറ്റുകൾ</string>
     <string name="cloud_sync_assignments">അസൈൻമെന്റുകൾ</string>
     <string name="cloud_sync_class_table">ക്ലാസ് ടേബിൾ</string>
     <string name="cloud_sync_class_table_footer">ഉപകരണങ്ങൾക്കിടയിൽ ഏത് ക്ലാസ് ടേബിൾ ഡാറ്റ സിങ്ക് ചെയ്യണമെന്ന് തിരഞ്ഞെടുക്കുക.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">സിസ്റ്റം token നൽകുന്നതിനായി കാത്തിരിക്കുന്നു</string>
     <string name="refreshing_message">പുതുക്കുന്നു… കാത്തിരിക്കൂ</string>
     <string name="score_academic_year_semester">അക്കാദമിക് വർഷം %1$s %2$s</string>
-    <string name="score_course_credits">%1$d ക്രെഡിറ്റുകൾ</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d ക്രെഡിറ്റുകൾ</string>
+    <string name="score_course_credits">%1$s ക്രെഡിറ്റുകൾ</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s ക്രെഡിറ്റുകൾ</string>
     <string name="score_course_detail_enrollment_label">എൻറോൾമെന്റ്</string>
     <string name="score_course_detail_schedule_label">ക്ലാസ് ഷെഡ്യൂൾ</string>
     <string name="score_credit_earned">നേടിയത്</string>

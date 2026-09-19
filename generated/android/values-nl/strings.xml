@@ -38,7 +38,7 @@
     <string name="add_course_example">Voorbeeld: EC1013701, Calculus, John Wang</string>
     <string name="add_course_not_found">Geen overeenkomende vakken gevonden</string>
     <string name="add_course_placeholder">Voer vakcode, naam of docent in</string>
-    <string name="add_course_result_meta">%1$s · %2$s · %3$d studiepunten</string>
+    <string name="add_course_result_meta">%1$s · %2$s · %3$s studiepunten</string>
     <string name="add_course_search_failed">Zoeken mislukt: %1$s</string>
     <string name="add_course_searching">Zoeken…</string>
     <string name="add_course_title">Vak toevoegen</string>
@@ -180,7 +180,7 @@
     <string name="class_table_reset_title_with_semester">Lesrooster %1$s herstellen</string>
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_sign_in_required_message">Meld je aan om je rooster te bekijken</string>
-    <string name="class_table_total_credits_value">%1$d studiepunten</string>
+    <string name="class_table_total_credits_value">%1$s studiepunten</string>
     <string name="cloud_sync_assignments">Opdrachten</string>
     <string name="cloud_sync_class_table">Lesrooster</string>
     <string name="cloud_sync_class_table_footer">Kies welke lesroostergegevens tussen apparaten gesynchroniseerd worden.</string>
@@ -591,8 +591,8 @@
     <string name="push_server_status_waiting_token">Wachten tot het systeem een token toewijst</string>
     <string name="refreshing_message">Bezig met vernieuwen… momentje</string>
     <string name="score_academic_year_semester">Studiejaar %1$s %2$s</string>
-    <string name="score_course_credits">%1$d studiepunten</string>
-    <string name="score_course_credits_meta">%1$@ · %2$d studiepunten</string>
+    <string name="score_course_credits">%1$s studiepunten</string>
+    <string name="score_course_credits_meta">%1$@ · %2$s studiepunten</string>
     <string name="score_course_detail_enrollment_label">Inschrijving</string>
     <string name="score_course_detail_schedule_label">Lesrooster</string>
     <string name="score_credit_earned">Behaald</string>

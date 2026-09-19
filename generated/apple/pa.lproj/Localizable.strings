@@ -35,7 +35,7 @@
 "add_course_example" = "ਉਦਾਹਰਨ: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "ਕੋਈ ਮੇਲ ਖਾਂਦਾ ਕੋਰਸ ਨਹੀਂ ਮਿਲਿਆ";
 "add_course_placeholder" = "ਕੋਰਸ ਕੋਡ, ਨਾਮ ਜਾਂ ਅਧਿਆਪਕ ਦਾ ਨਾਮ ਦਾਖਲ ਕਰੋ";
-"add_course_result_meta" = "%1$@ · %2$@ · %3$d ਕ੍ਰੈਡਿਟ";
+"add_course_result_meta" = "%1$@ · %2$@ · %3$@ ਕ੍ਰੈਡਿਟ";
 "add_course_search_failed" = "ਖੋਜ ਅਸਫਲ ਰਹੀ: %1$@";
 "add_course_searching" = "ਖੋਜ ਰਿਹਾ ਹੈ…";
 "add_course_title" = "ਕੋਰਸ ਜੋੜੋ";
@@ -176,7 +176,7 @@
 "class_table_reset_title_with_semester" = "%1$@ ਕੋਰਸ ਟੇਬਲ ਰੀਸੈੱਟ ਕਰੋ";
 "class_table_semester_picker_label" = "ਸਮੈਸਟਰ";
 "class_table_sign_in_required_message" = "ਆਪਣੀ ਕਲਾਸ ਟੇਬਲ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ";
-"class_table_total_credits_value" = "%1$d ਕ੍ਰੈਡਿਟ";
+"class_table_total_credits_value" = "%1$@ ਕ੍ਰੈਡਿਟ";
 "cloud_sync_assignments" = "ਅਸਾਈਨਮੈਂਟ";
 "cloud_sync_class_table" = "ਕਲਾਸ ਟੇਬਲ";
 "cloud_sync_class_table_footer" = "ਚੁਣੋ ਕਿ ਕਿਹੜਾ ਕਲਾਸ ਟੇਬਲ ਡਾਟਾ ਡਿਵਾਈਸਾਂ ਵਿਚਕਾਰ ਸਿੰਕ ਕਰਨਾ ਹੈ।";
@@ -569,8 +569,8 @@
 "push_server_status_waiting_token" = "ਸਿਸਟਮ ਵੱਲੋਂ token ਨਿਰਧਾਰਿਤ ਕਰਨ ਦੀ ਉਡੀਕ";
 "refreshing_message" = "ਤਾਜ਼ਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ… ਰੁਕੋ";
 "score_academic_year_semester" = "ਅਕਾਦਮਿਕ ਸਾਲ %1$@ %2$@";
-"score_course_credits" = "%1$d ਕ੍ਰੈਡਿਟ";
-"score_course_credits_meta" = "%1$@ · %2$d ਕ੍ਰੈਡਿਟ";
+"score_course_credits" = "%1$@ ਕ੍ਰੈਡਿਟ";
+"score_course_credits_meta" = "%1$@ · %2$@ ਕ੍ਰੈਡਿਟ";
 "score_course_detail_enrollment_label" = "ਦਾਖਲਾ";
 "score_course_detail_schedule_label" = "ਕਲਾਸ ਸਮਾਂ-ਸੂਚੀ";
 "score_credit_earned" = "ਪ੍ਰਾਪਤ";
