@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Nasledujúce povolenia boli predtým povolené, ale teraz sú vypnuté. Súvisiace notifikácie a Live Updates sa nemusia zobrazovať správne.",
     "school_mail_exact_alarm_hint": "Povoľte presné budíky, aby mohol TigerDuck včas kontrolovať poštu.",
     "school_mail_guide_gmail_title": "Čítajte školskú poštu v aplikácii Gmail",
+    "settings_licenses_section_wear": "Aplikácia Wear OS",
     "sync_content_assignment_reminders": "Nastavenia pripomienok termínov úloh",
     "sync_content_live_activity": "Nastavenia Live Updates",
     "update_available_message": "V Play Store je dostupná nová verzia. Chcete aktualizovať teraz?",

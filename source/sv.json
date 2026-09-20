@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Följande behörigheter var tidigare aktiverade men är nu inaktiverade. Relaterade aviseringar och Live Updates kanske inte visas korrekt.",
     "school_mail_exact_alarm_hint": "Tillåt exakta alarm så att TigerDuck kan kontrollera e-post i tid.",
     "school_mail_guide_gmail_title": "Läs skolmejl i Gmail",
+    "settings_licenses_section_wear": "Wear OS-app",
     "sync_content_assignment_reminders": "Inställningar för påminnelser om uppgifter",
     "sync_content_live_activity": "Live Updates-inställningar",
     "update_available_message": "En ny version finns tillgänglig i Play Store. Vill du uppdatera nu?",

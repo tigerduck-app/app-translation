@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Izin berikut sebelumnya diaktifkan tetapi sekarang dinonaktifkan. Notifikasi dan Live Updates terkait mungkin tidak ditampilkan dengan benar.",
     "school_mail_exact_alarm_hint": "Izinkan alarm tepat waktu agar TigerDuck bisa memeriksa email tepat waktu.",
     "school_mail_guide_gmail_title": "Baca email sekolah di Gmail",
+    "settings_licenses_section_wear": "Aplikasi Wear OS",
     "sync_content_assignment_reminders": "Pengaturan pengingat tenggat tugas",
     "sync_content_live_activity": "Pengaturan Live Updates",
     "update_available_message": "Versi baru tersedia di Play Store. Ingin memperbarui sekarang?",

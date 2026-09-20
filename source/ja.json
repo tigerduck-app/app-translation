@@ -1006,6 +1006,7 @@
     "permission_warning_description": "以前は許可されていた以下の権限が現在はオフになっています。これに関連する通知や Live Updates が正しく表示されない場合があります。",
     "school_mail_exact_alarm_hint": "「正確なアラーム」を許可すると、TigerDuckが時間どおりにメールを確認できます。",
     "school_mail_guide_gmail_title": "Gmailで学内メールを読む",
+    "settings_licenses_section_wear": "Wear OS アプリ",
     "sync_content_assignment_reminders": "課題の期限リマインダーの設定",
     "sync_content_live_activity": "Live Updates の設定",
     "update_available_message": "Play ストアに新しいバージョンがあります。今すぐ更新しますか？",

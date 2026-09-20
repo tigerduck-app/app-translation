@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Следните разрешения са били активирани по-рано, но сега са деактивирани. Свързаните известия и Live Updates може да не се показват правилно.",
     "school_mail_exact_alarm_hint": "Разрешете точни аларми, за да може TigerDuck да проверява за поща навреме.",
     "school_mail_guide_gmail_title": "Четете училищната поща в Gmail",
+    "settings_licenses_section_wear": "Приложение за Wear OS",
     "sync_content_assignment_reminders": "Настройки за напомняния за крайни срокове на задания",
     "sync_content_live_activity": "Настройки за Live Updates",
     "update_available_message": "Нова версия е налична в Play Store. Искате ли да актуализирате сега?",

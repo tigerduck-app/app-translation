@@ -1006,6 +1006,7 @@
     "permission_warning_description": "As seguintes permissões estavam ativadas anteriormente, mas agora estão desativadas. As notificações e Live Updates relacionados podem não ser apresentados corretamente.",
     "school_mail_exact_alarm_hint": "Permite alarmes exatos para que o TigerDuck possa verificar o correio a horas.",
     "school_mail_guide_gmail_title": "Lê o correio universitário no Gmail",
+    "settings_licenses_section_wear": "Aplicação Wear OS",
     "sync_content_assignment_reminders": "Definições de lembretes de prazo de trabalhos",
     "sync_content_live_activity": "Definições de Live Updates",
     "update_available_message": "Está disponível uma nova versão na Play Store. Deseja atualizar agora?",

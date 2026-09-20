@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Următoarele permisiuni au fost activate anterior, dar acum sunt dezactivate. Notificările și Live Updates asociate pot să nu se afișeze corect.",
     "school_mail_exact_alarm_hint": "Permite alarmele exacte ca TigerDuck să poată verifica e-mailurile la timp.",
     "school_mail_guide_gmail_title": "Citește e-mailul universitar în Gmail",
+    "settings_licenses_section_wear": "Aplicația Wear OS",
     "sync_content_assignment_reminders": "Setări remindere teme scadente",
     "sync_content_live_activity": "Setări Live Updates",
     "update_available_message": "O versiune nouă este disponibilă în Play Store. Doriți să actualizați acum?",

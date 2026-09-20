@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Tālāk minētās atļaujas iepriekš bija iespējotas, bet tagad ir atspējotas. Saistītie paziņojumi un Live Updates var netikt rādīti pareizi.",
     "school_mail_exact_alarm_hint": "Atļaujiet precīzus signālus, lai TigerDuck varētu laikus pārbaudīt pastu.",
     "school_mail_guide_gmail_title": "Lasiet skolas pastu lietotnē Gmail",
+    "settings_licenses_section_wear": "Wear OS lietotne",
     "sync_content_assignment_reminders": "Uzdevumu termiņa atgādinājumu iestatījumi",
     "sync_content_live_activity": "Live Updates iestatījumi",
     "update_available_message": "Play Store ir pieejama jauna versija. Vai vēlaties atjaunināt tagad?",

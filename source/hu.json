@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Az alábbi engedélyek korábban engedélyezve voltak, de most le vannak tiltva. A kapcsolódó értesítések és a Live Updates esetleg nem jelenik meg megfelelően.",
     "school_mail_exact_alarm_hint": "Engedélyezze a pontos ébresztőket, hogy a TigerDuck időben ellenőrizhesse az új üzeneteket.",
     "school_mail_guide_gmail_title": "Iskolai posta olvasása a Gmail alkalmazásban",
+    "settings_licenses_section_wear": "Wear OS alkalmazás",
     "sync_content_assignment_reminders": "Házi feladat határidő emlékeztetők beállításai",
     "sync_content_live_activity": "Live Updates beállítások",
     "update_available_message": "Új verzió érhető el a Play Store-ban. Szeretnéd most frissíteni?",

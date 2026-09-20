@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Aşağıdaki izinler daha önce etkindi ancak şu anda devre dışı. İlgili bildirimler ve Live Updates düzgün görüntülenmeyebilir.",
     "school_mail_exact_alarm_hint": "TigerDuck uygulamasının postaları zamanında kontrol edebilmesi için tam zamanlı alarmlara izin verin.",
     "school_mail_guide_gmail_title": "Okul postasını Gmail'de okuyun",
+    "settings_licenses_section_wear": "Wear OS uygulaması",
     "sync_content_assignment_reminders": "Ödev teslim hatırlatıcısı ayarları",
     "sync_content_live_activity": "Live Updates ayarları",
     "update_available_message": "Play Store'da yeni bir sürüm mevcut. Şimdi güncellemek ister misiniz?",

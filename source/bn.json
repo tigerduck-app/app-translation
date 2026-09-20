@@ -1006,6 +1006,7 @@
     "permission_warning_description": "নিচের অনুমতিগুলি আগে চালু ছিল কিন্তু এখন বন্ধ। সম্পর্কিত বিজ্ঞপ্তি ও Live Updates সঠিকভাবে প্রদর্শিত নাও হতে পারে।",
     "school_mail_exact_alarm_hint": "সঠিক অ্যালার্মের অনুমতি দিন, যাতে TigerDuck সময়মতো মেইল পরীক্ষা করতে পারে।",
     "school_mail_guide_gmail_title": "Gmail-এ স্কুল মেইল পড়ুন",
+    "settings_licenses_section_wear": "Wear OS অ্যাপ",
     "sync_content_assignment_reminders": "অ্যাসাইনমেন্টের সময়সীমার স্মরণিকা সেটিংস",
     "sync_content_live_activity": "Live Updates সেটিংস",
     "update_available_message": "Play Store-এ একটি নতুন সংস্করণ পাওয়া গেছে। এখনই আপডেট করতে চান?",

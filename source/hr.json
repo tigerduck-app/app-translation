@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Sljedeća dopuštenja bila su prethodno omogućena, ali su sada onemogućena. Povezan Live Updates možda se neće ispravno prikazivati.",
     "school_mail_exact_alarm_hint": "Dopustite točne alarme kako bi TigerDuck mogao na vrijeme provjeravati poštu.",
     "school_mail_guide_gmail_title": "Čitajte školsku poštu u Gmail aplikaciji",
+    "settings_licenses_section_wear": "Aplikacija za Wear OS",
     "sync_content_assignment_reminders": "Postavke podsjetnika za zadatke",
     "sync_content_live_activity": "Postavke Live Updates",
     "update_available_message": "Nova verzija dostupna je u Play Storeu. Želite li ažurirati sada?",

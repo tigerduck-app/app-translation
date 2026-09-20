@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja Live Updates eivät ehkä näy oikein.",
     "school_mail_exact_alarm_hint": "Salli tarkat hälytykset, jotta TigerDuck voi tarkistaa uudet viestit ajallaan.",
     "school_mail_guide_gmail_title": "Lue koulusähköposti Gmail-sovelluksessa",
+    "settings_licenses_section_wear": "Wear OS -sovellus",
     "sync_content_assignment_reminders": "Tehtävän palautusmuistutusten asetukset",
     "sync_content_live_activity": "Live Updates -asetukset",
     "update_available_message": "Play Storessa on saatavilla uusi versio. Haluatko päivittää nyt?",

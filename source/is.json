@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Eftirfarandi leyfi voru áður virk en eru nú óvirk. Tengdar tilkynningar og Live Updates birtast hugsanlega ekki rétt.",
     "school_mail_exact_alarm_hint": "Leyfðu nákvæma vekjara svo TigerDuck geti athugað með póst á réttum tíma.",
     "school_mail_guide_gmail_title": "Lesa skólapóst í Gmail",
+    "settings_licenses_section_wear": "Wear OS forrit",
     "sync_content_assignment_reminders": "Stillingar verkefnaáminninga",
     "sync_content_live_activity": "Stillingar Live Updates",
     "update_available_message": "Ný útgáfa er fáanleg í Play Store. Viltu uppfæra núna?",

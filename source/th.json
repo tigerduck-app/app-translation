@@ -1006,6 +1006,7 @@
     "permission_warning_description": "สิทธิ์ต่อไปนี้เคยถูกอนุญาตไว้ก่อนหน้านี้ แต่ปัจจุบันถูกปิดใช้งานแล้ว การแจ้งเตือนและ Live Updates ที่เกี่ยวข้องอาจไม่แสดงผลอย่างถูกต้อง",
     "school_mail_exact_alarm_hint": "อนุญาตการตั้งปลุกที่แม่นยำ เพื่อให้ TigerDuck ตรวจสอบอีเมลได้ตรงเวลา",
     "school_mail_guide_gmail_title": "อ่านอีเมลมหาวิทยาลัยใน Gmail",
+    "settings_licenses_section_wear": "แอป Wear OS",
     "sync_content_assignment_reminders": "การตั้งค่าการแจ้งเตือนกำหนดส่งการบ้าน",
     "sync_content_live_activity": "การตั้งค่า Live Updates",
     "update_available_message": "มีเวอร์ชันใหม่ใน Play Store ต้องการอัปเดตตอนนี้ไหม?",

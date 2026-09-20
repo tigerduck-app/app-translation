@@ -1006,6 +1006,7 @@
     "permission_warning_description": "الأذونات التالية كانت مفعّلة سابقًا ولكنها معطّلة الآن. قد لا تظهر الإشعارات و Live Updates بشكل صحيح.",
     "school_mail_exact_alarm_hint": "اسمح بالمنبهات الدقيقة ليتمكن TigerDuck من التحقق من البريد في الوقت المحدد.",
     "school_mail_guide_gmail_title": "قراءة البريد المدرسي في Gmail",
+    "settings_licenses_section_wear": "تطبيق Wear OS",
     "sync_content_assignment_reminders": "إعدادات تذكيرات استحقاق الواجبات",
     "sync_content_live_activity": "إعدادات Live Updates",
     "update_available_message": "يتوفر إصدار جديد على Play Store. هل تريد التحديث الآن؟",

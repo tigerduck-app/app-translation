@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Naslednja dovoljenja so bila prej omogočena, zdaj pa so onemogočena. Povezana obvestila in Live Updates morda ne bodo pravilno prikazana.",
     "school_mail_exact_alarm_hint": "Dovolite natančne alarme, da lahko TigerDuck pravočasno preverja pošto.",
     "school_mail_guide_gmail_title": "Berite šolsko pošto v aplikaciji Gmail",
+    "settings_licenses_section_wear": "Aplikacija Wear OS",
     "sync_content_assignment_reminders": "Nastavitve opomnikov za rok naloge",
     "sync_content_live_activity": "Nastavitve Live Updates",
     "update_available_message": "V Play Store je na voljo nova različica. Ali jo želite posodobiti zdaj?",

@@ -1006,6 +1006,7 @@
     "permission_warning_description": "Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja Live Updates ei pruugi õigesti kuvada.",
     "school_mail_exact_alarm_hint": "Luba täpsed alarmid, et TigerDuck saaks õigel ajal posti kontrollida.",
     "school_mail_guide_gmail_title": "Loe kooli e-posti rakenduses Gmail",
+    "settings_licenses_section_wear": "Wear OS-i rakendus",
     "sync_content_assignment_reminders": "Ülesande tähtaja meeldetuletuste seaded",
     "sync_content_live_activity": "Live Updates seaded",
     "update_available_message": "Play Store'is on saadaval uus versioon. Kas soovid kohe uuendada?",

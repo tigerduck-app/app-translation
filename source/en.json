@@ -1006,6 +1006,7 @@
     "permission_warning_description": "The following permissions were previously enabled but are now disabled. Related notifications and Live Updates may not display correctly.",
     "school_mail_exact_alarm_hint": "Allow exact alarms so TigerDuck can check for mail on time.",
     "school_mail_guide_gmail_title": "Read school mail in Gmail",
+    "settings_licenses_section_wear": "Wear OS app",
     "sync_content_assignment_reminders": "Assignment due reminder settings",
     "sync_content_live_activity": "Live Updates settings",
     "update_available_message": "A new version is available on the Play Store. Would you like to update now?",

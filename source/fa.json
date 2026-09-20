@@ -1006,6 +1006,7 @@
     "permission_warning_description": "مجوزهای زیر قبلاً فعال بوده‌اند اما اکنون غیرفعال شده‌اند. ممکن است اعلان‌ها و Live Updates به‌درستی نمایش داده نشوند.",
     "school_mail_exact_alarm_hint": "اجازهٔ هشدارهای دقیق بدهید تا TigerDuck بتواند ایمیل را به‌موقع بررسی کند.",
     "school_mail_guide_gmail_title": "خواندن ایمیل مدرسه در Gmail",
+    "settings_licenses_section_wear": "برنامه Wear OS",
     "sync_content_assignment_reminders": "تنظیمات یادآورهای موعد تکلیف",
     "sync_content_live_activity": "تنظیمات Live Updates",
     "update_available_message": "نسخه جدیدی در Play Store موجود است. آیا می‌خواهید همین الان به‌روزرسانی کنید؟",

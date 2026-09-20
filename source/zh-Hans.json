@@ -1006,6 +1006,7 @@
     "permission_warning_description": "以下权限在您之前已允许，但现在已被关闭。关闭后对应的通知与实时更新可能无法正常显示。",
     "school_mail_exact_alarm_hint": "允许精确闹钟，TigerDuck 才能准时检查新邮件。",
     "school_mail_guide_gmail_title": "用 Gmail 收校园邮件",
+    "settings_licenses_section_wear": "Wear OS 应用",
     "sync_content_assignment_reminders": "作业到期提醒设置",
     "sync_content_live_activity": "实时更新设置",
     "update_available_message": "Play 商店上已有新版本，要现在更新吗？",
