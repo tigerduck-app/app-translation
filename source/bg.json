@@ -792,6 +792,7 @@
     "settings_library_warning_message": "Това приложение не е официалното приложение на библиотеката на NTUST и не е одобрено от университетската библиотека. Не можем да гарантираме нормалната работа или каквито и да е последици от употребата.\n\nИзползвайте по ваша преценка. Всякакви негативни резултати са ваша отговорност и не са свързани с tigerduck-app.",
     "settings_library_warning_title": "Моля, обърнете внимание!",
     "settings_licenses_section_third_party": "Библиотеки на трети страни",
+    "settings_licenses_unavailable": "Не може да се зареди списъкът с лицензи",
     "settings_licenses_website": "Уебсайт",
     "settings_link_opening_method": "Отваряне на връзки с",
     "settings_official_website": "Официален уебсайт",

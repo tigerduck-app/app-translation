@@ -792,6 +792,7 @@
     "settings_library_warning_message": "Bu uygulama resmi bir NTUST kütüphane uygulaması değildir ve okul kütüphanesi tarafından onaylanmamıştır. Normal çalışmayı veya kullanımdan doğacak sonuçları garanti edemeyiz.\n\nKendi takdirinizle kullanın. Olumsuz sonuçların tüm sorumluluğu size aittir ve tigerduck-app ile ilgisi yoktur.",
     "settings_library_warning_title": "Lütfen dikkat!",
     "settings_licenses_section_third_party": "Üçüncü taraf kitaplıklar",
+    "settings_licenses_unavailable": "Lisans listesi yüklenemedi",
     "settings_licenses_website": "Web sitesi",
     "settings_link_opening_method": "Bağlantıları şununla aç",
     "settings_official_website": "Resmi web sitesi",

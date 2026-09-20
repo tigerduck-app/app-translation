@@ -820,6 +820,7 @@
 "settings_library_warning_message" = "This app is not an official NTUST library app and has not been approved by the school library. We cannot guarantee normal operation or any consequences of use.\n\nUse at your own discretion. Any negative outcomes are your own responsibility and unrelated to tigerduck-app.";
 "settings_library_warning_title" = "Please note!";
 "settings_licenses_section_third_party" = "Third-party libraries";
+"settings_licenses_unavailable" = "Unable to load the license list";
 "settings_licenses_website" = "Website";
 "settings_link_opening_method" = "Open links with";
 "settings_notifications_disabled_warning" = "Notifications are off. Tap to open System Settings.";

@@ -820,6 +820,7 @@
 "settings_library_warning_message" = "Ez az alkalmazás nem az NTUST könyvtár hivatalos alkalmazása, és a könyvtár nem hagyta jóvá. Nem garantálhatjuk a normál működést vagy a használat következményeit.\n\nSaját belátása szerint használja. Minden negatív következményért Ön felel, és az nem kapcsolódik a tigerduck-app alkalmazáshoz.";
 "settings_library_warning_title" = "Figyelem!";
 "settings_licenses_section_third_party" = "Harmadik féltől származó könyvtárak";
+"settings_licenses_unavailable" = "A licenclista betöltése nem sikerült";
 "settings_licenses_website" = "Weboldal";
 "settings_link_opening_method" = "Hivatkozások megnyitása ezzel:";
 "settings_notifications_disabled_warning" = "Az értesítések ki vannak kapcsolva. Koppintson a Rendszerbeállítások megnyitásához.";

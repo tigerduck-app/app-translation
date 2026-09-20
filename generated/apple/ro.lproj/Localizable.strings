@@ -820,6 +820,7 @@
 "settings_library_warning_message" = "Această aplicație nu este aplicația oficială de bibliotecă NTUST și nu a fost aprobată de biblioteca școlii. Nu putem garanta funcționarea normală sau consecințele utilizării.\n\nFolosește pe propria răspundere. Orice rezultat negativ este responsabilitatea ta și nu are legătură cu tigerduck-app.";
 "settings_library_warning_title" = "Atenție!";
 "settings_licenses_section_third_party" = "Biblioteci terțe";
+"settings_licenses_unavailable" = "Lista de licențe nu poate fi încărcată";
 "settings_licenses_website" = "Site web";
 "settings_link_opening_method" = "Deschide linkurile cu";
 "settings_notifications_disabled_warning" = "Notificările sunt dezactivate. Atinge pentru a deschide Setările sistemului.";

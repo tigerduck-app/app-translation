@@ -820,6 +820,7 @@
 "settings_library_warning_message" = "Это приложение не является официальным приложением библиотеки NTUST и не одобрено школьной библиотекой. Мы не можем гарантировать нормальную работу или последствия использования.\n\nИспользуйте на своё усмотрение. Любые негативные последствия — ваша личная ответственность и не имеют отношения к tigerduck-app.";
 "settings_library_warning_title" = "Обратите внимание!";
 "settings_licenses_section_third_party" = "Сторонние библиотеки";
+"settings_licenses_unavailable" = "Не удалось загрузить список лицензий";
 "settings_licenses_website" = "Сайт";
 "settings_link_opening_method" = "Открывать ссылки в";
 "settings_notifications_disabled_warning" = "Уведомления отключены. Нажмите, чтобы открыть настройки.";
