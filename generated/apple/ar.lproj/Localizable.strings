@@ -628,8 +628,10 @@
 "school_mail_forward_subject" = "الموضوع: %1$@";
 "school_mail_forwarded_header" = "---------- رسالة معاد توجيهها ----------";
 "school_mail_guide_apple_mail_title" = "تطبيق البريد";
+"school_mail_guide_load_failed" = "Couldn't load the guide";
 "school_mail_guide_mail2000_link" = "احصل على @Mail2000 من App Store";
 "school_mail_guide_mail2000_title" = "تطبيق @Mail2000";
+"school_mail_guide_open_in_browser" = "Open in browser";
 "school_mail_guide_placeholder" = "التعليمات ستتوفر قريبًا.";
 "school_mail_invalid_recipients" = "تحقّق من هذه العناوين: %1$@";
 "school_mail_keep_editing" = "متابعة التحرير";

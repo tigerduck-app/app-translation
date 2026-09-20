@@ -628,8 +628,10 @@
 "school_mail_forward_subject" = "Teema: %1$@";
 "school_mail_forwarded_header" = "---------- Edastatud kiri ----------";
 "school_mail_guide_apple_mail_title" = "Rakendus Mail";
+"school_mail_guide_load_failed" = "Couldn't load the guide";
 "school_mail_guide_mail2000_link" = "Laadi @Mail2000 alla App Store'ist";
 "school_mail_guide_mail2000_title" = "Rakendus @Mail2000";
+"school_mail_guide_open_in_browser" = "Open in browser";
 "school_mail_guide_placeholder" = "Juhised lisatakse peagi.";
 "school_mail_invalid_recipients" = "Kontrolli neid aadresse: %1$@";
 "school_mail_keep_editing" = "Jätka muutmist";

@@ -604,6 +604,8 @@
     "school_mail_forward_from": "Nuo: %1$@",
     "school_mail_forward_subject": "Tema: %1$@",
     "school_mail_forwarded_header": "---------- Persiųstas laiškas ----------",
+    "school_mail_guide_load_failed": "Couldn't load the guide",
+    "school_mail_guide_open_in_browser": "Open in browser",
     "school_mail_guide_placeholder": "Instrukcijos netrukus bus pridėtos.",
     "school_mail_invalid_recipients": "Patikrinkite šiuos adresus: %1$@",
     "school_mail_keep_editing": "Tęsti redagavimą",

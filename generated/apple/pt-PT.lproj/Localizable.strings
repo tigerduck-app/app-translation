@@ -628,8 +628,10 @@
 "school_mail_forward_subject" = "Assunto: %1$@";
 "school_mail_forwarded_header" = "---------- Mensagem reencaminhada ----------";
 "school_mail_guide_apple_mail_title" = "A app Mail";
+"school_mail_guide_load_failed" = "Couldn't load the guide";
 "school_mail_guide_mail2000_link" = "Descarrega o @Mail2000 da App Store";
 "school_mail_guide_mail2000_title" = "A app @Mail2000";
+"school_mail_guide_open_in_browser" = "Open in browser";
 "school_mail_guide_placeholder" = "As instruções estarão disponíveis brevemente.";
 "school_mail_invalid_recipients" = "Verifica estes endereços: %1$@";
 "school_mail_keep_editing" = "Continuar a editar";

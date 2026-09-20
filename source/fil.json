@@ -604,6 +604,8 @@
     "school_mail_forward_from": "Mula kay: %1$@",
     "school_mail_forward_subject": "Paksa: %1$@",
     "school_mail_forwarded_header": "---------- Mensaheng ipinasa ----------",
+    "school_mail_guide_load_failed": "Couldn't load the guide",
+    "school_mail_guide_open_in_browser": "Open in browser",
     "school_mail_guide_placeholder": "Malapit nang dumating ang mga instruction.",
     "school_mail_invalid_recipients": "I-check ang mga address na ito: %1$@",
     "school_mail_keep_editing": "Ituloy ang pag-edit",

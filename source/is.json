@@ -604,6 +604,8 @@
     "school_mail_forward_from": "Frá: %1$@",
     "school_mail_forward_subject": "Efni: %1$@",
     "school_mail_forwarded_header": "---------- Áframsend skilaboð ----------",
+    "school_mail_guide_load_failed": "Couldn't load the guide",
+    "school_mail_guide_open_in_browser": "Open in browser",
     "school_mail_guide_placeholder": "Leiðbeiningar birtast fljótlega.",
     "school_mail_invalid_recipients": "Athugaðu þessi netföng: %1$@",
     "school_mail_keep_editing": "Halda áfram að breyta",

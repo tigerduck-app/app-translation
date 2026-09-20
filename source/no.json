@@ -604,6 +604,8 @@
     "school_mail_forward_from": "Fra: %1$@",
     "school_mail_forward_subject": "Emne: %1$@",
     "school_mail_forwarded_header": "---------- Videresendt melding ----------",
+    "school_mail_guide_load_failed": "Couldn't load the guide",
+    "school_mail_guide_open_in_browser": "Open in browser",
     "school_mail_guide_placeholder": "Veiledningen kommer snart.",
     "school_mail_invalid_recipients": "Sjekk disse adressene: %1$@",
     "school_mail_keep_editing": "Fortsett å redigere",

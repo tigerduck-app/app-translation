@@ -628,8 +628,10 @@
 "school_mail_forward_subject" = "વિષય: %1$@";
 "school_mail_forwarded_header" = "---------- ફોરવર્ડ કરેલ સંદેશ ----------";
 "school_mail_guide_apple_mail_title" = "મેઇલ એપ";
+"school_mail_guide_load_failed" = "Couldn't load the guide";
 "school_mail_guide_mail2000_link" = "App Store પર @Mail2000 મેળવો";
 "school_mail_guide_mail2000_title" = "@Mail2000 એપ";
+"school_mail_guide_open_in_browser" = "Open in browser";
 "school_mail_guide_placeholder" = "સૂચનાઓ ટૂંક સમયમાં આવશે.";
 "school_mail_invalid_recipients" = "આ સરનામાં તપાસો: %1$@";
 "school_mail_keep_editing" = "સંપાદન ચાલુ રાખો";

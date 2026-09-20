@@ -605,6 +605,8 @@
   "school_mail_forward_from": "فرستنده: %1$@",
   "school_mail_forward_subject": "موضوع: %1$@",
   "school_mail_forwarded_header": "---------- پیام بازارسال‌شده ----------",
+  "school_mail_guide_load_failed": "Couldn't load the guide",
+  "school_mail_guide_open_in_browser": "Open in browser",
   "school_mail_guide_placeholder": "دستورالعمل‌ها به‌زودی اضافه می‌شود.",
   "school_mail_invalid_recipients": "این آدرس‌ها را بررسی کنید: %1$@",
   "school_mail_keep_editing": "ادامهٔ ویرایش",

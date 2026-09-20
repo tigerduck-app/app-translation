@@ -605,6 +605,8 @@
   "school_mail_forward_from": "Од: %1$@",
   "school_mail_forward_subject": "Тема: %1$@",
   "school_mail_forwarded_header": "---------- Прослеђена порука ----------",
+  "school_mail_guide_load_failed": "Couldn't load the guide",
+  "school_mail_guide_open_in_browser": "Open in browser",
   "school_mail_guide_placeholder": "Упутства ће ускоро бити доступна.",
   "school_mail_invalid_recipients": "Проверите ове адресе: %1$@",
   "school_mail_keep_editing": "Настави уређивање",

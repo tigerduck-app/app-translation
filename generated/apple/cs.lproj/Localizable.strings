@@ -628,8 +628,10 @@
 "school_mail_forward_subject" = "Předmět: %1$@";
 "school_mail_forwarded_header" = "---------- Přeposlaná zpráva ----------";
 "school_mail_guide_apple_mail_title" = "Aplikace Mail";
+"school_mail_guide_load_failed" = "Couldn't load the guide";
 "school_mail_guide_mail2000_link" = "Získejte @Mail2000 v App Store";
 "school_mail_guide_mail2000_title" = "Aplikace @Mail2000";
+"school_mail_guide_open_in_browser" = "Open in browser";
 "school_mail_guide_placeholder" = "Návod bude brzy k dispozici.";
 "school_mail_invalid_recipients" = "Zkontrolujte tyto adresy: %1$@";
 "school_mail_keep_editing" = "Pokračovat v úpravách";

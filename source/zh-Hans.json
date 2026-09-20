@@ -604,6 +604,8 @@
     "school_mail_forward_from": "发件人：%1$@",
     "school_mail_forward_subject": "主题：%1$@",
     "school_mail_forwarded_header": "---------- 转发的邮件 ----------",
+    "school_mail_guide_load_failed": "Couldn't load the guide",
+    "school_mail_guide_open_in_browser": "Open in browser",
     "school_mail_guide_placeholder": "说明即将推出。",
     "school_mail_invalid_recipients": "请检查这些地址：%1$@",
     "school_mail_keep_editing": "继续编辑",

@@ -604,6 +604,8 @@
     "school_mail_forward_from": "அனுப்புநர்: %1$@",
     "school_mail_forward_subject": "பொருள்: %1$@",
     "school_mail_forwarded_header": "---------- முன்னனுப்பப்பட்ட செய்தி ----------",
+    "school_mail_guide_load_failed": "Couldn't load the guide",
+    "school_mail_guide_open_in_browser": "Open in browser",
     "school_mail_guide_placeholder": "வழிமுறைகள் விரைவில் வரும்.",
     "school_mail_invalid_recipients": "இந்த முகவரிகளைச் சரிபார்க்கவும்: %1$@",
     "school_mail_keep_editing": "தொடர்ந்து திருத்து",

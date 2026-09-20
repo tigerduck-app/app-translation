@@ -628,8 +628,10 @@
 "school_mail_forward_subject" = "Subjek: %1$@";
 "school_mail_forwarded_header" = "---------- Pesan diteruskan ----------";
 "school_mail_guide_apple_mail_title" = "Aplikasi Mail";
+"school_mail_guide_load_failed" = "Couldn't load the guide";
 "school_mail_guide_mail2000_link" = "Dapatkan @Mail2000 di App Store";
 "school_mail_guide_mail2000_title" = "Aplikasi @Mail2000";
+"school_mail_guide_open_in_browser" = "Open in browser";
 "school_mail_guide_placeholder" = "Petunjuk akan segera hadir.";
 "school_mail_invalid_recipients" = "Periksa alamat berikut: %1$@";
 "school_mail_keep_editing" = "Lanjutkan mengedit";

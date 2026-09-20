@@ -604,6 +604,8 @@
     "school_mail_forward_from": "De: %1$@",
     "school_mail_forward_subject": "Assunto: %1$@",
     "school_mail_forwarded_header": "---------- Mensagem encaminhada ----------",
+    "school_mail_guide_load_failed": "Couldn't load the guide",
+    "school_mail_guide_open_in_browser": "Open in browser",
     "school_mail_guide_placeholder": "As instruções estarão disponíveis em breve.",
     "school_mail_invalid_recipients": "Verifique estes endereços: %1$@",
     "school_mail_keep_editing": "Continuar editando",
