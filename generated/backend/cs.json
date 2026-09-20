@@ -607,7 +607,6 @@
   "school_mail_forwarded_header": "---------- Přeposlaná zpráva ----------",
   "school_mail_guide_load_failed": "Couldn't load the guide",
   "school_mail_guide_open_in_browser": "Open in browser",
-  "school_mail_guide_placeholder": "Návod bude brzy k dispozici.",
   "school_mail_invalid_recipients": "Zkontrolujte tyto adresy: %1$@",
   "school_mail_keep_editing": "Pokračovat v úpravách",
   "school_mail_leave_title": "Uložit tuto zprávu jako koncept?",

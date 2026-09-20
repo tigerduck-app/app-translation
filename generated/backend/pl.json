@@ -607,7 +607,6 @@
   "school_mail_forwarded_header": "---------- Wiadomość przesłana dalej ----------",
   "school_mail_guide_load_failed": "Couldn't load the guide",
   "school_mail_guide_open_in_browser": "Open in browser",
-  "school_mail_guide_placeholder": "Instrukcje pojawią się wkrótce.",
   "school_mail_invalid_recipients": "Sprawdź te adresy: %1$@",
   "school_mail_keep_editing": "Kontynuuj edycję",
   "school_mail_leave_title": "Zapisać tę wiadomość jako kopię roboczą?",

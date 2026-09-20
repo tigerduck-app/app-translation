@@ -607,7 +607,6 @@
   "school_mail_forwarded_header": "---------- Mesaj redirecționat ----------",
   "school_mail_guide_load_failed": "Couldn't load the guide",
   "school_mail_guide_open_in_browser": "Open in browser",
-  "school_mail_guide_placeholder": "Instrucțiunile vor fi disponibile în curând.",
   "school_mail_invalid_recipients": "Verifică aceste adrese: %1$@",
   "school_mail_keep_editing": "Continuă editarea",
   "school_mail_leave_title": "Salvezi acest e-mail ca ciornă?",

@@ -607,7 +607,6 @@
   "school_mail_forwarded_header": "---------- Mensagem reencaminhada ----------",
   "school_mail_guide_load_failed": "Couldn't load the guide",
   "school_mail_guide_open_in_browser": "Open in browser",
-  "school_mail_guide_placeholder": "As instruções estarão disponíveis brevemente.",
   "school_mail_invalid_recipients": "Verifica estes endereços: %1$@",
   "school_mail_keep_editing": "Continuar a editar",
   "school_mail_leave_title": "Guardar este correio como rascunho?",
