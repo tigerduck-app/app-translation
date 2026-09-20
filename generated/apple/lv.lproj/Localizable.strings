@@ -628,10 +628,10 @@
 "school_mail_forward_subject" = "Tēma: %1$@";
 "school_mail_forwarded_header" = "---------- Pārsūtīta vēstule ----------";
 "school_mail_guide_apple_mail_title" = "Lietotne Mail";
-"school_mail_guide_load_failed" = "Couldn't load the guide";
+"school_mail_guide_load_failed" = "Neizdevās ielādēt pamācību";
 "school_mail_guide_mail2000_link" = "Lejupielādējiet @Mail2000 veikalā App Store";
 "school_mail_guide_mail2000_title" = "Lietotne @Mail2000";
-"school_mail_guide_open_in_browser" = "Open in browser";
+"school_mail_guide_open_in_browser" = "Atvērt pārlūkā";
 "school_mail_invalid_recipients" = "Pārbaudiet šīs adreses: %1$@";
 "school_mail_keep_editing" = "Turpināt rediģēšanu";
 "school_mail_leave_title" = "Vai saglabāt šo vēstuli kā melnrakstu?";

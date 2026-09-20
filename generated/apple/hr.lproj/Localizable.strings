@@ -628,10 +628,10 @@
 "school_mail_forward_subject" = "Predmet: %1$@";
 "school_mail_forwarded_header" = "---------- Proslijeđena poruka ----------";
 "school_mail_guide_apple_mail_title" = "Aplikacija Mail";
-"school_mail_guide_load_failed" = "Couldn't load the guide";
+"school_mail_guide_load_failed" = "Vodič nije moguće učitati";
 "school_mail_guide_mail2000_link" = "Preuzmite @Mail2000 iz trgovine App Store";
 "school_mail_guide_mail2000_title" = "Aplikacija @Mail2000";
-"school_mail_guide_open_in_browser" = "Open in browser";
+"school_mail_guide_open_in_browser" = "Otvori u pregledniku";
 "school_mail_invalid_recipients" = "Provjerite ove adrese: %1$@";
 "school_mail_keep_editing" = "Nastavi uređivanje";
 "school_mail_leave_title" = "Spremiti ovu poruku kao skicu?";

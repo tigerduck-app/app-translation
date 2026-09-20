@@ -628,10 +628,10 @@
 "school_mail_forward_subject" = "Oggetto: %1$@";
 "school_mail_forwarded_header" = "---------- Messaggio inoltrato ----------";
 "school_mail_guide_apple_mail_title" = "App Mail";
-"school_mail_guide_load_failed" = "Couldn't load the guide";
+"school_mail_guide_load_failed" = "Impossibile caricare la guida";
 "school_mail_guide_mail2000_link" = "Scarica @Mail2000 dall'App Store";
 "school_mail_guide_mail2000_title" = "App @Mail2000";
-"school_mail_guide_open_in_browser" = "Open in browser";
+"school_mail_guide_open_in_browser" = "Apri nel browser";
 "school_mail_invalid_recipients" = "Controlla questi indirizzi: %1$@";
 "school_mail_keep_editing" = "Continua a modificare";
 "school_mail_leave_title" = "Salvare questo messaggio come bozza?";
