@@ -19,6 +19,7 @@
 "action_clear_text" = "Мәтінді тазалау";
 "action_close" = "Жабу";
 "action_confirm" = "Растау";
+"action_copy_link" = "Сілтемені көшіру";
 "action_done" = "Дайын";
 "action_go_to_settings" = "Параметрлерге өту";
 "action_got_it" = "Түсінікті";
@@ -30,6 +31,7 @@
 "action_retry" = "Қайта әрекеттену";
 "action_save" = "Сақтау";
 "action_search" = "Іздеу";
+"action_share" = "Бөлісу";
 "action_sign_in" = "Кіру";
 "action_sign_in_again" = "Қайта кіру";
 "action_sign_out" = "Шығу";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "Студент жазбасы, тәртіп, шығу процедуралары";
 "information_system_category_resources" = "Ресурстар";
 "information_system_category_resources_description" = "Лицензиялық бағдарламалық жасақтама, кампус құжаттары";
+"information_system_link_copied" = "Сілтеме көшірілді";
 "information_system_load_failed" = "Ақпараттық жүйе жүктелмеді";
 "information_system_search_empty" = "Қызметтер табылмады";
 "information_system_search_hint" = "Қызметтерді іздеу";

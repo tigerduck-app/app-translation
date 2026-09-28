@@ -19,6 +19,7 @@
 "action_clear_text" = "Wyczyść tekst";
 "action_close" = "Zamknij";
 "action_confirm" = "Potwierdź";
+"action_copy_link" = "Kopiuj link";
 "action_done" = "Gotowe";
 "action_go_to_settings" = "Przejdź do ustawień";
 "action_got_it" = "Rozumiem";
@@ -30,6 +31,7 @@
 "action_retry" = "Spróbuj ponownie";
 "action_save" = "Zapisz";
 "action_search" = "Szukaj";
+"action_share" = "Udostępnij";
 "action_sign_in" = "Zaloguj się";
 "action_sign_in_again" = "Zaloguj się ponownie";
 "action_sign_out" = "Wyloguj się";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "Kartoteka studenta, zachowanie, procedury wypisu";
 "information_system_category_resources" = "Zasoby";
 "information_system_category_resources_description" = "Licencjonowane oprogramowanie, dokumenty kampusu";
+"information_system_link_copied" = "Link skopiowany";
 "information_system_load_failed" = "Nie udało się wczytać systemu informacyjnego";
 "information_system_search_empty" = "Nie znaleziono usług";
 "information_system_search_hint" = "Szukaj usług";

@@ -19,6 +19,7 @@
 "action_clear_text" = "Clear text";
 "action_close" = "Close";
 "action_confirm" = "Confirm";
+"action_copy_link" = "Copy link";
 "action_done" = "Done";
 "action_go_to_settings" = "Go to settings";
 "action_got_it" = "Got it";
@@ -30,6 +31,7 @@
 "action_retry" = "Retry";
 "action_save" = "Save";
 "action_search" = "Search";
+"action_share" = "Share";
 "action_sign_in" = "Sign in";
 "action_sign_in_again" = "Sign in again";
 "action_sign_out" = "Sign out";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "Student record, conduct, leaving procedures";
 "information_system_category_resources" = "Resources";
 "information_system_category_resources_description" = "Licensed software, campus documents";
+"information_system_link_copied" = "Link copied";
 "information_system_load_failed" = "Couldn't load the information system";
 "information_system_search_empty" = "No services found";
 "information_system_search_hint" = "Search services";

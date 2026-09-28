@@ -19,6 +19,7 @@
 "action_clear_text" = "پاک کردن متن";
 "action_close" = "بستن";
 "action_confirm" = "تأیید";
+"action_copy_link" = "کپی پیوند";
 "action_done" = "انجام شد";
 "action_go_to_settings" = "رفتن به تنظیمات";
 "action_got_it" = "متوجه شدم";
@@ -30,6 +31,7 @@
 "action_retry" = "دوباره امتحان کنید";
 "action_save" = "ذخیره";
 "action_search" = "جست‌وجو";
+"action_share" = "اشتراک‌گذاری";
 "action_sign_in" = "ورود";
 "action_sign_in_again" = "دوباره وارد شوید";
 "action_sign_out" = "خروج از حساب";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "سابقه دانشجویی، رفتار، فرآیندهای ترک تحصیل";
 "information_system_category_resources" = "منابع";
 "information_system_category_resources_description" = "نرم‌افزار دارای مجوز، اسناد پردیس";
+"information_system_link_copied" = "پیوند کپی شد";
 "information_system_load_failed" = "سیستم اطلاعات بار نشد";
 "information_system_search_empty" = "هیچ خدماتی یافت نشد";
 "information_system_search_hint" = "جستجوی خدمات";

@@ -19,6 +19,7 @@
 "action_clear_text" = "נקה טקסט";
 "action_close" = "סגור";
 "action_confirm" = "אישור";
+"action_copy_link" = "העתק קישור";
 "action_done" = "סיום";
 "action_go_to_settings" = "עבור להגדרות";
 "action_got_it" = "הבנתי";
@@ -30,6 +31,7 @@
 "action_retry" = "נסה שוב";
 "action_save" = "שמור";
 "action_search" = "חפש";
+"action_share" = "שתף";
 "action_sign_in" = "כניסה";
 "action_sign_in_again" = "התחברות מחדש";
 "action_sign_out" = "יציאה";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "תיק סטודנט, התנהגות, הליכי עזיבה";
 "information_system_category_resources" = "משאבים";
 "information_system_category_resources_description" = "תוכנה מורשית, מסמכי קמפוס";
+"information_system_link_copied" = "הקישור הועתק";
 "information_system_load_failed" = "לא ניתן היה לטעון את מערכת המידע";
 "information_system_search_empty" = "לא נמצאו שירותים";
 "information_system_search_hint" = "חפש שירותים";

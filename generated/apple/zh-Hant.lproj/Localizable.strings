@@ -19,6 +19,7 @@
 "action_clear_text" = "清除文字";
 "action_close" = "關閉";
 "action_confirm" = "確認";
+"action_copy_link" = "複製連結";
 "action_done" = "完成";
 "action_go_to_settings" = "前往設定";
 "action_got_it" = "收到！";
@@ -30,6 +31,7 @@
 "action_retry" = "重試";
 "action_save" = "儲存";
 "action_search" = "搜尋";
+"action_share" = "分享";
 "action_sign_in" = "登入";
 "action_sign_in_again" = "重新登入";
 "action_sign_out" = "登出";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "學籍、操行成績、離校手續";
 "information_system_category_resources" = "校園資訊";
 "information_system_category_resources_description" = "授權軟體、校內文件";
+"information_system_link_copied" = "已複製連結";
 "information_system_load_failed" = "無法載入資訊系統";
 "information_system_search_empty" = "未搜尋到任何服務";
 "information_system_search_hint" = "搜尋服務";

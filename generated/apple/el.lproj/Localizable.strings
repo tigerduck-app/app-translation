@@ -19,6 +19,7 @@
 "action_clear_text" = "Εκκαθάριση κειμένου";
 "action_close" = "Κλείσιμο";
 "action_confirm" = "Επιβεβαίωση";
+"action_copy_link" = "Αντιγραφή συνδέσμου";
 "action_done" = "Τέλος";
 "action_go_to_settings" = "Μετάβαση στις ρυθμίσεις";
 "action_got_it" = "Κατάλαβα";
@@ -30,6 +31,7 @@
 "action_retry" = "Δοκιμάζω πάλι";
 "action_save" = "Αποθήκευση";
 "action_search" = "Αναζήτηση";
+"action_share" = "Κοινή χρήση";
 "action_sign_in" = "Σύνδεση";
 "action_sign_in_again" = "Συνδεθείτε ξανά";
 "action_sign_out" = "Αποσύνδεση";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "Φοιτητικό μητρώο, διαγωγή, διαδικασίες αποφοίτησης";
 "information_system_category_resources" = "Πόροι";
 "information_system_category_resources_description" = "Αδειοδοτημένο λογισμικό, έγγραφα πανεπιστημιούπολης";
+"information_system_link_copied" = "Ο σύνδεσμος αντιγράφηκε";
 "information_system_load_failed" = "Δεν ήταν δυνατή η φόρτωση του συστήματος πληροφοριών";
 "information_system_search_empty" = "Δεν βρέθηκαν υπηρεσίες";
 "information_system_search_hint" = "Αναζήτηση υπηρεσιών";

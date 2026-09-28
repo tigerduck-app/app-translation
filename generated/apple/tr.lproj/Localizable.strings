@@ -19,6 +19,7 @@
 "action_clear_text" = "Metni temizle";
 "action_close" = "Kapat";
 "action_confirm" = "Onayla";
+"action_copy_link" = "Bağlantıyı kopyala";
 "action_done" = "Tamam";
 "action_go_to_settings" = "Ayarlara git";
 "action_got_it" = "Anladım";
@@ -30,6 +31,7 @@
 "action_retry" = "Yeniden dene";
 "action_save" = "Kaydet";
 "action_search" = "Ara";
+"action_share" = "Paylaş";
 "action_sign_in" = "Giriş yap";
 "action_sign_in_again" = "Yeniden oturum aç";
 "action_sign_out" = "Çıkış yap";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "Öğrenci kaydı, davranış, ayrılma prosedürleri";
 "information_system_category_resources" = "Kaynaklar";
 "information_system_category_resources_description" = "Lisanslı yazılım, kampüs belgeleri";
+"information_system_link_copied" = "Bağlantı kopyalandı";
 "information_system_load_failed" = "Bilgi sistemi yüklenemedi";
 "information_system_search_empty" = "Hizmet bulunamadı";
 "information_system_search_hint" = "Hizmet ara";

@@ -19,6 +19,7 @@
 "action_clear_text" = "Изчистване на текста";
 "action_close" = "Затвори";
 "action_confirm" = "Потвърди";
+"action_copy_link" = "Копирай връзка";
 "action_done" = "Готово";
 "action_go_to_settings" = "Към настройките";
 "action_got_it" = "Разбрах";
@@ -30,6 +31,7 @@
 "action_retry" = "Опитайте отново";
 "action_save" = "Запази";
 "action_search" = "Търсене";
+"action_share" = "Сподели";
 "action_sign_in" = "Влизане";
 "action_sign_in_again" = "Влезте отново";
 "action_sign_out" = "Излизане";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "Студентско досие, поведение, процедури за напускане";
 "information_system_category_resources" = "Ресурси";
 "information_system_category_resources_description" = "Лицензиран софтуер, документи на кампуса";
+"information_system_link_copied" = "Връзката е копирана";
 "information_system_load_failed" = "Информационната система не можа да се зареди";
 "information_system_search_empty" = "Не са намерени услуги";
 "information_system_search_hint" = "Търсене на услуги";

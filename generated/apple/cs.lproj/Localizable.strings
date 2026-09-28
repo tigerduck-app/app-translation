@@ -19,6 +19,7 @@
 "action_clear_text" = "Vymazat text";
 "action_close" = "Zavřít";
 "action_confirm" = "Potvrdit";
+"action_copy_link" = "Kopírovat odkaz";
 "action_done" = "Hotovo";
 "action_go_to_settings" = "Přejít do nastavení";
 "action_got_it" = "Rozumím";
@@ -30,6 +31,7 @@
 "action_retry" = "Zkuste to znovu";
 "action_save" = "Uložit";
 "action_search" = "Hledat";
+"action_share" = "Sdílet";
 "action_sign_in" = "Přihlásit se";
 "action_sign_in_again" = "Znovu se přihlaste";
 "action_sign_out" = "Odhlásit se";
@@ -431,6 +433,7 @@
 "information_system_category_person_info_description" = "Studijní záznam, chování, výstupní procedury";
 "information_system_category_resources" = "Zdroje";
 "information_system_category_resources_description" = "Licencovaný software, dokumenty kampusu";
+"information_system_link_copied" = "Odkaz zkopírován";
 "information_system_load_failed" = "Informační systém se nepodařilo načíst";
 "information_system_search_empty" = "Nebyly nalezeny žádné služby";
 "information_system_search_hint" = "Hledat služby";
