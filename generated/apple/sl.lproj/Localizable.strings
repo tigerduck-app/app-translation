@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Ponastavi privzeto";
 "tab_editor_section_available_tabs" = "Razpoložljivi zavihki";
 "tab_editor_section_current_tabs" = "Trenutni zavihki";
-"tab_editor_title" = "Urejevalnik zavihkov";
+"tab_editor_title" = "Prilagodi spodnjo vrstico";
 "tag_server_notification" = "Strežniško obvestilo";
 "update_action_later" = "Pozneje";
 "update_action_skip_version" = "Preskoči to različico";

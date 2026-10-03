@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Réinitialiser";
 "tab_editor_section_available_tabs" = "Onglets disponibles";
 "tab_editor_section_current_tabs" = "Onglets actuels";
-"tab_editor_title" = "Éditeur d'onglets";
+"tab_editor_title" = "Personnaliser la barre inférieure";
 "tag_server_notification" = "Notification serveur";
 "update_action_later" = "Plus tard";
 "update_action_skip_version" = "Ignorer cette version";

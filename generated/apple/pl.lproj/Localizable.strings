@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Przywróć ustawienia domyślne";
 "tab_editor_section_available_tabs" = "Dostępne zakładki";
 "tab_editor_section_current_tabs" = "Bieżące zakładki";
-"tab_editor_title" = "Edytor zakładek";
+"tab_editor_title" = "Dostosuj dolny pasek";
 "tag_server_notification" = "Powiadomienie serwera";
 "update_action_later" = "Później";
 "update_action_skip_version" = "Pomiń tę wersję";

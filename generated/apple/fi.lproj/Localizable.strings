@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Palauta oletukset";
 "tab_editor_section_available_tabs" = "Saatavilla olevat välilehdet";
 "tab_editor_section_current_tabs" = "Nykyiset välilehdet";
-"tab_editor_title" = "Välilehtieditori";
+"tab_editor_title" = "Mukauta alapalkkia";
 "tag_server_notification" = "Palvelimilmoitus";
 "update_action_later" = "Myöhemmin";
 "update_action_skip_version" = "Ohita tämä versio";

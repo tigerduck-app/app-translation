@@ -913,11 +913,11 @@
 "tab_editor_apply_action" = "套用";
 "tab_editor_drag_reorder" = "拖曳圖示調整順序";
 "tab_editor_locked" = "固定";
-"tab_editor_max_items_hint" = "底部導覽列最多 %1$d 個項目（含「更多」）。長按拖動可調整順序。";
+"tab_editor_max_items_hint" = "底部功能列最多 %1$d 個項目（含「更多」）。長按拖動可調整順序。";
 "tab_editor_reset_default" = "恢復預設";
-"tab_editor_section_available_tabs" = "可新增的分頁";
-"tab_editor_section_current_tabs" = "目前的 Tab";
-"tab_editor_title" = "Tab 編輯器";
+"tab_editor_section_available_tabs" = "可新增的項目";
+"tab_editor_section_current_tabs" = "目前顯示的項目";
+"tab_editor_title" = "自訂底部功能列";
 "tag_server_notification" = "伺服器通知";
 "update_action_later" = "稍後";
 "update_action_skip_version" = "跳過此版本";

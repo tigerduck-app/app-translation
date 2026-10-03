@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Khôi phục mặc định";
 "tab_editor_section_available_tabs" = "Tab có sẵn";
 "tab_editor_section_current_tabs" = "Tab hiện tại";
-"tab_editor_title" = "Trình chỉnh sửa Tab";
+"tab_editor_title" = "Tùy chỉnh thanh điều hướng dưới";
 "tag_server_notification" = "Thông báo máy chủ";
 "update_action_later" = "Để sau";
 "update_action_skip_version" = "Bỏ qua phiên bản này";

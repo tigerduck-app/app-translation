@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Скинути до типових";
 "tab_editor_section_available_tabs" = "Доступні вкладки";
 "tab_editor_section_current_tabs" = "Поточні вкладки";
-"tab_editor_title" = "Редактор вкладок";
+"tab_editor_title" = "Налаштувати нижню панель";
 "tag_server_notification" = "Сповіщення сервера";
 "update_action_later" = "Пізніше";
 "update_action_skip_version" = "Пропустити цю версію";

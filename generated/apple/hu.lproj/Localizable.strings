@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Alapértelmezések visszaállítása";
 "tab_editor_section_available_tabs" = "Elérhető lapok";
 "tab_editor_section_current_tabs" = "Jelenlegi lapok";
-"tab_editor_title" = "Lap szerkesztő";
+"tab_editor_title" = "Alsó sáv testreszabása";
 "tag_server_notification" = "Szerver-értesítés";
 "update_action_later" = "Később";
 "update_action_skip_version" = "Verzió kihagyása";

@@ -930,7 +930,7 @@
     <string name="tab_editor_reset_default">デフォルトに戻す</string>
     <string name="tab_editor_section_available_tabs">その他の利用可能なタブ</string>
     <string name="tab_editor_section_current_tabs">現在のタブ</string>
-    <string name="tab_editor_title">タブエディタ</string>
+    <string name="tab_editor_title">下部タブをカスタマイズ</string>
     <string name="tag_server_notification">サーバー通知</string>
     <string name="update_action_later">後で</string>
     <string name="update_action_skip_version">このバージョンをスキップ</string>

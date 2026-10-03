@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Resetează implicit";
 "tab_editor_section_available_tabs" = "File disponibile";
 "tab_editor_section_current_tabs" = "File curente";
-"tab_editor_title" = "Editor file";
+"tab_editor_title" = "Personalizează bara inferioară";
 "tag_server_notification" = "Notificare server";
 "update_action_later" = "Mai târziu";
 "update_action_skip_version" = "Omiteți această versiune";

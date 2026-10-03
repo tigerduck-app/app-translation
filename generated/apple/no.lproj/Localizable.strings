@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Tilbakestill standard";
 "tab_editor_section_available_tabs" = "Tilgjengelige faner";
 "tab_editor_section_current_tabs" = "Gjeldende faner";
-"tab_editor_title" = "Faneredaktør";
+"tab_editor_title" = "Tilpass bunnavigasjonen";
 "tag_server_notification" = "Servervarsling";
 "update_action_later" = "Senere";
 "update_action_skip_version" = "Hopp over denne versjonen";

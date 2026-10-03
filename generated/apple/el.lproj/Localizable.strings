@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "Επαναφορά προεπιλογών";
 "tab_editor_section_available_tabs" = "Διαθέσιμες καρτέλες";
 "tab_editor_section_current_tabs" = "Τρέχουσες καρτέλες";
-"tab_editor_title" = "Επεξεργαστής καρτελών";
+"tab_editor_title" = "Προσαρμογή κάτω πλοήγησης";
 "tag_server_notification" = "Ειδοποίηση διακομιστή";
 "update_action_later" = "Αργότερα";
 "update_action_skip_version" = "Παράλειψη αυτής της έκδοσης";

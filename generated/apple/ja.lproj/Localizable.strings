@@ -917,7 +917,7 @@
 "tab_editor_reset_default" = "デフォルトに戻す";
 "tab_editor_section_available_tabs" = "その他の利用可能なタブ";
 "tab_editor_section_current_tabs" = "現在のタブ";
-"tab_editor_title" = "タブエディタ";
+"tab_editor_title" = "下部タブをカスタマイズ";
 "tag_server_notification" = "サーバー通知";
 "update_action_later" = "後で";
 "update_action_skip_version" = "このバージョンをスキップ";
