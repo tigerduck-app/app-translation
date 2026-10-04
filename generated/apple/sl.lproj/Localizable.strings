@@ -689,6 +689,7 @@
 "school_mail_unread_only" = "Prikaži samo neprebrano";
 "school_mail_use_other_app" = "Uporabi drugo aplikacijo";
 "school_mail_view_formatted" = "Oblikovano";
+"school_mail_view_light_mode" = "Prikaži v svetlem načinu";
 "school_mail_view_mode" = "Pogled";
 "school_mail_view_plain" = "Navadno besedilo";
 "school_mail_view_source" = "Izvorna koda";
