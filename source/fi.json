@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(Ei lähettäjää)",
     "school_mail_no_subject": "(Ei aihetta)",
     "school_mail_notification_settings_title": "Koulusähköpostin ilmoitukset",
-    "school_mail_notification_title": "Email: %1$@",
     "school_mail_open": "Avaa",
     "school_mail_parse_failed": "Tämän viestin muotoa ei voitu lukea. Sen sijaan näytetään lähde.",
     "school_mail_quote_header": "%1$@, %2$@ kirjoitti:",

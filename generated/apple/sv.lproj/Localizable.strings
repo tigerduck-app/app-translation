@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Ingen avsändare)";
 "school_mail_no_subject" = "(Inget ämne)";
 "school_mail_notification_settings_title" = "Aviseringar för Skolmejl";
-"school_mail_notification_title" = "E-post: %1$@";
 "school_mail_open" = "Öppna";
 "school_mail_parse_failed" = "Det här mejlets format kunde inte läsas. Visar källkoden i stället.";
 "school_mail_quote_header" = "Den %1$@ skrev %2$@:";

@@ -626,7 +626,6 @@
   "school_mail_no_sender": "(Gönderen yok)",
   "school_mail_no_subject": "(Konu yok)",
   "school_mail_notification_settings_title": "Okul Postası bildirimleri",
-  "school_mail_notification_title": "Email: %1$@",
   "school_mail_open": "Aç",
   "school_mail_parse_failed": "Bu postanın biçimi okunamadı. Bunun yerine kaynağı gösteriliyor.",
   "school_mail_quote_header": "%1$@ tarihinde %2$@ şunu yazdı:",

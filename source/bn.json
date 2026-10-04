@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(কোনো প্রেরক নেই)",
     "school_mail_no_subject": "(কোনো বিষয় নেই)",
     "school_mail_notification_settings_title": "স্কুল মেইল বিজ্ঞপ্তি",
-    "school_mail_notification_title": "মেইল: %1$@",
     "school_mail_open": "খুলুন",
     "school_mail_parse_failed": "এই মেইলের ফরম্যাট পড়া যায়নি। পরিবর্তে এর সোর্স দেখানো হচ্ছে।",
     "school_mail_quote_header": "%1$@-এ %2$@ লিখেছেন:",

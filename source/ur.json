@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(کوئی بھیجنے والا نہیں)",
     "school_mail_no_subject": "(کوئی موضوع نہیں)",
     "school_mail_notification_settings_title": "اسکول ای میل اطلاعات",
-    "school_mail_notification_title": "ای میل: %1$@",
     "school_mail_open": "کھولیں",
     "school_mail_parse_failed": "اس ای میل کا فارمیٹ نہیں پڑھا جا سکا۔ اس کے بجائے اس کا سورس دکھایا جا رہا ہے۔",
     "school_mail_quote_header": "%1$@ کو %2$@ نے لکھا:",

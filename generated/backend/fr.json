@@ -626,7 +626,6 @@
   "school_mail_no_sender": "(Aucun expéditeur)",
   "school_mail_no_subject": "(Aucun objet)",
   "school_mail_notification_settings_title": "Notifications de Messagerie universitaire",
-  "school_mail_notification_title": "Mail : %1$@",
   "school_mail_open": "Ouvrir",
   "school_mail_parse_failed": "Impossible de lire le format de ce message. Affichage de son code source à la place.",
   "school_mail_quote_header": "Le %1$@, %2$@ a écrit :",

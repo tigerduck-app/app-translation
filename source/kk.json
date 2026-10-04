@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(Жіберуші жоқ)",
     "school_mail_no_subject": "(Тақырыбы жоқ)",
     "school_mail_notification_settings_title": "Мектеп поштасы хабарландырулары",
-    "school_mail_notification_title": "Email: %1$@",
     "school_mail_open": "Ашу",
     "school_mail_parse_failed": "Бұл хаттың пішімін оқу мүмкін болмады. Оның орнына бастапқы коды көрсетілуде.",
     "school_mail_quote_header": "%1$@ күні %2$@ былай деп жазды:",

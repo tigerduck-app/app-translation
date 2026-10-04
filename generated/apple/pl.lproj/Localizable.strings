@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Brak nadawcy)";
 "school_mail_no_subject" = "(Brak tematu)";
 "school_mail_notification_settings_title" = "Powiadomienia poczty uczelnianej";
-"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Otwórz";
 "school_mail_parse_failed" = "Nie udało się odczytać formatu wiadomości. Wyświetlono jej kod źródłowy.";
 "school_mail_quote_header" = "W dniu %1$@ użytkownik %2$@ napisał:";

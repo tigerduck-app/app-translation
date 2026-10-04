@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Bez odesílatele)";
 "school_mail_no_subject" = "(Bez předmětu)";
 "school_mail_notification_settings_title" = "Oznámení školní pošty";
-"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Otevřít";
 "school_mail_parse_failed" = "Formát zprávy se nepodařilo rozpoznat. Zobrazuje se její zdrojový kód.";
 "school_mail_quote_header" = "Dne %1$@ uživatel %2$@ napsal:";

@@ -626,7 +626,6 @@
   "school_mail_no_sender": "(Walang nagpadala)",
   "school_mail_no_subject": "(Walang paksa)",
   "school_mail_notification_settings_title": "Mga notification ng mail ng paaralan",
-  "school_mail_notification_title": "Email: %1$@",
   "school_mail_open": "Buksan",
   "school_mail_parse_failed": "Hindi mabasa ang format ng mail na ito. Ipinapakita na lang ang source nito.",
   "school_mail_quote_header": "Noong %1$@, sumulat si %2$@:",

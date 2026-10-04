@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Sense remitent)";
 "school_mail_no_subject" = "(Sense assumpte)";
 "school_mail_notification_settings_title" = "Notificacions del Correu universitari";
-"school_mail_notification_title" = "Correu: %1$@";
 "school_mail_open" = "Obre";
 "school_mail_parse_failed" = "No s'ha pogut llegir el format d'aquest correu. Es mostra el seu codi font.";
 "school_mail_quote_header" = "El %1$@, %2$@ va escriure:";

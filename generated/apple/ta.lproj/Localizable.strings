@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(அனுப்புநர் இல்லை)";
 "school_mail_no_subject" = "(பொருள் இல்லை)";
 "school_mail_notification_settings_title" = "பள்ளி மின்னஞ்சல் அறிவிப்புகள்";
-"school_mail_notification_title" = "மின்னஞ்சல்: %1$@";
 "school_mail_open" = "திற";
 "school_mail_parse_failed" = "இந்த மின்னஞ்சலின் வடிவமைப்பைப் படிக்க முடியவில்லை. அதற்குப் பதிலாக அதன் மூலத்தைக் காட்டுகிறது.";
 "school_mail_quote_header" = "தேதி: %1$@ — எழுதியவர்: %2$@";

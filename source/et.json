@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(Saatja puudub)",
     "school_mail_no_subject": "(Teema puudub)",
     "school_mail_notification_settings_title": "Kooli e-posti teavitused",
-    "school_mail_notification_title": "Kiri: %1$@",
     "school_mail_open": "Ava",
     "school_mail_parse_failed": "Selle kirja vormingut ei õnnestunud lugeda. Selle asemel kuvatakse lähtekoodi.",
     "school_mail_quote_header": "%1$@, %2$@ kirjutas:",

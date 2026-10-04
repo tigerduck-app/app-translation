@@ -626,7 +626,6 @@
   "school_mail_no_sender": "(Nessun mittente)",
   "school_mail_no_subject": "(Nessun oggetto)",
   "school_mail_notification_settings_title": "Notifiche di Posta universitaria",
-  "school_mail_notification_title": "Posta: %1$@",
   "school_mail_open": "Apri",
   "school_mail_parse_failed": "Impossibile leggere il formato di questo messaggio. Viene mostrato il codice sorgente.",
   "school_mail_quote_header": "Il %1$@, %2$@ ha scritto:",

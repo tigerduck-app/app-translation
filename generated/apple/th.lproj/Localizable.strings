@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(ไม่มีผู้ส่ง)";
 "school_mail_no_subject" = "(ไม่มีหัวเรื่อง)";
 "school_mail_notification_settings_title" = "การแจ้งเตือนอีเมลมหาวิทยาลัย";
-"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "เปิด";
 "school_mail_parse_failed" = "ไม่สามารถอ่านรูปแบบของอีเมลนี้ได้ กำลังแสดงซอร์สโค้ดแทน";
 "school_mail_quote_header" = "เมื่อ %1$@ %2$@ เขียนว่า:";

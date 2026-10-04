@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Nincs feladó)";
 "school_mail_no_subject" = "(Nincs tárgy)";
 "school_mail_notification_settings_title" = "Iskolai posta értesítések";
-"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Megnyitás";
 "school_mail_parse_failed" = "Nem sikerült beolvasni ennek az üzenetnek a formátumát. Helyette a forrása jelenik meg.";
 "school_mail_quote_header" = "%2$@ ezt írta (%1$@):";

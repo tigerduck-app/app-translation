@@ -626,7 +626,6 @@
   "school_mail_no_sender": "(Χωρίς αποστολέα)",
   "school_mail_no_subject": "(Χωρίς θέμα)",
   "school_mail_notification_settings_title": "Ειδοποιήσεις Πανεπιστημιακού email",
-  "school_mail_notification_title": "Email: %1$@",
   "school_mail_open": "Άνοιγμα",
   "school_mail_parse_failed": "Δεν ήταν δυνατή η ανάγνωση της μορφής αυτού του email. Εμφανίζεται ο πηγαίος κώδικας.",
   "school_mail_quote_header": "Στις %1$@, ο/η %2$@ έγραψε:",

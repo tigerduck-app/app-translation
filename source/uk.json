@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(Немає відправника)",
     "school_mail_no_subject": "(Без теми)",
     "school_mail_notification_settings_title": "Сповіщення університетської пошти",
-    "school_mail_notification_title": "Email: %1$@",
     "school_mail_open": "Відкрити",
     "school_mail_parse_failed": "Не вдалося розпізнати формат листа. Показано вихідний код.",
     "school_mail_quote_header": "%1$@, користувач %2$@ писав:",

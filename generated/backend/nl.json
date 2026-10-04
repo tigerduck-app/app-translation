@@ -626,7 +626,6 @@
   "school_mail_no_sender": "(Geen afzender)",
   "school_mail_no_subject": "(Geen onderwerp)",
   "school_mail_notification_settings_title": "Schoolmail-meldingen",
-  "school_mail_notification_title": "E-mail: %1$@",
   "school_mail_open": "Openen",
   "school_mail_parse_failed": "De opmaak van deze mail kon niet worden gelezen. De broncode wordt in plaats daarvan getoond.",
   "school_mail_quote_header": "Op %1$@ schreef %2$@:",

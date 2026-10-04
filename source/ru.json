@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(Нет отправителя)",
     "school_mail_no_subject": "(Без темы)",
     "school_mail_notification_settings_title": "Уведомления университетской почты",
-    "school_mail_notification_title": "Email: %1$@",
     "school_mail_open": "Открыть",
     "school_mail_parse_failed": "Не удалось распознать формат письма. Показан исходный код.",
     "school_mail_quote_header": "%1$@, пользователь %2$@ писал:",

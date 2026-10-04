@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Нема пошиљаоца)";
 "school_mail_no_subject" = "(Нема теме)";
 "school_mail_notification_settings_title" = "Обавештења за школску пошту";
-"school_mail_notification_title" = "Порука: %1$@";
 "school_mail_open" = "Отвори";
 "school_mail_parse_failed" = "Формат ове поруке није могуће прочитати. Уместо тога приказује се изворни код.";
 "school_mail_quote_header" = "Дана %1$@, %2$@ пише:";

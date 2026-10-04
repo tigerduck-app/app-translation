@@ -625,7 +625,6 @@
     "school_mail_no_sender": "(Ingen afsender)",
     "school_mail_no_subject": "(Intet emne)",
     "school_mail_notification_settings_title": "Notifikationer for Skolemail",
-    "school_mail_notification_title": "E-mail: %1$@",
     "school_mail_open": "Åbn",
     "school_mail_parse_failed": "Formatet på denne mail kunne ikke læses. Viser kildekoden i stedet.",
     "school_mail_quote_header": "Den %1$@ skrev %2$@:",

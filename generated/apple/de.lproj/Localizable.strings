@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Kein Absender)";
 "school_mail_no_subject" = "(Kein Betreff)";
 "school_mail_notification_settings_title" = "Uni-Mail-Benachrichtigungen";
-"school_mail_notification_title" = "E-Mail: %1$@";
 "school_mail_open" = "Öffnen";
 "school_mail_parse_failed" = "Das Format dieser E-Mail konnte nicht gelesen werden. Es wird stattdessen der Quelltext angezeigt.";
 "school_mail_quote_header" = "Am %1$@ schrieb %2$@:";

@@ -626,7 +626,6 @@
   "school_mail_no_sender": "(Tidak ada pengirim)",
   "school_mail_no_subject": "(Tidak ada subjek)",
   "school_mail_notification_settings_title": "Notifikasi email sekolah",
-  "school_mail_notification_title": "Email: %1$@",
   "school_mail_open": "Buka",
   "school_mail_parse_failed": "Tidak dapat membaca format email ini. Menampilkan kode sumbernya.",
   "school_mail_quote_header": "Pada %1$@, %2$@ menulis:",

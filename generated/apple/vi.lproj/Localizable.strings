@@ -651,7 +651,6 @@
 "school_mail_no_sender" = "(Không có người gửi)";
 "school_mail_no_subject" = "(Không có chủ đề)";
 "school_mail_notification_settings_title" = "Thông báo Email trường";
-"school_mail_notification_title" = "Email: %1$@";
 "school_mail_open" = "Mở";
 "school_mail_parse_failed" = "Không thể đọc định dạng của thư này. Đang hiển thị mã nguồn thay thế.";
 "school_mail_quote_header" = "Vào %1$@, %2$@ đã viết:";
