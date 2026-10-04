@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck includes an Apple Watch companion. View your next class and quick reminders right on your wrist — Watch TigerDuck syncs from your iPhone.",
     "onboarding_watchos_title": "Apple Watch support",
     "permission_notifications_description": "Allow the app to show notifications; otherwise notifications and Live Activity will not appear.",
+    "permission_photo_library_add_usage": "To save exported class table images to Photos.",
     "permission_warning_description": "The following permissions were previously enabled but are now disabled. Related notifications and Live Activity may not display correctly.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Disabled at system level → Settings → TigerDuck → Enable",

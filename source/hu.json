@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "A TigerDuck Apple Watch-kísérőalkalmazást is tartalmaz. Tekintsd meg a következő órádat és a gyors emlékeztetőket közvetlenül a csuklódon — a Watch TigerDuck az iPhone-odról szinkronizál.",
     "onboarding_watchos_title": "Apple Watch támogatás",
     "permission_notifications_description": "Engedélyezze az alkalmazásnak az értesítések megjelenítését; ellenkező esetben az értesítések és a Live Activity nem jelenik meg.",
+    "permission_photo_library_add_usage": "Az exportált órarendképek Fotókba mentéséhez.",
     "permission_warning_description": "Az alábbi engedélyek korábban engedélyezve voltak, de most le vannak tiltva. A kapcsolódó értesítések és a Live Activity esetleg nem jelenik meg megfelelően.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Rendszerszinten letiltva → Beállítások → TigerDuck → Engedélyezés",

@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "No permès · Toqueu per obrir la configuració";
 "permission_notifications_description" = "Permet que l'aplicació mostri notificacions; en cas contrari, les notificacions i Live Activity no apareixeran.";
 "permission_notifications_name" = "Permís de notificacions";
+"permission_photo_library_add_usage" = "Per desar a Fotos les imatges exportades de l'horari.";
 "permission_warning_action_later" = "Potser més tard";
 "permission_warning_description" = "Els permisos següents estaven activats anteriorment però ara estan desactivats. Les notificacions i Live Activity relacionades poden no mostrar-se correctament.";
 "permission_warning_mute_item" = "No em recordis això de nou";

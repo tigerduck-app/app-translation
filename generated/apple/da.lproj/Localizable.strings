@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Ikke tilladt · Tryk for at åbne indstillinger";
 "permission_notifications_description" = "Tillad appen at vise notifikationer; ellers vises notifikationer og Live Activity ikke.";
 "permission_notifications_name" = "Notifikationstilladelse";
+"permission_photo_library_add_usage" = "Til at gemme eksporterede billeder af skemaet i Fotos.";
 "permission_warning_action_later" = "Måske senere";
 "permission_warning_description" = "Følgende tilladelser var tidligere aktiveret, men er nu deaktiveret. Relaterede notifikationer og Live Activity vises muligvis ikke korrekt.";
 "permission_warning_mute_item" = "Påmind mig ikke om dette igen";

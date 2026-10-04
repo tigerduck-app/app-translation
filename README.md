@@ -11,6 +11,7 @@ This folder is the shared translation source for both Android and Apple.
     - `android/values/strings.xml`
     - `android/values-en/strings.xml`
     - `apple/en.lproj/Localizable.strings`
+    - `apple/en.lproj/InfoPlist.strings` (Info.plist purpose strings)
     - `apple/zh-Hant.lproj/Localizable.strings`
 
 ## Update workflow

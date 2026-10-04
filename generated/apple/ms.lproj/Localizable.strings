@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Tidak dibenarkan · Ketik untuk buka tetapan";
 "permission_notifications_description" = "Benarkan aplikasi menunjukkan pemberitahuan; jika tidak, pemberitahuan dan Live Activity tidak akan muncul.";
 "permission_notifications_name" = "Kebenaran pemberitahuan";
+"permission_photo_library_add_usage" = "Untuk menyimpan imej jadual kelas yang dieksport ke Foto.";
 "permission_warning_action_later" = "Mungkin kemudian";
 "permission_warning_description" = "Kebenaran berikut sebelum ini diaktifkan tetapi kini telah dilumpuhkan. Pemberitahuan dan Live Activity yang berkaitan mungkin tidak dipaparkan dengan betul.";
 "permission_warning_mute_item" = "Jangan ingatkan saya tentang ini lagi";

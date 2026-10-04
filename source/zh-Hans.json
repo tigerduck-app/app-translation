@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck 内建 Apple Watch 随身版本，可在手腕上查看下一堂课与快速提醒 — Watch TigerDuck 会自动从 iPhone 同步数据。",
     "onboarding_watchos_title": "Apple Watch 支持",
     "permission_notifications_description": "允许 App 显示通知，否则所有通知与即时动态都不会出现",
+    "permission_photo_library_add_usage": "将导出的课表图片存储到“照片”。",
     "permission_warning_description": "以下权限在您之前已允许，但现在已被关闭。关闭后对应的通知与即时动态可能无法正常显示。",
     "push_server_status_live_activities": "实时活动",
     "push_server_status_settings_hint": "系统层关闭 → 系统设置 → TigerDuck 开启",

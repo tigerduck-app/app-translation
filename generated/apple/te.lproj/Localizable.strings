@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "అనుమతి లేదు · సెట్టింగ్స్ తెరవడానికి నొక్కండి";
 "permission_notifications_description" = "యాప్ నోటిఫికేషన్లు చూపించడానికి అనుమతించండి; లేకపోతే నోటిఫికేషన్లు మరియు Live Activity కనిపించవు.";
 "permission_notifications_name" = "నోటిఫికేషన్ అనుమతి";
+"permission_photo_library_add_usage" = "ఎగుమతి చేసిన తరగతి షెడ్యూల్ చిత్రాలను ఫోటోలలో సేవ్ చేయడానికి.";
 "permission_warning_action_later" = "తర్వాత చూస్తాను";
 "permission_warning_description" = "కింది అనుమతులు మునుపు ఆన్ చేయబడ్డాయి కానీ ఇప్పుడు ఆఫ్ చేయబడ్డాయి. సంబంధిత నోటిఫికేషన్లు మరియు Live Activity సరిగ్గా కనిపించకపోవచ్చు.";
 "permission_warning_mute_item" = "దీని గురించి మళ్ళీ గుర్తు చేయవద్దు";

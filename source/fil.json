@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "May kasamang Apple Watch companion app ang TigerDuck. Tingnan ang iyong susunod na klase at mabibilis na paalala mismo sa iyong pulso — nagsi-sync ang Watch TigerDuck mula sa iyong iPhone.",
     "onboarding_watchos_title": "Suporta sa Apple Watch",
     "permission_notifications_description": "Payagan ang app na magpakita ng mga notification; kung hindi, hindi lalabas ang mga notification at Live Activity.",
+    "permission_photo_library_add_usage": "Para i-save sa Photos ang mga na-export na larawan ng iskedyul ng klase.",
     "permission_warning_description": "Ang mga sumusunod na pahintulot ay dati nang pinagana ngunit naka-disable na ngayon. Maaaring hindi wastong maipakita ang mga kaugnay na notification at Live Activity.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Naka-disable sa antas ng system → Mga Setting → TigerDuck → I-enable",

@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuckలో Apple Watch కంపానియన్ యాప్ ఉంది. మీ తదుపరి తరగతిని, త్వరిత గుర్తుల్నీ నేరుగా మీ మణికట్టు మీద చూడండి — Watch TigerDuck మీ iPhone నుండి సింక్ అవుతుంది.",
     "onboarding_watchos_title": "Apple Watch మద్దతు",
     "permission_notifications_description": "యాప్ నోటిఫికేషన్లు చూపించడానికి అనుమతించండి; లేకపోతే నోటిఫికేషన్లు మరియు Live Activity కనిపించవు.",
+    "permission_photo_library_add_usage": "ఎగుమతి చేసిన తరగతి షెడ్యూల్ చిత్రాలను ఫోటోలలో సేవ్ చేయడానికి.",
     "permission_warning_description": "కింది అనుమతులు మునుపు ఆన్ చేయబడ్డాయి కానీ ఇప్పుడు ఆఫ్ చేయబడ్డాయి. సంబంధిత నోటిఫికేషన్లు మరియు Live Activity సరిగ్గా కనిపించకపోవచ్చు.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "సిస్టం స్థాయిలో నిలిపివేయబడింది → సెట్టింగ్‌లు → TigerDuck → ప్రారంభించండి",

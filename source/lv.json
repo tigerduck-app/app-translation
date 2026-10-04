@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck ietver Apple Watch pavadošo lietotni. Apskati savu nākamo nodarbību un ātros atgādinājumus tieši uz plaukstas — Watch TigerDuck sinhronizējas no tava iPhone.",
     "onboarding_watchos_title": "Apple Watch atbalsts",
     "permission_notifications_description": "Atļaujiet lietotnei rādīt paziņojumus; pretējā gadījumā paziņojumi un Live Activity netiks rādīti.",
+    "permission_photo_library_add_usage": "Lai saglabātu eksportētos stundu plāna attēlus lietotnē Photos.",
     "permission_warning_description": "Tālāk minētās atļaujas iepriekš bija iespējotas, bet tagad ir atspējotas. Saistītie paziņojumi un Live Activity var netikt rādīti pareizi.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Atspējots sistēmas līmenī → Iestatījumi → TigerDuck → Ieslēgt",

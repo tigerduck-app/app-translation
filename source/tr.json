@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck, bir Apple Watch eşlikçi uygulaması içerir. Bir sonraki dersinizi ve hızlı hatırlatmaları doğrudan bileğinizden görüntüleyin — Watch TigerDuck, iPhone'unuzdan eşitlenir.",
     "onboarding_watchos_title": "Apple Watch desteği",
     "permission_notifications_description": "Uygulamanın bildirim göstermesine izin verin; aksi takdirde bildirimler ve Live Activity görünmez.",
+    "permission_photo_library_add_usage": "Dışa aktarılan ders programı görüntülerini Fotoğraflar'a kaydetmek için.",
     "permission_warning_description": "Aşağıdaki izinler daha önce etkindi ancak şu anda devre dışı. İlgili bildirimler ve Live Activity düzgün görüntülenmeyebilir.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Sistem düzeyinde devre dışı → Ayarlar → TigerDuck → Etkinleştir",

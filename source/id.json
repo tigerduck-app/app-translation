@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck menyertakan aplikasi pendamping Apple Watch. Lihat kelas berikutnya dan pengingat cepat langsung di pergelangan tangan Anda — Watch TigerDuck disinkronkan dari iPhone Anda.",
     "onboarding_watchos_title": "Dukungan Apple Watch",
     "permission_notifications_description": "Izinkan aplikasi menampilkan notifikasi; jika tidak, notifikasi dan Live Activity tidak akan muncul.",
+    "permission_photo_library_add_usage": "Untuk menyimpan gambar jadwal kuliah yang diekspor ke Foto.",
     "permission_warning_description": "Izin berikut sebelumnya diaktifkan tetapi sekarang dinonaktifkan. Notifikasi dan Live Activity terkait mungkin tidak ditampilkan dengan benar.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Dinonaktifkan di tingkat sistem → Pengaturan → TigerDuck → Aktifkan",

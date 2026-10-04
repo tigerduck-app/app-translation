@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Nepermis · Apasă pentru a deschide setările";
 "permission_notifications_description" = "Permite aplicației să afișeze notificări; altfel notificările și Live Activity nu vor apărea.";
 "permission_notifications_name" = "Permisiune notificări";
+"permission_photo_library_add_usage" = "Pentru a salva în Poze imaginile exportate ale orarului.";
 "permission_warning_action_later" = "Mai târziu";
 "permission_warning_description" = "Următoarele permisiuni au fost activate anterior, dar acum sunt dezactivate. Notificările și Live Activity asociate pot să nu se afișeze corect.";
 "permission_warning_mute_item" = "Nu mai reaminti despre asta";

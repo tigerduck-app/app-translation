@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck містить додаток-компаньйон для Apple Watch. Переглядайте наступне заняття та швидкі нагадування прямо на зап'ясті — Watch TigerDuck синхронізується з вашого iPhone.",
     "onboarding_watchos_title": "Підтримка Apple Watch",
     "permission_notifications_description": "Дозвольте застосунку показувати сповіщення; інакше сповіщення та Live Activity не з'являтимуться.",
+    "permission_photo_library_add_usage": "Щоб зберігати експортовані зображення розкладу у «Фото».",
     "permission_warning_description": "Наведені нижче дозволи раніше були ввімкнені, але зараз вимкнені. Відповідні сповіщення та Live Activity можуть відображатися некоректно.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Вимкнено на рівні системи → Налаштування → TigerDuck → Увімкнути",

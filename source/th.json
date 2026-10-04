@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck มีแอปคู่หูสำหรับ Apple Watch ดูคาบเรียนถัดไปและการแจ้งเตือนด่วนได้บนข้อมือของคุณ — Watch TigerDuck จะซิงค์ข้อมูลจาก iPhone ของคุณ",
     "onboarding_watchos_title": "รองรับ Apple Watch",
     "permission_notifications_description": "อนุญาตให้แอปแสดงการแจ้งเตือน มิฉะนั้นการแจ้งเตือนและ Live Activity จะไม่ปรากฏ",
+    "permission_photo_library_add_usage": "เพื่อบันทึกภาพตารางเรียนที่ส่งออกลงในรูปภาพ",
     "permission_warning_description": "สิทธิ์ต่อไปนี้เคยถูกอนุญาตไว้ก่อนหน้านี้ แต่ปัจจุบันถูกปิดใช้งานแล้ว การแจ้งเตือนและ Live Activity ที่เกี่ยวข้องอาจไม่แสดงผลอย่างถูกต้อง",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "ปิดใช้งานในระดับระบบ → ตั้งค่า → TigerDuck → เปิดใช้งาน",

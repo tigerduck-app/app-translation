@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck құрамында Apple Watch серіктес қолданбасы бар. Келесі сабағыңыз бен жылдам еске салғыштарды тікелей білегіңізден көріңіз — Watch TigerDuck iPhone-ыңыздан синхрондалады.",
     "onboarding_watchos_title": "Apple Watch қолдауы",
     "permission_notifications_description": "Қолданбаға хабарландыруларды көрсетуге рұқсат беріңіз; болмаса хабарландырулар мен Live Activity пайда болмайды.",
+    "permission_photo_library_add_usage": "Экспортталған сабақ кестесі суреттерін «Фотосуреттер» қолданбасына сақтау үшін.",
     "permission_warning_description": "Төмендегі рұқсаттар бұрын қосылған болатын, бірақ қазір өшірілген. Тиісті хабарландырулар мен Live Activity дұрыс көрсетілмеуі мүмкін.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Жүйе деңгейінде өшірілген → Баптаулар → TigerDuck → Қосу",

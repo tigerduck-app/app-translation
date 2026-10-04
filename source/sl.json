@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck vključuje spremljevalno aplikacijo za Apple Watch. Naslednje predavanje in hitre opomnike preverite kar na zapestju — Watch TigerDuck se sinhronizira z vašim iPhoneom.",
     "onboarding_watchos_title": "Podpora za Apple Watch",
     "permission_notifications_description": "Dovolite aplikaciji prikazovanje obvestil; sicer obvestila in Live Activity ne bodo prikazana.",
+    "permission_photo_library_add_usage": "Za shranjevanje izvoženih slik urnika v Fotografije.",
     "permission_warning_description": "Naslednja dovoljenja so bila prej omogočena, zdaj pa so onemogočena. Povezana obvestila in Live Activity morda ne bodo pravilno prikazana.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Onemogočeno na ravni sistema → Nastavitve → TigerDuck → Omogoči",

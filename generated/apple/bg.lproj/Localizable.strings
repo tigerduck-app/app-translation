@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Неразрешено · Докоснете, за да отворите настройките";
 "permission_notifications_description" = "Разрешете на приложението да показва известия; в противен случай известията и Live Activity няма да се показват.";
 "permission_notifications_name" = "Разрешение за известия";
+"permission_photo_library_add_usage" = "За запазване на експортираните изображения на разписанието в „Снимки“.";
 "permission_warning_action_later" = "По-късно";
 "permission_warning_description" = "Следните разрешения са били активирани по-рано, но сега са деактивирани. Свързаните известия и Live Activity може да не се показват правилно.";
 "permission_warning_mute_item" = "Не ми напомняй повече за това";

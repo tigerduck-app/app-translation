@@ -6,6 +6,7 @@ This repo is the source of truth: `source/<locale>.json`.
 Outputs:
 - `generated/android/values-*/strings.xml`
 - `generated/apple/<locale>.lproj/Localizable.strings`
+- `generated/apple/<locale>.lproj/InfoPlist.strings`
 - `generated/backend/<locale>.json`
 
 Generation is config-driven via `config/locales.json`.
@@ -371,6 +372,27 @@ def _render_android_strings_xml(strings: OrderedDict) -> str:
     return "\n".join(lines)
 
 
+# Apple-group keys that localize an Info.plist value rather than an in-app
+# string: source key -> Info.plist key. iOS reads these from InfoPlist.strings,
+# never from Localizable.strings, so the system's own prompts (a permission's
+# purpose string) would otherwise stay in the development language whatever
+# the user's language is. They still go into Localizable.strings as well,
+# where they are unused and harmless.
+APPLE_INFO_PLIST_KEYS: dict[str, str] = {
+    "permission_photo_library_add_usage": "NSPhotoLibraryAddUsageDescription",
+}
+
+
+def _render_apple_info_plist_strings(strings: OrderedDict) -> str:
+    lines: list[str] = []
+    lines.append("/* Generated from localization/source/*.json. Do not edit directly. */")
+    for source_key, plist_key in sorted(APPLE_INFO_PLIST_KEYS.items(), key=lambda kv: kv[1]):
+        if source_key in strings:
+            lines.append(f"\"{plist_key}\" = \"{_escape_apple(strings[source_key])}\";")
+    lines.append("")
+    return "\n".join(lines)
+
+
 def _render_apple_strings(strings: OrderedDict) -> str:
     lines: list[str] = []
     lines.append("/* Generated from localization/source/*.json. Do not edit directly. */")
@@ -468,9 +490,9 @@ def generate(*, validate_only: bool) -> None:
         if base_locale not in apple_flat:
             raise SystemExit(
                 f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
-        out_path = GENERATED_DIR / "apple" / f"{out_locale}.lproj" / "Localizable.strings"
-        content = _render_apple_strings(apple_flat[base_locale])
-        _atomic_write_text(out_path, content)
+        out_dir = GENERATED_DIR / "apple" / f"{out_locale}.lproj"
+        _atomic_write_text(out_dir / "Localizable.strings", _render_apple_strings(apple_flat[base_locale]))
+        _atomic_write_text(out_dir / "InfoPlist.strings", _render_apple_info_plist_strings(apple_flat[base_locale]))
 
     # backend
     for locale, flat in sorted(backend_flat.items()):

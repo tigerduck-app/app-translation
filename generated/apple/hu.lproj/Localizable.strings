@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Nem engedélyezett · Koppintson a beállítások megnyitásához";
 "permission_notifications_description" = "Engedélyezze az alkalmazásnak az értesítések megjelenítését; ellenkező esetben az értesítések és a Live Activity nem jelenik meg.";
 "permission_notifications_name" = "Értesítési engedély";
+"permission_photo_library_add_usage" = "Az exportált órarendképek Fotókba mentéséhez.";
 "permission_warning_action_later" = "Később";
 "permission_warning_description" = "Az alábbi engedélyek korábban engedélyezve voltak, de most le vannak tiltva. A kapcsolódó értesítések és a Live Activity esetleg nem jelenik meg megfelelően.";
 "permission_warning_mute_item" = "Ne emlékeztessen erre többé";

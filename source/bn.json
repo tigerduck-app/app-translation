@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck-এ একটি Apple Watch কম্প্যানিয়ন অ্যাপ অন্তর্ভুক্ত রয়েছে। আপনার পরবর্তী ক্লাস এবং দ্রুত রিমাইন্ডার সরাসরি আপনার কব্জিতে দেখুন — Watch TigerDuck আপনার iPhone থেকে সিঙ্ক করে।",
     "onboarding_watchos_title": "Apple Watch সমর্থন",
     "permission_notifications_description": "অ্যাপকে বিজ্ঞপ্তি দেখানোর অনুমতি দিন; না হলে বিজ্ঞপ্তি ও Live Activity প্রদর্শিত হবে না।",
+    "permission_photo_library_add_usage": "রপ্তানি করা ক্লাস তালিকার ছবি ফটোজে সংরক্ষণ করতে।",
     "permission_warning_description": "নিচের অনুমতিগুলি আগে চালু ছিল কিন্তু এখন বন্ধ। সম্পর্কিত বিজ্ঞপ্তি ও Live Activity সঠিকভাবে প্রদর্শিত নাও হতে পারে।",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "সিস্টেম স্তরে নিষ্ক্রিয় → সেটিংস → TigerDuck → চালু",

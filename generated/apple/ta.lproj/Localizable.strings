@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "அனுமதிக்கப்படவில்லை · அமைப்புகள் திறக்க தட்டவும்";
 "permission_notifications_description" = "App-ஐ அறிவிப்புகள் காட்ட அனுமதிக்கவும்; இல்லையெனில் அறிவிப்புகள் மற்றும் Live Activity தோன்றாது.";
 "permission_notifications_name" = "அறிவிப்பு அனுமதி";
+"permission_photo_library_add_usage" = "ஏற்றுமதி செய்த வகுப்பு அட்டவணைப் படங்களைப் புகைப்படங்களில் சேமிக்க.";
 "permission_warning_action_later" = "பின்னர் பார்க்கலாம்";
 "permission_warning_description" = "பின்வரும் அனுமதிகள் முன்பு இயக்கப்பட்டிருந்தன, ஆனால் இப்போது முடக்கப்பட்டுள்ளன. தொடர்பான அறிவிப்புகள் மற்றும் Live Activity சரியாக காட்டாமல் போகலாம்.";
 "permission_warning_mute_item" = "இதைப் பற்றி மீண்டும் நினைவூட்டாதே";

@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "അനുവദിച്ചിട്ടില്ല · ക്രമീകരണം തുറക്കാൻ ടാപ്പ് ചെയ്യുക";
 "permission_notifications_description" = "ആപ്പിന് അറിയിപ്പുകൾ കാണിക്കാൻ അനുവദിക്കുക; ഇല്ലെങ്കിൽ അറിയിപ്പുകളും Live Activity-ഉം പ്രദർശിപ്പിക്കില്ല.";
 "permission_notifications_name" = "അറിയിപ്പ് അനുമതി";
+"permission_photo_library_add_usage" = "എക്സ്പോർട്ട് ചെയ്ത ക്ലാസ് ടൈംടേബിൾ ചിത്രങ്ങൾ ഫോട്ടോകളിൽ സേവ് ചെയ്യാൻ.";
 "permission_warning_action_later" = "പിന്നീട്";
 "permission_warning_description" = "ഇനിപ്പറയുന്ന അനുമതികൾ മുമ്പ് പ്രവർത്തനക്ഷമമായിരുന്നു, ഇപ്പോൾ അക്ഷമം ചെയ്തിരിക്കുന്നു. ബന്ധപ്പെട്ട അറിയിപ്പുകളും Live Activity-ഉം ശരിയായി പ്രദർശിപ്പിക്കില്ല.";
 "permission_warning_mute_item" = "ഇനി ഇതിനെക്കുറിച്ച് ഓർമ്മപ്പെടുത്തരുത്";

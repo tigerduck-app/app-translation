@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Niet toegestaan · Tik om instellingen te openen";
 "permission_notifications_description" = "Sta de app toe meldingen weer te geven; anders verschijnen meldingen en Live Activity niet.";
 "permission_notifications_name" = "Meldingsmachtiging";
+"permission_photo_library_add_usage" = "Om geëxporteerde roosterafbeeldingen in Foto's te bewaren.";
 "permission_warning_action_later" = "Misschien later";
 "permission_warning_description" = "De volgende machtigingen waren eerder ingeschakeld, maar zijn nu uitgeschakeld. Bijbehorende meldingen en Live Activity worden mogelijk niet correct weergegeven.";
 "permission_warning_mute_item" = "Herinner me hier niet meer aan";

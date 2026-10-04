@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck įdiegta Apple Watch palydovinė programėlė. Peržiūrėkite kitą pamoką ir greitus priminimus tiesiai ant riešo — Watch TigerDuck sinchronizuojasi iš jūsų iPhone.",
     "onboarding_watchos_title": "Apple Watch palaikymas",
     "permission_notifications_description": "Leiskite programai rodyti pranešimus; kitu atveju pranešimai ir Live Activity nebus rodomi.",
+    "permission_photo_library_add_usage": "Eksportuotiems tvarkaraščio vaizdams išsaugoti nuotraukose.",
     "permission_warning_description": "Toliau nurodyti leidimai anksčiau buvo įjungti, tačiau dabar yra išjungti. Susiję pranešimai ir Live Activity gali būti rodomi neteisingai.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Išjungta sistemos lygiu → Nustatymai → TigerDuck → Įjungti",

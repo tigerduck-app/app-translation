@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Not allowed · Tap to open settings";
 "permission_notifications_description" = "Allow the app to show notifications; otherwise notifications and Live Activity will not appear.";
 "permission_notifications_name" = "Notification permission";
+"permission_photo_library_add_usage" = "To save exported class table images to Photos.";
 "permission_warning_action_later" = "Maybe later";
 "permission_warning_description" = "The following permissions were previously enabled but are now disabled. Related notifications and Live Activity may not display correctly.";
 "permission_warning_mute_item" = "Don't remind me about this again";

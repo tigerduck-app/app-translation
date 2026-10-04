@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Nije dopušteno · Dodirnite za otvaranje postavki";
 "permission_notifications_description" = "Dopustite aplikaciji prikazivanje obavijesti; u protivnom obavijesti i Live Activity neće se prikazivati.";
 "permission_notifications_name" = "Dopuštenje za obavijesti";
+"permission_photo_library_add_usage" = "Za spremanje izvezenih slika rasporeda u Fotografije.";
 "permission_warning_action_later" = "Možda kasnije";
 "permission_warning_description" = "Sljedeća dopuštenja bila su prethodno omogućena, ali su sada onemogućena. Povezane obavijesti i Live Activity možda se neće ispravno prikazivati.";
 "permission_warning_mute_item" = "Ne podsjećaj me više na ovo";

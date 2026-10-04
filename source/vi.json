@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck đi kèm ứng dụng đồng hành trên Apple Watch. Xem lớp học tiếp theo và lời nhắc nhanh ngay trên cổ tay — Watch TigerDuck đồng bộ từ iPhone của bạn.",
     "onboarding_watchos_title": "Hỗ trợ Apple Watch",
     "permission_notifications_description": "Cho phép ứng dụng hiển thị thông báo; nếu không, thông báo và Live Activity sẽ không xuất hiện.",
+    "permission_photo_library_add_usage": "Để lưu ảnh thời khóa biểu đã xuất vào Ảnh.",
     "permission_warning_description": "Các quyền sau trước đây đã được bật nhưng hiện đã bị tắt. Thông báo và Live Activity liên quan có thể không hiển thị đúng.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Tắt ở cấp hệ thống → Cài đặt → TigerDuck → Bật",

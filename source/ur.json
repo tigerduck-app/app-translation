@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "‏TigerDuck میں Apple Watch کا ساتھی ایپ شامل ہے۔ اپنی اگلی کلاس اور فوری یاد دہانیاں براہِ راست اپنی کلائی پر دیکھیں — ‏Watch TigerDuck آپ کے iPhone سے ہم آہنگ ہوتا ہے۔",
     "onboarding_watchos_title": "Apple Watch سپورٹ",
     "permission_notifications_description": "ایپ کو اطلاعات دکھانے کی اجازت دیں؛ ورنہ اطلاعات اور Live Activity ظاہر نہیں ہوں گی۔",
+    "permission_photo_library_add_usage": "برآمد کی گئی کلاس شیڈول کی تصاویر فوٹوز میں محفوظ کرنے کے لیے۔",
     "permission_warning_description": "درج ذیل اجازتیں پہلے فعال تھیں لیکن اب بند ہو گئی ہیں۔ متعلقہ اطلاعات اور Live Activity صحیح طریقے سے ظاہر نہیں ہو سکتیں۔",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "سسٹم سطح پر بند → سیٹنگز → TigerDuck → فعال کریں",

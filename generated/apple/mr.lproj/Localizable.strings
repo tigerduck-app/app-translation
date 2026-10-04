@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "परवानगी नाही · सेटिंग्ज उघडण्यासाठी टॅप करा";
 "permission_notifications_description" = "ॲपला अधिसूचना दाखवण्याची परवानगी द्या; अन्यथा अधिसूचना आणि Live Activity दिसणार नाहीत.";
 "permission_notifications_name" = "अधिसूचना परवानगी";
+"permission_photo_library_add_usage" = "निर्यात केलेल्या वर्ग वेळापत्रकाच्या प्रतिमा फोटोंमध्ये जतन करण्यासाठी.";
 "permission_warning_action_later" = "कदाचित नंतर";
 "permission_warning_description" = "खालील परवानग्या आधी सक्षम होत्या परंतु आता अक्षम केल्या आहेत. संबंधित अधिसूचना आणि Live Activity योग्यरित्या दिसणार नाहीत.";
 "permission_warning_mute_item" = "याबद्दल पुन्हा स्मरण करून देऊ नका";

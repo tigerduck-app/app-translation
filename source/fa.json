@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck شامل یک برنامهٔ همراه برای Apple Watch است. کلاس بعدی و یادآوری‌های سریع را مستقیماً روی مچ دست خود ببینید — Watch TigerDuck از iPhone شما همگام‌سازی می‌کند.",
     "onboarding_watchos_title": "پشتیبانی از Apple Watch",
     "permission_notifications_description": "به برنامه اجازه نمایش اعلان بدهید؛ در غیر این صورت اعلان‌ها و Live Activity نمایش داده نمی‌شوند.",
+    "permission_photo_library_add_usage": "برای ذخیرهٔ تصاویر خروجی برنامه کلاس‌ها در «عکس‌ها».",
     "permission_warning_description": "مجوزهای زیر قبلاً فعال بوده‌اند اما اکنون غیرفعال شده‌اند. ممکن است اعلان‌ها و Live Activity به‌درستی نمایش داده نشوند.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "در سطح سیستم غیرفعال شده → تنظیمات → TigerDuck → فعال کردن",

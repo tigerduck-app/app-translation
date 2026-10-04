@@ -38,8 +38,16 @@ have. Examples:
 
 - `android`: notification channel names/descriptions, exact-alarm permission,
   battery-optimization permission, "press back again to exit" toast
-- `apple`: (none yet — add things like Siri shortcut prompts, App Clip
-  invocation strings, or other Apple-only OS primitives here when they land)
+- `apple`: Live Activity copy, Info.plist purpose strings, and other
+  Apple-only OS primitives (Siri shortcut prompts, App Clip invocation
+  strings, …)
+
+An Info.plist purpose string (the text in a system permission prompt) is an
+`apple` key that is also listed in `APPLE_INFO_PLIST_KEYS` in
+`tools/localization/generate_localizations.py`, mapped to its Info.plist key.
+The generator writes those into each `<locale>.lproj/InfoPlist.strings`,
+which is the only place iOS reads them from. Name them `permission_*`, e.g.
+`permission_photo_library_add_usage` → `NSPhotoLibraryAddUsageDescription`.
 - `backend`: strings only the tigerduck-backend server renders — push
   notification copy it composes itself, in the recipient device's language.
   These never reach an app bundle. Do **not** put a string here merely

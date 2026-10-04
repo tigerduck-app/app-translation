@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck sisältää Apple Watch -kumppanisovelluksen. Katso seuraava tuntisi ja pikamuistutukset suoraan ranteestasi — Watch TigerDuck synkronoituu iPhonestasi.",
     "onboarding_watchos_title": "Apple Watch -tuki",
     "permission_notifications_description": "Salli sovelluksen näyttää ilmoituksia; muussa tapauksessa ilmoitukset ja Live Activity eivät näy.",
+    "permission_photo_library_add_usage": "Vietyjen lukujärjestyskuvien tallentamiseen Kuviin.",
     "permission_warning_description": "Seuraavat luvat olivat aiemmin käytössä, mutta on nyt poistettu. Niihin liittyvät ilmoitukset ja Live Activity eivät ehkä näy oikein.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Pois käytöstä järjestelmätasolla → Asetukset → TigerDuck → Ota käyttöön",

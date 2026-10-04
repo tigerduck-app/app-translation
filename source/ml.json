@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck-ൽ ഒരു Apple Watch കമ്പാനിയൻ ആപ്പ് ഉൾപ്പെടുത്തിയിട്ടുണ്ട്. നിങ്ങളുടെ അടുത്ത ക്ലാസും വേഗത്തിലുള്ള ഓർമ്മപ്പെടുത്തലുകളും കൈത്തണ്ടയിൽ തന്നെ കാണാം — Watch TigerDuck നിങ്ങളുടെ iPhone-ൽ നിന്ന് സിങ്ക് ചെയ്യും.",
     "onboarding_watchos_title": "Apple Watch പിന്തുണ",
     "permission_notifications_description": "ആപ്പിന് അറിയിപ്പുകൾ കാണിക്കാൻ അനുവദിക്കുക; ഇല്ലെങ്കിൽ അറിയിപ്പുകളും Live Activity-ഉം പ്രദർശിപ്പിക്കില്ല.",
+    "permission_photo_library_add_usage": "എക്സ്പോർട്ട് ചെയ്ത ക്ലാസ് ടൈംടേബിൾ ചിത്രങ്ങൾ ഫോട്ടോകളിൽ സേവ് ചെയ്യാൻ.",
     "permission_warning_description": "ഇനിപ്പറയുന്ന അനുമതികൾ മുമ്പ് പ്രവർത്തനക്ഷമമായിരുന്നു, ഇപ്പോൾ അക്ഷമം ചെയ്തിരിക്കുന്നു. ബന്ധപ്പെട്ട അറിയിപ്പുകളും Live Activity-ഉം ശരിയായി പ്രദർശിപ്പിക്കില്ല.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "സിസ്റ്റം നിലയിൽ ഓഫ് → Settings → TigerDuck → പ്രവർത്തനക്ഷമമാക്കുക",

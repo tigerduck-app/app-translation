@@ -550,6 +550,7 @@
 "permission_not_granted_tap_settings" = "Ikke tillatt · Trykk for å åpne innstillinger";
 "permission_notifications_description" = "La appen vise varsler; ellers vil ikke varsler og Live Activity vises.";
 "permission_notifications_name" = "Varslingstillatelse";
+"permission_photo_library_add_usage" = "For å arkivere eksporterte bilder av timeplanen i Bilder.";
 "permission_warning_action_later" = "Kanskje senere";
 "permission_warning_description" = "Følgende tillatelser var tidligere aktivert, men er nå deaktivert. Relaterte varsler og Live Activity vises kanskje ikke riktig.";
 "permission_warning_mute_item" = "Ikke påminn meg om dette igjen";

@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck sisaldab Apple Watchi kaaslasrakendust. Vaata järgmist tundi ja kiireid meeldetuletusi otse oma randmelt — Watch TigerDuck sünkroonib su iPhone'ist.",
     "onboarding_watchos_title": "Apple Watchi tugi",
     "permission_notifications_description": "Lubage rakendusel teavitusi kuvada; muidu ei ilmu teavitused ega Live Activity.",
+    "permission_photo_library_add_usage": "Eksporditud tunniplaani piltide salvestamiseks rakendusse Photos.",
     "permission_warning_description": "Järgmised load olid varem lubatud, kuid on nüüd keelatud. Seotud teavitused ja Live Activity ei pruugi õigesti kuvada.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Süsteemi tasemel keelatud → Seaded → TigerDuck → Luba",

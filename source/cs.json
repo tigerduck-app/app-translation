@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck obsahuje doprovodnou aplikaci pro Apple Watch. Podívejte se na další hodinu a rychlá připomenutí přímo na zápěstí — Watch TigerDuck se synchronizuje z vašeho iPhonu.",
     "onboarding_watchos_title": "Podpora Apple Watch",
     "permission_notifications_description": "Povolte aplikaci zobrazovat oznámení; jinak se oznámení ani Live Activity nezobrazí.",
+    "permission_photo_library_add_usage": "K uložení exportovaných obrázků rozvrhu do Fotek.",
     "permission_warning_description": "Následující oprávnění byla dříve povolena, ale nyní jsou vypnutá. Související oznámení a Live Activity se nemusí zobrazovat správně.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Vypnuto na úrovni systému → Nastavení → TigerDuck → Povolit",

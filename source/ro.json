@@ -1042,6 +1042,7 @@
     "onboarding_watchos_description": "TigerDuck include o aplicație companion pentru Apple Watch. Vezi următoarea oră și mementouri rapide direct la încheietură — Watch TigerDuck se sincronizează de pe iPhone-ul tău.",
     "onboarding_watchos_title": "Suport pentru Apple Watch",
     "permission_notifications_description": "Permite aplicației să afișeze notificări; altfel notificările și Live Activity nu vor apărea.",
+    "permission_photo_library_add_usage": "Pentru a salva în Poze imaginile exportate ale orarului.",
     "permission_warning_description": "Următoarele permisiuni au fost activate anterior, dar acum sunt dezactivate. Notificările și Live Activity asociate pot să nu se afișeze corect.",
     "push_server_status_live_activities": "Live Activities",
     "push_server_status_settings_hint": "Dezactivat la nivel de sistem → Setări → TigerDuck → Activează",
