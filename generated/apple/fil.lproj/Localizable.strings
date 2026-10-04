@@ -166,7 +166,10 @@
 "class_table_conflict_add_failed_title" = "Hindi maidagdag";
 "class_table_course_name" = "Pangalan ng kurso";
 "class_table_delete" = "Burahin";
-"class_table_empty_message" = "I-pull para mag-refresh, i-tap ang + para magdagdag ng kurso, o lumipat sa ibang semestre";
+"class_table_empty_message" = "I-pull para mag-refresh, i-tap ang ⋯ para magdagdag ng kurso, o lumipat sa ibang semestre";
+"class_table_export_failed" = "Hindi ma-export ang iskedyul ng klase";
+"class_table_export_screenshot" = "I-export ang screenshot ng iskedyul ng klase";
+"class_table_more_actions" = "Higit pang mga aksyon";
 "class_table_pick_color" = "Pumili ng kulay";
 "class_table_rename_default_label" = "Default: %1$@";
 "class_table_rename_revert" = "Ibalik sa default";

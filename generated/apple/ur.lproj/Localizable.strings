@@ -166,7 +166,10 @@
 "class_table_conflict_add_failed_title" = "شامل نہیں کیا جا سکتا";
 "class_table_course_name" = "کورس کا نام";
 "class_table_delete" = "حذف کریں";
-"class_table_empty_message" = "ریفریش کے لیے کھینچیں، کورس شامل کرنے کے لیے + پر ٹیپ کریں، یا کسی اور سمسٹر میں تبدیل کریں";
+"class_table_empty_message" = "ریفریش کے لیے کھینچیں، کورس شامل کرنے کے لیے ⋯ پر ٹیپ کریں، یا کسی اور سمسٹر میں تبدیل کریں";
+"class_table_export_failed" = "کلاس شیڈول برآمد نہیں ہو سکا";
+"class_table_export_screenshot" = "کلاس شیڈول کا اسکرین شاٹ برآمد کریں";
+"class_table_more_actions" = "مزید کارروائیاں";
 "class_table_pick_color" = "رنگ چنیں";
 "class_table_rename_default_label" = "ڈیفالٹ: %1$@";
 "class_table_rename_revert" = "ڈیفالٹ پر واپس جائیں";

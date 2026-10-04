@@ -166,7 +166,10 @@
 "class_table_conflict_add_failed_title" = "ไม่สามารถเพิ่มได้";
 "class_table_course_name" = "ชื่อวิชา";
 "class_table_delete" = "ลบ";
-"class_table_empty_message" = "ดึงลงเพื่อรีเฟรช แตะ + เพื่อเพิ่มวิชา หรือสลับไปยังภาคการศึกษาอื่น";
+"class_table_empty_message" = "ดึงลงเพื่อรีเฟรช แตะ ⋯ เพื่อเพิ่มวิชา หรือสลับไปยังภาคการศึกษาอื่น";
+"class_table_export_failed" = "ไม่สามารถส่งออกตารางเรียนได้";
+"class_table_export_screenshot" = "ส่งออกภาพหน้าจอตารางเรียน";
+"class_table_more_actions" = "การดำเนินการเพิ่มเติม";
 "class_table_pick_color" = "เลือกสี";
 "class_table_rename_default_label" = "ค่าเริ่มต้น: %1$@";
 "class_table_rename_revert" = "คืนค่าเริ่มต้น";

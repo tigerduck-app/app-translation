@@ -166,7 +166,10 @@
 "class_table_conflict_add_failed_title" = "追加できません";
 "class_table_course_name" = "授業名";
 "class_table_delete" = "削除";
-"class_table_empty_message" = "下に引っ張って更新するか、+ をタップして授業を追加するか、別の学期に切り替えてください";
+"class_table_empty_message" = "下に引っ張って更新するか、⋯ をタップして授業を追加するか、別の学期に切り替えてください";
+"class_table_export_failed" = "時間割を書き出せませんでした";
+"class_table_export_screenshot" = "時間割のスクリーンショットを書き出す";
+"class_table_more_actions" = "その他の操作";
 "class_table_pick_color" = "色を選択";
 "class_table_rename_default_label" = "デフォルト：%1$@";
 "class_table_rename_revert" = "デフォルトに戻す";

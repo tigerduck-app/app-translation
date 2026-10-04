@@ -166,7 +166,10 @@
 "class_table_conflict_add_failed_title" = "Dodajanje ni mogoče";
 "class_table_course_name" = "Ime predmeta";
 "class_table_delete" = "Izbriši";
-"class_table_empty_message" = "Povlecite za osvežitev, tapnite +, da dodate predmet, ali preklopite na drug semester";
+"class_table_empty_message" = "Povlecite za osvežitev, tapnite ⋯, da dodate predmet, ali preklopite na drug semester";
+"class_table_export_failed" = "Urnika ni bilo mogoče izvoziti";
+"class_table_export_screenshot" = "Izvozi posnetek zaslona urnika";
+"class_table_more_actions" = "Več dejanj";
 "class_table_pick_color" = "Izberi barvo";
 "class_table_rename_default_label" = "Privzeto: %1$@";
 "class_table_rename_revert" = "Obnovi privzeto";

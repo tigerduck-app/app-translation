@@ -166,7 +166,10 @@
 "class_table_conflict_add_failed_title" = "Não foi possível adicionar";
 "class_table_course_name" = "Nome da disciplina";
 "class_table_delete" = "Excluir";
-"class_table_empty_message" = "Puxe para atualizar, toque em + para adicionar uma disciplina ou mude de semestre";
+"class_table_empty_message" = "Puxe para atualizar, toque em ⋯ para adicionar uma disciplina ou mude de semestre";
+"class_table_export_failed" = "Não foi possível exportar a grade horária";
+"class_table_export_screenshot" = "Exportar captura da grade horária";
+"class_table_more_actions" = "Mais ações";
 "class_table_pick_color" = "Escolher cor";
 "class_table_rename_default_label" = "Padrão: %1$@";
 "class_table_rename_revert" = "Restaurar padrão";

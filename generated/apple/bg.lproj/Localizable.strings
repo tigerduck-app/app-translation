@@ -166,7 +166,10 @@
 "class_table_conflict_add_failed_title" = "Не може да се добави";
 "class_table_course_name" = "Наименование на курса";
 "class_table_delete" = "Изтриване";
-"class_table_empty_message" = "Издърпайте, за да опресните, докоснете +, за да добавите курс, или превключете на друг семестър";
+"class_table_empty_message" = "Издърпайте, за да опресните, докоснете ⋯, за да добавите курс, или превключете на друг семестър";
+"class_table_export_failed" = "Разписанието не можа да бъде експортирано";
+"class_table_export_screenshot" = "Експортиране на екранна снимка на разписанието";
+"class_table_more_actions" = "Още действия";
 "class_table_pick_color" = "Избор на цвят";
 "class_table_rename_default_label" = "По подразбиране: %1$@";
 "class_table_rename_revert" = "Връщане към подразбиране";
