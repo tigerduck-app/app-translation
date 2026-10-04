@@ -689,6 +689,7 @@
 "school_mail_unread_only" = "Alleen ongelezen tonen";
 "school_mail_use_other_app" = "Andere app gebruiken";
 "school_mail_view_formatted" = "Opgemaakt";
+"school_mail_view_light_mode" = "Weergeven in lichte modus";
 "school_mail_view_mode" = "Weergave";
 "school_mail_view_plain" = "Platte tekst";
 "school_mail_view_source" = "Broncode";

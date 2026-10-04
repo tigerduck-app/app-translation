@@ -689,6 +689,7 @@
 "school_mail_unread_only" = "Show unread only";
 "school_mail_use_other_app" = "Use another app";
 "school_mail_view_formatted" = "Formatted";
+"school_mail_view_light_mode" = "View in light mode";
 "school_mail_view_mode" = "View";
 "school_mail_view_plain" = "Plain text";
 "school_mail_view_source" = "Source";

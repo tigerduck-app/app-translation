@@ -689,6 +689,7 @@
 "school_mail_unread_only" = "Sýna aðeins ólesið";
 "school_mail_use_other_app" = "Nota annað forrit";
 "school_mail_view_formatted" = "Sniðið";
+"school_mail_view_light_mode" = "Skoða í ljósu þema";
 "school_mail_view_mode" = "Skoðun";
 "school_mail_view_plain" = "Hreinn texti";
 "school_mail_view_source" = "Frumkóði";

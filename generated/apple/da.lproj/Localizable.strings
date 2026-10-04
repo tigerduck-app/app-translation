@@ -689,6 +689,7 @@
 "school_mail_unread_only" = "Vis kun ulæste";
 "school_mail_use_other_app" = "Brug en anden app";
 "school_mail_view_formatted" = "Formateret";
+"school_mail_view_light_mode" = "Vis i lys tilstand";
 "school_mail_view_mode" = "Visning";
 "school_mail_view_plain" = "Almindelig tekst";
 "school_mail_view_source" = "Kildekode";
