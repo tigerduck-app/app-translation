@@ -655,7 +655,7 @@
     "school_mail_settings_notifications": "Obvestila o novih sporočilih",
     "school_mail_settings_notifications_hint": "TigerDuck preveri novo pošto vsakih nekaj minut, zato lahko obvestilo prispe malo pozneje.",
     "school_mail_show_cc_bcc": "Dodaj Cc/Bcc",
-    "school_mail_sign_in_note": "Vaša študentska številka in geslo morata biti enaka kot v šolskem sistemu. To geslo je tudi geslo za kampusni Wi-Fi (NTUST-PEAP); TigerDuck ga shrani šifrirano samo na tej napravi in ga nikoli ne naloži v splet.",
+    "school_mail_sign_in_note": "Vaša študentska številka in geslo morata biti enaka kot v šolskem sistemu. TigerDuck to geslo shrani šifrirano samo na tej napravi in ga nikoli ne naloži v splet.",
     "school_mail_sign_in_prompt_title": "Prijavite se v šolsko pošto",
     "school_mail_subject": "Zadeva",
     "school_mail_to": "Komu",

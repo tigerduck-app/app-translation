@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Varsler om ny e-post";
 "school_mail_settings_notifications_hint" = "TigerDuck sjekker for ny e-post hvert par minutter, så et varsel kan komme litt senere.";
 "school_mail_show_cc_bcc" = "Legg til Cc/Bcc";
-"school_mail_sign_in_note" = "Studentnummeret og passordet ditt skal være det samme som i skolens system. Dette passordet er også passordet til campus-wifi (NTUST-PEAP); TigerDuck lagrer det bare kryptert på denne enheten og laster det aldri opp.";
+"school_mail_sign_in_note" = "Studentnummeret og passordet ditt skal være det samme som i skolens system. TigerDuck lagrer dette passordet bare kryptert på denne enheten og laster det aldri opp.";
 "school_mail_sign_in_prompt_title" = "Logg på Skolepost";
 "school_mail_source_failed" = "Kildekoden kunne ikke lastes inn.";
 "school_mail_subject" = "Emne";

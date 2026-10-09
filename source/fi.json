@@ -655,7 +655,7 @@
     "school_mail_settings_notifications": "Uusien viestien ilmoitukset",
     "school_mail_settings_notifications_hint": "TigerDuck tarkistaa uudet viestit muutaman minuutin välein, joten ilmoitus voi saapua hieman myöhässä.",
     "school_mail_show_cc_bcc": "Lisää Kopio/Piilokopio",
-    "school_mail_sign_in_note": "Opiskelijanumerosi ja salasanasi tulee olla samat kuin koulun järjestelmässä. Tämä salasana on myös kampuksen Wi-Fi-salasana (NTUST-PEAP); TigerDuck tallentaa sen vain salattuna tälle laitteelle eikä koskaan lataa sitä palvelimelle.",
+    "school_mail_sign_in_note": "Opiskelijanumerosi ja salasanasi tulee olla samat kuin koulun järjestelmässä. TigerDuck tallentaa tämän salasanan vain salattuna tälle laitteelle eikä koskaan lataa sitä palvelimelle.",
     "school_mail_sign_in_prompt_title": "Kirjaudu koulusähköpostiin",
     "school_mail_subject": "Aihe",
     "school_mail_to": "Vastaanottaja",

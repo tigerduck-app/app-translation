@@ -655,7 +655,7 @@
     "school_mail_settings_notifications": "Benachrichtigungen bei neuer E-Mail",
     "school_mail_settings_notifications_hint": "TigerDuck prüft alle paar Minuten auf neue E-Mails, daher kann eine Benachrichtigung etwas später eintreffen.",
     "school_mail_show_cc_bcc": "Cc/Bcc hinzufügen",
-    "school_mail_sign_in_note": "Matrikelnummer und Passwort entsprechen denen des Hochschulsystems. Dieses Passwort ist zugleich das Passwort für das Campus-WLAN (NTUST-PEAP); TigerDuck speichert es nur verschlüsselt auf diesem Gerät und lädt es niemals hoch.",
+    "school_mail_sign_in_note": "Matrikelnummer und Passwort entsprechen denen des Hochschulsystems. TigerDuck speichert dieses Passwort nur verschlüsselt auf diesem Gerät und lädt es niemals hoch.",
     "school_mail_sign_in_prompt_title": "Bei Uni-Mail anmelden",
     "school_mail_subject": "Betreff",
     "school_mail_to": "An",

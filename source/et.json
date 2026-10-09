@@ -655,7 +655,7 @@
     "school_mail_settings_notifications": "Uue kirja teavitused",
     "school_mail_settings_notifications_hint": "TigerDuck kontrollib uusi kirju iga paari minuti tagant, seega teavitus võib saabuda pisut hiljem.",
     "school_mail_show_cc_bcc": "Lisa Cc/Bcc",
-    "school_mail_sign_in_note": "Sinu üliõpilase ID ja parool peaksid olema samad, mis koolisüsteemis. See parool on ühtlasi ka kampuse Wi-Fi (NTUST-PEAP) parool; TigerDuck hoiab seda ainult krüpteeritult selles seadmes ega laadi seda kunagi üles.",
+    "school_mail_sign_in_note": "Sinu üliõpilase ID ja parool peaksid olema samad, mis koolisüsteemis. TigerDuck hoiab seda parooli ainult krüpteeritult selles seadmes ega laadi seda kunagi üles.",
     "school_mail_sign_in_prompt_title": "Logi sisse kooli e-posti",
     "school_mail_subject": "Teema",
     "school_mail_to": "Kellele",

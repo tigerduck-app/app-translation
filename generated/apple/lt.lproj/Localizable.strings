@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Pranešimai apie naujus laiškus";
 "school_mail_settings_notifications_hint" = "TigerDuck naujų laiškų ieško kas kelias minutes, todėl pranešimas gali atkeliauti šiek tiek vėliau.";
 "school_mail_show_cc_bcc" = "Pridėti Cc/Bcc";
-"school_mail_sign_in_note" = "Jūsų studento ID ir slaptažodis turėtų būti tokie patys kaip mokyklos sistemoje. Šis slaptažodis taip pat naudojamas kampuso Wi-Fi (NTUST-PEAP) tinkle; TigerDuck jį saugo tik užšifruotą šiame įrenginyje ir niekada neįkelia į serverį.";
+"school_mail_sign_in_note" = "Jūsų studento ID ir slaptažodis turėtų būti tokie patys kaip mokyklos sistemoje. TigerDuck šį slaptažodį saugo tik užšifruotą šiame įrenginyje ir niekada neįkelia į serverį.";
 "school_mail_sign_in_prompt_title" = "Prisijunkite prie mokyklos pašto";
 "school_mail_source_failed" = "Nepavyko įkelti pirminio kodo.";
 "school_mail_subject" = "Tema";

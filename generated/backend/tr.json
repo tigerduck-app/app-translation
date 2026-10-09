@@ -656,7 +656,7 @@
   "school_mail_settings_notifications": "Yeni posta bildirimleri",
   "school_mail_settings_notifications_hint": "TigerDuck uygulaması yeni postaları birkaç dakikada bir kontrol eder, bu yüzden bildirim biraz gecikebilir.",
   "school_mail_show_cc_bcc": "Cc/Bcc ekle",
-  "school_mail_sign_in_note": "Öğrenci numaranız ve şifreniz okul sistemindekiyle aynı olmalıdır. Bu şifre aynı zamanda kampüs Wi-Fi (NTUST-PEAP) şifresidir; TigerDuck uygulaması bunu yalnızca bu cihazda şifreli olarak saklar ve hiçbir zaman yüklemez.",
+  "school_mail_sign_in_note": "Öğrenci numaranız ve şifreniz okul sistemindekiyle aynı olmalıdır. TigerDuck uygulaması bu şifreyi yalnızca bu cihazda şifreli olarak saklar ve hiçbir zaman yüklemez.",
   "school_mail_sign_in_prompt_title": "Okul postasına giriş yapın",
   "school_mail_subject": "Konu",
   "school_mail_to": "Kime",

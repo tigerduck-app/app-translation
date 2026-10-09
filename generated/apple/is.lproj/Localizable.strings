@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Tilkynningar um nýjan póst";
 "school_mail_settings_notifications_hint" = "TigerDuck athugar með nýjan póst á nokkurra mínútna fresti, svo tilkynning getur borist aðeins seinna.";
 "school_mail_show_cc_bcc" = "Bæta við Cc/Bcc";
-"school_mail_sign_in_note" = "Námsmannsnúmerið og lykilorðið þitt eiga að vera þau sömu og í kerfi skólans. Þetta lykilorð er einnig lykilorðið fyrir þráðlausa netið á háskólasvæðinu (NTUST-PEAP); TigerDuck geymir það aðeins dulkóðað á þessu tæki og sendir það aldrei upp á netið.";
+"school_mail_sign_in_note" = "Námsmannsnúmerið og lykilorðið þitt eiga að vera þau sömu og í kerfi skólans. TigerDuck geymir þetta lykilorð aðeins dulkóðað á þessu tæki og sendir það aldrei upp á netið.";
 "school_mail_sign_in_prompt_title" = "Skrá sig inn í Skólapóst";
 "school_mail_source_failed" = "Ekki tókst að hlaða inn frumkóðanum.";
 "school_mail_subject" = "Efni";

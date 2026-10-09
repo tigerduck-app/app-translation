@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Notificări pentru e-mailuri noi";
 "school_mail_settings_notifications_hint" = "TigerDuck verifică e-mailurile noi la fiecare câteva minute, așa că o notificare poate ajunge puțin mai târziu.";
 "school_mail_show_cc_bcc" = "Adaugă Cc/Bcc";
-"school_mail_sign_in_note" = "Numărul de matricol și parola ta trebuie să fie aceleași ca în sistemul universitar. Această parolă este și parola Wi-Fi din campus (NTUST-PEAP); TigerDuck o stochează doar criptat pe acest dispozitiv și nu o încarcă niciodată online.";
+"school_mail_sign_in_note" = "Numărul de matricol și parola ta trebuie să fie aceleași ca în sistemul universitar. TigerDuck stochează această parolă doar criptată pe acest dispozitiv și nu o încarcă niciodată online.";
 "school_mail_sign_in_prompt_title" = "Conectează-te la e-mailul universitar";
 "school_mail_source_failed" = "Sursa nu a putut fi încărcată.";
 "school_mail_subject" = "Subiect";

@@ -656,7 +656,7 @@
   "school_mail_settings_notifications": "Mga notification ng bagong mail",
   "school_mail_settings_notifications_hint": "Nagche-check ang TigerDuck ng bagong mail tuwing ilang minuto, kaya puwedeng maantala nang kaunti ang notification.",
   "school_mail_show_cc_bcc": "Magdagdag ng Cc/Bcc",
-  "school_mail_sign_in_note": "Dapat magkapareho ang ID at password mo sa sistemang akademiko. Ang password na ito rin ang password ng campus Wi-Fi (NTUST-PEAP); ino-encrypt lang ito ng TigerDuck at ise-save sa device na ito, at hindi kailanman ina-upload.",
+  "school_mail_sign_in_note": "Dapat magkapareho ang ID at password mo sa sistemang akademiko. Ino-encrypt lang ng TigerDuck ang password na ito at ise-save sa device na ito, at hindi kailanman ina-upload.",
   "school_mail_sign_in_prompt_title": "Mag-sign in sa mail ng paaralan",
   "school_mail_subject": "Paksa",
   "school_mail_to": "Kay",

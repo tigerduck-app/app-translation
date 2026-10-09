@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Notifikasi email baru";
 "school_mail_settings_notifications_hint" = "TigerDuck memeriksa email baru setiap beberapa menit, jadi notifikasi bisa tiba sedikit lebih lambat.";
 "school_mail_show_cc_bcc" = "Tambahkan Cc/Bcc";
-"school_mail_sign_in_note" = "ID dan kata sandimu harus sama dengan sistem sekolah. Kata sandi ini juga merupakan kata sandi Wi-Fi kampus (NTUST-PEAP); TigerDuck hanya menyimpannya terenkripsi di perangkat ini dan tidak pernah mengunggahnya.";
+"school_mail_sign_in_note" = "ID dan kata sandimu harus sama dengan sistem sekolah. TigerDuck hanya menyimpan kata sandi ini terenkripsi di perangkat ini dan tidak pernah mengunggahnya.";
 "school_mail_sign_in_prompt_title" = "Masuk ke email sekolah";
 "school_mail_source_failed" = "Tidak dapat memuat kode sumber.";
 "school_mail_subject" = "Subjek";

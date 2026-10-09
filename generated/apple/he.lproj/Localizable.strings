@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "התראות על דואר חדש";
 "school_mail_settings_notifications_hint" = "TigerDuck בודק דואר חדש כל כמה דקות, כך שההתראה עשויה להגיע באיחור קל.";
 "school_mail_show_cc_bcc" = "הוסף עותק/עותק מוסתר";
-"school_mail_sign_in_note" = "מספר הסטודנט והסיסמה שלך צריכים להיות זהים לאלה של מערכת בית הספר. הסיסמה הזו היא גם סיסמת ה-Wi-Fi של הקמפוס (NTUST-PEAP); TigerDuck שומר אותה מוצפנת במכשיר הזה בלבד ולעולם לא מעלה אותה.";
+"school_mail_sign_in_note" = "מספר הסטודנט והסיסמה שלך צריכים להיות זהים לאלה של מערכת בית הספר. TigerDuck שומר את הסיסמה הזו מוצפנת במכשיר הזה בלבד ולעולם לא מעלה אותה.";
 "school_mail_sign_in_prompt_title" = "התחברות לדואר בית הספר";
 "school_mail_source_failed" = "לא ניתן היה לטעון את המקור.";
 "school_mail_subject" = "נושא";

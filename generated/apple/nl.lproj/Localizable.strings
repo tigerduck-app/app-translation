@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Meldingen bij nieuwe mail";
 "school_mail_settings_notifications_hint" = "TigerDuck controleert elke paar minuten op nieuwe mail, dus een melding kan iets later binnenkomen.";
 "school_mail_show_cc_bcc" = "Cc/Bcc toevoegen";
-"school_mail_sign_in_note" = "Je studentnummer en wachtwoord zijn dezelfde als voor het systeem van de school. Dit wachtwoord is ook het wachtwoord voor de campus wifi (NTUST-PEAP); TigerDuck bewaart het alleen versleuteld op dit apparaat en uploadt het nooit.";
+"school_mail_sign_in_note" = "Je studentnummer en wachtwoord zijn dezelfde als voor het systeem van de school. TigerDuck bewaart dit wachtwoord alleen versleuteld op dit apparaat en uploadt het nooit.";
 "school_mail_sign_in_prompt_title" = "Aanmelden bij Schoolmail";
 "school_mail_source_failed" = "De broncode kon niet worden geladen.";
 "school_mail_subject" = "Onderwerp";

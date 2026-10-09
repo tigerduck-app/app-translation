@@ -656,7 +656,7 @@
   "school_mail_settings_notifications": "Paziņojumi par jaunām vēstulēm",
   "school_mail_settings_notifications_hint": "TigerDuck pārbauda jaunas vēstules ik pēc dažām minūtēm, tāpēc paziņojums var pienākt nedaudz vēlāk.",
   "school_mail_show_cc_bcc": "Pievienot Cc/Bcc",
-  "school_mail_sign_in_note": "Jūsu studenta ID un parolei jāsakrīt ar skolas sistēmā izmantoto. Šī parole ir arī kampusa Wi-Fi (NTUST-PEAP) parole; TigerDuck to glabā tikai šifrētu šajā ierīcē un nekad neaugšupielādē.",
+  "school_mail_sign_in_note": "Jūsu studenta ID un parolei jāsakrīt ar skolas sistēmā izmantoto. TigerDuck šo paroli glabā tikai šifrētu šajā ierīcē un nekad neaugšupielādē.",
   "school_mail_sign_in_prompt_title": "Piesakieties skolas pastā",
   "school_mail_subject": "Tēma",
   "school_mail_to": "Kam",

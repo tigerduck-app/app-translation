@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Notificaciones de correo nuevo";
 "school_mail_settings_notifications_hint" = "TigerDuck comprueba si hay correo nuevo cada pocos minutos, así que la notificación puede llegar un poco después.";
 "school_mail_show_cc_bcc" = "Añadir Cc/Cco";
-"school_mail_sign_in_note" = "Tu número de estudiante y contraseña deben ser los mismos que los del sistema universitario. Esta contraseña también es la del Wi-Fi del campus (NTUST-PEAP); TigerDuck solo la guarda cifrada en este dispositivo y nunca la sube a internet.";
+"school_mail_sign_in_note" = "Tu número de estudiante y contraseña deben ser los mismos que los del sistema universitario. TigerDuck solo guarda esta contraseña cifrada en este dispositivo y nunca la sube a internet.";
 "school_mail_sign_in_prompt_title" = "Inicia sesión en el correo universitario";
 "school_mail_source_failed" = "No se pudo cargar el código fuente.";
 "school_mail_subject" = "Asunto";

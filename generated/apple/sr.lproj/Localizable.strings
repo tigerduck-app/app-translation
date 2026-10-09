@@ -683,7 +683,7 @@
 "school_mail_settings_notifications" = "Обавештења о новим порукама";
 "school_mail_settings_notifications_hint" = "TigerDuck проверава нове поруке на сваких неколико минута, па обавештење може стићи мало касније.";
 "school_mail_show_cc_bcc" = "Додај Cc/Bcc";
-"school_mail_sign_in_note" = "Ваш број индекса и лозинка треба да буду исти као у школском систему. Ова лозинка је уједно и лозинка за кампус Wi-Fi (NTUST-PEAP); TigerDuck је чува само шифровано на овом уређају и никада је не отпрема.";
+"school_mail_sign_in_note" = "Ваш број индекса и лозинка треба да буду исти као у школском систему. TigerDuck ову лозинку чува само шифровано на овом уређају и никада је не отпрема.";
 "school_mail_sign_in_prompt_title" = "Пријавите се на школску пошту";
 "school_mail_source_failed" = "Изворни код није учитан.";
 "school_mail_subject" = "Тема";
