@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "Mahalagang impormasyon";
 "sync_fdroid_unavailable_body" = "Ang TigerSync ay nangangailangan ng Google Play Services at hindi available sa F-Droid build.";
 "sync_fdroid_unavailable_title" = "Hindi available sa F-Droid";
+"sync_status_days_ago_short" = "%1$d d nakaraon";
 "sync_status_device_registered" = "Nakarehistro ang device";
 "sync_status_failed" = "Nabigo";
+"sync_status_hours_ago_short" = "%1$d o nakaraon";
+"sync_status_just_now" = "Ngayon lang";
+"sync_status_last_synced" = "Huling na-sync";
 "sync_status_minimal" = "Limitado";
+"sync_status_minutes_ago_short" = "%1$d min nakaraon";
 "sync_status_nav_label" = "Katayuan ng TigerSync";
+"sync_status_never_synced" = "Hindi pa na-sync";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Nagsi-sync…";
 "sync_status_title" = "Katayuan ng pag-sync";

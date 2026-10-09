@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "Απαραίτητες πληροφορίες";
 "sync_fdroid_unavailable_body" = "Το TigerSync απαιτεί υπηρεσίες Google Play και δεν είναι διαθέσιμο στην έκδοση F-Droid.";
 "sync_fdroid_unavailable_title" = "Μη διαθέσιμο στο F-Droid";
+"sync_status_days_ago_short" = "%1$d ημ πριν";
 "sync_status_device_registered" = "Συσκευή καταχωρημένη";
 "sync_status_failed" = "Απέτυχε";
+"sync_status_hours_ago_short" = "%1$d ώρ πριν";
+"sync_status_just_now" = "Μόλις τώρα";
+"sync_status_last_synced" = "Τελευταίος συγχρονισμός";
 "sync_status_minimal" = "Περιορισμένο";
+"sync_status_minutes_ago_short" = "%1$d λεπ πριν";
 "sync_status_nav_label" = "Κατάσταση TigerSync";
+"sync_status_never_synced" = "Ποτέ δεν συγχρονίστηκε";
 "sync_status_ok" = "Εντάξει";
 "sync_status_syncing" = "Συγχρονισμός…";
 "sync_status_title" = "Κατάσταση συγχρονισμού";

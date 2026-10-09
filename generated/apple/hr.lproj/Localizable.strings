@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "Osnovne informacije";
 "sync_fdroid_unavailable_body" = "TigerSync zahtijeva Google Play usluge i nije dostupan u F-Droid verziji.";
 "sync_fdroid_unavailable_title" = "Nije dostupno na F-Droid";
+"sync_status_days_ago_short" = "prije %1$d d";
 "sync_status_device_registered" = "Uređaj registriran";
 "sync_status_failed" = "Neuspjelo";
+"sync_status_hours_ago_short" = "prije %1$d h";
+"sync_status_just_now" = "Upravo sad";
+"sync_status_last_synced" = "Posljednja sinkronizacija";
 "sync_status_minimal" = "Ograničeno";
+"sync_status_minutes_ago_short" = "prije %1$d min";
 "sync_status_nav_label" = "Stanje TigerSync";
+"sync_status_never_synced" = "Nikad sinkronizirano";
 "sync_status_ok" = "U redu";
 "sync_status_syncing" = "Sinkronizacija…";
 "sync_status_title" = "Stanje sinkronizacije";

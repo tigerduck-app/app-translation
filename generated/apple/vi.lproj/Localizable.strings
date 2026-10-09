@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "Thông tin cần thiết";
 "sync_fdroid_unavailable_body" = "TigerSync yêu cầu Dịch vụ Google Play và không khả dụng trong bản F-Droid.";
 "sync_fdroid_unavailable_title" = "Không khả dụng trên F-Droid";
+"sync_status_days_ago_short" = "%1$d ng trước";
 "sync_status_device_registered" = "Thiết bị đã đăng ký";
 "sync_status_failed" = "Thất bại";
+"sync_status_hours_ago_short" = "%1$d g trước";
+"sync_status_just_now" = "Vừa xong";
+"sync_status_last_synced" = "Đồng bộ lần cuối";
 "sync_status_minimal" = "Giới hạn";
+"sync_status_minutes_ago_short" = "%1$d ph trước";
 "sync_status_nav_label" = "Trạng thái TigerSync";
+"sync_status_never_synced" = "Chưa bao giờ đồng bộ";
 "sync_status_ok" = "Bình thường";
 "sync_status_syncing" = "Đang đồng bộ…";
 "sync_status_title" = "Trạng thái đồng bộ";

@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "מידע חיוני";
 "sync_fdroid_unavailable_body" = "TigerSync דורש שירותי Google Play ואינו זמין בגרסת F-Droid.";
 "sync_fdroid_unavailable_title" = "לא זמין ב-F-Droid";
+"sync_status_days_ago_short" = "לפני %1$d י";
 "sync_status_device_registered" = "המכשיר רשום";
 "sync_status_failed" = "נכשל";
+"sync_status_hours_ago_short" = "לפני %1$d ש";
+"sync_status_just_now" = "הרגע";
+"sync_status_last_synced" = "סנכרון אחרון";
 "sync_status_minimal" = "מוגבל";
+"sync_status_minutes_ago_short" = "לפני %1$d ד";
 "sync_status_nav_label" = "סטטוס TigerSync";
+"sync_status_never_synced" = "מעולם לא סונכרן";
 "sync_status_ok" = "תקין";
 "sync_status_syncing" = "מסנכרן…";
 "sync_status_title" = "מצב הסנכרון";

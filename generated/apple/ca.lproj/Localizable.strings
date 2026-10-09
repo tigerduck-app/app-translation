@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "Informació essencial";
 "sync_fdroid_unavailable_body" = "TigerSync requereix els serveis de Google Play i no està disponible a la versió F-Droid.";
 "sync_fdroid_unavailable_title" = "No disponible a F-Droid";
+"sync_status_days_ago_short" = "fa %1$d d";
 "sync_status_device_registered" = "Dispositiu registrat";
 "sync_status_failed" = "Ha fallat";
+"sync_status_hours_ago_short" = "fa %1$d h";
+"sync_status_just_now" = "Ara mateix";
+"sync_status_last_synced" = "Última sincronització";
 "sync_status_minimal" = "Limitat";
+"sync_status_minutes_ago_short" = "fa %1$d min";
 "sync_status_nav_label" = "Estat de TigerSync";
+"sync_status_never_synced" = "Mai sincronitzat";
 "sync_status_ok" = "Correcte";
 "sync_status_syncing" = "Sincronitzant…";
 "sync_status_title" = "Estat de la sincronització";

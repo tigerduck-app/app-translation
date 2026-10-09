@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "అవసరమైన సమాచారం";
 "sync_fdroid_unavailable_body" = "TigerSync కు Google Play సేవలు అవసరం, F-Droid బిల్డ్‌లో అందుబాటులో లేదు.";
 "sync_fdroid_unavailable_title" = "F-Droid లో అందుబాటులో లేదు";
+"sync_status_days_ago_short" = "%1$d రో. క్రితం";
 "sync_status_device_registered" = "పరికరం నమోదైంది";
 "sync_status_failed" = "విఫలమైంది";
+"sync_status_hours_ago_short" = "%1$d గం. క్రితం";
+"sync_status_just_now" = "ఇప్పుడే";
+"sync_status_last_synced" = "చివరిగా సమకాలీకరించబడింది";
 "sync_status_minimal" = "పరిమితం";
+"sync_status_minutes_ago_short" = "%1$d నిమి. క్రితం";
 "sync_status_nav_label" = "TigerSync స్థితి";
+"sync_status_never_synced" = "ఎప్పుడూ సమకాలీకరించబడలేదు";
 "sync_status_ok" = "సరే";
 "sync_status_syncing" = "సింక్ అవుతోంది…";
 "sync_status_title" = "సింక్ స్థితి";

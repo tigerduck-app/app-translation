@@ -906,10 +906,16 @@
 "sync_essential_toggle" = "Būtiska informācija";
 "sync_fdroid_unavailable_body" = "TigerSync nepieciešami Google Play pakalpojumi, un tas nav pieejams F-Droid versijā.";
 "sync_fdroid_unavailable_title" = "Nav pieejams F-Droid";
+"sync_status_days_ago_short" = "pirms %1$d d.";
 "sync_status_device_registered" = "Ierīce reģistrēta";
 "sync_status_failed" = "Neizdevās";
+"sync_status_hours_ago_short" = "pirms %1$d st.";
+"sync_status_just_now" = "Tikko";
+"sync_status_last_synced" = "Pēdējoreiz sinhronizēts";
 "sync_status_minimal" = "Ierobežots";
+"sync_status_minutes_ago_short" = "pirms %1$d min.";
 "sync_status_nav_label" = "TigerSync statuss";
+"sync_status_never_synced" = "Nav sinhronizēts";
 "sync_status_ok" = "Labi";
 "sync_status_syncing" = "Sinhronizē…";
 "sync_status_title" = "Sinhronizācijas statuss";
