@@ -4,6 +4,7 @@
 "a11y_calendar_nav_next" = "Kitas mėnuo";
 "a11y_calendar_nav_prev" = "Ankstesnis mėnuo";
 "a11y_class_table_cell_assignment_indicator" = "Yra užduotis";
+"a11y_class_table_cell_assignments_ignored" = "Užduotys ignoruojamos";
 "a11y_class_table_conflict_prefix" = "Pamokų konfliktas";
 "a11y_course_card_open_details_hint" = "Dukart bakstelėkite, kad peržiūrėtumėte išsamią informaciją";
 "a11y_course_color_swatch" = "Spalva %1$lld";
@@ -170,6 +171,8 @@
 "class_table_empty_message" = "Atnaujinkite tempiant žemyn, bakstelėkite ⋯ kad pridėtumėte kursą, arba pasirinkite kitą semestrą";
 "class_table_export_failed" = "Nepavyko eksportuoti tvarkaraščio";
 "class_table_export_screenshot" = "Eksportuoti tvarkaraščio ekrano kopiją";
+"class_table_ignore_assignments" = "Ignoruoti užduotis";
+"class_table_ignore_assignments_undo" = "Atšaukti užduočių ignoravimą";
 "class_table_more_actions" = "Daugiau veiksmų";
 "class_table_pick_color" = "Pasirinkti spalvą";
 "class_table_rename_default_label" = "Numatytasis: %1$@";

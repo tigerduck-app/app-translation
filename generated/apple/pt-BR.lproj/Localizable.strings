@@ -4,6 +4,7 @@
 "a11y_calendar_nav_next" = "Próximo mês";
 "a11y_calendar_nav_prev" = "Mês anterior";
 "a11y_class_table_cell_assignment_indicator" = "Tem tarefa";
+"a11y_class_table_cell_assignments_ignored" = "Tarefas ignoradas";
 "a11y_class_table_conflict_prefix" = "Conflito de aula";
 "a11y_course_card_open_details_hint" = "Toque duas vezes para ver detalhes";
 "a11y_course_color_swatch" = "Cor %1$lld";
@@ -170,6 +171,8 @@
 "class_table_empty_message" = "Puxe para atualizar, toque em ⋯ para adicionar uma disciplina ou mude de semestre";
 "class_table_export_failed" = "Não foi possível exportar a grade horária";
 "class_table_export_screenshot" = "Exportar captura da grade horária";
+"class_table_ignore_assignments" = "Ignorar tarefas";
+"class_table_ignore_assignments_undo" = "Parar de ignorar tarefas";
 "class_table_more_actions" = "Mais ações";
 "class_table_pick_color" = "Escolher cor";
 "class_table_rename_default_label" = "Padrão: %1$@";

@@ -4,6 +4,7 @@
 "a11y_calendar_nav_next" = "Nasledujúci mesiac";
 "a11y_calendar_nav_prev" = "Predchádzajúci mesiac";
 "a11y_class_table_cell_assignment_indicator" = "Má úlohu";
+"a11y_class_table_cell_assignments_ignored" = "Úlohy ignorované";
 "a11y_class_table_conflict_prefix" = "Konflikt hodín";
 "a11y_course_card_open_details_hint" = "Dvojitým klepnutím zobrazíte podrobnosti";
 "a11y_course_color_swatch" = "Farba %1$lld";
@@ -170,6 +171,8 @@
 "class_table_empty_message" = "Potiahnutím obnovíte, klepnutím na ⋯ pridajte kurz alebo prepnite na iný semester";
 "class_table_export_failed" = "Rozvrh sa nepodarilo exportovať";
 "class_table_export_screenshot" = "Exportovať snímku rozvrhu";
+"class_table_ignore_assignments" = "Ignorovať úlohy";
+"class_table_ignore_assignments_undo" = "Zrušiť ignorovanie úloh";
 "class_table_more_actions" = "Ďalšie akcie";
 "class_table_pick_color" = "Vybrať farbu";
 "class_table_rename_default_label" = "Predvolené: %1$@";

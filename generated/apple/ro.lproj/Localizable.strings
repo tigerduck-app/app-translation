@@ -4,6 +4,7 @@
 "a11y_calendar_nav_next" = "Luna următoare";
 "a11y_calendar_nav_prev" = "Luna anterioară";
 "a11y_class_table_cell_assignment_indicator" = "Are temă";
+"a11y_class_table_cell_assignments_ignored" = "Teme ignorate";
 "a11y_class_table_conflict_prefix" = "Conflict de curs";
 "a11y_course_card_open_details_hint" = "Atingeți de două ori pentru detalii";
 "a11y_course_color_swatch" = "Culoarea %1$lld";
@@ -170,6 +171,8 @@
 "class_table_empty_message" = "Trage pentru reîmprospătare, atinge ⋯ pentru a adăuga un curs sau schimbă semestrul";
 "class_table_export_failed" = "Orarul nu a putut fi exportat";
 "class_table_export_screenshot" = "Exportă o captură a orarului";
+"class_table_ignore_assignments" = "Ignoră temele";
+"class_table_ignore_assignments_undo" = "Anulează ignorarea temelor";
 "class_table_more_actions" = "Mai multe acțiuni";
 "class_table_pick_color" = "Alege culoare";
 "class_table_rename_default_label" = "Implicit: %1$@";
