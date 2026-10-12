@@ -240,6 +240,8 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("pt-BR", "pt-PT"), ("es", "pt-BR"), ("es", "pt-PT"), ("es", "it"),
         ("ca", "es"), ("ca", "pt-BR"), ("ca", "pt-PT"), ("ca", "it"),
         ("it", "pt-BR"), ("it", "pt-PT"),
+        # Catalan / French -- shared Romance words such as Semestre, Examen, Notes
+        ("ca", "fr"),
         # Malay / Indonesian
         ("id", "ms"),
         # Scandinavian
@@ -247,6 +249,8 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         # Slavic
         ("cs", "sk"), ("hr", "sl"), ("hr", "sr"), ("bg", "ru"), ("bg", "sr"),
         ("bg", "uk"), ("ru", "uk"), ("ru", "sr"), ("kk", "ru"),
+        # Serbian / Ukrainian -- Cyrillic Slavic words such as Назад, Готово, Курс
+        ("sr", "uk"),
         # Indic
         ("hi", "mr"),
         # Persian / Urdu -- Urdu takes much of its everyday vocabulary from
