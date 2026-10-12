@@ -203,6 +203,7 @@ before inventing a new one):
 | `tab_editor_` | Tab editor screen |
 | `update_` | In-app update prompt + "what's new" |
 | `watch_` | Watch-app surface (see *Surface prefixes* below) |
+| `weekday_*_caption` | Weekday in front of a time ("週二 08:10"); `weekday_*_short` is the column header form |
 | `weekday_*_short` | Short weekday labels |
 | `widget_` | Home-screen widgets |
 
@@ -210,6 +211,7 @@ Suffix conventions:
 
 - `_title`, `_description`, `_message`, `_subtitle`, `_hint` — distinguish heading vs body text
 - `_short` — abbreviated form
+- `_caption` — a weekday in front of a time ("週二 08:10"), while `_short` is the column header form
 - `_undo` — paired undo action
 - `_confirm`, `_dismiss`, `_action` — for dialog buttons
 - `_value` — for parameterized text used as a labeled field value
