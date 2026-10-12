@@ -6,6 +6,7 @@
 "a11y_class_table_cell_assignment_indicator" = "Té tasca";
 "a11y_class_table_conflict_prefix" = "Conflicte de classe";
 "a11y_course_card_open_details_hint" = "Toca dues vegades per veure els detalls";
+"a11y_course_color_swatch" = "Color %1$lld";
 "a11y_course_detail_open_moodle" = "Obre a Moodle";
 "a11y_rankings_trend_chart" = "Tendència del GPA per semestre";
 "a11y_rankings_trend_no_selection" = "Cap semestre seleccionat";
@@ -162,7 +163,7 @@
 "calendar_source_school" = "Escola";
 "calendar_source_semester" = "Semestre";
 "calendar_today" = "Avui";
-"class_table_conflict_add_failed_message" = "%1$@ ja té dues classes en aquest horari (dia %2$@, període %3$@): %4$@ i %5$@. El sistema no suporta conflictes triples.";
+"class_table_conflict_add_failed_message" = "%1$@ ja té dues classes en aquest horari (%2$@, període %3$@): %4$@ i %5$@. El sistema no suporta conflictes triples.";
 "class_table_conflict_add_failed_title" = "No s'ha pogut afegir";
 "class_table_course_name" = "Nom del curs";
 "class_table_delete" = "Elimina";
@@ -251,6 +252,9 @@
 "course_detail_incomplete_assignments" = "Encàrrecs incomplets";
 "course_detail_instructor_label" = "Professor";
 "course_detail_no_roster" = "No hi ha dades de matrícula disponibles per a aquest curs";
+"course_detail_require_option_elective" = "Optatiu";
+"course_detail_require_option_label" = "Tipus de curs";
+"course_detail_require_option_required" = "Obligatori";
 "course_detail_time_label" = "Temps";
 "course_instructor_value" = "Professor: %1$@";
 "desktop_about_copyright" = "© Col·laboradors de TigerDuck. No afiliada a NTUST.";
@@ -337,6 +341,7 @@
 "error_session_expired" = "Sessió caducada";
 "error_sign_in_failed" = "Error d'inici de sessió";
 "error_sso_sign_in_failed" = "Inici de sessió fallit. Comprova el compte i la contrasenya.";
+"error_sso_sign_in_failed_with_reason" = "Inici de sessió fallit: %1$@";
 "error_sso_sign_in_form_not_found" = "No s’ha trobat el formulari d’inici de sessió de l’SSO.";
 "feature_announcements" = "Avisos";
 "feature_announcements_short" = "Avisos";
@@ -790,6 +795,9 @@
 "settings_browser_system_default" = "Navegador predeterminat del sistema";
 "settings_check_for_updates" = "Cerca actualitzacions";
 "settings_check_server_status" = "Comprova l'estat dels servidors";
+"settings_class_reminder" = "Recordatoris de classe";
+"settings_class_reminder_footer" = "Rebràs una notificació abans que comenci cada classe.";
+"settings_class_reminder_lead_time" = "Recorda-m'ho";
 "settings_classroom_mandarin_display" = "Quan la sala és en mandarí";
 "settings_classroom_mandarin_display_original" = "Mostra l'original";
 "settings_classroom_mandarin_display_pinyin" = "Mostra pinyin";
@@ -832,6 +840,7 @@
 "settings_notifications_need_course_sync" = "Activeu «Sincronitza la informació del curs» de TigerSync per rebre notificacions.";
 "settings_official_website" = "Lloc web oficial";
 "settings_open_source_licenses" = "Llicències de codi obert";
+"settings_outline_required_courses" = "Marca amb un contorn els cursos obligatoris a l'horari";
 "settings_privacy_policy" = "Política de privadesa";
 "settings_push_server_nav_label" = "Push del servidor";
 "settings_remember_bulletin_filter" = "Recordeu els filtres de butlletins";

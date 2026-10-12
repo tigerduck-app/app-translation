@@ -6,6 +6,7 @@
 "a11y_class_table_cell_assignment_indicator" = "課題あり";
 "a11y_class_table_conflict_prefix" = "時間割の重複";
 "a11y_course_card_open_details_hint" = "ダブルタップで詳細を表示";
+"a11y_course_color_swatch" = "色 %1$lld";
 "a11y_course_detail_open_moodle" = "Moodle で開く";
 "a11y_rankings_trend_chart" = "学期ごとの GPA 推移";
 "a11y_rankings_trend_no_selection" = "学期が未選択";
@@ -251,6 +252,9 @@
 "course_detail_incomplete_assignments" = "未完了の課題";
 "course_detail_instructor_label" = "担当教員";
 "course_detail_no_roster" = "このコースの履修者データはありません";
+"course_detail_require_option_elective" = "選択科目";
+"course_detail_require_option_label" = "科目区分";
+"course_detail_require_option_required" = "必修科目";
 "course_detail_time_label" = "時間";
 "course_instructor_value" = "教員：%1$@";
 "desktop_about_copyright" = "© TigerDuck 貢献者。NTUST との関連はありません。";
@@ -337,6 +341,7 @@
 "error_session_expired" = "セッションの有効期限が切れました";
 "error_sign_in_failed" = "ログインに失敗しました";
 "error_sso_sign_in_failed" = "サインインに失敗しました。アカウントとパスワードを確認してください。";
+"error_sso_sign_in_failed_with_reason" = "サインインに失敗しました：%1$@";
 "error_sso_sign_in_form_not_found" = "SSO のサインインフォームが見つかりませんでした。";
 "feature_announcements" = "お知らせ";
 "feature_announcements_short" = "お知らせ";
@@ -790,6 +795,9 @@
 "settings_browser_system_default" = "システム標準ブラウザ";
 "settings_check_for_updates" = "アップデートを確認";
 "settings_check_server_status" = "サーバーの状態を確認";
+"settings_class_reminder" = "授業のリマインダー";
+"settings_class_reminder_footer" = "各授業の開始前に通知が届きます。";
+"settings_class_reminder_lead_time" = "通知タイミング";
 "settings_classroom_mandarin_display" = "教室名が中国語の場合の表示";
 "settings_classroom_mandarin_display_original" = "原文を表示";
 "settings_classroom_mandarin_display_pinyin" = "ピンインを表示";
@@ -832,6 +840,7 @@
 "settings_notifications_need_course_sync" = "通知を受け取るには、TigerSync の「コース情報を同期」をオンにしてください。";
 "settings_official_website" = "公式ウェブサイト";
 "settings_open_source_licenses" = "オープンソースライセンス";
+"settings_outline_required_courses" = "時間割の必修科目を枠線で囲む";
 "settings_privacy_policy" = "プライバシーポリシー";
 "settings_push_server_nav_label" = "サーバープッシュ";
 "settings_remember_bulletin_filter" = "掲示板フィルターを記憶する";

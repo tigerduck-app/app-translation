@@ -6,6 +6,7 @@
 "a11y_class_table_cell_assignment_indicator" = "Ha un compito";
 "a11y_class_table_conflict_prefix" = "Conflitto di lezioni";
 "a11y_course_card_open_details_hint" = "Tocca due volte per i dettagli";
+"a11y_course_color_swatch" = "Colore %1$lld";
 "a11y_course_detail_open_moodle" = "Apri in Moodle";
 "a11y_rankings_trend_chart" = "Andamento GPA per semestre";
 "a11y_rankings_trend_no_selection" = "Nessun semestre selezionato";
@@ -162,7 +163,7 @@
 "calendar_source_school" = "Scuola";
 "calendar_source_semester" = "Semestre";
 "calendar_today" = "Oggi";
-"class_table_conflict_add_failed_message" = "%1$@ ha già due lezioni in questo orario (Giorno %2$@, Periodo %3$@): %4$@ e %5$@. Il sistema non supporta tre conflitti.";
+"class_table_conflict_add_failed_message" = "%1$@ ha già due lezioni in questo orario (%2$@, Periodo %3$@): %4$@ e %5$@. Il sistema non supporta tre conflitti.";
 "class_table_conflict_add_failed_title" = "Impossibile aggiungere";
 "class_table_course_name" = "Nome corso";
 "class_table_delete" = "Elimina";
@@ -251,6 +252,9 @@
 "course_detail_incomplete_assignments" = "Compiti incompleti";
 "course_detail_instructor_label" = "Docente";
 "course_detail_no_roster" = "Nessun dato di iscrizione disponibile per questo corso";
+"course_detail_require_option_elective" = "A scelta";
+"course_detail_require_option_label" = "Tipo di corso";
+"course_detail_require_option_required" = "Obbligatorio";
 "course_detail_time_label" = "Orario";
 "course_instructor_value" = "Docente: %1$@";
 "desktop_about_copyright" = "© Collaboratori TigerDuck. Non affiliata a NTUST.";
@@ -337,6 +341,7 @@
 "error_session_expired" = "Sessione scaduta";
 "error_sign_in_failed" = "Accesso non riuscito";
 "error_sso_sign_in_failed" = "Accesso non riuscito. Verifica account e password.";
+"error_sso_sign_in_failed_with_reason" = "Accesso non riuscito: %1$@";
 "error_sso_sign_in_form_not_found" = "Impossibile trovare il modulo di accesso SSO.";
 "feature_announcements" = "Avvisi";
 "feature_announcements_short" = "Avvisi";
@@ -790,6 +795,9 @@
 "settings_browser_system_default" = "Browser predefinito di sistema";
 "settings_check_for_updates" = "Verifica aggiornamenti";
 "settings_check_server_status" = "Controlla lo stato dei server";
+"settings_class_reminder" = "Promemoria delle lezioni";
+"settings_class_reminder_footer" = "Riceverai una notifica prima dell'inizio di ogni lezione.";
+"settings_class_reminder_lead_time" = "Ricordamelo";
 "settings_classroom_mandarin_display" = "Quando il nome dell'aula è in mandarino";
 "settings_classroom_mandarin_display_original" = "Mostra originale";
 "settings_classroom_mandarin_display_pinyin" = "Mostra pinyin";
@@ -832,6 +840,7 @@
 "settings_notifications_need_course_sync" = "Attiva \"Sincronizza informazioni del corso\" di TigerSync per ricevere le notifiche.";
 "settings_official_website" = "Sito web ufficiale";
 "settings_open_source_licenses" = "Licenze open source";
+"settings_outline_required_courses" = "Evidenzia con un bordo i corsi obbligatori nell'orario";
 "settings_privacy_policy" = "Informativa sulla privacy";
 "settings_push_server_nav_label" = "Push server";
 "settings_remember_bulletin_filter" = "Ricorda i filtri del bollettino";

@@ -6,6 +6,7 @@
 "a11y_class_table_cell_assignment_indicator" = "అసైన్‌మెంట్ ఉంది";
 "a11y_class_table_conflict_prefix" = "క్లాస్ వైరుధ్యం";
 "a11y_course_card_open_details_hint" = "వివరాల కోసం రెండుసార్లు నొక్కండి";
+"a11y_course_color_swatch" = "రంగు %1$lld";
 "a11y_course_detail_open_moodle" = "Moodle లో తెరవండి";
 "a11y_rankings_trend_chart" = "సెమిస్టర్ వారీగా GPA ధోరణి";
 "a11y_rankings_trend_no_selection" = "సెమిస్టర్ ఎంచుకోబడలేదు";
@@ -162,7 +163,7 @@
 "calendar_source_school" = "పాఠశాల";
 "calendar_source_semester" = "సెమిస్టర్";
 "calendar_today" = "నేడు";
-"class_table_conflict_add_failed_message" = "%1$@ కి ఈ స్లాట్‌లో (వారం %2$@, పీరియడ్ %3$@) ఇప్పటికే రెండు తరగతులు ఉన్నాయి: %4$@ మరియు %5$@. సిస్టమ్ మూడు వైరుధ్యాలను సపోర్ట్ చేయదు.";
+"class_table_conflict_add_failed_message" = "%1$@ కి ఈ స్లాట్‌లో (%2$@, పీరియడ్ %3$@) ఇప్పటికే రెండు తరగతులు ఉన్నాయి: %4$@ మరియు %5$@. సిస్టమ్ మూడు వైరుధ్యాలను సపోర్ట్ చేయదు.";
 "class_table_conflict_add_failed_title" = "జోడించడం సాధ్యం కాలేదు";
 "class_table_course_name" = "కోర్సు పేరు";
 "class_table_delete" = "తొలగించు";
@@ -251,6 +252,9 @@
 "course_detail_incomplete_assignments" = "అసంపూర్ణ అసైన్‌మెంట్లు";
 "course_detail_instructor_label" = "బోధకుడు";
 "course_detail_no_roster" = "ఈ కోర్సుకు నమోదు డేటా అందుబాటులో లేదు";
+"course_detail_require_option_elective" = "ఐచ్ఛికం";
+"course_detail_require_option_label" = "కోర్సు రకం";
+"course_detail_require_option_required" = "తప్పనిసరి";
 "course_detail_time_label" = "సమయం";
 "course_instructor_value" = "ఇన్‌స్ట్రక్టర్: %1$@";
 "desktop_about_copyright" = "© TigerDuck సహకారులు. NTUSTతో సంబంధం లేదు.";
@@ -337,6 +341,7 @@
 "error_session_expired" = "సెషన్ ముగిసింది";
 "error_sign_in_failed" = "లాగిన్ విఫలమైంది";
 "error_sso_sign_in_failed" = "సైన్-ఇన్ విఫలమైంది. దయచేసి మీ ఖాతా మరియు పాస్‌వర్డ్ తనిఖీ చేయండి.";
+"error_sso_sign_in_failed_with_reason" = "సైన్-ఇన్ విఫలమైంది: %1$@";
 "error_sso_sign_in_form_not_found" = "SSO సైన్-ఇన్ ఫారమ్ కనుగొనలేకపోయాం.";
 "feature_announcements" = "ప్రకటనలు";
 "feature_announcements_short" = "ప్రకటనలు";
@@ -790,6 +795,9 @@
 "settings_browser_system_default" = "సిస్టమ్ డిఫాల్ట్ బ్రౌజర్";
 "settings_check_for_updates" = "అప్‌డేట్‌లను తనిఖీ చేయండి";
 "settings_check_server_status" = "సర్వర్ స్థితిని తనిఖీ చేయండి";
+"settings_class_reminder" = "క్లాస్ రిమైండర్లు";
+"settings_class_reminder_footer" = "ప్రతి తరగతి మొదలవడానికి ముందు మీకు నోటిఫై చేయబడుతుంది.";
+"settings_class_reminder_lead_time" = "నాకు గుర్తు చేయండి";
 "settings_classroom_mandarin_display" = "తరగతి గది పేరు చైనీస్‌లో ఉన్నప్పుడు";
 "settings_classroom_mandarin_display_original" = "మూలాన్ని చూపించు";
 "settings_classroom_mandarin_display_pinyin" = "పిన్యిన్ చూపించు";
@@ -832,6 +840,7 @@
 "settings_notifications_need_course_sync" = "నోటిఫికేషన్‌లను పొందడానికి TigerSync \"కోర్సు సమాచారాన్ని సింక్ చేయండి\" ఎంపికను ఆన్ చేయండి.";
 "settings_official_website" = "అధికారిక వెబ్‌సైట్";
 "settings_open_source_licenses" = "ఓపెన్-సోర్స్ లైసెన్సులు";
+"settings_outline_required_courses" = "టైమ్‌టేబుల్‌లో తప్పనిసరి కోర్సులకు అంచు చూపు";
 "settings_privacy_policy" = "గోప్యతా విధానం";
 "settings_push_server_nav_label" = "సర్వర్ పుష్";
 "settings_remember_bulletin_filter" = "బులెటిన్ ఫిల్టర్‌లను గుర్తుంచుకో";
