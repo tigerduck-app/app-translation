@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Moodle 网络错误：%1$@",
     "error_moodle_recovery_check_credentials": "请确认您的 Moodle／校务系统账号密码仍然有效。",
     "error_moodle_recovery_re_sign_in_ntust": "请再次登录校务系统后重试。",
+    "error_moodle_site_maintenance": "Moodle 正在维护，请稍后再试。",
     "error_moodle_sso_rejected": "校务系统 SSO 拒绝了 Moodle 授权，请确认您的账号密码。",
     "error_moodle_sso_rejected_with_reason": "校务系统 SSO 拒绝了 Moodle 授权：%1$@",
     "error_moodle_webservice_disabled": "Moodle 网络服务当前不可用。",

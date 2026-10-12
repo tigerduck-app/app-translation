@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Moodle નેટવર્ક ભૂલ: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">ખાતરી કરો કે Moodle / NTUST ઓળખપત્ર હજી માન્ય છે.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">ફરી NTUST માં સાઇન ઇન કરો અને ફરી પ્રયાસ કરો.</string>
+    <string name="error_moodle_site_maintenance">Moodle પર જાળવણી ચાલી રહી છે. પછી ફરી પ્રયાસ કરો.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO એ Moodle ઓથોરાઇઝ નકાર્યો. ઓળખપત્ર ચકાસો.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO એ Moodle ઓથોરાઇઝ નકાર્યો: %1$@</string>
     <string name="error_moodle_webservice_disabled">Moodle વેબ સર્વિસ હાલ ઉપલબ્ધ નથી.</string>

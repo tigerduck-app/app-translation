@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle نیٹ ورک خرابی: %1$@",
   "error_moodle_recovery_check_credentials": "تصدیق کریں کہ آپ کی Moodle / NTUST اسناد ابھی درست ہیں۔",
   "error_moodle_recovery_re_sign_in_ntust": "NTUST میں دوبارہ سائن ان کریں اور ایک بار پھر کوشش کریں۔",
+  "error_moodle_site_maintenance": "Moodle پر مینٹیننس جاری ہے۔ بعد میں دوبارہ کوشش کریں۔",
   "error_moodle_sso_rejected": "NTUST SSO نے Moodle اجازت مسترد کر دی۔ براہ کرم اپنی اسناد جانچیں۔",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO نے Moodle اجازت مسترد کر دی: %1$@",
   "error_moodle_webservice_disabled": "Moodle ویب سروس ابھی دستیاب نہیں۔",

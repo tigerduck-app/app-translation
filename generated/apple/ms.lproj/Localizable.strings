@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Ralat rangkaian Moodle: %1$@";
 "error_moodle_recovery_check_credentials" = "Sahkan kelayakan Moodle / NTUST anda masih sah.";
 "error_moodle_recovery_re_sign_in_ntust" = "Daftar masuk NTUST sekali lagi dan cuba semula.";
+"error_moodle_site_maintenance" = "Moodle sedang diselenggara. Cuba lagi nanti.";
 "error_moodle_sso_rejected" = "NTUST SSO menolak pengesahan Moodle. Sila sahkan kelayakan anda.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO menolak pengesahan Moodle: %1$@";
 "error_moodle_webservice_disabled" = "Perkhidmatan web Moodle pada masa ini tidak tersedia.";

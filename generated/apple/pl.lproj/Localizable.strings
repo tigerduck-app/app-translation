@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Błąd sieci Moodle: %1$@";
 "error_moodle_recovery_check_credentials" = "Sprawdź, czy Twoje dane Moodle / NTUST są nadal aktualne.";
 "error_moodle_recovery_re_sign_in_ntust" = "Zaloguj się ponownie do NTUST i spróbuj jeszcze raz.";
+"error_moodle_site_maintenance" = "W Moodle trwają prace konserwacyjne. Spróbuj ponownie później.";
 "error_moodle_sso_rejected" = "NTUST SSO odrzuciło autoryzację Moodle. Sprawdź swoje dane logowania.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO odrzuciło autoryzację Moodle: %1$@";
 "error_moodle_webservice_disabled" = "Usługa internetowa Moodle jest obecnie niedostępna.";

@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Erreur réseau Moodle : %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Vérifiez que vos identifiants Moodle / NTUST sont toujours valides.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Reconnectez-vous à NTUST et réessayez.</string>
+    <string name="error_moodle_site_maintenance">Moodle est en maintenance. Réessayez plus tard.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO a rejeté l\'autorisation Moodle. Vérifiez vos identifiants.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO a rejeté l\'autorisation Moodle : %1$@</string>
     <string name="error_moodle_webservice_disabled">Le service web Moodle est actuellement indisponible.</string>

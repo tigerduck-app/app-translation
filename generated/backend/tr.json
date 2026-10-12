@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle ağ hatası: %1$@",
   "error_moodle_recovery_check_credentials": "Moodle / NTUST kimlik bilgilerinizin hâlâ geçerli olduğunu doğrulayın.",
   "error_moodle_recovery_re_sign_in_ntust": "NTUST’a tekrar giriş yapıp bir kez daha deneyin.",
+  "error_moodle_site_maintenance": "Moodle bakımda. Daha sonra tekrar deneyin.",
   "error_moodle_sso_rejected": "NTUST SSO, Moodle yetkilendirmesini reddetti. Lütfen kimlik bilgilerinizi doğrulayın.",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO, Moodle yetkilendirmesini reddetti: %1$@",
   "error_moodle_webservice_disabled": "Moodle web servisi şu anda kullanılamıyor.",

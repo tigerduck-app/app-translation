@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Moodle ਨੈੱਟਵਰਕ ਗੜਬੜੀ: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">ਜਾਂਚੋ ਕਿ Moodle / NTUST ਜਾਣਕਾਰੀ ਹਾਲੇ ਵੈਧ ਹੈ।</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">NTUST ਵਿੱਚ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="error_moodle_site_maintenance">Moodle ਦਾ ਰੱਖ-ਰਖਾਅ ਚੱਲ ਰਿਹਾ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
     <string name="error_moodle_sso_rejected">NTUST SSO ਨੇ Moodle ਅਧਿਕਾਰ ਰੱਦ ਕਰ ਦਿੱਤਾ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਜਾਣਕਾਰੀ ਪਰਖੋ।</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO ਨੇ Moodle ਅਧਿਕਾਰ ਰੱਦ ਕਰ ਦਿੱਤਾ: %1$@</string>
     <string name="error_moodle_webservice_disabled">Moodle ਵੈੱਬ ਸੇਵਾ ਇਸ ਵੇਲੇ ਉਪਲਬਧ ਨਹੀਂ।</string>

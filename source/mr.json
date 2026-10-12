@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Moodle नेटवर्क त्रुटी: %1$@",
     "error_moodle_recovery_check_credentials": "तुमची Moodle / NTUST क्रेडेन्शियल्स अद्याप वैध आहेत याची पडताळणी करा.",
     "error_moodle_recovery_re_sign_in_ntust": "NTUST मध्ये पुन्हा साइन इन करा आणि पुन्हा प्रयत्न करा.",
+    "error_moodle_site_maintenance": "Moodle ची देखभाल सुरू आहे. नंतर पुन्हा प्रयत्न करा.",
     "error_moodle_sso_rejected": "NTUST SSO ने Moodle अधिकृतीकरण नाकारले. कृपया तुमची क्रेडेन्शियल्स पडताळून पहा.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO ने Moodle अधिकृतीकरण नाकारले: %1$@",
     "error_moodle_webservice_disabled": "Moodle वेबसर्व्हिस सध्या उपलब्ध नाही.",

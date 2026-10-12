@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Moodle-nätverksfel: %1$@";
 "error_moodle_recovery_check_credentials" = "Kontrollera att dina Moodle- / NTUST-inloggningsuppgifter fortfarande är giltiga.";
 "error_moodle_recovery_re_sign_in_ntust" = "Logga in på NTUST igen och försök på nytt.";
+"error_moodle_site_maintenance" = "Underhåll pågår i Moodle. Försök igen senare.";
 "error_moodle_sso_rejected" = "NTUST SSO avvisade Moodle-auktoriseringen. Kontrollera dina inloggningsuppgifter.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO avvisade Moodle-auktoriseringen: %1$@";
 "error_moodle_webservice_disabled" = "Moodles webbtjänst är för närvarande inte tillgänglig.";

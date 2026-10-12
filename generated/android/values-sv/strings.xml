@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Moodle-nätverksfel: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Kontrollera att dina Moodle- / NTUST-inloggningsuppgifter fortfarande är giltiga.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Logga in på NTUST igen och försök på nytt.</string>
+    <string name="error_moodle_site_maintenance">Underhåll pågår i Moodle. Försök igen senare.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO avvisade Moodle-auktoriseringen. Kontrollera dina inloggningsuppgifter.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO avvisade Moodle-auktoriseringen: %1$@</string>
     <string name="error_moodle_webservice_disabled">Moodles webbtjänst är för närvarande inte tillgänglig.</string>

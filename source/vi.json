@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Lỗi mạng Moodle: %1$@",
     "error_moodle_recovery_check_credentials": "Hãy kiểm tra xem thông tin đăng nhập Moodle / NTUST của bạn có còn hợp lệ không.",
     "error_moodle_recovery_re_sign_in_ntust": "Hãy đăng nhập lại NTUST rồi thử lại.",
+    "error_moodle_site_maintenance": "Moodle đang được bảo trì. Vui lòng thử lại sau.",
     "error_moodle_sso_rejected": "NTUST SSO đã từ chối ủy quyền Moodle. Vui lòng kiểm tra thông tin đăng nhập.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO đã từ chối ủy quyền Moodle: %1$@",
     "error_moodle_webservice_disabled": "Dịch vụ web Moodle hiện không khả dụng.",

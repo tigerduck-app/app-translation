@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Σφάλμα δικτύου Moodle: %1$@",
   "error_moodle_recovery_check_credentials": "Επαληθεύστε ότι τα διαπιστευτήριά σας Moodle / NTUST είναι ακόμα έγκυρα.",
   "error_moodle_recovery_re_sign_in_ntust": "Συνδεθείτε ξανά στο NTUST και δοκιμάστε άλλη μία φορά.",
+  "error_moodle_site_maintenance": "Το Moodle βρίσκεται υπό συντήρηση. Δοκίμασε ξανά αργότερα.",
   "error_moodle_sso_rejected": "Το NTUST SSO απέρριψε την εξουσιοδότηση Moodle. Παρακαλώ ελέγξτε τα διαπιστευτήριά σας.",
   "error_moodle_sso_rejected_with_reason": "Το NTUST SSO απέρριψε την εξουσιοδότηση Moodle: %1$@",
   "error_moodle_webservice_disabled": "Η υπηρεσία ιστού Moodle δεν είναι διαθέσιμη αυτή τη στιγμή.",

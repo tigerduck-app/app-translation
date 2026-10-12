@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">שגיאת רשת Moodle: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">ודא שפרטי Moodle / NTUST שלך עדיין תקפים.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">התחבר שוב ל-NTUST ונסה שוב.</string>
+    <string name="error_moodle_site_maintenance">Moodle נמצא בתחזוקה. נסה שוב מאוחר יותר.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO דחה את אישור Moodle. אנא אמת את פרטי הכניסה.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO דחה את אישור Moodle: %1$@</string>
     <string name="error_moodle_webservice_disabled">שירות האינטרנט של Moodle אינו זמין כעת.</string>

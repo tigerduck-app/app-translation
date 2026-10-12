@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Kesalahan jaringan Moodle: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Verifikasi bahwa kredensial Moodle / NTUST Anda masih valid.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Masuk kembali ke NTUST dan coba sekali lagi.</string>
+    <string name="error_moodle_site_maintenance">Moodle sedang dalam pemeliharaan. Coba lagi nanti.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO menolak otorisasi Moodle. Silakan verifikasi kredensial Anda.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO menolak otorisasi Moodle: %1$@</string>
     <string name="error_moodle_webservice_disabled">Layanan web Moodle saat ini tidak tersedia.</string>

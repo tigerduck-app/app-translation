@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "خطای شبکهٔ Moodle: %1$@";
 "error_moodle_recovery_check_credentials" = "بررسی کنید که اطلاعات Moodle / NTUST شما هنوز معتبر هستند.";
 "error_moodle_recovery_re_sign_in_ntust" = "دوباره به NTUST وارد شوید و یک بار دیگر امتحان کنید.";
+"error_moodle_site_maintenance" = "Moodle در حال تعمیر و نگهداری است. بعداً دوباره امتحان کنید.";
 "error_moodle_sso_rejected" = "NTUST SSO مجوز Moodle را رد کرد. لطفاً اطلاعات ورود را بررسی کنید.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO مجوز Moodle را رد کرد: %1$@";
 "error_moodle_webservice_disabled" = "وب‌سرویس Moodle در حال حاضر در دسترس نیست.";

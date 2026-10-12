@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Network error sa Moodle: %1$@",
     "error_moodle_recovery_check_credentials": "Tiyaking valid pa ang iyong Moodle / NTUST credentials.",
     "error_moodle_recovery_re_sign_in_ntust": "Mag-sign in muli sa NTUST at subukan ulit.",
+    "error_moodle_site_maintenance": "Kasalukuyang nasa maintenance ang Moodle. Subukan muli mamaya.",
     "error_moodle_sso_rejected": "Tinanggihan ng NTUST SSO ang Moodle authorization. Pakitiyak ang iyong credentials.",
     "error_moodle_sso_rejected_with_reason": "Tinanggihan ng NTUST SSO ang Moodle authorization: %1$@",
     "error_moodle_webservice_disabled": "Kasalukuyang hindi available ang Moodle webservice.",

@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Moodlen verkkovirhe: %1$@";
 "error_moodle_recovery_check_credentials" = "Tarkista, että Moodle-/NTUST-tunnuksesi ovat yhä voimassa.";
 "error_moodle_recovery_re_sign_in_ntust" = "Kirjaudu NTUST:iin uudelleen ja yritä vielä kerran.";
+"error_moodle_site_maintenance" = "Moodle on huollossa. Yritä myöhemmin uudelleen.";
 "error_moodle_sso_rejected" = "NTUST SSO hylkäsi Moodle-valtuutuksen. Tarkista tunnuksesi.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO hylkäsi Moodle-valtuutuksen: %1$@";
 "error_moodle_webservice_disabled" = "Moodlen verkkopalvelu ei ole tällä hetkellä käytettävissä.";

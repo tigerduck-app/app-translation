@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle நெட்வொர்க் பிழை: %1$@",
   "error_moodle_recovery_check_credentials": "உங்கள் Moodle / NTUST சான்றுகள் இன்னும் செல்லுபடியாகின்றனவா எனச் சரிபார்க்கவும்.",
   "error_moodle_recovery_re_sign_in_ntust": "NTUST இல் மீண்டும் உள்நுழைந்து மீண்டும் முயற்சிக்கவும்.",
+  "error_moodle_site_maintenance": "Moodle பராமரிப்பில் உள்ளது. பின்னர் மீண்டும் முயற்சிக்கவும்.",
   "error_moodle_sso_rejected": "NTUST SSO Moodle அங்கீகாரத்தை நிராகரித்தது. உங்கள் சான்றுகளைச் சரிபார்க்கவும்.",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO Moodle அங்கீகாரத்தை நிராகரித்தது: %1$@",
   "error_moodle_webservice_disabled": "Moodle வலைச்சேவை தற்போது கிடைக்கவில்லை.",

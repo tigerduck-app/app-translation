@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle নেটওয়ার্ক ত্রুটি: %1$@",
   "error_moodle_recovery_check_credentials": "আপনার Moodle / NTUST ক্রেডেনশিয়াল এখনও বৈধ আছে কিনা যাচাই করুন।",
   "error_moodle_recovery_re_sign_in_ntust": "NTUST-এ আবার সাইন ইন করুন এবং আরও একবার চেষ্টা করুন।",
+  "error_moodle_site_maintenance": "Moodle-এ রক্ষণাবেক্ষণের কাজ চলছে। পরে আবার চেষ্টা করুন।",
   "error_moodle_sso_rejected": "NTUST SSO Moodle অনুমোদন প্রত্যাখ্যান করেছে। দয়া করে আপনার ক্রেডেনশিয়াল যাচাই করুন।",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO Moodle অনুমোদন প্রত্যাখ্যান করেছে: %1$@",
   "error_moodle_webservice_disabled": "Moodle ওয়েবসার্ভিস বর্তমানে উপলব্ধ নেই।",

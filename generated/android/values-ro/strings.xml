@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Eroare de rețea Moodle: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Verifică dacă acreditările tale Moodle / NTUST sunt încă valabile.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Autentifică-te din nou la NTUST și încearcă încă o dată.</string>
+    <string name="error_moodle_site_maintenance">Moodle este în curs de întreținere. Încearcă din nou mai târziu.</string>
     <string name="error_moodle_sso_rejected">SSO-ul NTUST a respins autorizarea Moodle. Verifică-ți acreditările.</string>
     <string name="error_moodle_sso_rejected_with_reason">SSO-ul NTUST a respins autorizarea Moodle: %1$@</string>
     <string name="error_moodle_webservice_disabled">Serviciul web Moodle este momentan indisponibil.</string>

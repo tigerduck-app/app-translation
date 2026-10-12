@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Moodle netvilla: %1$@",
     "error_moodle_recovery_check_credentials": "Staðfestu að Moodle / NTUST aðgangsupplýsingar þínar séu enn gildar.",
     "error_moodle_recovery_re_sign_in_ntust": "Skráðu þig inn í NTUST aftur og reyndu aftur.",
+    "error_moodle_site_maintenance": "Moodle er í viðhaldi. Reyndu aftur síðar.",
     "error_moodle_sso_rejected": "NTUST SSO hafnaði Moodle-heimild. Vinsamlegast staðfestu aðgangsupplýsingar þínar.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO hafnaði Moodle-heimild: %1$@",
     "error_moodle_webservice_disabled": "Moodle vefþjónustan er ekki tiltæk núna.",

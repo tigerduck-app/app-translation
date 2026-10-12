@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Moodle желі қатесі: %1$@",
     "error_moodle_recovery_check_credentials": "Moodle / NTUST тіркелгі деректерінің жарамдылығын тексеріңіз.",
     "error_moodle_recovery_re_sign_in_ntust": "NTUST-қа қайта кіріп, тағы бір рет көріңіз.",
+    "error_moodle_site_maintenance": "Moodle-да техникалық жұмыстар жүргізілуде. Кейінірек қайталап көріңіз.",
     "error_moodle_sso_rejected": "NTUST SSO Moodle авторизациясын қабылдамады. Тіркелгі деректеріңізді тексеріңіз.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO Moodle авторизациясын қабылдамады: %1$@",
     "error_moodle_webservice_disabled": "Moodle веб-қызметі қазір қол жетімді емес.",

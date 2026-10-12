@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Moodle mrežna pogreška: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Provjerite jesu li vaši Moodle / NTUST pristupni podaci i dalje valjani.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Ponovno se prijavite u NTUST i pokušajte ponovno.</string>
+    <string name="error_moodle_site_maintenance">Moodle je na održavanju. Pokušajte ponovno kasnije.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO odbio je Moodle autorizaciju. Provjerite svoje pristupne podatke.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO odbio je Moodle autorizaciju: %1$@</string>
     <string name="error_moodle_webservice_disabled">Moodle web-usluga trenutno nije dostupna.</string>

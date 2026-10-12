@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Мережева помилка Moodle: %1$@",
     "error_moodle_recovery_check_credentials": "Переконайтеся, що ваші облікові дані Moodle / NTUST ще дійсні.",
     "error_moodle_recovery_re_sign_in_ntust": "Увійдіть у NTUST ще раз і спробуйте знову.",
+    "error_moodle_site_maintenance": "У Moodle тривають технічні роботи. Спробуйте пізніше.",
     "error_moodle_sso_rejected": "NTUST SSO відхилив авторизацію Moodle. Будь ласка, перевірте свої облікові дані.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO відхилив авторизацію Moodle: %1$@",
     "error_moodle_webservice_disabled": "Веб-служба Moodle наразі недоступна.",

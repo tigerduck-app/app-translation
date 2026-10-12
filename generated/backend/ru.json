@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Сетевая ошибка Moodle: %1$@",
   "error_moodle_recovery_check_credentials": "Убедитесь, что ваши учётные данные Moodle / NTUST по-прежнему действительны.",
   "error_moodle_recovery_re_sign_in_ntust": "Войдите в NTUST снова и попробуйте ещё раз.",
+  "error_moodle_site_maintenance": "В Moodle ведутся технические работы. Повторите попытку позже.",
   "error_moodle_sso_rejected": "SSO NTUST отклонил авторизацию Moodle. Проверьте свои учётные данные.",
   "error_moodle_sso_rejected_with_reason": "SSO NTUST отклонил авторизацию Moodle: %1$@",
   "error_moodle_webservice_disabled": "Веб-сервис Moodle сейчас недоступен.",

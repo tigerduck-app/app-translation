@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle 網路錯誤：%1$@",
   "error_moodle_recovery_check_credentials": "請確認您的 Moodle／校務系統帳號密碼仍然有效。",
   "error_moodle_recovery_re_sign_in_ntust": "請再次登入校務系統後重試。",
+  "error_moodle_site_maintenance": "Moodle 正在維護，請稍後再試。",
   "error_moodle_sso_rejected": "校務系統 SSO 拒絕了 Moodle 授權，請確認您的帳號密碼。",
   "error_moodle_sso_rejected_with_reason": "校務系統 SSO 拒絕了 Moodle 授權：%1$@",
   "error_moodle_webservice_disabled": "Moodle 網路服務目前無法使用。",

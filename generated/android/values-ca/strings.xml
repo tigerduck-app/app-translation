@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Error de xarxa de Moodle: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Comprova que les credencials de Moodle / NTUST encara són vàlides.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Torna a iniciar sessió a NTUST i prova-ho una altra vegada.</string>
+    <string name="error_moodle_site_maintenance">Moodle està en manteniment. Torna-ho a provar més tard.</string>
     <string name="error_moodle_sso_rejected">L’SSO de NTUST ha rebutjat l’autorització de Moodle. Comprova les teves credencials.</string>
     <string name="error_moodle_sso_rejected_with_reason">L’SSO de NTUST ha rebutjat l’autorització de Moodle: %1$@</string>
     <string name="error_moodle_webservice_disabled">El servei web de Moodle no està disponible actualment.</string>

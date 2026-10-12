@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Erro de rede do Moodle: %1$@",
     "error_moodle_recovery_check_credentials": "Verifique se as suas credenciais do Moodle / NTUST ainda são válidas.",
     "error_moodle_recovery_re_sign_in_ntust": "Inicie sessão novamente no NTUST e tente outra vez.",
+    "error_moodle_site_maintenance": "O Moodle está em manutenção. Tenta mais tarde.",
     "error_moodle_sso_rejected": "O SSO da NTUST rejeitou a autorização do Moodle. Verifique as suas credenciais.",
     "error_moodle_sso_rejected_with_reason": "O SSO da NTUST rejeitou a autorização do Moodle: %1$@",
     "error_moodle_webservice_disabled": "O webservice do Moodle está atualmente indisponível.",

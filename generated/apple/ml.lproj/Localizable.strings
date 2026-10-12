@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Moodle നെറ്റ്‌വർക്ക് പിശക്: %1$@";
 "error_moodle_recovery_check_credentials" = "Moodle / NTUST ക്രെഡൻഷ്യൽ ഇപ്പോഴും സാധുവാണോ എന്ന് പരിശോധിക്കുക.";
 "error_moodle_recovery_re_sign_in_ntust" = "NTUST-ൽ വീണ്ടും സൈൻ ഇൻ ചെയ്ത് ഒന്നുകൂടി ശ്രമിക്കുക.";
+"error_moodle_site_maintenance" = "Moodle-ൽ അറ്റകുറ്റപ്പണി നടക്കുന്നു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
 "error_moodle_sso_rejected" = "NTUST SSO Moodle അംഗീകരണം നിരസിച്ചു. ദയവായി ക്രെഡൻഷ്യൽ പരിശോധിക്കുക.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO Moodle അംഗീകരണം നിരസിച്ചു: %1$@";
 "error_moodle_webservice_disabled" = "Moodle വെബ്‌സർവീസ് ഇപ്പോൾ ലഭ്യമല്ല.";

@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Moodle-nettverksfeil: %1$@",
     "error_moodle_recovery_check_credentials": "Bekreft at Moodle-/NTUST-påloggingsdetaljene dine fortsatt er gyldige.",
     "error_moodle_recovery_re_sign_in_ntust": "Logg på NTUST igjen og prøv på nytt.",
+    "error_moodle_site_maintenance": "Moodle er under vedlikehold. Prøv igjen senere.",
     "error_moodle_sso_rejected": "NTUST SSO avviste Moodle-autoriseringen. Bekreft påloggingsdetaljene dine.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO avviste Moodle-autoriseringen: %1$@",
     "error_moodle_webservice_disabled": "Moodle-webtjenesten er for øyeblikket ikke tilgjengelig.",

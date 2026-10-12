@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle-Netzwerkfehler: %1$@",
   "error_moodle_recovery_check_credentials": "Prüfen Sie, ob Ihre Moodle-/NTUST-Anmeldedaten noch gültig sind.",
   "error_moodle_recovery_re_sign_in_ntust": "Melden Sie sich erneut bei NTUST an und versuchen Sie es noch einmal.",
+  "error_moodle_site_maintenance": "Moodle wird gerade gewartet. Versuche es später erneut.",
   "error_moodle_sso_rejected": "NTUST SSO hat die Moodle-Autorisierung abgelehnt. Bitte überprüfen Sie Ihre Anmeldedaten.",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO hat die Moodle-Autorisierung abgelehnt: %1$@",
   "error_moodle_webservice_disabled": "Der Moodle-Webdienst ist derzeit nicht verfügbar.",

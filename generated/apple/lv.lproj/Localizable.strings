@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Moodle tīkla kļūda: %1$@";
 "error_moodle_recovery_check_credentials" = "Pārliecinieties, vai Moodle / NTUST akreditācijas dati joprojām ir derīgi.";
 "error_moodle_recovery_re_sign_in_ntust" = "Pierakstieties NTUST vēlreiz un mēģiniet vēlreiz.";
+"error_moodle_site_maintenance" = "Moodle sistēmā notiek apkopes darbi. Mēģiniet vēlreiz vēlāk.";
 "error_moodle_sso_rejected" = "NTUST SSO noraidīja Moodle autorizāciju. Lūdzu, pārbaudiet savus akreditācijas datus.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO noraidīja Moodle autorizāciju: %1$@";
 "error_moodle_webservice_disabled" = "Moodle tīmekļa pakalpojums pašlaik nav pieejams.";

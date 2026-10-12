@@ -330,6 +330,7 @@
   "error_moodle_network_format": "ข้อผิดพลาดเครือข่าย Moodle: %1$@",
   "error_moodle_recovery_check_credentials": "ตรวจสอบว่าข้อมูลรับรอง Moodle / NTUST ของคุณยังใช้งานได้",
   "error_moodle_recovery_re_sign_in_ntust": "เข้าสู่ระบบ NTUST อีกครั้งแล้วลองใหม่",
+  "error_moodle_site_maintenance": "Moodle อยู่ระหว่างการบำรุงรักษา ลองใหม่อีกครั้งภายหลัง",
   "error_moodle_sso_rejected": "NTUST SSO ปฏิเสธการอนุมัติ Moodle กรุณาตรวจสอบข้อมูลรับรองของคุณ",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO ปฏิเสธการอนุมัติ Moodle: %1$@",
   "error_moodle_webservice_disabled": "Moodle webservice ไม่พร้อมใช้งานในขณะนี้",

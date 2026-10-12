@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Moodle नेटवर्क त्रुटि: %1$@";
 "error_moodle_recovery_check_credentials" = "सत्यापित करें कि आपकी Moodle / NTUST क्रेडेंशियल अभी भी वैध हैं।";
 "error_moodle_recovery_re_sign_in_ntust" = "NTUST में फिर से साइन इन करें और दोबारा प्रयास करें।";
+"error_moodle_site_maintenance" = "Moodle का रखरखाव चल रहा है। बाद में फिर से कोशिश करें।";
 "error_moodle_sso_rejected" = "NTUST SSO ने Moodle प्राधिकरण अस्वीकार कर दिया। कृपया अपनी क्रेडेंशियल सत्यापित करें।";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO ने Moodle प्राधिकरण अस्वीकार कर दिया: %1$@";
 "error_moodle_webservice_disabled" = "Moodle वेबसर्विस वर्तमान में अनुपलब्ध है।";

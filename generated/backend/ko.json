@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle 네트워크 오류: %1$@",
   "error_moodle_recovery_check_credentials": "Moodle / NTUST 자격 증명이 여전히 유효한지 확인하세요.",
   "error_moodle_recovery_re_sign_in_ntust": "NTUST에 다시 로그인한 후 다시 시도하세요.",
+  "error_moodle_site_maintenance": "Moodle이 점검 중입니다. 나중에 다시 시도해 주세요.",
   "error_moodle_sso_rejected": "NTUST SSO가 Moodle 인증을 거부했습니다. 자격 증명을 확인하세요.",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO가 Moodle 인증을 거부했습니다: %1$@",
   "error_moodle_webservice_disabled": "Moodle 웹서비스를 현재 사용할 수 없습니다.",

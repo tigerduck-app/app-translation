@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">خطأ في شبكة Moodle: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">تحقق من أن بيانات اعتماد Moodle / NTUST لا تزال صالحة.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">سجّل الدخول إلى NTUST مرة أخرى وحاول من جديد.</string>
+    <string name="error_moodle_site_maintenance">Moodle قيد الصيانة. يرجى المحاولة لاحقًا.</string>
     <string name="error_moodle_sso_rejected">رفض NTUST SSO تفويض Moodle. يرجى التحقق من بيانات الاعتماد.</string>
     <string name="error_moodle_sso_rejected_with_reason">رفض NTUST SSO تفويض Moodle: %1$@</string>
     <string name="error_moodle_webservice_disabled">خدمة الويب الخاصة بـ Moodle غير متاحة حاليًا.</string>

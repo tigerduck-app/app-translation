@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Moodle-netwerkfout: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Controleer of je Moodle-/NTUST-inloggegevens nog geldig zijn.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Log opnieuw in bij NTUST en probeer het nog eens.</string>
+    <string name="error_moodle_site_maintenance">Moodle is in onderhoud. Probeer het later opnieuw.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO heeft de Moodle-autorisatie geweigerd. Controleer je inloggegevens.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO heeft de Moodle-autorisatie geweigerd: %1$@</string>
     <string name="error_moodle_webservice_disabled">De Moodle-webservice is momenteel niet beschikbaar.</string>

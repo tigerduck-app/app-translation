@@ -332,6 +332,7 @@
 "error_moodle_network_format" = "Moodle ನೆಟ್‌ವರ್ಕ್ ದೋಷ: %1$@";
 "error_moodle_recovery_check_credentials" = "ನಿಮ್ಮ Moodle / NTUST ರುಜುವಾತುಗಳು ಇನ್ನೂ ಮಾನ್ಯವಿವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.";
 "error_moodle_recovery_re_sign_in_ntust" = "NTUST ಗೆ ಮತ್ತೆ ಸೈನ್-ಇನ್ ಮಾಡಿ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.";
+"error_moodle_site_maintenance" = "Moodle ನಿರ್ವಹಣೆಯಲ್ಲಿದೆ. ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
 "error_moodle_sso_rejected" = "NTUST SSO Moodle ಅಧಿಕಾರವನ್ನು ತಿರಸ್ಕರಿಸಿತು. ದಯವಿಟ್ಟು ನಿಮ್ಮ ರುಜುವಾತುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.";
 "error_moodle_sso_rejected_with_reason" = "NTUST SSO Moodle ಅಧಿಕಾರವನ್ನು ತಿರಸ್ಕರಿಸಿತು: %1$@";
 "error_moodle_webservice_disabled" = "Moodle ವೆಬ್‌ಸೇವೆ ಪ್ರಸ್ತುತ ಲಭ್ಯವಿಲ್ಲ.";

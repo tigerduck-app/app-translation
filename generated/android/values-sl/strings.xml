@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Omrežna napaka Moodle: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Preverite, ali so vaše poverilnice Moodle / NTUST še veljavne.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Znova se prijavite v NTUST in poskusite znova.</string>
+    <string name="error_moodle_site_maintenance">Na Moodlu poteka vzdrževanje. Poskusite znova pozneje.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO je zavrnil avtorizacijo Moodle. Preverite svoje poverilnice.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO je zavrnil avtorizacijo Moodle: %1$@</string>
     <string name="error_moodle_webservice_disabled">Spletna storitev Moodle trenutno ni na voljo.</string>

@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Sieťová chyba Moodle: %1$@",
   "error_moodle_recovery_check_credentials": "Overte, či sú vaše prihlasovacie údaje Moodle / NTUST stále platné.",
   "error_moodle_recovery_re_sign_in_ntust": "Prihláste sa znova do NTUST a skúste znova.",
+  "error_moodle_site_maintenance": "Na Moodle prebieha údržba. Skúste to znova neskôr.",
   "error_moodle_sso_rejected": "NTUST SSO zamietlo autorizáciu Moodle. Overte si prihlasovacie údaje.",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO zamietlo autorizáciu Moodle: %1$@",
   "error_moodle_webservice_disabled": "Webová služba Moodle je momentálne nedostupná.",

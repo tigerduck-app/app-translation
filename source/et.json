@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Moodle’i võrgu viga: %1$@",
     "error_moodle_recovery_check_credentials": "Kontrolli, kas su Moodle’i / NTUST-i mandaadid on veel kehtivad.",
     "error_moodle_recovery_re_sign_in_ntust": "Logi uuesti NTUST-i sisse ja proovi veel kord.",
+    "error_moodle_site_maintenance": "Moodle on hoolduses. Proovi hiljem uuesti.",
     "error_moodle_sso_rejected": "NTUST SSO lükkas Moodle’i autoriseerimise tagasi. Palun kontrolli oma mandaate.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO lükkas Moodle’i autoriseerimise tagasi: %1$@",
     "error_moodle_webservice_disabled": "Moodle’i veebiteenus ei ole hetkel saadaval.",

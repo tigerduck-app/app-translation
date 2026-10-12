@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Moodle мрежна грешка: %1$@",
     "error_moodle_recovery_check_credentials": "Проверите да ли су ваши Moodle / NTUST подаци за пријаву и даље важећи.",
     "error_moodle_recovery_re_sign_in_ntust": "Пријавите се поново на NTUST и покушајте опет.",
+    "error_moodle_site_maintenance": "Moodle је на одржавању. Покушајте поново касније.",
     "error_moodle_sso_rejected": "NTUST SSO је одбио Moodle ауторизацију. Молимо проверите своје податке за пријаву.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO је одбио Moodle ауторизацију: %1$@",
     "error_moodle_webservice_disabled": "Moodle веб-услуга је тренутно недоступна.",

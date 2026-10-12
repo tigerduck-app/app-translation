@@ -336,6 +336,7 @@
     <string name="error_moodle_network_format">Moodle tinklo klaida: %1$@</string>
     <string name="error_moodle_recovery_check_credentials">Patikrinkite, ar jūsų Moodle / NTUST prisijungimo duomenys vis dar galioja.</string>
     <string name="error_moodle_recovery_re_sign_in_ntust">Prisijunkite prie NTUST iš naujo ir pabandykite dar kartą.</string>
+    <string name="error_moodle_site_maintenance">„Moodle“ sistemoje atliekami techninės priežiūros darbai. Bandykite dar kartą vėliau.</string>
     <string name="error_moodle_sso_rejected">NTUST SSO atmetė Moodle autorizaciją. Patikrinkite prisijungimo duomenis.</string>
     <string name="error_moodle_sso_rejected_with_reason">NTUST SSO atmetė Moodle autorizaciją: %1$@</string>
     <string name="error_moodle_webservice_disabled">Šiuo metu „Moodle“ tinklo paslauga nepasiekiama.</string>

@@ -330,6 +330,7 @@
   "error_moodle_network_format": "Moodle のネットワークエラー：%1$@",
   "error_moodle_recovery_check_credentials": "Moodle / NTUST の認証情報がまだ有効か確認してください。",
   "error_moodle_recovery_re_sign_in_ntust": "NTUST に再度サインインしてもう一度お試しください。",
+  "error_moodle_site_maintenance": "Moodle はメンテナンス中です。しばらくしてからもう一度お試しください。",
   "error_moodle_sso_rejected": "NTUST SSO が Moodle の認可を拒否しました。認証情報を確認してください。",
   "error_moodle_sso_rejected_with_reason": "NTUST SSO が Moodle の認可を拒否しました：%1$@",
   "error_moodle_webservice_disabled": "Moodle の Web サービスは現在利用できません。",

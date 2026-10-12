@@ -331,6 +331,7 @@
     "error_moodle_network_format": "Мрежова грешка на Moodle: %1$@",
     "error_moodle_recovery_check_credentials": "Уверете се, че вашите Moodle / NTUST идентификационни данни са все още валидни.",
     "error_moodle_recovery_re_sign_in_ntust": "Влезте в NTUST отново и опитайте още веднъж.",
+    "error_moodle_site_maintenance": "Moodle е в процес на поддръжка. Опитайте отново по-късно.",
     "error_moodle_sso_rejected": "NTUST SSO отхвърли оторизацията на Moodle. Моля, проверете идентификационните си данни.",
     "error_moodle_sso_rejected_with_reason": "NTUST SSO отхвърли оторизацията на Moodle: %1$@",
     "error_moodle_webservice_disabled": "Уеб услугата на Moodle в момента не е налична.",
