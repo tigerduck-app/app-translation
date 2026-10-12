@@ -249,6 +249,9 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("bg", "uk"), ("ru", "uk"), ("ru", "sr"), ("kk", "ru"),
         # Indic
         ("hi", "mr"),
+        # Persian / Urdu -- Urdu takes much of its everyday vocabulary from
+        # Persian and writes it in the same script
+        ("fa", "ur"),
     )
 )
 
