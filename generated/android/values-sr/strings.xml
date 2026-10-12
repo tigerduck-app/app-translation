@@ -1033,8 +1033,8 @@
     <string name="weekday_thu_short">Чет</string>
     <string name="weekday_tue_caption">Уто</string>
     <string name="weekday_tue_short">Уто</string>
-    <string name="weekday_wed_caption">Сри</string>
-    <string name="weekday_wed_short">Сри</string>
+    <string name="weekday_wed_caption">Сре</string>
+    <string name="weekday_wed_short">Сре</string>
     <string name="whats_new_continue">Настави</string>
     <string name="widget_library_shortcut_desc">Отворите виртуелну библиотечку пропусницу QR код једним додиром</string>
     <string name="widget_library_shortcut_label">QR код пречица за библиотеку</string>
