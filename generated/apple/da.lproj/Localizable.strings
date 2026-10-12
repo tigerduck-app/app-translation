@@ -4,6 +4,7 @@
 "a11y_calendar_nav_next" = "Næste måned";
 "a11y_calendar_nav_prev" = "Forrige måned";
 "a11y_class_table_cell_assignment_indicator" = "Har opgave";
+"a11y_class_table_cell_assignments_ignored" = "Opgaver ignoreret";
 "a11y_class_table_conflict_prefix" = "Timeskollision";
 "a11y_course_card_open_details_hint" = "Dobbelttryk for detaljer";
 "a11y_course_color_swatch" = "Farve %1$lld";
@@ -170,6 +171,8 @@
 "class_table_empty_message" = "Træk for at opdatere, tryk på ⋯ for at tilføje et kursus, eller skift til et andet semester";
 "class_table_export_failed" = "Skemaet kunne ikke eksporteres";
 "class_table_export_screenshot" = "Eksportér skærmbillede af skemaet";
+"class_table_ignore_assignments" = "Ignorer opgaver";
+"class_table_ignore_assignments_undo" = "Stop med at ignorere opgaver";
 "class_table_more_actions" = "Flere handlinger";
 "class_table_pick_color" = "Vælg farve";
 "class_table_rename_default_label" = "Standard: %1$@";

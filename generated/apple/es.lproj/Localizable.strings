@@ -4,6 +4,7 @@
 "a11y_calendar_nav_next" = "Mes siguiente";
 "a11y_calendar_nav_prev" = "Mes anterior";
 "a11y_class_table_cell_assignment_indicator" = "Tiene tarea";
+"a11y_class_table_cell_assignments_ignored" = "Tareas ignoradas";
 "a11y_class_table_conflict_prefix" = "Conflicto de clase";
 "a11y_course_card_open_details_hint" = "Toca dos veces para ver los detalles";
 "a11y_course_color_swatch" = "Color %1$lld";
@@ -170,6 +171,8 @@
 "class_table_empty_message" = "Desliza hacia abajo para actualizar, toca ⋯ para añadir un curso o cambia a otro semestre";
 "class_table_export_failed" = "No se pudo exportar el horario";
 "class_table_export_screenshot" = "Exportar captura del horario";
+"class_table_ignore_assignments" = "Ignorar tareas";
+"class_table_ignore_assignments_undo" = "Dejar de ignorar tareas";
 "class_table_more_actions" = "Más acciones";
 "class_table_pick_color" = "Elegir color";
 "class_table_rename_default_label" = "Predeterminado: %1$@";

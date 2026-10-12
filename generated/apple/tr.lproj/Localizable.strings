@@ -4,6 +4,7 @@
 "a11y_calendar_nav_next" = "Sonraki ay";
 "a11y_calendar_nav_prev" = "Önceki ay";
 "a11y_class_table_cell_assignment_indicator" = "Ödev var";
+"a11y_class_table_cell_assignments_ignored" = "Ödevler yoksayıldı";
 "a11y_class_table_conflict_prefix" = "Ders çakışması";
 "a11y_course_card_open_details_hint" = "Ayrıntılar için çift dokunun";
 "a11y_course_color_swatch" = "Renk %1$lld";
@@ -170,6 +171,8 @@
 "class_table_empty_message" = "Yenilemek için çekin, ders eklemek için ⋯ öğesine dokunun veya başka bir döneme geçin";
 "class_table_export_failed" = "Ders programı dışa aktarılamadı";
 "class_table_export_screenshot" = "Ders programının ekran görüntüsünü dışa aktar";
+"class_table_ignore_assignments" = "Ödevleri yoksay";
+"class_table_ignore_assignments_undo" = "Ödevleri yoksaymayı bırak";
 "class_table_more_actions" = "Diğer işlemler";
 "class_table_pick_color" = "Renk seç";
 "class_table_rename_default_label" = "Varsayılan: %1$@";
