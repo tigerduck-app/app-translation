@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "За сканиране на QR кодове с разписания, споделени с вас.";
 "NSPhotoLibraryAddUsageDescription" = "За запазване на експортираните изображения на разписанието в „Снимки“.";

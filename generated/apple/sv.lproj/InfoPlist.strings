@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "För att skanna QR-koder med scheman som delas med dig.";
 "NSPhotoLibraryAddUsageDescription" = "För att spara exporterade schemabilder i Bilder.";

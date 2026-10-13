@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "เพื่อสแกน QR Code ตารางเรียนที่ผู้อื่นแชร์ให้คุณ";
 "NSPhotoLibraryAddUsageDescription" = "เพื่อบันทึกภาพตารางเรียนที่ส่งออกลงในรูปภาพ";

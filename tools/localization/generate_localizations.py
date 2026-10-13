@@ -386,6 +386,7 @@ def _render_android_strings_xml(strings: OrderedDict) -> str:
 # the user's language is. They still go into Localizable.strings as well,
 # where they are unused and harmless.
 APPLE_INFO_PLIST_KEYS: dict[str, str] = {
+    "permission_camera_usage": "NSCameraUsageDescription",
     "permission_photo_library_add_usage": "NSPhotoLibraryAddUsageDescription",
 }
 

@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "Om QR Codes te scannen van roosters die met je zijn gedeeld.";
 "NSPhotoLibraryAddUsageDescription" = "Om geëxporteerde roosterafbeeldingen in Foto's te bewaren.";
