@@ -901,6 +901,7 @@
     <string name="settings_official_website">Officiell webbplats</string>
     <string name="settings_open_source_licenses">Öppen källkod-licenser</string>
     <string name="settings_outline_required_courses">Rama in obligatoriska kurser i schemat</string>
+    <string name="settings_pin_today_courses_on_class_table">Fäst dagens kurser överst i schemat</string>
     <string name="settings_privacy_policy">Integritetspolicy</string>
     <string name="settings_push_server_nav_label">Server-push</string>
     <string name="settings_remember_bulletin_filter">Kom ihåg anslagstavlefilter</string>

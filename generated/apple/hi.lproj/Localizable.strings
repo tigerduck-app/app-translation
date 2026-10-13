@@ -885,6 +885,7 @@
 "settings_official_website" = "आधिकारिक वेबसाइट";
 "settings_open_source_licenses" = "ओपन-सोर्स लाइसेंस";
 "settings_outline_required_courses" = "कक्षा सारणी में अनिवार्य कोर्स के चारों ओर बॉर्डर दिखाएँ";
+"settings_pin_today_courses_on_class_table" = "समय-सारणी के ऊपर आज के कोर्स पिन करें";
 "settings_privacy_policy" = "गोपनीयता नीति";
 "settings_push_server_nav_label" = "सर्वर पुश";
 "settings_remember_bulletin_filter" = "बुलेटिन फ़िल्टर याद रखें";

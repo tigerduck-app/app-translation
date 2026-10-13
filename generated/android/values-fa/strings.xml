@@ -901,6 +901,7 @@
     <string name="settings_official_website">وب‌سایت رسمی</string>
     <string name="settings_open_source_licenses">مجوزهای متن‌باز</string>
     <string name="settings_outline_required_courses">نمایش کادر دور درس‌های الزامی در برنامهٔ درسی</string>
+    <string name="settings_pin_today_courses_on_class_table">سنجاق کردن درس‌های امروز بالای برنامهٔ درسی</string>
     <string name="settings_privacy_policy">سیاست حریم خصوصی</string>
     <string name="settings_push_server_nav_label">فشار سرور</string>
     <string name="settings_remember_bulletin_filter">فیلترهای بولتن را به خاطر بسپارید</string>

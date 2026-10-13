@@ -885,6 +885,7 @@
 "settings_official_website" = "公式ウェブサイト";
 "settings_open_source_licenses" = "オープンソースライセンス";
 "settings_outline_required_courses" = "時間割の必修科目を枠線で囲む";
+"settings_pin_today_courses_on_class_table" = "時間割の上部に今日の授業を固定";
 "settings_privacy_policy" = "プライバシーポリシー";
 "settings_push_server_nav_label" = "サーバープッシュ";
 "settings_remember_bulletin_filter" = "掲示板フィルターを記憶する";

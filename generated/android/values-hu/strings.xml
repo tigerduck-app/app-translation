@@ -901,6 +901,7 @@
     <string name="settings_official_website">Hivatalos weboldal</string>
     <string name="settings_open_source_licenses">Nyílt forráskódú licencek</string>
     <string name="settings_outline_required_courses">Kötelező kurzusok bekeretezése az órarendben</string>
+    <string name="settings_pin_today_courses_on_class_table">Mai kurzusok rögzítése az órarend tetején</string>
     <string name="settings_privacy_policy">Adatvédelmi irányelvek</string>
     <string name="settings_push_server_nav_label">Szerver push</string>
     <string name="settings_remember_bulletin_filter">Hirdetményszűrők megjegyzése</string>

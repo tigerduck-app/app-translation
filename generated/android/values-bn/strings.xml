@@ -901,6 +901,7 @@
     <string name="settings_official_website">অফিসিয়াল ওয়েবসাইট</string>
     <string name="settings_open_source_licenses">ওপেন-সোর্স লাইসেন্স</string>
     <string name="settings_outline_required_courses">ক্লাস তালিকায় আবশ্যিক কোর্সে বর্ডার দেখান</string>
+    <string name="settings_pin_today_courses_on_class_table">রুটিনের উপরে আজকের কোর্সসমূহ পিন করুন</string>
     <string name="settings_privacy_policy">গোপনীয়তা নীতি</string>
     <string name="settings_push_server_nav_label">সার্ভার পুশ</string>
     <string name="settings_remember_bulletin_filter">বুলেটিন ফিল্টার মনে রাখবেন</string>

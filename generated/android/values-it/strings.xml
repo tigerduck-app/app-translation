@@ -901,6 +901,7 @@
     <string name="settings_official_website">Sito web ufficiale</string>
     <string name="settings_open_source_licenses">Licenze open source</string>
     <string name="settings_outline_required_courses">Evidenzia con un bordo i corsi obbligatori nell\'orario</string>
+    <string name="settings_pin_today_courses_on_class_table">Fissa i corsi di oggi in cima all\'orario</string>
     <string name="settings_privacy_policy">Informativa sulla privacy</string>
     <string name="settings_push_server_nav_label">Push server</string>
     <string name="settings_remember_bulletin_filter">Ricorda i filtri del bollettino</string>

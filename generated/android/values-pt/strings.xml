@@ -901,6 +901,7 @@
     <string name="settings_official_website">Site oficial</string>
     <string name="settings_open_source_licenses">Licenças de código aberto</string>
     <string name="settings_outline_required_courses">Destacar com contorno as cadeiras obrigatórias no horário</string>
+    <string name="settings_pin_today_courses_on_class_table">Fixar as aulas de hoje no topo do horário</string>
     <string name="settings_privacy_policy">Política de privacidade</string>
     <string name="settings_push_server_nav_label">Push do servidor</string>
     <string name="settings_remember_bulletin_filter">Memorizar filtros do boletim</string>

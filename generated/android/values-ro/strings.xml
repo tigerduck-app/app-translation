@@ -901,6 +901,7 @@
     <string name="settings_official_website">Site web oficial</string>
     <string name="settings_open_source_licenses">Licențe open-source</string>
     <string name="settings_outline_required_courses">Încadrează cursurile obligatorii în orar</string>
+    <string name="settings_pin_today_courses_on_class_table">Fixează cursurile de azi în partea de sus a orarului</string>
     <string name="settings_privacy_policy">Politică de confidențialitate</string>
     <string name="settings_push_server_nav_label">Push server</string>
     <string name="settings_remember_bulletin_filter">Reține filtrele buletinului</string>

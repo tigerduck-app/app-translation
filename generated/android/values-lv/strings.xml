@@ -901,6 +901,7 @@
     <string name="settings_official_website">Oficiālā vietne</string>
     <string name="settings_open_source_licenses">Atvērtā koda licences</string>
     <string name="settings_outline_required_courses">Iezīmēt obligātos kursus ar rāmi stundu plānā</string>
+    <string name="settings_pin_today_courses_on_class_table">Piespraust šodienas kursus stundu saraksta augšā</string>
     <string name="settings_privacy_policy">Privātuma politika</string>
     <string name="settings_push_server_nav_label">Servera push</string>
     <string name="settings_remember_bulletin_filter">Atcerēties biļetenu filtrus</string>

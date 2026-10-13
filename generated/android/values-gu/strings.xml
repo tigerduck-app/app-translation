@@ -901,6 +901,7 @@
     <string name="settings_official_website">અધિકૃત વેબસાઇટ</string>
     <string name="settings_open_source_licenses">ઓપન-સોર્સ લાઇસન્સ</string>
     <string name="settings_outline_required_courses">સમયપત્રકમાં ફરજિયાત કોર્સની આસપાસ બોર્ડર બતાવો</string>
+    <string name="settings_pin_today_courses_on_class_table">સમયપત્રકની ઉપર આજના કોર્સ પિન કરો</string>
     <string name="settings_privacy_policy">ગોપનીયતા નીતિ</string>
     <string name="settings_push_server_nav_label">સર્વર પુશ</string>
     <string name="settings_remember_bulletin_filter">બુલેટિન ફિલ્ટર્સ યાદ રાખો</string>

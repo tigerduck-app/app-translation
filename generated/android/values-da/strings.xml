@@ -901,6 +901,7 @@
     <string name="settings_official_website">Officiel hjemmeside</string>
     <string name="settings_open_source_licenses">Open source-licenser</string>
     <string name="settings_outline_required_courses">Vis ramme om obligatoriske kurser i skemaet</string>
+    <string name="settings_pin_today_courses_on_class_table">Fastgør dagens kurser øverst i skemaet</string>
     <string name="settings_privacy_policy">Privatlivspolitik</string>
     <string name="settings_push_server_nav_label">Server-push</string>
     <string name="settings_remember_bulletin_filter">Husk bulletinfiltre</string>

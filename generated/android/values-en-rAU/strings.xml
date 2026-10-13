@@ -901,6 +901,7 @@
     <string name="settings_official_website">Official website</string>
     <string name="settings_open_source_licenses">Open-source licences</string>
     <string name="settings_outline_required_courses">Outline required courses on the class table</string>
+    <string name="settings_pin_today_courses_on_class_table">Pin today\'s courses to the top of the class table</string>
     <string name="settings_privacy_policy">Privacy policy</string>
     <string name="settings_push_server_nav_label">Server push</string>
     <string name="settings_remember_bulletin_filter">Remember bulletin filters</string>

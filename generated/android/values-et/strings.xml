@@ -901,6 +901,7 @@
     <string name="settings_official_website">Ametlik veebisait</string>
     <string name="settings_open_source_licenses">Avatud lähtekoodiga litsentsid</string>
     <string name="settings_outline_required_courses">Ümbritse tunniplaanis kohustuslikud kursused raamiga</string>
+    <string name="settings_pin_today_courses_on_class_table">Kinnita tänased kursused tunniplaani ülaossa</string>
     <string name="settings_privacy_policy">Privaatsuspoliitika</string>
     <string name="settings_push_server_nav_label">Serveri tõuge</string>
     <string name="settings_remember_bulletin_filter">Pidage meeles bülletäänide filtreid</string>

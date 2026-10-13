@@ -901,6 +901,7 @@
     <string name="settings_official_website">Oficjalna strona</string>
     <string name="settings_open_source_licenses">Licencje open source</string>
     <string name="settings_outline_required_courses">Obramowuj przedmioty obowiązkowe w planie zajęć</string>
+    <string name="settings_pin_today_courses_on_class_table">Przypnij dzisiejsze zajęcia na górze planu zajęć</string>
     <string name="settings_privacy_policy">Polityka prywatności</string>
     <string name="settings_push_server_nav_label">Push serwera</string>
     <string name="settings_remember_bulletin_filter">Zapamiętaj filtry biuletynu</string>

@@ -901,6 +901,7 @@
     <string name="settings_official_website">Resmi web sitesi</string>
     <string name="settings_open_source_licenses">Açık kaynak lisansları</string>
     <string name="settings_outline_required_courses">Ders programında zorunlu dersleri çerçevele</string>
+    <string name="settings_pin_today_courses_on_class_table">Bugünün derslerini ders programının üstüne sabitle</string>
     <string name="settings_privacy_policy">Gizlilik politikası</string>
     <string name="settings_push_server_nav_label">Sunucu push</string>
     <string name="settings_remember_bulletin_filter">Bülten filtrelerini hatırla</string>

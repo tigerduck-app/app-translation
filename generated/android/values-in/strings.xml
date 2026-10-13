@@ -901,6 +901,7 @@
     <string name="settings_official_website">Situs web resmi</string>
     <string name="settings_open_source_licenses">Lisensi sumber terbuka</string>
     <string name="settings_outline_required_courses">Beri garis tepi pada mata kuliah wajib di jadwal</string>
+    <string name="settings_pin_today_courses_on_class_table">Sematkan kelas hari ini di atas jadwal</string>
     <string name="settings_privacy_policy">Kebijakan privasi</string>
     <string name="settings_push_server_nav_label">Push server</string>
     <string name="settings_remember_bulletin_filter">Ingat filter buletin</string>

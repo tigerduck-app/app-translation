@@ -901,6 +901,7 @@
     <string name="settings_official_website">అధికారిక వెబ్‌సైట్</string>
     <string name="settings_open_source_licenses">ఓపెన్-సోర్స్ లైసెన్సులు</string>
     <string name="settings_outline_required_courses">టైమ్‌టేబుల్‌లో తప్పనిసరి కోర్సులకు అంచు చూపు</string>
+    <string name="settings_pin_today_courses_on_class_table">టైమ్‌టేబుల్ పైభాగంలో నేటి కోర్సులను పిన్ చేయి</string>
     <string name="settings_privacy_policy">గోప్యతా విధానం</string>
     <string name="settings_push_server_nav_label">సర్వర్ పుష్</string>
     <string name="settings_remember_bulletin_filter">బులెటిన్ ఫిల్టర్‌లను గుర్తుంచుకో</string>

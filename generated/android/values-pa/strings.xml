@@ -901,6 +901,7 @@
     <string name="settings_official_website">ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ</string>
     <string name="settings_open_source_licenses">ਓਪਨ-ਸੋਰਸ ਲਾਇਸੈਂਸ</string>
     <string name="settings_outline_required_courses">ਸਮਾਂ-ਸਾਰਣੀ ਵਿੱਚ ਲਾਜ਼ਮੀ ਕੋਰਸਾਂ ਦੇ ਦੁਆਲੇ ਬਾਰਡਰ ਦਿਖਾਓ</string>
+    <string name="settings_pin_today_courses_on_class_table">ਸਮਾਂ-ਸਾਰਣੀ ਦੇ ਉੱਪਰ ਅੱਜ ਦੇ ਕੋਰਸ ਪਿੰਨ ਕਰੋ</string>
     <string name="settings_privacy_policy">ਪ੍ਰਾਈਵੇਸੀ ਨੀਤੀ</string>
     <string name="settings_push_server_nav_label">ਸਰਵਰ ਪੁਸ਼</string>
     <string name="settings_remember_bulletin_filter">ਬੁਲੇਟਿਨ ਫਿਲਟਰ ਯਾਦ ਰੱਖੋ</string>
