@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "掃描別人分享的課表 QR Code。";
 "NSPhotoLibraryAddUsageDescription" = "將匯出的課表圖片儲存到「照片」。";

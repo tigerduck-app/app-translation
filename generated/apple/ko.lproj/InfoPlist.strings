@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "공유받은 시간표 QR 코드를 스캔하는 데 사용됩니다.";
 "NSPhotoLibraryAddUsageDescription" = "내보낸 시간표 이미지를 사진에 저장하는 데 사용됩니다.";

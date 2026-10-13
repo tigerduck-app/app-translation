@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "برای اسکن کدهای QR برنامه کلاس‌هایی که با شما به اشتراک گذاشته شده‌اند.";
 "NSPhotoLibraryAddUsageDescription" = "برای ذخیرهٔ تصاویر خروجی برنامه کلاس‌ها در «عکس‌ها».";

@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "Ke skenování QR Code s rozvrhy, které s vámi někdo sdílí.";
 "NSPhotoLibraryAddUsageDescription" = "K uložení exportovaných obrázků rozvrhu do Fotek.";

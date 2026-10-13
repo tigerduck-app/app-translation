@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "Zum Scannen von QR Codes mit Stundenplänen, die mit Ihnen geteilt werden.";
 "NSPhotoLibraryAddUsageDescription" = "Zum Sichern exportierter Stundenplanbilder in „Fotos“.";

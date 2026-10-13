@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "Az Önnel megosztott órarendek QR-kódjainak beolvasásához.";
 "NSPhotoLibraryAddUsageDescription" = "Az exportált órarendképek Fotókba mentéséhez.";

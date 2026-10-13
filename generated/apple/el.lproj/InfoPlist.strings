@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "Για τη σάρωση των QR Code προγραμμάτων μαθημάτων που μοιράζονται μαζί σας.";
 "NSPhotoLibraryAddUsageDescription" = "Για την αποθήκευση των εξαγόμενων εικόνων του προγράμματος μαθημάτων στις Φωτογραφίες.";

@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "Para digitalizar QR Codes de horários partilhados contigo.";
 "NSPhotoLibraryAddUsageDescription" = "Para guardar em Fotografias as imagens exportadas do horário.";

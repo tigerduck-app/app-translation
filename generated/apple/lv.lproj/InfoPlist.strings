@@ -1,2 +1,3 @@
 /* Generated from localization/source/*.json. Do not edit directly. */
+"NSCameraUsageDescription" = "Lai skenētu stundu plānu QR kodus, kas kopīgoti ar jums.";
 "NSPhotoLibraryAddUsageDescription" = "Lai saglabātu eksportētos stundu plāna attēlus lietotnē Photos.";
