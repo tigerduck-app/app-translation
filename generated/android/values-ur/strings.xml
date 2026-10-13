@@ -15,6 +15,7 @@
     <string name="a11y_course_detail_open_moodle">Moodle میں کھولیں</string>
     <string name="a11y_empty_classroom_floors_down">Floors down: %1$d</string>
     <string name="a11y_empty_classroom_floors_up">Floors up: %1$d</string>
+    <string name="a11y_empty_classroom_free_count">Free classrooms: %1$d</string>
     <string name="a11y_empty_classroom_free_span">Free %1$s to %2$s</string>
     <string name="a11y_empty_classroom_next_period">Next period</string>
     <string name="a11y_empty_classroom_period">Period %1$s</string>

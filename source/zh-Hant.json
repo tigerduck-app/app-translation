@@ -14,6 +14,7 @@
     "a11y_course_detail_open_moodle": "在 Moodle 中開啟",
     "a11y_empty_classroom_floors_down": "下 %1$d 層",
     "a11y_empty_classroom_floors_up": "上 %1$d 層",
+    "a11y_empty_classroom_free_count": "%1$d 間空教室",
     "a11y_empty_classroom_free_span": "空 %1$s 至 %2$s",
     "a11y_empty_classroom_next_period": "下一節",
     "a11y_empty_classroom_period": "第 %1$s 節",
