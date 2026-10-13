@@ -11,6 +11,13 @@
 "a11y_course_card_open_details_hint" = "Tocca due volte per i dettagli";
 "a11y_course_color_swatch" = "Colore %1$lld";
 "a11y_course_detail_open_moodle" = "Apri in Moodle";
+"a11y_empty_classroom_floors_down" = "Floors down: %1$d";
+"a11y_empty_classroom_floors_up" = "Floors up: %1$d";
+"a11y_empty_classroom_free_span" = "Free %1$@ to %2$@";
+"a11y_empty_classroom_next_period" = "Next period";
+"a11y_empty_classroom_period" = "Period %1$@";
+"a11y_empty_classroom_same_room" = "Same room";
+"a11y_empty_classroom_walk_minutes" = "About %1$d min walk";
 "a11y_rankings_trend_chart" = "Andamento GPA per semestre";
 "a11y_rankings_trend_no_selection" = "Nessun semestre selezionato";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -357,6 +364,12 @@
 "desktop_widget_starts_in" = "Inizia tra %@";
 "device_id_copied" = "ID dispositivo copiato";
 "device_id_copy_action" = "Copia ID dispositivo";
+"empty_classroom_booked" = "Booked";
+"empty_classroom_free" = "Free";
+"empty_classroom_load_failed" = "Couldn't load";
+"empty_classroom_no_data" = "No data";
+"empty_classroom_no_free_rooms" = "No free classrooms";
+"empty_classroom_walk_minutes" = "%1$d min";
 "error_bulletin_decoding_failed_format" = "Impossibile analizzare la risposta del bollettino: %1$@";
 "error_bulletin_encoding_failed_format" = "Impossibile codificare la richiesta del bollettino: %1$@";
 "error_bulletin_http_status_format" = "Il server dei bollettini ha restituito HTTP %1$d: %2$@";

@@ -13,6 +13,13 @@
     <string name="a11y_course_card_open_details_hint">双击查看详情</string>
     <string name="a11y_course_color_swatch">颜色 %1$lld</string>
     <string name="a11y_course_detail_open_moodle">在 Moodle 中打开</string>
+    <string name="a11y_empty_classroom_floors_down">Floors down: %1$d</string>
+    <string name="a11y_empty_classroom_floors_up">Floors up: %1$d</string>
+    <string name="a11y_empty_classroom_free_span">Free %1$s to %2$s</string>
+    <string name="a11y_empty_classroom_next_period">Next period</string>
+    <string name="a11y_empty_classroom_period">Period %1$s</string>
+    <string name="a11y_empty_classroom_same_room">Same room</string>
+    <string name="a11y_empty_classroom_walk_minutes">About %1$d min walk</string>
     <string name="a11y_rankings_trend_chart">各学期 GPA 趋势</string>
     <string name="a11y_rankings_trend_no_selection">未选择学期</string>
     <string name="a11y_rankings_trend_point">%1$@ GPA %2$@</string>
@@ -361,6 +368,12 @@
     <string name="desktop_widget_starts_in">%@ 后开始</string>
     <string name="device_id_copied">已复制设备 ID</string>
     <string name="device_id_copy_action">复制设备 ID</string>
+    <string name="empty_classroom_booked">Booked</string>
+    <string name="empty_classroom_free">Free</string>
+    <string name="empty_classroom_load_failed">Couldn\'t load</string>
+    <string name="empty_classroom_no_data">No data</string>
+    <string name="empty_classroom_no_free_rooms">No free classrooms</string>
+    <string name="empty_classroom_walk_minutes">%1$d min</string>
     <string name="error_bulletin_decoding_failed_format">公告响应解析失败：%1$@</string>
     <string name="error_bulletin_encoding_failed_format">公告请求编码失败：%1$@</string>
     <string name="error_bulletin_http_status_format">公告服务器返回 HTTP %1$d：%2$@</string>
