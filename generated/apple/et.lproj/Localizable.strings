@@ -885,6 +885,7 @@
 "settings_official_website" = "Ametlik veebisait";
 "settings_open_source_licenses" = "Avatud lähtekoodiga litsentsid";
 "settings_outline_required_courses" = "Ümbritse tunniplaanis kohustuslikud kursused raamiga";
+"settings_pin_today_courses_on_class_table" = "Kinnita tänased kursused tunniplaani ülaossa";
 "settings_privacy_policy" = "Privaatsuspoliitika";
 "settings_push_server_nav_label" = "Serveri tõuge";
 "settings_remember_bulletin_filter" = "Pidage meeles bülletäänide filtreid";

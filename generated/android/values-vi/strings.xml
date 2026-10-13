@@ -901,6 +901,7 @@
     <string name="settings_official_website">Trang web chính thức</string>
     <string name="settings_open_source_licenses">Giấy phép mã nguồn mở</string>
     <string name="settings_outline_required_courses">Hiển thị viền cho các môn bắt buộc trên thời khóa biểu</string>
+    <string name="settings_pin_today_courses_on_class_table">Ghim môn học hôm nay lên đầu thời khoá biểu</string>
     <string name="settings_privacy_policy">Chính sách quyền riêng tư</string>
     <string name="settings_push_server_nav_label">Đẩy máy chủ</string>
     <string name="settings_remember_bulletin_filter">Ghi nhớ bộ lọc bản tin</string>

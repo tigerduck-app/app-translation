@@ -885,6 +885,7 @@
 "settings_official_website" = "Oficiali svetainė";
 "settings_open_source_licenses" = "Atvirojo kodo licencijos";
 "settings_outline_required_courses" = "Apvesti privalomus kursus tvarkaraštyje";
+"settings_pin_today_courses_on_class_table" = "Prisegti šiandienos kursus tvarkaraščio viršuje";
 "settings_privacy_policy" = "Privatumo politika";
 "settings_push_server_nav_label" = "Serverio siuntimas";
 "settings_remember_bulletin_filter" = "Įsiminti biuletenių filtrus";

@@ -901,6 +901,7 @@
     <string name="settings_official_website">Site web officiel</string>
     <string name="settings_open_source_licenses">Licences open source</string>
     <string name="settings_outline_required_courses">Encadrer les cours obligatoires dans l\'emploi du temps</string>
+    <string name="settings_pin_today_courses_on_class_table">Épingler les cours du jour en haut de l\'emploi du temps</string>
     <string name="settings_privacy_policy">Politique de confidentialité</string>
     <string name="settings_push_server_nav_label">Push serveur</string>
     <string name="settings_remember_bulletin_filter">Mémoriser les filtres de bulletin</string>

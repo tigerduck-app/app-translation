@@ -901,6 +901,7 @@
     <string name="settings_official_website">Oficiali svetainė</string>
     <string name="settings_open_source_licenses">Atvirojo kodo licencijos</string>
     <string name="settings_outline_required_courses">Apvesti privalomus kursus tvarkaraštyje</string>
+    <string name="settings_pin_today_courses_on_class_table">Prisegti šiandienos kursus tvarkaraščio viršuje</string>
     <string name="settings_privacy_policy">Privatumo politika</string>
     <string name="settings_push_server_nav_label">Serverio siuntimas</string>
     <string name="settings_remember_bulletin_filter">Įsiminti biuletenių filtrus</string>

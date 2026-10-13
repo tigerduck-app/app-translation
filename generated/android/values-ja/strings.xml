@@ -901,6 +901,7 @@
     <string name="settings_official_website">公式ウェブサイト</string>
     <string name="settings_open_source_licenses">オープンソースライセンス</string>
     <string name="settings_outline_required_courses">時間割の必修科目を枠線で囲む</string>
+    <string name="settings_pin_today_courses_on_class_table">時間割の上部に今日の授業を固定</string>
     <string name="settings_privacy_policy">プライバシーポリシー</string>
     <string name="settings_push_server_nav_label">サーバープッシュ</string>
     <string name="settings_remember_bulletin_filter">掲示板フィルターを記憶する</string>

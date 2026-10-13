@@ -901,6 +901,7 @@
     <string name="settings_official_website">공식 웹사이트</string>
     <string name="settings_open_source_licenses">오픈소스 라이선스</string>
     <string name="settings_outline_required_courses">시간표에서 필수 과목에 테두리 표시</string>
+    <string name="settings_pin_today_courses_on_class_table">시간표 상단에 오늘의 수업 고정</string>
     <string name="settings_privacy_policy">개인정보 처리방침</string>
     <string name="settings_push_server_nav_label">서버 푸시</string>
     <string name="settings_remember_bulletin_filter">게시판 필터 기억</string>

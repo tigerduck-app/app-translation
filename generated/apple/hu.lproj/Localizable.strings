@@ -885,6 +885,7 @@
 "settings_official_website" = "Hivatalos weboldal";
 "settings_open_source_licenses" = "Nyílt forráskódú licencek";
 "settings_outline_required_courses" = "Kötelező kurzusok bekeretezése az órarendben";
+"settings_pin_today_courses_on_class_table" = "Mai kurzusok rögzítése az órarend tetején";
 "settings_privacy_policy" = "Adatvédelmi irányelvek";
 "settings_push_server_nav_label" = "Szerver push";
 "settings_remember_bulletin_filter" = "Hirdetményszűrők megjegyzése";

@@ -901,6 +901,7 @@
     <string name="settings_official_website">ഔദ്യോഗിക വെബ്സൈറ്റ്</string>
     <string name="settings_open_source_licenses">ഓപ്പൺ-സോഴ്‌സ് ലൈസൻസുകൾ</string>
     <string name="settings_outline_required_courses">ടൈംടേബിളിൽ നിർബന്ധിത കോഴ്‌സുകൾക്ക് ബോർഡർ കാണിക്കുക</string>
+    <string name="settings_pin_today_courses_on_class_table">ടൈംടേബിളിന്റെ മുകളിൽ ഇന്നത്തെ കോഴ്‌സുകൾ പിൻ ചെയ്യുക</string>
     <string name="settings_privacy_policy">സ്വകാര്യതാ നയം</string>
     <string name="settings_push_server_nav_label">സെർവർ പുഷ്</string>
     <string name="settings_remember_bulletin_filter">ബുള്ളറ്റിൻ ഫിൽട്ടറുകൾ ഓർക്കുക</string>

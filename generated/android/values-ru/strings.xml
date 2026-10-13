@@ -901,6 +901,7 @@
     <string name="settings_official_website">Официальный сайт</string>
     <string name="settings_open_source_licenses">Лицензии открытого кода</string>
     <string name="settings_outline_required_courses">Обводить обязательные курсы в расписании</string>
+    <string name="settings_pin_today_courses_on_class_table">Закрепить сегодняшние занятия вверху расписания</string>
     <string name="settings_privacy_policy">Политика конфиденциальности</string>
     <string name="settings_push_server_nav_label">Серверный push</string>
     <string name="settings_remember_bulletin_filter">Запомнить фильтры бюллетеней</string>

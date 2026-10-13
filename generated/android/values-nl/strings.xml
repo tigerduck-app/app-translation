@@ -901,6 +901,7 @@
     <string name="settings_official_website">Officiële website</string>
     <string name="settings_open_source_licenses">Opensource-licenties</string>
     <string name="settings_outline_required_courses">Verplichte vakken omlijnen in het rooster</string>
+    <string name="settings_pin_today_courses_on_class_table">Vakken van vandaag bovenaan het rooster vastzetten</string>
     <string name="settings_privacy_policy">Privacybeleid</string>
     <string name="settings_push_server_nav_label">Serverpush</string>
     <string name="settings_remember_bulletin_filter">Bulletinfilters onthouden</string>

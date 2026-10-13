@@ -901,6 +901,7 @@
     <string name="settings_official_website">官网</string>
     <string name="settings_open_source_licenses">开源授权</string>
     <string name="settings_outline_required_courses">在课表为必修课加上外框</string>
+    <string name="settings_pin_today_courses_on_class_table">在课表置顶今日课程</string>
     <string name="settings_privacy_policy">隐私权政策</string>
     <string name="settings_push_server_nav_label">服务器推送</string>
     <string name="settings_remember_bulletin_filter">记住公告筛选条件</string>

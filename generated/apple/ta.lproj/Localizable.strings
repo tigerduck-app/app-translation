@@ -885,6 +885,7 @@
 "settings_official_website" = "அதிகாரப்பூர்வ இணையதளம்";
 "settings_open_source_licenses" = "திறந்த மூல உரிமங்கள்";
 "settings_outline_required_courses" = "நேரஅட்டவணையில் கட்டாயப் பாடங்களைச் சுற்றி எல்லைக்கோடு காட்டு";
+"settings_pin_today_courses_on_class_table" = "நேரஅட்டவணையின் மேலே இன்றைய வகுப்புகளைப் பின் செய்";
 "settings_privacy_policy" = "தனியுரிமை கொள்கை";
 "settings_push_server_nav_label" = "சேவையக புஷ்";
 "settings_remember_bulletin_filter" = "அறிவிப்பு வடிகட்டிகளை நினைவில் வை";

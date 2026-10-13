@@ -885,6 +885,7 @@
 "settings_official_website" = "الموقع الرسمي";
 "settings_open_source_licenses" = "تراخيص المصادر المفتوحة";
 "settings_outline_required_courses" = "إحاطة المقررات الإجبارية بإطار في الجدول الدراسي";
+"settings_pin_today_courses_on_class_table" = "تثبيت مقررات اليوم أعلى الجدول الدراسي";
 "settings_privacy_policy" = "سياسة الخصوصية";
 "settings_push_server_nav_label" = "دفع الخادم";
 "settings_remember_bulletin_filter" = "تذكر مرشحات النشرة";

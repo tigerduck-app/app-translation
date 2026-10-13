@@ -901,6 +901,7 @@
     <string name="settings_official_website">ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್</string>
     <string name="settings_open_source_licenses">ಮುಕ್ತ ಮೂಲ ಪರವಾನಗಿಗಳು</string>
     <string name="settings_outline_required_courses">ವೇಳಾಪಟ್ಟಿಯಲ್ಲಿ ಕಡ್ಡಾಯ ಕೋರ್ಸ್‌ಗಳಿಗೆ ಅಂಚು ತೋರಿಸಿ</string>
+    <string name="settings_pin_today_courses_on_class_table">ವೇಳಾಪಟ್ಟಿಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇಂದಿನ ಕೋರ್ಸ್‌ಗಳನ್ನು ಪಿನ್ ಮಾಡಿ</string>
     <string name="settings_privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
     <string name="settings_push_server_nav_label">ಸರ್ವರ್ ಪುಶ್</string>
     <string name="settings_remember_bulletin_filter">ಬುಲೆಟಿನ್ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ನೆನಪಿಡಿ</string>

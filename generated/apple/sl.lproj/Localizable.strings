@@ -885,6 +885,7 @@
 "settings_official_website" = "Uradna spletna stran";
 "settings_open_source_licenses" = "Odprtokodne licence";
 "settings_outline_required_courses" = "Obrobi obvezne predmete v urniku";
+"settings_pin_today_courses_on_class_table" = "Pripni današnje predmete na vrh urnika";
 "settings_privacy_policy" = "Pravilnik o zasebnosti";
 "settings_push_server_nav_label" = "Strežniški push";
 "settings_remember_bulletin_filter" = "Zapomni si filtre oglasne deske";

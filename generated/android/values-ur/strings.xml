@@ -901,6 +901,7 @@
     <string name="settings_official_website">آفیشل ویب سائٹ</string>
     <string name="settings_open_source_licenses">اوپن سورس لائسنسز</string>
     <string name="settings_outline_required_courses">ٹائم ٹیبل میں لازمی کورسز کے گرد بارڈر دکھائیں</string>
+    <string name="settings_pin_today_courses_on_class_table">ٹائم ٹیبل کے اوپر آج کے کورسز پن کریں</string>
     <string name="settings_privacy_policy">رازداری کی پالیسی</string>
     <string name="settings_push_server_nav_label">سرور پش</string>
     <string name="settings_remember_bulletin_filter">بلیٹن فلٹرز یاد رکھیں</string>
