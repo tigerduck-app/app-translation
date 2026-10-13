@@ -299,6 +299,9 @@
     <string name="course_members_auditors">பார்வையாளர் மாணவர்கள்</string>
     <string name="course_members_students">மாணவர்கள்</string>
     <string name="course_members_tas">கற்பித்தல் உதவியாளர்கள்</string>
+    <string name="course_moodle_grade_collapsed">சுருக்கப்பட்டது</string>
+    <string name="course_moodle_grade_expanded">விரிவாக்கப்பட்டது</string>
+    <string name="course_moodle_grade_out_of">அதிகபட்சம் %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck பங்களிப்பாளர்கள். NTUST உடன் தொடர்பற்றது.</string>
     <string name="desktop_about_subtitle">தேசிய தைவான் அறிவியல் மற்றும் தொழில்நுட்பப் பல்கலைக்கழகம் — சமூகம் உருவாக்கிய கூட்டு செயலி.</string>
     <string name="desktop_about_version_value">பதிப்பு %1$s</string>

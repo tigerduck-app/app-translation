@@ -295,6 +295,9 @@
 "course_members_auditors" = "Áheyrnarnemar";
 "course_members_students" = "Nemendur";
 "course_members_tas" = "Aðstoðarkennarar";
+"course_moodle_grade_collapsed" = "Fellt saman";
+"course_moodle_grade_expanded" = "Útvíkkað";
+"course_moodle_grade_out_of" = "af %1$@";
 "desktop_about_copyright" = "© TigerDuck-framlagsaðilar. Ótengt NTUST.";
 "desktop_about_subtitle" = "National Taiwan University of Science and Technology — fylgiforrit smíðað af samfélaginu.";
 "desktop_about_version_value" = "Útgáfa %1$@";

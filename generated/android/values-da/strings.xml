@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Tilhørere</string>
     <string name="course_members_students">Studerende</string>
     <string name="course_members_tas">Undervisningsassistenter</string>
+    <string name="course_moodle_grade_collapsed">Sammenfoldet</string>
+    <string name="course_moodle_grade_expanded">Udvidet</string>
+    <string name="course_moodle_grade_out_of">ud af %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck-bidragydere. Ikke tilknyttet NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — campusapp lavet af fællesskabet.</string>
     <string name="desktop_about_version_value">Version %1$s</string>

@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Brīvklausītāji</string>
     <string name="course_members_students">Studenti</string>
     <string name="course_members_tas">Asistenti</string>
+    <string name="course_moodle_grade_collapsed">Sakļauts</string>
+    <string name="course_moodle_grade_expanded">Izvērsts</string>
+    <string name="course_moodle_grade_out_of">no %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck veidotāji. Nav saistīts ar NTUST.</string>
     <string name="desktop_about_subtitle">Taivānas Nacionālā zinātnes un tehnoloģiju universitāte — kopienas veidota pavadoņa lietotne.</string>
     <string name="desktop_about_version_value">Versija %1$s</string>

@@ -299,6 +299,9 @@
     <string name="course_members_auditors">ઓડિટર</string>
     <string name="course_members_students">વિદ્યાર્થીઓ</string>
     <string name="course_members_tas">ટીચિંગ આસિસ્ટન્ટ</string>
+    <string name="course_moodle_grade_collapsed">સંકુચિત</string>
+    <string name="course_moodle_grade_expanded">વિસ્તૃત</string>
+    <string name="course_moodle_grade_out_of">મહત્તમ %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck યોગદાનકર્તાઓ. NTUST સાથે સંલગ્ન નથી.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — સમુદાય દ્વારા બનાવેલી કેમ્પસ એપ.</string>
     <string name="desktop_about_version_value">વર્ઝન %1$s</string>

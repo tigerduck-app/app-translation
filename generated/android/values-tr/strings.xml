@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Dinleyiciler</string>
     <string name="course_members_students">Öğrenciler</string>
     <string name="course_members_tas">Asistanlar</string>
+    <string name="course_moodle_grade_collapsed">Daraltılmış</string>
+    <string name="course_moodle_grade_expanded">Genişletilmiş</string>
+    <string name="course_moodle_grade_out_of">en fazla %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck katkıda bulunanları. NTUST ile bağlantılı değildir.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — topluluk tarafından yapılan kampüs uygulaması.</string>
     <string name="desktop_about_version_value">Sürüm %1$s</string>

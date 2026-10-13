@@ -299,6 +299,9 @@
     <string name="course_members_auditors">آڈیٹر طلبہ</string>
     <string name="course_members_students">طلبہ</string>
     <string name="course_members_tas">تدریسی معاونین</string>
+    <string name="course_moodle_grade_collapsed">سمیٹا گیا</string>
+    <string name="course_moodle_grade_expanded">پھیلایا گیا</string>
+    <string name="course_moodle_grade_out_of">زیادہ سے زیادہ %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck شراکت دار۔ NTUST سے کوئی تعلق نہیں۔</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — کمیونٹی کا بنایا کیمپس ایپ۔</string>
     <string name="desktop_about_version_value">ورژن %1$s</string>

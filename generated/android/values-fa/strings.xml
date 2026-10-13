@@ -299,6 +299,9 @@
     <string name="course_members_auditors">مستمعان آزاد</string>
     <string name="course_members_students">دانشجویان</string>
     <string name="course_members_tas">دستیاران آموزشی</string>
+    <string name="course_moodle_grade_collapsed">جمع‌شده</string>
+    <string name="course_moodle_grade_expanded">بازشده</string>
+    <string name="course_moodle_grade_out_of">از %1$s</string>
     <string name="desktop_about_copyright">© مشارکت‌کنندگان TigerDuck. وابسته به NTUST نیست.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — برنامهٔ پردیس ساختهٔ جامعه.</string>
     <string name="desktop_about_version_value">نسخهٔ %1$s</string>

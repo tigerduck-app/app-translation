@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Vendéghallgatók</string>
     <string name="course_members_students">Hallgatók</string>
     <string name="course_members_tas">Oktatási asszisztensek</string>
+    <string name="course_moodle_grade_collapsed">Összecsukva</string>
+    <string name="course_moodle_grade_expanded">Kibontva</string>
+    <string name="course_moodle_grade_out_of">maximum %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck közreműködők. Nem áll kapcsolatban az NTUST-tal.</string>
     <string name="desktop_about_subtitle">Nemzeti Tajvani Tudományos és Technológiai Egyetem — közösség által épített kísérőalkalmazás.</string>
     <string name="desktop_about_version_value">Verzió: %1$s</string>

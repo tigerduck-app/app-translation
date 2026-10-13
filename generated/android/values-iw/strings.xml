@@ -299,6 +299,9 @@
     <string name="course_members_auditors">שומעים חופשיים</string>
     <string name="course_members_students">סטודנטים</string>
     <string name="course_members_tas">מתרגלים</string>
+    <string name="course_moodle_grade_collapsed">מכווץ</string>
+    <string name="course_moodle_grade_expanded">מורחב</string>
+    <string name="course_moodle_grade_out_of">מתוך %1$s</string>
     <string name="desktop_about_copyright">© תורמי TigerDuck. ללא קשר ל-NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — אפליקציית קמפוס מבוססת קהילה.</string>
     <string name="desktop_about_version_value">גרסה %1$s</string>

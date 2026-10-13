@@ -299,6 +299,9 @@
     <string name="course_members_auditors">旁聽生</string>
     <string name="course_members_students">學生</string>
     <string name="course_members_tas">助教</string>
+    <string name="course_moodle_grade_collapsed">已收合</string>
+    <string name="course_moodle_grade_expanded">已展開</string>
+    <string name="course_moodle_grade_out_of">滿分 %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck 貢獻者。本應用未與台科大有任何關聯。</string>
     <string name="desktop_about_subtitle">國立臺灣科技大學──社群打造的校園應用</string>
     <string name="desktop_about_version_value">版本 %1$s</string>

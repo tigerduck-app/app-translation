@@ -299,6 +299,9 @@
     <string name="course_members_auditors">ഓഡിറ്റർമാർ</string>
     <string name="course_members_students">വിദ്യാർഥികൾ</string>
     <string name="course_members_tas">ടീച്ചിംഗ് അസിസ്റ്റന്റുമാർ</string>
+    <string name="course_moodle_grade_collapsed">ചുരുക്കി</string>
+    <string name="course_moodle_grade_expanded">വികസിപ്പിച്ചു</string>
+    <string name="course_moodle_grade_out_of">പരമാവധി %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck സംഭാവകർ. NTUST-മായി ബന്ധമില്ല.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — സമൂഹം നിർമ്മിച്ച ക്യാമ്പസ് ആപ്പ്.</string>
     <string name="desktop_about_version_value">പതിപ്പ് %1$s</string>

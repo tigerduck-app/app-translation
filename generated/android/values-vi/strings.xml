@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Sinh viên dự thính</string>
     <string name="course_members_students">Sinh viên</string>
     <string name="course_members_tas">Trợ giảng</string>
+    <string name="course_moodle_grade_collapsed">Đã thu gọn</string>
+    <string name="course_moodle_grade_expanded">Đã mở rộng</string>
+    <string name="course_moodle_grade_out_of">trên %1$s</string>
     <string name="desktop_about_copyright">© Người đóng góp TigerDuck. Không liên kết với NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — ứng dụng cộng đồng cho khuôn viên.</string>
     <string name="desktop_about_version_value">Phiên bản %1$s</string>

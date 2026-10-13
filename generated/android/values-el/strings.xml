@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Ακροατές</string>
     <string name="course_members_students">Φοιτητές</string>
     <string name="course_members_tas">Βοηθοί διδασκαλίας</string>
+    <string name="course_moodle_grade_collapsed">Συμπτυγμένο</string>
+    <string name="course_moodle_grade_expanded">Αναπτυγμένο</string>
+    <string name="course_moodle_grade_out_of">με άριστα %1$s</string>
     <string name="desktop_about_copyright">© Συντελεστές TigerDuck. Δεν συνδέεται με το NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — εφαρμογή campus από την κοινότητα.</string>
     <string name="desktop_about_version_value">Έκδοση %1$s</string>

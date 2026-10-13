@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Ерікті тыңдаушылар</string>
     <string name="course_members_students">Студенттер</string>
     <string name="course_members_tas">Ассистенттер</string>
+    <string name="course_moodle_grade_collapsed">Жиылған</string>
+    <string name="course_moodle_grade_expanded">Жайылған</string>
+    <string name="course_moodle_grade_out_of">ең көбі %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck үлес қосушылары. NTUST-пен байланысы жоқ.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — қауымдастық құрған серіктес қолданба.</string>
     <string name="desktop_about_version_value">Нұсқа %1$s</string>

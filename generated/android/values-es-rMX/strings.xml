@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Oyentes</string>
     <string name="course_members_students">Estudiantes</string>
     <string name="course_members_tas">Asistentes de docencia</string>
+    <string name="course_moodle_grade_collapsed">Contraído</string>
+    <string name="course_moodle_grade_expanded">Expandido</string>
+    <string name="course_moodle_grade_out_of">de %1$s</string>
     <string name="desktop_about_copyright">© Colaboradores de TigerDuck. No afiliada a NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — aplicación de campus creada por la comunidad.</string>
     <string name="desktop_about_version_value">Versión %1$s</string>

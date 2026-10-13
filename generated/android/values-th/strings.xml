@@ -299,6 +299,9 @@
     <string name="course_members_auditors">ผู้ร่วมฟัง</string>
     <string name="course_members_students">นักศึกษา</string>
     <string name="course_members_tas">ผู้ช่วยสอน</string>
+    <string name="course_moodle_grade_collapsed">ยุบแล้ว</string>
+    <string name="course_moodle_grade_expanded">ขยายแล้ว</string>
+    <string name="course_moodle_grade_out_of">คะแนนเต็ม %1$s</string>
     <string name="desktop_about_copyright">© ผู้ร่วมพัฒนา TigerDuck ไม่ได้สังกัด NTUST</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — แอปสำหรับวิทยาเขตที่สร้างโดยชุมชน</string>
     <string name="desktop_about_version_value">เวอร์ชัน %1$s</string>

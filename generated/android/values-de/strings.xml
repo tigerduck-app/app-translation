@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Gasthörer</string>
     <string name="course_members_students">Studierende</string>
     <string name="course_members_tas">Tutoren</string>
+    <string name="course_moodle_grade_collapsed">Eingeklappt</string>
+    <string name="course_moodle_grade_expanded">Ausgeklappt</string>
+    <string name="course_moodle_grade_out_of">von %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck-Mitwirkende. Nicht mit NTUST verbunden.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — Community-Campus-App.</string>
     <string name="desktop_about_version_value">Version %1$s</string>

@@ -295,6 +295,9 @@
 "course_members_auditors" = "Poslucháči";
 "course_members_students" = "Študenti";
 "course_members_tas" = "Asistenti";
+"course_moodle_grade_collapsed" = "Zbalené";
+"course_moodle_grade_expanded" = "Rozbalené";
+"course_moodle_grade_out_of" = "z %1$@";
 "desktop_about_copyright" = "© Prispievatelia TigerDuck. Nesúvisí s NTUST.";
 "desktop_about_subtitle" = "National Taiwan University of Science and Technology — sprievodná aplikácia vytvorená komunitou.";
 "desktop_about_version_value" = "Verzia %1$@";
