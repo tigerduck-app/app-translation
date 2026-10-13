@@ -295,6 +295,9 @@
 "course_members_auditors" = "Mahasiswa pendengar";
 "course_members_students" = "Mahasiswa";
 "course_members_tas" = "Asisten dosen";
+"course_moodle_grade_collapsed" = "Diciutkan";
+"course_moodle_grade_expanded" = "Diperluas";
+"course_moodle_grade_out_of" = "dari %1$@";
 "desktop_about_copyright" = "© Kontributor TigerDuck. Tidak berafiliasi dengan NTUST.";
 "desktop_about_subtitle" = "National Taiwan University of Science and Technology — aplikasi kampus buatan komunitas.";
 "desktop_about_version_value" = "Versi %1$@";

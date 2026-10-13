@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Laisvieji klausytojai</string>
     <string name="course_members_students">Studentai</string>
     <string name="course_members_tas">Asistentai</string>
+    <string name="course_moodle_grade_collapsed">Suskleista</string>
+    <string name="course_moodle_grade_expanded">Išskleista</string>
+    <string name="course_moodle_grade_out_of">iš %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck bendradarbiai. Nesusijęs su NTUST.</string>
     <string name="desktop_about_subtitle">Nacionalinis Taivano mokslo ir technologijų universitetas — bendruomenės sukurta palydovinė programėlė.</string>
     <string name="desktop_about_version_value">Versija %1$s</string>

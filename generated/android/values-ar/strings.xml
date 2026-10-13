@@ -299,6 +299,9 @@
     <string name="course_members_auditors">المستمعون</string>
     <string name="course_members_students">الطلاب</string>
     <string name="course_members_tas">مساعدو التدريس</string>
+    <string name="course_moodle_grade_collapsed">مطوي</string>
+    <string name="course_moodle_grade_expanded">موسّع</string>
+    <string name="course_moodle_grade_out_of">من أصل %1$s</string>
     <string name="desktop_about_copyright">© مساهمو TigerDuck. غير تابع لـ NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — تطبيق حرم جامعي من إنشاء المجتمع.</string>
     <string name="desktop_about_version_value">الإصدار %1$s</string>

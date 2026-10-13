@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Вільні слухачі</string>
     <string name="course_members_students">Студенти</string>
     <string name="course_members_tas">Асистенти</string>
+    <string name="course_moodle_grade_collapsed">Згорнуто</string>
+    <string name="course_moodle_grade_expanded">Розгорнуто</string>
+    <string name="course_moodle_grade_out_of">із %1$s</string>
     <string name="desktop_about_copyright">© Учасники TigerDuck. Не пов\'язано з NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — кампусний застосунок від спільноти.</string>
     <string name="desktop_about_version_value">Версія %1$s</string>

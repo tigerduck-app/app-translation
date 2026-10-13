@@ -295,6 +295,9 @@
 "course_members_auditors" = "Auditeurs libres";
 "course_members_students" = "Étudiants";
 "course_members_tas" = "Assistants d'enseignement";
+"course_moodle_grade_collapsed" = "Réduit";
+"course_moodle_grade_expanded" = "Développé";
+"course_moodle_grade_out_of" = "sur %1$@";
 "desktop_about_copyright" = "© Contributeurs TigerDuck. Non affilié à NTUST.";
 "desktop_about_subtitle" = "National Taiwan University of Science and Technology — application communautaire pour le campus.";
 "desktop_about_version_value" = "Version %1$@";

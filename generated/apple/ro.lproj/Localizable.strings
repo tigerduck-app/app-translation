@@ -295,6 +295,9 @@
 "course_members_auditors" = "Auditori";
 "course_members_students" = "Studenți";
 "course_members_tas" = "Asistenți";
+"course_moodle_grade_collapsed" = "Restrâns";
+"course_moodle_grade_expanded" = "Extins";
+"course_moodle_grade_out_of" = "din %1$@";
 "desktop_about_copyright" = "© Contribuitorii TigerDuck. Neafiliat cu NTUST.";
 "desktop_about_subtitle" = "Universitatea Națională de Știință și Tehnologie din Taiwan — aplicație complementară creată de comunitate.";
 "desktop_about_version_value" = "Versiune: %1$@";

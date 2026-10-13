@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Áheyrnarnemar</string>
     <string name="course_members_students">Nemendur</string>
     <string name="course_members_tas">Aðstoðarkennarar</string>
+    <string name="course_moodle_grade_collapsed">Fellt saman</string>
+    <string name="course_moodle_grade_expanded">Útvíkkað</string>
+    <string name="course_moodle_grade_out_of">af %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck-framlagsaðilar. Ótengt NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — fylgiforrit smíðað af samfélaginu.</string>
     <string name="desktop_about_version_value">Útgáfa %1$s</string>

@@ -295,6 +295,9 @@
 "course_members_auditors" = "旁聽生";
 "course_members_students" = "學生";
 "course_members_tas" = "助教";
+"course_moodle_grade_collapsed" = "已收合";
+"course_moodle_grade_expanded" = "已展開";
+"course_moodle_grade_out_of" = "滿分 %1$@";
 "desktop_about_copyright" = "© TigerDuck 貢獻者。本應用同台科大冇任何關係。";
 "desktop_about_subtitle" = "國立臺灣科技大學──由社群整嘅校園應用";
 "desktop_about_version_value" = "版本 %1$@";

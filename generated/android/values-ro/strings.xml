@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Auditori</string>
     <string name="course_members_students">Studenți</string>
     <string name="course_members_tas">Asistenți</string>
+    <string name="course_moodle_grade_collapsed">Restrâns</string>
+    <string name="course_moodle_grade_expanded">Extins</string>
+    <string name="course_moodle_grade_out_of">din %1$s</string>
     <string name="desktop_about_copyright">© Contribuitorii TigerDuck. Neafiliat cu NTUST.</string>
     <string name="desktop_about_subtitle">Universitatea Națională de Știință și Tehnologie din Taiwan — aplicație complementară creată de comunitate.</string>
     <string name="desktop_about_version_value">Versiune: %1$s</string>

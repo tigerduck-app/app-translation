@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Mga auditor</string>
     <string name="course_members_students">Mga estudyante</string>
     <string name="course_members_tas">Mga teaching assistant</string>
+    <string name="course_moodle_grade_collapsed">Nakatiklop</string>
+    <string name="course_moodle_grade_expanded">Pinalawak</string>
+    <string name="course_moodle_grade_out_of">mula sa %1$s</string>
     <string name="desktop_about_copyright">© Mga kontribyutor ng TigerDuck. Hindi kaugnay ng NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — app ng campus na gawa ng komunidad.</string>
     <string name="desktop_about_version_value">Bersyon %1$s</string>

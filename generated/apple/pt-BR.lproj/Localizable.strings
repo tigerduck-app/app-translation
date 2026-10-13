@@ -295,6 +295,9 @@
 "course_members_auditors" = "Ouvintes";
 "course_members_students" = "Alunos";
 "course_members_tas" = "Monitores";
+"course_moodle_grade_collapsed" = "Recolhido";
+"course_moodle_grade_expanded" = "Expandido";
+"course_moodle_grade_out_of" = "de %1$@";
 "desktop_about_copyright" = "© Colaboradores do TigerDuck. Não afiliado à NTUST.";
 "desktop_about_subtitle" = "National Taiwan University of Science and Technology — app de campus feito pela comunidade.";
 "desktop_about_version_value" = "Versão %1$@";

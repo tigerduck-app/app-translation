@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Слушаоци</string>
     <string name="course_members_students">Студенти</string>
     <string name="course_members_tas">Асистенти</string>
+    <string name="course_moodle_grade_collapsed">Скупљено</string>
+    <string name="course_moodle_grade_expanded">Проширено</string>
+    <string name="course_moodle_grade_out_of">од %1$s</string>
     <string name="desktop_about_copyright">© Сарадници TigerDuck-а. Није повезано са NTUST-ом.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — пратећа апликација коју је направила заједница.</string>
     <string name="desktop_about_version_value">Верзија %1$s</string>

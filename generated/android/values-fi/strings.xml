@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Kuuntelijat</string>
     <string name="course_members_students">Opiskelijat</string>
     <string name="course_members_tas">Opetusassistentit</string>
+    <string name="course_moodle_grade_collapsed">Supistettu</string>
+    <string name="course_moodle_grade_expanded">Laajennettu</string>
+    <string name="course_moodle_grade_out_of">enintään %1$s</string>
     <string name="desktop_about_copyright">© TigerDuckin tekijät. Ei liity NTUSTiin.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — yhteisön rakentama kampussovellus.</string>
     <string name="desktop_about_version_value">Versio %1$s</string>

@@ -299,6 +299,9 @@
     <string name="course_members_auditors">Pelajar audit</string>
     <string name="course_members_students">Pelajar</string>
     <string name="course_members_tas">Pembantu pengajar</string>
+    <string name="course_moodle_grade_collapsed">Dikuncupkan</string>
+    <string name="course_moodle_grade_expanded">Dikembangkan</string>
+    <string name="course_moodle_grade_out_of">daripada %1$s</string>
     <string name="desktop_about_copyright">© Penyumbang TigerDuck. Tidak bergabung dengan NTUST.</string>
     <string name="desktop_about_subtitle">National Taiwan University of Science and Technology — aplikasi kampus dibina oleh komuniti.</string>
     <string name="desktop_about_version_value">Versi %1$s</string>

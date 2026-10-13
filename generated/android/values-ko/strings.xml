@@ -299,6 +299,9 @@
     <string name="course_members_auditors">청강생</string>
     <string name="course_members_students">학생</string>
     <string name="course_members_tas">조교</string>
+    <string name="course_moodle_grade_collapsed">접힘</string>
+    <string name="course_moodle_grade_expanded">펼쳐짐</string>
+    <string name="course_moodle_grade_out_of">만점 %1$s</string>
     <string name="desktop_about_copyright">© TigerDuck 기여자. NTUST와는 무관합니다.</string>
     <string name="desktop_about_subtitle">국립대만과학기술대학교 — 커뮤니티가 만드는 캠퍼스 앱.</string>
     <string name="desktop_about_version_value">버전 %1$s</string>
