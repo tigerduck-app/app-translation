@@ -13,6 +13,14 @@
     <string name="a11y_course_card_open_details_hint">Podwójne stuknięcie, aby zobaczyć szczegóły</string>
     <string name="a11y_course_color_swatch">Kolor %1$lld</string>
     <string name="a11y_course_detail_open_moodle">Otwórz w Moodle</string>
+    <string name="a11y_empty_classroom_floors_down">Floors down: %1$d</string>
+    <string name="a11y_empty_classroom_floors_up">Floors up: %1$d</string>
+    <string name="a11y_empty_classroom_free_count">Free classrooms: %1$d</string>
+    <string name="a11y_empty_classroom_free_span">Free %1$s to %2$s</string>
+    <string name="a11y_empty_classroom_next_period">Next period</string>
+    <string name="a11y_empty_classroom_period">Period %1$s</string>
+    <string name="a11y_empty_classroom_same_room">Same room</string>
+    <string name="a11y_empty_classroom_walk_minutes">About %1$d min walk</string>
     <string name="a11y_rankings_trend_chart">Trend GPA według semestru</string>
     <string name="a11y_rankings_trend_no_selection">Nie wybrano semestru</string>
     <string name="a11y_rankings_trend_point">%1$@ GPA %2$@</string>
@@ -361,6 +369,12 @@
     <string name="desktop_widget_starts_in">Zaczyna się za %@</string>
     <string name="device_id_copied">ID urządzenia skopiowane</string>
     <string name="device_id_copy_action">Kopiuj ID urządzenia</string>
+    <string name="empty_classroom_booked">Booked</string>
+    <string name="empty_classroom_free">Free</string>
+    <string name="empty_classroom_load_failed">Couldn\'t load</string>
+    <string name="empty_classroom_no_data">No data</string>
+    <string name="empty_classroom_no_free_rooms">No free classrooms</string>
+    <string name="empty_classroom_walk_minutes">%1$d min</string>
     <string name="error_bulletin_decoding_failed_format">Nie udało się przetworzyć odpowiedzi tablicy ogłoszeń: %1$@</string>
     <string name="error_bulletin_encoding_failed_format">Nie udało się zakodować żądania tablicy ogłoszeń: %1$@</string>
     <string name="error_bulletin_http_status_format">Serwer tablicy ogłoszeń zwrócił HTTP %1$d: %2$@</string>
