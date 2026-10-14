@@ -444,6 +444,7 @@
 "first_trigger_flip_to_library_message" = "Het lijkt erop dat je je telefoon hebt omgedraaid. Dit gebaar kan snel de bibliotheek-QR openen. Wil je deze functie behouden?";
 "first_trigger_flip_to_library_title" = "Omdraaien om bibliotheek-QR te openen";
 "first_trigger_flip_to_library_turn_off" = "Uitschakelen";
+"first_trigger_flip_to_library_turn_on" = "Inschakelen";
 "first_trigger_phone_flip_accessibility" = "Telefoon wordt omgedraaid";
 "greeting_afternoon" = "Goedemiddag";
 "greeting_evening" = "Goedenavond";

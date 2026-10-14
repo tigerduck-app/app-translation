@@ -448,6 +448,7 @@
     <string name="first_trigger_flip_to_library_message">Похоже, вы перевернули телефон. Этот жест может быстро открыть QR библиотеки. Хотите оставить эту функцию?</string>
     <string name="first_trigger_flip_to_library_title">Перевернуть для открытия QR библиотеки</string>
     <string name="first_trigger_flip_to_library_turn_off">Выключить</string>
+    <string name="first_trigger_flip_to_library_turn_on">Включить</string>
     <string name="first_trigger_phone_flip_accessibility">Телефон переворачивается</string>
     <string name="greeting_afternoon">Добрый день</string>
     <string name="greeting_evening">Добрый вечер</string>

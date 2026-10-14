@@ -442,6 +442,7 @@
   "first_trigger_flip_to_library_message": "Észrevettük, hogy megfordítottad a telefonod. Ez a mozdulat gyorsan megnyithatja a könyvtár QR-kódját. Szeretnéd megtartani ezt a funkciót?",
   "first_trigger_flip_to_library_title": "Fordítsd meg a könyvtár QR megnyitásához",
   "first_trigger_flip_to_library_turn_off": "Kikapcsolás",
+  "first_trigger_flip_to_library_turn_on": "Bekapcsolás",
   "first_trigger_phone_flip_accessibility": "Telefon megfordul",
   "greeting_afternoon": "Jó délután",
   "greeting_evening": "Jó estét",

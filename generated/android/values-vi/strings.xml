@@ -448,6 +448,7 @@
     <string name="first_trigger_flip_to_library_message">Chúng tôi nhận thấy bạn đã lật điện thoại. Cử chỉ này có thể mở nhanh QR thư viện. Bạn có muốn giữ tính năng này không?</string>
     <string name="first_trigger_flip_to_library_title">Lật để mở QR thư viện</string>
     <string name="first_trigger_flip_to_library_turn_off">Tắt</string>
+    <string name="first_trigger_flip_to_library_turn_on">Bật</string>
     <string name="first_trigger_phone_flip_accessibility">Đang lật điện thoại</string>
     <string name="greeting_afternoon">Chào buổi chiều</string>
     <string name="greeting_evening">Chào buổi tối</string>

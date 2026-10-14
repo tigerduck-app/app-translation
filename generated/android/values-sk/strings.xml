@@ -448,6 +448,7 @@
     <string name="first_trigger_flip_to_library_message">Vyzerá to tak, že si práve otočil telefón. Týmto gestom môžeš rýchlo otvoriť QR knižnice. Chceš túto funkciu ponechať?</string>
     <string name="first_trigger_flip_to_library_title">Otočením otvoriť QR knižnice</string>
     <string name="first_trigger_flip_to_library_turn_off">Vypnúť</string>
+    <string name="first_trigger_flip_to_library_turn_on">Zapnúť</string>
     <string name="first_trigger_phone_flip_accessibility">Telefón sa otáča</string>
     <string name="greeting_afternoon">Dobrý deň</string>
     <string name="greeting_evening">Dobrý večer</string>
