@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">حذف القاعدة</string>
     <string name="bulletin_rule_dept_and_tag_title">القسم + الفئة (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">قسم محدد</string>
-    <string name="bulletin_rule_dept_prefix">قسم: </string>
+    <string name="bulletin_rule_dept_prefix">قسم:\u0020</string>
     <string name="bulletin_rule_disabled_badge">عاجز</string>
     <string name="bulletin_rule_edit_title">تحرير القاعدة</string>
     <string name="bulletin_rule_editor_dept_section">قسم</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">اسم</string>
     <string name="bulletin_rule_editor_selected_count">تم تحديد %1$d</string>
     <string name="bulletin_rule_editor_tag_section">فئة</string>
-    <string name="bulletin_rule_filter_separator">، </string>
-    <string name="bulletin_rule_join_and"> و </string>
-    <string name="bulletin_rule_join_or"> أو </string>
+    <string name="bulletin_rule_filter_separator">،\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020و\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020أو\u0020</string>
     <string name="bulletin_rule_tag_only_title">فئة محددة</string>
-    <string name="bulletin_rule_tags_prefix">فئة: </string>
+    <string name="bulletin_rule_tags_prefix">فئة:\u0020</string>
     <string name="bulletin_rules_footer">يمكن تصفية كل قاعدة حسب القسم والفئة ووضع المجموعة. اتركه فارغًا لمطابقة كل شيء في هذا البعد. الحد الأقصى 32 قواعد.</string>
     <string name="bulletin_rules_header">قواعد الإخطار</string>
     <string name="bulletin_rules_load_failed">فشل التحميل</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">عدم تحديد أي شيء يعني \"مطابقة الكل\" لهذا البُعد.</string>
     <string name="bulletin_unread_dot_label">غير مقروءة</string>
     <string name="bulletin_withdrawn_badge">انسحبت</string>
-    <string name="calendar_date_today_suffix"> (اليوم)</string>
+    <string name="calendar_date_today_suffix">\u0020(اليوم)</string>
     <string name="calendar_holiday_notify_description">تذكيرات المحاضرات معطّلة خلال هذه العطلة. فعّل هذا الخيار للاستمرار في تلقّيها.</string>
     <string name="calendar_holiday_notify_title">هل لا تزال لديك محاضرة؟</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

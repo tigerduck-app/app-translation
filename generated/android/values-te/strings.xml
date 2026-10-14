@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">నియమం తొలగించు</string>
     <string name="bulletin_rule_dept_and_tag_title">విభాగం + వర్గం (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">నిర్దిష్ట విభాగం</string>
-    <string name="bulletin_rule_dept_prefix">విభాగం: </string>
+    <string name="bulletin_rule_dept_prefix">విభాగం:\u0020</string>
     <string name="bulletin_rule_disabled_badge">నిష్క్రియంగా ఉంది</string>
     <string name="bulletin_rule_edit_title">నియమం సవరించు</string>
     <string name="bulletin_rule_editor_dept_section">విభాగం</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">పేరు</string>
     <string name="bulletin_rule_editor_selected_count">%1$d ఎంచుకోబడ్డాయి</string>
     <string name="bulletin_rule_editor_tag_section">వర్గం</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> మరియు </string>
-    <string name="bulletin_rule_join_or"> లేదా </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020మరియు\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020లేదా\u0020</string>
     <string name="bulletin_rule_tag_only_title">నిర్దిష్ట వర్గం</string>
-    <string name="bulletin_rule_tags_prefix">వర్గం: </string>
+    <string name="bulletin_rule_tags_prefix">వర్గం:\u0020</string>
     <string name="bulletin_rules_footer">ప్రతి నియమం విభాగం, వర్గం మరియు కలయిక మోడ్ ద్వారా ఫిల్టర్ చేయగలదు. ఆ కోణంలో అన్నింటినీ సరిపోల్చడానికి ఖాళీగా వదలండి. గరిష్టంగా 32 నియమాలు.</string>
     <string name="bulletin_rules_header">నోటిఫికేషన్ నియమాలు</string>
     <string name="bulletin_rules_load_failed">లోడ్ విఫలమైంది</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">ఏమీ ఎంచుకోకపోవడం అంటే ఈ కోణానికి \"అన్నీ సరిపోల్చు\" అని అర్థం.</string>
     <string name="bulletin_unread_dot_label">చదవలేదు</string>
     <string name="bulletin_withdrawn_badge">ఉపసంహరించబడింది</string>
-    <string name="calendar_date_today_suffix"> (నేడు)</string>
+    <string name="calendar_date_today_suffix">\u0020(నేడు)</string>
     <string name="calendar_holiday_notify_description">ఈ సెలవు రోజున క్లాస్ రిమైండర్లు ఆఫ్‌లో ఉన్నాయి. వాటిని పొందుతూ ఉండటానికి దీన్ని ఆన్ చేయండి.</string>
     <string name="calendar_holiday_notify_title">ఇంకా క్లాస్ ఉందా?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

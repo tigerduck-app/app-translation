@@ -103,7 +103,7 @@
     <string name="bulletin_mark_all_read_action">Tout marquer comme lu</string>
     <string name="bulletin_mark_as_read_action">Marquer comme lu</string>
     <string name="bulletin_mark_as_unread_action">Marquer comme non-lues</string>
-    <string name="bulletin_no_bulletins_message">REVENEZ NOUS VOIR PLUS TARD ! </string>
+    <string name="bulletin_no_bulletins_message">REVENEZ NOUS VOIR PLUS TARD !\u0020</string>
     <string name="bulletin_no_bulletins_title">Aucun bulletin</string>
     <string name="bulletin_no_match_message">Aucun bulletin ne correspond aux filtres actuels</string>
     <string name="bulletin_no_unread_title">Aucun bulletin non lu</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">Nom</string>
     <string name="bulletin_rule_editor_selected_count">%1$d sélectionnés</string>
     <string name="bulletin_rule_editor_tag_section">Catégorie</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> et </string>
-    <string name="bulletin_rule_join_or"> ou </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020et\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020ou\u0020</string>
     <string name="bulletin_rule_tag_only_title">Catégorie spécifique</string>
-    <string name="bulletin_rule_tags_prefix">Catégorie&amp;#160;: </string>
+    <string name="bulletin_rule_tags_prefix">Catégorie&amp;#160;:\u0020</string>
     <string name="bulletin_rules_footer">Chaque règle peut filtrer par département, catégorie et mode de combinaison. Laissez vide pour faire correspondre tout dans cette dimension. Maximum 32 règles.</string>
     <string name="bulletin_rules_header">Règles de notification</string>
     <string name="bulletin_rules_load_failed">Échec du chargement...</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">Ne rien sélectionner signifie « tout faire correspondre » pour cette dimension.</string>
     <string name="bulletin_unread_dot_label">Non lu</string>
     <string name="bulletin_withdrawn_badge">En retrait</string>
-    <string name="calendar_date_today_suffix"> (Aujourd\'hui)</string>
+    <string name="calendar_date_today_suffix">\u0020(Aujourd\'hui)</string>
     <string name="calendar_holiday_notify_description">Les rappels de cours sont désactivés pendant ce jour férié. Activez-les pour continuer à les recevoir.</string>
     <string name="calendar_holiday_notify_title">Vous avez encore cours ?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

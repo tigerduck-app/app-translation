@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">नियम हटवा</string>
     <string name="bulletin_rule_dept_and_tag_title">विभाग + श्रेणी (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">विशिष्ट विभाग</string>
-    <string name="bulletin_rule_dept_prefix">विभाग: </string>
+    <string name="bulletin_rule_dept_prefix">विभाग:\u0020</string>
     <string name="bulletin_rule_disabled_badge">अक्षम</string>
     <string name="bulletin_rule_edit_title">नियम संपादित करा</string>
     <string name="bulletin_rule_editor_dept_section">विभाग</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">नाव</string>
     <string name="bulletin_rule_editor_selected_count">%1$d निवडले</string>
     <string name="bulletin_rule_editor_tag_section">श्रेणी</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> आणि </string>
-    <string name="bulletin_rule_join_or"> किंवा </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020आणि\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020किंवा\u0020</string>
     <string name="bulletin_rule_tag_only_title">विशिष्ट श्रेणी</string>
-    <string name="bulletin_rule_tags_prefix">श्रेणी: </string>
+    <string name="bulletin_rule_tags_prefix">श्रेणी:\u0020</string>
     <string name="bulletin_rules_footer">प्रत्येक नियम विभाग, श्रेणी आणि संयोजन पद्धतीनुसार फिल्टर करू शकतो. सर्व काही जुळवण्यासाठी रिकामे ठेवा. जास्तीत जास्त ३२ नियम.</string>
     <string name="bulletin_rules_header">सूचना नियम</string>
     <string name="bulletin_rules_load_failed">लोड अयशस्वी</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">काहीही न निवडणे म्हणजे या परिमाणासाठी \"सर्व जुळवा\".</string>
     <string name="bulletin_unread_dot_label">न वाचलेले</string>
     <string name="bulletin_withdrawn_badge">मागे घेतलेले</string>
-    <string name="calendar_date_today_suffix"> (आज)</string>
+    <string name="calendar_date_today_suffix">\u0020(आज)</string>
     <string name="calendar_holiday_notify_description">या सुट्टीच्या काळात वर्ग स्मरणपत्रे बंद आहेत. ती मिळत राहण्यासाठी हे चालू करा.</string>
     <string name="calendar_holiday_notify_title">अजूनही वर्ग आहे का?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

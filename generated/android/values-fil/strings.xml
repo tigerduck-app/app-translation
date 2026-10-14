@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">Tanggalin ang panuntunan</string>
     <string name="bulletin_rule_dept_and_tag_title">Dept + Kategorya (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">Tiyak na departamento</string>
-    <string name="bulletin_rule_dept_prefix">Dept: </string>
+    <string name="bulletin_rule_dept_prefix">Dept:\u0020</string>
     <string name="bulletin_rule_disabled_badge">Hindi pinagana</string>
     <string name="bulletin_rule_edit_title">I-edit ang panuntunan</string>
     <string name="bulletin_rule_editor_dept_section">Kagawaran</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">Pangalan</string>
     <string name="bulletin_rule_editor_selected_count">%1$d ang napili</string>
     <string name="bulletin_rule_editor_tag_section">Kategorya</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> at </string>
-    <string name="bulletin_rule_join_or"> o </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020at\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020o\u0020</string>
     <string name="bulletin_rule_tag_only_title">Tukoy na kategorya</string>
-    <string name="bulletin_rule_tags_prefix">Kategorya: </string>
+    <string name="bulletin_rule_tags_prefix">Kategorya:\u0020</string>
     <string name="bulletin_rules_footer">Maaaring mag-filter ang bawat panuntunan ayon sa departamento, kategorya, at mode ng kumbinasyon. Iwanang blangko upang tumugma sa lahat ng nasa dimensyong iyon. Pinakamataas na 32 panuntunan.</string>
     <string name="bulletin_rules_header">Mga panuntunan sa pag-abiso</string>
     <string name="bulletin_rules_load_failed">Nabigo ang pag-load</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">Ang pagpili ng wala ay nangangahulugang \"itugma sa lahat\" para sa dimensyong ito.</string>
     <string name="bulletin_unread_dot_label">Hindi pa nababasa</string>
     <string name="bulletin_withdrawn_badge">Binawi</string>
-    <string name="calendar_date_today_suffix"> (Ngayon)</string>
+    <string name="calendar_date_today_suffix">\u0020(Ngayon)</string>
     <string name="calendar_holiday_notify_description">Naka-off ang mga paalala ng klase sa bakasyon na ito. I-on ito para patuloy mong matanggap ang mga ito.</string>
     <string name="calendar_holiday_notify_title">May klase pa rin ba?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

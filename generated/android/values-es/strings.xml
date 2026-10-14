@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">Eliminar regla</string>
     <string name="bulletin_rule_dept_and_tag_title">Departamento + Categoría (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">Departamento específico</string>
-    <string name="bulletin_rule_dept_prefix">Departamento: </string>
+    <string name="bulletin_rule_dept_prefix">Departamento:\u0020</string>
     <string name="bulletin_rule_disabled_badge">Desactivado</string>
     <string name="bulletin_rule_edit_title">Editar regla</string>
     <string name="bulletin_rule_editor_dept_section">Departamento</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">Nombre</string>
     <string name="bulletin_rule_editor_selected_count">%1$d seleccionado</string>
     <string name="bulletin_rule_editor_tag_section">Categoría</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> y </string>
-    <string name="bulletin_rule_join_or"> o </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020y\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020o\u0020</string>
     <string name="bulletin_rule_tag_only_title">Categoría específica</string>
-    <string name="bulletin_rule_tags_prefix">Categoría: </string>
+    <string name="bulletin_rule_tags_prefix">Categoría:\u0020</string>
     <string name="bulletin_rules_footer">Cada regla puede filtrar por departamento, categoría y modo combinado. Déjelo en blanco para que coincida con todo lo que hay en esa dimensión. Máximo 32 reglas.</string>
     <string name="bulletin_rules_header">Reglas de notificación</string>
     <string name="bulletin_rules_load_failed">Error de carga</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">No seleccionar nada significa \"coincidir con todo\" para esta dimensión.</string>
     <string name="bulletin_unread_dot_label">No leído</string>
     <string name="bulletin_withdrawn_badge">Retirado</string>
-    <string name="calendar_date_today_suffix"> (Hoy)</string>
+    <string name="calendar_date_today_suffix">\u0020(Hoy)</string>
     <string name="calendar_holiday_notify_description">Los recordatorios de clase están desactivados durante este día festivo. Actívalos para seguir recibiéndolos.</string>
     <string name="calendar_holiday_notify_title">¿Todavía tienes clase?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

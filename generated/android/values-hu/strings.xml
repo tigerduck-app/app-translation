@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">Szabály törlése</string>
     <string name="bulletin_rule_dept_and_tag_title">Tanszék + Kategória (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">Adott tanszék</string>
-    <string name="bulletin_rule_dept_prefix">Tanszék: </string>
+    <string name="bulletin_rule_dept_prefix">Tanszék:\u0020</string>
     <string name="bulletin_rule_disabled_badge">Letiltva</string>
     <string name="bulletin_rule_edit_title">Szabály szerkesztése</string>
     <string name="bulletin_rule_editor_dept_section">Tanszék</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">Név</string>
     <string name="bulletin_rule_editor_selected_count">%1$d kiválasztva</string>
     <string name="bulletin_rule_editor_tag_section">Kategória</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> és </string>
-    <string name="bulletin_rule_join_or"> vagy </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020és\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020vagy\u0020</string>
     <string name="bulletin_rule_tag_only_title">Megadott kategória</string>
-    <string name="bulletin_rule_tags_prefix">Kategória: </string>
+    <string name="bulletin_rule_tags_prefix">Kategória:\u0020</string>
     <string name="bulletin_rules_footer">Minden szabály tanszék, kategória és kombinációs mód szerint szűrhet. Hagyd üresen, ha az adott szempont szerint mindenre illeszkedjen. Legfeljebb 32 szabály.</string>
     <string name="bulletin_rules_header">Értesítési szabályok</string>
     <string name="bulletin_rules_load_failed">A betöltés nem sikerült</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">Ha nem választasz ki semmit, az adott szempontnál „mindegyik” lesz érvényes.</string>
     <string name="bulletin_unread_dot_label">Olvasatlan</string>
     <string name="bulletin_withdrawn_badge">Visszavonva</string>
-    <string name="calendar_date_today_suffix"> (Ma)</string>
+    <string name="calendar_date_today_suffix">\u0020(Ma)</string>
     <string name="calendar_holiday_notify_description">Az óraértesítők ki vannak kapcsolva ezen az ünnepen. Kapcsolja be, hogy továbbra is megkapja őket.</string>
     <string name="calendar_holiday_notify_title">Van még óra?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

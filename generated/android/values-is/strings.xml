@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">Eyða reglu</string>
     <string name="bulletin_rule_dept_and_tag_title">Deild + Flokkur (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">Tiltekin deild</string>
-    <string name="bulletin_rule_dept_prefix">Deild: </string>
+    <string name="bulletin_rule_dept_prefix">Deild:\u0020</string>
     <string name="bulletin_rule_disabled_badge">Óvirkt</string>
     <string name="bulletin_rule_edit_title">Breyta reglu</string>
     <string name="bulletin_rule_editor_dept_section">Deild</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">Nafn</string>
     <string name="bulletin_rule_editor_selected_count">%1$d valið</string>
     <string name="bulletin_rule_editor_tag_section">Flokkur</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> og </string>
-    <string name="bulletin_rule_join_or"> eða </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020og\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020eða\u0020</string>
     <string name="bulletin_rule_tag_only_title">Tiltekinn flokkur</string>
-    <string name="bulletin_rule_tags_prefix">Flokkur: </string>
+    <string name="bulletin_rule_tags_prefix">Flokkur:\u0020</string>
     <string name="bulletin_rules_footer">Hver regla getur síað eftir deild, flokki og samsetningarstillingu. Skildu eftir autt til að taka allt með í þeim þætti. Hámark 32 reglur.</string>
     <string name="bulletin_rules_header">Tilkynningareglur</string>
     <string name="bulletin_rules_load_failed">Hleðsla mistókst</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">Ef ekkert er valið þýðir það „passar við allt“ fyrir þennan þátt.</string>
     <string name="bulletin_unread_dot_label">Ólesið</string>
     <string name="bulletin_withdrawn_badge">Afturkallað</string>
-    <string name="calendar_date_today_suffix"> (Í dag)</string>
+    <string name="calendar_date_today_suffix">\u0020(Í dag)</string>
     <string name="calendar_holiday_notify_description">Áminningar um tíma eru óvirkar á þessum frídegi. Kveiktu á þessu til að halda áfram að fá þær.</string>
     <string name="calendar_holiday_notify_title">Ertu samt í tíma?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

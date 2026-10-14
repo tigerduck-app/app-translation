@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">Smazat pravidlo</string>
     <string name="bulletin_rule_dept_and_tag_title">Oddělení + kategorie (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">Konkrétní oddělení</string>
-    <string name="bulletin_rule_dept_prefix">Odd: </string>
+    <string name="bulletin_rule_dept_prefix">Odd:\u0020</string>
     <string name="bulletin_rule_disabled_badge">Zakázáno</string>
     <string name="bulletin_rule_edit_title">Upravit pravidlo</string>
     <string name="bulletin_rule_editor_dept_section">Oddělení</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">Jméno</string>
     <string name="bulletin_rule_editor_selected_count">Vybráno %1$d</string>
     <string name="bulletin_rule_editor_tag_section">Kategorie</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> a </string>
-    <string name="bulletin_rule_join_or"> nebo </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020a\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020nebo\u0020</string>
     <string name="bulletin_rule_tag_only_title">Specifická kategorie</string>
-    <string name="bulletin_rule_tags_prefix">Kategorie: </string>
+    <string name="bulletin_rule_tags_prefix">Kategorie:\u0020</string>
     <string name="bulletin_rules_footer">Každé pravidlo lze filtrovat podle oddělení, kategorie a kombinovaného režimu. Nechte prázdné, aby odpovídalo všemu v této dimenzi. Maximálně 32 pravidel.</string>
     <string name="bulletin_rules_header">Pravidla oznamování</string>
     <string name="bulletin_rules_load_failed">Načtení se nezdařilo</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">Nevyberete-li nic, znamená to pro tuto dimenzi „vyhovovat všem“.</string>
     <string name="bulletin_unread_dot_label">Nepřečtený</string>
     <string name="bulletin_withdrawn_badge">Staženo</string>
-    <string name="calendar_date_today_suffix"> (Dnes)</string>
+    <string name="calendar_date_today_suffix">\u0020(Dnes)</string>
     <string name="calendar_holiday_notify_description">Upozornění na hodiny jsou během tohoto svátku vypnutá. Zapněte to, abyste je nadále dostávali.</string>
     <string name="calendar_holiday_notify_title">Máte přesto výuku?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

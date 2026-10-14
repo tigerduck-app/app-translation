@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">Usuń regułę</string>
     <string name="bulletin_rule_dept_and_tag_title">Wydział + Kategoria (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">Konkretny wydział</string>
-    <string name="bulletin_rule_dept_prefix">Wydział: </string>
+    <string name="bulletin_rule_dept_prefix">Wydział:\u0020</string>
     <string name="bulletin_rule_disabled_badge">Wyłączone</string>
     <string name="bulletin_rule_edit_title">Edytuj regułę</string>
     <string name="bulletin_rule_editor_dept_section">Wydział</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">Nazwa</string>
     <string name="bulletin_rule_editor_selected_count">%1$d wybrano</string>
     <string name="bulletin_rule_editor_tag_section">Kategoria</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> i </string>
-    <string name="bulletin_rule_join_or"> lub </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020i\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020lub\u0020</string>
     <string name="bulletin_rule_tag_only_title">Określona kategoria</string>
-    <string name="bulletin_rule_tags_prefix">Kategoria: </string>
+    <string name="bulletin_rule_tags_prefix">Kategoria:\u0020</string>
     <string name="bulletin_rules_footer">Każda reguła może filtrować według wydziału, kategorii i trybu łączenia. Pozostaw puste, aby dopasować wszystko w danym wymiarze. Maksymalnie 32 reguły.</string>
     <string name="bulletin_rules_header">Reguły powiadomień</string>
     <string name="bulletin_rules_load_failed">Nie udało się załadować</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">Brak zaznaczenia oznacza „dopasuj wszystko” dla tego wymiaru.</string>
     <string name="bulletin_unread_dot_label">Nieprzeczytane</string>
     <string name="bulletin_withdrawn_badge">Wycofane</string>
-    <string name="calendar_date_today_suffix"> (Dziś)</string>
+    <string name="calendar_date_today_suffix">\u0020(Dziś)</string>
     <string name="calendar_holiday_notify_description">Przypomnienia o zajęciach są wyłączone podczas tego święta. Włącz to, aby nadal je otrzymywać.</string>
     <string name="calendar_holiday_notify_title">Mimo to masz zajęcia?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

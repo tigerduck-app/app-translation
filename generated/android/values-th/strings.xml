@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">ลบกฎ</string>
     <string name="bulletin_rule_dept_and_tag_title">ภาควิชา + หมวดหมู่ (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">ภาควิชาที่เฉพาะเจาะจง</string>
-    <string name="bulletin_rule_dept_prefix">ภาควิชา: </string>
+    <string name="bulletin_rule_dept_prefix">ภาควิชา:\u0020</string>
     <string name="bulletin_rule_disabled_badge">ปิดใช้งาน</string>
     <string name="bulletin_rule_edit_title">แก้ไขกฎ</string>
     <string name="bulletin_rule_editor_dept_section">ภาควิชา</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">ชื่อ</string>
     <string name="bulletin_rule_editor_selected_count">%1$d รายการที่เลือก</string>
     <string name="bulletin_rule_editor_tag_section">หมวดหมู่</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> และ </string>
-    <string name="bulletin_rule_join_or"> หรือ </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020และ\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020หรือ\u0020</string>
     <string name="bulletin_rule_tag_only_title">หมวดหมู่ที่ระบุ</string>
-    <string name="bulletin_rule_tags_prefix">หมวดหมู่: </string>
+    <string name="bulletin_rule_tags_prefix">หมวดหมู่:\u0020</string>
     <string name="bulletin_rules_footer">แต่ละกฎสามารถกรองตามภาควิชา หมวดหมู่ และโหมดการรวมเงื่อนไข เว้นว่างไว้เพื่อให้ตรงกับทุกรายการในมิตินั้น สูงสุด 32 กฎ</string>
     <string name="bulletin_rules_header">กฎการแจ้งเตือน</string>
     <string name="bulletin_rules_load_failed">โหลดไม่สำเร็จ</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">การไม่เลือกอะไรเลยหมายถึง \"ตรงกับทั้งหมด\" สำหรับมิตินี้</string>
     <string name="bulletin_unread_dot_label">ยังไม่อ่าน</string>
     <string name="bulletin_withdrawn_badge">ถอนออกแล้ว</string>
-    <string name="calendar_date_today_suffix"> (วันนี้)</string>
+    <string name="calendar_date_today_suffix">\u0020(วันนี้)</string>
     <string name="calendar_holiday_notify_description">การแจ้งเตือนเรียนถูกปิดในวันหยุดนี้ เปิดเพื่อรับการแจ้งเตือนต่อไป</string>
     <string name="calendar_holiday_notify_title">ยังมีเรียนอยู่หรือไม่?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>

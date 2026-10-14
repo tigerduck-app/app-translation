@@ -131,7 +131,7 @@
     <string name="bulletin_rule_delete_action">നിയമം ഇല്ലാതാക്കുക</string>
     <string name="bulletin_rule_dept_and_tag_title">വകുപ്പ് + വിഭാഗം (%1$s)</string>
     <string name="bulletin_rule_dept_only_title">നിർദ്ദിഷ്ട വകുപ്പ്</string>
-    <string name="bulletin_rule_dept_prefix">വകുപ്പ്: </string>
+    <string name="bulletin_rule_dept_prefix">വകുപ്പ്:\u0020</string>
     <string name="bulletin_rule_disabled_badge">പ്രവർത്തനരഹിതം</string>
     <string name="bulletin_rule_edit_title">നിയമം തിരുത്തുക</string>
     <string name="bulletin_rule_editor_dept_section">വകുപ്പ്</string>
@@ -143,11 +143,11 @@
     <string name="bulletin_rule_editor_name_section">നാമം</string>
     <string name="bulletin_rule_editor_selected_count">%1$d തിരഞ്ഞെടുത്തു</string>
     <string name="bulletin_rule_editor_tag_section">വിഭാഗം</string>
-    <string name="bulletin_rule_filter_separator">, </string>
-    <string name="bulletin_rule_join_and"> കൂടാതെ </string>
-    <string name="bulletin_rule_join_or"> അല്ലെങ്കിൽ </string>
+    <string name="bulletin_rule_filter_separator">,\u0020</string>
+    <string name="bulletin_rule_join_and">\u0020കൂടാതെ\u0020</string>
+    <string name="bulletin_rule_join_or">\u0020അല്ലെങ്കിൽ\u0020</string>
     <string name="bulletin_rule_tag_only_title">നির്ദിഷ്ട വിഭാഗം</string>
-    <string name="bulletin_rule_tags_prefix">വിഭാഗം: </string>
+    <string name="bulletin_rule_tags_prefix">വിഭാഗം:\u0020</string>
     <string name="bulletin_rules_footer">ഓരോ നിയമത്തിനും വകുപ്പ്, വിഭാഗം, കൂടാതെ ഒരു സംയോജന മോഡ് അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യാം. ആ മാനത്തിലെ എല്ലാം പൊരുത്തപ്പെടാൻ ശൂന്യമായി വിടുക. പരമാവധി 32 നിയമങ്ങൾ.</string>
     <string name="bulletin_rules_header">അറിയിപ്പ് നിയമങ്ങൾ</string>
     <string name="bulletin_rules_load_failed">ലോഡ് ചെയ്യൽ പരാജയപ്പെട്ടു</string>
@@ -165,7 +165,7 @@
     <string name="bulletin_taxonomy_picker_hint">ഒന്നും തിരഞ്ഞെടുക്കാതിരിക്കുന്നത് ഈ മാനത്തിൽ \"എല്ലാം പൊരുത്തപ്പെടുക\" എന്നാണ് അർഥമാക്കുന്നത്.</string>
     <string name="bulletin_unread_dot_label">വായിക്കാത്തത്</string>
     <string name="bulletin_withdrawn_badge">പിൻവലിച്ചത്</string>
-    <string name="calendar_date_today_suffix"> (ഇന്ന്)</string>
+    <string name="calendar_date_today_suffix">\u0020(ഇന്ന്)</string>
     <string name="calendar_holiday_notify_description">ഈ അവധിക്കാലത്ത് ക്ലാസ് ഓർമ്മപ്പെടുത്തലുകൾ ഓഫ് ആണ്. അവ തുടർന്നും ലഭിക്കാൻ ഇത് ഓൺ ചെയ്യുക.</string>
     <string name="calendar_holiday_notify_title">ഇപ്പോഴും ക്ലാസ് ഉണ്ടോ?</string>
     <string name="calendar_month_year">%1$d/%2$d</string>
