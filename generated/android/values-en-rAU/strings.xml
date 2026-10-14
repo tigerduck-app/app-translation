@@ -434,6 +434,7 @@
     <string name="first_trigger_flip_to_library_message">We noticed you flipped your phone. This gesture can quickly open the library QR. Want to keep this feature?</string>
     <string name="first_trigger_flip_to_library_title">Flip to open library QR</string>
     <string name="first_trigger_flip_to_library_turn_off">Turn off</string>
+    <string name="first_trigger_flip_to_library_turn_on">Turn on</string>
     <string name="first_trigger_phone_flip_accessibility">Phone flipping over</string>
     <string name="greeting_afternoon">Good afternoon</string>
     <string name="greeting_evening">Good evening</string>

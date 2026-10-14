@@ -430,6 +430,7 @@
 "first_trigger_flip_to_library_message" = "Det ser ud til, at du vendte telefonen. Denne bevægelse kan hurtigt åbne bibliotekets QR. Vil du beholde denne funktion?";
 "first_trigger_flip_to_library_title" = "Vend for at åbne bibliotekets QR";
 "first_trigger_flip_to_library_turn_off" = "Slå fra";
+"first_trigger_flip_to_library_turn_on" = "Slå til";
 "first_trigger_phone_flip_accessibility" = "Telefon vender";
 "greeting_afternoon" = "God eftermiddag";
 "greeting_evening" = "God aften";

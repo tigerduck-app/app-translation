@@ -434,6 +434,7 @@
     <string name="first_trigger_flip_to_library_message">Parece que giraste el teléfono. Este gesto puede abrir rápidamente el QR de la biblioteca. ¿Quieres conservar esta función?</string>
     <string name="first_trigger_flip_to_library_title">Gira para abrir el QR de la biblioteca</string>
     <string name="first_trigger_flip_to_library_turn_off">Desactivar</string>
+    <string name="first_trigger_flip_to_library_turn_on">Activar</string>
     <string name="first_trigger_phone_flip_accessibility">El teléfono se está girando</string>
     <string name="greeting_afternoon">Buenas tardes</string>
     <string name="greeting_evening">Buenas noches</string>

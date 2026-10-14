@@ -430,6 +430,7 @@
 "first_trigger_flip_to_library_message" = "スマートフォンを裏返したことを検出しました。このジェスチャーで図書館の QR をすばやく開けます。この機能を使い続けますか？";
 "first_trigger_flip_to_library_title" = "裏返して図書館 QR を開く";
 "first_trigger_flip_to_library_turn_off" = "オフにする";
+"first_trigger_flip_to_library_turn_on" = "オンにする";
 "first_trigger_phone_flip_accessibility" = "スマートフォンが裏返っています";
 "greeting_afternoon" = "こんにちは";
 "greeting_evening" = "こんばんは";

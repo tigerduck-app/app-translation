@@ -430,6 +430,7 @@
 "first_trigger_flip_to_library_message" = "Kami melihat kamu membalik ponsel. Gerakan ini dapat membuka QR perpustakaan dengan cepat. Mau tetap menggunakan fitur ini?";
 "first_trigger_flip_to_library_title" = "Balik ponsel untuk buka QR perpustakaan";
 "first_trigger_flip_to_library_turn_off" = "Matikan";
+"first_trigger_flip_to_library_turn_on" = "Aktifkan";
 "first_trigger_phone_flip_accessibility" = "Ponsel sedang dibalik";
 "greeting_afternoon" = "Selamat sore";
 "greeting_evening" = "Selamat malam";

@@ -434,6 +434,7 @@
     <string name="first_trigger_flip_to_library_message">Napansin namin na binaligtad mo ang iyong telepono. Mabilis na mabubuksan ng galaw na ito ang library QR. Gusto mo bang panatilihin ang feature na ito?</string>
     <string name="first_trigger_flip_to_library_title">I-flip para buksan ang library QR</string>
     <string name="first_trigger_flip_to_library_turn_off">I-off</string>
+    <string name="first_trigger_flip_to_library_turn_on">I-on</string>
     <string name="first_trigger_phone_flip_accessibility">Nagba-flip ang telepono</string>
     <string name="greeting_afternoon">Magandang hapon po</string>
     <string name="greeting_evening">Magandang gabi po</string>

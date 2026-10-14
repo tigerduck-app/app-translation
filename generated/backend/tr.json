@@ -428,6 +428,7 @@
   "first_trigger_flip_to_library_message": "Telefonunuzu çevirdiğinizi fark ettik. Bu hareket kütüphane QR'ını hızlıca açabilir. Bu özelliği tutmak ister misiniz?",
   "first_trigger_flip_to_library_title": "Kütüphane QR'ını açmak için çevir",
   "first_trigger_flip_to_library_turn_off": "Kapat",
+  "first_trigger_flip_to_library_turn_on": "Aç",
   "first_trigger_phone_flip_accessibility": "Telefon çevriliyor",
   "greeting_afternoon": "İyi günler",
   "greeting_evening": "İyi akşamlar",

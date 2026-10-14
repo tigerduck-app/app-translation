@@ -434,6 +434,7 @@
     <string name="first_trigger_flip_to_library_message">Wygląda na to, że właśnie odwróciłeś telefon. Ten gest może szybko otworzyć QR biblioteki. Chcesz zachować tę funkcję?</string>
     <string name="first_trigger_flip_to_library_title">Odwróć, aby otworzyć QR biblioteki</string>
     <string name="first_trigger_flip_to_library_turn_off">Wyłącz</string>
+    <string name="first_trigger_flip_to_library_turn_on">Włącz</string>
     <string name="first_trigger_phone_flip_accessibility">Telefon jest odwracany</string>
     <string name="greeting_afternoon">Dzień dobry</string>
     <string name="greeting_evening">Dobry wieczór</string>
