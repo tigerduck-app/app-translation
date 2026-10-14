@@ -906,6 +906,7 @@
     "settings_show_absolute_assignment_time": "Kuva ülesande tähtajana täielik kuupäev",
     "settings_show_classroom_on_class_table": "Näita tunniplaanis ruume",
     "settings_sign_out_imported_tables": "Ka imporditud tunniplaanid kustutatakse.",
+    "settings_sign_out_unsynced_data": "Data not synced with TigerSync will be deleted.",
     "settings_sync_brief_description": "TigerSync võimaldab sünkroonida valitud teavet kõigi seadmete vahel. Sünkroonimata teave jääb ainult sellesse seadmesse.",
     "settings_sync_disabled_note": "Kui sünkroonimine on välja lülitatud, jäävad kõik andmed ainult sellesse seadmesse.",
     "settings_sync_status_off": "Väljas",

@@ -936,6 +936,7 @@
 "settings_show_absolute_assignment_time" = "Прикажи пун датум за рок задатка";
 "settings_show_classroom_on_class_table" = "Прикажи учионице у распореду";
 "settings_sign_out_imported_tables" = "Увезени распореди ће такође бити обрисани.";
+"settings_sign_out_unsynced_data" = "Data not synced with TigerSync will be deleted.";
 "settings_sync_brief_description" = "TigerSync омогућава синхронизацију изабраних информација на свим уређајима. Неактивиране информације остају само на овом уређају.";
 "settings_sync_brief_description_ios" = "TigerSync омогућава пријем push обавештења и синхронизацију информација.";
 "settings_sync_data_section" = "Подаци дељени са сервером";

@@ -906,6 +906,7 @@
     "settings_show_absolute_assignment_time": "Volledige datum tonen voor opdrachtdeadline",
     "settings_show_classroom_on_class_table": "Lokalen tonen in het rooster",
     "settings_sign_out_imported_tables": "Geïmporteerde roosters worden ook verwijderd.",
+    "settings_sign_out_unsynced_data": "Data not synced with TigerSync will be deleted.",
     "settings_sync_brief_description": "TigerSync synchroniseert je gekozen informatie op al je apparaten. Niet-ingeschakelde informatie blijft alleen op dit apparaat.",
     "settings_sync_disabled_note": "Wanneer synchronisatie uit staat, blijven alle gegevens alleen op dit apparaat.",
     "settings_sync_status_off": "Uit",

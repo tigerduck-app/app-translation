@@ -936,6 +936,7 @@
 "settings_show_absolute_assignment_time" = "Afficher la date complète pour l'échéance des devoirs";
 "settings_show_classroom_on_class_table" = "Afficher les salles dans l'emploi du temps";
 "settings_sign_out_imported_tables" = "Les emplois du temps importés seront également supprimés.";
+"settings_sign_out_unsynced_data" = "Data not synced with TigerSync will be deleted.";
 "settings_sync_brief_description" = "TigerSync vous permet de synchroniser vos informations choisies sur tous vos appareils. Les informations non activées restent uniquement sur cet appareil.";
 "settings_sync_brief_description_ios" = "TigerSync vous permet de recevoir des notifications push et de synchroniser vos informations. Les informations non activées sont quand même envoyées au serveur pour les notifications push.";
 "settings_sync_data_section" = "Données partagées avec le serveur";

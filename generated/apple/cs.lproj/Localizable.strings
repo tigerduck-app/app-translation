@@ -936,6 +936,7 @@
 "settings_show_absolute_assignment_time" = "Zobrazit úplné datum termínu úkolu";
 "settings_show_classroom_on_class_table" = "Zobrazovat učebny v rozvrhu";
 "settings_sign_out_imported_tables" = "Importované rozvrhy budou také smazány.";
+"settings_sign_out_unsynced_data" = "Data not synced with TigerSync will be deleted.";
 "settings_sync_brief_description" = "TigerSync umožňuje synchronizovat vybrané informace mezi všemi zařízeními se zapnutým TigerSync. Informace bez synchronizace zůstávají pouze na tomto zařízení.";
 "settings_sync_brief_description_ios" = "TigerSync umožňuje přijímat push oznámení a synchronizovat vybrané informace. Informace bez synchronizace se i tak odesílají na server pro push oznámení.";
 "settings_sync_data_section" = "Data sdílená se serverem";

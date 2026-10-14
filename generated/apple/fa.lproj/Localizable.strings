@@ -936,6 +936,7 @@
 "settings_show_absolute_assignment_time" = "نمایش تاریخ کامل برای زمان موعد تکلیف";
 "settings_show_classroom_on_class_table" = "نمایش کلاس‌ها در برنامهٔ درسی";
 "settings_sign_out_imported_tables" = "برنامه کلاس‌های واردشده نیز حذف می‌شوند.";
+"settings_sign_out_unsynced_data" = "Data not synced with TigerSync will be deleted.";
 "settings_sync_brief_description" = "TigerSync به شما امکان می‌دهد اطلاعات انتخابی خود را در تمام دستگاه‌ها همگام کنید. اطلاعات غیرفعال فقط در این دستگاه باقی می‌مانند.";
 "settings_sync_brief_description_ios" = "TigerSync به شما امکان دریافت اعلان‌های فوری و همگام‌سازی اطلاعات را می‌دهد. اطلاعات غیرفعال همچنان برای اعلان‌ها به سرور ارسال می‌شوند.";
 "settings_sync_data_section" = "داده‌های به اشتراک گذاشته شده با سرور";
