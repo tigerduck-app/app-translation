@@ -997,10 +997,12 @@
 "sync_status_hours_ago_short" = "%1$d sa önce";
 "sync_status_just_now" = "Az önce";
 "sync_status_last_synced" = "Son eşitleme";
+"sync_status_last_updated" = "Son güncelleme";
 "sync_status_minimal" = "Sınırlı";
 "sync_status_minutes_ago_short" = "%1$d dk önce";
 "sync_status_nav_label" = "TigerSync durumu";
 "sync_status_never_synced" = "Hiç eşitlenmedi";
+"sync_status_never_updated" = "Hiç güncellenmedi";
 "sync_status_ok" = "Tamam";
 "sync_status_syncing" = "Eşitleniyor…";
 "sync_status_title" = "Eşitleme durumu";

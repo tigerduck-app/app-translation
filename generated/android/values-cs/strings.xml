@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">před %1$d h</string>
     <string name="sync_status_just_now">právě teď</string>
     <string name="sync_status_last_synced">Naposledy synchronizováno</string>
+    <string name="sync_status_last_updated">Naposledy aktualizováno</string>
     <string name="sync_status_minimal">Omezeno</string>
     <string name="sync_status_minutes_ago_short">před %1$d min</string>
     <string name="sync_status_nav_label">Stav TigerSync</string>
     <string name="sync_status_never_synced">Nikdy nesynchronizováno</string>
+    <string name="sync_status_never_updated">Nikdy neaktualizováno</string>
     <string name="sync_status_ok">OK</string>
     <string name="sync_status_syncing">Synchronizace…</string>
     <string name="sync_status_title">Stav synchronizace</string>

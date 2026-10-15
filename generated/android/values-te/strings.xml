@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">%1$d గం. క్రితం</string>
     <string name="sync_status_just_now">ఇప్పుడే</string>
     <string name="sync_status_last_synced">చివరిగా సమకాలీకరించబడింది</string>
+    <string name="sync_status_last_updated">చివరిగా అప్‌డేట్ చేయబడింది</string>
     <string name="sync_status_minimal">పరిమితం</string>
     <string name="sync_status_minutes_ago_short">%1$d నిమి. క్రితం</string>
     <string name="sync_status_nav_label">TigerSync స్థితి</string>
     <string name="sync_status_never_synced">ఎప్పుడూ సమకాలీకరించబడలేదు</string>
+    <string name="sync_status_never_updated">ఎప్పుడూ అప్‌డేట్ చేయబడలేదు</string>
     <string name="sync_status_ok">సరే</string>
     <string name="sync_status_syncing">సింక్ అవుతోంది…</string>
     <string name="sync_status_title">సింక్ స్థితి</string>

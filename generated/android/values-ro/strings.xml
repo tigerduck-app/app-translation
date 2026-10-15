@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">acum %1$d h</string>
     <string name="sync_status_just_now">Chiar acum</string>
     <string name="sync_status_last_synced">Ultima sincronizare</string>
+    <string name="sync_status_last_updated">Ultima actualizare</string>
     <string name="sync_status_minimal">Limitat</string>
     <string name="sync_status_minutes_ago_short">acum %1$d min</string>
     <string name="sync_status_nav_label">Starea TigerSync</string>
     <string name="sync_status_never_synced">Niciodată sincronizat</string>
+    <string name="sync_status_never_updated">Niciodată actualizat</string>
     <string name="sync_status_ok">OK</string>
     <string name="sync_status_syncing">Se sincronizează…</string>
     <string name="sync_status_title">Stare sincronizare</string>

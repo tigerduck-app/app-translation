@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">%1$d ó ezelőtt</string>
     <string name="sync_status_just_now">Épp most</string>
     <string name="sync_status_last_synced">Utolsó szinkronizálás</string>
+    <string name="sync_status_last_updated">Utolsó frissítés</string>
     <string name="sync_status_minimal">Korlátozott</string>
     <string name="sync_status_minutes_ago_short">%1$d p ezelőtt</string>
     <string name="sync_status_nav_label">TigerSync állapota</string>
     <string name="sync_status_never_synced">Még soha nem szinkronizálva</string>
+    <string name="sync_status_never_updated">Még soha nem frissítve</string>
     <string name="sync_status_ok">Rendben</string>
     <string name="sync_status_syncing">Szinkronizálás…</string>
     <string name="sync_status_title">Szinkronizálás állapota</string>

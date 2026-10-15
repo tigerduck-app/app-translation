@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">pirms %1$d st.</string>
     <string name="sync_status_just_now">Tikko</string>
     <string name="sync_status_last_synced">Pēdējoreiz sinhronizēts</string>
+    <string name="sync_status_last_updated">Pēdējoreiz atjaunināts</string>
     <string name="sync_status_minimal">Ierobežots</string>
     <string name="sync_status_minutes_ago_short">pirms %1$d min.</string>
     <string name="sync_status_nav_label">TigerSync statuss</string>
     <string name="sync_status_never_synced">Nav sinhronizēts</string>
+    <string name="sync_status_never_updated">Nav atjaunināts</string>
     <string name="sync_status_ok">Labi</string>
     <string name="sync_status_syncing">Sinhronizē…</string>
     <string name="sync_status_title">Sinhronizācijas statuss</string>

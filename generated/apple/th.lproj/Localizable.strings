@@ -997,10 +997,12 @@
 "sync_status_hours_ago_short" = "%1$d ชม. ที่แล้ว";
 "sync_status_just_now" = "เมื่อกี้";
 "sync_status_last_synced" = "ซิงค์ล่าสุด";
+"sync_status_last_updated" = "อัปเดตล่าสุด";
 "sync_status_minimal" = "จำกัด";
 "sync_status_minutes_ago_short" = "%1$d น. ที่แล้ว";
 "sync_status_nav_label" = "สถานะ TigerSync";
 "sync_status_never_synced" = "ยังไม่เคยซิงก์";
+"sync_status_never_updated" = "ยังไม่เคยอัปเดต";
 "sync_status_ok" = "ปกติ";
 "sync_status_syncing" = "กำลังซิงค์…";
 "sync_status_title" = "สถานะการซิงค์";

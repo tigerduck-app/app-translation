@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">%1$d گھ. پہلے</string>
     <string name="sync_status_just_now">ابھی ابھی</string>
     <string name="sync_status_last_synced">آخری مطابقت پذیری</string>
+    <string name="sync_status_last_updated">آخری اپ ڈیٹ</string>
     <string name="sync_status_minimal">محدود</string>
     <string name="sync_status_minutes_ago_short">%1$d من. پہلے</string>
     <string name="sync_status_nav_label">TigerSync کی حالت</string>
     <string name="sync_status_never_synced">کبھی سنک نہیں کیا</string>
+    <string name="sync_status_never_updated">کبھی اپ ڈیٹ نہیں ہوا</string>
     <string name="sync_status_ok">ٹھیک</string>
     <string name="sync_status_syncing">ہم آہنگ ہو رہا ہے…</string>
     <string name="sync_status_title">ہم آہنگی کی حالت</string>

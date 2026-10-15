@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">il y a %1$d h</string>
     <string name="sync_status_just_now">À l\'instant</string>
     <string name="sync_status_last_synced">Dernière synchro</string>
+    <string name="sync_status_last_updated">Dernière mise à jour</string>
     <string name="sync_status_minimal">Limité</string>
     <string name="sync_status_minutes_ago_short">il y a %1$d min</string>
     <string name="sync_status_nav_label">Statut de TigerSync</string>
     <string name="sync_status_never_synced">Jamais synchronisé</string>
+    <string name="sync_status_never_updated">Jamais mis à jour</string>
     <string name="sync_status_ok">OK</string>
     <string name="sync_status_syncing">Synchronisation…</string>
     <string name="sync_status_title">État de la synchronisation</string>

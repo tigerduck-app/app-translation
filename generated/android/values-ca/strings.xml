@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">fa %1$d h</string>
     <string name="sync_status_just_now">Ara mateix</string>
     <string name="sync_status_last_synced">Última sincronització</string>
+    <string name="sync_status_last_updated">Última actualització</string>
     <string name="sync_status_minimal">Limitat</string>
     <string name="sync_status_minutes_ago_short">fa %1$d min</string>
     <string name="sync_status_nav_label">Estat de TigerSync</string>
     <string name="sync_status_never_synced">Mai sincronitzat</string>
+    <string name="sync_status_never_updated">Mai actualitzat</string>
     <string name="sync_status_ok">Correcte</string>
     <string name="sync_status_syncing">Sincronitzant…</string>
     <string name="sync_status_title">Estat de la sincronització</string>
