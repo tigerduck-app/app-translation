@@ -997,10 +997,12 @@
 "sync_status_hours_ago_short" = "%1$d மணி முன்";
 "sync_status_just_now" = "இப்போதுதான்";
 "sync_status_last_synced" = "கடைசியாக ஒத்திசைக்கப்பட்டது";
+"sync_status_last_updated" = "கடைசியாகப் புதுப்பிக்கப்பட்டது";
 "sync_status_minimal" = "அடிப்படை";
 "sync_status_minutes_ago_short" = "%1$d நிமி முன்";
 "sync_status_nav_label" = "TigerSync நிலை";
 "sync_status_never_synced" = "ஒத்திசைக்கப்படவில்லை";
+"sync_status_never_updated" = "புதுப்பிக்கப்படவில்லை";
 "sync_status_ok" = "சரி";
 "sync_status_syncing" = "ஒத்திசைக்கிறது…";
 "sync_status_title" = "ஒத்திசைவு நிலை";

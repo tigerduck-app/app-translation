@@ -997,10 +997,12 @@
 "sync_status_hours_ago_short" = "%1$d 時間前";
 "sync_status_just_now" = "たった今";
 "sync_status_last_synced" = "最終同期";
+"sync_status_last_updated" = "最終更新";
 "sync_status_minimal" = "制限付き";
 "sync_status_minutes_ago_short" = "%1$d 分前";
 "sync_status_nav_label" = "TigerSync の状態";
 "sync_status_never_synced" = "未同期";
+"sync_status_never_updated" = "未更新";
 "sync_status_ok" = "正常";
 "sync_status_syncing" = "同期中…";
 "sync_status_title" = "同期状態";

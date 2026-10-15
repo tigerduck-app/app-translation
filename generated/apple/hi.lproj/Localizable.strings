@@ -997,10 +997,12 @@
 "sync_status_hours_ago_short" = "%1$d घं पहले";
 "sync_status_just_now" = "अभी-अभी";
 "sync_status_last_synced" = "अंतिम सिंक";
+"sync_status_last_updated" = "अंतिम अपडेट";
 "sync_status_minimal" = "सीमित";
 "sync_status_minutes_ago_short" = "%1$d मि पहले";
 "sync_status_nav_label" = "TigerSync स्थिति";
 "sync_status_never_synced" = "कभी सिंक नहीं हुआ";
+"sync_status_never_updated" = "कभी अपडेट नहीं हुआ";
 "sync_status_ok" = "ठीक";
 "sync_status_syncing" = "सिंक हो रहा है…";
 "sync_status_title" = "सिंक स्थिति";

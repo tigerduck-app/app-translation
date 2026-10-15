@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">prieš %1$d val.</string>
     <string name="sync_status_just_now">Ką tik</string>
     <string name="sync_status_last_synced">Paskutinį kartą sinchronizuota</string>
+    <string name="sync_status_last_updated">Paskutinį kartą atnaujinta</string>
     <string name="sync_status_minimal">Ribota</string>
     <string name="sync_status_minutes_ago_short">prieš %1$d min.</string>
     <string name="sync_status_nav_label">TigerSync statusas</string>
     <string name="sync_status_never_synced">Nesusinchronizuota</string>
+    <string name="sync_status_never_updated">Neatnaujinta</string>
     <string name="sync_status_ok">Gerai</string>
     <string name="sync_status_syncing">Sinchronizuojama…</string>
     <string name="sync_status_title">Sinchronizavimo būsena</string>

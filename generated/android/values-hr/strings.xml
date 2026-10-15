@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">prije %1$d h</string>
     <string name="sync_status_just_now">Upravo sad</string>
     <string name="sync_status_last_synced">Posljednja sinkronizacija</string>
+    <string name="sync_status_last_updated">Posljednje ažuriranje</string>
     <string name="sync_status_minimal">Ograničeno</string>
     <string name="sync_status_minutes_ago_short">prije %1$d min</string>
     <string name="sync_status_nav_label">Stanje TigerSync</string>
     <string name="sync_status_never_synced">Nikad sinkronizirano</string>
+    <string name="sync_status_never_updated">Nikad ažurirano</string>
     <string name="sync_status_ok">U redu</string>
     <string name="sync_status_syncing">Sinkronizacija…</string>
     <string name="sync_status_title">Stanje sinkronizacije</string>

@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">%1$d ಗಂ ಹಿಂದೆ</string>
     <string name="sync_status_just_now">ಈಗಷ್ಟೇ</string>
     <string name="sync_status_last_synced">ಕೊನೆಯ ಸಿಂಕ್</string>
+    <string name="sync_status_last_updated">ಕೊನೆಯ ಅಪ್‌ಡೇಟ್</string>
     <string name="sync_status_minimal">ಸೀಮಿತ</string>
     <string name="sync_status_minutes_ago_short">%1$d ನಿ ಹಿಂದೆ</string>
     <string name="sync_status_nav_label">TigerSync ಸ್ಥಿತಿ</string>
     <string name="sync_status_never_synced">ಎಂದೂ ಸಿಂಕ್ ಆಗಿಲ್ಲ</string>
+    <string name="sync_status_never_updated">ಎಂದೂ ಅಪ್‌ಡೇಟ್ ಆಗಿಲ್ಲ</string>
     <string name="sync_status_ok">ಸರಿ</string>
     <string name="sync_status_syncing">ಸಿಂಕ್ ಆಗುತ್ತಿದೆ…</string>
     <string name="sync_status_title">ಸಿಂಕ್ ಸ್ಥಿತಿ</string>

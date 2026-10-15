@@ -997,10 +997,12 @@
 "sync_status_hours_ago_short" = "преди %1$d ч";
 "sync_status_just_now" = "Току-що";
 "sync_status_last_synced" = "Последна синхронизация";
+"sync_status_last_updated" = "Последна актуализация";
 "sync_status_minimal" = "Ограничено";
 "sync_status_minutes_ago_short" = "преди %1$d мин";
 "sync_status_nav_label" = "Статус на TigerSync";
 "sync_status_never_synced" = "Никога не е синхронизирано";
+"sync_status_never_updated" = "Никога не е актуализирано";
 "sync_status_ok" = "Наред";
 "sync_status_syncing" = "Синхронизиране…";
 "sync_status_title" = "Състояние на синхронизацията";

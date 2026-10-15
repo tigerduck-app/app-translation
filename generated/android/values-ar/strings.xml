@@ -1008,10 +1008,12 @@
     <string name="sync_status_hours_ago_short">منذ %1$d س</string>
     <string name="sync_status_just_now">للتو</string>
     <string name="sync_status_last_synced">آخر مزامنة</string>
+    <string name="sync_status_last_updated">آخر تحديث</string>
     <string name="sync_status_minimal">محدود</string>
     <string name="sync_status_minutes_ago_short">منذ %1$d د</string>
     <string name="sync_status_nav_label">حالة TigerSync</string>
     <string name="sync_status_never_synced">لم تتم المزامنة قط</string>
+    <string name="sync_status_never_updated">لم يتم التحديث قط</string>
     <string name="sync_status_ok">سليم</string>
     <string name="sync_status_syncing">جارٍ المزامنة…</string>
     <string name="sync_status_title">حالة المزامنة</string>
