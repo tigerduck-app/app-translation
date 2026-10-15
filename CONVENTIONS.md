@@ -165,6 +165,33 @@ one commit, then regenerate. Do **not** rename the JSON keys to match -- they
 are internal, and `cloudSyncEnabled` in both apps is a persisted preference
 key whose rename would silently drop every existing user's setting.
 
+## Campus building names (Chinese and English only)
+
+The empty-classroom finder names the main campus's buildings with
+`empty_classroom_building_<code>` keys, where `<code>` is the building's code
+in lower case (`empty_classroom_building_tr` for TR). A building has two names
+and no more: the Chinese name the school gives it and the English name on the
+school's English pages. Signs, maps and timetables use one of the two, so a
+third name, translated or transliterated, would match nothing a student can
+find on campus. These keys therefore follow the pattern of the two brand
+names above:
+
+| Locale group | Value |
+|---|---|
+| `zh-Hant`, `yue-HK` | the Chinese name, in Traditional characters (研揚大樓) |
+| `zh-Hans` | the same name in Simplified characters (研扬大楼) |
+| every other locale | the English name, exactly as `en` has it (AAEON Building) |
+
+The English values in the other locales are final, not placeholders waiting
+for a translation: do not translate them, and do not transliterate the Chinese
+name. Take both names from the school's own publications: the Chinese from
+the campus layout map (校內配置圖), and the English from its English pages,
+such as the Office of International Affairs' table of building codes. Write
+館 in Traditional Chinese, never 舘, and 馆 in Simplified. A building with no
+official English name takes its code and the word Building as its English
+name, as `IA Building` for 醫揚大樓, and Chinese keeps its Chinese name. The
+app shows the name the room booking site gives a building that has no key.
+
 ## Naming keys
 
 Keys are `snake_case` and lead with a stable feature/area prefix so related
@@ -185,6 +212,7 @@ before inventing a new one):
 | `conflict_course_picker_` | Course-conflict picker dialog |
 | `course_card_` / `course_*_value` | Course card / detail formatters |
 | `desktop_` | Desktop-app surface (see *Surface prefixes* below) |
+| `empty_classroom_` | Empty-classroom finder; `empty_classroom_building_<code>` names a building (see *Campus building names*) |
 | `error_` | Generic error messages |
 | `feature_` / `feature_category_` | Feature names + grouping in launcher / more screen |
 | `greeting_` | Time-of-day greetings |
@@ -273,6 +301,8 @@ canonical English value alone may miss.
 - **All other locales** — translate by referring to **`en`**. The English
   source is canonical (see `config/locales.json` → `canonicalLocale`) and is
   guaranteed to be complete and current.
+- **Campus building names** are not translated in any locale; see *Campus
+  building names* above.
 
 If you're adding a key under a feature flag and only have a translation
 ready in one locale, copy the canonical (`en`) value as a placeholder for
