@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">TigerDuck वापरणे सुरू करा</string>
     <string name="onboarding_sync_description">TigerSync तुमच्या सर्व डिव्हाइसेसवर तुमचे कोर्सेस, असाइनमेंट आणि सेटिंग्ज सिंक ठेवतो. TigerSync सेटिंग्जमध्ये काय सिंक करायचे ते तुम्ही अचूकपणे निवडू शकता.</string>
     <string name="onboarding_sync_not_shared_password">पासवर्ड कधीही अपलोड केला जात नाही</string>
-    <string name="onboarding_sync_note">सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो. गृहपाठ स्मरणपत्रांसाठी पुश सूचना TigerSync शिवाय स्थानिक पातळीवर कार्य करतात.</string>
+    <string name="onboarding_sync_note">सिंक बंद असतानाही, असाइनमेंट स्मरणपत्रे पाठवण्यासाठी TigerDuck सर्व्हरला तुमचा विद्यार्थी ID, Moodle टोकन आणि या डिव्हाइसचे पुश क्रेडेन्शियल्स मिळतात</string>
     <string name="onboarding_sync_shared_assignments">असाइनमेंट डेटा</string>
     <string name="onboarding_sync_shared_courses">कोर्स डेटा</string>
     <string name="onboarding_sync_shared_device_id">डिव्हाइस ID</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">पाठवा</string>
     <string name="school_mail_send_confirm_title">हा मेल पाठवायचा?</string>
     <string name="school_mail_send_failed">मेल पाठवता आला नाही</string>
+    <string name="school_mail_send_unconfirmed">मेल पाठवला गेला की नाही याची खात्री करता आली नाही; पुन्हा प्रयत्न केल्यास तो दोनदा पोहोचू शकतो</string>
     <string name="school_mail_sent_copy_failed">मेल पाठवला गेला, पण कॉपी पाठवलेले मध्ये जतन करता आली नाही.</string>
     <string name="school_mail_sent_copy_no_folder">मेल पाठवला गेला, पण कॉपी ठेवण्यासाठी पाठवलेले फोल्डर नाही.</string>
     <string name="school_mail_sent_copy_not_saved">मेल पाठवला गेला, पण त्याची कॉपी पाठवलेले मध्ये जतन झाली नाही</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">वेळापत्रकात वर्गखोली दाखवा</string>
     <string name="settings_sign_out_imported_tables">आयात केलेली वर्ग वेळापत्रकेही हटवली जातील.</string>
     <string name="settings_sync_brief_description">TigerSync तुम्हाला सर्व उपकरणांवर माहिती सिंक करण्याची परवानगी देते. सिंकसाठी सक्षम नसलेली माहिती फक्त या उपकरणावर राहते.</string>
-    <string name="settings_sync_disabled_note">सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो.</string>
+    <string name="settings_sync_disabled_note">सिंक बंद असतानाही, असाइनमेंट स्मरणपत्रे पाठवण्यासाठी TigerDuck सर्व्हरला तुमचा विद्यार्थी ID, Moodle टोकन आणि या डिव्हाइसचे पुश क्रेडेन्शियल्स मिळतात</string>
     <string name="settings_sync_status_off">बंद</string>
     <string name="settings_sync_status_on">चालू</string>
     <string name="settings_system_language">सिस्टम भाषा</string>

@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "ข้ามไปก่อน";
 "onboarding_start_button" = "เริ่มใช้งาน TigerDuck";
 "onboarding_sync_description" = "TigerSync จะซิงค์รายวิชา งานมอบหมาย และการตั้งค่าของคุณในทุกอุปกรณ์ คุณสามารถเลือกได้ว่าจะซิงค์อะไรในการตั้งค่า TigerSync";
-"onboarding_sync_disabled_note" = "เมื่อปิดการซิงค์ ข้อมูลทั้งหมดจะอยู่บนอุปกรณ์นี้เท่านั้น การแจ้งเตือนแบบพุชและ Live Activity จะไม่สามารถใช้งานได้";
+"onboarding_sync_disabled_note" = "แม้จะปิดการซิงค์ เซิร์ฟเวอร์ TigerDuck ยังคงได้รับรหัสนักศึกษา โทเค็น Moodle และข้อมูลรับรอง push ของอุปกรณ์นี้เพื่อส่งการแจ้งเตือนงาน";
 "onboarding_sync_not_shared_password" = "รหัสผ่านจะไม่ถูกอัปโหลด";
-"onboarding_sync_note" = "เมื่อปิดการซิงค์ ข้อมูลทั้งหมดจะอยู่บนอุปกรณ์นี้เท่านั้น การแจ้งเตือนแบบพุชสำหรับเตือนการบ้านยังคงทำงานในเครื่องโดยไม่ต้องใช้ TigerSync";
+"onboarding_sync_note" = "แม้จะปิดการซิงค์ เซิร์ฟเวอร์ TigerDuck ยังคงได้รับรหัสนักศึกษา โทเค็น Moodle และข้อมูลรับรอง push ของอุปกรณ์นี้เพื่อส่งการแจ้งเตือนงาน";
 "onboarding_sync_shared_assignments" = "ข้อมูลงานมอบหมาย";
 "onboarding_sync_shared_courses" = "ข้อมูลรายวิชา";
 "onboarding_sync_shared_device_id" = "รหัสอุปกรณ์";
@@ -758,6 +758,7 @@
 "school_mail_send" = "ส่ง";
 "school_mail_send_confirm_title" = "ส่งอีเมลนี้หรือไม่?";
 "school_mail_send_failed" = "ส่งอีเมลไม่สำเร็จ";
+"school_mail_send_unconfirmed" = "ไม่สามารถยืนยันได้ว่าส่งอีเมลแล้วหรือไม่ การลองอีกครั้งอาจทำให้ผู้รับได้รับสองฉบับ";
 "school_mail_sent_copy_failed" = "ส่งอีเมลแล้ว แต่บันทึกสำเนาลงในส่งแล้วไม่สำเร็จ";
 "school_mail_sent_copy_no_folder" = "ส่งอีเมลแล้ว แต่ไม่มีโฟลเดอร์ส่งแล้วสำหรับเก็บสำเนา";
 "school_mail_sent_copy_not_saved" = "ส่งอีเมลแล้ว แต่ไม่ได้บันทึกสำเนาไว้ในส่งแล้ว";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync ช่วยให้คุณซิงค์ข้อมูลที่เลือกในอุปกรณ์ทั้งหมด ข้อมูลที่ไม่ได้เปิดใช้จะอยู่ในอุปกรณ์นี้เท่านั้น";
 "settings_sync_brief_description_ios" = "TigerSync ช่วยให้คุณรับการแจ้งเตือนแบบพุชและซิงค์ข้อมูล ข้อมูลที่ไม่ได้เปิดใช้จะยังคงถูกส่งไปยังเซิร์ฟเวอร์เพื่อการแจ้งเตือนแบบพุช";
 "settings_sync_data_section" = "ข้อมูลที่แชร์กับเซิร์ฟเวอร์";
-"settings_sync_disabled_note" = "เมื่อปิดการซิงค์ ข้อมูลทั้งหมดจะอยู่บนอุปกรณ์นี้เท่านั้น";
+"settings_sync_disabled_note" = "แม้จะปิดการซิงค์ เซิร์ฟเวอร์ TigerDuck ยังคงได้รับรหัสนักศึกษา โทเค็น Moodle และข้อมูลรับรอง push ของอุปกรณ์นี้เพื่อส่งการแจ้งเตือนงาน";
 "settings_sync_off_notifications_warning" = "การTigerSyncปิดอยู่ อุปกรณ์ Apple ต้องอาศัยเซิร์ฟเวอร์ TigerDuck เพื่อรับการแจ้งเตือน แตะเพื่อดูข้อมูลเพิ่มเติม";
 "settings_sync_status_off" = "ปิด";
 "settings_sync_status_on" = "เปิด";

@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "आत्तासाठी वगळा";
 "onboarding_start_button" = "TigerDuck वापरणे सुरू करा";
 "onboarding_sync_description" = "TigerSync तुमच्या सर्व डिव्हाइसेसवर तुमचे कोर्सेस, असाइनमेंट आणि सेटिंग्ज सिंक ठेवतो. TigerSync सेटिंग्जमध्ये काय सिंक करायचे ते तुम्ही अचूकपणे निवडू शकता.";
-"onboarding_sync_disabled_note" = "सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो. पुश सूचना आणि Live Activity उपलब्ध असणार नाहीत.";
+"onboarding_sync_disabled_note" = "सिंक बंद असतानाही, असाइनमेंट स्मरणपत्रे पाठवण्यासाठी TigerDuck सर्व्हरला तुमचा विद्यार्थी ID, Moodle टोकन आणि या डिव्हाइसचे पुश क्रेडेन्शियल्स मिळतात";
 "onboarding_sync_not_shared_password" = "पासवर्ड कधीही अपलोड केला जात नाही";
-"onboarding_sync_note" = "सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो. गृहपाठ स्मरणपत्रांसाठी पुश सूचना TigerSync शिवाय स्थानिक पातळीवर कार्य करतात.";
+"onboarding_sync_note" = "सिंक बंद असतानाही, असाइनमेंट स्मरणपत्रे पाठवण्यासाठी TigerDuck सर्व्हरला तुमचा विद्यार्थी ID, Moodle टोकन आणि या डिव्हाइसचे पुश क्रेडेन्शियल्स मिळतात";
 "onboarding_sync_shared_assignments" = "असाइनमेंट डेटा";
 "onboarding_sync_shared_courses" = "कोर्स डेटा";
 "onboarding_sync_shared_device_id" = "डिव्हाइस ID";
@@ -758,6 +758,7 @@
 "school_mail_send" = "पाठवा";
 "school_mail_send_confirm_title" = "हा मेल पाठवायचा?";
 "school_mail_send_failed" = "मेल पाठवता आला नाही";
+"school_mail_send_unconfirmed" = "मेल पाठवला गेला की नाही याची खात्री करता आली नाही; पुन्हा प्रयत्न केल्यास तो दोनदा पोहोचू शकतो";
 "school_mail_sent_copy_failed" = "मेल पाठवला गेला, पण कॉपी पाठवलेले मध्ये जतन करता आली नाही.";
 "school_mail_sent_copy_no_folder" = "मेल पाठवला गेला, पण कॉपी ठेवण्यासाठी पाठवलेले फोल्डर नाही.";
 "school_mail_sent_copy_not_saved" = "मेल पाठवला गेला, पण त्याची कॉपी पाठवलेले मध्ये जतन झाली नाही";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync तुम्हाला सर्व उपकरणांवर माहिती सिंक करण्याची परवानगी देते. सिंकसाठी सक्षम नसलेली माहिती फक्त या उपकरणावर राहते.";
 "settings_sync_brief_description_ios" = "TigerSync पुश सूचना प्राप्त करण्यास आणि माहिती सिंक करण्यास अनुमती देते.";
 "settings_sync_data_section" = "सर्व्हरसोबत शेअर केलेला डेटा";
-"settings_sync_disabled_note" = "सिंक बंद असताना, सर्व डेटा फक्त या डिव्हाइसवरच राहतो.";
+"settings_sync_disabled_note" = "सिंक बंद असतानाही, असाइनमेंट स्मरणपत्रे पाठवण्यासाठी TigerDuck सर्व्हरला तुमचा विद्यार्थी ID, Moodle टोकन आणि या डिव्हाइसचे पुश क्रेडेन्शियल्स मिळतात";
 "settings_sync_off_notifications_warning" = "TigerSync बंद आहे. Apple डिव्हाइसेसना सूचना मिळवण्यासाठी TigerDuck बॅकएंडवर अवलंबून आहे. अधिक माहितीसाठी टॅप करा.";
 "settings_sync_status_off" = "बंद";
 "settings_sync_status_on" = "चालू";

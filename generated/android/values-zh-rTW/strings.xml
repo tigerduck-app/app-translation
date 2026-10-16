@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">開始使用 TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync 可以在你所有裝置間同步課表、作業和設定。你可以在 TigerSync 設定中選擇要同步的項目。</string>
     <string name="onboarding_sync_not_shared_password">密碼不會被上傳</string>
-    <string name="onboarding_sync_note">關閉同步後，所有資料僅保留在此裝置。推播通知在不需要 TigerSync 的情況下仍可正常運作。</string>
+    <string name="onboarding_sync_note">關閉同步後，為了傳送作業提醒，TigerDuck 伺服器仍會收到你的學號、Moodle token 和此裝置的推播憑證</string>
     <string name="onboarding_sync_shared_assignments">作業資料</string>
     <string name="onboarding_sync_shared_courses">課程資料</string>
     <string name="onboarding_sync_shared_device_id">裝置 ID</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">傳送</string>
     <string name="school_mail_send_confirm_title">要傳送這封信嗎？</string>
     <string name="school_mail_send_failed">無法傳送郵件</string>
+    <string name="school_mail_send_unconfirmed">無法確認郵件是否已寄出，重試可能會導致對方收到兩封</string>
     <string name="school_mail_sent_copy_failed">郵件已傳送，但副本無法儲存到寄件備份。</string>
     <string name="school_mail_sent_copy_no_folder">郵件已傳送，但目前沒有寄件備份資料夾可以保留副本。</string>
     <string name="school_mail_sent_copy_not_saved">郵件已傳送，但副本未儲存到寄件備份</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">在課表首頁顯示教室</string>
     <string name="settings_sign_out_imported_tables">匯入的課表也會一併刪除。</string>
     <string name="settings_sync_brief_description">TigerSync 可讓你將所選資料同步至所有已開啟 TigerSync 的裝置。未啟用 TigerSync 的資料僅會保留在此裝置上。</string>
-    <string name="settings_sync_disabled_note">關閉同步後，所有資料僅儲存於本機</string>
+    <string name="settings_sync_disabled_note">關閉同步後，為了傳送作業提醒，TigerDuck 伺服器仍會收到你的學號、Moodle token 和此裝置的推播憑證</string>
     <string name="settings_sync_status_off">關閉</string>
     <string name="settings_sync_status_on">開啟</string>
     <string name="settings_system_language">系統語言</string>

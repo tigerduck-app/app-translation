@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Ohita toistaiseksi";
 "onboarding_start_button" = "Aloita TigerDuckin käyttö";
 "onboarding_sync_description" = "TigerSync pitää kurssisi, tehtäväsi ja asetuksesi synkronoituina kaikilla laitteillasi. Voit valita tarkalleen, mitä synkronoidaan TigerSync -asetuksista.";
-"onboarding_sync_disabled_note" = "Kun synkronointi on pois päältä, kaikki tiedot pysyvät vain tässä laitteessa. Push-ilmoitukset ja Live Activity eivät ole käytettävissä.";
+"onboarding_sync_disabled_note" = "Kun synkronointi on pois päältä, TigerDuck-palvelin saa edelleen opiskelijanumerosi, Moodle-tunnuksesi ja tämän laitteen push-tunnukset tehtävämuistutusten lähettämistä varten";
 "onboarding_sync_not_shared_password" = "Salasanaa ei koskaan ladata";
-"onboarding_sync_note" = "Kun synkronointi on pois päältä, kaikki tiedot pysyvät vain tässä laitteessa. Kotitehtävämuistutusten push-ilmoitukset toimivat paikallisesti ilman TigerSync -palvelua.";
+"onboarding_sync_note" = "Kun synkronointi on pois päältä, TigerDuck-palvelin saa edelleen opiskelijanumerosi, Moodle-tunnuksesi ja tämän laitteen push-tunnukset tehtävämuistutusten lähettämistä varten";
 "onboarding_sync_shared_assignments" = "Tehtävätiedot";
 "onboarding_sync_shared_courses" = "Kurssitiedot";
 "onboarding_sync_shared_device_id" = "Laitteen ID";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Lähetä";
 "school_mail_send_confirm_title" = "Lähetetäänkö tämä viesti?";
 "school_mail_send_failed" = "Viestiä ei voitu lähettää";
+"school_mail_send_unconfirmed" = "Viestin lähettämistä ei voitu vahvistaa; uusi yritys voi toimittaa sen kahdesti";
 "school_mail_sent_copy_failed" = "Viesti lähetettiin, mutta kopiota ei voitu tallentaa Lähetetyt-kansioon.";
 "school_mail_sent_copy_no_folder" = "Viesti lähetettiin, mutta Lähetetyt-kansiota ei ole, johon kopion voisi tallentaa.";
 "school_mail_sent_copy_not_saved" = "Viesti lähetetty, mutta kopiota ei tallennettu Lähetetyt-kansioon";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync mahdollistaa valittujen tietojen synkronoinnin kaikkien laitteiden välillä. Synkronoimattomat tiedot pysyvät vain tässä laitteessa.";
 "settings_sync_brief_description_ios" = "TigerSync mahdollistaa push-ilmoitusten vastaanoton ja tietojen synkronoinnin. Synkronoimattomat tiedot lähetetään silti palvelimelle push-ilmoituksia varten.";
 "settings_sync_data_section" = "Palvelimen kanssa jaetut tiedot";
-"settings_sync_disabled_note" = "Kun synkronointi on pois päältä, kaikki tiedot pysyvät vain tässä laitteessa.";
+"settings_sync_disabled_note" = "Kun synkronointi on pois päältä, TigerDuck-palvelin saa edelleen opiskelijanumerosi, Moodle-tunnuksesi ja tämän laitteen push-tunnukset tehtävämuistutusten lähettämistä varten";
 "settings_sync_off_notifications_warning" = "TigerSync on pois päältä. Apple-laitteet tarvitsevat TigerDuck-palvelimen ilmoitusten vastaanottamiseen. Napauta saadaksesi lisätietoja.";
 "settings_sync_status_off" = "Pois";
 "settings_sync_status_on" = "Päällä";

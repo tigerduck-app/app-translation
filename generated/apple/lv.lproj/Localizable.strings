@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Pagaidām izlaist";
 "onboarding_start_button" = "Sākt lietot TigerDuck";
 "onboarding_sync_description" = "TigerSync uztur jūsu kursus, uzdevumus un iestatījumus sinhronizētus visās jūsu ierīcēs. TigerSync iestatījumos varat precīzi izvēlēties, ko sinhronizēt.";
-"onboarding_sync_disabled_note" = "Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē. Push paziņojumi un Live Activity nebūs pieejami.";
+"onboarding_sync_disabled_note" = "Kad sinhronizācija ir izslēgta, TigerDuck serveris joprojām saņem jūsu studenta ID, Moodle žetonu un šīs ierīces push akreditācijas datus, lai sūtītu uzdevumu atgādinājumus";
 "onboarding_sync_not_shared_password" = "Parole nekad netiek augšupielādēta";
-"onboarding_sync_note" = "Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē. Push paziņojumi par mājasdarbiem darbojas lokāli bez TigerSync.";
+"onboarding_sync_note" = "Kad sinhronizācija ir izslēgta, TigerDuck serveris joprojām saņem jūsu studenta ID, Moodle žetonu un šīs ierīces push akreditācijas datus, lai sūtītu uzdevumu atgādinājumus";
 "onboarding_sync_shared_assignments" = "Uzdevumu dati";
 "onboarding_sync_shared_courses" = "Kursu dati";
 "onboarding_sync_shared_device_id" = "Ierīces ID";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Sūtīt";
 "school_mail_send_confirm_title" = "Vai sūtīt šo vēstuli?";
 "school_mail_send_failed" = "Neizdevās nosūtīt vēstuli";
+"school_mail_send_unconfirmed" = "Neizdevās apstiprināt, vai vēstule tika nosūtīta; atkārtots mēģinājums to var piegādāt divreiz";
 "school_mail_sent_copy_failed" = "Vēstule tika nosūtīta, bet kopiju neizdevās saglabāt mapē Nosūtītie.";
 "school_mail_sent_copy_no_folder" = "Vēstule tika nosūtīta, bet nav mapes Nosūtītie, kurā saglabāt kopiju.";
 "school_mail_sent_copy_not_saved" = "Vēstule nosūtīta, bet kopija netika saglabāta mapē Nosūtītie";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync ļauj sinhronizēt izvēlēto informāciju visās ierīcēs. Nesinhronizēta informācija paliek tikai šajā ierīcē.";
 "settings_sync_brief_description_ios" = "TigerSync ļauj saņemt push paziņojumus un sinhronizēt informāciju. Nesinhronizēta informācija joprojām tiek nosūtīta uz serveri push paziņojumiem.";
 "settings_sync_data_section" = "Ar serveri koplietotie dati";
-"settings_sync_disabled_note" = "Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē.";
+"settings_sync_disabled_note" = "Kad sinhronizācija ir izslēgta, TigerDuck serveris joprojām saņem jūsu studenta ID, Moodle žetonu un šīs ierīces push akreditācijas datus, lai sūtītu uzdevumu atgādinājumus";
 "settings_sync_off_notifications_warning" = "TigerSync ir izslēgta. Apple ierīces paļaujas uz TigerDuck serveri, lai saņemtu paziņojumus. Pieskarieties, lai uzzinātu vairāk.";
 "settings_sync_status_off" = "Izslēgts";
 "settings_sync_status_on" = "Ieslēgts";

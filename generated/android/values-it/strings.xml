@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">Inizia a usare TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync mantiene i tuoi corsi, compiti e impostazioni sincronizzati su tutti i tuoi dispositivi. Puoi scegliere esattamente cosa sincronizzare nelle impostazioni di TigerSync.</string>
     <string name="onboarding_sync_not_shared_password">La password non viene mai caricata</string>
-    <string name="onboarding_sync_note">Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo. Le notifiche push per i promemoria dei compiti funzionano localmente senza TigerSync.</string>
+    <string name="onboarding_sync_note">Con la sincronizzazione disattivata, il server TigerDuck riceve comunque la tua matricola, il token Moodle e le credenziali push di questo dispositivo per inviare i promemoria dei compiti</string>
     <string name="onboarding_sync_shared_assignments">Dati dei compiti</string>
     <string name="onboarding_sync_shared_courses">Dati dei corsi</string>
     <string name="onboarding_sync_shared_device_id">ID dispositivo</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">Invia</string>
     <string name="school_mail_send_confirm_title">Inviare questo messaggio?</string>
     <string name="school_mail_send_failed">Impossibile inviare il messaggio</string>
+    <string name="school_mail_send_unconfirmed">Impossibile confermare l\'invio del messaggio; riprovare potrebbe inviarlo due volte</string>
     <string name="school_mail_sent_copy_failed">Il messaggio è stato inviato, ma non è stato possibile salvare la copia in Posta inviata.</string>
     <string name="school_mail_sent_copy_no_folder">Il messaggio è stato inviato, ma non esiste una cartella Posta inviata in cui conservare una copia.</string>
     <string name="school_mail_sent_copy_not_saved">Messaggio inviato, ma la copia non è stata salvata in Posta inviata</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">Mostra le aule nell\'orario</string>
     <string name="settings_sign_out_imported_tables">Anche gli orari importati verranno eliminati.</string>
     <string name="settings_sync_brief_description">TigerSync ti permette di sincronizzare le informazioni scelte su tutti i dispositivi. Le informazioni non abilitate restano solo su questo dispositivo.</string>
-    <string name="settings_sync_disabled_note">Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo.</string>
+    <string name="settings_sync_disabled_note">Con la sincronizzazione disattivata, il server TigerDuck riceve comunque la tua matricola, il token Moodle e le credenziali push di questo dispositivo per inviare i promemoria dei compiti</string>
     <string name="settings_sync_status_off">Disattivo</string>
     <string name="settings_sync_status_on">Attivo</string>
     <string name="settings_system_language">Lingua di sistema</string>

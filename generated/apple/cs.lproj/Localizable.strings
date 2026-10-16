@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Prozatím přeskočit";
 "onboarding_start_button" = "Začít používat TigerDuck";
 "onboarding_sync_description" = "TigerSync udržuje vaše kurzy, úkoly a nastavení synchronizované na všech vašich zařízeních. V nastavení TigerSync si můžete přesně vybrat, co chcete synchronizovat.";
-"onboarding_sync_disabled_note" = "Když je synchronizace vypnutá, všechna data zůstávají pouze na tomto zařízení. Push notifikace a Live Activity nebudou k dispozici.";
+"onboarding_sync_disabled_note" = "Když je synchronizace vypnutá, server TigerDuck stále dostává vaše studentské ID, token Moodle a push přihlašovací údaje tohoto zařízení, aby mohl posílat připomínky úkolů";
 "onboarding_sync_not_shared_password" = "Heslo se nikdy nenahrává";
-"onboarding_sync_note" = "Když je synchronizace vypnutá, všechna data zůstávají pouze na tomto zařízení. Push notifikace pro připomenutí úkolů fungují lokálně bez TigerSync.";
+"onboarding_sync_note" = "Když je synchronizace vypnutá, server TigerDuck stále dostává vaše studentské ID, token Moodle a push přihlašovací údaje tohoto zařízení, aby mohl posílat připomínky úkolů";
 "onboarding_sync_shared_assignments" = "Data úkolů";
 "onboarding_sync_shared_courses" = "Data kurzů";
 "onboarding_sync_shared_device_id" = "ID zařízení";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Odeslat";
 "school_mail_send_confirm_title" = "Odeslat tuto zprávu?";
 "school_mail_send_failed" = "Zprávu se nepodařilo odeslat";
+"school_mail_send_unconfirmed" = "Nepodařilo se ověřit, zda byla zpráva odeslána; opakování ji může doručit dvakrát";
 "school_mail_sent_copy_failed" = "Zpráva byla odeslána, ale kopii se nepodařilo uložit do složky Odeslaná pošta.";
 "school_mail_sent_copy_no_folder" = "Zpráva byla odeslána, ale neexistuje složka Odeslaná pošta, do které by se dala uložit kopie.";
 "school_mail_sent_copy_not_saved" = "Zpráva odeslána, ale kopie se neuložila do složky Odeslaná pošta";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync umožňuje synchronizovat vybrané informace mezi všemi zařízeními se zapnutým TigerSync. Informace bez synchronizace zůstávají pouze na tomto zařízení.";
 "settings_sync_brief_description_ios" = "TigerSync umožňuje přijímat push oznámení a synchronizovat vybrané informace. Informace bez synchronizace se i tak odesílají na server pro push oznámení.";
 "settings_sync_data_section" = "Data sdílená se serverem";
-"settings_sync_disabled_note" = "Když je synchronizace vypnutá, všechna data zůstávají pouze na tomto zařízení.";
+"settings_sync_disabled_note" = "Když je synchronizace vypnutá, server TigerDuck stále dostává vaše studentské ID, token Moodle a push přihlašovací údaje tohoto zařízení, aby mohl posílat připomínky úkolů";
 "settings_sync_off_notifications_warning" = "TigerSync je vypnutá. Zařízení Apple se spoléhají na server TigerDuck pro příjem oznámení. Klepněte pro více informací.";
 "settings_sync_status_off" = "Vypnuto";
 "settings_sync_status_on" = "Zapnuto";

@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Пропустить пока";
 "onboarding_start_button" = "Начать пользоваться TigerDuck";
 "onboarding_sync_description" = "TigerSync поддерживает синхронизацию курсов, заданий и настроек на всех ваших устройствах. Вы можете выбрать, что именно синхронизировать, в настройках TigerSync.";
-"onboarding_sync_disabled_note" = "Когда синхронизация отключена, все данные остаются только на этом устройстве. Push-уведомления и Live Activity будут недоступны.";
+"onboarding_sync_disabled_note" = "Даже при выключенной синхронизации сервер TigerDuck получает ваш студенческий ID, токен Moodle и push-данные этого устройства, чтобы отправлять напоминания о заданиях";
 "onboarding_sync_not_shared_password" = "Пароль никогда не загружается";
-"onboarding_sync_note" = "Когда синхронизация отключена, все данные остаются только на этом устройстве. Push-уведомления для напоминаний о домашних заданиях работают локально без TigerSync.";
+"onboarding_sync_note" = "Даже при выключенной синхронизации сервер TigerDuck получает ваш студенческий ID, токен Moodle и push-данные этого устройства, чтобы отправлять напоминания о заданиях";
 "onboarding_sync_shared_assignments" = "Данные заданий";
 "onboarding_sync_shared_courses" = "Данные курсов";
 "onboarding_sync_shared_device_id" = "ID устройства";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Отправить";
 "school_mail_send_confirm_title" = "Отправить это письмо?";
 "school_mail_send_failed" = "Не удалось отправить письмо";
+"school_mail_send_unconfirmed" = "Не удалось подтвердить, что письмо отправлено; повторная попытка может доставить его дважды";
 "school_mail_sent_copy_failed" = "Письмо было отправлено, но не удалось сохранить копию в Отправленных.";
 "school_mail_sent_copy_no_folder" = "Письмо было отправлено, но папки «Отправленные» нет, чтобы сохранить в ней копию.";
 "school_mail_sent_copy_not_saved" = "Письмо отправлено, но копия не сохранена в Отправленных";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync позволяет синхронизировать выбранную информацию на всех устройствах. Информация без синхронизации остаётся только на этом устройстве.";
 "settings_sync_brief_description_ios" = "TigerSync позволяет получать push-уведомления и синхронизировать информацию. Информация без синхронизации всё равно отправляется на сервер для push-уведомлений.";
 "settings_sync_data_section" = "Данные, передаваемые серверу";
-"settings_sync_disabled_note" = "Когда синхронизация отключена, все данные остаются только на этом устройстве.";
+"settings_sync_disabled_note" = "Даже при выключенной синхронизации сервер TigerDuck получает ваш студенческий ID, токен Moodle и push-данные этого устройства, чтобы отправлять напоминания о заданиях";
 "settings_sync_off_notifications_warning" = "TigerSync отключён. Push-уведомления и Live Updates недоступны.";
 "settings_sync_status_off" = "Выкл.";
 "settings_sync_status_on" = "Вкл.";

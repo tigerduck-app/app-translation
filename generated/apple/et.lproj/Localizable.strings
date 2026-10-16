@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Jäta praegu vahele";
 "onboarding_start_button" = "Alusta TigerDucki kasutamist";
 "onboarding_sync_description" = "TigerSync hoiab teie kursused, ülesanded ja seaded kõigis seadmetes sünkroonis. Saate TigerSynci seadetes täpselt valida, mida sünkroonida.";
-"onboarding_sync_disabled_note" = "Kui sünkroonimine on välja lülitatud, jäävad kõik andmed ainult sellesse seadmesse. Tõuketeavitused ja Live Activity ei ole saadaval.";
+"onboarding_sync_disabled_note" = "Kui sünkroonimine on välja lülitatud, saab TigerDuck server ülesannete meeldetuletuste saatmiseks endiselt sinu tudengi ID, Moodle'i tokeni ja selle seadme push-mandaadid";
 "onboarding_sync_not_shared_password" = "Parooli ei laadita kunagi üles";
-"onboarding_sync_note" = "Kui sünkroonimine on välja lülitatud, jäävad kõik andmed ainult sellesse seadmesse. Tõuketeavitused kodutööde meeldetuletuste jaoks töötavad kohalikult ilma TigerSyncita.";
+"onboarding_sync_note" = "Kui sünkroonimine on välja lülitatud, saab TigerDuck server ülesannete meeldetuletuste saatmiseks endiselt sinu tudengi ID, Moodle'i tokeni ja selle seadme push-mandaadid";
 "onboarding_sync_shared_assignments" = "Ülesannete andmed";
 "onboarding_sync_shared_courses" = "Kursuste andmed";
 "onboarding_sync_shared_device_id" = "Seadme ID";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Saada";
 "school_mail_send_confirm_title" = "Kas saata see kiri?";
 "school_mail_send_failed" = "Kirja saatmine ebaõnnestus";
+"school_mail_send_unconfirmed" = "Ei õnnestunud kinnitada, kas kiri saadeti; uus katse võib selle kaks korda kohale toimetada";
 "school_mail_sent_copy_failed" = "Kiri saadeti, kuid koopiat ei õnnestunud kausta Saadetud salvestada.";
 "school_mail_sent_copy_no_folder" = "Kiri saadeti, kuid kausta Saadetud pole, kuhu koopiat hoida.";
 "school_mail_sent_copy_not_saved" = "Kiri saadeti, kuid koopiat ei salvestatud kausta Saadetud";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync võimaldab sünkroonida valitud teavet kõigi seadmete vahel. Sünkroonimata teave jääb ainult sellesse seadmesse.";
 "settings_sync_brief_description_ios" = "TigerSync võimaldab saada push-teavitusi ja sünkroonida teavet seadmete vahel. Sünkroonimata teave saadetakse siiski serverisse push-teavituste jaoks.";
 "settings_sync_data_section" = "Serveriga jagatud andmed";
-"settings_sync_disabled_note" = "Kui sünkroonimine on välja lülitatud, jäävad kõik andmed ainult sellesse seadmesse.";
+"settings_sync_disabled_note" = "Kui sünkroonimine on välja lülitatud, saab TigerDuck server ülesannete meeldetuletuste saatmiseks endiselt sinu tudengi ID, Moodle'i tokeni ja selle seadme push-mandaadid";
 "settings_sync_off_notifications_warning" = "TigerSync on välja lülitatud. Apple'i seadmed sõltuvad TigerDuck serverist teavituste saamiseks. Puuduta lisateabe saamiseks.";
 "settings_sync_status_off" = "Väljas";
 "settings_sync_status_on" = "Sees";

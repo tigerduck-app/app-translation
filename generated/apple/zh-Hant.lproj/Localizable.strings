@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "暫時跳過";
 "onboarding_start_button" = "開始使用 TigerDuck";
 "onboarding_sync_description" = "TigerSync 可以在你所有裝置間同步課表、作業和設定。你可以在 TigerSync 設定中選擇要同步的項目。";
-"onboarding_sync_disabled_note" = "關閉同步後，所有資料僅保留在此裝置。推播通知和即時動態將無法使用。";
+"onboarding_sync_disabled_note" = "關閉同步後，為了傳送作業提醒，TigerDuck 伺服器仍會收到你的學號、Moodle token 和此裝置的推播憑證";
 "onboarding_sync_not_shared_password" = "密碼不會被上傳";
-"onboarding_sync_note" = "關閉同步後，所有資料僅保留在此裝置。推播通知在不需要 TigerSync 的情況下仍可正常運作。";
+"onboarding_sync_note" = "關閉同步後，為了傳送作業提醒，TigerDuck 伺服器仍會收到你的學號、Moodle token 和此裝置的推播憑證";
 "onboarding_sync_shared_assignments" = "作業資料";
 "onboarding_sync_shared_courses" = "課程資料";
 "onboarding_sync_shared_device_id" = "裝置 ID";
@@ -758,6 +758,7 @@
 "school_mail_send" = "傳送";
 "school_mail_send_confirm_title" = "要傳送這封信嗎？";
 "school_mail_send_failed" = "無法傳送郵件";
+"school_mail_send_unconfirmed" = "無法確認郵件是否已寄出，重試可能會導致對方收到兩封";
 "school_mail_sent_copy_failed" = "郵件已傳送，但副本無法儲存到寄件備份。";
 "school_mail_sent_copy_no_folder" = "郵件已傳送，但目前沒有寄件備份資料夾可以保留副本。";
 "school_mail_sent_copy_not_saved" = "郵件已傳送，但副本未儲存到寄件備份";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync 可讓你將所選資料同步至所有已開啟 TigerSync 的裝置。未啟用 TigerSync 的資料僅會保留在此裝置上。";
 "settings_sync_brief_description_ios" = "TigerSync 可讓你接收推播通知，並將所選資料同步至所有已開啟 TigerSync 的裝置。未啟用同步的資料仍會傳送至伺服器以供推播通知使用。";
 "settings_sync_data_section" = "與伺服器共用的資料";
-"settings_sync_disabled_note" = "關閉同步後，所有資料僅儲存於本機";
+"settings_sync_disabled_note" = "關閉同步後，為了傳送作業提醒，TigerDuck 伺服器仍會收到你的學號、Moodle token 和此裝置的推播憑證";
 "settings_sync_off_notifications_warning" = "TigerSync 已關閉。Apple 裝置需要 TigerDuck 後端伺服器才能接收通知，點擊了解更多。";
 "settings_sync_status_off" = "關閉";
 "settings_sync_status_on" = "開啟";

@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Omet de moment";
 "onboarding_start_button" = "Comença a usar TigerDuck";
 "onboarding_sync_description" = "TigerSync manté els teus cursos, treballs i configuració sincronitzats a tots els teus dispositius. Pots triar exactament què sincronitzar a la configuració de TigerSync.";
-"onboarding_sync_disabled_note" = "Quan la sincronització és desactivada, totes les dades es queden només en aquest dispositiu. Les notificacions push i Live Activity no estaran disponibles.";
+"onboarding_sync_disabled_note" = "Amb la sincronització desactivada, el servidor de TigerDuck continua rebent el teu ID d'estudiant, el token de Moodle i les credencials push d'aquest dispositiu per enviar recordatoris de tasques";
 "onboarding_sync_not_shared_password" = "La contrasenya mai es puja";
-"onboarding_sync_note" = "Quan la sincronització és desactivada, totes les dades es queden només en aquest dispositiu. Les notificacions push per a recordatoris de deures funcionen localment sense TigerSync.";
+"onboarding_sync_note" = "Amb la sincronització desactivada, el servidor de TigerDuck continua rebent el teu ID d'estudiant, el token de Moodle i les credencials push d'aquest dispositiu per enviar recordatoris de tasques";
 "onboarding_sync_shared_assignments" = "Dades dels treballs";
 "onboarding_sync_shared_courses" = "Dades dels cursos";
 "onboarding_sync_shared_device_id" = "ID del dispositiu";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Envia";
 "school_mail_send_confirm_title" = "Vols enviar aquest correu?";
 "school_mail_send_failed" = "No s'ha pogut enviar el correu";
+"school_mail_send_unconfirmed" = "No s'ha pogut confirmar si el correu s'ha enviat; tornar-ho a provar el podria enviar dues vegades";
 "school_mail_sent_copy_failed" = "El correu s'ha enviat, però no s'ha pogut desar la còpia a Enviats.";
 "school_mail_sent_copy_no_folder" = "El correu s'ha enviat, però no hi ha cap carpeta Enviats on desar-hi una còpia.";
 "school_mail_sent_copy_not_saved" = "Correu enviat, però no s'ha desat cap còpia a Enviats";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync permet sincronitzar la informació seleccionada entre tots els dispositius amb TigerSync activat. La informació no activada es queda només en aquest dispositiu.";
 "settings_sync_brief_description_ios" = "TigerSync permet rebre notificacions push i sincronitzar la informació entre dispositius. La informació no activada s'envia igualment al servidor per a les notificacions push.";
 "settings_sync_data_section" = "Dades compartides amb el servidor";
-"settings_sync_disabled_note" = "Quan la sincronització és desactivada, totes les dades es queden només en aquest dispositiu.";
+"settings_sync_disabled_note" = "Amb la sincronització desactivada, el servidor de TigerDuck continua rebent el teu ID d'estudiant, el token de Moodle i les credencials push d'aquest dispositiu per enviar recordatoris de tasques";
 "settings_sync_off_notifications_warning" = "TigerSync està desactivat. Els dispositius Apple depenen del servidor de TigerDuck per rebre notificacions. Toca per a més informació.";
 "settings_sync_status_off" = "Desactivat";
 "settings_sync_status_on" = "Activat";

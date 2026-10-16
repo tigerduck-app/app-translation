@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">Börja använda TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync håller dina kurser, uppgifter och inställningar synkroniserade mellan alla dina enheter. Du kan välja exakt vad som ska synkas i TigerSync-inställningarna.</string>
     <string name="onboarding_sync_not_shared_password">Lösenord laddas aldrig upp</string>
-    <string name="onboarding_sync_note">När synkronisering är avstängd stannar all data bara på den här enheten. Push-notiser för läxpåminnelser fungerar lokalt utan TigerSync.</string>
+    <string name="onboarding_sync_note">När synkronisering är av får TigerDuck-servern ändå ditt student-ID, din Moodle-token och den här enhetens push-uppgifter för att skicka påminnelser om uppgifter</string>
     <string name="onboarding_sync_shared_assignments">Uppgiftsdata</string>
     <string name="onboarding_sync_shared_courses">Kursdata</string>
     <string name="onboarding_sync_shared_device_id">Enhets-ID</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">Skicka</string>
     <string name="school_mail_send_confirm_title">Skicka det här mejlet?</string>
     <string name="school_mail_send_failed">Mejlet kunde inte skickas</string>
+    <string name="school_mail_send_unconfirmed">Det gick inte att bekräfta om mejlet skickades; ett nytt försök kan leverera det två gånger</string>
     <string name="school_mail_sent_copy_failed">Mejlet skickades, men kopian kunde inte sparas i Skickat.</string>
     <string name="school_mail_sent_copy_no_folder">Mejlet skickades, men det finns ingen mapp Skickat att spara en kopia i.</string>
     <string name="school_mail_sent_copy_not_saved">Mejl skickat, men en kopia sparades inte i Skickat</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">Visa salar i schemat</string>
     <string name="settings_sign_out_imported_tables">Importerade scheman tas också bort.</string>
     <string name="settings_sync_brief_description">TigerSync låter dig synkronisera vald information på alla enheter. Information utan synkronisering förblir bara på den här enheten.</string>
-    <string name="settings_sync_disabled_note">När synkronisering är avstängd stannar all data bara på den här enheten.</string>
+    <string name="settings_sync_disabled_note">När synkronisering är av får TigerDuck-servern ändå ditt student-ID, din Moodle-token och den här enhetens push-uppgifter för att skicka påminnelser om uppgifter</string>
     <string name="settings_sync_status_off">Av</string>
     <string name="settings_sync_status_on">På</string>
     <string name="settings_system_language">Systemspråk</string>
