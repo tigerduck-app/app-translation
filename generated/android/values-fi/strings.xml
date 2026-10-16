@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Nollaa</string>
     <string name="app_reset_required_message">Kirjautumistilasi ja asetuksiasi ei voida enää lukea, mahdollisesti käyttöjärjestelmäpäivityksen, varmuuskopiopalautuksen tai tallennusongelman vuoksi.\n\nNollaa vanhat tiedot napauttamalla \"Nollaa\", kirjaudu sitten sisään ja määritä asetukset uudelleen.</string>
     <string name="app_reset_required_title">Nollaus vaaditaan</string>
+    <string name="assignment_detail_comments">Palautuksen kommentit</string>
+    <string name="assignment_detail_description">Kuvaus</string>
+    <string name="assignment_detail_due">Määräaika</string>
+    <string name="assignment_detail_group">Ryhmä</string>
+    <string name="assignment_detail_not_submitted">Ei vielä palautettu</string>
+    <string name="assignment_detail_submission">Palautuksesi</string>
+    <string name="assignment_detail_submit_on_moodle">Palauta Moodlessa</string>
+    <string name="assignment_detail_submitted_at">Palautettu</string>
     <string name="assignment_filter_all">Kaikki</string>
     <string name="assignment_filter_ignored">Ohitettu</string>
     <string name="assignment_filter_incomplete">Kesken</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Mukautettu väri</string>
     <string name="course_color_picker_title">Muokkaa väriä</string>
     <string name="course_credits_value">Opintopisteet: %1$s</string>
+    <string name="course_detail_assignments_label">Tehtävät</string>
     <string name="course_detail_classroom_label">Luokkahuone</string>
     <string name="course_detail_code_copied">Koodi kopioitu</string>
     <string name="course_detail_code_label">Koodi</string>

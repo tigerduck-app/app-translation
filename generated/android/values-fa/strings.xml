@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">بازنشانی</string>
     <string name="app_reset_required_message">وضعیت ورود و تنظیمات شما دیگر قابل خواندن نیست؛ احتمالاً به‌دلیل ارتقای سیستم‌عامل، بازیابی پشتیبان یا مشکل فضای ذخیره‌سازی.\n\nبرای پاک کردن داده‌های قدیمی روی «بازنشانی» بزنید، سپس دوباره وارد شوید و تنظیماتتان را انجام دهید.</string>
     <string name="app_reset_required_title">نیاز به بازنشانی</string>
+    <string name="assignment_detail_comments">نظرات ارسال</string>
+    <string name="assignment_detail_description">توضیحات</string>
+    <string name="assignment_detail_due">سررسید</string>
+    <string name="assignment_detail_group">گروه</string>
+    <string name="assignment_detail_not_submitted">هنوز ارسال نشده</string>
+    <string name="assignment_detail_submission">ارسال شما</string>
+    <string name="assignment_detail_submit_on_moodle">ارسال در Moodle</string>
+    <string name="assignment_detail_submitted_at">زمان ارسال</string>
     <string name="assignment_filter_all">همه</string>
     <string name="assignment_filter_ignored">نادیده‌گرفته‌شده</string>
     <string name="assignment_filter_incomplete">ناتمام</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">رنگ سفارشی</string>
     <string name="course_color_picker_title">ویرایش رنگ</string>
     <string name="course_credits_value">واحد: %1$s</string>
+    <string name="course_detail_assignments_label">تکالیف</string>
     <string name="course_detail_classroom_label">کلاس درس</string>
     <string name="course_detail_code_copied">کد کپی شد</string>
     <string name="course_detail_code_label">کد</string>

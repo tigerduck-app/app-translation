@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">I-reset</string>
     <string name="app_reset_required_message">Hindi na mabasa ang iyong sign-in state at mga kagustuhan, posibleng dahil sa pag-upgrade ng OS, pagpapanumbalik ng backup, o isyu sa storage.\n\nI-tap ang \"I-reset\" para burahin ang lumang data, pagkatapos ay mag-sign in muli at i-reconfigure ang iyong mga kagustuhan.</string>
     <string name="app_reset_required_title">Kailangan ng reset</string>
+    <string name="assignment_detail_comments">Mga komento sa isinumite</string>
+    <string name="assignment_detail_description">Paglalarawan</string>
+    <string name="assignment_detail_due">Takdang petsa</string>
+    <string name="assignment_detail_group">Grupo</string>
+    <string name="assignment_detail_not_submitted">Hindi pa naisusumite</string>
+    <string name="assignment_detail_submission">Ang iyong isinumite</string>
+    <string name="assignment_detail_submit_on_moodle">Isumite sa Moodle</string>
+    <string name="assignment_detail_submitted_at">Naisumite</string>
     <string name="assignment_filter_all">Lahat</string>
     <string name="assignment_filter_ignored">Binabalewala</string>
     <string name="assignment_filter_incomplete">Hindi pa tapos</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Pasadyang kulay</string>
     <string name="course_color_picker_title">I-edit ang kulay</string>
     <string name="course_credits_value">Mga credit: %1$s</string>
+    <string name="course_detail_assignments_label">Mga takdang-aralin</string>
     <string name="course_detail_classroom_label">Silid-aralan</string>
     <string name="course_detail_code_copied">Nakopya ang code</string>
     <string name="course_detail_code_label">Code</string>

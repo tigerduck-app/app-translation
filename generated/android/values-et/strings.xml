@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Lähtesta</string>
     <string name="app_reset_required_message">Teie sisselogimisolekut ja eelistusi ei saa enam lugeda, tõenäoliselt OS-i uuenduse, varukoopia taastamise või salvestusprobleemi tõttu.\n\nPuudutage „Lähtesta\", et kustutada vanad andmed, seejärel logige sisse ja seadistage eelistused uuesti.</string>
     <string name="app_reset_required_title">Lähtestamine vajalik</string>
+    <string name="assignment_detail_comments">Esituse kommentaarid</string>
+    <string name="assignment_detail_description">Kirjeldus</string>
+    <string name="assignment_detail_due">Tähtaeg</string>
+    <string name="assignment_detail_group">Rühm</string>
+    <string name="assignment_detail_not_submitted">Pole veel esitatud</string>
+    <string name="assignment_detail_submission">Sinu esitus</string>
+    <string name="assignment_detail_submit_on_moodle">Esita Moodle\'is</string>
+    <string name="assignment_detail_submitted_at">Esitatud</string>
     <string name="assignment_filter_all">Kõik</string>
     <string name="assignment_filter_ignored">Ignoreeritud</string>
     <string name="assignment_filter_incomplete">Lõpetamata</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Kohandatud värv</string>
     <string name="course_color_picker_title">Muuda värvi</string>
     <string name="course_credits_value">Ainepunktid: %1$s</string>
+    <string name="course_detail_assignments_label">Ülesanded</string>
     <string name="course_detail_classroom_label">Klassiruum</string>
     <string name="course_detail_code_copied">Kood kopeeritud</string>
     <string name="course_detail_code_label">Kood</string>

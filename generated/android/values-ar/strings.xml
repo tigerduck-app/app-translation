@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">إعادة الضبط</string>
     <string name="app_reset_required_message">تعذّرت قراءة حالة تسجيل الدخول وإعداداتك المفضّلة، ربما بسبب تحديث النظام أو استعادة نسخة احتياطية أو مشكلة في التخزين.\n\nاضغط على \"إعادة الضبط\" لمسح البيانات القديمة، ثم سجّل الدخول وأعد تكوين تفضيلاتك.</string>
     <string name="app_reset_required_title">إعادة الضبط مطلوبة</string>
+    <string name="assignment_detail_comments">تعليقات التسليم</string>
+    <string name="assignment_detail_description">الوصف</string>
+    <string name="assignment_detail_due">الموعد النهائي</string>
+    <string name="assignment_detail_group">المجموعة</string>
+    <string name="assignment_detail_not_submitted">لم يُسلَّم بعد</string>
+    <string name="assignment_detail_submission">تسليمك</string>
+    <string name="assignment_detail_submit_on_moodle">التسليم في Moodle</string>
+    <string name="assignment_detail_submitted_at">وقت التسليم</string>
     <string name="assignment_filter_all">الكل</string>
     <string name="assignment_filter_ignored">متجاهَل</string>
     <string name="assignment_filter_incomplete">غير مكتمل</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">لون مخصص</string>
     <string name="course_color_picker_title">تعديل اللون</string>
     <string name="course_credits_value">الساعات المعتمدة: %1$s</string>
+    <string name="course_detail_assignments_label">الواجبات</string>
     <string name="course_detail_classroom_label">الفصل الدراسي</string>
     <string name="course_detail_code_copied">تم نسخ الرمز</string>
     <string name="course_detail_code_label">شفرة</string>

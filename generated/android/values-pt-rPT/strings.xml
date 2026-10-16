@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Repor</string>
     <string name="app_reset_required_message">Já não é possível ler o estado da tua sessão e as preferências, possivelmente devido a uma atualização do sistema operativo, restauro de cópia de segurança ou problema de armazenamento.\n\nToca em \"Repor\" para limpar dados antigos e, depois, inicia sessão e reconfigura as tuas preferências.</string>
     <string name="app_reset_required_title">Reinicialização necessária</string>
+    <string name="assignment_detail_comments">Comentários da entrega</string>
+    <string name="assignment_detail_description">Descrição</string>
+    <string name="assignment_detail_due">Prazo</string>
+    <string name="assignment_detail_group">Grupo</string>
+    <string name="assignment_detail_not_submitted">Ainda não entregue</string>
+    <string name="assignment_detail_submission">A sua entrega</string>
+    <string name="assignment_detail_submit_on_moodle">Entregar no Moodle</string>
+    <string name="assignment_detail_submitted_at">Entregue em</string>
     <string name="assignment_filter_all">Todos</string>
     <string name="assignment_filter_ignored">Ignorados</string>
     <string name="assignment_filter_incomplete">Por concluir</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Cor personalizada</string>
     <string name="course_color_picker_title">Editar cor</string>
     <string name="course_credits_value">Créditos: %1$s</string>
+    <string name="course_detail_assignments_label">Trabalhos</string>
     <string name="course_detail_classroom_label">Sala de aula</string>
     <string name="course_detail_code_copied">Código copiado</string>
     <string name="course_detail_code_label">Código</string>

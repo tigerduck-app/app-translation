@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Restableix</string>
     <string name="app_reset_required_message">El vostre estat d\'inici de sessió i les preferències ja no es poden llegir, possiblement a causa d\'una actualització del sistema operatiu, una restauració de còpia de seguretat o un problema d\'emmagatzematge.\n\nToqueu «Restableix» per esborrar les dades antigues, i després inicieu la sessió i reconfigureu les preferències.</string>
     <string name="app_reset_required_title">Cal restablir</string>
+    <string name="assignment_detail_comments">Comentaris de la tramesa</string>
+    <string name="assignment_detail_description">Descripció</string>
+    <string name="assignment_detail_due">Venciment</string>
+    <string name="assignment_detail_group">Grup</string>
+    <string name="assignment_detail_not_submitted">Encara no s\'ha lliurat</string>
+    <string name="assignment_detail_submission">Tramesa</string>
+    <string name="assignment_detail_submit_on_moodle">Lliura a Moodle</string>
+    <string name="assignment_detail_submitted_at">Lliurada</string>
     <string name="assignment_filter_all">Totes</string>
     <string name="assignment_filter_ignored">Ignorades</string>
     <string name="assignment_filter_incomplete">Incompletes</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Color personalitzat</string>
     <string name="course_color_picker_title">Edita el color</string>
     <string name="course_credits_value">Crèdits: %1$s</string>
+    <string name="course_detail_assignments_label">Tasques</string>
     <string name="course_detail_classroom_label">Aula</string>
     <string name="course_detail_code_copied">Codi copiat</string>
     <string name="course_detail_code_label">Codi</string>

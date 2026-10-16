@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Tetapkan semula";
 "app_reset_required_message" = "Status log masuk dan keutamaan anda tidak dapat dibaca, mungkin disebabkan naik taraf OS, pemulihan sandaran, atau masalah storan.\n\nKetik \"Tetapkan semula\" untuk mengosongkan data lama, kemudian log masuk dan konfigurasi semula keutamaan anda.";
 "app_reset_required_title" = "Tetapan semula diperlukan";
+"assignment_detail_comments" = "Ulasan serahan";
+"assignment_detail_description" = "Penerangan";
+"assignment_detail_due" = "Tarikh akhir";
+"assignment_detail_group" = "Kumpulan";
+"assignment_detail_not_submitted" = "Belum dihantar";
+"assignment_detail_submission" = "Serahan anda";
+"assignment_detail_submit_on_moodle" = "Hantar di Moodle";
+"assignment_detail_submitted_at" = "Dihantar";
 "assignment_filter_all" = "Semua";
 "assignment_filter_ignored" = "Diabaikan";
 "assignment_filter_incomplete" = "Belum selesai";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Warna khusus";
 "course_color_picker_title" = "Edit warna";
 "course_credits_value" = "Kredit: %1$@";
+"course_detail_assignments_label" = "Tugasan";
 "course_detail_classroom_label" = "Bilik darjah";
 "course_detail_code_copied" = "Kod disalin";
 "course_detail_code_label" = "Kod";

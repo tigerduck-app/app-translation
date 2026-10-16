@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">রিসেট</string>
     <string name="app_reset_required_message">আপনার সাইন-ইন অবস্থা ও পছন্দ আর পড়া যাচ্ছে না, সম্ভবত OS আপগ্রেড, ব্যাকআপ পুনরুদ্ধার বা স্টোরেজ সমস্যার কারণে।\n\nপুরনো ডেটা মুছতে \"রিসেট\" ট্যাপ করুন, তারপর সাইন ইন করে পছন্দ পুনরায় সেট করুন।</string>
     <string name="app_reset_required_title">রিসেট প্রয়োজন</string>
+    <string name="assignment_detail_comments">জমার মন্তব্য</string>
+    <string name="assignment_detail_description">বিবরণ</string>
+    <string name="assignment_detail_due">জমার শেষ সময়</string>
+    <string name="assignment_detail_group">গ্রুপ</string>
+    <string name="assignment_detail_not_submitted">এখনো জমা দেওয়া হয়নি</string>
+    <string name="assignment_detail_submission">আপনার জমা</string>
+    <string name="assignment_detail_submit_on_moodle">Moodle-এ জমা দিন</string>
+    <string name="assignment_detail_submitted_at">জমা দেওয়ার সময়</string>
     <string name="assignment_filter_all">সব</string>
     <string name="assignment_filter_ignored">উপেক্ষিত</string>
     <string name="assignment_filter_incomplete">অসম্পূর্ণ</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">কাস্টম রঙ</string>
     <string name="course_color_picker_title">রঙ সম্পাদনা</string>
     <string name="course_credits_value">ক্রেডিট: %1$s</string>
+    <string name="course_detail_assignments_label">অ্যাসাইনমেন্টসমূহ</string>
     <string name="course_detail_classroom_label">শ্রেণীকক্ষ</string>
     <string name="course_detail_code_copied">কোড কপি হয়েছে</string>
     <string name="course_detail_code_label">কোড</string>

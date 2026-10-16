@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Återställ</string>
     <string name="app_reset_required_message">Din inloggningsstatus och dina inställningar kan inte längre läsas, möjligen på grund av en OS-uppgradering, säkerhetskopieringsåterställning eller ett lagringsproblem.\n\nTryck på \"Återställ\" för att rensa gamla data, logga sedan in och konfigurera om dina inställningar.</string>
     <string name="app_reset_required_title">Återställning krävs</string>
+    <string name="assignment_detail_comments">Kommentarer till inlämningen</string>
+    <string name="assignment_detail_description">Beskrivning</string>
+    <string name="assignment_detail_due">Deadline</string>
+    <string name="assignment_detail_group">Grupp</string>
+    <string name="assignment_detail_not_submitted">Inte inlämnad än</string>
+    <string name="assignment_detail_submission">Din inlämning</string>
+    <string name="assignment_detail_submit_on_moodle">Lämna in i Moodle</string>
+    <string name="assignment_detail_submitted_at">Inlämnad</string>
     <string name="assignment_filter_all">Alla</string>
     <string name="assignment_filter_ignored">Ignorerade</string>
     <string name="assignment_filter_incomplete">Ofärdig</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Anpassad färg</string>
     <string name="course_color_picker_title">Redigera färg</string>
     <string name="course_credits_value">Hp: %1$s</string>
+    <string name="course_detail_assignments_label">Uppgifter</string>
     <string name="course_detail_classroom_label">Klassrum</string>
     <string name="course_detail_code_copied">Koden kopierad</string>
     <string name="course_detail_code_label">Kurskod</string>

@@ -59,6 +59,14 @@
 "app_reset_required_action" = "إعادة الضبط";
 "app_reset_required_message" = "تعذّرت قراءة حالة تسجيل الدخول وإعداداتك المفضّلة، ربما بسبب تحديث النظام أو استعادة نسخة احتياطية أو مشكلة في التخزين.\n\nاضغط على \"إعادة الضبط\" لمسح البيانات القديمة، ثم سجّل الدخول وأعد تكوين تفضيلاتك.";
 "app_reset_required_title" = "إعادة الضبط مطلوبة";
+"assignment_detail_comments" = "تعليقات التسليم";
+"assignment_detail_description" = "الوصف";
+"assignment_detail_due" = "الموعد النهائي";
+"assignment_detail_group" = "المجموعة";
+"assignment_detail_not_submitted" = "لم يُسلَّم بعد";
+"assignment_detail_submission" = "تسليمك";
+"assignment_detail_submit_on_moodle" = "التسليم في Moodle";
+"assignment_detail_submitted_at" = "وقت التسليم";
 "assignment_filter_all" = "الكل";
 "assignment_filter_ignored" = "متجاهَل";
 "assignment_filter_incomplete" = "غير مكتمل";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "لون مخصص";
 "course_color_picker_title" = "تعديل اللون";
 "course_credits_value" = "الساعات المعتمدة: %1$@";
+"course_detail_assignments_label" = "الواجبات";
 "course_detail_classroom_label" = "الفصل الدراسي";
 "course_detail_code_copied" = "تم نسخ الرمز";
 "course_detail_code_label" = "شفرة";

@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Қалпына келтіру</string>
     <string name="app_reset_required_message">Кіру күйіңіз бен параметрлеріңізді оқу мүмкін емес; мүмкін операциялық жүйе жаңартуы, сақтық көшірмеден қалпына келтіру немесе сақтау мәселесі салдарынан.\n\nЕскі деректерді тазалау үшін «Қалпына келтіру» түймесін түртіңіз, содан кейін қайта кіріп параметрлерді орнатыңыз.</string>
     <string name="app_reset_required_title">Қалпына келтіру қажет</string>
+    <string name="assignment_detail_comments">Жұмысқа түсініктемелер</string>
+    <string name="assignment_detail_description">Сипаттама</string>
+    <string name="assignment_detail_due">Мерзімі</string>
+    <string name="assignment_detail_group">Топ</string>
+    <string name="assignment_detail_not_submitted">Әлі тапсырылмаған</string>
+    <string name="assignment_detail_submission">Тапсырылған жұмыс</string>
+    <string name="assignment_detail_submit_on_moodle">Moodle-да тапсыру</string>
+    <string name="assignment_detail_submitted_at">Тапсырылған уақыты</string>
     <string name="assignment_filter_all">Барлығы</string>
     <string name="assignment_filter_ignored">Елемеулер</string>
     <string name="assignment_filter_incomplete">Аяқталмаған</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Жеке түс</string>
     <string name="course_color_picker_title">Түсті өңдеу</string>
     <string name="course_credits_value">Кредит: %1$s</string>
+    <string name="course_detail_assignments_label">Тапсырмалар</string>
     <string name="course_detail_classroom_label">Аудитория</string>
     <string name="course_detail_code_copied">Код көшірілді</string>
     <string name="course_detail_code_label">Код</string>

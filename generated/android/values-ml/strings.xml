@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">റീസെറ്റ്</string>
     <string name="app_reset_required_message">OS അപ്‌ഗ്രേഡ്, ബാക്കപ്പ് പുനഃസ്ഥാപനം, അല്ലെങ്കിൽ സംഭരണ പ്രശ്‌നം കാരണം നിങ്ങളുടെ സൈൻ-ഇൻ നില, ക്രമീകരണങ്ങൾ എന്നിവ ഇനി വായിക്കാൻ കഴിയില്ല.\n\nപഴയ ഡേറ്റ മായ്ക്കാൻ \"റീസെറ്റ്\" ടാപ്പ് ചെയ്യുക, തുടർന്ന് സൈൻ ഇൻ ചെയ്ത് ക്രമീകരണങ്ങൾ വീണ്ടും ക്രമീകരിക്കുക.</string>
     <string name="app_reset_required_title">റീസെറ്റ് ആവശ്യമാണ്</string>
+    <string name="assignment_detail_comments">സമർപ്പണ കമന്റുകൾ</string>
+    <string name="assignment_detail_description">വിവരണം</string>
+    <string name="assignment_detail_due">അവസാന തീയതി</string>
+    <string name="assignment_detail_group">ഗ്രൂപ്പ്</string>
+    <string name="assignment_detail_not_submitted">ഇതുവരെ സമർപ്പിച്ചിട്ടില്ല</string>
+    <string name="assignment_detail_submission">നിങ്ങളുടെ സമർപ്പണം</string>
+    <string name="assignment_detail_submit_on_moodle">Moodle-ൽ സമർപ്പിക്കുക</string>
+    <string name="assignment_detail_submitted_at">സമർപ്പിച്ച സമയം</string>
     <string name="assignment_filter_all">എല്ലാം</string>
     <string name="assignment_filter_ignored">അവഗണിച്ചവ</string>
     <string name="assignment_filter_incomplete">അപൂർണ്ണം</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">ഇഷ്ടാനുസൃത നിറം</string>
     <string name="course_color_picker_title">നിറം എഡിറ്റ് ചെയ്യുക</string>
     <string name="course_credits_value">ക്രെഡിറ്റുകൾ: %1$s</string>
+    <string name="course_detail_assignments_label">അസൈൻമെന്റുകൾ</string>
     <string name="course_detail_classroom_label">ക്ലാസ്റൂം</string>
     <string name="course_detail_code_copied">കോഡ് പകർത്തി</string>
     <string name="course_detail_code_label">കോഡ്</string>

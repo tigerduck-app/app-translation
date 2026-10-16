@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Нулиране</string>
     <string name="app_reset_required_message">Вашето състояние на влизане и предпочитания вече не могат да бъдат прочетени, вероятно поради надграждане на ОС, възстановяване от резервно копие или проблем с хранилището.\n\nДокоснете „Нулиране“, за да изчистите старите данни, след което влезте и конфигурирайте предпочитанията си отново.</string>
     <string name="app_reset_required_title">Необходимо е нулиране</string>
+    <string name="assignment_detail_comments">Коментари към предаването</string>
+    <string name="assignment_detail_description">Описание</string>
+    <string name="assignment_detail_due">Краен срок</string>
+    <string name="assignment_detail_group">Група</string>
+    <string name="assignment_detail_not_submitted">Все още не е предадено</string>
+    <string name="assignment_detail_submission">Предадена работа</string>
+    <string name="assignment_detail_submit_on_moodle">Предаване в Moodle</string>
+    <string name="assignment_detail_submitted_at">Предадено</string>
     <string name="assignment_filter_all">Всички</string>
     <string name="assignment_filter_ignored">Игнорирани</string>
     <string name="assignment_filter_incomplete">Незавършени</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Цвят по избор</string>
     <string name="course_color_picker_title">Редактиране на цвят</string>
     <string name="course_credits_value">Кредити: %1$s</string>
+    <string name="course_detail_assignments_label">Задания</string>
     <string name="course_detail_classroom_label">Класна стая</string>
     <string name="course_detail_code_copied">Кодът е копиран</string>
     <string name="course_detail_code_label">Код</string>

@@ -59,6 +59,14 @@
 "app_reset_required_action" = "रीसेट करा";
 "app_reset_required_message" = "तुमची साइन इन स्थिती आणि प्राधान्ये वाचता येत नाहीत, कदाचित OS अपग्रेड, बॅकअप पुनर्संचयित करणे किंवा स्टोरेज समस्यामुळे.\n\n'रीसेट' वर टॅप करा जेणेकरून जुना डेटा साफ होईल, नंतर साइन इन करा आणि तुमची प्राधान्ये पुन्हा सेट करा.";
 "app_reset_required_title" = "रीसेट आवश्यक आहे";
+"assignment_detail_comments" = "सबमिशन टिप्पण्या";
+"assignment_detail_description" = "वर्णन";
+"assignment_detail_due" = "देय वेळ";
+"assignment_detail_group" = "गट";
+"assignment_detail_not_submitted" = "अजून सादर केले नाही";
+"assignment_detail_submission" = "तुमचे सबमिशन";
+"assignment_detail_submit_on_moodle" = "Moodle वर सादर करा";
+"assignment_detail_submitted_at" = "सादर केल्याची वेळ";
 "assignment_filter_all" = "सर्व";
 "assignment_filter_ignored" = "दुर्लक्षित";
 "assignment_filter_incomplete" = "अपूर्ण";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "सानुकूल रंग";
 "course_color_picker_title" = "रंग संपादित करा";
 "course_credits_value" = "क्रेडिट्स: %1$@";
+"course_detail_assignments_label" = "असाइनमेंट";
 "course_detail_classroom_label" = "वर्गखोली";
 "course_detail_code_copied" = "कोड कॉपी झाला";
 "course_detail_code_label" = "कोड";

@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Қалпына келтіру";
 "app_reset_required_message" = "Кіру күйіңіз бен параметрлеріңізді оқу мүмкін емес; мүмкін операциялық жүйе жаңартуы, сақтық көшірмеден қалпына келтіру немесе сақтау мәселесі салдарынан.\n\nЕскі деректерді тазалау үшін «Қалпына келтіру» түймесін түртіңіз, содан кейін қайта кіріп параметрлерді орнатыңыз.";
 "app_reset_required_title" = "Қалпына келтіру қажет";
+"assignment_detail_comments" = "Жұмысқа түсініктемелер";
+"assignment_detail_description" = "Сипаттама";
+"assignment_detail_due" = "Мерзімі";
+"assignment_detail_group" = "Топ";
+"assignment_detail_not_submitted" = "Әлі тапсырылмаған";
+"assignment_detail_submission" = "Тапсырылған жұмыс";
+"assignment_detail_submit_on_moodle" = "Moodle-да тапсыру";
+"assignment_detail_submitted_at" = "Тапсырылған уақыты";
 "assignment_filter_all" = "Барлығы";
 "assignment_filter_ignored" = "Елемеулер";
 "assignment_filter_incomplete" = "Аяқталмаған";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Жеке түс";
 "course_color_picker_title" = "Түсті өңдеу";
 "course_credits_value" = "Кредит: %1$@";
+"course_detail_assignments_label" = "Тапсырмалар";
 "course_detail_classroom_label" = "Аудитория";
 "course_detail_code_copied" = "Код көшірілді";
 "course_detail_code_label" = "Код";

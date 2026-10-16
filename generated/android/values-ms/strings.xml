@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Tetapkan semula</string>
     <string name="app_reset_required_message">Status log masuk dan keutamaan anda tidak dapat dibaca, mungkin disebabkan naik taraf OS, pemulihan sandaran, atau masalah storan.\n\nKetik \"Tetapkan semula\" untuk mengosongkan data lama, kemudian log masuk dan konfigurasi semula keutamaan anda.</string>
     <string name="app_reset_required_title">Tetapan semula diperlukan</string>
+    <string name="assignment_detail_comments">Ulasan serahan</string>
+    <string name="assignment_detail_description">Penerangan</string>
+    <string name="assignment_detail_due">Tarikh akhir</string>
+    <string name="assignment_detail_group">Kumpulan</string>
+    <string name="assignment_detail_not_submitted">Belum dihantar</string>
+    <string name="assignment_detail_submission">Serahan anda</string>
+    <string name="assignment_detail_submit_on_moodle">Hantar di Moodle</string>
+    <string name="assignment_detail_submitted_at">Dihantar</string>
     <string name="assignment_filter_all">Semua</string>
     <string name="assignment_filter_ignored">Diabaikan</string>
     <string name="assignment_filter_incomplete">Belum selesai</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Warna khusus</string>
     <string name="course_color_picker_title">Edit warna</string>
     <string name="course_credits_value">Kredit: %1$s</string>
+    <string name="course_detail_assignments_label">Tugasan</string>
     <string name="course_detail_classroom_label">Bilik darjah</string>
     <string name="course_detail_code_copied">Kod disalin</string>
     <string name="course_detail_code_label">Kod</string>

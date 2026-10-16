@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Resetare";
 "app_reset_required_message" = "Starea de autentificare și preferințele tale nu mai pot fi citite, posibil din cauza unei actualizări de SO, restaurări din backup sau probleme de stocare.\n\nApasă „Resetare“ pentru a șterge datele vechi, apoi autentifică-te și reconfigurează preferințele.";
 "app_reset_required_title" = "Resetare necesară";
+"assignment_detail_comments" = "Comentarii la predare";
+"assignment_detail_description" = "Descriere";
+"assignment_detail_due" = "Termen";
+"assignment_detail_group" = "Grup";
+"assignment_detail_not_submitted" = "Încă nepredat";
+"assignment_detail_submission" = "Lucrarea predată";
+"assignment_detail_submit_on_moodle" = "Predă în Moodle";
+"assignment_detail_submitted_at" = "Trimis";
 "assignment_filter_all" = "Toate";
 "assignment_filter_ignored" = "Ignorate";
 "assignment_filter_incomplete" = "Incomplete";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Culoare personalizată";
 "course_color_picker_title" = "Editează culoarea";
 "course_credits_value" = "Credite: %1$@";
+"course_detail_assignments_label" = "Teme";
 "course_detail_classroom_label" = "Sală";
 "course_detail_code_copied" = "Cod copiat";
 "course_detail_code_label" = "Cod";

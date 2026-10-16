@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Скинути</string>
     <string name="app_reset_required_message">Стан вашого входу та налаштування неможливо прочитати, можливо, через оновлення ОС, відновлення з резервної копії або проблему зі сховищем.\n\nТоркніться «Скинути», щоб очистити старі дані, потім увійдіть і налаштуйте параметри заново.</string>
     <string name="app_reset_required_title">Потрібне скидання</string>
+    <string name="assignment_detail_comments">Коментарі до відповіді</string>
+    <string name="assignment_detail_description">Опис</string>
+    <string name="assignment_detail_due">Термін здачі</string>
+    <string name="assignment_detail_group">Група</string>
+    <string name="assignment_detail_not_submitted">Ще не здано</string>
+    <string name="assignment_detail_submission">Ваша відповідь</string>
+    <string name="assignment_detail_submit_on_moodle">Здати в Moodle</string>
+    <string name="assignment_detail_submitted_at">Здано</string>
     <string name="assignment_filter_all">Усі</string>
     <string name="assignment_filter_ignored">Проігноровані</string>
     <string name="assignment_filter_incomplete">Незавершені</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Власний колір</string>
     <string name="course_color_picker_title">Змінити колір</string>
     <string name="course_credits_value">Кредити: %1$s</string>
+    <string name="course_detail_assignments_label">Завдання</string>
     <string name="course_detail_classroom_label">Аудиторія</string>
     <string name="course_detail_code_copied">Код скопійовано</string>
     <string name="course_detail_code_label">Код</string>

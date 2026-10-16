@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Επαναφορά";
 "app_reset_required_message" = "Η κατάσταση σύνδεσης και οι προτιμήσεις σας δεν μπορούν πλέον να διαβαστούν, πιθανώς λόγω αναβάθμισης ΛΣ, επαναφοράς αντιγράφου ασφαλείας ή προβλήματος αποθήκευσης.\n\nΠατήστε «Επαναφορά» για εκκαθάριση παλιών δεδομένων, στη συνέχεια συνδεθείτε και ρυθμίστε ξανά τις προτιμήσεις σας.";
 "app_reset_required_title" = "Απαιτείται επαναφορά";
+"assignment_detail_comments" = "Σχόλια υποβολής";
+"assignment_detail_description" = "Περιγραφή";
+"assignment_detail_due" = "Προθεσμία";
+"assignment_detail_group" = "Ομάδα";
+"assignment_detail_not_submitted" = "Δεν έχει υποβληθεί ακόμη";
+"assignment_detail_submission" = "Η υποβολή σας";
+"assignment_detail_submit_on_moodle" = "Υποβολή στο Moodle";
+"assignment_detail_submitted_at" = "Υποβλήθηκε";
 "assignment_filter_all" = "Όλες";
 "assignment_filter_ignored" = "Αγνοημένες";
 "assignment_filter_incomplete" = "Ημιτελείς";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Προσαρμοσμένο χρώμα";
 "course_color_picker_title" = "Επεξεργασία χρώματος";
 "course_credits_value" = "Πιστωτικές μονάδες: %1$@";
+"course_detail_assignments_label" = "Εργασίες";
 "course_detail_classroom_label" = "Αίθουσα διδασκαλίας";
 "course_detail_code_copied" = "Ο κωδικός αντιγράφηκε";
 "course_detail_code_label" = "Κώδικας";

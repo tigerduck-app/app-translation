@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">재설정</string>
     <string name="app_reset_required_message">로그인 상태와 환경 설정을 더 이상 읽을 수 없습니다. OS 업그레이드, 백업 복원 또는 저장소 문제 때문일 수 있습니다.\n\n\"재설정\"을 탭해 이전 데이터를 지운 다음 로그인하고 환경 설정을 다시 구성해 주세요.</string>
     <string name="app_reset_required_title">재설정 필요</string>
+    <string name="assignment_detail_comments">제출 코멘트</string>
+    <string name="assignment_detail_description">과제 설명</string>
+    <string name="assignment_detail_due">마감</string>
+    <string name="assignment_detail_group">그룹</string>
+    <string name="assignment_detail_not_submitted">아직 제출하지 않음</string>
+    <string name="assignment_detail_submission">제출물</string>
+    <string name="assignment_detail_submit_on_moodle">Moodle에서 제출</string>
+    <string name="assignment_detail_submitted_at">제출 시간</string>
     <string name="assignment_filter_all">전체</string>
     <string name="assignment_filter_ignored">무시됨</string>
     <string name="assignment_filter_incomplete">미완료</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">사용자 지정 색상</string>
     <string name="course_color_picker_title">색상 편집</string>
     <string name="course_credits_value">학점: %1$s</string>
+    <string name="course_detail_assignments_label">과제</string>
     <string name="course_detail_classroom_label">강의실</string>
     <string name="course_detail_code_copied">코드가 복사되었습니다</string>
     <string name="course_detail_code_label">코드</string>

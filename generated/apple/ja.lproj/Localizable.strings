@@ -59,6 +59,14 @@
 "app_reset_required_action" = "リセット";
 "app_reset_required_message" = "サインイン状態と環境設定が読み取れなくなりました。OS のアップグレード、バックアップの復元、またはストレージの問題が原因の可能性があります。\n\n「リセット」をタップして古いデータを削除した後、再度サインインして設定をやり直してください。";
 "app_reset_required_title" = "再設定が必要です";
+"assignment_detail_comments" = "提出コメント";
+"assignment_detail_description" = "課題の説明";
+"assignment_detail_due" = "期限";
+"assignment_detail_group" = "グループ";
+"assignment_detail_not_submitted" = "未提出";
+"assignment_detail_submission" = "提出物";
+"assignment_detail_submit_on_moodle" = "Moodle で提出";
+"assignment_detail_submitted_at" = "提出日時";
 "assignment_filter_all" = "すべて";
 "assignment_filter_ignored" = "無視済み";
 "assignment_filter_incomplete" = "未完了";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "カスタムカラー";
 "course_color_picker_title" = "色を編集";
 "course_credits_value" = "単位：%1$@";
+"course_detail_assignments_label" = "課題";
 "course_detail_classroom_label" = "教室";
 "course_detail_code_copied" = "コードをコピーしました";
 "course_detail_code_label" = "コード";
