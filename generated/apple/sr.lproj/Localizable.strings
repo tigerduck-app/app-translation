@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Ресетуј";
 "app_reset_required_message" = "Ваше стање пријаве и подешавања се више не могу прочитати, вероватно услед надоградње ОС-а, враћања резервне копије или проблема са складиштем.\n\nДодирните „Ресетуј\" да бисте обрисали старе податке, а затим се пријавите и поново конфигуришите подешавања.";
 "app_reset_required_title" = "Потребно је ресетовање";
+"assignment_detail_comments" = "Коментари на предају";
+"assignment_detail_description" = "Опис";
+"assignment_detail_due" = "Рок";
+"assignment_detail_group" = "Група";
+"assignment_detail_not_submitted" = "Још није предато";
+"assignment_detail_submission" = "Ваша предаја";
+"assignment_detail_submit_on_moodle" = "Предај у Moodle-у";
+"assignment_detail_submitted_at" = "Предато";
 "assignment_filter_all" = "Све";
 "assignment_filter_ignored" = "Игнорисано";
 "assignment_filter_incomplete" = "Недовршено";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Прилагођена боја";
 "course_color_picker_title" = "Уреди боју";
 "course_credits_value" = "ЕСПБ бодови: %1$@";
+"course_detail_assignments_label" = "Задаци";
 "course_detail_classroom_label" = "Учионица";
 "course_detail_code_copied" = "Код копиран";
 "course_detail_code_label" = "Шифра";

@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">மீட்டமை</string>
     <string name="app_reset_required_message">உங்கள் உள்நுழைவு நிலை மற்றும் விருப்பங்களை இனி படிக்க முடியவில்லை, OS மேம்படுத்தல், காப்பு மீட்டமைவு அல்லது சேமிப்பக சிக்கலால் இருக்கலாம்.\n\nபழைய தரவை அழிக்க \"மீட்டமை\" என்பதை தட்டவும், பின்னர் உள்நுழைந்து உங்கள் விருப்பங்களை மீண்டும் கட்டமைக்கவும்.</string>
     <string name="app_reset_required_title">மீட்டமைவு தேவை</string>
+    <string name="assignment_detail_comments">சமர்ப்பிப்புக் கருத்துகள்</string>
+    <string name="assignment_detail_description">விளக்கம்</string>
+    <string name="assignment_detail_due">காலக்கெடு</string>
+    <string name="assignment_detail_group">குழு</string>
+    <string name="assignment_detail_not_submitted">இன்னும் சமர்ப்பிக்கவில்லை</string>
+    <string name="assignment_detail_submission">உங்கள் சமர்ப்பிப்பு</string>
+    <string name="assignment_detail_submit_on_moodle">Moodle-ல் சமர்ப்பிக்கவும்</string>
+    <string name="assignment_detail_submitted_at">சமர்ப்பித்த நேரம்</string>
     <string name="assignment_filter_all">அனைத்தும்</string>
     <string name="assignment_filter_ignored">புறக்கணிக்கப்பட்டவை</string>
     <string name="assignment_filter_incomplete">முடிக்கப்படாதவை</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">தனிப்பயன் வண்ணம்</string>
     <string name="course_color_picker_title">வண்ணத்தைத் திருத்து</string>
     <string name="course_credits_value">கிரெடிட்கள்: %1$s</string>
+    <string name="course_detail_assignments_label">ஒப்படைப்புகள்</string>
     <string name="course_detail_classroom_label">வகுப்பறை</string>
     <string name="course_detail_code_copied">குறியீடு நகலெடுக்கப்பட்டது</string>
     <string name="course_detail_code_label">வகுப்பு குறியீடு</string>

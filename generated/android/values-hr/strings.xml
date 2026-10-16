@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Resetiraj</string>
     <string name="app_reset_required_message">Vaše stanje prijave i preferencije više se ne mogu učitati, moguće zbog nadogradnje OS-a, vraćanja sigurnosne kopije ili problema s pohranom.\n\nDodirnite „Resetiraj“ za brisanje starih podataka, zatim se prijavite i ponovno konfigurirajte preferencije.</string>
     <string name="app_reset_required_title">Potrebno je resetiranje</string>
+    <string name="assignment_detail_comments">Komentari predaje</string>
+    <string name="assignment_detail_description">Opis</string>
+    <string name="assignment_detail_due">Rok</string>
+    <string name="assignment_detail_group">Grupa</string>
+    <string name="assignment_detail_not_submitted">Još nije predano</string>
+    <string name="assignment_detail_submission">Vaša predaja</string>
+    <string name="assignment_detail_submit_on_moodle">Predaj u Moodleu</string>
+    <string name="assignment_detail_submitted_at">Predano</string>
     <string name="assignment_filter_all">Svi</string>
     <string name="assignment_filter_ignored">Ignorirani</string>
     <string name="assignment_filter_incomplete">Nedovršeni</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Prilagođena boja</string>
     <string name="course_color_picker_title">Uredi boju</string>
     <string name="course_credits_value">ECTS bodovi: %1$s</string>
+    <string name="course_detail_assignments_label">Zadaci</string>
     <string name="course_detail_classroom_label">Učionica</string>
     <string name="course_detail_code_copied">Kôd kopiran</string>
     <string name="course_detail_code_label">Šifra</string>

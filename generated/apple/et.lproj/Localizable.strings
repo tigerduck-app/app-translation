@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Lähtesta";
 "app_reset_required_message" = "Teie sisselogimisolekut ja eelistusi ei saa enam lugeda, tõenäoliselt OS-i uuenduse, varukoopia taastamise või salvestusprobleemi tõttu.\n\nPuudutage „Lähtesta\", et kustutada vanad andmed, seejärel logige sisse ja seadistage eelistused uuesti.";
 "app_reset_required_title" = "Lähtestamine vajalik";
+"assignment_detail_comments" = "Esituse kommentaarid";
+"assignment_detail_description" = "Kirjeldus";
+"assignment_detail_due" = "Tähtaeg";
+"assignment_detail_group" = "Rühm";
+"assignment_detail_not_submitted" = "Pole veel esitatud";
+"assignment_detail_submission" = "Sinu esitus";
+"assignment_detail_submit_on_moodle" = "Esita Moodle'is";
+"assignment_detail_submitted_at" = "Esitatud";
 "assignment_filter_all" = "Kõik";
 "assignment_filter_ignored" = "Ignoreeritud";
 "assignment_filter_incomplete" = "Lõpetamata";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Kohandatud värv";
 "course_color_picker_title" = "Muuda värvi";
 "course_credits_value" = "Ainepunktid: %1$@";
+"course_detail_assignments_label" = "Ülesanded";
 "course_detail_classroom_label" = "Klassiruum";
 "course_detail_code_copied" = "Kood kopeeritud";
 "course_detail_code_label" = "Kood";

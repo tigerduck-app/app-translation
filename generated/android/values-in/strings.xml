@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Setel ulang</string>
     <string name="app_reset_required_message">Status login dan preferensi kamu tidak dapat dibaca lagi, mungkin karena pembaruan OS, pemulihan cadangan, atau masalah penyimpanan.\n\nKetuk \"Setel ulang\" untuk menghapus data lama, lalu masuk dan konfigurasi ulang preferensi kamu.</string>
     <string name="app_reset_required_title">Perlu disetel ulang</string>
+    <string name="assignment_detail_comments">Komentar kiriman</string>
+    <string name="assignment_detail_description">Deskripsi</string>
+    <string name="assignment_detail_due">Tenggat</string>
+    <string name="assignment_detail_group">Grup</string>
+    <string name="assignment_detail_not_submitted">Belum dikirim</string>
+    <string name="assignment_detail_submission">Kiriman Anda</string>
+    <string name="assignment_detail_submit_on_moodle">Kirim di Moodle</string>
+    <string name="assignment_detail_submitted_at">Dikirim</string>
     <string name="assignment_filter_all">Semua</string>
     <string name="assignment_filter_ignored">Diabaikan</string>
     <string name="assignment_filter_incomplete">Belum selesai</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Warna khusus</string>
     <string name="course_color_picker_title">Edit warna</string>
     <string name="course_credits_value">SKS: %1$s</string>
+    <string name="course_detail_assignments_label">Tugas</string>
     <string name="course_detail_classroom_label">Ruang kelas</string>
     <string name="course_detail_code_copied">Kode disalin</string>
     <string name="course_detail_code_label">Kode</string>

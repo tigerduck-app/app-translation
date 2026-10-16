@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Restablecer</string>
     <string name="app_reset_required_message">Tu estado de sesión y preferencias ya no se pueden leer, posiblemente debido a una actualización del sistema operativo, restauración de copia de seguridad o problema de almacenamiento.\n\nToca \"Restablecer\" para borrar los datos antiguos, luego inicia sesión y reconfigura tus preferencias.</string>
     <string name="app_reset_required_title">Restablecimiento requerido</string>
+    <string name="assignment_detail_comments">Comentarios de la entrega</string>
+    <string name="assignment_detail_description">Descripción</string>
+    <string name="assignment_detail_due">Vencimiento</string>
+    <string name="assignment_detail_group">Grupo</string>
+    <string name="assignment_detail_not_submitted">Aún no entregada</string>
+    <string name="assignment_detail_submission">Tu entrega</string>
+    <string name="assignment_detail_submit_on_moodle">Entregar en Moodle</string>
+    <string name="assignment_detail_submitted_at">Entregada</string>
     <string name="assignment_filter_all">Todas</string>
     <string name="assignment_filter_ignored">Ignoradas</string>
     <string name="assignment_filter_incomplete">Incompletas</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Color personalizado</string>
     <string name="course_color_picker_title">Editar color</string>
     <string name="course_credits_value">Créditos: %1$s</string>
+    <string name="course_detail_assignments_label">Tareas</string>
     <string name="course_detail_classroom_label">Aula</string>
     <string name="course_detail_code_copied">Código copiado</string>
     <string name="course_detail_code_label">Código</string>

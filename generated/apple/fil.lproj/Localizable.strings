@@ -59,6 +59,14 @@
 "app_reset_required_action" = "I-reset";
 "app_reset_required_message" = "Hindi na mabasa ang iyong sign-in state at mga kagustuhan, posibleng dahil sa pag-upgrade ng OS, pagpapanumbalik ng backup, o isyu sa storage.\n\nI-tap ang \"I-reset\" para burahin ang lumang data, pagkatapos ay mag-sign in muli at i-reconfigure ang iyong mga kagustuhan.";
 "app_reset_required_title" = "Kailangan ng reset";
+"assignment_detail_comments" = "Mga komento sa isinumite";
+"assignment_detail_description" = "Paglalarawan";
+"assignment_detail_due" = "Takdang petsa";
+"assignment_detail_group" = "Grupo";
+"assignment_detail_not_submitted" = "Hindi pa naisusumite";
+"assignment_detail_submission" = "Ang iyong isinumite";
+"assignment_detail_submit_on_moodle" = "Isumite sa Moodle";
+"assignment_detail_submitted_at" = "Naisumite";
 "assignment_filter_all" = "Lahat";
 "assignment_filter_ignored" = "Binabalewala";
 "assignment_filter_incomplete" = "Hindi pa tapos";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Pasadyang kulay";
 "course_color_picker_title" = "I-edit ang kulay";
 "course_credits_value" = "Mga credit: %1$@";
+"course_detail_assignments_label" = "Mga takdang-aralin";
 "course_detail_classroom_label" = "Silid-aralan";
 "course_detail_code_copied" = "Nakopya ang code";
 "course_detail_code_label" = "Code";

@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Obnovit</string>
     <string name="app_reset_required_message">Vaše přihlášení a předvolby již nelze načíst, pravděpodobně kvůli aktualizaci OS, obnovení ze zálohy nebo problému s úložištěm.\n\nKlepnutím na „Obnovit“ vymažete stará data a poté se znovu přihlásíte a nakonfigurujete své předvolby.</string>
     <string name="app_reset_required_title">Vyžadováno obnovení</string>
+    <string name="assignment_detail_comments">Komentáře k odevzdání</string>
+    <string name="assignment_detail_description">Popis</string>
+    <string name="assignment_detail_due">Termín</string>
+    <string name="assignment_detail_group">Skupina</string>
+    <string name="assignment_detail_not_submitted">Zatím neodevzdáno</string>
+    <string name="assignment_detail_submission">Odevzdaná práce</string>
+    <string name="assignment_detail_submit_on_moodle">Odevzdat v Moodle</string>
+    <string name="assignment_detail_submitted_at">Odevzdáno</string>
     <string name="assignment_filter_all">Vše</string>
     <string name="assignment_filter_ignored">Ignorované</string>
     <string name="assignment_filter_incomplete">Nedokončené</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Vlastní barva</string>
     <string name="course_color_picker_title">Upravit barvu</string>
     <string name="course_credits_value">Kredity: %1$s</string>
+    <string name="course_detail_assignments_label">Úkoly</string>
     <string name="course_detail_classroom_label">Třída</string>
     <string name="course_detail_code_copied">Kód zkopírován</string>
     <string name="course_detail_code_label">Kód</string>

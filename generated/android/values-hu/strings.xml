@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Visszaállítás</string>
     <string name="app_reset_required_message">A bejelentkezési állapot és a beállítások nem olvashatók, valószínűleg operációs rendszer frissítés, biztonsági mentés visszaállítása vagy tárolási hiba miatt.\n\nKoppintson a \"Visszaállítás\" gombra a régi adatok törléséhez, majd jelentkezzen be újra és konfigurálja újra a beállításokat.</string>
     <string name="app_reset_required_title">Visszaállítás szükséges</string>
+    <string name="assignment_detail_comments">Beadási megjegyzések</string>
+    <string name="assignment_detail_description">Leírás</string>
+    <string name="assignment_detail_due">Határidő</string>
+    <string name="assignment_detail_group">Csoport</string>
+    <string name="assignment_detail_not_submitted">Még nincs beadva</string>
+    <string name="assignment_detail_submission">Beadott munka</string>
+    <string name="assignment_detail_submit_on_moodle">Beadás Moodle-ban</string>
+    <string name="assignment_detail_submitted_at">Beadva</string>
     <string name="assignment_filter_all">Mind</string>
     <string name="assignment_filter_ignored">Figyelmen kívül hagyott</string>
     <string name="assignment_filter_incomplete">Befejezetlen</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Egyéni szín</string>
     <string name="course_color_picker_title">Szín szerkesztése</string>
     <string name="course_credits_value">Kreditek: %1$s</string>
+    <string name="course_detail_assignments_label">Házi feladatok</string>
     <string name="course_detail_classroom_label">Tanterem</string>
     <string name="course_detail_code_copied">Kód másolva</string>
     <string name="course_detail_code_label">Kód</string>

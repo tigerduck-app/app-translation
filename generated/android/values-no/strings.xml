@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Tilbakestill</string>
     <string name="app_reset_required_message">Påloggingstilstanden og preferansene dine kan ikke lenger leses, muligens på grunn av en OS-oppgradering, sikkerhetskopigjenoppretting eller lagringsproblem.\n\nTrykk «Tilbakestill» for å fjerne gamle data, logg deretter inn og konfigurer preferansene dine på nytt.</string>
     <string name="app_reset_required_title">Tilbakestilling nødvendig</string>
+    <string name="assignment_detail_comments">Kommentarer til innleveringen</string>
+    <string name="assignment_detail_description">Beskrivelse</string>
+    <string name="assignment_detail_due">Frist</string>
+    <string name="assignment_detail_group">Gruppe</string>
+    <string name="assignment_detail_not_submitted">Ikke levert ennå</string>
+    <string name="assignment_detail_submission">Din innlevering</string>
+    <string name="assignment_detail_submit_on_moodle">Lever i Moodle</string>
+    <string name="assignment_detail_submitted_at">Innlevert</string>
     <string name="assignment_filter_all">Alle</string>
     <string name="assignment_filter_ignored">Ignorerte</string>
     <string name="assignment_filter_incomplete">Ufullstendige</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Egendefinert farge</string>
     <string name="course_color_picker_title">Rediger farge</string>
     <string name="course_credits_value">Studiepoeng: %1$s</string>
+    <string name="course_detail_assignments_label">Oppgaver</string>
     <string name="course_detail_classroom_label">Klasserom</string>
     <string name="course_detail_code_copied">Koden er kopiert</string>
     <string name="course_detail_code_label">Fagkode</string>

@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">איפוס</string>
     <string name="app_reset_required_message">מצב הכניסה וההעדפות שלך אינם ניתנים לקריאה, אולי עקב שדרוג מערכת הפעלה, שחזור גיבוי או בעיית אחסון.\n\nהקש \"איפוס\" למחיקת נתונים ישנים, ולאחר מכן התחבר מחדש והגדר את ההעדפות שלך.</string>
     <string name="app_reset_required_title">נדרש איפוס</string>
+    <string name="assignment_detail_comments">הערות להגשה</string>
+    <string name="assignment_detail_description">תיאור</string>
+    <string name="assignment_detail_due">מועד הגשה</string>
+    <string name="assignment_detail_group">קבוצה</string>
+    <string name="assignment_detail_not_submitted">טרם הוגש</string>
+    <string name="assignment_detail_submission">ההגשה שלך</string>
+    <string name="assignment_detail_submit_on_moodle">הגשה ב-Moodle</string>
+    <string name="assignment_detail_submitted_at">הוגש</string>
     <string name="assignment_filter_all">הכל</string>
     <string name="assignment_filter_ignored">מתעלמים</string>
     <string name="assignment_filter_incomplete">לא הושלם</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">צבע מותאם אישית</string>
     <string name="course_color_picker_title">ערוך צבע</string>
     <string name="course_credits_value">נקודות זכות: %1$s</string>
+    <string name="course_detail_assignments_label">מטלות</string>
     <string name="course_detail_classroom_label">כיתה</string>
     <string name="course_detail_code_copied">הקוד הועתק</string>
     <string name="course_detail_code_label">קוד</string>

@@ -59,6 +59,14 @@
 "app_reset_required_action" = "റീസെറ്റ്";
 "app_reset_required_message" = "OS അപ്‌ഗ്രേഡ്, ബാക്കപ്പ് പുനഃസ്ഥാപനം, അല്ലെങ്കിൽ സംഭരണ പ്രശ്‌നം കാരണം നിങ്ങളുടെ സൈൻ-ഇൻ നില, ക്രമീകരണങ്ങൾ എന്നിവ ഇനി വായിക്കാൻ കഴിയില്ല.\n\nപഴയ ഡേറ്റ മായ്ക്കാൻ \"റീസെറ്റ്\" ടാപ്പ് ചെയ്യുക, തുടർന്ന് സൈൻ ഇൻ ചെയ്ത് ക്രമീകരണങ്ങൾ വീണ്ടും ക്രമീകരിക്കുക.";
 "app_reset_required_title" = "റീസെറ്റ് ആവശ്യമാണ്";
+"assignment_detail_comments" = "സമർപ്പണ കമന്റുകൾ";
+"assignment_detail_description" = "വിവരണം";
+"assignment_detail_due" = "അവസാന തീയതി";
+"assignment_detail_group" = "ഗ്രൂപ്പ്";
+"assignment_detail_not_submitted" = "ഇതുവരെ സമർപ്പിച്ചിട്ടില്ല";
+"assignment_detail_submission" = "നിങ്ങളുടെ സമർപ്പണം";
+"assignment_detail_submit_on_moodle" = "Moodle-ൽ സമർപ്പിക്കുക";
+"assignment_detail_submitted_at" = "സമർപ്പിച്ച സമയം";
 "assignment_filter_all" = "എല്ലാം";
 "assignment_filter_ignored" = "അവഗണിച്ചവ";
 "assignment_filter_incomplete" = "അപൂർണ്ണം";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "ഇഷ്ടാനുസൃത നിറം";
 "course_color_picker_title" = "നിറം എഡിറ്റ് ചെയ്യുക";
 "course_credits_value" = "ക്രെഡിറ്റുകൾ: %1$@";
+"course_detail_assignments_label" = "അസൈൻമെന്റുകൾ";
 "course_detail_classroom_label" = "ക്ലാസ്റൂം";
 "course_detail_code_copied" = "കോഡ് പകർത്തി";
 "course_detail_code_label" = "കോഡ്";

@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Réinitialiser</string>
     <string name="app_reset_required_message">Votre état de connexion et vos préférences ne peuvent plus être lus, probablement en raison d\'une mise à jour de l\'OS, d\'une restauration de sauvegarde ou d\'un problème de stockage.\n\nAppuyez sur « Réinitialiser » pour effacer les anciennes données, puis connectez-vous et reconfigurez vos préférences.</string>
     <string name="app_reset_required_title">Réinitialisation requise</string>
+    <string name="assignment_detail_comments">Commentaires de remise</string>
+    <string name="assignment_detail_description">Description</string>
+    <string name="assignment_detail_due">Échéance</string>
+    <string name="assignment_detail_group">Groupe</string>
+    <string name="assignment_detail_not_submitted">Pas encore rendu</string>
+    <string name="assignment_detail_submission">Votre remise</string>
+    <string name="assignment_detail_submit_on_moodle">Remettre sur Moodle</string>
+    <string name="assignment_detail_submitted_at">Rendu</string>
     <string name="assignment_filter_all">Tous</string>
     <string name="assignment_filter_ignored">Ignorés</string>
     <string name="assignment_filter_incomplete">À faire</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Couleur personnalisée</string>
     <string name="course_color_picker_title">Modifier la couleur</string>
     <string name="course_credits_value">Crédits : %1$s</string>
+    <string name="course_detail_assignments_label">Devoirs</string>
     <string name="course_detail_classroom_label">En classe</string>
     <string name="course_detail_code_copied">Code copié</string>
     <string name="course_detail_code_label">Code</string>

@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Zresetuj</string>
     <string name="app_reset_required_message">Stan logowania oraz preferencje nie mogą zostać odczytane, prawdopodobnie z powodu aktualizacji systemu, przywrócenia kopii zapasowej lub problemu z pamięcią.\n\nStuknąć „Zresetuj”, aby usunąć stare dane, następnie zalogować się ponownie i skonfigurować preferencje.</string>
     <string name="app_reset_required_title">Wymagane zresetowanie</string>
+    <string name="assignment_detail_comments">Komentarze do przesłanego zadania</string>
+    <string name="assignment_detail_description">Opis</string>
+    <string name="assignment_detail_due">Termin</string>
+    <string name="assignment_detail_group">Grupa</string>
+    <string name="assignment_detail_not_submitted">Jeszcze nie oddano</string>
+    <string name="assignment_detail_submission">Przesłane zadanie</string>
+    <string name="assignment_detail_submit_on_moodle">Oddaj w Moodle</string>
+    <string name="assignment_detail_submitted_at">Oddano</string>
     <string name="assignment_filter_all">Wszystkie</string>
     <string name="assignment_filter_ignored">Zignorowane</string>
     <string name="assignment_filter_incomplete">Niezakończone</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Kolor niestandardowy</string>
     <string name="course_color_picker_title">Edytuj kolor</string>
     <string name="course_credits_value">Punkty ECTS: %1$s</string>
+    <string name="course_detail_assignments_label">Zadania</string>
     <string name="course_detail_classroom_label">Sala</string>
     <string name="course_detail_code_copied">Skopiowano kod</string>
     <string name="course_detail_code_label">Kod</string>

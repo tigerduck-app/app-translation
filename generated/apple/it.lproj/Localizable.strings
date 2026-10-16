@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Ripristina";
 "app_reset_required_message" = "Lo stato di accesso e le preferenze non possono più essere letti, possibilmente a causa di un aggiornamento del sistema operativo, di un ripristino da backup o di un problema di archiviazione.\n\nTocca \"Ripristina\" per cancellare i vecchi dati, quindi accedi e riconfigura le tue preferenze.";
 "app_reset_required_title" = "Ripristino necessario";
+"assignment_detail_comments" = "Commenti alla consegna";
+"assignment_detail_description" = "Descrizione";
+"assignment_detail_due" = "Scadenza";
+"assignment_detail_group" = "Gruppo";
+"assignment_detail_not_submitted" = "Non ancora consegnato";
+"assignment_detail_submission" = "La tua consegna";
+"assignment_detail_submit_on_moodle" = "Consegna su Moodle";
+"assignment_detail_submitted_at" = "Consegnato";
 "assignment_filter_all" = "Tutti";
 "assignment_filter_ignored" = "Ignorati";
 "assignment_filter_incomplete" = "Da completare";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Colore personalizzato";
 "course_color_picker_title" = "Modifica colore";
 "course_credits_value" = "Crediti: %1$@";
+"course_detail_assignments_label" = "Compiti";
 "course_detail_classroom_label" = "Aula";
 "course_detail_code_copied" = "Codice copiato";
 "course_detail_code_label" = "Codice";

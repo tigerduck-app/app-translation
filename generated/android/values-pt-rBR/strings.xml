@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">Redefinir</string>
     <string name="app_reset_required_message">Seu estado de login e suas preferências não podem mais ser lidos, possivelmente devido a uma atualização do sistema, restauração de backup ou problema de armazenamento.\n\nToque em \"Redefinir\" para limpar os dados antigos, depois entre novamente e reconfigure suas preferências.</string>
     <string name="app_reset_required_title">Redefinição necessária</string>
+    <string name="assignment_detail_comments">Comentários da entrega</string>
+    <string name="assignment_detail_description">Descrição</string>
+    <string name="assignment_detail_due">Prazo</string>
+    <string name="assignment_detail_group">Grupo</string>
+    <string name="assignment_detail_not_submitted">Ainda não entregue</string>
+    <string name="assignment_detail_submission">Sua entrega</string>
+    <string name="assignment_detail_submit_on_moodle">Entregar no Moodle</string>
+    <string name="assignment_detail_submitted_at">Entregue em</string>
     <string name="assignment_filter_all">Todas</string>
     <string name="assignment_filter_ignored">Ignoradas</string>
     <string name="assignment_filter_incomplete">Incompletas</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">Cor personalizada</string>
     <string name="course_color_picker_title">Editar cor</string>
     <string name="course_credits_value">Créditos: %1$s</string>
+    <string name="course_detail_assignments_label">Atividades</string>
     <string name="course_detail_classroom_label">Sala de aula</string>
     <string name="course_detail_code_copied">Código copiado</string>
     <string name="course_detail_code_label">Código</string>

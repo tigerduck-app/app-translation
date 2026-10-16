@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Obnoviť";
 "app_reset_required_message" = "Váš stav prihlásenia a predvoľby sa nedajú načítať, pravdepodobne kvôli aktualizácii OS, obnove zálohy alebo problému s úložiskom.\n\nKlepnutím na \"Obnoviť\" vymažte staré údaje, potom sa prihláste a znovu nastavte predvoľby.";
 "app_reset_required_title" = "Vyžaduje sa obnovenie";
+"assignment_detail_comments" = "Komentáre k odovzdaniu";
+"assignment_detail_description" = "Popis";
+"assignment_detail_due" = "Termín";
+"assignment_detail_group" = "Skupina";
+"assignment_detail_not_submitted" = "Zatiaľ neodovzdané";
+"assignment_detail_submission" = "Odovzdaná práca";
+"assignment_detail_submit_on_moodle" = "Odovzdať v Moodle";
+"assignment_detail_submitted_at" = "Odovzdané";
 "assignment_filter_all" = "Všetky";
 "assignment_filter_ignored" = "Ignorované";
 "assignment_filter_incomplete" = "Nedokončené";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Vlastná farba";
 "course_color_picker_title" = "Upraviť farbu";
 "course_credits_value" = "Kredity: %1$@";
+"course_detail_assignments_label" = "Úlohy";
 "course_detail_classroom_label" = "Učebňa";
 "course_detail_code_copied" = "Kód skopírovaný";
 "course_detail_code_label" = "Kód";

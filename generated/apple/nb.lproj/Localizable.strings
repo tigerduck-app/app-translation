@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Tilbakestill";
 "app_reset_required_message" = "Påloggingstilstanden og preferansene dine kan ikke lenger leses, muligens på grunn av en OS-oppgradering, sikkerhetskopigjenoppretting eller lagringsproblem.\n\nTrykk «Tilbakestill» for å fjerne gamle data, logg deretter inn og konfigurer preferansene dine på nytt.";
 "app_reset_required_title" = "Tilbakestilling nødvendig";
+"assignment_detail_comments" = "Kommentarer til innleveringen";
+"assignment_detail_description" = "Beskrivelse";
+"assignment_detail_due" = "Frist";
+"assignment_detail_group" = "Gruppe";
+"assignment_detail_not_submitted" = "Ikke levert ennå";
+"assignment_detail_submission" = "Din innlevering";
+"assignment_detail_submit_on_moodle" = "Lever i Moodle";
+"assignment_detail_submitted_at" = "Innlevert";
 "assignment_filter_all" = "Alle";
 "assignment_filter_ignored" = "Ignorerte";
 "assignment_filter_incomplete" = "Ufullstendige";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Egendefinert farge";
 "course_color_picker_title" = "Rediger farge";
 "course_credits_value" = "Studiepoeng: %1$@";
+"course_detail_assignments_label" = "Oppgaver";
 "course_detail_classroom_label" = "Klasserom";
 "course_detail_code_copied" = "Koden er kopiert";
 "course_detail_code_label" = "Fagkode";

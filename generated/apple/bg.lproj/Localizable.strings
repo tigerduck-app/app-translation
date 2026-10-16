@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Нулиране";
 "app_reset_required_message" = "Вашето състояние на влизане и предпочитания вече не могат да бъдат прочетени, вероятно поради надграждане на ОС, възстановяване от резервно копие или проблем с хранилището.\n\nДокоснете „Нулиране“, за да изчистите старите данни, след което влезте и конфигурирайте предпочитанията си отново.";
 "app_reset_required_title" = "Необходимо е нулиране";
+"assignment_detail_comments" = "Коментари към предаването";
+"assignment_detail_description" = "Описание";
+"assignment_detail_due" = "Краен срок";
+"assignment_detail_group" = "Група";
+"assignment_detail_not_submitted" = "Все още не е предадено";
+"assignment_detail_submission" = "Предадена работа";
+"assignment_detail_submit_on_moodle" = "Предаване в Moodle";
+"assignment_detail_submitted_at" = "Предадено";
 "assignment_filter_all" = "Всички";
 "assignment_filter_ignored" = "Игнорирани";
 "assignment_filter_incomplete" = "Незавършени";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Цвят по избор";
 "course_color_picker_title" = "Редактиране на цвят";
 "course_credits_value" = "Кредити: %1$@";
+"course_detail_assignments_label" = "Задания";
 "course_detail_classroom_label" = "Класна стая";
 "course_detail_code_copied" = "Кодът е копиран";
 "course_detail_code_label" = "Код";

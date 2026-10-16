@@ -63,6 +63,14 @@
     <string name="app_reset_required_action">รีเซ็ต</string>
     <string name="app_reset_required_message">ไม่สามารถอ่านสถานะการเข้าสู่ระบบและการตั้งค่าของคุณได้ อาจเกิดจากการอัปเกรดระบบปฏิบัติการ การกู้คืนจากข้อมูลสำรอง หรือปัญหาที่จัดเก็บข้อมูล\n\nแตะ \"รีเซ็ต\" เพื่อล้างข้อมูลเก่า จากนั้นเข้าสู่ระบบและตั้งค่าใหม่</string>
     <string name="app_reset_required_title">ต้องตั้งค่าใหม่</string>
+    <string name="assignment_detail_comments">ความคิดเห็นการส่งงาน</string>
+    <string name="assignment_detail_description">คำอธิบาย</string>
+    <string name="assignment_detail_due">กำหนดส่ง</string>
+    <string name="assignment_detail_group">กลุ่ม</string>
+    <string name="assignment_detail_not_submitted">ยังไม่ได้ส่ง</string>
+    <string name="assignment_detail_submission">งานที่ส่ง</string>
+    <string name="assignment_detail_submit_on_moodle">ส่งใน Moodle</string>
+    <string name="assignment_detail_submitted_at">เวลาที่ส่ง</string>
     <string name="assignment_filter_all">ทั้งหมด</string>
     <string name="assignment_filter_ignored">ละเว้นแล้ว</string>
     <string name="assignment_filter_incomplete">ยังไม่เสร็จ</string>
@@ -276,6 +284,7 @@
     <string name="course_color_picker_custom_label">สีกำหนดเอง</string>
     <string name="course_color_picker_title">แก้ไขสี</string>
     <string name="course_credits_value">หน่วยกิต: %1$s</string>
+    <string name="course_detail_assignments_label">การบ้าน</string>
     <string name="course_detail_classroom_label">ห้องเรียน</string>
     <string name="course_detail_code_copied">คัดลอกรหัสแล้ว</string>
     <string name="course_detail_code_label">รหัส</string>
