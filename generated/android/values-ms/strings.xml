@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">Mula menggunakan TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync memastikan kursus, tugasan dan tetapan anda sentiasa disegerakkan merentas semua peranti anda. Anda boleh memilih dengan tepat apa yang hendak disegerakkan dalam tetapan TigerSync.</string>
     <string name="onboarding_sync_not_shared_password">Kata laluan tidak pernah dimuat naik</string>
-    <string name="onboarding_sync_note">Apabila segerak dimatikan, semua data kekal pada peranti ini sahaja. Pemberitahuan tolak untuk peringatan kerja rumah berfungsi secara tempatan tanpa TigerSync.</string>
+    <string name="onboarding_sync_note">Apabila penyegerakan dimatikan, pelayan TigerDuck masih menerima ID Pelajar, token Moodle dan kelayakan push peranti ini untuk menghantar peringatan tugasan</string>
     <string name="onboarding_sync_shared_assignments">Data tugasan</string>
     <string name="onboarding_sync_shared_courses">Data kursus</string>
     <string name="onboarding_sync_shared_device_id">ID peranti</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">Hantar</string>
     <string name="school_mail_send_confirm_title">Hantar e-mel ini?</string>
     <string name="school_mail_send_failed">Tidak dapat menghantar e-mel</string>
+    <string name="school_mail_send_unconfirmed">Tidak dapat mengesahkan sama ada e-mel telah dihantar; mencuba semula mungkin menghantarnya dua kali</string>
     <string name="school_mail_sent_copy_failed">E-mel telah dihantar, tetapi salinan tidak dapat disimpan ke Dihantar.</string>
     <string name="school_mail_sent_copy_no_folder">E-mel telah dihantar, tetapi tiada folder Dihantar untuk menyimpan salinan.</string>
     <string name="school_mail_sent_copy_not_saved">E-mel telah dihantar, tetapi salinan tidak disimpan ke Dihantar</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">Tunjukkan bilik darjah dalam jadual</string>
     <string name="settings_sign_out_imported_tables">Jadual kelas yang diimport juga akan dipadam.</string>
     <string name="settings_sync_brief_description">TigerSync membolehkan anda menyegerakkan maklumat pilihan anda di semua peranti. Maklumat yang tidak didayakan kekal pada peranti ini sahaja.</string>
-    <string name="settings_sync_disabled_note">Apabila segerak dimatikan, semua data kekal pada peranti ini sahaja.</string>
+    <string name="settings_sync_disabled_note">Apabila penyegerakan dimatikan, pelayan TigerDuck masih menerima ID Pelajar, token Moodle dan kelayakan push peranti ini untuk menghantar peringatan tugasan</string>
     <string name="settings_sync_status_off">Mati</string>
     <string name="settings_sync_status_on">Hidup</string>
     <string name="settings_system_language">Bahasa sistem</string>

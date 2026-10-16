@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">Începe să folosești TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync menține cursurile, temele și setările sincronizate pe toate dispozitivele tale. Poți alege exact ce să sincronizezi în setările TigerSync.</string>
     <string name="onboarding_sync_not_shared_password">Parola nu este încărcată niciodată</string>
-    <string name="onboarding_sync_note">Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv. Notificările push pentru mementourile de teme funcționează local fără TigerSync.</string>
+    <string name="onboarding_sync_note">Când sincronizarea este dezactivată, serverul TigerDuck primește în continuare ID-ul dvs. de student, tokenul Moodle și acreditările push ale acestui dispozitiv pentru a trimite mementouri pentru teme</string>
     <string name="onboarding_sync_shared_assignments">Date teme</string>
     <string name="onboarding_sync_shared_courses">Date cursuri</string>
     <string name="onboarding_sync_shared_device_id">Identificator dispozitiv</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">Trimite</string>
     <string name="school_mail_send_confirm_title">Trimiți acest e-mail?</string>
     <string name="school_mail_send_failed">E-mailul nu a putut fi trimis</string>
+    <string name="school_mail_send_unconfirmed">Nu s-a putut confirma dacă e-mailul a fost trimis; o nouă încercare l-ar putea livra de două ori</string>
     <string name="school_mail_sent_copy_failed">E-mailul a fost trimis, dar copia nu a putut fi salvată în Trimise.</string>
     <string name="school_mail_sent_copy_no_folder">E-mailul a fost trimis, dar nu există un folder Trimise în care să se păstreze o copie.</string>
     <string name="school_mail_sent_copy_not_saved">E-mail trimis, dar copia nu a fost salvată în Trimise</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">Afișează sălile în orar</string>
     <string name="settings_sign_out_imported_tables">Orarele importate vor fi șterse și ele.</string>
     <string name="settings_sync_brief_description">TigerSync vă permite să sincronizați informațiile alese pe toate dispozitivele. Informațiile neactivate rămân doar pe acest dispozitiv.</string>
-    <string name="settings_sync_disabled_note">Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv.</string>
+    <string name="settings_sync_disabled_note">Când sincronizarea este dezactivată, serverul TigerDuck primește în continuare ID-ul dvs. de student, tokenul Moodle și acreditările push ale acestui dispozitiv pentru a trimite mementouri pentru teme</string>
     <string name="settings_sync_status_off">Oprit</string>
     <string name="settings_sync_status_on">Pornit</string>
     <string name="settings_system_language">Limba sistemului</string>

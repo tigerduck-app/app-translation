@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Hopp over for nå";
 "onboarding_start_button" = "Begynn å bruke TigerDuck";
 "onboarding_sync_description" = "TigerSync holder fagene, oppgavene og innstillingene dine synkronisert på tvers av alle enhetene dine. Du kan velge nøyaktig hva som skal synkroniseres i TigerSync-innstillingene.";
-"onboarding_sync_disabled_note" = "Når synkronisering er av, forblir alle data kun på denne enheten. Push-varsler og Live Activity vil ikke være tilgjengelig.";
+"onboarding_sync_disabled_note" = "Når synkronisering er av, mottar TigerDuck-serveren fortsatt student-ID-en din, Moodle-tokenet og push-legitimasjonen til denne enheten for å sende oppgavepåminnelser";
 "onboarding_sync_not_shared_password" = "Passordet lastes aldri opp";
-"onboarding_sync_note" = "Når synkronisering er av, forblir alle data kun på denne enheten. Push-varsler for leksepåminnelser fungerer lokalt uten TigerSync.";
+"onboarding_sync_note" = "Når synkronisering er av, mottar TigerDuck-serveren fortsatt student-ID-en din, Moodle-tokenet og push-legitimasjonen til denne enheten for å sende oppgavepåminnelser";
 "onboarding_sync_shared_assignments" = "Oppgavedata";
 "onboarding_sync_shared_courses" = "Kursdata";
 "onboarding_sync_shared_device_id" = "Enhets-ID";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Send";
 "school_mail_send_confirm_title" = "Sende denne e-posten?";
 "school_mail_send_failed" = "Kunne ikke sende e-posten";
+"school_mail_send_unconfirmed" = "Kunne ikke bekrefte om e-posten ble sendt; et nytt forsøk kan levere den to ganger";
 "school_mail_sent_copy_failed" = "E-posten ble sendt, men kopien kunne ikke lagres i Sendt.";
 "school_mail_sent_copy_no_folder" = "E-posten ble sendt, men det finnes ingen Sendt-mappe å lagre en kopi i.";
 "school_mail_sent_copy_not_saved" = "E-post sendt, men en kopi ble ikke lagret i Sendt";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync lar deg synkronisere valgt informasjon på alle enheter. Informasjon uten synkronisering forblir kun på denne enheten.";
 "settings_sync_brief_description_ios" = "TigerSync lar deg motta push-varsler og synkronisere informasjon. Informasjon uten synkronisering sendes likevel til serveren for push-varsler.";
 "settings_sync_data_section" = "Data delt med serveren";
-"settings_sync_disabled_note" = "Når synkronisering er av, forblir alle data kun på denne enheten.";
+"settings_sync_disabled_note" = "Når synkronisering er av, mottar TigerDuck-serveren fortsatt student-ID-en din, Moodle-tokenet og push-legitimasjonen til denne enheten for å sende oppgavepåminnelser";
 "settings_sync_off_notifications_warning" = "TigerSync er av. Apple-enheter er avhengige av TigerDuck-serveren for å motta varsler. Trykk for mer informasjon.";
 "settings_sync_status_off" = "Av";
 "settings_sync_status_on" = "På";

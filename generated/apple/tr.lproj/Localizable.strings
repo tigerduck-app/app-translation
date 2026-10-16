@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Şimdilik atla";
 "onboarding_start_button" = "TigerDuck'ı kullanmaya başla";
 "onboarding_sync_description" = "TigerSync derslerinizi, ödevlerinizi ve ayarlarınızı tüm cihazlarınızda senkronize tutar. TigerSync ayarlarından tam olarak neyin senkronize edileceğini seçebilirsiniz.";
-"onboarding_sync_disabled_note" = "Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır. Push bildirimleri ve Live Activity kullanılamaz.";
+"onboarding_sync_disabled_note" = "Senkronizasyon kapalıyken de TigerDuck sunucusu, ödev hatırlatmaları gönderebilmek için öğrenci numaranızı, Moodle jetonunuzu ve bu cihazın push kimlik bilgilerini almaya devam eder";
 "onboarding_sync_not_shared_password" = "Şifre asla yüklenmez";
-"onboarding_sync_note" = "Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır. Ödev hatırlatmaları için push bildirimleri TigerSync olmadan yerel olarak çalışır.";
+"onboarding_sync_note" = "Senkronizasyon kapalıyken de TigerDuck sunucusu, ödev hatırlatmaları gönderebilmek için öğrenci numaranızı, Moodle jetonunuzu ve bu cihazın push kimlik bilgilerini almaya devam eder";
 "onboarding_sync_shared_assignments" = "Ödev verileri";
 "onboarding_sync_shared_courses" = "Ders verileri";
 "onboarding_sync_shared_device_id" = "Cihaz kimliği";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Gönder";
 "school_mail_send_confirm_title" = "Bu posta gönderilsin mi?";
 "school_mail_send_failed" = "Posta gönderilemedi";
+"school_mail_send_unconfirmed" = "Postanın gönderilip gönderilmediği doğrulanamadı; yeniden denemek iki kez teslim edilmesine yol açabilir";
 "school_mail_sent_copy_failed" = "Posta gönderildi, ancak kopyası Gönderilmişe kaydedilemedi.";
 "school_mail_sent_copy_no_folder" = "Posta gönderildi, ancak kopyayı saklayacak bir Gönderilmiş klasörü yok.";
 "school_mail_sent_copy_not_saved" = "Posta gönderildi, ancak kopyası Gönderilmişe kaydedilmedi";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync, seçtiğiniz bilgileri tüm cihazlarınızda senkronize etmenizi sağlar. Etkinleştirilmemiş bilgiler yalnızca bu cihazda kalır.";
 "settings_sync_brief_description_ios" = "TigerSync, push bildirimleri almanızı ve bilgileri senkronize etmenizi sağlar. Etkinleştirilmemiş bilgiler push bildirimleri için yine de sunucuya gönderilir.";
 "settings_sync_data_section" = "Sunucuyla paylaşılan veriler";
-"settings_sync_disabled_note" = "Senkronizasyon kapalıyken tüm veriler yalnızca bu cihazda kalır.";
+"settings_sync_disabled_note" = "Senkronizasyon kapalıyken de TigerDuck sunucusu, ödev hatırlatmaları gönderebilmek için öğrenci numaranızı, Moodle jetonunuzu ve bu cihazın push kimlik bilgilerini almaya devam eder";
 "settings_sync_off_notifications_warning" = "TigerSync kapalı. Push bildirimleri ve Canlı Güncellemeler kullanılamaz.";
 "settings_sync_status_off" = "Kapalı";
 "settings_sync_status_on" = "Açık";

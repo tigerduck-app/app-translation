@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">Ξεκινήστε να χρησιμοποιείτε το TigerDuck</string>
     <string name="onboarding_sync_description">Το TigerSync διατηρεί τα μαθήματα, τις εργασίες και τις ρυθμίσεις σας συγχρονισμένα σε όλες τις συσκευές σας. Μπορείτε να επιλέξετε ακριβώς τι θα συγχρονίζεται στις ρυθμίσεις TigerSync.</string>
     <string name="onboarding_sync_not_shared_password">Ο κωδικός δεν μεταφορτώνεται ποτέ</string>
-    <string name="onboarding_sync_note">Όταν ο συγχρονισμός είναι απενεργοποιημένος, όλα τα δεδομένα παραμένουν μόνο σε αυτή τη συσκευή. Οι ειδοποιήσεις push για υπενθυμίσεις εργασιών λειτουργούν τοπικά χωρίς TigerSync.</string>
+    <string name="onboarding_sync_note">Όταν ο συγχρονισμός είναι απενεργοποιημένος, ο διακομιστής TigerDuck εξακολουθεί να λαμβάνει τον αριθμό φοιτητή σας, το token Moodle και τα διαπιστευτήρια push αυτής της συσκευής για να στέλνει υπενθυμίσεις εργασιών</string>
     <string name="onboarding_sync_shared_assignments">Δεδομένα εργασιών</string>
     <string name="onboarding_sync_shared_courses">Δεδομένα μαθημάτων</string>
     <string name="onboarding_sync_shared_device_id">Αναγνωριστικό συσκευής</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">Αποστολή</string>
     <string name="school_mail_send_confirm_title">Αποστολή αυτού του email;</string>
     <string name="school_mail_send_failed">Δεν ήταν δυνατή η αποστολή του email</string>
+    <string name="school_mail_send_unconfirmed">Δεν ήταν δυνατό να επιβεβαιωθεί η αποστολή του email, και μια νέα προσπάθεια μπορεί να το παραδώσει δύο φορές</string>
     <string name="school_mail_sent_copy_failed">Το email στάλθηκε, αλλά το αντίγραφο δεν ήταν δυνατό να αποθηκευτεί στα Απεσταλμένα.</string>
     <string name="school_mail_sent_copy_no_folder">Το email στάλθηκε, αλλά δεν υπάρχει φάκελος Απεσταλμένων για να κρατηθεί αντίγραφο.</string>
     <string name="school_mail_sent_copy_not_saved">Email στάλθηκε, αλλά δεν αποθηκεύτηκε αντίγραφο στα Απεσταλμένα</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">Εμφάνιση αιθουσών στο πρόγραμμα</string>
     <string name="settings_sign_out_imported_tables">Θα διαγραφούν επίσης τα προγράμματα μαθημάτων που εισαγάγατε.</string>
     <string name="settings_sync_brief_description">Το TigerSync σας επιτρέπει να συγχρονίζετε τις επιλεγμένες πληροφορίες σε όλες τις συσκευές. Οι πληροφορίες χωρίς συγχρονισμό παραμένουν μόνο σε αυτή τη συσκευή.</string>
-    <string name="settings_sync_disabled_note">Όταν ο συγχρονισμός είναι απενεργοποιημένος, όλα τα δεδομένα παραμένουν μόνο σε αυτή τη συσκευή.</string>
+    <string name="settings_sync_disabled_note">Όταν ο συγχρονισμός είναι απενεργοποιημένος, ο διακομιστής TigerDuck εξακολουθεί να λαμβάνει τον αριθμό φοιτητή σας, το token Moodle και τα διαπιστευτήρια push αυτής της συσκευής για να στέλνει υπενθυμίσεις εργασιών</string>
     <string name="settings_sync_status_off">Ανενεργό</string>
     <string name="settings_sync_status_on">Ενεργό</string>
     <string name="settings_system_language">Γλώσσα συστήματος</string>

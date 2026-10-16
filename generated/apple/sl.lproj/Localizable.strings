@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Preskoči za zdaj";
 "onboarding_start_button" = "Začni z uporabo TigerDuck";
 "onboarding_sync_description" = "TigerSync ohranja vaše predmete, naloge in nastavitve sinhronizirane na vseh vaših napravah. V nastavitvah TigerSync lahko natančno izberete, kaj se sinhronizira.";
-"onboarding_sync_disabled_note" = "Ko je sinhronizacija izklopljena, vsi podatki ostanejo samo na tej napravi. Push obvestila in Live Activity ne bodo na voljo.";
+"onboarding_sync_disabled_note" = "Ko je sinhronizacija izklopljena, strežnik TigerDuck še vedno prejema vaš študentski ID, žeton Moodle in push poverilnice te naprave, da lahko pošilja opomnike za naloge";
 "onboarding_sync_not_shared_password" = "Geslo se nikoli ne naloži";
-"onboarding_sync_note" = "Ko je sinhronizacija izklopljena, vsi podatki ostanejo samo na tej napravi. Push obvestila za opomnike nalog delujejo lokalno brez TigerSync.";
+"onboarding_sync_note" = "Ko je sinhronizacija izklopljena, strežnik TigerDuck še vedno prejema vaš študentski ID, žeton Moodle in push poverilnice te naprave, da lahko pošilja opomnike za naloge";
 "onboarding_sync_shared_assignments" = "Podatki o nalogah";
 "onboarding_sync_shared_courses" = "Podatki o predmetih";
 "onboarding_sync_shared_device_id" = "ID naprave";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Pošlji";
 "school_mail_send_confirm_title" = "Želite poslati to sporočilo?";
 "school_mail_send_failed" = "Sporočila ni bilo mogoče poslati";
+"school_mail_send_unconfirmed" = "Ni bilo mogoče potrditi, ali je bilo sporočilo poslano; ponoven poskus ga lahko dostavi dvakrat";
 "school_mail_sent_copy_failed" = "Sporočilo je bilo poslano, vendar kopije ni bilo mogoče shraniti v Poslano.";
 "school_mail_sent_copy_no_folder" = "Sporočilo je bilo poslano, vendar ne obstaja mapa Poslano, v katero bi shranili kopijo.";
 "school_mail_sent_copy_not_saved" = "Sporočilo je poslano, vendar kopija ni bila shranjena v Poslano";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync omogoča sinhronizacijo izbranih podatkov med vsemi napravami. Neaktivni podatki ostanejo samo na tej napravi.";
 "settings_sync_brief_description_ios" = "TigerSync omogoča prejemanje push obvestil in sinhronizacijo podatkov. Neaktivirani podatki se kljub temu pošljejo na strežnik za push obvestila.";
 "settings_sync_data_section" = "Podatki, deljeni s strežnikom";
-"settings_sync_disabled_note" = "Ko je sinhronizacija izklopljena, vsi podatki ostanejo samo na tej napravi.";
+"settings_sync_disabled_note" = "Ko je sinhronizacija izklopljena, strežnik TigerDuck še vedno prejema vaš študentski ID, žeton Moodle in push poverilnice te naprave, da lahko pošilja opomnike za naloge";
 "settings_sync_off_notifications_warning" = "TigerSync je izklopljena. Naprave Apple se za prejemanje obvestil zanašajo na strežnik TigerDuck. Tapnite za več informacij.";
 "settings_sync_status_off" = "Izklopljeno";
 "settings_sync_status_on" = "Vklopljeno";

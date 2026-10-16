@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">Sākt lietot TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync uztur jūsu kursus, uzdevumus un iestatījumus sinhronizētus visās jūsu ierīcēs. TigerSync iestatījumos varat precīzi izvēlēties, ko sinhronizēt.</string>
     <string name="onboarding_sync_not_shared_password">Parole nekad netiek augšupielādēta</string>
-    <string name="onboarding_sync_note">Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē. Push paziņojumi par mājasdarbiem darbojas lokāli bez TigerSync.</string>
+    <string name="onboarding_sync_note">Kad sinhronizācija ir izslēgta, TigerDuck serveris joprojām saņem jūsu studenta ID, Moodle žetonu un šīs ierīces push akreditācijas datus, lai sūtītu uzdevumu atgādinājumus</string>
     <string name="onboarding_sync_shared_assignments">Uzdevumu dati</string>
     <string name="onboarding_sync_shared_courses">Kursu dati</string>
     <string name="onboarding_sync_shared_device_id">Ierīces ID</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">Sūtīt</string>
     <string name="school_mail_send_confirm_title">Vai sūtīt šo vēstuli?</string>
     <string name="school_mail_send_failed">Neizdevās nosūtīt vēstuli</string>
+    <string name="school_mail_send_unconfirmed">Neizdevās apstiprināt, vai vēstule tika nosūtīta; atkārtots mēģinājums to var piegādāt divreiz</string>
     <string name="school_mail_sent_copy_failed">Vēstule tika nosūtīta, bet kopiju neizdevās saglabāt mapē Nosūtītie.</string>
     <string name="school_mail_sent_copy_no_folder">Vēstule tika nosūtīta, bet nav mapes Nosūtītie, kurā saglabāt kopiju.</string>
     <string name="school_mail_sent_copy_not_saved">Vēstule nosūtīta, bet kopija netika saglabāta mapē Nosūtītie</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">Rādīt auditorijas stundu sarakstā</string>
     <string name="settings_sign_out_imported_tables">Tiks dzēsti arī importētie stundu plāni.</string>
     <string name="settings_sync_brief_description">TigerSync ļauj sinhronizēt izvēlēto informāciju visās ierīcēs. Nesinhronizēta informācija paliek tikai šajā ierīcē.</string>
-    <string name="settings_sync_disabled_note">Kad sinhronizācija ir izslēgta, visi dati paliek tikai šajā ierīcē.</string>
+    <string name="settings_sync_disabled_note">Kad sinhronizācija ir izslēgta, TigerDuck serveris joprojām saņem jūsu studenta ID, Moodle žetonu un šīs ierīces push akreditācijas datus, lai sūtītu uzdevumu atgādinājumus</string>
     <string name="settings_sync_status_off">Izslēgts</string>
     <string name="settings_sync_status_on">Ieslēgts</string>
     <string name="settings_system_language">Sistēmas valoda</string>

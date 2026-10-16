@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Tạm bỏ qua";
 "onboarding_start_button" = "Bắt đầu sử dụng TigerDuck";
 "onboarding_sync_description" = "TigerSync giữ cho các môn học, bài tập và cài đặt của bạn được đồng bộ trên tất cả thiết bị. Bạn có thể chọn chính xác những gì cần đồng bộ trong cài đặt TigerSync.";
-"onboarding_sync_disabled_note" = "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này. Thông báo đẩy và Live Activity sẽ không khả dụng.";
+"onboarding_sync_disabled_note" = "Khi tắt đồng bộ, máy chủ TigerDuck vẫn nhận mã sinh viên, token Moodle và thông tin push của thiết bị này để gửi lời nhắc bài tập";
 "onboarding_sync_not_shared_password" = "Mật khẩu không bao giờ được tải lên";
-"onboarding_sync_note" = "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này. Thông báo đẩy nhắc bài tập về nhà vẫn hoạt động cục bộ mà không cần TigerSync.";
+"onboarding_sync_note" = "Khi tắt đồng bộ, máy chủ TigerDuck vẫn nhận mã sinh viên, token Moodle và thông tin push của thiết bị này để gửi lời nhắc bài tập";
 "onboarding_sync_shared_assignments" = "Dữ liệu bài tập";
 "onboarding_sync_shared_courses" = "Dữ liệu môn học";
 "onboarding_sync_shared_device_id" = "ID thiết bị";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Gửi";
 "school_mail_send_confirm_title" = "Gửi thư này?";
 "school_mail_send_failed" = "Không thể gửi thư";
+"school_mail_send_unconfirmed" = "Không thể xác nhận thư đã được gửi hay chưa; thử lại có thể khiến người nhận nhận được hai lần";
 "school_mail_sent_copy_failed" = "Thư đã được gửi, nhưng không thể lưu bản sao vào Đã gửi.";
 "school_mail_sent_copy_no_folder" = "Thư đã được gửi, nhưng không có thư mục Đã gửi để lưu bản sao.";
 "school_mail_sent_copy_not_saved" = "Đã gửi thư, nhưng bản sao chưa được lưu vào Đã gửi";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync cho phép bạn đồng bộ thông tin đã chọn trên tất cả thiết bị. Thông tin không được bật sẽ chỉ ở trên thiết bị này.";
 "settings_sync_brief_description_ios" = "TigerSync cho phép bạn nhận thông báo đẩy và đồng bộ thông tin. Thông tin không được bật vẫn được gửi đến máy chủ cho thông báo đẩy.";
 "settings_sync_data_section" = "Dữ liệu được chia sẻ với máy chủ";
-"settings_sync_disabled_note" = "Khi đồng bộ tắt, tất cả dữ liệu chỉ lưu trên thiết bị này.";
+"settings_sync_disabled_note" = "Khi tắt đồng bộ, máy chủ TigerDuck vẫn nhận mã sinh viên, token Moodle và thông tin push của thiết bị này để gửi lời nhắc bài tập";
 "settings_sync_off_notifications_warning" = "TigerSync đang tắt. Thiết bị Apple cần máy chủ TigerDuck để nhận thông báo. Nhấn để biết thêm.";
 "settings_sync_status_off" = "Tắt";
 "settings_sync_status_on" = "Bật";

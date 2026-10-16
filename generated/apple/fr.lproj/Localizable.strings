@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Passer pour l'instant";
 "onboarding_start_button" = "Commencer à utiliser TigerDuck";
 "onboarding_sync_description" = "TigerSync garde vos cours, devoirs et paramètres synchronisés sur tous vos appareils. Vous pouvez choisir exactement ce qui est synchronisé dans les paramètres de TigerSync.";
-"onboarding_sync_disabled_note" = "Quand la synchronisation est désactivée, toutes les données restent uniquement sur cet appareil. Les notifications push et Live Activity ne seront pas disponibles.";
+"onboarding_sync_disabled_note" = "Lorsque la synchronisation est désactivée, le serveur TigerDuck reçoit toujours votre numéro étudiant, votre jeton Moodle et les identifiants push de cet appareil pour envoyer les rappels de devoirs";
 "onboarding_sync_not_shared_password" = "Le mot de passe n'est jamais envoyé";
-"onboarding_sync_note" = "Quand la synchronisation est désactivée, toutes les données restent uniquement sur cet appareil. Les notifications push pour les rappels de devoirs fonctionnent localement sans TigerSync.";
+"onboarding_sync_note" = "Lorsque la synchronisation est désactivée, le serveur TigerDuck reçoit toujours votre numéro étudiant, votre jeton Moodle et les identifiants push de cet appareil pour envoyer les rappels de devoirs";
 "onboarding_sync_shared_assignments" = "Données de devoirs";
 "onboarding_sync_shared_courses" = "Données de cours";
 "onboarding_sync_shared_device_id" = "ID de l'appareil";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Envoyer";
 "school_mail_send_confirm_title" = "Envoyer ce message ?";
 "school_mail_send_failed" = "Impossible d'envoyer le message";
+"school_mail_send_unconfirmed" = "Impossible de confirmer l'envoi du message ; réessayer pourrait l'envoyer deux fois";
 "school_mail_sent_copy_failed" = "Le message a été envoyé, mais la copie n'a pas pu être enregistrée dans Envoyés.";
 "school_mail_sent_copy_no_folder" = "Le message a été envoyé, mais il n'y a pas de dossier Envoyés où conserver une copie.";
 "school_mail_sent_copy_not_saved" = "Message envoyé, mais la copie n'a pas été enregistrée dans Envoyés";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync vous permet de synchroniser vos informations choisies sur tous vos appareils. Les informations non activées restent uniquement sur cet appareil.";
 "settings_sync_brief_description_ios" = "TigerSync vous permet de recevoir des notifications push et de synchroniser vos informations. Les informations non activées sont quand même envoyées au serveur pour les notifications push.";
 "settings_sync_data_section" = "Données partagées avec le serveur";
-"settings_sync_disabled_note" = "Quand la synchronisation est désactivée, toutes les données restent uniquement sur cet appareil.";
+"settings_sync_disabled_note" = "Lorsque la synchronisation est désactivée, le serveur TigerDuck reçoit toujours votre numéro étudiant, votre jeton Moodle et les identifiants push de cet appareil pour envoyer les rappels de devoirs";
 "settings_sync_off_notifications_warning" = "TigerSync est désactivé. Les notifications push et Live Updates ne sont pas disponibles.";
 "settings_sync_status_off" = "Désactivé";
 "settings_sync_status_on" = "Activé";

@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">Začni z uporabo TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync ohranja vaše predmete, naloge in nastavitve sinhronizirane na vseh vaših napravah. V nastavitvah TigerSync lahko natančno izberete, kaj se sinhronizira.</string>
     <string name="onboarding_sync_not_shared_password">Geslo se nikoli ne naloži</string>
-    <string name="onboarding_sync_note">Ko je sinhronizacija izklopljena, vsi podatki ostanejo samo na tej napravi. Push obvestila za opomnike nalog delujejo lokalno brez TigerSync.</string>
+    <string name="onboarding_sync_note">Ko je sinhronizacija izklopljena, strežnik TigerDuck še vedno prejema vaš študentski ID, žeton Moodle in push poverilnice te naprave, da lahko pošilja opomnike za naloge</string>
     <string name="onboarding_sync_shared_assignments">Podatki o nalogah</string>
     <string name="onboarding_sync_shared_courses">Podatki o predmetih</string>
     <string name="onboarding_sync_shared_device_id">ID naprave</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">Pošlji</string>
     <string name="school_mail_send_confirm_title">Želite poslati to sporočilo?</string>
     <string name="school_mail_send_failed">Sporočila ni bilo mogoče poslati</string>
+    <string name="school_mail_send_unconfirmed">Ni bilo mogoče potrditi, ali je bilo sporočilo poslano; ponoven poskus ga lahko dostavi dvakrat</string>
     <string name="school_mail_sent_copy_failed">Sporočilo je bilo poslano, vendar kopije ni bilo mogoče shraniti v Poslano.</string>
     <string name="school_mail_sent_copy_no_folder">Sporočilo je bilo poslano, vendar ne obstaja mapa Poslano, v katero bi shranili kopijo.</string>
     <string name="school_mail_sent_copy_not_saved">Sporočilo je poslano, vendar kopija ni bila shranjena v Poslano</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">Prikaži učilnice v urniku</string>
     <string name="settings_sign_out_imported_tables">Izbrisani bodo tudi uvoženi urniki.</string>
     <string name="settings_sync_brief_description">TigerSync omogoča sinhronizacijo izbranih podatkov med vsemi napravami. Neaktivni podatki ostanejo samo na tej napravi.</string>
-    <string name="settings_sync_disabled_note">Ko je sinhronizacija izklopljena, vsi podatki ostanejo samo na tej napravi.</string>
+    <string name="settings_sync_disabled_note">Ko je sinhronizacija izklopljena, strežnik TigerDuck še vedno prejema vaš študentski ID, žeton Moodle in push poverilnice te naprave, da lahko pošilja opomnike za naloge</string>
     <string name="settings_sync_status_off">Izklopljeno</string>
     <string name="settings_sync_status_on">Vklopljeno</string>
     <string name="settings_system_language">Jezik sistema</string>

@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Sleppa í bili";
 "onboarding_start_button" = "Byrja að nota TigerDuck";
 "onboarding_sync_description" = "TigerSync heldur námskeiðum, verkefnum og stillingum þínum samstilltum á öllum tækjum þínum. Þú getur valið nákvæmlega hvað á að samstilla í stillingum TigerSync.";
-"onboarding_sync_disabled_note" = "Þegar samstilling er slökkt eru öll gögn aðeins á þessu tæki. Push-tilkynningar og Live Activity verða ekki tiltæk.";
+"onboarding_sync_disabled_note" = "Þegar slökkt er á samstillingu fær TigerDuck netþjónninn samt nemandanúmerið þitt, Moodle táknið og push-skilríki þessa tækis til að senda áminningar um verkefni";
 "onboarding_sync_not_shared_password" = "Lykilorð er aldrei hlaðið upp";
-"onboarding_sync_note" = "Þegar samstilling er slökkt eru öll gögn aðeins á þessu tæki. Push-tilkynningar fyrir verkefnaáminningar virka staðbundið án TigerSync.";
+"onboarding_sync_note" = "Þegar slökkt er á samstillingu fær TigerDuck netþjónninn samt nemandanúmerið þitt, Moodle táknið og push-skilríki þessa tækis til að senda áminningar um verkefni";
 "onboarding_sync_shared_assignments" = "Verkefnagögn";
 "onboarding_sync_shared_courses" = "Námskeiðagögn";
 "onboarding_sync_shared_device_id" = "Tækjaauðkenni";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Senda";
 "school_mail_send_confirm_title" = "Senda þennan póst?";
 "school_mail_send_failed" = "Ekki tókst að senda póstinn";
+"school_mail_send_unconfirmed" = "Ekki tókst að staðfesta hvort pósturinn var sendur; ný tilraun gæti sent hann tvisvar";
 "school_mail_sent_copy_failed" = "Pósturinn var sendur, en ekki tókst að vista afritið í Sent.";
 "school_mail_sent_copy_no_folder" = "Pósturinn var sendur, en það er engin Sent-mappa til að geyma afrit í.";
 "school_mail_sent_copy_not_saved" = "Póstur sendur, en afrit var ekki vistað í Sent";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "TigerSync gerir þér kleift að samstilla valdar upplýsingar á öllum tækjum. Upplýsingar sem ekki eru virkar eru aðeins á þessu tæki.";
 "settings_sync_brief_description_ios" = "TigerSync gerir þér kleift að fá push-tilkynningar og samstilla upplýsingar. Óvirkar upplýsingar eru samt sendar á þjóninn fyrir push-tilkynningar.";
 "settings_sync_data_section" = "Gögn deild með þjóninum";
-"settings_sync_disabled_note" = "Þegar samstilling er slökkt eru öll gögn aðeins á þessu tæki.";
+"settings_sync_disabled_note" = "Þegar slökkt er á samstillingu fær TigerDuck netþjónninn samt nemandanúmerið þitt, Moodle táknið og push-skilríki þessa tækis til að senda áminningar um verkefni";
 "settings_sync_off_notifications_warning" = "TigerSync er slökkt. Apple tæki reiða sig á TigerDuck netþjón til að fá tilkynningar. Ýttu til að fá frekari upplýsingar.";
 "settings_sync_status_off" = "Slökkt";
 "settings_sync_status_on" = "Kveikt";

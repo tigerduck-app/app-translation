@@ -610,9 +610,9 @@
 "onboarding_skip_for_now" = "Laktawan muna";
 "onboarding_start_button" = "Simulan na gamitin ang TigerDuck";
 "onboarding_sync_description" = "Pinapanatili ng TigerSync na naka-sync ang iyong mga kurso, assignment, at settings sa lahat ng iyong device. Maaari mong piliin nang eksakto kung ano ang isi-sync sa TigerSync settings.";
-"onboarding_sync_disabled_note" = "Kapag naka-off ang sync, ang lahat ng data ay nananatili sa device na ito lamang. Hindi magiging available ang push notification at Live Activity.";
+"onboarding_sync_disabled_note" = "Kapag naka-off ang sync, natatanggap pa rin ng TigerDuck server ang iyong ID ng estudyante, Moodle token at ang push credentials ng device na ito para makapagpadala ng mga paalala sa takdang-aralin";
 "onboarding_sync_not_shared_password" = "Hindi kailanman ina-upload ang password";
-"onboarding_sync_note" = "Kapag naka-off ang sync, ang lahat ng data ay nananatili sa device na ito lamang. Gumagana nang lokal ang push notification para sa mga paalala sa takdang-aralin kahit walang TigerSync.";
+"onboarding_sync_note" = "Kapag naka-off ang sync, natatanggap pa rin ng TigerDuck server ang iyong ID ng estudyante, Moodle token at ang push credentials ng device na ito para makapagpadala ng mga paalala sa takdang-aralin";
 "onboarding_sync_shared_assignments" = "Data ng mga gawain";
 "onboarding_sync_shared_courses" = "Data ng mga kurso";
 "onboarding_sync_shared_device_id" = "Device ID";
@@ -758,6 +758,7 @@
 "school_mail_send" = "Ipadala";
 "school_mail_send_confirm_title" = "Ipadala ang mail na ito?";
 "school_mail_send_failed" = "Hindi maipadala ang mail";
+"school_mail_send_unconfirmed" = "Hindi makumpirma kung naipadala ang mail; kapag inulit, maaaring dalawang beses itong matanggap";
 "school_mail_sent_copy_failed" = "Naipadala ang mail, pero hindi na-save ang kopya sa Naipadala.";
 "school_mail_sent_copy_no_folder" = "Naipadala ang mail, pero walang folder na Naipadala na mapaglalagyan ng kopya.";
 "school_mail_sent_copy_not_saved" = "Naipadala ang mail, pero hindi na-save ang kopya sa Naipadala";
@@ -948,7 +949,7 @@
 "settings_sync_brief_description" = "Pinapayagan ka ng TigerSync na i-sync ang iyong napiling impormasyon sa lahat ng device. Ang impormasyong hindi naka-enable ay mananatili lamang sa device na ito.";
 "settings_sync_brief_description_ios" = "Pinapayagan ka ng TigerSync na makatanggap ng push notification at i-sync ang impormasyon. Ang hindi naka-enable na impormasyon ay ipinapadala pa rin sa server para sa push notification.";
 "settings_sync_data_section" = "Data na ibinabahagi sa server";
-"settings_sync_disabled_note" = "Kapag naka-off ang sync, ang lahat ng data ay nananatili sa device na ito lamang.";
+"settings_sync_disabled_note" = "Kapag naka-off ang sync, natatanggap pa rin ng TigerDuck server ang iyong ID ng estudyante, Moodle token at ang push credentials ng device na ito para makapagpadala ng mga paalala sa takdang-aralin";
 "settings_sync_off_notifications_warning" = "Naka-off ang TigerSync. Umaasa ang mga Apple device sa TigerDuck backend para makatanggap ng mga notification. I-tap para sa karagdagang impormasyon.";
 "settings_sync_status_off" = "Naka-off";
 "settings_sync_status_on" = "Naka-on";

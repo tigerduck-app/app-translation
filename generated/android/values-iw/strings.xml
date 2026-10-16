@@ -635,7 +635,7 @@
     <string name="onboarding_start_button">התחל להשתמש ב-TigerDuck</string>
     <string name="onboarding_sync_description">TigerSync שומר על הקורסים, המטלות וההגדרות שלך מסונכרנים בכל המכשירים שלך. תוכל לבחור בדיוק מה לסנכרן בהגדרות TigerSync.</string>
     <string name="onboarding_sync_not_shared_password">הסיסמה לעולם לא מועלית</string>
-    <string name="onboarding_sync_note">כאשר הסנכרון כבוי, כל הנתונים נשארים במכשיר זה בלבד. התראות פוש לתזכורות שיעורי בית פועלות מקומית ללא TigerSync.</string>
+    <string name="onboarding_sync_note">כשהסנכרון כבוי, שרת TigerDuck עדיין מקבל את מספר הסטודנט, טוקן Moodle ואישורי ה-push של מכשיר זה כדי לשלוח תזכורות למטלות</string>
     <string name="onboarding_sync_shared_assignments">נתוני מטלות</string>
     <string name="onboarding_sync_shared_courses">נתוני קורסים</string>
     <string name="onboarding_sync_shared_device_id">מזהה מכשיר</string>
@@ -777,6 +777,7 @@
     <string name="school_mail_send">שלח</string>
     <string name="school_mail_send_confirm_title">לשלוח את ההודעה הזו?</string>
     <string name="school_mail_send_failed">לא ניתן היה לשלוח את ההודעה</string>
+    <string name="school_mail_send_unconfirmed">לא ניתן לאשר שההודעה נשלחה; ניסיון חוזר עלול לשלוח אותה פעמיים</string>
     <string name="school_mail_sent_copy_failed">ההודעה נשלחה, אך לא ניתן היה לשמור את העותק בתיקיית נשלח.</string>
     <string name="school_mail_sent_copy_no_folder">ההודעה נשלחה, אך אין תיקיית נשלח לשמירת עותק.</string>
     <string name="school_mail_sent_copy_not_saved">ההודעה נשלחה, אך העותק לא נשמר בתיקיית נשלח</string>
@@ -962,7 +963,7 @@
     <string name="settings_show_classroom_on_class_table">הצגת כיתות בלוח השיעורים</string>
     <string name="settings_sign_out_imported_tables">גם מערכות השעות שיובאו יימחקו.</string>
     <string name="settings_sync_brief_description">TigerSync מאפשר לך לסנכרן מידע נבחר בין כל המכשירים שלך. מידע שלא הופעל לסנכרון נשאר במכשיר זה בלבד.</string>
-    <string name="settings_sync_disabled_note">כאשר הסנכרון כבוי, כל הנתונים נשארים במכשיר זה בלבד.</string>
+    <string name="settings_sync_disabled_note">כשהסנכרון כבוי, שרת TigerDuck עדיין מקבל את מספר הסטודנט, טוקן Moodle ואישורי ה-push של מכשיר זה כדי לשלוח תזכורות למטלות</string>
     <string name="settings_sync_status_off">כבוי</string>
     <string name="settings_sync_status_on">פעיל</string>
     <string name="settings_system_language">שפת המערכת</string>
