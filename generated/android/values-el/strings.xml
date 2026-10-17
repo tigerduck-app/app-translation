@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Email</string>
     <string name="course_member_groups">Ομάδες</string>
+    <string name="course_member_profile_picture">Φωτογραφία προφίλ</string>
     <string name="course_members_auditors">Ακροατές</string>
     <string name="course_members_students">Φοιτητές</string>
     <string name="course_members_tas">Βοηθοί διδασκαλίας</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Μοιράσου ανώνυμα δεδομένα χρήσης (σελίδες που επισκέφτηκες, χρήση widget) για να βοηθήσεις στη βελτίωση του TigerDuck</string>
     <string name="settings_analytics_enabled">Ανάλυση χρήσης</string>
     <string name="settings_api_endpoint">Τελικό σημείο API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Αλλαγή</string>
+    <string name="settings_api_endpoint_change_alert_message">Μετά τη σύνδεση, αυτό το τελικό σημείο λαμβάνει τον αριθμό φοιτητή σας και το token Moodle. Όλοι οι συνδεδεμένοι λογαριασμοί θα αποσυνδεθούν.</string>
+    <string name="settings_api_endpoint_change_alert_title">Αλλαγή του τελικού σημείου API;</string>
     <string name="settings_api_endpoint_change_title">Αλλαγή τελικού σημείου</string>
     <string name="settings_api_endpoint_checking">Έλεγχος…</string>
     <string name="settings_api_endpoint_effective_title">Ενεργό τελικό σημείο</string>

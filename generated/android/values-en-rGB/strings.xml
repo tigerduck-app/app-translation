@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Email</string>
     <string name="course_member_groups">Groups</string>
+    <string name="course_member_profile_picture">Profile picture</string>
     <string name="course_members_auditors">Auditors</string>
     <string name="course_members_students">Students</string>
     <string name="course_members_tas">Teaching assistants</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Share anonymised usage data (pages visited, widget usage) to help improve TigerDuck</string>
     <string name="settings_analytics_enabled">Usage analytics</string>
     <string name="settings_api_endpoint">API endpoint</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Change</string>
+    <string name="settings_api_endpoint_change_alert_message">After you sign in, this endpoint receives your student ID and Moodle token. Any signed-in accounts will be signed out.</string>
+    <string name="settings_api_endpoint_change_alert_title">Change the API endpoint?</string>
     <string name="settings_api_endpoint_change_title">Change endpoint</string>
     <string name="settings_api_endpoint_checking">Checking…</string>
     <string name="settings_api_endpoint_effective_title">Effective endpoint</string>

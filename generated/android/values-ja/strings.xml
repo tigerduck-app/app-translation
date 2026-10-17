@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">メール</string>
     <string name="course_member_groups">グループ</string>
+    <string name="course_member_profile_picture">プロフィール写真</string>
     <string name="course_members_auditors">聴講生</string>
     <string name="course_members_students">学生</string>
     <string name="course_members_tas">ティーチングアシスタント</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">匿名の利用データ（閲覧ページ、ウィジェットの使用状況）を共有して、TigerDuck の改善にご協力ください</string>
     <string name="settings_analytics_enabled">利用状況の分析</string>
     <string name="settings_api_endpoint">API エンドポイント</string>
+    <string name="settings_api_endpoint_change_alert_confirm">変更</string>
+    <string name="settings_api_endpoint_change_alert_message">サインイン後、このエンドポイントが学籍番号と Moodle トークンを受け取ります。サインイン中のアカウントはすべてサインアウトされます。</string>
+    <string name="settings_api_endpoint_change_alert_title">API エンドポイントを変更しますか？</string>
     <string name="settings_api_endpoint_change_title">エンドポイントを変更</string>
     <string name="settings_api_endpoint_checking">確認中…</string>
     <string name="settings_api_endpoint_effective_title">現在のエンドポイント</string>

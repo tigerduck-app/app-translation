@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "மின்னஞ்சல்";
 "course_member_groups" = "குழுக்கள்";
+"course_member_profile_picture" = "சுயவிவரப் படம்";
 "course_members_auditors" = "பார்வையாளர் மாணவர்கள்";
 "course_members_students" = "மாணவர்கள்";
 "course_members_tas" = "கற்பித்தல் உதவியாளர்கள்";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "TigerDuck-ஐ மேம்படுத்த உதவ அநாமதேய பயன்பாட்டு தரவு (பார்வையிட்ட பக்கங்கள், விட்ஜெட் பயன்பாடு) பகிரவும்";
 "settings_analytics_enabled" = "பயன்பாட்டு பகுப்பாய்வு";
 "settings_api_endpoint" = "API எண்ட்பாயிண்ட்";
+"settings_api_endpoint_change_alert_confirm" = "மாற்று";
+"settings_api_endpoint_change_alert_message" = "உள்நுழைந்த பிறகு, இந்த எண்ட்பாயிண்ட் உங்கள் மாணவர் ID மற்றும் Moodle டோக்கனைப் பெறும். உள்நுழைந்துள்ள எல்லா கணக்குகளும் வெளியேற்றப்படும்.";
+"settings_api_endpoint_change_alert_title" = "API எண்ட்பாயிண்டை மாற்றவா?";
 "settings_api_endpoint_change_title" = "எண்ட்பாயிண்ட் மாற்று";
 "settings_api_endpoint_checking" = "சரிபார்க்கிறது…";
 "settings_api_endpoint_effective_title" = "தற்போதைய எண்ட்பாயிண்ட்";

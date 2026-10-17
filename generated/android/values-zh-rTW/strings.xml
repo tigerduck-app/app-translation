@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">材料科學與工程系</string>
     <string name="course_member_email">電子郵件</string>
     <string name="course_member_groups">群組</string>
+    <string name="course_member_profile_picture">大頭貼</string>
     <string name="course_members_auditors">旁聽生</string>
     <string name="course_members_students">學生</string>
     <string name="course_members_tas">助教</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">分享匿名使用資料（瀏覽頁面、小工具使用情形）以協助改善 TigerDuck</string>
     <string name="settings_analytics_enabled">使用分析</string>
     <string name="settings_api_endpoint">API 端點</string>
+    <string name="settings_api_endpoint_change_alert_confirm">更改</string>
+    <string name="settings_api_endpoint_change_alert_message">登入後，這個端點會收到你的學號和 Moodle token。已登入的帳號都會登出。</string>
+    <string name="settings_api_endpoint_change_alert_title">更改 API 端點？</string>
     <string name="settings_api_endpoint_change_title">更改端點</string>
     <string name="settings_api_endpoint_checking">檢查中…</string>
     <string name="settings_api_endpoint_effective_title">目前端點</string>

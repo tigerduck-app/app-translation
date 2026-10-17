@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">البريد الإلكتروني</string>
     <string name="course_member_groups">المجموعات</string>
+    <string name="course_member_profile_picture">صورة الملف الشخصي</string>
     <string name="course_members_auditors">المستمعون</string>
     <string name="course_members_students">الطلاب</string>
     <string name="course_members_tas">مساعدو التدريس</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">شارك بيانات استخدام مجهولة الهوية (الصفحات المزارة، استخدام الأدوات) للمساعدة في تحسين TigerDuck</string>
     <string name="settings_analytics_enabled">تحليلات الاستخدام</string>
     <string name="settings_api_endpoint">نقطة نهاية API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">تغيير</string>
+    <string name="settings_api_endpoint_change_alert_message">بعد تسجيل الدخول، تتلقى نقطة النهاية هذه رقم الطالب ورمز Moodle الخاصين بك. سيتم تسجيل الخروج من أي حسابات مسجّل الدخول إليها.</string>
+    <string name="settings_api_endpoint_change_alert_title">تغيير نقطة نهاية API؟</string>
     <string name="settings_api_endpoint_change_title">تغيير نقطة النهاية</string>
     <string name="settings_api_endpoint_checking">جارٍ التحقق…</string>
     <string name="settings_api_endpoint_effective_title">نقطة النهاية الحالية</string>

@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "E-mail";
 "course_member_groups" = "Csoportok";
+"course_member_profile_picture" = "Profilkép";
 "course_members_auditors" = "Vendéghallgatók";
 "course_members_students" = "Hallgatók";
 "course_members_tas" = "Oktatási asszisztensek";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "Ossz meg névtelen használati adatokat (meglátogatott oldalak, widget-használat), hogy segíts fejleszteni a TigerDuck-ot";
 "settings_analytics_enabled" = "Használati analitika";
 "settings_api_endpoint" = "API-végpont";
+"settings_api_endpoint_change_alert_confirm" = "Módosítás";
+"settings_api_endpoint_change_alert_message" = "Bejelentkezés után ez a végpont megkapja a hallgatói azonosítódat és a Moodle tokenedet. Minden bejelentkezett fiókból kijelentkezel.";
+"settings_api_endpoint_change_alert_title" = "Módosítod az API-végpontot?";
 "settings_api_endpoint_change_title" = "Végpont módosítása";
 "settings_api_endpoint_checking" = "Ellenőrzés…";
 "settings_api_endpoint_effective_title" = "Aktuális végpont";

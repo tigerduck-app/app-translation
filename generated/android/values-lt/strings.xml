@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">El. paštas</string>
     <string name="course_member_groups">Grupės</string>
+    <string name="course_member_profile_picture">Profilio nuotrauka</string>
     <string name="course_members_auditors">Laisvieji klausytojai</string>
     <string name="course_members_students">Studentai</string>
     <string name="course_members_tas">Asistentai</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Dalinkis anonimais naudojimo duomenimis (lankyti puslapiai, valdiklių naudojimas), kad padėtum tobulinti TigerDuck</string>
     <string name="settings_analytics_enabled">Naudojimo analizė</string>
     <string name="settings_api_endpoint">API galinis taškas</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Keisti</string>
+    <string name="settings_api_endpoint_change_alert_message">Prisijungus šis galinis taškas gaus jūsų studento ID ir Moodle prieigos raktą. Visos prisijungusios paskyros bus atjungtos.</string>
+    <string name="settings_api_endpoint_change_alert_title">Keisti API galinį tašką?</string>
     <string name="settings_api_endpoint_change_title">Keisti galinį tašką</string>
     <string name="settings_api_endpoint_checking">Tikrinama…</string>
     <string name="settings_api_endpoint_effective_title">Naudojamas galinis taškas</string>

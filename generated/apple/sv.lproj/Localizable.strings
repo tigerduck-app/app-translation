@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "E-post";
 "course_member_groups" = "Grupper";
+"course_member_profile_picture" = "Profilbild";
 "course_members_auditors" = "Åhörare";
 "course_members_students" = "Studenter";
 "course_members_tas" = "Assistenter";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "Dela anonym användningsdata (besökta sidor, användning av widgets) för att hjälpa till att förbättra TigerDuck";
 "settings_analytics_enabled" = "Användningsanalys";
 "settings_api_endpoint" = "API-slutpunkt";
+"settings_api_endpoint_change_alert_confirm" = "Ändra";
+"settings_api_endpoint_change_alert_message" = "När du loggar in får den här slutpunkten ditt student-ID och din Moodle-token. Alla inloggade konton loggas ut.";
+"settings_api_endpoint_change_alert_title" = "Ändra API-slutpunkten?";
 "settings_api_endpoint_change_title" = "Ändra slutpunkt";
 "settings_api_endpoint_checking" = "Kontrollerar…";
 "settings_api_endpoint_effective_title" = "Gällande slutpunkt";

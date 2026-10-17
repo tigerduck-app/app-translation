@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "ईमेल";
 "course_member_groups" = "गट";
+"course_member_profile_picture" = "प्रोफाइल फोटो";
 "course_members_auditors" = "ऑडिटर";
 "course_members_students" = "विद्यार्थी";
 "course_members_tas" = "शिक्षण सहाय्यक";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "TigerDuck सुधारण्यास मदत करण्यासाठी अनामिक वापर डेटा (भेट दिलेली पृष्ठे, विजेट वापर) शेअर करा";
 "settings_analytics_enabled" = "वापर विश्लेषण";
 "settings_api_endpoint" = "API एंडपॉइंट";
+"settings_api_endpoint_change_alert_confirm" = "बदला";
+"settings_api_endpoint_change_alert_message" = "साइन इन केल्यानंतर हा एंडपॉइंट तुमचा विद्यार्थी ID आणि Moodle टोकन प्राप्त करेल. साइन इन केलेली सर्व खाती साइन आउट होतील.";
+"settings_api_endpoint_change_alert_title" = "API एंडपॉइंट बदलायचा?";
 "settings_api_endpoint_change_title" = "एंडपॉइंट बदला";
 "settings_api_endpoint_checking" = "तपासत आहे…";
 "settings_api_endpoint_effective_title" = "सध्याचे एंडपॉइंट";

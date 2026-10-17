@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Correu electrònic</string>
     <string name="course_member_groups">Grups</string>
+    <string name="course_member_profile_picture">Foto de perfil</string>
     <string name="course_members_auditors">Oients</string>
     <string name="course_members_students">Estudiants</string>
     <string name="course_members_tas">Assistents de docència</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Comparteix dades d\'ús anònimes (pàgines visitades, ús de widgets) per ajudar a millorar TigerDuck</string>
     <string name="settings_analytics_enabled">Anàlisi d\'ús</string>
     <string name="settings_api_endpoint">Punt final de l\'API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Canvia</string>
+    <string name="settings_api_endpoint_change_alert_message">Quan iniciïs la sessió, aquest punt final rebrà el teu ID d\'estudiant i el token de Moodle. Es tancarà la sessió de tots els comptes.</string>
+    <string name="settings_api_endpoint_change_alert_title">Vols canviar el punt final de l\'API?</string>
     <string name="settings_api_endpoint_change_title">Canvia el punt final</string>
     <string name="settings_api_endpoint_checking">Comprovant…</string>
     <string name="settings_api_endpoint_effective_title">Punt final efectiu</string>

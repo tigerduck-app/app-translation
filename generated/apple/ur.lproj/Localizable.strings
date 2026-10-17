@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "ای میل";
 "course_member_groups" = "گروپس";
+"course_member_profile_picture" = "پروفائل تصویر";
 "course_members_auditors" = "آڈیٹر طلبہ";
 "course_members_students" = "طلبہ";
 "course_members_tas" = "تدریسی معاونین";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "TigerDuck کو بہتر بنانے میں مدد کے لیے گمنام استعمال کا ڈیٹا (دیکھے گئے صفحات، ویجٹ استعمال) شیئر کریں";
 "settings_analytics_enabled" = "استعمال کا تجزیہ";
 "settings_api_endpoint" = "API اینڈ پوائنٹ";
+"settings_api_endpoint_change_alert_confirm" = "تبدیل کریں";
+"settings_api_endpoint_change_alert_message" = "سائن ان کرنے کے بعد یہ اینڈ پوائنٹ آپ کا طالب علم ID اور Moodle ٹوکن وصول کرے گا۔ سائن ان کیے گئے تمام اکاؤنٹس سائن آؤٹ ہو جائیں گے۔";
+"settings_api_endpoint_change_alert_title" = "API اینڈ پوائنٹ تبدیل کریں؟";
 "settings_api_endpoint_change_title" = "اینڈ پوائنٹ تبدیل کریں";
 "settings_api_endpoint_checking" = "چیک ہو رہا ہے…";
 "settings_api_endpoint_effective_title" = "موجودہ اینڈ پوائنٹ";
