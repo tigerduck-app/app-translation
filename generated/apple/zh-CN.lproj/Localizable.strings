@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "材料科学与工程系";
 "course_member_email" = "电子邮件";
 "course_member_groups" = "分组";
+"course_member_profile_picture" = "头像";
 "course_members_auditors" = "旁听生";
 "course_members_students" = "学生";
 "course_members_tas" = "助教";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "分享匿名使用数据（浏览页面、小组件使用情况），帮助改进 TigerDuck";
 "settings_analytics_enabled" = "使用分析";
 "settings_api_endpoint" = "API 端点";
+"settings_api_endpoint_change_alert_confirm" = "更改";
+"settings_api_endpoint_change_alert_message" = "登录后，这个端点会收到你的学号和 Moodle token。已登录的账号都会退出登录。";
+"settings_api_endpoint_change_alert_title" = "更改 API 端点？";
 "settings_api_endpoint_change_title" = "更改端点";
 "settings_api_endpoint_checking" = "检查中…";
 "settings_api_endpoint_effective_title" = "当前端点";

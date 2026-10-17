@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Email</string>
     <string name="course_member_groups">Nhóm</string>
+    <string name="course_member_profile_picture">Ảnh hồ sơ</string>
     <string name="course_members_auditors">Sinh viên dự thính</string>
     <string name="course_members_students">Sinh viên</string>
     <string name="course_members_tas">Trợ giảng</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Chia sẻ dữ liệu sử dụng ẩn danh (trang đã truy cập, sử dụng widget) để giúp cải thiện TigerDuck</string>
     <string name="settings_analytics_enabled">Phân tích sử dụng</string>
     <string name="settings_api_endpoint">Điểm cuối API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Đổi</string>
+    <string name="settings_api_endpoint_change_alert_message">Sau khi đăng nhập, điểm cuối này sẽ nhận mã sinh viên và token Moodle của bạn. Tất cả tài khoản đang đăng nhập sẽ bị đăng xuất.</string>
+    <string name="settings_api_endpoint_change_alert_title">Đổi điểm cuối API?</string>
     <string name="settings_api_endpoint_change_title">Đổi điểm cuối</string>
     <string name="settings_api_endpoint_checking">Đang kiểm tra…</string>
     <string name="settings_api_endpoint_effective_title">Điểm cuối hiện tại</string>

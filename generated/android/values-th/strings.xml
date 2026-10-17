@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">อีเมล</string>
     <string name="course_member_groups">กลุ่ม</string>
+    <string name="course_member_profile_picture">รูปโปรไฟล์</string>
     <string name="course_members_auditors">ผู้ร่วมฟัง</string>
     <string name="course_members_students">นักศึกษา</string>
     <string name="course_members_tas">ผู้ช่วยสอน</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">แชร์ข้อมูลการใช้งานแบบไม่ระบุตัวตน (หน้าที่เข้าชม, การใช้วิดเจ็ต) เพื่อช่วยพัฒนา TigerDuck</string>
     <string name="settings_analytics_enabled">การวิเคราะห์การใช้งาน</string>
     <string name="settings_api_endpoint">ปลายทาง API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">เปลี่ยน</string>
+    <string name="settings_api_endpoint_change_alert_message">หลังจากลงชื่อเข้าใช้ ปลายทางนี้จะได้รับรหัสนักศึกษาและโทเค็น Moodle ของคุณ บัญชีที่ลงชื่อเข้าใช้อยู่ทั้งหมดจะถูกออกจากระบบ</string>
+    <string name="settings_api_endpoint_change_alert_title">เปลี่ยนปลายทาง API หรือไม่?</string>
     <string name="settings_api_endpoint_change_title">เปลี่ยนปลายทาง</string>
     <string name="settings_api_endpoint_checking">กำลังตรวจสอบ…</string>
     <string name="settings_api_endpoint_effective_title">ปลายทางที่ใช้งานอยู่</string>

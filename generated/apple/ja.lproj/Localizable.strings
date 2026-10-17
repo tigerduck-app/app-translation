@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "メール";
 "course_member_groups" = "グループ";
+"course_member_profile_picture" = "プロフィール写真";
 "course_members_auditors" = "聴講生";
 "course_members_students" = "学生";
 "course_members_tas" = "ティーチングアシスタント";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "匿名の利用データ（閲覧ページ、ウィジェットの使用状況）を共有して、TigerDuck の改善にご協力ください";
 "settings_analytics_enabled" = "利用状況の分析";
 "settings_api_endpoint" = "API エンドポイント";
+"settings_api_endpoint_change_alert_confirm" = "変更";
+"settings_api_endpoint_change_alert_message" = "サインイン後、このエンドポイントが学籍番号と Moodle トークンを受け取ります。サインイン中のアカウントはすべてサインアウトされます。";
+"settings_api_endpoint_change_alert_title" = "API エンドポイントを変更しますか？";
 "settings_api_endpoint_change_title" = "エンドポイントを変更";
 "settings_api_endpoint_checking" = "確認中…";
 "settings_api_endpoint_effective_title" = "現在のエンドポイント";

@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">ایمیل</string>
     <string name="course_member_groups">گروه‌ها</string>
+    <string name="course_member_profile_picture">تصویر نمایه</string>
     <string name="course_members_auditors">مستمعان آزاد</string>
     <string name="course_members_students">دانشجویان</string>
     <string name="course_members_tas">دستیاران آموزشی</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">داده‌های ناشناس استفاده (صفحات بازدیدشده، استفاده از ویجت) را برای بهبود TigerDuck به اشتراک بگذارید</string>
     <string name="settings_analytics_enabled">آمار استفاده</string>
     <string name="settings_api_endpoint">نقطهٔ پایانی API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">تغییر</string>
+    <string name="settings_api_endpoint_change_alert_message">پس از ورود، این نقطهٔ پایانی شماره دانشجویی و توکن Moodle شما را دریافت می‌کند. از همهٔ حساب‌های واردشده خارج می‌شوید.</string>
+    <string name="settings_api_endpoint_change_alert_title">نقطهٔ پایانی API تغییر کند؟</string>
     <string name="settings_api_endpoint_change_title">تغییر نقطهٔ پایانی</string>
     <string name="settings_api_endpoint_checking">در حال بررسی…</string>
     <string name="settings_api_endpoint_effective_title">نقطهٔ پایانی فعلی</string>

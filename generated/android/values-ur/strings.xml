@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">ای میل</string>
     <string name="course_member_groups">گروپس</string>
+    <string name="course_member_profile_picture">پروفائل تصویر</string>
     <string name="course_members_auditors">آڈیٹر طلبہ</string>
     <string name="course_members_students">طلبہ</string>
     <string name="course_members_tas">تدریسی معاونین</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">TigerDuck کو بہتر بنانے میں مدد کے لیے گمنام استعمال کا ڈیٹا (دیکھے گئے صفحات، ویجٹ استعمال) شیئر کریں</string>
     <string name="settings_analytics_enabled">استعمال کا تجزیہ</string>
     <string name="settings_api_endpoint">API اینڈ پوائنٹ</string>
+    <string name="settings_api_endpoint_change_alert_confirm">تبدیل کریں</string>
+    <string name="settings_api_endpoint_change_alert_message">سائن ان کرنے کے بعد یہ اینڈ پوائنٹ آپ کا طالب علم ID اور Moodle ٹوکن وصول کرے گا۔ سائن ان کیے گئے تمام اکاؤنٹس سائن آؤٹ ہو جائیں گے۔</string>
+    <string name="settings_api_endpoint_change_alert_title">API اینڈ پوائنٹ تبدیل کریں؟</string>
     <string name="settings_api_endpoint_change_title">اینڈ پوائنٹ تبدیل کریں</string>
     <string name="settings_api_endpoint_checking">چیک ہو رہا ہے…</string>
     <string name="settings_api_endpoint_effective_title">موجودہ اینڈ پوائنٹ</string>

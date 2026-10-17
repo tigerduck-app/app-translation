@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "Netfang";
 "course_member_groups" = "Hópar";
+"course_member_profile_picture" = "Prófílmynd";
 "course_members_auditors" = "Áheyrnarnemar";
 "course_members_students" = "Nemendur";
 "course_members_tas" = "Aðstoðarkennarar";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "Deildu nafnlausum notkunargögnum (heimsóttum síðum, notkun widgets) til að hjálpa til við að bæta TigerDuck";
 "settings_analytics_enabled" = "Notkunargreining";
 "settings_api_endpoint" = "API-endapunktur";
+"settings_api_endpoint_change_alert_confirm" = "Breyta";
+"settings_api_endpoint_change_alert_message" = "Eftir innskráningu fær þessi endapunktur nemandanúmerið þitt og Moodle táknið. Allir innskráðir reikningar verða skráðir út.";
+"settings_api_endpoint_change_alert_title" = "Breyta API-endapunktinum?";
 "settings_api_endpoint_change_title" = "Breyta endapunkti";
 "settings_api_endpoint_checking" = "Athugar…";
 "settings_api_endpoint_effective_title" = "Virkur endapunktur";

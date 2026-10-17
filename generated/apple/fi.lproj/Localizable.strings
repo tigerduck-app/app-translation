@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "Sähköposti";
 "course_member_groups" = "Ryhmät";
+"course_member_profile_picture" = "Profiilikuva";
 "course_members_auditors" = "Kuuntelijat";
 "course_members_students" = "Opiskelijat";
 "course_members_tas" = "Opetusassistentit";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "Jaa anonyymiä käyttödataa (vieraillut sivut, widgetien käyttö) TigerDuckin kehittämiseksi";
 "settings_analytics_enabled" = "Käyttöanalytiikka";
 "settings_api_endpoint" = "API-päätepiste";
+"settings_api_endpoint_change_alert_confirm" = "Vaihda";
+"settings_api_endpoint_change_alert_message" = "Kun kirjaudut sisään, tämä päätepiste saa opiskelijanumerosi ja Moodle-tunnuksesi. Kaikki kirjautuneet tilit kirjataan ulos.";
+"settings_api_endpoint_change_alert_title" = "Vaihdetaanko API-päätepiste?";
 "settings_api_endpoint_change_title" = "Vaihda päätepiste";
 "settings_api_endpoint_checking" = "Tarkistetaan…";
 "settings_api_endpoint_effective_title" = "Käytössä oleva päätepiste";

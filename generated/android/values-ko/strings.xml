@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">이메일</string>
     <string name="course_member_groups">그룹</string>
+    <string name="course_member_profile_picture">프로필 사진</string>
     <string name="course_members_auditors">청강생</string>
     <string name="course_members_students">학생</string>
     <string name="course_members_tas">조교</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">익명 사용 데이터(방문한 페이지, 위젯 사용)를 공유하여 TigerDuck 개선에 도움을 주세요</string>
     <string name="settings_analytics_enabled">사용 분석</string>
     <string name="settings_api_endpoint">API 엔드포인트</string>
+    <string name="settings_api_endpoint_change_alert_confirm">변경</string>
+    <string name="settings_api_endpoint_change_alert_message">로그인하면 이 엔드포인트가 학번과 Moodle 토큰을 받습니다. 로그인된 모든 계정이 로그아웃됩니다.</string>
+    <string name="settings_api_endpoint_change_alert_title">API 엔드포인트를 변경할까요?</string>
     <string name="settings_api_endpoint_change_title">엔드포인트 변경</string>
     <string name="settings_api_endpoint_checking">확인 중…</string>
     <string name="settings_api_endpoint_effective_title">현재 엔드포인트</string>

@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Имейл</string>
     <string name="course_member_groups">Групи</string>
+    <string name="course_member_profile_picture">Профилна снимка</string>
     <string name="course_members_auditors">Свободни слушатели</string>
     <string name="course_members_students">Студенти</string>
     <string name="course_members_tas">Асистенти</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Споделяй анонимни данни за използването (посетени страници, използване на виджети), за да помогнеш за подобряването на TigerDuck</string>
     <string name="settings_analytics_enabled">Анализ на използването</string>
     <string name="settings_api_endpoint">Крайна точка на API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Промяна</string>
+    <string name="settings_api_endpoint_change_alert_message">След като влезете, тази крайна точка ще получи студентския ви номер и токена за Moodle. Ще излезете от всички акаунти, в които сте влезли.</string>
+    <string name="settings_api_endpoint_change_alert_title">Промяна на крайната точка на API?</string>
     <string name="settings_api_endpoint_change_title">Промяна на крайната точка</string>
     <string name="settings_api_endpoint_checking">Проверка…</string>
     <string name="settings_api_endpoint_effective_title">Текуща крайна точка</string>

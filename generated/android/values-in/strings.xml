@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Email</string>
     <string name="course_member_groups">Grup</string>
+    <string name="course_member_profile_picture">Foto profil</string>
     <string name="course_members_auditors">Mahasiswa pendengar</string>
     <string name="course_members_students">Mahasiswa</string>
     <string name="course_members_tas">Asisten dosen</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Bagikan data penggunaan anonim (halaman yang dikunjungi, penggunaan widget) untuk membantu meningkatkan TigerDuck</string>
     <string name="settings_analytics_enabled">Analitik penggunaan</string>
     <string name="settings_api_endpoint">Endpoint API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Ubah</string>
+    <string name="settings_api_endpoint_change_alert_message">Setelah Anda masuk, endpoint ini menerima NIM dan token Moodle Anda. Semua akun yang masuk akan dikeluarkan.</string>
+    <string name="settings_api_endpoint_change_alert_title">Ubah endpoint API?</string>
     <string name="settings_api_endpoint_change_title">Ubah endpoint</string>
     <string name="settings_api_endpoint_checking">Memeriksa…</string>
     <string name="settings_api_endpoint_effective_title">Endpoint aktif</string>

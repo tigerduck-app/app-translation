@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Netfang</string>
     <string name="course_member_groups">Hópar</string>
+    <string name="course_member_profile_picture">Prófílmynd</string>
     <string name="course_members_auditors">Áheyrnarnemar</string>
     <string name="course_members_students">Nemendur</string>
     <string name="course_members_tas">Aðstoðarkennarar</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Deildu nafnlausum notkunargögnum (heimsóttum síðum, notkun widgets) til að hjálpa til við að bæta TigerDuck</string>
     <string name="settings_analytics_enabled">Notkunargreining</string>
     <string name="settings_api_endpoint">API-endapunktur</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Breyta</string>
+    <string name="settings_api_endpoint_change_alert_message">Eftir innskráningu fær þessi endapunktur nemandanúmerið þitt og Moodle táknið. Allir innskráðir reikningar verða skráðir út.</string>
+    <string name="settings_api_endpoint_change_alert_title">Breyta API-endapunktinum?</string>
     <string name="settings_api_endpoint_change_title">Breyta endapunkti</string>
     <string name="settings_api_endpoint_checking">Athugar…</string>
     <string name="settings_api_endpoint_effective_title">Virkur endapunktur</string>

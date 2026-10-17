@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">E-pasts</string>
     <string name="course_member_groups">Grupas</string>
+    <string name="course_member_profile_picture">Profila attēls</string>
     <string name="course_members_auditors">Brīvklausītāji</string>
     <string name="course_members_students">Studenti</string>
     <string name="course_members_tas">Asistenti</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Dalies ar anonīmiem lietošanas datiem (apmeklētās lapas, sīkrīku lietošana), lai palīdzētu uzlabot TigerDuck</string>
     <string name="settings_analytics_enabled">Lietošanas analītika</string>
     <string name="settings_api_endpoint">API galapunkts</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Mainīt</string>
+    <string name="settings_api_endpoint_change_alert_message">Pēc pierakstīšanās šis galapunkts saņems jūsu studenta ID un Moodle žetonu. Visi konti, kuros esat pierakstījies, tiks izrakstīti.</string>
+    <string name="settings_api_endpoint_change_alert_title">Mainīt API galapunktu?</string>
     <string name="settings_api_endpoint_change_title">Mainīt galapunktu</string>
     <string name="settings_api_endpoint_checking">Pārbauda…</string>
     <string name="settings_api_endpoint_effective_title">Izmantotais galapunkts</string>

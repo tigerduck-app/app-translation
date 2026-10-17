@@ -342,6 +342,7 @@
 "course_member_department_tx_short" = "Materials Science and Engineering";
 "course_member_email" = "E-Mail";
 "course_member_groups" = "Gruppen";
+"course_member_profile_picture" = "Profilbild";
 "course_members_auditors" = "Gasthörer";
 "course_members_students" = "Studierende";
 "course_members_tas" = "Tutoren";
@@ -891,6 +892,9 @@
 "settings_analytics_description" = "Teile anonyme Nutzungsdaten (besuchte Seiten, Widget-Nutzung), um TigerDuck zu verbessern";
 "settings_analytics_enabled" = "Nutzungsanalyse";
 "settings_api_endpoint" = "API-Endpunkt";
+"settings_api_endpoint_change_alert_confirm" = "Ändern";
+"settings_api_endpoint_change_alert_message" = "Nach der Anmeldung erhält dieser Endpunkt deine Matrikelnummer und dein Moodle-Token. Alle angemeldeten Konten werden abgemeldet.";
+"settings_api_endpoint_change_alert_title" = "API-Endpunkt ändern?";
 "settings_api_endpoint_change_title" = "Endpunkt ändern";
 "settings_api_endpoint_checking" = "Wird geprüft…";
 "settings_api_endpoint_effective_title" = "Aktueller Endpunkt";

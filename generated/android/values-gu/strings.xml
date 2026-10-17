@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">ઇમેઇલ</string>
     <string name="course_member_groups">જૂથો</string>
+    <string name="course_member_profile_picture">પ્રોફાઇલ ફોટો</string>
     <string name="course_members_auditors">ઓડિટર</string>
     <string name="course_members_students">વિદ્યાર્થીઓ</string>
     <string name="course_members_tas">ટીચિંગ આસિસ્ટન્ટ</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">TigerDuck સુધારવામાં મદદ કરવા અજ્ઞાત ઉપયોગ ડેટા (મુલાકાત લીધેલ પૃષ્ઠો, વિજેટ ઉપયોગ) શેર કરો</string>
     <string name="settings_analytics_enabled">ઉપયોગ વિશ્લેષણ</string>
     <string name="settings_api_endpoint">API એન્ડપોઇન્ટ</string>
+    <string name="settings_api_endpoint_change_alert_confirm">બદલો</string>
+    <string name="settings_api_endpoint_change_alert_message">સાઇન ઇન કર્યા પછી, આ એન્ડપોઇન્ટને તમારો વિદ્યાર્થી ID અને Moodle ટોકન મળશે. સાઇન ઇન થયેલાં બધાં એકાઉન્ટ સાઇન આઉટ થઈ જશે.</string>
+    <string name="settings_api_endpoint_change_alert_title">API એન્ડપોઇન્ટ બદલવું છે?</string>
     <string name="settings_api_endpoint_change_title">એન્ડપોઇન્ટ બદલો</string>
     <string name="settings_api_endpoint_checking">ચકાસી રહ્યા છીએ…</string>
     <string name="settings_api_endpoint_effective_title">હાલનું એન્ડપોઇન્ટ</string>

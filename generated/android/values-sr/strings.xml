@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Е-пошта</string>
     <string name="course_member_groups">Групе</string>
+    <string name="course_member_profile_picture">Профилна слика</string>
     <string name="course_members_auditors">Слушаоци</string>
     <string name="course_members_students">Студенти</string>
     <string name="course_members_tas">Асистенти</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Дели анонимне податке о коришћењу (посећене странице, коришћење виџета) да би помогао у побољшању TigerDuck-а</string>
     <string name="settings_analytics_enabled">Аналитика коришћења</string>
     <string name="settings_api_endpoint">Крајња тачка API-ја</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Промени</string>
+    <string name="settings_api_endpoint_change_alert_message">Након пријаве ова крајња тачка добија ваш студентски ID и Moodle токен. Сви пријављени налози ће бити одјављени.</string>
+    <string name="settings_api_endpoint_change_alert_title">Променити крајњу тачку API-ја?</string>
     <string name="settings_api_endpoint_change_title">Промени крајњу тачку</string>
     <string name="settings_api_endpoint_checking">Провера…</string>
     <string name="settings_api_endpoint_effective_title">Тренутна крајња тачка</string>

@@ -346,6 +346,7 @@
     <string name="course_member_department_tx_short">Materials Science and Engineering</string>
     <string name="course_member_email">Correo electrónico</string>
     <string name="course_member_groups">Grupos</string>
+    <string name="course_member_profile_picture">Foto de perfil</string>
     <string name="course_members_auditors">Oyentes</string>
     <string name="course_members_students">Estudiantes</string>
     <string name="course_members_tas">Asistentes de docencia</string>
@@ -910,6 +911,9 @@
     <string name="settings_analytics_description">Comparte datos de uso anónimos (páginas visitadas, uso de widgets) para ayudar a mejorar TigerDuck</string>
     <string name="settings_analytics_enabled">Análisis de uso</string>
     <string name="settings_api_endpoint">Punto final de la API</string>
+    <string name="settings_api_endpoint_change_alert_confirm">Cambiar</string>
+    <string name="settings_api_endpoint_change_alert_message">Cuando inicies sesión, este punto final recibirá tu ID de estudiante y el token de Moodle. Se cerrará la sesión de todas las cuentas.</string>
+    <string name="settings_api_endpoint_change_alert_title">¿Cambiar el punto final de la API?</string>
     <string name="settings_api_endpoint_change_title">Cambiar punto final</string>
     <string name="settings_api_endpoint_checking">Comprobando…</string>
     <string name="settings_api_endpoint_effective_title">Punto final efectivo</string>
