@@ -192,6 +192,25 @@ official English name takes its code and the word Building as its English
 name, as `IA Building` for 醫揚大樓, and Chinese keeps its Chinese name. The
 app shows the name the room booking site gives a building that has no key.
 
+## Department names (Chinese and English only)
+
+The member pages name a student's department from the department code in the student ID, with
+`course_member_department_<code>` keys, where `<code>` is the department's course code in lower
+case (`course_member_department_cs` for CS, 資訊工程系). Each has a `_short` twin for the members
+list, where the English drops the leading "Department of". Like a building, a department has two
+names and no more: the Chinese name and the English name that the Office of Academic Affairs'
+course department code table (課程系所代碼表) gives it.
+
+| Locale group | Value |
+|---|---|
+| `zh-Hant`, `yue-HK` | the Chinese name (資訊工程系), the same in both keys |
+| `zh-Hans` | the same name in Simplified characters (资讯工程系) |
+| every other locale | the English name, exactly as `en` has it (Department of Computer Science and Information Engineering; Computer Science and Information Engineering in `_short`) |
+
+As with the building names, the English values in the other locales are final, not placeholders:
+do not translate them. A department whose code is not confirmed gets no key; the app then shows no
+department.
+
 ## Naming keys
 
 Keys are `snake_case` and lead with a stable feature/area prefix so related
@@ -211,6 +230,7 @@ before inventing a new one):
 | `common_` | Cross-feature small bits ("Not signed in" etc.) |
 | `conflict_course_picker_` | Course-conflict picker dialog |
 | `course_card_` / `course_*_value` | Course card / detail formatters |
+| `course_member_` | Course members list and member page; `course_member_department_<code>` names a department (see *Department names*) |
 | `desktop_` | Desktop-app surface (see *Surface prefixes* below) |
 | `empty_classroom_` | Empty-classroom finder; `empty_classroom_building_<code>` names a building (see *Campus building names*) |
 | `error_` | Generic error messages |
