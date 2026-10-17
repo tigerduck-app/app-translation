@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Resetare";
 "app_reset_required_message" = "Starea de autentificare și preferințele tale nu mai pot fi citite, posibil din cauza unei actualizări de SO, restaurări din backup sau probleme de stocare.\n\nApasă „Resetare“ pentru a șterge datele vechi, apoi autentifică-te și reconfigurează preferințele.";
 "app_reset_required_title" = "Resetare necesară";
+"assignment_detail_comments" = "Comentarii la predare";
+"assignment_detail_description" = "Descriere";
+"assignment_detail_due" = "Termen";
+"assignment_detail_group" = "Grup";
+"assignment_detail_not_submitted" = "Încă nepredat";
+"assignment_detail_submission" = "Lucrarea predată";
+"assignment_detail_submit_on_moodle" = "Predă în Moodle";
+"assignment_detail_submitted_at" = "Trimis";
 "assignment_filter_all" = "Toate";
 "assignment_filter_ignored" = "Ignorate";
 "assignment_filter_incomplete" = "Incomplete";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Culoare personalizată";
 "course_color_picker_title" = "Editează culoarea";
 "course_credits_value" = "Credite: %1$@";
+"course_detail_assignments_label" = "Teme";
 "course_detail_classroom_label" = "Sală";
 "course_detail_code_copied" = "Cod copiat";
 "course_detail_code_label" = "Cod";
@@ -601,9 +610,9 @@
 "onboarding_skip_for_now" = "Sari deocamdată";
 "onboarding_start_button" = "Începe să folosești TigerDuck";
 "onboarding_sync_description" = "TigerSync menține cursurile, temele și setările sincronizate pe toate dispozitivele tale. Poți alege exact ce să sincronizezi în setările TigerSync.";
-"onboarding_sync_disabled_note" = "Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv. Notificările push și Live Activity nu vor fi disponibile.";
+"onboarding_sync_disabled_note" = "Când sincronizarea este dezactivată, serverul TigerDuck primește în continuare ID-ul dvs. de student, tokenul Moodle și acreditările push ale acestui dispozitiv pentru a trimite mementouri pentru teme";
 "onboarding_sync_not_shared_password" = "Parola nu este încărcată niciodată";
-"onboarding_sync_note" = "Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv. Notificările push pentru mementourile de teme funcționează local fără TigerSync.";
+"onboarding_sync_note" = "Când sincronizarea este dezactivată, serverul TigerDuck primește în continuare ID-ul dvs. de student, tokenul Moodle și acreditările push ale acestui dispozitiv pentru a trimite mementouri pentru teme";
 "onboarding_sync_shared_assignments" = "Date teme";
 "onboarding_sync_shared_courses" = "Date cursuri";
 "onboarding_sync_shared_device_id" = "Identificator dispozitiv";
@@ -749,6 +758,7 @@
 "school_mail_send" = "Trimite";
 "school_mail_send_confirm_title" = "Trimiți acest e-mail?";
 "school_mail_send_failed" = "E-mailul nu a putut fi trimis";
+"school_mail_send_unconfirmed" = "Nu s-a putut confirma dacă e-mailul a fost trimis; o nouă încercare l-ar putea livra de două ori";
 "school_mail_sent_copy_failed" = "E-mailul a fost trimis, dar copia nu a putut fi salvată în Trimise.";
 "school_mail_sent_copy_no_folder" = "E-mailul a fost trimis, dar nu există un folder Trimise în care să se păstreze o copie.";
 "school_mail_sent_copy_not_saved" = "E-mail trimis, dar copia nu a fost salvată în Trimise";
@@ -940,7 +950,7 @@
 "settings_sync_brief_description" = "TigerSync vă permite să sincronizați informațiile alese pe toate dispozitivele. Informațiile neactivate rămân doar pe acest dispozitiv.";
 "settings_sync_brief_description_ios" = "TigerSync vă permite să primiți notificări push și să sincronizați informații. Informațiile neactivate sunt trimise oricum la server pentru notificări push.";
 "settings_sync_data_section" = "Date partajate cu serverul";
-"settings_sync_disabled_note" = "Când sincronizarea este dezactivată, toate datele rămân doar pe acest dispozitiv.";
+"settings_sync_disabled_note" = "Când sincronizarea este dezactivată, serverul TigerDuck primește în continuare ID-ul dvs. de student, tokenul Moodle și acreditările push ale acestui dispozitiv pentru a trimite mementouri pentru teme";
 "settings_sync_off_notifications_warning" = "TigerSync este dezactivat. Dispozitivele Apple se bazează pe serverul TigerDuck pentru primirea notificărilor. Atingeți pentru mai multe informații.";
 "settings_sync_status_off" = "Oprit";
 "settings_sync_status_on" = "Pornit";
@@ -998,10 +1008,12 @@
 "sync_status_hours_ago_short" = "acum %1$d h";
 "sync_status_just_now" = "Chiar acum";
 "sync_status_last_synced" = "Ultima sincronizare";
+"sync_status_last_updated" = "Ultima actualizare";
 "sync_status_minimal" = "Limitat";
 "sync_status_minutes_ago_short" = "acum %1$d min";
 "sync_status_nav_label" = "Starea TigerSync";
 "sync_status_never_synced" = "Niciodată sincronizat";
+"sync_status_never_updated" = "Niciodată actualizat";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Se sincronizează…";
 "sync_status_title" = "Stare sincronizare";

@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Atstatyti";
 "app_reset_required_message" = "Jūsų prisijungimo būsenos ir nuostatų nebegalima perskaityti – galbūt dėl OS atnaujinimo, atsarginės kopijos atstatymo ar saugyklos problemos.\n\nBakstelėkite \"Atstatyti\", kad išvalytumėte senus duomenis, tada prisijunkite ir iš naujo konfigūruokite nuostatas.";
 "app_reset_required_title" = "Reikalingas atstatymas";
+"assignment_detail_comments" = "Pateikimo komentarai";
+"assignment_detail_description" = "Aprašas";
+"assignment_detail_due" = "Terminas";
+"assignment_detail_group" = "Grupė";
+"assignment_detail_not_submitted" = "Dar nepateikta";
+"assignment_detail_submission" = "Pateiktas darbas";
+"assignment_detail_submit_on_moodle" = "Pateikti Moodle";
+"assignment_detail_submitted_at" = "Pateikta";
 "assignment_filter_all" = "Visi";
 "assignment_filter_ignored" = "Ignoruota";
 "assignment_filter_incomplete" = "Nebaigta";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Tinkinta spalva";
 "course_color_picker_title" = "Redaguoti spalvą";
 "course_credits_value" = "Kreditai: %1$@";
+"course_detail_assignments_label" = "Užduotys";
 "course_detail_classroom_label" = "Auditorija";
 "course_detail_code_copied" = "Kodas nukopijuotas";
 "course_detail_code_label" = "Kodas";
@@ -601,9 +610,9 @@
 "onboarding_skip_for_now" = "Praleisti dabar";
 "onboarding_start_button" = "Pradėti naudoti TigerDuck";
 "onboarding_sync_description" = "TigerSync sinchronizuoja jūsų kursus, užduotis ir nustatymus visuose jūsų įrenginiuose. TigerSync nustatymuose galite tiksliai pasirinkti, ką sinchronizuoti.";
-"onboarding_sync_disabled_note" = "Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje. Push pranešimai ir Live Activity nebus pasiekiami.";
+"onboarding_sync_disabled_note" = "Kai sinchronizavimas išjungtas, TigerDuck serveris vis tiek gauna jūsų studento ID, Moodle prieigos raktą ir šio įrenginio push kredencialus, kad galėtų siųsti užduočių priminimus";
 "onboarding_sync_not_shared_password" = "Slaptažodis niekada neįkeliamas";
-"onboarding_sync_note" = "Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje. Push pranešimai apie namų darbus veikia vietiniame režime be TigerSync.";
+"onboarding_sync_note" = "Kai sinchronizavimas išjungtas, TigerDuck serveris vis tiek gauna jūsų studento ID, Moodle prieigos raktą ir šio įrenginio push kredencialus, kad galėtų siųsti užduočių priminimus";
 "onboarding_sync_shared_assignments" = "Užduočių duomenys";
 "onboarding_sync_shared_courses" = "Kursų duomenys";
 "onboarding_sync_shared_device_id" = "Įrenginio ID";
@@ -749,6 +758,7 @@
 "school_mail_send" = "Siųsti";
 "school_mail_send_confirm_title" = "Siųsti šį laišką?";
 "school_mail_send_failed" = "Nepavyko išsiųsti laiško";
+"school_mail_send_unconfirmed" = "Nepavyko patvirtinti, ar laiškas išsiųstas; bandant dar kartą jis gali būti pristatytas du kartus";
 "school_mail_sent_copy_failed" = "Laiškas buvo išsiųstas, bet kopijos nepavyko išsaugoti aplanke Išsiųsti.";
 "school_mail_sent_copy_no_folder" = "Laiškas buvo išsiųstas, bet nėra aplanko Išsiųsti, kuriame būtų galima laikyti kopiją.";
 "school_mail_sent_copy_not_saved" = "Laiškas išsiųstas, bet kopija nebuvo išsaugota aplanke Išsiųsti";
@@ -940,7 +950,7 @@
 "settings_sync_brief_description" = "TigerSync leidžia sinchronizuoti pasirinktą informaciją visuose įrenginiuose. Nesinchronizuota informacija lieka tik šiame įrenginyje.";
 "settings_sync_brief_description_ios" = "TigerSync leidžia gauti push pranešimus ir sinchronizuoti informaciją. Nesinchronizuota informacija vis tiek siunčiama į serverį push pranešimams.";
 "settings_sync_data_section" = "Duomenys, bendrinti su serveriu";
-"settings_sync_disabled_note" = "Kai sinchronizacija išjungta, visi duomenys lieka tik šiame įrenginyje.";
+"settings_sync_disabled_note" = "Kai sinchronizavimas išjungtas, TigerDuck serveris vis tiek gauna jūsų studento ID, Moodle prieigos raktą ir šio įrenginio push kredencialus, kad galėtų siųsti užduočių priminimus";
 "settings_sync_off_notifications_warning" = "TigerSync išjungtas. Apple įrenginiai priklauso nuo TigerDuck serverio pranešimams gauti. Palieskite daugiau informacijos.";
 "settings_sync_status_off" = "Išjungta";
 "settings_sync_status_on" = "Įjungta";
@@ -998,10 +1008,12 @@
 "sync_status_hours_ago_short" = "prieš %1$d val.";
 "sync_status_just_now" = "Ką tik";
 "sync_status_last_synced" = "Paskutinį kartą sinchronizuota";
+"sync_status_last_updated" = "Paskutinį kartą atnaujinta";
 "sync_status_minimal" = "Ribota";
 "sync_status_minutes_ago_short" = "prieš %1$d min.";
 "sync_status_nav_label" = "TigerSync statusas";
 "sync_status_never_synced" = "Nesusinchronizuota";
+"sync_status_never_updated" = "Neatnaujinta";
 "sync_status_ok" = "Gerai";
 "sync_status_syncing" = "Sinchronizuojama…";
 "sync_status_title" = "Sinchronizavimo būsena";

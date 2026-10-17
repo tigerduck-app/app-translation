@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Obnovit";
 "app_reset_required_message" = "Vaše přihlášení a předvolby již nelze načíst, pravděpodobně kvůli aktualizaci OS, obnovení ze zálohy nebo problému s úložištěm.\n\nKlepnutím na „Obnovit“ vymažete stará data a poté se znovu přihlásíte a nakonfigurujete své předvolby.";
 "app_reset_required_title" = "Vyžadováno obnovení";
+"assignment_detail_comments" = "Komentáře k odevzdání";
+"assignment_detail_description" = "Popis";
+"assignment_detail_due" = "Termín";
+"assignment_detail_group" = "Skupina";
+"assignment_detail_not_submitted" = "Zatím neodevzdáno";
+"assignment_detail_submission" = "Odevzdaná práce";
+"assignment_detail_submit_on_moodle" = "Odevzdat v Moodle";
+"assignment_detail_submitted_at" = "Odevzdáno";
 "assignment_filter_all" = "Vše";
 "assignment_filter_ignored" = "Ignorované";
 "assignment_filter_incomplete" = "Nedokončené";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Vlastní barva";
 "course_color_picker_title" = "Upravit barvu";
 "course_credits_value" = "Kredity: %1$@";
+"course_detail_assignments_label" = "Úkoly";
 "course_detail_classroom_label" = "Třída";
 "course_detail_code_copied" = "Kód zkopírován";
 "course_detail_code_label" = "Kód";
@@ -601,9 +610,9 @@
 "onboarding_skip_for_now" = "Prozatím přeskočit";
 "onboarding_start_button" = "Začít používat TigerDuck";
 "onboarding_sync_description" = "TigerSync udržuje vaše kurzy, úkoly a nastavení synchronizované na všech vašich zařízeních. V nastavení TigerSync si můžete přesně vybrat, co chcete synchronizovat.";
-"onboarding_sync_disabled_note" = "Když je synchronizace vypnutá, všechna data zůstávají pouze na tomto zařízení. Push notifikace a Live Activity nebudou k dispozici.";
+"onboarding_sync_disabled_note" = "Když je synchronizace vypnutá, server TigerDuck stále dostává vaše studentské ID, token Moodle a push přihlašovací údaje tohoto zařízení, aby mohl posílat připomínky úkolů";
 "onboarding_sync_not_shared_password" = "Heslo se nikdy nenahrává";
-"onboarding_sync_note" = "Když je synchronizace vypnutá, všechna data zůstávají pouze na tomto zařízení. Push notifikace pro připomenutí úkolů fungují lokálně bez TigerSync.";
+"onboarding_sync_note" = "Když je synchronizace vypnutá, server TigerDuck stále dostává vaše studentské ID, token Moodle a push přihlašovací údaje tohoto zařízení, aby mohl posílat připomínky úkolů";
 "onboarding_sync_shared_assignments" = "Data úkolů";
 "onboarding_sync_shared_courses" = "Data kurzů";
 "onboarding_sync_shared_device_id" = "ID zařízení";
@@ -749,6 +758,7 @@
 "school_mail_send" = "Odeslat";
 "school_mail_send_confirm_title" = "Odeslat tuto zprávu?";
 "school_mail_send_failed" = "Zprávu se nepodařilo odeslat";
+"school_mail_send_unconfirmed" = "Nepodařilo se ověřit, zda byla zpráva odeslána; opakování ji může doručit dvakrát";
 "school_mail_sent_copy_failed" = "Zpráva byla odeslána, ale kopii se nepodařilo uložit do složky Odeslaná pošta.";
 "school_mail_sent_copy_no_folder" = "Zpráva byla odeslána, ale neexistuje složka Odeslaná pošta, do které by se dala uložit kopie.";
 "school_mail_sent_copy_not_saved" = "Zpráva odeslána, ale kopie se neuložila do složky Odeslaná pošta";
@@ -940,7 +950,7 @@
 "settings_sync_brief_description" = "TigerSync umožňuje synchronizovat vybrané informace mezi všemi zařízeními se zapnutým TigerSync. Informace bez synchronizace zůstávají pouze na tomto zařízení.";
 "settings_sync_brief_description_ios" = "TigerSync umožňuje přijímat push oznámení a synchronizovat vybrané informace. Informace bez synchronizace se i tak odesílají na server pro push oznámení.";
 "settings_sync_data_section" = "Data sdílená se serverem";
-"settings_sync_disabled_note" = "Když je synchronizace vypnutá, všechna data zůstávají pouze na tomto zařízení.";
+"settings_sync_disabled_note" = "Když je synchronizace vypnutá, server TigerDuck stále dostává vaše studentské ID, token Moodle a push přihlašovací údaje tohoto zařízení, aby mohl posílat připomínky úkolů";
 "settings_sync_off_notifications_warning" = "TigerSync je vypnutá. Zařízení Apple se spoléhají na server TigerDuck pro příjem oznámení. Klepněte pro více informací.";
 "settings_sync_status_off" = "Vypnuto";
 "settings_sync_status_on" = "Zapnuto";
@@ -998,10 +1008,12 @@
 "sync_status_hours_ago_short" = "před %1$d h";
 "sync_status_just_now" = "právě teď";
 "sync_status_last_synced" = "Naposledy synchronizováno";
+"sync_status_last_updated" = "Naposledy aktualizováno";
 "sync_status_minimal" = "Omezeno";
 "sync_status_minutes_ago_short" = "před %1$d min";
 "sync_status_nav_label" = "Stav TigerSync";
 "sync_status_never_synced" = "Nikdy nesynchronizováno";
+"sync_status_never_updated" = "Nikdy neaktualizováno";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Synchronizace…";
 "sync_status_title" = "Stav synchronizace";

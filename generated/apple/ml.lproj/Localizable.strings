@@ -59,6 +59,14 @@
 "app_reset_required_action" = "റീസെറ്റ്";
 "app_reset_required_message" = "OS അപ്‌ഗ്രേഡ്, ബാക്കപ്പ് പുനഃസ്ഥാപനം, അല്ലെങ്കിൽ സംഭരണ പ്രശ്‌നം കാരണം നിങ്ങളുടെ സൈൻ-ഇൻ നില, ക്രമീകരണങ്ങൾ എന്നിവ ഇനി വായിക്കാൻ കഴിയില്ല.\n\nപഴയ ഡേറ്റ മായ്ക്കാൻ \"റീസെറ്റ്\" ടാപ്പ് ചെയ്യുക, തുടർന്ന് സൈൻ ഇൻ ചെയ്ത് ക്രമീകരണങ്ങൾ വീണ്ടും ക്രമീകരിക്കുക.";
 "app_reset_required_title" = "റീസെറ്റ് ആവശ്യമാണ്";
+"assignment_detail_comments" = "സമർപ്പണ കമന്റുകൾ";
+"assignment_detail_description" = "വിവരണം";
+"assignment_detail_due" = "അവസാന തീയതി";
+"assignment_detail_group" = "ഗ്രൂപ്പ്";
+"assignment_detail_not_submitted" = "ഇതുവരെ സമർപ്പിച്ചിട്ടില്ല";
+"assignment_detail_submission" = "നിങ്ങളുടെ സമർപ്പണം";
+"assignment_detail_submit_on_moodle" = "Moodle-ൽ സമർപ്പിക്കുക";
+"assignment_detail_submitted_at" = "സമർപ്പിച്ച സമയം";
 "assignment_filter_all" = "എല്ലാം";
 "assignment_filter_ignored" = "അവഗണിച്ചവ";
 "assignment_filter_incomplete" = "അപൂർണ്ണം";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "ഇഷ്ടാനുസൃത നിറം";
 "course_color_picker_title" = "നിറം എഡിറ്റ് ചെയ്യുക";
 "course_credits_value" = "ക്രെഡിറ്റുകൾ: %1$@";
+"course_detail_assignments_label" = "അസൈൻമെന്റുകൾ";
 "course_detail_classroom_label" = "ക്ലാസ്റൂം";
 "course_detail_code_copied" = "കോഡ് പകർത്തി";
 "course_detail_code_label" = "കോഡ്";
@@ -601,9 +610,9 @@
 "onboarding_skip_for_now" = "ഇപ്പോൾ ഒഴിവാക്കുക";
 "onboarding_start_button" = "TigerDuck ഉപയോഗം ആരംഭിക്കുക";
 "onboarding_sync_description" = "TigerSync നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും കോഴ്‌സുകൾ, അസൈൻമെന്റുകൾ, ക്രമീകരണങ്ങൾ എന്നിവ സിങ്ക് ചെയ്‌ത് നിലനിർത്തുന്നു. TigerSync ക്രമീകരണങ്ങളിൽ എന്തൊക്കെ സിങ്ക് ചെയ്യണമെന്ന് നിങ്ങൾക്ക് കൃത്യമായി തിരഞ്ഞെടുക്കാം.";
-"onboarding_sync_disabled_note" = "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും. പുഷ് അറിയിപ്പുകളും Live Activity-ഉം ലഭ്യമാകില്ല.";
+"onboarding_sync_disabled_note" = "സിങ്ക് ഓഫായിരിക്കുമ്പോഴും, അസൈൻമെന്റ് ഓർമ്മപ്പെടുത്തലുകൾ അയയ്ക്കാൻ TigerDuck സെർവറിന് നിങ്ങളുടെ വിദ്യാർത്ഥി ID, Moodle ടോക്കൺ, ഈ ഉപകരണത്തിന്റെ പുഷ് ക്രെഡൻഷ്യലുകൾ എന്നിവ ലഭിക്കും";
 "onboarding_sync_not_shared_password" = "പാസ്‌വേഡ് ഒരിക്കലും അപ്‌ലോഡ് ചെയ്യില്ല";
-"onboarding_sync_note" = "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും. ഹോംവർക്ക് ഓർമ്മപ്പെടുത്തലുകൾക്കുള്ള പുഷ് അറിയിപ്പുകൾ TigerSync ഇല്ലാതെ പ്രാദേശികമായി പ്രവർത്തിക്കും.";
+"onboarding_sync_note" = "സിങ്ക് ഓഫായിരിക്കുമ്പോഴും, അസൈൻമെന്റ് ഓർമ്മപ്പെടുത്തലുകൾ അയയ്ക്കാൻ TigerDuck സെർവറിന് നിങ്ങളുടെ വിദ്യാർത്ഥി ID, Moodle ടോക്കൺ, ഈ ഉപകരണത്തിന്റെ പുഷ് ക്രെഡൻഷ്യലുകൾ എന്നിവ ലഭിക്കും";
 "onboarding_sync_shared_assignments" = "അസൈൻമെന്റ് ഡാറ്റ";
 "onboarding_sync_shared_courses" = "കോഴ്‌സ് ഡാറ്റ";
 "onboarding_sync_shared_device_id" = "ഉപകരണ ID";
@@ -749,6 +758,7 @@
 "school_mail_send" = "അയയ്ക്കുക";
 "school_mail_send_confirm_title" = "ഈ ഇമെയിൽ അയയ്ക്കണോ?";
 "school_mail_send_failed" = "ഇമെയിൽ അയയ്ക്കാനായില്ല";
+"school_mail_send_unconfirmed" = "ഇമെയിൽ അയച്ചോ എന്ന് സ്ഥിരീകരിക്കാനായില്ല; വീണ്ടും ശ്രമിച്ചാൽ ഇത് രണ്ടുതവണ എത്തിയേക്കാം";
 "school_mail_sent_copy_failed" = "ഇമെയിൽ അയച്ചു, പക്ഷേ പകർപ്പ് അയച്ചവയിൽ സേവ് ചെയ്യാനായില്ല.";
 "school_mail_sent_copy_no_folder" = "ഇമെയിൽ അയച്ചു, പക്ഷേ പകർപ്പ് സൂക്ഷിക്കാൻ അയച്ചവ ഫോൾഡർ ഇല്ല.";
 "school_mail_sent_copy_not_saved" = "ഇമെയിൽ അയച്ചു, പക്ഷേ അതിന്റെ പകർപ്പ് അയച്ചവയിൽ സേവ് ചെയ്തില്ല";
@@ -940,7 +950,7 @@
 "settings_sync_brief_description" = "TigerSync നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും വിവരങ്ങൾ സമന്വയിപ്പിക്കാൻ അനുവദിക്കുന്നു. സിങ്കിന് പ്രാപ്തമാക്കാത്ത വിവരങ്ങൾ ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.";
 "settings_sync_brief_description_ios" = "TigerSync പുഷ് അറിയിപ്പുകൾ സ്വീകരിക്കാനും വിവരങ്ങൾ സമന്വയിപ്പിക്കാനും അനുവദിക്കുന്നു.";
 "settings_sync_data_section" = "സെർവറുമായി പങ്കിട്ട ഡാറ്റ";
-"settings_sync_disabled_note" = "സിങ്ക് ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കും.";
+"settings_sync_disabled_note" = "സിങ്ക് ഓഫായിരിക്കുമ്പോഴും, അസൈൻമെന്റ് ഓർമ്മപ്പെടുത്തലുകൾ അയയ്ക്കാൻ TigerDuck സെർവറിന് നിങ്ങളുടെ വിദ്യാർത്ഥി ID, Moodle ടോക്കൺ, ഈ ഉപകരണത്തിന്റെ പുഷ് ക്രെഡൻഷ്യലുകൾ എന്നിവ ലഭിക്കും";
 "settings_sync_off_notifications_warning" = "TigerSync ഓഫ് ആണ്. Apple ഉപകരണങ്ങൾ അറിയിപ്പുകൾ ലഭിക്കാൻ TigerDuck ബാക്കെൻഡിനെ ആശ്രയിക്കുന്നു. കൂടുതൽ വിവരങ്ങൾക്ക് ടാപ്പ് ചെയ്യുക.";
 "settings_sync_status_off" = "ഓഫ്";
 "settings_sync_status_on" = "ഓൺ";
@@ -998,10 +1008,12 @@
 "sync_status_hours_ago_short" = "%1$d മ. മുൻ";
 "sync_status_just_now" = "ഇപ്പോൾ തന്നെ";
 "sync_status_last_synced" = "അവസാനം സമന്വയിപ്പിച്ചത്";
+"sync_status_last_updated" = "അവസാനം അപ്‌ഡേറ്റ് ചെയ്തത്";
 "sync_status_minimal" = "പരിമിതം";
 "sync_status_minutes_ago_short" = "%1$d മി. മുൻ";
 "sync_status_nav_label" = "TigerSync നില";
 "sync_status_never_synced" = "ഒരിക്കലും സിൻക് ചെയ്തിട്ടില്ല";
+"sync_status_never_updated" = "ഒരിക്കലും അപ്‌ഡേറ്റ് ചെയ്തിട്ടില്ല";
 "sync_status_ok" = "ശരി";
 "sync_status_syncing" = "സിങ്ക് ചെയ്യുന്നു…";
 "sync_status_title" = "സിങ്ക് നില";

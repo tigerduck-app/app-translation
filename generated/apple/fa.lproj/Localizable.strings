@@ -59,6 +59,14 @@
 "app_reset_required_action" = "بازنشانی";
 "app_reset_required_message" = "وضعیت ورود و تنظیمات شما دیگر قابل خواندن نیست؛ احتمالاً به‌دلیل ارتقای سیستم‌عامل، بازیابی پشتیبان یا مشکل فضای ذخیره‌سازی.\n\nبرای پاک کردن داده‌های قدیمی روی «بازنشانی» بزنید، سپس دوباره وارد شوید و تنظیماتتان را انجام دهید.";
 "app_reset_required_title" = "نیاز به بازنشانی";
+"assignment_detail_comments" = "نظرات ارسال";
+"assignment_detail_description" = "توضیحات";
+"assignment_detail_due" = "سررسید";
+"assignment_detail_group" = "گروه";
+"assignment_detail_not_submitted" = "هنوز ارسال نشده";
+"assignment_detail_submission" = "ارسال شما";
+"assignment_detail_submit_on_moodle" = "ارسال در Moodle";
+"assignment_detail_submitted_at" = "زمان ارسال";
 "assignment_filter_all" = "همه";
 "assignment_filter_ignored" = "نادیده‌گرفته‌شده";
 "assignment_filter_incomplete" = "ناتمام";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "رنگ سفارشی";
 "course_color_picker_title" = "ویرایش رنگ";
 "course_credits_value" = "واحد: %1$@";
+"course_detail_assignments_label" = "تکالیف";
 "course_detail_classroom_label" = "کلاس درس";
 "course_detail_code_copied" = "کد کپی شد";
 "course_detail_code_label" = "کد";
@@ -601,9 +610,9 @@
 "onboarding_skip_for_now" = "فعلاً رد کردن";
 "onboarding_start_button" = "شروع استفاده از TigerDuck";
 "onboarding_sync_description" = "TigerSync دروس، تکالیف و تنظیمات شما را در همه دستگاه‌هایتان همگام نگه می‌دارد. می‌توانید در تنظیمات TigerSync دقیقاً انتخاب کنید چه چیزی همگام‌سازی شود.";
-"onboarding_sync_disabled_note" = "وقتی همگام‌سازی خاموش است، همه داده‌ها فقط در این دستگاه باقی می‌مانند. اعلان‌های فوری و Live Activity در دسترس نخواهند بود.";
+"onboarding_sync_disabled_note" = "وقتی همگام‌سازی خاموش است، سرور TigerDuck همچنان شماره دانشجویی، توکن Moodle و اعتبارنامه‌های پوش این دستگاه را برای ارسال یادآوری تکالیف دریافت می‌کند";
 "onboarding_sync_not_shared_password" = "رمز عبور هرگز آپلود نمی‌شود";
-"onboarding_sync_note" = "وقتی همگام‌سازی خاموش است، همه داده‌ها فقط در این دستگاه باقی می‌مانند. اعلان‌های فوری برای یادآوری تکالیف بدون TigerSync به صورت محلی کار می‌کنند.";
+"onboarding_sync_note" = "وقتی همگام‌سازی خاموش است، سرور TigerDuck همچنان شماره دانشجویی، توکن Moodle و اعتبارنامه‌های پوش این دستگاه را برای ارسال یادآوری تکالیف دریافت می‌کند";
 "onboarding_sync_shared_assignments" = "داده‌های تکالیف";
 "onboarding_sync_shared_courses" = "داده‌های دروس";
 "onboarding_sync_shared_device_id" = "شناسه دستگاه";
@@ -749,6 +758,7 @@
 "school_mail_send" = "ارسال";
 "school_mail_send_confirm_title" = "این ایمیل ارسال شود؟";
 "school_mail_send_failed" = "ارسال ایمیل ممکن نشد";
+"school_mail_send_unconfirmed" = "ارسال ایمیل تأیید نشد؛ تلاش دوباره ممکن است آن را دو بار برساند";
 "school_mail_sent_copy_failed" = "ایمیل ارسال شد، ولی ذخیرهٔ کپی در ارسال‌شده ممکن نشد.";
 "school_mail_sent_copy_no_folder" = "ایمیل ارسال شد، ولی پوشه ارسال‌شده‌ای برای نگه‌داشتن کپی وجود ندارد.";
 "school_mail_sent_copy_not_saved" = "ایمیل ارسال شد، ولی کپی آن در ارسال‌شده ذخیره نشد";
@@ -940,7 +950,7 @@
 "settings_sync_brief_description" = "TigerSync به شما امکان می‌دهد اطلاعات انتخابی خود را در تمام دستگاه‌ها همگام کنید. اطلاعات غیرفعال فقط در این دستگاه باقی می‌مانند.";
 "settings_sync_brief_description_ios" = "TigerSync به شما امکان دریافت اعلان‌های فوری و همگام‌سازی اطلاعات را می‌دهد. اطلاعات غیرفعال همچنان برای اعلان‌ها به سرور ارسال می‌شوند.";
 "settings_sync_data_section" = "داده‌های به اشتراک گذاشته شده با سرور";
-"settings_sync_disabled_note" = "وقتی همگام‌سازی خاموش است، همه داده‌ها فقط در این دستگاه باقی می‌مانند.";
+"settings_sync_disabled_note" = "وقتی همگام‌سازی خاموش است، سرور TigerDuck همچنان شماره دانشجویی، توکن Moodle و اعتبارنامه‌های پوش این دستگاه را برای ارسال یادآوری تکالیف دریافت می‌کند";
 "settings_sync_off_notifications_warning" = "TigerSync خاموش است. دستگاه‌های Apple برای دریافت اعلان‌ها به سرور TigerDuck وابسته هستند. برای اطلاعات بیشتر لمس کنید.";
 "settings_sync_status_off" = "خاموش";
 "settings_sync_status_on" = "روشن";
@@ -998,10 +1008,12 @@
 "sync_status_hours_ago_short" = "%1$d س پیش";
 "sync_status_just_now" = "همین الان";
 "sync_status_last_synced" = "آخرین همگام‌سازی";
+"sync_status_last_updated" = "آخرین به‌روزرسانی";
 "sync_status_minimal" = "محدود";
 "sync_status_minutes_ago_short" = "%1$d د پیش";
 "sync_status_nav_label" = "وضعیت TigerSync";
 "sync_status_never_synced" = "هرگز همگام‌سازی نشده";
+"sync_status_never_updated" = "هرگز به‌روزرسانی نشده";
 "sync_status_ok" = "عادی";
 "sync_status_syncing" = "در حال همگام‌سازی…";
 "sync_status_title" = "وضعیت همگام‌سازی";

@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Setel ulang";
 "app_reset_required_message" = "Status login dan preferensi kamu tidak dapat dibaca lagi, mungkin karena pembaruan OS, pemulihan cadangan, atau masalah penyimpanan.\n\nKetuk \"Setel ulang\" untuk menghapus data lama, lalu masuk dan konfigurasi ulang preferensi kamu.";
 "app_reset_required_title" = "Perlu disetel ulang";
+"assignment_detail_comments" = "Komentar kiriman";
+"assignment_detail_description" = "Deskripsi";
+"assignment_detail_due" = "Tenggat";
+"assignment_detail_group" = "Grup";
+"assignment_detail_not_submitted" = "Belum dikirim";
+"assignment_detail_submission" = "Kiriman Anda";
+"assignment_detail_submit_on_moodle" = "Kirim di Moodle";
+"assignment_detail_submitted_at" = "Dikirim";
 "assignment_filter_all" = "Semua";
 "assignment_filter_ignored" = "Diabaikan";
 "assignment_filter_incomplete" = "Belum selesai";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Warna khusus";
 "course_color_picker_title" = "Edit warna";
 "course_credits_value" = "SKS: %1$@";
+"course_detail_assignments_label" = "Tugas";
 "course_detail_classroom_label" = "Ruang kelas";
 "course_detail_code_copied" = "Kode disalin";
 "course_detail_code_label" = "Kode";
@@ -601,9 +610,9 @@
 "onboarding_skip_for_now" = "Lewati untuk sekarang";
 "onboarding_start_button" = "Mulai gunakan TigerDuck";
 "onboarding_sync_description" = "TigerSync menjaga mata kuliah, tugas, dan pengaturan Anda tetap sinkron di semua perangkat Anda. Anda dapat memilih dengan tepat apa yang ingin disinkronkan di pengaturan TigerSync.";
-"onboarding_sync_disabled_note" = "Saat sinkronisasi mati, semua data hanya tersimpan di perangkat ini. Notifikasi push dan Live Activity tidak akan tersedia.";
+"onboarding_sync_disabled_note" = "Saat sinkronisasi nonaktif, server TigerDuck tetap menerima NIM, token Moodle, dan kredensial push perangkat ini untuk mengirim pengingat tugas";
 "onboarding_sync_not_shared_password" = "Kata sandi tidak pernah diunggah";
-"onboarding_sync_note" = "Saat sinkronisasi mati, semua data hanya tersimpan di perangkat ini. Notifikasi push untuk pengingat tugas tetap berfungsi secara lokal tanpa TigerSync.";
+"onboarding_sync_note" = "Saat sinkronisasi nonaktif, server TigerDuck tetap menerima NIM, token Moodle, dan kredensial push perangkat ini untuk mengirim pengingat tugas";
 "onboarding_sync_shared_assignments" = "Data tugas";
 "onboarding_sync_shared_courses" = "Data mata kuliah";
 "onboarding_sync_shared_device_id" = "ID perangkat";
@@ -749,6 +758,7 @@
 "school_mail_send" = "Kirim";
 "school_mail_send_confirm_title" = "Kirim email ini?";
 "school_mail_send_failed" = "Tidak dapat mengirim email";
+"school_mail_send_unconfirmed" = "Tidak dapat memastikan email sudah terkirim; mencoba lagi dapat membuatnya terkirim dua kali";
 "school_mail_sent_copy_failed" = "Email sudah terkirim, tetapi salinannya tidak dapat disimpan ke Terkirim.";
 "school_mail_sent_copy_no_folder" = "Email sudah terkirim, tetapi tidak ada folder Terkirim untuk menyimpan salinan.";
 "school_mail_sent_copy_not_saved" = "Email terkirim, tetapi salinan tidak tersimpan di Terkirim";
@@ -940,7 +950,7 @@
 "settings_sync_brief_description" = "TigerSync memungkinkan Anda menyinkronkan informasi pilihan di semua perangkat. Informasi yang tidak diaktifkan tetap hanya di perangkat ini.";
 "settings_sync_brief_description_ios" = "TigerSync memungkinkan Anda menerima notifikasi push dan menyinkronkan informasi. Informasi yang tidak diaktifkan tetap dikirim ke server untuk notifikasi push.";
 "settings_sync_data_section" = "Data yang dibagikan dengan server";
-"settings_sync_disabled_note" = "Saat sinkronisasi mati, semua data hanya tersimpan di perangkat ini.";
+"settings_sync_disabled_note" = "Saat sinkronisasi nonaktif, server TigerDuck tetap menerima NIM, token Moodle, dan kredensial push perangkat ini untuk mengirim pengingat tugas";
 "settings_sync_off_notifications_warning" = "TigerSync nonaktif. Perangkat Apple bergantung pada backend TigerDuck untuk menerima notifikasi. Ketuk untuk info lebih lanjut.";
 "settings_sync_status_off" = "Nonaktif";
 "settings_sync_status_on" = "Aktif";
@@ -998,10 +1008,12 @@
 "sync_status_hours_ago_short" = "%1$d j lalu";
 "sync_status_just_now" = "Baru saja";
 "sync_status_last_synced" = "Terakhir disinkronkan";
+"sync_status_last_updated" = "Terakhir diperbarui";
 "sync_status_minimal" = "Terbatas";
 "sync_status_minutes_ago_short" = "%1$d mnt lalu";
 "sync_status_nav_label" = "Status TigerSync";
 "sync_status_never_synced" = "Belum pernah disinkronkan";
+"sync_status_never_updated" = "Belum pernah diperbarui";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Menyinkronkan…";
 "sync_status_title" = "Status sinkronisasi";

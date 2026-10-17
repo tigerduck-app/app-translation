@@ -59,6 +59,14 @@
 "app_reset_required_action" = "Ripristina";
 "app_reset_required_message" = "Lo stato di accesso e le preferenze non possono più essere letti, possibilmente a causa di un aggiornamento del sistema operativo, di un ripristino da backup o di un problema di archiviazione.\n\nTocca \"Ripristina\" per cancellare i vecchi dati, quindi accedi e riconfigura le tue preferenze.";
 "app_reset_required_title" = "Ripristino necessario";
+"assignment_detail_comments" = "Commenti alla consegna";
+"assignment_detail_description" = "Descrizione";
+"assignment_detail_due" = "Scadenza";
+"assignment_detail_group" = "Gruppo";
+"assignment_detail_not_submitted" = "Non ancora consegnato";
+"assignment_detail_submission" = "La tua consegna";
+"assignment_detail_submit_on_moodle" = "Consegna su Moodle";
+"assignment_detail_submitted_at" = "Consegnato";
 "assignment_filter_all" = "Tutti";
 "assignment_filter_ignored" = "Ignorati";
 "assignment_filter_incomplete" = "Da completare";
@@ -272,6 +280,7 @@
 "course_color_picker_custom_label" = "Colore personalizzato";
 "course_color_picker_title" = "Modifica colore";
 "course_credits_value" = "Crediti: %1$@";
+"course_detail_assignments_label" = "Compiti";
 "course_detail_classroom_label" = "Aula";
 "course_detail_code_copied" = "Codice copiato";
 "course_detail_code_label" = "Codice";
@@ -601,9 +610,9 @@
 "onboarding_skip_for_now" = "Salta per ora";
 "onboarding_start_button" = "Inizia a usare TigerDuck";
 "onboarding_sync_description" = "TigerSync mantiene i tuoi corsi, compiti e impostazioni sincronizzati su tutti i tuoi dispositivi. Puoi scegliere esattamente cosa sincronizzare nelle impostazioni di TigerSync.";
-"onboarding_sync_disabled_note" = "Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo. Le notifiche push e Live Activity non saranno disponibili.";
+"onboarding_sync_disabled_note" = "Con la sincronizzazione disattivata, il server TigerDuck riceve comunque la tua matricola, il token Moodle e le credenziali push di questo dispositivo per inviare i promemoria dei compiti";
 "onboarding_sync_not_shared_password" = "La password non viene mai caricata";
-"onboarding_sync_note" = "Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo. Le notifiche push per i promemoria dei compiti funzionano localmente senza TigerSync.";
+"onboarding_sync_note" = "Con la sincronizzazione disattivata, il server TigerDuck riceve comunque la tua matricola, il token Moodle e le credenziali push di questo dispositivo per inviare i promemoria dei compiti";
 "onboarding_sync_shared_assignments" = "Dati dei compiti";
 "onboarding_sync_shared_courses" = "Dati dei corsi";
 "onboarding_sync_shared_device_id" = "ID dispositivo";
@@ -749,6 +758,7 @@
 "school_mail_send" = "Invia";
 "school_mail_send_confirm_title" = "Inviare questo messaggio?";
 "school_mail_send_failed" = "Impossibile inviare il messaggio";
+"school_mail_send_unconfirmed" = "Impossibile confermare l'invio del messaggio; riprovare potrebbe inviarlo due volte";
 "school_mail_sent_copy_failed" = "Il messaggio è stato inviato, ma non è stato possibile salvare la copia in Posta inviata.";
 "school_mail_sent_copy_no_folder" = "Il messaggio è stato inviato, ma non esiste una cartella Posta inviata in cui conservare una copia.";
 "school_mail_sent_copy_not_saved" = "Messaggio inviato, ma la copia non è stata salvata in Posta inviata";
@@ -940,7 +950,7 @@
 "settings_sync_brief_description" = "TigerSync ti permette di sincronizzare le informazioni scelte su tutti i dispositivi. Le informazioni non abilitate restano solo su questo dispositivo.";
 "settings_sync_brief_description_ios" = "TigerSync ti permette di ricevere notifiche push e sincronizzare le informazioni. Le informazioni non abilitate vengono comunque inviate al server per le notifiche push.";
 "settings_sync_data_section" = "Dati condivisi con il server";
-"settings_sync_disabled_note" = "Quando la sincronizzazione è disattivata, tutti i dati restano solo su questo dispositivo.";
+"settings_sync_disabled_note" = "Con la sincronizzazione disattivata, il server TigerDuck riceve comunque la tua matricola, il token Moodle e le credenziali push di questo dispositivo per inviare i promemoria dei compiti";
 "settings_sync_off_notifications_warning" = "TigerSync è disattivato. I dispositivi Apple dipendono dal server TigerDuck per ricevere le notifiche. Tocca per maggiori informazioni.";
 "settings_sync_status_off" = "Disattivo";
 "settings_sync_status_on" = "Attivo";
@@ -998,10 +1008,12 @@
 "sync_status_hours_ago_short" = "%1$d h fa";
 "sync_status_just_now" = "Proprio ora";
 "sync_status_last_synced" = "Ultima sincronizzazione";
+"sync_status_last_updated" = "Ultimo aggiornamento";
 "sync_status_minimal" = "Limitato";
 "sync_status_minutes_ago_short" = "%1$d min fa";
 "sync_status_nav_label" = "Stato di TigerSync";
 "sync_status_never_synced" = "Mai sincronizzato";
+"sync_status_never_updated" = "Mai aggiornato";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "Sincronizzazione…";
 "sync_status_title" = "Stato sincronizzazione";
