@@ -980,6 +980,7 @@
 "settings_show_absolute_assignment_time" = "Показване на пълна дата за крайния срок на задание";
 "settings_show_classroom_on_class_table" = "Показване на залите в графика";
 "settings_sign_out_imported_tables" = "Импортираните разписания също ще бъдат изтрити.";
+"settings_sign_out_unsynced_data" = "Data not synced with TigerSync will be deleted.";
 "settings_sync_brief_description" = "TigerSync ви позволява да синхронизирате избраната информация между всички устройства с включен TigerSync. Информацията, която не е включена, остава само на това устройство.";
 "settings_sync_brief_description_ios" = "TigerSync ви позволява да получавате push известия и да синхронизирате избраната информация между устройствата. Информацията, която не е включена за синхронизация, все пак се изпраща на сървъра за push известия.";
 "settings_sync_data_section" = "Данни, споделени със сървъра";

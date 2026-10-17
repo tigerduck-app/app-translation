@@ -145,6 +145,16 @@ def _escape_android(value: str) -> str:
     if value.startswith(("@", "?")):
         value = "\\" + value
 
+    # aapt trims unquoted leading and trailing whitespace, which would join
+    # strings built from parts such as " and " or "Dept: ". Keep each edge
+    # space by escaping it.
+    leading = len(value) - len(value.lstrip(" "))
+    trailing = len(value) - len(value.rstrip(" "))
+    if leading == len(value):
+        return "\\u0020" * len(value)
+    if leading or trailing:
+        value = "\\u0020" * leading + value[leading:len(value) - trailing] + "\\u0020" * trailing
+
     return value
 
 

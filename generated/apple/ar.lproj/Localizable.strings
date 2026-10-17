@@ -980,6 +980,7 @@
 "settings_show_absolute_assignment_time" = "عرض التاريخ الكامل لموعد استحقاق الواجب";
 "settings_show_classroom_on_class_table" = "إظهار القاعات في الجدول الدراسي";
 "settings_sign_out_imported_tables" = "سيتم حذف الجداول الدراسية المستوردة أيضًا.";
+"settings_sign_out_unsynced_data" = "Data not synced with TigerSync will be deleted.";
 "settings_sync_brief_description" = "يتيح لك TigerSync مزامنة معلوماتك المختارة عبر جميع أجهزتك التي تم تفعيل TigerSync عليها. المعلومات غير المفعّلة للمزامنة تبقى على هذا الجهاز فقط.";
 "settings_sync_brief_description_ios" = "يتيح لك TigerSync تلقي الإشعارات الفورية ومزامنة معلوماتك المختارة عبر جميع أجهزتك. المعلومات غير المفعّلة للمزامنة تُرسل إلى الخادم لاستخدام الإشعارات.";
 "settings_sync_data_section" = "البيانات المشتركة مع الخادم";

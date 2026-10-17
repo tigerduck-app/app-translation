@@ -980,6 +980,7 @@
 "settings_show_absolute_assignment_time" = "Rādīt pilnu datumu uzdevuma termiņam";
 "settings_show_classroom_on_class_table" = "Rādīt auditorijas stundu sarakstā";
 "settings_sign_out_imported_tables" = "Tiks dzēsti arī importētie stundu plāni.";
+"settings_sign_out_unsynced_data" = "Data not synced with TigerSync will be deleted.";
 "settings_sync_brief_description" = "TigerSync ļauj sinhronizēt izvēlēto informāciju visās ierīcēs. Nesinhronizēta informācija paliek tikai šajā ierīcē.";
 "settings_sync_brief_description_ios" = "TigerSync ļauj saņemt push paziņojumus un sinhronizēt informāciju. Nesinhronizēta informācija joprojām tiek nosūtīta uz serveri push paziņojumiem.";
 "settings_sync_data_section" = "Ar serveri koplietotie dati";
