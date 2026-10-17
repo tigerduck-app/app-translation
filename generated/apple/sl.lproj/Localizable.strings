@@ -966,7 +966,6 @@
 "settings_pin_today_courses_on_class_table" = "Pripni današnje predmete na vrh urnika";
 "settings_privacy_policy" = "Pravilnik o zasebnosti";
 "settings_push_server_nav_label" = "Strežniški push";
-"settings_remember_bulletin_filter" = "Zapomni si filtre oglasne deske";
 "settings_reset_course_colors" = "Znova dodeli barve predmetov";
 "settings_reset_course_colors_confirm_message" = "Vsak predmet bo dobil novo, edinstveno barvo — najprej iz prednastavljene palete, nato naključno, ko se ta izčrpa.";
 "settings_reset_course_colors_confirm_title" = "Znova dodeliti barve predmetov?";
@@ -1045,12 +1044,10 @@
 "sync_status_failed" = "Neuspešno";
 "sync_status_hours_ago_short" = "%1$d h nazaj";
 "sync_status_just_now" = "Pravkar";
-"sync_status_last_synced" = "Zadnja sinhronizacija";
 "sync_status_last_updated" = "Zadnja posodobitev";
 "sync_status_minimal" = "Omejeno";
 "sync_status_minutes_ago_short" = "%1$d min nazaj";
 "sync_status_nav_label" = "Stanje TigerSync";
-"sync_status_never_synced" = "Nikoli sinhronizirano";
 "sync_status_never_updated" = "Nikoli posodobljeno";
 "sync_status_ok" = "V redu";
 "sync_status_syncing" = "Sinhronizacija…";

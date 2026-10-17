@@ -966,7 +966,6 @@
 "settings_pin_today_courses_on_class_table" = "Piespraust šodienas kursus stundu saraksta augšā";
 "settings_privacy_policy" = "Privātuma politika";
 "settings_push_server_nav_label" = "Servera push";
-"settings_remember_bulletin_filter" = "Atcerēties biļetenu filtrus";
 "settings_reset_course_colors" = "No jauna piešķirt kursu krāsas";
 "settings_reset_course_colors_confirm_message" = "Katram kursam tiks piešķirta jauna, unikāla krāsa — vispirms no iepriekšiestatītās paletes, pēc tās izsmelšanas — nejauši.";
 "settings_reset_course_colors_confirm_title" = "Vai no jauna piešķirt kursu krāsas?";
@@ -1045,12 +1044,10 @@
 "sync_status_failed" = "Neizdevās";
 "sync_status_hours_ago_short" = "pirms %1$d st.";
 "sync_status_just_now" = "Tikko";
-"sync_status_last_synced" = "Pēdējoreiz sinhronizēts";
 "sync_status_last_updated" = "Pēdējoreiz atjaunināts";
 "sync_status_minimal" = "Ierobežots";
 "sync_status_minutes_ago_short" = "pirms %1$d min.";
 "sync_status_nav_label" = "TigerSync statuss";
-"sync_status_never_synced" = "Nav sinhronizēts";
 "sync_status_never_updated" = "Nav atjaunināts";
 "sync_status_ok" = "Labi";
 "sync_status_syncing" = "Sinhronizē…";

@@ -966,7 +966,6 @@
 "settings_pin_today_courses_on_class_table" = "ਸਮਾਂ-ਸਾਰਣੀ ਦੇ ਉੱਪਰ ਅੱਜ ਦੇ ਕੋਰਸ ਪਿੰਨ ਕਰੋ";
 "settings_privacy_policy" = "ਪ੍ਰਾਈਵੇਸੀ ਨੀਤੀ";
 "settings_push_server_nav_label" = "ਸਰਵਰ ਪੁਸ਼";
-"settings_remember_bulletin_filter" = "ਬੁਲੇਟਿਨ ਫਿਲਟਰ ਯਾਦ ਰੱਖੋ";
 "settings_reset_course_colors" = "ਕੋਰਸ ਰੰਗ ਮੁੜ ਜਾਰੀ ਕਰੋ";
 "settings_reset_course_colors_confirm_message" = "ਹਰ ਕੋਰਸ ਨੂੰ ਨਵਾਂ, ਵਿਲੱਖਣ ਰੰਗ ਦਿੱਤਾ ਜਾਵੇਗਾ — ਪਹਿਲਾਂ ਪ੍ਰੀਸੈੱਟ ਪੈਲੇਟ ਤੋਂ, ਪੈਲੇਟ ਮੁੱਕਣ ਉੱਤੇ ਬੇਤਰਤੀਬੇ।";
 "settings_reset_course_colors_confirm_title" = "ਕੀ ਕੋਰਸ ਰੰਗ ਮੁੜ ਜਾਰੀ ਕਰੀਏ?";
@@ -1045,12 +1044,10 @@
 "sync_status_failed" = "ਅਸਫਲ";
 "sync_status_hours_ago_short" = "%1$d ਘੰ. ਪਹਿਲਾਂ";
 "sync_status_just_now" = "ਹੁਣੇ";
-"sync_status_last_synced" = "ਆਖਰੀ ਸਿੰਕ";
 "sync_status_last_updated" = "ਆਖਰੀ ਅੱਪਡੇਟ";
 "sync_status_minimal" = "ਸੀਮਤ";
 "sync_status_minutes_ago_short" = "%1$d ਮਿ. ਪਹਿਲਾਂ";
 "sync_status_nav_label" = "TigerSync ਸਥਿਤੀ";
-"sync_status_never_synced" = "ਕਦੇ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ";
 "sync_status_never_updated" = "ਕਦੇ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋਇਆ";
 "sync_status_ok" = "ਠੀਕ";
 "sync_status_syncing" = "ਸਿੰਕ ਹੋ ਰਿਹਾ ਹੈ…";

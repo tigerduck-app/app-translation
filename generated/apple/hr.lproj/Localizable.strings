@@ -966,7 +966,6 @@
 "settings_pin_today_courses_on_class_table" = "Prikvači današnje kolegije na vrh rasporeda";
 "settings_privacy_policy" = "Pravila privatnosti";
 "settings_push_server_nav_label" = "Poslužiteljski push";
-"settings_remember_bulletin_filter" = "Zapamti filtre biltena";
 "settings_reset_course_colors" = "Ponovno dodijeli boje kolegija";
 "settings_reset_course_colors_confirm_message" = "Svaki kolegij dobit će novu, jedinstvenu boju — najprije iz unaprijed postavljene palete, zatim nasumično kada se paleta iscrpi.";
 "settings_reset_course_colors_confirm_title" = "Ponovno dodijeliti boje kolegija?";
@@ -1045,12 +1044,10 @@
 "sync_status_failed" = "Neuspjelo";
 "sync_status_hours_ago_short" = "prije %1$d h";
 "sync_status_just_now" = "Upravo sad";
-"sync_status_last_synced" = "Posljednja sinkronizacija";
 "sync_status_last_updated" = "Posljednje ažuriranje";
 "sync_status_minimal" = "Ograničeno";
 "sync_status_minutes_ago_short" = "prije %1$d min";
 "sync_status_nav_label" = "Stanje TigerSync";
-"sync_status_never_synced" = "Nikad sinkronizirano";
 "sync_status_never_updated" = "Nikad ažurirano";
 "sync_status_ok" = "U redu";
 "sync_status_syncing" = "Sinkronizacija…";
