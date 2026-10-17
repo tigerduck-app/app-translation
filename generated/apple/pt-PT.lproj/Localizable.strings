@@ -966,7 +966,6 @@
 "settings_pin_today_courses_on_class_table" = "Fixar as aulas de hoje no topo do horário";
 "settings_privacy_policy" = "Política de privacidade";
 "settings_push_server_nav_label" = "Push do servidor";
-"settings_remember_bulletin_filter" = "Memorizar filtros do boletim";
 "settings_reset_course_colors" = "Reatribuir cores dos cursos";
 "settings_reset_course_colors_confirm_message" = "Cada curso receberá uma cor nova e única — primeiro da paleta predefinida, depois aleatoriamente quando esgotada.";
 "settings_reset_course_colors_confirm_title" = "Reatribuir as cores dos cursos?";
@@ -1045,12 +1044,10 @@
 "sync_status_failed" = "Falhou";
 "sync_status_hours_ago_short" = "há %1$d h";
 "sync_status_just_now" = "Agora mesmo";
-"sync_status_last_synced" = "Última sincronização";
 "sync_status_last_updated" = "Última atualização";
 "sync_status_minimal" = "Limitado";
 "sync_status_minutes_ago_short" = "há %1$d min";
 "sync_status_nav_label" = "Estado do TigerSync";
-"sync_status_never_synced" = "Nunca sincronizado";
 "sync_status_never_updated" = "Nunca atualizado";
 "sync_status_ok" = "OK";
 "sync_status_syncing" = "A sincronizar…";

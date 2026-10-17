@@ -966,7 +966,6 @@
 "settings_pin_today_courses_on_class_table" = "Bugünün derslerini ders programının üstüne sabitle";
 "settings_privacy_policy" = "Gizlilik politikası";
 "settings_push_server_nav_label" = "Sunucu push";
-"settings_remember_bulletin_filter" = "Bülten filtrelerini hatırla";
 "settings_reset_course_colors" = "Ders renklerini yeniden ata";
 "settings_reset_course_colors_confirm_message" = "Her ders yeni ve benzersiz bir renk alır — önce hazır paletten, palet bitince rastgele.";
 "settings_reset_course_colors_confirm_title" = "Ders renkleri yeniden atansın mı?";
@@ -1045,12 +1044,10 @@
 "sync_status_failed" = "Başarısız";
 "sync_status_hours_ago_short" = "%1$d sa önce";
 "sync_status_just_now" = "Az önce";
-"sync_status_last_synced" = "Son eşitleme";
 "sync_status_last_updated" = "Son güncelleme";
 "sync_status_minimal" = "Sınırlı";
 "sync_status_minutes_ago_short" = "%1$d dk önce";
 "sync_status_nav_label" = "TigerSync durumu";
-"sync_status_never_synced" = "Hiç eşitlenmedi";
 "sync_status_never_updated" = "Hiç güncellenmedi";
 "sync_status_ok" = "Tamam";
 "sync_status_syncing" = "Eşitleniyor…";
