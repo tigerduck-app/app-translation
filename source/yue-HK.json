@@ -437,6 +437,7 @@
     "error_invalid_server_response": "伺服器回應無效",
     "error_library_credentials_not_found": "搵唔到圖書館帳戶資料",
     "error_library_sign_in_failed_format": "圖書館登入失敗：%1$@",
+    "error_link_no_app": "冇 App 可以開啟呢個連結",
     "error_moodle_http_status_format": "Moodle 回傳預期外嘅 HTTP 狀態：%1$d",
     "error_moodle_invalid_credentials": "Moodle 拒絕咗而家嘅帳戶資料。",
     "error_moodle_invalid_token": "Moodle token 已經失效，要重新授權。",
