@@ -438,6 +438,7 @@
 "error_invalid_server_response" = "Invalid server response";
 "error_library_credentials_not_found" = "Library account credentials not found";
 "error_library_sign_in_failed_format" = "Library sign-in failed: %1$@";
+"error_link_no_app" = "No app can open this link";
 "error_moodle_http_status_format" = "Moodle returned an unexpected HTTP status: %1$d";
 "error_moodle_invalid_credentials" = "Moodle rejected the current credentials.";
 "error_moodle_invalid_token" = "Moodle token is no longer valid; reauthorisation required.";
