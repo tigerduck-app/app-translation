@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "与 Moodle 的连接已过期，打开 TigerDuck 重新登录即可恢复同步。",
-    "notification_reauth_required_title": "后台同步已暂停"
+    "notification_reauth_required_title": "后台同步已暂停",
+    "notification_reauth_session_body": "打开 TigerDuck 重新登录，即可恢复同步。",
+    "notification_reauth_session_title": "TigerSync 已暂停"
   }
 }

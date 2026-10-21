@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "알림 권한 설정",
   "notification_reauth_required_body": "Moodle 연결이 만료되었습니다. TigerDuck을 열고 다시 로그인하면 동기화가 재개됩니다.",
   "notification_reauth_required_title": "백그라운드 동기화가 중지되었습니다",
+  "notification_reauth_session_body": "TigerDuck을 열고 다시 로그인하면 동기화가 재개됩니다.",
+  "notification_reauth_session_title": "TigerSync가 일시 중지되었습니다",
   "notification_setup_title": "알림 다시 설정",
   "onboarding_analytics_description": "방문한 페이지와 위젯 사용에 관한 익명 데이터를 공유하여 TigerDuck 개선에 도움을 주세요. 설정에서 언제든지 변경할 수 있어요.",
   "onboarding_analytics_label": "사용 분석 (선택 사항)",

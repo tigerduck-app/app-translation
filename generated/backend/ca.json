@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Permisos de notificacions",
   "notification_reauth_required_body": "La connexió amb Moodle ha caducat. Obriu TigerDuck i torneu a iniciar la sessió per reprendre la sincronització.",
   "notification_reauth_required_title": "Sincronització de fons aturada",
+  "notification_reauth_session_body": "Obriu TigerDuck i torneu a iniciar la sessió per reprendre la sincronització.",
+  "notification_reauth_session_title": "TigerSync en pausa",
   "notification_setup_title": "Reconfigura les notificacions",
   "onboarding_analytics_description": "Ajuda a millorar TigerDuck compartint visites de pàgines i ús de widgets de manera anònima. Pots canviar-ho en qualsevol moment a Configuració.",
   "onboarding_analytics_label": "Anàlisi d'ús (opcional)",

@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Notification permission settings",
   "notification_reauth_required_body": "Your Moodle connection expired. Open TigerDuck and sign in again to resume syncing.",
   "notification_reauth_required_title": "Background sync paused",
+  "notification_reauth_session_body": "Open TigerDuck and sign in again to resume syncing.",
+  "notification_reauth_session_title": "TigerSync paused",
   "notification_setup_title": "Reconfigure notifications",
   "onboarding_analytics_description": "Help improve TigerDuck by sharing anonymised page visits and widget usage. You can change this anytime in Settings.",
   "onboarding_analytics_label": "Usage analytics (optional)",

@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Anslutningen till Moodle har upphört att gälla. Öppna TigerDuck och logga in igen för att återuppta synkroniseringen.",
-    "notification_reauth_required_title": "Bakgrundssynkroniseringen är pausad"
+    "notification_reauth_required_title": "Bakgrundssynkroniseringen är pausad",
+    "notification_reauth_session_body": "Öppna TigerDuck och logga in igen för att återuppta synkroniseringen.",
+    "notification_reauth_session_title": "TigerSync är pausad"
   }
 }

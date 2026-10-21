@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Ühendus teenusega Moodle on aegunud. Avage TigerDuck ja logige uuesti sisse, siis sünkroonimine jätkub.",
-    "notification_reauth_required_title": "Taustasünkroonimine on peatatud"
+    "notification_reauth_required_title": "Taustasünkroonimine on peatatud",
+    "notification_reauth_session_body": "Avage TigerDuck ja logige uuesti sisse, siis sünkroonimine jätkub.",
+    "notification_reauth_session_title": "TigerSync on peatatud"
   }
 }

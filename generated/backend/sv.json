@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Aviseringsbehörigheter",
   "notification_reauth_required_body": "Anslutningen till Moodle har upphört att gälla. Öppna TigerDuck och logga in igen för att återuppta synkroniseringen.",
   "notification_reauth_required_title": "Bakgrundssynkroniseringen är pausad",
+  "notification_reauth_session_body": "Öppna TigerDuck och logga in igen för att återuppta synkroniseringen.",
+  "notification_reauth_session_title": "TigerSync är pausad",
   "notification_setup_title": "Konfigurera om aviseringar",
   "onboarding_analytics_description": "Hjälp till att förbättra TigerDuck genom att anonymt dela sidbesök och användning av widgets. Du kan ändra detta när som helst i Inställningar.",
   "onboarding_analytics_label": "Användningsanalys (valfritt)",

@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Dovoljenja za obvestila",
   "notification_reauth_required_body": "Povezava s storitvijo Moodle je potekla. Odprite TigerDuck in se znova prijavite, da se sinhronizacija nadaljuje.",
   "notification_reauth_required_title": "Sinhronizacija ustavljena",
+  "notification_reauth_session_body": "Odprite TigerDuck in se znova prijavite, da se sinhronizacija nadaljuje.",
+  "notification_reauth_session_title": "TigerSync je ustavljena",
   "notification_setup_title": "Ponovna nastavitev obvestil",
   "onboarding_analytics_description": "Pomagaj izboljšati TigerDuck z deljenjem anonimnih podatkov o obiskanih straneh in uporabi widgetov. To lahko kadarkoli spremenite v Nastavitvah.",
   "onboarding_analytics_label": "Analitika uporabe (neobvezno)",

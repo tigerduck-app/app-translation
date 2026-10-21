@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "De verbinding met Moodle is verlopen. Open TigerDuck en log opnieuw in om het synchroniseren te hervatten.",
-    "notification_reauth_required_title": "Synchronisatie gepauzeerd"
+    "notification_reauth_required_title": "Synchronisatie gepauzeerd",
+    "notification_reauth_session_body": "Open TigerDuck en log opnieuw in om het synchroniseren te hervatten.",
+    "notification_reauth_session_title": "TigerSync gepauzeerd"
   }
 }

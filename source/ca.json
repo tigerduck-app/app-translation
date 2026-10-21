@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "La connexió amb Moodle ha caducat. Obriu TigerDuck i torneu a iniciar la sessió per reprendre la sincronització.",
-    "notification_reauth_required_title": "Sincronització de fons aturada"
+    "notification_reauth_required_title": "Sincronització de fons aturada",
+    "notification_reauth_session_body": "Obriu TigerDuck i torneu a iniciar la sessió per reprendre la sincronització.",
+    "notification_reauth_session_title": "TigerSync en pausa"
   }
 }

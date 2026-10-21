@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Die Verbindung zu Moodle ist abgelaufen. Öffnen Sie TigerDuck und melden Sie sich erneut an, um die Synchronisierung fortzusetzen.",
-    "notification_reauth_required_title": "Hintergrundsynchronisierung angehalten"
+    "notification_reauth_required_title": "Hintergrundsynchronisierung angehalten",
+    "notification_reauth_session_body": "Öffnen Sie TigerDuck und melden Sie sich erneut an, um die Synchronisierung fortzusetzen.",
+    "notification_reauth_session_title": "TigerSync angehalten"
   }
 }

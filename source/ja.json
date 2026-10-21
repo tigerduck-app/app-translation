@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle との接続の有効期限が切れました。TigerDuck を開いて再度サインインすると同期が再開されます。",
-    "notification_reauth_required_title": "バックグラウンド同期を一時停止しました"
+    "notification_reauth_required_title": "バックグラウンド同期を一時停止しました",
+    "notification_reauth_session_body": "TigerDuck を開いて再度サインインすると同期が再開されます。",
+    "notification_reauth_session_title": "TigerSync を一時停止しました"
   }
 }

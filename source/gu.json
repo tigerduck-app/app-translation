@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle સાથેનું જોડાણ સમાપ્ત થઈ ગયું છે. સિંક ફરી શરૂ કરવા માટે TigerDuck ખોલીને ફરી સાઇન ઇન કરો.",
-    "notification_reauth_required_title": "બૅકગ્રાઉન્ડ સિંક અટકી ગયું છે"
+    "notification_reauth_required_title": "બૅકગ્રાઉન્ડ સિંક અટકી ગયું છે",
+    "notification_reauth_session_body": "સિંક ફરી શરૂ કરવા માટે TigerDuck ખોલીને ફરી સાઇન ઇન કરો.",
+    "notification_reauth_session_title": "TigerSync અટકી ગયું છે"
   }
 }

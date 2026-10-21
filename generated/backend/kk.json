@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Хабарландыру рұқсаттары",
   "notification_reauth_required_body": "Moodle байланысының мерзімі аяқталды. Синхрондауды жалғастыру үшін TigerDuck қолданбасын ашып, қайта кіріңіз.",
   "notification_reauth_required_title": "Фондық синхрондау тоқтатылды",
+  "notification_reauth_session_body": "Синхрондауды жалғастыру үшін TigerDuck қолданбасын ашып, қайта кіріңіз.",
+  "notification_reauth_session_title": "TigerSync тоқтатылды",
   "notification_setup_title": "Хабарландыруларды қайта орнату",
   "onboarding_analytics_description": "Қаралған беттер мен виджет пайдалануы туралы анонимді деректерді бөлісу арқылы TigerDuck-ты жақсартуға көмектесіңіз. Мұны Параметрлерде кез келген уақытта өзгертуге болады.",
   "onboarding_analytics_label": "Пайдалану аналитикасы (міндетті емес)",

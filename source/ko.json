@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle 연결이 만료되었습니다. TigerDuck을 열고 다시 로그인하면 동기화가 재개됩니다.",
-    "notification_reauth_required_title": "백그라운드 동기화가 중지되었습니다"
+    "notification_reauth_required_title": "백그라운드 동기화가 중지되었습니다",
+    "notification_reauth_session_body": "TigerDuck을 열고 다시 로그인하면 동기화가 재개됩니다.",
+    "notification_reauth_session_title": "TigerSync가 일시 중지되었습니다"
   }
 }

@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle-മായുള്ള കണക്ഷൻ കാലഹരണപ്പെട്ടു. സിങ്ക് തുടരാൻ TigerDuck തുറന്ന് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.",
-    "notification_reauth_required_title": "പശ്ചാത്തല സിങ്ക് നിലച്ചിരിക്കുന്നു"
+    "notification_reauth_required_title": "പശ്ചാത്തല സിങ്ക് നിലച്ചിരിക്കുന്നു",
+    "notification_reauth_session_body": "സിങ്ക് തുടരാൻ TigerDuck തുറന്ന് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.",
+    "notification_reauth_session_title": "TigerSync നിലച്ചിരിക്കുന്നു"
   }
 }

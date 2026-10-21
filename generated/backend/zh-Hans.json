@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "通知权限设置",
   "notification_reauth_required_body": "与 Moodle 的连接已过期，打开 TigerDuck 重新登录即可恢复同步。",
   "notification_reauth_required_title": "后台同步已暂停",
+  "notification_reauth_session_body": "打开 TigerDuck 重新登录，即可恢复同步。",
+  "notification_reauth_session_title": "TigerSync 已暂停",
   "notification_setup_title": "重新设置通知",
   "onboarding_analytics_description": "通过分享匿名的页面浏览和小组件使用数据，帮助改进 TigerDuck。你可以随时在设置中更改。",
   "onboarding_analytics_label": "使用分析（可选）",

@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Nag-expire na ang koneksyon sa Moodle. Buksan ang TigerDuck at mag-sign in muli para magpatuloy ang pag-sync.",
-    "notification_reauth_required_title": "Naka-pause ang background sync"
+    "notification_reauth_required_title": "Naka-pause ang background sync",
+    "notification_reauth_session_body": "Buksan ang TigerDuck at mag-sign in muli para magpatuloy ang pag-sync.",
+    "notification_reauth_session_title": "Naka-pause ang TigerSync"
   }
 }

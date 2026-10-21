@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle 嘅連線已經過期，打開 TigerDuck 重新登入就可以繼續同步。",
-    "notification_reauth_required_title": "背景同步已經暫停"
+    "notification_reauth_required_title": "背景同步已經暫停",
+    "notification_reauth_session_body": "打開 TigerDuck 重新登入，就可以繼續同步。",
+    "notification_reauth_session_title": "TigerSync 已經暫停"
   }
 }

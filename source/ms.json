@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Sambungan ke Moodle telah tamat tempoh. Buka TigerDuck dan log masuk semula untuk menyambung semula penyegerakan.",
-    "notification_reauth_required_title": "Penyegerakan latar belakang dijeda"
+    "notification_reauth_required_title": "Penyegerakan latar belakang dijeda",
+    "notification_reauth_session_body": "Buka TigerDuck dan log masuk semula untuk menyambung semula penyegerakan.",
+    "notification_reauth_session_title": "TigerSync dijeda"
   }
 }

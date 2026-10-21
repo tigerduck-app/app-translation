@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle-এর সংযোগের মেয়াদ শেষ হয়েছে। সিঙ্ক আবার চালু করতে TigerDuck খুলে আবার সাইন ইন করুন।",
-    "notification_reauth_required_title": "ব্যাকগ্রাউন্ড সিঙ্ক বন্ধ হয়ে আছে"
+    "notification_reauth_required_title": "ব্যাকগ্রাউন্ড সিঙ্ক বন্ধ হয়ে আছে",
+    "notification_reauth_session_body": "সিঙ্ক আবার চালু করতে TigerDuck খুলে আবার সাইন ইন করুন।",
+    "notification_reauth_session_title": "TigerSync বন্ধ হয়ে আছে"
   }
 }

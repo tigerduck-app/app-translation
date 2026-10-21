@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Koneksi ke Moodle telah kedaluwarsa. Buka TigerDuck dan masuk kembali untuk melanjutkan sinkronisasi.",
-    "notification_reauth_required_title": "Sinkronisasi latar belakang dijeda"
+    "notification_reauth_required_title": "Sinkronisasi latar belakang dijeda",
+    "notification_reauth_session_body": "Buka TigerDuck dan masuk kembali untuk melanjutkan sinkronisasi.",
+    "notification_reauth_session_title": "TigerSync dijeda"
   }
 }

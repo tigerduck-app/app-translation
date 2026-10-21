@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Értesítési engedélyek",
   "notification_reauth_required_body": "A Moodle-kapcsolat lejárt. Nyissa meg a TigerDuck alkalmazást, és jelentkezzen be újra a szinkronizálás folytatásához.",
   "notification_reauth_required_title": "A háttérszinkronizálás szünetel",
+  "notification_reauth_session_body": "Nyissa meg a TigerDuck alkalmazást, és jelentkezzen be újra a szinkronizálás folytatásához.",
+  "notification_reauth_session_title": "A TigerSync szünetel",
   "notification_setup_title": "Értesítések újrakonfigurálása",
   "onboarding_analytics_description": "Segíts fejleszteni a TigerDuck-ot névtelen adatok megosztásával a meglátogatott oldalakról és a widget-használatról. Ezt bármikor megváltoztathatod a Beállításokban.",
   "onboarding_analytics_label": "Használati analitika (nem kötelező)",

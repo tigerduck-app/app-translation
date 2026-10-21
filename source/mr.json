@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle चे कनेक्शन कालबाह्य झाले आहे. सिंक पुन्हा सुरू करण्यासाठी TigerDuck उघडा आणि पुन्हा साइन इन करा.",
-    "notification_reauth_required_title": "पार्श्वभूमी सिंक थांबले आहे"
+    "notification_reauth_required_title": "पार्श्वभूमी सिंक थांबले आहे",
+    "notification_reauth_session_body": "सिंक पुन्हा सुरू करण्यासाठी TigerDuck उघडा आणि पुन्हा साइन इन करा.",
+    "notification_reauth_session_title": "TigerSync थांबले आहे"
   }
 }

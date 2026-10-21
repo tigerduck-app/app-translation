@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "أذونات الإشعارات",
   "notification_reauth_required_body": "انتهت صلاحية اتصال Moodle الخاص بك. افتح TigerDuck وسجّل الدخول مرة أخرى لاستئناف المزامنة.",
   "notification_reauth_required_title": "توقّفت المزامنة في الخلفية",
+  "notification_reauth_session_body": "افتح TigerDuck وسجّل الدخول مرة أخرى لاستئناف المزامنة.",
+  "notification_reauth_session_title": "تم إيقاف TigerSync مؤقتًا",
   "notification_setup_title": "إعادة ضبط الإشعارات",
   "onboarding_analytics_description": "ساعد في تحسين TigerDuck بمشاركة زيارات الصفحات واستخدام الأدوات بشكل مجهول. يمكنك تغيير هذا في أي وقت من الإعدادات.",
   "onboarding_analytics_label": "تحليلات الاستخدام (اختياري)",
