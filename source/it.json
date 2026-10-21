@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "La connessione a Moodle è scaduta. Apri TigerDuck e accedi di nuovo per riprendere la sincronizzazione.",
-    "notification_reauth_required_title": "Sincronizzazione in background sospesa"
+    "notification_reauth_required_title": "Sincronizzazione in background sospesa",
+    "notification_reauth_session_body": "Apri TigerDuck e accedi di nuovo per riprendere la sincronizzazione.",
+    "notification_reauth_session_title": "TigerSync in pausa"
   }
 }

@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "A Moodle-kapcsolat lejárt. Nyissa meg a TigerDuck alkalmazást, és jelentkezzen be újra a szinkronizálás folytatásához.",
-    "notification_reauth_required_title": "A háttérszinkronizálás szünetel"
+    "notification_reauth_required_title": "A háttérszinkronizálás szünetel",
+    "notification_reauth_session_body": "Nyissa meg a TigerDuck alkalmazást, és jelentkezzen be újra a szinkronizálás folytatásához.",
+    "notification_reauth_session_title": "A TigerSync szünetel"
   }
 }

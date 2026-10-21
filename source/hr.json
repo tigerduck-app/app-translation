@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Veza s uslugom Moodle je istekla. Otvorite TigerDuck i ponovno se prijavite kako bi se sinkronizacija nastavila.",
-    "notification_reauth_required_title": "Pauza pozadinske sinkronizacije"
+    "notification_reauth_required_title": "Pauza pozadinske sinkronizacije",
+    "notification_reauth_session_body": "Otvorite TigerDuck i ponovno se prijavite kako bi se sinkronizacija nastavila.",
+    "notification_reauth_session_title": "TigerSync je pauziran"
   }
 }

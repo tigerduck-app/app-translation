@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Срок действия подключения к Moodle истёк. Откройте TigerDuck и войдите снова, чтобы возобновить синхронизацию.",
-    "notification_reauth_required_title": "Фоновая синхронизация приостановлена"
+    "notification_reauth_required_title": "Фоновая синхронизация приостановлена",
+    "notification_reauth_session_body": "Откройте TigerDuck и войдите снова, чтобы возобновить синхронизацию.",
+    "notification_reauth_session_title": "TigerSync приостановлен"
   }
 }

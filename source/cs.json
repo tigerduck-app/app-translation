@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Platnost připojení k Moodle vypršela. Otevřete TigerDuck a znovu se přihlaste, aby se synchronizace obnovila.",
-    "notification_reauth_required_title": "Synchronizace na pozadí je pozastavena"
+    "notification_reauth_required_title": "Synchronizace na pozadí je pozastavena",
+    "notification_reauth_session_body": "Otevřete TigerDuck a znovu se přihlaste, aby se synchronizace obnovila.",
+    "notification_reauth_session_title": "TigerSync je pozastavena"
   }
 }

@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Połączenie z Moodle wygasło. Otwórz TigerDuck i zaloguj się ponownie, aby wznowić synchronizację.",
-    "notification_reauth_required_title": "Synchronizacja w tle wstrzymana"
+    "notification_reauth_required_title": "Synchronizacja w tle wstrzymana",
+    "notification_reauth_session_body": "Otwórz TigerDuck i zaloguj się ponownie, aby wznowić synchronizację.",
+    "notification_reauth_session_title": "TigerSync wstrzymana"
   }
 }

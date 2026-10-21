@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "通知權限設定",
   "notification_reauth_required_body": "Moodle 嘅連線已經過期，打開 TigerDuck 重新登入就可以繼續同步。",
   "notification_reauth_required_title": "背景同步已經暫停",
+  "notification_reauth_session_body": "打開 TigerDuck 重新登入，就可以繼續同步。",
+  "notification_reauth_session_title": "TigerSync 已經暫停",
   "notification_setup_title": "重新設定通知",
   "onboarding_analytics_description": "分享匿名嘅頁面瀏覽同小工具使用資料，協助改善 TigerDuck。你可以隨時喺設定度更改。",
   "onboarding_analytics_label": "使用分析（可選）",

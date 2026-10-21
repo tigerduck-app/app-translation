@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "مجوزهای اعلان‌ها",
   "notification_reauth_required_body": "اتصال به Moodle منقضی شده است. برای از سرگیری همگام‌سازی، TigerDuck را باز کنید و دوباره وارد شوید.",
   "notification_reauth_required_title": "همگام‌سازی پس‌زمینه متوقف شده است",
+  "notification_reauth_session_body": "برای از سرگیری همگام‌سازی، TigerDuck را باز کنید و دوباره وارد شوید.",
+  "notification_reauth_session_title": "TigerSync متوقف شده است",
   "notification_setup_title": "پیکربندی مجدد اعلان‌ها",
   "onboarding_analytics_description": "با به اشتراک گذاشتن بازدید ناشناس صفحات و استفاده از ویجت، به بهبود TigerDuck کمک کنید. هر زمان می‌توانید این را در تنظیمات تغییر دهید.",
   "onboarding_analytics_label": "آمار استفاده (اختیاری)",

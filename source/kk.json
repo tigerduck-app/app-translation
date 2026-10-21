@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle байланысының мерзімі аяқталды. Синхрондауды жалғастыру үшін TigerDuck қолданбасын ашып, қайта кіріңіз.",
-    "notification_reauth_required_title": "Фондық синхрондау тоқтатылды"
+    "notification_reauth_required_title": "Фондық синхрондау тоқтатылды",
+    "notification_reauth_session_body": "Синхрондауды жалғастыру үшін TigerDuck қолданбасын ашып, қайта кіріңіз.",
+    "notification_reauth_session_title": "TigerSync тоқтатылды"
   }
 }

@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle కనెక్షన్ గడువు ముగిసింది. సింక్ మళ్లీ కొనసాగడానికి TigerDuck తెరిచి మళ్లీ సైన్ ఇన్ చేయండి.",
-    "notification_reauth_required_title": "బ్యాక్‌గ్రౌండ్ సింక్ ఆగిపోయింది"
+    "notification_reauth_required_title": "బ్యాక్‌గ్రౌండ్ సింక్ ఆగిపోయింది",
+    "notification_reauth_session_body": "సింక్ మళ్లీ కొనసాగడానికి TigerDuck తెరిచి మళ్లీ సైన్ ఇన్ చేయండి.",
+    "notification_reauth_session_title": "TigerSync ఆగిపోయింది"
   }
 }

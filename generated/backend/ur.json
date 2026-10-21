@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "اطلاع کی اجازتیں",
   "notification_reauth_required_body": "Moodle سے کنکشن کی میعاد ختم ہو گئی ہے۔ سنک دوبارہ شروع کرنے کے لیے TigerDuck کھولیں اور دوبارہ سائن ان کریں۔",
   "notification_reauth_required_title": "پس منظر کا سنک رک گیا ہے",
+  "notification_reauth_session_body": "سنک دوبارہ شروع کرنے کے لیے TigerDuck کھولیں اور دوبارہ سائن ان کریں۔",
+  "notification_reauth_session_title": "TigerSync رک گیا ہے",
   "notification_setup_title": "اطلاعات دوبارہ ترتیب دیں",
   "onboarding_analytics_description": "گمنام صفحہ وزٹ اور ویجٹ استعمال شیئر کر کے TigerDuck کو بہتر بنانے میں مدد کریں۔ آپ اسے کسی بھی وقت ترتیبات میں تبدیل کر سکتے ہیں۔",
   "onboarding_analytics_label": "استعمال کا تجزیہ (اختیاری)",

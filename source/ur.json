@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle سے کنکشن کی میعاد ختم ہو گئی ہے۔ سنک دوبارہ شروع کرنے کے لیے TigerDuck کھولیں اور دوبارہ سائن ان کریں۔",
-    "notification_reauth_required_title": "پس منظر کا سنک رک گیا ہے"
+    "notification_reauth_required_title": "پس منظر کا سنک رک گیا ہے",
+    "notification_reauth_session_body": "سنک دوبارہ شروع کرنے کے لیے TigerDuck کھولیں اور دوبارہ سائن ان کریں۔",
+    "notification_reauth_session_title": "TigerSync رک گیا ہے"
   }
 }

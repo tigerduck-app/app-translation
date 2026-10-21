@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Benachrichtigungsberechtigungen",
   "notification_reauth_required_body": "Die Verbindung zu Moodle ist abgelaufen. Öffnen Sie TigerDuck und melden Sie sich erneut an, um die Synchronisierung fortzusetzen.",
   "notification_reauth_required_title": "Hintergrundsynchronisierung angehalten",
+  "notification_reauth_session_body": "Öffnen Sie TigerDuck und melden Sie sich erneut an, um die Synchronisierung fortzusetzen.",
+  "notification_reauth_session_title": "TigerSync angehalten",
   "notification_setup_title": "Benachrichtigungen neu einrichten",
   "onboarding_analytics_description": "Hilf dabei, TigerDuck zu verbessern, indem du anonyme Seitenaufrufe und Widget-Nutzung teilst. Du kannst das jederzeit in den Einstellungen ändern.",
   "onboarding_analytics_label": "Nutzungsanalyse (optional)",

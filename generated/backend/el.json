@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Άδειες ειδοποιήσεων",
   "notification_reauth_required_body": "Η σύνδεση με το Moodle έληξε. Ανοίξτε το TigerDuck και συνδεθείτε ξανά για να συνεχιστεί ο συγχρονισμός.",
   "notification_reauth_required_title": "Παύση συγχρονισμού παρασκηνίου",
+  "notification_reauth_session_body": "Ανοίξτε το TigerDuck και συνδεθείτε ξανά για να συνεχιστεί ο συγχρονισμός.",
+  "notification_reauth_session_title": "Το TigerSync τέθηκε σε παύση",
   "notification_setup_title": "Επαναδιαμόρφωση ειδοποιήσεων",
   "onboarding_analytics_description": "Βοήθησε στη βελτίωση του TigerDuck μοιράζοντας ανώνυμα δεδομένα για τις σελίδες που επισκέπτεσαι και τη χρήση widget. Μπορείς να το αλλάξεις οποιαδήποτε στιγμή από τις Ρυθμίσεις.",
   "onboarding_analytics_label": "Ανάλυση χρήσης (προαιρετικό)",

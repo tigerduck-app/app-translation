@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Pengaturan izin notifikasi",
   "notification_reauth_required_body": "Koneksi ke Moodle telah kedaluwarsa. Buka TigerDuck dan masuk kembali untuk melanjutkan sinkronisasi.",
   "notification_reauth_required_title": "Sinkronisasi latar belakang dijeda",
+  "notification_reauth_session_body": "Buka TigerDuck dan masuk kembali untuk melanjutkan sinkronisasi.",
+  "notification_reauth_session_title": "TigerSync dijeda",
   "notification_setup_title": "Konfigurasi ulang notifikasi",
   "onboarding_analytics_description": "Bantu tingkatkan TigerDuck dengan berbagi data anonim tentang halaman yang dikunjungi dan penggunaan widget. Kamu bisa mengubah ini kapan saja di Pengaturan.",
   "onboarding_analytics_label": "Analitik penggunaan (opsional)",

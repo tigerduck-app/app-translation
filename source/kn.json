@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle ಸಂಪರ್ಕದ ಅವಧಿ ಮುಗಿದಿದೆ. ಸಿಂಕ್ ಮುಂದುವರಿಯಲು TigerDuck ತೆರೆದು ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.",
-    "notification_reauth_required_title": "ಹಿನ್ನೆಲೆ ಸಿಂಕ್ ನಿಂತಿದೆ"
+    "notification_reauth_required_title": "ಹಿನ್ನೆಲೆ ಸಿಂಕ್ ನಿಂತಿದೆ",
+    "notification_reauth_session_body": "ಸಿಂಕ್ ಮುಂದುವರಿಯಲು TigerDuck ತೆರೆದು ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.",
+    "notification_reauth_session_title": "TigerSync ನಿಂತಿದೆ"
   }
 }

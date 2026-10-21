@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "תוקף החיבור ל-Moodle פג. יש לפתוח את TigerDuck ולהתחבר שוב כדי לחדש את הסנכרון.",
-    "notification_reauth_required_title": "הסנכרון ברקע הופסק"
+    "notification_reauth_required_title": "הסנכרון ברקע הופסק",
+    "notification_reauth_session_body": "יש לפתוח את TigerDuck ולהתחבר שוב כדי לחדש את הסנכרון.",
+    "notification_reauth_session_title": "TigerSync הושהה"
   }
 }

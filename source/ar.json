@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "انتهت صلاحية اتصال Moodle الخاص بك. افتح TigerDuck وسجّل الدخول مرة أخرى لاستئناف المزامنة.",
-    "notification_reauth_required_title": "توقّفت المزامنة في الخلفية"
+    "notification_reauth_required_title": "توقّفت المزامنة في الخلفية",
+    "notification_reauth_session_body": "افتح TigerDuck وسجّل الدخول مرة أخرى لاستئناف المزامنة.",
+    "notification_reauth_session_title": "تم إيقاف TigerSync مؤقتًا"
   }
 }

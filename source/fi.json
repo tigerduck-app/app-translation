@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle-yhteys on vanhentunut. Avaa TigerDuck ja kirjaudu uudelleen sisään, niin synkronointi jatkuu.",
-    "notification_reauth_required_title": "Taustasynkronointi on keskeytetty"
+    "notification_reauth_required_title": "Taustasynkronointi on keskeytetty",
+    "notification_reauth_session_body": "Avaa TigerDuck ja kirjaudu uudelleen sisään, niin synkronointi jatkuu.",
+    "notification_reauth_session_title": "TigerSync on keskeytetty"
   }
 }

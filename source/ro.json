@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Conexiunea cu Moodle a expirat. Deschideți TigerDuck și autentificați-vă din nou pentru a relua sincronizarea.",
-    "notification_reauth_required_title": "Sincronizare în pauză"
+    "notification_reauth_required_title": "Sincronizare în pauză",
+    "notification_reauth_session_body": "Deschideți TigerDuck și autentificați-vă din nou pentru a relua sincronizarea.",
+    "notification_reauth_session_title": "TigerSync în pauză"
   }
 }

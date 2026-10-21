@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "La connexion à Moodle a expiré. Ouvrez TigerDuck et reconnectez-vous pour reprendre la synchronisation.",
-    "notification_reauth_required_title": "Synchronisation suspendue"
+    "notification_reauth_required_title": "Synchronisation suspendue",
+    "notification_reauth_session_body": "Ouvrez TigerDuck et reconnectez-vous pour reprendre la synchronisation.",
+    "notification_reauth_session_title": "TigerSync en pause"
   }
 }

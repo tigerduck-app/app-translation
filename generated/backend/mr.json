@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "अधिसूचना परवानग्या",
   "notification_reauth_required_body": "Moodle चे कनेक्शन कालबाह्य झाले आहे. सिंक पुन्हा सुरू करण्यासाठी TigerDuck उघडा आणि पुन्हा साइन इन करा.",
   "notification_reauth_required_title": "पार्श्वभूमी सिंक थांबले आहे",
+  "notification_reauth_session_body": "सिंक पुन्हा सुरू करण्यासाठी TigerDuck उघडा आणि पुन्हा साइन इन करा.",
+  "notification_reauth_session_title": "TigerSync थांबले आहे",
   "notification_setup_title": "अधिसूचना पुन्हा सेट करा",
   "onboarding_analytics_description": "अनामिक पृष्ठ भेटी आणि विजेट वापर शेअर करून TigerDuck सुधारण्यास मदत करा. तुम्ही हे कधीही सेटिंग्जमध्ये बदलू शकता.",
   "onboarding_analytics_label": "वापर विश्लेषण (पर्यायी)",

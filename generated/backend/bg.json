@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Разрешения за известия",
   "notification_reauth_required_body": "Връзката с Moodle изтече. Отворете TigerDuck и влезте отново, за да се възобнови синхронизирането.",
   "notification_reauth_required_title": "Спряна фонова синхронизация",
+  "notification_reauth_session_body": "Отворете TigerDuck и влезте отново, за да се възобнови синхронизирането.",
+  "notification_reauth_session_title": "TigerSync е на пауза",
   "notification_setup_title": "Преконфигуриране на известия",
   "onboarding_analytics_description": "Помогни за подобряването на TigerDuck, като споделяш анонимни данни за посетени страници и използване на виджети. Можеш да промениш това по всяко време в Настройки.",
   "onboarding_analytics_label": "Анализ на използването (по избор)",

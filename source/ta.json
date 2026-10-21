@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle இணைப்பின் காலம் முடிந்துவிட்டது. ஒத்திசைவு தொடர TigerDuck திறந்து மீண்டும் உள்நுழையவும்.",
-    "notification_reauth_required_title": "பின்னணி ஒத்திசைவு நிறுத்தப்பட்டுள்ளது"
+    "notification_reauth_required_title": "பின்னணி ஒத்திசைவு நிறுத்தப்பட்டுள்ளது",
+    "notification_reauth_session_body": "ஒத்திசைவு தொடர TigerDuck திறந்து மீண்டும் உள்நுழையவும்.",
+    "notification_reauth_session_title": "TigerSync நிறுத்தப்பட்டுள்ளது"
   }
 }

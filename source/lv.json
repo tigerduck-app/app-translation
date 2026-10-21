@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Savienojuma ar Moodle derīguma termiņš ir beidzies. Atveriet TigerDuck un piesakieties vēlreiz, lai sinhronizācija atsāktos.",
-    "notification_reauth_required_title": "Sinhronizācija fonā ir apturēta"
+    "notification_reauth_required_title": "Sinhronizācija fonā ir apturēta",
+    "notification_reauth_session_body": "Atveriet TigerDuck un piesakieties vēlreiz, lai sinhronizācija atsāktos.",
+    "notification_reauth_session_title": "TigerSync ir apturēta"
   }
 }

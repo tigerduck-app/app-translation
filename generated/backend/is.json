@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Tilkynningaleyfisstillingar",
   "notification_reauth_required_body": "Tengingin við Moodle er útrunnin. Opnaðu TigerDuck og skráðu þig inn aftur til að halda samstillingu áfram.",
   "notification_reauth_required_title": "Samstilling í bakgrunni er í bið",
+  "notification_reauth_session_body": "Opnaðu TigerDuck og skráðu þig inn aftur til að halda samstillingu áfram.",
+  "notification_reauth_session_title": "TigerSync er í bið",
   "notification_setup_title": "Endursetja tilkynningar",
   "onboarding_analytics_description": "Hjálpaðu til við að bæta TigerDuck með því að deila nafnlausum síðuheimsóknum og notkun widgets. Þú getur breytt þessu hvenær sem er í Stillingar.",
   "onboarding_analytics_label": "Notkunargreining (valfrjálst)",

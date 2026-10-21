@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Moodle ਨਾਲ ਕਨੈਕਸ਼ਨ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ। ਸਿੰਕ ਮੁੜ ਸ਼ੁਰੂ ਕਰਨ ਲਈ TigerDuck ਖੋਲ੍ਹੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।",
-    "notification_reauth_required_title": "ਬੈਕਗਰਾਊਂਡ ਸਿੰਕ ਰੁਕ ਗਿਆ ਹੈ"
+    "notification_reauth_required_title": "ਬੈਕਗਰਾਊਂਡ ਸਿੰਕ ਰੁਕ ਗਿਆ ਹੈ",
+    "notification_reauth_session_body": "ਸਿੰਕ ਮੁੜ ਸ਼ੁਰੂ ਕਰਨ ਲਈ TigerDuck ਖੋਲ੍ਹੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।",
+    "notification_reauth_session_title": "TigerSync ਰੁਕ ਗਿਆ ਹੈ"
   }
 }

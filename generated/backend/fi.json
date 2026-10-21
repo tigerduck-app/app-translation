@@ -614,6 +614,8 @@
   "notification_permission_settings_nav_title": "Ilmoitusluvat",
   "notification_reauth_required_body": "Moodle-yhteys on vanhentunut. Avaa TigerDuck ja kirjaudu uudelleen sisään, niin synkronointi jatkuu.",
   "notification_reauth_required_title": "Taustasynkronointi on keskeytetty",
+  "notification_reauth_session_body": "Avaa TigerDuck ja kirjaudu uudelleen sisään, niin synkronointi jatkuu.",
+  "notification_reauth_session_title": "TigerSync on keskeytetty",
   "notification_setup_title": "Määritä ilmoitukset uudelleen",
   "onboarding_analytics_description": "Auta kehittämään TigerDuckia jakamalla anonyymejä sivuvierailuja ja widgetien käyttötietoja. Voit muuttaa tätä milloin tahansa Asetuksista.",
   "onboarding_analytics_label": "Käyttöanalytiikka (valinnainen)",

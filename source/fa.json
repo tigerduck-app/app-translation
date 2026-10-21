@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "اتصال به Moodle منقضی شده است. برای از سرگیری همگام‌سازی، TigerDuck را باز کنید و دوباره وارد شوید.",
-    "notification_reauth_required_title": "همگام‌سازی پس‌زمینه متوقف شده است"
+    "notification_reauth_required_title": "همگام‌سازی پس‌زمینه متوقف شده است",
+    "notification_reauth_session_body": "برای از سرگیری همگام‌سازی، TigerDuck را باز کنید و دوباره وارد شوید.",
+    "notification_reauth_session_title": "TigerSync متوقف شده است"
   }
 }

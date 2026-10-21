@@ -1214,6 +1214,8 @@
   },
   "backend": {
     "notification_reauth_required_body": "Forbindelsen til Moodle er udløbet. Åbn TigerDuck, og log ind igen for at genoptage synkroniseringen.",
-    "notification_reauth_required_title": "Baggrundssynkronisering er sat på pause"
+    "notification_reauth_required_title": "Baggrundssynkronisering er sat på pause",
+    "notification_reauth_session_body": "Åbn TigerDuck, og log ind igen for at genoptage synkroniseringen.",
+    "notification_reauth_session_title": "TigerSync er sat på pause"
   }
 }
