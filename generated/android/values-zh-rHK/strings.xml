@@ -831,7 +831,7 @@
     <string name="school_mail_sign_in_note">帳號密碼應與校務系統相同。此密碼 TigerDuck 只會加密存在這台裝置，不會上傳。</string>
     <string name="school_mail_sign_in_prompt_title">登入校園信箱</string>
     <string name="school_mail_source_failed">無法載入原始碼。</string>
-    <string name="school_mail_storage_delete_message">信件仍保留在學校的伺服器上。下次開啟校園信箱時會重新下載，在那之前，搜尋可能找不到部分郵件。</string>
+    <string name="school_mail_storage_delete_message">郵件仍保留在學校的伺服器上。下次開啟校園信箱時會重新下載，在那之前，搜尋可能找不到部分郵件。</string>
     <string name="school_mail_storage_delete_title">要刪除已下載的郵件嗎？</string>
     <string name="school_mail_storage_footer">下載後就能搜尋所有郵件，捲動清單也不必等待載入。</string>
     <string name="school_mail_storage_title">已下載的郵件</string>
