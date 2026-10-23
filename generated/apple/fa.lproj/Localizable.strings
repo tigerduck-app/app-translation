@@ -28,6 +28,7 @@
 "action_allow" = "اجازه دادن";
 "action_back" = "بازگشت";
 "action_cancel" = "لغو";
+"action_change" = "تغییر";
 "action_clear_text" = "پاک کردن متن";
 "action_close" = "بستن";
 "action_confirm" = "تأیید";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "سبک رابط";
 "settings_whats_new" = "چه چیزی جدید است";
 "share_code_needs_update_message" = "این کد اشتراک‌گذاری به نسخهٔ جدیدتری از برنامه نیاز دارد.";
+"sign_in_change_account_title" = "تغییر حساب";
 "sign_in_password" = "گذرواژه";
 "sign_in_student_id" = "شماره دانشجویی";
 "source_code_picker_current_app_badge" = "اپ فعلی";

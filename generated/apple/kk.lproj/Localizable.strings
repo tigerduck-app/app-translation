@@ -28,6 +28,7 @@
 "action_allow" = "Рұқсат беру";
 "action_back" = "Артқа";
 "action_cancel" = "Болдырмау";
+"action_change" = "Өзгерту";
 "action_clear_text" = "Мәтінді тазалау";
 "action_close" = "Жабу";
 "action_confirm" = "Растау";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Интерфейс стилі";
 "settings_whats_new" = "Жаңалықтар";
 "share_code_needs_update_message" = "Бұл бөлісу кодына қолданбаның жаңарақ нұсқасы қажет.";
+"sign_in_change_account_title" = "Тіркелгіні өзгерту";
 "sign_in_password" = "Құпия сөз";
 "sign_in_student_id" = "Студент ID";
 "source_code_picker_current_app_badge" = "Ағымдағы қосымша";

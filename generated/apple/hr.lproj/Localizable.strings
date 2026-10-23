@@ -28,6 +28,7 @@
 "action_allow" = "Dopusti";
 "action_back" = "Natrag";
 "action_cancel" = "Odustani";
+"action_change" = "Promijeni";
 "action_clear_text" = "Izbriši tekst";
 "action_close" = "Zatvori";
 "action_confirm" = "Potvrdi";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Stil sučelja";
 "settings_whats_new" = "Što je novo";
 "share_code_needs_update_message" = "Ovaj kod za dijeljenje zahtijeva noviju verziju aplikacije.";
+"sign_in_change_account_title" = "Promjena računa";
 "sign_in_password" = "Lozinka";
 "sign_in_student_id" = "Studentski broj";
 "source_code_picker_current_app_badge" = "Trenutna aplikacija";

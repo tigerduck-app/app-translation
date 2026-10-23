@@ -28,6 +28,7 @@
 "action_allow" = "Erlauben";
 "action_back" = "Zurück";
 "action_cancel" = "Abbrechen";
+"action_change" = "Ändern";
 "action_clear_text" = "Text löschen";
 "action_close" = "Schließen";
 "action_confirm" = "Bestätigen";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Schnittstellenstil";
 "settings_whats_new" = "Was gibt es Neues";
 "share_code_needs_update_message" = "Dieser Freigabecode erfordert eine neuere Version der App.";
+"sign_in_change_account_title" = "Konto ändern";
 "sign_in_password" = "Passwort";
 "sign_in_student_id" = "Matrikelnummer";
 "source_code_picker_current_app_badge" = "Diese App";

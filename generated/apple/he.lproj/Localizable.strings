@@ -28,6 +28,7 @@
 "action_allow" = "אפשר";
 "action_back" = "חזרה";
 "action_cancel" = "ביטול";
+"action_change" = "החלף";
 "action_clear_text" = "נקה טקסט";
 "action_close" = "סגור";
 "action_confirm" = "אישור";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "סגנון ממשק";
 "settings_whats_new" = "מה חדש";
 "share_code_needs_update_message" = "קוד השיתוף הזה דורש גרסה חדשה יותר של האפליקציה.";
+"sign_in_change_account_title" = "החלפת חשבון";
 "sign_in_password" = "סיסמה";
 "sign_in_student_id" = "מספר סטודנט";
 "source_code_picker_current_app_badge" = "האפליקציה הנוכחית";

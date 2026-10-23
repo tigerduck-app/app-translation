@@ -28,6 +28,7 @@
 "action_allow" = "Benarkan";
 "action_back" = "Kembali";
 "action_cancel" = "Batal";
+"action_change" = "Tukar";
 "action_clear_text" = "Padam teks";
 "action_close" = "Tutup";
 "action_confirm" = "Sahkan";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Gaya antara muka";
 "settings_whats_new" = "Apa yang baharu";
 "share_code_needs_update_message" = "Kod perkongsian ini memerlukan versi aplikasi yang lebih baharu.";
+"sign_in_change_account_title" = "Tukar akaun";
 "sign_in_password" = "Kata laluan";
 "sign_in_student_id" = "ID pelajar";
 "source_code_picker_current_app_badge" = "App ini";

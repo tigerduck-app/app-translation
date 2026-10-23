@@ -28,6 +28,7 @@
 "action_allow" = "ਆਗਿਆ ਦਿਓ";
 "action_back" = "ਵਾਪਸ";
 "action_cancel" = "ਰੱਦ ਕਰੋ";
+"action_change" = "ਬਦਲੋ";
 "action_clear_text" = "ਟੈਕਸਟ ਸਾਫ਼ ਕਰੋ";
 "action_close" = "ਬੰਦ ਕਰੋ";
 "action_confirm" = "ਪੁਸ਼ਟੀ ਕਰੋ";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "ਇੰਟਰਫੇਸ ਸ਼ੈਲੀ";
 "settings_whats_new" = "ਕੀ ਨਵਾਂ ਹੈ";
 "share_code_needs_update_message" = "ਇਸ ਸ਼ੇਅਰ ਕੋਡ ਲਈ ਐਪ ਦਾ ਨਵਾਂ ਸੰਸਕਰਣ ਲੋੜੀਂਦਾ ਹੈ।";
+"sign_in_change_account_title" = "ਖਾਤਾ ਬਦਲੋ";
 "sign_in_password" = "ਪਾਸਵਰਡ";
 "sign_in_student_id" = "ਵਿਦਿਆਰਥੀ ID";
 "source_code_picker_current_app_badge" = "ਮੌਜੂਦਾ ਐਪ";

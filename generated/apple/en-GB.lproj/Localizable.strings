@@ -28,6 +28,7 @@
 "action_allow" = "Allow";
 "action_back" = "Back";
 "action_cancel" = "Cancel";
+"action_change" = "Change";
 "action_clear_text" = "Clear text";
 "action_close" = "Close";
 "action_confirm" = "Confirm";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Interface style";
 "settings_whats_new" = "What’s new";
 "share_code_needs_update_message" = "This share code needs a newer version of the app.";
+"sign_in_change_account_title" = "Change account";
 "sign_in_password" = "Password";
 "sign_in_student_id" = "Student ID";
 "source_code_picker_current_app_badge" = "Current app";
