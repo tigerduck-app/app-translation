@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Да отворим овај прилог?";
 "school_mail_save_draft" = "Сачувај нацрт";
 "school_mail_saved" = "Сачувано";
-"school_mail_search_index_partial" = "Пошта се још преузима. Претрага можда неће пронаћи неке старије поруке.";
+"school_mail_search_index_partial" = "Још није преузета сва пошта. Претрага можда неће пронаћи неке старије поруке.";
 "school_mail_search_local_only" = "Сервер не подржава ову претрагу. Приказују се резултати само из учитаних порука.";
 "school_mail_search_prompt" = "Претражи пошту";
 "school_mail_send" = "Пошаљи";

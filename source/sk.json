@@ -763,7 +763,7 @@
     "school_mail_risky_title": "Otvoriť túto prílohu?",
     "school_mail_save_draft": "Uložiť koncept",
     "school_mail_saved": "Uložené",
-    "school_mail_search_index_partial": "Pošta sa stále sťahuje. Vyhľadávanie nemusí nájsť niektoré staršie správy.",
+    "school_mail_search_index_partial": "Ešte nie je stiahnutá všetka pošta. Vyhľadávanie nemusí nájsť niektoré staršie správy.",
     "school_mail_search_local_only": "Server túto funkciu vyhľadávania nepodporuje. Zobrazujú sa iba zhody z už načítanej pošty.",
     "school_mail_search_prompt": "Hľadať v pošte",
     "school_mail_send": "Odoslať",

@@ -766,7 +766,7 @@
   "school_mail_risky_title": "Megnyitja ezt a mellékletet?",
   "school_mail_save_draft": "Piszkozat mentése",
   "school_mail_saved": "Mentve",
-  "school_mail_search_index_partial": "A levelek letöltése még folyamatban van. A keresés néhány régebbi levelet esetleg nem talál meg.",
+  "school_mail_search_index_partial": "Még nem töltődött le minden levél. A keresés néhány régebbi levelet esetleg nem talál meg.",
   "school_mail_search_local_only": "A szerver nem tudja végrehajtani ezt a keresést. Csak a már betöltött üzenetek közötti találatok jelennek meg.",
   "school_mail_search_prompt": "Üzenetek keresése",
   "school_mail_send": "Küldés",

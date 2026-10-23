@@ -763,7 +763,7 @@
     "school_mail_risky_title": "Kas avada see manus?",
     "school_mail_save_draft": "Salvesta mustand",
     "school_mail_saved": "Salvestatud",
-    "school_mail_search_index_partial": "Kirju laaditakse veel alla. Otsing ei pruugi mõnda vanemat kirja leida.",
+    "school_mail_search_index_partial": "Kõiki kirju pole veel alla laaditud. Otsing ei pruugi mõnda vanemat kirja leida.",
     "school_mail_search_local_only": "Server ei toeta seda otsingut. Kuvatakse tulemusi ainult juba laaditud kirjadest.",
     "school_mail_search_prompt": "Otsi kirju",
     "school_mail_send": "Saada",

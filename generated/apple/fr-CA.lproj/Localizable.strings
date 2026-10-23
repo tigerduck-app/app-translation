@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Ouvrir cette pièce jointe ?";
 "school_mail_save_draft" = "Enregistrer le brouillon";
 "school_mail_saved" = "Enregistré";
-"school_mail_search_index_partial" = "Les messages sont encore en cours de téléchargement. La recherche risque de ne pas trouver certains messages plus anciens.";
+"school_mail_search_index_partial" = "Tous les messages ne sont pas encore téléchargés. La recherche risque de ne pas trouver certains messages plus anciens.";
 "school_mail_search_local_only" = "Le serveur ne peut pas effectuer cette recherche. Seuls les résultats des messages déjà chargés sont affichés.";
 "school_mail_search_prompt" = "Rechercher des messages";
 "school_mail_send" = "Envoyer";

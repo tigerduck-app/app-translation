@@ -766,7 +766,7 @@
   "school_mail_risky_title": "Avataanko tämä liite?",
   "school_mail_save_draft": "Tallenna luonnos",
   "school_mail_saved": "Tallennettu",
-  "school_mail_search_index_partial": "Viestejä ladataan vielä. Haku ei ehkä löydä joitakin vanhempia viestejä.",
+  "school_mail_search_index_partial": "Kaikkia viestejä ei ole vielä ladattu. Haku ei ehkä löydä joitakin vanhempia viestejä.",
   "school_mail_search_local_only": "Palvelin ei voi suorittaa tätä hakua. Näytetään osumat vain ladatuista viesteistä.",
   "school_mail_search_prompt": "Hae viestejä",
   "school_mail_send": "Lähetä",

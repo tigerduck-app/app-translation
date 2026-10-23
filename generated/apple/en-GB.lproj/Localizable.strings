@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Open this attachment?";
 "school_mail_save_draft" = "Save draft";
 "school_mail_saved" = "Saved";
-"school_mail_search_index_partial" = "Still downloading mail. Search may miss some older mail.";
+"school_mail_search_index_partial" = "Not all mail is downloaded yet. Search may miss some older mail.";
 "school_mail_search_local_only" = "The server can't run this search. Showing matches from loaded mail only.";
 "school_mail_search_prompt" = "Search mail";
 "school_mail_send" = "Send";

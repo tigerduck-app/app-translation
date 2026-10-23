@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "要開啟這個附件嗎？";
 "school_mail_save_draft" = "儲存草稿";
 "school_mail_saved" = "已儲存";
-"school_mail_search_index_partial" = "仍在下載郵件，搜尋可能找不到部分較舊的郵件。";
+"school_mail_search_index_partial" = "尚未下載所有郵件，搜尋可能找不到部分較舊的郵件。";
 "school_mail_search_local_only" = "伺服器不支援這個搜尋，只搜尋已載入的郵件。";
 "school_mail_search_prompt" = "搜尋郵件";
 "school_mail_send" = "傳送";

@@ -763,7 +763,7 @@
     "school_mail_risky_title": "এই অ্যাটাচমেন্টটি খুলবেন?",
     "school_mail_save_draft": "খসড়া সংরক্ষণ করুন",
     "school_mail_saved": "সংরক্ষিত হয়েছে",
-    "school_mail_search_index_partial": "মেইল এখনও ডাউনলোড হচ্ছে। অনুসন্ধানে কিছু পুরোনো মেইল বাদ পড়তে পারে।",
+    "school_mail_search_index_partial": "এখনও সব মেইল ডাউনলোড হয়নি। অনুসন্ধানে কিছু পুরোনো মেইল বাদ পড়তে পারে।",
     "school_mail_search_local_only": "সার্ভার এই অনুসন্ধান চালাতে পারছে না। শুধু লোড করা মেইল থেকে মিল দেখানো হচ্ছে।",
     "school_mail_search_prompt": "মেইল অনুসন্ধান করুন",
     "school_mail_send": "পাঠান",

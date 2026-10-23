@@ -766,7 +766,7 @@
   "school_mail_risky_title": "Deze bijlage openen?",
   "school_mail_save_draft": "Concept opslaan",
   "school_mail_saved": "Opgeslagen",
-  "school_mail_search_index_partial": "Mail wordt nog gedownload. Zoeken vindt sommige oudere mail misschien niet.",
+  "school_mail_search_index_partial": "Nog niet alle mail is gedownload. Zoeken vindt sommige oudere mail misschien niet.",
   "school_mail_search_local_only": "De server kan deze zoekopdracht niet uitvoeren. Alleen resultaten uit al geladen mail worden getoond.",
   "school_mail_search_prompt": "Mail doorzoeken",
   "school_mail_send": "Verzenden",
