@@ -790,6 +790,7 @@
 "school_mail_risky_title" = "Buka lampiran ini?";
 "school_mail_save_draft" = "Simpan draf";
 "school_mail_saved" = "Disimpan";
+"school_mail_search_index_partial" = "E-mel masih dimuat turun. Carian mungkin tidak menemui beberapa e-mel lama.";
 "school_mail_search_local_only" = "Pelayan tidak dapat menjalankan carian ini. Hanya memaparkan hasil daripada e-mel yang telah dimuatkan.";
 "school_mail_search_prompt" = "Cari e-mel";
 "school_mail_send" = "Hantar";
@@ -811,6 +812,10 @@
 "school_mail_sign_in_note" = "ID dan kata laluan anda perlu sama seperti sistem sekolah. TigerDuck hanya menyimpan kata laluan ini dalam bentuk disulitkan pada peranti ini dan tidak sekali-kali memuat naiknya.";
 "school_mail_sign_in_prompt_title" = "Log masuk ke e-mel sekolah";
 "school_mail_source_failed" = "Tidak dapat memuatkan kod sumber.";
+"school_mail_storage_delete_message" = "E-mel anda kekal di pelayan sekolah. E-mel akan dimuat turun semula apabila anda membuka E-mel sekolah pada kali seterusnya, dan sehingga itu, carian mungkin tidak menemui sebahagiannya.";
+"school_mail_storage_delete_title" = "Padam e-mel yang dimuat turun?";
+"school_mail_storage_footer" = "Dimuat turun supaya anda boleh mencari dalam semua e-mel anda dan menatalnya tanpa menunggu.";
+"school_mail_storage_title" = "E-mel yang dimuat turun";
 "school_mail_subject" = "Subjek";
 "school_mail_to" = "Kepada";
 "school_mail_too_large" = "Lampiran melebihi had 50 MB";

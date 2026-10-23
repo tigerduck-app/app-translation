@@ -790,6 +790,7 @@
 "school_mail_risky_title" = "לפתוח את הקובץ המצורף הזה?";
 "school_mail_save_draft" = "שמור טיוטה";
 "school_mail_saved" = "נשמר";
+"school_mail_search_index_partial" = "הדואר עדיין בהורדה. ייתכן שהחיפוש לא ימצא חלק מההודעות הישנות.";
 "school_mail_search_local_only" = "השרת אינו יכול להריץ את החיפוש הזה. מוצגות התוצאות מההודעות שכבר נטענו בלבד.";
 "school_mail_search_prompt" = "חיפוש בדואר";
 "school_mail_send" = "שלח";
@@ -811,6 +812,10 @@
 "school_mail_sign_in_note" = "מספר הסטודנט והסיסמה שלך צריכים להיות זהים לאלה של מערכת בית הספר. TigerDuck שומר את הסיסמה הזו מוצפנת במכשיר הזה בלבד ולעולם לא מעלה אותה.";
 "school_mail_sign_in_prompt_title" = "התחברות לדואר בית הספר";
 "school_mail_source_failed" = "לא ניתן היה לטעון את המקור.";
+"school_mail_storage_delete_message" = "הדואר שלך נשאר בשרת של בית הספר. הוא יורד שוב בפעם הבאה שייפתח דואר בית הספר, ועד אז ייתכן שהחיפוש לא ימצא חלק ממנו.";
+"school_mail_storage_delete_title" = "למחוק את הדואר שהורד?";
+"school_mail_storage_footer" = "הדואר מורד כדי שאפשר יהיה לחפש בכל הדואר ולגלול בו בלי להמתין.";
+"school_mail_storage_title" = "דואר שהורד";
 "school_mail_subject" = "נושא";
 "school_mail_to" = "אל";
 "school_mail_too_large" = "הקבצים המצורפים חורגים מהמגבלה של 50MB";
