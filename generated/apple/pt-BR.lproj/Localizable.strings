@@ -790,6 +790,7 @@
 "school_mail_risky_title" = "Abrir este anexo?";
 "school_mail_save_draft" = "Salvar rascunho";
 "school_mail_saved" = "Salvo";
+"school_mail_search_index_partial" = "Os e-mails ainda estão sendo baixados. A pesquisa pode não encontrar alguns e-mails mais antigos.";
 "school_mail_search_local_only" = "O servidor não pode executar esta busca. Mostrando resultados apenas do e-mail já carregado.";
 "school_mail_search_prompt" = "Pesquisar e-mails";
 "school_mail_send" = "Enviar";
@@ -811,6 +812,10 @@
 "school_mail_sign_in_note" = "Seu número de matrícula e senha devem ser os mesmos do sistema da universidade. O TigerDuck só armazena essa senha criptografada neste dispositivo e nunca a envia para a internet.";
 "school_mail_sign_in_prompt_title" = "Entrar no e-mail universitário";
 "school_mail_source_failed" = "Não foi possível carregar o código-fonte.";
+"school_mail_storage_delete_message" = "Seus e-mails continuam no servidor da universidade. Eles serão baixados de novo na próxima vez que você abrir o E-mail universitário e, até lá, a pesquisa pode não encontrar alguns deles.";
+"school_mail_storage_delete_title" = "Excluir os e-mails baixados?";
+"school_mail_storage_footer" = "São baixados para que você possa pesquisar em todos os seus e-mails e rolar a lista sem esperar.";
+"school_mail_storage_title" = "E-mails baixados";
 "school_mail_subject" = "Assunto";
 "school_mail_to" = "Para";
 "school_mail_too_large" = "Os anexos ultrapassam o limite de 50 MB";

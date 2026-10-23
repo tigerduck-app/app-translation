@@ -790,6 +790,7 @@
 "school_mail_risky_title" = "Vols obrir aquest fitxer adjunt?";
 "school_mail_save_draft" = "Desa l'esborrany";
 "school_mail_saved" = "Desat";
+"school_mail_search_index_partial" = "Encara s'està baixant el correu. És possible que la cerca no trobi alguns missatges antics.";
 "school_mail_search_local_only" = "El servidor no pot fer aquesta cerca. Només es mostren resultats del correu ja carregat.";
 "school_mail_search_prompt" = "Cerca al correu";
 "school_mail_send" = "Envia";
@@ -811,6 +812,10 @@
 "school_mail_sign_in_note" = "El teu número d'estudiant i contrasenya han de ser els mateixos que els del sistema universitari. TigerDuck només desa aquesta contrasenya xifrada en aquest dispositiu i mai la puja a internet.";
 "school_mail_sign_in_prompt_title" = "Inicia la sessió al correu universitari";
 "school_mail_source_failed" = "No s'ha pogut carregar el codi font.";
+"school_mail_storage_delete_message" = "El teu correu continua al servidor de la universitat. Es tornarà a baixar la propera vegada que obris Correu universitari i, fins aleshores, és possible que la cerca no en trobi una part.";
+"school_mail_storage_delete_title" = "Vols eliminar el correu baixat?";
+"school_mail_storage_footer" = "Es baixa perquè puguis cercar a tot el teu correu i desplaçar-t'hi sense esperar.";
+"school_mail_storage_title" = "Correu baixat";
 "school_mail_subject" = "Assumpte";
 "school_mail_to" = "Per a";
 "school_mail_too_large" = "Els fitxers adjunts superen el límit de 50 MB";
