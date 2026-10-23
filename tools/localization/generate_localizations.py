@@ -252,12 +252,14 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("it", "pt-BR"), ("it", "pt-PT"),
         # Catalan / French -- shared Romance words such as Semestre, Examen, Notes
         ("ca", "fr"),
+        # Spanish / French -- shared Romance words such as Fin, De, Examen
+        ("es", "fr"),
         # Malay / Indonesian
         ("id", "ms"),
         # Scandinavian
         ("da", "no"), ("da", "sv"), ("no", "sv"),
         # Slavic
-        ("cs", "sk"), ("hr", "sl"), ("hr", "sr"), ("bg", "ru"), ("bg", "sr"),
+        ("cs", "sk"), ("hr", "sl"), ("sk", "sl"), ("hr", "sr"), ("bg", "ru"), ("bg", "sr"),
         ("bg", "uk"), ("ru", "uk"), ("ru", "sr"), ("kk", "ru"),
         # Serbian / Ukrainian -- Cyrillic Slavic words such as Назад, Готово, Курс
         ("sr", "uk"),
