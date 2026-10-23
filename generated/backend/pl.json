@@ -766,7 +766,7 @@
   "school_mail_risky_title": "Otworzyć ten załącznik?",
   "school_mail_save_draft": "Zapisz kopię roboczą",
   "school_mail_saved": "Zapisano",
-  "school_mail_search_index_partial": "Poczta wciąż jest pobierana. Wyszukiwanie może nie znaleźć niektórych starszych wiadomości.",
+  "school_mail_search_index_partial": "Nie cała poczta jest jeszcze pobrana. Wyszukiwanie może nie znaleźć niektórych starszych wiadomości.",
   "school_mail_search_local_only": "Serwer nie obsługuje tego wyszukiwania. Pokazano wyniki tylko z wczytanej poczty.",
   "school_mail_search_prompt": "Szukaj w poczcie",
   "school_mail_send": "Wyślij",

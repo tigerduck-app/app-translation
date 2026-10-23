@@ -763,7 +763,7 @@
     "school_mail_risky_title": "Aprire questo allegato?",
     "school_mail_save_draft": "Salva bozza",
     "school_mail_saved": "Salvato",
-    "school_mail_search_index_partial": "La posta è ancora in fase di download. La ricerca potrebbe non trovare alcuni messaggi meno recenti.",
+    "school_mail_search_index_partial": "Non tutta la posta è stata ancora scaricata. La ricerca potrebbe non trovare alcuni messaggi meno recenti.",
     "school_mail_search_local_only": "Il server non può eseguire questa ricerca. Vengono mostrati solo i risultati della posta già caricata.",
     "school_mail_search_prompt": "Cerca nella posta",
     "school_mail_send": "Invia",

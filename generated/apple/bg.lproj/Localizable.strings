@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Да отворя ли този прикачен файл?";
 "school_mail_save_draft" = "Запази чернова";
 "school_mail_saved" = "Запазено";
-"school_mail_search_index_partial" = "Пощата все още се изтегля. Търсенето може да не намери някои по-стари писма.";
+"school_mail_search_index_partial" = "Още не е изтеглена цялата поща. Търсенето може да не намери някои по-стари писма.";
 "school_mail_search_local_only" = "Сървърът не поддържа това търсене. Показват се резултати само от вече заредените имейли.";
 "school_mail_search_prompt" = "Търсене в пощата";
 "school_mail_send" = "Изпрати";

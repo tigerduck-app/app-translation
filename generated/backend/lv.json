@@ -766,7 +766,7 @@
   "school_mail_risky_title": "Vai atvērt šo pielikumu?",
   "school_mail_save_draft": "Saglabāt melnrakstu",
   "school_mail_saved": "Saglabāts",
-  "school_mail_search_index_partial": "Vēstules vēl tiek lejupielādētas. Meklēšana var neatrast dažas vecākas vēstules.",
+  "school_mail_search_index_partial": "Vēl nav lejupielādētas visas vēstules. Meklēšana var neatrast dažas vecākas vēstules.",
   "school_mail_search_local_only": "Serveris nevar veikt šo meklēšanu. Tiek rādīti rezultāti tikai no jau ielādētajām vēstulēm.",
   "school_mail_search_prompt": "Meklēt vēstules",
   "school_mail_send": "Sūtīt",

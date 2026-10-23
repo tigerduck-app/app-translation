@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Άνοιγμα αυτού του συνημμένου;";
 "school_mail_save_draft" = "Αποθήκευση πρόχειρου";
 "school_mail_saved" = "Αποθηκεύτηκε";
-"school_mail_search_index_partial" = "Τα email λαμβάνονται ακόμη. Η αναζήτηση ίσως δεν βρει ορισμένα παλαιότερα.";
+"school_mail_search_index_partial" = "Δεν έχουν ληφθεί ακόμη όλα τα email. Η αναζήτηση ίσως δεν βρει ορισμένα παλαιότερα.";
 "school_mail_search_local_only" = "Ο διακομιστής δεν μπορεί να εκτελέσει αυτήν την αναζήτηση. Εμφανίζονται αποτελέσματα μόνο από τα email που έχουν ήδη φορτωθεί.";
 "school_mail_search_prompt" = "Αναζήτηση email";
 "school_mail_send" = "Αποστολή";

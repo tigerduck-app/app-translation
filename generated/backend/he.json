@@ -766,7 +766,7 @@
   "school_mail_risky_title": "לפתוח את הקובץ המצורף הזה?",
   "school_mail_save_draft": "שמור טיוטה",
   "school_mail_saved": "נשמר",
-  "school_mail_search_index_partial": "הדואר עדיין בהורדה. ייתכן שהחיפוש לא ימצא חלק מההודעות הישנות.",
+  "school_mail_search_index_partial": "עדיין לא כל הדואר הורד. ייתכן שהחיפוש לא ימצא חלק מההודעות הישנות.",
   "school_mail_search_local_only": "השרת אינו יכול להריץ את החיפוש הזה. מוצגות התוצאות מההודעות שכבר נטענו בלבד.",
   "school_mail_search_prompt": "חיפוש בדואר",
   "school_mail_send": "שלח",

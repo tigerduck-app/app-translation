@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Открыть это вложение?";
 "school_mail_save_draft" = "Сохранить черновик";
 "school_mail_saved" = "Сохранено";
-"school_mail_search_index_partial" = "Почта ещё загружается. Поиск может не найти некоторые старые письма.";
+"school_mail_search_index_partial" = "Ещё не вся почта загружена. Поиск может не найти некоторые старые письма.";
 "school_mail_search_local_only" = "Сервер не поддерживает этот поиск. Показаны совпадения только из уже загруженной почты.";
 "school_mail_search_prompt" = "Поиск по почте";
 "school_mail_send" = "Отправить";

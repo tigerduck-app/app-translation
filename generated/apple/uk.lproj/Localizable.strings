@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Відкрити це вкладення?";
 "school_mail_save_draft" = "Зберегти чернетку";
 "school_mail_saved" = "Збережено";
-"school_mail_search_index_partial" = "Пошта ще завантажується. Пошук може не знайти деякі старіші листи.";
+"school_mail_search_index_partial" = "Ще не вся пошта завантажена. Пошук може не знайти деякі старіші листи.";
 "school_mail_search_local_only" = "Сервер не підтримує цей пошук. Показано збіги лише із завантаженої пошти.";
 "school_mail_search_prompt" = "Пошук пошти";
 "school_mail_send" = "Надіслати";

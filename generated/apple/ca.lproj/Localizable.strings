@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Vols obrir aquest fitxer adjunt?";
 "school_mail_save_draft" = "Desa l'esborrany";
 "school_mail_saved" = "Desat";
-"school_mail_search_index_partial" = "Encara s'està baixant el correu. És possible que la cerca no trobi alguns missatges antics.";
+"school_mail_search_index_partial" = "Encara no s'ha baixat tot el correu. És possible que la cerca no trobi alguns missatges antics.";
 "school_mail_search_local_only" = "El servidor no pot fer aquesta cerca. Només es mostren resultats del correu ja carregat.";
 "school_mail_search_prompt" = "Cerca al correu";
 "school_mail_send" = "Envia";

@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Buka lampiran ini?";
 "school_mail_save_draft" = "Simpan draf";
 "school_mail_saved" = "Tersimpan";
-"school_mail_search_index_partial" = "Email masih diunduh. Pencarian mungkin tidak menemukan beberapa email lama.";
+"school_mail_search_index_partial" = "Belum semua email diunduh. Pencarian mungkin tidak menemukan beberapa email lama.";
 "school_mail_search_local_only" = "Server tidak dapat menjalankan pencarian ini. Hanya menampilkan hasil dari email yang sudah dimuat.";
 "school_mail_search_prompt" = "Cari email";
 "school_mail_send" = "Kirim";

@@ -790,7 +790,7 @@
 "school_mail_risky_title" = "Buksan ang attachment na ito?";
 "school_mail_save_draft" = "I-save ang draft";
 "school_mail_saved" = "Na-save";
-"school_mail_search_index_partial" = "Dina-download pa ang mail. Baka hindi mahanap ng search ang ilang mas lumang mail.";
+"school_mail_search_index_partial" = "Hindi pa na-download ang lahat ng mail. Baka hindi mahanap ng search ang ilang mas lumang mail.";
 "school_mail_search_local_only" = "Hindi ma-run ng server ang search na ito. Ipinapakita lang ang mga match mula sa mail na na-load na.";
 "school_mail_search_prompt" = "Maghanap ng mail";
 "school_mail_send" = "Ipadala";
