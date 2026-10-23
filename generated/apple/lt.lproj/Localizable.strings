@@ -28,6 +28,7 @@
 "action_allow" = "Leisti";
 "action_back" = "Atgal";
 "action_cancel" = "Atšaukti";
+"action_change" = "Pakeisti";
 "action_clear_text" = "Išvalyti tekstą";
 "action_close" = "Uždaryti";
 "action_confirm" = "Patvirtinti";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Sąsajos stilius";
 "settings_whats_new" = "Kas naujo";
 "share_code_needs_update_message" = "Šiam bendrinimo kodui reikia naujesnės programėlės versijos.";
+"sign_in_change_account_title" = "Pakeisti paskyrą";
 "sign_in_password" = "Slaptažodis";
 "sign_in_student_id" = "Studento ID";
 "source_code_picker_current_app_badge" = "Ši programa";

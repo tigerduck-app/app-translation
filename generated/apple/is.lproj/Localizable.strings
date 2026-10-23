@@ -28,6 +28,7 @@
 "action_allow" = "Leyfa";
 "action_back" = "Til baka";
 "action_cancel" = "Hætta við";
+"action_change" = "Skipta";
 "action_clear_text" = "Hreinsa texta";
 "action_close" = "Loka";
 "action_confirm" = "Staðfesta";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Viðmótsstíll";
 "settings_whats_new" = "Hvað er nýtt";
 "share_code_needs_update_message" = "Þessi deilikóði þarfnast nýrri útgáfu af forritinu.";
+"sign_in_change_account_title" = "Skipta um aðgang";
 "sign_in_password" = "Lykilorð";
 "sign_in_student_id" = "Nemandanúmer";
 "source_code_picker_current_app_badge" = "Þetta app";

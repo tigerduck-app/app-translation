@@ -28,6 +28,7 @@
 "action_allow" = "Payagan";
 "action_back" = "Bumalik";
 "action_cancel" = "Kanselahin";
+"action_change" = "Palitan";
 "action_clear_text" = "I-clear ang teksto";
 "action_close" = "Isara";
 "action_confirm" = "Kumpirmahin";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Estilo ng interface";
 "settings_whats_new" = "Ano ang bago";
 "share_code_needs_update_message" = "Kailangan ng share code na ito ang mas bagong bersyon ng app.";
+"sign_in_change_account_title" = "Palitan ang account";
 "sign_in_password" = "Password";
 "sign_in_student_id" = "ID ng estudyante";
 "source_code_picker_current_app_badge" = "Kasalukuyang app";

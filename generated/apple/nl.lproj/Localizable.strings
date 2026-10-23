@@ -28,6 +28,7 @@
 "action_allow" = "Toestaan";
 "action_back" = "Terug";
 "action_cancel" = "Annuleren";
+"action_change" = "Wijzigen";
 "action_clear_text" = "Tekst wissen";
 "action_close" = "Sluiten";
 "action_confirm" = "Bevestigen";
@@ -1004,6 +1005,7 @@
 "settings_visual_preset_label" = "Interfacestijl";
 "settings_whats_new" = "Wat is er nieuw";
 "share_code_needs_update_message" = "Voor deze deelcode is een nieuwere versie van de app nodig.";
+"sign_in_change_account_title" = "Account wijzigen";
 "sign_in_password" = "Wachtwoord";
 "sign_in_student_id" = "Studentnummer";
 "source_code_picker_current_app_badge" = "Deze app";
