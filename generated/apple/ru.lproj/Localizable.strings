@@ -346,6 +346,7 @@
 "course_member_email" = "Эл. почта";
 "course_member_groups" = "Группы";
 "course_member_me" = "Я";
+"course_member_picture_unreadable" = "Не удалось открыть это фото. Выберите другое.";
 "course_member_profile_picture" = "Фото профиля";
 "course_members_auditors" = "Вольнослушатели";
 "course_members_students" = "Студенты";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "Отправить это письмо?";
 "school_mail_send_failed" = "Не удалось отправить письмо";
 "school_mail_send_unconfirmed" = "Не удалось подтвердить, что письмо отправлено; повторная попытка может доставить его дважды";
+"school_mail_send_undone" = "Отправка отменена. Письмо снова в редакторе.";
+"school_mail_sending_hold" = "Отправка…";
 "school_mail_sent_copy_failed" = "Письмо было отправлено, но не удалось сохранить копию в Отправленных.";
 "school_mail_sent_copy_no_folder" = "Письмо было отправлено, но папки «Отправленные» нет, чтобы сохранить в ней копию.";
 "school_mail_sent_copy_not_saved" = "Письмо отправлено, но копия не сохранена в Отправленных";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "Тема";
 "school_mail_to" = "Кому";
 "school_mail_too_large" = "Вложения превышают лимит 50 МБ";
+"school_mail_undo_send" = "Отменить";
 "school_mail_unread_only" = "Показывать только непрочитанные";
 "school_mail_use_other_app" = "Использовать другое приложение";
 "school_mail_view_formatted" = "Форматированный";

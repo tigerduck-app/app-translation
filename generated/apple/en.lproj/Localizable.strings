@@ -346,6 +346,7 @@
 "course_member_email" = "Email";
 "course_member_groups" = "Groups";
 "course_member_me" = "Me";
+"course_member_picture_unreadable" = "Couldn't open this photo. Choose another one.";
 "course_member_profile_picture" = "Profile picture";
 "course_members_auditors" = "Auditors";
 "course_members_students" = "Students";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "Send this mail?";
 "school_mail_send_failed" = "Couldn't send the mail";
 "school_mail_send_unconfirmed" = "Couldn't confirm the mail was sent; retrying may deliver it twice";
+"school_mail_send_undone" = "Sending canceled. The mail is back in the editor.";
+"school_mail_sending_hold" = "Sending…";
 "school_mail_sent_copy_failed" = "The mail was sent, but the copy couldn't be saved to Sent.";
 "school_mail_sent_copy_no_folder" = "The mail was sent, but there's no Sent folder to keep a copy in.";
 "school_mail_sent_copy_not_saved" = "Mail sent, but a copy wasn't saved to Sent";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "Subject";
 "school_mail_to" = "To";
 "school_mail_too_large" = "Attachments are over the 50 MB limit";
+"school_mail_undo_send" = "Undo";
 "school_mail_unread_only" = "Show unread only";
 "school_mail_use_other_app" = "Use another app";
 "school_mail_view_formatted" = "Formatted";

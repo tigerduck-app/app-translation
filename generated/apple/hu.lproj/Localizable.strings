@@ -346,6 +346,7 @@
 "course_member_email" = "E-mail";
 "course_member_groups" = "Csoportok";
 "course_member_me" = "Én";
+"course_member_picture_unreadable" = "Nem sikerült megnyitni ezt a fotót. Válasszon másikat.";
 "course_member_profile_picture" = "Profilkép";
 "course_members_auditors" = "Vendéghallgatók";
 "course_members_students" = "Hallgatók";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "Elküldi ezt az üzenetet?";
 "school_mail_send_failed" = "Nem sikerült elküldeni az üzenetet";
 "school_mail_send_unconfirmed" = "Nem sikerült megerősíteni, hogy elment-e az üzenet; az újrapróbálkozás kétszer is kézbesítheti";
+"school_mail_send_undone" = "Küldés visszavonva. Az üzenet visszakerült a szerkesztőbe.";
+"school_mail_sending_hold" = "Küldés…";
 "school_mail_sent_copy_failed" = "Az üzenet elküldve, de a másolatot nem sikerült elmenteni az Elküldött üzenetek mappába.";
 "school_mail_sent_copy_no_folder" = "Az üzenet elküldve, de nincs Elküldött üzenetek mappa, amelybe el lehetne menteni a másolatot.";
 "school_mail_sent_copy_not_saved" = "Elküldve, de a másolat nem mentődött el az Elküldött üzenetek mappába";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "Tárgy";
 "school_mail_to" = "Címzett";
 "school_mail_too_large" = "A mellékletek meghaladják az 50 MB-os korlátot";
+"school_mail_undo_send" = "Visszavonás";
 "school_mail_unread_only" = "Csak olvasatlanok megjelenítése";
 "school_mail_use_other_app" = "Másik alkalmazás használata";
 "school_mail_view_formatted" = "Formázott";

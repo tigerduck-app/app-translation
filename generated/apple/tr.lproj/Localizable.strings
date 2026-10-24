@@ -346,6 +346,7 @@
 "course_member_email" = "E-posta";
 "course_member_groups" = "Gruplar";
 "course_member_me" = "Ben";
+"course_member_picture_unreadable" = "Bu fotoğraf açılamadı. Başka bir fotoğraf seçin.";
 "course_member_profile_picture" = "Profil fotoğrafı";
 "course_members_auditors" = "Dinleyiciler";
 "course_members_students" = "Öğrenciler";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "Bu posta gönderilsin mi?";
 "school_mail_send_failed" = "Posta gönderilemedi";
 "school_mail_send_unconfirmed" = "Postanın gönderilip gönderilmediği doğrulanamadı; yeniden denemek iki kez teslim edilmesine yol açabilir";
+"school_mail_send_undone" = "Gönderme iptal edildi. Posta düzenleyiciye geri döndü.";
+"school_mail_sending_hold" = "Gönderiliyor…";
 "school_mail_sent_copy_failed" = "Posta gönderildi, ancak kopyası Gönderilmişe kaydedilemedi.";
 "school_mail_sent_copy_no_folder" = "Posta gönderildi, ancak kopyayı saklayacak bir Gönderilmiş klasörü yok.";
 "school_mail_sent_copy_not_saved" = "Posta gönderildi, ancak kopyası Gönderilmişe kaydedilmedi";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "Konu";
 "school_mail_to" = "Kime";
 "school_mail_too_large" = "Ekler 50 MB sınırını aşıyor";
+"school_mail_undo_send" = "Geri al";
 "school_mail_unread_only" = "Yalnızca okunmamışları göster";
 "school_mail_use_other_app" = "Başka bir uygulama kullan";
 "school_mail_view_formatted" = "Biçimli";

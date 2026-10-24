@@ -346,6 +346,7 @@
 "course_member_email" = "ಇಮೇಲ್";
 "course_member_groups" = "ಗುಂಪುಗಳು";
 "course_member_me" = "ನಾನು";
+"course_member_picture_unreadable" = "ಈ ಫೋಟೋವನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಬೇರೆ ಫೋಟೋ ಆಯ್ಕೆಮಾಡಿ.";
 "course_member_profile_picture" = "ಪ್ರೊಫೈಲ್ ಚಿತ್ರ";
 "course_members_auditors" = "ಆಡಿಟರ್‌ಗಳು";
 "course_members_students" = "ವಿದ್ಯಾರ್ಥಿಗಳು";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "ಈ ಇಮೇಲ್ ಕಳುಹಿಸಬೇಕೇ?";
 "school_mail_send_failed" = "ಇಮೇಲ್ ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ";
 "school_mail_send_unconfirmed" = "ಇಮೇಲ್ ಕಳುಹಿಸಲಾಗಿದೆಯೇ ಎಂದು ದೃಢಪಡಿಸಲಾಗಲಿಲ್ಲ; ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿದರೆ ಅದು ಎರಡು ಬಾರಿ ತಲುಪಬಹುದು";
+"school_mail_send_undone" = "ಕಳುಹಿಸುವಿಕೆಯನ್ನು ರದ್ದುಮಾಡಲಾಗಿದೆ. ಇಮೇಲ್ ಮತ್ತೆ ಎಡಿಟರ್‌ನಲ್ಲಿದೆ.";
+"school_mail_sending_hold" = "ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ…";
 "school_mail_sent_copy_failed" = "ಇಮೇಲ್ ಕಳುಹಿಸಲಾಗಿದೆ, ಆದರೆ ನಕಲನ್ನು ಕಳುಹಿಸಿದವುಗಳಲ್ಲಿ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.";
 "school_mail_sent_copy_no_folder" = "ಇಮೇಲ್ ಕಳುಹಿಸಲಾಗಿದೆ, ಆದರೆ ನಕಲನ್ನು ಇರಿಸಲು ಯಾವುದೇ ಕಳುಹಿಸಿದವು ಫೋಲ್ಡರ್ ಇಲ್ಲ.";
 "school_mail_sent_copy_not_saved" = "ಇಮೇಲ್ ಕಳುಹಿಸಲಾಗಿದೆ, ಆದರೆ ಅದರ ನಕಲನ್ನು ಕಳುಹಿಸಿದವುಗಳಲ್ಲಿ ಉಳಿಸಲಾಗಿಲ್ಲ";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "ವಿಷಯ";
 "school_mail_to" = "ಸ್ವೀಕರಿಸುವವರು";
 "school_mail_too_large" = "ಲಗತ್ತುಗಳು 50 MB ಮಿತಿಯನ್ನು ಮೀರಿವೆ";
+"school_mail_undo_send" = "ರದ್ದುಗೊಳಿಸಿ";
 "school_mail_unread_only" = "ಓದದಿರುವುದನ್ನು ಮಾತ್ರ ತೋರಿಸಿ";
 "school_mail_use_other_app" = "ಬೇರೆ ಆ್ಯಪ್ ಬಳಸಿ";
 "school_mail_view_formatted" = "ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಲಾಗಿದೆ";

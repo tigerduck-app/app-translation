@@ -346,6 +346,7 @@
 "course_member_email" = "ای میل";
 "course_member_groups" = "گروپس";
 "course_member_me" = "میں";
+"course_member_picture_unreadable" = "یہ تصویر نہیں کھولی جا سکی۔ کوئی اور تصویر منتخب کریں۔";
 "course_member_profile_picture" = "پروفائل تصویر";
 "course_members_auditors" = "آڈیٹر طلبہ";
 "course_members_students" = "طلبہ";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "کیا یہ ای میل بھیجیں؟";
 "school_mail_send_failed" = "ای میل بھیجی نہیں جا سکی";
 "school_mail_send_unconfirmed" = "تصدیق نہیں ہو سکی کہ ای میل بھیجی گئی یا نہیں؛ دوبارہ کوشش کرنے سے یہ دو بار پہنچ سکتی ہے";
+"school_mail_send_undone" = "بھیجنا منسوخ کر دیا گیا۔ ای میل واپس ایڈیٹر میں آ گئی ہے۔";
+"school_mail_sending_hold" = "بھیجی جا رہی ہے…";
 "school_mail_sent_copy_failed" = "ای میل بھیج دی گئی، لیکن کاپی بھیجی گئی میں محفوظ نہیں ہو سکی۔";
 "school_mail_sent_copy_no_folder" = "ای میل بھیج دی گئی، لیکن کاپی محفوظ کرنے کے لیے کوئی بھیجی گئی فولڈر نہیں ہے۔";
 "school_mail_sent_copy_not_saved" = "ای میل بھیج دی گئی، لیکن اس کی کاپی بھیجی گئی میں محفوظ نہیں ہوئی";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "موضوع";
 "school_mail_to" = "وصول کنندہ";
 "school_mail_too_large" = "منسلکات 50 MB کی حد سے تجاوز کر گئے ہیں";
+"school_mail_undo_send" = "واپس لیں";
 "school_mail_unread_only" = "صرف غیر پڑھی ہوئی دکھائیں";
 "school_mail_use_other_app" = "دوسری ایپ استعمال کریں";
 "school_mail_view_formatted" = "فارمیٹڈ";

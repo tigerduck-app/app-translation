@@ -346,6 +346,7 @@
 "course_member_email" = "אימייל";
 "course_member_groups" = "קבוצות";
 "course_member_me" = "אני";
+"course_member_picture_unreadable" = "לא ניתן היה לפתוח את התמונה הזו. יש לבחור תמונה אחרת.";
 "course_member_profile_picture" = "תמונת פרופיל";
 "course_members_auditors" = "שומעים חופשיים";
 "course_members_students" = "סטודנטים";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "לשלוח את ההודעה הזו?";
 "school_mail_send_failed" = "לא ניתן היה לשלוח את ההודעה";
 "school_mail_send_unconfirmed" = "לא ניתן לאשר שההודעה נשלחה; ניסיון חוזר עלול לשלוח אותה פעמיים";
+"school_mail_send_undone" = "השליחה בוטלה. ההודעה חזרה לעורך.";
+"school_mail_sending_hold" = "שולח…";
 "school_mail_sent_copy_failed" = "ההודעה נשלחה, אך לא ניתן היה לשמור את העותק בתיקיית נשלח.";
 "school_mail_sent_copy_no_folder" = "ההודעה נשלחה, אך אין תיקיית נשלח לשמירת עותק.";
 "school_mail_sent_copy_not_saved" = "ההודעה נשלחה, אך העותק לא נשמר בתיקיית נשלח";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "נושא";
 "school_mail_to" = "אל";
 "school_mail_too_large" = "הקבצים המצורפים חורגים מהמגבלה של 50MB";
+"school_mail_undo_send" = "ביטול";
 "school_mail_unread_only" = "הצג רק הודעות שלא נקראו";
 "school_mail_use_other_app" = "השתמש באפליקציה אחרת";
 "school_mail_view_formatted" = "מעוצב";

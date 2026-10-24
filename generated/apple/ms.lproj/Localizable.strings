@@ -346,6 +346,7 @@
 "course_member_email" = "E-mel";
 "course_member_groups" = "Kumpulan";
 "course_member_me" = "Saya";
+"course_member_picture_unreadable" = "Tidak dapat membuka foto ini. Pilih foto lain.";
 "course_member_profile_picture" = "Gambar profil";
 "course_members_auditors" = "Pelajar audit";
 "course_members_students" = "Pelajar";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "Hantar e-mel ini?";
 "school_mail_send_failed" = "Tidak dapat menghantar e-mel";
 "school_mail_send_unconfirmed" = "Tidak dapat mengesahkan sama ada e-mel telah dihantar; mencuba semula mungkin menghantarnya dua kali";
+"school_mail_send_undone" = "Penghantaran dibatalkan. E-mel kembali ke editor.";
+"school_mail_sending_hold" = "Menghantar…";
 "school_mail_sent_copy_failed" = "E-mel telah dihantar, tetapi salinan tidak dapat disimpan ke Dihantar.";
 "school_mail_sent_copy_no_folder" = "E-mel telah dihantar, tetapi tiada folder Dihantar untuk menyimpan salinan.";
 "school_mail_sent_copy_not_saved" = "E-mel telah dihantar, tetapi salinan tidak disimpan ke Dihantar";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "Subjek";
 "school_mail_to" = "Kepada";
 "school_mail_too_large" = "Lampiran melebihi had 50 MB";
+"school_mail_undo_send" = "Buat asal";
 "school_mail_unread_only" = "Papar yang belum dibaca sahaja";
 "school_mail_use_other_app" = "Guna aplikasi lain";
 "school_mail_view_formatted" = "Diformat";
