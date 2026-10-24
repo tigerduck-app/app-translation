@@ -58,6 +58,7 @@
     "add_course_title": "Legg til fag",
     "app_name": "TigerDuck",
     "app_non_taipei_timezone_hint": "Du er for øyeblikket utenfor Taiwans tidssone. Denne appen bruker taiwansk tid automatisk.\nDobbeltsjekk datoer og tider. God reise!",
+    "app_processing_keep_open": "Behandler…\nIkke lukk appen.",
     "app_reset_required_action": "Tilbakestill",
     "app_reset_required_message": "Påloggingstilstanden og preferansene dine kan ikke lenger leses, muligens på grunn av en OS-oppgradering, sikkerhetskopigjenoppretting eller lagringsproblem.\n\nTrykk «Tilbakestill» for å fjerne gamle data, logg deretter inn og konfigurer preferansene dine på nytt.",
     "app_reset_required_title": "Tilbakestilling nødvendig",

@@ -58,6 +58,7 @@
     "add_course_title": "Bæta við námskeiði",
     "app_name": "TigerDuck",
     "app_non_taipei_timezone_hint": "Þú ert núna utan tímabeltis Taívan. Þetta forrit notar tímasvæði Taívan sjálfkrafa.\nAthugaðu dagsetningar og tíma. Góða ferð!",
+    "app_processing_keep_open": "Vinnur…\nEkki loka forritinu.",
     "app_reset_required_action": "Endurstilla",
     "app_reset_required_message": "Innskráningarstaðan þín og kjörstillingar er ekki hægt að lesa lengur, hugsanlega vegna uppfærslu á stýrikerfi, endurheimtar öryggisafrits eða geymsluvillu.\n\nÝttu á \"Endurstilla\" til að hreinsa gömul gögn, skráðu þig síðan inn og stilltu kjörstillingar aftur.",
     "app_reset_required_title": "Endurstilling nauðsynleg",

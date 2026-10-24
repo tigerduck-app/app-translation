@@ -57,6 +57,7 @@
 "add_course_title" = "Tilføj kursus";
 "app_name" = "TigerDuck";
 "app_non_taipei_timezone_hint" = "Du befinder dig i øjeblikket uden for Taiwans tidszone. Denne app bruger automatisk Taiwans tidszone.\nTjek venligst datoer og tidspunkter. God rejse!";
+"app_processing_keep_open" = "Behandler…\nLuk ikke appen.";
 "app_reset_required_action" = "Nulstil";
 "app_reset_required_message" = "Din login-tilstand og præferencer kan ikke længere læses, muligvis på grund af en OS-opgradering, sikkerhedskopigendannelse eller et lagringsproblem.\n\nTryk på \"Nulstil\" for at rydde gamle data, og log derefter ind og rekonfigurer dine præferencer.";
 "app_reset_required_title" = "Nulstilling påkrævet";

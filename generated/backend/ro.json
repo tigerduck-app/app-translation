@@ -57,6 +57,7 @@
   "add_course_title": "Adaugă curs",
   "app_name": "TigerDuck",
   "app_non_taipei_timezone_hint": "Ești în afara fusului orar al Taiwanului. Această aplicație folosește automat fusul orar al Taiwanului.\nVerifică de două ori datele și orele. Călătorie plăcută!",
+  "app_processing_keep_open": "Se procesează…\nNu închide aplicația.",
   "app_reset_required_action": "Resetare",
   "app_reset_required_message": "Starea de autentificare și preferințele tale nu mai pot fi citite, posibil din cauza unei actualizări de SO, restaurări din backup sau probleme de stocare.\n\nApasă „Resetare“ pentru a șterge datele vechi, apoi autentifică-te și reconfigurează preferințele.",
   "app_reset_required_title": "Resetare necesară",

@@ -57,6 +57,7 @@
 "add_course_title" = "Adicionar disciplina";
 "app_name" = "TigerDuck";
 "app_non_taipei_timezone_hint" = "Você está atualmente fora do horário de Taiwan. Este app está usando o horário de Taiwan automaticamente.\nVerifique as datas e horários com cuidado. Boa viagem!";
+"app_processing_keep_open" = "Processando…\nNão feche o app.";
 "app_reset_required_action" = "Redefinir";
 "app_reset_required_message" = "Seu estado de login e suas preferências não podem mais ser lidos, possivelmente devido a uma atualização do sistema, restauração de backup ou problema de armazenamento.\n\nToque em \"Redefinir\" para limpar os dados antigos, depois entre novamente e reconfigure suas preferências.";
 "app_reset_required_title" = "Redefinição necessária";
