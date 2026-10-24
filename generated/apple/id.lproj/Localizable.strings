@@ -956,6 +956,14 @@
 "settings_classroom_mandarin_display_translated" = "Tampilkan terjemahan";
 "settings_color_theme" = "Tema warna";
 "settings_delete_account" = "Hapus akun";
+"settings_display_size_app_footer" = "Mengubah ukuran aplikasi di atas ukuran tampilan dan font ponsel Anda.";
+"settings_display_size_app_section" = "Di aplikasi";
+"settings_display_size_preview_footer" = "Aplikasi beralih ke ukuran baru saat Anda melepas penggeser.";
+"settings_display_size_text" = "Ukuran teks";
+"settings_display_size_title" = "Ukuran tampilan dan teks";
+"settings_display_size_ui" = "Ukuran tampilan";
+"settings_display_size_widget_footer" = "Layar utama menentukan seberapa besar setiap widget. Ukuran ini mengubah apa yang ditampilkan di dalamnya.";
+"settings_display_size_widget_section" = "Widget";
 "settings_feedback_bug_report" = "Umpan balik / Laporkan masalah";
 "settings_flip_to_library_summary" = "Balik ponsel dengan layar menghadap bawah untuk membuka QR perpustakaan.";
 "settings_flip_to_library_title" = "Balik untuk menampilkan QR perpustakaan";

@@ -956,6 +956,14 @@
 "settings_classroom_mandarin_display_translated" = "Показати переклад";
 "settings_color_theme" = "Кольорова тема";
 "settings_delete_account" = "Видалення облікового запису";
+"settings_display_size_app_footer" = "Змінює розміри в застосунку додатково до масштабу екрана й розміру шрифту на телефоні.";
+"settings_display_size_app_section" = "У застосунку";
+"settings_display_size_preview_footer" = "Застосунок перейде на новий розмір, коли ви відпустите повзунок.";
+"settings_display_size_text" = "Розмір тексту";
+"settings_display_size_title" = "Розмір інтерфейсу й тексту";
+"settings_display_size_ui" = "Розмір інтерфейсу";
+"settings_display_size_widget_footer" = "Розмір кожного віджета визначає головний екран. Ці налаштування змінюють те, що показано всередині нього.";
+"settings_display_size_widget_section" = "Віджети";
 "settings_feedback_bug_report" = "Відгук / Повідомити про проблему";
 "settings_flip_to_library_summary" = "Переверніть телефон екраном донизу, щоб відкрити QR бібліотеки.";
 "settings_flip_to_library_title" = "Перевернути для показу QR бібліотеки";
