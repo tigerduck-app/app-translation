@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">Korostusväri</string>
     <string name="settings_accent_gradient_custom">Mukautettu liukuväri</string>
     <string name="settings_accent_gradient_direction">Liukuvärin suunta</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Alavasemmalta yläoikealle</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Alaoikealta ylävasemmalle</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Alhaalta ylös</string>
     <string name="settings_accent_gradient_direction_left_to_right">Vasemmalta oikealle</string>
     <string name="settings_accent_gradient_direction_right_to_left">Oikealta vasemmalle</string>

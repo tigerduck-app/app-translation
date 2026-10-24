@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">Rõhuvärv</string>
     <string name="settings_accent_gradient_custom">Kohandatud üleminek</string>
     <string name="settings_accent_gradient_direction">Ülemineku suund</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Alt vasakult üles paremale</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Alt paremalt üles vasakule</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Alt üles</string>
     <string name="settings_accent_gradient_direction_left_to_right">Vasakult paremale</string>
     <string name="settings_accent_gradient_direction_right_to_left">Paremalt vasakule</string>

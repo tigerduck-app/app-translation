@@ -897,6 +897,8 @@
     "settings_accent_color": "Naglasna boja",
     "settings_accent_gradient_custom": "Prilagođeni prijelaz",
     "settings_accent_gradient_direction": "Smjer prijelaza",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Od dolje lijevo prema gore desno",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Od dolje desno prema gore lijevo",
     "settings_accent_gradient_direction_bottom_to_top": "Odozdo prema gore",
     "settings_accent_gradient_direction_left_to_right": "Slijeva nadesno",
     "settings_accent_gradient_direction_right_to_left": "Zdesna nalijevo",

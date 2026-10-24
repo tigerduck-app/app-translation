@@ -897,6 +897,8 @@
     "settings_accent_color": "主題色",
     "settings_accent_gradient_custom": "自訂漸變色",
     "settings_accent_gradient_direction": "漸變方向",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "由左下至右上",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "由右下至左上",
     "settings_accent_gradient_direction_bottom_to_top": "由下至上",
     "settings_accent_gradient_direction_left_to_right": "由左至右",
     "settings_accent_gradient_direction_right_to_left": "由右至左",

@@ -925,6 +925,8 @@
 "settings_accent_color" = "Màu nhấn";
 "settings_accent_gradient_custom" = "Chuyển màu tùy chỉnh";
 "settings_accent_gradient_direction" = "Hướng chuyển màu";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "Từ dưới trái lên trên phải";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "Từ dưới phải lên trên trái";
 "settings_accent_gradient_direction_bottom_to_top" = "Từ dưới lên trên";
 "settings_accent_gradient_direction_left_to_right" = "Từ trái sang phải";
 "settings_accent_gradient_direction_right_to_left" = "Từ phải sang trái";

@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">Екпін түсі</string>
     <string name="settings_accent_gradient_custom">Жеке градиент</string>
     <string name="settings_accent_gradient_direction">Градиент бағыты</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Төменгі сол жақтан жоғарғы оң жаққа</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Төменгі оң жақтан жоғарғы сол жаққа</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Төменнен жоғары</string>
     <string name="settings_accent_gradient_direction_left_to_right">Солдан оңға</string>
     <string name="settings_accent_gradient_direction_right_to_left">Оңнан солға</string>

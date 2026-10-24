@@ -897,6 +897,8 @@
     "settings_accent_color": "Accentfärg",
     "settings_accent_gradient_custom": "Anpassad toning",
     "settings_accent_gradient_direction": "Toningsriktning",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Från nedre vänstra till övre högra hörnet",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Från nedre högra till övre vänstra hörnet",
     "settings_accent_gradient_direction_bottom_to_top": "Nerifrån och upp",
     "settings_accent_gradient_direction_left_to_right": "Från vänster till höger",
     "settings_accent_gradient_direction_right_to_left": "Från höger till vänster",

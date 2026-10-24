@@ -900,6 +900,8 @@
   "settings_accent_color": "主题色",
   "settings_accent_gradient_custom": "自定义渐变色",
   "settings_accent_gradient_direction": "渐变方向",
+  "settings_accent_gradient_direction_bottom_left_to_top_right": "从左下到右上",
+  "settings_accent_gradient_direction_bottom_right_to_top_left": "从右下到左上",
   "settings_accent_gradient_direction_bottom_to_top": "从下到上",
   "settings_accent_gradient_direction_left_to_right": "从左到右",
   "settings_accent_gradient_direction_right_to_left": "从右到左",

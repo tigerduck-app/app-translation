@@ -900,6 +900,8 @@
   "settings_accent_color": "Color de acento",
   "settings_accent_gradient_custom": "Degradado personalizado",
   "settings_accent_gradient_direction": "Dirección del degradado",
+  "settings_accent_gradient_direction_bottom_left_to_top_right": "De abajo a la izquierda a arriba a la derecha",
+  "settings_accent_gradient_direction_bottom_right_to_top_left": "De abajo a la derecha a arriba a la izquierda",
   "settings_accent_gradient_direction_bottom_to_top": "De abajo arriba",
   "settings_accent_gradient_direction_left_to_right": "De izquierda a derecha",
   "settings_accent_gradient_direction_right_to_left": "De derecha a izquierda",

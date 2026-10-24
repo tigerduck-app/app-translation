@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">Accent na kulay</string>
     <string name="settings_accent_gradient_custom">Pasadyang gradient</string>
     <string name="settings_accent_gradient_direction">Direksyon ng gradient</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Mula ibaba-kaliwa pataas-kanan</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Mula ibaba-kanan pataas-kaliwa</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Mula ibaba pataas</string>
     <string name="settings_accent_gradient_direction_left_to_right">Mula kaliwa pakanan</string>
     <string name="settings_accent_gradient_direction_right_to_left">Mula kanan pakaliwa</string>

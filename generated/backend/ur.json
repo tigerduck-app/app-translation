@@ -900,6 +900,8 @@
   "settings_accent_color": "ایکسنٹ رنگ",
   "settings_accent_gradient_custom": "کسٹم گریڈیئنٹ",
   "settings_accent_gradient_direction": "گریڈیئنٹ کی سمت",
+  "settings_accent_gradient_direction_bottom_left_to_top_right": "نیچے بائیں سے اوپر دائیں",
+  "settings_accent_gradient_direction_bottom_right_to_top_left": "نیچے دائیں سے اوپر بائیں",
   "settings_accent_gradient_direction_bottom_to_top": "نیچے سے اوپر",
   "settings_accent_gradient_direction_left_to_right": "بائیں سے دائیں",
   "settings_accent_gradient_direction_right_to_left": "دائیں سے بائیں",

@@ -897,6 +897,8 @@
     "settings_accent_color": "Warna aksen",
     "settings_accent_gradient_custom": "Gradien kustom",
     "settings_accent_gradient_direction": "Arah gradien",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Dari kiri bawah ke kanan atas",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Dari kanan bawah ke kiri atas",
     "settings_accent_gradient_direction_bottom_to_top": "Dari bawah ke atas",
     "settings_accent_gradient_direction_left_to_right": "Dari kiri ke kanan",
     "settings_accent_gradient_direction_right_to_left": "Dari kanan ke kiri",

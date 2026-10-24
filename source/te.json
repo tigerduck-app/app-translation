@@ -897,6 +897,8 @@
     "settings_accent_color": "యాక్సెంట్ రంగు",
     "settings_accent_gradient_custom": "అనుకూల గ్రేడియంట్",
     "settings_accent_gradient_direction": "గ్రేడియంట్ దిశ",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "కింది ఎడమ నుండి పై కుడికి",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "కింది కుడి నుండి పై ఎడమకు",
     "settings_accent_gradient_direction_bottom_to_top": "కింది నుండి పైకి",
     "settings_accent_gradient_direction_left_to_right": "ఎడమ నుండి కుడికి",
     "settings_accent_gradient_direction_right_to_left": "కుడి నుండి ఎడమకు",

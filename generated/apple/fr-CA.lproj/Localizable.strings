@@ -925,6 +925,8 @@
 "settings_accent_color" = "Couleur d'accentuation";
 "settings_accent_gradient_custom" = "Dégradé personnalisé";
 "settings_accent_gradient_direction" = "Sens du dégradé";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "Du coin inférieur gauche au coin supérieur droit";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "Du coin inférieur droit au coin supérieur gauche";
 "settings_accent_gradient_direction_bottom_to_top" = "De bas en haut";
 "settings_accent_gradient_direction_left_to_right" = "De gauche à droite";
 "settings_accent_gradient_direction_right_to_left" = "De droite à gauche";

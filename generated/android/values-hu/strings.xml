@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">Kiemelő szín</string>
     <string name="settings_accent_gradient_custom">Egyéni színátmenet</string>
     <string name="settings_accent_gradient_direction">Színátmenet iránya</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Bal alsótól jobb felsőig</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Jobb alsótól bal felsőig</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Lentről felfelé</string>
     <string name="settings_accent_gradient_direction_left_to_right">Balról jobbra</string>
     <string name="settings_accent_gradient_direction_right_to_left">Jobbról balra</string>

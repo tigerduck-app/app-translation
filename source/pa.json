@@ -897,6 +897,8 @@
     "settings_accent_color": "ਐਕਸੈਂਟ ਰੰਗ",
     "settings_accent_gradient_custom": "ਕਸਟਮ ਗ੍ਰੇਡੀਐਂਟ",
     "settings_accent_gradient_direction": "ਗ੍ਰੇਡੀਐਂਟ ਦੀ ਦਿਸ਼ਾ",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "ਹੇਠਾਂ ਖੱਬੇ ਤੋਂ ਉੱਪਰ ਸੱਜੇ",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "ਹੇਠਾਂ ਸੱਜੇ ਤੋਂ ਉੱਪਰ ਖੱਬੇ",
     "settings_accent_gradient_direction_bottom_to_top": "ਹੇਠਾਂ ਤੋਂ ਉੱਪਰ",
     "settings_accent_gradient_direction_left_to_right": "ਖੱਬੇ ਤੋਂ ਸੱਜੇ",
     "settings_accent_gradient_direction_right_to_left": "ਸੱਜੇ ਤੋਂ ਖੱਬੇ",

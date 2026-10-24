@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">Áherslulitir</string>
     <string name="settings_accent_gradient_custom">Sérsniðinn litastigull</string>
     <string name="settings_accent_gradient_direction">Stefna litastiguls</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Frá neðra vinstra horni í efra hægra</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Frá neðra hægra horni í efra vinstra</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Neðan frá og upp</string>
     <string name="settings_accent_gradient_direction_left_to_right">Frá vinstri til hægri</string>
     <string name="settings_accent_gradient_direction_right_to_left">Frá hægri til vinstri</string>

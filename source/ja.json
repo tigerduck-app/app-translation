@@ -897,6 +897,8 @@
     "settings_accent_color": "アクセントカラー",
     "settings_accent_gradient_custom": "カスタムグラデーション",
     "settings_accent_gradient_direction": "グラデーションの方向",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "左下から右上",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "右下から左上",
     "settings_accent_gradient_direction_bottom_to_top": "下から上",
     "settings_accent_gradient_direction_left_to_right": "左から右",
     "settings_accent_gradient_direction_right_to_left": "右から左",

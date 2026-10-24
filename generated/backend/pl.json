@@ -900,6 +900,8 @@
   "settings_accent_color": "Kolor akcentu",
   "settings_accent_gradient_custom": "Gradient niestandardowy",
   "settings_accent_gradient_direction": "Kierunek gradientu",
+  "settings_accent_gradient_direction_bottom_left_to_top_right": "Od lewego dolnego do prawego górnego rogu",
+  "settings_accent_gradient_direction_bottom_right_to_top_left": "Od prawego dolnego do lewego górnego rogu",
   "settings_accent_gradient_direction_bottom_to_top": "Od dołu do góry",
   "settings_accent_gradient_direction_left_to_right": "Od lewej do prawej",
   "settings_accent_gradient_direction_right_to_left": "Od prawej do lewej",

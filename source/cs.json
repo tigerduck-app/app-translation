@@ -897,6 +897,8 @@
     "settings_accent_color": "Akcentová barva",
     "settings_accent_gradient_custom": "Vlastní přechod",
     "settings_accent_gradient_direction": "Směr přechodu",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Zleva zdola doprava nahoru",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Zprava zdola doleva nahoru",
     "settings_accent_gradient_direction_bottom_to_top": "Zdola nahoru",
     "settings_accent_gradient_direction_left_to_right": "Zleva doprava",
     "settings_accent_gradient_direction_right_to_left": "Zprava doleva",

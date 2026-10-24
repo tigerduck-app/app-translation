@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">முக்கிய நிறம்</string>
     <string name="settings_accent_gradient_custom">தனிப்பயன் கிரேடியன்ட்</string>
     <string name="settings_accent_gradient_direction">கிரேடியன்ட் திசை</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">கீழ் இடமிருந்து மேல் வலமாக</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">கீழ் வலமிருந்து மேல் இடமாக</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">கீழிருந்து மேலே</string>
     <string name="settings_accent_gradient_direction_left_to_right">இடமிருந்து வலமாக</string>
     <string name="settings_accent_gradient_direction_right_to_left">வலமிருந்து இடமாக</string>

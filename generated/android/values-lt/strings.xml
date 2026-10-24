@@ -1028,6 +1028,8 @@
     <string name="settings_accent_color">Akcentinė spalva</string>
     <string name="settings_accent_gradient_custom">Tinkintas gradientas</string>
     <string name="settings_accent_gradient_direction">Gradiento kryptis</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Iš apatinio kairiojo į viršutinį dešinįjį kampą</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Iš apatinio dešiniojo į viršutinį kairįjį kampą</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Iš apačios į viršų</string>
     <string name="settings_accent_gradient_direction_left_to_right">Iš kairės į dešinę</string>
     <string name="settings_accent_gradient_direction_right_to_left">Iš dešinės į kairę</string>

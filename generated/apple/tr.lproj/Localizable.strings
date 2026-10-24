@@ -925,6 +925,8 @@
 "settings_accent_color" = "Vurgu rengi";
 "settings_accent_gradient_custom" = "Özel renk geçişi";
 "settings_accent_gradient_direction" = "Renk geçişi yönü";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "Sol alttan sağ üste";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "Sağ alttan sol üste";
 "settings_accent_gradient_direction_bottom_to_top" = "Aşağıdan yukarıya";
 "settings_accent_gradient_direction_left_to_right" = "Soldan sağa";
 "settings_accent_gradient_direction_right_to_left" = "Sağdan sola";
