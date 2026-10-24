@@ -775,6 +775,7 @@
 "school_mail_guide_mail2000_link" = "Obține @Mail2000 din App Store";
 "school_mail_guide_mail2000_title" = "Aplicația @Mail2000";
 "school_mail_guide_open_in_browser" = "Deschide în browser";
+"school_mail_held_attachments_missing" = "Aceste atașamente nu au putut fi păstrate și nu mai sunt în e-mail: %1$@. Atașează-le din nou înainte de trimitere.";
 "school_mail_invalid_recipients" = "Verifică aceste adrese: %1$@";
 "school_mail_keep_editing" = "Continuă editarea";
 "school_mail_leave_title" = "Salvezi acest e-mail ca ciornă?";

@@ -751,6 +751,7 @@
   "school_mail_forwarded_header": "---------- آگے بھیجا گیا پیغام ----------",
   "school_mail_guide_load_failed": "گائیڈ لوڈ نہیں ہو سکی",
   "school_mail_guide_open_in_browser": "براؤزر میں کھولیں",
+  "school_mail_held_attachments_missing": "یہ منسلکات رکھے نہیں جا سکے اور اب ای میل میں نہیں ہیں: %1$@۔ بھیجنے سے پہلے انہیں دوبارہ منسلک کریں۔",
   "school_mail_invalid_recipients": "یہ پتے چیک کریں: %1$@",
   "school_mail_keep_editing": "ترمیم جاری رکھیں",
   "school_mail_leave_title": "کیا یہ ای میل بطور مسودہ محفوظ کریں؟",

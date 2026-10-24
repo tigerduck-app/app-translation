@@ -748,6 +748,7 @@
     "school_mail_forwarded_header": "---------- Препратено съобщение ----------",
     "school_mail_guide_load_failed": "Ръководството не можа да се зареди",
     "school_mail_guide_open_in_browser": "Отваряне в браузър",
+    "school_mail_held_attachments_missing": "Тези прикачени файлове не можаха да бъдат запазени и вече не са в имейла: %1$@. Прикачете ги отново преди изпращане.",
     "school_mail_invalid_recipients": "Проверете тези адреси: %1$@",
     "school_mail_keep_editing": "Продължи редактирането",
     "school_mail_leave_title": "Да запазя ли този имейл като чернова?",

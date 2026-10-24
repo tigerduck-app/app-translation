@@ -751,6 +751,7 @@
   "school_mail_forwarded_header": "---------- Välitetty viesti ----------",
   "school_mail_guide_load_failed": "Ohjetta ei voitu ladata",
   "school_mail_guide_open_in_browser": "Avaa selaimessa",
+  "school_mail_held_attachments_missing": "Näitä liitteitä ei voitu säilyttää, eivätkä ne ole enää viestissä: %1$@. Liitä ne uudelleen ennen lähettämistä.",
   "school_mail_invalid_recipients": "Tarkista nämä osoitteet: %1$@",
   "school_mail_keep_editing": "Jatka muokkaamista",
   "school_mail_leave_title": "Tallennetaanko tämä viesti luonnokseksi?",
