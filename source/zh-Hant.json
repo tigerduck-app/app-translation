@@ -813,7 +813,7 @@
     "school_mail_subject": "主旨",
     "school_mail_to": "收件者",
     "school_mail_too_large": "附件超過 50 MB 上限",
-    "school_mail_undo_send": "復原",
+    "school_mail_undo_send": "取消",
     "school_mail_unread_only": "只看未讀",
     "school_mail_use_other_app": "用其他 App 收信",
     "school_mail_view_formatted": "格式化",
