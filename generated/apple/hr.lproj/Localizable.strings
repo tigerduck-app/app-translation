@@ -346,6 +346,7 @@
 "course_member_email" = "E-pošta";
 "course_member_groups" = "Grupe";
 "course_member_me" = "Ja";
+"course_member_picture_unreadable" = "Ovu fotografiju nije moguće otvoriti. Odaberite drugu.";
 "course_member_profile_picture" = "Profilna slika";
 "course_members_auditors" = "Slušači";
 "course_members_students" = "Studenti";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "Poslati ovu poruku?";
 "school_mail_send_failed" = "Poruku nije moguće poslati";
 "school_mail_send_unconfirmed" = "Nije moguće potvrditi je li poruka poslana; ponovni pokušaj mogao bi je dostaviti dvaput";
+"school_mail_send_undone" = "Slanje je otkazano. Poruka je ponovno u uređivaču.";
+"school_mail_sending_hold" = "Slanje…";
 "school_mail_sent_copy_failed" = "Poruka je poslana, ali kopiju nije bilo moguće spremiti u mapu Poslano.";
 "school_mail_sent_copy_no_folder" = "Poruka je poslana, ali ne postoji mapa Poslano u koju bi se spremila kopija.";
 "school_mail_sent_copy_not_saved" = "Poruka je poslana, ali kopija nije spremljena u mapu Poslano";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "Predmet";
 "school_mail_to" = "Prima";
 "school_mail_too_large" = "Privici prelaze ograničenje od 50 MB";
+"school_mail_undo_send" = "Poništi";
 "school_mail_unread_only" = "Prikaži samo nepročitano";
 "school_mail_use_other_app" = "Koristi drugu aplikaciju";
 "school_mail_view_formatted" = "Formatirano";

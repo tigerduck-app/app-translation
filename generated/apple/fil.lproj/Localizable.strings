@@ -346,6 +346,7 @@
 "course_member_email" = "Email";
 "course_member_groups" = "Mga grupo";
 "course_member_me" = "Ako";
+"course_member_picture_unreadable" = "Hindi mabuksan ang larawang ito. Pumili ng iba.";
 "course_member_profile_picture" = "Larawan sa profile";
 "course_members_auditors" = "Mga auditor";
 "course_members_students" = "Mga estudyante";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "Ipadala ang mail na ito?";
 "school_mail_send_failed" = "Hindi maipadala ang mail";
 "school_mail_send_unconfirmed" = "Hindi makumpirma kung naipadala ang mail; kapag inulit, maaaring dalawang beses itong matanggap";
+"school_mail_send_undone" = "Kinansela ang pagpapadala. Nasa editor na ulit ang mail.";
+"school_mail_sending_hold" = "Ipinapadala…";
 "school_mail_sent_copy_failed" = "Naipadala ang mail, pero hindi na-save ang kopya sa Naipadala.";
 "school_mail_sent_copy_no_folder" = "Naipadala ang mail, pero walang folder na Naipadala na mapaglalagyan ng kopya.";
 "school_mail_sent_copy_not_saved" = "Naipadala ang mail, pero hindi na-save ang kopya sa Naipadala";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "Paksa";
 "school_mail_to" = "Kay";
 "school_mail_too_large" = "Lumagpas sa 50 MB limit ang mga attachment";
+"school_mail_undo_send" = "I-undo";
 "school_mail_unread_only" = "Ipakita lang ang hindi pa nababasa";
 "school_mail_use_other_app" = "Gumamit ng ibang app";
 "school_mail_view_formatted" = "Naka-format";

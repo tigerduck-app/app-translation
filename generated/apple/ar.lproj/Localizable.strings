@@ -346,6 +346,7 @@
 "course_member_email" = "البريد الإلكتروني";
 "course_member_groups" = "المجموعات";
 "course_member_me" = "أنا";
+"course_member_picture_unreadable" = "تعذّر فتح هذه الصورة. اختر صورة أخرى.";
 "course_member_profile_picture" = "صورة الملف الشخصي";
 "course_members_auditors" = "المستمعون";
 "course_members_students" = "الطلاب";
@@ -816,6 +817,8 @@
 "school_mail_send_confirm_title" = "هل تريد إرسال هذه الرسالة؟";
 "school_mail_send_failed" = "تعذّر إرسال الرسالة";
 "school_mail_send_unconfirmed" = "تعذّر التأكد من إرسال الرسالة؛ قد تؤدي إعادة المحاولة إلى وصولها مرتين";
+"school_mail_send_undone" = "تم إلغاء الإرسال. عادت الرسالة إلى المحرر.";
+"school_mail_sending_hold" = "جارٍ الإرسال…";
 "school_mail_sent_copy_failed" = "تم إرسال الرسالة، لكن تعذّر حفظ النسخة في البريد المرسل.";
 "school_mail_sent_copy_no_folder" = "تم إرسال الرسالة، لكن لا يوجد مجلد البريد المرسل لحفظ نسخة فيه.";
 "school_mail_sent_copy_not_saved" = "تم إرسال الرسالة، لكن لم يتم حفظ نسخة في البريد المرسل";
@@ -838,6 +841,7 @@
 "school_mail_subject" = "الموضوع";
 "school_mail_to" = "إلى";
 "school_mail_too_large" = "المرفقات تتجاوز الحد الأقصى البالغ 50 ميغابايت";
+"school_mail_undo_send" = "تراجع";
 "school_mail_unread_only" = "إظهار غير المقروءة فقط";
 "school_mail_use_other_app" = "استخدام تطبيق آخر";
 "school_mail_view_formatted" = "منسّق";
