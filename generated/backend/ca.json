@@ -211,6 +211,7 @@
   "class_table_import_course_count": "Cursos",
   "class_table_import_enter_link": "Introdueix l'enllaç",
   "class_table_import_failed": "No s'ha pogut importar l'horari",
+  "class_table_import_flashlight": "Llanterna",
   "class_table_import_invalid_message": "El codi per compartir està malmès o s'ha modificat.",
   "class_table_import_link_placeholder": "Enllaç per compartir",
   "class_table_import_lookup_failed": "No s'han pogut carregar els detalls dels cursos",

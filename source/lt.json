@@ -212,6 +212,7 @@
     "class_table_import_course_count": "Kursai",
     "class_table_import_enter_link": "Įvesti nuorodą",
     "class_table_import_failed": "Nepavyko importuoti tvarkaraščio",
+    "class_table_import_flashlight": "Žibintuvėlis",
     "class_table_import_invalid_message": "Bendrinimo kodas sugadintas arba pakeistas.",
     "class_table_import_link_placeholder": "Bendrinimo nuoroda",
     "class_table_import_lookup_failed": "Nepavyko įkelti kursų informacijos",

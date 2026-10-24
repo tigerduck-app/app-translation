@@ -212,6 +212,7 @@
     "class_table_import_course_count": "Kurser",
     "class_table_import_enter_link": "Ange länk",
     "class_table_import_failed": "Det gick inte att importera schemat",
+    "class_table_import_flashlight": "Ficklampa",
     "class_table_import_invalid_message": "Delningskoden är skadad eller har ändrats.",
     "class_table_import_link_placeholder": "Delningslänk",
     "class_table_import_lookup_failed": "Det gick inte att läsa in kursinformationen",

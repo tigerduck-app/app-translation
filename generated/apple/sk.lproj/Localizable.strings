@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "Kurzy";
 "class_table_import_enter_link" = "Zadať odkaz";
 "class_table_import_failed" = "Rozvrh sa nepodarilo importovať";
+"class_table_import_flashlight" = "Baterka";
 "class_table_import_invalid_message" = "Kód na zdieľanie je poškodený alebo bol zmenený.";
 "class_table_import_link_placeholder" = "Odkaz na zdieľanie";
 "class_table_import_lookup_failed" = "Podrobnosti o kurzoch sa nepodarilo načítať";

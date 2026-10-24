@@ -212,6 +212,7 @@
     "class_table_import_course_count": "Kurzy",
     "class_table_import_enter_link": "Zadat odkaz",
     "class_table_import_failed": "Rozvrh se nepodařilo importovat",
+    "class_table_import_flashlight": "Svítilna",
     "class_table_import_invalid_message": "Kód pro sdílení je poškozený nebo byl změněn.",
     "class_table_import_link_placeholder": "Odkaz ke sdílení",
     "class_table_import_lookup_failed": "Podrobnosti kurzů se nepodařilo načíst",

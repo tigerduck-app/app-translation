@@ -212,6 +212,7 @@
     "class_table_import_course_count": "授業数",
     "class_table_import_enter_link": "リンクを入力",
     "class_table_import_failed": "時間割を読み込めませんでした",
+    "class_table_import_flashlight": "フラッシュライト",
     "class_table_import_invalid_message": "共有コードが破損しているか、変更されています。",
     "class_table_import_link_placeholder": "共有リンク",
     "class_table_import_lookup_failed": "授業の詳細を取得できませんでした",

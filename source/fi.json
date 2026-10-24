@@ -212,6 +212,7 @@
     "class_table_import_course_count": "Kurssit",
     "class_table_import_enter_link": "Anna linkki",
     "class_table_import_failed": "Lukujärjestyksen tuonti epäonnistui",
+    "class_table_import_flashlight": "Taskulamppu",
     "class_table_import_invalid_message": "Jakokoodi on vioittunut tai sitä on muutettu.",
     "class_table_import_link_placeholder": "Jakolinkki",
     "class_table_import_lookup_failed": "Kurssitietoja ei voitu ladata",

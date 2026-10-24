@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "จำนวนรายวิชา";
 "class_table_import_enter_link" = "ป้อนลิงก์";
 "class_table_import_failed" = "ไม่สามารถนำเข้าตารางเรียนได้";
+"class_table_import_flashlight" = "ไฟฉาย";
 "class_table_import_invalid_message" = "รหัสแชร์เสียหายหรือถูกแก้ไข";
 "class_table_import_link_placeholder" = "ลิงก์แชร์";
 "class_table_import_lookup_failed" = "ไม่สามารถโหลดรายละเอียดรายวิชาได้";

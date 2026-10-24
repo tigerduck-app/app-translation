@@ -211,6 +211,7 @@
   "class_table_import_course_count": "Kurse",
   "class_table_import_enter_link": "Link eingeben",
   "class_table_import_failed": "Stundenplan konnte nicht importiert werden",
+  "class_table_import_flashlight": "Taschenlampe",
   "class_table_import_invalid_message": "Der Freigabecode ist beschädigt oder wurde verändert.",
   "class_table_import_link_placeholder": "Freigabelink",
   "class_table_import_lookup_failed": "Kursdetails konnten nicht geladen werden",

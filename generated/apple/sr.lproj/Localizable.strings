@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "Курсеви";
 "class_table_import_enter_link" = "Унеси везу";
 "class_table_import_failed" = "Није могуће увести распоред";
+"class_table_import_flashlight" = "Батеријска лампа";
 "class_table_import_invalid_message" = "Код за дељење је оштећен или измењен.";
 "class_table_import_link_placeholder" = "Веза за дељење";
 "class_table_import_lookup_failed" = "Није могуће учитати детаље курсева";

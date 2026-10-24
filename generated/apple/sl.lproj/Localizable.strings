@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "Predmeti";
 "class_table_import_enter_link" = "Vnesi povezavo";
 "class_table_import_failed" = "Urnika ni bilo mogoče uvoziti";
+"class_table_import_flashlight" = "Svetilka";
 "class_table_import_invalid_message" = "Koda za deljenje je poškodovana ali spremenjena.";
 "class_table_import_link_placeholder" = "Povezava za deljenje";
 "class_table_import_lookup_failed" = "Podrobnosti o predmetih ni bilo mogoče naložiti";

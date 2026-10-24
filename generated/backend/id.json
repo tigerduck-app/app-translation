@@ -211,6 +211,7 @@
   "class_table_import_course_count": "Jumlah mata kuliah",
   "class_table_import_enter_link": "Masukkan tautan",
   "class_table_import_failed": "Tidak dapat mengimpor jadwal kuliah",
+  "class_table_import_flashlight": "Senter",
   "class_table_import_invalid_message": "Kode berbagi rusak atau telah diubah.",
   "class_table_import_link_placeholder": "Tautan berbagi",
   "class_table_import_lookup_failed": "Tidak dapat memuat detail mata kuliah",
