@@ -956,14 +956,6 @@
 "settings_classroom_mandarin_display_translated" = "Zobraziť preklad";
 "settings_color_theme" = "Farebná téma";
 "settings_delete_account" = "Odstránenie účtu";
-"settings_display_size_app_footer" = "Mení veľkosti v aplikácii nad rámec veľkosti zobrazenia a písma nastavenej v telefóne.";
-"settings_display_size_app_section" = "V aplikácii";
-"settings_display_size_preview_footer" = "Aplikácia prejde na novú veľkosť, keď pustíte posúvač.";
-"settings_display_size_text" = "Veľkosť textu";
-"settings_display_size_title" = "Veľkosť zobrazenia a textu";
-"settings_display_size_ui" = "Veľkosť zobrazenia";
-"settings_display_size_widget_footer" = "Veľkosť každého widgetu určuje plocha. Tieto veľkosti menia to, čo sa v ňom zobrazuje.";
-"settings_display_size_widget_section" = "Widgety";
 "settings_feedback_bug_report" = "Spätná väzba / Nahlásenie problému";
 "settings_flip_to_library_summary" = "Otočte telefón obrazovkou nadol a otvoríte QR knižnice.";
 "settings_flip_to_library_title" = "Otočiť pre zobrazenie QR knižnice";

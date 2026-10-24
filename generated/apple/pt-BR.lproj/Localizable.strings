@@ -956,14 +956,6 @@
 "settings_classroom_mandarin_display_translated" = "Mostrar tradução";
 "settings_color_theme" = "Tema de cores";
 "settings_delete_account" = "Excluir conta";
-"settings_display_size_app_footer" = "Ajusta os tamanhos do app além do tamanho da tela e da fonte do seu celular.";
-"settings_display_size_app_section" = "No app";
-"settings_display_size_preview_footer" = "O app muda para o novo tamanho quando você solta o controle deslizante.";
-"settings_display_size_text" = "Tamanho do texto";
-"settings_display_size_title" = "Tamanho da tela e do texto";
-"settings_display_size_ui" = "Tamanho da tela";
-"settings_display_size_widget_footer" = "A tela inicial define o tamanho de cada widget. Esses tamanhos mudam o que aparece dentro dele.";
-"settings_display_size_widget_section" = "Widgets";
 "settings_feedback_bug_report" = "Feedback / Reportar problema";
 "settings_flip_to_library_summary" = "Vire o telefone com a tela para baixo para abrir o QR da biblioteca.";
 "settings_flip_to_library_title" = "Virar para mostrar o QR da biblioteca";

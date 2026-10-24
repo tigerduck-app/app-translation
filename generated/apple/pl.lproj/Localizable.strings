@@ -956,14 +956,6 @@
 "settings_classroom_mandarin_display_translated" = "Wyświetl tłumaczenie";
 "settings_color_theme" = "Motyw kolorystyczny";
 "settings_delete_account" = "Usunięcie konta";
-"settings_display_size_app_footer" = "Zmienia rozmiary w aplikacji, biorąc za punkt wyjścia rozmiar wyświetlania i czcionki w telefonie.";
-"settings_display_size_app_section" = "W aplikacji";
-"settings_display_size_preview_footer" = "Aplikacja zmieni rozmiar po puszczeniu suwaka.";
-"settings_display_size_text" = "Rozmiar tekstu";
-"settings_display_size_title" = "Rozmiar wyświetlania i tekstu";
-"settings_display_size_ui" = "Rozmiar wyświetlania";
-"settings_display_size_widget_footer" = "Rozmiar każdego widżetu ustala ekran główny. Te rozmiary zmieniają to, co jest w nim wyświetlane.";
-"settings_display_size_widget_section" = "Widżety";
 "settings_feedback_bug_report" = "Opinie / Zgłoś problem";
 "settings_flip_to_library_summary" = "Odwróć telefon ekranem w dół, aby otworzyć QR biblioteki.";
 "settings_flip_to_library_title" = "Odwróć, aby pokazać QR biblioteki";

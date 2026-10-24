@@ -956,14 +956,6 @@
 "settings_classroom_mandarin_display_translated" = "Vis oversættelse";
 "settings_color_theme" = "Farvetema";
 "settings_delete_account" = "Slet konto";
-"settings_display_size_app_footer" = "Justerer appens størrelser oven i telefonens skærm- og skriftstørrelse.";
-"settings_display_size_app_section" = "I appen";
-"settings_display_size_preview_footer" = "Appen skifter til den nye størrelse, når du slipper skyderen.";
-"settings_display_size_text" = "Tekststørrelse";
-"settings_display_size_title" = "Skærm- og tekststørrelse";
-"settings_display_size_ui" = "Skærmstørrelse";
-"settings_display_size_widget_footer" = "Din startskærm bestemmer, hvor stor hver widget er. Disse størrelser ændrer det, der vises i den.";
-"settings_display_size_widget_section" = "Widgets";
 "settings_feedback_bug_report" = "Feedback / Rapportér problem";
 "settings_flip_to_library_summary" = "Vend telefonen med skærmen nedad for at åbne bibliotekets QR.";
 "settings_flip_to_library_title" = "Vend om for at vise bibliotekets QR";

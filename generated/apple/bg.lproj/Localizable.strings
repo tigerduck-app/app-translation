@@ -956,14 +956,6 @@
 "settings_classroom_mandarin_display_translated" = "Показване на превод";
 "settings_color_theme" = "Цветова тема";
 "settings_delete_account" = "Изтриване на акаунт";
-"settings_display_size_app_footer" = "Променя размерите в приложението върху размера на показване и шрифта на телефона.";
-"settings_display_size_app_section" = "В приложението";
-"settings_display_size_preview_footer" = "Приложението преминава към новия размер, когато пуснете плъзгача.";
-"settings_display_size_text" = "Размер на текста";
-"settings_display_size_title" = "Размер на показване и текст";
-"settings_display_size_ui" = "Размер на показване";
-"settings_display_size_widget_footer" = "Размерът на всеки уиджет се определя от началния екран. Тези размери променят това, което се показва в него.";
-"settings_display_size_widget_section" = "Уиджети";
 "settings_feedback_bug_report" = "Обратна връзка / Докладване на проблем";
 "settings_flip_to_library_summary" = "Обърни телефона с екрана надолу, за да отвориш QR на библиотеката.";
 "settings_flip_to_library_title" = "Обърни за показване на QR на библиотеката";
