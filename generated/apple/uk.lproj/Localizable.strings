@@ -270,6 +270,7 @@
 "color_name_red" = "Червоний";
 "color_picker_apply" = "Застосувати";
 "color_picker_custom" = "Власний";
+"color_picker_hex_code" = "Код кольору";
 "color_picker_presets_note" = "Готові кольори";
 "color_picker_preview_fallback" = "Курс";
 "color_picker_selected" = "Вибраний колір";

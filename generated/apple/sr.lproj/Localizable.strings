@@ -270,6 +270,7 @@
 "color_name_red" = "Црвена";
 "color_picker_apply" = "Примени";
 "color_picker_custom" = "Прилагођено";
+"color_picker_hex_code" = "Код боје";
 "color_picker_presets_note" = "Унапред дефинисане боје";
 "color_picker_preview_fallback" = "Курс";
 "color_picker_selected" = "Одабрана боја";

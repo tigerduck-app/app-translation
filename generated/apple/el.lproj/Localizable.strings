@@ -270,6 +270,7 @@
 "color_name_red" = "Κόκκινο";
 "color_picker_apply" = "Εφαρμογή";
 "color_picker_custom" = "Προσαρμοσμένο";
+"color_picker_hex_code" = "Κωδικός χρώματος";
 "color_picker_presets_note" = "Προεπιλεγμένα χρώματα";
 "color_picker_preview_fallback" = "Μάθημα";
 "color_picker_selected" = "Επιλεγμένο χρώμα";

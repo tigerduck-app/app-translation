@@ -270,6 +270,7 @@
 "color_name_red" = "Rdeča";
 "color_picker_apply" = "Uporabi";
 "color_picker_custom" = "Po meri";
+"color_picker_hex_code" = "Koda barve";
 "color_picker_presets_note" = "Privzete barve";
 "color_picker_preview_fallback" = "Predmet";
 "color_picker_selected" = "Izbrana barva";

@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Taustakuvan värit</string>
     <string name="color_picker_apply">Käytä</string>
     <string name="color_picker_custom">Mukautettu</string>
+    <string name="color_picker_hex_code">Värikoodi</string>
     <string name="color_picker_presets_note">Oletusvärit</string>
     <string name="color_picker_preview_fallback">Kurssi</string>
     <string name="color_picker_selected">Valittu väri</string>

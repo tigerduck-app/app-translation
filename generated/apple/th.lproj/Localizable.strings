@@ -270,6 +270,7 @@
 "color_name_red" = "แดง";
 "color_picker_apply" = "นำไปใช้";
 "color_picker_custom" = "กำหนดเอง";
+"color_picker_hex_code" = "รหัสสี";
 "color_picker_presets_note" = "สีที่ตั้งไว้";
 "color_picker_preview_fallback" = "รายวิชา";
 "color_picker_selected" = "สีที่เลือก";

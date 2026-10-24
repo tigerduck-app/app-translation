@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">رنگ‌های کاغذدیواری</string>
     <string name="color_picker_apply">اعمال</string>
     <string name="color_picker_custom">سفارشی</string>
+    <string name="color_picker_hex_code">کد رنگ</string>
     <string name="color_picker_presets_note">رنگ‌های از پیش تعیین‌شده</string>
     <string name="color_picker_preview_fallback">درس</string>
     <string name="color_picker_selected">رنگ انتخاب‌شده</string>

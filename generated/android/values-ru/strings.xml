@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Цвета обоев</string>
     <string name="color_picker_apply">Применить</string>
     <string name="color_picker_custom">Пользовательский</string>
+    <string name="color_picker_hex_code">Код цвета</string>
     <string name="color_picker_presets_note">Предустановленные цвета</string>
     <string name="color_picker_preview_fallback">Курс</string>
     <string name="color_picker_selected">Выбранный цвет</string>

@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">สีวอลเปเปอร์</string>
     <string name="color_picker_apply">นำไปใช้</string>
     <string name="color_picker_custom">กำหนดเอง</string>
+    <string name="color_picker_hex_code">รหัสสี</string>
     <string name="color_picker_presets_note">สีที่ตั้งไว้</string>
     <string name="color_picker_preview_fallback">รายวิชา</string>
     <string name="color_picker_selected">สีที่เลือก</string>

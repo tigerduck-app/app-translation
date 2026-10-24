@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">വാൾപേപ്പർ നിറങ്ങൾ</string>
     <string name="color_picker_apply">പ്രയോഗിക്കുക</string>
     <string name="color_picker_custom">ഇഷ്ടാനുസൃതം</string>
+    <string name="color_picker_hex_code">നിറ കോഡ്</string>
     <string name="color_picker_presets_note">മുൻനിശ്ചിത നിറങ്ങൾ</string>
     <string name="color_picker_preview_fallback">കോഴ്‌സ്</string>
     <string name="color_picker_selected">തിരഞ്ഞെടുത്ത നിറം</string>

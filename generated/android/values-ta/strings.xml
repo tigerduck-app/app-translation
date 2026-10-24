@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">வால்பேப்பர் நிறங்கள்</string>
     <string name="color_picker_apply">பயன்படுத்து</string>
     <string name="color_picker_custom">தனிப்பயன்</string>
+    <string name="color_picker_hex_code">நிறக் குறியீடு</string>
     <string name="color_picker_presets_note">முன்னமைவு நிறங்கள்</string>
     <string name="color_picker_preview_fallback">வகுப்பு</string>
     <string name="color_picker_selected">தேர்ந்தெடுக்கப்பட்ட நிறம்</string>

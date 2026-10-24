@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Bakgrunnsfarger</string>
     <string name="color_picker_apply">Bruk</string>
     <string name="color_picker_custom">Egendefinert</string>
+    <string name="color_picker_hex_code">Fargekode</string>
     <string name="color_picker_presets_note">Forhåndsinnstilte farger</string>
     <string name="color_picker_preview_fallback">Fag</string>
     <string name="color_picker_selected">Valgt farge</string>

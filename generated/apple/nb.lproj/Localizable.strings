@@ -270,6 +270,7 @@
 "color_name_red" = "Rød";
 "color_picker_apply" = "Bruk";
 "color_picker_custom" = "Egendefinert";
+"color_picker_hex_code" = "Fargekode";
 "color_picker_presets_note" = "Forhåndsinnstilte farger";
 "color_picker_preview_fallback" = "Fag";
 "color_picker_selected" = "Valgt farge";

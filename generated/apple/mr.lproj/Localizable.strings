@@ -270,6 +270,7 @@
 "color_name_red" = "लाल";
 "color_picker_apply" = "लागू करा";
 "color_picker_custom" = "सानुकूल";
+"color_picker_hex_code" = "रंग कोड";
 "color_picker_presets_note" = "पूर्वनिर्धारित रंग";
 "color_picker_preview_fallback" = "अभ्यासक्रम";
 "color_picker_selected" = "निवडलेला रंग";

@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Achtergrondkleuren</string>
     <string name="color_picker_apply">Toepassen</string>
     <string name="color_picker_custom">Aangepast</string>
+    <string name="color_picker_hex_code">Kleurcode</string>
     <string name="color_picker_presets_note">Vooraf ingestelde kleuren</string>
     <string name="color_picker_preview_fallback">Vak</string>
     <string name="color_picker_selected">Gekozen kleur</string>

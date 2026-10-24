@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Боје позадине</string>
     <string name="color_picker_apply">Примени</string>
     <string name="color_picker_custom">Прилагођено</string>
+    <string name="color_picker_hex_code">Код боје</string>
     <string name="color_picker_presets_note">Унапред дефинисане боје</string>
     <string name="color_picker_preview_fallback">Курс</string>
     <string name="color_picker_selected">Одабрана боја</string>

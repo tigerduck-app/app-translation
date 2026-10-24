@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">ألوان الخلفية</string>
     <string name="color_picker_apply">تطبيق</string>
     <string name="color_picker_custom">مخصص</string>
+    <string name="color_picker_hex_code">رمز اللون</string>
     <string name="color_picker_presets_note">ألوان معدّة مسبقًا</string>
     <string name="color_picker_preview_fallback">المقرر</string>
     <string name="color_picker_selected">اللون المحدد</string>

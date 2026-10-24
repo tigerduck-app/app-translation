@@ -270,6 +270,7 @@
 "color_name_red" = "Pula";
 "color_picker_apply" = "I-apply";
 "color_picker_custom" = "Pasadya";
+"color_picker_hex_code" = "Code ng kulay";
 "color_picker_presets_note" = "Mga preset na kulay";
 "color_picker_preview_fallback" = "Kurso";
 "color_picker_selected" = "Napiling kulay";

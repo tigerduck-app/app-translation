@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Culorile imaginii de fundal</string>
     <string name="color_picker_apply">Aplică</string>
     <string name="color_picker_custom">Personalizat</string>
+    <string name="color_picker_hex_code">Cod de culoare</string>
     <string name="color_picker_presets_note">Culori prestabilite</string>
     <string name="color_picker_preview_fallback">Curs</string>
     <string name="color_picker_selected">Culoare selectată</string>

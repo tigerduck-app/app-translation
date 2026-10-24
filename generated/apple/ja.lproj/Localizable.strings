@@ -270,6 +270,7 @@
 "color_name_red" = "レッド";
 "color_picker_apply" = "適用";
 "color_picker_custom" = "カスタム";
+"color_picker_hex_code" = "カラーコード";
 "color_picker_presets_note" = "プリセットの色";
 "color_picker_preview_fallback" = "授業";
 "color_picker_selected" = "選択中の色";

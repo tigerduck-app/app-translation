@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Farby tapety</string>
     <string name="color_picker_apply">Použiť</string>
     <string name="color_picker_custom">Vlastná</string>
+    <string name="color_picker_hex_code">Kód farby</string>
     <string name="color_picker_presets_note">Prednastavené farby</string>
     <string name="color_picker_preview_fallback">Kurz</string>
     <string name="color_picker_selected">Vybraná farba</string>

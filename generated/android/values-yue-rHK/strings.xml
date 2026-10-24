@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">桌布顏色</string>
     <string name="color_picker_apply">套用</string>
     <string name="color_picker_custom">自訂</string>
+    <string name="color_picker_hex_code">色碼</string>
     <string name="color_picker_presets_note">預設顏色</string>
     <string name="color_picker_preview_fallback">課程</string>
     <string name="color_picker_selected">已選擇顏色</string>

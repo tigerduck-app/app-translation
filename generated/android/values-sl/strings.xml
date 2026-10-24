@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Barve ozadja</string>
     <string name="color_picker_apply">Uporabi</string>
     <string name="color_picker_custom">Po meri</string>
+    <string name="color_picker_hex_code">Koda barve</string>
     <string name="color_picker_presets_note">Privzete barve</string>
     <string name="color_picker_preview_fallback">Predmet</string>
     <string name="color_picker_selected">Izbrana barva</string>

@@ -270,6 +270,7 @@
 "color_name_red" = "Red";
 "color_picker_apply" = "Apply";
 "color_picker_custom" = "Custom";
+"color_picker_hex_code" = "Color code";
 "color_picker_presets_note" = "Preset colors";
 "color_picker_preview_fallback" = "Course";
 "color_picker_selected" = "Selected color";

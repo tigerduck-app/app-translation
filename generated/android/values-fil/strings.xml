@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Mga kulay ng wallpaper</string>
     <string name="color_picker_apply">I-apply</string>
     <string name="color_picker_custom">Pasadya</string>
+    <string name="color_picker_hex_code">Code ng kulay</string>
     <string name="color_picker_presets_note">Mga preset na kulay</string>
     <string name="color_picker_preview_fallback">Kurso</string>
     <string name="color_picker_selected">Napiling kulay</string>

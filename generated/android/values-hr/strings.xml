@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Boje pozadine</string>
     <string name="color_picker_apply">Primijeni</string>
     <string name="color_picker_custom">Prilagođeno</string>
+    <string name="color_picker_hex_code">Kôd boje</string>
     <string name="color_picker_presets_note">Zadane boje</string>
     <string name="color_picker_preview_fallback">Kolegij</string>
     <string name="color_picker_selected">Odabrana boja</string>

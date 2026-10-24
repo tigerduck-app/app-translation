@@ -270,6 +270,7 @@
 "color_name_red" = "Rojo";
 "color_picker_apply" = "Aplicar";
 "color_picker_custom" = "Personalizado";
+"color_picker_hex_code" = "Código de color";
 "color_picker_presets_note" = "Colores predefinidos";
 "color_picker_preview_fallback" = "Curso";
 "color_picker_selected" = "Color seleccionado";

@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Warna wallpaper</string>
     <string name="color_picker_apply">Terapkan</string>
     <string name="color_picker_custom">Kustom</string>
+    <string name="color_picker_hex_code">Kode warna</string>
     <string name="color_picker_presets_note">Warna preset</string>
     <string name="color_picker_preview_fallback">Mata kuliah</string>
     <string name="color_picker_selected">Warna yang dipilih</string>

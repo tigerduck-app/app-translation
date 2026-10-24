@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Bakgrundsfärger</string>
     <string name="color_picker_apply">Använd</string>
     <string name="color_picker_custom">Anpassad</string>
+    <string name="color_picker_hex_code">Färgkod</string>
     <string name="color_picker_presets_note">Förinställda färger</string>
     <string name="color_picker_preview_fallback">Kurs</string>
     <string name="color_picker_selected">Vald färg</string>

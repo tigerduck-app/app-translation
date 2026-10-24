@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">వాల్‌పేపర్ రంగులు</string>
     <string name="color_picker_apply">వర్తింపజేయి</string>
     <string name="color_picker_custom">కస్టమ్</string>
+    <string name="color_picker_hex_code">రంగు కోడ్</string>
     <string name="color_picker_presets_note">ప్రీసెట్ రంగులు</string>
     <string name="color_picker_preview_fallback">కోర్సు</string>
     <string name="color_picker_selected">ఎంచుకున్న రంగు</string>

@@ -270,6 +270,7 @@
 "color_name_red" = "Piros";
 "color_picker_apply" = "Alkalmazás";
 "color_picker_custom" = "Egyéni";
+"color_picker_hex_code" = "Színkód";
 "color_picker_presets_note" = "Előre beállított színek";
 "color_picker_preview_fallback" = "Kurzus";
 "color_picker_selected" = "Kiválasztott szín";

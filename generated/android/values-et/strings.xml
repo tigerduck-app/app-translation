@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Taustapildi värvid</string>
     <string name="color_picker_apply">Rakenda</string>
     <string name="color_picker_custom">Kohandatud</string>
+    <string name="color_picker_hex_code">Värvikood</string>
     <string name="color_picker_presets_note">Eelseadistatud värvid</string>
     <string name="color_picker_preview_fallback">Kursus</string>
     <string name="color_picker_selected">Valitud värv</string>

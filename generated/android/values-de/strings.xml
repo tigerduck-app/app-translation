@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Hintergrundfarben</string>
     <string name="color_picker_apply">Anwenden</string>
     <string name="color_picker_custom">Benutzerdefiniert</string>
+    <string name="color_picker_hex_code">Farbcode</string>
     <string name="color_picker_presets_note">Voreingestellte Farben</string>
     <string name="color_picker_preview_fallback">Kurs</string>
     <string name="color_picker_selected">Ausgewählte Farbe</string>

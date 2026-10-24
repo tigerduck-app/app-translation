@@ -270,6 +270,7 @@
 "color_name_red" = "Punane";
 "color_picker_apply" = "Rakenda";
 "color_picker_custom" = "Kohandatud";
+"color_picker_hex_code" = "Värvikood";
 "color_picker_presets_note" = "Eelseadistatud värvid";
 "color_picker_preview_fallback" = "Kursus";
 "color_picker_selected" = "Valitud värv";

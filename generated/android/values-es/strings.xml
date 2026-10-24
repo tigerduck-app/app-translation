@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Colores del fondo de pantalla</string>
     <string name="color_picker_apply">Aplicar</string>
     <string name="color_picker_custom">Personalizado</string>
+    <string name="color_picker_hex_code">Código de color</string>
     <string name="color_picker_presets_note">Colores predefinidos</string>
     <string name="color_picker_preview_fallback">Curso</string>
     <string name="color_picker_selected">Color seleccionado</string>

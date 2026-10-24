@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Fona tapetes krāsas</string>
     <string name="color_picker_apply">Lietot</string>
     <string name="color_picker_custom">Pielāgota</string>
+    <string name="color_picker_hex_code">Krāsas kods</string>
     <string name="color_picker_presets_note">Iepriekš iestatītās krāsas</string>
     <string name="color_picker_preview_fallback">Kurss</string>
     <string name="color_picker_selected">Izvēlētā krāsa</string>

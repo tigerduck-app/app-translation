@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Warna kertas dinding</string>
     <string name="color_picker_apply">Guna</string>
     <string name="color_picker_custom">Tersuai</string>
+    <string name="color_picker_hex_code">Kod warna</string>
     <string name="color_picker_presets_note">Warna praset</string>
     <string name="color_picker_preview_fallback">Kursus</string>
     <string name="color_picker_selected">Warna dipilih</string>

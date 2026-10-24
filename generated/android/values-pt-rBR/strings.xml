@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Cores do plano de fundo</string>
     <string name="color_picker_apply">Aplicar</string>
     <string name="color_picker_custom">Personalizada</string>
+    <string name="color_picker_hex_code">Código da cor</string>
     <string name="color_picker_presets_note">Cores predefinidas</string>
     <string name="color_picker_preview_fallback">Disciplina</string>
     <string name="color_picker_selected">Cor selecionada</string>

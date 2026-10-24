@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Litir veggfóðurs</string>
     <string name="color_picker_apply">Beita</string>
     <string name="color_picker_custom">Sérsniðið</string>
+    <string name="color_picker_hex_code">Litakóði</string>
     <string name="color_picker_presets_note">Forstilltir litir</string>
     <string name="color_picker_preview_fallback">Námskeið</string>
     <string name="color_picker_selected">Valinn litur</string>

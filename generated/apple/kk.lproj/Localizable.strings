@@ -270,6 +270,7 @@
 "color_name_red" = "Қызыл";
 "color_picker_apply" = "Қолдану";
 "color_picker_custom" = "Өзгертілетін";
+"color_picker_hex_code" = "Түс коды";
 "color_picker_presets_note" = "Алдын ала орнатылған түстер";
 "color_picker_preview_fallback" = "Курс";
 "color_picker_selected" = "Таңдалған түс";

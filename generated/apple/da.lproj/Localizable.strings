@@ -270,6 +270,7 @@
 "color_name_red" = "Rød";
 "color_picker_apply" = "Anvend";
 "color_picker_custom" = "Brugerdefineret";
+"color_picker_hex_code" = "Farvekode";
 "color_picker_presets_note" = "Forudindstillede farver";
 "color_picker_preview_fallback" = "Kursus";
 "color_picker_selected" = "Valgt farve";

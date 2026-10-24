@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">壁紙の色</string>
     <string name="color_picker_apply">適用</string>
     <string name="color_picker_custom">カスタム</string>
+    <string name="color_picker_hex_code">カラーコード</string>
     <string name="color_picker_presets_note">プリセットの色</string>
     <string name="color_picker_preview_fallback">授業</string>
     <string name="color_picker_selected">選択中の色</string>

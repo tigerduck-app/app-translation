@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Цветове на тапета</string>
     <string name="color_picker_apply">Приложи</string>
     <string name="color_picker_custom">Персонализиран</string>
+    <string name="color_picker_hex_code">Код на цвета</string>
     <string name="color_picker_presets_note">Предварително зададени цветове</string>
     <string name="color_picker_preview_fallback">Курс</string>
     <string name="color_picker_selected">Избран цвят</string>

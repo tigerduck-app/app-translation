@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Wallpaper colours</string>
     <string name="color_picker_apply">Apply</string>
     <string name="color_picker_custom">Custom</string>
+    <string name="color_picker_hex_code">Colour code</string>
     <string name="color_picker_presets_note">Preset colours</string>
     <string name="color_picker_preview_fallback">Course</string>
     <string name="color_picker_selected">Selected colour</string>

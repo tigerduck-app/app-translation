@@ -270,6 +270,7 @@
 "color_name_red" = "Rood";
 "color_picker_apply" = "Toepassen";
 "color_picker_custom" = "Aangepast";
+"color_picker_hex_code" = "Kleurcode";
 "color_picker_presets_note" = "Vooraf ingestelde kleuren";
 "color_picker_preview_fallback" = "Vak";
 "color_picker_selected" = "Gekozen kleur";

@@ -270,6 +270,7 @@
 "color_name_red" = "Merah";
 "color_picker_apply" = "Guna";
 "color_picker_custom" = "Tersuai";
+"color_picker_hex_code" = "Kod warna";
 "color_picker_presets_note" = "Warna praset";
 "color_picker_preview_fallback" = "Kursus";
 "color_picker_selected" = "Warna dipilih";

@@ -270,6 +270,7 @@
 "color_name_red" = "紅";
 "color_picker_apply" = "套用";
 "color_picker_custom" = "自訂";
+"color_picker_hex_code" = "色碼";
 "color_picker_presets_note" = "預設顏色";
 "color_picker_preview_fallback" = "課程";
 "color_picker_selected" = "已選擇顏色";

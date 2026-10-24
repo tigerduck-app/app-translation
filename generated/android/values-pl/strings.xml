@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Kolory tapety</string>
     <string name="color_picker_apply">Zastosuj</string>
     <string name="color_picker_custom">Niestandardowy</string>
+    <string name="color_picker_hex_code">Kod koloru</string>
     <string name="color_picker_presets_note">Kolory predefiniowane</string>
     <string name="color_picker_preview_fallback">Przedmiot</string>
     <string name="color_picker_selected">Wybrany kolor</string>

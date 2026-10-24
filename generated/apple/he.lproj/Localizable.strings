@@ -270,6 +270,7 @@
 "color_name_red" = "אדום";
 "color_picker_apply" = "החל";
 "color_picker_custom" = "מותאם אישית";
+"color_picker_hex_code" = "קוד צבע";
 "color_picker_presets_note" = "צבעים מוגדרים מראש";
 "color_picker_preview_fallback" = "קורס";
 "color_picker_selected" = "צבע נבחר";

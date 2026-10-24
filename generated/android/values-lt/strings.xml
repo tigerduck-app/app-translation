@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Ekrano fono spalvos</string>
     <string name="color_picker_apply">Taikyti</string>
     <string name="color_picker_custom">Pasirinktinė</string>
+    <string name="color_picker_hex_code">Spalvos kodas</string>
     <string name="color_picker_presets_note">Iš anksto nustatytos spalvos</string>
     <string name="color_picker_preview_fallback">Kursas</string>
     <string name="color_picker_selected">Pasirinkta spalva</string>

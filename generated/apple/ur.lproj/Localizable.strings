@@ -270,6 +270,7 @@
 "color_name_red" = "سرخ";
 "color_picker_apply" = "لگائیں";
 "color_picker_custom" = "کسٹم";
+"color_picker_hex_code" = "رنگ کا کوڈ";
 "color_picker_presets_note" = "پیش سیٹ رنگ";
 "color_picker_preview_fallback" = "کورس";
 "color_picker_selected" = "منتخب رنگ";

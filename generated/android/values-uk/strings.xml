@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Кольори шпалер</string>
     <string name="color_picker_apply">Застосувати</string>
     <string name="color_picker_custom">Власний</string>
+    <string name="color_picker_hex_code">Код кольору</string>
     <string name="color_picker_presets_note">Готові кольори</string>
     <string name="color_picker_preview_fallback">Курс</string>
     <string name="color_picker_selected">Вибраний колір</string>

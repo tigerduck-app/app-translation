@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">ওয়ালপেপারের রং</string>
     <string name="color_picker_apply">প্রয়োগ করুন</string>
     <string name="color_picker_custom">কাস্টম</string>
+    <string name="color_picker_hex_code">রঙের কোড</string>
     <string name="color_picker_presets_note">প্রিসেট রং</string>
     <string name="color_picker_preview_fallback">কোর্স</string>
     <string name="color_picker_selected">নির্বাচিত রং</string>

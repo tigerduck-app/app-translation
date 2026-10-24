@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">वॉलपेपर के रंग</string>
     <string name="color_picker_apply">लागू करें</string>
     <string name="color_picker_custom">कस्टम</string>
+    <string name="color_picker_hex_code">रंग कोड</string>
     <string name="color_picker_presets_note">प्रीसेट रंग</string>
     <string name="color_picker_preview_fallback">कोर्स</string>
     <string name="color_picker_selected">चुना गया रंग</string>

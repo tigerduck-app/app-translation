@@ -275,6 +275,7 @@
     <string name="color_name_wallpaper">Тұсқағаз түстері</string>
     <string name="color_picker_apply">Қолдану</string>
     <string name="color_picker_custom">Өзгертілетін</string>
+    <string name="color_picker_hex_code">Түс коды</string>
     <string name="color_picker_presets_note">Алдын ала орнатылған түстер</string>
     <string name="color_picker_preview_fallback">Курс</string>
     <string name="color_picker_selected">Таңдалған түс</string>
