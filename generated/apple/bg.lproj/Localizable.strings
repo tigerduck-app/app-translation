@@ -270,6 +270,7 @@
 "color_name_red" = "Червен";
 "color_picker_apply" = "Приложи";
 "color_picker_custom" = "Персонализиран";
+"color_picker_hex_code" = "Код на цвета";
 "color_picker_presets_note" = "Предварително зададени цветове";
 "color_picker_preview_fallback" = "Курс";
 "color_picker_selected" = "Избран цвят";
@@ -916,6 +917,18 @@
 "score_term_format" = "Текущ семестър: %1$@-%2$@";
 "settings_about_others" = "Друго";
 "settings_accent_color" = "Акцентен цвят";
+"settings_accent_gradient_custom" = "Персонализирано преливане";
+"settings_accent_gradient_direction" = "Посока на преливането";
+"settings_accent_gradient_direction_bottom_to_top" = "Отдолу нагоре";
+"settings_accent_gradient_direction_left_to_right" = "Отляво надясно";
+"settings_accent_gradient_direction_right_to_left" = "Отдясно наляво";
+"settings_accent_gradient_direction_top_left_to_bottom_right" = "От горе вляво към долу вдясно";
+"settings_accent_gradient_direction_top_right_to_bottom_left" = "От горе вдясно към долу вляво";
+"settings_accent_gradient_direction_top_to_bottom" = "Отгоре надолу";
+"settings_accent_gradient_end" = "Краен цвят";
+"settings_accent_gradient_name" = "%1$@ – %2$@";
+"settings_accent_gradient_start" = "Начален цвят";
+"settings_accent_gradients" = "Преливания";
 "settings_account_library_system" = "Система на библиотека";
 "settings_account_ntust_system" = "Академична система";
 "settings_acknowledged" = "Разбрах";
