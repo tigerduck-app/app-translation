@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Schedule (Week)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Brightness",
+    "a11y_color_picker_hue": "Hue",
+    "a11y_color_picker_saturation": "Saturation",
     "account_id_use_standard_keyboard": "Standard keyboard",
     "app_exit_confirm_toast": "Press back again to exit",
     "calendar_semester_end": "End of %1$s",

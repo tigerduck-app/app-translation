@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Кесте (Апта)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Жарықтық",
+    "a11y_color_picker_hue": "Реңк",
+    "a11y_color_picker_saturation": "Қанықтық",
     "account_id_use_standard_keyboard": "Стандартты пернетақта",
     "app_exit_confirm_toast": "Шығу үшін қайта артқа басыңыз",
     "calendar_semester_end": "%1$s соңы",

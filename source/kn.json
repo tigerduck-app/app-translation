@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "ವೇಳಾಪಟ್ಟಿ (ವಾರ)"
   },
   "android": {
+    "a11y_color_picker_brightness": "ಪ್ರಕಾಶ",
+    "a11y_color_picker_hue": "ವರ್ಣ",
+    "a11y_color_picker_saturation": "ಸಂತೃಪ್ತಿ",
     "account_id_use_standard_keyboard": "ಪ್ರಮಾಣಿತ ಕೀಬೋರ್ಡ್",
     "app_exit_confirm_toast": "ನಿರ್ಗಮಿಸಲು ಮತ್ತೊಮ್ಮೆ ಹಿಂದೆ ಒತ್ತಿ",
     "calendar_semester_end": "%1$s ಅಂತ್ಯ",

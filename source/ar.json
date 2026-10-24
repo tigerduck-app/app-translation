@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "الجدول الدراسي (أسبوعي)"
   },
   "android": {
+    "a11y_color_picker_brightness": "السطوع",
+    "a11y_color_picker_hue": "درجة اللون",
+    "a11y_color_picker_saturation": "التشبع",
     "account_id_use_standard_keyboard": "لوحة مفاتيح قياسية",
     "app_exit_confirm_toast": "اضغط رجوع مرة أخرى للخروج",
     "calendar_semester_end": "نهاية %1$s",

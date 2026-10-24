@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Thời khóa biểu (Tuần)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Độ sáng",
+    "a11y_color_picker_hue": "Sắc độ",
+    "a11y_color_picker_saturation": "Độ bão hòa",
     "account_id_use_standard_keyboard": "Bàn phím tiêu chuẩn",
     "app_exit_confirm_toast": "Nhấn quay lại lần nữa để thoát",
     "calendar_semester_end": "Kết thúc %1$s",

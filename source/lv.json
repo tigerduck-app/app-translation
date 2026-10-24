@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Stundu plāns (nedēļa)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Spilgtums",
+    "a11y_color_picker_hue": "Nokrāsa",
+    "a11y_color_picker_saturation": "Piesātinājums",
     "account_id_use_standard_keyboard": "Standarta tastatūra",
     "app_exit_confirm_toast": "Nospiediet atpakaļ vēlreiz, lai izietu",
     "calendar_semester_end": "%1$s beigas",

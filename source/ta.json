@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "நேர அட்டவணை (வாரம்)"
   },
   "android": {
+    "a11y_color_picker_brightness": "ஒளிர்வு",
+    "a11y_color_picker_hue": "சாயல்",
+    "a11y_color_picker_saturation": "செறிவு",
     "account_id_use_standard_keyboard": "நிலையான விசைப்பலகை",
     "app_exit_confirm_toast": "வெளியேற மீண்டும் பின்செல் அழுத்தவும்",
     "calendar_semester_end": "%1$s முடிவு",

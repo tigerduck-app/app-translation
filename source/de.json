@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Stundenplan (Woche)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Helligkeit",
+    "a11y_color_picker_hue": "Farbton",
+    "a11y_color_picker_saturation": "Sättigung",
     "account_id_use_standard_keyboard": "Standardtastatur",
     "app_exit_confirm_toast": "Erneut zurück drücken, um zu beenden",
     "calendar_semester_end": "Ende von %1$s",

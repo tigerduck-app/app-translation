@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Rozvrh (týden)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Jas",
+    "a11y_color_picker_hue": "Odstín",
+    "a11y_color_picker_saturation": "Sytost",
     "account_id_use_standard_keyboard": "Standardní klávesnice",
     "app_exit_confirm_toast": "Pro ukončení stiskněte zpět znovu",
     "calendar_semester_end": "Konec %1$s",

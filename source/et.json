@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Tunniplaan (nädal)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Heledus",
+    "a11y_color_picker_hue": "Toon",
+    "a11y_color_picker_saturation": "Küllastus",
     "account_id_use_standard_keyboard": "Standardklaviatuur",
     "app_exit_confirm_toast": "Vajutage uuesti tagasi väljumiseks",
     "calendar_semester_end": "%1$s lõpp",

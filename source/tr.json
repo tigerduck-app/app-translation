@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Program (Hafta)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Parlaklık",
+    "a11y_color_picker_hue": "Ton",
+    "a11y_color_picker_saturation": "Doygunluk",
     "account_id_use_standard_keyboard": "Standart klavye",
     "app_exit_confirm_toast": "Çıkmak için tekrar geri tuşuna basın",
     "calendar_semester_end": "Bitiş: %1$s",

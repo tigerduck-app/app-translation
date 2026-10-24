@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "શિડ્યૂલ (સપ્તાહ)"
   },
   "android": {
+    "a11y_color_picker_brightness": "તેજ",
+    "a11y_color_picker_hue": "રંગછટા",
+    "a11y_color_picker_saturation": "સંતૃપ્તિ",
     "account_id_use_standard_keyboard": "પ્રમાણભૂત કીબોર્ડ",
     "app_exit_confirm_toast": "બહાર નીકળવા ફરી પાછળ દબાવો",
     "calendar_semester_end": "%1$s નો અંત",

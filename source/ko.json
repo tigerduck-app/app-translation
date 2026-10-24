@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "시간표 (주간)"
   },
   "android": {
+    "a11y_color_picker_brightness": "밝기",
+    "a11y_color_picker_hue": "색조",
+    "a11y_color_picker_saturation": "채도",
     "account_id_use_standard_keyboard": "표준 키보드",
     "app_exit_confirm_toast": "한 번 더 누르면 앱이 종료됩니다",
     "calendar_semester_end": "%1$s 종료",

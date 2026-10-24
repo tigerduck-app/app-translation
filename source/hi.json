@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "समय सारणी (सप्ताह)"
   },
   "android": {
+    "a11y_color_picker_brightness": "चमक",
+    "a11y_color_picker_hue": "रंगत",
+    "a11y_color_picker_saturation": "संतृप्ति",
     "account_id_use_standard_keyboard": "मानक कीबोर्ड",
     "app_exit_confirm_toast": "बाहर निकलने के लिए फिर से वापस दबाएँ",
     "calendar_semester_end": "%1$s की समाप्ति",
