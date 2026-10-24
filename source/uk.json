@@ -212,6 +212,7 @@
     "class_table_import_course_count": "Курси",
     "class_table_import_enter_link": "Ввести посилання",
     "class_table_import_failed": "Не вдалося імпортувати розклад",
+    "class_table_import_flashlight": "Ліхтарик",
     "class_table_import_invalid_message": "Код для обміну пошкоджено або змінено.",
     "class_table_import_link_placeholder": "Посилання для обміну",
     "class_table_import_lookup_failed": "Не вдалося завантажити відомості про курси",

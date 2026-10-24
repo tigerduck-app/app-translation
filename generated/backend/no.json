@@ -211,6 +211,7 @@
   "class_table_import_course_count": "Emner",
   "class_table_import_enter_link": "Skriv inn lenke",
   "class_table_import_failed": "Kunne ikke importere timeplanen",
+  "class_table_import_flashlight": "Lommelykt",
   "class_table_import_invalid_message": "Delingskoden er skadet eller endret.",
   "class_table_import_link_placeholder": "Delingslenke",
   "class_table_import_lookup_failed": "Kunne ikke laste inn emnedetaljene",

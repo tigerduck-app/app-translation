@@ -212,6 +212,7 @@
     "class_table_import_course_count": "عدد المقررات",
     "class_table_import_enter_link": "إدخال الرابط",
     "class_table_import_failed": "تعذّر استيراد الجدول الدراسي",
+    "class_table_import_flashlight": "المصباح",
     "class_table_import_invalid_message": "رمز المشاركة تالف أو تم تعديله.",
     "class_table_import_link_placeholder": "رابط المشاركة",
     "class_table_import_lookup_failed": "تعذّر تحميل تفاصيل المقررات",

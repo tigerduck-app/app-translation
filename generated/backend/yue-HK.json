@@ -211,6 +211,7 @@
   "class_table_import_course_count": "課程數目",
   "class_table_import_enter_link": "輸入連結",
   "class_table_import_failed": "未能匯入課表",
+  "class_table_import_flashlight": "電筒",
   "class_table_import_invalid_message": "分享碼已經損壞或者被修改過。",
   "class_table_import_link_placeholder": "分享連結",
   "class_table_import_lookup_failed": "攞唔到課程資料",

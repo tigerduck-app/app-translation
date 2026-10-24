@@ -212,6 +212,7 @@
     "class_table_import_course_count": "קורסים",
     "class_table_import_enter_link": "הזנת קישור",
     "class_table_import_failed": "לא ניתן היה לייבא את מערכת השעות",
+    "class_table_import_flashlight": "פנס",
     "class_table_import_invalid_message": "קוד השיתוף פגום או שהוא שונה.",
     "class_table_import_link_placeholder": "קישור לשיתוף",
     "class_table_import_lookup_failed": "לא ניתן היה לטעון את פרטי הקורסים",

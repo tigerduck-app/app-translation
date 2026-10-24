@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "Bilangan kursus";
 "class_table_import_enter_link" = "Masukkan pautan";
 "class_table_import_failed" = "Tidak dapat mengimport jadual kelas";
+"class_table_import_flashlight" = "Lampu suluh";
 "class_table_import_invalid_message" = "Kod perkongsian rosak atau telah diubah.";
 "class_table_import_link_placeholder" = "Pautan perkongsian";
 "class_table_import_lookup_failed" = "Tidak dapat memuatkan butiran kursus";

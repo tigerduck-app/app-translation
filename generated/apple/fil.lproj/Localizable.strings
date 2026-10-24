@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "Bilang ng kurso";
 "class_table_import_enter_link" = "Ilagay ang link";
 "class_table_import_failed" = "Hindi ma-import ang iskedyul ng klase";
+"class_table_import_flashlight" = "Flashlight";
 "class_table_import_invalid_message" = "Sira o binago ang share code.";
 "class_table_import_link_placeholder" = "Share link";
 "class_table_import_lookup_failed" = "Hindi ma-load ang mga detalye ng kurso";

@@ -212,6 +212,7 @@
     "class_table_import_course_count": "Przedmioty",
     "class_table_import_enter_link": "Wpisz link",
     "class_table_import_failed": "Nie udało się zaimportować planu zajęć",
+    "class_table_import_flashlight": "Latarka",
     "class_table_import_invalid_message": "Kod udostępniania jest uszkodzony lub został zmieniony.",
     "class_table_import_link_placeholder": "Link do udostępniania",
     "class_table_import_lookup_failed": "Nie udało się wczytać szczegółów przedmiotów",

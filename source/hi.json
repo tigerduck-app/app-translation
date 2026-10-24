@@ -212,6 +212,7 @@
     "class_table_import_course_count": "कोर्स की संख्या",
     "class_table_import_enter_link": "लिंक दर्ज करें",
     "class_table_import_failed": "कक्षा सारणी आयात नहीं की जा सकी",
+    "class_table_import_flashlight": "टॉर्च",
     "class_table_import_invalid_message": "शेयर कोड खराब है या उसमें बदलाव किया गया है।",
     "class_table_import_link_placeholder": "शेयर लिंक",
     "class_table_import_lookup_failed": "कोर्स की जानकारी लोड नहीं हो सकी",

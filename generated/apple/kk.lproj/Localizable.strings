@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "Курстар";
 "class_table_import_enter_link" = "Сілтемені енгізу";
 "class_table_import_failed" = "Сабақ кестесін импорттау мүмкін болмады";
+"class_table_import_flashlight" = "Қалта шамы";
 "class_table_import_invalid_message" = "Бөлісу коды зақымдалған немесе өзгертілген.";
 "class_table_import_link_placeholder" = "Бөлісу сілтемесі";
 "class_table_import_lookup_failed" = "Курс мәліметтерін жүктеу мүмкін болмады";

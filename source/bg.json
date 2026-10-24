@@ -212,6 +212,7 @@
     "class_table_import_course_count": "Курсове",
     "class_table_import_enter_link": "Въвеждане на връзка",
     "class_table_import_failed": "Разписанието не можа да бъде импортирано",
+    "class_table_import_flashlight": "Фенерче",
     "class_table_import_invalid_message": "Кодът за споделяне е повреден или е бил променен.",
     "class_table_import_link_placeholder": "Връзка за споделяне",
     "class_table_import_lookup_failed": "Подробностите за курсовете не можаха да се заредят",

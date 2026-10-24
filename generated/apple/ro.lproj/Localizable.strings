@@ -213,6 +213,7 @@
 "class_table_import_course_count" = "Cursuri";
 "class_table_import_enter_link" = "Introdu linkul";
 "class_table_import_failed" = "Orarul nu a putut fi importat";
+"class_table_import_flashlight" = "Lanternă";
 "class_table_import_invalid_message" = "Codul de distribuire este deteriorat sau a fost modificat.";
 "class_table_import_link_placeholder" = "Link de distribuire";
 "class_table_import_lookup_failed" = "Detaliile cursurilor nu au putut fi încărcate";

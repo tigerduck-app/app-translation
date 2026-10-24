@@ -211,6 +211,7 @@
   "class_table_import_course_count": "تعداد دروس",
   "class_table_import_enter_link": "وارد کردن پیوند",
   "class_table_import_failed": "وارد کردن برنامه کلاس‌ها ممکن نشد",
+  "class_table_import_flashlight": "چراغ‌قوه",
   "class_table_import_invalid_message": "کد اشتراک‌گذاری آسیب دیده یا تغییر کرده است.",
   "class_table_import_link_placeholder": "پیوند اشتراک‌گذاری",
   "class_table_import_lookup_failed": "بارگذاری جزئیات دروس ممکن نشد",
