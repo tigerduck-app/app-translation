@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "تسجيل الدخول في صفحة الويب",
     "browser_sign_in_working": "جارٍ تسجيل الدخول…",
     "browser_signed_in": "تم تسجيل الدخول",
-    "browser_signed_in_detail": "تم تسجيل الدخول تلقائيًا عبر رابط الموقع لمرة واحدة. لا تُعطى كلمة مرورك للصفحة أبدًا.",
     "browser_stop": "إيقاف التحميل",
     "browser_upload_camera": "التقاط صورة",
     "browser_upload_camera_denied": "لا يمكن لـ TigerDuck استخدام الكاميرا دون إذن.",

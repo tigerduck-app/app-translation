@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Iniciar sessão na página web",
     "browser_sign_in_working": "A iniciar sessão…",
     "browser_signed_in": "Sessão iniciada",
-    "browser_signed_in_detail": "Sessão iniciada automaticamente com a ligação de utilização única do site. A sua palavra-passe nunca é entregue à página.",
     "browser_stop": "Parar de carregar",
     "browser_upload_camera": "Tirar fotografia",
     "browser_upload_camera_denied": "O TigerDuck não pode usar a câmara sem autorização.",

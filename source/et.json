@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Logi veebilehel sisse",
     "browser_sign_in_working": "Sisselogimine…",
     "browser_signed_in": "Sisse logitud",
-    "browser_signed_in_detail": "Sisse logitud automaatselt saidi ühekordse lingiga. Sinu parooli lehele kunagi ei anta.",
     "browser_stop": "Peata laadimine",
     "browser_upload_camera": "Tee foto",
     "browser_upload_camera_denied": "TigerDuck ei saa ilma loata kaamerat kasutada.",

@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Pieteikties tīmekļa lapā",
     "browser_sign_in_working": "Notiek pieteikšanās…",
     "browser_signed_in": "Pieteicies",
-    "browser_signed_in_detail": "Pieteikšanās automātiski, izmantojot vietnes vienreizējo saiti. Jūsu parole nekad netiek nodota lapai.",
     "browser_stop": "Apturēt ielādi",
     "browser_upload_camera": "Uzņemt fotoattēlu",
     "browser_upload_camera_denied": "Bez atļaujas TigerDuck nevar izmantot kameru.",

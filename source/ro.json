@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Conectați-vă pe pagina web",
     "browser_sign_in_working": "Se conectează…",
     "browser_signed_in": "Conectat",
-    "browser_signed_in_detail": "Conectat automat prin linkul de unică folosință al site-ului. Parola nu este niciodată transmisă paginii.",
     "browser_stop": "Opriți încărcarea",
     "browser_upload_camera": "Faceți o fotografie",
     "browser_upload_camera_denied": "TigerDuck nu poate folosi camera fără permisiune.",

@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Auf der Webseite anmelden",
     "browser_sign_in_working": "Wird angemeldet …",
     "browser_signed_in": "Angemeldet",
-    "browser_signed_in_detail": "Automatisch über den Einmal-Link der Website angemeldet. Dein Passwort wird der Seite nie übergeben.",
     "browser_stop": "Laden stoppen",
     "browser_upload_camera": "Foto aufnehmen",
     "browser_upload_camera_denied": "Ohne Berechtigung kann TigerDuck die Kamera nicht verwenden.",

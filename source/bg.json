@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Влизане от уебстраницата",
     "browser_sign_in_working": "Влизане…",
     "browser_signed_in": "Влезли сте",
-    "browser_signed_in_detail": "Влезли сте автоматично чрез еднократната връзка на сайта. Паролата ви никога не се дава на страницата.",
     "browser_stop": "Спиране на зареждането",
     "browser_upload_camera": "Снимане",
     "browser_upload_camera_denied": "Без разрешение TigerDuck не може да използва камерата.",

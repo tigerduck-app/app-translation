@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Web sayfasında oturum aç",
     "browser_sign_in_working": "Oturum açılıyor…",
     "browser_signed_in": "Oturum açık",
-    "browser_signed_in_detail": "Sitenin tek kullanımlık bağlantısıyla otomatik olarak oturum açıldı. Şifren sayfaya asla verilmez.",
     "browser_stop": "Yüklemeyi durdur",
     "browser_upload_camera": "Fotoğraf çek",
     "browser_upload_camera_denied": "TigerDuck izin olmadan kamerayı kullanamaz.",

@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Fazer login na página da web",
     "browser_sign_in_working": "Fazendo login…",
     "browser_signed_in": "Login feito",
-    "browser_signed_in_detail": "Login feito automaticamente pelo link de uso único do site. Sua senha nunca é passada para a página.",
     "browser_stop": "Parar de carregar",
     "browser_upload_camera": "Tirar foto",
     "browser_upload_camera_denied": "O TigerDuck não pode usar a câmera sem permissão.",

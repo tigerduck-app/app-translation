@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Sign in on the web page",
     "browser_sign_in_working": "Signing in…",
     "browser_signed_in": "Signed in",
-    "browser_signed_in_detail": "Signed in automatically through the site's one-time link. Your password is never given to the page.",
     "browser_stop": "Stop loading",
     "browser_upload_camera": "Take a photo",
     "browser_upload_camera_denied": "TigerDuck can't use the camera without permission.",

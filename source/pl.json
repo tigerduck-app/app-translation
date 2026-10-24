@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Zaloguj się na stronie",
     "browser_sign_in_working": "Logowanie…",
     "browser_signed_in": "Zalogowano",
-    "browser_signed_in_detail": "Zalogowano automatycznie przez jednorazowy link witryny. Twoje hasło nigdy nie trafia do strony.",
     "browser_stop": "Zatrzymaj wczytywanie",
     "browser_upload_camera": "Zrób zdjęcie",
     "browser_upload_camera_denied": "Bez uprawnienia TigerDuck nie może używać aparatu.",

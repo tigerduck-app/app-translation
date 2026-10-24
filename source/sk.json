@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Prihlásiť sa na webovej stránke",
     "browser_sign_in_working": "Prihlasuje sa…",
     "browser_signed_in": "Prihlásené",
-    "browser_signed_in_detail": "Prihlásené automaticky jednorazovým odkazom webu. Vaše heslo sa stránke nikdy neodovzdáva.",
     "browser_stop": "Zastaviť načítavanie",
     "browser_upload_camera": "Odfotiť",
     "browser_upload_camera_denied": "Bez povolenia nemôže TigerDuck použiť fotoaparát.",

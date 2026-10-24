@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Web ページでログイン",
     "browser_sign_in_working": "ログインしています…",
     "browser_signed_in": "ログイン済み",
-    "browser_signed_in_detail": "サイトのワンタイムリンクで自動的にログインしました。パスワードがページに渡されることはありません。",
     "browser_stop": "読み込みを停止",
     "browser_upload_camera": "写真を撮る",
     "browser_upload_camera_denied": "権限がないため、TigerDuck はカメラを使えません。",

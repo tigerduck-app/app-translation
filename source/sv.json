@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Logga in på webbsidan",
     "browser_sign_in_working": "Loggar in…",
     "browser_signed_in": "Inloggad",
-    "browser_signed_in_detail": "Inloggad automatiskt via webbplatsens engångslänk. Ditt lösenord lämnas aldrig till sidan.",
     "browser_stop": "Sluta läsa in",
     "browser_upload_camera": "Ta ett foto",
     "browser_upload_camera_denied": "TigerDuck kan inte använda kameran utan behörighet.",

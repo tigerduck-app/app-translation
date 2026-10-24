@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Kirjaudu verkkosivulla",
     "browser_sign_in_working": "Kirjaudutaan…",
     "browser_signed_in": "Kirjautunut",
-    "browser_signed_in_detail": "Kirjauduttu automaattisesti sivuston kertakäyttöisellä linkillä. Salasanaasi ei koskaan anneta sivulle.",
     "browser_stop": "Lopeta lataus",
     "browser_upload_camera": "Ota kuva",
     "browser_upload_camera_denied": "TigerDuck ei voi käyttää kameraa ilman lupaa.",

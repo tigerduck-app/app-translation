@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Пријави се на веб-страници",
     "browser_sign_in_working": "Пријављивање…",
     "browser_signed_in": "Пријављени сте",
-    "browser_signed_in_detail": "Аутоматски пријављени једнократним линком сајта. Ваша лозинка се никада не предаје страници.",
     "browser_stop": "Заустави учитавање",
     "browser_upload_camera": "Сликај",
     "browser_upload_camera_denied": "Без дозволе TigerDuck не може да користи камеру.",

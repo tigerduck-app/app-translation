@@ -1231,7 +1231,6 @@
     "browser_sign_in_web": "Увійти на веб-сторінці",
     "browser_sign_in_working": "Виконується вхід…",
     "browser_signed_in": "Вхід виконано",
-    "browser_signed_in_detail": "Вхід виконано автоматично за одноразовим посиланням сайту. Ваш пароль ніколи не передається сторінці.",
     "browser_stop": "Зупинити завантаження",
     "browser_upload_camera": "Зробити фото",
     "browser_upload_camera_denied": "Без дозволу TigerDuck не може користуватися камерою.",
