@@ -223,6 +223,7 @@ before inventing a new one):
 | `add_course_` | Add-course flow |
 | `app_` | App-level state (`app_name`, reset, exit) |
 | `assignment_` | Assignment list, filters, status, time formatting |
+| `browser_` | The Android app's in-app browser (TigerDuck browser): its bars, menu, sheets and sign-in screen; `android` group |
 | `calendar_` | Calendar screen |
 | `class_table_` | Class table screen |
 | `color_picker_` | Color picker dialog |
