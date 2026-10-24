@@ -32,6 +32,7 @@
 "action_clear_text" = "Hapus teks";
 "action_close" = "Tutup";
 "action_confirm" = "Konfirmasi";
+"action_continue" = "Lanjutkan";
 "action_done" = "Selesai";
 "action_go_to_settings" = "Buka pengaturan";
 "action_got_it" = "Mengerti";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "Tab saat ini";
 "tab_editor_title" = "Sesuaikan menu bawah";
 "tag_server_notification" = "Notifikasi server";
+"tls_certificate_fingerprint" = "Sidik jari SHA-256";
+"tls_certificate_intermediate" = "Perantara";
+"tls_certificate_issuer" = "Penerbit";
+"tls_certificate_list_title" = "Sertifikat";
+"tls_certificate_name" = "Nama";
+"tls_certificate_root" = "Root";
+"tls_certificate_validity" = "Masa berlaku";
+"tls_pin_mismatch_details" = "Sertifikat %1$@ berbeda dari yang tercatat di TigerDuck, tetapi diterbitkan oleh otoritas tepercaya, sehingga situs web mungkin telah memperbarui sertifikatnya. Jika Anda melanjutkan, TigerDuck akan memercayai sertifikat ini hingga pembaruan berikutnya, untuk semua situs di bawah %2$@.";
+"tls_pin_mismatch_issuer" = "Diterbitkan oleh %@";
+"tls_pin_mismatch_message" = "Sertifikat situs web tidak cocok dengan yang tercatat, sehingga memengaruhi keamanan koneksi. Lanjutkan ke situs web ini?";
+"tls_pin_mismatch_show_details" = "Detail";
+"tls_pin_mismatch_title" = "Sertifikat berubah";
+"tls_pin_mismatch_view_certificate" = "Lihat sertifikat";
 "update_action_later" = "Nanti";
 "update_action_skip_version" = "Lewati versi ini";
 "update_action_update_now" = "Perbarui sekarang";

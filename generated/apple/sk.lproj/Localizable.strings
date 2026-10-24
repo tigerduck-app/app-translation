@@ -32,6 +32,7 @@
 "action_clear_text" = "Vymazať text";
 "action_close" = "Zavrieť";
 "action_confirm" = "Potvrdiť";
+"action_continue" = "Pokračovať";
 "action_done" = "Hotovo";
 "action_go_to_settings" = "Prejsť do nastavení";
 "action_got_it" = "Rozumiem";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "Aktuálne karty";
 "tab_editor_title" = "Prispôsobiť spodnú lištu";
 "tag_server_notification" = "Serverové oznámenie";
+"tls_certificate_fingerprint" = "Odtlačok SHA-256";
+"tls_certificate_intermediate" = "Sprostredkujúci";
+"tls_certificate_issuer" = "Vydavateľ";
+"tls_certificate_list_title" = "Certifikáty";
+"tls_certificate_name" = "Názov";
+"tls_certificate_root" = "Koreňový";
+"tls_certificate_validity" = "Platnosť";
+"tls_pin_mismatch_details" = "Certifikát webu %1$@ sa líši od toho, ktorý má TigerDuck zaznamenaný, ale vydala ho dôveryhodná autorita, takže web mohol certifikát obnoviť. Ak budete pokračovať, TigerDuck bude tomuto certifikátu dôverovať do ďalšej aktualizácie, pre všetky weby v doméne %2$@.";
+"tls_pin_mismatch_issuer" = "Vydal: %@";
+"tls_pin_mismatch_message" = "Certifikát webu nezodpovedá zaznamenanému, čo ovplyvňuje bezpečnosť pripojenia. Pokračovať na tento web?";
+"tls_pin_mismatch_show_details" = "Podrobnosti";
+"tls_pin_mismatch_title" = "Certifikát sa zmenil";
+"tls_pin_mismatch_view_certificate" = "Zobraziť certifikát";
 "update_action_later" = "Neskôr";
 "update_action_skip_version" = "Preskočiť túto verziu";
 "update_action_update_now" = "Aktualizovať teraz";

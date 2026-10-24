@@ -32,6 +32,7 @@
 "action_clear_text" = "ટેક્સ્ટ સાફ કરો";
 "action_close" = "બંધ કરો";
 "action_confirm" = "પુષ્ટિ કરો";
+"action_continue" = "આગળ વધો";
 "action_done" = "થઈ ગયું";
 "action_go_to_settings" = "સેટિંગ્સ પર જાઓ";
 "action_got_it" = "સમજ્યા";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "વર્તમાન ટૅબ";
 "tab_editor_title" = "બૉટમ નૅવિગેશન કસ્ટમાઇઝ કરો";
 "tag_server_notification" = "સર્વર સૂચના";
+"tls_certificate_fingerprint" = "SHA-256 ફિંગરપ્રિન્ટ";
+"tls_certificate_intermediate" = "મધ્યવર્તી";
+"tls_certificate_issuer" = "જારી કરનાર";
+"tls_certificate_list_title" = "પ્રમાણપત્રો";
+"tls_certificate_name" = "નામ";
+"tls_certificate_root" = "રૂટ";
+"tls_certificate_validity" = "માન્યતા";
+"tls_pin_mismatch_details" = "%1$@નું પ્રમાણપત્ર TigerDuck માં નોંધાયેલા પ્રમાણપત્રથી અલગ છે, પરંતુ તે વિશ્વસનીય સંસ્થા દ્વારા જારી કરાયું છે, તેથી વેબસાઇટે પ્રમાણપત્રનું નવીનીકરણ કર્યું હોઈ શકે. આગળ વધશો તો TigerDuck આગામી અપડેટ સુધી આ પ્રમાણપત્ર પર ભરોસો કરશે, %2$@ હેઠળની બધી સાઇટ માટે.";
+"tls_pin_mismatch_issuer" = "જારી કરનાર: %@";
+"tls_pin_mismatch_message" = "વેબસાઇટનું પ્રમાણપત્ર નોંધાયેલા પ્રમાણપત્ર સાથે મેળ ખાતું નથી, જેનાથી કનેક્શનની સુરક્ષા પર અસર પડે છે. શું આ વેબસાઇટ પર આગળ વધવું છે?";
+"tls_pin_mismatch_show_details" = "વિગતો";
+"tls_pin_mismatch_title" = "પ્રમાણપત્ર બદલાયું છે";
+"tls_pin_mismatch_view_certificate" = "પ્રમાણપત્ર જુઓ";
 "update_action_later" = "પછી";
 "update_action_skip_version" = "આ વર્ઝન છોડો";
 "update_action_update_now" = "હમણાં અપડેટ કરો";

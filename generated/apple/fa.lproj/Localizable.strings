@@ -32,6 +32,7 @@
 "action_clear_text" = "پاک کردن متن";
 "action_close" = "بستن";
 "action_confirm" = "تأیید";
+"action_continue" = "ادامه";
 "action_done" = "انجام شد";
 "action_go_to_settings" = "رفتن به تنظیمات";
 "action_got_it" = "متوجه شدم";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "تب‌های فعلی";
 "tab_editor_title" = "شخصی‌سازی نوار پایین";
 "tag_server_notification" = "اعلان سرور";
+"tls_certificate_fingerprint" = "اثر انگشت SHA-256";
+"tls_certificate_intermediate" = "میانی";
+"tls_certificate_issuer" = "صادرکننده";
+"tls_certificate_list_title" = "گواهی‌ها";
+"tls_certificate_name" = "نام";
+"tls_certificate_root" = "ریشه";
+"tls_certificate_validity" = "اعتبار";
+"tls_pin_mismatch_details" = "گواهی %1$@ با گواهی ثبت‌شده در TigerDuck متفاوت است، اما یک مرجع معتبر آن را صادر کرده است، پس ممکن است وب‌سایت گواهی خود را تمدید کرده باشد. اگر ادامه دهید، TigerDuck تا به‌روزرسانی بعدی به این گواهی اعتماد می‌کند، برای همه سایت‌های زیر %2$@.";
+"tls_pin_mismatch_issuer" = "صادرکننده: %@";
+"tls_pin_mismatch_message" = "گواهی وب‌سایت با گواهی ثبت‌شده مطابقت ندارد و این امنیت اتصال را تحت تأثیر قرار می‌دهد. به این وب‌سایت ادامه می‌دهید؟";
+"tls_pin_mismatch_show_details" = "جزئیات";
+"tls_pin_mismatch_title" = "گواهی تغییر کرده است";
+"tls_pin_mismatch_view_certificate" = "مشاهده گواهی";
 "update_action_later" = "بعداً";
 "update_action_skip_version" = "از این نسخه بگذر";
 "update_action_update_now" = "همین الان به‌روزرسانی کن";

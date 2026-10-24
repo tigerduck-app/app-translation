@@ -32,6 +32,7 @@
 "action_clear_text" = "Șterge textul";
 "action_close" = "Închide";
 "action_confirm" = "Confirmă";
+"action_continue" = "Continuă";
 "action_done" = "Finalizat";
 "action_go_to_settings" = "Mergi la setări";
 "action_got_it" = "Înțeles";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "File curente";
 "tab_editor_title" = "Personalizează bara inferioară";
 "tag_server_notification" = "Notificare server";
+"tls_certificate_fingerprint" = "Amprentă SHA-256";
+"tls_certificate_intermediate" = "Intermediar";
+"tls_certificate_issuer" = "Emitent";
+"tls_certificate_list_title" = "Certificate";
+"tls_certificate_name" = "Nume";
+"tls_certificate_root" = "Rădăcină";
+"tls_certificate_validity" = "Valabilitate";
+"tls_pin_mismatch_details" = "Certificatul pentru %1$@ diferă de cel înregistrat de TigerDuck, dar a fost emis de o autoritate de încredere, așa că site-ul poate să-l fi reînnoit. Dacă continui, TigerDuck va avea încredere în acest certificat până la următoarea actualizare, pentru toate site-urile din %2$@.";
+"tls_pin_mismatch_issuer" = "Emis de %@";
+"tls_pin_mismatch_message" = "Certificatul site-ului nu se potrivește cu cel înregistrat, ceea ce afectează securitatea conexiunii. Continui către acest site?";
+"tls_pin_mismatch_show_details" = "Detalii";
+"tls_pin_mismatch_title" = "Certificat modificat";
+"tls_pin_mismatch_view_certificate" = "Vezi certificatul";
 "update_action_later" = "Mai târziu";
 "update_action_skip_version" = "Omiteți această versiune";
 "update_action_update_now" = "Actualizați acum";
