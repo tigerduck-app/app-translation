@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">Se necesita acceso a la cámara para escanear</string>
     <string name="class_table_import_choose_photo">Elegir de las fotos</string>
     <string name="class_table_import_course_count">Cursos</string>
+    <string name="class_table_import_enter_link">Introducir enlace</string>
     <string name="class_table_import_failed">No se pudo importar el horario</string>
     <string name="class_table_import_invalid_message">El código para compartir está dañado o se ha modificado.</string>
+    <string name="class_table_import_link_placeholder">Enlace para compartir</string>
     <string name="class_table_import_lookup_failed">No se pudieron cargar los detalles de los cursos</string>
     <string name="class_table_import_no_code_message">No se encontró ningún código para compartir horarios en la imagen.</string>
     <string name="class_table_import_own_code_message">Este es tu propio horario.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_share">Compartir horario</string>
     <string name="class_table_share_all_semesters">Todos los semestres</string>
+    <string name="class_table_share_copy_link">Copiar enlace</string>
+    <string name="class_table_share_link_copied">Enlace copiado</string>
     <string name="class_table_share_tat_compatible">Compatible con TAT</string>
     <string name="class_table_sign_in_required_message">Inicia sesión para ver tu tabla de clases</string>
     <string name="class_table_total_credits_value">%1$s créditos</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Inicia sesión para ver las tareas.</string>
     <string name="home_builtin_sections">Secciones integradas</string>
     <string name="home_custom_section">Sección personalizada</string>
+    <string name="home_edit">Editar Inicio</string>
+    <string name="home_more_actions">Más acciones</string>
     <string name="home_no_courses_today">Hoy no hay clases</string>
     <string name="home_pending_assignments">Tareas pendientes</string>
     <string name="home_section_add_quick_features">Agregar acciones rápidas</string>

@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">Zum Scannen ist Kamerazugriff erforderlich</string>
     <string name="class_table_import_choose_photo">Aus Fotos auswählen</string>
     <string name="class_table_import_course_count">Kurse</string>
+    <string name="class_table_import_enter_link">Link eingeben</string>
     <string name="class_table_import_failed">Stundenplan konnte nicht importiert werden</string>
     <string name="class_table_import_invalid_message">Der Freigabecode ist beschädigt oder wurde verändert.</string>
+    <string name="class_table_import_link_placeholder">Freigabelink</string>
     <string name="class_table_import_lookup_failed">Kursdetails konnten nicht geladen werden</string>
     <string name="class_table_import_no_code_message">Im Bild wurde kein Freigabecode für einen Stundenplan gefunden.</string>
     <string name="class_table_import_own_code_message">Das ist Ihr eigener Stundenplan.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_share">Stundenplan teilen</string>
     <string name="class_table_share_all_semesters">Alle Semester</string>
+    <string name="class_table_share_copy_link">Link kopieren</string>
+    <string name="class_table_share_link_copied">Link kopiert</string>
     <string name="class_table_share_tat_compatible">TAT-kompatibel</string>
     <string name="class_table_sign_in_required_message">Melden Sie sich an, um Ihre Klassentabelle anzuzeigen</string>
     <string name="class_table_total_credits_value">%1$s Leistungspunkte</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Anmelden, um Aufgaben anzuzeigen.</string>
     <string name="home_builtin_sections">Integrierte Bereiche</string>
     <string name="home_custom_section">Eigener Bereich</string>
+    <string name="home_edit">Startseite bearbeiten</string>
+    <string name="home_more_actions">Weitere Aktionen</string>
     <string name="home_no_courses_today">Heute kein Unterricht</string>
     <string name="home_pending_assignments">Offene Aufgaben</string>
     <string name="home_section_add_quick_features">Fügen Sie Schnellaktionen hinzu</string>

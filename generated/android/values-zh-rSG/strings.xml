@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">需要相机权限才能扫描</string>
     <string name="class_table_import_choose_photo">从相册选择</string>
     <string name="class_table_import_course_count">课程数</string>
+    <string name="class_table_import_enter_link">输入链接</string>
     <string name="class_table_import_failed">无法导入课表</string>
     <string name="class_table_import_invalid_message">分享码已损坏或被修改。</string>
+    <string name="class_table_import_link_placeholder">分享链接</string>
     <string name="class_table_import_lookup_failed">无法获取课程数据</string>
     <string name="class_table_import_no_code_message">图片中找不到课表分享码。</string>
     <string name="class_table_import_own_code_message">这是你自己的课表。</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">学期</string>
     <string name="class_table_share">分享课表</string>
     <string name="class_table_share_all_semesters">所有学期</string>
+    <string name="class_table_share_copy_link">复制链接</string>
+    <string name="class_table_share_link_copied">已复制链接</string>
     <string name="class_table_share_tat_compatible">兼容 TAT</string>
     <string name="class_table_sign_in_required_message">请登录后查看课程表</string>
     <string name="class_table_total_credits_value">%1$s 学分</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">请登录以查看作业。</string>
     <string name="home_builtin_sections">内置区块</string>
     <string name="home_custom_section">自订区块</string>
+    <string name="home_edit">编辑首页</string>
+    <string name="home_more_actions">更多操作</string>
     <string name="home_no_courses_today">今日无课程</string>
     <string name="home_pending_assignments">待办作业</string>
     <string name="home_section_add_quick_features">添加快速功能</string>

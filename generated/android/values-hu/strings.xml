@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">A beolvasáshoz kamera-hozzáférés szükséges</string>
     <string name="class_table_import_choose_photo">Kiválasztás a fotók közül</string>
     <string name="class_table_import_course_count">Kurzusok</string>
+    <string name="class_table_import_enter_link">Hivatkozás megadása</string>
     <string name="class_table_import_failed">Az órarend importálása nem sikerült</string>
     <string name="class_table_import_invalid_message">A megosztási kód sérült, vagy módosították.</string>
+    <string name="class_table_import_link_placeholder">Megosztási hivatkozás</string>
     <string name="class_table_import_lookup_failed">Nem sikerült betölteni a kurzusok részleteit</string>
     <string name="class_table_import_no_code_message">A képen nem található órarend-megosztási kód.</string>
     <string name="class_table_import_own_code_message">Ez az Ön saját órarendje.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Félév</string>
     <string name="class_table_share">Órarend megosztása</string>
     <string name="class_table_share_all_semesters">Minden félév</string>
+    <string name="class_table_share_copy_link">Hivatkozás másolása</string>
+    <string name="class_table_share_link_copied">Hivatkozás másolva</string>
     <string name="class_table_share_tat_compatible">TAT-kompatibilis</string>
     <string name="class_table_sign_in_required_message">Jelentkezzen be az órarend megtekintéséhez</string>
     <string name="class_table_total_credits_value">%1$s kredit</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Jelentkezzen be a feladatok megtekintéséhez.</string>
     <string name="home_builtin_sections">Beépített szekciók</string>
     <string name="home_custom_section">Egyéni szekció</string>
+    <string name="home_edit">Főoldal szerkesztése</string>
+    <string name="home_more_actions">További műveletek</string>
     <string name="home_no_courses_today">Ma nincsenek órák</string>
     <string name="home_pending_assignments">Függőben lévő házi feladatok</string>
     <string name="home_section_add_quick_features">Gyors műveletek hozzáadása</string>

@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">Der kræves adgang til kameraet for at scanne</string>
     <string name="class_table_import_choose_photo">Vælg fra fotos</string>
     <string name="class_table_import_course_count">Kurser</string>
+    <string name="class_table_import_enter_link">Indtast link</string>
     <string name="class_table_import_failed">Skemaet kunne ikke importeres</string>
     <string name="class_table_import_invalid_message">Delingskoden er beskadiget eller ændret.</string>
+    <string name="class_table_import_link_placeholder">Delingslink</string>
     <string name="class_table_import_lookup_failed">Kursusoplysningerne kunne ikke indlæses</string>
     <string name="class_table_import_no_code_message">Der blev ikke fundet nogen delingskode til et skema i billedet.</string>
     <string name="class_table_import_own_code_message">Det er dit eget skema.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_share">Del skema</string>
     <string name="class_table_share_all_semesters">Alle semestre</string>
+    <string name="class_table_share_copy_link">Kopiér link</string>
+    <string name="class_table_share_link_copied">Link kopieret</string>
     <string name="class_table_share_tat_compatible">Kompatibel med TAT</string>
     <string name="class_table_sign_in_required_message">Log ind for at se din klassetabel</string>
     <string name="class_table_total_credits_value">%1$s ECTS-point</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Log ind for at se opgaver.</string>
     <string name="home_builtin_sections">Indbyggede sektioner</string>
     <string name="home_custom_section">Brugerdefineret sektion</string>
+    <string name="home_edit">Rediger Hjem</string>
+    <string name="home_more_actions">Flere handlinger</string>
     <string name="home_no_courses_today">Ingen timer i dag</string>
     <string name="home_pending_assignments">Afventende opgaver</string>
     <string name="home_section_add_quick_features">Tilføj hurtige handlinger</string>

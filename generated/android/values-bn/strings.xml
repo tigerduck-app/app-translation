@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">স্ক্যান করতে ক্যামেরার অনুমতি প্রয়োজন</string>
     <string name="class_table_import_choose_photo">ফটো থেকে বেছে নিন</string>
     <string name="class_table_import_course_count">কোর্সের সংখ্যা</string>
+    <string name="class_table_import_enter_link">লিংক লিখুন</string>
     <string name="class_table_import_failed">ক্লাস তালিকা আমদানি করা যায়নি</string>
     <string name="class_table_import_invalid_message">শেয়ার কোডটি নষ্ট বা পরিবর্তিত হয়েছে।</string>
+    <string name="class_table_import_link_placeholder">শেয়ার লিংক</string>
     <string name="class_table_import_lookup_failed">কোর্সের বিবরণ লোড করা যায়নি</string>
     <string name="class_table_import_no_code_message">ছবিতে কোনো ক্লাস তালিকার শেয়ার কোড পাওয়া যায়নি।</string>
     <string name="class_table_import_own_code_message">এটি আপনার নিজের ক্লাস তালিকা।</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">সেমিস্টার</string>
     <string name="class_table_share">ক্লাস তালিকা শেয়ার করুন</string>
     <string name="class_table_share_all_semesters">সব সেমিস্টার</string>
+    <string name="class_table_share_copy_link">লিংক কপি করুন</string>
+    <string name="class_table_share_link_copied">লিংক কপি হয়েছে</string>
     <string name="class_table_share_tat_compatible">TAT-এর সাথে সামঞ্জস্যপূর্ণ</string>
     <string name="class_table_sign_in_required_message">আপনার ক্লাস টেবিল দেখতে সাইন ইন করুন</string>
     <string name="class_table_total_credits_value">%1$s ক্রেডিট</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">অ্যাসাইনমেন্ট দেখতে সাইন ইন করুন।</string>
     <string name="home_builtin_sections">বিল্ট-ইন বিভাগ</string>
     <string name="home_custom_section">কাস্টম বিভাগ</string>
+    <string name="home_edit">হোম সম্পাদনা করুন</string>
+    <string name="home_more_actions">আরও কার্যক্রম</string>
     <string name="home_no_courses_today">আজ কোনো ক্লাস নেই</string>
     <string name="home_pending_assignments">মুলতুবি অ্যাসাইনমেন্ট</string>
     <string name="home_section_add_quick_features">দ্রুত কর্ম যোগ করুন</string>

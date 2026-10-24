@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "Skannaus vaatii kameran käyttöoikeuden";
 "class_table_import_choose_photo" = "Valitse kuvista";
 "class_table_import_course_count" = "Kurssit";
+"class_table_import_enter_link" = "Anna linkki";
 "class_table_import_failed" = "Lukujärjestyksen tuonti epäonnistui";
 "class_table_import_invalid_message" = "Jakokoodi on vioittunut tai sitä on muutettu.";
+"class_table_import_link_placeholder" = "Jakolinkki";
 "class_table_import_lookup_failed" = "Kurssitietoja ei voitu ladata";
 "class_table_import_no_code_message" = "Kuvasta ei löytynyt lukujärjestyksen jakokoodia.";
 "class_table_import_own_code_message" = "Tämä on oma lukujärjestyksesi.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Lukukausi";
 "class_table_share" = "Jaa lukujärjestys";
 "class_table_share_all_semesters" = "Kaikki lukukaudet";
+"class_table_share_copy_link" = "Kopioi linkki";
+"class_table_share_link_copied" = "Linkki kopioitu";
 "class_table_share_tat_compatible" = "TAT-yhteensopiva";
 "class_table_sign_in_required_message" = "Kirjaudu sisään nähdäksesi luokkataulukkosi";
 "class_table_total_credits_value" = "%1$@ opintopistettä";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Kirjaudu sisään nähdäksesi tehtävät.";
 "home_builtin_sections" = "Sisäänrakennetut osiot";
 "home_custom_section" = "Mukautettu osio";
+"home_edit" = "Muokkaa etusivua";
+"home_more_actions" = "Lisää toimintoja";
 "home_no_courses_today" = "Ei tunteja tänään";
 "home_pending_assignments" = "Odottavat tehtävät";
 "home_section_add_quick_features" = "Lisää nopeita toimintoja";

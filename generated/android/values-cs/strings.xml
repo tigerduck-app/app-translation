@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">Ke skenování je potřeba přístup k fotoaparátu</string>
     <string name="class_table_import_choose_photo">Vybrat z fotek</string>
     <string name="class_table_import_course_count">Kurzy</string>
+    <string name="class_table_import_enter_link">Zadat odkaz</string>
     <string name="class_table_import_failed">Rozvrh se nepodařilo importovat</string>
     <string name="class_table_import_invalid_message">Kód pro sdílení je poškozený nebo byl změněn.</string>
+    <string name="class_table_import_link_placeholder">Odkaz ke sdílení</string>
     <string name="class_table_import_lookup_failed">Podrobnosti kurzů se nepodařilo načíst</string>
     <string name="class_table_import_no_code_message">Na obrázku nebyl nalezen žádný kód pro sdílení rozvrhu.</string>
     <string name="class_table_import_own_code_message">Toto je váš vlastní rozvrh.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Semestr</string>
     <string name="class_table_share">Sdílet rozvrh</string>
     <string name="class_table_share_all_semesters">Všechny semestry</string>
+    <string name="class_table_share_copy_link">Kopírovat odkaz</string>
+    <string name="class_table_share_link_copied">Odkaz zkopírován</string>
     <string name="class_table_share_tat_compatible">Kompatibilní s TAT</string>
     <string name="class_table_sign_in_required_message">Chcete-li zobrazit tabulku třídy, přihlaste se</string>
     <string name="class_table_total_credits_value">%1$s kreditů</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Přihlaste se pro zobrazení úkolů.</string>
     <string name="home_builtin_sections">Vestavěné sekce</string>
     <string name="home_custom_section">Vlastní sekce</string>
+    <string name="home_edit">Upravit Domů</string>
+    <string name="home_more_actions">Další akce</string>
     <string name="home_no_courses_today">Dnes žádné hodiny</string>
     <string name="home_pending_assignments">Nevyřízené úkoly</string>
     <string name="home_section_add_quick_features">Přidejte rychlé akce</string>

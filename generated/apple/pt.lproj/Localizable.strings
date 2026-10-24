@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "É necessário acesso à câmara para digitalizar";
 "class_table_import_choose_photo" = "Escolher nas fotografias";
 "class_table_import_course_count" = "Disciplinas";
+"class_table_import_enter_link" = "Inserir ligação";
 "class_table_import_failed" = "Não foi possível importar o horário";
 "class_table_import_invalid_message" = "O código de partilha está danificado ou foi alterado.";
+"class_table_import_link_placeholder" = "Ligação de partilha";
 "class_table_import_lookup_failed" = "Não foi possível carregar os detalhes das disciplinas";
 "class_table_import_no_code_message" = "Não foi encontrado nenhum código de partilha de horário na imagem.";
 "class_table_import_own_code_message" = "Este é o teu próprio horário.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Semestre";
 "class_table_share" = "Partilhar horário";
 "class_table_share_all_semesters" = "Todos os semestres";
+"class_table_share_copy_link" = "Copiar ligação";
+"class_table_share_link_copied" = "Ligação copiada";
 "class_table_share_tat_compatible" = "Compatível com TAT";
 "class_table_sign_in_required_message" = "Inicia sessão para ver o teu horário";
 "class_table_total_credits_value" = "%1$@ créditos";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Inicie sessão para ver os trabalhos.";
 "home_builtin_sections" = "Secções incorporadas";
 "home_custom_section" = "Secção personalizada";
+"home_edit" = "Editar Início";
+"home_more_actions" = "Mais ações";
 "home_no_courses_today" = "Sem aulas hoje";
 "home_pending_assignments" = "Trabalhos pendentes";
 "home_section_add_quick_features" = "Adicionar ações rápidas";

@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">Lai skenētu, nepieciešama piekļuve kamerai</string>
     <string name="class_table_import_choose_photo">Izvēlēties no fotoattēliem</string>
     <string name="class_table_import_course_count">Kursi</string>
+    <string name="class_table_import_enter_link">Ievadīt saiti</string>
     <string name="class_table_import_failed">Neizdevās importēt stundu plānu</string>
     <string name="class_table_import_invalid_message">Kopīgošanas kods ir bojāts vai mainīts.</string>
+    <string name="class_table_import_link_placeholder">Kopīgošanas saite</string>
     <string name="class_table_import_lookup_failed">Neizdevās ielādēt kursu informāciju</string>
     <string name="class_table_import_no_code_message">Attēlā netika atrasts stundu plāna kopīgošanas kods.</string>
     <string name="class_table_import_own_code_message">Šis ir jūsu stundu plāns.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Semestris</string>
     <string name="class_table_share">Kopīgot stundu plānu</string>
     <string name="class_table_share_all_semesters">Visi semestri</string>
+    <string name="class_table_share_copy_link">Kopēt saiti</string>
+    <string name="class_table_share_link_copied">Saite nokopēta</string>
     <string name="class_table_share_tat_compatible">Saderīgs ar TAT</string>
     <string name="class_table_sign_in_required_message">Pierakstieties, lai skatītu savu stundu sarakstu</string>
     <string name="class_table_total_credits_value">%1$s kredītpunkti</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Piesakieties, lai skatītu uzdevumus.</string>
     <string name="home_builtin_sections">Iebūvētās sadaļas</string>
     <string name="home_custom_section">Pielāgotā sadaļa</string>
+    <string name="home_edit">Rediģēt sākumu</string>
+    <string name="home_more_actions">Vairāk darbību</string>
     <string name="home_no_courses_today">Šodien nav nodarbību</string>
     <string name="home_pending_assignments">Gaidošie uzdevumi</string>
     <string name="home_section_add_quick_features">Pievienot ātrās darbības</string>

@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">É necessário acesso à câmara para digitalizar</string>
     <string name="class_table_import_choose_photo">Escolher nas fotografias</string>
     <string name="class_table_import_course_count">Disciplinas</string>
+    <string name="class_table_import_enter_link">Inserir ligação</string>
     <string name="class_table_import_failed">Não foi possível importar o horário</string>
     <string name="class_table_import_invalid_message">O código de partilha está danificado ou foi alterado.</string>
+    <string name="class_table_import_link_placeholder">Ligação de partilha</string>
     <string name="class_table_import_lookup_failed">Não foi possível carregar os detalhes das disciplinas</string>
     <string name="class_table_import_no_code_message">Não foi encontrado nenhum código de partilha de horário na imagem.</string>
     <string name="class_table_import_own_code_message">Este é o teu próprio horário.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_share">Partilhar horário</string>
     <string name="class_table_share_all_semesters">Todos os semestres</string>
+    <string name="class_table_share_copy_link">Copiar ligação</string>
+    <string name="class_table_share_link_copied">Ligação copiada</string>
     <string name="class_table_share_tat_compatible">Compatível com TAT</string>
     <string name="class_table_sign_in_required_message">Inicia sessão para ver o teu horário</string>
     <string name="class_table_total_credits_value">%1$s créditos</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Inicie sessão para ver os trabalhos.</string>
     <string name="home_builtin_sections">Secções incorporadas</string>
     <string name="home_custom_section">Secção personalizada</string>
+    <string name="home_edit">Editar Início</string>
+    <string name="home_more_actions">Mais ações</string>
     <string name="home_no_courses_today">Sem aulas hoje</string>
     <string name="home_pending_assignments">Trabalhos pendentes</string>
     <string name="home_section_add_quick_features">Adicionar ações rápidas</string>

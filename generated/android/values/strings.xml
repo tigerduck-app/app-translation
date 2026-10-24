@@ -214,8 +214,10 @@
     <string name="class_table_import_camera_denied">Camera access is needed to scan</string>
     <string name="class_table_import_choose_photo">Choose from photos</string>
     <string name="class_table_import_course_count">Courses</string>
+    <string name="class_table_import_enter_link">Enter link</string>
     <string name="class_table_import_failed">Couldn\'t import the class table</string>
     <string name="class_table_import_invalid_message">The share code is damaged or has been changed.</string>
+    <string name="class_table_import_link_placeholder">Share link</string>
     <string name="class_table_import_lookup_failed">Couldn\'t load course details</string>
     <string name="class_table_import_no_code_message">No class table share code was found in the image.</string>
     <string name="class_table_import_own_code_message">This is your own class table.</string>
@@ -234,6 +236,8 @@
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_share">Share class table</string>
     <string name="class_table_share_all_semesters">All semesters</string>
+    <string name="class_table_share_copy_link">Copy link</string>
+    <string name="class_table_share_link_copied">Link copied</string>
     <string name="class_table_share_tat_compatible">Compatible with TAT</string>
     <string name="class_table_sign_in_required_message">Sign in to view your class table</string>
     <string name="class_table_total_credits_value">%1$s credits</string>
@@ -543,6 +547,8 @@
     <string name="home_assignments_sign_in_required_message">Sign in to view assignments.</string>
     <string name="home_builtin_sections">Built-in sections</string>
     <string name="home_custom_section">Custom section</string>
+    <string name="home_edit">Edit Home</string>
+    <string name="home_more_actions">More actions</string>
     <string name="home_no_courses_today">No classes today</string>
     <string name="home_pending_assignments">Pending assignments</string>
     <string name="home_section_add_quick_features">Add quick actions</string>

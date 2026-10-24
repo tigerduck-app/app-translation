@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "Kameraåtkomst krävs för att skanna";
 "class_table_import_choose_photo" = "Välj från bilder";
 "class_table_import_course_count" = "Kurser";
+"class_table_import_enter_link" = "Ange länk";
 "class_table_import_failed" = "Det gick inte att importera schemat";
 "class_table_import_invalid_message" = "Delningskoden är skadad eller har ändrats.";
+"class_table_import_link_placeholder" = "Delningslänk";
 "class_table_import_lookup_failed" = "Det gick inte att läsa in kursinformationen";
 "class_table_import_no_code_message" = "Ingen delningskod för schema hittades i bilden.";
 "class_table_import_own_code_message" = "Det här är ditt eget schema.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Termin";
 "class_table_share" = "Dela schema";
 "class_table_share_all_semesters" = "Alla terminer";
+"class_table_share_copy_link" = "Kopiera länk";
+"class_table_share_link_copied" = "Länk kopierad";
 "class_table_share_tat_compatible" = "Kompatibel med TAT";
 "class_table_sign_in_required_message" = "Logga in för att visa ditt schema";
 "class_table_total_credits_value" = "%1$@ hp";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Logga in för att se uppgifter.";
 "home_builtin_sections" = "Inbyggda avsnitt";
 "home_custom_section" = "Anpassat avsnitt";
+"home_edit" = "Redigera Hem";
+"home_more_actions" = "Fler åtgärder";
 "home_no_courses_today" = "Inga lektioner idag";
 "home_pending_assignments" = "Väntande uppgifter";
 "home_section_add_quick_features" = "Lägg till snabbåtgärder";

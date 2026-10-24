@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "Za skeniranje je potreban pristup kameri";
 "class_table_import_choose_photo" = "Odaberi iz fotografija";
 "class_table_import_course_count" = "Kolegiji";
+"class_table_import_enter_link" = "Unesi poveznicu";
 "class_table_import_failed" = "Raspored nije moguće uvesti";
 "class_table_import_invalid_message" = "Kod za dijeljenje oštećen je ili izmijenjen.";
+"class_table_import_link_placeholder" = "Poveznica za dijeljenje";
 "class_table_import_lookup_failed" = "Nije moguće učitati pojedinosti o kolegijima";
 "class_table_import_no_code_message" = "Na slici nije pronađen kod za dijeljenje rasporeda.";
 "class_table_import_own_code_message" = "Ovo je vaš vlastiti raspored.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Semestar";
 "class_table_share" = "Podijeli raspored";
 "class_table_share_all_semesters" = "Svi semestri";
+"class_table_share_copy_link" = "Kopiraj poveznicu";
+"class_table_share_link_copied" = "Poveznica kopirana";
 "class_table_share_tat_compatible" = "Kompatibilno s TAT";
 "class_table_sign_in_required_message" = "Prijavite se za pregled rasporeda nastave";
 "class_table_total_credits_value" = "%1$@ ECTS bodovi";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Prijavite se za prikaz zadataka.";
 "home_builtin_sections" = "Ugrađeni odjeljci";
 "home_custom_section" = "Prilagođeni odjeljak";
+"home_edit" = "Uredi Početnu";
+"home_more_actions" = "Više radnji";
 "home_no_courses_today" = "Danas nema predavanja";
 "home_pending_assignments" = "Zadaci na čekanju";
 "home_section_add_quick_features" = "Dodaj brze radnje";

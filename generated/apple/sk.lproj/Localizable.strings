@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "Na skenovanie je potrebný prístup k fotoaparátu";
 "class_table_import_choose_photo" = "Vybrať z fotiek";
 "class_table_import_course_count" = "Kurzy";
+"class_table_import_enter_link" = "Zadať odkaz";
 "class_table_import_failed" = "Rozvrh sa nepodarilo importovať";
 "class_table_import_invalid_message" = "Kód na zdieľanie je poškodený alebo bol zmenený.";
+"class_table_import_link_placeholder" = "Odkaz na zdieľanie";
 "class_table_import_lookup_failed" = "Podrobnosti o kurzoch sa nepodarilo načítať";
 "class_table_import_no_code_message" = "Na obrázku sa nenašiel žiadny kód na zdieľanie rozvrhu.";
 "class_table_import_own_code_message" = "Toto je váš vlastný rozvrh.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Semester";
 "class_table_share" = "Zdieľať rozvrh";
 "class_table_share_all_semesters" = "Všetky semestre";
+"class_table_share_copy_link" = "Kopírovať odkaz";
+"class_table_share_link_copied" = "Odkaz skopírovaný";
 "class_table_share_tat_compatible" = "Kompatibilita s TAT";
 "class_table_sign_in_required_message" = "Prihláste sa na zobrazenie rozvrhu";
 "class_table_total_credits_value" = "%1$@ kreditov";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Prihláste sa na zobrazenie úloh.";
 "home_builtin_sections" = "Vstavané sekcie";
 "home_custom_section" = "Vlastná sekcia";
+"home_edit" = "Upraviť Domov";
+"home_more_actions" = "Ďalšie akcie";
 "home_no_courses_today" = "Dnes žiadne hodiny";
 "home_pending_assignments" = "Čakajúce úlohy";
 "home_section_add_quick_features" = "Pridať rýchle widgety";

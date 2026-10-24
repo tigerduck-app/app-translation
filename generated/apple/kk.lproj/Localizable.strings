@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "Сканерлеу үшін камераға рұқсат қажет";
 "class_table_import_choose_photo" = "Фотосуреттерден таңдау";
 "class_table_import_course_count" = "Курстар";
+"class_table_import_enter_link" = "Сілтемені енгізу";
 "class_table_import_failed" = "Сабақ кестесін импорттау мүмкін болмады";
 "class_table_import_invalid_message" = "Бөлісу коды зақымдалған немесе өзгертілген.";
+"class_table_import_link_placeholder" = "Бөлісу сілтемесі";
 "class_table_import_lookup_failed" = "Курс мәліметтерін жүктеу мүмкін болмады";
 "class_table_import_no_code_message" = "Суреттен сабақ кестесінің бөлісу коды табылмады.";
 "class_table_import_own_code_message" = "Бұл — өзіңіздің сабақ кестеңіз.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Семестр";
 "class_table_share" = "Сабақ кестесімен бөлісу";
 "class_table_share_all_semesters" = "Барлық семестрлер";
+"class_table_share_copy_link" = "Сілтемені көшіру";
+"class_table_share_link_copied" = "Сілтеме көшірілді";
 "class_table_share_tat_compatible" = "TAT үйлесімді";
 "class_table_sign_in_required_message" = "Сабақ кестесін қарау үшін жүйеге кіріңіз";
 "class_table_total_credits_value" = "%1$@ кредит";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Тапсырмаларды көру үшін кіріңіз.";
 "home_builtin_sections" = "Кірістірілген бөлімдер";
 "home_custom_section" = "Өзгертілетін бөлім";
+"home_edit" = "Басты бетті өңдеу";
+"home_more_actions" = "Көбірек әрекеттер";
 "home_no_courses_today" = "Бүгін сабақ жоқ";
 "home_pending_assignments" = "Күтілетін тапсырмалар";
 "home_section_add_quick_features" = "Жылдам әрекеттер қосу";
