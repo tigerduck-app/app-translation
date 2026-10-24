@@ -270,6 +270,7 @@
 "color_name_red" = "Vermell";
 "color_picker_apply" = "Aplica";
 "color_picker_custom" = "Personalitzat";
+"color_picker_hex_code" = "Codi de color";
 "color_picker_presets_note" = "Colors predeterminats";
 "color_picker_preview_fallback" = "Curs";
 "color_picker_selected" = "Color seleccionat";
@@ -916,6 +917,18 @@
 "score_term_format" = "Semestre actual: %1$@-%2$@";
 "settings_about_others" = "Altres";
 "settings_accent_color" = "Color d'accent";
+"settings_accent_gradient_custom" = "Degradat personalitzat";
+"settings_accent_gradient_direction" = "Direcció del degradat";
+"settings_accent_gradient_direction_bottom_to_top" = "De baix a dalt";
+"settings_accent_gradient_direction_left_to_right" = "D'esquerra a dreta";
+"settings_accent_gradient_direction_right_to_left" = "De dreta a esquerra";
+"settings_accent_gradient_direction_top_left_to_bottom_right" = "De dalt a l'esquerra a baix a la dreta";
+"settings_accent_gradient_direction_top_right_to_bottom_left" = "De dalt a la dreta a baix a l'esquerra";
+"settings_accent_gradient_direction_top_to_bottom" = "De dalt a baix";
+"settings_accent_gradient_end" = "Color final";
+"settings_accent_gradient_name" = "%1$@ – %2$@";
+"settings_accent_gradient_start" = "Color inicial";
+"settings_accent_gradients" = "Degradats";
 "settings_account_library_system" = "Sistema de la biblioteca";
 "settings_account_ntust_system" = "Sistema acadèmic";
 "settings_acknowledged" = "Entès";

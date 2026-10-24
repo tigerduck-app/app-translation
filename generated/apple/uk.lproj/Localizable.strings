@@ -270,6 +270,7 @@
 "color_name_red" = "Червоний";
 "color_picker_apply" = "Застосувати";
 "color_picker_custom" = "Власний";
+"color_picker_hex_code" = "Код кольору";
 "color_picker_presets_note" = "Готові кольори";
 "color_picker_preview_fallback" = "Курс";
 "color_picker_selected" = "Вибраний колір";
@@ -916,6 +917,18 @@
 "score_term_format" = "Поточний семестр: %1$@-%2$@";
 "settings_about_others" = "Інше";
 "settings_accent_color" = "Акцентний колір";
+"settings_accent_gradient_custom" = "Власний градієнт";
+"settings_accent_gradient_direction" = "Напрямок градієнта";
+"settings_accent_gradient_direction_bottom_to_top" = "Знизу вгору";
+"settings_accent_gradient_direction_left_to_right" = "Зліва направо";
+"settings_accent_gradient_direction_right_to_left" = "Справа наліво";
+"settings_accent_gradient_direction_top_left_to_bottom_right" = "З верхнього лівого кута в нижній правий";
+"settings_accent_gradient_direction_top_right_to_bottom_left" = "З верхнього правого кута в нижній лівий";
+"settings_accent_gradient_direction_top_to_bottom" = "Згори вниз";
+"settings_accent_gradient_end" = "Кінцевий колір";
+"settings_accent_gradient_name" = "%1$@ – %2$@";
+"settings_accent_gradient_start" = "Початковий колір";
+"settings_accent_gradients" = "Градієнти";
 "settings_account_library_system" = "Система бібліотеки";
 "settings_account_ntust_system" = "Шкільна система";
 "settings_acknowledged" = "Зрозуміло";
