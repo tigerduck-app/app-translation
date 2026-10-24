@@ -32,6 +32,7 @@
 "action_clear_text" = "Εκκαθάριση κειμένου";
 "action_close" = "Κλείσιμο";
 "action_confirm" = "Επιβεβαίωση";
+"action_continue" = "Συνέχεια";
 "action_done" = "Τέλος";
 "action_go_to_settings" = "Μετάβαση στις ρυθμίσεις";
 "action_got_it" = "Κατάλαβα";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "Τρέχουσες καρτέλες";
 "tab_editor_title" = "Προσαρμογή κάτω πλοήγησης";
 "tag_server_notification" = "Ειδοποίηση διακομιστή";
+"tls_certificate_fingerprint" = "Αποτύπωμα SHA-256";
+"tls_certificate_intermediate" = "Ενδιάμεσο";
+"tls_certificate_issuer" = "Εκδότης";
+"tls_certificate_list_title" = "Πιστοποιητικά";
+"tls_certificate_name" = "Όνομα";
+"tls_certificate_root" = "Ρίζας";
+"tls_certificate_validity" = "Ισχύς";
+"tls_pin_mismatch_details" = "Το πιστοποιητικό του %1$@ διαφέρει από αυτό που έχει καταγράψει το TigerDuck, αλλά εκδόθηκε από αξιόπιστη αρχή, οπότε ο ιστότοπος μπορεί να το ανανέωσε. Αν συνεχίσετε, το TigerDuck θα εμπιστεύεται αυτό το πιστοποιητικό μέχρι την επόμενη ενημέρωση, για όλους τους ιστότοπους υπό %2$@.";
+"tls_pin_mismatch_issuer" = "Εκδότης: %@";
+"tls_pin_mismatch_message" = "Το πιστοποιητικό του ιστότοπου δεν ταιριάζει με αυτό που έχει καταγραφεί, γεγονός που επηρεάζει την ασφάλεια της σύνδεσης. Να συνεχίσετε σε αυτόν τον ιστότοπο;";
+"tls_pin_mismatch_show_details" = "Λεπτομέρειες";
+"tls_pin_mismatch_title" = "Το πιστοποιητικό άλλαξε";
+"tls_pin_mismatch_view_certificate" = "Προβολή πιστοποιητικού";
 "update_action_later" = "Αργότερα";
 "update_action_skip_version" = "Παράλειψη αυτής της έκδοσης";
 "update_action_update_now" = "Ενημέρωση τώρα";

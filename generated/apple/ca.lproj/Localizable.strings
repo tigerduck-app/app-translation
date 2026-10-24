@@ -32,6 +32,7 @@
 "action_clear_text" = "Esborrar text";
 "action_close" = "Tanca";
 "action_confirm" = "Confirma";
+"action_continue" = "Continua";
 "action_done" = "Fet";
 "action_go_to_settings" = "Ves a la configuració";
 "action_got_it" = "Entès";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "Pestanyes actuals";
 "tab_editor_title" = "Personalitza la barra inferior";
 "tag_server_notification" = "Notificació del servidor";
+"tls_certificate_fingerprint" = "Empremta SHA-256";
+"tls_certificate_intermediate" = "Intermedi";
+"tls_certificate_issuer" = "Emissor";
+"tls_certificate_list_title" = "Certificats";
+"tls_certificate_name" = "Nom";
+"tls_certificate_root" = "Arrel";
+"tls_certificate_validity" = "Validesa";
+"tls_pin_mismatch_details" = "El certificat de %1$@ és diferent del que TigerDuck té registrat, però l'ha emès una autoritat de confiança, de manera que el lloc web potser l'ha renovat. Si continues, TigerDuck confiarà en aquest certificat fins a la pròxima actualització, per a tots els llocs de %2$@.";
+"tls_pin_mismatch_issuer" = "Emès per %@";
+"tls_pin_mismatch_message" = "El certificat del lloc web no coincideix amb el registrat, cosa que afecta la seguretat de la connexió. Vols continuar cap a aquest lloc web?";
+"tls_pin_mismatch_show_details" = "Detalls";
+"tls_pin_mismatch_title" = "Certificat canviat";
+"tls_pin_mismatch_view_certificate" = "Mostra el certificat";
 "update_action_later" = "Més tard";
 "update_action_skip_version" = "Omet aquesta versió";
 "update_action_update_now" = "Actualitza ara";

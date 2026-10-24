@@ -32,6 +32,7 @@
 "action_clear_text" = "Tøm tekst";
 "action_close" = "Lukk";
 "action_confirm" = "Bekreft";
+"action_continue" = "Fortsett";
 "action_done" = "Ferdig";
 "action_go_to_settings" = "Gå til innstillinger";
 "action_got_it" = "Forstått";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "Gjeldende faner";
 "tab_editor_title" = "Tilpass bunnavigasjonen";
 "tag_server_notification" = "Servervarsling";
+"tls_certificate_fingerprint" = "SHA-256-fingeravtrykk";
+"tls_certificate_intermediate" = "Mellomliggende";
+"tls_certificate_issuer" = "Utsteder";
+"tls_certificate_list_title" = "Sertifikater";
+"tls_certificate_name" = "Navn";
+"tls_certificate_root" = "Rot";
+"tls_certificate_validity" = "Gyldighet";
+"tls_pin_mismatch_details" = "Sertifikatet til %1$@ er forskjellig fra det TigerDuck har registrert, men er utstedt av en pålitelig utsteder, så nettstedet kan ha fornyet det. Hvis du fortsetter, stoler TigerDuck på sertifikatet frem til neste oppdatering, for alle nettsteder under %2$@.";
+"tls_pin_mismatch_issuer" = "Utstedt av %@";
+"tls_pin_mismatch_message" = "Nettstedets sertifikat samsvarer ikke med det som er registrert, noe som påvirker sikkerheten til tilkoblingen. Vil du fortsette til nettstedet?";
+"tls_pin_mismatch_show_details" = "Detaljer";
+"tls_pin_mismatch_title" = "Sertifikatet er endret";
+"tls_pin_mismatch_view_certificate" = "Vis sertifikat";
 "update_action_later" = "Senere";
 "update_action_skip_version" = "Hopp over denne versjonen";
 "update_action_update_now" = "Oppdater nå";

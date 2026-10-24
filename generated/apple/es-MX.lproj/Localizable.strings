@@ -32,6 +32,7 @@
 "action_clear_text" = "Borrar texto";
 "action_close" = "Cerrar";
 "action_confirm" = "Confirmar";
+"action_continue" = "Continuar";
 "action_done" = "Listo";
 "action_go_to_settings" = "Ir a la configuración";
 "action_got_it" = "Entendido";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "Pestañas actuales";
 "tab_editor_title" = "Personalizar barra inferior";
 "tag_server_notification" = "Notificación del servidor";
+"tls_certificate_fingerprint" = "Huella SHA-256";
+"tls_certificate_intermediate" = "Intermedio";
+"tls_certificate_issuer" = "Emisor";
+"tls_certificate_list_title" = "Certificados";
+"tls_certificate_name" = "Nombre";
+"tls_certificate_root" = "Raíz";
+"tls_certificate_validity" = "Validez";
+"tls_pin_mismatch_details" = "El certificado de %1$@ es distinto del que TigerDuck tiene registrado, pero lo emitió una autoridad de confianza, así que el sitio web puede haberlo renovado. Si continúas, TigerDuck confiará en este certificado hasta su próxima actualización, para todos los sitios de %2$@.";
+"tls_pin_mismatch_issuer" = "Emitido por %@";
+"tls_pin_mismatch_message" = "El certificado del sitio web no coincide con el registrado, lo que afecta a la seguridad de la conexión. ¿Continuar a este sitio web?";
+"tls_pin_mismatch_show_details" = "Detalles";
+"tls_pin_mismatch_title" = "Certificado modificado";
+"tls_pin_mismatch_view_certificate" = "Ver certificado";
 "update_action_later" = "Más tarde";
 "update_action_skip_version" = "Omitir esta versión";
 "update_action_update_now" = "Actualizar ahora";

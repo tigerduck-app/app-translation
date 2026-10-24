@@ -32,6 +32,7 @@
 "action_clear_text" = "ಪಠ್ಯ ಅಳಿಸಿ";
 "action_close" = "ಮುಚ್ಚಿ";
 "action_confirm" = "ದೃಢಪಡಿಸಿ";
+"action_continue" = "ಮುಂದುವರಿಸಿ";
 "action_done" = "ಮುಗಿಯಿತು";
 "action_go_to_settings" = "ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ";
 "action_got_it" = "ತಿಳಿಯಿತು";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್‌ಗಳು";
 "tab_editor_title" = "ಕೆಳಗಿನ ನ್ಯಾವಿಗೇಷನ್ ಕಸ್ಟಮೈಸ್ ಮಾಡಿ";
 "tag_server_notification" = "ಸರ್ವರ್ ಅಧಿಸೂಚನೆ";
+"tls_certificate_fingerprint" = "SHA-256 ಫಿಂಗರ್‌ಪ್ರಿಂಟ್";
+"tls_certificate_intermediate" = "ಮಧ್ಯಂತರ";
+"tls_certificate_issuer" = "ನೀಡಿದವರು";
+"tls_certificate_list_title" = "ಪ್ರಮಾಣಪತ್ರಗಳು";
+"tls_certificate_name" = "ಹೆಸರು";
+"tls_certificate_root" = "ರೂಟ್";
+"tls_certificate_validity" = "ಮಾನ್ಯತೆ";
+"tls_pin_mismatch_details" = "%1$@ ಪ್ರಮಾಣಪತ್ರ TigerDuck ದಾಖಲಿಸಿರುವುದಕ್ಕಿಂತ ಭಿನ್ನವಾಗಿದೆ, ಆದರೆ ಅದನ್ನು ವಿಶ್ವಾಸಾರ್ಹ ಸಂಸ್ಥೆ ನೀಡಿದೆ, ಆದ್ದರಿಂದ ವೆಬ್‌ಸೈಟ್ ಪ್ರಮಾಣಪತ್ರವನ್ನು ನವೀಕರಿಸಿರಬಹುದು. ಮುಂದುವರಿದರೆ, ಮುಂದಿನ ಅಪ್‌ಡೇಟ್‌ವರೆಗೆ TigerDuck ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ನಂಬುತ್ತದೆ, %2$@ ಅಡಿಯ ಎಲ್ಲಾ ಸೈಟ್‌ಗಳಿಗೆ.";
+"tls_pin_mismatch_issuer" = "ನೀಡಿದವರು: %@";
+"tls_pin_mismatch_message" = "ವೆಬ್‌ಸೈಟ್‌ನ ಪ್ರಮಾಣಪತ್ರ ದಾಖಲಾಗಿರುವುದಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ, ಇದರಿಂದ ಸಂಪರ್ಕದ ಸುರಕ್ಷತೆಗೆ ಧಕ್ಕೆಯಾಗುತ್ತದೆ. ಈ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಮುಂದುವರಿಯಬೇಕೆ?";
+"tls_pin_mismatch_show_details" = "ವಿವರಗಳು";
+"tls_pin_mismatch_title" = "ಪ್ರಮಾಣಪತ್ರ ಬದಲಾಗಿದೆ";
+"tls_pin_mismatch_view_certificate" = "ಪ್ರಮಾಣಪತ್ರ ವೀಕ್ಷಿಸಿ";
 "update_action_later" = "ನಂತರ";
 "update_action_skip_version" = "ಈ ಆವೃತ್ತಿ ಬಿಟ್ಟುಬಿಡಿ";
 "update_action_update_now" = "ಈಗ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ";

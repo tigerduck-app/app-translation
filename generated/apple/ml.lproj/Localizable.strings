@@ -32,6 +32,7 @@
 "action_clear_text" = "ടെക്സ്റ്റ് മായ്ക്കുക";
 "action_close" = "അടക്കുക";
 "action_confirm" = "സ്ഥിരീകരിക്കുക";
+"action_continue" = "തുടരുക";
 "action_done" = "പൂർത്തിയായി";
 "action_go_to_settings" = "ക്രമീകരണങ്ങളിലേക്ക് പോകുക";
 "action_got_it" = "മനസ്സിലായി";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "നിലവിലെ ടാബുകൾ";
 "tab_editor_title" = "ബോട്ടം നാവിഗേഷൻ കസ്റ്റമൈസ് ചെയ്യുക";
 "tag_server_notification" = "സെർവർ അറിയിപ്പ്";
+"tls_certificate_fingerprint" = "SHA-256 ഫിംഗർപ്രിന്റ്";
+"tls_certificate_intermediate" = "ഇന്റർമീഡിയറ്റ്";
+"tls_certificate_issuer" = "നൽകിയത്";
+"tls_certificate_list_title" = "സർട്ടിഫിക്കറ്റുകൾ";
+"tls_certificate_name" = "പേര്";
+"tls_certificate_root" = "റൂട്ട്";
+"tls_certificate_validity" = "കാലാവധി";
+"tls_pin_mismatch_details" = "%1$@ ന്റെ സർട്ടിഫിക്കറ്റ് TigerDuck രേഖപ്പെടുത്തിയതിൽ നിന്ന് വ്യത്യസ്തമാണ്, പക്ഷേ വിശ്വസനീയ സ്ഥാപനമാണ് അത് നൽകിയത്, അതിനാൽ വെബ്‌സൈറ്റ് സർട്ടിഫിക്കറ്റ് പുതുക്കിയിരിക്കാം. തുടർന്നാൽ, അടുത്ത അപ്‌ഡേറ്റ് വരെ TigerDuck ഈ സർട്ടിഫിക്കറ്റിനെ വിശ്വസിക്കും, %2$@ ന് കീഴിലുള്ള എല്ലാ സൈറ്റുകൾക്കും.";
+"tls_pin_mismatch_issuer" = "നൽകിയത്: %@";
+"tls_pin_mismatch_message" = "വെബ്‌സൈറ്റിന്റെ സർട്ടിഫിക്കറ്റ് രേഖപ്പെടുത്തിയതുമായി പൊരുത്തപ്പെടുന്നില്ല, ഇത് കണക്ഷന്റെ സുരക്ഷയെ ബാധിക്കുന്നു. ഈ വെബ്‌സൈറ്റിലേക്ക് തുടരണോ?";
+"tls_pin_mismatch_show_details" = "വിശദാംശങ്ങൾ";
+"tls_pin_mismatch_title" = "സർട്ടിഫിക്കറ്റ് മാറിയിരിക്കുന്നു";
+"tls_pin_mismatch_view_certificate" = "സർട്ടിഫിക്കറ്റ് കാണുക";
 "update_action_later" = "പിന്നീട്";
 "update_action_skip_version" = "ഈ പതിപ്പ് ഒഴിവാക്കുക";
 "update_action_update_now" = "ഇപ്പോൾ അപ്‌ഡേറ്റ് ചെയ്യുക";

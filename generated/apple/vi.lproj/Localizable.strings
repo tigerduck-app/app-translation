@@ -32,6 +32,7 @@
 "action_clear_text" = "Xóa văn bản";
 "action_close" = "Đóng";
 "action_confirm" = "Xác nhận";
+"action_continue" = "Tiếp tục";
 "action_done" = "Xong";
 "action_go_to_settings" = "Đến cài đặt";
 "action_got_it" = "Đã hiểu";
@@ -1118,6 +1119,19 @@
 "tab_editor_section_current_tabs" = "Tab hiện tại";
 "tab_editor_title" = "Tùy chỉnh thanh điều hướng dưới";
 "tag_server_notification" = "Thông báo máy chủ";
+"tls_certificate_fingerprint" = "Dấu vân tay SHA-256";
+"tls_certificate_intermediate" = "Trung gian";
+"tls_certificate_issuer" = "Nơi cấp";
+"tls_certificate_list_title" = "Chứng chỉ";
+"tls_certificate_name" = "Tên";
+"tls_certificate_root" = "Gốc";
+"tls_certificate_validity" = "Hiệu lực";
+"tls_pin_mismatch_details" = "Chứng chỉ của %1$@ khác với chứng chỉ TigerDuck đã ghi nhận, nhưng do một tổ chức đáng tin cậy cấp, nên có thể trang web đã gia hạn chứng chỉ. Nếu tiếp tục, TigerDuck sẽ tin cậy chứng chỉ này cho đến lần cập nhật sau, áp dụng cho mọi trang web thuộc %2$@.";
+"tls_pin_mismatch_issuer" = "Cấp bởi %@";
+"tls_pin_mismatch_message" = "Chứng chỉ của trang web không khớp với chứng chỉ đã ghi nhận, làm ảnh hưởng đến độ an toàn của kết nối. Tiếp tục truy cập trang web này?";
+"tls_pin_mismatch_show_details" = "Chi tiết";
+"tls_pin_mismatch_title" = "Chứng chỉ đã thay đổi";
+"tls_pin_mismatch_view_certificate" = "Xem chứng chỉ";
 "update_action_later" = "Để sau";
 "update_action_skip_version" = "Bỏ qua phiên bản này";
 "update_action_update_now" = "Cập nhật ngay";
