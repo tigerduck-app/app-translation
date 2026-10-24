@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Ortak ad",
     "browser_certificate_copy": "Sertifika ayrıntılarını kopyala",
     "browser_certificate_fingerprint": "Parmak izi",
+    "browser_certificate_invalid": "Bu sertifika geçerli değil; bu yüzden sayfa açılmadı.",
     "browser_certificate_issued_by": "Veren",
     "browser_certificate_issued_to": "Verilen",
     "browser_certificate_none": "Bu sayfanın gösterilecek bir sertifikası yok.",

@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Uobičajeni naziv",
     "browser_certificate_copy": "Kopiraj podatke o certifikatu",
     "browser_certificate_fingerprint": "Otisak",
+    "browser_certificate_invalid": "Ovaj certifikat nije valjan pa stranica nije otvorena.",
     "browser_certificate_issued_by": "Izdao",
     "browser_certificate_issued_to": "Izdano za",
     "browser_certificate_none": "Ova stranica nema certifikat za prikaz.",

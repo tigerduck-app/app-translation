@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Nombre común",
     "browser_certificate_copy": "Copiar detalles del certificado",
     "browser_certificate_fingerprint": "Huella digital",
+    "browser_certificate_invalid": "Este certificado no es válido, así que la página no se abrió.",
     "browser_certificate_issued_by": "Emitido por",
     "browser_certificate_issued_to": "Emitido para",
     "browser_certificate_none": "Esta página no tiene ningún certificado que mostrar.",

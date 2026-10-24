@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Nama umum",
     "browser_certificate_copy": "Salin detail sertifikat",
     "browser_certificate_fingerprint": "Sidik jari",
+    "browser_certificate_invalid": "Sertifikat ini tidak valid, jadi halaman tidak dibuka.",
     "browser_certificate_issued_by": "Diterbitkan oleh",
     "browser_certificate_issued_to": "Diterbitkan untuk",
     "browser_certificate_none": "Halaman ini tidak punya sertifikat untuk ditampilkan.",

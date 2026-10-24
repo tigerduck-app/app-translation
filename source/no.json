@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Vanlig navn",
     "browser_certificate_copy": "Kopier sertifikatdetaljer",
     "browser_certificate_fingerprint": "Fingeravtrykk",
+    "browser_certificate_invalid": "Sertifikatet er ikke gyldig, så siden ble ikke åpnet.",
     "browser_certificate_issued_by": "Utstedt av",
     "browser_certificate_issued_to": "Utstedt til",
     "browser_certificate_none": "Denne siden har ikke noe sertifikat å vise.",

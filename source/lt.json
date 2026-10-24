@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Bendrasis vardas",
     "browser_certificate_copy": "Kopijuoti sertifikato informaciją",
     "browser_certificate_fingerprint": "Kontrolinis kodas",
+    "browser_certificate_invalid": "Šis sertifikatas negalioja, todėl puslapis neatidarytas.",
     "browser_certificate_issued_by": "Išdavė",
     "browser_certificate_issued_to": "Išduota",
     "browser_certificate_none": "Šiame puslapyje nėra rodytino sertifikato.",

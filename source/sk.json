@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Bežný názov",
     "browser_certificate_copy": "Kopírovať podrobnosti certifikátu",
     "browser_certificate_fingerprint": "Odtlačok",
+    "browser_certificate_invalid": "Tento certifikát nie je platný, preto sa stránka neotvorila.",
     "browser_certificate_issued_by": "Vydal",
     "browser_certificate_issued_to": "Vydané pre",
     "browser_certificate_none": "Táto stránka nemá žiadny certifikát na zobrazenie.",

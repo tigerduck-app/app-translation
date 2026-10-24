@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "പൊതുവായ പേര്",
     "browser_certificate_copy": "സർട്ടിഫിക്കറ്റ് വിവരങ്ങൾ പകർത്തുക",
     "browser_certificate_fingerprint": "ഫിംഗർപ്രിന്റ്",
+    "browser_certificate_invalid": "ഈ സർട്ടിഫിക്കറ്റ് സാധുവല്ല, അതിനാൽ പേജ് തുറന്നില്ല.",
     "browser_certificate_issued_by": "നൽകിയത്",
     "browser_certificate_issued_to": "ആർക്ക് നൽകി",
     "browser_certificate_none": "ഈ പേജിന് കാണിക്കാൻ സർട്ടിഫിക്കറ്റൊന്നുമില്ല.",

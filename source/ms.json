@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Nama umum",
     "browser_certificate_copy": "Salin butiran sijil",
     "browser_certificate_fingerprint": "Cap jari",
+    "browser_certificate_invalid": "Sijil ini tidak sah, jadi halaman tidak dibuka.",
     "browser_certificate_issued_by": "Dikeluarkan oleh",
     "browser_certificate_issued_to": "Dikeluarkan kepada",
     "browser_certificate_none": "Halaman ini tiada sijil untuk dipaparkan.",

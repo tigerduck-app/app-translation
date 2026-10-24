@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "பொதுப் பெயர்",
     "browser_certificate_copy": "சான்றிதழ் விவரங்களை நகலெடு",
     "browser_certificate_fingerprint": "கைரேகை",
+    "browser_certificate_invalid": "இந்தச் சான்றிதழ் செல்லுபடியாகாது, எனவே பக்கம் திறக்கப்படவில்லை.",
     "browser_certificate_issued_by": "வழங்கியவர்",
     "browser_certificate_issued_to": "யாருக்கு வழங்கப்பட்டது",
     "browser_certificate_none": "இந்தப் பக்கத்தில் காட்ட சான்றிதழ் எதுவும் இல்லை.",

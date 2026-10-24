@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "ชื่อทั่วไป",
     "browser_certificate_copy": "คัดลอกรายละเอียดใบรับรอง",
     "browser_certificate_fingerprint": "ลายนิ้วมือ",
+    "browser_certificate_invalid": "ใบรับรองนี้ใช้ไม่ได้ จึงไม่ได้เปิดหน้านี้",
     "browser_certificate_issued_by": "ออกโดย",
     "browser_certificate_issued_to": "ออกให้แก่",
     "browser_certificate_none": "หน้านี้ไม่มีใบรับรองให้แสดง",

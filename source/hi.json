@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "सामान्य नाम",
     "browser_certificate_copy": "प्रमाणपत्र की जानकारी कॉपी करें",
     "browser_certificate_fingerprint": "फ़िंगरप्रिंट",
+    "browser_certificate_invalid": "यह प्रमाणपत्र मान्य नहीं है, इसलिए पेज नहीं खोला गया।",
     "browser_certificate_issued_by": "जारीकर्ता",
     "browser_certificate_issued_to": "किसे जारी किया गया",
     "browser_certificate_none": "इस पेज के पास दिखाने के लिए कोई प्रमाणपत्र नहीं है।",

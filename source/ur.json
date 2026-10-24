@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "عام نام",
     "browser_certificate_copy": "سرٹیفکیٹ کی تفصیلات کاپی کریں",
     "browser_certificate_fingerprint": "فنگر پرنٹ",
+    "browser_certificate_invalid": "یہ سرٹیفکیٹ درست نہیں، اس لیے صفحہ نہیں کھولا گیا۔",
     "browser_certificate_issued_by": "جاری کنندہ",
     "browser_certificate_issued_to": "جاری کردہ برائے",
     "browser_certificate_none": "اس صفحے کے پاس دکھانے کے لیے کوئی سرٹیفکیٹ نہیں۔",

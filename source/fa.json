@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "نام عمومی",
     "browser_certificate_copy": "کپی جزئیات گواهی",
     "browser_certificate_fingerprint": "اثر انگشت",
+    "browser_certificate_invalid": "این گواهی معتبر نیست، بنابراین صفحه باز نشد.",
     "browser_certificate_issued_by": "صادرکننده",
     "browser_certificate_issued_to": "صادرشده برای",
     "browser_certificate_none": "این صفحه گواهی‌ای برای نمایش ندارد.",

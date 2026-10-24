@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Almennt heiti",
     "browser_certificate_copy": "Afrita upplýsingar um skilríki",
     "browser_certificate_fingerprint": "Fingrafar",
+    "browser_certificate_invalid": "Þessi skilríki eru ekki gild og því var síðan ekki opnuð.",
     "browser_certificate_issued_by": "Útgefið af",
     "browser_certificate_issued_to": "Útgefið til",
     "browser_certificate_none": "Þessi síða hefur engin skilríki til að sýna.",

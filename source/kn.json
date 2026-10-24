@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "ಸಾಮಾನ್ಯ ಹೆಸರು",
     "browser_certificate_copy": "ಪ್ರಮಾಣಪತ್ರದ ವಿವರಗಳನ್ನು ನಕಲಿಸಿ",
     "browser_certificate_fingerprint": "ಫಿಂಗರ್‌ಪ್ರಿಂಟ್",
+    "browser_certificate_invalid": "ಈ ಪ್ರಮಾಣಪತ್ರ ಮಾನ್ಯವಾಗಿಲ್ಲ, ಆದ್ದರಿಂದ ಪುಟವನ್ನು ತೆರೆಯಲಿಲ್ಲ.",
     "browser_certificate_issued_by": "ನೀಡಿದವರು",
     "browser_certificate_issued_to": "ಯಾರಿಗೆ ನೀಡಲಾಗಿದೆ",
     "browser_certificate_none": "ಈ ಪುಟದಲ್ಲಿ ತೋರಿಸಲು ಯಾವುದೇ ಪ್ರಮಾಣಪತ್ರವಿಲ್ಲ.",

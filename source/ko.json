@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "일반 이름",
     "browser_certificate_copy": "인증서 정보 복사",
     "browser_certificate_fingerprint": "지문",
+    "browser_certificate_invalid": "이 인증서는 유효하지 않아 페이지를 열지 않았습니다.",
     "browser_certificate_issued_by": "발급자",
     "browser_certificate_issued_to": "발급 대상",
     "browser_certificate_none": "이 페이지에는 표시할 인증서가 없습니다.",

@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Common name",
     "browser_certificate_copy": "Copy certificate details",
     "browser_certificate_fingerprint": "Fingerprint",
+    "browser_certificate_invalid": "This certificate isn't valid, so the page wasn't opened.",
     "browser_certificate_issued_by": "Issued by",
     "browser_certificate_issued_to": "Issued to",
     "browser_certificate_none": "This page has no certificate to show.",

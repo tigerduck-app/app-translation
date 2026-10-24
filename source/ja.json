@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "一般名",
     "browser_certificate_copy": "証明書の詳細をコピー",
     "browser_certificate_fingerprint": "フィンガープリント",
+    "browser_certificate_invalid": "この証明書は有効ではないため、ページを開きませんでした。",
     "browser_certificate_issued_by": "発行元",
     "browser_certificate_issued_to": "発行先",
     "browser_certificate_none": "このページには表示できる証明書がありません。",

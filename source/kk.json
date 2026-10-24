@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Жалпы атау",
     "browser_certificate_copy": "Сертификат мәліметін көшіру",
     "browser_certificate_fingerprint": "Саусақ ізі",
+    "browser_certificate_invalid": "Бұл сертификат жарамсыз, сондықтан бет ашылмады.",
     "browser_certificate_issued_by": "Берген",
     "browser_certificate_issued_to": "Кімге берілген",
     "browser_certificate_none": "Бұл бетте көрсетілетін сертификат жоқ.",

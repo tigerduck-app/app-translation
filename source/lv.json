@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Vispārējais nosaukums",
     "browser_certificate_copy": "Kopēt sertifikāta informāciju",
     "browser_certificate_fingerprint": "Pirkstu nospiedums",
+    "browser_certificate_invalid": "Šis sertifikāts nav derīgs, tāpēc lapa netika atvērta.",
     "browser_certificate_issued_by": "Izdevējs",
     "browser_certificate_issued_to": "Izdots",
     "browser_certificate_none": "Šai lapai nav parādāma sertifikāta.",

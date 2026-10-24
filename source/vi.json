@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Tên chung",
     "browser_certificate_copy": "Sao chép chi tiết chứng chỉ",
     "browser_certificate_fingerprint": "Vân tay",
+    "browser_certificate_invalid": "Chứng chỉ này không hợp lệ nên trang không được mở.",
     "browser_certificate_issued_by": "Cấp bởi",
     "browser_certificate_issued_to": "Cấp cho",
     "browser_certificate_none": "Trang này không có chứng chỉ để hiển thị.",

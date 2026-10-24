@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Общее имя",
     "browser_certificate_copy": "Копировать данные сертификата",
     "browser_certificate_fingerprint": "Отпечаток",
+    "browser_certificate_invalid": "Этот сертификат недействителен, поэтому страница не открыта.",
     "browser_certificate_issued_by": "Кем выдан",
     "browser_certificate_issued_to": "Кому выдан",
     "browser_certificate_none": "У этой страницы нет сертификата для показа.",

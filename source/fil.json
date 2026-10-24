@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Karaniwang pangalan",
     "browser_certificate_copy": "Kopyahin ang detalye ng certificate",
     "browser_certificate_fingerprint": "Fingerprint",
+    "browser_certificate_invalid": "Hindi valid ang certificate na ito, kaya hindi binuksan ang page.",
     "browser_certificate_issued_by": "Inisyu ng",
     "browser_certificate_issued_to": "Inisyu para kay",
     "browser_certificate_none": "Walang certificate na maipapakita ang page na ito.",

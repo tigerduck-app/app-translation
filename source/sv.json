@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Namn",
     "browser_certificate_copy": "Kopiera certifikatinformation",
     "browser_certificate_fingerprint": "Fingeravtryck",
+    "browser_certificate_invalid": "Certifikatet är inte giltigt, så sidan öppnades inte.",
     "browser_certificate_issued_by": "Utfärdat av",
     "browser_certificate_issued_to": "Utfärdat till",
     "browser_certificate_none": "Den här sidan har inget certifikat att visa.",

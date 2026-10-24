@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Algemene naam",
     "browser_certificate_copy": "Certificaatgegevens kopiëren",
     "browser_certificate_fingerprint": "Vingerafdruk",
+    "browser_certificate_invalid": "Dit certificaat is niet geldig, dus de pagina is niet geopend.",
     "browser_certificate_issued_by": "Uitgegeven door",
     "browser_certificate_issued_to": "Uitgegeven aan",
     "browser_certificate_none": "Deze pagina heeft geen certificaat om te tonen.",

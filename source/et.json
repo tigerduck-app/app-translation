@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Üldnimi",
     "browser_certificate_copy": "Kopeeri sertifikaadi andmed",
     "browser_certificate_fingerprint": "Sõrmejälg",
+    "browser_certificate_invalid": "See sertifikaat ei kehti, seega lehte ei avatud.",
     "browser_certificate_issued_by": "Väljastaja",
     "browser_certificate_issued_to": "Väljastatud",
     "browser_certificate_none": "Sellel lehel pole kuvatavat sertifikaati.",

@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Загальне ім'я",
     "browser_certificate_copy": "Копіювати дані сертифіката",
     "browser_certificate_fingerprint": "Відбиток",
+    "browser_certificate_invalid": "Цей сертифікат недійсний, тому сторінку не відкрито.",
     "browser_certificate_issued_by": "Ким видано",
     "browser_certificate_issued_to": "Кому видано",
     "browser_certificate_none": "Ця сторінка не має сертифіката для показу.",

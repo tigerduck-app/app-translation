@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Allgemeiner Name",
     "browser_certificate_copy": "Zertifikatsdetails kopieren",
     "browser_certificate_fingerprint": "Fingerabdruck",
+    "browser_certificate_invalid": "Dieses Zertifikat ist ungültig, daher wurde die Seite nicht geöffnet.",
     "browser_certificate_issued_by": "Ausgestellt von",
     "browser_certificate_issued_to": "Ausgestellt für",
     "browser_certificate_none": "Diese Seite hat kein Zertifikat, das angezeigt werden kann.",

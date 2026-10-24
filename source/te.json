@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "సాధారణ పేరు",
     "browser_certificate_copy": "సర్టిఫికెట్ వివరాలను కాపీ చేయండి",
     "browser_certificate_fingerprint": "వేలిముద్ర",
+    "browser_certificate_invalid": "ఈ సర్టిఫికెట్ చెల్లుబాటు కాదు, కాబట్టి పేజీ తెరవబడలేదు.",
     "browser_certificate_issued_by": "జారీ చేసినవారు",
     "browser_certificate_issued_to": "ఎవరికి జారీ చేశారు",
     "browser_certificate_none": "ఈ పేజీకి చూపించడానికి సర్టిఫికెట్ ఏదీ లేదు.",

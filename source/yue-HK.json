@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "一般名稱",
     "browser_certificate_copy": "複製憑證資料",
     "browser_certificate_fingerprint": "指紋",
+    "browser_certificate_invalid": "憑證無效，冇開呢個網頁",
     "browser_certificate_issued_by": "簽發者",
     "browser_certificate_issued_to": "簽發對象",
     "browser_certificate_none": "呢個網頁冇憑證可以顯示。",

@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Yleinen nimi",
     "browser_certificate_copy": "Kopioi varmenteen tiedot",
     "browser_certificate_fingerprint": "Sormenjälki",
+    "browser_certificate_invalid": "Varmenne ei ole kelvollinen, joten sivua ei avattu.",
     "browser_certificate_issued_by": "Myöntäjä",
     "browser_certificate_issued_to": "Myönnetty kohteelle",
     "browser_certificate_none": "Tällä sivulla ei ole näytettävää varmennetta.",

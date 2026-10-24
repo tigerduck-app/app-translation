@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Köznapi név",
     "browser_certificate_copy": "Tanúsítvány adatainak másolása",
     "browser_certificate_fingerprint": "Ujjlenyomat",
+    "browser_certificate_invalid": "Ez a tanúsítvány érvénytelen, ezért az oldal nem nyílt meg.",
     "browser_certificate_issued_by": "Kiállító",
     "browser_certificate_issued_to": "Kiállítva a következőnek",
     "browser_certificate_none": "Ennek az oldalnak nincs megjeleníthető tanúsítványa.",

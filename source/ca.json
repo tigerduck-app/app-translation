@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Nom comú",
     "browser_certificate_copy": "Copia els detalls del certificat",
     "browser_certificate_fingerprint": "Empremta",
+    "browser_certificate_invalid": "Aquest certificat no és vàlid, per això no s'ha obert la pàgina.",
     "browser_certificate_issued_by": "Emès per",
     "browser_certificate_issued_to": "Emès per a",
     "browser_certificate_none": "Aquesta pàgina no té cap certificat per mostrar.",

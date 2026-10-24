@@ -1169,6 +1169,7 @@
     "browser_certificate_common_name": "Splošno ime",
     "browser_certificate_copy": "Kopiraj podrobnosti potrdila",
     "browser_certificate_fingerprint": "Prstni odtis",
+    "browser_certificate_invalid": "To potrdilo ni veljavno, zato stran ni bila odprta.",
     "browser_certificate_issued_by": "Izdal",
     "browser_certificate_issued_to": "Izdano za",
     "browser_certificate_none": "Ta stran nima potrdila za prikaz.",
