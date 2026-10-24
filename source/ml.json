@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "ഷെഡ്യൂൾ (ആഴ്ച)"
   },
   "android": {
+    "a11y_color_picker_brightness": "തെളിച്ചം",
+    "a11y_color_picker_hue": "വർണ്ണഭേദം",
+    "a11y_color_picker_saturation": "പൂരിതത്വം",
     "account_id_use_standard_keyboard": "സ്റ്റാൻഡേർഡ് കീബോർഡ്",
     "app_exit_confirm_toast": "പുറത്ത് കടക്കാൻ വീണ്ടും Back അമർത്തുക",
     "calendar_semester_end": "%1$s അവസാനം",

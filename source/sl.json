@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Urnik (teden)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Svetlost",
+    "a11y_color_picker_hue": "Odtenek",
+    "a11y_color_picker_saturation": "Nasičenost",
     "account_id_use_standard_keyboard": "Standardna tipkovnica",
     "app_exit_confirm_toast": "Znova pritisnite nazaj za izhod",
     "calendar_semester_end": "Konec %1$s",

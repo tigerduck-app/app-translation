@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "షెడ్యూల్ (వారం)"
   },
   "android": {
+    "a11y_color_picker_brightness": "ప్రకాశం",
+    "a11y_color_picker_hue": "వర్ణం",
+    "a11y_color_picker_saturation": "సంతృప్తత",
     "account_id_use_standard_keyboard": "ప్రామాణిక కీబోర్డ్",
     "app_exit_confirm_toast": "బయటకు వెళ్ళడానికి మళ్ళీ బ్యాక్ నొక్కండి",
     "calendar_semester_end": "%1$s ముగింపు",

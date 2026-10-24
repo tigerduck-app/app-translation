@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Horari (setmana)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Brillantor",
+    "a11y_color_picker_hue": "To",
+    "a11y_color_picker_saturation": "Saturació",
     "account_id_use_standard_keyboard": "Teclat estàndard",
     "app_exit_confirm_toast": "Premeu enrere de nou per sortir",
     "calendar_semester_end": "Fi de %1$s",

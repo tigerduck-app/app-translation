@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "ตารางเรียน (สัปดาห์)"
   },
   "android": {
+    "a11y_color_picker_brightness": "ความสว่าง",
+    "a11y_color_picker_hue": "เฉดสี",
+    "a11y_color_picker_saturation": "ความอิ่มตัว",
     "account_id_use_standard_keyboard": "แป้นพิมพ์มาตรฐาน",
     "app_exit_confirm_toast": "กดย้อนกลับอีกครั้งเพื่อออก",
     "calendar_semester_end": "สิ้นสุด %1$s",

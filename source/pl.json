@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Plan zajęć (tydzień)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Jasność",
+    "a11y_color_picker_hue": "Odcień",
+    "a11y_color_picker_saturation": "Nasycenie",
     "account_id_use_standard_keyboard": "Standardowa klawiatura",
     "app_exit_confirm_toast": "Naciśnij Wstecz ponownie, aby wyjść",
     "calendar_semester_end": "Koniec %1$s",

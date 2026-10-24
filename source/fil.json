@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Iskedyul (Linggo)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Liwanag",
+    "a11y_color_picker_hue": "Kulay",
+    "a11y_color_picker_saturation": "Saturasyon",
     "account_id_use_standard_keyboard": "Standard na keyboard",
     "app_exit_confirm_toast": "Pindutin ulit ang back para lumabas",
     "calendar_semester_end": "Katapusan ng %1$s",

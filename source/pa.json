@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "ਸਮਾਂ-ਸਾਰਣੀ (ਹਫ਼ਤਾ)"
   },
   "android": {
+    "a11y_color_picker_brightness": "ਚਮਕ",
+    "a11y_color_picker_hue": "ਰੰਗਤ",
+    "a11y_color_picker_saturation": "ਸੰਤ੍ਰਿਪਤਾ",
     "account_id_use_standard_keyboard": "ਸਟੈਂਡਰਡ ਕੀਬੋਰਡ",
     "app_exit_confirm_toast": "ਬਾਹਰ ਜਾਣ ਲਈ ਦੁਬਾਰਾ ਵਾਪਸ ਦਬਾਓ",
     "calendar_semester_end": "%1$s ਦਾ ਅੰਤ",
