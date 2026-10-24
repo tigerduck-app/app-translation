@@ -919,6 +919,8 @@
 "settings_accent_color" = "Korostusväri";
 "settings_accent_gradient_custom" = "Mukautettu liukuväri";
 "settings_accent_gradient_direction" = "Liukuvärin suunta";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "Alavasemmalta yläoikealle";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "Alaoikealta ylävasemmalle";
 "settings_accent_gradient_direction_bottom_to_top" = "Alhaalta ylös";
 "settings_accent_gradient_direction_left_to_right" = "Vasemmalta oikealle";
 "settings_accent_gradient_direction_right_to_left" = "Oikealta vasemmalle";

@@ -942,6 +942,8 @@
     <string name="settings_accent_color">অ্যাকসেন্ট রং</string>
     <string name="settings_accent_gradient_custom">কাস্টম গ্রেডিয়েন্ট</string>
     <string name="settings_accent_gradient_direction">গ্রেডিয়েন্টের দিক</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">নিচের বাঁ থেকে উপরের ডানে</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">নিচের ডান থেকে উপরের বাঁয়ে</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">নিচ থেকে উপরে</string>
     <string name="settings_accent_gradient_direction_left_to_right">বাঁ থেকে ডানে</string>
     <string name="settings_accent_gradient_direction_right_to_left">ডান থেকে বাঁয়ে</string>

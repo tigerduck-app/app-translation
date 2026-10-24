@@ -942,6 +942,8 @@
     <string name="settings_accent_color">Color de acento</string>
     <string name="settings_accent_gradient_custom">Degradado personalizado</string>
     <string name="settings_accent_gradient_direction">Dirección del degradado</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">De abajo a la izquierda a arriba a la derecha</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">De abajo a la derecha a arriba a la izquierda</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">De abajo arriba</string>
     <string name="settings_accent_gradient_direction_left_to_right">De izquierda a derecha</string>
     <string name="settings_accent_gradient_direction_right_to_left">De derecha a izquierda</string>

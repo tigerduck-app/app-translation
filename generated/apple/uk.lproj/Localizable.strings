@@ -919,6 +919,8 @@
 "settings_accent_color" = "Акцентний колір";
 "settings_accent_gradient_custom" = "Власний градієнт";
 "settings_accent_gradient_direction" = "Напрямок градієнта";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "З нижнього лівого кута у верхній правий";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "З нижнього правого кута у верхній лівий";
 "settings_accent_gradient_direction_bottom_to_top" = "Знизу вгору";
 "settings_accent_gradient_direction_left_to_right" = "Зліва направо";
 "settings_accent_gradient_direction_right_to_left" = "Справа наліво";

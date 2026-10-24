@@ -891,6 +891,8 @@
     "settings_accent_color": "צבע הדגש",
     "settings_accent_gradient_custom": "מעבר צבע מותאם אישית",
     "settings_accent_gradient_direction": "כיוון מעבר הצבע",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "משמאל למטה לימין למעלה",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "מימין למטה לשמאל למעלה",
     "settings_accent_gradient_direction_bottom_to_top": "מלמטה למעלה",
     "settings_accent_gradient_direction_left_to_right": "משמאל לימין",
     "settings_accent_gradient_direction_right_to_left": "מימין לשמאל",

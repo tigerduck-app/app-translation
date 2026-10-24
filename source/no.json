@@ -891,6 +891,8 @@
     "settings_accent_color": "Aksentfarge",
     "settings_accent_gradient_custom": "Egendefinert fargeovergang",
     "settings_accent_gradient_direction": "Retning for fargeovergang",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Fra nederst til venstre mot øverst til høyre",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Fra nederst til høyre mot øverst til venstre",
     "settings_accent_gradient_direction_bottom_to_top": "Nedenfra og opp",
     "settings_accent_gradient_direction_left_to_right": "Fra venstre mot høyre",
     "settings_accent_gradient_direction_right_to_left": "Fra høyre mot venstre",

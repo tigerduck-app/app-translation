@@ -919,6 +919,8 @@
 "settings_accent_color" = "Akcentinė spalva";
 "settings_accent_gradient_custom" = "Tinkintas gradientas";
 "settings_accent_gradient_direction" = "Gradiento kryptis";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "Iš apatinio kairiojo į viršutinį dešinįjį kampą";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "Iš apatinio dešiniojo į viršutinį kairįjį kampą";
 "settings_accent_gradient_direction_bottom_to_top" = "Iš apačios į viršų";
 "settings_accent_gradient_direction_left_to_right" = "Iš kairės į dešinę";
 "settings_accent_gradient_direction_right_to_left" = "Iš dešinės į kairę";

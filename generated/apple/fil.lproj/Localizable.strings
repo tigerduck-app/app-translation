@@ -919,6 +919,8 @@
 "settings_accent_color" = "Accent na kulay";
 "settings_accent_gradient_custom" = "Pasadyang gradient";
 "settings_accent_gradient_direction" = "Direksyon ng gradient";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "Mula ibaba-kaliwa pataas-kanan";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "Mula ibaba-kanan pataas-kaliwa";
 "settings_accent_gradient_direction_bottom_to_top" = "Mula ibaba pataas";
 "settings_accent_gradient_direction_left_to_right" = "Mula kaliwa pakanan";
 "settings_accent_gradient_direction_right_to_left" = "Mula kanan pakaliwa";

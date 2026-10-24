@@ -891,6 +891,8 @@
     "settings_accent_color": "اللون المميز",
     "settings_accent_gradient_custom": "تدرج مخصص",
     "settings_accent_gradient_direction": "اتجاه التدرج",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "من أسفل اليسار إلى أعلى اليمين",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "من أسفل اليمين إلى أعلى اليسار",
     "settings_accent_gradient_direction_bottom_to_top": "من الأسفل إلى الأعلى",
     "settings_accent_gradient_direction_left_to_right": "من اليسار إلى اليمين",
     "settings_accent_gradient_direction_right_to_left": "من اليمين إلى اليسار",

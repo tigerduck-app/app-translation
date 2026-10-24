@@ -942,6 +942,8 @@
     <string name="settings_accent_color">강조 색상</string>
     <string name="settings_accent_gradient_custom">사용자 지정 그라데이션</string>
     <string name="settings_accent_gradient_direction">그라데이션 방향</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">왼쪽 아래에서 오른쪽 위로</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">오른쪽 아래에서 왼쪽 위로</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">아래에서 위로</string>
     <string name="settings_accent_gradient_direction_left_to_right">왼쪽에서 오른쪽으로</string>
     <string name="settings_accent_gradient_direction_right_to_left">오른쪽에서 왼쪽으로</string>

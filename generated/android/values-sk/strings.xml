@@ -942,6 +942,8 @@
     <string name="settings_accent_color">Zvýrazňujúca farba</string>
     <string name="settings_accent_gradient_custom">Vlastný prechod</string>
     <string name="settings_accent_gradient_direction">Smer prechodu</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Zľava zdola doprava nahor</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Sprava zdola doľava nahor</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Zdola nahor</string>
     <string name="settings_accent_gradient_direction_left_to_right">Zľava doprava</string>
     <string name="settings_accent_gradient_direction_right_to_left">Sprava doľava</string>

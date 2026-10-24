@@ -942,6 +942,8 @@
     <string name="settings_accent_color">ایکسنٹ رنگ</string>
     <string name="settings_accent_gradient_custom">کسٹم گریڈیئنٹ</string>
     <string name="settings_accent_gradient_direction">گریڈیئنٹ کی سمت</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">نیچے بائیں سے اوپر دائیں</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">نیچے دائیں سے اوپر بائیں</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">نیچے سے اوپر</string>
     <string name="settings_accent_gradient_direction_left_to_right">بائیں سے دائیں</string>
     <string name="settings_accent_gradient_direction_right_to_left">دائیں سے بائیں</string>

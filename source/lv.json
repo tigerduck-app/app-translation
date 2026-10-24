@@ -891,6 +891,8 @@
     "settings_accent_color": "Akcenta krāsa",
     "settings_accent_gradient_custom": "Pielāgota krāsu pāreja",
     "settings_accent_gradient_direction": "Krāsu pārejas virziens",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "No apakšējā kreisā uz augšējo labo",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "No apakšējā labā uz augšējo kreiso",
     "settings_accent_gradient_direction_bottom_to_top": "No apakšas uz augšu",
     "settings_accent_gradient_direction_left_to_right": "No kreisās uz labo",
     "settings_accent_gradient_direction_right_to_left": "No labās uz kreiso",

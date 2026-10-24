@@ -891,6 +891,8 @@
     "settings_accent_color": "Accent color",
     "settings_accent_gradient_custom": "Custom gradient",
     "settings_accent_gradient_direction": "Gradient direction",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Bottom left to top right",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Bottom right to top left",
     "settings_accent_gradient_direction_bottom_to_top": "Bottom to top",
     "settings_accent_gradient_direction_left_to_right": "Left to right",
     "settings_accent_gradient_direction_right_to_left": "Right to left",

@@ -942,6 +942,8 @@
     <string name="settings_accent_color">Акцентний колір</string>
     <string name="settings_accent_gradient_custom">Власний градієнт</string>
     <string name="settings_accent_gradient_direction">Напрямок градієнта</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">З нижнього лівого кута у верхній правий</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">З нижнього правого кута у верхній лівий</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Знизу вгору</string>
     <string name="settings_accent_gradient_direction_left_to_right">Зліва направо</string>
     <string name="settings_accent_gradient_direction_right_to_left">Справа наліво</string>

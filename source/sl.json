@@ -891,6 +891,8 @@
     "settings_accent_color": "Barva poudarkov",
     "settings_accent_gradient_custom": "Preliv po meri",
     "settings_accent_gradient_direction": "Smer preliva",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Od spodaj levo do zgoraj desno",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Od spodaj desno do zgoraj levo",
     "settings_accent_gradient_direction_bottom_to_top": "Od spodaj navzgor",
     "settings_accent_gradient_direction_left_to_right": "Od leve proti desni",
     "settings_accent_gradient_direction_right_to_left": "Od desne proti levi",

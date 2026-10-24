@@ -891,6 +891,8 @@
     "settings_accent_color": "สีหลัก",
     "settings_accent_gradient_custom": "ไล่สีกำหนดเอง",
     "settings_accent_gradient_direction": "ทิศทางการไล่สี",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "จากซ้ายล่างไปขวาบน",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "จากขวาล่างไปซ้ายบน",
     "settings_accent_gradient_direction_bottom_to_top": "จากล่างขึ้นบน",
     "settings_accent_gradient_direction_left_to_right": "จากซ้ายไปขวา",
     "settings_accent_gradient_direction_right_to_left": "จากขวาไปซ้าย",

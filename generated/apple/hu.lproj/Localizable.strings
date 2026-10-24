@@ -919,6 +919,8 @@
 "settings_accent_color" = "Kiemelő szín";
 "settings_accent_gradient_custom" = "Egyéni színátmenet";
 "settings_accent_gradient_direction" = "Színátmenet iránya";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "Bal alsótól jobb felsőig";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "Jobb alsótól bal felsőig";
 "settings_accent_gradient_direction_bottom_to_top" = "Lentről felfelé";
 "settings_accent_gradient_direction_left_to_right" = "Balról jobbra";
 "settings_accent_gradient_direction_right_to_left" = "Jobbról balra";

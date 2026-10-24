@@ -942,6 +942,8 @@
     <string name="settings_accent_color">Akzentfarbe</string>
     <string name="settings_accent_gradient_custom">Eigener Verlauf</string>
     <string name="settings_accent_gradient_direction">Verlaufsrichtung</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Von unten links nach oben rechts</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Von unten rechts nach oben links</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Von unten nach oben</string>
     <string name="settings_accent_gradient_direction_left_to_right">Von links nach rechts</string>
     <string name="settings_accent_gradient_direction_right_to_left">Von rechts nach links</string>

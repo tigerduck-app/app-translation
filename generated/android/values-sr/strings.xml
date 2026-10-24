@@ -942,6 +942,8 @@
     <string name="settings_accent_color">Акцентна боја</string>
     <string name="settings_accent_gradient_custom">Прилагођени прелаз</string>
     <string name="settings_accent_gradient_direction">Смер прелаза</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Од доле лево до горе десно</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Од доле десно до горе лево</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Одоздо нагоре</string>
     <string name="settings_accent_gradient_direction_left_to_right">Слева надесно</string>
     <string name="settings_accent_gradient_direction_right_to_left">Здесна налево</string>

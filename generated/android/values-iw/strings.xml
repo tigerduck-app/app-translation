@@ -942,6 +942,8 @@
     <string name="settings_accent_color">צבע הדגש</string>
     <string name="settings_accent_gradient_custom">מעבר צבע מותאם אישית</string>
     <string name="settings_accent_gradient_direction">כיוון מעבר הצבע</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">משמאל למטה לימין למעלה</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">מימין למטה לשמאל למעלה</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">מלמטה למעלה</string>
     <string name="settings_accent_gradient_direction_left_to_right">משמאל לימין</string>
     <string name="settings_accent_gradient_direction_right_to_left">מימין לשמאל</string>

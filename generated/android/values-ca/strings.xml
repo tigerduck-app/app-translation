@@ -942,6 +942,8 @@
     <string name="settings_accent_color">Color d\'accent</string>
     <string name="settings_accent_gradient_custom">Degradat personalitzat</string>
     <string name="settings_accent_gradient_direction">Direcció del degradat</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">De baix a l\'esquerra a dalt a la dreta</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">De baix a la dreta a dalt a l\'esquerra</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">De baix a dalt</string>
     <string name="settings_accent_gradient_direction_left_to_right">D\'esquerra a dreta</string>
     <string name="settings_accent_gradient_direction_right_to_left">De dreta a esquerra</string>

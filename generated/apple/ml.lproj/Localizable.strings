@@ -919,6 +919,8 @@
 "settings_accent_color" = "ആക്‌സെന്റ് നിറം";
 "settings_accent_gradient_custom" = "ഇഷ്ടാനുസൃത ഗ്രേഡിയന്റ്";
 "settings_accent_gradient_direction" = "ഗ്രേഡിയന്റ് ദിശ";
+"settings_accent_gradient_direction_bottom_left_to_top_right" = "താഴെ ഇടത്തുനിന്ന് മുകളിൽ വലത്തേക്ക്";
+"settings_accent_gradient_direction_bottom_right_to_top_left" = "താഴെ വലത്തുനിന്ന് മുകളിൽ ഇടത്തേക്ക്";
 "settings_accent_gradient_direction_bottom_to_top" = "താഴെ നിന്ന് മുകളിലേക്ക്";
 "settings_accent_gradient_direction_left_to_right" = "ഇടത്തുനിന്ന് വലത്തേക്ക്";
 "settings_accent_gradient_direction_right_to_left" = "വലത്തുനിന്ന് ഇടത്തേക്ക്";

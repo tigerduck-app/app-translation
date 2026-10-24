@@ -891,6 +891,8 @@
     "settings_accent_color": "Culoare accent",
     "settings_accent_gradient_custom": "Degrade personalizat",
     "settings_accent_gradient_direction": "Direcția degradeului",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Din stânga jos în dreapta sus",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Din dreapta jos în stânga sus",
     "settings_accent_gradient_direction_bottom_to_top": "De jos în sus",
     "settings_accent_gradient_direction_left_to_right": "De la stânga la dreapta",
     "settings_accent_gradient_direction_right_to_left": "De la dreapta la stânga",

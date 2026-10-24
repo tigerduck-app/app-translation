@@ -894,6 +894,8 @@
   "settings_accent_color": "Rõhuvärv",
   "settings_accent_gradient_custom": "Kohandatud üleminek",
   "settings_accent_gradient_direction": "Ülemineku suund",
+  "settings_accent_gradient_direction_bottom_left_to_top_right": "Alt vasakult üles paremale",
+  "settings_accent_gradient_direction_bottom_right_to_top_left": "Alt paremalt üles vasakule",
   "settings_accent_gradient_direction_bottom_to_top": "Alt üles",
   "settings_accent_gradient_direction_left_to_right": "Vasakult paremale",
   "settings_accent_gradient_direction_right_to_left": "Paremalt vasakule",

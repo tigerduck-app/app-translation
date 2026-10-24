@@ -891,6 +891,8 @@
     "settings_accent_color": "Χρώμα έμφασης",
     "settings_accent_gradient_custom": "Προσαρμοσμένη διαβάθμιση",
     "settings_accent_gradient_direction": "Κατεύθυνση διαβάθμισης",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "Από κάτω αριστερά προς πάνω δεξιά",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "Από κάτω δεξιά προς πάνω αριστερά",
     "settings_accent_gradient_direction_bottom_to_top": "Από κάτω προς τα πάνω",
     "settings_accent_gradient_direction_left_to_right": "Από αριστερά προς τα δεξιά",
     "settings_accent_gradient_direction_right_to_left": "Από δεξιά προς τα αριστερά",

@@ -891,6 +891,8 @@
     "settings_accent_color": "ಆಕ್ಸೆಂಟ್ ಬಣ್ಣ",
     "settings_accent_gradient_custom": "ಕಸ್ಟಮ್ ಗ್ರೇಡಿಯಂಟ್",
     "settings_accent_gradient_direction": "ಗ್ರೇಡಿಯಂಟ್ ದಿಕ್ಕು",
+    "settings_accent_gradient_direction_bottom_left_to_top_right": "ಕೆಳಗಿನ ಎಡದಿಂದ ಮೇಲಿನ ಬಲಕ್ಕೆ",
+    "settings_accent_gradient_direction_bottom_right_to_top_left": "ಕೆಳಗಿನ ಬಲದಿಂದ ಮೇಲಿನ ಎಡಕ್ಕೆ",
     "settings_accent_gradient_direction_bottom_to_top": "ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ",
     "settings_accent_gradient_direction_left_to_right": "ಎಡದಿಂದ ಬಲಕ್ಕೆ",
     "settings_accent_gradient_direction_right_to_left": "ಬಲದಿಂದ ಎಡಕ್ಕೆ",

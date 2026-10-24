@@ -942,6 +942,8 @@
     <string name="settings_accent_color">Aksentfarge</string>
     <string name="settings_accent_gradient_custom">Egendefinert fargeovergang</string>
     <string name="settings_accent_gradient_direction">Retning for fargeovergang</string>
+    <string name="settings_accent_gradient_direction_bottom_left_to_top_right">Fra nederst til venstre mot øverst til høyre</string>
+    <string name="settings_accent_gradient_direction_bottom_right_to_top_left">Fra nederst til høyre mot øverst til venstre</string>
     <string name="settings_accent_gradient_direction_bottom_to_top">Nedenfra og opp</string>
     <string name="settings_accent_gradient_direction_left_to_right">Fra venstre mot høyre</string>
     <string name="settings_accent_gradient_direction_right_to_left">Fra høyre mot venstre</string>
