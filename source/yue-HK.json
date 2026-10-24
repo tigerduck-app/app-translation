@@ -790,7 +790,7 @@
     "school_mail_send_confirm_title": "要傳送這封信嗎？",
     "school_mail_send_failed": "無法傳送郵件",
     "school_mail_send_unconfirmed": "無法確認郵件係咪已經寄出，再試可能會令對方收到兩封",
-    "school_mail_send_undone": "已取消寄出，信件已返回編輯畫面。",
+    "school_mail_send_undone": "已取消寄出，郵件已返回編輯畫面。",
     "school_mail_sending_hold": "正在寄出…",
     "school_mail_sent_copy_failed": "郵件已傳送，但副本無法儲存到寄件備份。",
     "school_mail_sent_copy_no_folder": "郵件已傳送，但目前沒有寄件備份資料夾可以保留副本。",
