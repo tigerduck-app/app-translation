@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "Для сканирования нужен доступ к камере";
 "class_table_import_choose_photo" = "Выбрать из фото";
 "class_table_import_course_count" = "Курсы";
+"class_table_import_enter_link" = "Ввести ссылку";
 "class_table_import_failed" = "Не удалось импортировать расписание";
 "class_table_import_invalid_message" = "Код для обмена повреждён или изменён.";
+"class_table_import_link_placeholder" = "Ссылка для обмена";
 "class_table_import_lookup_failed" = "Не удалось загрузить сведения о курсах";
 "class_table_import_no_code_message" = "На изображении не найден код для обмена расписанием.";
 "class_table_import_own_code_message" = "Это ваше собственное расписание.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Семестр";
 "class_table_share" = "Поделиться расписанием";
 "class_table_share_all_semesters" = "Все семестры";
+"class_table_share_copy_link" = "Скопировать ссылку";
+"class_table_share_link_copied" = "Ссылка скопирована";
 "class_table_share_tat_compatible" = "Совместимость с TAT";
 "class_table_sign_in_required_message" = "Войдите, чтобы просмотреть расписание занятий";
 "class_table_total_credits_value" = "%1$@ кредитов";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Войдите, чтобы просмотреть задания.";
 "home_builtin_sections" = "Встроенные разделы";
 "home_custom_section" = "Пользовательский раздел";
+"home_edit" = "Редактировать Главную";
+"home_more_actions" = "Другие действия";
 "home_no_courses_today" = "Сегодня нет занятий";
 "home_pending_assignments" = "Ожидающие задания";
 "home_section_add_quick_features" = "Добавить быстрые действия";

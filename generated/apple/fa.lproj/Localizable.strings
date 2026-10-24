@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "برای اسکن، دسترسی به دوربین لازم است";
 "class_table_import_choose_photo" = "انتخاب از عکس‌ها";
 "class_table_import_course_count" = "تعداد دروس";
+"class_table_import_enter_link" = "وارد کردن پیوند";
 "class_table_import_failed" = "وارد کردن برنامه کلاس‌ها ممکن نشد";
 "class_table_import_invalid_message" = "کد اشتراک‌گذاری آسیب دیده یا تغییر کرده است.";
+"class_table_import_link_placeholder" = "پیوند اشتراک‌گذاری";
 "class_table_import_lookup_failed" = "بارگذاری جزئیات دروس ممکن نشد";
 "class_table_import_no_code_message" = "هیچ کد اشتراک‌گذاری برنامه کلاس‌ها در تصویر پیدا نشد.";
 "class_table_import_own_code_message" = "این برنامه کلاس‌های خودتان است.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "ترم";
 "class_table_share" = "اشتراک‌گذاری برنامه کلاس‌ها";
 "class_table_share_all_semesters" = "همه ترم‌ها";
+"class_table_share_copy_link" = "کپی پیوند";
+"class_table_share_link_copied" = "پیوند کپی شد";
 "class_table_share_tat_compatible" = "سازگار با TAT";
 "class_table_sign_in_required_message" = "برای مشاهده جدول کلاس خود وارد شوید";
 "class_table_total_credits_value" = "%1$@ واحد";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "برای دیدن تکالیف وارد شوید.";
 "home_builtin_sections" = "بخش‌های داخلی";
 "home_custom_section" = "بخش سفارشی";
+"home_edit" = "ویرایش خانه";
+"home_more_actions" = "اقدامات بیشتر";
 "home_no_courses_today" = "امروز کلاسی نیست";
 "home_pending_assignments" = "تکالیف در انتظار";
 "home_section_add_quick_features" = "افزودن اقدامات سریع";

@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Cal accés a la càmera per escanejar</string>
     <string name="class_table_import_choose_photo">Tria de les fotos</string>
     <string name="class_table_import_course_count">Cursos</string>
+    <string name="class_table_import_enter_link">Introdueix l\'enllaç</string>
     <string name="class_table_import_failed">No s\'ha pogut importar l\'horari</string>
     <string name="class_table_import_invalid_message">El codi per compartir està malmès o s\'ha modificat.</string>
+    <string name="class_table_import_link_placeholder">Enllaç per compartir</string>
     <string name="class_table_import_lookup_failed">No s\'han pogut carregar els detalls dels cursos</string>
     <string name="class_table_import_no_code_message">No s\'ha trobat cap codi per compartir horaris a la imatge.</string>
     <string name="class_table_import_own_code_message">Aquest és el teu horari.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_share">Comparteix l\'horari</string>
     <string name="class_table_share_all_semesters">Tots els semestres</string>
+    <string name="class_table_share_copy_link">Copia l\'enllaç</string>
+    <string name="class_table_share_link_copied">Enllaç copiat</string>
     <string name="class_table_share_tat_compatible">Compatible amb TAT</string>
     <string name="class_table_sign_in_required_message">Inicieu la sessió per veure la vostra taula de classe</string>
     <string name="class_table_total_credits_value">%1$s crèdits</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Inicia sessió per veure les tasques.</string>
     <string name="home_builtin_sections">Seccions integrades</string>
     <string name="home_custom_section">Secció personalitzada</string>
+    <string name="home_edit">Edita Inici</string>
+    <string name="home_more_actions">Més accions</string>
     <string name="home_no_courses_today">Cap classe avui</string>
     <string name="home_pending_assignments">Tasques pendents</string>
     <string name="home_section_add_quick_features">Afegeix accions ràpides</string>

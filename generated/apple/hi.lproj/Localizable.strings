@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "स्कैन करने के लिए कैमरे की अनुमति ज़रूरी है";
 "class_table_import_choose_photo" = "फ़ोटो से चुनें";
 "class_table_import_course_count" = "कोर्स की संख्या";
+"class_table_import_enter_link" = "लिंक दर्ज करें";
 "class_table_import_failed" = "कक्षा सारणी आयात नहीं की जा सकी";
 "class_table_import_invalid_message" = "शेयर कोड खराब है या उसमें बदलाव किया गया है।";
+"class_table_import_link_placeholder" = "शेयर लिंक";
 "class_table_import_lookup_failed" = "कोर्स की जानकारी लोड नहीं हो सकी";
 "class_table_import_no_code_message" = "छवि में कक्षा सारणी का कोई शेयर कोड नहीं मिला।";
 "class_table_import_own_code_message" = "यह आपकी अपनी कक्षा सारणी है।";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "सेमेस्टर";
 "class_table_share" = "कक्षा सारणी शेयर करें";
 "class_table_share_all_semesters" = "सभी सेमेस्टर";
+"class_table_share_copy_link" = "लिंक कॉपी करें";
+"class_table_share_link_copied" = "लिंक कॉपी हो गया";
 "class_table_share_tat_compatible" = "TAT के साथ संगत";
 "class_table_sign_in_required_message" = "अपनी क्लास टेबल देखने के लिए साइन इन करें";
 "class_table_total_credits_value" = "%1$@ क्रेडिट";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "असाइनमेंट देखने के लिए साइन इन करें।";
 "home_builtin_sections" = "बिल्ट-इन सेक्शन";
 "home_custom_section" = "कस्टम सेक्शन";
+"home_edit" = "होम संपादित करें";
+"home_more_actions" = "अधिक कार्रवाइयां";
 "home_no_courses_today" = "आज कोई कक्षा नहीं";
 "home_pending_assignments" = "लंबित असाइनमेंट";
 "home_section_add_quick_features" = "त्वरित क्रियाएं जोड़ें";

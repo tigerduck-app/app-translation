@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Kameraåtkomst krävs för att skanna</string>
     <string name="class_table_import_choose_photo">Välj från bilder</string>
     <string name="class_table_import_course_count">Kurser</string>
+    <string name="class_table_import_enter_link">Ange länk</string>
     <string name="class_table_import_failed">Det gick inte att importera schemat</string>
     <string name="class_table_import_invalid_message">Delningskoden är skadad eller har ändrats.</string>
+    <string name="class_table_import_link_placeholder">Delningslänk</string>
     <string name="class_table_import_lookup_failed">Det gick inte att läsa in kursinformationen</string>
     <string name="class_table_import_no_code_message">Ingen delningskod för schema hittades i bilden.</string>
     <string name="class_table_import_own_code_message">Det här är ditt eget schema.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Termin</string>
     <string name="class_table_share">Dela schema</string>
     <string name="class_table_share_all_semesters">Alla terminer</string>
+    <string name="class_table_share_copy_link">Kopiera länk</string>
+    <string name="class_table_share_link_copied">Länk kopierad</string>
     <string name="class_table_share_tat_compatible">Kompatibel med TAT</string>
     <string name="class_table_sign_in_required_message">Logga in för att visa ditt schema</string>
     <string name="class_table_total_credits_value">%1$s hp</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Logga in för att se uppgifter.</string>
     <string name="home_builtin_sections">Inbyggda avsnitt</string>
     <string name="home_custom_section">Anpassat avsnitt</string>
+    <string name="home_edit">Redigera Hem</string>
+    <string name="home_more_actions">Fler åtgärder</string>
     <string name="home_no_courses_today">Inga lektioner idag</string>
     <string name="home_pending_assignments">Väntande uppgifter</string>
     <string name="home_section_add_quick_features">Lägg till snabbåtgärder</string>

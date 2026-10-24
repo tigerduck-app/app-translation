@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Skanowanie wymaga dostępu do aparatu</string>
     <string name="class_table_import_choose_photo">Wybierz ze zdjęć</string>
     <string name="class_table_import_course_count">Przedmioty</string>
+    <string name="class_table_import_enter_link">Wpisz link</string>
     <string name="class_table_import_failed">Nie udało się zaimportować planu zajęć</string>
     <string name="class_table_import_invalid_message">Kod udostępniania jest uszkodzony lub został zmieniony.</string>
+    <string name="class_table_import_link_placeholder">Link do udostępniania</string>
     <string name="class_table_import_lookup_failed">Nie udało się wczytać szczegółów przedmiotów</string>
     <string name="class_table_import_no_code_message">Na obrazie nie znaleziono kodu udostępniania planu zajęć.</string>
     <string name="class_table_import_own_code_message">To Twój własny plan zajęć.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Semestr</string>
     <string name="class_table_share">Udostępnij plan zajęć</string>
     <string name="class_table_share_all_semesters">Wszystkie semestry</string>
+    <string name="class_table_share_copy_link">Kopiuj link</string>
+    <string name="class_table_share_link_copied">Skopiowano link</string>
     <string name="class_table_share_tat_compatible">Zgodność z TAT</string>
     <string name="class_table_sign_in_required_message">Zaloguj się, aby zobaczyć plan zajęć</string>
     <string name="class_table_total_credits_value">%1$s ECTS</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Zaloguj się, aby wyświetlić zadania.</string>
     <string name="home_builtin_sections">Sekcje wbudowane</string>
     <string name="home_custom_section">Sekcja niestandardowa</string>
+    <string name="home_edit">Edytuj Główną</string>
+    <string name="home_more_actions">Więcej działań</string>
     <string name="home_no_courses_today">Brak zajęć dzisiaj</string>
     <string name="home_pending_assignments">Zadania do wykonania</string>
     <string name="home_section_add_quick_features">Dodaj szybkie akcje</string>

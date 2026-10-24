@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">స్కాన్ చేయడానికి కెమెరా అనుమతి అవసరం</string>
     <string name="class_table_import_choose_photo">ఫోటోల నుండి ఎంచుకోండి</string>
     <string name="class_table_import_course_count">కోర్సుల సంఖ్య</string>
+    <string name="class_table_import_enter_link">లింక్‌ను నమోదు చేయండి</string>
     <string name="class_table_import_failed">తరగతి షెడ్యూల్‌ను దిగుమతి చేయలేకపోయాము</string>
     <string name="class_table_import_invalid_message">షేర్ కోడ్ పాడైంది లేదా మార్చబడింది.</string>
+    <string name="class_table_import_link_placeholder">షేర్ లింక్</string>
     <string name="class_table_import_lookup_failed">కోర్సు వివరాలను లోడ్ చేయలేకపోయాము</string>
     <string name="class_table_import_no_code_message">చిత్రంలో తరగతి షెడ్యూల్ షేర్ కోడ్ కనిపించలేదు.</string>
     <string name="class_table_import_own_code_message">ఇది మీ స్వంత తరగతి షెడ్యూల్.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">సెమిస్టర్</string>
     <string name="class_table_share">తరగతి షెడ్యూల్‌ను షేర్ చేయండి</string>
     <string name="class_table_share_all_semesters">అన్ని సెమిస్టర్‌లు</string>
+    <string name="class_table_share_copy_link">లింక్‌ను కాపీ చేయి</string>
+    <string name="class_table_share_link_copied">లింక్ కాపీ చేయబడింది</string>
     <string name="class_table_share_tat_compatible">TAT తో అనుకూలం</string>
     <string name="class_table_sign_in_required_message">మీ క్లాస్ టేబుల్ చూడటానికి సైన్ ఇన్ చేయండి</string>
     <string name="class_table_total_credits_value">%1$s క్రెడిట్‌లు</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">అసైన్‌మెంట్‌లు చూడటానికి సైన్ ఇన్ చేయండి.</string>
     <string name="home_builtin_sections">బిల్ట్-ఇన్ సెక్షన్లు</string>
     <string name="home_custom_section">కస్టమ్ సెక్షన్</string>
+    <string name="home_edit">హోమ్‌ను సవరించు</string>
+    <string name="home_more_actions">మరిన్ని చర్యలు</string>
     <string name="home_no_courses_today">నేడు తరగతులు లేవు</string>
     <string name="home_pending_assignments">పెండింగ్ అసైన్‌మెంట్లు</string>
     <string name="home_section_add_quick_features">త్వరిత చర్యలు జోడించు</string>

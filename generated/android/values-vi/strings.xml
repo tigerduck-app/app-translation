@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Cần quyền truy cập camera để quét</string>
     <string name="class_table_import_choose_photo">Chọn từ ảnh</string>
     <string name="class_table_import_course_count">Số môn học</string>
+    <string name="class_table_import_enter_link">Nhập liên kết</string>
     <string name="class_table_import_failed">Không thể nhập thời khóa biểu</string>
     <string name="class_table_import_invalid_message">Mã chia sẻ bị hỏng hoặc đã bị thay đổi.</string>
+    <string name="class_table_import_link_placeholder">Liên kết chia sẻ</string>
     <string name="class_table_import_lookup_failed">Không thể tải thông tin môn học</string>
     <string name="class_table_import_no_code_message">Không tìm thấy mã chia sẻ thời khóa biểu trong ảnh.</string>
     <string name="class_table_import_own_code_message">Đây là thời khóa biểu của chính bạn.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Học kỳ</string>
     <string name="class_table_share">Chia sẻ thời khóa biểu</string>
     <string name="class_table_share_all_semesters">Tất cả học kỳ</string>
+    <string name="class_table_share_copy_link">Sao chép liên kết</string>
+    <string name="class_table_share_link_copied">Đã sao chép liên kết</string>
     <string name="class_table_share_tat_compatible">Tương thích với TAT</string>
     <string name="class_table_sign_in_required_message">Đăng nhập để xem thời khóa biểu</string>
     <string name="class_table_total_credits_value">%1$s tín chỉ</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Đăng nhập để xem bài tập.</string>
     <string name="home_builtin_sections">Mục có sẵn</string>
     <string name="home_custom_section">Mục tùy chỉnh</string>
+    <string name="home_edit">Chỉnh sửa Trang chủ</string>
+    <string name="home_more_actions">Thêm thao tác</string>
     <string name="home_no_courses_today">Hôm nay không có lớp</string>
     <string name="home_pending_assignments">Bài tập đang chờ</string>
     <string name="home_section_add_quick_features">Thêm thao tác nhanh</string>

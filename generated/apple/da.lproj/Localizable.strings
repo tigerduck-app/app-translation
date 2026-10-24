@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "Der kræves adgang til kameraet for at scanne";
 "class_table_import_choose_photo" = "Vælg fra fotos";
 "class_table_import_course_count" = "Kurser";
+"class_table_import_enter_link" = "Indtast link";
 "class_table_import_failed" = "Skemaet kunne ikke importeres";
 "class_table_import_invalid_message" = "Delingskoden er beskadiget eller ændret.";
+"class_table_import_link_placeholder" = "Delingslink";
 "class_table_import_lookup_failed" = "Kursusoplysningerne kunne ikke indlæses";
 "class_table_import_no_code_message" = "Der blev ikke fundet nogen delingskode til et skema i billedet.";
 "class_table_import_own_code_message" = "Det er dit eget skema.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "Semester";
 "class_table_share" = "Del skema";
 "class_table_share_all_semesters" = "Alle semestre";
+"class_table_share_copy_link" = "Kopiér link";
+"class_table_share_link_copied" = "Link kopieret";
 "class_table_share_tat_compatible" = "Kompatibel med TAT";
 "class_table_sign_in_required_message" = "Log ind for at se din klassetabel";
 "class_table_total_credits_value" = "%1$@ ECTS-point";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "Log ind for at se opgaver.";
 "home_builtin_sections" = "Indbyggede sektioner";
 "home_custom_section" = "Brugerdefineret sektion";
+"home_edit" = "Rediger Hjem";
+"home_more_actions" = "Flere handlinger";
 "home_no_courses_today" = "Ingen timer i dag";
 "home_pending_assignments" = "Afventende opgaver";
 "home_section_add_quick_features" = "Tilføj hurtige handlinger";

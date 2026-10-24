@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">L\'accès à l\'appareil photo est nécessaire pour scanner</string>
     <string name="class_table_import_choose_photo">Choisir dans les photos</string>
     <string name="class_table_import_course_count">Cours</string>
+    <string name="class_table_import_enter_link">Saisir le lien</string>
     <string name="class_table_import_failed">Impossible d\'importer l\'emploi du temps</string>
     <string name="class_table_import_invalid_message">Le code de partage est endommagé ou a été modifié.</string>
+    <string name="class_table_import_link_placeholder">Lien de partage</string>
     <string name="class_table_import_lookup_failed">Impossible de charger les détails des cours</string>
     <string name="class_table_import_no_code_message">Aucun code de partage d\'emploi du temps n\'a été trouvé dans l\'image.</string>
     <string name="class_table_import_own_code_message">C\'est votre propre emploi du temps.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Semestre</string>
     <string name="class_table_share">Partager l\'emploi du temps</string>
     <string name="class_table_share_all_semesters">Tous les semestres</string>
+    <string name="class_table_share_copy_link">Copier le lien</string>
+    <string name="class_table_share_link_copied">Lien copié</string>
     <string name="class_table_share_tat_compatible">Compatible avec TAT</string>
     <string name="class_table_sign_in_required_message">Connectez-vous pour voir votre tableau de classe</string>
     <string name="class_table_total_credits_value">%1$s crédits</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Connectez-vous pour voir les devoirs.</string>
     <string name="home_builtin_sections">Sections intégrées</string>
     <string name="home_custom_section">Section personnalisée</string>
+    <string name="home_edit">Modifier l\'accueil</string>
+    <string name="home_more_actions">Plus d\'actions</string>
     <string name="home_no_courses_today">Aucun cours aujourd\'hui</string>
     <string name="home_pending_assignments">Devoirs en attente</string>
     <string name="home_section_add_quick_features">ACTIONS RAPIDES</string>

@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "يلزم الوصول إلى الكاميرا للمسح";
 "class_table_import_choose_photo" = "الاختيار من الصور";
 "class_table_import_course_count" = "عدد المقررات";
+"class_table_import_enter_link" = "إدخال الرابط";
 "class_table_import_failed" = "تعذّر استيراد الجدول الدراسي";
 "class_table_import_invalid_message" = "رمز المشاركة تالف أو تم تعديله.";
+"class_table_import_link_placeholder" = "رابط المشاركة";
 "class_table_import_lookup_failed" = "تعذّر تحميل تفاصيل المقررات";
 "class_table_import_no_code_message" = "لم يتم العثور على رمز مشاركة جدول دراسي في الصورة.";
 "class_table_import_own_code_message" = "هذا هو جدولك الدراسي.";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "الفصل الدراسي";
 "class_table_share" = "مشاركة الجدول الدراسي";
 "class_table_share_all_semesters" = "جميع الفصول الدراسية";
+"class_table_share_copy_link" = "نسخ الرابط";
+"class_table_share_link_copied" = "تم نسخ الرابط";
 "class_table_share_tat_compatible" = "متوافق مع TAT";
 "class_table_sign_in_required_message" = "قم بتسجيل الدخول لعرض جدول صفك";
 "class_table_total_credits_value" = "%1$@ ساعات معتمدة";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "سجّل الدخول لعرض الواجبات.";
 "home_builtin_sections" = "أقسام مدمجة";
 "home_custom_section" = "قسم مخصص";
+"home_edit" = "تحرير الرئيسية";
+"home_more_actions" = "المزيد من الإجراءات";
 "home_no_courses_today" = "لا توجد محاضرات اليوم";
 "home_pending_assignments" = "واجبات معلّقة";
 "home_section_add_quick_features" = "أضف إجراءات سريعة";

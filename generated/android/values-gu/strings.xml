@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">સ્કેન કરવા માટે કેમેરાની પરવાનગી જરૂરી છે</string>
     <string name="class_table_import_choose_photo">ફોટોમાંથી પસંદ કરો</string>
     <string name="class_table_import_course_count">કોર્સની સંખ્યા</string>
+    <string name="class_table_import_enter_link">લિંક દાખલ કરો</string>
     <string name="class_table_import_failed">ક્લાસ ટાઇમટેબલ આયાત કરી શકાયું નહીં</string>
     <string name="class_table_import_invalid_message">શેર કોડ ખરાબ થઈ ગયો છે અથવા તેમાં ફેરફાર કરવામાં આવ્યો છે.</string>
+    <string name="class_table_import_link_placeholder">શેર લિંક</string>
     <string name="class_table_import_lookup_failed">કોર્સની વિગતો લોડ થઈ શકી નહીં</string>
     <string name="class_table_import_no_code_message">છબીમાં કોઈ ક્લાસ ટાઇમટેબલ શેર કોડ મળ્યો નહીં.</string>
     <string name="class_table_import_own_code_message">આ તમારું પોતાનું ક્લાસ ટાઇમટેબલ છે.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">સેમેસ્ટર\u0020</string>
     <string name="class_table_share">ક્લાસ ટાઇમટેબલ શેર કરો</string>
     <string name="class_table_share_all_semesters">બધા સેમેસ્ટર</string>
+    <string name="class_table_share_copy_link">લિંક કૉપિ કરો</string>
+    <string name="class_table_share_link_copied">લિંક કૉપિ થઈ</string>
     <string name="class_table_share_tat_compatible">TAT સાથે સુસંગત</string>
     <string name="class_table_sign_in_required_message">તમારું વર્ગ કોષ્ટક જોવા માટે સાઇન ઇન કરો</string>
     <string name="class_table_total_credits_value">%1$s ક્રેડિટ</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">અસાઇનમેન્ટ જોવા સાઇન ઇન કરો.</string>
     <string name="home_builtin_sections">બિલ્ટ-ઇન સેક્શન</string>
     <string name="home_custom_section">કસ્ટમ સેક્શન</string>
+    <string name="home_edit">હોમમાં ફેરફાર કરો</string>
+    <string name="home_more_actions">વધુ ક્રિયાઓ</string>
     <string name="home_no_courses_today">આજ કોઈ ક્લાસ નથી</string>
     <string name="home_pending_assignments">બાકી અસાઇનમેન્ટ</string>
     <string name="home_section_add_quick_features">ઝડપી ક્રિયાઓ ઉમેરો</string>

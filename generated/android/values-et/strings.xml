@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Skannimiseks on vaja juurdepääsu kaamerale</string>
     <string name="class_table_import_choose_photo">Vali fotode hulgast</string>
     <string name="class_table_import_course_count">Kursused</string>
+    <string name="class_table_import_enter_link">Sisesta link</string>
     <string name="class_table_import_failed">Tunniplaani ei õnnestunud importida</string>
     <string name="class_table_import_invalid_message">Jagamiskood on rikutud või seda on muudetud.</string>
+    <string name="class_table_import_link_placeholder">Jagamislink</string>
     <string name="class_table_import_lookup_failed">Kursuste üksikasju ei õnnestunud laadida</string>
     <string name="class_table_import_no_code_message">Pildilt ei leitud tunniplaani jagamiskoodi.</string>
     <string name="class_table_import_own_code_message">See on teie enda tunniplaan.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_share">Jaga tunniplaani</string>
     <string name="class_table_share_all_semesters">Kõik semestrid</string>
+    <string name="class_table_share_copy_link">Kopeeri link</string>
+    <string name="class_table_share_link_copied">Link kopeeritud</string>
     <string name="class_table_share_tat_compatible">TAT-ühilduv</string>
     <string name="class_table_sign_in_required_message">Oma klassitabeli vaatamiseks logige sisse</string>
     <string name="class_table_total_credits_value">%1$s ainepunkti</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Logi sisse, et ülesandeid vaadata.</string>
     <string name="home_builtin_sections">Sisseehitatud jaotised</string>
     <string name="home_custom_section">Kohandatud jaotis</string>
+    <string name="home_edit">Redigeeri avalehte</string>
+    <string name="home_more_actions">Rohkem toiminguid</string>
     <string name="home_no_courses_today">Täna tunde pole</string>
     <string name="home_pending_assignments">Ootel ülesanded</string>
     <string name="home_section_add_quick_features">Lisage kiired toimingud</string>

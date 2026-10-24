@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Aðgangur að myndavél er nauðsynlegur til að skanna</string>
     <string name="class_table_import_choose_photo">Velja úr myndum</string>
     <string name="class_table_import_course_count">Námskeið</string>
+    <string name="class_table_import_enter_link">Slá inn tengil</string>
     <string name="class_table_import_failed">Ekki tókst að flytja inn stundaskrána</string>
     <string name="class_table_import_invalid_message">Deilikóðinn er skemmdur eða honum hefur verið breytt.</string>
+    <string name="class_table_import_link_placeholder">Deilingartengill</string>
     <string name="class_table_import_lookup_failed">Ekki tókst að hlaða inn upplýsingum um námskeið</string>
     <string name="class_table_import_no_code_message">Enginn deilikóði fyrir stundaskrá fannst í myndinni.</string>
     <string name="class_table_import_own_code_message">Þetta er þín eigin stundaskrá.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Misseri</string>
     <string name="class_table_share">Deila stundaskrá</string>
     <string name="class_table_share_all_semesters">Öll misseri</string>
+    <string name="class_table_share_copy_link">Afrita tengil</string>
+    <string name="class_table_share_link_copied">Tengill afritaður</string>
     <string name="class_table_share_tat_compatible">Samhæft við TAT</string>
     <string name="class_table_sign_in_required_message">Skráðu þig inn til að sjá stundaskrána þína</string>
     <string name="class_table_total_credits_value">%1$s einingar</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Skráðu þig inn til að sjá verkefni.</string>
     <string name="home_builtin_sections">Innbyggðir hlutar</string>
     <string name="home_custom_section">Sérsniðinn hluti</string>
+    <string name="home_edit">Breyta Heim</string>
+    <string name="home_more_actions">Fleiri aðgerðir</string>
     <string name="home_no_courses_today">Engir tímar í dag</string>
     <string name="home_pending_assignments">Óafgreidd verkefni</string>
     <string name="home_section_add_quick_features">Bæta við flýtiaðgerðum</string>

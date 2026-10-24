@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Сканерлеу үшін камераға рұқсат қажет</string>
     <string name="class_table_import_choose_photo">Фотосуреттерден таңдау</string>
     <string name="class_table_import_course_count">Курстар</string>
+    <string name="class_table_import_enter_link">Сілтемені енгізу</string>
     <string name="class_table_import_failed">Сабақ кестесін импорттау мүмкін болмады</string>
     <string name="class_table_import_invalid_message">Бөлісу коды зақымдалған немесе өзгертілген.</string>
+    <string name="class_table_import_link_placeholder">Бөлісу сілтемесі</string>
     <string name="class_table_import_lookup_failed">Курс мәліметтерін жүктеу мүмкін болмады</string>
     <string name="class_table_import_no_code_message">Суреттен сабақ кестесінің бөлісу коды табылмады.</string>
     <string name="class_table_import_own_code_message">Бұл — өзіңіздің сабақ кестеңіз.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Семестр</string>
     <string name="class_table_share">Сабақ кестесімен бөлісу</string>
     <string name="class_table_share_all_semesters">Барлық семестрлер</string>
+    <string name="class_table_share_copy_link">Сілтемені көшіру</string>
+    <string name="class_table_share_link_copied">Сілтеме көшірілді</string>
     <string name="class_table_share_tat_compatible">TAT үйлесімді</string>
     <string name="class_table_sign_in_required_message">Сабақ кестесін қарау үшін жүйеге кіріңіз</string>
     <string name="class_table_total_credits_value">%1$s кредит</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Тапсырмаларды көру үшін кіріңіз.</string>
     <string name="home_builtin_sections">Кірістірілген бөлімдер</string>
     <string name="home_custom_section">Өзгертілетін бөлім</string>
+    <string name="home_edit">Басты бетті өңдеу</string>
+    <string name="home_more_actions">Көбірек әрекеттер</string>
     <string name="home_no_courses_today">Бүгін сабақ жоқ</string>
     <string name="home_pending_assignments">Күтілетін тапсырмалар</string>
     <string name="home_section_add_quick_features">Жылдам әрекеттер қосу</string>

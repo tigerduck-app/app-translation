@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Taramak için kamera erişimi gerekiyor</string>
     <string name="class_table_import_choose_photo">Fotoğraflardan seç</string>
     <string name="class_table_import_course_count">Dersler</string>
+    <string name="class_table_import_enter_link">Bağlantıyı gir</string>
     <string name="class_table_import_failed">Ders programı içe aktarılamadı</string>
     <string name="class_table_import_invalid_message">Paylaşım kodu bozuk veya değiştirilmiş.</string>
+    <string name="class_table_import_link_placeholder">Paylaşım bağlantısı</string>
     <string name="class_table_import_lookup_failed">Ders ayrıntıları yüklenemedi</string>
     <string name="class_table_import_no_code_message">Görselde ders programı paylaşım kodu bulunamadı.</string>
     <string name="class_table_import_own_code_message">Bu sizin kendi ders programınız.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Dönem</string>
     <string name="class_table_share">Ders programını paylaş</string>
     <string name="class_table_share_all_semesters">Tüm dönemler</string>
+    <string name="class_table_share_copy_link">Bağlantıyı kopyala</string>
+    <string name="class_table_share_link_copied">Bağlantı kopyalandı</string>
     <string name="class_table_share_tat_compatible">TAT ile uyumlu</string>
     <string name="class_table_sign_in_required_message">Ders programınızı görmek için oturum açın</string>
     <string name="class_table_total_credits_value">%1$s kredi</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Ödevleri görmek için giriş yapın.</string>
     <string name="home_builtin_sections">Yerleşik bölümler</string>
     <string name="home_custom_section">Özel bölüm</string>
+    <string name="home_edit">Ana sayfayı düzenle</string>
+    <string name="home_more_actions">Diğer işlemler</string>
     <string name="home_no_courses_today">Bugün ders yok</string>
     <string name="home_pending_assignments">Bekleyen ödevler</string>
     <string name="home_section_add_quick_features">Hızlı eylem ekle</string>

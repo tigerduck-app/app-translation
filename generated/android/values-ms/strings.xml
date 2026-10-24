@@ -217,8 +217,10 @@
     <string name="class_table_import_camera_denied">Akses kamera diperlukan untuk mengimbas</string>
     <string name="class_table_import_choose_photo">Pilih daripada foto</string>
     <string name="class_table_import_course_count">Bilangan kursus</string>
+    <string name="class_table_import_enter_link">Masukkan pautan</string>
     <string name="class_table_import_failed">Tidak dapat mengimport jadual kelas</string>
     <string name="class_table_import_invalid_message">Kod perkongsian rosak atau telah diubah.</string>
+    <string name="class_table_import_link_placeholder">Pautan perkongsian</string>
     <string name="class_table_import_lookup_failed">Tidak dapat memuatkan butiran kursus</string>
     <string name="class_table_import_no_code_message">Tiada kod perkongsian jadual kelas ditemui dalam imej.</string>
     <string name="class_table_import_own_code_message">Ini jadual kelas anda sendiri.</string>
@@ -237,6 +239,8 @@
     <string name="class_table_semester_picker_label">Semester</string>
     <string name="class_table_share">Kongsi jadual kelas</string>
     <string name="class_table_share_all_semesters">Semua semester</string>
+    <string name="class_table_share_copy_link">Salin pautan</string>
+    <string name="class_table_share_link_copied">Pautan disalin</string>
     <string name="class_table_share_tat_compatible">Serasi dengan TAT</string>
     <string name="class_table_sign_in_required_message">Log masuk untuk melihat jadual kelas anda</string>
     <string name="class_table_total_credits_value">%1$s kredit</string>
@@ -546,6 +550,8 @@
     <string name="home_assignments_sign_in_required_message">Daftar masuk untuk melihat tugasan.</string>
     <string name="home_builtin_sections">Bahagian terbina dalam</string>
     <string name="home_custom_section">Bahagian tersuai</string>
+    <string name="home_edit">Edit Laman Utama</string>
+    <string name="home_more_actions">Tindakan lain</string>
     <string name="home_no_courses_today">Tiada kelas hari ini</string>
     <string name="home_pending_assignments">Tugasan tertunggak</string>
     <string name="home_section_add_quick_features">Tambah tindakan pantas</string>

@@ -210,8 +210,10 @@
 "class_table_import_camera_denied" = "اسکین کرنے کے لیے کیمرے تک رسائی درکار ہے";
 "class_table_import_choose_photo" = "تصاویر سے منتخب کریں";
 "class_table_import_course_count" = "کورسز کی تعداد";
+"class_table_import_enter_link" = "لنک درج کریں";
 "class_table_import_failed" = "کلاس شیڈول درآمد نہیں ہو سکا";
 "class_table_import_invalid_message" = "شیئر کوڈ خراب ہے یا اس میں تبدیلی کی گئی ہے۔";
+"class_table_import_link_placeholder" = "شیئر لنک";
 "class_table_import_lookup_failed" = "کورس کی تفصیلات لوڈ نہیں ہو سکیں";
 "class_table_import_no_code_message" = "تصویر میں کلاس شیڈول کا کوئی شیئر کوڈ نہیں ملا۔";
 "class_table_import_own_code_message" = "یہ آپ کا اپنا کلاس شیڈول ہے۔";
@@ -230,6 +232,8 @@
 "class_table_semester_picker_label" = "سمیسٹر";
 "class_table_share" = "کلاس شیڈول شیئر کریں";
 "class_table_share_all_semesters" = "تمام سمیسٹر";
+"class_table_share_copy_link" = "لنک کاپی کریں";
+"class_table_share_link_copied" = "لنک کاپی ہو گیا";
 "class_table_share_tat_compatible" = "TAT کے ساتھ ہم آہنگ";
 "class_table_sign_in_required_message" = "اپنا کلاس ٹیبل دیکھنے کے لیے سائن ان کریں";
 "class_table_total_credits_value" = "%1$@ کریڈٹس";
@@ -527,6 +531,8 @@
 "home_assignments_sign_in_required_message" = "اسائنمنٹس دیکھنے کے لیے سائن ان کریں۔";
 "home_builtin_sections" = "بلٹ ان سیکشنز";
 "home_custom_section" = "کسٹم سیکشن";
+"home_edit" = "ہوم ترمیم کریں";
+"home_more_actions" = "مزید کارروائیاں";
 "home_no_courses_today" = "آج کوئی کلاس نہیں";
 "home_pending_assignments" = "زیر التواء اسائنمنٹس";
 "home_section_add_quick_features" = "فوری اقدامات شامل کریں";
