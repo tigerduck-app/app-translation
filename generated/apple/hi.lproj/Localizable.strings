@@ -775,6 +775,7 @@
 "school_mail_guide_mail2000_link" = "App Store पर @Mail2000 पाएं";
 "school_mail_guide_mail2000_title" = "@Mail2000 ऐप";
 "school_mail_guide_open_in_browser" = "ब्राउज़र में खोलें";
+"school_mail_held_attachments_missing" = "ये अटैचमेंट रखे नहीं जा सके और अब मेल में नहीं हैं: %1$@। भेजने से पहले इन्हें फिर से अटैच करें।";
 "school_mail_invalid_recipients" = "इन पतों की जाँच करें: %1$@";
 "school_mail_keep_editing" = "संपादन जारी रखें";
 "school_mail_leave_title" = "इस मेल को ड्राफ़्ट के रूप में सेव करें?";

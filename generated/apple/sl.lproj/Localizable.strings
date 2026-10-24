@@ -775,6 +775,7 @@
 "school_mail_guide_mail2000_link" = "Prenesite @Mail2000 v trgovini App Store";
 "school_mail_guide_mail2000_title" = "Aplikacija @Mail2000";
 "school_mail_guide_open_in_browser" = "Odpri v brskalniku";
+"school_mail_held_attachments_missing" = "Teh prilog ni bilo mogoče ohraniti in jih ni več v sporočilu: %1$@. Pred pošiljanjem jih znova priložite.";
 "school_mail_invalid_recipients" = "Preverite te naslove: %1$@";
 "school_mail_keep_editing" = "Nadaljuj urejanje";
 "school_mail_leave_title" = "Želite to sporočilo shraniti kot osnutek?";

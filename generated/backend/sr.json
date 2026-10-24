@@ -751,6 +751,7 @@
   "school_mail_forwarded_header": "---------- Прослеђена порука ----------",
   "school_mail_guide_load_failed": "Водич није учитан",
   "school_mail_guide_open_in_browser": "Отвори у претраживачу",
+  "school_mail_held_attachments_missing": "Ове прилоге није било могуће задржати и више нису у поруци: %1$@. Поново их приложите пре слања.",
   "school_mail_invalid_recipients": "Проверите ове адресе: %1$@",
   "school_mail_keep_editing": "Настави уређивање",
   "school_mail_leave_title": "Да сачувам ову поруку као нацрт?",

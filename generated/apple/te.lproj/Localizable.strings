@@ -775,6 +775,7 @@
 "school_mail_guide_mail2000_link" = "App Storeలో @Mail2000ని పొందండి";
 "school_mail_guide_mail2000_title" = "@Mail2000 యాప్";
 "school_mail_guide_open_in_browser" = "బ్రౌజర్‌లో తెరవండి";
+"school_mail_held_attachments_missing" = "ఈ జోడింపులను ఉంచడం సాధ్యం కాలేదు, అవి ఇకపై ఇమెయిల్‌లో లేవు: %1$@. పంపే ముందు వాటిని మళ్లీ జోడించండి.";
 "school_mail_invalid_recipients" = "ఈ చిరునామాలను తనిఖీ చేయండి: %1$@";
 "school_mail_keep_editing" = "సవరించడం కొనసాగించండి";
 "school_mail_leave_title" = "ఈ ఇమెయిల్‌ను డ్రాఫ్ట్‌గా సేవ్ చేయాలా?";

@@ -748,6 +748,7 @@
     "school_mail_forwarded_header": "---------- Переслане повідомлення ----------",
     "school_mail_guide_load_failed": "Не вдалося завантажити посібник",
     "school_mail_guide_open_in_browser": "Відкрити у браузері",
+    "school_mail_held_attachments_missing": "Ці вкладення не вдалося зберегти, і їх більше немає в листі: %1$@. Прикріпіть їх знову перед надсиланням.",
     "school_mail_invalid_recipients": "Перевірте ці адреси: %1$@",
     "school_mail_keep_editing": "Продовжити редагування",
     "school_mail_leave_title": "Зберегти цей лист як чернетку?",

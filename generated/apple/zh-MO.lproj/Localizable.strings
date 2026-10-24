@@ -775,6 +775,7 @@
 "school_mail_guide_mail2000_link" = "在 App Store 取得 @Mail2000";
 "school_mail_guide_mail2000_title" = "@Mail2000 官方 App";
 "school_mail_guide_open_in_browser" = "喺瀏覽器開啟";
+"school_mail_held_attachments_missing" = "以下附件無法保留，已從郵件中移除：%1$@。寄出前請重新加入。";
 "school_mail_invalid_recipients" = "請檢查這些位址：%1$@";
 "school_mail_keep_editing" = "繼續編輯";
 "school_mail_leave_title" = "要把這封信存成草稿嗎？";

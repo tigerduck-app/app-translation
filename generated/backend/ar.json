@@ -751,6 +751,7 @@
   "school_mail_forwarded_header": "---------- رسالة معاد توجيهها ----------",
   "school_mail_guide_load_failed": "تعذّر تحميل الدليل",
   "school_mail_guide_open_in_browser": "فتح في المتصفح",
+  "school_mail_held_attachments_missing": "تعذّر الاحتفاظ بهذه المرفقات ولم تعد موجودة في الرسالة: %1$@. أرفقها مرة أخرى قبل الإرسال.",
   "school_mail_invalid_recipients": "تحقّق من هذه العناوين: %1$@",
   "school_mail_keep_editing": "متابعة التحرير",
   "school_mail_leave_title": "هل تريد حفظ هذه الرسالة كمسودة؟",
