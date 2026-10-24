@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Разписание (Седмица)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Яркост",
+    "a11y_color_picker_hue": "Нюанс",
+    "a11y_color_picker_saturation": "Наситеност",
     "account_id_use_standard_keyboard": "Стандартна клавиатура",
     "app_exit_confirm_toast": "Натиснете назад отново, за да излезете",
     "calendar_semester_end": "Край на %1$s",

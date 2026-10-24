@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "课表 周视图"
   },
   "android": {
+    "a11y_color_picker_brightness": "亮度",
+    "a11y_color_picker_hue": "色相",
+    "a11y_color_picker_saturation": "饱和度",
     "account_id_use_standard_keyboard": "标准键盘",
     "app_exit_confirm_toast": "再次返回以退出应用程序",
     "calendar_semester_end": "%1$s 结束",

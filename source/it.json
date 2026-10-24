@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Orario (Settimana)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Luminosità",
+    "a11y_color_picker_hue": "Tonalità",
+    "a11y_color_picker_saturation": "Saturazione",
     "account_id_use_standard_keyboard": "Tastiera standard",
     "app_exit_confirm_toast": "Premi di nuovo indietro per uscire",
     "calendar_semester_end": "Fine %1$s",

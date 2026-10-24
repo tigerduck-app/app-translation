@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Grade horária (Semana)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Brilho",
+    "a11y_color_picker_hue": "Matiz",
+    "a11y_color_picker_saturation": "Saturação",
     "account_id_use_standard_keyboard": "Teclado padrão",
     "app_exit_confirm_toast": "Pressione voltar novamente para sair",
     "calendar_semester_end": "Fim de %1$s",

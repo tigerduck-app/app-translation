@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Raspored (tjedan)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Svjetlina",
+    "a11y_color_picker_hue": "Nijansa",
+    "a11y_color_picker_saturation": "Zasićenost",
     "account_id_use_standard_keyboard": "Standardna tipkovnica",
     "app_exit_confirm_toast": "Pritisnite natrag ponovo za izlaz",
     "calendar_semester_end": "Kraj %1$s",

@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "מערכת שעות (שבוע)"
   },
   "android": {
+    "a11y_color_picker_brightness": "בהירות",
+    "a11y_color_picker_hue": "גוון",
+    "a11y_color_picker_saturation": "רוויה",
     "account_id_use_standard_keyboard": "מקלדת רגילה",
     "app_exit_confirm_toast": "לחץ חזרה שוב ליציאה",
     "calendar_semester_end": "סוף %1$s",

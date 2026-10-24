@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Tvarkaraštis (savaitė)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Ryškumas",
+    "a11y_color_picker_hue": "Atspalvis",
+    "a11y_color_picker_saturation": "Sodrumas",
     "account_id_use_standard_keyboard": "Standartinė klaviatūra",
     "app_exit_confirm_toast": "Paspauskite atgal dar kartą, kad išeitumėte",
     "calendar_semester_end": "%1$s pabaiga",

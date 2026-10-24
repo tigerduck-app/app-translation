@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Stundaskrá (vika)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Birtustig",
+    "a11y_color_picker_hue": "Litblær",
+    "a11y_color_picker_saturation": "Mettun",
     "account_id_use_standard_keyboard": "Staðlað lyklaborð",
     "app_exit_confirm_toast": "Ýttu aftur á til baka til að loka",
     "calendar_semester_end": "Lok %1$s",

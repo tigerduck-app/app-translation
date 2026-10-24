@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Rooster (week)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Helderheid",
+    "a11y_color_picker_hue": "Tint",
+    "a11y_color_picker_saturation": "Verzadiging",
     "account_id_use_standard_keyboard": "Standaardtoetsenbord",
     "app_exit_confirm_toast": "Druk nogmaals op terug om af te sluiten",
     "calendar_semester_end": "Einde van %1$s",

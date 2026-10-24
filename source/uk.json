@@ -1157,6 +1157,9 @@
     "widget_week_light_label": "Розклад (тиждень)"
   },
   "android": {
+    "a11y_color_picker_brightness": "Яскравість",
+    "a11y_color_picker_hue": "Відтінок",
+    "a11y_color_picker_saturation": "Насиченість",
     "account_id_use_standard_keyboard": "Стандартна клавіатура",
     "app_exit_confirm_toast": "Натисніть «Назад» ще раз, щоб вийти",
     "calendar_semester_end": "Кінець %1$s",
