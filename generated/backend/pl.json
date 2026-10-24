@@ -57,6 +57,7 @@
   "add_course_title": "Dodaj przedmiot",
   "app_name": "TigerDuck",
   "app_non_taipei_timezone_hint": "Aktualnie znajdują się Państwo poza strefą czasową Tajwanu. Aplikacja używa automatycznie czasu tajwańskiego.\nProszę dwukrotnie sprawdzić daty i godziny. Bezpiecznej podróży!",
+  "app_processing_keep_open": "Przetwarzanie…\nProsimy nie zamykać aplikacji.",
   "app_reset_required_action": "Zresetuj",
   "app_reset_required_message": "Stan logowania oraz preferencje nie mogą zostać odczytane, prawdopodobnie z powodu aktualizacji systemu, przywrócenia kopii zapasowej lub problemu z pamięcią.\n\nStuknąć „Zresetuj”, aby usunąć stare dane, następnie zalogować się ponownie i skonfigurować preferencje.",
   "app_reset_required_title": "Wymagane zresetowanie",

@@ -58,6 +58,7 @@
     "add_course_title": "Magdagdag ng kurso",
     "app_name": "TigerDuck",
     "app_non_taipei_timezone_hint": "Kasalukuyan kang nasa labas ng Taiwan time zone. Awtomatikong gumagamit ang app ng Taiwan time.\nPakitingnan ang mga petsa at oras. Ingat po sa paglalakbay!",
+    "app_processing_keep_open": "Pinoproseso…\nHuwag isara ang app.",
     "app_reset_required_action": "I-reset",
     "app_reset_required_message": "Hindi na mabasa ang iyong sign-in state at mga kagustuhan, posibleng dahil sa pag-upgrade ng OS, pagpapanumbalik ng backup, o isyu sa storage.\n\nI-tap ang \"I-reset\" para burahin ang lumang data, pagkatapos ay mag-sign in muli at i-reconfigure ang iyong mga kagustuhan.",
     "app_reset_required_title": "Kailangan ng reset",

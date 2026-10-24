@@ -57,6 +57,7 @@
 "add_course_title" = "Tambah kursus";
 "app_name" = "TigerDuck";
 "app_non_taipei_timezone_hint" = "Anda kini berada di luar zon waktu Taiwan. Aplikasi ini menggunakan zon waktu Taiwan secara automatik.\nSila semak semula tarikh dan masa. Selamat maju jaya dalam perjalanan anda!";
+"app_processing_keep_open" = "Sedang diproses…\nJangan tutup apl.";
 "app_reset_required_action" = "Tetapkan semula";
 "app_reset_required_message" = "Status log masuk dan keutamaan anda tidak dapat dibaca, mungkin disebabkan naik taraf OS, pemulihan sandaran, atau masalah storan.\n\nKetik \"Tetapkan semula\" untuk mengosongkan data lama, kemudian log masuk dan konfigurasi semula keutamaan anda.";
 "app_reset_required_title" = "Tetapan semula diperlukan";

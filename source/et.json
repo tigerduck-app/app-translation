@@ -58,6 +58,7 @@
     "add_course_title": "Lisa kursus",
     "app_name": "TigerDuck",
     "app_non_taipei_timezone_hint": "Olete praegu väljaspool Taiwani ajavööndit. Rakendus kasutab automaatselt Taiwani aega.\nKontrollige kuupäevi ja kellaaegu. Head reisi!",
+    "app_processing_keep_open": "Töötlemine…\nÄrge sulgege rakendust.",
     "app_reset_required_action": "Lähtesta",
     "app_reset_required_message": "Teie sisselogimisolekut ja eelistusi ei saa enam lugeda, tõenäoliselt OS-i uuenduse, varukoopia taastamise või salvestusprobleemi tõttu.\n\nPuudutage „Lähtesta\", et kustutada vanad andmed, seejärel logige sisse ja seadistage eelistused uuesti.",
     "app_reset_required_title": "Lähtestamine vajalik",

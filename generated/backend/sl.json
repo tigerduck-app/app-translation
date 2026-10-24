@@ -57,6 +57,7 @@
   "add_course_title": "Dodaj predmet",
   "app_name": "TigerDuck",
   "app_non_taipei_timezone_hint": "Trenutno ste zunaj tajvanskega časovnega pasu. Ta aplikacija samodejno uporablja tajvanski čas.\nProsimo, preverite datume in čase. Srečno potovanje!",
+  "app_processing_keep_open": "Obdelava…\nNe zaprite aplikacije.",
   "app_reset_required_action": "Ponastavi",
   "app_reset_required_message": "Stanja prijave in nastavitev ni mogoče prebrati, morda zaradi nadgradnje OS, obnovitve varnostne kopije ali težave s shranjevanjem.\n\nTapnite »Ponastavi«, da počistite stare podatke, nato se prijavite in znova konfigurirajte nastavitve.",
   "app_reset_required_title": "Potrebna je ponastavitev",

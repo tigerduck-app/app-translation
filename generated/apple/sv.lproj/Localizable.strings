@@ -57,6 +57,7 @@
 "add_course_title" = "Lägg till kurs";
 "app_name" = "TigerDuck";
 "app_non_taipei_timezone_hint" = "Du befinner dig för närvarande utanför Taiwans tidszon. Den här appen använder Taiwans tid automatiskt.\nKontrollera datum och tider. Ha en bra resa!";
+"app_processing_keep_open" = "Bearbetar…\nStäng inte appen.";
 "app_reset_required_action" = "Återställ";
 "app_reset_required_message" = "Din inloggningsstatus och dina inställningar kan inte längre läsas, möjligen på grund av en OS-uppgradering, säkerhetskopieringsåterställning eller ett lagringsproblem.\n\nTryck på \"Återställ\" för att rensa gamla data, logga sedan in och konfigurera om dina inställningar.";
 "app_reset_required_title" = "Återställning krävs";

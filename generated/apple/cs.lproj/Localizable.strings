@@ -57,6 +57,7 @@
 "add_course_title" = "Přidat kurz";
 "app_name" = "TigerDuck";
 "app_non_taipei_timezone_hint" = "Aktuálně se nacházíte mimo tchajwanský čas. Tato aplikace automaticky používá tchajwanský čas.\nZkontrolujte si prosím data a časy. Šťastnou cestu!";
+"app_processing_keep_open" = "Zpracovává se…\nAplikaci prosím nezavírejte.";
 "app_reset_required_action" = "Obnovit";
 "app_reset_required_message" = "Vaše přihlášení a předvolby již nelze načíst, pravděpodobně kvůli aktualizaci OS, obnovení ze zálohy nebo problému s úložištěm.\n\nKlepnutím na „Obnovit“ vymažete stará data a poté se znovu přihlásíte a nakonfigurujete své předvolby.";
 "app_reset_required_title" = "Vyžadováno obnovení";

@@ -57,6 +57,7 @@
 "add_course_title" = "Kurzus hozzáadása";
 "app_name" = "TigerDuck";
 "app_non_taipei_timezone_hint" = "Jelenleg nem tajvani időzónában van. Az alkalmazás automatikusan tajvani időt használ.\nKérjük, ellenőrizze a dátumokat és időpontokat. Jó utat!";
+"app_processing_keep_open" = "Feldolgozás…\nKérjük, ne zárja be az alkalmazást.";
 "app_reset_required_action" = "Visszaállítás";
 "app_reset_required_message" = "A bejelentkezési állapot és a beállítások nem olvashatók, valószínűleg operációs rendszer frissítés, biztonsági mentés visszaállítása vagy tárolási hiba miatt.\n\nKoppintson a \"Visszaállítás\" gombra a régi adatok törléséhez, majd jelentkezzen be újra és konfigurálja újra a beállításokat.";
 "app_reset_required_title" = "Visszaállítás szükséges";

@@ -57,6 +57,7 @@
   "add_course_title": "Lisää kurssi",
   "app_name": "TigerDuck",
   "app_non_taipei_timezone_hint": "Olet tällä hetkellä Taiwanin aikavyöhykkeen ulkopuolella. Sovellus käyttää automaattisesti Taiwanin aikaa.\nTarkista päivämäärät ja kellonajat. Hyvää matkaa!",
+  "app_processing_keep_open": "Käsitellään…\nÄlä sulje sovellusta.",
   "app_reset_required_action": "Nollaa",
   "app_reset_required_message": "Kirjautumistilasi ja asetuksiasi ei voida enää lukea, mahdollisesti käyttöjärjestelmäpäivityksen, varmuuskopiopalautuksen tai tallennusongelman vuoksi.\n\nNollaa vanhat tiedot napauttamalla \"Nollaa\", kirjaudu sitten sisään ja määritä asetukset uudelleen.",
   "app_reset_required_title": "Nollaus vaaditaan",

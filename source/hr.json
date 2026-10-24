@@ -58,6 +58,7 @@
     "add_course_title": "Dodaj kolegij",
     "app_name": "TigerDuck",
     "app_non_taipei_timezone_hint": "Trenutno se nalazite izvan tajvanskog vremenskog pojasa. Ova aplikacija automatski koristi tajvansko vrijeme.\nMolimo provjerite datume i vremena. Sretan put!",
+    "app_processing_keep_open": "Obrada u tijeku…\nNemojte zatvarati aplikaciju.",
     "app_reset_required_action": "Resetiraj",
     "app_reset_required_message": "Vaše stanje prijave i preferencije više se ne mogu učitati, moguće zbog nadogradnje OS-a, vraćanja sigurnosne kopije ili problema s pohranom.\n\nDodirnite „Resetiraj“ za brisanje starih podataka, zatim se prijavite i ponovno konfigurirajte preferencije.",
     "app_reset_required_title": "Potrebno je resetiranje",
