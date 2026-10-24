@@ -817,7 +817,7 @@
 "school_mail_send" = "Envoyer";
 "school_mail_send_confirm_title" = "Envoyer ce message ?";
 "school_mail_send_failed" = "Impossible d'envoyer le message";
-"school_mail_send_unconfirmed" = "Impossible de confirmer l'envoi du message ; réessayer pourrait l'envoyer deux fois";
+"school_mail_send_unconfirmed" = "Impossible de confirmer l'envoi du message ; réessayer pourrait l'envoyer deux fois";
 "school_mail_send_undone" = "Envoi annulé. Le message est de retour dans l'éditeur.";
 "school_mail_sending_hold" = "Envoi en cours…";
 "school_mail_sent_copy_failed" = "Le message a été envoyé, mais la copie n'a pas pu être enregistrée dans Envoyés.";
