@@ -515,6 +515,15 @@
 "feature_score_short" = "Note";
 "feature_settings" = "Setări";
 "feature_settings_short" = "Setări";
+"file_viewer_archive_empty" = "Această arhivă este goală.";
+"file_viewer_archive_folder" = "Dosar";
+"file_viewer_archive_link" = "Este un link către alt fișier.";
+"file_viewer_archive_password" = "Este protejat cu parolă.";
+"file_viewer_archive_too_large" = "Este prea mare pentru a fi deschis aici.";
+"file_viewer_archive_too_many" = "Conține prea multe fișiere pentru a fi listate aici.";
+"file_viewer_archive_truncated" = "Se afișează primele %1$@ elemente.";
+"file_viewer_archive_unsupported" = "Este comprimat într-un mod pe care această aplicație nu îl poate citi.";
+"file_viewer_archive_up" = "Un dosar mai sus";
 "file_viewer_cannot_show" = "Acest fișier nu poate fi afișat aici.";
 "file_viewer_open_elsewhere" = "Deschide în altă aplicație";
 "file_viewer_text_truncated" = "Se afișează primii %1$@ din acest fișier.";

@@ -515,6 +515,15 @@
 "feature_score_short" = "Mga marka";
 "feature_settings" = "Mga setting";
 "feature_settings_short" = "Mga setting";
+"file_viewer_archive_empty" = "Walang laman ang archive na ito.";
+"file_viewer_archive_folder" = "Folder";
+"file_viewer_archive_link" = "Isa itong link papunta sa ibang file.";
+"file_viewer_archive_password" = "Protektado ito ng password.";
+"file_viewer_archive_too_large" = "Masyado itong malaki para buksan dito.";
+"file_viewer_archive_too_many" = "Masyadong maraming file ang laman nito para ilista dito.";
+"file_viewer_archive_truncated" = "Ipinapakita ang unang %1$@ item.";
+"file_viewer_archive_unsupported" = "Naka-compress ito sa paraang hindi kayang basahin ng app na ito.";
+"file_viewer_archive_up" = "Umakyat ng isang folder";
 "file_viewer_cannot_show" = "Hindi maipakita rito ang file na ito.";
 "file_viewer_open_elsewhere" = "Buksan sa ibang app";
 "file_viewer_text_truncated" = "Ipinapakita ang unang %1$@ ng file na ito.";

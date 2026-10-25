@@ -515,6 +515,15 @@
 "feature_score_short" = "Оцене";
 "feature_settings" = "Поставке";
 "feature_settings_short" = "Поставке";
+"file_viewer_archive_empty" = "Ова архива је празна.";
+"file_viewer_archive_folder" = "Фасцикла";
+"file_viewer_archive_link" = "То је линк ка другој датотеци.";
+"file_viewer_archive_password" = "Заштићена је лозинком.";
+"file_viewer_archive_too_large" = "Превелика је да би се отворила овде.";
+"file_viewer_archive_too_many" = "Садржи превише датотека да би се овде набројале.";
+"file_viewer_archive_truncated" = "Приказује се првих %1$@ ставки.";
+"file_viewer_archive_unsupported" = "Компримована је на начин који ова апликација не може да прочита.";
+"file_viewer_archive_up" = "Једну фасциклу горе";
 "file_viewer_cannot_show" = "Ова датотека не може да се прикаже овде.";
 "file_viewer_open_elsewhere" = "Отвори у другој апликацији";
 "file_viewer_text_truncated" = "Приказује се првих %1$@ ове датотеке.";

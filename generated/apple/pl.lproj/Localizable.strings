@@ -515,6 +515,15 @@
 "feature_score_short" = "Oceny";
 "feature_settings" = "Ustawienia";
 "feature_settings_short" = "Ustawienia";
+"file_viewer_archive_empty" = "To archiwum jest puste.";
+"file_viewer_archive_folder" = "Folder";
+"file_viewer_archive_link" = "To link do innego pliku.";
+"file_viewer_archive_password" = "Jest chroniony hasłem.";
+"file_viewer_archive_too_large" = "Jest zbyt duży, aby otworzyć go tutaj.";
+"file_viewer_archive_too_many" = "Zawiera zbyt wiele plików, aby je tu wyświetlić.";
+"file_viewer_archive_truncated" = "Wyświetlanych jest pierwszych %1$@ elementów.";
+"file_viewer_archive_unsupported" = "Jest skompresowany w sposób, którego ta aplikacja nie potrafi odczytać.";
+"file_viewer_archive_up" = "Folder wyżej";
 "file_viewer_cannot_show" = "Nie można tutaj wyświetlić tego pliku.";
 "file_viewer_open_elsewhere" = "Otwórz w innej aplikacji";
 "file_viewer_text_truncated" = "Wyświetlane jest pierwsze %1$@ tego pliku.";

@@ -515,6 +515,15 @@
 "feature_score_short" = "Nilai";
 "feature_settings" = "Pengaturan";
 "feature_settings_short" = "Pengaturan";
+"file_viewer_archive_empty" = "Arsip ini kosong.";
+"file_viewer_archive_folder" = "Folder";
+"file_viewer_archive_link" = "Ini adalah tautan ke file lain.";
+"file_viewer_archive_password" = "File ini dilindungi kata sandi.";
+"file_viewer_archive_too_large" = "File ini terlalu besar untuk dibuka di sini.";
+"file_viewer_archive_too_many" = "Isinya terlalu banyak file untuk dicantumkan di sini.";
+"file_viewer_archive_truncated" = "Menampilkan %1$@ item pertama.";
+"file_viewer_archive_unsupported" = "File ini dikompresi dengan cara yang tidak dapat dibaca aplikasi ini.";
+"file_viewer_archive_up" = "Naik satu folder";
 "file_viewer_cannot_show" = "File ini tidak dapat ditampilkan di sini.";
 "file_viewer_open_elsewhere" = "Buka di aplikasi lain";
 "file_viewer_text_truncated" = "Menampilkan %1$@ pertama dari file ini.";
