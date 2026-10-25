@@ -380,6 +380,13 @@
     "locales": ["da", "de", "fil", "fr", "nl"]
   },
   {
+    "reason": "Folder is the word in these languages, as their other strings here use it",
+    "keys": [
+      "shared.file_viewer_archive_folder"
+    ],
+    "locales": ["fil", "id", "ms", "pl"]
+  },
+  {
     "reason": "Minutes is the French word",
     "keys": [
       "shared.live_activity_settings_minutes_unit"
