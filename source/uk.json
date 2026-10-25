@@ -956,6 +956,7 @@
     "settings_downloaded_files_delete_all": "Видалити всі завантажені файли",
     "settings_downloaded_files_delete_all_message": "Файли Moodle і вкладення з пошти буде завантажено знову, коли ви відкриєте їх наступного разу.",
     "settings_downloaded_files_delete_all_title": "Видалити всі завантажені файли?",
+    "settings_downloaded_files_delete_kind": "Видалити: %@",
     "settings_downloaded_files_footer": "Файли, завантажені в браузері TigerDuck, зберігаються в папці «Завантаження» на телефоні й не видаляються тут.",
     "settings_downloaded_files_images": "Зображення розкладу",
     "settings_downloaded_files_mail": "Вкладення з пошти",

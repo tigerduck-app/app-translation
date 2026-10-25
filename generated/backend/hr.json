@@ -959,6 +959,7 @@
   "settings_downloaded_files_delete_all": "Obriši sve preuzete datoteke",
   "settings_downloaded_files_delete_all_message": "Datoteke s Moodlea i privici e-pošte ponovno će se preuzeti kad ih sljedeći put otvorite.",
   "settings_downloaded_files_delete_all_title": "Obrisati sve preuzete datoteke?",
+  "settings_downloaded_files_delete_kind": "Obriši: %@",
   "settings_downloaded_files_footer": "Datoteke preuzete u pregledniku TigerDuck spremaju se u mapu Preuzimanja na telefonu i ovdje se ne brišu.",
   "settings_downloaded_files_images": "Slike rasporeda",
   "settings_downloaded_files_mail": "Privici e-pošte",

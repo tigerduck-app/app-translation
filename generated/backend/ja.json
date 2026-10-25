@@ -959,6 +959,7 @@
   "settings_downloaded_files_delete_all": "ダウンロードしたファイルをすべて削除",
   "settings_downloaded_files_delete_all_message": "Moodleのファイルとメールの添付ファイルは、次に開いたときに再度ダウンロードされます。",
   "settings_downloaded_files_delete_all_title": "ダウンロードしたファイルをすべて削除しますか？",
+  "settings_downloaded_files_delete_kind": "%@を削除",
   "settings_downloaded_files_footer": "TigerDuckのブラウザでダウンロードしたファイルはスマートフォンの「ダウンロード」フォルダに保存され、ここでは削除されません。",
   "settings_downloaded_files_images": "時間割の画像",
   "settings_downloaded_files_mail": "メールの添付ファイル",

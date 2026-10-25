@@ -956,6 +956,7 @@
     "settings_downloaded_files_delete_all": "Izbriši vse prenesene datoteke",
     "settings_downloaded_files_delete_all_message": "Datoteke iz Moodla in priloge iz pošte se bodo znova prenesle, ko jih boste naslednjič odprli.",
     "settings_downloaded_files_delete_all_title": "Želite izbrisati vse prenesene datoteke?",
+    "settings_downloaded_files_delete_kind": "Izbriši: %@",
     "settings_downloaded_files_footer": "Datoteke, prenesene v brskalniku TigerDuck, se shranijo v mapo Prenosi v telefonu in se tukaj ne izbrišejo.",
     "settings_downloaded_files_images": "Slike urnika",
     "settings_downloaded_files_mail": "Priloge iz pošte",

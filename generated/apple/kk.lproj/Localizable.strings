@@ -984,6 +984,7 @@
 "settings_downloaded_files_delete_all" = "Барлық жүктелген файлдарды жою";
 "settings_downloaded_files_delete_all_message" = "Moodle файлдары мен пошта тіркемелері келесі ашқанда қайта жүктеледі.";
 "settings_downloaded_files_delete_all_title" = "Барлық жүктелген файлдарды жою керек пе?";
+"settings_downloaded_files_delete_kind" = "Жою: %@";
 "settings_downloaded_files_footer" = "TigerDuck браузерінде жүктелген файлдар телефонның «Жүктеулер» қалтасында сақталады және мұнда жойылмайды.";
 "settings_downloaded_files_images" = "Сабақ кестесінің суреттері";
 "settings_downloaded_files_mail" = "Пошта тіркемелері";

@@ -956,6 +956,7 @@
     "settings_downloaded_files_delete_all": "Smazat všechny stažené soubory",
     "settings_downloaded_files_delete_all_message": "Soubory z Moodlu a přílohy e-mailů se při dalším otevření stáhnou znovu.",
     "settings_downloaded_files_delete_all_title": "Smazat všechny stažené soubory?",
+    "settings_downloaded_files_delete_kind": "Smazat: %@",
     "settings_downloaded_files_footer": "Soubory stažené v prohlížeči TigerDuck se ukládají do složky Stažené soubory v telefonu a tady se nemažou.",
     "settings_downloaded_files_images": "Obrázky rozvrhu",
     "settings_downloaded_files_mail": "Přílohy e-mailů",

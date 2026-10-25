@@ -956,6 +956,7 @@
     "settings_downloaded_files_delete_all": "Alle gedownloade bestanden verwijderen",
     "settings_downloaded_files_delete_all_message": "Moodle-bestanden en bijlagen van e-mail worden opnieuw gedownload als je ze de volgende keer opent.",
     "settings_downloaded_files_delete_all_title": "Alle gedownloade bestanden verwijderen?",
+    "settings_downloaded_files_delete_kind": "%@ verwijderen",
     "settings_downloaded_files_footer": "Bestanden die je in de TigerDuck-browser downloadt, worden opgeslagen in de map Downloads van je telefoon en worden hier niet verwijderd.",
     "settings_downloaded_files_images": "Afbeeldingen van het rooster",
     "settings_downloaded_files_mail": "Bijlagen van e-mail",

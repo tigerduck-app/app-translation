@@ -984,6 +984,7 @@
 "settings_downloaded_files_delete_all" = "Șterge toate fișierele descărcate";
 "settings_downloaded_files_delete_all_message" = "Fișierele Moodle și atașamentele din e-mail se vor descărca din nou data viitoare când le deschizi.";
 "settings_downloaded_files_delete_all_title" = "Ștergi toate fișierele descărcate?";
+"settings_downloaded_files_delete_kind" = "Șterge: %@";
 "settings_downloaded_files_footer" = "Fișierele descărcate în browserul TigerDuck sunt salvate în dosarul Descărcări al telefonului și nu sunt șterse de aici.";
 "settings_downloaded_files_images" = "Imagini ale orarului";
 "settings_downloaded_files_mail" = "Atașamente din e-mail";

@@ -959,6 +959,7 @@
   "settings_downloaded_files_delete_all": "حذف كل الملفات التي تم تنزيلها",
   "settings_downloaded_files_delete_all_message": "يُعاد تنزيل ملفات Moodle ومرفقات البريد في المرة التالية التي تفتحها فيها.",
   "settings_downloaded_files_delete_all_title": "هل تريد حذف كل الملفات التي تم تنزيلها؟",
+  "settings_downloaded_files_delete_kind": "حذف %@",
   "settings_downloaded_files_footer": "تُحفظ الملفات التي تنزّلها في متصفح TigerDuck في مجلد التنزيلات على هاتفك، ولا تُحذف من هنا.",
   "settings_downloaded_files_images": "صور الجدول الدراسي",
   "settings_downloaded_files_mail": "مرفقات البريد",

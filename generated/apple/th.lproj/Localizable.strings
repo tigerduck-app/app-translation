@@ -984,6 +984,7 @@
 "settings_downloaded_files_delete_all" = "ลบไฟล์ที่ดาวน์โหลดทั้งหมด";
 "settings_downloaded_files_delete_all_message" = "ไฟล์ Moodle และไฟล์แนบในอีเมลจะดาวน์โหลดใหม่เมื่อคุณเปิดครั้งถัดไป";
 "settings_downloaded_files_delete_all_title" = "ลบไฟล์ที่ดาวน์โหลดทั้งหมดใช่ไหม";
+"settings_downloaded_files_delete_kind" = "ลบ%@";
 "settings_downloaded_files_footer" = "ไฟล์ที่ดาวน์โหลดในเบราว์เซอร์ของ TigerDuck จะบันทึกไว้ในโฟลเดอร์ดาวน์โหลดของโทรศัพท์ และจะไม่ถูกลบที่นี่";
 "settings_downloaded_files_images" = "รูปตารางเรียน";
 "settings_downloaded_files_mail" = "ไฟล์แนบในอีเมล";

@@ -984,6 +984,7 @@
 "settings_downloaded_files_delete_all" = "Az összes letöltött fájl törlése";
 "settings_downloaded_files_delete_all_message" = "A Moodle-fájlok és a levélmellékletek a következő megnyitáskor újra letöltődnek.";
 "settings_downloaded_files_delete_all_title" = "Törli az összes letöltött fájlt?";
+"settings_downloaded_files_delete_kind" = "Törlés: %@";
 "settings_downloaded_files_footer" = "A TigerDuck böngészőjében letöltött fájlok a telefon Letöltések mappájába kerülnek, és innen nem törlődnek.";
 "settings_downloaded_files_images" = "Órarendképek";
 "settings_downloaded_files_mail" = "Levélmellékletek";

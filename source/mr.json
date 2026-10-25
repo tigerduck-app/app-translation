@@ -956,6 +956,7 @@
     "settings_downloaded_files_delete_all": "सर्व डाउनलोड केलेल्या फाइल हटवा",
     "settings_downloaded_files_delete_all_message": "पुढच्या वेळी उघडल्यावर Moodle फाइल आणि मेल अटॅचमेंट पुन्हा डाउनलोड होतील.",
     "settings_downloaded_files_delete_all_title": "सर्व डाउनलोड केलेल्या फाइल हटवायच्या?",
+    "settings_downloaded_files_delete_kind": "%@ हटवा",
     "settings_downloaded_files_footer": "TigerDuck ब्राउझरमध्ये डाउनलोड केलेल्या फाइल तुमच्या फोनच्या Downloads फोल्डरमध्ये सेव्ह होतात आणि येथून हटवल्या जात नाहीत.",
     "settings_downloaded_files_images": "वर्ग वेळापत्रकाच्या इमेज",
     "settings_downloaded_files_mail": "मेल अटॅचमेंट",

@@ -956,6 +956,7 @@
     "settings_downloaded_files_delete_all": "Eliminar todos os ficheiros transferidos",
     "settings_downloaded_files_delete_all_message": "Os ficheiros do Moodle e os anexos de email serão transferidos novamente da próxima vez que os abrires.",
     "settings_downloaded_files_delete_all_title": "Eliminar todos os ficheiros transferidos?",
+    "settings_downloaded_files_delete_kind": "Eliminar: %@",
     "settings_downloaded_files_footer": "Os ficheiros transferidos no navegador do TigerDuck são guardados na pasta Transferências do telemóvel e não são eliminados aqui.",
     "settings_downloaded_files_images": "Imagens do horário das aulas",
     "settings_downloaded_files_mail": "Anexos de email",

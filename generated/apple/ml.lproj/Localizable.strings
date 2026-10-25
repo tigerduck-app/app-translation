@@ -984,6 +984,7 @@
 "settings_downloaded_files_delete_all" = "ഡൗൺലോഡ് ചെയ്ത എല്ലാ ഫയലുകളും ഇല്ലാതാക്കുക";
 "settings_downloaded_files_delete_all_message" = "അടുത്ത തവണ തുറക്കുമ്പോൾ Moodle ഫയലുകളും മെയിൽ അറ്റാച്ച്‌മെന്റുകളും വീണ്ടും ഡൗൺലോഡ് ചെയ്യും.";
 "settings_downloaded_files_delete_all_title" = "ഡൗൺലോഡ് ചെയ്ത എല്ലാ ഫയലുകളും ഇല്ലാതാക്കണോ?";
+"settings_downloaded_files_delete_kind" = "%@ ഇല്ലാതാക്കുക";
 "settings_downloaded_files_footer" = "TigerDuck ബ്രൗസറിൽ ഡൗൺലോഡ് ചെയ്ത ഫയലുകൾ ഫോണിലെ Downloads ഫോൾഡറിൽ സേവ് ചെയ്യും, അവ ഇവിടെനിന്ന് ഇല്ലാതാക്കില്ല.";
 "settings_downloaded_files_images" = "ക്ലാസ് ടൈംടേബിൾ ചിത്രങ്ങൾ";
 "settings_downloaded_files_mail" = "മെയിൽ അറ്റാച്ച്‌മെന്റുകൾ";

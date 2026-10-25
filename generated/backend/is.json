@@ -959,6 +959,7 @@
   "settings_downloaded_files_delete_all": "Eyða öllum sóttum skrám",
   "settings_downloaded_files_delete_all_message": "Moodle-skrár og viðhengi úr pósti verða sótt aftur næst þegar þú opnar þau.",
   "settings_downloaded_files_delete_all_title": "Eyða öllum sóttum skrám?",
+  "settings_downloaded_files_delete_kind": "Eyða: %@",
   "settings_downloaded_files_footer": "Skrár sem sóttar eru í vafra TigerDuck eru vistaðar í niðurhalsmöppu símans og þeim er ekki eytt hér.",
   "settings_downloaded_files_images": "Myndir af stundaskrá",
   "settings_downloaded_files_mail": "Viðhengi úr pósti",
