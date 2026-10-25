@@ -515,6 +515,15 @@
 "feature_score_short" = "Cijfers";
 "feature_settings" = "Instellingen";
 "feature_settings_short" = "Instellingen";
+"file_viewer_archive_empty" = "Dit archief is leeg.";
+"file_viewer_archive_folder" = "Map";
+"file_viewer_archive_link" = "Het is een link naar een ander bestand.";
+"file_viewer_archive_password" = "Het is beveiligd met een wachtwoord.";
+"file_viewer_archive_too_large" = "Het is te groot om hier te openen.";
+"file_viewer_archive_too_many" = "Het bevat te veel bestanden om hier te tonen.";
+"file_viewer_archive_truncated" = "De eerste %1$@ items worden getoond.";
+"file_viewer_archive_unsupported" = "Het is gecomprimeerd op een manier die deze app niet kan lezen.";
+"file_viewer_archive_up" = "Eén map omhoog";
 "file_viewer_cannot_show" = "Dit bestand kan hier niet worden weergegeven.";
 "file_viewer_open_elsewhere" = "Openen in andere app";
 "file_viewer_text_truncated" = "De eerste %1$@ van dit bestand worden getoond.";

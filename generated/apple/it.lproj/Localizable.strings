@@ -515,6 +515,15 @@
 "feature_score_short" = "Voti";
 "feature_settings" = "Impostazioni";
 "feature_settings_short" = "Impostazioni";
+"file_viewer_archive_empty" = "Questo archivio è vuoto.";
+"file_viewer_archive_folder" = "Cartella";
+"file_viewer_archive_link" = "È un collegamento a un altro file.";
+"file_viewer_archive_password" = "È protetto da password.";
+"file_viewer_archive_too_large" = "È troppo grande per essere aperto qui.";
+"file_viewer_archive_too_many" = "Contiene troppi file per elencarli qui.";
+"file_viewer_archive_truncated" = "Vengono mostrati i primi %1$@ elementi.";
+"file_viewer_archive_unsupported" = "È compresso in un modo che questa app non sa leggere.";
+"file_viewer_archive_up" = "Su di una cartella";
 "file_viewer_cannot_show" = "Impossibile mostrare questo file qui.";
 "file_viewer_open_elsewhere" = "Apri in un'altra app";
 "file_viewer_text_truncated" = "Vengono mostrati i primi %1$@ di questo file.";

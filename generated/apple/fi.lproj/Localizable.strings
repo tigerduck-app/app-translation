@@ -515,6 +515,15 @@
 "feature_score_short" = "Arvosanat";
 "feature_settings" = "Asetukset";
 "feature_settings_short" = "Asetukset";
+"file_viewer_archive_empty" = "Tämä arkisto on tyhjä.";
+"file_viewer_archive_folder" = "Kansio";
+"file_viewer_archive_link" = "Se on linkki toiseen tiedostoon.";
+"file_viewer_archive_password" = "Se on suojattu salasanalla.";
+"file_viewer_archive_too_large" = "Se on liian suuri avattavaksi täällä.";
+"file_viewer_archive_too_many" = "Siinä on liian monta tiedostoa listattavaksi täällä.";
+"file_viewer_archive_truncated" = "Näytetään ensimmäiset %1$@ kohdetta.";
+"file_viewer_archive_unsupported" = "Se on pakattu tavalla, jota tämä sovellus ei osaa lukea.";
+"file_viewer_archive_up" = "Yksi kansio ylöspäin";
 "file_viewer_cannot_show" = "Tätä tiedostoa ei voi näyttää täällä.";
 "file_viewer_open_elsewhere" = "Avaa toisessa sovelluksessa";
 "file_viewer_text_truncated" = "Näytetään tämän tiedoston ensimmäiset %1$@.";

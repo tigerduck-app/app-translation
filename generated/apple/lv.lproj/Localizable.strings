@@ -515,6 +515,15 @@
 "feature_score_short" = "Atzīmes";
 "feature_settings" = "Iestatījumi";
 "feature_settings_short" = "Iestatījumi";
+"file_viewer_archive_empty" = "Šis arhīvs ir tukšs.";
+"file_viewer_archive_folder" = "Mape";
+"file_viewer_archive_link" = "Tā ir saite uz citu failu.";
+"file_viewer_archive_password" = "Tas ir aizsargāts ar paroli.";
+"file_viewer_archive_too_large" = "Tas ir pārāk liels, lai to atvērtu šeit.";
+"file_viewer_archive_too_many" = "Tajā ir pārāk daudz failu, lai tos šeit uzskaitītu.";
+"file_viewer_archive_truncated" = "Tiek rādīti pirmie %1$@ vienumi.";
+"file_viewer_archive_unsupported" = "Tas ir saspiests veidā, ko šī lietotne nevar nolasīt.";
+"file_viewer_archive_up" = "Vienu mapi augstāk";
 "file_viewer_cannot_show" = "Šo failu šeit nevar parādīt.";
 "file_viewer_open_elsewhere" = "Atvērt citā lietotnē";
 "file_viewer_text_truncated" = "Tiek rādīti šī faila pirmie %1$@.";

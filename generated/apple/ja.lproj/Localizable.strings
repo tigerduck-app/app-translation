@@ -515,6 +515,15 @@
 "feature_score_short" = "成績";
 "feature_settings" = "設定";
 "feature_settings_short" = "設定";
+"file_viewer_archive_empty" = "このアーカイブは空です。";
+"file_viewer_archive_folder" = "フォルダ";
+"file_viewer_archive_link" = "別のファイルへのリンクです。";
+"file_viewer_archive_password" = "パスワードで保護されています。";
+"file_viewer_archive_too_large" = "大きすぎるため、ここでは開けません。";
+"file_viewer_archive_too_many" = "ファイルが多すぎるため、ここでは一覧表示できません。";
+"file_viewer_archive_truncated" = "最初の %1$@ 件を表示しています。";
+"file_viewer_archive_unsupported" = "このアプリでは読み取れない方式で圧縮されています。";
+"file_viewer_archive_up" = "1つ上のフォルダへ";
 "file_viewer_cannot_show" = "このファイルはここでは表示できません。";
 "file_viewer_open_elsewhere" = "別のアプリで開く";
 "file_viewer_text_truncated" = "このファイルの最初の %1$@ を表示しています。";

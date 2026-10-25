@@ -515,6 +515,15 @@
 "feature_score_short" = "Osztályzatok";
 "feature_settings" = "Beállítások";
 "feature_settings_short" = "Beállítások";
+"file_viewer_archive_empty" = "Ez az archívum üres.";
+"file_viewer_archive_folder" = "Mappa";
+"file_viewer_archive_link" = "Ez egy másik fájlra mutató hivatkozás.";
+"file_viewer_archive_password" = "Jelszóval védett.";
+"file_viewer_archive_too_large" = "Túl nagy ahhoz, hogy itt megnyíljon.";
+"file_viewer_archive_too_many" = "Túl sok fájlt tartalmaz ahhoz, hogy itt fel lehessen sorolni.";
+"file_viewer_archive_truncated" = "Az első %1$@ elem látható.";
+"file_viewer_archive_unsupported" = "Olyan módon van tömörítve, amelyet ez az alkalmazás nem tud olvasni.";
+"file_viewer_archive_up" = "Egy mappával feljebb";
 "file_viewer_cannot_show" = "Ez a fájl itt nem jeleníthető meg.";
 "file_viewer_open_elsewhere" = "Megnyitás másik alkalmazásban";
 "file_viewer_text_truncated" = "A fájl első %1$@ része látható.";
