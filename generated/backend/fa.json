@@ -52,6 +52,7 @@
   "action_sign_out": "خروج از حساب",
   "action_update": "به‌روزرسانی",
   "add_course_added": "اضافه شد",
+  "add_course_example": "مثال: EC1013701، Calculus، John Wang",
   "add_course_not_found": "درسی مطابق پیدا نشد",
   "add_course_placeholder": "کد درس، نام یا مدرس را وارد کنید",
   "add_course_result_meta": "%1$s · %2$s · %3$s واحد",

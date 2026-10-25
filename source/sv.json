@@ -53,6 +53,7 @@
     "action_sign_out": "Logga ut",
     "action_update": "Uppdatera",
     "add_course_added": "Tillagd",
+    "add_course_example": "Exempel: EC1013701, Kalkyl, Johan Wang",
     "add_course_not_found": "Inga matchande kurser hittades",
     "add_course_placeholder": "Ange kurskod, namn eller lärare",
     "add_course_result_meta": "%1$s · %2$s · %3$s hp",

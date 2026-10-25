@@ -53,6 +53,7 @@
     "action_sign_out": "تسجيل الخروج",
     "action_update": "تحديث",
     "add_course_added": "تمت الإضافة",
+    "add_course_example": "مثال: EC1013701، التفاضل والتكامل، John Wang",
     "add_course_not_found": "لم يُعثر على مقررات مطابقة",
     "add_course_placeholder": "أدخل رمز المقرر أو اسمه أو اسم المُحاضِر",
     "add_course_result_meta": "%1$s · %2$s · %3$s ساعات معتمدة",

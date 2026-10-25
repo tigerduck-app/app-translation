@@ -53,6 +53,7 @@
     "action_sign_out": "Logg ut",
     "action_update": "Oppdater",
     "add_course_added": "Lagt til",
+    "add_course_example": "Eksempel: EC1013701, Kalkulus, John Wang",
     "add_course_not_found": "Ingen samsvarende fag funnet",
     "add_course_placeholder": "Skriv inn fagkode, navn eller faglærer",
     "add_course_result_meta": "%1$s · %2$s · %3$s studiepoeng",

@@ -53,6 +53,7 @@
     "action_sign_out": "Kijelentkezés",
     "action_update": "Frissítés",
     "add_course_added": "Hozzáadva",
+    "add_course_example": "Példa: EC1013701, Kalkulus, John Wang",
     "add_course_not_found": "Nem találhatók megfelelő kurzusok",
     "add_course_placeholder": "Adja meg a kurzuskódot, nevet vagy oktatót",
     "add_course_result_meta": "%1$s · %2$s · %3$s kredit",

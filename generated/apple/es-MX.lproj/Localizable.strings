@@ -52,6 +52,7 @@
 "action_sign_out" = "Cerrar sesión";
 "action_update" = "Actualizar";
 "add_course_added" = "Agregado";
+"add_course_example" = "Ejemplo: EC1013701, Cálculo, John Wang";
 "add_course_not_found" = "No se encontraron cursos coincidentes";
 "add_course_placeholder" = "Ingresa código del curso, nombre o instructor";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ créditos";

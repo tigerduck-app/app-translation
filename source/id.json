@@ -53,6 +53,7 @@
     "action_sign_out": "Keluar",
     "action_update": "Perbarui",
     "add_course_added": "Ditambahkan",
+    "add_course_example": "Contoh: EC1013701, Kalkulus, John Wang",
     "add_course_not_found": "Tidak ada mata kuliah yang cocok",
     "add_course_placeholder": "Masukkan kode mata kuliah, nama, atau dosen",
     "add_course_result_meta": "%1$s · %2$s · %3$s SKS",

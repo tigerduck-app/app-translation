@@ -53,6 +53,7 @@
     "action_sign_out": "Abmelden",
     "action_update": "Aktualisieren",
     "add_course_added": "Hinzugefügt",
+    "add_course_example": "Beispiel: EC1013701, Analysis, John Wang",
     "add_course_not_found": "Keine passenden Kurse gefunden",
     "add_course_placeholder": "Kurscode, Name oder Dozent eingeben",
     "add_course_result_meta": "%1$s · %2$s · %3$s Leistungspunkte",

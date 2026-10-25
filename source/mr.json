@@ -53,6 +53,7 @@
     "action_sign_out": "साइन आउट करा",
     "action_update": "अपडेट करा",
     "add_course_added": "जोडले",
+    "add_course_example": "उदाहरण: EC1013701, Calculus, John Wang",
     "add_course_not_found": "कोणतेही जुळणारे अभ्यासक्रम सापडले नाहीत",
     "add_course_placeholder": "अभ्यासक्रम कोड, नाव किंवा प्राध्यापक प्रविष्ट करा",
     "add_course_result_meta": "%1$s · %2$s · %3$s क्रेडिट्स",

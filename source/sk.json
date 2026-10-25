@@ -53,6 +53,7 @@
     "action_sign_out": "Odhlásiť sa",
     "action_update": "Aktualizovať",
     "add_course_added": "Pridané",
+    "add_course_example": "Príklad: EC1013701, Kalkulus, Ján Kováč",
     "add_course_not_found": "Nenašli sa žiadne zodpovedajúce kurzy",
     "add_course_placeholder": "Zadajte kód kurzu, názov alebo vyučujúceho",
     "add_course_result_meta": "%1$s · %2$s · %3$s kreditov",

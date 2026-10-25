@@ -52,6 +52,7 @@
   "action_sign_out": "Mag-sign out",
   "action_update": "I-update",
   "add_course_added": "Naidagdag na",
+  "add_course_example": "Halimbawa: EC1013701, Calculus, John Wang",
   "add_course_not_found": "Walang nahanap na magkakatugmang kurso",
   "add_course_placeholder": "Ilagay ang course code, pangalan, o instructor",
   "add_course_result_meta": "%1$s · %2$s · %3$s na credit",

@@ -52,6 +52,7 @@
 "action_sign_out" = "サインアウト";
 "action_update" = "更新";
 "add_course_added" = "追加済み";
+"add_course_example" = "例：EC1013701、微積分、王小明";
 "add_course_not_found" = "一致する授業が見つかりません";
 "add_course_placeholder" = "授業コード、授業名、または教員名を入力";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ 単位";

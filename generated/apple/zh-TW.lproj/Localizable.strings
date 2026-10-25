@@ -52,6 +52,7 @@
 "action_sign_out" = "登出";
 "action_update" = "更新";
 "add_course_added" = "已加入";
+"add_course_example" = "例如：EC1013701、微積分、王小明";
 "add_course_not_found" = "找不到符合的課程";
 "add_course_placeholder" = "輸入課程代碼、課名或老師";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@學分";

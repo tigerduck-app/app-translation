@@ -53,6 +53,7 @@
     "action_sign_out": "સાઇન આઉટ",
     "action_update": "અપડેટ કરો",
     "add_course_added": "ઉમેર્યો",
+    "add_course_example": "ઉદ: EC1013701, Calculus, John Wang",
     "add_course_not_found": "મેળ ખાતા કોર્સ મળ્યા નહીં",
     "add_course_placeholder": "કોર્સ કોડ, નામ અથવા ઇન્સ્ટ્રક્ટર દાખલ કરો",
     "add_course_result_meta": "%1$s · %2$s · %3$s ક્રેડિટ",

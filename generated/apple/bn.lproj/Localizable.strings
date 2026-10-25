@@ -52,6 +52,7 @@
 "action_sign_out" = "সাইন আউট";
 "action_update" = "আপডেট করুন";
 "add_course_added" = "যোগ করা হয়েছে";
+"add_course_example" = "উদাহরণ: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "কোনো মিলে যাওয়া কোর্স পাওয়া যায়নি";
 "add_course_placeholder" = "কোর্স কোড, নাম বা শিক্ষকের নাম লিখুন";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ ক্রেডিট";

@@ -53,6 +53,7 @@
     "action_sign_out": "Sair",
     "action_update": "Atualizar",
     "add_course_added": "Adicionada",
+    "add_course_example": "Exemplo: EC1013701, Cálculo, João Silva",
     "add_course_not_found": "Nenhuma disciplina correspondente encontrada",
     "add_course_placeholder": "Digite o código, nome da disciplina ou professor",
     "add_course_result_meta": "%1$s · %2$s · %3$s créditos",

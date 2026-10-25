@@ -53,6 +53,7 @@
     "action_sign_out": "Log ud",
     "action_update": "Opdater",
     "add_course_added": "Tilføjet",
+    "add_course_example": "Eksempel: EC1013701, Calculus, John Wang",
     "add_course_not_found": "Ingen matchende kurser fundet",
     "add_course_placeholder": "Indtast kurskode, navn eller underviser",
     "add_course_result_meta": "%1$s · %2$s · %3$s ECTS-point",

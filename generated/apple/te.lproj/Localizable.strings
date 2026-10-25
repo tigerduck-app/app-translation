@@ -52,6 +52,7 @@
 "action_sign_out" = "సైన్ అవుట్";
 "action_update" = "అప్‌డేట్ చేయండి";
 "add_course_added" = "జోడించారు";
+"add_course_example" = "ఉదా: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "సరిపోలే కోర్సులు కనుగొనబడలేదు";
 "add_course_placeholder" = "కోర్సు కోడ్, పేరు లేదా ఇన్‌స్ట్రక్టర్ నమోదు చేయండి";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ క్రెడిట్‌లు";

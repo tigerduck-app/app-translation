@@ -52,6 +52,7 @@
   "action_sign_out": "Atsijungti",
   "action_update": "Atnaujinti",
   "add_course_added": "Pridėta",
+  "add_course_example": "Pvz.: EC1013701, Matematika, Jonas Jonaitis",
   "add_course_not_found": "Atitinkamų kursų nerasta",
   "add_course_placeholder": "Įveskite kurso kodą, pavadinimą arba dėstytoją",
   "add_course_result_meta": "%1$s · %2$s · %3$s kreditai",

@@ -52,6 +52,7 @@
 "action_sign_out" = "Выйти";
 "action_update" = "Обновить";
 "add_course_added" = "Добавлено";
+"add_course_example" = "Например: EC1013701, Высшая математика, Иван Иванов";
 "add_course_not_found" = "Подходящие курсы не найдены";
 "add_course_placeholder" = "Введите код курса, название или преподавателя";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ кредитов";

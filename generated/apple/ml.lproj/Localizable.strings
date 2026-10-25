@@ -52,6 +52,7 @@
 "action_sign_out" = "സൈൻ ഔട്ട് ചെയ്യുക";
 "action_update" = "അപ്‌ഡേറ്റ് ചെയ്യുക";
 "add_course_added" = "ചേർത്തു";
+"add_course_example" = "ഉദാഹരണം: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "പൊരുത്തപ്പെടുന്ന കോഴ്‌സുകൾ കണ്ടെത്തിയില്ല";
 "add_course_placeholder" = "കോഴ്‌സ് കോഡ്, പേര്, അല്ലെങ്കിൽ അധ്യാപകൻ നൽകുക";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ ക്രെഡിറ്റുകൾ";

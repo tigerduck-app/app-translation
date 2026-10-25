@@ -52,6 +52,7 @@
   "action_sign_out": "Odjava",
   "action_update": "Posodobi",
   "add_course_added": "Dodano",
+  "add_course_example": "Primer: EC1013701, Matematična analiza, Janez Novak",
   "add_course_not_found": "Ni najdenih ustreznih predmetov",
   "add_course_placeholder": "Vnesite kodo predmeta, ime ali predavatelja",
   "add_course_result_meta": "%1$s · %2$s · %3$s kreditnih točk",

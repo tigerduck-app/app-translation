@@ -52,6 +52,7 @@
 "action_sign_out" = "Шығу";
 "action_update" = "Жаңарту";
 "add_course_added" = "Қосылды";
+"add_course_example" = "Мысалы: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "Сәйкес курстар табылмады";
 "add_course_placeholder" = "Курс кодын, атауын немесе оқытушыны енгізіңіз";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ кредит";

@@ -52,6 +52,7 @@
   "action_sign_out": "注销",
   "action_update": "更新",
   "add_course_added": "已加入",
+  "add_course_example": "例如：EC1013701、微积分、王小明",
   "add_course_not_found": "找不到符合的课程",
   "add_course_placeholder": "输入课程代码、课名或老师",
   "add_course_result_meta": "%1$s · %2$s · %3$s学分",

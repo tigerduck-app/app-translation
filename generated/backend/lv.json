@@ -52,6 +52,7 @@
   "action_sign_out": "Izrakstīties",
   "action_update": "Atjaunināt",
   "add_course_added": "Pievienots",
+  "add_course_example": "Piemērs: EC1013701, Matemātiskā analīze, Jānis Bērziņš",
   "add_course_not_found": "Nav atrasts neviens atbilstošs kurss",
   "add_course_placeholder": "Ievadiet kursa kodu, nosaukumu vai pasniedzēju",
   "add_course_result_meta": "%1$s · %2$s · %3$s kredītpunkti",

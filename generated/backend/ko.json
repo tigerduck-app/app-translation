@@ -52,6 +52,7 @@
   "action_sign_out": "로그아웃",
   "action_update": "업데이트",
   "add_course_added": "추가됨",
+  "add_course_example": "예: EC1013701, 미적분학, John Wang",
   "add_course_not_found": "일치하는 수업을 찾을 수 없습니다",
   "add_course_placeholder": "수업 코드, 이름 또는 강사명을 입력하세요",
   "add_course_result_meta": "%1$s · %2$s · %3$s 학점",

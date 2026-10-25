@@ -53,6 +53,7 @@
     "action_sign_out": "Útskrá",
     "action_update": "Uppfæra",
     "add_course_added": "Bætt við",
+    "add_course_example": "Dæmi: EC1013701, Stærðfræðigreining, Jón Jónsson",
     "add_course_not_found": "Engin námskeið fundust",
     "add_course_placeholder": "Sláðu inn námskeiðskóða, nafn eða kennara",
     "add_course_result_meta": "%1$s · %2$s · %3$s einingar",

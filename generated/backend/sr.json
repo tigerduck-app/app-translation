@@ -52,6 +52,7 @@
   "action_sign_out": "Одјавите се",
   "action_update": "Ажурирај",
   "add_course_added": "Додато",
+  "add_course_example": "Пример: EC1013701, Calculus, John Wang",
   "add_course_not_found": "Нису пронађени одговарајући курсеви",
   "add_course_placeholder": "Унесите шифру курса, назив или предавача",
   "add_course_result_meta": "%1$s · %2$s · %3$s ЕСПБ бодова",

@@ -53,6 +53,7 @@
     "action_sign_out": "Esci",
     "action_update": "Aggiorna",
     "add_course_added": "Aggiunto",
+    "add_course_example": "Esempio: EC1013701, Calcolo, John Wang",
     "add_course_not_found": "Nessun corso corrispondente trovato",
     "add_course_placeholder": "Inserisci codice corso, nome o docente",
     "add_course_result_meta": "%1$s · %2$s · %3$s crediti",

@@ -52,6 +52,7 @@
 "action_sign_out" = "Đăng xuất";
 "action_update" = "Cập nhật";
 "add_course_added" = "Đã thêm";
+"add_course_example" = "Ví dụ: EC1013701, Giải tích, Nguyễn Văn A";
 "add_course_not_found" = "Không tìm thấy môn học phù hợp";
 "add_course_placeholder" = "Nhập mã môn, tên môn hoặc giảng viên";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ tín chỉ";

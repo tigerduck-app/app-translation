@@ -52,6 +52,7 @@
 "action_sign_out" = "Sign out";
 "action_update" = "Update";
 "add_course_added" = "Added";
+"add_course_example" = "Example: EC1013701, Calculus, John Wang";
 "add_course_not_found" = "No matching courses found";
 "add_course_placeholder" = "Enter course code, name, or instructor";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ credits";

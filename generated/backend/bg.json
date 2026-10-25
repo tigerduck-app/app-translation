@@ -52,6 +52,7 @@
   "action_sign_out": "Излизане",
   "action_update": "Обнови",
   "add_course_added": "Добавено",
+  "add_course_example": "Например: EC1013701, Смятане, Иван Иванов",
   "add_course_not_found": "Не са намерени съвпадащи курсове",
   "add_course_placeholder": "Въведете код на курса, наименование или преподавател",
   "add_course_result_meta": "%1$s · %2$s · %3$s кредити",

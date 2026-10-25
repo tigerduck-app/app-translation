@@ -53,6 +53,7 @@
     "action_sign_out": "ಸೈನ್ ಔಟ್",
     "action_update": "ಅಪ್‌ಡೇಟ್ ಮಾಡಿ",
     "add_course_added": "ಸೇರಿಸಲಾಗಿದೆ",
+    "add_course_example": "ಉದಾಹರಣೆ: EC1013701, Calculus, John Wang",
     "add_course_not_found": "ಯಾವ ಹೊಂದಾಣಿಕೆಯ ಕೋರ್ಸ್‌ಗಳೂ ಸಿಗಲಿಲ್ಲ",
     "add_course_placeholder": "ಕೋರ್ಸ್ ಕೋಡ್, ಹೆಸರು ಅಥವಾ ಬೋಧಕರ ಹೆಸರು ನಮೂದಿಸಿ",
     "add_course_result_meta": "%1$s · %2$s · %3$s ಕ್ರೆಡಿಟ್‌ಗಳು",

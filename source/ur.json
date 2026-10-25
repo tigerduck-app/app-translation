@@ -53,6 +53,7 @@
     "action_sign_out": "سائن آؤٹ",
     "action_update": "اپ ڈیٹ کریں",
     "add_course_added": "شامل کیا گیا",
+    "add_course_example": "مثال: EC1013701، کیلکولس، John Wang",
     "add_course_not_found": "کوئی مماثل کورس نہیں ملا",
     "add_course_placeholder": "کورس کوڈ، نام، یا انسٹرکٹر درج کریں",
     "add_course_result_meta": "%1$s · %2$s · %3$s کریڈٹس",

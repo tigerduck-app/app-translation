@@ -52,6 +52,7 @@
 "action_sign_out" = "Вийти";
 "action_update" = "Оновити";
 "add_course_added" = "Додано";
+"add_course_example" = "Приклад: EC1013701, Математичний аналіз, Іван Петров";
 "add_course_not_found" = "Відповідних курсів не знайдено";
 "add_course_placeholder" = "Введіть код курсу, назву або викладача";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ кредитів";

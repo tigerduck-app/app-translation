@@ -52,6 +52,7 @@
   "action_sign_out": "Tanca la sessió",
   "action_update": "Actualitza",
   "add_course_added": "Afegit",
+  "add_course_example": "Exemple: EC1013701, Càlcul, Joan Wang",
   "add_course_not_found": "No s'ha trobat cap curs coincident",
   "add_course_placeholder": "Introduïu el codi del curs, el nom o el professor",
   "add_course_result_meta": "%1$s · %2$s · %3$s crèdits",

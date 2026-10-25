@@ -53,6 +53,7 @@
     "action_sign_out": "Wyloguj się",
     "action_update": "Aktualizuj",
     "add_course_added": "Dodano",
+    "add_course_example": "Przykład: EC1013701, Analiza matematyczna, John Wang",
     "add_course_not_found": "Nie znaleziono pasujących przedmiotów",
     "add_course_placeholder": "Wprowadź kod przedmiotu, nazwę lub wykładowcę",
     "add_course_result_meta": "%1$s · %2$s · %3$s ECTS",

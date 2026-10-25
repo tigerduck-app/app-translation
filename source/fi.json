@@ -53,6 +53,7 @@
     "action_sign_out": "Kirjaudu ulos",
     "action_update": "Päivitä",
     "add_course_added": "Lisätty",
+    "add_course_example": "Esimerkki: EC1013701, Calculus, John Wang",
     "add_course_not_found": "Kursseja ei löydy",
     "add_course_placeholder": "Syötä kurssikoodi, nimi tai opettaja",
     "add_course_result_meta": "%1$s · %2$s · %3$s opintopistettä",

@@ -52,6 +52,7 @@
 "action_sign_out" = "Odjava";
 "action_update" = "Ažuriraj";
 "add_course_added" = "Dodano";
+"add_course_example" = "Primjer: EC1013701, Matematička analiza, Ivan Horvat";
 "add_course_not_found" = "Nema pronađenih kolegija";
 "add_course_placeholder" = "Unesite šifru kolegija, naziv ili nastavnika";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ ECTS bodovi";

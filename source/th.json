@@ -53,6 +53,7 @@
     "action_sign_out": "ออกจากระบบ",
     "action_update": "อัปเดต",
     "add_course_added": "เพิ่มแล้ว",
+    "add_course_example": "ตัวอย่าง: EC1013701, แคลคูลัส, John Wang",
     "add_course_not_found": "ไม่พบรายวิชาที่ตรงกัน",
     "add_course_placeholder": "ใส่รหัสวิชา ชื่อวิชา หรือชื่ออาจารย์",
     "add_course_result_meta": "%1$s · %2$s · %3$s หน่วยกิต",

@@ -53,6 +53,7 @@
     "action_sign_out": "Odhlásit se",
     "action_update": "Aktualizovat",
     "add_course_added": "Přidáno",
+    "add_course_example": "Příklad: EC1013701, Kalkulus, Jan Novák",
     "add_course_not_found": "Nenalezeny žádné odpovídající kurzy",
     "add_course_placeholder": "Zadejte kód kurzu, název nebo vyučujícího",
     "add_course_result_meta": "%1$s · %2$s · %3$s kreditů",

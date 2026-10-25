@@ -53,6 +53,7 @@
     "action_sign_out": "Çıkış yap",
     "action_update": "Güncelle",
     "add_course_added": "Eklendi",
+    "add_course_example": "Örnek: EC1013701, Kalkülüs, John Wang",
     "add_course_not_found": "Eşleşen ders bulunamadı",
     "add_course_placeholder": "Ders kodu, adı veya öğretim üyesi girin",
     "add_course_result_meta": "%1$s · %2$s · %3$s kredi",

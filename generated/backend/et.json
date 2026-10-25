@@ -52,6 +52,7 @@
   "action_sign_out": "Logi välja",
   "action_update": "Uuenda",
   "add_course_added": "Lisatud",
+  "add_course_example": "Näide: EC1013701, Calculus, John Wang",
   "add_course_not_found": "Sobivaid kursusi ei leitud",
   "add_course_placeholder": "Sisestage kursuse kood, nimi või õpetaja",
   "add_course_result_meta": "%1$s · %2$s · %3$s ainepunkti",

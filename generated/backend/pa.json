@@ -52,6 +52,7 @@
   "action_sign_out": "ਸਾਈਨ ਆਊਟ ਕਰੋ",
   "action_update": "ਅੱਪਡੇਟ ਕਰੋ",
   "add_course_added": "ਜੋੜਿਆ ਗਿਆ",
+  "add_course_example": "ਉਦਾਹਰਨ: EC1013701, Calculus, John Wang",
   "add_course_not_found": "ਕੋਈ ਮੇਲ ਖਾਂਦਾ ਕੋਰਸ ਨਹੀਂ ਮਿਲਿਆ",
   "add_course_placeholder": "ਕੋਰਸ ਕੋਡ, ਨਾਮ ਜਾਂ ਅਧਿਆਪਕ ਦਾ ਨਾਮ ਦਾਖਲ ਕਰੋ",
   "add_course_result_meta": "%1$s · %2$s · %3$s ਕ੍ਰੈਡਿਟ",

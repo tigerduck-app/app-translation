@@ -52,6 +52,7 @@
   "action_sign_out": "வெளியேறு",
   "action_update": "புதுப்பி",
   "add_course_added": "சேர்க்கப்பட்டது",
+  "add_course_example": "எடுத்துக்காட்டு: EC1013701, Calculus, John Wang",
   "add_course_not_found": "பொருந்தும் வகுப்புகள் எதுவும் கிடைக்கவில்லை",
   "add_course_placeholder": "வகுப்பு குறியீடு, பெயர் அல்லது விரிவுரையாளர் உள்ளிடவும்",
   "add_course_result_meta": "%1$s · %2$s · %3$s கிரெடிட்கள்",

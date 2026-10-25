@@ -53,6 +53,7 @@
     "action_sign_out": "Log keluar",
     "action_update": "Kemas kini",
     "add_course_added": "Ditambah",
+    "add_course_example": "Contoh: EC1013701, Kalkulus, John Wang",
     "add_course_not_found": "Tiada kursus yang sepadan ditemui",
     "add_course_placeholder": "Masukkan kod kursus, nama, atau pengajar",
     "add_course_result_meta": "%1$s · %2$s · %3$s kredit",

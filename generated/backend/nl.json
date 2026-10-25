@@ -52,6 +52,7 @@
   "action_sign_out": "Uitloggen",
   "action_update": "Bijwerken",
   "add_course_added": "Toegevoegd",
+  "add_course_example": "Voorbeeld: EC1013701, Calculus, John Wang",
   "add_course_not_found": "Geen overeenkomende vakken gevonden",
   "add_course_placeholder": "Voer vakcode, naam of docent in",
   "add_course_result_meta": "%1$s · %2$s · %3$s studiepunten",

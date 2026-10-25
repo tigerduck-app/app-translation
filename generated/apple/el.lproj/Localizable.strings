@@ -52,6 +52,7 @@
 "action_sign_out" = "Αποσύνδεση";
 "action_update" = "Ενημέρωση";
 "add_course_added" = "Προστέθηκε";
+"add_course_example" = "Παράδειγμα: EC1013701, Λογισμός, Γιάννης Παπαδόπουλος";
 "add_course_not_found" = "Δεν βρέθηκαν αντίστοιχα μαθήματα";
 "add_course_placeholder" = "Εισαγάγετε κωδικό μαθήματος, όνομα ή καθηγητή";
 "add_course_result_meta" = "%1$@ · %2$@ · %3$@ πιστωτικές μονάδες";
