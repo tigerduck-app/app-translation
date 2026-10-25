@@ -1,0 +1,580 @@
+[
+  {
+    "reason": "TigerDuck's own names, spelled the same in every locale (CONVENTIONS.md, TigerDuck's own product names)",
+    "keys": [
+      "shared.app_name",
+      "shared.cloud_sync_section_title",
+      "shared.cloud_sync_title",
+      "shared.onboarding_sync_title"
+    ],
+    "locales": "*"
+  },
+  {
+    "reason": "Proper nouns every locale keeps: Moodle, NTUST, and the Android and Apple platforms",
+    "keys": [
+      "shared.calendar_source_moodle",
+      "shared.desktop_settings_section_ntust",
+      "shared.source_code_picker_repo_android_description",
+      "shared.source_code_picker_repo_apple_description"
+    ],
+    "locales": "*"
+  },
+  {
+    "reason": "Abbreviations and units every locale keeps: GPA, ID and dp",
+    "keys": [
+      "shared.a11y_rankings_trend_point",
+      "shared.desktop_score_gpa_label",
+      "shared.push_server_ids_section",
+      "shared.watch_padding_value_dp"
+    ],
+    "locales": "*"
+  },
+  {
+    "reason": "An example address, not text",
+    "keys": [
+      "shared.settings_api_endpoint_placeholder"
+    ],
+    "locales": "*"
+  },
+  {
+    "reason": "Live Activity and Live Updates stay English in every locale but Chinese (CONVENTIONS.md, these two brand names are not translated)",
+    "keys": [
+      "android.live_activity_channel_name",
+      "apple.live_activity_settings_nav_title",
+      "apple.push_server_status_live_activities",
+      "apple.sync_content_live_activity"
+    ],
+    "except": ["yue-HK", "zh-Hans", "zh-Hant"]
+  },
+  {
+    "reason": "Campus buildings and departments have a Chinese name and an English one and no other (CONVENTIONS.md, Campus building names and Department names)",
+    "prefixes": [
+      "shared.course_member_department_",
+      "shared.empty_classroom_building_"
+    ],
+    "except": ["yue-HK", "zh-Hans", "zh-Hant"]
+  },
+  {
+    "reason": "The school's bulletin board by its English name, as with its buildings; Chinese uses its Chinese name",
+    "keys": [
+      "shared.school_mail_filter_preset_bulletin"
+    ],
+    "except": ["yue-HK", "zh-Hans", "zh-Hant"]
+  },
+  {
+    "reason": "Saturation is the French word",
+    "keys": [
+      "android.a11y_color_picker_saturation"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Filipino UI text, Android's and Google's own, keeps this English word",
+    "keys": [
+      "android.browser_certificate_fingerprint",
+      "android.browser_certificate_title",
+      "android.browser_desktop_site",
+      "apple.school_mail_guide_apple_mail_title",
+      "apple.school_mail_guide_mail2000_title",
+      "shared.class_table_import_flashlight",
+      "shared.class_table_rename_default_label",
+      "shared.cloud_sync_device_id",
+      "shared.cloud_sync_device_section",
+      "shared.desktop_settings_moodle_open_in_app",
+      "shared.desktop_settings_tab_sidebar",
+      "shared.live_activity_settings_section_lock_screen",
+      "shared.live_activity_settings_section_timing",
+      "shared.onboarding_sync_shared_device_id",
+      "shared.score_info_term",
+      "shared.settings_font_size_preview_section",
+      "shared.settings_section_display",
+      "shared.settings_storage_title",
+      "shared.tls_certificate_fingerprint",
+      "shared.tls_certificate_intermediate"
+    ],
+    "locales": ["fil"]
+  },
+  {
+    "reason": "OK is the button's word in these languages",
+    "keys": [
+      "android.browser_dialog_ok"
+    ],
+    "locales": ["bg", "cs", "da", "de", "el", "et", "fi", "fil", "fr", "hu", "id", "it", "ja", "kk", "ms", "nl", "no", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sv", "uk", "vi"]
+  },
+  {
+    "reason": "Browser is the word in these languages",
+    "keys": [
+      "android.browser_open_external_short",
+      "shared.desktop_settings_moodle_open_in_browser"
+    ],
+    "locales": ["da", "de", "fil", "id", "it", "nl", "ro"]
+  },
+  {
+    "reason": "Photos is the French word",
+    "keys": [
+      "android.browser_upload_photos"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Long is the French word",
+    "keys": [
+      "android.haptic_preset_long"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Widgets is the word Android uses in these languages",
+    "keys": [
+      "android.settings_display_size_widget_section"
+    ],
+    "locales": ["ca", "da", "de", "es", "fr", "nl", "pt-BR", "pt-PT"]
+  },
+  {
+    "reason": "Vibration is the word in these languages",
+    "keys": [
+      "android.vibration_settings_title"
+    ],
+    "locales": ["da", "de", "fr", "sv"]
+  },
+  {
+    "reason": "Color is the word in these languages",
+    "keys": [
+      "shared.a11y_course_color_swatch"
+    ],
+    "locales": ["ca", "es"]
+  },
+  {
+    "reason": "Period is the Swedish word for a class period, as its other strings use it",
+    "keys": [
+      "shared.a11y_empty_classroom_period",
+      "shared.a11y_timetable_cell"
+    ],
+    "locales": ["sv"]
+  },
+  {
+    "reason": "Import is the Malay word",
+    "keys": [
+      "shared.action_import"
+    ],
+    "locales": ["ms"]
+  },
+  {
+    "reason": "Description is the French word",
+    "keys": [
+      "shared.assignment_detail_description"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Feedback is Moodle's own word in these languages",
+    "keys": [
+      "shared.assignment_detail_feedback"
+    ],
+    "locales": ["da", "de", "it", "nl", "pt-BR", "pt-PT", "ro"]
+  },
+  {
+    "reason": "Incomplete is the Romanian word",
+    "keys": [
+      "shared.assignment_filter_incomplete"
+    ],
+    "locales": ["ro"]
+  },
+  {
+    "reason": "later is the Dutch word",
+    "keys": [
+      "shared.assignment_time_suffix_later"
+    ],
+    "locales": ["nl"]
+  },
+  {
+    "reason": "Important is the word in these languages",
+    "keys": [
+      "shared.bulletin_importance_high_badge"
+    ],
+    "locales": ["ca", "fr", "ro"]
+  },
+  {
+    "reason": "Provisional is the word in these languages",
+    "keys": [
+      "shared.bulletin_push_status_provisional",
+      "shared.push_server_notification_status_provisional",
+      "shared.score_gpa_provisional"
+    ],
+    "locales": ["ca", "es"]
+  },
+  {
+    "reason": "Mode is the word in these languages",
+    "keys": [
+      "shared.bulletin_rule_editor_mode_section"
+    ],
+    "locales": ["ca", "fil", "fr", "id"]
+  },
+  {
+    "reason": "Name is the German word",
+    "keys": [
+      "shared.bulletin_rule_editor_name_section",
+      "shared.tls_certificate_name"
+    ],
+    "locales": ["de"]
+  },
+  {
+    "reason": "School is the Dutch word",
+    "keys": [
+      "shared.calendar_source_school"
+    ],
+    "locales": ["nl"]
+  },
+  {
+    "reason": "Semester is the word in these languages",
+    "keys": [
+      "shared.calendar_source_semester",
+      "shared.class_table_semester_picker_label",
+      "shared.score_scope_semester"
+    ],
+    "locales": ["da", "de", "et", "id", "ms", "nl", "no", "sk", "sl"]
+  },
+  {
+    "reason": "Cyan is the color's name in these languages",
+    "keys": [
+      "shared.color_name_cyan"
+    ],
+    "locales": ["da", "de", "fil", "fr", "no", "sv"]
+  },
+  {
+    "reason": "Indigo is the color's name in these languages",
+    "keys": [
+      "shared.color_name_indigo"
+    ],
+    "locales": ["da", "de", "et", "fi", "fil", "fr", "hr", "lt", "lv", "nl", "no", "ro", "sl", "sv"]
+  },
+  {
+    "reason": "Orange is the color's name in these languages",
+    "keys": [
+      "shared.color_name_orange"
+    ],
+    "locales": ["da", "de", "fr", "sv"]
+  },
+  {
+    "reason": "Pink is a German color name",
+    "keys": [
+      "shared.color_name_pink"
+    ],
+    "locales": ["de"]
+  },
+  {
+    "reason": "Code is the word in these languages",
+    "keys": [
+      "shared.course_detail_code_label"
+    ],
+    "locales": ["de", "fil", "fr", "nl"]
+  },
+  {
+    "reason": "Dimension is the word in these languages",
+    "keys": [
+      "shared.course_detail_dimension_label"
+    ],
+    "locales": ["da", "de", "fr", "sv"]
+  },
+  {
+    "reason": "Materials is the Catalan word",
+    "keys": [
+      "shared.course_detail_files_label"
+    ],
+    "locales": ["ca"]
+  },
+  {
+    "reason": "Forums is the word in these languages",
+    "keys": [
+      "shared.course_detail_forums_label"
+    ],
+    "locales": ["fr", "nl"]
+  },
+  {
+    "reason": "Email is the word in these languages",
+    "keys": [
+      "shared.course_member_email"
+    ],
+    "locales": ["el", "fil", "id", "it", "vi"]
+  },
+  {
+    "reason": "Version is the word in these languages",
+    "keys": [
+      "shared.desktop_about_version_value",
+      "shared.settings_version"
+    ],
+    "locales": ["da", "de", "fr", "sv"]
+  },
+  {
+    "reason": "Interface is the word in these languages",
+    "keys": [
+      "shared.desktop_settings_section_interface"
+    ],
+    "locales": ["fil", "fr", "nl", "pt-BR", "pt-PT"]
+  },
+  {
+    "reason": "Links is the word in these languages",
+    "keys": [
+      "shared.desktop_settings_section_links"
+    ],
+    "locales": ["da", "de", "nl", "pt-BR"]
+  },
+  {
+    "reason": "General is the word in these languages",
+    "keys": [
+      "shared.desktop_settings_tab_general"
+    ],
+    "locales": ["ca", "es", "ro"]
+  },
+  {
+    "reason": "min is the symbol for minutes in these languages",
+    "keys": [
+      "shared.empty_classroom_walk_minutes",
+      "shared.live_activity_settings_minutes_label"
+    ],
+    "locales": ["ca", "cs", "da", "es", "et", "fi", "fil", "fr", "hr", "it", "lv", "ms", "nl", "no", "pl", "pt-BR", "pt-PT", "ro", "sk", "sl", "sv"]
+  },
+  {
+    "reason": "Calendar is the Romanian word",
+    "keys": [
+      "shared.feature_calendar",
+      "shared.feature_calendar_short"
+    ],
+    "locales": ["ro"]
+  },
+  {
+    "reason": "Academic is the Romanian word",
+    "keys": [
+      "shared.feature_category_academic"
+    ],
+    "locales": ["ro"]
+  },
+  {
+    "reason": "System is the word in these languages",
+    "keys": [
+      "shared.feature_category_system"
+    ],
+    "locales": ["da", "de", "no", "pl", "sv"]
+  },
+  {
+    "reason": "Clubs is the Catalan word",
+    "keys": [
+      "shared.feature_clubs",
+      "shared.feature_clubs_short"
+    ],
+    "locales": ["ca"]
+  },
+  {
+    "reason": "Home is the word Italian uses for an app's home page",
+    "keys": [
+      "shared.feature_home",
+      "shared.feature_home_short"
+    ],
+    "locales": ["it"]
+  },
+  {
+    "reason": "Mail is the word for it in these languages",
+    "keys": [
+      "shared.feature_school_mail_short"
+    ],
+    "locales": ["da", "de", "fil", "fr", "nl"]
+  },
+  {
+    "reason": "Minutes is the French word",
+    "keys": [
+      "shared.live_activity_settings_minutes_unit"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Pages is the French word",
+    "keys": [
+      "shared.more_section_pages"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Status is the word in these languages",
+    "keys": [
+      "shared.push_server_status_section"
+    ],
+    "locales": ["da", "de", "hr", "id", "ms", "nl", "no", "pt-BR", "sv"]
+  },
+  {
+    "reason": "Bcc is the mail header's own name, which mail apps leave as it is in these languages",
+    "keys": [
+      "shared.school_mail_bcc"
+    ],
+    "locales": ["bg", "bn", "da", "de", "et", "fa", "fil", "gu", "hi", "hr", "id", "is", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+  },
+  {
+    "reason": "Message is the French word",
+    "keys": [
+      "shared.school_mail_body"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Cc is the mail header's own name, which mail apps leave as it is in these languages",
+    "keys": [
+      "shared.school_mail_cc"
+    ],
+    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fa", "fil", "fr", "gu", "hi", "hr", "id", "is", "it", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+  },
+  {
+    "reason": "Cc is the mail header's own name, which mail apps leave as it is in these languages",
+    "keys": [
+      "shared.school_mail_details_cc"
+    ],
+    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fa", "fil", "gu", "hi", "hr", "id", "is", "it", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+  },
+  {
+    "reason": "is is the Dutch word",
+    "keys": [
+      "shared.school_mail_filter_op_is"
+    ],
+    "locales": ["nl"]
+  },
+  {
+    "reason": "Start is the word in these languages",
+    "keys": [
+      "shared.school_mail_quiet_hours_start"
+    ],
+    "locales": ["da", "no", "sv"]
+  },
+  {
+    "reason": "Send is the word in these languages",
+    "keys": [
+      "shared.school_mail_send"
+    ],
+    "locales": ["da", "no"]
+  },
+  {
+    "reason": "Total is the word in these languages",
+    "keys": [
+      "shared.score_credit_total",
+      "shared.settings_storage_total"
+    ],
+    "locales": ["ca", "es", "fr", "id", "pt-BR", "pt-PT", "ro"]
+  },
+  {
+    "reason": "EP is Turkish's own short form too, for Eğitim Programı",
+    "keys": [
+      "shared.score_credit_type_education_program_short"
+    ],
+    "locales": ["tr"]
+  },
+  {
+    "reason": "Opt is short for optional in these languages too",
+    "keys": [
+      "shared.score_credit_type_not_required_short"
+    ],
+    "locales": ["es", "fr", "ro"]
+  },
+  {
+    "reason": "Trend is the Estonian word, and GPA stays as it is",
+    "keys": [
+      "shared.score_gpa_trend_title"
+    ],
+    "locales": ["et"]
+  },
+  {
+    "reason": "Note is the Italian word for a remark",
+    "keys": [
+      "shared.score_info_note"
+    ],
+    "locales": ["it"]
+  },
+  {
+    "reason": "Calculus I is what Dutch universities call the course",
+    "keys": [
+      "shared.settings_font_size_preview_course_name"
+    ],
+    "locales": ["nl"]
+  },
+  {
+    "reason": "The language list names English in English, its own name, in these locales",
+    "keys": [
+      "shared.settings_language_english"
+    ],
+    "locales": ["bg", "et", "fa", "fil", "gu", "he", "hi", "hr", "id", "ja", "kk", "ko", "lv", "ml", "ms", "nl", "ru", "sv", "ta", "th", "uk", "vi", "yue-HK", "zh-Hans", "zh-Hant"]
+  },
+  {
+    "reason": "Website is the word in these languages",
+    "keys": [
+      "shared.settings_licenses_website"
+    ],
+    "locales": ["de", "fil", "nl"]
+  },
+  {
+    "reason": "Account is the word in these languages",
+    "keys": [
+      "shared.settings_section_account"
+    ],
+    "locales": ["fil", "it", "nl"]
+  },
+  {
+    "reason": "Notifications is the French word",
+    "keys": [
+      "shared.settings_section_notifications"
+    ],
+    "locales": ["fr"]
+  },
+  {
+    "reason": "Password is the word in these languages",
+    "keys": [
+      "shared.sign_in_password"
+    ],
+    "locales": ["fil", "it"]
+  },
+  {
+    "reason": "Repositories is the word in these languages, as GitHub's own",
+    "keys": [
+      "shared.source_code_picker_section_repositories"
+    ],
+    "locales": ["de", "nl"]
+  },
+  {
+    "reason": "Local and Server are the Romanian words",
+    "keys": [
+      "shared.sync_conflict_item_detail"
+    ],
+    "locales": ["ro"]
+  },
+  {
+    "reason": "OK is the word for it in these languages",
+    "keys": [
+      "shared.sync_status_ok"
+    ],
+    "locales": ["cs", "da", "de", "fi", "fil", "fr", "id", "it", "ms", "nl", "no", "pl", "pt-BR", "pt-PT", "ro", "sk", "sv"]
+  },
+  {
+    "reason": "Root is the word for a root certificate in these languages",
+    "keys": [
+      "shared.tls_certificate_root"
+    ],
+    "locales": ["fil", "id"]
+  },
+  {
+    "reason": "Details is the word in these languages",
+    "keys": [
+      "shared.tls_pin_mismatch_show_details"
+    ],
+    "locales": ["de", "nl"]
+  },
+  {
+    "reason": "Later is the Dutch word",
+    "keys": [
+      "shared.update_action_later"
+    ],
+    "locales": ["nl"]
+  },
+  {
+    "reason": "Sun is Icelandic's own short form for sunnudagur",
+    "keys": [
+      "shared.weekday_sun_caption",
+      "shared.weekday_sun_short"
+    ],
+    "locales": ["is"]
+  }
+]

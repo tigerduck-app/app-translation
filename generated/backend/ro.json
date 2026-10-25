@@ -149,7 +149,7 @@
   "bulletin_rule_delete_action": "Șterge regula",
   "bulletin_rule_dept_and_tag_title": "Dept + Categorie (%1$s)",
   "bulletin_rule_dept_only_title": "Departament specific",
-  "bulletin_rule_dept_prefix": "Dept: ",
+  "bulletin_rule_dept_prefix": "Dep.: ",
   "bulletin_rule_disabled_badge": "Dezactivat",
   "bulletin_rule_edit_title": "Editează regula",
   "bulletin_rule_editor_dept_section": "Departament",
