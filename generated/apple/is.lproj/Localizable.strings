@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "Tími %1$@";
 "a11y_empty_classroom_same_room" = "Sama kennslustofa";
 "a11y_empty_classroom_walk_minutes" = "Um %1$d mín. gangur";
+"a11y_file_viewer_page" = "Síða %1$d af %2$d";
 "a11y_rankings_trend_chart" = "GPA þróun eftir önn";
 "a11y_rankings_trend_no_selection" = "Engin önn valin";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "Einkunnir";
 "feature_settings" = "Stillingar";
 "feature_settings_short" = "Stillingar";
+"file_viewer_cannot_show" = "Ekki er hægt að sýna þessa skrá hér.";
+"file_viewer_open_elsewhere" = "Opna í öðru forriti";
+"file_viewer_text_truncated" = "Sýni fyrstu %1$@ af þessari skrá.";
 "first_trigger_flip_to_library_keep" = "Halda virkjað";
 "first_trigger_flip_to_library_message" = "Við tókum eftir því að þú snérir símanum. Þetta bendingarmynstur getur opnað bókasafns-QR á augnabragði. Viltu halda þessum eiginleika?";
 "first_trigger_flip_to_library_title" = "Snúðu til að opna bókasafns-QR";

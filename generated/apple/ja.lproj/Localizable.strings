@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "第%1$@時限";
 "a11y_empty_classroom_same_room" = "同じ教室";
 "a11y_empty_classroom_walk_minutes" = "徒歩約 %1$d 分";
+"a11y_file_viewer_page" = "%2$d ページ中 %1$d ページ目";
 "a11y_rankings_trend_chart" = "学期ごとの GPA 推移";
 "a11y_rankings_trend_no_selection" = "学期が未選択";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "成績";
 "feature_settings" = "設定";
 "feature_settings_short" = "設定";
+"file_viewer_cannot_show" = "このファイルはここでは表示できません。";
+"file_viewer_open_elsewhere" = "別のアプリで開く";
+"file_viewer_text_truncated" = "このファイルの最初の %1$@ を表示しています。";
 "first_trigger_flip_to_library_keep" = "有効のままにする";
 "first_trigger_flip_to_library_message" = "スマートフォンを裏返したことを検出しました。このジェスチャーで図書館の QR をすばやく開けます。この機能を使い続けますか？";
 "first_trigger_flip_to_library_title" = "裏返して図書館 QR を開く";

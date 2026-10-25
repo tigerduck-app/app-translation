@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "שיעור %1$@";
 "a11y_empty_classroom_same_room" = "אותה כיתה";
 "a11y_empty_classroom_walk_minutes" = "כ-%1$d דקות הליכה";
+"a11y_file_viewer_page" = "עמוד %1$d מתוך %2$d";
 "a11y_rankings_trend_chart" = "מגמת GPA לפי סמסטר";
 "a11y_rankings_trend_no_selection" = "לא נבחר סמסטר";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "ציונים";
 "feature_settings" = "הגדרות";
 "feature_settings_short" = "הגדרות";
+"file_viewer_cannot_show" = "לא ניתן להציג את הקובץ הזה כאן.";
+"file_viewer_open_elsewhere" = "פתיחה באפליקציה אחרת";
+"file_viewer_text_truncated" = "מוצגים ה-%1$@ הראשונים של הקובץ.";
 "first_trigger_flip_to_library_keep" = "השאר פעיל";
 "first_trigger_flip_to_library_message" = "שמנו לב שהפכת את הטלפון. תנועה זו יכולה לפתוח במהירות את ה-QR של הספרייה. רוצה לשמור על התכונה הזו?";
 "first_trigger_flip_to_library_title" = "היפוך לפתיחת QR של הספרייה";

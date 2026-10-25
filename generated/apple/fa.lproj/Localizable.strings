@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "زنگ %1$@";
 "a11y_empty_classroom_same_room" = "همان کلاس";
 "a11y_empty_classroom_walk_minutes" = "حدود %1$d دقیقه پیاده‌روی";
+"a11y_file_viewer_page" = "صفحهٔ %1$d از %2$d";
 "a11y_rankings_trend_chart" = "روند GPA به تفکیک ترم";
 "a11y_rankings_trend_no_selection" = "هیچ ترمی انتخاب نشده";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "نمرات";
 "feature_settings" = "تنظیمات";
 "feature_settings_short" = "تنظیمات";
+"file_viewer_cannot_show" = "این فایل را نمی‌توان اینجا نمایش داد.";
+"file_viewer_open_elsewhere" = "باز کردن در برنامه‌ای دیگر";
+"file_viewer_text_truncated" = "%1$@ نخست این فایل نمایش داده می‌شود.";
 "first_trigger_flip_to_library_keep" = "فعال بماند";
 "first_trigger_flip_to_library_message" = "متوجه شدیم که گوشی‌تان را برگرداندید. این حرکت می‌تواند QR کتابخانه را به‌سرعت باز کند. می‌خواهید این قابلیت را نگه دارید؟";
 "first_trigger_flip_to_library_title" = "برگرداندن برای باز کردن QR کتابخانه";

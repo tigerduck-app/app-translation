@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "Ders saati %1$@";
 "a11y_empty_classroom_same_room" = "Aynı derslik";
 "a11y_empty_classroom_walk_minutes" = "Yaklaşık %1$d dk yürüme";
+"a11y_file_viewer_page" = "Sayfa %1$d / %2$d";
 "a11y_rankings_trend_chart" = "Döneme göre GPA trendi";
 "a11y_rankings_trend_no_selection" = "Dönem seçilmedi";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "Notlar";
 "feature_settings" = "Ayarlar";
 "feature_settings_short" = "Ayarlar";
+"file_viewer_cannot_show" = "Bu dosya burada gösterilemiyor.";
+"file_viewer_open_elsewhere" = "Başka bir uygulamada aç";
+"file_viewer_text_truncated" = "Bu dosyanın ilk %1$@ kısmı gösteriliyor.";
 "first_trigger_flip_to_library_keep" = "Etkin tut";
 "first_trigger_flip_to_library_message" = "Telefonunuzu çevirdiğinizi fark ettik. Bu hareket kütüphane QR'ını hızlıca açabilir. Bu özelliği tutmak ister misiniz?";
 "first_trigger_flip_to_library_title" = "Kütüphane QR'ını açmak için çevir";
