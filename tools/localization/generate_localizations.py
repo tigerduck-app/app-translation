@@ -276,6 +276,12 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         # Persian / Urdu -- Urdu takes much of its everyday vocabulary from
         # Persian and writes it in the same script
         ("fa", "ur"),
+        # Lithuanian / Latvian -- Baltic words such as Visi, Katedra, Versija
+        ("lt", "lv"),
+        # German / Dutch -- West Germanic words such as Alle, Master, Bachelor
+        ("de", "nl"),
+        # Kazakh / Ukrainian -- Kazakh's Russian loanwords such as Кафедра, Семестр
+        ("kk", "uk"),
     )
 )
 
