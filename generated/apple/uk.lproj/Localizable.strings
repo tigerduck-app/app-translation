@@ -984,13 +984,11 @@
 "settings_downloaded_files_delete_all" = "Видалити всі завантажені файли";
 "settings_downloaded_files_delete_all_message" = "Файли Moodle і вкладення з пошти буде завантажено знову, коли ви відкриєте їх наступного разу.";
 "settings_downloaded_files_delete_all_title" = "Видалити всі завантажені файли?";
-"settings_downloaded_files_delete_kind" = "Видалити: %@";
 "settings_downloaded_files_footer" = "Файли, завантажені в браузері TigerDuck, зберігаються в папці «Завантаження» на телефоні й не видаляються тут.";
 "settings_downloaded_files_images" = "Зображення розкладу";
 "settings_downloaded_files_mail" = "Вкладення з пошти";
 "settings_downloaded_files_moodle" = "Файли Moodle";
 "settings_downloaded_files_title" = "Завантажені файли";
-"settings_downloaded_files_total" = "Усього";
 "settings_feedback_bug_report" = "Відгук / Повідомити про проблему";
 "settings_flip_to_library_summary" = "Переверніть телефон екраном донизу, щоб відкрити QR бібліотеки.";
 "settings_flip_to_library_title" = "Перевернути для показу QR бібліотеки";
@@ -1050,6 +1048,12 @@
 "settings_show_classroom_on_class_table" = "Показувати аудиторії в розкладі";
 "settings_sign_out_imported_tables" = "Імпортовані розклади також буде видалено.";
 "settings_sign_out_unsynced_data" = "Дані, не синхронізовані з TigerSync, буде видалено.";
+"settings_storage_browser_data" = "Дані сайтів";
+"settings_storage_browser_data_delete_message" = "Сайти, які ви відвідували в браузері TigerDuck, можуть попросити вас увійти знову.";
+"settings_storage_browser_data_delete_title" = "Видалити дані сайтів?";
+"settings_storage_delete_kind" = "Видалити: %@";
+"settings_storage_title" = "Сховище";
+"settings_storage_total" = "Усього";
 "settings_sync_brief_description" = "TigerSync дозволяє синхронізувати обрану інформацію на всіх пристроях. Інформація без синхронізації залишається лише на цьому пристрої.";
 "settings_sync_brief_description_ios" = "TigerSync дозволяє отримувати push-сповіщення та синхронізувати інформацію. Інформація без синхронізації все одно надсилається на сервер для push-сповіщень.";
 "settings_sync_data_section" = "Дані, що передаються серверу";

@@ -984,13 +984,11 @@
 "settings_downloaded_files_delete_all" = "Elimina tots els fitxers baixats";
 "settings_downloaded_files_delete_all_message" = "Els fitxers de Moodle i els adjunts del correu es tornaran a baixar la propera vegada que els obriu.";
 "settings_downloaded_files_delete_all_title" = "Voleu eliminar tots els fitxers baixats?";
-"settings_downloaded_files_delete_kind" = "Elimina: %@";
 "settings_downloaded_files_footer" = "Els fitxers baixats al navegador de TigerDuck es desen a la carpeta Baixades del vostre telèfon i no s'eliminen aquí.";
 "settings_downloaded_files_images" = "Imatges de l'horari";
 "settings_downloaded_files_mail" = "Fitxers adjunts del correu";
 "settings_downloaded_files_moodle" = "Fitxers de Moodle";
 "settings_downloaded_files_title" = "Fitxers baixats";
-"settings_downloaded_files_total" = "Total";
 "settings_feedback_bug_report" = "Comentaris / Informeu d'un problema";
 "settings_flip_to_library_summary" = "Gira el telèfon amb la pantalla cap avall per obrir el QR de la biblioteca.";
 "settings_flip_to_library_title" = "Gira per mostrar el QR de la biblioteca";
@@ -1050,6 +1048,12 @@
 "settings_show_classroom_on_class_table" = "Mostra les aules a l'horari";
 "settings_sign_out_imported_tables" = "També s'eliminaran els horaris importats.";
 "settings_sign_out_unsynced_data" = "S'eliminaran les dades no sincronitzades amb TigerSync.";
+"settings_storage_browser_data" = "Dades de llocs web";
+"settings_storage_browser_data_delete_message" = "És possible que els llocs que heu visitat al navegador de TigerDuck us demanin que torneu a iniciar la sessió.";
+"settings_storage_browser_data_delete_title" = "Voleu eliminar les dades de llocs web?";
+"settings_storage_delete_kind" = "Elimina: %@";
+"settings_storage_title" = "Emmagatzematge";
+"settings_storage_total" = "Total";
 "settings_sync_brief_description" = "TigerSync permet sincronitzar la informació seleccionada entre tots els dispositius amb TigerSync activat. La informació no activada es queda només en aquest dispositiu.";
 "settings_sync_brief_description_ios" = "TigerSync permet rebre notificacions push i sincronitzar la informació entre dispositius. La informació no activada s'envia igualment al servidor per a les notificacions push.";
 "settings_sync_data_section" = "Dades compartides amb el servidor";

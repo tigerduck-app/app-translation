@@ -984,13 +984,11 @@
 "settings_downloaded_files_delete_all" = "Kustuta kõik allalaaditud failid";
 "settings_downloaded_files_delete_all_message" = "Moodle'i failid ja e-kirjade manused laaditakse järgmisel avamisel uuesti alla.";
 "settings_downloaded_files_delete_all_title" = "Kas kustutada kõik allalaaditud failid?";
-"settings_downloaded_files_delete_kind" = "Kustuta: %@";
 "settings_downloaded_files_footer" = "TigerDucki brauseris allalaaditud failid salvestatakse telefoni kausta Allalaadimised ja neid siin ei kustutata.";
 "settings_downloaded_files_images" = "Tunniplaani pildid";
 "settings_downloaded_files_mail" = "E-kirjade manused";
 "settings_downloaded_files_moodle" = "Moodle'i failid";
 "settings_downloaded_files_title" = "Allalaaditud failid";
-"settings_downloaded_files_total" = "Kokku";
 "settings_feedback_bug_report" = "Tagasiside / Vea aruanne";
 "settings_flip_to_library_summary" = "Pööra telefon ekraaniga allapoole, et avada raamatukogu QR.";
 "settings_flip_to_library_title" = "Pööra raamatukogu QR-i näitamiseks";
@@ -1050,6 +1048,12 @@
 "settings_show_classroom_on_class_table" = "Näita tunniplaanis ruume";
 "settings_sign_out_imported_tables" = "Ka imporditud tunniplaanid kustutatakse.";
 "settings_sign_out_unsynced_data" = "TigerSync'iga sünkroonimata andmed kustutatakse.";
+"settings_storage_browser_data" = "Veebisaitide andmed";
+"settings_storage_browser_data_delete_message" = "TigerDucki brauseris külastatud saidid võivad paluda teil uuesti sisse logida.";
+"settings_storage_browser_data_delete_title" = "Kas kustutada veebisaitide andmed?";
+"settings_storage_delete_kind" = "Kustuta: %@";
+"settings_storage_title" = "Salvestusruum";
+"settings_storage_total" = "Kokku";
 "settings_sync_brief_description" = "TigerSync võimaldab sünkroonida valitud teavet kõigi seadmete vahel. Sünkroonimata teave jääb ainult sellesse seadmesse.";
 "settings_sync_brief_description_ios" = "TigerSync võimaldab saada push-teavitusi ja sünkroonida teavet seadmete vahel. Sünkroonimata teave saadetakse siiski serverisse push-teavituste jaoks.";
 "settings_sync_data_section" = "Serveriga jagatud andmed";

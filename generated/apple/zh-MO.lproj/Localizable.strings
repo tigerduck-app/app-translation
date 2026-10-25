@@ -984,13 +984,11 @@
 "settings_downloaded_files_delete_all" = "刪除所有已下載嘅檔案";
 "settings_downloaded_files_delete_all_message" = "下次打開 Moodle 檔案同郵件附件嗰陣，會再重新下載。";
 "settings_downloaded_files_delete_all_title" = "要刪除所有已下載嘅檔案嗎？";
-"settings_downloaded_files_delete_kind" = "刪除%@";
 "settings_downloaded_files_footer" = "喺 TigerDuck 瀏覽器下載嘅檔案會儲存喺手機嘅「下載」資料夾，唔會喺呢度刪除。";
 "settings_downloaded_files_images" = "課表圖片";
 "settings_downloaded_files_mail" = "郵件附件";
 "settings_downloaded_files_moodle" = "Moodle 檔案";
 "settings_downloaded_files_title" = "已下載嘅檔案";
-"settings_downloaded_files_total" = "總計";
 "settings_feedback_bug_report" = "回饋/問題回報";
 "settings_flip_to_library_summary" = "將手機屏幕向下即可開啟圖書館 QR";
 "settings_flip_to_library_title" = "翻轉顯示圖書館 QR";
@@ -1050,6 +1048,12 @@
 "settings_show_classroom_on_class_table" = "喺課表首頁顯示教室";
 "settings_sign_out_imported_tables" = "匯入咗嘅課表都會一齊刪除。";
 "settings_sign_out_unsynced_data" = "未經 TigerSync 同步嘅資料會刪除。";
+"settings_storage_browser_data" = "網站資料";
+"settings_storage_browser_data_delete_message" = "喺 TigerDuck 瀏覽器去過嘅網站，可能會要你重新登入。";
+"settings_storage_browser_data_delete_title" = "要刪除網站資料嗎？";
+"settings_storage_delete_kind" = "刪除%@";
+"settings_storage_title" = "儲存空間";
+"settings_storage_total" = "總計";
 "settings_sync_brief_description" = "TigerSync 可以將你揀嘅資料同步到所有開咗 TigerSync 嘅裝置。冇開 TigerSync 嘅資料淨係會留喺呢部裝置。";
 "settings_sync_brief_description_ios" = "TigerSync 可以收推播通知，同埋將你揀嘅資料同步到所有開咗 TigerSync 嘅裝置。冇開同步嘅資料都會傳去伺服器畀推播通知用。";
 "settings_sync_data_section" = "同伺服器共享嘅資料";

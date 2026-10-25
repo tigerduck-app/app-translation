@@ -984,13 +984,11 @@
 "settings_downloaded_files_delete_all" = "删除所有已下载的文件";
 "settings_downloaded_files_delete_all_message" = "下次打开 Moodle 文件和邮件附件时，会重新下载。";
 "settings_downloaded_files_delete_all_title" = "要删除所有已下载的文件吗？";
-"settings_downloaded_files_delete_kind" = "删除%@";
 "settings_downloaded_files_footer" = "在 TigerDuck 浏览器下载的文件会保存到手机的“下载”文件夹，不会在这里删除。";
 "settings_downloaded_files_images" = "课表图片";
 "settings_downloaded_files_mail" = "邮件附件";
 "settings_downloaded_files_moodle" = "Moodle 文件";
 "settings_downloaded_files_title" = "已下载的文件";
-"settings_downloaded_files_total" = "总计";
 "settings_feedback_bug_report" = "回馈/问题回报";
 "settings_flip_to_library_summary" = "将手机屏幕朝下即可打开图书馆 QR";
 "settings_flip_to_library_title" = "翻转显示图书馆 QR";
@@ -1050,6 +1048,12 @@
 "settings_show_classroom_on_class_table" = "在课表首页显示教室";
 "settings_sign_out_imported_tables" = "导入的课表也会一并删除。";
 "settings_sign_out_unsynced_data" = "未通过 TigerSync 同步的数据将会删除。";
+"settings_storage_browser_data" = "网站数据";
+"settings_storage_browser_data_delete_message" = "在 TigerDuck 浏览器访问过的网站，可能会要求你重新登录。";
+"settings_storage_browser_data_delete_title" = "要删除网站数据吗？";
+"settings_storage_delete_kind" = "删除%@";
+"settings_storage_title" = "存储空间";
+"settings_storage_total" = "总计";
 "settings_sync_brief_description" = "TigerSync 可让你将所选信息同步至所有已开启 TigerSync 的设备。未启用 TigerSync 的信息仅保留在此设备上。";
 "settings_sync_brief_description_ios" = "TigerSync 可让你接收推送通知，并将所选信息同步至所有已开启 TigerSync 的设备。未启用同步的信息仍会发送至服务器供推送通知使用。";
 "settings_sync_data_section" = "与服务器共享的数据";

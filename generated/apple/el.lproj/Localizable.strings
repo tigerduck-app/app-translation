@@ -984,13 +984,11 @@
 "settings_downloaded_files_delete_all" = "Διαγραφή όλων των ληφθέντων αρχείων";
 "settings_downloaded_files_delete_all_message" = "Τα αρχεία Moodle και τα συνημμένα αλληλογραφίας θα ληφθούν ξανά την επόμενη φορά που θα τα ανοίξετε.";
 "settings_downloaded_files_delete_all_title" = "Διαγραφή όλων των ληφθέντων αρχείων;";
-"settings_downloaded_files_delete_kind" = "Διαγραφή: %@";
 "settings_downloaded_files_footer" = "Τα αρχεία που λαμβάνετε στο πρόγραμμα περιήγησης του TigerDuck αποθηκεύονται στον φάκελο Λήψεις του τηλεφώνου σας και δεν διαγράφονται από εδώ.";
 "settings_downloaded_files_images" = "Εικόνες προγράμματος μαθημάτων";
 "settings_downloaded_files_mail" = "Συνημμένα αλληλογραφίας";
 "settings_downloaded_files_moodle" = "Αρχεία Moodle";
 "settings_downloaded_files_title" = "Ληφθέντα αρχεία";
-"settings_downloaded_files_total" = "Σύνολο";
 "settings_feedback_bug_report" = "Σχόλια / Αναφορά προβλήματος";
 "settings_flip_to_library_summary" = "Αναποδογύρισε το τηλέφωνο με την οθόνη προς τα κάτω για να ανοίξεις τον QR της βιβλιοθήκης.";
 "settings_flip_to_library_title" = "Αναποδογύρισε για να δεις τον QR της βιβλιοθήκης";
@@ -1050,6 +1048,12 @@
 "settings_show_classroom_on_class_table" = "Εμφάνιση αιθουσών στο πρόγραμμα";
 "settings_sign_out_imported_tables" = "Θα διαγραφούν επίσης τα προγράμματα μαθημάτων που εισαγάγατε.";
 "settings_sign_out_unsynced_data" = "Τα δεδομένα που δεν έχουν συγχρονιστεί με το TigerSync θα διαγραφούν.";
+"settings_storage_browser_data" = "Δεδομένα ιστοτόπων";
+"settings_storage_browser_data_delete_message" = "Οι ιστότοποι που επισκεφθήκατε στο πρόγραμμα περιήγησης του TigerDuck ενδέχεται να σας ζητήσουν να συνδεθείτε ξανά.";
+"settings_storage_browser_data_delete_title" = "Διαγραφή δεδομένων ιστοτόπων;";
+"settings_storage_delete_kind" = "Διαγραφή: %@";
+"settings_storage_title" = "Αποθηκευτικός χώρος";
+"settings_storage_total" = "Σύνολο";
 "settings_sync_brief_description" = "Το TigerSync σας επιτρέπει να συγχρονίζετε τις επιλεγμένες πληροφορίες σε όλες τις συσκευές. Οι πληροφορίες χωρίς συγχρονισμό παραμένουν μόνο σε αυτή τη συσκευή.";
 "settings_sync_brief_description_ios" = "Το TigerSync σας επιτρέπει να λαμβάνετε push ειδοποιήσεις και να συγχρονίζετε πληροφορίες. Οι πληροφορίες χωρίς συγχρονισμό αποστέλλονται στον διακομιστή για push ειδοποιήσεις.";
 "settings_sync_data_section" = "Δεδομένα που μοιράζονται με τον διακομιστή";

@@ -984,13 +984,11 @@
 "settings_downloaded_files_delete_all" = "ਸਾਰੀਆਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਈਲਾਂ ਮਿਟਾਓ";
 "settings_downloaded_files_delete_all_message" = "ਅਗਲੀ ਵਾਰ ਖੋਲ੍ਹਣ 'ਤੇ Moodle ਫ਼ਾਈਲਾਂ ਅਤੇ ਮੇਲ ਅਟੈਚਮੈਂਟ ਦੁਬਾਰਾ ਡਾਊਨਲੋਡ ਹੋਣਗੇ।";
 "settings_downloaded_files_delete_all_title" = "ਕੀ ਸਾਰੀਆਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਈਲਾਂ ਮਿਟਾਉਣੀਆਂ ਹਨ?";
-"settings_downloaded_files_delete_kind" = "%@ ਮਿਟਾਓ";
 "settings_downloaded_files_footer" = "TigerDuck ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਈਲਾਂ ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੇ Downloads ਫੋਲਡਰ ਵਿੱਚ ਸੇਵ ਹੁੰਦੀਆਂ ਹਨ ਅਤੇ ਇੱਥੋਂ ਮਿਟਾਈਆਂ ਨਹੀਂ ਜਾਂਦੀਆਂ।";
 "settings_downloaded_files_images" = "ਕਲਾਸ ਸਾਰਣੀ ਦੀਆਂ ਤਸਵੀਰਾਂ";
 "settings_downloaded_files_mail" = "ਮੇਲ ਅਟੈਚਮੈਂਟ";
 "settings_downloaded_files_moodle" = "Moodle ਫ਼ਾਈਲਾਂ";
 "settings_downloaded_files_title" = "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਈਲਾਂ";
-"settings_downloaded_files_total" = "ਕੁੱਲ";
 "settings_feedback_bug_report" = "ਫੀਡਬੈਕ / ਸਮੱਸਿਆ ਰਿਪੋਰਟ ਕਰੋ";
 "settings_flip_to_library_summary" = "ਲਾਇਬ੍ਰੇਰੀ QR ਖੋਲ੍ਹਣ ਲਈ ਫ਼ੋਨ ਨੂੰ ਸਕਰੀਨ ਹੇਠਾਂ ਕਰਕੇ ਫਲਿੱਪ ਕਰੋ।";
 "settings_flip_to_library_title" = "ਲਾਇਬ੍ਰੇਰੀ QR ਦਿਖਾਉਣ ਲਈ ਫਲਿੱਪ ਕਰੋ";
@@ -1050,6 +1048,12 @@
 "settings_show_classroom_on_class_table" = "ਸਮਾਂ-ਸਾਰਣੀ ਵਿੱਚ ਕਲਾਸਰੂਮ ਦਿਖਾਓ";
 "settings_sign_out_imported_tables" = "ਆਯਾਤ ਕੀਤੀਆਂ ਕਲਾਸ ਸਾਰਣੀਆਂ ਵੀ ਮਿਟਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ।";
 "settings_sign_out_unsynced_data" = "TigerSync ਨਾਲ ਸਿੰਕ ਨਾ ਹੋਇਆ ਡਾਟਾ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।";
+"settings_storage_browser_data" = "ਵੈੱਬਸਾਈਟ ਡਾਟਾ";
+"settings_storage_browser_data_delete_message" = "TigerDuck ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਦੇਖੀਆਂ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਕਹਿ ਸਕਦੀਆਂ ਹਨ।";
+"settings_storage_browser_data_delete_title" = "ਕੀ ਵੈੱਬਸਾਈਟ ਡਾਟਾ ਮਿਟਾਉਣਾ ਹੈ?";
+"settings_storage_delete_kind" = "%@ ਮਿਟਾਓ";
+"settings_storage_title" = "ਸਟੋਰੇਜ";
+"settings_storage_total" = "ਕੁੱਲ";
 "settings_sync_brief_description" = "TigerSync ਤੁਹਾਨੂੰ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੇ ਜਾਣਕਾਰੀ ਸਿੰਕ ਕਰਨ ਦਿੰਦਾ ਹੈ। ਸਿੰਕ ਲਈ ਸਮਰੱਥ ਨਾ ਹੋਈ ਜਾਣਕਾਰੀ ਸਿਰਫ਼ ਇਸ ਡਿਵਾਈਸ ਤੇ ਰਹਿੰਦੀ ਹੈ।";
 "settings_sync_brief_description_ios" = "TigerSync ਪੁਸ਼ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਅਤੇ ਜਾਣਕਾਰੀ ਸਿੰਕ ਕਰਨ ਦਿੰਦਾ ਹੈ।";
 "settings_sync_data_section" = "ਸਰਵਰ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਡੇਟਾ";
