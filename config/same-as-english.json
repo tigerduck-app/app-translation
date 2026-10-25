@@ -71,11 +71,11 @@
   {
     "reason": "Filipino UI text, Android's and Google's own, keeps this English word",
     "keys": [
-      "android.browser_certificate_fingerprint",
-      "android.browser_certificate_title",
-      "android.browser_desktop_site",
       "apple.school_mail_guide_apple_mail_title",
       "apple.school_mail_guide_mail2000_title",
+      "shared.browser_certificate_fingerprint",
+      "shared.browser_certificate_title",
+      "shared.browser_desktop_site",
       "shared.class_table_import_flashlight",
       "shared.class_table_rename_default_label",
       "shared.cloud_sync_device_id",
@@ -97,14 +97,14 @@
   {
     "reason": "OK is the button's word in these languages",
     "keys": [
-      "android.browser_dialog_ok"
+      "shared.browser_dialog_ok"
     ],
     "locales": ["bg", "cs", "da", "de", "el", "et", "fi", "fil", "fr", "hu", "id", "it", "ja", "kk", "ms", "nl", "no", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sv", "uk", "vi"]
   },
   {
     "reason": "Browser is the word in these languages",
     "keys": [
-      "android.browser_open_external_short",
+      "shared.browser_open_external_short",
       "shared.desktop_settings_moodle_open_in_browser"
     ],
     "locales": ["da", "de", "fil", "id", "it", "nl", "ro"]
@@ -112,7 +112,7 @@
   {
     "reason": "Photos is the French word",
     "keys": [
-      "android.browser_upload_photos"
+      "shared.browser_upload_photos"
     ],
     "locales": ["fr"]
   },
