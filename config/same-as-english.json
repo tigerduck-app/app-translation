@@ -298,6 +298,13 @@
     "locales": ["el", "fil", "id", "it", "vi"]
   },
   {
+    "reason": "Filters is the Dutch word",
+    "keys": [
+      "shared.course_search_filters"
+    ],
+    "locales": ["nl"]
+  },
+  {
     "reason": "Version is the word in these languages",
     "keys": [
       "shared.desktop_about_version_value",
