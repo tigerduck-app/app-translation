@@ -3,12 +3,14 @@
 
 This repo is the source of truth: `source/<locale>.json`.
 
-Outputs:
-- `generated/android/values-*/strings.xml`
-- `generated/apple/<locale>.lproj/Localizable.strings`
-- `generated/apple/<locale>.lproj/InfoPlist.strings`
-- `generated/backend/<locale>.json`
+Outputs, by platform:
+- apple: `generated/apple/<locale>.lproj/Localizable.strings` and `InfoPlist.strings`
+- backend: `generated/backend/<locale>.json`
+- android: `values-*/strings.xml`, written only when asked for. The Android app
+  builds its own from `source/` (`--platform android --output-dir <dir>`), so
+  none is checked in here.
 
+A run with no `--platform` writes apple and backend into `generated/`.
 Generation is config-driven via `config/locales.json`.
 """
 
@@ -28,6 +30,10 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 SOURCE_DIR = REPO_ROOT / "source"
 GENERATED_DIR = REPO_ROOT / "generated"
 CONFIG_PATH = REPO_ROOT / "config" / "locales.json"
+
+PLATFORMS: tuple[str, ...] = ("android", "apple", "backend")
+# Checked in under generated/. Android's are built by the app from source/.
+DEFAULT_PLATFORMS: tuple[str, ...] = ("apple", "backend")
 
 # ISO 639-1 language codes. Used to generate broad fallback resources so the app
 # has a selectable language for most system languages even before real
@@ -117,9 +123,11 @@ def _validate_grouped_source(locale: str, grouped: OrderedDict) -> None:
 
 def _atomic_write_text(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
+    # LF on every platform: the same source builds the same bytes, wherever it's built.
     with tempfile.NamedTemporaryFile(
             mode="w",
             encoding="utf-8",
+            newline="\n",
             delete=False,
             dir=str(path.parent),
             prefix=path.name + ".",
@@ -443,7 +451,21 @@ def _resolve_output_locales(
     return resolved
 
 
-def generate(*, validate_only: bool) -> None:
+def generate(
+    *,
+    validate_only: bool,
+    platforms: Iterable[str] = DEFAULT_PLATFORMS,
+    generated_dir: Path = GENERATED_DIR,
+    output_dir: Path | None = None,
+) -> None:
+    """Writes [platforms] under `generated_dir/<platform>`, or into [output_dir] for the one platform given."""
+    platforms = set(platforms)
+    if output_dir is not None and len(platforms) != 1:
+        raise SystemExit("--output-dir takes exactly one --platform")
+
+    def platform_dir(platform: str) -> Path:
+        return output_dir if output_dir is not None else generated_dir / platform
+
     cfg = _load_config()
 
     source_locales = _discover_source_locales()
@@ -496,41 +518,58 @@ def generate(*, validate_only: bool) -> None:
         return
 
     # Android
-    for out_locale, base_locale in sorted(android_outputs.items()):
-        if base_locale not in android_flat:
-            raise SystemExit(
-                f"Android alias '{out_locale}' points to missing source locale '{base_locale}'")
-        out_dir_name = _android_dir_for_locale(out_locale, cfg)
-        out_path = GENERATED_DIR / "android" / out_dir_name / "strings.xml"
-        content = _render_android_strings_xml(android_flat[base_locale])
-        _atomic_write_text(out_path, content)
+    if "android" in platforms:
+        for out_locale, base_locale in sorted(android_outputs.items()):
+            if base_locale not in android_flat:
+                raise SystemExit(
+                    f"Android alias '{out_locale}' points to missing source locale '{base_locale}'")
+            out_dir_name = _android_dir_for_locale(out_locale, cfg)
+            out_path = platform_dir("android") / out_dir_name / "strings.xml"
+            content = _render_android_strings_xml(android_flat[base_locale])
+            _atomic_write_text(out_path, content)
 
     # apple
-    for out_locale, base_locale in sorted(apple_outputs.items()):
-        if base_locale not in apple_flat:
-            raise SystemExit(
-                f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
-        out_dir = GENERATED_DIR / "apple" / f"{out_locale}.lproj"
-        _atomic_write_text(out_dir / "Localizable.strings", _render_apple_strings(apple_flat[base_locale]))
-        _atomic_write_text(out_dir / "InfoPlist.strings", _render_apple_info_plist_strings(apple_flat[base_locale]))
+    if "apple" in platforms:
+        for out_locale, base_locale in sorted(apple_outputs.items()):
+            if base_locale not in apple_flat:
+                raise SystemExit(
+                    f"apple alias '{out_locale}' points to missing source locale '{base_locale}'")
+            out_dir = platform_dir("apple") / f"{out_locale}.lproj"
+            _atomic_write_text(out_dir / "Localizable.strings", _render_apple_strings(apple_flat[base_locale]))
+            _atomic_write_text(out_dir / "InfoPlist.strings", _render_apple_info_plist_strings(apple_flat[base_locale]))
 
     # backend
-    for locale, flat in sorted(backend_flat.items()):
-        out_path = GENERATED_DIR / "backend" / f"{locale}.json"
-        content = json.dumps(flat, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
-        _atomic_write_text(out_path, content)
+    if "backend" in platforms:
+        for locale, flat in sorted(backend_flat.items()):
+            out_path = platform_dir("backend") / f"{locale}.json"
+            content = json.dumps(flat, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+            _atomic_write_text(out_path, content)
 
 
-def main() -> None:
+def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--validate-only",
         action="store_true",
         help="Only validate source JSON files; do not write generated outputs",
     )
-    args = parser.parse_args()
+    parser.add_argument(
+        "--platform",
+        action="append",
+        choices=PLATFORMS,
+        help="A platform to write; repeat for more. Default: %s" % ", ".join(DEFAULT_PLATFORMS),
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        help="Write into this directory instead of generated/<platform>/; takes exactly one --platform",
+    )
+    args = parser.parse_args(argv)
+    platforms = args.platform or list(DEFAULT_PLATFORMS)
+    if args.output_dir is not None and len(set(platforms)) != 1:
+        parser.error("--output-dir takes exactly one --platform")
 
-    generate(validate_only=args.validate_only)
+    generate(validate_only=args.validate_only, platforms=platforms, output_dir=args.output_dir)
 
 
 if __name__ == "__main__":
