@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "هل تريد حذف \"%1$@\"؟";
 "class_table_empty_message" = "اسحب للتحديث، انقر على ⋯ لإضافة مقرر، أو بدّل إلى فصل دراسي آخر";
 "class_table_export_failed" = "تعذّر تصدير الجدول الدراسي";
-"class_table_export_screenshot" = "تصدير لقطة شاشة للجدول الدراسي";
+"class_table_export_screenshot" = "تصدير لقطة شاشة";
 "class_table_ignore_assignments" = "تجاهل المهام";
 "class_table_ignore_assignments_undo" = "تراجع عن تجاهل المهام";
-"class_table_import" = "استيراد جدول دراسي";
+"class_table_import" = "إضافة جدول دراسي";
 "class_table_import_camera_denied" = "يلزم الوصول إلى الكاميرا للمسح";
 "class_table_import_choose_photo" = "الاختيار من الصور";
 "class_table_import_course_count" = "عدد المقررات";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "تم نسخ الرابط";
 "class_table_share_tat_compatible" = "متوافق مع TAT";
 "class_table_sign_in_required_message" = "قم بتسجيل الدخول لعرض جدول صفك";
+"class_table_subscribe_clubs" = "الاشتراك في الأندية";
 "class_table_total_credits_value" = "%1$@ ساعات معتمدة";
 "cloud_sync_assignments" = "الواجبات";
 "cloud_sync_class_table" = "جدول الحصص";

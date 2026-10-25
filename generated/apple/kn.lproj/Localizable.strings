@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "\"%1$@\" ಅನ್ನು ಅಳಿಸಬೇಕೇ?";
 "class_table_empty_message" = "ರಿಫ್ರೆಶ್ ಮಾಡಲು ಎಳೆಯಿರಿ, ಕೋರ್ಸ್ ಸೇರಿಸಲು ⋯ ಟ್ಯಾಪ್ ಮಾಡಿ, ಅಥವಾ ಬೇರೆ ಸೆಮಿಸ್ಟರ್‌ಗೆ ಬದಲಿಸಿ";
 "class_table_export_failed" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿಯನ್ನು ರಫ್ತು ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ";
-"class_table_export_screenshot" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿಯ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ರಫ್ತು ಮಾಡಿ";
+"class_table_export_screenshot" = "ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ರಫ್ತು ಮಾಡಿ";
 "class_table_ignore_assignments" = "ಕಾರ್ಯಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ";
 "class_table_ignore_assignments_undo" = "ಕಾರ್ಯಗಳ ನಿರ್ಲಕ್ಷಣೆ ರದ್ದುಮಾಡಿ";
-"class_table_import" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ಆಮದು ಮಾಡಿ";
+"class_table_import" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ಸೇರಿಸಿ";
 "class_table_import_camera_denied" = "ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಕ್ಯಾಮೆರಾ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ";
 "class_table_import_choose_photo" = "ಫೋಟೋಗಳಿಂದ ಆಯ್ಕೆಮಾಡಿ";
 "class_table_import_course_count" = "ಕೋರ್ಸ್‌ಗಳ ಸಂಖ್ಯೆ";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "ಲಿಂಕ್ ನಕಲಿಸಲಾಗಿದೆ";
 "class_table_share_tat_compatible" = "TAT ಜೊತೆ ಹೊಂದಾಣಿಕೆ";
 "class_table_sign_in_required_message" = "ನಿಮ್ಮ ತರಗತಿ ವೇಳಾಪಟ್ಟಿ ನೋಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ";
+"class_table_subscribe_clubs" = "ಕ್ಲಬ್‌ಗಳಿಗೆ ಚಂದಾದಾರರಾಗಿ";
 "class_table_total_credits_value" = "%1$@ ಕ್ರೆಡಿಟ್‌ಗಳು";
 "cloud_sync_assignments" = "ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು";
 "cloud_sync_class_table" = "ತರಗತಿ ವೇಳಾಪಟ್ಟಿ";

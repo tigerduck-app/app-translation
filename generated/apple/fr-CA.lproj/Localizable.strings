@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "Supprimer « %1$@ » ?";
 "class_table_empty_message" = "Tirez vers le bas pour actualiser, appuyez sur ⋯ pour ajouter un cours, ou changez de semestre";
 "class_table_export_failed" = "Impossible d'exporter l'emploi du temps";
-"class_table_export_screenshot" = "Exporter une capture de l'emploi du temps";
+"class_table_export_screenshot" = "Exporter une capture";
 "class_table_ignore_assignments" = "Ignorer les devoirs";
 "class_table_ignore_assignments_undo" = "Ne plus ignorer les devoirs";
-"class_table_import" = "Importer un emploi du temps";
+"class_table_import" = "Ajouter un emploi du temps";
 "class_table_import_camera_denied" = "L'accès à l'appareil photo est nécessaire pour scanner";
 "class_table_import_choose_photo" = "Choisir dans les photos";
 "class_table_import_course_count" = "Cours";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "Lien copié";
 "class_table_share_tat_compatible" = "Compatible avec TAT";
 "class_table_sign_in_required_message" = "Connectez-vous pour voir votre tableau de classe";
+"class_table_subscribe_clubs" = "S'abonner aux clubs";
 "class_table_total_credits_value" = "%1$@ crédits";
 "cloud_sync_assignments" = "Devoirs";
 "cloud_sync_class_table" = "Emploi du temps";

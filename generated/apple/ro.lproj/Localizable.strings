@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "Ștergi „%1$@”?";
 "class_table_empty_message" = "Trage pentru reîmprospătare, atinge ⋯ pentru a adăuga un curs sau schimbă semestrul";
 "class_table_export_failed" = "Orarul nu a putut fi exportat";
-"class_table_export_screenshot" = "Exportă o captură a orarului";
+"class_table_export_screenshot" = "Exportă o captură de ecran";
 "class_table_ignore_assignments" = "Ignoră temele";
 "class_table_ignore_assignments_undo" = "Anulează ignorarea temelor";
-"class_table_import" = "Importă un orar";
+"class_table_import" = "Adaugă un orar";
 "class_table_import_camera_denied" = "Pentru scanare este necesar accesul la cameră";
 "class_table_import_choose_photo" = "Alege din poze";
 "class_table_import_course_count" = "Cursuri";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "Link copiat";
 "class_table_share_tat_compatible" = "Compatibil cu TAT";
 "class_table_sign_in_required_message" = "Autentifică-te pentru a vedea orarul";
+"class_table_subscribe_clubs" = "Abonează-te la cluburi";
 "class_table_total_credits_value" = "%1$@ credite";
 "cloud_sync_assignments" = "Teme";
 "cloud_sync_class_table" = "Orar";

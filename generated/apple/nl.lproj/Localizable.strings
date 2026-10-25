@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "\"%1$@\" verwijderen?";
 "class_table_empty_message" = "Trek om te vernieuwen, tik op ⋯ om een vak toe te voegen, of wissel naar een ander semester";
 "class_table_export_failed" = "Kan rooster niet exporteren";
-"class_table_export_screenshot" = "Screenshot van rooster exporteren";
+"class_table_export_screenshot" = "Screenshot exporteren";
 "class_table_ignore_assignments" = "Opdrachten negeren";
 "class_table_ignore_assignments_undo" = "Opdrachten niet meer negeren";
-"class_table_import" = "Rooster importeren";
+"class_table_import" = "Rooster toevoegen";
 "class_table_import_camera_denied" = "Cameratoegang is nodig om te scannen";
 "class_table_import_choose_photo" = "Kiezen uit foto's";
 "class_table_import_course_count" = "Vakken";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "Link gekopieerd";
 "class_table_share_tat_compatible" = "Compatibel met TAT";
 "class_table_sign_in_required_message" = "Meld je aan om je rooster te bekijken";
+"class_table_subscribe_clubs" = "Abonneren op clubs";
 "class_table_total_credits_value" = "%1$@ studiepunten";
 "cloud_sync_assignments" = "Opdrachten";
 "cloud_sync_class_table" = "Lesrooster";

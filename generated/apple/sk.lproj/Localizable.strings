@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "Odstrániť „%1$@“?";
 "class_table_empty_message" = "Potiahnutím obnovíte, klepnutím na ⋯ pridajte kurz alebo prepnite na iný semester";
 "class_table_export_failed" = "Rozvrh sa nepodarilo exportovať";
-"class_table_export_screenshot" = "Exportovať snímku rozvrhu";
+"class_table_export_screenshot" = "Exportovať snímku obrazovky";
 "class_table_ignore_assignments" = "Ignorovať úlohy";
 "class_table_ignore_assignments_undo" = "Zrušiť ignorovanie úloh";
-"class_table_import" = "Importovať rozvrh";
+"class_table_import" = "Pridať rozvrh";
 "class_table_import_camera_denied" = "Na skenovanie je potrebný prístup k fotoaparátu";
 "class_table_import_choose_photo" = "Vybrať z fotiek";
 "class_table_import_course_count" = "Kurzy";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "Odkaz skopírovaný";
 "class_table_share_tat_compatible" = "Kompatibilita s TAT";
 "class_table_sign_in_required_message" = "Prihláste sa na zobrazenie rozvrhu";
+"class_table_subscribe_clubs" = "Odoberať kluby";
 "class_table_total_credits_value" = "%1$@ kreditov";
 "cloud_sync_assignments" = "Úlohy";
 "cloud_sync_class_table" = "Rozvrh";
