@@ -10,3 +10,5 @@ docs/superpowers/
 
 # macOS
 **/.DS_Store
+# Android builds its own strings from source/ (generate_localizations.py --platform android --output-dir).
+generated/android/
