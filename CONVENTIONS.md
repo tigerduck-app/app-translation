@@ -28,7 +28,8 @@ diffs.
 
 The canonical locale (`en`) defines the authoritative key inventory per group.
 Every other source locale must match the canonical key set in each group; if a
-translation isn't ready yet, copy the English value as a placeholder.
+translation isn't ready yet on a working branch, copy the English value as a
+placeholder. A pull request can't merge with one: see *Checks before merging*.
 
 ## Choosing a group
 
@@ -325,11 +326,16 @@ canonical English value alone may miss.
 - **Campus building names** are not translated in any locale; see *Campus
   building names* above.
 
-If you're adding a key under a feature flag and only have a translation
-ready in one locale, copy the canonical (`en`) value as a placeholder for
-every other locale per the schema rule above. Don't leave the placeholder in
-when shipping the feature — open the file again and translate it for real
-following the reference policy.
+If you're adding a key and only have a translation ready in one locale,
+copy the canonical (`en`) value as a placeholder for every other locale per
+the schema rule above, while the branch is in progress. The `untranslated`
+check fails a pull request that still carries one, so translate every locale
+for real, following the reference policy, before it merges.
+
+Some values are right as English: a name, a unit, or a word the language
+itself uses (German *Semester*, French *Total*, the *Cc* mail header).
+`config/same-as-english.json` lists each of them with its reason and the
+locales it's right in; see *Checks before merging*.
 
 ## Cross-platform development workflow
 
@@ -354,6 +360,9 @@ one app's submodule pin references a SHA the other app hasn't picked up yet.
 
 ## Regenerating outputs
 
+The tools need **Python 3.9 or newer**: 3.9 is macOS's own `python3`, and CI
+tests 3.9 and the newest release. They use the standard library only.
+
 ```bash
 python3 tools/localization/generate_localizations.py
 ```
@@ -377,3 +386,48 @@ locales once shipped 40-96 German values each. Locale pairs that legitimately
 overlap (Chinese variants, `pt-BR`/`pt-PT`, Scandinavian, `cs`/`sk`, ...) are
 listed in `_RELATED_LOCALE_PAIRS` in the script; add a pair there, with a
 reason, if you hit a false positive.
+
+## Checks before merging
+
+Every pull request runs `.github/workflows/source-checks.yaml`, two checks of
+`source/` (each on Python 3.9 and the newest) and the tools' own tests. Run
+them before pushing:
+
+```bash
+python3 tools/localization/check_sources.py keys
+python3 tools/localization/check_sources.py untranslated
+python3 -m unittest discover -s tools/localization
+```
+
+**`keys`** fails unless every locale has exactly `en`'s keys in each of the
+four groups: the same keys, not only as many, so a locale missing one key and
+carrying a stray one fails too. It also fails on an empty value or one that
+isn't a string, a key a file holds twice (JSON would keep the last one
+silently), a key both in `shared` and a platform group, and a group other than
+the four. It lists every problem in every locale at once.
+
+**`untranslated`** fails on any value outside English (`en-GB` and any other
+`en-*` aren't checked) that is still exactly `en`'s for the same group and key,
+ignoring surrounding spaces. A value with nothing to translate isn't checked:
+once its placeholders (`%1$s`, `%2$@`, `%1$lld`, ...), digits, punctuation and
+symbols are left out, no letters remain (`%1$@ · %2$@`, `114-1`).
+
+When the check names a value, translate it. When English is right for that
+locale, add it to `config/same-as-english.json` instead. Each entry there has:
+
+- `reason`: why English is right, required;
+- `keys` and/or `prefixes`: `group.key` names, such as
+  `shared.school_mail_cc` or the prefix `shared.empty_classroom_building_`,
+  sorted;
+- `locales`: the locales it's right in, sorted, or `"*"` for all of them; or
+  `except` instead: every locale but these, sorted.
+
+Most entries name their locales one by one. The check then also fails when a
+listed locale's value has been translated since, so the entry can't quietly
+let it go back to English: drop that locale from the entry. It also fails on
+an entry without a reason, a key or prefix `en` doesn't have, and a locale
+that doesn't exist.
+
+The names this file keeps in English (*TigerDuck's own product names*,
+*Live Activity* and *Live Updates*, *Campus building names*, *Department
+names*) are entries too, with `"*"` or with the Chinese locales as `except`.
