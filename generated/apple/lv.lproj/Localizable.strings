@@ -34,6 +34,7 @@
 "action_close" = "Aizvērt";
 "action_confirm" = "Apstiprināt";
 "action_continue" = "Turpināt";
+"action_delete" = "Dzēst";
 "action_done" = "Gatavs";
 "action_go_to_settings" = "Doties uz iestatījumiem";
 "action_got_it" = "Sapratu";
@@ -984,6 +985,14 @@
 "settings_classroom_mandarin_display_translated" = "Rādīt tulkojumu";
 "settings_color_theme" = "Krāsu tēma";
 "settings_delete_account" = "Konta dzēšana";
+"settings_downloaded_files_delete_all" = "Dzēst visus lejupielādētos failus";
+"settings_downloaded_files_delete_all_message" = "Moodle faili un e-pasta pielikumi tiks lejupielādēti vēlreiz, kad nākamreiz tos atvērsiet.";
+"settings_downloaded_files_delete_all_title" = "Vai dzēst visus lejupielādētos failus?";
+"settings_downloaded_files_footer" = "TigerDuck pārlūkā lejupielādētie faili tiek saglabāti tālruņa mapē Lejupielādes, un šeit tie netiek dzēsti.";
+"settings_downloaded_files_images" = "Stundu plāna attēli";
+"settings_downloaded_files_mail" = "E-pasta pielikumi";
+"settings_downloaded_files_moodle" = "Moodle faili";
+"settings_downloaded_files_title" = "Lejupielādētie faili";
 "settings_feedback_bug_report" = "Atsauksme / Ziņot par problēmu";
 "settings_flip_to_library_summary" = "Apvērs tālruni ar ekrānu uz leju, lai atvērtu bibliotēkas QR.";
 "settings_flip_to_library_title" = "Apvērst, lai parādītu bibliotēkas QR";
@@ -1043,6 +1052,12 @@
 "settings_show_classroom_on_class_table" = "Rādīt auditorijas stundu sarakstā";
 "settings_sign_out_imported_tables" = "Tiks dzēsti arī importētie stundu plāni.";
 "settings_sign_out_unsynced_data" = "Ar TigerSync nesinhronizētie dati tiks dzēsti.";
+"settings_storage_browser_data" = "Vietņu dati";
+"settings_storage_browser_data_delete_message" = "TigerDuck pārlūkā apmeklētās vietnes var lūgt jums pierakstīties vēlreiz.";
+"settings_storage_browser_data_delete_title" = "Vai dzēst vietņu datus?";
+"settings_storage_delete_kind" = "Dzēst: %@";
+"settings_storage_title" = "Krātuve";
+"settings_storage_total" = "Kopā";
 "settings_sync_brief_description" = "TigerSync ļauj sinhronizēt izvēlēto informāciju visās ierīcēs. Nesinhronizēta informācija paliek tikai šajā ierīcē.";
 "settings_sync_brief_description_ios" = "TigerSync ļauj saņemt push paziņojumus un sinhronizēt informāciju. Nesinhronizēta informācija joprojām tiek nosūtīta uz serveri push paziņojumiem.";
 "settings_sync_data_section" = "Ar serveri koplietotie dati";

@@ -34,6 +34,7 @@
 "action_close" = "閉じる";
 "action_confirm" = "確認";
 "action_continue" = "続行";
+"action_delete" = "削除";
 "action_done" = "完了";
 "action_go_to_settings" = "設定を開く";
 "action_got_it" = "了解！";
@@ -984,6 +985,14 @@
 "settings_classroom_mandarin_display_translated" = "訳語を表示";
 "settings_color_theme" = "カラーテーマ";
 "settings_delete_account" = "アカウント削除";
+"settings_downloaded_files_delete_all" = "ダウンロードしたファイルをすべて削除";
+"settings_downloaded_files_delete_all_message" = "Moodleのファイルとメールの添付ファイルは、次に開いたときに再度ダウンロードされます。";
+"settings_downloaded_files_delete_all_title" = "ダウンロードしたファイルをすべて削除しますか？";
+"settings_downloaded_files_footer" = "TigerDuckのブラウザでダウンロードしたファイルはスマートフォンの「ダウンロード」フォルダに保存され、ここでは削除されません。";
+"settings_downloaded_files_images" = "時間割の画像";
+"settings_downloaded_files_mail" = "メールの添付ファイル";
+"settings_downloaded_files_moodle" = "Moodleのファイル";
+"settings_downloaded_files_title" = "ダウンロードしたファイル";
 "settings_feedback_bug_report" = "フィードバック / 不具合報告";
 "settings_flip_to_library_summary" = "スマホを画面下向きに裏返すと図書館 QR を開きます。";
 "settings_flip_to_library_title" = "裏返して図書館 QR を表示";
@@ -1043,6 +1052,12 @@
 "settings_show_classroom_on_class_table" = "時間割に教室を表示";
 "settings_sign_out_imported_tables" = "読み込んだ時間割も削除されます。";
 "settings_sign_out_unsynced_data" = "TigerSync で同期されていないデータは削除されます。";
+"settings_storage_browser_data" = "ウェブサイトのデータ";
+"settings_storage_browser_data_delete_message" = "TigerDuckのブラウザで開いたサイトで、再度ログインが必要になることがあります。";
+"settings_storage_browser_data_delete_title" = "ウェブサイトのデータを削除しますか？";
+"settings_storage_delete_kind" = "%@を削除";
+"settings_storage_title" = "ストレージ";
+"settings_storage_total" = "合計";
 "settings_sync_brief_description" = "TigerSync を使用すると、選択した情報をすべてのデバイス間で同期できます。同期が有効でない情報はこのデバイスのみに保存されます。";
 "settings_sync_brief_description_ios" = "TigerSync でプッシュ通知の受信と情報の同期ができます。同期が有効でない情報もプッシュ通知のためにサーバーに送信されます。";
 "settings_sync_data_section" = "サーバーと共有されるデータ";

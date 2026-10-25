@@ -34,6 +34,7 @@
 "action_close" = "Uždaryti";
 "action_confirm" = "Patvirtinti";
 "action_continue" = "Tęsti";
+"action_delete" = "Ištrinti";
 "action_done" = "Atlikta";
 "action_go_to_settings" = "Eiti į nustatymus";
 "action_got_it" = "Supratau";
@@ -984,6 +985,14 @@
 "settings_classroom_mandarin_display_translated" = "Rodyti vertimą";
 "settings_color_theme" = "Spalvų tema";
 "settings_delete_account" = "Paskyros ištrynimas";
+"settings_downloaded_files_delete_all" = "Ištrinti visus atsisiųstus failus";
+"settings_downloaded_files_delete_all_message" = "Moodle failai ir laiškų priedai bus atsisiųsti iš naujo, kai kitą kartą juos atidarysite.";
+"settings_downloaded_files_delete_all_title" = "Ištrinti visus atsisiųstus failus?";
+"settings_downloaded_files_footer" = "TigerDuck naršyklėje atsisiųsti failai išsaugomi telefono aplanke „Atsisiuntimai“ ir čia netrinami.";
+"settings_downloaded_files_images" = "Tvarkaraščio vaizdai";
+"settings_downloaded_files_mail" = "Laiškų priedai";
+"settings_downloaded_files_moodle" = "Moodle failai";
+"settings_downloaded_files_title" = "Atsisiųsti failai";
 "settings_feedback_bug_report" = "Atsiliepimai / Pranešti apie klaidą";
 "settings_flip_to_library_summary" = "Apverskite telefoną ekranu žemyn, kad atidarytumėte bibliotekos QR.";
 "settings_flip_to_library_title" = "Apversti, kad rodytų bibliotekos QR";
@@ -1043,6 +1052,12 @@
 "settings_show_classroom_on_class_table" = "Rodyti auditorijas tvarkaraštyje";
 "settings_sign_out_imported_tables" = "Importuoti tvarkaraščiai taip pat bus ištrinti.";
 "settings_sign_out_unsynced_data" = "Su TigerSync nesinchronizuoti duomenys bus ištrinti.";
+"settings_storage_browser_data" = "Svetainių duomenys";
+"settings_storage_browser_data_delete_message" = "TigerDuck naršyklėje lankytos svetainės gali paprašyti prisijungti iš naujo.";
+"settings_storage_browser_data_delete_title" = "Ištrinti svetainių duomenis?";
+"settings_storage_delete_kind" = "Ištrinti: %@";
+"settings_storage_title" = "Saugykla";
+"settings_storage_total" = "Iš viso";
 "settings_sync_brief_description" = "TigerSync leidžia sinchronizuoti pasirinktą informaciją visuose įrenginiuose. Nesinchronizuota informacija lieka tik šiame įrenginyje.";
 "settings_sync_brief_description_ios" = "TigerSync leidžia gauti push pranešimus ir sinchronizuoti informaciją. Nesinchronizuota informacija vis tiek siunčiama į serverį push pranešimams.";
 "settings_sync_data_section" = "Duomenys, bendrinti su serveriu";

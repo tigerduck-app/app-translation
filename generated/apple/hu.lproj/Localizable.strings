@@ -34,6 +34,7 @@
 "action_close" = "Bezárás";
 "action_confirm" = "Megerősítés";
 "action_continue" = "Folytatás";
+"action_delete" = "Törlés";
 "action_done" = "Kész";
 "action_go_to_settings" = "Beállítások megnyitása";
 "action_got_it" = "Értem";
@@ -984,6 +985,14 @@
 "settings_classroom_mandarin_display_translated" = "Fordítás megjelenítése";
 "settings_color_theme" = "Színtéma";
 "settings_delete_account" = "Fiók törlése";
+"settings_downloaded_files_delete_all" = "Az összes letöltött fájl törlése";
+"settings_downloaded_files_delete_all_message" = "A Moodle-fájlok és a levélmellékletek a következő megnyitáskor újra letöltődnek.";
+"settings_downloaded_files_delete_all_title" = "Törli az összes letöltött fájlt?";
+"settings_downloaded_files_footer" = "A TigerDuck böngészőjében letöltött fájlok a telefon Letöltések mappájába kerülnek, és innen nem törlődnek.";
+"settings_downloaded_files_images" = "Órarendképek";
+"settings_downloaded_files_mail" = "Levélmellékletek";
+"settings_downloaded_files_moodle" = "Moodle-fájlok";
+"settings_downloaded_files_title" = "Letöltött fájlok";
 "settings_feedback_bug_report" = "Visszajelzés / Hibabejelentés";
 "settings_flip_to_library_summary" = "Fordítsd az okostelefont képernyővel lefelé a könyvtári QR-kód megnyitásához.";
 "settings_flip_to_library_title" = "Fordítsd meg a könyvtári QR-kód megjelenítéséhez";
@@ -1043,6 +1052,12 @@
 "settings_show_classroom_on_class_table" = "Tantermek megjelenítése az órarendben";
 "settings_sign_out_imported_tables" = "Az importált órarendek is törlődnek.";
 "settings_sign_out_unsynced_data" = "A TigerSync által nem szinkronizált adatok törlődnek.";
+"settings_storage_browser_data" = "Webhelyadatok";
+"settings_storage_browser_data_delete_message" = "A TigerDuck böngészőjében meglátogatott webhelyek újra bejelentkezést kérhetnek.";
+"settings_storage_browser_data_delete_title" = "Törli a webhelyadatokat?";
+"settings_storage_delete_kind" = "Törlés: %@";
+"settings_storage_title" = "Tárhely";
+"settings_storage_total" = "Összesen";
 "settings_sync_brief_description" = "A TigerSync lehetővé teszi a kiválasztott adatok szinkronizálását az összes eszközön. A nem engedélyezett adatok csak ezen az eszközön maradnak.";
 "settings_sync_brief_description_ios" = "A TigerSync lehetővé teszi push értesítések fogadását és adatok szinkronizálását. A nem szinkronizált adatok is elküldésre kerülnek a szerverre push értesítések céljából.";
 "settings_sync_data_section" = "A szerverrel megosztott adatok";

@@ -34,6 +34,7 @@
 "action_close" = "বন্ধ করুন";
 "action_confirm" = "নিশ্চিত করুন";
 "action_continue" = "এগিয়ে যান";
+"action_delete" = "মুছুন";
 "action_done" = "সম্পন্ন";
 "action_go_to_settings" = "সেটিংসে যান";
 "action_got_it" = "বুঝেছি";
@@ -984,6 +985,14 @@
 "settings_classroom_mandarin_display_translated" = "অনুবাদ প্রদর্শন করুন";
 "settings_color_theme" = "রং থিম";
 "settings_delete_account" = "অ্যাকাউন্ট মুছুন";
+"settings_downloaded_files_delete_all" = "সব ডাউনলোড করা ফাইল মুছুন";
+"settings_downloaded_files_delete_all_message" = "পরের বার খুললে Moodle ফাইল ও মেইলের অ্যাটাচমেন্ট আবার ডাউনলোড হবে।";
+"settings_downloaded_files_delete_all_title" = "সব ডাউনলোড করা ফাইল মুছবেন?";
+"settings_downloaded_files_footer" = "TigerDuck ব্রাউজারে ডাউনলোড করা ফাইল আপনার ফোনের Downloads ফোল্ডারে সেভ হয় এবং এখান থেকে মোছা হয় না।";
+"settings_downloaded_files_images" = "ক্লাস তালিকার ছবি";
+"settings_downloaded_files_mail" = "মেইলের অ্যাটাচমেন্ট";
+"settings_downloaded_files_moodle" = "Moodle ফাইল";
+"settings_downloaded_files_title" = "ডাউনলোড করা ফাইল";
 "settings_feedback_bug_report" = "মতামত / সমস্যা রিপোর্ট করুন";
 "settings_flip_to_library_summary" = "লাইব্রেরি QR খুলতে ফোনটি স্ক্রিন নিচু করে উল্টান।";
 "settings_flip_to_library_title" = "লাইব্রেরি QR দেখাতে উল্টান";
@@ -1043,6 +1052,12 @@
 "settings_show_classroom_on_class_table" = "রুটিনে শ্রেণিকক্ষ দেখান";
 "settings_sign_out_imported_tables" = "আমদানি করা ক্লাস তালিকাগুলোও মুছে ফেলা হবে।";
 "settings_sign_out_unsynced_data" = "TigerSync-এর সঙ্গে সিঙ্ক না করা ডেটা মুছে ফেলা হবে।";
+"settings_storage_browser_data" = "ওয়েবসাইটের ডেটা";
+"settings_storage_browser_data_delete_message" = "TigerDuck ব্রাউজারে দেখা সাইটগুলো আবার সাইন ইন করতে বলতে পারে।";
+"settings_storage_browser_data_delete_title" = "ওয়েবসাইটের ডেটা মুছবেন?";
+"settings_storage_delete_kind" = "%@ মুছুন";
+"settings_storage_title" = "স্টোরেজ";
+"settings_storage_total" = "মোট";
 "settings_sync_brief_description" = "TigerSync আপনাকে আপনার সমস্ত ডিভাইসে তথ্য সিঙ্ক করতে দেয়। সিঙ্কের জন্য সক্ষম নয় এমন তথ্য শুধুমাত্র এই ডিভাইসে থাকে।";
 "settings_sync_brief_description_ios" = "TigerSync আপনাকে পুশ নোটিফিকেশন পেতে এবং তথ্য সিঙ্ক করতে দেয়। সিঙ্কের জন্য সক্ষম নয় এমন তথ্যও পুশ নোটিফিকেশনের জন্য সার্ভারে পাঠানো হয়।";
 "settings_sync_data_section" = "সার্ভারের সাথে শেয়ার করা ডেটা";
