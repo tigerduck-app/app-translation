@@ -65,5 +65,26 @@ class PlatformOutputTest(unittest.TestCase):
         self.assertFalse((gen.GENERATED_DIR / "android").exists())
 
 
+class LineEndingsTest(unittest.TestCase):
+    """Generated files end their lines with LF on every platform, so the same source builds the same bytes."""
+
+    def test_files_are_written_with_lf_whatever_the_platform(self):
+        real = gen.tempfile.NamedTemporaryFile
+        seen = []
+
+        def recording(*args, **kwargs):
+            seen.append(kwargs.get("newline"))
+            return real(*args, **kwargs)
+
+        with tempfile.TemporaryDirectory() as tmp:
+            gen.tempfile.NamedTemporaryFile = recording
+            try:
+                gen._atomic_write_text(pathlib.Path(tmp) / "a.txt", "one\ntwo\n")
+            finally:
+                gen.tempfile.NamedTemporaryFile = real
+            self.assertEqual(b"one\ntwo\n", (pathlib.Path(tmp) / "a.txt").read_bytes())
+        self.assertEqual(["\n"], seen)
+
+
 if __name__ == "__main__":
     unittest.main()

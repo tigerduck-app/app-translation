@@ -123,9 +123,11 @@ def _validate_grouped_source(locale: str, grouped: OrderedDict) -> None:
 
 def _atomic_write_text(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
+    # LF on every platform: the same source builds the same bytes, wherever it's built.
     with tempfile.NamedTemporaryFile(
             mode="w",
             encoding="utf-8",
+            newline="\n",
             delete=False,
             dir=str(path.parent),
             prefix=path.name + ".",
