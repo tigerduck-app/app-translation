@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Dvojitým klepnutím zobrazíte podrobnosti";
 "a11y_course_color_swatch" = "Barva %1$lld";
 "a11y_course_detail_open_moodle" = "Otevřít v Moodle";
+"a11y_course_search_period_busy" = "Je tu hodina";
 "a11y_empty_classroom_floors_down" = "Pater dolů: %1$d";
 "a11y_empty_classroom_floors_up" = "Pater nahoru: %1$d";
 "a11y_empty_classroom_free_count" = "Volné učebny: %1$d";

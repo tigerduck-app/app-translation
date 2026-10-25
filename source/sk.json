@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Dvojitým klepnutím zobrazíte podrobnosti",
     "a11y_course_color_swatch": "Farba %1$lld",
     "a11y_course_detail_open_moodle": "Otvoriť v Moodle",
+    "a11y_course_search_period_busy": "Je tu hodina",
     "a11y_empty_classroom_floors_down": "Poschodia nadol: %1$d",
     "a11y_empty_classroom_floors_up": "Poschodia nahor: %1$d",
     "a11y_empty_classroom_free_count": "Voľné učebne: %1$d",

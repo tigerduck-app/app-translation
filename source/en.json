@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Double tap for details",
     "a11y_course_color_swatch": "Color %1$lld",
     "a11y_course_detail_open_moodle": "Open in Moodle",
+    "a11y_course_search_period_busy": "Has a class",
     "a11y_empty_classroom_floors_down": "Floors down: %1$d",
     "a11y_empty_classroom_floors_up": "Floors up: %1$d",
     "a11y_empty_classroom_free_count": "Free classrooms: %1$d",

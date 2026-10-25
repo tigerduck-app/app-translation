@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Dvakrat tapnite za podrobnosti",
     "a11y_course_color_swatch": "Barva %1$lld",
     "a11y_course_detail_open_moodle": "Odpri v Moodle",
+    "a11y_course_search_period_busy": "Ima uro",
     "a11y_empty_classroom_floors_down": "Nadstropja navzdol: %1$d",
     "a11y_empty_classroom_floors_up": "Nadstropja navzgor: %1$d",
     "a11y_empty_classroom_free_count": "Proste učilnice: %1$d",

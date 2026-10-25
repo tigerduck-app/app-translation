@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "두 번 탭하여 세부 정보 보기",
     "a11y_course_color_swatch": "색상 %1$lld",
     "a11y_course_detail_open_moodle": "Moodle에서 열기",
+    "a11y_course_search_period_busy": "수업 있음",
     "a11y_empty_classroom_floors_down": "%1$d층 아래",
     "a11y_empty_classroom_floors_up": "%1$d층 위",
     "a11y_empty_classroom_free_count": "빈 강의실 %1$d개",

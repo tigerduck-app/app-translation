@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "Dubbeltryck för detaljer",
   "a11y_course_color_swatch": "Färg %1$lld",
   "a11y_course_detail_open_moodle": "Öppna i Moodle",
+  "a11y_course_search_period_busy": "Har lektion",
   "a11y_empty_classroom_floors_down": "Våningar ner: %1$d",
   "a11y_empty_classroom_floors_up": "Våningar upp: %1$d",
   "a11y_empty_classroom_free_count": "Lediga klassrum: %1$d",

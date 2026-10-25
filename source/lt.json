@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Dukart bakstelėkite, kad peržiūrėtumėte išsamią informaciją",
     "a11y_course_color_swatch": "Spalva %1$lld",
     "a11y_course_detail_open_moodle": "Atidaryti Moodle",
+    "a11y_course_search_period_busy": "Yra paskaita",
     "a11y_empty_classroom_floors_down": "Aukštų žemyn: %1$d",
     "a11y_empty_classroom_floors_up": "Aukštų aukštyn: %1$d",
     "a11y_empty_classroom_free_count": "Laisvos auditorijos: %1$d",

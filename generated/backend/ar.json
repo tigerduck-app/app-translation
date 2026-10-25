@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "انقر مرتين للتفاصيل",
   "a11y_course_color_swatch": "اللون %1$lld",
   "a11y_course_detail_open_moodle": "فتح في Moodle",
+  "a11y_course_search_period_busy": "توجد محاضرة",
   "a11y_empty_classroom_floors_down": "طوابق للأسفل: %1$d",
   "a11y_empty_classroom_floors_up": "طوابق للأعلى: %1$d",
   "a11y_empty_classroom_free_count": "القاعات الشاغرة: %1$d",

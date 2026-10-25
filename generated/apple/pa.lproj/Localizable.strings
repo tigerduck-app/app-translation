@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "ਵੇਰਵਿਆਂ ਲਈ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ";
 "a11y_course_color_swatch" = "ਰੰਗ %1$lld";
 "a11y_course_detail_open_moodle" = "Moodle ਵਿੱਚ ਖੋਲ੍ਹੋ";
+"a11y_course_search_period_busy" = "ਕਲਾਸ ਹੈ";
 "a11y_empty_classroom_floors_down" = "%1$d ਮੰਜ਼ਿਲ ਹੇਠਾਂ";
 "a11y_empty_classroom_floors_up" = "%1$d ਮੰਜ਼ਿਲ ਉੱਪਰ";
 "a11y_empty_classroom_free_count" = "ਖਾਲੀ ਕਲਾਸਰੂਮ: %1$d";

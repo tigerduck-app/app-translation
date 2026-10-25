@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Dobbelttryk for detaljer",
     "a11y_course_color_swatch": "Farve %1$lld",
     "a11y_course_detail_open_moodle": "Åbn i Moodle",
+    "a11y_course_search_period_busy": "Har undervisning",
     "a11y_empty_classroom_floors_down": "Etager ned: %1$d",
     "a11y_empty_classroom_floors_up": "Etager op: %1$d",
     "a11y_empty_classroom_free_count": "Ledige lokaler: %1$d",

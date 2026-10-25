@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "Dubbeltik voor details",
   "a11y_course_color_swatch": "Kleur %1$lld",
   "a11y_course_detail_open_moodle": "Openen in Moodle",
+  "a11y_course_search_period_busy": "Les gepland",
   "a11y_empty_classroom_floors_down": "Verdiepingen omlaag: %1$d",
   "a11y_empty_classroom_floors_up": "Verdiepingen omhoog: %1$d",
   "a11y_empty_classroom_free_count": "Vrije lokalen: %1$d",

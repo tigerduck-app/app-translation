@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "Tocca due volte per i dettagli",
   "a11y_course_color_swatch": "Colore %1$lld",
   "a11y_course_detail_open_moodle": "Apri in Moodle",
+  "a11y_course_search_period_busy": "C'è lezione",
   "a11y_empty_classroom_floors_down": "Piani più in basso: %1$d",
   "a11y_empty_classroom_floors_up": "Piani più in alto: %1$d",
   "a11y_empty_classroom_free_count": "Aule libere: %1$d",

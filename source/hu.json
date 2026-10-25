@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Koppintson duplán a részletekért",
     "a11y_course_color_swatch": "%1$lld. szín",
     "a11y_course_detail_open_moodle": "Megnyitás Moodle-ban",
+    "a11y_course_search_period_busy": "Van óra",
     "a11y_empty_classroom_floors_down": "%1$d emelettel lejjebb",
     "a11y_empty_classroom_floors_up": "%1$d emelettel feljebb",
     "a11y_empty_classroom_free_count": "Szabad termek: %1$d",

@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Ayrıntılar için çift dokunun";
 "a11y_course_color_swatch" = "Renk %1$lld";
 "a11y_course_detail_open_moodle" = "Moodle'da aç";
+"a11y_course_search_period_busy" = "Ders var";
 "a11y_empty_classroom_floors_down" = "%1$d kat aşağı";
 "a11y_empty_classroom_floors_up" = "%1$d kat yukarı";
 "a11y_empty_classroom_free_count" = "Boş derslikler: %1$d";

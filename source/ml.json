@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "വിശദാംശങ്ങൾക്ക് രണ്ടുതവണ ടാപ്പ് ചെയ്യുക",
     "a11y_course_color_swatch": "നിറം %1$lld",
     "a11y_course_detail_open_moodle": "Moodle-ൽ തുറക്കുക",
+    "a11y_course_search_period_busy": "ക്ലാസ് ഉണ്ട്",
     "a11y_empty_classroom_floors_down": "%1$d നില താഴെ",
     "a11y_empty_classroom_floors_up": "%1$d നില മുകളിൽ",
     "a11y_empty_classroom_free_count": "ഒഴിഞ്ഞ ക്ലാസ്മുറികൾ: %1$d",

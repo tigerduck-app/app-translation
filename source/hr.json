@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Dvaput dodirnite za detalje",
     "a11y_course_color_swatch": "Boja %1$lld",
     "a11y_course_detail_open_moodle": "Otvori u Moodleu",
+    "a11y_course_search_period_busy": "Ima predavanje",
     "a11y_empty_classroom_floors_down": "Katova dolje: %1$d",
     "a11y_empty_classroom_floors_up": "Katova gore: %1$d",
     "a11y_empty_classroom_free_count": "Slobodne učionice: %1$d",

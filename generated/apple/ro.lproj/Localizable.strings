@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Atingeți de două ori pentru detalii";
 "a11y_course_color_swatch" = "Culoarea %1$lld";
 "a11y_course_detail_open_moodle" = "Deschide în Moodle";
+"a11y_course_search_period_busy" = "Are curs";
 "a11y_empty_classroom_floors_down" = "Etaje mai jos: %1$d";
 "a11y_empty_classroom_floors_up" = "Etaje mai sus: %1$d";
 "a11y_empty_classroom_free_count" = "Săli libere: %1$d";

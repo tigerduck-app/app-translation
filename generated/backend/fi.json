@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "Kaksoisnapauta tarkempia tietoja varten",
   "a11y_course_color_swatch": "Väri %1$lld",
   "a11y_course_detail_open_moodle": "Avaa Moodlessa",
+  "a11y_course_search_period_busy": "On tunti",
   "a11y_empty_classroom_floors_down": "Kerroksia alas: %1$d",
   "a11y_empty_classroom_floors_up": "Kerroksia ylös: %1$d",
   "a11y_empty_classroom_free_count": "Vapaat luokkahuoneet: %1$d",

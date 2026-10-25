@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "دو بار ضربه بزنید برای جزئیات",
     "a11y_course_color_swatch": "رنگ %1$lld",
     "a11y_course_detail_open_moodle": "باز کردن در Moodle",
+    "a11y_course_search_period_busy": "کلاس دارید",
     "a11y_empty_classroom_floors_down": "%1$d طبقه پایین‌تر",
     "a11y_empty_classroom_floors_up": "%1$d طبقه بالاتر",
     "a11y_empty_classroom_free_count": "کلاس‌های خالی: %1$d",

@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "Topelttoksake üksikasjade vaatamiseks",
   "a11y_course_color_swatch": "Värv %1$lld",
   "a11y_course_detail_open_moodle": "Ava Moodle'is",
+  "a11y_course_search_period_busy": "On tund",
   "a11y_empty_classroom_floors_down": "Korruseid alla: %1$d",
   "a11y_empty_classroom_floors_up": "Korruseid üles: %1$d",
   "a11y_empty_classroom_free_count": "Vabad klassiruumid: %1$d",

@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Докоснете двукратно за подробности";
 "a11y_course_color_swatch" = "Цвят %1$lld";
 "a11y_course_detail_open_moodle" = "Отвори в Moodle";
+"a11y_course_search_period_busy" = "Има час";
 "a11y_empty_classroom_floors_down" = "Етажи надолу: %1$d";
 "a11y_empty_classroom_floors_up" = "Етажи нагоре: %1$d";
 "a11y_empty_classroom_free_count" = "Свободни класни стаи: %1$d";

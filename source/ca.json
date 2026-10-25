@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Toca dues vegades per veure els detalls",
     "a11y_course_color_swatch": "Color %1$lld",
     "a11y_course_detail_open_moodle": "Obre a Moodle",
+    "a11y_course_search_period_busy": "Hi ha classe",
     "a11y_empty_classroom_floors_down": "Plantes avall: %1$d",
     "a11y_empty_classroom_floors_up": "Plantes amunt: %1$d",
     "a11y_empty_classroom_free_count": "Aules lliures: %1$d",

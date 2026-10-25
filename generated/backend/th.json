@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "แตะสองครั้งเพื่อดูรายละเอียด",
   "a11y_course_color_swatch": "สีที่ %1$lld",
   "a11y_course_detail_open_moodle": "เปิดใน Moodle",
+  "a11y_course_search_period_busy": "มีคาบเรียน",
   "a11y_empty_classroom_floors_down": "ลง %1$d ชั้น",
   "a11y_empty_classroom_floors_up": "ขึ้น %1$d ชั้น",
   "a11y_empty_classroom_free_count": "ห้องเรียนว่าง %1$d ห้อง",

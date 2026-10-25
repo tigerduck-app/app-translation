@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "I-double tap para sa mga detalye",
   "a11y_course_color_swatch": "Kulay %1$lld",
   "a11y_course_detail_open_moodle": "Buksan sa Moodle",
+  "a11y_course_search_period_busy": "May klase",
   "a11y_empty_classroom_floors_down": "%1$d palapag pababa",
   "a11y_empty_classroom_floors_up": "%1$d palapag pataas",
   "a11y_empty_classroom_free_count": "Mga bakanteng silid-aralan: %1$d",

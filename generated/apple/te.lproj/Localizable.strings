@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "వివరాల కోసం రెండుసార్లు నొక్కండి";
 "a11y_course_color_swatch" = "రంగు %1$lld";
 "a11y_course_detail_open_moodle" = "Moodle లో తెరవండి";
+"a11y_course_search_period_busy" = "తరగతి ఉంది";
 "a11y_empty_classroom_floors_down" = "%1$d అంతస్తులు కిందకు";
 "a11y_empty_classroom_floors_up" = "%1$d అంతస్తులు పైకి";
 "a11y_empty_classroom_free_count" = "ఖాళీ తరగతి గదులు: %1$d";

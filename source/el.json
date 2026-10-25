@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Πατήστε δύο φορές για λεπτομέρειες",
     "a11y_course_color_swatch": "Χρώμα %1$lld",
     "a11y_course_detail_open_moodle": "Άνοιγμα στο Moodle",
+    "a11y_course_search_period_busy": "Υπάρχει μάθημα",
     "a11y_empty_classroom_floors_down": "Όροφοι κάτω: %1$d",
     "a11y_empty_classroom_floors_up": "Όροφοι πάνω: %1$d",
     "a11y_empty_classroom_free_count": "Ελεύθερες αίθουσες: %1$d",

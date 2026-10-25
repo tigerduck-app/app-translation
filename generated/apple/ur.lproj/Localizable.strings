@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "تفصیلات کے لیے دو بار ٹیپ کریں";
 "a11y_course_color_swatch" = "رنگ %1$lld";
 "a11y_course_detail_open_moodle" = "Moodle میں کھولیں";
+"a11y_course_search_period_busy" = "کلاس ہے";
 "a11y_empty_classroom_floors_down" = "%1$d منزل نیچے";
 "a11y_empty_classroom_floors_up" = "%1$d منزل اوپر";
 "a11y_empty_classroom_free_count" = "خالی کلاس روم: %1$d";

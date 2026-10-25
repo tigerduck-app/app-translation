@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Ketuk dua kali untuk detail";
 "a11y_course_color_swatch" = "Warna %1$lld";
 "a11y_course_detail_open_moodle" = "Buka di Moodle";
+"a11y_course_search_period_busy" = "Ada kelas";
 "a11y_empty_classroom_floors_down" = "%1$d lantai ke bawah";
 "a11y_empty_classroom_floors_up" = "%1$d lantai ke atas";
 "a11y_empty_classroom_free_count" = "Ruang kelas kosong: %1$d";

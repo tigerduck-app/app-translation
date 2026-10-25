@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "双击查看详情",
   "a11y_course_color_swatch": "颜色 %1$lld",
   "a11y_course_detail_open_moodle": "在 Moodle 中打开",
+  "a11y_course_search_period_busy": "有课",
   "a11y_empty_classroom_floors_down": "下 %1$d 层",
   "a11y_empty_classroom_floors_up": "上 %1$d 层",
   "a11y_empty_classroom_free_count": "%1$d 间空教室",

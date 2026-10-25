@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Двапут тапните за детаље";
 "a11y_course_color_swatch" = "Боја %1$lld";
 "a11y_course_detail_open_moodle" = "Отвори у Moodle-у";
+"a11y_course_search_period_busy" = "Има час";
 "a11y_empty_classroom_floors_down" = "Спратова доле: %1$d";
 "a11y_empty_classroom_floors_up" = "Спратова горе: %1$d";
 "a11y_empty_classroom_free_count" = "Слободне учионице: %1$d";

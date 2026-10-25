@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Doppeltippen für Details";
 "a11y_course_color_swatch" = "Farbe %1$lld";
 "a11y_course_detail_open_moodle" = "In Moodle öffnen";
+"a11y_course_search_period_busy" = "Belegt";
 "a11y_empty_classroom_floors_down" = "Etagen nach unten: %1$d";
 "a11y_empty_classroom_floors_up" = "Etagen nach oben: %1$d";
 "a11y_empty_classroom_free_count" = "Freie Hörsäle: %1$d";

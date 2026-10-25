@@ -12,6 +12,7 @@
     "a11y_course_card_open_details_hint": "Ýttu tvisvar fyrir upplýsingar",
     "a11y_course_color_swatch": "Litur %1$lld",
     "a11y_course_detail_open_moodle": "Opna í Moodle",
+    "a11y_course_search_period_busy": "Það er tími",
     "a11y_empty_classroom_floors_down": "Hæðir niður: %1$d",
     "a11y_empty_classroom_floors_up": "Hæðir upp: %1$d",
     "a11y_empty_classroom_free_count": "Lausar kennslustofur: %1$d",

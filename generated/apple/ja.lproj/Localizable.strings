@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "ダブルタップで詳細を表示";
 "a11y_course_color_swatch" = "色 %1$lld";
 "a11y_course_detail_open_moodle" = "Moodle で開く";
+"a11y_course_search_period_busy" = "授業あり";
 "a11y_empty_classroom_floors_down" = "%1$d 階下";
 "a11y_empty_classroom_floors_up" = "%1$d 階上";
 "a11y_empty_classroom_free_count" = "空き教室 %1$d 室";

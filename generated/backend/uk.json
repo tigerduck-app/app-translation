@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "Двічі торкніться для перегляду деталей",
   "a11y_course_color_swatch": "Колір %1$lld",
   "a11y_course_detail_open_moodle": "Відкрити в Moodle",
+  "a11y_course_search_period_busy": "Є заняття",
   "a11y_empty_classroom_floors_down": "Поверхів униз: %1$d",
   "a11y_empty_classroom_floors_up": "Поверхів угору: %1$d",
   "a11y_empty_classroom_free_count": "Вільні аудиторії: %1$d",

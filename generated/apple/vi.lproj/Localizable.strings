@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Nhấn đúp để xem chi tiết";
 "a11y_course_color_swatch" = "Màu %1$lld";
 "a11y_course_detail_open_moodle" = "Mở trong Moodle";
+"a11y_course_search_period_busy" = "Có lớp";
 "a11y_empty_classroom_floors_down" = "Xuống %1$d tầng";
 "a11y_empty_classroom_floors_up" = "Lên %1$d tầng";
 "a11y_empty_classroom_free_count" = "%1$d phòng học trống";

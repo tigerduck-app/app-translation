@@ -11,6 +11,7 @@
 "a11y_course_card_open_details_hint" = "Divreiz pieskarieties, lai skatītu detaļas";
 "a11y_course_color_swatch" = "Krāsa %1$lld";
 "a11y_course_detail_open_moodle" = "Atvērt Moodle";
+"a11y_course_search_period_busy" = "Ir nodarbība";
 "a11y_empty_classroom_floors_down" = "Stāvi uz leju: %1$d";
 "a11y_empty_classroom_floors_up" = "Stāvi uz augšu: %1$d";
 "a11y_empty_classroom_free_count" = "Brīvās auditorijas: %1$d";

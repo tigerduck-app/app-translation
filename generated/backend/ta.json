@@ -11,6 +11,7 @@
   "a11y_course_card_open_details_hint": "விவரங்களுக்கு இருமுறை தட்டவும்",
   "a11y_course_color_swatch": "நிறம் %1$lld",
   "a11y_course_detail_open_moodle": "Moodle-ல் திறக்கவும்",
+  "a11y_course_search_period_busy": "வகுப்பு உள்ளது",
   "a11y_empty_classroom_floors_down": "%1$d மாடி கீழே",
   "a11y_empty_classroom_floors_up": "%1$d மாடி மேலே",
   "a11y_empty_classroom_free_count": "காலி வகுப்பறைகள்: %1$d",
