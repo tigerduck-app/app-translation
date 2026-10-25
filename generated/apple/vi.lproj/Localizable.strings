@@ -34,6 +34,7 @@
 "action_close" = "Đóng";
 "action_confirm" = "Xác nhận";
 "action_continue" = "Tiếp tục";
+"action_delete" = "Xóa";
 "action_done" = "Xong";
 "action_go_to_settings" = "Đến cài đặt";
 "action_got_it" = "Đã hiểu";
@@ -984,6 +985,14 @@
 "settings_classroom_mandarin_display_translated" = "Hiển thị bản dịch";
 "settings_color_theme" = "Chủ đề màu";
 "settings_delete_account" = "Xóa tài khoản";
+"settings_downloaded_files_delete_all" = "Xóa tất cả tệp đã tải xuống";
+"settings_downloaded_files_delete_all_message" = "Tệp Moodle và tệp đính kèm trong thư sẽ được tải xuống lại vào lần tới bạn mở chúng.";
+"settings_downloaded_files_delete_all_title" = "Xóa tất cả tệp đã tải xuống?";
+"settings_downloaded_files_footer" = "Tệp tải xuống trong trình duyệt TigerDuck được lưu vào thư mục Tải xuống của điện thoại và không bị xóa ở đây.";
+"settings_downloaded_files_images" = "Ảnh thời khóa biểu";
+"settings_downloaded_files_mail" = "Tệp đính kèm trong thư";
+"settings_downloaded_files_moodle" = "Tệp Moodle";
+"settings_downloaded_files_title" = "Tệp đã tải xuống";
 "settings_feedback_bug_report" = "Phản hồi / Báo lỗi";
 "settings_flip_to_library_summary" = "Lật điện thoại úp màn hình xuống để mở QR thư viện.";
 "settings_flip_to_library_title" = "Lật để hiển thị QR thư viện";
@@ -1043,6 +1052,12 @@
 "settings_show_classroom_on_class_table" = "Hiển thị phòng học trên thời khoá biểu";
 "settings_sign_out_imported_tables" = "Các thời khóa biểu đã nhập cũng sẽ bị xóa.";
 "settings_sign_out_unsynced_data" = "Dữ liệu chưa được đồng bộ với TigerSync sẽ bị xóa.";
+"settings_storage_browser_data" = "Dữ liệu trang web";
+"settings_storage_browser_data_delete_message" = "Các trang web bạn đã truy cập trong trình duyệt TigerDuck có thể yêu cầu bạn đăng nhập lại.";
+"settings_storage_browser_data_delete_title" = "Xóa dữ liệu trang web?";
+"settings_storage_delete_kind" = "Xóa %@";
+"settings_storage_title" = "Bộ nhớ";
+"settings_storage_total" = "Tổng cộng";
 "settings_sync_brief_description" = "TigerSync cho phép bạn đồng bộ thông tin đã chọn trên tất cả thiết bị. Thông tin không được bật sẽ chỉ ở trên thiết bị này.";
 "settings_sync_brief_description_ios" = "TigerSync cho phép bạn nhận thông báo đẩy và đồng bộ thông tin. Thông tin không được bật vẫn được gửi đến máy chủ cho thông báo đẩy.";
 "settings_sync_data_section" = "Dữ liệu được chia sẻ với máy chủ";
