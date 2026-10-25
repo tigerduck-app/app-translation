@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "പിരീഡ് %1$@";
 "a11y_empty_classroom_same_room" = "അതേ ക്ലാസ്മുറി";
 "a11y_empty_classroom_walk_minutes" = "നടന്നാൽ ഏകദേശം %1$d മിനിറ്റ്";
+"a11y_file_viewer_page" = "%2$d-ൽ %1$d-ാം പേജ്";
 "a11y_rankings_trend_chart" = "സെമസ്റ്ററനുസരിച്ച് GPA ട്രെൻഡ്";
 "a11y_rankings_trend_no_selection" = "സെമസ്റ്റർ തിരഞ്ഞെടുത്തിട്ടില്ല";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "ഗ്രേഡുകൾ";
 "feature_settings" = "ക്രമീകരണങ്ങൾ";
 "feature_settings_short" = "ക്രമീകരണങ്ങൾ";
+"file_viewer_cannot_show" = "ഈ ഫയൽ ഇവിടെ കാണിക്കാനാകില്ല.";
+"file_viewer_open_elsewhere" = "മറ്റൊരു ആപ്പിൽ തുറക്കുക";
+"file_viewer_text_truncated" = "ഈ ഫയലിന്റെ ആദ്യ %1$@ കാണിക്കുന്നു.";
 "first_trigger_flip_to_library_keep" = "പ്രവർത്തനക്ഷമമായി നിലനിർത്തുക";
 "first_trigger_flip_to_library_message" = "നിങ്ങൾ ഫോൺ മറിച്ചിട്ടതായി ഞങ്ങൾ ശ്രദ്ധിച്ചു. ഈ ആംഗ്യം ലൈബ്രറി QR വേഗത്തിൽ തുറക്കാൻ സഹായിക്കും. ഈ ഫീച്ചർ നിലനിർത്തണോ?";
 "first_trigger_flip_to_library_title" = "ലൈബ്രറി QR തുറക്കാൻ മറിക്കുക";

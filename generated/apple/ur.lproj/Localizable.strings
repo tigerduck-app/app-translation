@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "پیریڈ %1$@";
 "a11y_empty_classroom_same_room" = "وہی کلاس روم";
 "a11y_empty_classroom_walk_minutes" = "پیدل تقریباً %1$d منٹ";
+"a11y_file_viewer_page" = "صفحہ %1$d از %2$d";
 "a11y_rankings_trend_chart" = "سمسٹر کے مطابق GPA رجحان";
 "a11y_rankings_trend_no_selection" = "کوئی سمسٹر منتخب نہیں";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "گریڈ";
 "feature_settings" = "ترتیبات";
 "feature_settings_short" = "ترتیبات";
+"file_viewer_cannot_show" = "یہ فائل یہاں نہیں دکھائی جا سکتی۔";
+"file_viewer_open_elsewhere" = "کسی دوسری ایپ میں کھولیں";
+"file_viewer_text_truncated" = "اس فائل کے پہلے %1$@ دکھائے جا رہے ہیں۔";
 "first_trigger_flip_to_library_keep" = "فعال رکھیں";
 "first_trigger_flip_to_library_message" = "ہم نے دیکھا کہ آپ نے فون پلٹایا۔ یہ اشارہ لائبریری QR کو جلدی کھول سکتا ہے۔ کیا آپ یہ خصوصیت رکھنا چاہتے ہیں؟";
 "first_trigger_flip_to_library_title" = "لائبریری QR کھولنے کے لیے پلٹائیں";

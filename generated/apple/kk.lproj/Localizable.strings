@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "%1$@ сабақ";
 "a11y_empty_classroom_same_room" = "Сол аудитория";
 "a11y_empty_classroom_walk_minutes" = "Жаяу шамамен %1$d мин";
+"a11y_file_viewer_page" = "%1$d/%2$d бет";
 "a11y_rankings_trend_chart" = "Семестр бойынша GPA үрдісі";
 "a11y_rankings_trend_no_selection" = "Семестр таңдалмаған";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "Бағалар";
 "feature_settings" = "Параметрлер";
 "feature_settings_short" = "Параметрлер";
+"file_viewer_cannot_show" = "Бұл файлды мұнда көрсету мүмкін емес.";
+"file_viewer_open_elsewhere" = "Басқа қолданбада ашу";
+"file_viewer_text_truncated" = "Бұл файлдың алғашқы %1$@ көрсетілуде.";
 "first_trigger_flip_to_library_keep" = "Қосулы қалдыру";
 "first_trigger_flip_to_library_message" = "Сіз телефонды аударғанын байқадық. Бұл қимыл кітапхана QR кодын жылдам ашуға мүмкіндік береді. Осы мүмкіндікті қалдырасыз ба?";
 "first_trigger_flip_to_library_title" = "Кітапхана QR кодын ашу үшін аударыңыз";

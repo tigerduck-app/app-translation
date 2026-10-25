@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "Periode %1$@";
 "a11y_empty_classroom_same_room" = "Ruang kelas yang sama";
 "a11y_empty_classroom_walk_minutes" = "Sekitar %1$d mnt jalan kaki";
+"a11y_file_viewer_page" = "Halaman %1$d dari %2$d";
 "a11y_rankings_trend_chart" = "Tren GPA per semester";
 "a11y_rankings_trend_no_selection" = "Tidak ada semester yang dipilih";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "Nilai";
 "feature_settings" = "Pengaturan";
 "feature_settings_short" = "Pengaturan";
+"file_viewer_cannot_show" = "File ini tidak dapat ditampilkan di sini.";
+"file_viewer_open_elsewhere" = "Buka di aplikasi lain";
+"file_viewer_text_truncated" = "Menampilkan %1$@ pertama dari file ini.";
 "first_trigger_flip_to_library_keep" = "Tetap aktif";
 "first_trigger_flip_to_library_message" = "Kami melihat kamu membalik ponsel. Gerakan ini dapat membuka QR perpustakaan dengan cepat. Mau tetap menggunakan fitur ini?";
 "first_trigger_flip_to_library_title" = "Balik ponsel untuk buka QR perpustakaan";

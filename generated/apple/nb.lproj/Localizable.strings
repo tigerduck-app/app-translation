@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "Periode %1$@";
 "a11y_empty_classroom_same_room" = "Samme klasserom";
 "a11y_empty_classroom_walk_minutes" = "Ca. %1$d min å gå";
+"a11y_file_viewer_page" = "Side %1$d av %2$d";
 "a11y_rankings_trend_chart" = "GPA-trend per semester";
 "a11y_rankings_trend_no_selection" = "Ingen semester valgt";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "Karakterer";
 "feature_settings" = "Innstillinger";
 "feature_settings_short" = "Innstillinger";
+"file_viewer_cannot_show" = "Denne filen kan ikke vises her.";
+"file_viewer_open_elsewhere" = "Åpne i en annen app";
+"file_viewer_text_truncated" = "Viser de første %1$@ av denne filen.";
 "first_trigger_flip_to_library_keep" = "Behold aktivert";
 "first_trigger_flip_to_library_message" = "Det ser ut til at du snudde telefonen. Denne bevegelsen kan raskt åpne bibliotek-QR. Vil du beholde denne funksjonen?";
 "first_trigger_flip_to_library_title" = "Snu for å åpne bibliotek-QR";

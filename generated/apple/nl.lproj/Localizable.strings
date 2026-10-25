@@ -19,6 +19,7 @@
 "a11y_empty_classroom_period" = "Lesuur %1$@";
 "a11y_empty_classroom_same_room" = "Hetzelfde lokaal";
 "a11y_empty_classroom_walk_minutes" = "Ongeveer %1$d min lopen";
+"a11y_file_viewer_page" = "Pagina %1$d van %2$d";
 "a11y_rankings_trend_chart" = "GPA-trend per semester";
 "a11y_rankings_trend_no_selection" = "Geen semester geselecteerd";
 "a11y_rankings_trend_point" = "%1$@ GPA %2$@";
@@ -513,6 +514,9 @@
 "feature_score_short" = "Cijfers";
 "feature_settings" = "Instellingen";
 "feature_settings_short" = "Instellingen";
+"file_viewer_cannot_show" = "Dit bestand kan hier niet worden weergegeven.";
+"file_viewer_open_elsewhere" = "Openen in andere app";
+"file_viewer_text_truncated" = "De eerste %1$@ van dit bestand worden getoond.";
 "first_trigger_flip_to_library_keep" = "Ingeschakeld houden";
 "first_trigger_flip_to_library_message" = "Het lijkt erop dat je je telefoon hebt omgedraaid. Dit gebaar kan snel de bibliotheek-QR openen. Wil je deze functie behouden?";
 "first_trigger_flip_to_library_title" = "Omdraaien om bibliotheek-QR te openen";
