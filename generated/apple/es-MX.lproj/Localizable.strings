@@ -315,7 +315,7 @@
 "course_detail_files_label" = "Materiales";
 "course_detail_forums_label" = "Foros";
 "course_detail_incomplete_assignments" = "Asignaciones incompletas";
-"course_detail_instructor_label" = "Instructor";
+"course_detail_instructor_label" = "Profesor";
 "course_detail_members_label" = "Miembros";
 "course_detail_moodle_grades_label" = "Calificaciones de Moodle";
 "course_detail_no_roster" = "No hay datos de matrícula disponibles para este curso";
@@ -325,7 +325,7 @@
 "course_detail_summary_label" = "Resumen del curso";
 "course_detail_time_label" = "Tiempo";
 "course_forum_pinned" = "Fijado";
-"course_instructor_value" = "Instructor: %1$@";
+"course_instructor_value" = "Profesor: %1$@";
 "course_member_change_picture" = "Cambiar foto de perfil";
 "course_member_department" = "Departamento";
 "course_member_department_ad" = "Department of Architecture";
