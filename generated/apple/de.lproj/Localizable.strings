@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "„%1$@“ löschen?";
 "class_table_empty_message" = "Ziehen Sie zum Aktualisieren, tippen Sie auf ⋯, um einen Kurs hinzuzufügen, oder wechseln Sie zu einem anderen Semester";
 "class_table_export_failed" = "Stundenplan konnte nicht exportiert werden";
-"class_table_export_screenshot" = "Stundenplan als Bild exportieren";
+"class_table_export_screenshot" = "Screenshot exportieren";
 "class_table_ignore_assignments" = "Aufgaben ignorieren";
 "class_table_ignore_assignments_undo" = "Aufgaben nicht mehr ignorieren";
-"class_table_import" = "Stundenplan importieren";
+"class_table_import" = "Stundenplan hinzufügen";
 "class_table_import_camera_denied" = "Zum Scannen ist Kamerazugriff erforderlich";
 "class_table_import_choose_photo" = "Aus Fotos auswählen";
 "class_table_import_course_count" = "Kurse";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "Link kopiert";
 "class_table_share_tat_compatible" = "TAT-kompatibel";
 "class_table_sign_in_required_message" = "Melden Sie sich an, um Ihre Klassentabelle anzuzeigen";
+"class_table_subscribe_clubs" = "Clubs abonnieren";
 "class_table_total_credits_value" = "%1$@ Leistungspunkte";
 "cloud_sync_assignments" = "Aufgaben";
 "cloud_sync_class_table" = "Stundenplan";

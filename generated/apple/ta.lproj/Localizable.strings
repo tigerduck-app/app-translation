@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "\"%1$@\"-ஐ நீக்கவா?";
 "class_table_empty_message" = "புதுப்பிக்க இழுக்கவும், வகுப்பு சேர்க்க ⋯ தட்டவும், அல்லது வேறு பருவத்திற்கு மாறவும்";
 "class_table_export_failed" = "வகுப்பு அட்டவணையை ஏற்றுமதி செய்ய முடியவில்லை";
-"class_table_export_screenshot" = "வகுப்பு அட்டவணையின் திரைப்பிடிப்பை ஏற்றுமதி செய்";
+"class_table_export_screenshot" = "திரைப்பிடிப்பை ஏற்றுமதி செய்";
 "class_table_ignore_assignments" = "ஒப்படைப்புகளைப் புறக்கணி";
 "class_table_ignore_assignments_undo" = "ஒப்படைப்புகளின் புறக்கணிப்பை நீக்கு";
-"class_table_import" = "வகுப்பு அட்டவணையை இறக்குமதி செய்";
+"class_table_import" = "வகுப்பு அட்டவணையைச் சேர்";
 "class_table_import_camera_denied" = "ஸ்கேன் செய்ய கேமரா அனுமதி தேவை";
 "class_table_import_choose_photo" = "புகைப்படங்களிலிருந்து தேர்ந்தெடு";
 "class_table_import_course_count" = "பாடங்களின் எண்ணிக்கை";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "இணைப்பு நகலெடுக்கப்பட்டது";
 "class_table_share_tat_compatible" = "TAT உடன் இணக்கமானது";
 "class_table_sign_in_required_message" = "உங்கள் வகுப்பு அட்டவணையை காண உள்நுழையவும்";
+"class_table_subscribe_clubs" = "கிளப்களுக்குக் குழுசேர்";
 "class_table_total_credits_value" = "%1$@ கிரெடிட்கள்";
 "cloud_sync_assignments" = "பணிகள்";
 "cloud_sync_class_table" = "வகுப்பு அட்டவணை";

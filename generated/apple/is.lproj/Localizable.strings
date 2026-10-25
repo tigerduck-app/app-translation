@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "Eyða „%1$@“?";
 "class_table_empty_message" = "Dragðu til að uppfæra, ýttu á ⋯ til að bæta við námskeiði, eða skiptu í annað semester";
 "class_table_export_failed" = "Ekki tókst að flytja út stundaskrána";
-"class_table_export_screenshot" = "Flytja út skjámynd af stundaskrá";
+"class_table_export_screenshot" = "Flytja út skjámynd";
 "class_table_ignore_assignments" = "Hunsa verkefni";
 "class_table_ignore_assignments_undo" = "Hætta að hunsa verkefni";
-"class_table_import" = "Flytja inn stundaskrá";
+"class_table_import" = "Bæta við stundaskrá";
 "class_table_import_camera_denied" = "Aðgangur að myndavél er nauðsynlegur til að skanna";
 "class_table_import_choose_photo" = "Velja úr myndum";
 "class_table_import_course_count" = "Námskeið";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "Tengill afritaður";
 "class_table_share_tat_compatible" = "Samhæft við TAT";
 "class_table_sign_in_required_message" = "Skráðu þig inn til að sjá stundaskrána þína";
+"class_table_subscribe_clubs" = "Gerast áskrifandi að klúbbum";
 "class_table_total_credits_value" = "%1$@ einingar";
 "cloud_sync_assignments" = "Verkefni";
 "cloud_sync_class_table" = "Stundaskrá";

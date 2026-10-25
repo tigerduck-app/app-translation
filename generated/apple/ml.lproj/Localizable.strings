@@ -207,10 +207,10 @@
 "class_table_delete_user_confirm" = "\"%1$@\" ഇല്ലാതാക്കണോ?";
 "class_table_empty_message" = "പുതുക്കാൻ വലിക്കുക, കോഴ്‌സ് ചേർക്കാൻ ⋯ ടാപ്പ് ചെയ്യുക, അല്ലെങ്കിൽ മറ്റൊരു സെമസ്റ്ററിലേക്ക് മാറുക";
 "class_table_export_failed" = "ക്ലാസ് ടൈംടേബിൾ എക്സ്പോർട്ട് ചെയ്യാനായില്ല";
-"class_table_export_screenshot" = "ക്ലാസ് ടൈംടേബിളിന്റെ സ്ക്രീൻഷോട്ട് എക്സ്പോർട്ട് ചെയ്യുക";
+"class_table_export_screenshot" = "സ്ക്രീൻഷോട്ട് എക്സ്പോർട്ട് ചെയ്യുക";
 "class_table_ignore_assignments" = "അസൈൻമെന്റുകൾ അവഗണിക്കുക";
 "class_table_ignore_assignments_undo" = "അസൈൻമെന്റുകൾ അവഗണിക്കുന്നത് നിർത്തുക";
-"class_table_import" = "ക്ലാസ് ടൈംടേബിൾ ഇമ്പോർട്ട് ചെയ്യുക";
+"class_table_import" = "ക്ലാസ് ടൈംടേബിൾ ചേർക്കുക";
 "class_table_import_camera_denied" = "സ്കാൻ ചെയ്യാൻ ക്യാമറ അനുമതി ആവശ്യമാണ്";
 "class_table_import_choose_photo" = "ഫോട്ടോകളിൽ നിന്ന് തിരഞ്ഞെടുക്കുക";
 "class_table_import_course_count" = "കോഴ്‌സുകളുടെ എണ്ണം";
@@ -241,6 +241,7 @@
 "class_table_share_link_copied" = "ലിങ്ക് പകർത്തി";
 "class_table_share_tat_compatible" = "TAT അനുയോജ്യം";
 "class_table_sign_in_required_message" = "നിങ്ങളുടെ ക്ലാസ് ടേബിൾ കാണാൻ സൈൻ ഇൻ ചെയ്യുക";
+"class_table_subscribe_clubs" = "ക്ലബ്ബുകൾ സബ്സ്ക്രൈബ് ചെയ്യുക";
 "class_table_total_credits_value" = "%1$@ ക്രെഡിറ്റുകൾ";
 "cloud_sync_assignments" = "അസൈൻമെന്റുകൾ";
 "cloud_sync_class_table" = "ക്ലാസ് ടേബിൾ";
