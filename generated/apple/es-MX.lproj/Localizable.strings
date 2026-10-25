@@ -33,6 +33,7 @@
 "action_close" = "Cerrar";
 "action_confirm" = "Confirmar";
 "action_continue" = "Continuar";
+"action_delete" = "Eliminar";
 "action_done" = "Listo";
 "action_go_to_settings" = "Ir a la configuración";
 "action_got_it" = "Entendido";
@@ -980,6 +981,15 @@
 "settings_classroom_mandarin_display_translated" = "Mostrar traducción";
 "settings_color_theme" = "Tema de color";
 "settings_delete_account" = "Eliminar cuenta";
+"settings_downloaded_files_delete_all" = "Eliminar todos los archivos descargados";
+"settings_downloaded_files_delete_all_message" = "Los archivos de Moodle y los adjuntos del correo se volverán a descargar la próxima vez que los abras.";
+"settings_downloaded_files_delete_all_title" = "¿Eliminar todos los archivos descargados?";
+"settings_downloaded_files_footer" = "Los archivos descargados en el navegador de TigerDuck se guardan en la carpeta Descargas del teléfono y no se eliminan aquí.";
+"settings_downloaded_files_images" = "Imágenes del horario";
+"settings_downloaded_files_mail" = "Adjuntos del correo";
+"settings_downloaded_files_moodle" = "Archivos de Moodle";
+"settings_downloaded_files_title" = "Archivos descargados";
+"settings_downloaded_files_total" = "Total";
 "settings_feedback_bug_report" = "Comentarios / Reportar problema";
 "settings_flip_to_library_summary" = "Voltea el teléfono boca abajo para abrir el QR de la biblioteca.";
 "settings_flip_to_library_title" = "Voltear para mostrar el QR de la biblioteca";

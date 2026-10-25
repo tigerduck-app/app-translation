@@ -33,6 +33,7 @@
 "action_close" = "Stäng";
 "action_confirm" = "Bekräfta";
 "action_continue" = "Fortsätt";
+"action_delete" = "Ta bort";
 "action_done" = "Klar";
 "action_go_to_settings" = "Gå till inställningar";
 "action_got_it" = "Förstår";
@@ -980,6 +981,15 @@
 "settings_classroom_mandarin_display_translated" = "Visa översättning";
 "settings_color_theme" = "Färgtema";
 "settings_delete_account" = "Ta bort konto";
+"settings_downloaded_files_delete_all" = "Ta bort alla nedladdade filer";
+"settings_downloaded_files_delete_all_message" = "Moodle-filer och bilagor från mejl laddas ned igen nästa gång du öppnar dem.";
+"settings_downloaded_files_delete_all_title" = "Vill du ta bort alla nedladdade filer?";
+"settings_downloaded_files_footer" = "Filer som laddas ned i TigerDucks webbläsare sparas i mappen Nedladdningar på telefonen och tas inte bort här.";
+"settings_downloaded_files_images" = "Bilder av schemat";
+"settings_downloaded_files_mail" = "Bilagor från mejl";
+"settings_downloaded_files_moodle" = "Moodle-filer";
+"settings_downloaded_files_title" = "Nedladdade filer";
+"settings_downloaded_files_total" = "Totalt";
 "settings_feedback_bug_report" = "Feedback / Rapportera problem";
 "settings_flip_to_library_summary" = "Vänd telefonen med skärmen nedåt för att öppna bibliotekets QR.";
 "settings_flip_to_library_title" = "Vänd för att visa bibliotekets QR";

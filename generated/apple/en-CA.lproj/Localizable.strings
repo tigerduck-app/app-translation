@@ -33,6 +33,7 @@
 "action_close" = "Close";
 "action_confirm" = "Confirm";
 "action_continue" = "Continue";
+"action_delete" = "Delete";
 "action_done" = "Done";
 "action_go_to_settings" = "Go to settings";
 "action_got_it" = "Got it";
@@ -980,6 +981,15 @@
 "settings_classroom_mandarin_display_translated" = "Display translated";
 "settings_color_theme" = "Color theme";
 "settings_delete_account" = "Delete account";
+"settings_downloaded_files_delete_all" = "Delete all downloaded files";
+"settings_downloaded_files_delete_all_message" = "Moodle files and mail attachments download again the next time you open them.";
+"settings_downloaded_files_delete_all_title" = "Delete all downloaded files?";
+"settings_downloaded_files_footer" = "Files downloaded in the TigerDuck browser are saved to your phone's Downloads folder and aren't deleted here.";
+"settings_downloaded_files_images" = "Class table images";
+"settings_downloaded_files_mail" = "Mail attachments";
+"settings_downloaded_files_moodle" = "Moodle files";
+"settings_downloaded_files_title" = "Downloaded files";
+"settings_downloaded_files_total" = "Total";
 "settings_feedback_bug_report" = "Feedback / Report issue";
 "settings_flip_to_library_summary" = "Flip your phone face-down to open the library QR.";
 "settings_flip_to_library_title" = "Flip to show library QR";

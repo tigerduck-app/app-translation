@@ -33,6 +33,7 @@
 "action_close" = "Zavrieť";
 "action_confirm" = "Potvrdiť";
 "action_continue" = "Pokračovať";
+"action_delete" = "Odstrániť";
 "action_done" = "Hotovo";
 "action_go_to_settings" = "Prejsť do nastavení";
 "action_got_it" = "Rozumiem";
@@ -980,6 +981,15 @@
 "settings_classroom_mandarin_display_translated" = "Zobraziť preklad";
 "settings_color_theme" = "Farebná téma";
 "settings_delete_account" = "Odstránenie účtu";
+"settings_downloaded_files_delete_all" = "Odstrániť všetky stiahnuté súbory";
+"settings_downloaded_files_delete_all_message" = "Súbory z Moodlu a prílohy e-mailov sa pri ďalšom otvorení stiahnu znova.";
+"settings_downloaded_files_delete_all_title" = "Odstrániť všetky stiahnuté súbory?";
+"settings_downloaded_files_footer" = "Súbory stiahnuté v prehliadači TigerDuck sa ukladajú do priečinka Stiahnuté súbory v telefóne a tu sa neodstraňujú.";
+"settings_downloaded_files_images" = "Obrázky rozvrhu";
+"settings_downloaded_files_mail" = "Prílohy e-mailov";
+"settings_downloaded_files_moodle" = "Súbory z Moodlu";
+"settings_downloaded_files_title" = "Stiahnuté súbory";
+"settings_downloaded_files_total" = "Spolu";
 "settings_feedback_bug_report" = "Spätná väzba / Nahlásenie problému";
 "settings_flip_to_library_summary" = "Otočte telefón obrazovkou nadol a otvoríte QR knižnice.";
 "settings_flip_to_library_title" = "Otočiť pre zobrazenie QR knižnice";

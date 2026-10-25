@@ -33,6 +33,7 @@
 "action_close" = "બંધ કરો";
 "action_confirm" = "પુષ્ટિ કરો";
 "action_continue" = "આગળ વધો";
+"action_delete" = "ડિલીટ";
 "action_done" = "થઈ ગયું";
 "action_go_to_settings" = "સેટિંગ્સ પર જાઓ";
 "action_got_it" = "સમજ્યા";
@@ -980,6 +981,15 @@
 "settings_classroom_mandarin_display_translated" = "અનુવાદ બતાવો";
 "settings_color_theme" = "કલર થીમ";
 "settings_delete_account" = "એકાઉન્ટ ડિલીટ કરો";
+"settings_downloaded_files_delete_all" = "બધી ડાઉનલોડ કરેલી ફાઇલો ડિલીટ કરો";
+"settings_downloaded_files_delete_all_message" = "આગલી વખતે ખોલશો ત્યારે Moodle ફાઇલો અને મેઇલ એટેચમેન્ટ ફરીથી ડાઉનલોડ થશે.";
+"settings_downloaded_files_delete_all_title" = "બધી ડાઉનલોડ કરેલી ફાઇલો ડિલીટ કરીએ?";
+"settings_downloaded_files_footer" = "TigerDuck બ્રાઉઝરમાં ડાઉનલોડ કરેલી ફાઇલો તમારા ફોનના Downloads ફોલ્ડરમાં સેવ થાય છે અને અહીંથી ડિલીટ થતી નથી.";
+"settings_downloaded_files_images" = "ક્લાસ ટાઇમટેબલની છબીઓ";
+"settings_downloaded_files_mail" = "મેઇલ એટેચમેન્ટ";
+"settings_downloaded_files_moodle" = "Moodle ફાઇલો";
+"settings_downloaded_files_title" = "ડાઉનલોડ કરેલી ફાઇલો";
+"settings_downloaded_files_total" = "કુલ";
 "settings_feedback_bug_report" = "ફીડબૅક / સમસ્યા જણાવો";
 "settings_flip_to_library_summary" = "લાઇબ્રેરી QR ખોલવા ફોનને સ્ક્રીન નીચે રાખી ફ્લિપ કરો.";
 "settings_flip_to_library_title" = "લાઇબ્રેરી QR બતાવવા ફ્લિપ કરો";

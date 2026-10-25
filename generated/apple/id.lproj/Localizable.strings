@@ -33,6 +33,7 @@
 "action_close" = "Tutup";
 "action_confirm" = "Konfirmasi";
 "action_continue" = "Lanjutkan";
+"action_delete" = "Hapus";
 "action_done" = "Selesai";
 "action_go_to_settings" = "Buka pengaturan";
 "action_got_it" = "Mengerti";
@@ -980,6 +981,15 @@
 "settings_classroom_mandarin_display_translated" = "Tampilkan terjemahan";
 "settings_color_theme" = "Tema warna";
 "settings_delete_account" = "Hapus akun";
+"settings_downloaded_files_delete_all" = "Hapus semua file yang diunduh";
+"settings_downloaded_files_delete_all_message" = "File Moodle dan lampiran email akan diunduh lagi saat kamu membukanya berikutnya.";
+"settings_downloaded_files_delete_all_title" = "Hapus semua file yang diunduh?";
+"settings_downloaded_files_footer" = "File yang diunduh di browser TigerDuck disimpan di folder Download ponselmu dan tidak dihapus di sini.";
+"settings_downloaded_files_images" = "Gambar jadwal kuliah";
+"settings_downloaded_files_mail" = "Lampiran email";
+"settings_downloaded_files_moodle" = "File Moodle";
+"settings_downloaded_files_title" = "File yang diunduh";
+"settings_downloaded_files_total" = "Total";
 "settings_feedback_bug_report" = "Umpan balik / Laporkan masalah";
 "settings_flip_to_library_summary" = "Balik ponsel dengan layar menghadap bawah untuk membuka QR perpustakaan.";
 "settings_flip_to_library_title" = "Balik untuk menampilkan QR perpustakaan";

@@ -33,6 +33,7 @@
 "action_close" = "மூடு";
 "action_confirm" = "உறுதிப்படுத்து";
 "action_continue" = "தொடர்";
+"action_delete" = "நீக்கு";
 "action_done" = "முடிந்தது";
 "action_go_to_settings" = "அமைப்புகளுக்கு செல்";
 "action_got_it" = "புரிந்தது";
@@ -980,6 +981,15 @@
 "settings_classroom_mandarin_display_translated" = "மொழிபெயர்ப்பைக் காட்டு";
 "settings_color_theme" = "நிற தீம்";
 "settings_delete_account" = "கணக்கை நீக்கு";
+"settings_downloaded_files_delete_all" = "பதிவிறக்கிய எல்லா கோப்புகளையும் நீக்கு";
+"settings_downloaded_files_delete_all_message" = "அடுத்த முறை திறக்கும்போது Moodle கோப்புகளும் மின்னஞ்சல் இணைப்புகளும் மீண்டும் பதிவிறக்கப்படும்.";
+"settings_downloaded_files_delete_all_title" = "பதிவிறக்கிய எல்லா கோப்புகளையும் நீக்கவா?";
+"settings_downloaded_files_footer" = "TigerDuck உலாவியில் பதிவிறக்கிய கோப்புகள் உங்கள் ஃபோனின் Downloads கோப்புறையில் சேமிக்கப்படும், இங்கிருந்து நீக்கப்படாது.";
+"settings_downloaded_files_images" = "வகுப்பு அட்டவணை படங்கள்";
+"settings_downloaded_files_mail" = "மின்னஞ்சல் இணைப்புகள்";
+"settings_downloaded_files_moodle" = "Moodle கோப்புகள்";
+"settings_downloaded_files_title" = "பதிவிறக்கிய கோப்புகள்";
+"settings_downloaded_files_total" = "மொத்தம்";
 "settings_feedback_bug_report" = "கருத்து / சிக்கல் அறிக்கை";
 "settings_flip_to_library_summary" = "நூலக QR திறக்க தொலைபேசியை திரை கீழே வைத்து திருப்பவும்.";
 "settings_flip_to_library_title" = "நூலக QR காட்ட திருப்பவும்";
