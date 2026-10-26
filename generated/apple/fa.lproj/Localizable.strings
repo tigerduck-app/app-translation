@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "تکالیف ناقص";
 "course_detail_instructor_label" = "مربی";
 "course_detail_members_label" = "اعضا";
-"course_detail_moodle_grades_label" = "نمرات Moodle";
+"course_detail_moodle_grades_label" = "نمرات";
 "course_detail_no_roster" = "هیچ اطلاعات ثبت نامی برای این دوره در دسترس نیست";
 "course_detail_require_option_elective" = "اختیاری";
 "course_detail_require_option_label" = "نوع درس";

@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Puutteelliset tehtävät";
 "course_detail_instructor_label" = "Ohjaaja";
 "course_detail_members_label" = "Jäsenet";
-"course_detail_moodle_grades_label" = "Moodle-arvosanat";
+"course_detail_moodle_grades_label" = "Arvosanat";
 "course_detail_no_roster" = "Tälle kurssille ei ole saatavilla ilmoittautumistietoja";
 "course_detail_require_option_elective" = "Valinnainen";
 "course_detail_require_option_label" = "Kurssin tyyppi";

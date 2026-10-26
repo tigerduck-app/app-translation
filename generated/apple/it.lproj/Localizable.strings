@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Compiti incompleti";
 "course_detail_instructor_label" = "Docente";
 "course_detail_members_label" = "Membri";
-"course_detail_moodle_grades_label" = "Voti Moodle";
+"course_detail_moodle_grades_label" = "Voti";
 "course_detail_no_roster" = "Nessun dato di iscrizione disponibile per questo corso";
 "course_detail_require_option_elective" = "A scelta";
 "course_detail_require_option_label" = "Tipo di corso";

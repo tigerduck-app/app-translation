@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "અપૂર્ણ સોંપણીઓ";
 "course_detail_instructor_label" = "પ્રશિક્ષક";
 "course_detail_members_label" = "સભ્યો";
-"course_detail_moodle_grades_label" = "Moodle ગ્રેડ";
+"course_detail_moodle_grades_label" = "ગ્રેડ";
 "course_detail_no_roster" = "આ કોર્સ માટે કોઈ નોંધણી ડેટા ઉપલબ્ધ નથી";
 "course_detail_require_option_elective" = "વૈકલ્પિક";
 "course_detail_require_option_label" = "કોર્સ પ્રકાર";

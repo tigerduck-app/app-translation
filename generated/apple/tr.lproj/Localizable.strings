@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Tamamlanmamış ödevler";
 "course_detail_instructor_label" = "Eğitmen";
 "course_detail_members_label" = "Üyeler";
-"course_detail_moodle_grades_label" = "Moodle notları";
+"course_detail_moodle_grades_label" = "Notlar";
 "course_detail_no_roster" = "Bu ders için kayıt verisi mevcut değil";
 "course_detail_require_option_elective" = "Seçmeli";
 "course_detail_require_option_label" = "Ders türü";

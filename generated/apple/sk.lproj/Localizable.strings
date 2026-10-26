@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Nedokončené úlohy";
 "course_detail_instructor_label" = "Vyučujúci";
 "course_detail_members_label" = "Členovia";
-"course_detail_moodle_grades_label" = "Známky v Moodle";
+"course_detail_moodle_grades_label" = "Známky";
 "course_detail_no_roster" = "Pre tento kurz nie sú k dispozícii údaje o zapísaných";
 "course_detail_require_option_elective" = "Voliteľný";
 "course_detail_require_option_label" = "Typ kurzu";
