@@ -1246,6 +1246,7 @@
 "sync_status_nav_label" = "Statut de TigerSync";
 "sync_status_never_updated" = "Jamais mis à jour";
 "sync_status_ok" = "OK";
+"sync_status_score_system" = "Système des notes";
 "sync_status_syncing" = "Synchronisation…";
 "sync_status_title" = "État de la synchronisation";
 "sync_success_content_description" = "Synchronisation réussie";

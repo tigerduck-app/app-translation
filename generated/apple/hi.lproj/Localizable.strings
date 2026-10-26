@@ -1246,6 +1246,7 @@
 "sync_status_nav_label" = "TigerSync स्थिति";
 "sync_status_never_updated" = "कभी अपडेट नहीं हुआ";
 "sync_status_ok" = "ठीक";
+"sync_status_score_system" = "ग्रेड सिस्टम";
 "sync_status_syncing" = "सिंक हो रहा है…";
 "sync_status_title" = "सिंक स्थिति";
 "sync_success_content_description" = "सिंक सफल";

@@ -1246,6 +1246,7 @@
 "sync_status_nav_label" = "TigerSync の状態";
 "sync_status_never_updated" = "未更新";
 "sync_status_ok" = "正常";
+"sync_status_score_system" = "成績システム";
 "sync_status_syncing" = "同期中…";
 "sync_status_title" = "同期状態";
 "sync_success_content_description" = "同期に成功しました";

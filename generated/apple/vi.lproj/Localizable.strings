@@ -1246,6 +1246,7 @@
 "sync_status_nav_label" = "Trạng thái TigerSync";
 "sync_status_never_updated" = "Chưa bao giờ cập nhật";
 "sync_status_ok" = "Bình thường";
+"sync_status_score_system" = "Hệ thống điểm";
 "sync_status_syncing" = "Đang đồng bộ…";
 "sync_status_title" = "Trạng thái đồng bộ";
 "sync_success_content_description" = "Đồng bộ thành công";
