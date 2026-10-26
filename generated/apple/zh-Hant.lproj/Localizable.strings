@@ -618,7 +618,7 @@
 "feature_more_short" = "更多";
 "feature_scholarship" = "獎學金";
 "feature_scholarship_short" = "獎學金";
-"feature_school_mail" = "校園信箱";
+"feature_school_mail" = "信箱";
 "feature_school_mail_short" = "信箱";
 "feature_score" = "歷年成績";
 "feature_score_short" = "歷年成績";
@@ -836,13 +836,13 @@
 "push_server_status_settings_hint" = "系統層關閉 → 設定 → TigerDuck 開啟";
 "push_server_status_waiting_token" = "等系統指派 token";
 "refreshing_message" = "頁面正在刷新，別急～";
-"school_mail_account_title" = "校園信箱";
+"school_mail_account_title" = "信箱";
 "school_mail_add_attachment" = "加入附件";
 "school_mail_attachment_share" = "分享或儲存";
 "school_mail_attachments" = "附件";
-"school_mail_auth_failed_banner" = "校園信箱登入失敗，請重新登入。";
+"school_mail_auth_failed_banner" = "信箱登入失敗，請重新登入。";
 "school_mail_auth_failed_notification_text" = "請開啟 TigerDuck 重新登入。";
-"school_mail_auth_failed_notification_title" = "校園信箱登入失敗";
+"school_mail_auth_failed_notification_title" = "信箱登入失敗";
 "school_mail_bcc" = "密件副本";
 "school_mail_body" = "內文";
 "school_mail_bounce_warning" = "你剛剛寄信是不是填錯電子信箱？";
@@ -858,7 +858,7 @@
 "school_mail_check_skipped_signed_out" = "已跳過：尚未登入";
 "school_mail_check_trigger_background" = "背景檢查";
 "school_mail_check_trigger_foreground" = "開啟 App";
-"school_mail_check_trigger_page" = "校園信箱畫面";
+"school_mail_check_trigger_page" = "信箱畫面";
 "school_mail_clear_cache" = "清除快取";
 "school_mail_compose" = "新郵件";
 "school_mail_copy_all" = "全部複製";
@@ -875,7 +875,7 @@
 "school_mail_error_auth" = "學號或密碼錯誤";
 "school_mail_error_busy" = "郵件伺服器忙碌中，請稍後再試。";
 "school_mail_error_certificate" = "無法驗證郵件伺服器的憑證，這個網路可能不安全。";
-"school_mail_error_generic" = "校園信箱發生錯誤";
+"school_mail_error_generic" = "信箱發生錯誤";
 "school_mail_error_network" = "無法連線到郵件伺服器";
 "school_mail_error_too_large" = "這封信太大，無法開啟";
 "school_mail_external_badge" = "外部";
@@ -927,7 +927,7 @@
 "school_mail_no_recipient" = "請至少填一位收件者";
 "school_mail_no_sender" = "（沒有寄件者）";
 "school_mail_no_subject" = "（沒有主旨）";
-"school_mail_notification_settings_title" = "校園信箱通知";
+"school_mail_notification_settings_title" = "信箱通知";
 "school_mail_open" = "開啟";
 "school_mail_parse_failed" = "無法解析這封信的格式，改為顯示原始碼。";
 "school_mail_quiet_hours" = "勿擾時段";
@@ -957,7 +957,7 @@
 "school_mail_sent_copy_no_folder" = "郵件已傳送，但目前沒有寄件備份資料夾可以保留副本。";
 "school_mail_sent_copy_not_saved" = "郵件已傳送，但副本未儲存到寄件備份";
 "school_mail_sent_copy_unknown" = "郵件已傳送。TigerDuck 無法確認寄件備份中是否已有伺服器自己的副本，因此未再新增一份。";
-"school_mail_settings_background_refresh_hint" = "iOS 會決定 TigerDuck 在背景檢查新信的頻率，通常要數小時才一次。打開校園信箱可以立即檢查。";
+"school_mail_settings_background_refresh_hint" = "iOS 會決定 TigerDuck 在背景檢查新信的頻率，通常要數小時才一次。打開信箱可以立即檢查。";
 "school_mail_settings_diagnostics" = "通知診斷";
 "school_mail_settings_display_name" = "寄件者顯示名稱";
 "school_mail_settings_display_name_hint" = "空白時只顯示信箱位址。";
@@ -966,9 +966,9 @@
 "school_mail_settings_notifications_hint" = "TigerDuck 每隔幾分鐘檢查一次新信，通知可能會晚一點才到。";
 "school_mail_show_cc_bcc" = "加入副本／密件副本";
 "school_mail_sign_in_note" = "帳號密碼應與校務系統相同。此密碼 TigerDuck 只會加密存在這台裝置，不會上傳。";
-"school_mail_sign_in_prompt_title" = "登入校園信箱";
+"school_mail_sign_in_prompt_title" = "登入信箱";
 "school_mail_source_failed" = "無法載入原始碼。";
-"school_mail_storage_delete_message" = "郵件仍保留在學校的伺服器上。下次開啟校園信箱時會重新下載，在那之前，搜尋可能找不到部分郵件。";
+"school_mail_storage_delete_message" = "郵件仍保留在學校的伺服器上。下次開啟信箱時會重新下載，在那之前，搜尋可能找不到部分郵件。";
 "school_mail_storage_delete_title" = "要刪除已下載的郵件嗎？";
 "school_mail_storage_footer" = "下載後就能搜尋所有郵件，捲動清單也不必等待載入。";
 "school_mail_storage_title" = "已下載的郵件";
