@@ -1261,6 +1261,7 @@
 "sync_status_nav_label" = "TigerSync 상태";
 "sync_status_never_updated" = "업데이트 안 됨";
 "sync_status_ok" = "정상";
+"sync_status_score_system" = "성적 시스템";
 "sync_status_syncing" = "동기화 중…";
 "sync_status_title" = "동기화 상태";
 "sync_success_content_description" = "동기화 성공";

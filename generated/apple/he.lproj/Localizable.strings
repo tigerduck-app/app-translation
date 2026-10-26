@@ -1261,6 +1261,7 @@
 "sync_status_nav_label" = "סטטוס TigerSync";
 "sync_status_never_updated" = "מעולם לא עודכן";
 "sync_status_ok" = "תקין";
+"sync_status_score_system" = "מערכת הציונים";
 "sync_status_syncing" = "מסנכרן…";
 "sync_status_title" = "מצב הסנכרון";
 "sync_success_content_description" = "סנכרון הצליח";

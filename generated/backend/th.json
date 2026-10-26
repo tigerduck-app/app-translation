@@ -1227,6 +1227,7 @@
   "sync_status_nav_label": "สถานะ TigerSync",
   "sync_status_never_updated": "ยังไม่เคยอัปเดต",
   "sync_status_ok": "ปกติ",
+  "sync_status_score_system": "ระบบผลการเรียน",
   "sync_status_syncing": "กำลังซิงค์…",
   "sync_status_title": "สถานะการซิงค์",
   "sync_success_content_description": "ซิงค์สำเร็จ",

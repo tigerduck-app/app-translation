@@ -1224,6 +1224,7 @@
     "sync_status_nav_label": "Estat de TigerSync",
     "sync_status_never_updated": "Mai actualitzat",
     "sync_status_ok": "Correcte",
+    "sync_status_score_system": "Sistema de notes",
     "sync_status_syncing": "Sincronitzant…",
     "sync_status_title": "Estat de la sincronització",
     "sync_success_content_description": "Sincronització correcta",

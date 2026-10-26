@@ -1261,6 +1261,7 @@
 "sync_status_nav_label" = "Статус на TigerSync";
 "sync_status_never_updated" = "Никога не е актуализирано";
 "sync_status_ok" = "Наред";
+"sync_status_score_system" = "Система за оценки";
 "sync_status_syncing" = "Синхронизиране…";
 "sync_status_title" = "Състояние на синхронизацията";
 "sync_success_content_description" = "Синхронизацията е успешна";

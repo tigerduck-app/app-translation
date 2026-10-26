@@ -1261,6 +1261,7 @@
 "sync_status_nav_label" = "Katayuan ng TigerSync";
 "sync_status_never_updated" = "Hindi pa na-update";
 "sync_status_ok" = "OK";
+"sync_status_score_system" = "Sistema ng grado";
 "sync_status_syncing" = "Nagsi-sync…";
 "sync_status_title" = "Katayuan ng pag-sync";
 "sync_success_content_description" = "Matagumpay na na-sync";

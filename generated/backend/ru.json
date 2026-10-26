@@ -1227,6 +1227,7 @@
   "sync_status_nav_label": "Статус TigerSync",
   "sync_status_never_updated": "Никогда не обновлялось",
   "sync_status_ok": "ОК",
+  "sync_status_score_system": "Система оценок",
   "sync_status_syncing": "Синхронизация…",
   "sync_status_title": "Состояние синхронизации",
   "sync_success_content_description": "Синхронизация выполнена",

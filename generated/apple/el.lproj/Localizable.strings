@@ -1261,6 +1261,7 @@
 "sync_status_nav_label" = "Κατάσταση TigerSync";
 "sync_status_never_updated" = "Ποτέ δεν ενημερώθηκε";
 "sync_status_ok" = "Εντάξει";
+"sync_status_score_system" = "Σύστημα βαθμών";
 "sync_status_syncing" = "Συγχρονισμός…";
 "sync_status_title" = "Κατάσταση συγχρονισμού";
 "sync_success_content_description" = "Επιτυχής συγχρονισμός";
