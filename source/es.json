@@ -1116,6 +1116,8 @@
     "settings_licenses_website": "Sitio web",
     "settings_link_opening_method": "Abrir enlaces con",
     "settings_moodle_files_section": "Materiales de Moodle",
+    "settings_moodle_open_in": "Abrir Moodle en",
+    "settings_moodle_open_in_app": "App de Moodle",
     "settings_official_website": "Sitio web oficial",
     "settings_open_source_licenses": "Licencias de código abierto",
     "settings_outline_required_courses": "Resaltar con un borde los cursos obligatorios en el horario",

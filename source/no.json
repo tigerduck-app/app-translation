@@ -1116,6 +1116,8 @@
     "settings_licenses_website": "Nettsted",
     "settings_link_opening_method": "Åpne lenker med",
     "settings_moodle_files_section": "Læremateriell i Moodle",
+    "settings_moodle_open_in": "Åpne Moodle i",
+    "settings_moodle_open_in_app": "Moodle-app",
     "settings_official_website": "Offisielt nettsted",
     "settings_open_source_licenses": "Åpen kildekode-lisenser",
     "settings_outline_required_courses": "Vis ramme rundt obligatoriske fag i timeplanen",

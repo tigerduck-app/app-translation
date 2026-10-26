@@ -1116,6 +1116,8 @@
     "settings_licenses_website": "Уебсайт",
     "settings_link_opening_method": "Отваряне на връзки с",
     "settings_moodle_files_section": "Материали от Moodle",
+    "settings_moodle_open_in": "Отвори Moodle в",
+    "settings_moodle_open_in_app": "Moodle приложение",
     "settings_official_website": "Официален уебсайт",
     "settings_open_source_licenses": "Лицензи с отворен код",
     "settings_outline_required_courses": "Очертаване на задължителните курсове в разписанието",

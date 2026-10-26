@@ -1116,6 +1116,8 @@
     "settings_licenses_website": "웹사이트",
     "settings_link_opening_method": "링크 열기 방식",
     "settings_moodle_files_section": "Moodle 강의 자료",
+    "settings_moodle_open_in": "Moodle 열기 방식",
+    "settings_moodle_open_in_app": "Moodle 앱",
     "settings_official_website": "공식 웹사이트",
     "settings_open_source_licenses": "오픈소스 라이선스",
     "settings_outline_required_courses": "시간표에서 필수 과목에 테두리 표시",
