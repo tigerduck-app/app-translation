@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Ders türü";
 "course_detail_require_option_required" = "Zorunlu";
 "course_detail_summary_label" = "Ders özeti";
+"course_detail_syllabus" = "Ders izlencesi";
+"course_detail_syllabus_grading" = "Notlandırma";
+"course_detail_syllabus_method" = "Yöntem";
+"course_detail_syllabus_notes" = "Öğrencilere notlar";
+"course_detail_syllabus_objectives" = "Hedefler";
+"course_detail_syllabus_outline" = "Genel bakış";
+"course_detail_syllabus_references" = "Ders kitapları ve kaynaklar";
+"course_detail_syllabus_website" = "Web sitesi";
 "course_detail_time_label" = "Saat";
 "course_forum_pinned" = "Sabitlenmiş";
 "course_instructor_value" = "Öğretim üyesi: %1$@";

@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "কোর্সের ধরন";
 "course_detail_require_option_required" = "আবশ্যিক";
 "course_detail_summary_label" = "কোর্সের সারসংক্ষেপ";
+"course_detail_syllabus" = "পাঠ্যক্রম";
+"course_detail_syllabus_grading" = "মূল্যায়ন";
+"course_detail_syllabus_method" = "পদ্ধতি";
+"course_detail_syllabus_notes" = "শিক্ষার্থীদের জন্য নির্দেশনা";
+"course_detail_syllabus_objectives" = "উদ্দেশ্য";
+"course_detail_syllabus_outline" = "রূপরেখা";
+"course_detail_syllabus_references" = "পাঠ্যবই ও তথ্যসূত্র";
+"course_detail_syllabus_website" = "ওয়েবসাইট";
 "course_detail_time_label" = "সময়";
 "course_forum_pinned" = "পিন করা";
 "course_instructor_value" = "শিক্ষক: %1$@";

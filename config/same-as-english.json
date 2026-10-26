@@ -591,5 +591,12 @@
       "shared.weekday_sun_short"
     ],
     "locales": ["is"]
+  },
+  {
+    "reason": "Website is the word in these languages",
+    "keys": [
+      "shared.course_detail_syllabus_website"
+    ],
+    "locales": ["de", "fil", "nl"]
   }
 ]

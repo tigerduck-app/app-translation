@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Vrsta predmeta";
 "course_detail_require_option_required" = "Obvezni";
 "course_detail_summary_label" = "Povzetek predmeta";
+"course_detail_syllabus" = "Učni načrt";
+"course_detail_syllabus_grading" = "Ocenjevanje";
+"course_detail_syllabus_method" = "Metoda";
+"course_detail_syllabus_notes" = "Opombe za študente";
+"course_detail_syllabus_objectives" = "Cilji";
+"course_detail_syllabus_outline" = "Pregled";
+"course_detail_syllabus_references" = "Učbeniki in literatura";
+"course_detail_syllabus_website" = "Spletna stran";
 "course_detail_time_label" = "Čas";
 "course_forum_pinned" = "Pripeto";
 "course_instructor_value" = "Predavatelj: %1$@";

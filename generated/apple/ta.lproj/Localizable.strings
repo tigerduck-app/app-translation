@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "பாட வகை";
 "course_detail_require_option_required" = "கட்டாயப் பாடம்";
 "course_detail_summary_label" = "பாடநெறி சுருக்கம்";
+"course_detail_syllabus" = "பாடத்திட்டம்";
+"course_detail_syllabus_grading" = "மதிப்பீடு";
+"course_detail_syllabus_method" = "முறை";
+"course_detail_syllabus_notes" = "மாணவர்களுக்கான குறிப்புகள்";
+"course_detail_syllabus_objectives" = "நோக்கங்கள்";
+"course_detail_syllabus_outline" = "வரைவு";
+"course_detail_syllabus_references" = "பாடநூல்கள் மற்றும் குறிப்புகள்";
+"course_detail_syllabus_website" = "இணையதளம்";
 "course_detail_time_label" = "நேரம்";
 "course_forum_pinned" = "பின் செய்யப்பட்டது";
 "course_instructor_value" = "விரிவுரையாளர்: %1$@";

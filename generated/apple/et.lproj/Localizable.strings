@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Kursuse tüüp";
 "course_detail_require_option_required" = "Kohustuslik";
 "course_detail_summary_label" = "Kursuse kokkuvõte";
+"course_detail_syllabus" = "Õppekava kirjeldus";
+"course_detail_syllabus_grading" = "Hindamine";
+"course_detail_syllabus_method" = "Meetod";
+"course_detail_syllabus_notes" = "Märkused üliõpilastele";
+"course_detail_syllabus_objectives" = "Eesmärgid";
+"course_detail_syllabus_outline" = "Ülevaade";
+"course_detail_syllabus_references" = "Õpikud ja kirjandus";
+"course_detail_syllabus_website" = "Veebisait";
 "course_detail_time_label" = "Aeg";
 "course_forum_pinned" = "Kinnitatud";
 "course_instructor_value" = "Õpetaja: %1$@";

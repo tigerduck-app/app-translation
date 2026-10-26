@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Kurso tipas";
 "course_detail_require_option_required" = "Privalomas";
 "course_detail_summary_label" = "Kurso santrauka";
+"course_detail_syllabus" = "Dalyko programa";
+"course_detail_syllabus_grading" = "Vertinimas";
+"course_detail_syllabus_method" = "Metodas";
+"course_detail_syllabus_notes" = "Pastabos studentams";
+"course_detail_syllabus_objectives" = "Tikslai";
+"course_detail_syllabus_outline" = "Apžvalga";
+"course_detail_syllabus_references" = "Vadovėliai ir literatūra";
+"course_detail_syllabus_website" = "Svetainė";
 "course_detail_time_label" = "Laikas";
 "course_forum_pinned" = "Prisegta";
 "course_instructor_value" = "Dėstytojas: %1$@";

@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Typ kurzu";
 "course_detail_require_option_required" = "Povinný";
 "course_detail_summary_label" = "Súhrn kurzu";
+"course_detail_syllabus" = "Informačný list predmetu";
+"course_detail_syllabus_grading" = "Hodnotenie";
+"course_detail_syllabus_method" = "Metóda";
+"course_detail_syllabus_notes" = "Poznámky pre študentov";
+"course_detail_syllabus_objectives" = "Ciele";
+"course_detail_syllabus_outline" = "Anotácia";
+"course_detail_syllabus_references" = "Učebnice a literatúra";
+"course_detail_syllabus_website" = "Webové stránky";
 "course_detail_time_label" = "Čas";
 "course_forum_pinned" = "Pripnuté";
 "course_instructor_value" = "Vyučujúci: %1$@";

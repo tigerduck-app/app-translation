@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "類型";
 "course_detail_require_option_required" = "必修";
 "course_detail_summary_label" = "課程簡介";
+"course_detail_syllabus" = "課程大綱";
+"course_detail_syllabus_grading" = "評分方式";
+"course_detail_syllabus_method" = "課程大綱";
+"course_detail_syllabus_notes" = "修課須知";
+"course_detail_syllabus_objectives" = "核心能力";
+"course_detail_syllabus_outline" = "課程宗旨";
+"course_detail_syllabus_references" = "參考書";
+"course_detail_syllabus_website" = "相關網址";
 "course_detail_time_label" = "時間";
 "course_forum_pinned" = "置頂";
 "course_instructor_value" = "講師：%1$@";

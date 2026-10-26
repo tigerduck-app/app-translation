@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Tipo de curso";
 "course_detail_require_option_required" = "Obligatorio";
 "course_detail_summary_label" = "Resumen del curso";
+"course_detail_syllabus" = "Programa";
+"course_detail_syllabus_grading" = "Evaluación";
+"course_detail_syllabus_method" = "Método";
+"course_detail_syllabus_notes" = "Notas para los estudiantes";
+"course_detail_syllabus_objectives" = "Objetivos";
+"course_detail_syllabus_outline" = "Descripción general";
+"course_detail_syllabus_references" = "Libros de texto y referencias";
+"course_detail_syllabus_website" = "Sitio web";
 "course_detail_time_label" = "Tiempo";
 "course_forum_pinned" = "Fijado";
 "course_instructor_value" = "Profesor: %1$@";

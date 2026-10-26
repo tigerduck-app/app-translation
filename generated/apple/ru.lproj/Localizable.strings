@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Тип курса";
 "course_detail_require_option_required" = "Обязательный";
 "course_detail_summary_label" = "Описание курса";
+"course_detail_syllabus" = "Программа курса";
+"course_detail_syllabus_grading" = "Оценивание";
+"course_detail_syllabus_method" = "Метод";
+"course_detail_syllabus_notes" = "Примечания для студентов";
+"course_detail_syllabus_objectives" = "Цели";
+"course_detail_syllabus_outline" = "Описание";
+"course_detail_syllabus_references" = "Учебники и литература";
+"course_detail_syllabus_website" = "Веб-сайт";
 "course_detail_time_label" = "Время";
 "course_forum_pinned" = "Закреплено";
 "course_instructor_value" = "Преподаватель: %1$@";

@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "ਕੋਰਸ ਕਿਸਮ";
 "course_detail_require_option_required" = "ਲਾਜ਼ਮੀ";
 "course_detail_summary_label" = "ਕੋਰਸ ਸਾਰ";
+"course_detail_syllabus" = "ਸਿਲੇਬਸ";
+"course_detail_syllabus_grading" = "ਮੁਲਾਂਕਣ";
+"course_detail_syllabus_method" = "ਵਿਧੀ";
+"course_detail_syllabus_notes" = "ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਨੋਟ";
+"course_detail_syllabus_objectives" = "ਉਦੇਸ਼";
+"course_detail_syllabus_outline" = "ਰੂਪ-ਰੇਖਾ";
+"course_detail_syllabus_references" = "ਪਾਠ-ਪੁਸਤਕਾਂ ਅਤੇ ਹਵਾਲੇ";
+"course_detail_syllabus_website" = "ਵੈੱਬਸਾਈਟ";
 "course_detail_time_label" = "ਸਮਾਂ";
 "course_forum_pinned" = "ਪਿਨ ਕੀਤਾ";
 "course_instructor_value" = "ਅਧਿਆਪਕ: %1$@";

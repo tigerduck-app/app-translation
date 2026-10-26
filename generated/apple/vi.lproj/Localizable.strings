@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "Loại môn học";
 "course_detail_require_option_required" = "Bắt buộc";
 "course_detail_summary_label" = "Tóm tắt môn học";
+"course_detail_syllabus" = "Đề cương môn học";
+"course_detail_syllabus_grading" = "Đánh giá";
+"course_detail_syllabus_method" = "Phương pháp";
+"course_detail_syllabus_notes" = "Lưu ý cho sinh viên";
+"course_detail_syllabus_objectives" = "Mục tiêu";
+"course_detail_syllabus_outline" = "Tổng quan";
+"course_detail_syllabus_references" = "Giáo trình và tài liệu tham khảo";
+"course_detail_syllabus_website" = "Trang web";
 "course_detail_time_label" = "Thời gian";
 "course_forum_pinned" = "Đã ghim";
 "course_instructor_value" = "Giảng viên: %1$@";

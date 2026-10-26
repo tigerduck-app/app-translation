@@ -413,6 +413,14 @@
 "course_detail_require_option_label" = "类型";
 "course_detail_require_option_required" = "必修";
 "course_detail_summary_label" = "课程简介";
+"course_detail_syllabus" = "课程大纲";
+"course_detail_syllabus_grading" = "评分方式";
+"course_detail_syllabus_method" = "课程大纲";
+"course_detail_syllabus_notes" = "修课须知";
+"course_detail_syllabus_objectives" = "核心能力";
+"course_detail_syllabus_outline" = "课程宗旨";
+"course_detail_syllabus_references" = "参考书";
+"course_detail_syllabus_website" = "相关网址";
 "course_detail_time_label" = "时间";
 "course_forum_pinned" = "置顶";
 "course_instructor_value" = "讲师：%1$@";
