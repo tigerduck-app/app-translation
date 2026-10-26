@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Teme neterminate";
 "course_detail_instructor_label" = "Profesor";
 "course_detail_members_label" = "Membri";
-"course_detail_moodle_grades_label" = "Note Moodle";
+"course_detail_moodle_grades_label" = "Note";
 "course_detail_no_roster" = "Nu există date de înscriere pentru acest curs";
 "course_detail_require_option_elective" = "Opțional";
 "course_detail_require_option_label" = "Tip curs";

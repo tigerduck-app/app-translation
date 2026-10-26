@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Mga hindi kumpleto na takdang-aralin";
 "course_detail_instructor_label" = "Tagapagturo";
 "course_detail_members_label" = "Mga miyembro";
-"course_detail_moodle_grades_label" = "Mga marka sa Moodle";
+"course_detail_moodle_grades_label" = "Mga marka";
 "course_detail_no_roster" = "Walang available na data sa pagpapatala para sa kursong ito";
 "course_detail_require_option_elective" = "Elektibo";
 "course_detail_require_option_label" = "Uri ng kurso";

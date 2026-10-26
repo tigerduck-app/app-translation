@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Ufuldstændige opgaver";
 "course_detail_instructor_label" = "Instruktør";
 "course_detail_members_label" = "Medlemmer";
-"course_detail_moodle_grades_label" = "Moodle-karakterer";
+"course_detail_moodle_grades_label" = "Karakterer";
 "course_detail_no_roster" = "Der er ingen tilgængelige tilmeldingsdata for dette kursus";
 "course_detail_require_option_elective" = "Valgfrit";
 "course_detail_require_option_label" = "Kursustype";

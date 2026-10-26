@@ -407,7 +407,7 @@
 "course_detail_incomplete_assignments" = "Nedokončane naloge";
 "course_detail_instructor_label" = "Predavatelj";
 "course_detail_members_label" = "Člani";
-"course_detail_moodle_grades_label" = "Ocene v Moodlu";
+"course_detail_moodle_grades_label" = "Ocene";
 "course_detail_no_roster" = "Za ta predmet ni podatkov o vpisu";
 "course_detail_require_option_elective" = "Izbirni";
 "course_detail_require_option_label" = "Vrsta predmeta";
