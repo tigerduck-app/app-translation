@@ -414,11 +414,17 @@
 "course_detail_require_option_required" = "अनिवार्य";
 "course_detail_summary_label" = "अभ्यासक्रम सारांश";
 "course_detail_syllabus" = "अभ्यासक्रम";
+"course_detail_syllabus_case_study" = "केस स्टडी";
+"course_detail_syllabus_content" = "आशय";
 "course_detail_syllabus_grading" = "मूल्यमापन";
+"course_detail_syllabus_group_discussion" = "गट चर्चा";
+"course_detail_syllabus_lecture" = "व्याख्यान";
 "course_detail_syllabus_method" = "पद्धत";
 "course_detail_syllabus_notes" = "सूचना";
 "course_detail_syllabus_objectives" = "उद्दिष्टे";
+"course_detail_syllabus_other" = "इतर";
 "course_detail_syllabus_outline" = "रूपरेषा";
+"course_detail_syllabus_practical" = "प्रात्यक्षिक सराव";
 "course_detail_syllabus_references" = "पाठ्यपुस्तके आणि संदर्भ";
 "course_detail_syllabus_website" = "संकेतस्थळ";
 "course_detail_time_label" = "वेळ";

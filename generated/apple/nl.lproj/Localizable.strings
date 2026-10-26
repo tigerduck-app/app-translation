@@ -414,11 +414,17 @@
 "course_detail_require_option_required" = "Verplicht vak";
 "course_detail_summary_label" = "Cursussamenvatting";
 "course_detail_syllabus" = "Studiegids";
+"course_detail_syllabus_case_study" = "Casestudy";
+"course_detail_syllabus_content" = "Inhoud";
 "course_detail_syllabus_grading" = "Beoordeling";
+"course_detail_syllabus_group_discussion" = "Groepsdiscussie";
+"course_detail_syllabus_lecture" = "Hoorcollege";
 "course_detail_syllabus_method" = "Werkvorm";
 "course_detail_syllabus_notes" = "Opmerkingen";
 "course_detail_syllabus_objectives" = "Doelstellingen";
+"course_detail_syllabus_other" = "Overig";
 "course_detail_syllabus_outline" = "Overzicht";
+"course_detail_syllabus_practical" = "Praktijkoefeningen";
 "course_detail_syllabus_references" = "Studieboeken en literatuur";
 "course_detail_syllabus_website" = "Website";
 "course_detail_time_label" = "Tijd";

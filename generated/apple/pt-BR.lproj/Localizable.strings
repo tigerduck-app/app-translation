@@ -414,11 +414,17 @@
 "course_detail_require_option_required" = "Obrigatória";
 "course_detail_summary_label" = "Resumo do curso";
 "course_detail_syllabus" = "Ementa";
+"course_detail_syllabus_case_study" = "Estudo de caso";
+"course_detail_syllabus_content" = "Conteúdo";
 "course_detail_syllabus_grading" = "Avaliação";
+"course_detail_syllabus_group_discussion" = "Discussão em grupo";
+"course_detail_syllabus_lecture" = "Aula expositiva";
 "course_detail_syllabus_method" = "Método";
 "course_detail_syllabus_notes" = "Observações";
 "course_detail_syllabus_objectives" = "Objetivos";
+"course_detail_syllabus_other" = "Outros";
 "course_detail_syllabus_outline" = "Visão geral";
+"course_detail_syllabus_practical" = "Exercícios práticos";
 "course_detail_syllabus_references" = "Livros didáticos e referências";
 "course_detail_syllabus_website" = "Site";
 "course_detail_time_label" = "Horário";
