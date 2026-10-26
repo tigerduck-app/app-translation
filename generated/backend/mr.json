@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "वेबसाइट डेटा",
   "settings_storage_browser_data_delete_message": "TigerDuck ब्राउझरमध्ये भेट दिलेल्या साइट तुम्हाला पुन्हा साइन इन करायला सांगू शकतात.",
   "settings_storage_browser_data_delete_title": "वेबसाइट डेटा हटवायचा?",
+  "settings_storage_cache": "कॅशे",
   "settings_storage_delete_kind": "%@ हटवा",
   "settings_storage_title": "स्टोरेज",
   "settings_storage_total": "एकूण",

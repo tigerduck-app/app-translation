@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Websitedaten",
     "settings_storage_browser_data_delete_message": "Websites, die Sie im TigerDuck-Browser besucht haben, fordern Sie möglicherweise erneut zur Anmeldung auf.",
     "settings_storage_browser_data_delete_title": "Websitedaten löschen?",
+    "settings_storage_cache": "Cache",
     "settings_storage_delete_kind": "%@ löschen",
     "settings_storage_title": "Speicher",
     "settings_storage_total": "Gesamt",

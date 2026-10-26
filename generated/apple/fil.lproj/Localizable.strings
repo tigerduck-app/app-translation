@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Data ng website";
 "settings_storage_browser_data_delete_message" = "Maaaring hilingin ng mga site na binisita mo sa TigerDuck browser na mag-sign in ka ulit.";
 "settings_storage_browser_data_delete_title" = "Burahin ang data ng website?";
+"settings_storage_cache" = "Cache";
 "settings_storage_delete_kind" = "Burahin ang %@";
 "settings_storage_title" = "Storage";
 "settings_storage_total" = "Kabuuan";

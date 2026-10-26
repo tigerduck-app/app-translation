@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Dữ liệu trang web";
 "settings_storage_browser_data_delete_message" = "Các trang web bạn đã truy cập trong trình duyệt TigerDuck có thể yêu cầu bạn đăng nhập lại.";
 "settings_storage_browser_data_delete_title" = "Xóa dữ liệu trang web?";
+"settings_storage_cache" = "Bộ nhớ đệm";
 "settings_storage_delete_kind" = "Xóa %@";
 "settings_storage_title" = "Bộ nhớ";
 "settings_storage_total" = "Tổng cộng";

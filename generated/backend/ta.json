@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "இணையதளத் தரவு",
   "settings_storage_browser_data_delete_message": "TigerDuck உலாவியில் நீங்கள் பார்வையிட்ட தளங்கள் மீண்டும் உள்நுழையக் கேட்கலாம்.",
   "settings_storage_browser_data_delete_title": "இணையதளத் தரவை நீக்கவா?",
+  "settings_storage_cache": "தற்காலிக சேமிப்பு",
   "settings_storage_delete_kind": "%@ நீக்கு",
   "settings_storage_title": "சேமிப்பகம்",
   "settings_storage_total": "மொத்தம்",

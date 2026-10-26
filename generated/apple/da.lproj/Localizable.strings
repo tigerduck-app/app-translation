@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Webstedsdata";
 "settings_storage_browser_data_delete_message" = "Websteder, du har besøgt i TigerDuck-browseren, kan bede dig om at logge ind igen.";
 "settings_storage_browser_data_delete_title" = "Vil du slette webstedsdata?";
+"settings_storage_cache" = "Cache";
 "settings_storage_delete_kind" = "Slet %@";
 "settings_storage_title" = "Lagerplads";
 "settings_storage_total" = "I alt";

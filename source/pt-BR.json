@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Dados de sites",
     "settings_storage_browser_data_delete_message": "Os sites que você visitou no navegador do TigerDuck podem pedir que você entre de novo.",
     "settings_storage_browser_data_delete_title": "Excluir os dados de sites?",
+    "settings_storage_cache": "Cache",
     "settings_storage_delete_kind": "Excluir: %@",
     "settings_storage_title": "Armazenamento",
     "settings_storage_total": "Total",

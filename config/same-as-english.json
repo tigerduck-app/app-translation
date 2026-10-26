@@ -605,5 +605,12 @@
       "shared.course_detail_syllabus_notes"
     ],
     "locales": ["ca"]
+  },
+  {
+    "reason": "Cache is the word phone settings use for an app's cache in these languages",
+    "keys": [
+      "shared.settings_storage_cache"
+    ],
+    "locales": ["da", "de", "fil", "fr", "id", "it", "ms", "nl", "pt-BR", "pt-PT", "ro", "sv"]
   }
 ]

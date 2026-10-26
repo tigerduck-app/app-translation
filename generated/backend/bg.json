@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Данни от уебсайтове",
   "settings_storage_browser_data_delete_message": "Сайтовете, които сте отваряли в браузъра на TigerDuck, може да поискат да влезете отново.",
   "settings_storage_browser_data_delete_title": "Изтриване на данните от уебсайтове?",
+  "settings_storage_cache": "Кеш",
   "settings_storage_delete_kind": "Изтриване: %@",
   "settings_storage_title": "Хранилище",
   "settings_storage_total": "Общо",

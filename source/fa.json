@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "داده‌های وب‌سایت",
     "settings_storage_browser_data_delete_message": "سایت‌هایی که در مرورگر TigerDuck بازدید کرده‌اید ممکن است دوباره از شما بخواهند وارد شوید.",
     "settings_storage_browser_data_delete_title": "داده‌های وب‌سایت حذف شود؟",
+    "settings_storage_cache": "حافظه پنهان",
     "settings_storage_delete_kind": "حذف %@",
     "settings_storage_title": "فضای ذخیره‌سازی",
     "settings_storage_total": "مجموع",

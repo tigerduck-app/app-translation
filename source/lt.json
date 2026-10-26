@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Svetainių duomenys",
     "settings_storage_browser_data_delete_message": "TigerDuck naršyklėje lankytos svetainės gali paprašyti prisijungti iš naujo.",
     "settings_storage_browser_data_delete_title": "Ištrinti svetainių duomenis?",
+    "settings_storage_cache": "Talpykla",
     "settings_storage_delete_kind": "Ištrinti: %@",
     "settings_storage_title": "Saugykla",
     "settings_storage_total": "Iš viso",

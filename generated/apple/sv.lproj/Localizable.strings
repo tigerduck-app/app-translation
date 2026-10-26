@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Webbplatsdata";
 "settings_storage_browser_data_delete_message" = "Webbplatser du besökt i TigerDucks webbläsare kan be dig logga in igen.";
 "settings_storage_browser_data_delete_title" = "Vill du ta bort webbplatsdata?";
+"settings_storage_cache" = "Cache";
 "settings_storage_delete_kind" = "Ta bort %@";
 "settings_storage_title" = "Lagring";
 "settings_storage_total" = "Totalt";

@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Webhelyadatok";
 "settings_storage_browser_data_delete_message" = "A TigerDuck böngészőjében meglátogatott webhelyek újra bejelentkezést kérhetnek.";
 "settings_storage_browser_data_delete_title" = "Törli a webhelyadatokat?";
+"settings_storage_cache" = "Gyorsítótár";
 "settings_storage_delete_kind" = "Törlés: %@";
 "settings_storage_title" = "Tárhely";
 "settings_storage_total" = "Összesen";

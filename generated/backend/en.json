@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Website data",
   "settings_storage_browser_data_delete_message": "Sites you visited in the TigerDuck browser may ask you to sign in again.",
   "settings_storage_browser_data_delete_title": "Delete website data?",
+  "settings_storage_cache": "Cache",
   "settings_storage_delete_kind": "Delete %@",
   "settings_storage_title": "Storage",
   "settings_storage_total": "Total",

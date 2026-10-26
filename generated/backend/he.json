@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "נתוני אתרים",
   "settings_storage_browser_data_delete_message": "אתרים שביקרת בהם בדפדפן של TigerDuck עשויים לבקש ממך להתחבר שוב.",
   "settings_storage_browser_data_delete_title": "למחוק את נתוני האתרים?",
+  "settings_storage_cache": "מטמון",
   "settings_storage_delete_kind": "מחיקת %@",
   "settings_storage_title": "אחסון",
   "settings_storage_total": "סה״כ",

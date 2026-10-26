@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Nettstedsdata",
   "settings_storage_browser_data_delete_message": "Nettsteder du har besøkt i TigerDuck-nettleseren, kan be deg logge på igjen.",
   "settings_storage_browser_data_delete_title": "Vil du slette nettstedsdata?",
+  "settings_storage_cache": "Hurtigminne",
   "settings_storage_delete_kind": "Slett %@",
   "settings_storage_title": "Lagring",
   "settings_storage_total": "Totalt",

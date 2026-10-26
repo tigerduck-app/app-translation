@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "ข้อมูลเว็บไซต์";
 "settings_storage_browser_data_delete_message" = "เว็บไซต์ที่คุณเข้าชมในเบราว์เซอร์ของ TigerDuck อาจขอให้คุณลงชื่อเข้าใช้อีกครั้ง";
 "settings_storage_browser_data_delete_title" = "ลบข้อมูลเว็บไซต์ใช่ไหม";
+"settings_storage_cache" = "แคช";
 "settings_storage_delete_kind" = "ลบ%@";
 "settings_storage_title" = "พื้นที่เก็บข้อมูล";
 "settings_storage_total" = "ทั้งหมด";
