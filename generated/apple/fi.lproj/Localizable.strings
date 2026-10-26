@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Verkkosivusto";
 "settings_link_opening_method" = "Avaa linkit";
 "settings_moodle_files_section" = "Moodle-materiaalit";
+"settings_moodle_open_in" = "Avaa Moodle";
+"settings_moodle_open_in_app" = "Moodle-sovellus";
 "settings_notifications_disabled_warning" = "Ilmoitukset ovat pois päältä. Napauta avataksesi Järjestelmäasetukset.";
 "settings_notifications_need_course_sync" = "Ota käyttöön TigerSync-asetus \"Synkronoi kurssitiedot\" saadaksesi ilmoituksia.";
 "settings_official_website" = "Virallinen verkkosivusto";

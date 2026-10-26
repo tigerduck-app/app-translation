@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Nettsted";
 "settings_link_opening_method" = "Åpne lenker med";
 "settings_moodle_files_section" = "Læremateriell i Moodle";
+"settings_moodle_open_in" = "Åpne Moodle i";
+"settings_moodle_open_in_app" = "Moodle-app";
 "settings_notifications_disabled_warning" = "Varsler er av. Trykk for å åpne Systeminnstillinger.";
 "settings_notifications_need_course_sync" = "Aktiver TigerSyncs funksjon «Synkroniser emneinformasjon» for å motta varsler.";
 "settings_official_website" = "Offisielt nettsted";

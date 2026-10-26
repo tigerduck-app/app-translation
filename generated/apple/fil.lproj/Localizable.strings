@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Website";
 "settings_link_opening_method" = "Buksan ang mga link gamit ang";
 "settings_moodle_files_section" = "Mga materyales sa Moodle";
+"settings_moodle_open_in" = "Buksan ang Moodle sa";
+"settings_moodle_open_in_app" = "Moodle app";
 "settings_notifications_disabled_warning" = "Naka-off ang mga notification. I-tap para buksan ang System Settings.";
 "settings_notifications_need_course_sync" = "I-on ang \"I-sync ang impormasyon ng kurso\" ng TigerSync para makatanggap ng mga notification.";
 "settings_official_website" = "Opisyal na website";

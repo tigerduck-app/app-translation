@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "ਵੈੱਬਸਾਈਟ";
 "settings_link_opening_method" = "ਲਿੰਕ ਖੋਲ੍ਹੋ";
 "settings_moodle_files_section" = "Moodle ਅਧਿਐਨ ਸਮੱਗਰੀ";
+"settings_moodle_open_in" = "Moodle ਖੋਲ੍ਹੋ";
+"settings_moodle_open_in_app" = "Moodle ਐਪ";
 "settings_notifications_disabled_warning" = "ਸੂਚਨਾਵਾਂ ਬੰਦ ਹਨ। ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹਣ ਲਈ ਟੈਪ ਕਰੋ।";
 "settings_notifications_need_course_sync" = "ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ TigerSync ਦੀ \"ਕੋਰਸ ਦੀ ਜਾਣਕਾਰੀ ਸਿੰਕ ਕਰੋ\" ਸੁਵਿਧਾ ਚਾਲੂ ਕਰੋ।";
 "settings_official_website" = "ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ";

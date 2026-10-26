@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "وب‌سایت";
 "settings_link_opening_method" = "باز کردن لینک‌ها با";
 "settings_moodle_files_section" = "مطالب درسی Moodle";
+"settings_moodle_open_in" = "باز کردن Moodle در";
+"settings_moodle_open_in_app" = "برنامه Moodle";
 "settings_notifications_disabled_warning" = "اعلان‌ها خاموش هستند. برای باز کردن تنظیمات سیستم ضربه بزنید.";
 "settings_notifications_need_course_sync" = "برای دریافت اعلان‌ها، «همگام‌سازی اطلاعات دروس» را در TigerSync روشن کنید.";
 "settings_official_website" = "وب‌سایت رسمی";

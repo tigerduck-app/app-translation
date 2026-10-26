@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Web";
 "settings_link_opening_method" = "Otevírat odkazy v";
 "settings_moodle_files_section" = "Materiály v Moodle";
+"settings_moodle_open_in" = "Otevřít Moodle v";
+"settings_moodle_open_in_app" = "Aplikace Moodle";
 "settings_notifications_disabled_warning" = "Oznámení jsou vypnutá. Klepněte pro otevření Nastavení systému.";
 "settings_notifications_need_course_sync" = "Zapněte v TigerSync možnost „Synchronizovat informace o předmětech“, abyste dostávali oznámení.";
 "settings_official_website" = "Oficiální web";

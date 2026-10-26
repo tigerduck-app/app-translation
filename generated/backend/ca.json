@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Lloc web",
   "settings_link_opening_method": "Obriu els enllaços amb",
   "settings_moodle_files_section": "Materials de Moodle",
+  "settings_moodle_open_in": "Obre Moodle a",
+  "settings_moodle_open_in_app": "App Moodle",
   "settings_official_website": "Lloc web oficial",
   "settings_open_source_licenses": "Llicències de codi obert",
   "settings_outline_required_courses": "Marca amb un contorn els cursos obligatoris a l'horari",

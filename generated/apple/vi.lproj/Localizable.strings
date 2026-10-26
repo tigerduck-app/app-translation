@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Trang web";
 "settings_link_opening_method" = "Mở liên kết bằng";
 "settings_moodle_files_section" = "Tài liệu Moodle";
+"settings_moodle_open_in" = "Mở Moodle trong";
+"settings_moodle_open_in_app" = "Ứng dụng Moodle";
 "settings_notifications_disabled_warning" = "Thông báo đang tắt. Chạm để mở Cài đặt.";
 "settings_notifications_need_course_sync" = "Bật \"Đồng bộ thông tin môn học\" của TigerSync để nhận thông báo.";
 "settings_official_website" = "Trang web chính thức";

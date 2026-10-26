@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Веб-сайт";
 "settings_link_opening_method" = "Сілтемелерді ашу";
 "settings_moodle_files_section" = "Moodle оқу материалдары";
+"settings_moodle_open_in" = "Moodle-ды ашу";
+"settings_moodle_open_in_app" = "Moodle қолданбасы";
 "settings_notifications_disabled_warning" = "Хабарландырулар өшірулі. Жүйе параметрлерін ашу үшін түртіңіз.";
 "settings_notifications_need_course_sync" = "Хабарландыруларды алу үшін TigerSync ішіндегі «Курс ақпаратын синхрондау» опциясын қосыңыз.";
 "settings_official_website" = "Ресми веб-сайт";

@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Svetainė";
 "settings_link_opening_method" = "Atidaryti nuorodas su";
 "settings_moodle_files_section" = "Moodle medžiaga";
+"settings_moodle_open_in" = "Atidaryti Moodle";
+"settings_moodle_open_in_app" = "Moodle programa";
 "settings_notifications_disabled_warning" = "Pranešimai išjungti. Bakstelėkite, kad atidarytumėte sistemos nustatymus.";
 "settings_notifications_need_course_sync" = "Įjunkite TigerSync funkciją \"Sinchronizuoti kursų informaciją\", kad gautumėte pranešimus.";
 "settings_official_website" = "Oficiali svetainė";

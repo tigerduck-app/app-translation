@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "இணையதளம்";
 "settings_link_opening_method" = "இணைப்புகளை திறக்க";
 "settings_moodle_files_section" = "Moodle பாடப் பொருட்கள்";
+"settings_moodle_open_in" = "Moodle-ஐத் திறக்க";
+"settings_moodle_open_in_app" = "Moodle செயலி";
 "settings_notifications_disabled_warning" = "அறிவிப்புகள் முடக்கப்பட்டுள்ளன. கணினி அமைப்புகளைத் திறக்க தட்டவும்.";
 "settings_notifications_need_course_sync" = "அறிவிப்புகளைப் பெற TigerSync \"பாடநெறி தகவலை ஒத்திசை\" அமைப்பை இயக்கவும்.";
 "settings_official_website" = "அதிகாரப்பூர்வ இணையதளம்";

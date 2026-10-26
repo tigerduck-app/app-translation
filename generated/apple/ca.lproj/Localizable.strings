@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Lloc web";
 "settings_link_opening_method" = "Obriu els enllaços amb";
 "settings_moodle_files_section" = "Materials de Moodle";
+"settings_moodle_open_in" = "Obre Moodle a";
+"settings_moodle_open_in_app" = "App Moodle";
 "settings_notifications_disabled_warning" = "Les notificacions estan desactivades. Toca per obrir Configuració del sistema.";
 "settings_notifications_need_course_sync" = "Activeu «Sincronitza la informació del curs» de TigerSync per rebre notificacions.";
 "settings_official_website" = "Lloc web oficial";

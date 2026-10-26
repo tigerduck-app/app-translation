@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "വെബ്സൈറ്റ്";
 "settings_link_opening_method" = "ലിങ്കുകൾ തുറക്കേണ്ടത്";
 "settings_moodle_files_section" = "Moodle പഠന സാമഗ്രികൾ";
+"settings_moodle_open_in" = "Moodle തുറക്കേണ്ടത്";
+"settings_moodle_open_in_app" = "Moodle ആപ്പ്";
 "settings_notifications_disabled_warning" = "അറിയിപ്പുകൾ ഓഫ് ആണ്. സിസ്റ്റം സെറ്റിംഗ്സ് തുറക്കാൻ ടാപ്പ് ചെയ്യുക.";
 "settings_notifications_need_course_sync" = "അറിയിപ്പുകൾ ലഭിക്കാൻ TigerSync \"കോഴ്‌സ് വിവരങ്ങൾ സമന്വയിപ്പിക്കുക\" ഓപ്ഷൻ ഓണാക്കുക.";
 "settings_official_website" = "ഔദ്യോഗിക വെബ്സൈറ്റ്";

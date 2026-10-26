@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "אתר",
   "settings_link_opening_method": "פתח קישורים עם",
   "settings_moodle_files_section": "חומרי לימוד ב-Moodle",
+  "settings_moodle_open_in": "פתח את Moodle ב-",
+  "settings_moodle_open_in_app": "אפליקציית Moodle",
   "settings_official_website": "אתר רשמי",
   "settings_open_source_licenses": "רישיונות קוד פתוח",
   "settings_outline_required_courses": "הצגת מסגרת סביב קורסי חובה במערכת השעות",

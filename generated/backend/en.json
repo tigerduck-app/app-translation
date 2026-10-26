@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Website",
   "settings_link_opening_method": "Open links with",
   "settings_moodle_files_section": "Moodle materials",
+  "settings_moodle_open_in": "Open Moodle in",
+  "settings_moodle_open_in_app": "Moodle app",
   "settings_official_website": "Official website",
   "settings_open_source_licenses": "Open-source licenses",
   "settings_outline_required_courses": "Outline required courses on the class table",

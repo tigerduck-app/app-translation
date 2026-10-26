@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Site",
   "settings_link_opening_method": "Abrir links com",
   "settings_moodle_files_section": "Materiais do Moodle",
+  "settings_moodle_open_in": "Abrir o Moodle em",
+  "settings_moodle_open_in_app": "App do Moodle",
   "settings_official_website": "Site oficial",
   "settings_open_source_licenses": "Licenças de código aberto",
   "settings_outline_required_courses": "Destacar com contorno as disciplinas obrigatórias na grade de horários",

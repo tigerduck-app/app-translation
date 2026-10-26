@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Ιστότοπος";
 "settings_link_opening_method" = "Άνοιγμα συνδέσμων με";
 "settings_moodle_files_section" = "Υλικό Moodle";
+"settings_moodle_open_in" = "Άνοιγμα Moodle σε";
+"settings_moodle_open_in_app" = "Εφαρμογή Moodle";
 "settings_notifications_disabled_warning" = "Οι ειδοποιήσεις είναι απενεργοποιημένες. Πατήστε για να ανοίξετε τις Ρυθμίσεις συστήματος.";
 "settings_notifications_need_course_sync" = "Ενεργοποιήστε τη ρύθμιση «Συγχρονισμός πληροφοριών μαθήματος» του TigerSync για να λαμβάνετε ειδοποιήσεις.";
 "settings_official_website" = "Επίσημος ιστότοπος";

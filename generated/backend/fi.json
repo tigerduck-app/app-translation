@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Verkkosivusto",
   "settings_link_opening_method": "Avaa linkit",
   "settings_moodle_files_section": "Moodle-materiaalit",
+  "settings_moodle_open_in": "Avaa Moodle",
+  "settings_moodle_open_in_app": "Moodle-sovellus",
   "settings_official_website": "Virallinen verkkosivusto",
   "settings_open_source_licenses": "Avoimen lähdekoodin lisenssit",
   "settings_outline_required_courses": "Kehystä pakolliset kurssit lukujärjestyksessä",
