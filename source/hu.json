@@ -1116,6 +1116,8 @@
     "settings_licenses_website": "Weboldal",
     "settings_link_opening_method": "Hivatkozások megnyitása ezzel:",
     "settings_moodle_files_section": "Moodle-tananyagok",
+    "settings_moodle_open_in": "Moodle megnyitása itt:",
+    "settings_moodle_open_in_app": "Moodle alkalmazás",
     "settings_official_website": "Hivatalos weboldal",
     "settings_open_source_licenses": "Nyílt forráskódú licencek",
     "settings_outline_required_courses": "Kötelező kurzusok bekeretezése az órarendben",

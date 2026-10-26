@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Vefsíða";
 "settings_link_opening_method" = "Opna tengla með";
 "settings_moodle_files_section" = "Námsefni í Moodle";
+"settings_moodle_open_in" = "Opna Moodle í";
+"settings_moodle_open_in_app" = "Moodle-forrit";
 "settings_notifications_disabled_warning" = "Tilkynningar eru slökktar. Ýttu til að opna Kerfisstillingar.";
 "settings_notifications_need_course_sync" = "Kveiktu á \"Samstilla námskeiðaupplýsingar\" í TigerSync til að fá tilkynningar.";
 "settings_official_website" = "Opinber vefsíða";

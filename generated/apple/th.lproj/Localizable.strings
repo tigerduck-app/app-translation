@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "เว็บไซต์";
 "settings_link_opening_method" = "เปิดลิงก์ด้วย";
 "settings_moodle_files_section" = "เอกสารประกอบการเรียนใน Moodle";
+"settings_moodle_open_in" = "เปิด Moodle ใน";
+"settings_moodle_open_in_app" = "แอป Moodle";
 "settings_notifications_disabled_warning" = "การแจ้งเตือนปิดอยู่ แตะเพื่อเปิดการตั้งค่าระบบ";
 "settings_notifications_need_course_sync" = "เปิดใช้งาน \"ซิงค์ข้อมูลรายวิชา\" ของ TigerSync เพื่อรับการแจ้งเตือน";
 "settings_official_website" = "เว็บไซต์ทางการ";

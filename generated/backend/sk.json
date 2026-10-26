@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Webová stránka",
   "settings_link_opening_method": "Otvárať odkazy pomocou",
   "settings_moodle_files_section": "Materiály v Moodle",
+  "settings_moodle_open_in": "Otvárať Moodle v",
+  "settings_moodle_open_in_app": "Aplikácia Moodle",
   "settings_official_website": "Oficiálna stránka",
   "settings_open_source_licenses": "Licencie open-source",
   "settings_outline_required_courses": "Ohraničovať povinné kurzy v rozvrhu",

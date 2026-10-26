@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Hjemmeside";
 "settings_link_opening_method" = "Åbn links med";
 "settings_moodle_files_section" = "Moodle-materialer";
+"settings_moodle_open_in" = "Åbn Moodle i";
+"settings_moodle_open_in_app" = "Moodle-appen";
 "settings_notifications_disabled_warning" = "Notifikationer er slået fra. Tryk for at åbne Systemindstillinger.";
 "settings_notifications_need_course_sync" = "Aktivér TigerSyncs funktion \"Synkroniser kursusoplysninger\" for at modtage notifikationer.";
 "settings_official_website" = "Officiel hjemmeside";

@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Website";
 "settings_link_opening_method" = "Links openen met";
 "settings_moodle_files_section" = "Moodle-lesmateriaal";
+"settings_moodle_open_in" = "Moodle openen in";
+"settings_moodle_open_in_app" = "Moodle-app";
 "settings_notifications_disabled_warning" = "Meldingen staan uit. Tik om Systeeminstellingen te openen.";
 "settings_notifications_need_course_sync" = "Schakel de functie \"Vakinformatie synchroniseren\" van TigerSync in om meldingen te ontvangen.";
 "settings_official_website" = "Officiële website";

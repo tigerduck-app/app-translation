@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Laman web";
 "settings_link_opening_method" = "Buka pautan dengan";
 "settings_moodle_files_section" = "Bahan Moodle";
+"settings_moodle_open_in" = "Buka Moodle dalam";
+"settings_moodle_open_in_app" = "Aplikasi Moodle";
 "settings_notifications_disabled_warning" = "Pemberitahuan dimatikan. Ketik untuk membuka Tetapan Sistem.";
 "settings_notifications_need_course_sync" = "Hidupkan \"Segerakkan maklumat kursus\" TigerSync untuk menerima pemberitahuan.";
 "settings_official_website" = "Laman web rasmi";

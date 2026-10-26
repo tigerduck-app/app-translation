@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Web sitesi";
 "settings_link_opening_method" = "Bağlantıları şununla aç";
 "settings_moodle_files_section" = "Moodle ders materyalleri";
+"settings_moodle_open_in" = "Moodle'ı şurada aç";
+"settings_moodle_open_in_app" = "Moodle uygulaması";
 "settings_notifications_disabled_warning" = "Bildirimler kapalı. Ayarları açmak için dokunun.";
 "settings_notifications_need_course_sync" = "Bildirim almak için TigerSync \"Ders bilgilerini senkronize et\" ayarını açın.";
 "settings_official_website" = "Resmi web sitesi";

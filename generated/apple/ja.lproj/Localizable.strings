@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "ウェブサイト";
 "settings_link_opening_method" = "リンクを開く方法";
 "settings_moodle_files_section" = "Moodle の教材";
+"settings_moodle_open_in" = "Moodle を開く方法";
+"settings_moodle_open_in_app" = "Moodle アプリ";
 "settings_notifications_disabled_warning" = "通知がオフです。タップしてシステム設定を開いてください。";
 "settings_notifications_need_course_sync" = "通知を受け取るには、TigerSync の「コース情報を同期」をオンにしてください。";
 "settings_official_website" = "公式ウェブサイト";

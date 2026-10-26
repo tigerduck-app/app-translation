@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "网站",
   "settings_link_opening_method": "打开链接方式",
   "settings_moodle_files_section": "Moodle 教材",
+  "settings_moodle_open_in": "Moodle 打开方式",
+  "settings_moodle_open_in_app": "Moodle App",
   "settings_official_website": "官网",
   "settings_open_source_licenses": "开源授权",
   "settings_outline_required_courses": "在课表为必修课加上外框",

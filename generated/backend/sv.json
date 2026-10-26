@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Webbplats",
   "settings_link_opening_method": "Öppna länkar med",
   "settings_moodle_files_section": "Material i Moodle",
+  "settings_moodle_open_in": "Öppna Moodle i",
+  "settings_moodle_open_in_app": "Moodle-appen",
   "settings_official_website": "Officiell webbplats",
   "settings_open_source_licenses": "Öppen källkod-licenser",
   "settings_outline_required_courses": "Rama in obligatoriska kurser i schemat",

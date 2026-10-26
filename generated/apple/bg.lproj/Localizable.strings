@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Уебсайт";
 "settings_link_opening_method" = "Отваряне на връзки с";
 "settings_moodle_files_section" = "Материали от Moodle";
+"settings_moodle_open_in" = "Отвори Moodle в";
+"settings_moodle_open_in_app" = "Moodle приложение";
 "settings_notifications_disabled_warning" = "Известията са изключени. Докоснете, за да отворите Системни настройки.";
 "settings_notifications_need_course_sync" = "Включете „Синхронизиране на информацията за курсовете“ на TigerSync, за да получавате известия.";
 "settings_official_website" = "Официален уебсайт";

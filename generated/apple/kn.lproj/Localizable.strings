@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "ವೆಬ್‌ಸೈಟ್";
 "settings_link_opening_method" = "ಲಿಂಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ";
 "settings_moodle_files_section" = "Moodle ಅಧ್ಯಯನ ಸಾಮಗ್ರಿಗಳು";
+"settings_moodle_open_in" = "Moodle ತೆರೆಯಿರಿ";
+"settings_moodle_open_in_app" = "Moodle ಅಪ್ಲಿಕೇಶನ್";
 "settings_notifications_disabled_warning" = "ಅಧಿಸೂಚನೆಗಳು ಆಫ್ ಆಗಿವೆ. ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ.";
 "settings_notifications_need_course_sync" = "ಅಧಿಸೂಚನೆಗಳನ್ನು ಪಡೆಯಲು TigerSync \"ಕೋರ್ಸ್ ಮಾಹಿತಿ ಸಿಂಕ್ ಮಾಡಿ\" ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.";
 "settings_official_website" = "ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್";

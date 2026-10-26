@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "網站";
 "settings_link_opening_method" = "開啟連結方式";
 "settings_moodle_files_section" = "Moodle 教材";
+"settings_moodle_open_in" = "Moodle 開啟方式";
+"settings_moodle_open_in_app" = "Moodle App";
 "settings_notifications_disabled_warning" = "通知已關閉。撳嚟打開系統設定。";
 "settings_notifications_need_course_sync" = "需要啟用 TigerSync 嘅「同步課程資訊」功能先可以推送通知";
 "settings_official_website" = "官方網站";

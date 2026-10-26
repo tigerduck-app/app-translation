@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Сайт";
 "settings_link_opening_method" = "Открывать ссылки в";
 "settings_moodle_files_section" = "Материалы Moodle";
+"settings_moodle_open_in" = "Открывать Moodle в";
+"settings_moodle_open_in_app" = "Приложение Moodle";
 "settings_notifications_disabled_warning" = "Уведомления отключены. Нажмите, чтобы открыть настройки.";
 "settings_notifications_need_course_sync" = "Включите параметр TigerSync «Синхронизировать информацию о курсах», чтобы получать уведомления.";
 "settings_official_website" = "Официальный сайт";

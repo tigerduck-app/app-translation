@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "الموقع الإلكتروني",
   "settings_link_opening_method": "فتح الروابط بواسطة",
   "settings_moodle_files_section": "مواد Moodle الدراسية",
+  "settings_moodle_open_in": "فتح Moodle في",
+  "settings_moodle_open_in_app": "تطبيق Moodle",
   "settings_official_website": "الموقع الرسمي",
   "settings_open_source_licenses": "تراخيص المصادر المفتوحة",
   "settings_outline_required_courses": "إحاطة المقررات الإجبارية بإطار في الجدول الدراسي",

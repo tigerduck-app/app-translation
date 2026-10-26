@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "웹사이트";
 "settings_link_opening_method" = "링크 열기 방식";
 "settings_moodle_files_section" = "Moodle 강의 자료";
+"settings_moodle_open_in" = "Moodle 열기 방식";
+"settings_moodle_open_in_app" = "Moodle 앱";
 "settings_notifications_disabled_warning" = "알림이 꺼져 있습니다. 탭하여 시스템 설정을 여세요.";
 "settings_notifications_need_course_sync" = "알림을 받으려면 TigerSync의 \"과목 정보 동기화\"를 켜주세요.";
 "settings_official_website" = "공식 웹사이트";

@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Weboldal";
 "settings_link_opening_method" = "Hivatkozások megnyitása ezzel:";
 "settings_moodle_files_section" = "Moodle-tananyagok";
+"settings_moodle_open_in" = "Moodle megnyitása itt:";
+"settings_moodle_open_in_app" = "Moodle alkalmazás";
 "settings_notifications_disabled_warning" = "Az értesítések ki vannak kapcsolva. Koppintson a Rendszerbeállítások megnyitásához.";
 "settings_notifications_need_course_sync" = "Az értesítések fogadásához kapcsolja be a TigerSync \"Kurzusadatok szinkronizálása\" beállítást.";
 "settings_official_website" = "Hivatalos weboldal";

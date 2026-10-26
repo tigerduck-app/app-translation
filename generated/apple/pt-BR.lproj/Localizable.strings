@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Site";
 "settings_link_opening_method" = "Abrir links com";
 "settings_moodle_files_section" = "Materiais do Moodle";
+"settings_moodle_open_in" = "Abrir o Moodle em";
+"settings_moodle_open_in_app" = "App do Moodle";
 "settings_notifications_disabled_warning" = "Notificações desativadas. Toque para abrir os Ajustes.";
 "settings_notifications_need_course_sync" = "Ative \"Sincronizar informações das disciplinas\" do TigerSync para receber notificações.";
 "settings_official_website" = "Site oficial";

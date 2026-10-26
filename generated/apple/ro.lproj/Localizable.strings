@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Site web";
 "settings_link_opening_method" = "Deschide linkurile cu";
 "settings_moodle_files_section" = "Materiale Moodle";
+"settings_moodle_open_in" = "Deschide Moodle în";
+"settings_moodle_open_in_app" = "Aplicația Moodle";
 "settings_notifications_disabled_warning" = "Notificările sunt dezactivate. Atinge pentru a deschide Setările sistemului.";
 "settings_notifications_need_course_sync" = "Activează opțiunea „Sincronizează informațiile cursului“ din TigerSync pentru a primi notificări.";
 "settings_official_website" = "Site web oficial";

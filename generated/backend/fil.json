@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Website",
   "settings_link_opening_method": "Buksan ang mga link gamit ang",
   "settings_moodle_files_section": "Mga materyales sa Moodle",
+  "settings_moodle_open_in": "Buksan ang Moodle sa",
+  "settings_moodle_open_in_app": "Moodle app",
   "settings_official_website": "Opisyal na website",
   "settings_open_source_licenses": "Mga open-source na lisensya",
   "settings_outline_required_courses": "Lagyan ng border ang mga kinakailangang kurso sa iskedyul",

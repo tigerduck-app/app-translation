@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "אתר";
 "settings_link_opening_method" = "פתח קישורים עם";
 "settings_moodle_files_section" = "חומרי לימוד ב-Moodle";
+"settings_moodle_open_in" = "פתח את Moodle ב-";
+"settings_moodle_open_in_app" = "אפליקציית Moodle";
 "settings_notifications_disabled_warning" = "ההתראות כבויות. הקש כדי לפתוח את הגדרות המערכת.";
 "settings_notifications_need_course_sync" = "הפעל את \"סנכרון מידע על קורסים\" של TigerSync כדי לקבל התראות.";
 "settings_official_website" = "אתר רשמי";

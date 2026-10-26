@@ -1119,6 +1119,8 @@
   "settings_licenses_website": "Сайт",
   "settings_link_opening_method": "Открывать ссылки в",
   "settings_moodle_files_section": "Материалы Moodle",
+  "settings_moodle_open_in": "Открывать Moodle в",
+  "settings_moodle_open_in_app": "Приложение Moodle",
   "settings_official_website": "Официальный сайт",
   "settings_open_source_licenses": "Лицензии открытого кода",
   "settings_outline_required_courses": "Обводить обязательные курсы в расписании",

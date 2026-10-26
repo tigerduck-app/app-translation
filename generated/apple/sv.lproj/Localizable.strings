@@ -1144,6 +1144,8 @@
 "settings_licenses_website" = "Webbplats";
 "settings_link_opening_method" = "Öppna länkar med";
 "settings_moodle_files_section" = "Material i Moodle";
+"settings_moodle_open_in" = "Öppna Moodle i";
+"settings_moodle_open_in_app" = "Moodle-appen";
 "settings_notifications_disabled_warning" = "Aviseringar är avstängda. Tryck för att öppna Systeminställningar.";
 "settings_notifications_need_course_sync" = "Aktivera TigerSyncs funktion \"Synkronisera kursinformation\" för att ta emot aviseringar.";
 "settings_official_website" = "Officiell webbplats";
