@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Dane witryn",
   "settings_storage_browser_data_delete_message": "Witryny odwiedzone w przeglądarce TigerDuck mogą poprosić o ponowne zalogowanie.",
   "settings_storage_browser_data_delete_title": "Usunąć dane witryn?",
+  "settings_storage_cache": "Pamięć podręczna",
   "settings_storage_delete_kind": "Usuń: %@",
   "settings_storage_title": "Pamięć",
   "settings_storage_total": "Łącznie",

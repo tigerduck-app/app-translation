@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Сайт деректері",
     "settings_storage_browser_data_delete_message": "TigerDuck браузерінде ашқан сайттар қайта кіруді сұрауы мүмкін.",
     "settings_storage_browser_data_delete_title": "Сайт деректерін жою керек пе?",
+    "settings_storage_cache": "Кэш",
     "settings_storage_delete_kind": "Жою: %@",
     "settings_storage_title": "Жад",
     "settings_storage_total": "Барлығы",

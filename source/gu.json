@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "વેબસાઇટ ડેટા",
     "settings_storage_browser_data_delete_message": "TigerDuck બ્રાઉઝરમાં તમે જોયેલી સાઇટ્સ ફરીથી સાઇન ઇન કરવાનું કહી શકે છે.",
     "settings_storage_browser_data_delete_title": "વેબસાઇટ ડેટા ડિલીટ કરીએ?",
+    "settings_storage_cache": "કૅશ",
     "settings_storage_delete_kind": "%@ ડિલીટ કરો",
     "settings_storage_title": "સ્ટોરેજ",
     "settings_storage_total": "કુલ",

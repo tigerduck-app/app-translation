@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Podatki spletnih mest",
     "settings_storage_browser_data_delete_message": "Spletna mesta, ki ste jih obiskali v brskalniku TigerDuck, vas bodo morda znova prosila za prijavo.",
     "settings_storage_browser_data_delete_title": "Želite izbrisati podatke spletnih mest?",
+    "settings_storage_cache": "Predpomnilnik",
     "settings_storage_delete_kind": "Izbriši: %@",
     "settings_storage_title": "Shramba",
     "settings_storage_total": "Skupaj",

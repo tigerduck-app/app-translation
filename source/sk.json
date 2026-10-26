@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Údaje webov",
     "settings_storage_browser_data_delete_message": "Weby, ktoré ste navštívili v prehliadači TigerDuck, vás môžu požiadať o opätovné prihlásenie.",
     "settings_storage_browser_data_delete_title": "Odstrániť údaje webov?",
+    "settings_storage_cache": "Medzipamäť",
     "settings_storage_delete_kind": "Odstrániť: %@",
     "settings_storage_title": "Úložisko",
     "settings_storage_total": "Spolu",

@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "بيانات المواقع",
     "settings_storage_browser_data_delete_message": "قد تطلب منك المواقع التي زرتها في متصفح TigerDuck تسجيل الدخول مرة أخرى.",
     "settings_storage_browser_data_delete_title": "هل تريد حذف بيانات المواقع؟",
+    "settings_storage_cache": "ذاكرة التخزين المؤقت",
     "settings_storage_delete_kind": "حذف %@",
     "settings_storage_title": "التخزين",
     "settings_storage_total": "الإجمالي",

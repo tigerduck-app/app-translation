@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Δεδομένα ιστοτόπων",
   "settings_storage_browser_data_delete_message": "Οι ιστότοποι που επισκεφθήκατε στο πρόγραμμα περιήγησης του TigerDuck ενδέχεται να σας ζητήσουν να συνδεθείτε ξανά.",
   "settings_storage_browser_data_delete_title": "Διαγραφή δεδομένων ιστοτόπων;",
+  "settings_storage_cache": "Προσωρινή μνήμη",
   "settings_storage_delete_kind": "Διαγραφή: %@",
   "settings_storage_title": "Αποθηκευτικός χώρος",
   "settings_storage_total": "Σύνολο",

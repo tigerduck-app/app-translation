@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Websitegegevens",
     "settings_storage_browser_data_delete_message": "Sites die je in de TigerDuck-browser hebt bezocht, kunnen je vragen opnieuw in te loggen.",
     "settings_storage_browser_data_delete_title": "Websitegegevens verwijderen?",
+    "settings_storage_cache": "Cache",
     "settings_storage_delete_kind": "%@ verwijderen",
     "settings_storage_title": "Opslag",
     "settings_storage_total": "Totaal",

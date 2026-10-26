@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Datele site-urilor",
     "settings_storage_browser_data_delete_message": "Site-urile vizitate în browserul TigerDuck îți pot cere să te conectezi din nou.",
     "settings_storage_browser_data_delete_title": "Ștergi datele site-urilor?",
+    "settings_storage_cache": "Cache",
     "settings_storage_delete_kind": "Șterge: %@",
     "settings_storage_title": "Stocare",
     "settings_storage_total": "Total",

@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Подаци сајтова",
   "settings_storage_browser_data_delete_message": "Сајтови које сте посетили у прегледачу TigerDuck могу тражити да се поново пријавите.",
   "settings_storage_browser_data_delete_title": "Обрисати податке сајтова?",
+  "settings_storage_cache": "Кеш",
   "settings_storage_delete_kind": "Обриши: %@",
   "settings_storage_title": "Меморија",
   "settings_storage_total": "Укупно",

@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Veebisaitide andmed",
   "settings_storage_browser_data_delete_message": "TigerDucki brauseris külastatud saidid võivad paluda teil uuesti sisse logida.",
   "settings_storage_browser_data_delete_title": "Kas kustutada veebisaitide andmed?",
+  "settings_storage_cache": "Vahemälu",
   "settings_storage_delete_kind": "Kustuta: %@",
   "settings_storage_title": "Salvestusruum",
   "settings_storage_total": "Kokku",

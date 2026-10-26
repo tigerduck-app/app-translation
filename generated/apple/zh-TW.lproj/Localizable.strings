@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "網站資料";
 "settings_storage_browser_data_delete_message" = "在 TigerDuck 瀏覽器造訪過的網站，可能會要求你重新登入。";
 "settings_storage_browser_data_delete_title" = "要刪除網站資料嗎？";
+"settings_storage_cache" = "快取";
 "settings_storage_delete_kind" = "刪除%@";
 "settings_storage_title" = "儲存空間";
 "settings_storage_total" = "總計";

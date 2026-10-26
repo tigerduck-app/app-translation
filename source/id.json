@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Data situs",
     "settings_storage_browser_data_delete_message": "Situs yang kamu kunjungi di browser TigerDuck mungkin memintamu masuk lagi.",
     "settings_storage_browser_data_delete_title": "Hapus data situs?",
+    "settings_storage_cache": "Cache",
     "settings_storage_delete_kind": "Hapus %@",
     "settings_storage_title": "Penyimpanan",
     "settings_storage_total": "Total",

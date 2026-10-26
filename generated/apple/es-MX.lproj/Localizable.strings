@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Datos de sitios web";
 "settings_storage_browser_data_delete_message" = "Es posible que los sitios que visitaste en el navegador de TigerDuck te pidan que vuelvas a iniciar sesión.";
 "settings_storage_browser_data_delete_title" = "¿Eliminar los datos de sitios web?";
+"settings_storage_cache" = "Caché";
 "settings_storage_delete_kind" = "Eliminar: %@";
 "settings_storage_title" = "Almacenamiento";
 "settings_storage_total" = "Total";

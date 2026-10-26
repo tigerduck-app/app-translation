@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "ವೆಬ್‌ಸೈಟ್ ಡೇಟಾ",
     "settings_storage_browser_data_delete_message": "TigerDuck ಬ್ರೌಸರ್‌ನಲ್ಲಿ ನೀವು ಭೇಟಿ ನೀಡಿದ ಸೈಟ್‌ಗಳು ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಲು ಕೇಳಬಹುದು.",
     "settings_storage_browser_data_delete_title": "ವೆಬ್‌ಸೈಟ್ ಡೇಟಾವನ್ನು ಅಳಿಸಬೇಕೆ?",
+    "settings_storage_cache": "ಕ್ಯಾಶ್",
     "settings_storage_delete_kind": "%@ ಅಳಿಸಿ",
     "settings_storage_title": "ಸಂಗ್ರಹಣೆ",
     "settings_storage_total": "ಒಟ್ಟು",

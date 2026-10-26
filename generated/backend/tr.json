@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Web sitesi verileri",
   "settings_storage_browser_data_delete_message": "TigerDuck tarayıcısında ziyaret ettiğiniz siteler yeniden oturum açmanızı isteyebilir.",
   "settings_storage_browser_data_delete_title": "Web sitesi verileri silinsin mi?",
+  "settings_storage_cache": "Önbellek",
   "settings_storage_delete_kind": "Sil: %@",
   "settings_storage_title": "Depolama",
   "settings_storage_total": "Toplam",

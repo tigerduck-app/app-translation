@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Vietņu dati";
 "settings_storage_browser_data_delete_message" = "TigerDuck pārlūkā apmeklētās vietnes var lūgt jums pierakstīties vēlreiz.";
 "settings_storage_browser_data_delete_title" = "Vai dzēst vietņu datus?";
+"settings_storage_cache" = "Kešatmiņa";
 "settings_storage_delete_kind" = "Dzēst: %@";
 "settings_storage_title" = "Krātuve";
 "settings_storage_total" = "Kopā";

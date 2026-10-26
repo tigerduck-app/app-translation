@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "Data webů";
 "settings_storage_browser_data_delete_message" = "Weby, které jste navštívili v prohlížeči TigerDuck, vás mohou požádat o nové přihlášení.";
 "settings_storage_browser_data_delete_title" = "Smazat data webů?";
+"settings_storage_cache" = "Mezipaměť";
 "settings_storage_delete_kind" = "Smazat: %@";
 "settings_storage_title" = "Úložiště";
 "settings_storage_total" = "Celkem";

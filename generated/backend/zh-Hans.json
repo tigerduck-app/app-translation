@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "网站数据",
   "settings_storage_browser_data_delete_message": "在 TigerDuck 浏览器访问过的网站，可能会要求你重新登录。",
   "settings_storage_browser_data_delete_title": "要删除网站数据吗？",
+  "settings_storage_cache": "缓存",
   "settings_storage_delete_kind": "删除%@",
   "settings_storage_title": "存储空间",
   "settings_storage_total": "总计",

@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "ウェブサイトのデータ";
 "settings_storage_browser_data_delete_message" = "TigerDuckのブラウザで開いたサイトで、再度ログインが必要になることがあります。";
 "settings_storage_browser_data_delete_title" = "ウェブサイトのデータを削除しますか？";
+"settings_storage_cache" = "キャッシュ";
 "settings_storage_delete_kind" = "%@を削除";
 "settings_storage_title" = "ストレージ";
 "settings_storage_total" = "合計";

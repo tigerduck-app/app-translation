@@ -1189,6 +1189,7 @@
 "settings_storage_browser_data" = "వెబ్‌సైట్ డేటా";
 "settings_storage_browser_data_delete_message" = "TigerDuck బ్రౌజర్‌లో మీరు సందర్శించిన సైట్‌లు మళ్లీ సైన్ ఇన్ చేయమని అడగవచ్చు.";
 "settings_storage_browser_data_delete_title" = "వెబ్‌సైట్ డేటాను తొలగించాలా?";
+"settings_storage_cache" = "కాష్";
 "settings_storage_delete_kind" = "%@ తొలగించు";
 "settings_storage_title" = "స్టోరేజ్";
 "settings_storage_total" = "మొత్తం";

@@ -1162,6 +1162,7 @@
   "settings_storage_browser_data": "Podaci web-mjesta",
   "settings_storage_browser_data_delete_message": "Web-mjesta koja ste posjetili u pregledniku TigerDuck mogu tražiti da se ponovno prijavite.",
   "settings_storage_browser_data_delete_title": "Obrisati podatke web-mjesta?",
+  "settings_storage_cache": "Predmemorija",
   "settings_storage_delete_kind": "Obriši: %@",
   "settings_storage_title": "Pohrana",
   "settings_storage_total": "Ukupno",

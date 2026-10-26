@@ -1159,6 +1159,7 @@
     "settings_storage_browser_data": "Дані сайтів",
     "settings_storage_browser_data_delete_message": "Сайти, які ви відвідували в браузері TigerDuck, можуть попросити вас увійти знову.",
     "settings_storage_browser_data_delete_title": "Видалити дані сайтів?",
+    "settings_storage_cache": "Кеш",
     "settings_storage_delete_kind": "Видалити: %@",
     "settings_storage_title": "Сховище",
     "settings_storage_total": "Усього",
