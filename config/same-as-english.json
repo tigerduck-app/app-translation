@@ -598,5 +598,12 @@
       "shared.course_detail_syllabus_website"
     ],
     "locales": ["de", "fil", "nl"]
+  },
+  {
+    "reason": "Notes is the Catalan word too",
+    "keys": [
+      "shared.course_detail_syllabus_notes"
+    ],
+    "locales": ["ca"]
   }
 ]
