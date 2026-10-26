@@ -227,6 +227,13 @@
     "locales": ["nl"]
   },
   {
+    "reason": "Curriculum is the Dutch word",
+    "keys": [
+      "shared.information_system_category_curriculum"
+    ],
+    "locales": ["nl"]
+  },
+  {
     "reason": "Semester is the word in these languages",
     "keys": [
       "shared.calendar_source_semester",
