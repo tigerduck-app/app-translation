@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Za uporabo te funkcije se prijavite";
 "conflict_course_picker_title" = "Izberite predmet";
 "course_card_assignment_content_description" = "Ima nalogo";
+"course_card_cancelled" = "Odpade";
 "course_card_current_class" = "Trenutna ura";
 "course_classroom_value" = "Učilnica: %1$@";
 "course_color_picker_custom_badge" = "Po meri";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Uredi barvo";
 "course_credits_value" = "Kreditne točke: %1$@";
 "course_detail_assignments_label" = "Naloge";
+"course_detail_changes" = "Spremembe predmeta";
 "course_detail_classroom_label" = "Učilnica";
 "course_detail_code_copied" = "Koda kopirana";
 "course_detail_code_label" = "Koda";

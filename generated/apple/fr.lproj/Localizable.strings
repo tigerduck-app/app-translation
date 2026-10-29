@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Veuillez vous connecter pour utiliser cette fonctionnalité";
 "conflict_course_picker_title" = "Choisir un cours";
 "course_card_assignment_content_description" = "Devoir associé";
+"course_card_cancelled" = "Annulé";
 "course_card_current_class" = "Cours en cours";
 "course_classroom_value" = "Salle : %1$@";
 "course_color_picker_custom_badge" = "Personnalisé";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Modifier la couleur";
 "course_credits_value" = "Crédits : %1$@";
 "course_detail_assignments_label" = "Devoirs";
+"course_detail_changes" = "Modifications du cours";
 "course_detail_classroom_label" = "En classe";
 "course_detail_code_copied" = "Code copié";
 "course_detail_code_label" = "Code";

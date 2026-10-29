@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Увійдіть, щоб користуватися цією функцією";
 "conflict_course_picker_title" = "Виберіть курс";
 "course_card_assignment_content_description" = "Має завдання";
+"course_card_cancelled" = "Скасовано";
 "course_card_current_class" = "Поточне заняття";
 "course_classroom_value" = "Аудиторія: %1$@";
 "course_color_picker_custom_badge" = "Власний";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Змінити колір";
 "course_credits_value" = "Кредити: %1$@";
 "course_detail_assignments_label" = "Завдання";
+"course_detail_changes" = "Зміни в курсі";
 "course_detail_classroom_label" = "Аудиторія";
 "course_detail_code_copied" = "Код скопійовано";
 "course_detail_code_label" = "Код";
