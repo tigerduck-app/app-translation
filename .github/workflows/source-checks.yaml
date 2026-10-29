@@ -3,6 +3,7 @@ name: source checks
 # Every pull request: the source a platform builds from has every key in every
 # locale, and nothing still in English that should be translated. Both run on
 # the oldest Python the tools support (3.9, macOS's own python3) and the newest.
+# Ubuntu 24.04, since setup-python has no 3.9 for the images after it.
 on:
   pull_request:
 
@@ -12,7 +13,7 @@ permissions:
 jobs:
   keys:
     name: keys (Python ${{ matrix.python }})
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
@@ -29,7 +30,7 @@ jobs:
 
   untranslated:
     name: untranslated (Python ${{ matrix.python }})
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
@@ -46,7 +47,7 @@ jobs:
 
   tools:
     name: tools (Python ${{ matrix.python }})
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
