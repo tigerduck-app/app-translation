@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Bu özelliği kullanmak için lütfen giriş yapın";
 "conflict_course_picker_title" = "Bir ders seçin";
 "course_card_assignment_content_description" = "Ödev var";
+"course_card_cancelled" = "İptal edildi";
 "course_card_current_class" = "Mevcut ders";
 "course_classroom_value" = "Derslik: %1$@";
 "course_color_picker_custom_badge" = "Özel";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Rengi düzenle";
 "course_credits_value" = "Kredi: %1$@";
 "course_detail_assignments_label" = "Ödevler";
+"course_detail_changes" = "Ders değişiklikleri";
 "course_detail_classroom_label" = "Derslik";
 "course_detail_code_copied" = "Kod kopyalandı";
 "course_detail_code_label" = "Kod";

@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "ਇਹ ਫੀਚਰ ਵਰਤਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਸਾਈਨ ਇਨ ਕਰੋ";
 "conflict_course_picker_title" = "ਕੋਰਸ ਚੁਣੋ";
 "course_card_assignment_content_description" = "ਅਸਾਈਨਮੈਂਟ ਹੈ";
+"course_card_cancelled" = "ਰੱਦ";
 "course_card_current_class" = "ਮੌਜੂਦਾ ਕਲਾਸ";
 "course_classroom_value" = "ਕਲਾਸਰੂਮ: %1$@";
 "course_color_picker_custom_badge" = "ਕਸਟਮ";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "ਰੰਗ ਬਦਲੋ";
 "course_credits_value" = "ਕ੍ਰੈਡਿਟ: %1$@";
 "course_detail_assignments_label" = "ਅਸਾਈਨਮੈਂਟਾਂ";
+"course_detail_changes" = "ਕੋਰਸ ਵਿੱਚ ਤਬਦੀਲੀਆਂ";
 "course_detail_classroom_label" = "ਕਲਾਸਰੂਮ";
 "course_detail_code_copied" = "ਕੋਡ ਕਾਪੀ ਹੋ ਗਿਆ";
 "course_detail_code_label" = "ਕੋਡ";

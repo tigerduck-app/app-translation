@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Proszę zalogować się, aby skorzystać z tej funkcji";
 "conflict_course_picker_title" = "Wybierz przedmiot";
 "course_card_assignment_content_description" = "Ma zadanie";
+"course_card_cancelled" = "Odwołane";
 "course_card_current_class" = "Bieżące zajęcia";
 "course_classroom_value" = "Sala: %1$@";
 "course_color_picker_custom_badge" = "Niestandardowy";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Edytuj kolor";
 "course_credits_value" = "Punkty ECTS: %1$@";
 "course_detail_assignments_label" = "Zadania";
+"course_detail_changes" = "Zmiany w zajęciach";
 "course_detail_classroom_label" = "Sala";
 "course_detail_code_copied" = "Skopiowano kod";
 "course_detail_code_label" = "Kod";

@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Mag-sign in muna para magamit ang feature na ito";
 "conflict_course_picker_title" = "Pumili ng kurso";
 "course_card_assignment_content_description" = "May takdang-aralin";
+"course_card_cancelled" = "Kanselado";
 "course_card_current_class" = "Kasalukuyang klase";
 "course_classroom_value" = "Silid-aralan: %1$@";
 "course_color_picker_custom_badge" = "Pasadya";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "I-edit ang kulay";
 "course_credits_value" = "Mga credit: %1$@";
 "course_detail_assignments_label" = "Mga takdang-aralin";
+"course_detail_changes" = "Mga pagbabago sa kurso";
 "course_detail_classroom_label" = "Silid-aralan";
 "course_detail_code_copied" = "Nakopya ang code";
 "course_detail_code_label" = "Code";

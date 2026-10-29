@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Autentifică-te pentru a folosi această funcționalitate";
 "conflict_course_picker_title" = "Alege un curs";
 "course_card_assignment_content_description" = "Are temă";
+"course_card_cancelled" = "Anulat";
 "course_card_current_class" = "Cursul curent";
 "course_classroom_value" = "Sală: %1$@";
 "course_color_picker_custom_badge" = "Personalizat";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Editează culoarea";
 "course_credits_value" = "Credite: %1$@";
 "course_detail_assignments_label" = "Teme";
+"course_detail_changes" = "Modificări ale cursului";
 "course_detail_classroom_label" = "Sală";
 "course_detail_code_copied" = "Cod copiat";
 "course_detail_code_label" = "Cod";

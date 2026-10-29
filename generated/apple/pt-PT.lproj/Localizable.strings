@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Inicia sessão para usar esta funcionalidade";
 "conflict_course_picker_title" = "Escolher uma cadeira";
 "course_card_assignment_content_description" = "Tem trabalho";
+"course_card_cancelled" = "Cancelada";
 "course_card_current_class" = "Aula atual";
 "course_classroom_value" = "Sala: %1$@";
 "course_color_picker_custom_badge" = "Personalizado";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Editar cor";
 "course_credits_value" = "Créditos: %1$@";
 "course_detail_assignments_label" = "Trabalhos";
+"course_detail_changes" = "Alterações à disciplina";
 "course_detail_classroom_label" = "Sala de aula";
 "course_detail_code_copied" = "Código copiado";
 "course_detail_code_label" = "Código";

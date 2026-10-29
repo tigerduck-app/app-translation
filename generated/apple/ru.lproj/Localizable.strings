@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "Войдите, чтобы пользоваться этой функцией";
 "conflict_course_picker_title" = "Выберите курс";
 "course_card_assignment_content_description" = "Есть задание";
+"course_card_cancelled" = "Отменено";
 "course_card_current_class" = "Текущее занятие";
 "course_classroom_value" = "Аудитория: %1$@";
 "course_color_picker_custom_badge" = "Свой";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "Изменить цвет";
 "course_credits_value" = "Кредиты: %1$@";
 "course_detail_assignments_label" = "Задания";
+"course_detail_changes" = "Изменения курса";
 "course_detail_classroom_label" = "Аудитория";
 "course_detail_code_copied" = "Код скопирован";
 "course_detail_code_label" = "Код";

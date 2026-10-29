@@ -384,6 +384,7 @@
 "common_sign_in_required_feature" = "یہ فیچر استعمال کرنے کے لیے سائن ان کریں";
 "conflict_course_picker_title" = "کورس منتخب کریں";
 "course_card_assignment_content_description" = "اسائنمنٹ موجود ہے";
+"course_card_cancelled" = "منسوخ";
 "course_card_current_class" = "موجودہ کلاس";
 "course_classroom_value" = "کلاس روم: %1$@";
 "course_color_picker_custom_badge" = "حسب ضرورت";
@@ -391,6 +392,7 @@
 "course_color_picker_title" = "رنگ تبدیل کریں";
 "course_credits_value" = "کریڈٹس: %1$@";
 "course_detail_assignments_label" = "اسائنمنٹس";
+"course_detail_changes" = "کورس میں تبدیلیاں";
 "course_detail_classroom_label" = "کلاس روم";
 "course_detail_code_copied" = "کوڈ کاپی ہو گیا";
 "course_detail_code_label" = "کوڈ";
