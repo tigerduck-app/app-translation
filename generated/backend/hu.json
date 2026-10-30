@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Mentve. Privát cím, ezért a https http-re változott.",
   "settings_api_endpoint_stale_description": "Már nem felel meg az alábbi szabálynak, ezért az alapértelmezett végpont van használatban. Mentsen újat, vagy törölje.",
   "settings_api_endpoint_stale_title": "A mentett végpont már nem érvényes",
+  "settings_api_endpoint_synced_data_stays": "A TigerSync által szinkronizált adatok az aktuális végponton maradnak.",
   "settings_assignment_due_reminder": "Házi feladat határidő emlékeztetők",
   "settings_browser_in_app": "Alkalmazáson belüli böngésző",
   "settings_browser_system_default": "Rendszer alapértelmezett böngésző",

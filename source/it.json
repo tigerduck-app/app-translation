@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Salvato. Indirizzo privato, quindi https è stato cambiato in http.",
     "settings_api_endpoint_stale_description": "Non soddisfa più la regola qui sotto, quindi viene usato l'endpoint predefinito. Salvane uno nuovo o cancellalo.",
     "settings_api_endpoint_stale_title": "L'endpoint salvato non è più valido",
+    "settings_api_endpoint_synced_data_stays": "I dati sincronizzati con TigerSync resteranno sull'endpoint attuale.",
     "settings_assignment_due_reminder": "Promemoria scadenze compiti",
     "settings_browser_in_app": "Browser interno all'app",
     "settings_browser_system_default": "Browser predefinito di sistema",

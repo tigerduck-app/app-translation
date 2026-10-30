@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "Saglabāts. Privāta adrese, tāpēc https tika mainīts uz http.";
 "settings_api_endpoint_stale_description" = "Tas vairs neatbilst zemāk redzamajam noteikumam, tāpēc tiek izmantots noklusējuma galapunkts. Saglabājiet jaunu vai to notīriet.";
 "settings_api_endpoint_stale_title" = "Saglabātais galapunkts vairs nav derīgs";
+"settings_api_endpoint_synced_data_stays" = "Ar TigerSync sinhronizētie dati paliks pašreizējā galapunktā.";
 "settings_assignment_due_reminder" = "Uzdevumu termiņa atgādinājumi";
 "settings_browser_in_app" = "Pārlūks lietotnē";
 "settings_browser_system_default" = "Sistēmas noklusējuma pārlūks";

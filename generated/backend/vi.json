@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Đã lưu. Địa chỉ riêng tư, nên https đã được chuyển thành http.",
   "settings_api_endpoint_stale_description": "Nó không còn đáp ứng quy tắc bên dưới, nên điểm cuối mặc định đang được dùng. Hãy lưu điểm cuối mới hoặc xóa nó.",
   "settings_api_endpoint_stale_title": "Điểm cuối đã lưu không còn hợp lệ",
+  "settings_api_endpoint_synced_data_stays": "Dữ liệu đã đồng bộ với TigerSync sẽ vẫn ở điểm cuối hiện tại.",
   "settings_assignment_due_reminder": "Nhắc bài tập sắp đến hạn",
   "settings_browser_in_app": "Trình duyệt trong ứng dụng",
   "settings_browser_system_default": "Trình duyệt mặc định của hệ thống",

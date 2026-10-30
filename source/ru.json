@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Сохранено. Частный адрес, поэтому https заменён на http.",
     "settings_api_endpoint_stale_description": "Она больше не соответствует правилу ниже, поэтому используется конечная точка по умолчанию. Сохраните новую или очистите её.",
     "settings_api_endpoint_stale_title": "Сохранённая конечная точка больше не действительна",
+    "settings_api_endpoint_synced_data_stays": "Данные, синхронизированные с TigerSync, останутся на текущей конечной точке.",
     "settings_assignment_due_reminder": "Напоминания о сроках сдачи заданий",
     "settings_browser_in_app": "Встроенный браузер",
     "settings_browser_system_default": "Системный браузер по умолчанию",

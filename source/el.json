@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Αποθηκεύτηκε. Ιδιωτική διεύθυνση, οπότε το https άλλαξε σε http.",
     "settings_api_endpoint_stale_description": "Δεν πληροί πλέον τον παρακάτω κανόνα, οπότε χρησιμοποιείται το προεπιλεγμένο τελικό σημείο. Αποθηκεύστε ένα νέο ή διαγράψτε το.",
     "settings_api_endpoint_stale_title": "Το αποθηκευμένο τελικό σημείο δεν είναι πλέον έγκυρο",
+    "settings_api_endpoint_synced_data_stays": "Τα δεδομένα που έχουν συγχρονιστεί με το TigerSync θα παραμείνουν στο τρέχον τελικό σημείο.",
     "settings_assignment_due_reminder": "Υπενθυμίσεις λήξης εργασίας",
     "settings_browser_in_app": "Ενσωματωμένος περιηγητής",
     "settings_browser_system_default": "Προεπιλεγμένος περιηγητής συστήματος",

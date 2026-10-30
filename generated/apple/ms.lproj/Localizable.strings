@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "Disimpan. Alamat peribadi, jadi https ditukar kepada http.";
 "settings_api_endpoint_stale_description" = "Ia tidak lagi memenuhi peraturan di bawah, jadi titik akhir lalai sedang digunakan. Simpan yang baharu atau kosongkannya.";
 "settings_api_endpoint_stale_title" = "Titik akhir yang disimpan tidak lagi sah";
+"settings_api_endpoint_synced_data_stays" = "Data yang disegerakkan dengan TigerSync akan kekal di titik akhir semasa.";
 "settings_assignment_due_reminder" = "Peringatan tugasan hampir tamat";
 "settings_browser_in_app" = "Pelayar dalam aplikasi";
 "settings_browser_system_default" = "Pelayar lalai sistem";

@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "נשמר. הכתובת פרטית, ולכן https הוחלף ב-http.";
 "settings_api_endpoint_stale_description" = "היא כבר לא עומדת בכלל שלמטה, ולכן נעשה שימוש בנקודת הקצה המוגדרת כברירת מחדל. שמור נקודה חדשה או נקה אותה.";
 "settings_api_endpoint_stale_title" = "נקודת הקצה השמורה אינה תקפה עוד";
+"settings_api_endpoint_synced_data_stays" = "נתונים שסונכרנו עם TigerSync יישארו בנקודת הקצה הנוכחית.";
 "settings_assignment_due_reminder" = "תזכורות לתאריך הגשת מטלה";
 "settings_browser_in_app" = "דפדפן מובנה";
 "settings_browser_system_default" = "דפדפן ברירת מחדל של המערכת";

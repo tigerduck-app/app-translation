@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Salvestatud. Privaatne aadress, seega https muudeti http-ks.",
   "settings_api_endpoint_stale_description": "See ei vasta enam allolevale reeglile, seega kasutatakse vaikimisi lõpp-punkti. Salvesta uus või kustuta see.",
   "settings_api_endpoint_stale_title": "Salvestatud lõpp-punkt ei ole enam kehtiv",
+  "settings_api_endpoint_synced_data_stays": "TigerSync'iga sünkroonitud andmed jäävad praegusesse lõpp-punkti.",
   "settings_assignment_due_reminder": "Ülesande tähtaja meeldetuletused",
   "settings_browser_in_app": "Rakendusesisene brauser",
   "settings_browser_system_default": "Süsteemi vaikebrauser",

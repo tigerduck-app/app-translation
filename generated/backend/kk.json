@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Сақталды. Жеке мекенжай болғандықтан, https http-ке ауыстырылды.",
   "settings_api_endpoint_stale_description": "Ол енді төмендегі ережеге сай келмейді, сондықтан әдепкі соңғы нүкте пайдаланылуда. Жаңасын сақтаңыз немесе оны өшіріңіз.",
   "settings_api_endpoint_stale_title": "Сақталған соңғы нүкте енді жарамсыз",
+  "settings_api_endpoint_synced_data_stays": "TigerSync-пен синхрондалған деректер қазіргі соңғы нүктеде қалады.",
   "settings_assignment_due_reminder": "Тапсырма мерзімі туралы еске салулар",
   "settings_browser_in_app": "Қолданба ішіндегі браузер",
   "settings_browser_system_default": "Жүйенің әдепкі браузері",

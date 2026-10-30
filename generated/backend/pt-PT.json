@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Guardado. Endereço privado, por isso o https foi trocado por http.",
   "settings_api_endpoint_stale_description": "Já não cumpre a regra abaixo, por isso o ponto de acesso predefinido está a ser usado. Guarda um novo ou limpa-o.",
   "settings_api_endpoint_stale_title": "O ponto de acesso guardado já não é válido",
+  "settings_api_endpoint_synced_data_stays": "Os dados sincronizados com o TigerSync permanecerão no ponto de acesso atual.",
   "settings_assignment_due_reminder": "Lembretes de prazo de trabalhos",
   "settings_browser_in_app": "Navegador integrado",
   "settings_browser_system_default": "Navegador predefinido do sistema",

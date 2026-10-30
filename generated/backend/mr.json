@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "सेव्ह झाले. खाजगी पत्ता असल्याने, https चे http मध्ये रूपांतर केले.",
   "settings_api_endpoint_stale_description": "हे आता खालील नियम पूर्ण करत नाही, त्यामुळे डीफॉल्ट एंडपॉइंट वापरात आहे. नवीन सेव्ह करा किंवा ते साफ करा.",
   "settings_api_endpoint_stale_title": "सेव्ह केलेले एंडपॉइंट यापुढे वैध नाही",
+  "settings_api_endpoint_synced_data_stays": "TigerSync सोबत सिंक झालेला डेटा सध्याच्या एंडपॉइंटवरच राहील.",
   "settings_assignment_due_reminder": "असाइनमेंट मुदत स्मरणपत्रे",
   "settings_browser_in_app": "ॲप-अंतर्गत ब्राउझर",
   "settings_browser_system_default": "सिस्टम डीफॉल्ट ब्राउझर",

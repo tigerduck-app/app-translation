@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Lagret. Privat adresse, så https ble byttet til http.",
     "settings_api_endpoint_stale_description": "Det oppfyller ikke lenger regelen under, så standard-endepunktet er i bruk. Lagre et nytt, eller tøm det.",
     "settings_api_endpoint_stale_title": "Lagret endepunkt er ikke lenger gyldig",
+    "settings_api_endpoint_synced_data_stays": "Data som er synkronisert med TigerSync, blir værende på gjeldende endepunkt.",
     "settings_assignment_due_reminder": "Påminnelser om oppgavefrist",
     "settings_browser_in_app": "Nettleser i appen",
     "settings_browser_system_default": "Standard systemnettleser",

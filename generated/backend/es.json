@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Guardado. Es una dirección privada, así que https se cambió a http.",
   "settings_api_endpoint_stale_description": "Ya no cumple la regla de abajo, así que se usa el punto final predeterminado. Guarda uno nuevo o bórralo.",
   "settings_api_endpoint_stale_title": "El punto final guardado ya no es válido",
+  "settings_api_endpoint_synced_data_stays": "Los datos sincronizados con TigerSync permanecerán en el punto final actual.",
   "settings_assignment_due_reminder": "Recordatorios de entrega de tareas",
   "settings_browser_in_app": "Navegador integrado",
   "settings_browser_system_default": "Navegador predeterminado del sistema",

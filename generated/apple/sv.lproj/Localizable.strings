@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "Sparat. Privat adress, så https byttes till http.";
 "settings_api_endpoint_stale_description" = "Den uppfyller inte längre regeln nedan, så standardslutpunkten används. Spara en ny eller rensa den.";
 "settings_api_endpoint_stale_title" = "Sparad slutpunkt är inte längre giltig";
+"settings_api_endpoint_synced_data_stays" = "Data som har synkats med TigerSync blir kvar på den gällande slutpunkten.";
 "settings_assignment_due_reminder" = "Påminnelser om uppgifter";
 "settings_browser_in_app" = "Webbläsare i appen";
 "settings_browser_system_default" = "Systemets standardwebbläsare";

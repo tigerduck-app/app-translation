@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "સેવ થયું. ખાનગી સરનામું હોવાથી, https ને http માં બદલવામાં આવ્યું.",
   "settings_api_endpoint_stale_description": "તે હવે નીચેના નિયમને પૂર્ણ કરતું નથી, તેથી ડિફૉલ્ટ એન્ડપોઇન્ટ વપરાઈ રહ્યું છે. નવું સેવ કરો અથવા તેને સાફ કરો.",
   "settings_api_endpoint_stale_title": "સેવ કરેલું એન્ડપોઇન્ટ હવે માન્ય નથી",
+  "settings_api_endpoint_synced_data_stays": "TigerSync સાથે સિંક થયેલો ડેટા હાલના એન્ડપોઇન્ટ પર જ રહેશે.",
   "settings_assignment_due_reminder": "અસાઇનમેન્ટ ડ્યૂ રિમાઇન્ડર",
   "settings_browser_in_app": "App ની અંદર બ્રાઉઝર",
   "settings_browser_system_default": "સિસ્ટમ ડિફૉલ્ટ બ્રાઉઝર",

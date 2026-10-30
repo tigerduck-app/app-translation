@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Opgeslagen. Privéadres, dus https is gewijzigd naar http.",
   "settings_api_endpoint_stale_description": "Het voldoet niet meer aan de regel hieronder, dus het standaardeindpunt wordt gebruikt. Sla een nieuwe op of wis het.",
   "settings_api_endpoint_stale_title": "Opgeslagen eindpunt is niet meer geldig",
+  "settings_api_endpoint_synced_data_stays": "Gegevens die met TigerSync zijn gesynchroniseerd, blijven op het huidige eindpunt.",
   "settings_assignment_due_reminder": "Herinneringen voor opdrachtdeadlines",
   "settings_browser_in_app": "Browser in app",
   "settings_browser_system_default": "Standaardbrowser van systeem",

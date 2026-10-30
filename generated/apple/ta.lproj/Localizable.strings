@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "சேமிக்கப்பட்டது. தனியார் முகவரி என்பதால், https, http ஆக மாற்றப்பட்டது.";
 "settings_api_endpoint_stale_description" = "இது இப்போது கீழே உள்ள விதியை பூர்த்தி செய்யவில்லை, எனவே இயல்புநிலை எண்ட்பாயிண்ட் பயன்பாட்டில் உள்ளது. புதிதாக ஒன்றைச் சேமிக்கவும் அல்லது அதை அழிக்கவும்.";
 "settings_api_endpoint_stale_title" = "சேமித்த எண்ட்பாயிண்ட் இனி செல்லுபடியாகாது";
+"settings_api_endpoint_synced_data_stays" = "TigerSync உடன் ஒத்திசைக்கப்பட்ட தரவு தற்போதைய எண்ட்பாயிண்டிலேயே இருக்கும்.";
 "settings_assignment_due_reminder" = "ஒப்படைப்பு காலக்கெடு நினைவூட்டல்கள்";
 "settings_browser_in_app" = "App உள் உலாவி";
 "settings_browser_system_default" = "கணினி இயல்புநிலை உலாவி";

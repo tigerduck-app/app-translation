@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "已保存。因为是私有地址，已将 https 改为 http。";
 "settings_api_endpoint_stale_description" = "它不再符合下方规则，当前使用默认端点。请重新保存或清除。";
 "settings_api_endpoint_stale_title" = "已保存的端点不再有效";
+"settings_api_endpoint_synced_data_stays" = "已通过 TigerSync 同步的数据将留在当前端点。";
 "settings_assignment_due_reminder" = "作业到期提醒";
 "settings_browser_in_app" = "App 内浏览器";
 "settings_browser_system_default" = "系统默认浏览器";

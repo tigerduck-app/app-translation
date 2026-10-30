@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Запазено. Частен адрес — https беше превключен на http.",
     "settings_api_endpoint_stale_description": "Вече не отговаря на правилото по-долу, затова се използва подразбиращата се крайна точка. Запазете нова или я изчистете.",
     "settings_api_endpoint_stale_title": "Запазената крайна точка вече не е валидна",
+    "settings_api_endpoint_synced_data_stays": "Данните, синхронизирани с TigerSync, ще останат на текущата крайна точка.",
     "settings_assignment_due_reminder": "Напомняния за крайни срокове на задания",
     "settings_browser_in_app": "Вграден браузър",
     "settings_browser_system_default": "Системен браузър по подразбиране",

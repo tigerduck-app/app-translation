@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Uložené. Privátna adresa, preto bolo https prepnuté na http.",
     "settings_api_endpoint_stale_description": "Už nespĺňa pravidlo nižšie, preto sa používa predvolený koncový bod. Uložte nový alebo ho vymažte.",
     "settings_api_endpoint_stale_title": "Uložený koncový bod už nie je platný",
+    "settings_api_endpoint_synced_data_stays": "Údaje synchronizované s TigerSync zostanú na aktuálnom koncovom bode.",
     "settings_assignment_due_reminder": "Pripomienky termínov úloh",
     "settings_browser_in_app": "Prehliadač v aplikácii",
     "settings_browser_system_default": "Predvolený systémový prehliadač",
