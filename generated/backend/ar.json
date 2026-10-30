@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "تم الحفظ. العنوان خاص، لذا تم تبديل https إلى http.",
   "settings_api_endpoint_stale_description": "لم تعد تستوفي القاعدة أدناه، لذا تُستخدم نقطة النهاية الافتراضية الآن. احفظ نقطة نهاية جديدة أو امسحها.",
   "settings_api_endpoint_stale_title": "نقطة النهاية المحفوظة لم تعد صالحة",
+  "settings_api_endpoint_synced_data_stays": "ستبقى البيانات المتزامنة مع TigerSync على نقطة النهاية الحالية.",
   "settings_assignment_due_reminder": "تذكيرات استحقاق الواجبات",
   "settings_browser_in_app": "متصفح داخل التطبيق",
   "settings_browser_system_default": "متصفح النظام الافتراضي",

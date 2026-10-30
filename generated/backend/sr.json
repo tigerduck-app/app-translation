@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Сачувано. Приватна адреса, па је https промењен у http.",
   "settings_api_endpoint_stale_description": "Више не испуњава правило испод, па се користи подразумевана крајња тачка. Сачувајте нову или је обришите.",
   "settings_api_endpoint_stale_title": "Сачувана крајња тачка више није важећа",
+  "settings_api_endpoint_synced_data_stays": "Подаци синхронизовани са TigerSync остаће на тренутној крајњој тачки.",
   "settings_assignment_due_reminder": "Подсетници за рок задатка",
   "settings_browser_in_app": "Уграђени претраживач",
   "settings_browser_system_default": "Подразумевани системски претраживач",

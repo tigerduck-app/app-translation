@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Desat. Com que és una adreça privada, s'ha canviat https per http.",
   "settings_api_endpoint_stale_description": "Ja no compleix la regla de sota, així que s'utilitza el punt final per defecte. Desa'n un de nou o esborra'l.",
   "settings_api_endpoint_stale_title": "El punt final desat ja no és vàlid",
+  "settings_api_endpoint_synced_data_stays": "Les dades sincronitzades amb TigerSync es quedaran al punt final actual.",
   "settings_assignment_due_reminder": "Recordatoris de venciment de tasques",
   "settings_browser_in_app": "Navegador de l'aplicació",
   "settings_browser_system_default": "Navegador predeterminat del sistema",

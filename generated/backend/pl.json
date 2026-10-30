@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Zapisano. Adres prywatny, więc https zostało zmienione na http.",
   "settings_api_endpoint_stale_description": "Nie spełnia już poniższej reguły, więc używany jest domyślny punkt końcowy. Zapisz nowy lub go wyczyść.",
   "settings_api_endpoint_stale_title": "Zapisany punkt końcowy nie jest już prawidłowy",
+  "settings_api_endpoint_synced_data_stays": "Dane zsynchronizowane z TigerSync pozostaną w bieżącym punkcie końcowym.",
   "settings_assignment_due_reminder": "Przypomnienia o terminach zadań",
   "settings_browser_in_app": "Przeglądarka wbudowana",
   "settings_browser_system_default": "Domyślna przeglądarka systemowa",

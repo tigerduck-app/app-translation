@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Kaydedildi. Özel adres olduğu için https, http olarak değiştirildi.",
     "settings_api_endpoint_stale_description": "Artık aşağıdaki kuralı karşılamıyor, bu yüzden varsayılan uç nokta kullanılıyor. Yeni bir tane kaydedin veya temizleyin.",
     "settings_api_endpoint_stale_title": "Kaydedilen uç nokta artık geçerli değil",
+    "settings_api_endpoint_synced_data_stays": "TigerSync ile senkronize edilen veriler mevcut uç noktada kalacak.",
     "settings_assignment_due_reminder": "Ödev teslim hatırlatıcıları",
     "settings_browser_in_app": "Uygulama içi tarayıcı",
     "settings_browser_system_default": "Sistem varsayılan tarayıcısı",

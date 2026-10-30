@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "ذخیره شد. آدرس خصوصی است، بنابراین https به http تغییر یافت.";
 "settings_api_endpoint_stale_description" = "دیگر با قانون زیر مطابقت ندارد، بنابراین نقطهٔ پایانی پیش‌فرض در حال استفاده است. یکی جدید ذخیره کنید یا آن را پاک کنید.";
 "settings_api_endpoint_stale_title" = "نقطهٔ پایانی ذخیره‌شده دیگر معتبر نیست";
+"settings_api_endpoint_synced_data_stays" = "داده‌هایی که با TigerSync همگام‌سازی شده‌اند در نقطهٔ پایانی فعلی باقی می‌مانند.";
 "settings_assignment_due_reminder" = "یادآورهای موعد تکلیف";
 "settings_browser_in_app" = "مرورگر داخل برنامه";
 "settings_browser_system_default" = "مرورگر پیش‌فرض سیستم";

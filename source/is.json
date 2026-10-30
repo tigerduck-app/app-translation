@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Vistað. Þar sem vistfangið er á einkaneti var https breytt í http.",
     "settings_api_endpoint_stale_description": "Hann uppfyllir ekki lengur regluna hér fyrir neðan, svo sjálfgefinn endapunktur er notaður. Vistaðu nýjan eða hreinsaðu hann.",
     "settings_api_endpoint_stale_title": "Vistaði endapunkturinn er ekki lengur gildur",
+    "settings_api_endpoint_synced_data_stays": "Gögn sem eru samstillt við TigerSync verða áfram á núverandi endapunkti.",
     "settings_assignment_due_reminder": "Verkefnaáminningar",
     "settings_browser_in_app": "Innbyggðum vafra",
     "settings_browser_system_default": "Sjálfgefinn kerfisvafrinn",

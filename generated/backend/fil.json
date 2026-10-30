@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Na-save. Private na address, kaya pinalitan ang https ng http.",
   "settings_api_endpoint_stale_description": "Hindi na ito tugma sa panuntunan sa ibaba, kaya ang default na endpoint ang ginagamit. Mag-save ng bago o i-clear ito.",
   "settings_api_endpoint_stale_title": "Hindi na valid ang naka-save na endpoint",
+  "settings_api_endpoint_synced_data_stays": "Mananatili sa kasalukuyang endpoint ang data na naka-sync sa TigerSync.",
   "settings_assignment_due_reminder": "Mga paalala sa takdang-aralin",
   "settings_browser_in_app": "Browser sa loob ng app",
   "settings_browser_system_default": "Default na browser ng sistema",

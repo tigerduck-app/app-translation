@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "บันทึกแล้ว เนื่องจากเป็นที่อยู่ส่วนตัว จึงเปลี่ยน https เป็น http",
   "settings_api_endpoint_stale_description": "ไม่เป็นไปตามกฎด้านล่างอีกต่อไป จึงใช้ปลายทางเริ่มต้นแทน กรุณาบันทึกใหม่หรือล้างค่า",
   "settings_api_endpoint_stale_title": "ปลายทางที่บันทึกไว้ไม่ถูกต้องอีกต่อไป",
+  "settings_api_endpoint_synced_data_stays": "ข้อมูลที่ซิงค์กับ TigerSync แล้วจะยังอยู่ที่ปลายทางปัจจุบัน",
   "settings_assignment_due_reminder": "การแจ้งเตือนการบ้านใกล้ครบกำหนด",
   "settings_browser_in_app": "เบราว์เซอร์ในแอป",
   "settings_browser_system_default": "เบราว์เซอร์เริ่มต้นของระบบ",

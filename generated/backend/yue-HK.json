@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "已儲存。因為係私有位址，已經將 https 改成 http。",
   "settings_api_endpoint_stale_description": "佢唔再符合下面嘅規則，而家用緊預設端點。請重新儲存或者清除。",
   "settings_api_endpoint_stale_title": "已儲存嘅端點已經失效",
+  "settings_api_endpoint_synced_data_stays": "已經 TigerSync 同步嘅資料會留喺目前嘅端點。",
   "settings_assignment_due_reminder": "作業到期提醒",
   "settings_browser_in_app": "App 內瀏覽器",
   "settings_browser_system_default": "系統預設瀏覽器",

@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "محفوظ کیا گیا۔ پرائیویٹ ایڈریس ہے، اس لیے https کو http میں تبدیل کر دیا گیا۔";
 "settings_api_endpoint_stale_description" = "یہ نیچے دیے گئے قانون پر پورا نہیں اترتا، اس لیے ڈیفالٹ اینڈ پوائنٹ استعمال ہو رہا ہے۔ نیا محفوظ کریں یا اسے صاف کریں۔";
 "settings_api_endpoint_stale_title" = "محفوظ اینڈ پوائنٹ اب درست نہیں";
+"settings_api_endpoint_synced_data_stays" = "TigerSync کے ساتھ سنک کیا گیا ڈیٹا موجودہ اینڈ پوائنٹ پر ہی رہے گا۔";
 "settings_assignment_due_reminder" = "اسائنمنٹ کی آخری تاریخ کی یاددہانی";
 "settings_browser_in_app" = "ایپ کے اندر براؤزر";
 "settings_browser_system_default" = "سسٹم کا ڈیفالٹ براؤزر";

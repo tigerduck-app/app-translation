@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Salvat. Adresă privată, așa că https a fost schimbat în http.",
   "settings_api_endpoint_stale_description": "Nu mai respectă regula de mai jos, așa că se folosește punctul final implicit. Salvează unul nou sau șterge-l.",
   "settings_api_endpoint_stale_title": "Punctul final salvat nu mai este valid",
+  "settings_api_endpoint_synced_data_stays": "Datele sincronizate cu TigerSync vor rămâne pe punctul final actual.",
   "settings_assignment_due_reminder": "Remindere teme scadente",
   "settings_browser_in_app": "Browser în aplicație",
   "settings_browser_system_default": "Browser implicit de sistem",

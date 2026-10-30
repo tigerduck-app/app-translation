@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "సేవ్ చేయబడింది. ప్రైవేట్ చిరునామా కాబట్టి, https ను http గా మార్చారు.";
 "settings_api_endpoint_stale_description" = "ఇది ఇప్పుడు దిగువ నియమాన్ని పాటించడం లేదు, కాబట్టి డిఫాల్ట్ ఎండ్‌పాయింట్ వాడుకలో ఉంది. కొత్తదాన్ని సేవ్ చేయండి లేదా దాన్ని క్లియర్ చేయండి.";
 "settings_api_endpoint_stale_title" = "సేవ్ చేసిన ఎండ్‌పాయింట్ ఇక చెల్లదు";
+"settings_api_endpoint_synced_data_stays" = "TigerSync తో సింక్ చేసిన డేటా ప్రస్తుత ఎండ్‌పాయింట్‌లోనే ఉంటుంది.";
 "settings_assignment_due_reminder" = "అసైన్‌మెంట్ గడువు రిమైండర్లు";
 "settings_browser_in_app" = "యాప్ లోపల బ్రౌజర్";
 "settings_browser_system_default" = "సిస్టమ్ డిఫాల్ట్ బ్రౌజర్";

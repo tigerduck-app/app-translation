@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "Enregistré. Adresse privée, donc https a été remplacé par http.";
 "settings_api_endpoint_stale_description" = "Il ne respecte plus la règle ci-dessous, donc le point de terminaison par défaut est utilisé. Enregistrez-en un nouveau ou effacez-le.";
 "settings_api_endpoint_stale_title" = "Le point de terminaison enregistré n'est plus valide";
+"settings_api_endpoint_synced_data_stays" = "Les données synchronisées avec TigerSync resteront sur le point de terminaison actuel.";
 "settings_assignment_due_reminder" = "Rappels d'échéance des devoirs";
 "settings_browser_in_app" = "Navigateur intégré";
 "settings_browser_system_default" = "Navigateur par défaut du système";

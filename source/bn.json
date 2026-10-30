@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "সংরক্ষিত হয়েছে। প্রাইভেট ঠিকানা হওয়ায়, https থেকে http-তে পরিবর্তন করা হয়েছে।",
     "settings_api_endpoint_stale_description": "এটি এখন নিচের নিয়ম পূরণ করে না, তাই ডিফল্ট এন্ডপয়েন্ট ব্যবহার হচ্ছে। নতুন একটি সংরক্ষণ করুন বা এটি মুছে ফেলুন।",
     "settings_api_endpoint_stale_title": "সংরক্ষিত এন্ডপয়েন্ট আর বৈধ নয়",
+    "settings_api_endpoint_synced_data_stays": "TigerSync-এর সঙ্গে সিঙ্ক করা ডেটা বর্তমান এন্ডপয়েন্টেই থেকে যাবে।",
     "settings_assignment_due_reminder": "অ্যাসাইনমেন্টের সময়সীমার স্মরণিকা",
     "settings_browser_in_app": "অ্যাপ-ইন ব্রাউজার",
     "settings_browser_system_default": "সিস্টেম ডিফল্ট ব্রাউজার",

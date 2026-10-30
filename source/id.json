@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Tersimpan. Alamat privat, jadi https diubah ke http.",
     "settings_api_endpoint_stale_description": "Endpoint ini tidak lagi memenuhi aturan di bawah, sehingga endpoint bawaan yang digunakan. Simpan yang baru atau hapus.",
     "settings_api_endpoint_stale_title": "Endpoint tersimpan tidak lagi valid",
+    "settings_api_endpoint_synced_data_stays": "Data yang disinkronkan dengan TigerSync akan tetap berada di endpoint saat ini.",
     "settings_assignment_due_reminder": "Pengingat tenggat tugas",
     "settings_browser_in_app": "Peramban dalam aplikasi",
     "settings_browser_system_default": "Peramban default sistem",

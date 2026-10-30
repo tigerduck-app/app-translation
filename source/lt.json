@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "Išsaugota. Privatus adresas, todėl https pakeistas į http.",
     "settings_api_endpoint_stale_description": "Jis nebeatitinka žemiau esančios taisyklės, todėl naudojamas numatytasis galinis taškas. Išsaugokite naują arba jį išvalykite.",
     "settings_api_endpoint_stale_title": "Išsaugotas galinis taškas nebegalioja",
+    "settings_api_endpoint_synced_data_stays": "Su TigerSync sinchronizuoti duomenys liks dabartiniame galiniame taške.",
     "settings_assignment_due_reminder": "Užduočių terminų priminimai",
     "settings_browser_in_app": "Programos vidaus naršyklė",
     "settings_browser_system_default": "Numatytoji sistemos naršyklė",

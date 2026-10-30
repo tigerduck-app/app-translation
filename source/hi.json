@@ -1077,6 +1077,7 @@
     "settings_api_endpoint_saved_rewritten": "सेव हो गया। निजी पता होने के कारण, https को http में बदल दिया गया।",
     "settings_api_endpoint_stale_description": "यह अब नीचे दिए नियम को पूरा नहीं करता, इसलिए डिफ़ॉल्ट एंडपॉइंट इस्तेमाल हो रहा है। नया सेव करें या इसे हटाएँ।",
     "settings_api_endpoint_stale_title": "सेव किया गया एंडपॉइंट अब मान्य नहीं है",
+    "settings_api_endpoint_synced_data_stays": "TigerSync के साथ सिंक किया गया डेटा मौजूदा एंडपॉइंट पर ही रहेगा।",
     "settings_assignment_due_reminder": "असाइनमेंट देय अनुस्मारक",
     "settings_browser_in_app": "इन-ऐप ब्राउज़र",
     "settings_browser_system_default": "सिस्टम डिफ़ॉल्ट ब्राउज़र",

@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "Tallennettu. Yksityinen osoite, joten https vaihdettiin http:ksi.";
 "settings_api_endpoint_stale_description" = "Se ei enää täytä alla olevaa sääntöä, joten käytössä on oletuspäätepiste. Tallenna uusi tai tyhjennä se.";
 "settings_api_endpoint_stale_title" = "Tallennettu päätepiste ei ole enää voimassa";
+"settings_api_endpoint_synced_data_stays" = "TigerSync'in kanssa synkronoidut tiedot jäävät nykyiseen päätepisteeseen.";
 "settings_assignment_due_reminder" = "Tehtävän palautusmuistutukset";
 "settings_browser_in_app" = "Sovelluksen sisäinen selain";
 "settings_browser_system_default" = "Järjestelmän oletusselain";

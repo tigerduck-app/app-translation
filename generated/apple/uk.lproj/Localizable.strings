@@ -1105,6 +1105,7 @@
 "settings_api_endpoint_saved_rewritten" = "Збережено. Приватна адреса, тому https змінено на http.";
 "settings_api_endpoint_stale_description" = "Вона більше не відповідає правилу нижче, тому використовується стандартна кінцева точка. Збережіть нову або очистіть її.";
 "settings_api_endpoint_stale_title" = "Збережена кінцева точка більше не дійсна";
+"settings_api_endpoint_synced_data_stays" = "Дані, синхронізовані з TigerSync, залишаться на поточній кінцевій точці.";
 "settings_assignment_due_reminder" = "Нагадування про дедлайн завдань";
 "settings_browser_in_app" = "Вбудований браузер";
 "settings_browser_system_default" = "Стандартний системний браузер";

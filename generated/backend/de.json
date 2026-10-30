@@ -1080,6 +1080,7 @@
   "settings_api_endpoint_saved_rewritten": "Gespeichert. Private Adresse, daher wurde https auf http umgestellt.",
   "settings_api_endpoint_stale_description": "Er erfüllt die untenstehende Regel nicht mehr, daher wird der Standard-Endpunkt verwendet. Speichern Sie einen neuen oder leeren Sie ihn.",
   "settings_api_endpoint_stale_title": "Gespeicherter Endpunkt ist nicht mehr gültig",
+  "settings_api_endpoint_synced_data_stays": "Mit TigerSync synchronisierte Daten bleiben auf dem aktuellen Endpunkt.",
   "settings_assignment_due_reminder": "Erinnerungen an fällige Aufgaben",
   "settings_browser_in_app": "In-App-Browser",
   "settings_browser_system_default": "Standardbrowser des Systems",
