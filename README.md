@@ -11,14 +11,12 @@ This folder is the shared translation source for Android, Apple and the backend.
     - `locales.json` (canonical locale, platform aliases)
     - `same-as-english.json` (values that are right as English, and why)
 - `generated/` (checked in)
-    - `apple/en.lproj/Localizable.strings`
-    - `apple/en.lproj/InfoPlist.strings` (Info.plist purpose strings)
-    - `apple/zh-Hant.lproj/Localizable.strings`
     - `backend/en.json`
 
-Android's `strings.xml` files are not checked in: the Android app's Gradle build
-generates them from `source/` every build, with
-`--platform android --output-dir <dir>`.
+Android's `strings.xml` files and Apple's `<locale>.lproj` folders are not
+checked in. The Android app's Gradle build generates its files from `source/`
+every build, with `--platform android --output-dir <dir>`, and every Apple
+target's build does the same with `--platform apple --output-dir <dir>`.
 
 ## Requirements
 
@@ -34,14 +32,15 @@ tests 3.9 and the newest release.
 python3 tools/localization/generate_localizations.py
 ```
 
-This regenerates the Apple and backend artifacts under `generated/`. Commit
-them with the source change. Android needs nothing more: its next build reads
-`source/` once its submodule pin moves.
+This regenerates the backend artifacts under `generated/`. Commit them with the
+source change. Android and Apple need nothing more: their next build reads
+`source/` once their submodule pin moves.
 
-To see Android's output, write it somewhere outside `generated/`:
+To see Android's or Apple's output, write it somewhere outside `generated/`:
 
 ```bash
 python3 tools/localization/generate_localizations.py --platform android --output-dir /tmp/android-res
+python3 tools/localization/generate_localizations.py --platform apple --output-dir /tmp/apple-lproj
 ```
 
 ## Checks before merging

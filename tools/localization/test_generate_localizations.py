@@ -31,19 +31,28 @@ class EscapeAndroidEdgeSpacesTest(unittest.TestCase):
 
 
 class PlatformOutputTest(unittest.TestCase):
-    """Which platforms a run writes, and where: Android builds its own from source."""
+    """Which platforms a run writes, and where: Android and Apple build their own from source."""
 
     def setUp(self):
         self._tmp = tempfile.TemporaryDirectory()
         self.tmp = pathlib.Path(self._tmp.name)
         self.addCleanup(self._tmp.cleanup)
 
-    def test_a_default_run_writes_apple_and_backend_but_not_android(self):
+    def test_a_default_run_writes_backend_only(self):
         gen.generate(validate_only=False, generated_dir=self.tmp)
 
-        self.assertTrue((self.tmp / "apple" / "en.lproj" / "Localizable.strings").exists())
         self.assertTrue((self.tmp / "backend" / "en.json").exists())
+        self.assertFalse((self.tmp / "apple").exists())
         self.assertFalse((self.tmp / "android").exists())
+
+    def test_apple_alone_into_a_directory_of_its_own(self):
+        out = self.tmp / "lproj"
+
+        gen.main(["--platform", "apple", "--output-dir", str(out)])
+
+        self.assertTrue((out / "en.lproj" / "Localizable.strings").exists())
+        self.assertTrue((out / "zh-Hant.lproj" / "InfoPlist.strings").exists())
+        self.assertEqual([], [p for p in self.tmp.iterdir() if p != out])
 
     def test_android_alone_into_a_directory_of_its_own(self):
         out = self.tmp / "res"
@@ -63,6 +72,9 @@ class PlatformOutputTest(unittest.TestCase):
 
     def test_the_committed_android_output_is_gone(self):
         self.assertFalse((gen.GENERATED_DIR / "android").exists())
+
+    def test_the_committed_apple_output_is_gone(self):
+        self.assertFalse((gen.GENERATED_DIR / "apple").exists())
 
 
 class LineEndingsTest(unittest.TestCase):
