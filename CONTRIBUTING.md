@@ -1,6 +1,6 @@
 # Contributing
 
-This repository holds every string of TigerDuck's Android app, Apple apps and backend, in 55
+This repository holds every string of TigerDuck's Android app, Apple apps and backend, in 51
 locales. Each app takes it as a git submodule, so a change here reaches every app that pins it.
 [CONVENTIONS.md](CONVENTIONS.md) is the contract for how the strings are laid out and named; this
 file is how a change gets in.

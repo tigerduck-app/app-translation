@@ -161,7 +161,7 @@ translations, and 45 locales disagreed with themselves between
 same feature two different things. A coined name has one spelling by
 construction.
 
-**When adding a name here:** rename in `source/*.json` for all 55 locales in
+**When adding a name here:** rename in `source/*.json` for all 51 locales in
 one commit, then regenerate. Do **not** rename the JSON keys to match -- they
 are internal, and `cloudSyncEnabled` in both apps is a persisted preference
 key whose rename would silently drop every existing user's setting.

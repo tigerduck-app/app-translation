@@ -275,9 +275,6 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("sr", "uk"),
         # Indic
         ("hi", "mr"),
-        # Persian / Urdu -- Urdu takes much of its everyday vocabulary from
-        # Persian and writes it in the same script
-        ("fa", "ur"),
         # Lithuanian / Latvian -- Baltic words such as Visi, Katedra, Versija
         ("lt", "lv"),
         # German / Dutch -- West Germanic words such as Alle, Master, Bachelor
@@ -366,9 +363,7 @@ def _android_dir_for_locale(locale: str, cfg: LocaleConfig) -> str:
 
     # Android uses some legacy ISO codes.
     legacy_lang = {
-        "he": "iw",
         "id": "in",
-        "yi": "ji",
     }.get(lang, lang)
 
     if not part2:
