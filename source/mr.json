@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "गोपनीयता धोरण",
     "settings_push_server_nav_label": "सर्व्हर पुश",
     "settings_reset_course_colors": "अभ्यासक्रम रंग पुन्हा नियुक्त करा",
-    "settings_reset_course_colors_confirm_message": "प्रत्येक अभ्यासक्रमाला नवा, अद्वितीय रंग दिला जाईल — आधी प्रीसेट पॅलेटमधून, पॅलेट संपल्यावर यादृच्छिक.",
+    "settings_reset_course_colors_confirm_message": "Moodle च्या डीफॉल्ट रंगांवर रीसेट करा.",
     "settings_reset_course_colors_confirm_title": "अभ्यासक्रम रंग पुन्हा नियुक्त करायचे?",
     "settings_screen_rotation": "स्क्रीन रोटेशन",
     "settings_section_abbreviation": "संक्षेप",

@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Pravilnik o zasebnosti",
     "settings_push_server_nav_label": "Strežniški push",
     "settings_reset_course_colors": "Znova dodeli barve predmetov",
-    "settings_reset_course_colors_confirm_message": "Vsak predmet bo dobil novo, edinstveno barvo — najprej iz prednastavljene palete, nato naključno, ko se ta izčrpa.",
+    "settings_reset_course_colors_confirm_message": "Ponastavi na privzete barve Moodla.",
     "settings_reset_course_colors_confirm_title": "Znova dodeliti barve predmetov?",
     "settings_screen_rotation": "Vrtenje zaslona",
     "settings_section_abbreviation": "Okrajšave",

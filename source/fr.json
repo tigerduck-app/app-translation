@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Politique de confidentialité",
     "settings_push_server_nav_label": "Push serveur",
     "settings_reset_course_colors": "Réattribuer les couleurs des cours",
-    "settings_reset_course_colors_confirm_message": "Chaque cours recevra une couleur unique et nouvelle — d'abord depuis la palette préréglée, puis aléatoirement quand elle est épuisée.",
+    "settings_reset_course_colors_confirm_message": "Rétablir les couleurs par défaut de Moodle.",
     "settings_reset_course_colors_confirm_title": "Réattribuer les couleurs des cours ?",
     "settings_screen_rotation": "Rotation de l’écran",
     "settings_section_abbreviation": "Abréviations",

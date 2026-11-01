@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Privacybeleid",
     "settings_push_server_nav_label": "Serverpush",
     "settings_reset_course_colors": "Cursuskleuren opnieuw toewijzen",
-    "settings_reset_course_colors_confirm_message": "Elke cursus krijgt een nieuwe, unieke kleur — eerst uit het voorgedefinieerde palet, daarna willekeurig zodra het palet op is.",
+    "settings_reset_course_colors_confirm_message": "Terugzetten naar de standaardkleuren van Moodle.",
     "settings_reset_course_colors_confirm_title": "Cursuskleuren opnieuw toewijzen?",
     "settings_screen_rotation": "Schermrotatie",
     "settings_section_abbreviation": "Afkortingen",

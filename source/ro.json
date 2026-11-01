@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Politică de confidențialitate",
     "settings_push_server_nav_label": "Push server",
     "settings_reset_course_colors": "Reatribuie culorile cursurilor",
-    "settings_reset_course_colors_confirm_message": "Fiecare curs primește o culoare nouă, unică — întâi din paleta presetată, apoi aleatoriu când paleta este epuizată.",
+    "settings_reset_course_colors_confirm_message": "Resetează la culorile implicite Moodle.",
     "settings_reset_course_colors_confirm_title": "Reatribui culorile cursurilor?",
     "settings_screen_rotation": "Rotire ecran",
     "settings_section_abbreviation": "Abrevieri",

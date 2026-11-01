@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "Integritetspolicy",
   "settings_push_server_nav_label": "Server-push",
   "settings_reset_course_colors": "Tilldela kursfärger igen",
-  "settings_reset_course_colors_confirm_message": "Varje kurs får en ny, unik färg — först från förinställd palett, sedan slumpmässigt när paletten är slut.",
+  "settings_reset_course_colors_confirm_message": "Återställ till Moodles standardfärger.",
   "settings_reset_course_colors_confirm_title": "Tilldela kursfärger igen?",
   "settings_screen_rotation": "Skärmrotation",
   "settings_section_abbreviation": "Förkortningar",

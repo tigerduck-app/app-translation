@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "Tietosuojakäytäntö",
   "settings_push_server_nav_label": "Palvelimen push",
   "settings_reset_course_colors": "Määritä kurssien värit uudelleen",
-  "settings_reset_course_colors_confirm_message": "Kullekin kurssille määritetään uusi, ainutlaatuinen väri — ensin esivalintapaletista, sitten satunnaisesti, kun paletti loppuu.",
+  "settings_reset_course_colors_confirm_message": "Palauta Moodlen oletusvärit.",
   "settings_reset_course_colors_confirm_title": "Määritetäänkö kurssien värit uudelleen?",
   "settings_screen_rotation": "Näytön kierto",
   "settings_section_abbreviation": "Lyhenteet",

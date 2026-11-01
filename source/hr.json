@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Pravila privatnosti",
     "settings_push_server_nav_label": "Poslužiteljski push",
     "settings_reset_course_colors": "Ponovno dodijeli boje kolegija",
-    "settings_reset_course_colors_confirm_message": "Svaki kolegij dobit će novu, jedinstvenu boju — najprije iz unaprijed postavljene palete, zatim nasumično kada se paleta iscrpi.",
+    "settings_reset_course_colors_confirm_message": "Vrati na zadane boje Moodlea.",
     "settings_reset_course_colors_confirm_title": "Ponovno dodijeliti boje kolegija?",
     "settings_screen_rotation": "Rotacija zaslona",
     "settings_section_abbreviation": "Kratice",

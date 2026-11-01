@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "سياسة الخصوصية",
   "settings_push_server_nav_label": "دفع الخادم",
   "settings_reset_course_colors": "إعادة تعيين ألوان المقررات",
-  "settings_reset_course_colors_confirm_message": "سيُسنَد لكل مقرر لون فريد جديد — من اللوحة المحددة أولاً، ثم عشوائياً عند نفاد اللوحة.",
+  "settings_reset_course_colors_confirm_message": "إعادة التعيين إلى ألوان Moodle الافتراضية.",
   "settings_reset_course_colors_confirm_title": "هل تريد إعادة تعيين ألوان المقررات؟",
   "settings_screen_rotation": "تدوير الشاشة",
   "settings_section_abbreviation": "اختصارات",

@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "Privatumo politika",
   "settings_push_server_nav_label": "Serverio siuntimas",
   "settings_reset_course_colors": "Iš naujo priskirti kursų spalvas",
-  "settings_reset_course_colors_confirm_message": "Kiekvienam kursui bus priskirta nauja unikali spalva — pirma iš išankstinės paletės, paskui atsitiktinai, kai paletė pasibaigs.",
+  "settings_reset_course_colors_confirm_message": "Atkurti numatytąsias Moodle spalvas.",
   "settings_reset_course_colors_confirm_title": "Priskirti kursų spalvas iš naujo?",
   "settings_screen_rotation": "Ekrano pasukimas",
   "settings_section_abbreviation": "Santrumpos",

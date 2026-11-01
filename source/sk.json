@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Zásady ochrany súkromia",
     "settings_push_server_nav_label": "Serverový push",
     "settings_reset_course_colors": "Znova priradiť farby kurzov",
-    "settings_reset_course_colors_confirm_message": "Každý kurz dostane novú jedinečnú farbu — najprv z prednastavenej palety, po vyčerpaní náhodne.",
+    "settings_reset_course_colors_confirm_message": "Obnoviť predvolené farby Moodle.",
     "settings_reset_course_colors_confirm_title": "Znova priradiť farby kurzov?",
     "settings_screen_rotation": "Otáčanie obrazovky",
     "settings_section_abbreviation": "Skratky",
