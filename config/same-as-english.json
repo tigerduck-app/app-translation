@@ -420,7 +420,7 @@
     "keys": [
       "shared.school_mail_bcc"
     ],
-    "locales": ["bg", "bn", "da", "de", "et", "fa", "fil", "gu", "hi", "hr", "id", "is", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+    "locales": ["bg", "bn", "da", "de", "et", "fil", "gu", "hi", "hr", "id", "is", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "vi"]
   },
   {
     "reason": "Message is the French word",
@@ -434,14 +434,14 @@
     "keys": [
       "shared.school_mail_cc"
     ],
-    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fa", "fil", "fr", "gu", "hi", "hr", "id", "is", "it", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fil", "fr", "gu", "hi", "hr", "id", "is", "it", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "vi"]
   },
   {
     "reason": "Cc is the mail header's own name, which mail apps leave as it is in these languages",
     "keys": [
       "shared.school_mail_details_cc"
     ],
-    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fa", "fil", "gu", "hi", "hr", "id", "is", "it", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fil", "gu", "hi", "hr", "id", "is", "it", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "vi"]
   },
   {
     "reason": "is is the Dutch word",
@@ -512,7 +512,7 @@
     "keys": [
       "shared.settings_language_english"
     ],
-    "locales": ["bg", "et", "fa", "fil", "gu", "he", "hi", "hr", "id", "ja", "kk", "ko", "lv", "ml", "ms", "nl", "ru", "sv", "ta", "th", "uk", "vi", "yue-HK", "zh-Hans", "zh-Hant"]
+    "locales": ["bg", "et", "fil", "gu", "hi", "hr", "id", "ja", "kk", "ko", "lv", "ml", "ms", "nl", "ru", "sv", "ta", "th", "uk", "vi", "yue-HK", "zh-Hans", "zh-Hant"]
   },
   {
     "reason": "Website is the word in these languages",

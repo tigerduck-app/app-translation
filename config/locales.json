@@ -1,7 +1,6 @@
 {
   "canonicalLocale": "en",
   "android": {
-    "generateAllIso639_1": false,
     "defaultDirLocale": "en",
     "specialLocaleToDir": {
       "en": "values",
@@ -11,7 +10,6 @@
       "zh-Hans": "values-zh-rCN",
       "pt-BR": "values-pt-rBR",
       "pt-PT": "values-pt-rPT",
-      "he": "values-iw",
       "id": "values-in",
       "nb": "values-nb",
       "no": "values-no",
@@ -35,7 +33,6 @@
     }
   },
   "apple": {
-    "generateAllIso639_1": false,
     "aliases": {
       "en-AU": "en-GB",
       "en-CA": "en",
