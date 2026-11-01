@@ -1,6 +1,6 @@
 # Contributing
 
-This repository holds every string of TigerDuck's Android app, Apple apps and backend, in 55
+This repository holds every string of TigerDuck's Android app, Apple apps and backend, in 51
 locales. Each app takes it as a git submodule, so a change here reaches every app that pins it.
 [CONVENTIONS.md](CONVENTIONS.md) is the contract for how the strings are laid out and named; this
 file is how a change gets in.
@@ -38,9 +38,9 @@ nobody heard about first may be closed, however good it is.
    - A value that is right as English goes in `config/same-as-english.json`, with its reason.
    - The `untranslated` check fails while a placeholder is left, which is expected until the core
      developers have finished.
-4. Regenerate the Apple and backend bundles and commit what changes under `generated/` with the
-   source change. No check catches a pull request that forgets this, and the Apple app and the
-   backend would go without the new strings:
+4. Regenerate the backend bundle and commit what changes under `generated/` with the source
+   change. No check catches a pull request that forgets this, and the backend would go without
+   the new strings. The Android and Apple apps build their own from `source/`:
 
    ```bash
    python3 tools/localization/generate_localizations.py

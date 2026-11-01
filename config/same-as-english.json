@@ -14,6 +14,7 @@
     "keys": [
       "shared.calendar_source_moodle",
       "shared.desktop_settings_section_ntust",
+      "shared.settings_page_moodle",
       "shared.source_code_picker_repo_android_description",
       "shared.source_code_picker_repo_apple_description"
     ],
@@ -106,7 +107,8 @@
     "reason": "Browser is the word in these languages",
     "keys": [
       "shared.browser_open_external_short",
-      "shared.desktop_settings_moodle_open_in_browser"
+      "shared.desktop_settings_moodle_open_in_browser",
+      "shared.settings_page_browser"
     ],
     "locales": ["da", "de", "fil", "id", "it", "nl", "ro"]
   },
@@ -411,7 +413,8 @@
   {
     "reason": "Pages is the French word",
     "keys": [
-      "shared.more_section_pages"
+      "shared.more_section_pages",
+      "shared.settings_section_pages"
     ],
     "locales": ["fr"]
   },
@@ -427,7 +430,7 @@
     "keys": [
       "shared.school_mail_bcc"
     ],
-    "locales": ["bg", "bn", "da", "de", "et", "fa", "fil", "gu", "hi", "hr", "id", "is", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+    "locales": ["bg", "bn", "da", "de", "et", "fil", "gu", "hi", "hr", "id", "is", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "vi"]
   },
   {
     "reason": "Message is the French word",
@@ -441,14 +444,14 @@
     "keys": [
       "shared.school_mail_cc"
     ],
-    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fa", "fil", "fr", "gu", "hi", "hr", "id", "is", "it", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fil", "fr", "gu", "hi", "hr", "id", "is", "it", "ja", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "vi"]
   },
   {
     "reason": "Cc is the mail header's own name, which mail apps leave as it is in these languages",
     "keys": [
       "shared.school_mail_details_cc"
     ],
-    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fa", "fil", "gu", "hi", "hr", "id", "is", "it", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "ur", "vi"]
+    "locales": ["bg", "bn", "ca", "da", "de", "es", "et", "fil", "gu", "hi", "hr", "id", "is", "it", "kk", "kn", "lt", "lv", "ml", "mr", "ms", "nl", "no", "pa", "pt-BR", "pt-PT", "ro", "sl", "sr", "sv", "ta", "te", "th", "tr", "vi"]
   },
   {
     "reason": "is is the Dutch word",
@@ -519,7 +522,7 @@
     "keys": [
       "shared.settings_language_english"
     ],
-    "locales": ["bg", "et", "fa", "fil", "gu", "he", "hi", "hr", "id", "ja", "kk", "ko", "lv", "ml", "ms", "nl", "ru", "sv", "ta", "th", "uk", "vi", "yue-HK", "zh-Hans", "zh-Hant"]
+    "locales": ["bg", "et", "fil", "gu", "hi", "hr", "id", "ja", "kk", "ko", "lv", "ml", "ms", "nl", "ru", "sv", "ta", "th", "uk", "vi", "yue-HK", "zh-Hans", "zh-Hant"]
   },
   {
     "reason": "Website is the word in these languages",
@@ -598,5 +601,26 @@
       "shared.weekday_sun_short"
     ],
     "locales": ["is"]
+  },
+  {
+    "reason": "Website is the word in these languages",
+    "keys": [
+      "shared.course_detail_syllabus_website"
+    ],
+    "locales": ["de", "fil", "nl"]
+  },
+  {
+    "reason": "Notes is the Catalan word too",
+    "keys": [
+      "shared.course_detail_syllabus_notes"
+    ],
+    "locales": ["ca"]
+  },
+  {
+    "reason": "Cache is the word phone settings use for an app's cache in these languages",
+    "keys": [
+      "shared.settings_storage_cache"
+    ],
+    "locales": ["da", "de", "fil", "fr", "id", "it", "ms", "nl", "pt-BR", "pt-PT", "ro", "sv"]
   }
 ]
