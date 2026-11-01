@@ -369,13 +369,14 @@ python3 tools/localization/generate_localizations.py
 
 The script validates the source schema (group structure, no cross-group key
 collisions, identical key inventory across locales per group) before writing
-anything. Outputs land in `generated/{apple,backend}/...` and are checked in.
+anything. Outputs land in `generated/backend/...` and are checked in.
 
-Android's outputs are not checked in. The Android app's Gradle build runs
-`generate_localizations.py --platform android --output-dir <build dir>` on every
-build, from the `source/` its submodule pin points at, so a pin bump is all it
-takes there. `generated/android/` is in `.gitignore`. `--platform` picks the
-platforms a run writes (apple and backend by default), and `--output-dir` writes
+Android's and Apple's outputs are not checked in. The Android app's Gradle build
+runs `generate_localizations.py --platform android --output-dir <build dir>` on
+every build, and each Apple target's build runs it with `--platform apple`, from
+the `source/` the submodule pin points at, so a pin bump is all it takes there.
+`generated/android/` and `generated/apple/` are in `.gitignore`. `--platform`
+picks the platforms a run writes (backend by default), and `--output-dir` writes
 one platform's files into a directory of its own.
 
 It also runs a **cross-locale contamination check**: if two unrelated locales

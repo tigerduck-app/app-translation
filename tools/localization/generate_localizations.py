@@ -4,13 +4,15 @@
 This repo is the source of truth: `source/<locale>.json`.
 
 Outputs, by platform:
-- apple: `generated/apple/<locale>.lproj/Localizable.strings` and `InfoPlist.strings`
-- backend: `generated/backend/<locale>.json`
+- backend: `generated/backend/<locale>.json`, checked in
+- apple: `<locale>.lproj/Localizable.strings` and `InfoPlist.strings`, written
+  only when asked for. Each Apple target builds its own from `source/`
+  (`--platform apple --output-dir <dir>`), so none is checked in here.
 - android: `values-*/strings.xml`, written only when asked for. The Android app
   builds its own from `source/` (`--platform android --output-dir <dir>`), so
   none is checked in here.
 
-A run with no `--platform` writes apple and backend into `generated/`.
+A run with no `--platform` writes backend into `generated/`.
 Generation is config-driven via `config/locales.json`.
 """
 
@@ -32,8 +34,8 @@ GENERATED_DIR = REPO_ROOT / "generated"
 CONFIG_PATH = REPO_ROOT / "config" / "locales.json"
 
 PLATFORMS: tuple[str, ...] = ("android", "apple", "backend")
-# Checked in under generated/. Android's are built by the app from source/.
-DEFAULT_PLATFORMS: tuple[str, ...] = ("apple", "backend")
+# Checked in under generated/. Android's and Apple's are built by the apps from source/.
+DEFAULT_PLATFORMS: tuple[str, ...] = ("backend",)
 
 # ISO 639-1 language codes. Used to generate broad fallback resources so the app
 # has a selectable language for most system languages even before real
@@ -572,7 +574,7 @@ def main(argv: list[str] | None = None) -> None:
     )
     args = parser.parse_args(argv)
     platforms = args.platform or list(DEFAULT_PLATFORMS)
-    if args.output_dir is not None and len(set(platforms)) != 1:
+    if args.output_dir is not None and len(set(args.platform or [])) != 1:
         parser.error("--output-dir takes exactly one --platform")
 
     generate(validate_only=args.validate_only, platforms=platforms, output_dir=args.output_dir)
