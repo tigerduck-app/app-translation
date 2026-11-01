@@ -241,6 +241,8 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("lt", "lv"),
         # German / Dutch -- West Germanic words such as Alle, Master, Bachelor
         ("de", "nl"),
+        # German / Swedish -- Germanic cognates such as Kalender, Konto, Stipendium
+        ("de", "sv"),
         # Kazakh / Ukrainian -- Kazakh's Russian loanwords such as Кафедра, Семестр
         ("kk", "uk"),
     )
