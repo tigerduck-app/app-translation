@@ -1,7 +1,6 @@
 {
   "canonicalLocale": "en",
   "android": {
-    "generateAllIso639_1": false,
     "defaultDirLocale": "en",
     "specialLocaleToDir": {
       "en": "values",
@@ -34,7 +33,6 @@
     }
   },
   "apple": {
-    "generateAllIso639_1": false,
     "aliases": {
       "en-AU": "en-GB",
       "en-CA": "en",

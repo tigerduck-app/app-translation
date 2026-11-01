@@ -37,40 +37,6 @@ PLATFORMS: tuple[str, ...] = ("android", "apple", "backend")
 # Checked in under generated/. Android's and Apple's are built by the apps from source/.
 DEFAULT_PLATFORMS: tuple[str, ...] = ("backend",)
 
-# ISO 639-1 language codes. Used to generate broad fallback resources so the app
-# has a selectable language for most system languages even before real
-# translations land. (Values will fall back to the canonical locale.)
-ISO_639_1: tuple[str, ...] = (
-    "aa", "ab", "ae", "af", "ak", "am", "an", "ar", "as", "av", "ay", "az",
-    "ba", "be", "bg", "bh", "bi", "bm", "bn", "bo", "br", "bs",
-    "ca", "ce", "ch", "co", "cr", "cs", "cu", "cv", "cy",
-    "da", "de", "dv", "dz",
-    "ee", "el", "en", "eo", "es", "et", "eu",
-    "fa", "ff", "fi", "fj", "fo", "fr", "fy",
-    "ga", "gd", "gl", "gn", "gu", "gv",
-    "ha", "he", "hi", "ho", "hr", "ht", "hu", "hy", "hz",
-    "ia", "id", "ie", "ig", "ii", "ik", "io", "is", "it", "iu",
-    "ja", "jv",
-    "ka", "kg", "ki", "kj", "kk", "kl", "km", "kn", "ko", "kr", "ks", "ku", "kv", "kw", "ky",
-    "la", "lb", "lg", "li", "ln", "lo", "lt", "lu", "lv",
-    "mg", "mh", "mi", "mk", "ml", "mn", "mr", "ms", "mt", "my",
-    "na", "nb", "nd", "ne", "ng", "nl", "nn", "no", "nr", "nv", "ny",
-    "oc", "oj", "om", "or", "os",
-    "pa", "pi", "pl", "ps", "pt",
-    "qu",
-    "rm", "rn", "ro", "ru", "rw",
-    "sa", "sc", "sd", "se", "sg", "si", "sk", "sl", "sm", "sn", "so", "sq", "sr", "ss", "st", "su",
-    "sv", "sw",
-    "ta", "te", "tg", "th", "ti", "tk", "tl", "tn", "to", "tr", "ts", "tt", "tw", "ty",
-    "ug", "uk", "ur", "uz",
-    "ve", "vi", "vo",
-    "wa", "wo",
-    "xh",
-    "yi", "yo",
-    "za", "zh", "zu",
-)
-
-
 def _load_json_ordered(path: Path) -> OrderedDict:
     with path.open("r", encoding="utf-8") as f:
         return json.load(f, object_pairs_hook=OrderedDict)
@@ -190,9 +156,7 @@ class LocaleConfig:
     android_default_dir_locale: str
     android_special_locale_to_dir: dict[str, str]
     android_aliases: dict[str, str]
-    android_generate_all_iso_639_1: bool
     apple_aliases: dict[str, str]
-    apple_generate_all_iso_639_1: bool
 
 
 def _load_config() -> LocaleConfig:
@@ -208,9 +172,7 @@ def _load_config() -> LocaleConfig:
         android_default_dir_locale=android.get("defaultDirLocale", "zh-Hant"),
         android_special_locale_to_dir=dict(android.get("specialLocaleToDir", {})),
         android_aliases=dict(android.get("aliases", {})),
-        android_generate_all_iso_639_1=bool(android.get("generateAllIso639_1", False)),
         apple_aliases=dict(apple.get("aliases", {})),
-        apple_generate_all_iso_639_1=bool(apple.get("generateAllIso639_1", False)),
     )
 
 
@@ -434,23 +396,10 @@ def _render_apple_strings(strings: OrderedDict) -> str:
     return "\n".join(lines)
 
 
-def _resolve_output_locales(
-        source_locales: Iterable[str],
-        aliases: dict[str, str],
-        extra_output_locales: Iterable[str],
-        *,
-        fallback_source_locale: str,
-) -> dict[str, str]:
+def _resolve_output_locales(source_locales: Iterable[str], aliases: dict[str, str]) -> dict[str, str]:
     # Returns outputLocale -> baseSourceLocale.
     resolved: dict[str, str] = {loc: loc for loc in source_locales}
-    for out_loc, base in aliases.items():
-        resolved[out_loc] = base
-    for out_loc in extra_output_locales:
-        # If it exists in sources or aliases already, keep it.
-        if out_loc in resolved:
-            continue
-        # Otherwise, map to canonical fallback.
-        resolved[out_loc] = fallback_source_locale
+    resolved.update(aliases)
     return resolved
 
 
@@ -493,25 +442,8 @@ def generate(
         loc: _flatten_for_platform(grouped, "backend") for loc, grouped in sources.items()
     }
 
-    android_extras: list[str] = []
-    apple_extras: list[str] = []
-    if cfg.android_generate_all_iso_639_1:
-        android_extras.extend(ISO_639_1)
-    if cfg.apple_generate_all_iso_639_1:
-        apple_extras.extend(ISO_639_1)
-
-    android_outputs = _resolve_output_locales(
-        source_locales,
-        cfg.android_aliases,
-        android_extras,
-        fallback_source_locale=cfg.canonical_locale,
-    )
-    apple_outputs = _resolve_output_locales(
-        source_locales,
-        cfg.apple_aliases,
-        apple_extras,
-        fallback_source_locale=cfg.canonical_locale,
-    )
+    android_outputs = _resolve_output_locales(source_locales, cfg.android_aliases)
+    apple_outputs = _resolve_output_locales(source_locales, cfg.apple_aliases)
 
     if validate_only:
         print(
