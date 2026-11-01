@@ -14,6 +14,7 @@
     "keys": [
       "shared.calendar_source_moodle",
       "shared.desktop_settings_section_ntust",
+      "shared.settings_page_moodle",
       "shared.source_code_picker_repo_android_description",
       "shared.source_code_picker_repo_apple_description"
     ],
