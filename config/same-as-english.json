@@ -107,7 +107,8 @@
     "reason": "Browser is the word in these languages",
     "keys": [
       "shared.browser_open_external_short",
-      "shared.desktop_settings_moodle_open_in_browser"
+      "shared.desktop_settings_moodle_open_in_browser",
+      "shared.settings_page_browser"
     ],
     "locales": ["da", "de", "fil", "id", "it", "nl", "ro"]
   },
@@ -405,7 +406,8 @@
   {
     "reason": "Pages is the French word",
     "keys": [
-      "shared.more_section_pages"
+      "shared.more_section_pages",
+      "shared.settings_section_pages"
     ],
     "locales": ["fr"]
   },
