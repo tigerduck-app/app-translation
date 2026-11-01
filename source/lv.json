@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Privātuma politika",
     "settings_push_server_nav_label": "Servera push",
     "settings_reset_course_colors": "No jauna piešķirt kursu krāsas",
-    "settings_reset_course_colors_confirm_message": "Katram kursam tiks piešķirta jauna, unikāla krāsa — vispirms no iepriekšiestatītās paletes, pēc tās izsmelšanas — nejauši.",
+    "settings_reset_course_colors_confirm_message": "Atiestatīt uz Moodle noklusējuma krāsām.",
     "settings_reset_course_colors_confirm_title": "Vai no jauna piešķirt kursu krāsas?",
     "settings_screen_rotation": "Ekrāna pagriešana",
     "settings_section_abbreviation": "Saīsinājumi",

@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "Kebijakan privasi",
   "settings_push_server_nav_label": "Push server",
   "settings_reset_course_colors": "Tetapkan ulang warna kursus",
-  "settings_reset_course_colors_confirm_message": "Setiap kursus akan diberi warna baru yang unik — pertama dari palet preset, lalu acak setelah palet habis.",
+  "settings_reset_course_colors_confirm_message": "Atur ulang ke warna default Moodle.",
   "settings_reset_course_colors_confirm_title": "Tetapkan ulang warna kursus?",
   "settings_screen_rotation": "Rotasi layar",
   "settings_section_abbreviation": "Singkatan",

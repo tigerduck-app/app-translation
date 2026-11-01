@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "سیاست حریم خصوصی",
     "settings_push_server_nav_label": "فشار سرور",
     "settings_reset_course_colors": "اختصاص دوبارهٔ رنگ‌های درس",
-    "settings_reset_course_colors_confirm_message": "به هر درس یک رنگ جدید و منحصربه‌فرد اختصاص می‌یابد — ابتدا از پالت پیش‌فرض، پس از پایان پالت به‌صورت تصادفی.",
+    "settings_reset_course_colors_confirm_message": "بازنشانی به رنگ‌های پیش‌فرض Moodle.",
     "settings_reset_course_colors_confirm_title": "رنگ‌های درس دوباره اختصاص داده شوند؟",
     "settings_screen_rotation": "چرخش صفحه",
     "settings_section_abbreviation": "مخفف‌ها",

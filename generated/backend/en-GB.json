@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "Privacy policy",
   "settings_push_server_nav_label": "Server push",
   "settings_reset_course_colors": "Reset course colours",
-  "settings_reset_course_colors_confirm_message": "This will randomly reassign class table colours using default presets.",
+  "settings_reset_course_colors_confirm_message": "Reset to Moodle's default colours.",
   "settings_reset_course_colors_confirm_title": "Reset class table colours?",
   "settings_screen_rotation": "Screen rotation",
   "settings_section_abbreviation": "Abbreviations",

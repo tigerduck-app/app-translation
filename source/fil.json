@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Patakaran sa privacy",
     "settings_push_server_nav_label": "Push ng server",
     "settings_reset_course_colors": "Iulit ang pagtatalaga ng kulay ng kurso",
-    "settings_reset_course_colors_confirm_message": "Bawat kurso ay bibigyan ng bago at natatanging kulay — una mula sa preset na palette, sumunod ay random kapag naubos na ang palette.",
+    "settings_reset_course_colors_confirm_message": "I-reset sa mga default na kulay ng Moodle.",
     "settings_reset_course_colors_confirm_title": "Iulit ang pagtatalaga ng kulay ng kurso?",
     "settings_screen_rotation": "Pag-ikot ng screen",
     "settings_section_abbreviation": "Mga Pagdadaglat",

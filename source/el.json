@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Πολιτική απορρήτου",
     "settings_push_server_nav_label": "Push διακομιστή",
     "settings_reset_course_colors": "Επανεκχώρηση χρωμάτων μαθημάτων",
-    "settings_reset_course_colors_confirm_message": "Κάθε μάθημα θα λάβει ένα νέο, μοναδικό χρώμα — πρώτα από την προκαθορισμένη παλέτα, στη συνέχεια τυχαία όταν εξαντληθεί.",
+    "settings_reset_course_colors_confirm_message": "Επαναφορά στα προεπιλεγμένα χρώματα του Moodle.",
     "settings_reset_course_colors_confirm_title": "Επανεκχώρηση χρωμάτων μαθημάτων;",
     "settings_screen_rotation": "Περιστροφή οθόνης",
     "settings_section_abbreviation": "Συντομογραφίες",

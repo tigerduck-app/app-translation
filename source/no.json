@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Personvernpolicy",
     "settings_push_server_nav_label": "Server-push",
     "settings_reset_course_colors": "Tildel kursfarger på nytt",
-    "settings_reset_course_colors_confirm_message": "Hvert kurs får en ny, unik farge – først fra forhåndsinnstilt palett, deretter tilfeldig når paletten er brukt opp.",
+    "settings_reset_course_colors_confirm_message": "Tilbakestill til Moodles standardfarger.",
     "settings_reset_course_colors_confirm_title": "Tildele kursfarger på nytt?",
     "settings_screen_rotation": "Skjermrotasjon",
     "settings_section_abbreviation": "Forkortelser",

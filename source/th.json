@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "นโยบายความเป็นส่วนตัว",
     "settings_push_server_nav_label": "พุชจากเซิร์ฟเวอร์",
     "settings_reset_course_colors": "กำหนดสีรายวิชาใหม่",
-    "settings_reset_course_colors_confirm_message": "ทุกรายวิชาจะได้รับสีใหม่ที่ไม่ซ้ำกัน — เริ่มจากชุดสีล่วงหน้า เมื่อหมดแล้วจะสุ่มขึ้นมา.",
+    "settings_reset_course_colors_confirm_message": "รีเซ็ตเป็นสีเริ่มต้นของ Moodle",
     "settings_reset_course_colors_confirm_title": "กำหนดสีรายวิชาใหม่หรือไม่?",
     "settings_screen_rotation": "การหมุนหน้าจอ",
     "settings_section_abbreviation": "ตัวย่อ",

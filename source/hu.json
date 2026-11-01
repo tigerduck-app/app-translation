@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "Adatvédelmi irányelvek",
     "settings_push_server_nav_label": "Szerver push",
     "settings_reset_course_colors": "Kurzusszínek újrakiosztása",
-    "settings_reset_course_colors_confirm_message": "Minden kurzus új, egyedi színt kap — előbb az előre beállított palettából, kimerülésekor véletlenszerűen.",
+    "settings_reset_course_colors_confirm_message": "Visszaállítás a Moodle alapértelmezett színeire.",
     "settings_reset_course_colors_confirm_title": "Újrakiosztja a kurzusszíneket?",
     "settings_screen_rotation": "Képernyő forgatása",
     "settings_section_abbreviation": "Rövidítések",

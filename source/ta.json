@@ -1143,7 +1143,7 @@
     "settings_privacy_policy": "தனியுரிமை கொள்கை",
     "settings_push_server_nav_label": "சேவையக புஷ்",
     "settings_reset_course_colors": "பாடநெறி வண்ணங்களை மீண்டும் ஒதுக்குங்கள்",
-    "settings_reset_course_colors_confirm_message": "ஒவ்வொரு பாடநெறிக்கும் புதிய, தனித்துவமான வண்ணம் ஒதுக்கப்படும் — முதலில் முன்னமைப்பு வண்ணப்பலகையில் இருந்து, பின்னர் அது தீர்ந்துவிட்டால் எழுந்தாற்போல்.",
+    "settings_reset_course_colors_confirm_message": "Moodle இயல்புநிலை வண்ணங்களுக்கு மீட்டமைக்கவும்.",
     "settings_reset_course_colors_confirm_title": "பாடநெறி வண்ணங்களை மீண்டும் ஒதுக்கவா?",
     "settings_screen_rotation": "திரை சுழற்சி",
     "settings_section_abbreviation": "சுருக்கங்கள்",

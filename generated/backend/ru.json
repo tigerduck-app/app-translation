@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "Политика конфиденциальности",
   "settings_push_server_nav_label": "Серверный push",
   "settings_reset_course_colors": "Переназначить цвета курсов",
-  "settings_reset_course_colors_confirm_message": "Каждому курсу будет назначен новый уникальный цвет — сначала из палитры, затем случайно, когда палитра исчерпана.",
+  "settings_reset_course_colors_confirm_message": "Сбросить на цвета Moodle по умолчанию.",
   "settings_reset_course_colors_confirm_title": "Переназначить цвета курсов?",
   "settings_screen_rotation": "Поворот экрана",
   "settings_section_abbreviation": "Сокращения",

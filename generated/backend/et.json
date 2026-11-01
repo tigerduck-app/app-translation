@@ -1146,7 +1146,7 @@
   "settings_privacy_policy": "Privaatsuspoliitika",
   "settings_push_server_nav_label": "Serveri tõuge",
   "settings_reset_course_colors": "Määra kursuste värvid uuesti",
-  "settings_reset_course_colors_confirm_message": "Iga kursus saab uue ainulaadse värvi — kõigepealt eelmääratud paletist, seejärel juhuslikult, kui palett on otsas.",
+  "settings_reset_course_colors_confirm_message": "Lähtesta Moodle'i vaikevärvidele.",
   "settings_reset_course_colors_confirm_title": "Kas määrata kursuste värvid uuesti?",
   "settings_screen_rotation": "Ekraani pööramine",
   "settings_section_abbreviation": "Lühendid",
