@@ -121,6 +121,7 @@
     "browser_appearance_light": "亮色",
     "browser_back": "上一頁",
     "browser_certificate": "查看憑證",
+    "browser_certificate_accept_risk": "接受風險並開啟",
     "browser_certificate_common_name": "一般名稱",
     "browser_certificate_copy": "複製憑證資訊",
     "browser_certificate_fingerprint": "指紋",

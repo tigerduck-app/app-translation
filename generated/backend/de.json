@@ -120,6 +120,7 @@
   "browser_appearance_light": "Hell",
   "browser_back": "Vorherige Seite",
   "browser_certificate": "Zertifikat ansehen",
+  "browser_certificate_accept_risk": "Risiko akzeptieren und öffnen",
   "browser_certificate_common_name": "Allgemeiner Name",
   "browser_certificate_copy": "Zertifikatsdetails kopieren",
   "browser_certificate_fingerprint": "Fingerabdruck",

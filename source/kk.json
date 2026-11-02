@@ -121,6 +121,7 @@
     "browser_appearance_light": "Ашық",
     "browser_back": "Алдыңғы бет",
     "browser_certificate": "Сертификатты көру",
+    "browser_certificate_accept_risk": "Тәуекелді қабылдап ашу",
     "browser_certificate_common_name": "Жалпы атау",
     "browser_certificate_copy": "Сертификат мәліметін көшіру",
     "browser_certificate_fingerprint": "Саусақ ізі",

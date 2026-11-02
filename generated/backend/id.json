@@ -120,6 +120,7 @@
   "browser_appearance_light": "Terang",
   "browser_back": "Halaman sebelumnya",
   "browser_certificate": "Lihat sertifikat",
+  "browser_certificate_accept_risk": "Terima risiko dan buka",
   "browser_certificate_common_name": "Nama umum",
   "browser_certificate_copy": "Salin detail sertifikat",
   "browser_certificate_fingerprint": "Sidik jari",

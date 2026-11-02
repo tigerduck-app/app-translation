@@ -121,6 +121,7 @@
     "browser_appearance_light": "Világos",
     "browser_back": "Előző oldal",
     "browser_certificate": "Tanúsítvány megtekintése",
+    "browser_certificate_accept_risk": "Kockázat vállalása és megnyitás",
     "browser_certificate_common_name": "Köznapi név",
     "browser_certificate_copy": "Tanúsítvány adatainak másolása",
     "browser_certificate_fingerprint": "Ujjlenyomat",

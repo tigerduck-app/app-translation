@@ -121,6 +121,7 @@
     "browser_appearance_light": "Hele",
     "browser_back": "Eelmine leht",
     "browser_certificate": "Kuva sertifikaat",
+    "browser_certificate_accept_risk": "Nõustu riskiga ja ava",
     "browser_certificate_common_name": "Üldnimi",
     "browser_certificate_copy": "Kopeeri sertifikaadi andmed",
     "browser_certificate_fingerprint": "Sõrmejälg",

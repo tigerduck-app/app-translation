@@ -120,6 +120,7 @@
   "browser_appearance_light": "Maliwanag",
   "browser_back": "Nakaraang page",
   "browser_certificate": "Tingnan ang certificate",
+  "browser_certificate_accept_risk": "Tanggapin ang panganib at buksan",
   "browser_certificate_common_name": "Karaniwang pangalan",
   "browser_certificate_copy": "Kopyahin ang detalye ng certificate",
   "browser_certificate_fingerprint": "Fingerprint",

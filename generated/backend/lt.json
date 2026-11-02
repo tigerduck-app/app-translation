@@ -120,6 +120,7 @@
   "browser_appearance_light": "Šviesi",
   "browser_back": "Ankstesnis puslapis",
   "browser_certificate": "Peržiūrėti sertifikatą",
+  "browser_certificate_accept_risk": "Prisiimti riziką ir atidaryti",
   "browser_certificate_common_name": "Bendrasis vardas",
   "browser_certificate_copy": "Kopijuoti sertifikato informaciją",
   "browser_certificate_fingerprint": "Kontrolinis kodas",

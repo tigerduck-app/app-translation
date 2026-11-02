@@ -120,6 +120,7 @@
   "browser_appearance_light": "Luminos",
   "browser_back": "Pagina anterioară",
   "browser_certificate": "Vedeți certificatul",
+  "browser_certificate_accept_risk": "Acceptați riscul și deschideți",
   "browser_certificate_common_name": "Nume comun",
   "browser_certificate_copy": "Copiați detaliile certificatului",
   "browser_certificate_fingerprint": "Amprentă",

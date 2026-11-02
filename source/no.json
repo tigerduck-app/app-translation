@@ -121,6 +121,7 @@
     "browser_appearance_light": "Lys",
     "browser_back": "Forrige side",
     "browser_certificate": "Se sertifikat",
+    "browser_certificate_accept_risk": "Godta risikoen og åpne",
     "browser_certificate_common_name": "Vanlig navn",
     "browser_certificate_copy": "Kopier sertifikatdetaljer",
     "browser_certificate_fingerprint": "Fingeravtrykk",

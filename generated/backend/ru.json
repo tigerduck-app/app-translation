@@ -120,6 +120,7 @@
   "browser_appearance_light": "Светлое",
   "browser_back": "Предыдущая страница",
   "browser_certificate": "Просмотреть сертификат",
+  "browser_certificate_accept_risk": "Принять риск и открыть",
   "browser_certificate_common_name": "Общее имя",
   "browser_certificate_copy": "Копировать данные сертификата",
   "browser_certificate_fingerprint": "Отпечаток",

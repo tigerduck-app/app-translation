@@ -120,6 +120,7 @@
   "browser_appearance_light": "ತಿಳಿ",
   "browser_back": "ಹಿಂದಿನ ಪುಟ",
   "browser_certificate": "ಪ್ರಮಾಣಪತ್ರ ನೋಡಿ",
+  "browser_certificate_accept_risk": "ಅಪಾಯವನ್ನು ಒಪ್ಪಿ ತೆರೆಯಿರಿ",
   "browser_certificate_common_name": "ಸಾಮಾನ್ಯ ಹೆಸರು",
   "browser_certificate_copy": "ಪ್ರಮಾಣಪತ್ರದ ವಿವರಗಳನ್ನು ನಕಲಿಸಿ",
   "browser_certificate_fingerprint": "ಫಿಂಗರ್‌ಪ್ರಿಂಟ್",

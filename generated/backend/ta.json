@@ -120,6 +120,7 @@
   "browser_appearance_light": "வெளிர்",
   "browser_back": "முந்தைய பக்கம்",
   "browser_certificate": "சான்றிதழைக் காட்டு",
+  "browser_certificate_accept_risk": "அபாயத்தை ஏற்று திற",
   "browser_certificate_common_name": "பொதுப் பெயர்",
   "browser_certificate_copy": "சான்றிதழ் விவரங்களை நகலெடு",
   "browser_certificate_fingerprint": "கைரேகை",

@@ -121,6 +121,7 @@
     "browser_appearance_light": "Light",
     "browser_back": "Previous page",
     "browser_certificate": "View certificate",
+    "browser_certificate_accept_risk": "Accept risk and open",
     "browser_certificate_common_name": "Common name",
     "browser_certificate_copy": "Copy certificate details",
     "browser_certificate_fingerprint": "Fingerprint",

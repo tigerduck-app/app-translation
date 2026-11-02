@@ -120,6 +120,7 @@
   "browser_appearance_light": "Licht",
   "browser_back": "Vorige pagina",
   "browser_certificate": "Certificaat bekijken",
+  "browser_certificate_accept_risk": "Risico accepteren en openen",
   "browser_certificate_common_name": "Algemene naam",
   "browser_certificate_copy": "Certificaatgegevens kopiëren",
   "browser_certificate_fingerprint": "Vingerafdruk",

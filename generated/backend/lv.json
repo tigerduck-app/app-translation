@@ -120,6 +120,7 @@
   "browser_appearance_light": "Gaišs",
   "browser_back": "Iepriekšējā lapa",
   "browser_certificate": "Skatīt sertifikātu",
+  "browser_certificate_accept_risk": "Pieņemt risku un atvērt",
   "browser_certificate_common_name": "Vispārējais nosaukums",
   "browser_certificate_copy": "Kopēt sertifikāta informāciju",
   "browser_certificate_fingerprint": "Pirkstu nospiedums",

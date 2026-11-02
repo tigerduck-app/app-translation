@@ -120,6 +120,7 @@
   "browser_appearance_light": "Ανοιχτό",
   "browser_back": "Προηγούμενη σελίδα",
   "browser_certificate": "Προβολή πιστοποιητικού",
+  "browser_certificate_accept_risk": "Αποδοχή κινδύνου και άνοιγμα",
   "browser_certificate_common_name": "Κοινό όνομα",
   "browser_certificate_copy": "Αντιγραφή στοιχείων πιστοποιητικού",
   "browser_certificate_fingerprint": "Αποτύπωμα",

@@ -120,6 +120,7 @@
   "browser_appearance_light": "밝게",
   "browser_back": "이전 페이지",
   "browser_certificate": "인증서 보기",
+  "browser_certificate_accept_risk": "위험을 감수하고 열기",
   "browser_certificate_common_name": "일반 이름",
   "browser_certificate_copy": "인증서 정보 복사",
   "browser_certificate_fingerprint": "지문",
