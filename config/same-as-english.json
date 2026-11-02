@@ -143,6 +143,7 @@
   {
     "reason": "Color is the word in these languages",
     "keys": [
+      "shared.a11y_class_table_club_color_swatch",
       "shared.a11y_course_color_swatch"
     ],
     "locales": ["ca", "es"]
