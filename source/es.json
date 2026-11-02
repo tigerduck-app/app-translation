@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Color personalizado",
     "class_table_club_color_picker_title": "Editar color",
     "class_table_club_location_label": "Aula",
+    "class_table_club_maintenance_message": "Mantenimiento rutinario todos los días de 00:00 a 07:00",
+    "class_table_club_maintenance_title": "Sistema de clubes en mantenimiento",
     "class_table_club_picker_title": "Elige un club",
     "class_table_club_search_failed": "Error en la búsqueda: %1$s",
     "class_table_club_search_prompt": "Buscar clubes",

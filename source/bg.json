@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Цвят по избор",
     "class_table_club_color_picker_title": "Редактиране на цвят",
     "class_table_club_location_label": "Класна стая",
+    "class_table_club_maintenance_message": "Редовна поддръжка всеки ден от 00:00 до 07:00",
+    "class_table_club_maintenance_title": "Системата на клубовете е в поддръжка",
     "class_table_club_picker_title": "Изберете клуб",
     "class_table_club_search_failed": "Търсенето е неуспешно: %1$s",
     "class_table_club_search_prompt": "Търсене на клубове",

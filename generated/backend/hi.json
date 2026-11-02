@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "कस्टम रंग",
   "class_table_club_color_picker_title": "रंग संपादित करें",
   "class_table_club_location_label": "कक्षा",
+  "class_table_club_maintenance_message": "हर दिन 00:00 से 07:00 बजे तक नियमित रखरखाव",
+  "class_table_club_maintenance_title": "क्लब सिस्टम का रखरखाव चल रहा है",
   "class_table_club_picker_title": "एक क्लब चुनें",
   "class_table_club_search_failed": "खोज विफल: %1$s",
   "class_table_club_search_prompt": "क्लब खोजें",

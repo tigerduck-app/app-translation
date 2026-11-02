@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "สีกำหนดเอง",
   "class_table_club_color_picker_title": "แก้ไขสี",
   "class_table_club_location_label": "ห้องเรียน",
+  "class_table_club_maintenance_message": "บำรุงรักษาตามปกติทุกวัน เวลา 00:00–07:00 น.",
+  "class_table_club_maintenance_title": "ระบบชมรมอยู่ระหว่างการบำรุงรักษา",
   "class_table_club_picker_title": "เลือกชมรม",
   "class_table_club_search_failed": "ค้นหาล้มเหลว: %1$s",
   "class_table_club_search_prompt": "ค้นหาชมรม",

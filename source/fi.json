@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Mukautettu väri",
     "class_table_club_color_picker_title": "Muokkaa väriä",
     "class_table_club_location_label": "Luokkahuone",
+    "class_table_club_maintenance_message": "Säännöllinen huolto päivittäin klo 00:00–07:00",
+    "class_table_club_maintenance_title": "Kerhojärjestelmä on huollossa",
     "class_table_club_picker_title": "Valitse kerho",
     "class_table_club_search_failed": "Haku epäonnistui: %1$s",
     "class_table_club_search_prompt": "Hae kerhoja",

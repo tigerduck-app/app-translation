@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Свой цвет",
   "class_table_club_color_picker_title": "Изменить цвет",
   "class_table_club_location_label": "Аудитория",
+  "class_table_club_maintenance_message": "Плановые работы ежедневно с 00:00 до 07:00",
+  "class_table_club_maintenance_title": "В системе клубов ведутся технические работы",
   "class_table_club_picker_title": "Выберите клуб",
   "class_table_club_search_failed": "Поиск не удался: %1$s",
   "class_table_club_search_prompt": "Поиск клубов",

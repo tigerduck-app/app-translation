@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Tinkinta spalva",
     "class_table_club_color_picker_title": "Redaguoti spalvą",
     "class_table_club_location_label": "Auditorija",
+    "class_table_club_maintenance_message": "Įprastinė techninė priežiūra kasdien nuo 00:00 iki 07:00",
+    "class_table_club_maintenance_title": "Klubų sistemoje atliekama techninė priežiūra",
     "class_table_club_picker_title": "Pasirinkti klubą",
     "class_table_club_search_failed": "Paieška nepavyko: %1$s",
     "class_table_club_search_prompt": "Ieškoti klubų",

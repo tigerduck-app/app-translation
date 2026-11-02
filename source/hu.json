@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Egyéni szín",
     "class_table_club_color_picker_title": "Szín szerkesztése",
     "class_table_club_location_label": "Tanterem",
+    "class_table_club_maintenance_message": "Rendszeres karbantartás naponta 00:00 és 07:00 között",
+    "class_table_club_maintenance_title": "A klubrendszer karbantartás alatt áll",
     "class_table_club_picker_title": "Klub kiválasztása",
     "class_table_club_search_failed": "Keresés sikertelen: %1$s",
     "class_table_club_search_prompt": "Klubok keresése",

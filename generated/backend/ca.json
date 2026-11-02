@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Color personalitzat",
   "class_table_club_color_picker_title": "Edita el color",
   "class_table_club_location_label": "Aula",
+  "class_table_club_maintenance_message": "Manteniment habitual cada dia de 00:00 a 07:00",
+  "class_table_club_maintenance_title": "Sistema de clubs en manteniment",
   "class_table_club_picker_title": "Trieu un club",
   "class_table_club_search_failed": "La cerca ha fallat: %1$s",
   "class_table_club_search_prompt": "Cerca clubs",

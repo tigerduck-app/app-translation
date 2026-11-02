@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Sérsniðinn litur",
     "class_table_club_color_picker_title": "Breyta lit",
     "class_table_club_location_label": "Kennslustofa",
+    "class_table_club_maintenance_message": "Reglubundið viðhald daglega frá 00:00 til 07:00",
+    "class_table_club_maintenance_title": "Klúbbakerfið er í viðhaldi",
     "class_table_club_picker_title": "Veldu klúbb",
     "class_table_club_search_failed": "Leit mistókst: %1$s",
     "class_table_club_search_prompt": "Leita að klúbbum",

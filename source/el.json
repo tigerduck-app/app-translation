@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Προσαρμοσμένο χρώμα",
     "class_table_club_color_picker_title": "Επεξεργασία χρώματος",
     "class_table_club_location_label": "Αίθουσα διδασκαλίας",
+    "class_table_club_maintenance_message": "Τακτική συντήρηση καθημερινά από 00:00 έως 07:00",
+    "class_table_club_maintenance_title": "Το σύστημα συλλόγων είναι υπό συντήρηση",
     "class_table_club_picker_title": "Επιλογή συλλόγου",
     "class_table_club_search_failed": "Η αναζήτηση απέτυχε: %1$s",
     "class_table_club_search_prompt": "Αναζήτηση συλλόγων",

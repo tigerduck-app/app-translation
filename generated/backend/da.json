@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Tilpasset farve",
   "class_table_club_color_picker_title": "Rediger farve",
   "class_table_club_location_label": "Klasseværelse",
+  "class_table_club_maintenance_message": "Fast vedligeholdelse dagligt fra 00:00 til 07:00",
+  "class_table_club_maintenance_title": "Klubsystemet er under vedligeholdelse",
   "class_table_club_picker_title": "Vælg en klub",
   "class_table_club_search_failed": "Søgning mislykkedes: %1$s",
   "class_table_club_search_prompt": "Søg i klubber",

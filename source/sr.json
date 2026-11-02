@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Прилагођена боја",
     "class_table_club_color_picker_title": "Уреди боју",
     "class_table_club_location_label": "Учионица",
+    "class_table_club_maintenance_message": "Редовно одржавање сваког дана од 00:00 до 07:00",
+    "class_table_club_maintenance_title": "Систем клубова је на одржавању",
     "class_table_club_picker_title": "Одаберите клуб",
     "class_table_club_search_failed": "Претрага није успела: %1$s",
     "class_table_club_search_prompt": "Претражи клубове",

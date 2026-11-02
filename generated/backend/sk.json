@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Vlastná farba",
   "class_table_club_color_picker_title": "Upraviť farbu",
   "class_table_club_location_label": "Učebňa",
+  "class_table_club_maintenance_message": "Pravidelná údržba denne od 00:00 do 07:00",
+  "class_table_club_maintenance_title": "Systém klubov je v údržbe",
   "class_table_club_picker_title": "Vyberte klub",
   "class_table_club_search_failed": "Vyhľadávanie zlyhalo: %1$s",
   "class_table_club_search_prompt": "Hľadať kluby",

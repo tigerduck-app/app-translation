@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "सानुकूल रंग",
     "class_table_club_color_picker_title": "रंग संपादित करा",
     "class_table_club_location_label": "वर्गखोली",
+    "class_table_club_maintenance_message": "दररोज 00:00 ते 07:00 नियमित देखभाल",
+    "class_table_club_maintenance_title": "क्लब प्रणालीची देखभाल सुरू आहे",
     "class_table_club_picker_title": "क्लब निवडा",
     "class_table_club_search_failed": "शोध अयशस्वी: %1$s",
     "class_table_club_search_prompt": "क्लब शोधा",

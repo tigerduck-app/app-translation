@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Kohandatud värv",
   "class_table_club_color_picker_title": "Muuda värvi",
   "class_table_club_location_label": "Klassiruum",
+  "class_table_club_maintenance_message": "Korraline hooldus iga päev kell 00:00–07:00",
+  "class_table_club_maintenance_title": "Klubide süsteem on hoolduses",
   "class_table_club_picker_title": "Valige klubi",
   "class_table_club_search_failed": "Otsing ebaõnnestus: %1$s",
   "class_table_club_search_prompt": "Klubide otsing",

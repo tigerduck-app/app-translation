@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "કસ્ટમ રંગ",
     "class_table_club_color_picker_title": "રંગ સંપાદિત કરો",
     "class_table_club_location_label": "વર્ગખંડ",
+    "class_table_club_maintenance_message": "દરરોજ 00:00 થી 07:00 સુધી નિયમિત જાળવણી",
+    "class_table_club_maintenance_title": "ક્લબ સિસ્ટમ પર જાળવણી ચાલી રહી છે",
     "class_table_club_picker_title": "ક્લબ પસંદ કરો",
     "class_table_club_search_failed": "શોધ નિષ્ફળ: %1$s",
     "class_table_club_search_prompt": "ક્લબ શોધો",

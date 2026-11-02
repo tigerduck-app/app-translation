@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "ಕಸ್ಟಮ್ ಬಣ್ಣ",
   "class_table_club_color_picker_title": "ಬಣ್ಣ ಸಂಪಾದಿಸಿ",
   "class_table_club_location_label": "ತರಗತಿ ಕೊಠಡಿ",
+  "class_table_club_maintenance_message": "ಪ್ರತಿದಿನ 00:00 ರಿಂದ 07:00 ರವರೆಗೆ ನಿಯಮಿತ ನಿರ್ವಹಣೆ",
+  "class_table_club_maintenance_title": "ಕ್ಲಬ್ ವ್ಯವಸ್ಥೆ ನಿರ್ವಹಣೆಯಲ್ಲಿದೆ",
   "class_table_club_picker_title": "ಕ್ಲಬ್ ಆರಿಸಿ",
   "class_table_club_search_failed": "ಹುಡುಕಾಟ ವಿಫಲವಾಯಿತು: %1$s",
   "class_table_club_search_prompt": "ಕ್ಲಬ್‌ಗಳನ್ನು ಹುಡುಕಿ",

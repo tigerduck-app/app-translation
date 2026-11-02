@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Anpassad färg",
     "class_table_club_color_picker_title": "Redigera färg",
     "class_table_club_location_label": "Klassrum",
+    "class_table_club_maintenance_message": "Rutinunderhåll dagligen från 00:00 till 07:00",
+    "class_table_club_maintenance_title": "Klubbsystemet underhålls",
     "class_table_club_picker_title": "Välj en klubb",
     "class_table_club_search_failed": "Sökning misslyckades: %1$s",
     "class_table_club_search_prompt": "Sök klubbar",
