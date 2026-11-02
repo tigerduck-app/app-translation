@@ -235,6 +235,8 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("bg", "uk"), ("ru", "uk"), ("ru", "sr"), ("kk", "ru"),
         # Serbian / Ukrainian -- Cyrillic Slavic words such as Назад, Готово, Курс
         ("sr", "uk"),
+        # Czech / Slovene -- Slavic words such as Čas, Barva, Konec, Komu
+        ("cs", "sl"),
         # Indic
         ("hi", "mr"),
         # Lithuanian / Latvian -- Baltic words such as Visi, Katedra, Versija

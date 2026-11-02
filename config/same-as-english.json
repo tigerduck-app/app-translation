@@ -245,6 +245,13 @@
     "locales": ["da", "de", "et", "id", "ms", "nl", "no", "sk", "sl"]
   },
   {
+    "reason": "Type is the word in these languages",
+    "keys": [
+      "shared.class_table_club_activity_type_label"
+    ],
+    "locales": ["da", "fr", "nl", "no"]
+  },
+  {
     "reason": "Cyan is the color's name in these languages",
     "keys": [
       "shared.color_name_cyan"
