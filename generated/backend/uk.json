@@ -120,6 +120,7 @@
   "browser_appearance_light": "Світлий",
   "browser_back": "Попередня сторінка",
   "browser_certificate": "Переглянути сертифікат",
+  "browser_certificate_accept_risk": "Прийняти ризик і відкрити",
   "browser_certificate_common_name": "Загальне ім'я",
   "browser_certificate_copy": "Копіювати дані сертифіката",
   "browser_certificate_fingerprint": "Відбиток",

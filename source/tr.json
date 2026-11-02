@@ -121,6 +121,7 @@
     "browser_appearance_light": "Açık",
     "browser_back": "Önceki sayfa",
     "browser_certificate": "Sertifikayı görüntüle",
+    "browser_certificate_accept_risk": "Riski kabul et ve aç",
     "browser_certificate_common_name": "Ortak ad",
     "browser_certificate_copy": "Sertifika ayrıntılarını kopyala",
     "browser_certificate_fingerprint": "Parmak izi",

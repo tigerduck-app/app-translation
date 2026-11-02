@@ -121,6 +121,7 @@
     "browser_appearance_light": "Ljust",
     "browser_back": "Föregående sida",
     "browser_certificate": "Visa certifikat",
+    "browser_certificate_accept_risk": "Godkänn risken och öppna",
     "browser_certificate_common_name": "Namn",
     "browser_certificate_copy": "Kopiera certifikatinformation",
     "browser_certificate_fingerprint": "Fingeravtryck",

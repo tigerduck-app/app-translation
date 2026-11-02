@@ -120,6 +120,7 @@
   "browser_appearance_light": "Claro",
   "browser_back": "Página anterior",
   "browser_certificate": "Ver certificado",
+  "browser_certificate_accept_risk": "Aceitar o risco e abrir",
   "browser_certificate_common_name": "Nome comum",
   "browser_certificate_copy": "Copiar detalhes do certificado",
   "browser_certificate_fingerprint": "Impressão digital",

@@ -121,6 +121,7 @@
     "browser_appearance_light": "Clar",
     "browser_back": "Pàgina anterior",
     "browser_certificate": "Mostra el certificat",
+    "browser_certificate_accept_risk": "Accepta el risc i obre",
     "browser_certificate_common_name": "Nom comú",
     "browser_certificate_copy": "Copia els detalls del certificat",
     "browser_certificate_fingerprint": "Empremta",

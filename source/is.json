@@ -121,6 +121,7 @@
     "browser_appearance_light": "Ljóst",
     "browser_back": "Fyrri síða",
     "browser_certificate": "Skoða skilríki",
+    "browser_certificate_accept_risk": "Samþykkja áhættu og opna",
     "browser_certificate_common_name": "Almennt heiti",
     "browser_certificate_copy": "Afrita upplýsingar um skilríki",
     "browser_certificate_fingerprint": "Fingrafar",

@@ -120,6 +120,7 @@
   "browser_appearance_light": "തെളിഞ്ഞത്",
   "browser_back": "മുമ്പത്തെ പേജ്",
   "browser_certificate": "സർട്ടിഫിക്കറ്റ് കാണുക",
+  "browser_certificate_accept_risk": "അപകടസാധ്യത സ്വീകരിച്ച് തുറക്കുക",
   "browser_certificate_common_name": "പൊതുവായ പേര്",
   "browser_certificate_copy": "സർട്ടിഫിക്കറ്റ് വിവരങ്ങൾ പകർത്തുക",
   "browser_certificate_fingerprint": "ഫിംഗർപ്രിന്റ്",

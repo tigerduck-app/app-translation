@@ -120,6 +120,7 @@
   "browser_appearance_light": "फिकट",
   "browser_back": "मागील पेज",
   "browser_certificate": "प्रमाणपत्र पहा",
+  "browser_certificate_accept_risk": "धोका स्वीकारून उघडा",
   "browser_certificate_common_name": "सामान्य नाव",
   "browser_certificate_copy": "प्रमाणपत्राचा तपशील कॉपी करा",
   "browser_certificate_fingerprint": "फिंगरप्रिंट",

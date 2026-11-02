@@ -120,6 +120,7 @@
   "browser_appearance_light": "Svetlý",
   "browser_back": "Predchádzajúca stránka",
   "browser_certificate": "Zobraziť certifikát",
+  "browser_certificate_accept_risk": "Prijať riziko a otvoriť",
   "browser_certificate_common_name": "Bežný názov",
   "browser_certificate_copy": "Kopírovať podrobnosti certifikátu",
   "browser_certificate_fingerprint": "Odtlačok",

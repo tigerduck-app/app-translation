@@ -121,6 +121,7 @@
     "browser_appearance_light": "Svetlo",
     "browser_back": "Prejšnja stran",
     "browser_certificate": "Prikaži potrdilo",
+    "browser_certificate_accept_risk": "Sprejmi tveganje in odpri",
     "browser_certificate_common_name": "Splošno ime",
     "browser_certificate_copy": "Kopiraj podrobnosti potrdila",
     "browser_certificate_fingerprint": "Prstni odtis",

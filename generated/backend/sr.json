@@ -120,6 +120,7 @@
   "browser_appearance_light": "Светло",
   "browser_back": "Претходна страница",
   "browser_certificate": "Прикажи сертификат",
+  "browser_certificate_accept_risk": "Прихвати ризик и отвори",
   "browser_certificate_common_name": "Уобичајено име",
   "browser_certificate_copy": "Копирај податке о сертификату",
   "browser_certificate_fingerprint": "Отисак",

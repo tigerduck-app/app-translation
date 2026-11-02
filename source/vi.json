@@ -121,6 +121,7 @@
     "browser_appearance_light": "Sáng",
     "browser_back": "Trang trước",
     "browser_certificate": "Xem chứng chỉ",
+    "browser_certificate_accept_risk": "Chấp nhận rủi ro và mở",
     "browser_certificate_common_name": "Tên chung",
     "browser_certificate_copy": "Sao chép chi tiết chứng chỉ",
     "browser_certificate_fingerprint": "Vân tay",

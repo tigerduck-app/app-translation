@@ -120,6 +120,7 @@
   "browser_appearance_light": "হালকা",
   "browser_back": "আগের পেজ",
   "browser_certificate": "সার্টিফিকেট দেখুন",
+  "browser_certificate_accept_risk": "ঝুঁকি মেনে খুলুন",
   "browser_certificate_common_name": "সাধারণ নাম",
   "browser_certificate_copy": "সার্টিফিকেটের বিবরণ কপি করুন",
   "browser_certificate_fingerprint": "ফিঙ্গারপ্রিন্ট",

@@ -120,6 +120,7 @@
   "browser_appearance_light": "สว่าง",
   "browser_back": "หน้าก่อนหน้า",
   "browser_certificate": "ดูใบรับรอง",
+  "browser_certificate_accept_risk": "ยอมรับความเสี่ยงและเปิด",
   "browser_certificate_common_name": "ชื่อทั่วไป",
   "browser_certificate_copy": "คัดลอกรายละเอียดใบรับรอง",
   "browser_certificate_fingerprint": "ลายนิ้วมือ",

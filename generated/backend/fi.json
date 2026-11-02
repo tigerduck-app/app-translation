@@ -120,6 +120,7 @@
   "browser_appearance_light": "Vaalea",
   "browser_back": "Edellinen sivu",
   "browser_certificate": "Näytä varmenne",
+  "browser_certificate_accept_risk": "Hyväksy riski ja avaa",
   "browser_certificate_common_name": "Yleinen nimi",
   "browser_certificate_copy": "Kopioi varmenteen tiedot",
   "browser_certificate_fingerprint": "Sormenjälki",
