@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "ਕਸਟਮ ਰੰਗ",
   "class_table_club_color_picker_title": "ਰੰਗ ਬਦਲੋ",
   "class_table_club_location_label": "ਕਲਾਸਰੂਮ",
+  "class_table_club_maintenance_message": "ਹਰ ਰੋਜ਼ 00:00 ਤੋਂ 07:00 ਤੱਕ ਨਿਯਮਤ ਰੱਖ-ਰਖਾਅ",
+  "class_table_club_maintenance_title": "ਕਲੱਬ ਸਿਸਟਮ ਦਾ ਰੱਖ-ਰਖਾਅ ਚੱਲ ਰਿਹਾ ਹੈ",
   "class_table_club_picker_title": "ਕਲੱਬ ਚੁਣੋ",
   "class_table_club_search_failed": "ਖੋਜ ਅਸਫਲ ਰਹੀ: %1$s",
   "class_table_club_search_prompt": "ਕਲੱਬ ਖੋਜੋ",

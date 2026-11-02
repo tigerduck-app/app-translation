@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "தனிப்பயன் வண்ணம்",
   "class_table_club_color_picker_title": "வண்ணத்தைத் திருத்து",
   "class_table_club_location_label": "வகுப்பறை",
+  "class_table_club_maintenance_message": "தினமும் 00:00 முதல் 07:00 வரை வழக்கமான பராமரிப்பு",
+  "class_table_club_maintenance_title": "கிளப் அமைப்பு பராமரிப்பில் உள்ளது",
   "class_table_club_picker_title": "கிளப்பைத் தேர்வுசெய்க",
   "class_table_club_search_failed": "தேடல் தோல்வியடைந்தது: %1$s",
   "class_table_club_search_prompt": "கிளப்களைத் தேடுக",

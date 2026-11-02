@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Pielāgota krāsa",
   "class_table_club_color_picker_title": "Rediģēt krāsu",
   "class_table_club_location_label": "Auditorija",
+  "class_table_club_maintenance_message": "Kārtējā apkope katru dienu no 00:00 līdz 07:00",
+  "class_table_club_maintenance_title": "Klubu sistēmā notiek apkope",
   "class_table_club_picker_title": "Izvēlieties klubu",
   "class_table_club_search_failed": "Meklēšana neizdevās: %1$s",
   "class_table_club_search_prompt": "Meklēt klubus",

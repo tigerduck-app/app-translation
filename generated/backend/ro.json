@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Culoare personalizată",
   "class_table_club_color_picker_title": "Editează culoarea",
   "class_table_club_location_label": "Sală",
+  "class_table_club_maintenance_message": "Întreținere de rutină zilnic între 00:00 și 07:00",
+  "class_table_club_maintenance_title": "Sistemul cluburilor este în întreținere",
   "class_table_club_picker_title": "Alege un club",
   "class_table_club_search_failed": "Căutare eșuată: %1$s",
   "class_table_club_search_prompt": "Caută cluburi",

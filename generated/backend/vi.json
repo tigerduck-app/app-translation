@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Màu tùy chỉnh",
   "class_table_club_color_picker_title": "Chỉnh sửa màu",
   "class_table_club_location_label": "Phòng học",
+  "class_table_club_maintenance_message": "Bảo trì định kỳ hằng ngày từ 00:00 đến 07:00",
+  "class_table_club_maintenance_title": "Hệ thống câu lạc bộ đang bảo trì",
   "class_table_club_picker_title": "Chọn câu lạc bộ",
   "class_table_club_search_failed": "Tìm kiếm thất bại: %1$s",
   "class_table_club_search_prompt": "Tìm câu lạc bộ",

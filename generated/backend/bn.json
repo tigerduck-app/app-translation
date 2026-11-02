@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "কাস্টম রঙ",
   "class_table_club_color_picker_title": "রঙ সম্পাদনা",
   "class_table_club_location_label": "শ্রেণীকক্ষ",
+  "class_table_club_maintenance_message": "প্রতিদিন 00:00 থেকে 07:00 পর্যন্ত নিয়মিত রক্ষণাবেক্ষণ",
+  "class_table_club_maintenance_title": "ক্লাব সিস্টেমে রক্ষণাবেক্ষণ চলছে",
   "class_table_club_picker_title": "একটি ক্লাব বেছে নিন",
   "class_table_club_search_failed": "অনুসন্ধান ব্যর্থ: %1$s",
   "class_table_club_search_prompt": "ক্লাব খুঁজুন",

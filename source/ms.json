@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Warna khusus",
     "class_table_club_color_picker_title": "Edit warna",
     "class_table_club_location_label": "Bilik darjah",
+    "class_table_club_maintenance_message": "Penyelenggaraan rutin setiap hari dari 00:00 hingga 07:00",
+    "class_table_club_maintenance_title": "Sistem kelab sedang diselenggara",
     "class_table_club_picker_title": "Pilih kelab",
     "class_table_club_search_failed": "Carian gagal: %1$s",
     "class_table_club_search_prompt": "Cari kelab",

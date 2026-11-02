@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Жеке түс",
   "class_table_club_color_picker_title": "Түсті өңдеу",
   "class_table_club_location_label": "Аудитория",
+  "class_table_club_maintenance_message": "Жоспарлы жұмыстар күн сайын 00:00–07:00 аралығында",
+  "class_table_club_maintenance_title": "Клубтар жүйесінде техникалық жұмыстар жүргізілуде",
   "class_table_club_picker_title": "Клубты таңдау",
   "class_table_club_search_failed": "Іздеу сәтсіз аяқталды: %1$s",
   "class_table_club_search_prompt": "Клубтарды іздеу",

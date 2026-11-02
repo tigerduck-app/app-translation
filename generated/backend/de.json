@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Eigene Farbe",
   "class_table_club_color_picker_title": "Farbe bearbeiten",
   "class_table_club_location_label": "Klassenzimmer",
+  "class_table_club_maintenance_message": "Tägliche Routinewartung von 00:00 bis 07:00 Uhr",
+  "class_table_club_maintenance_title": "Clubsystem wird gewartet",
   "class_table_club_picker_title": "Club auswählen",
   "class_table_club_search_failed": "Suche fehlgeschlagen: %1$s",
   "class_table_club_search_prompt": "Clubs suchen",

@@ -297,6 +297,8 @@
     "class_table_club_color_custom_label": "Prilagođena boja",
     "class_table_club_color_picker_title": "Uredi boju",
     "class_table_club_location_label": "Učionica",
+    "class_table_club_maintenance_message": "Redovito održavanje svaki dan od 00:00 do 07:00",
+    "class_table_club_maintenance_title": "Sustav klubova je na održavanju",
     "class_table_club_picker_title": "Odaberi klub",
     "class_table_club_search_failed": "Pretraga nije uspjela: %1$s",
     "class_table_club_search_prompt": "Pretraži klubove",

@@ -296,6 +296,8 @@
   "class_table_club_color_custom_label": "Colore personalizzato",
   "class_table_club_color_picker_title": "Modifica colore",
   "class_table_club_location_label": "Aula",
+  "class_table_club_maintenance_message": "Manutenzione ordinaria ogni giorno dalle 00:00 alle 07:00",
+  "class_table_club_maintenance_title": "Sistema dei club in manutenzione",
   "class_table_club_picker_title": "Scegli un club",
   "class_table_club_search_failed": "Ricerca non riuscita: %1$s",
   "class_table_club_search_prompt": "Cerca club",
