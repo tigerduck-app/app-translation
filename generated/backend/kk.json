@@ -10,6 +10,7 @@
   "a11y_class_table_conflict_prefix": "Сабақ қақтығысы",
   "a11y_class_table_share_qr": "Сабақ кестесін бөлісу QR коды",
   "a11y_class_table_switch": "Сабақ кестесін ауыстыру",
+  "a11y_club_activity_open_details_hint": "Толығырақ ақпарат алу үшін екі рет түртіңіз",
   "a11y_course_card_open_details_hint": "Толығырақ ақпарат алу үшін екі рет түртіңіз",
   "a11y_course_color_swatch": "Түс %1$lld",
   "a11y_course_detail_open_moodle": "Moodle-да ашу",
