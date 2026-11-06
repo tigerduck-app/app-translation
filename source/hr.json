@@ -11,6 +11,7 @@
     "a11y_class_table_conflict_prefix": "Sukob sati",
     "a11y_class_table_share_qr": "QR kod za dijeljenje rasporeda",
     "a11y_class_table_switch": "Promijeni raspored",
+    "a11y_class_table_week": "Tjedan %1$lld",
     "a11y_club_activity_open_details_hint": "Dvaput dodirnite za detalje",
     "a11y_course_card_open_details_hint": "Dvaput dodirnite za detalje",
     "a11y_course_color_swatch": "Boja %1$lld",

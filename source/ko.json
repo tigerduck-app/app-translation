@@ -11,6 +11,7 @@
     "a11y_class_table_conflict_prefix": "수업 충돌",
     "a11y_class_table_share_qr": "시간표 공유 QR 코드",
     "a11y_class_table_switch": "시간표 전환",
+    "a11y_class_table_week": "%1$lld주차",
     "a11y_club_activity_open_details_hint": "두 번 탭하여 세부 정보 보기",
     "a11y_course_card_open_details_hint": "두 번 탭하여 세부 정보 보기",
     "a11y_course_color_swatch": "색상 %1$lld",
