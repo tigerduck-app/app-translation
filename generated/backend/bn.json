@@ -457,6 +457,8 @@
   "course_forum_pinned": "পিন করা",
   "course_instructor_value": "শিক্ষক: %1$s",
   "course_member_change_picture": "প্রোফাইল ছবি পরিবর্তন করুন",
+  "course_member_common_courses": "একসাথে নেওয়া কোর্স",
+  "course_member_common_courses_other": "অন্যান্য",
   "course_member_department": "বিভাগ",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",

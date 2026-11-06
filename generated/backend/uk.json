@@ -457,6 +457,8 @@
   "course_forum_pinned": "Закріплено",
   "course_instructor_value": "Викладач: %1$s",
   "course_member_change_picture": "Змінити фото профілю",
+  "course_member_common_courses": "Спільні курси",
+  "course_member_common_courses_other": "Інше",
   "course_member_department": "Кафедра",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",

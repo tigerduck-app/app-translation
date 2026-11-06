@@ -458,6 +458,8 @@
     "course_forum_pinned": "Prisegta",
     "course_instructor_value": "Dėstytojas: %1$s",
     "course_member_change_picture": "Keisti profilio nuotrauką",
+    "course_member_common_courses": "Bendri kursai",
+    "course_member_common_courses_other": "Kita",
     "course_member_department": "Katedra",
     "course_member_department_ad": "Department of Architecture",
     "course_member_department_ad_short": "Architecture",

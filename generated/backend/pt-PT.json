@@ -457,6 +457,8 @@
   "course_forum_pinned": "Fixado",
   "course_instructor_value": "Docente: %1$s",
   "course_member_change_picture": "Alterar fotografia de perfil",
+  "course_member_common_courses": "Disciplinas em comum",
+  "course_member_common_courses_other": "Outros",
   "course_member_department": "Departamento",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",

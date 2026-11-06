@@ -458,6 +458,8 @@
     "course_forum_pinned": "Kinnitatud",
     "course_instructor_value": "Õpetaja: %1$s",
     "course_member_change_picture": "Muuda profiilipilti",
+    "course_member_common_courses": "Ühised kursused",
+    "course_member_common_courses_other": "Muu",
     "course_member_department": "Osakond",
     "course_member_department_ad": "Department of Architecture",
     "course_member_department_ad_short": "Architecture",

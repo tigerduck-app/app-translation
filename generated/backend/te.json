@@ -457,6 +457,8 @@
   "course_forum_pinned": "పిన్ చేయబడింది",
   "course_instructor_value": "ఇన్‌స్ట్రక్టర్: %1$s",
   "course_member_change_picture": "ప్రొఫైల్ చిత్రం మార్చు",
+  "course_member_common_courses": "కలిసి తీసుకున్న కోర్సులు",
+  "course_member_common_courses_other": "ఇతర",
   "course_member_department": "విభాగం",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",

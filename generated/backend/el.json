@@ -457,6 +457,8 @@
   "course_forum_pinned": "Καρφιτσωμένο",
   "course_instructor_value": "Καθηγητής: %1$s",
   "course_member_change_picture": "Αλλαγή φωτογραφίας προφίλ",
+  "course_member_common_courses": "Κοινά μαθήματα",
+  "course_member_common_courses_other": "Άλλα",
   "course_member_department": "Τμήμα",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",
