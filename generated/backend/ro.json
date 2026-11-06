@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "Tendința GPA pe semestru",
   "a11y_rankings_trend_no_selection": "Niciun semestru selectat",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "de la %1$s la %2$s",
   "a11y_time_slider_swipe_hint": "Glisați la stânga sau la dreapta pentru a schimba ora",
   "a11y_timetable_cell": "%1$@ perioada %2$@: %3$@",
   "action_add": "Adaugă",

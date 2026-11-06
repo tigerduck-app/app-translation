@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "各學期 GPA 趨勢",
   "a11y_rankings_trend_no_selection": "未揀學期",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "%1$s 至 %2$s",
   "a11y_time_slider_swipe_hint": "左右掃可以調整時間",
   "a11y_timetable_cell": "週%1$@ 第%2$@節：%3$@",
   "action_add": "新增",

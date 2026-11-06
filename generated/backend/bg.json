@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "Тенденция на GPA по семестри",
   "a11y_rankings_trend_no_selection": "Не е избран семестър",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "от %1$s до %2$s",
   "a11y_time_slider_swipe_hint": "Плъзнете наляво или надясно, за да промените часа",
   "a11y_timetable_cell": "%1$@ период %2$@: %3$@",
   "action_add": "Добави",

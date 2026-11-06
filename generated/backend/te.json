@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "సెమిస్టర్ వారీగా GPA ధోరణి",
   "a11y_rankings_trend_no_selection": "సెమిస్టర్ ఎంచుకోబడలేదు",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "%1$s నుండి %2$s వరకు",
   "a11y_time_slider_swipe_hint": "సమయం మార్చడానికి ఎడమ లేదా కుడికి స్వైప్ చేయండి",
   "a11y_timetable_cell": "%1$@ పీరియడ్ %2$@: %3$@",
   "action_add": "జోడించు",

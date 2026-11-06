@@ -29,6 +29,7 @@
     "a11y_rankings_trend_chart": "Τάση GPA ανά εξάμηνο",
     "a11y_rankings_trend_no_selection": "Δεν έχει επιλεγεί εξάμηνο",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_time_range": "από %1$s έως %2$s",
     "a11y_time_slider_swipe_hint": "Σύρετε αριστερά ή δεξιά για αλλαγή ώρας",
     "a11y_timetable_cell": "%1$@ ώρα %2$@: %3$@",
     "action_add": "Προσθήκη",

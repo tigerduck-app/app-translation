@@ -237,6 +237,8 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("sr", "uk"),
         # Czech / Slovene -- Slavic words such as Čas, Barva, Konec, Komu
         ("cs", "sl"),
+        # Polish / Slovak -- West Slavic words such as Koniec, Teraz, Rozumiem and "od ... do"
+        ("pl", "sk"),
         # Indic
         ("hi", "mr"),
         # Lithuanian / Latvian -- Baltic words such as Visi, Katedra, Versija

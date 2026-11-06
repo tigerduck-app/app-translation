@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "GPA-tendencia szemeszterenként",
   "a11y_rankings_trend_no_selection": "Nincs szemeszter kiválasztva",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "%1$s és %2$s között",
   "a11y_time_slider_swipe_hint": "Húzza balra vagy jobbra az idő módosításához",
   "a11y_timetable_cell": "%1$@ óra %2$@: %3$@",
   "action_add": "Hozzáadás",

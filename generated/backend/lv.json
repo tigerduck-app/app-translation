@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "GPA tendence pa semestriem",
   "a11y_rankings_trend_no_selection": "Semestris nav izvēlēts",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "no %1$s līdz %2$s",
   "a11y_time_slider_swipe_hint": "Velciet pa kreisi vai pa labi, lai mainītu laiku",
   "a11y_timetable_cell": "%1$@ %2$@ periods: %3$@",
   "action_add": "Pievienot",
