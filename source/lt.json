@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ pabaiga",
     "calendar_semester_start": "%1$@ pradžia",
+    "library_virtual_pass_action_hint": "Atidaryti virtualų leidimą",
     "live_activity_countdown_done_assignment_urgent": "Vėluoja",
     "live_activity_countdown_done_class_preparing": "Prasidėjo",
     "live_activity_countdown_done_in_class": "Pasibaigė",

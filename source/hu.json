@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ vége",
     "calendar_semester_start": "%1$@ kezdete",
+    "library_virtual_pass_action_hint": "Virtuális belépő megnyitása",
     "live_activity_countdown_done_assignment_urgent": "Esedékes",
     "live_activity_countdown_done_class_preparing": "Elkezdődött",
     "live_activity_countdown_done_in_class": "Vége",

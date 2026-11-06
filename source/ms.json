@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Akhir %1$@",
     "calendar_semester_start": "Mula %1$@",
+    "library_virtual_pass_action_hint": "Buka pas maya",
     "live_activity_countdown_done_assignment_urgent": "Tamat tempoh",
     "live_activity_countdown_done_class_preparing": "Bermula",
     "live_activity_countdown_done_in_class": "Tamat",

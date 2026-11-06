@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@-এর শেষ",
     "calendar_semester_start": "%1$@-এর শুরু",
+    "library_virtual_pass_action_hint": "ভার্চুয়াল পাস খুলুন",
     "live_activity_countdown_done_assignment_urgent": "বকেয়া",
     "live_activity_countdown_done_class_preparing": "শুরু",
     "live_activity_countdown_done_in_class": "শেষ",

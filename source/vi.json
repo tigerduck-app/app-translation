@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Kết thúc %1$@",
     "calendar_semester_start": "Bắt đầu %1$@",
+    "library_virtual_pass_action_hint": "Mở thẻ vào ảo",
     "live_activity_countdown_done_assignment_urgent": "Đến hạn",
     "live_activity_countdown_done_class_preparing": "Đã bắt đầu",
     "live_activity_countdown_done_in_class": "Đã kết thúc",

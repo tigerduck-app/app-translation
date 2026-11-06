@@ -54,6 +54,15 @@ class PlatformOutputTest(unittest.TestCase):
         self.assertTrue((out / "zh-Hant.lproj" / "InfoPlist.strings").exists())
         self.assertEqual([], [p for p in self.tmp.iterdir() if p != out])
 
+    def test_infoplist_strings_carry_the_quick_action_title(self):
+        out = self.tmp / "lproj"
+
+        gen.main(["--platform", "apple", "--output-dir", str(out)])
+
+        strings = (out / "zh-Hant.lproj" / "InfoPlist.strings").read_text(encoding="utf-8")
+        self.assertIn('"library_virtual_pass_title" = "虛擬入館證";', strings)
+        self.assertIn('"NSCameraUsageDescription" = ', strings)
+
     def test_android_alone_into_a_directory_of_its_own(self):
         out = self.tmp / "res"
 

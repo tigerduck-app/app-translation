@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ соңы",
     "calendar_semester_start": "%1$@ басы",
+    "library_virtual_pass_action_hint": "Виртуалды өткізгішті ашу",
     "live_activity_countdown_done_assignment_urgent": "Өтті",
     "live_activity_countdown_done_class_preparing": "Басталды",
     "live_activity_countdown_done_in_class": "Аяқталды",

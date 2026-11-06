@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ beigas",
     "calendar_semester_start": "%1$@ sākums",
+    "library_virtual_pass_action_hint": "Atvērt virtuālo caurlaides karti",
     "live_activity_countdown_done_assignment_urgent": "Kavējas",
     "live_activity_countdown_done_class_preparing": "Sākās",
     "live_activity_countdown_done_in_class": "Beidzās",

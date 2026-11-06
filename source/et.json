@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ lõpp",
     "calendar_semester_start": "%1$@ algus",
+    "library_virtual_pass_action_hint": "Ava virtuaalne pääs",
     "live_activity_countdown_done_assignment_urgent": "Hilineb",
     "live_activity_countdown_done_class_preparing": "Algas",
     "live_activity_countdown_done_in_class": "Lõppes",

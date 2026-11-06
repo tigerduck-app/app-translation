@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ முடிவு",
     "calendar_semester_start": "%1$@ தொடக்கம்",
+    "library_virtual_pass_action_hint": "மெய்நிகர் பாஸைத் திற",
     "live_activity_countdown_done_assignment_urgent": "காலம் கடந்தது",
     "live_activity_countdown_done_class_preparing": "தொடங்கியது",
     "live_activity_countdown_done_in_class": "முடிந்தது",

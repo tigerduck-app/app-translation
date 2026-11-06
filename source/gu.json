@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ નો અંત",
     "calendar_semester_start": "%1$@ ની શરૂઆત",
+    "library_virtual_pass_action_hint": "વર્ચ્યુઅલ પાસ ખોલો",
     "live_activity_countdown_done_assignment_urgent": "બાકી",
     "live_activity_countdown_done_class_preparing": "શરૂ",
     "live_activity_countdown_done_in_class": "સમાપ્ત",

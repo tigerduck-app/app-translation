@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ ముగింపు",
     "calendar_semester_start": "%1$@ ప్రారంభం",
+    "library_virtual_pass_action_hint": "వర్చువల్ పాస్‌ను తెరవండి",
     "live_activity_countdown_done_assignment_urgent": "గడువు మించింది",
     "live_activity_countdown_done_class_preparing": "మొదలైంది",
     "live_activity_countdown_done_in_class": "ముగిసింది",

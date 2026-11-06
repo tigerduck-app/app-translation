@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Slutt på %1$@",
     "calendar_semester_start": "Start på %1$@",
+    "library_virtual_pass_action_hint": "Åpne virtuelt adgangskort",
     "live_activity_countdown_done_assignment_urgent": "Forfalt",
     "live_activity_countdown_done_class_preparing": "Startet",
     "live_activity_countdown_done_in_class": "Avsluttet",

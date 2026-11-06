@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Край на %1$@",
     "calendar_semester_start": "Начало на %1$@",
+    "library_virtual_pass_action_hint": "Отваряне на виртуалния пропуск",
     "live_activity_countdown_done_assignment_urgent": "Изтече",
     "live_activity_countdown_done_class_preparing": "Започна",
     "live_activity_countdown_done_in_class": "Приключи",

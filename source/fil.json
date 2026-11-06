@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Katapusan ng %1$@",
     "calendar_semester_start": "Simula ng %1$@",
+    "library_virtual_pass_action_hint": "Buksan ang virtual na pass",
     "live_activity_countdown_done_assignment_urgent": "Due na",
     "live_activity_countdown_done_class_preparing": "Nagsimula na",
     "live_activity_countdown_done_in_class": "Natapos na",

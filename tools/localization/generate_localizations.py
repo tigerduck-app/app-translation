@@ -370,13 +370,17 @@ def _render_android_strings_xml(strings: OrderedDict) -> str:
     return "\n".join(lines)
 
 
-# Apple-group keys that localize an Info.plist value rather than an in-app
-# string: source key -> Info.plist key. iOS reads these from InfoPlist.strings,
-# never from Localizable.strings, so the system's own prompts (a permission's
-# purpose string) would otherwise stay in the development language whatever
-# the user's language is. They still go into Localizable.strings as well,
-# where they are unused and harmless.
+# Apple-bundle keys that localize an Info.plist value rather than an in-app
+# string: source key -> InfoPlist.strings key. iOS reads these from
+# InfoPlist.strings, never from Localizable.strings, so the system's own text (a
+# permission's purpose string, a Home Screen quick action's title) would
+# otherwise stay in the development language whatever the user's language is. A
+# top-level value is looked up by its Info.plist key; a quick action's
+# UIApplicationShortcutItemTitle is looked up by the title it holds, which the
+# app's Info.plist sets to the source key. They still go into
+# Localizable.strings as well, where they are harmless.
 APPLE_INFO_PLIST_KEYS: dict[str, str] = {
+    "library_virtual_pass_title": "library_virtual_pass_title",
     "permission_camera_usage": "NSCameraUsageDescription",
     "permission_photo_library_add_usage": "NSPhotoLibraryAddUsageDescription",
 }

@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ 終了",
     "calendar_semester_start": "%1$@ 開始",
+    "library_virtual_pass_action_hint": "バーチャル入館証を開く",
     "live_activity_countdown_done_assignment_urgent": "締切",
     "live_activity_countdown_done_class_preparing": "開始",
     "live_activity_countdown_done_in_class": "終了",

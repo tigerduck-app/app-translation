@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ അവസാനം",
     "calendar_semester_start": "%1$@ ആരംഭം",
+    "library_virtual_pass_action_hint": "വെർച്വൽ പാസ് തുറക്കുക",
     "live_activity_countdown_done_assignment_urgent": "കാലഹരണപ്പെട്ടു",
     "live_activity_countdown_done_class_preparing": "ആരംഭിച്ചു",
     "live_activity_countdown_done_in_class": "അവസാനിച്ചു",

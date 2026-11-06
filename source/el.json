@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Τέλος %1$@",
     "calendar_semester_start": "Έναρξη %1$@",
+    "library_virtual_pass_action_hint": "Άνοιγμα εικονικής κάρτας εισόδου",
     "live_activity_countdown_done_assignment_urgent": "Έληξε",
     "live_activity_countdown_done_class_preparing": "Ξεκίνησε",
     "live_activity_countdown_done_in_class": "Τελείωσε",

@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Lok %1$@",
     "calendar_semester_start": "Upphaf %1$@",
+    "library_virtual_pass_action_hint": "Opna sýndarkort",
     "live_activity_countdown_done_assignment_urgent": "Útrunnið",
     "live_activity_countdown_done_class_preparing": "Byrjað",
     "live_activity_countdown_done_in_class": "Lokið",

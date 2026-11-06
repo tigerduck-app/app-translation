@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Fi de %1$@",
     "calendar_semester_start": "Inici de %1$@",
+    "library_virtual_pass_action_hint": "Obre el passi virtual",
     "live_activity_countdown_done_assignment_urgent": "Vençuda",
     "live_activity_countdown_done_class_preparing": "Començada",
     "live_activity_countdown_done_in_class": "Acabada",

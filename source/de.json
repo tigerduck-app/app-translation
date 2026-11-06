@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Ende von %1$@",
     "calendar_semester_start": "Beginn von %1$@",
+    "library_virtual_pass_action_hint": "Virtuellen Ausweis öffnen",
     "live_activity_countdown_done_assignment_urgent": "Fällig",
     "live_activity_countdown_done_class_preparing": "Begonnen",
     "live_activity_countdown_done_in_class": "Beendet",

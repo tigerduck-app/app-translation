@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Einde van %1$@",
     "calendar_semester_start": "Begin van %1$@",
+    "library_virtual_pass_action_hint": "Virtuele pas openen",
     "live_activity_countdown_done_assignment_urgent": "Verlopen",
     "live_activity_countdown_done_class_preparing": "Begonnen",
     "live_activity_countdown_done_in_class": "Afgelopen",

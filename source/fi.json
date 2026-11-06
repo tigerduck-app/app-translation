@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "%1$@ päättyy",
     "calendar_semester_start": "%1$@ alkaa",
+    "library_virtual_pass_action_hint": "Avaa virtuaalinen kirjastokortti",
     "live_activity_countdown_done_assignment_urgent": "Erääntynyt",
     "live_activity_countdown_done_class_preparing": "Alkanut",
     "live_activity_countdown_done_in_class": "Päättynyt",

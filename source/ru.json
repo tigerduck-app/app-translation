@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Конец %1$@",
     "calendar_semester_start": "Начало %1$@",
+    "library_virtual_pass_action_hint": "Открыть виртуальный пропуск",
     "live_activity_countdown_done_assignment_urgent": "Просрочено",
     "live_activity_countdown_done_class_preparing": "Началось",
     "live_activity_countdown_done_in_class": "Завершено",

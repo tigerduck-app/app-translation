@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Sfârșit: %1$@",
     "calendar_semester_start": "Început: %1$@",
+    "library_virtual_pass_action_hint": "Deschideți permisul virtual",
     "live_activity_countdown_done_assignment_urgent": "Expirat",
     "live_activity_countdown_done_class_preparing": "Început",
     "live_activity_countdown_done_in_class": "Încheiat",

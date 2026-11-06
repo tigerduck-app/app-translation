@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Bitiş: %1$@",
     "calendar_semester_start": "Başlangıç: %1$@",
+    "library_virtual_pass_action_hint": "Sanal geçişi aç",
     "live_activity_countdown_done_assignment_urgent": "Süresi doldu",
     "live_activity_countdown_done_class_preparing": "Başladı",
     "live_activity_countdown_done_in_class": "Bitti",

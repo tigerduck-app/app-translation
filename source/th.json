@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "สิ้นสุด %1$@",
     "calendar_semester_start": "เริ่มต้น %1$@",
+    "library_virtual_pass_action_hint": "เปิดบัตรเข้าห้องสมุดเสมือน",
     "live_activity_countdown_done_assignment_urgent": "ครบกำหนด",
     "live_activity_countdown_done_class_preparing": "เริ่มแล้ว",
     "live_activity_countdown_done_in_class": "เลิกเรียนแล้ว",

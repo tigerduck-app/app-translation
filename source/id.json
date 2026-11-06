@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Akhir %1$@",
     "calendar_semester_start": "Awal %1$@",
+    "library_virtual_pass_action_hint": "Buka kartu masuk virtual",
     "live_activity_countdown_done_assignment_urgent": "Jatuh tempo",
     "live_activity_countdown_done_class_preparing": "Dimulai",
     "live_activity_countdown_done_in_class": "Selesai",

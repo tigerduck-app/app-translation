@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Kraj %1$@",
     "calendar_semester_start": "Početak %1$@",
+    "library_virtual_pass_action_hint": "Otvori virtualnu propusnicu",
     "live_activity_countdown_done_assignment_urgent": "Isteklo",
     "live_activity_countdown_done_class_preparing": "Počelo",
     "live_activity_countdown_done_in_class": "Završeno",

@@ -1484,6 +1484,7 @@
   "apple": {
     "calendar_semester_end": "Konec %1$@",
     "calendar_semester_start": "Začetek %1$@",
+    "library_virtual_pass_action_hint": "Odpri virtualno izkaznico",
     "live_activity_countdown_done_assignment_urgent": "Zapadlo",
     "live_activity_countdown_done_class_preparing": "Začeto",
     "live_activity_countdown_done_in_class": "Končano",
