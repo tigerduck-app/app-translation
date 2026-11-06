@@ -317,6 +317,7 @@
   "class_table_delete": "हटवा",
   "class_table_delete_user": "वापरकर्ता हटवा",
   "class_table_delete_user_confirm": "\"%1$s\" हटवायचे?",
+  "class_table_download_ics": "ICS म्हणून डाउनलोड करा",
   "class_table_empty_message": "रिफ्रेश करण्यासाठी ओढा, कोर्स जोडण्यासाठी ⋯ टॅप करा, किंवा दुसऱ्या सेमिस्टरवर स्विच करा",
   "class_table_export_failed": "वर्ग वेळापत्रक निर्यात करता आले नाही",
   "class_table_export_screenshot": "स्क्रीनशॉट निर्यात करा",

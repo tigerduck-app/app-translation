@@ -317,6 +317,7 @@
   "class_table_delete": "நீக்கு",
   "class_table_delete_user": "பயனரை நீக்கு",
   "class_table_delete_user_confirm": "\"%1$s\"-ஐ நீக்கவா?",
+  "class_table_download_ics": "ICS ஆகப் பதிவிறக்கு",
   "class_table_empty_message": "புதுப்பிக்க இழுக்கவும், வகுப்பு சேர்க்க ⋯ தட்டவும், அல்லது வேறு பருவத்திற்கு மாறவும்",
   "class_table_export_failed": "வகுப்பு அட்டவணையை ஏற்றுமதி செய்ய முடியவில்லை",
   "class_table_export_screenshot": "திரைப்பிடிப்பை ஏற்றுமதி செய்",

@@ -318,6 +318,7 @@
     "class_table_delete": "Löschen",
     "class_table_delete_user": "Benutzer löschen",
     "class_table_delete_user_confirm": "„%1$s“ löschen?",
+    "class_table_download_ics": "Als ICS herunterladen",
     "class_table_empty_message": "Ziehen Sie zum Aktualisieren, tippen Sie auf ⋯, um einen Kurs hinzuzufügen, oder wechseln Sie zu einem anderen Semester",
     "class_table_export_failed": "Stundenplan konnte nicht exportiert werden",
     "class_table_export_screenshot": "Screenshot exportieren",

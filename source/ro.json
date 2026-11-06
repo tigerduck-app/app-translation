@@ -318,6 +318,7 @@
     "class_table_delete": "Șterge",
     "class_table_delete_user": "Șterge utilizatorul",
     "class_table_delete_user_confirm": "Ștergi „%1$s”?",
+    "class_table_download_ics": "Descarcă ca ICS",
     "class_table_empty_message": "Trage pentru reîmprospătare, atinge ⋯ pentru a adăuga un curs sau schimbă semestrul",
     "class_table_export_failed": "Orarul nu a putut fi exportat",
     "class_table_export_screenshot": "Exportă o captură de ecran",

@@ -317,6 +317,7 @@
   "class_table_delete": "Slett",
   "class_table_delete_user": "Slett bruker",
   "class_table_delete_user_confirm": "Slette «%1$s»?",
+  "class_table_download_ics": "Last ned som ICS",
   "class_table_empty_message": "Dra ned for å oppdatere, trykk på ⋯ for å legge til et fag, eller bytt til et annet semester",
   "class_table_export_failed": "Kunne ikke eksportere timeplanen",
   "class_table_export_screenshot": "Eksporter skjermbilde",
