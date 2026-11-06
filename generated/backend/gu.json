@@ -319,6 +319,7 @@
   "class_table_delete_user_confirm": "\"%1$s\" ડિલીટ કરવું છે?",
   "class_table_empty_message": "રિફ્રેશ કરવા ખેંચો, કોર્સ ઉમેરવા ⋯ ટેપ કરો, અથવા બીજા સેમેસ્ટર પર સ્વિચ કરો",
   "class_table_export_failed": "ક્લાસ ટાઇમટેબલ નિકાસ કરી શકાયું નહીં",
+  "class_table_export_ics": "ICS નિકાસ કરો",
   "class_table_export_screenshot": "સ્ક્રીનશૉટ નિકાસ કરો",
   "class_table_ignore_assignments": "સોંપણીઓ અવગણો",
   "class_table_ignore_assignments_undo": "સોંપણીઓને અવગણવાનું બંધ કરો",

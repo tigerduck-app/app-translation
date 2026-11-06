@@ -320,6 +320,7 @@
     "class_table_delete_user_confirm": "Vols eliminar «%1$s»?",
     "class_table_empty_message": "Estira per actualitzar, toca ⋯ per afegir un curs, o canvia a un altre semestre",
     "class_table_export_failed": "No s'ha pogut exportar l'horari",
+    "class_table_export_ics": "Exporta ICS",
     "class_table_export_screenshot": "Exporta una captura",
     "class_table_ignore_assignments": "Ignora les tasques",
     "class_table_ignore_assignments_undo": "Deixa d'ignorar les tasques",

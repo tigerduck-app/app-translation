@@ -320,6 +320,7 @@
     "class_table_delete_user_confirm": "「%1$s」を削除しますか？",
     "class_table_empty_message": "下に引っ張って更新するか、⋯ をタップして授業を追加するか、別の学期に切り替えてください",
     "class_table_export_failed": "時間割を書き出せませんでした",
+    "class_table_export_ics": "ICS を書き出す",
     "class_table_export_screenshot": "スクリーンショットを書き出す",
     "class_table_ignore_assignments": "課題を無視",
     "class_table_ignore_assignments_undo": "課題の無視を取り消す",
