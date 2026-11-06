@@ -32,6 +32,7 @@
     "a11y_rankings_trend_chart": "Tendência de GPA por semestre",
     "a11y_rankings_trend_no_selection": "Nenhum semestre selecionado",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_school_mail_recipient_suggestions": "Sugestões de destinatários",
     "a11y_time_range": "das %1$s às %2$s",
     "a11y_time_slider_swipe_hint": "Deslize para a esquerda ou direita para mudar o horário",
     "a11y_timetable_cell": "%1$@ período %2$@: %3$@",

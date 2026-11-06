@@ -31,6 +31,7 @@
   "a11y_rankings_trend_chart": "Тренд GPA по семестру",
   "a11y_rankings_trend_no_selection": "Није одабран семестар",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_school_mail_recipient_suggestions": "Предлози прималаца",
   "a11y_time_range": "од %1$s до %2$s",
   "a11y_time_slider_swipe_hint": "Превуците лево или десно да промените време",
   "a11y_timetable_cell": "%1$@ час %2$@: %3$@",

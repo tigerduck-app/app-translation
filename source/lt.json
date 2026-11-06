@@ -32,6 +32,7 @@
     "a11y_rankings_trend_chart": "GPA tendencija pagal semestrą",
     "a11y_rankings_trend_no_selection": "Semestras nepasirinktas",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_school_mail_recipient_suggestions": "Gavėjų pasiūlymai",
     "a11y_time_range": "nuo %1$s iki %2$s",
     "a11y_time_slider_swipe_hint": "Braukite kairėn arba dešinėn, kad pakeistumėte laiką",
     "a11y_timetable_cell": "%1$@ %2$@ pamoka: %3$@",

@@ -31,6 +31,7 @@
   "a11y_rankings_trend_chart": "학기별 GPA 추세",
   "a11y_rankings_trend_no_selection": "학기 선택 안 됨",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_school_mail_recipient_suggestions": "받는 사람 추천",
   "a11y_time_range": "%1$s부터 %2$s까지",
   "a11y_time_slider_swipe_hint": "좌우로 스와이프하여 시간 변경",
   "a11y_timetable_cell": "%1$@ %2$@교시: %3$@",

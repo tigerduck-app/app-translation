@@ -32,6 +32,7 @@
     "a11y_rankings_trend_chart": "Тенденция GPA по семестрам",
     "a11y_rankings_trend_no_selection": "Семестр не выбран",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_school_mail_recipient_suggestions": "Предлагаемые получатели",
     "a11y_time_range": "с %1$s до %2$s",
     "a11y_time_slider_swipe_hint": "Проведите влево или вправо, чтобы изменить время",
     "a11y_timetable_cell": "%1$@ пара %2$@: %3$@",

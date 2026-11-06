@@ -31,6 +31,7 @@
   "a11y_rankings_trend_chart": "แนวโน้ม GPA ตามภาคการศึกษา",
   "a11y_rankings_trend_no_selection": "ยังไม่ได้เลือกภาคการศึกษา",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_school_mail_recipient_suggestions": "ผู้รับที่แนะนำ",
   "a11y_time_range": "%1$s ถึง %2$s",
   "a11y_time_slider_swipe_hint": "เลื่อนซ้ายหรือขวาเพื่อเปลี่ยนเวลา",
   "a11y_timetable_cell": "%1$@ คาบที่ %2$@: %3$@",

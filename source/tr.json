@@ -32,6 +32,7 @@
     "a11y_rankings_trend_chart": "Döneme göre GPA trendi",
     "a11y_rankings_trend_no_selection": "Dönem seçilmedi",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_school_mail_recipient_suggestions": "Alıcı önerileri",
     "a11y_time_range": "%1$s ile %2$s arası",
     "a11y_time_slider_swipe_hint": "Saati değiştirmek için sola veya sağa kaydırın",
     "a11y_timetable_cell": "%1$@ %2$@. ders: %3$@",

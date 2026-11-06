@@ -32,6 +32,7 @@
     "a11y_rankings_trend_chart": "GPA þróun eftir önn",
     "a11y_rankings_trend_no_selection": "Engin önn valin",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_school_mail_recipient_suggestions": "Tillögur að viðtakendum",
     "a11y_time_range": "frá %1$s til %2$s",
     "a11y_time_slider_swipe_hint": "Strjúktu til vinstri eða hægri til að breyta tíma",
     "a11y_timetable_cell": "%1$@ tími %2$@: %3$@",

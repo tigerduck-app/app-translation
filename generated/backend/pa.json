@@ -31,6 +31,7 @@
   "a11y_rankings_trend_chart": "ਸਮੈਸਟਰ ਅਨੁਸਾਰ GPA ਰੁਝਾਨ",
   "a11y_rankings_trend_no_selection": "ਕੋਈ ਸਮੈਸਟਰ ਨਹੀਂ ਚੁਣਿਆ",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_school_mail_recipient_suggestions": "ਪ੍ਰਾਪਤਕਰਤਾ ਸੁਝਾਅ",
   "a11y_time_range": "%1$s ਤੋਂ %2$s ਤੱਕ",
   "a11y_time_slider_swipe_hint": "ਸਮਾਂ ਬਦਲਣ ਲਈ ਖੱਬੇ ਜਾਂ ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ",
   "a11y_timetable_cell": "%1$@ ਪੀਰੀਅਡ %2$@: %3$@",

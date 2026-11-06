@@ -31,6 +31,7 @@
   "a11y_rankings_trend_chart": "सेमेस्टर के अनुसार GPA प्रवृत्ति",
   "a11y_rankings_trend_no_selection": "कोई सेमेस्टर नहीं चुना",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_school_mail_recipient_suggestions": "प्राप्तकर्ता सुझाव",
   "a11y_time_range": "%1$s से %2$s तक",
   "a11y_time_slider_swipe_hint": "समय बदलने के लिए बाएं या दाएं स्वाइप करें",
   "a11y_timetable_cell": "%1$@ पीरियड %2$@: %3$@",

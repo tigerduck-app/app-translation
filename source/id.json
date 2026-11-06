@@ -32,6 +32,7 @@
     "a11y_rankings_trend_chart": "Tren GPA per semester",
     "a11y_rankings_trend_no_selection": "Tidak ada semester yang dipilih",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_school_mail_recipient_suggestions": "Saran penerima",
     "a11y_time_range": "%1$s sampai %2$s",
     "a11y_time_slider_swipe_hint": "Geser kiri atau kanan untuk mengubah waktu",
     "a11y_timetable_cell": "%1$@ periode %2$@: %3$@",

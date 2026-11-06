@@ -32,6 +32,7 @@
     "a11y_rankings_trend_chart": "GPA-trend per termin",
     "a11y_rankings_trend_no_selection": "Ingen termin vald",
     "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+    "a11y_school_mail_recipient_suggestions": "Mottagarförslag",
     "a11y_time_range": "%1$s till %2$s",
     "a11y_time_slider_swipe_hint": "Svep åt vänster eller höger för att ändra tid",
     "a11y_timetable_cell": "%1$@ period %2$@: %3$@",
