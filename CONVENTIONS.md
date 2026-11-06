@@ -49,6 +49,10 @@ An Info.plist purpose string (the text in a system permission prompt) is an
 The generator writes those into each `<locale>.lproj/InfoPlist.strings`,
 which is the only place iOS reads them from. Name them `permission_*`, e.g.
 `permission_photo_library_add_usage` → `NSPhotoLibraryAddUsageDescription`.
+A Home Screen quick action's title is listed there too, mapped to itself: the
+app's Info.plist sets `UIApplicationShortcutItemTitle` to the key, and iOS looks
+the title up as a key in InfoPlist.strings (`library_virtual_pass_title`). Such
+a key can stay in `shared` when the Android app shows the same text.
 - `backend`: strings only the tigerduck-backend server renders — push
   notification copy it composes itself, in the recipient device's language.
   These never reach an app bundle. Do **not** put a string here merely
