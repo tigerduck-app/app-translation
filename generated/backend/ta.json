@@ -457,6 +457,8 @@
   "course_forum_pinned": "பின் செய்யப்பட்டது",
   "course_instructor_value": "விரிவுரையாளர்: %1$s",
   "course_member_change_picture": "சுயவிவரப் படத்தை மாற்று",
+  "course_member_common_courses": "ஒன்றாகப் படித்த பாடங்கள்",
+  "course_member_common_courses_other": "மற்றவை",
   "course_member_department": "துறை",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",

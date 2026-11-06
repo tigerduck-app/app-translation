@@ -457,6 +457,8 @@
   "course_forum_pinned": "ปักหมุดแล้ว",
   "course_instructor_value": "อาจารย์: %1$s",
   "course_member_change_picture": "เปลี่ยนรูปโปรไฟล์",
+  "course_member_common_courses": "รายวิชาที่เรียนร่วมกัน",
+  "course_member_common_courses_other": "อื่นๆ",
   "course_member_department": "ภาควิชา",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",

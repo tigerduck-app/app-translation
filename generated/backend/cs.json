@@ -457,6 +457,8 @@
   "course_forum_pinned": "Připnuto",
   "course_instructor_value": "Vyučující: %1$s",
   "course_member_change_picture": "Změnit profilovou fotku",
+  "course_member_common_courses": "Společné kurzy",
+  "course_member_common_courses_other": "Ostatní",
   "course_member_department": "Katedra",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",

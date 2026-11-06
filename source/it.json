@@ -458,6 +458,8 @@
     "course_forum_pinned": "In evidenza",
     "course_instructor_value": "Docente: %1$s",
     "course_member_change_picture": "Cambia foto profilo",
+    "course_member_common_courses": "Corsi in comune",
+    "course_member_common_courses_other": "Altro",
     "course_member_department": "Dipartimento",
     "course_member_department_ad": "Department of Architecture",
     "course_member_department_ad_short": "Architecture",

@@ -458,6 +458,8 @@
     "course_forum_pinned": "Kiinnitetty",
     "course_instructor_value": "Opettaja: %1$s",
     "course_member_change_picture": "Vaihda profiilikuva",
+    "course_member_common_courses": "Yhteiset kurssit",
+    "course_member_common_courses_other": "Muut",
     "course_member_department": "Laitos",
     "course_member_department_ad": "Department of Architecture",
     "course_member_department_ad_short": "Architecture",

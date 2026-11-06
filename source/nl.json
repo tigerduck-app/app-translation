@@ -458,6 +458,8 @@
     "course_forum_pinned": "Vastgezet",
     "course_instructor_value": "Docent: %1$s",
     "course_member_change_picture": "Profielfoto wijzigen",
+    "course_member_common_courses": "Gemeenschappelijke vakken",
+    "course_member_common_courses_other": "Overig",
     "course_member_department": "Afdeling",
     "course_member_department_ad": "Department of Architecture",
     "course_member_department_ad_short": "Architecture",

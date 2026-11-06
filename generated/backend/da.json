@@ -457,6 +457,8 @@
   "course_forum_pinned": "Fastgjort",
   "course_instructor_value": "Underviser: %1$s",
   "course_member_change_picture": "Skift profilbillede",
+  "course_member_common_courses": "Fælles kurser",
+  "course_member_common_courses_other": "Andet",
   "course_member_department": "Institut",
   "course_member_department_ad": "Department of Architecture",
   "course_member_department_ad_short": "Architecture",
