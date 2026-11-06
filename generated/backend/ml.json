@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "സെമസ്റ്ററനുസരിച്ച് GPA ട്രെൻഡ്",
   "a11y_rankings_trend_no_selection": "സെമസ്റ്റർ തിരഞ്ഞെടുത്തിട്ടില്ല",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "%1$s മുതൽ %2$s വരെ",
   "a11y_time_slider_swipe_hint": "സമയം മാറ്റാൻ ഇടത്തോ വലത്തോ സ്വൈപ്പ് ചെയ്യുക",
   "a11y_timetable_cell": "%1$@ %2$@ പിരീഡ്: %3$@",
   "action_add": "ചേർക്കുക",

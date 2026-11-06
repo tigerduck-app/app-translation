@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "સેમેસ્ટર પ્રમાણે GPA વલણ",
   "a11y_rankings_trend_no_selection": "કોઈ સેમેસ્ટર પસંદ નથી",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "%1$s થી %2$s સુધી",
   "a11y_time_slider_swipe_hint": "સમય બદલવા ડાબે કે જમણે સ્વાઇપ કરો",
   "a11y_timetable_cell": "%1$@ સમયગાળો %2$@: %3$@",
   "action_add": "ઉમેરો",

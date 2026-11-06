@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "Семестр бойынша GPA үрдісі",
   "a11y_rankings_trend_no_selection": "Семестр таңдалмаған",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "%1$s мен %2$s аралығы",
   "a11y_time_slider_swipe_hint": "Уақытты өзгерту үшін солға немесе оңға сырғытыңыз",
   "a11y_timetable_cell": "%1$@ сабақ %2$@: %3$@",
   "action_add": "Қосу",

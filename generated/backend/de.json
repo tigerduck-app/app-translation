@@ -28,6 +28,7 @@
   "a11y_rankings_trend_chart": "GPA-Trend nach Semester",
   "a11y_rankings_trend_no_selection": "Kein Semester ausgewählt",
   "a11y_rankings_trend_point": "%1$@ GPA %2$@",
+  "a11y_time_range": "von %1$s bis %2$s",
   "a11y_time_slider_swipe_hint": "Wischen Sie nach links oder rechts, um die Uhrzeit zu ändern",
   "a11y_timetable_cell": "%1$@ Stunde %2$@: %3$@",
   "action_add": "Hinzufügen",
