@@ -11,6 +11,7 @@
     "a11y_class_table_conflict_prefix": "Conflicte de classe",
     "a11y_class_table_share_qr": "Codi QR per compartir l'horari",
     "a11y_class_table_switch": "Canvia d'horari",
+    "a11y_class_table_week": "Setmana %1$lld",
     "a11y_club_activity_open_details_hint": "Toca dues vegades per veure els detalls",
     "a11y_course_card_open_details_hint": "Toca dues vegades per veure els detalls",
     "a11y_course_color_swatch": "Color %1$lld",

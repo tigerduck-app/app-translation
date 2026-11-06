@@ -10,6 +10,7 @@
   "a11y_class_table_conflict_prefix": "冲堂",
   "a11y_class_table_share_qr": "课表分享 QR Code",
   "a11y_class_table_switch": "切换课表",
+  "a11y_class_table_week": "第 %1$lld 周",
   "a11y_club_activity_open_details_hint": "双击查看详情",
   "a11y_course_card_open_details_hint": "双击查看详情",
   "a11y_course_color_swatch": "颜色 %1$lld",

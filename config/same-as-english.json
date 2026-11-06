@@ -149,6 +149,13 @@
     "locales": ["ca", "es"]
   },
   {
+    "reason": "Week is the Dutch word",
+    "keys": [
+      "shared.a11y_class_table_week"
+    ],
+    "locales": ["nl"]
+  },
+  {
     "reason": "Period is the Swedish word for a class period, as its other strings use it",
     "keys": [
       "shared.a11y_empty_classroom_period",

@@ -11,6 +11,7 @@
     "a11y_class_table_conflict_prefix": "Óraütközés",
     "a11y_class_table_share_qr": "Órarend-megosztási QR-kód",
     "a11y_class_table_switch": "Órarend váltása",
+    "a11y_class_table_week": "%1$lld. hét",
     "a11y_club_activity_open_details_hint": "Koppintson duplán a részletekért",
     "a11y_course_card_open_details_hint": "Koppintson duplán a részletekért",
     "a11y_course_color_swatch": "%1$lld. szín",

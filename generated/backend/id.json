@@ -10,6 +10,7 @@
   "a11y_class_table_conflict_prefix": "Konflik kelas",
   "a11y_class_table_share_qr": "QR Code untuk membagikan jadwal kuliah",
   "a11y_class_table_switch": "Ganti jadwal kuliah",
+  "a11y_class_table_week": "Minggu ke-%1$lld",
   "a11y_club_activity_open_details_hint": "Ketuk dua kali untuk detail",
   "a11y_course_card_open_details_hint": "Ketuk dua kali untuk detail",
   "a11y_course_color_swatch": "Warna %1$lld",

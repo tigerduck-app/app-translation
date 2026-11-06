@@ -10,6 +10,7 @@
   "a11y_class_table_conflict_prefix": "Nodarbību konflikts",
   "a11y_class_table_share_qr": "Stundu plāna kopīgošanas QR kods",
   "a11y_class_table_switch": "Pārslēgt stundu plānu",
+  "a11y_class_table_week": "%1$lld. nedēļa",
   "a11y_club_activity_open_details_hint": "Divreiz pieskarieties, lai skatītu detaļas",
   "a11y_course_card_open_details_hint": "Divreiz pieskarieties, lai skatītu detaļas",
   "a11y_course_color_swatch": "Krāsa %1$lld",
