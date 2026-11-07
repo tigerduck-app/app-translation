@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Từ trên xuống dưới",
   "settings_accent_gradient_end": "Màu kết thúc",
   "settings_accent_gradient_name": "%1$@ sang %2$@",
-  "settings_accent_gradient_on_live_activities": "Chuyển màu trong Live Activities",
-  "settings_accent_gradient_on_watch": "Chuyển màu trên Apple Watch",
   "settings_accent_gradient_on_widgets": "Chuyển màu trên tiện ích",
   "settings_accent_gradient_start": "Màu bắt đầu",
   "settings_accent_gradient_style_angular": "Góc",

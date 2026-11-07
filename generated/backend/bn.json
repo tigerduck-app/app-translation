@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "উপর থেকে নিচে",
   "settings_accent_gradient_end": "শেষের রং",
   "settings_accent_gradient_name": "%1$@ থেকে %2$@",
-  "settings_accent_gradient_on_live_activities": "Live Activities-এ গ্রেডিয়েন্ট",
-  "settings_accent_gradient_on_watch": "Apple Watch-এ গ্রেডিয়েন্ট",
   "settings_accent_gradient_on_widgets": "উইজেটে গ্রেডিয়েন্ট",
   "settings_accent_gradient_start": "শুরুর রং",
   "settings_accent_gradient_style_angular": "কৌণিক",

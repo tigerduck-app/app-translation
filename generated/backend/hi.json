@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "ऊपर से नीचे",
   "settings_accent_gradient_end": "अंतिम रंग",
   "settings_accent_gradient_name": "%1$@ से %2$@",
-  "settings_accent_gradient_on_live_activities": "Live Activities में ग्रेडिएंट",
-  "settings_accent_gradient_on_watch": "Apple Watch पर ग्रेडिएंट",
   "settings_accent_gradient_on_widgets": "विजेट पर ग्रेडिएंट",
   "settings_accent_gradient_start": "शुरुआती रंग",
   "settings_accent_gradient_style_angular": "कोणीय",

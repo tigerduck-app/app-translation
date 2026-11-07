@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Dari atas ke bawah",
   "settings_accent_gradient_end": "Warna akhir",
   "settings_accent_gradient_name": "%1$@ ke %2$@",
-  "settings_accent_gradient_on_live_activities": "Gradien di Live Activities",
-  "settings_accent_gradient_on_watch": "Gradien di Apple Watch",
   "settings_accent_gradient_on_widgets": "Gradien di widget",
   "settings_accent_gradient_start": "Warna awal",
   "settings_accent_gradient_style_angular": "Sudut",

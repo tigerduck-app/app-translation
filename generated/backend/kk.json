@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Жоғарыдан төмен",
   "settings_accent_gradient_end": "Соңғы түс",
   "settings_accent_gradient_name": "%1$@ – %2$@",
-  "settings_accent_gradient_on_live_activities": "Live Activities-те градиент",
-  "settings_accent_gradient_on_watch": "Apple Watch-та градиент",
   "settings_accent_gradient_on_widgets": "Виджеттерде градиент",
   "settings_accent_gradient_start": "Бастапқы түс",
   "settings_accent_gradient_style_angular": "Бұрыштық",

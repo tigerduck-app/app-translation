@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "上から下",
   "settings_accent_gradient_end": "終了色",
   "settings_accent_gradient_name": "%1$@から%2$@",
-  "settings_accent_gradient_on_live_activities": "Live Activitiesでグラデーション",
-  "settings_accent_gradient_on_watch": "Apple Watchでグラデーション",
   "settings_accent_gradient_on_widgets": "ウィジェットでグラデーション",
   "settings_accent_gradient_start": "開始色",
   "settings_accent_gradient_style_angular": "円錐",
