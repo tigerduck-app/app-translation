@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "จากบนลงล่าง",
   "settings_accent_gradient_end": "สีสิ้นสุด",
   "settings_accent_gradient_name": "%1$@ ถึง %2$@",
-  "settings_accent_gradient_on_live_activities": "ไล่สีใน Live Activities",
-  "settings_accent_gradient_on_watch": "ไล่สีใน Apple Watch",
   "settings_accent_gradient_on_widgets": "ไล่สีในวิดเจ็ต",
   "settings_accent_gradient_start": "สีเริ่มต้น",
   "settings_accent_gradient_style_angular": "เชิงมุม",

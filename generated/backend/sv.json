@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Uppifrån och ned",
   "settings_accent_gradient_end": "Slutfärg",
   "settings_accent_gradient_name": "%1$@ till %2$@",
-  "settings_accent_gradient_on_live_activities": "Toning i Live Activities",
-  "settings_accent_gradient_on_watch": "Toning på Apple Watch",
   "settings_accent_gradient_on_widgets": "Toning i widgetar",
   "settings_accent_gradient_start": "Startfärg",
   "settings_accent_gradient_style_angular": "Vinkel",

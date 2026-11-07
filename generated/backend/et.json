@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Ülevalt alla",
   "settings_accent_gradient_end": "Lõppvärv",
   "settings_accent_gradient_name": "%1$@ – %2$@",
-  "settings_accent_gradient_on_live_activities": "Üleminek Live Activitiesis",
-  "settings_accent_gradient_on_watch": "Üleminek Apple Watchis",
   "settings_accent_gradient_on_widgets": "Üleminek vidinates",
   "settings_accent_gradient_start": "Algvärv",
   "settings_accent_gradient_style_angular": "Nurgeline",

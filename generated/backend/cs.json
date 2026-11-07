@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Shora dolů",
   "settings_accent_gradient_end": "Koncová barva",
   "settings_accent_gradient_name": "%1$@ – %2$@",
-  "settings_accent_gradient_on_live_activities": "Přechod v Live Activities",
-  "settings_accent_gradient_on_watch": "Přechod na Apple Watch",
   "settings_accent_gradient_on_widgets": "Přechod ve widgetech",
   "settings_accent_gradient_start": "Počáteční barva",
   "settings_accent_gradient_style_angular": "Úhlový",

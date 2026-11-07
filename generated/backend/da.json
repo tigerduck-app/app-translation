@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Oppefra og ned",
   "settings_accent_gradient_end": "Slutfarve",
   "settings_accent_gradient_name": "%1$@ til %2$@",
-  "settings_accent_gradient_on_live_activities": "Farveovergang i Live Activities",
-  "settings_accent_gradient_on_watch": "Farveovergang på Apple Watch",
   "settings_accent_gradient_on_widgets": "Farveovergang i widgets",
   "settings_accent_gradient_start": "Startfarve",
   "settings_accent_gradient_style_angular": "Vinkel",

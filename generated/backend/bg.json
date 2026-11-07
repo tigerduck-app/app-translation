@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Отгоре надолу",
   "settings_accent_gradient_end": "Краен цвят",
   "settings_accent_gradient_name": "%1$@ – %2$@",
-  "settings_accent_gradient_on_live_activities": "Преливане в Live Activities",
-  "settings_accent_gradient_on_watch": "Преливане на Apple Watch",
   "settings_accent_gradient_on_widgets": "Преливане в уиджетите",
   "settings_accent_gradient_start": "Начален цвят",
   "settings_accent_gradient_style_angular": "Ъглов",

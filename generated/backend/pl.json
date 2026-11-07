@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "Od góry do dołu",
   "settings_accent_gradient_end": "Kolor końcowy",
   "settings_accent_gradient_name": "%1$@ i %2$@",
-  "settings_accent_gradient_on_live_activities": "Gradient w Live Activities",
-  "settings_accent_gradient_on_watch": "Gradient na Apple Watch",
   "settings_accent_gradient_on_widgets": "Gradient w widżetach",
   "settings_accent_gradient_start": "Kolor początkowy",
   "settings_accent_gradient_style_angular": "Kątowy",

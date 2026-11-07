@@ -1114,8 +1114,6 @@
   "settings_accent_gradient_direction_top_to_bottom": "由上至下",
   "settings_accent_gradient_end": "結束顏色",
   "settings_accent_gradient_name": "%1$@至%2$@",
-  "settings_accent_gradient_on_live_activities": "即時動態用漸變色",
-  "settings_accent_gradient_on_watch": "Apple Watch 用漸變色",
   "settings_accent_gradient_on_widgets": "Widget 用漸變色",
   "settings_accent_gradient_start": "開始顏色",
   "settings_accent_gradient_style_angular": "環形",
