@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Цвят %1$lld",
+    "a11y_accent_gradient_stop_count": "Цветове: %1$lld",
     "a11y_assignment_open_moodle_hint": "Докоснете двукратно, за да отворите заданието в Moodle",
     "a11y_calendar_day": "%1$@, %2$lld събития",
     "a11y_calendar_nav_next": "Следващ месец",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "Отгоре надолу",
     "settings_accent_gradient_end": "Краен цвят",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Преливане в Live Activities",
+    "settings_accent_gradient_on_watch": "Преливане на Apple Watch",
+    "settings_accent_gradient_on_widgets": "Преливане в уиджетите",
     "settings_accent_gradient_start": "Начален цвят",
+    "settings_accent_gradient_style_angular": "Ъглов",
+    "settings_accent_gradient_style_linear": "Линеен",
+    "settings_accent_gradient_style_mesh": "Мрежа",
+    "settings_accent_gradient_style_radial": "Радиален",
     "settings_accent_gradients": "Преливания",
     "settings_account_library_system": "Система на библиотека",
     "settings_account_ntust_system": "Академична система",

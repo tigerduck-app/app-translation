@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Колір %1$lld",
+    "a11y_accent_gradient_stop_count": "Кольори: %1$lld",
     "a11y_assignment_open_moodle_hint": "Двічі торкніться, щоб відкрити завдання у Moodle",
     "a11y_calendar_day": "%1$@, %2$lld подій",
     "a11y_calendar_nav_next": "Наступний місяць",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "Згори вниз",
     "settings_accent_gradient_end": "Кінцевий колір",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Градієнт у Live Activities",
+    "settings_accent_gradient_on_watch": "Градієнт на Apple Watch",
+    "settings_accent_gradient_on_widgets": "Градієнт у віджетах",
     "settings_accent_gradient_start": "Початковий колір",
+    "settings_accent_gradient_style_angular": "Кутовий",
+    "settings_accent_gradient_style_linear": "Лінійний",
+    "settings_accent_gradient_style_mesh": "Сітка",
+    "settings_accent_gradient_style_radial": "Радіальний",
     "settings_accent_gradients": "Градієнти",
     "settings_account_library_system": "Система бібліотеки",
     "settings_account_ntust_system": "Шкільна система",

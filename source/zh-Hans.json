@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "颜色 %1$lld",
+    "a11y_accent_gradient_stop_count": "%1$lld 种颜色",
     "a11y_assignment_open_moodle_hint": "双击以在 Moodle 中打开作业",
     "a11y_calendar_day": "%1$@，共 %2$lld 个事件",
     "a11y_calendar_nav_next": "下个月",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "从上到下",
     "settings_accent_gradient_end": "结束颜色",
     "settings_accent_gradient_name": "%1$@到%2$@",
+    "settings_accent_gradient_on_live_activities": "实时活动使用渐变色",
+    "settings_accent_gradient_on_watch": "Apple Watch 使用渐变色",
+    "settings_accent_gradient_on_widgets": "小组件使用渐变色",
     "settings_accent_gradient_start": "起始颜色",
+    "settings_accent_gradient_style_angular": "角度",
+    "settings_accent_gradient_style_linear": "线性",
+    "settings_accent_gradient_style_mesh": "网格",
+    "settings_accent_gradient_style_radial": "径向",
     "settings_accent_gradients": "渐变色",
     "settings_account_library_system": "图书馆系统",
     "settings_account_ntust_system": "校务系统",

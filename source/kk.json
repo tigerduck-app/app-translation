@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Түс %1$lld",
+    "a11y_accent_gradient_stop_count": "Түстер: %1$lld",
     "a11y_assignment_open_moodle_hint": "Moodle-дегі тапсырманы ашу үшін екі рет түртіңіз",
     "a11y_calendar_day": "%1$@, %2$lld оқиға",
     "a11y_calendar_nav_next": "Келесі ай",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "Жоғарыдан төмен",
     "settings_accent_gradient_end": "Соңғы түс",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Live Activities-те градиент",
+    "settings_accent_gradient_on_watch": "Apple Watch-та градиент",
+    "settings_accent_gradient_on_widgets": "Виджеттерде градиент",
     "settings_accent_gradient_start": "Бастапқы түс",
+    "settings_accent_gradient_style_angular": "Бұрыштық",
+    "settings_accent_gradient_style_linear": "Сызықтық",
+    "settings_accent_gradient_style_mesh": "Тор",
+    "settings_accent_gradient_style_radial": "Радиалды",
     "settings_accent_gradients": "Градиенттер",
     "settings_account_library_system": "Кітапхана жүйесі",
     "settings_account_ntust_system": "Оқу жүйесі",
