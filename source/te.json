@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "రంగు %1$lld",
+    "a11y_accent_gradient_stop_count": "రంగులు: %1$lld",
     "a11y_assignment_open_moodle_hint": "Moodle లో అసైన్‌మెంట్ తెరవడానికి రెండుసార్లు నొక్కండి",
     "a11y_calendar_day": "%1$@, %2$lld ఈవెంట్‌లు",
     "a11y_calendar_nav_next": "తదుపరి నెల",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "పై నుండి కిందికి",
     "settings_accent_gradient_end": "ముగింపు రంగు",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Live Activitiesలో గ్రేడియంట్",
+    "settings_accent_gradient_on_watch": "Apple Watchలో గ్రేడియంట్",
+    "settings_accent_gradient_on_widgets": "విడ్జెట్‌లలో గ్రేడియంట్",
     "settings_accent_gradient_start": "ప్రారంభ రంగు",
+    "settings_accent_gradient_style_angular": "కోణీయ",
+    "settings_accent_gradient_style_linear": "రేఖీయ",
+    "settings_accent_gradient_style_mesh": "మెష్",
+    "settings_accent_gradient_style_radial": "వ్యాసార్ధ",
     "settings_accent_gradients": "గ్రేడియంట్‌లు",
     "settings_account_library_system": "లైబ్రరీ సిస్టమ్",
     "settings_account_ntust_system": "అకాడెమిక్ సిస్టమ్",

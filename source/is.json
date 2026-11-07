@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Litur %1$lld",
+    "a11y_accent_gradient_stop_count": "Litir: %1$lld",
     "a11y_assignment_open_moodle_hint": "Ýttu tvisvar til að opna verkefnið í Moodle",
     "a11y_calendar_day": "%1$@, %2$lld viðburðir",
     "a11y_calendar_nav_next": "Næsti mánuður",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "Ofan frá og niður",
     "settings_accent_gradient_end": "Lokalitur",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Litastigull í Live Activities",
+    "settings_accent_gradient_on_watch": "Litastigull á Apple Watch",
+    "settings_accent_gradient_on_widgets": "Litastigull í græjum",
     "settings_accent_gradient_start": "Upphafslitur",
+    "settings_accent_gradient_style_angular": "Horna",
+    "settings_accent_gradient_style_linear": "Línulegur",
+    "settings_accent_gradient_style_mesh": "Möskvi",
+    "settings_accent_gradient_style_radial": "Geislalaga",
     "settings_accent_gradients": "Litastiglar",
     "settings_account_library_system": "Bókasafnskerfi",
     "settings_account_ntust_system": "Námskerfi",

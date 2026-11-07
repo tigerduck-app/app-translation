@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Χρώμα %1$lld",
+    "a11y_accent_gradient_stop_count": "Χρώματα: %1$lld",
     "a11y_assignment_open_moodle_hint": "Πατήστε δύο φορές για να ανοίξετε την εργασία στο Moodle",
     "a11y_calendar_day": "%1$@, %2$lld εκδηλώσεις",
     "a11y_calendar_nav_next": "Επόμενος μήνας",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "Από πάνω προς τα κάτω",
     "settings_accent_gradient_end": "Τελικό χρώμα",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Διαβάθμιση σε Live Activities",
+    "settings_accent_gradient_on_watch": "Διαβάθμιση στο Apple Watch",
+    "settings_accent_gradient_on_widgets": "Διαβάθμιση σε widget",
     "settings_accent_gradient_start": "Αρχικό χρώμα",
+    "settings_accent_gradient_style_angular": "Γωνιακή",
+    "settings_accent_gradient_style_linear": "Γραμμική",
+    "settings_accent_gradient_style_mesh": "Πλέγμα",
+    "settings_accent_gradient_style_radial": "Ακτινική",
     "settings_accent_gradients": "Διαβαθμίσεις",
     "settings_account_library_system": "Σύστημα βιβλιοθήκης",
     "settings_account_ntust_system": "Ακαδημαϊκό σύστημα",

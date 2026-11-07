@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Barva %1$lld",
+    "a11y_accent_gradient_stop_count": "Barve: %1$lld",
     "a11y_assignment_open_moodle_hint": "Dvakrat tapnite, da odprete nalogo v Moodle",
     "a11y_calendar_day": "%1$@, %2$lld dogodkov",
     "a11y_calendar_nav_next": "Naslednji mesec",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "Od zgoraj navzdol",
     "settings_accent_gradient_end": "Končna barva",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Preliv v Live Activities",
+    "settings_accent_gradient_on_watch": "Preliv na uri Apple Watch",
+    "settings_accent_gradient_on_widgets": "Preliv v pripomočkih",
     "settings_accent_gradient_start": "Začetna barva",
+    "settings_accent_gradient_style_angular": "Kotni",
+    "settings_accent_gradient_style_linear": "Linearni",
+    "settings_accent_gradient_style_mesh": "Mreža",
+    "settings_accent_gradient_style_radial": "Radialni",
     "settings_accent_gradients": "Prelivi",
     "settings_account_library_system": "Sistem knjižnice",
     "settings_account_ntust_system": "Študijski sistem",

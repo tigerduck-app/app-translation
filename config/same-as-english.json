@@ -143,6 +143,7 @@
   {
     "reason": "Color is the word in these languages",
     "keys": [
+      "shared.a11y_accent_gradient_stop",
       "shared.a11y_class_table_club_color_swatch",
       "shared.a11y_course_color_swatch"
     ],
@@ -628,6 +629,34 @@
     "reason": "Notes is the Catalan word too",
     "keys": [
       "shared.course_detail_syllabus_notes"
+    ],
+    "locales": ["ca"]
+  },
+  {
+    "reason": "Linear is the word in these languages",
+    "keys": [
+      "shared.settings_accent_gradient_style_linear"
+    ],
+    "locales": ["de", "pt-BR", "pt-PT"]
+  },
+  {
+    "reason": "Radial is the word in these languages",
+    "keys": [
+      "shared.settings_accent_gradient_style_radial"
+    ],
+    "locales": ["ca", "da", "de", "es", "fr", "id", "pt-BR", "pt-PT", "ro"]
+  },
+  {
+    "reason": "Angular is the word in these languages",
+    "keys": [
+      "shared.settings_accent_gradient_style_angular"
+    ],
+    "locales": ["ca", "es", "pt-BR", "pt-PT"]
+  },
+  {
+    "reason": "Colors is the word in Catalan",
+    "keys": [
+      "shared.a11y_accent_gradient_stop_count"
     ],
     "locales": ["ca"]
   }

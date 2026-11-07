@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Krāsa %1$lld",
+    "a11y_accent_gradient_stop_count": "Krāsas: %1$lld",
     "a11y_assignment_open_moodle_hint": "Divreiz pieskarieties, lai atvērtu uzdevumu Moodle",
     "a11y_calendar_day": "%1$@, %2$lld notikumi",
     "a11y_calendar_nav_next": "Nākamais mēnesis",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "No augšas uz leju",
     "settings_accent_gradient_end": "Beigu krāsa",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Krāsu pāreja Live Activities",
+    "settings_accent_gradient_on_watch": "Krāsu pāreja Apple Watch",
+    "settings_accent_gradient_on_widgets": "Krāsu pāreja logrīkos",
     "settings_accent_gradient_start": "Sākuma krāsa",
+    "settings_accent_gradient_style_angular": "Leņķa",
+    "settings_accent_gradient_style_linear": "Lineāra",
+    "settings_accent_gradient_style_mesh": "Tīkls",
+    "settings_accent_gradient_style_radial": "Radiāla",
     "settings_accent_gradients": "Krāsu pārejas",
     "settings_account_library_system": "Bibliotēkas sistēma",
     "settings_account_ntust_system": "Akadēmiskā sistēma",

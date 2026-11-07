@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Cor %1$lld",
+    "a11y_accent_gradient_stop_count": "Cores: %1$lld",
     "a11y_assignment_open_moodle_hint": "Toque duas vezes para abrir a tarefa no Moodle",
     "a11y_calendar_day": "%1$@, %2$lld eventos",
     "a11y_calendar_nav_next": "Mês seguinte",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "De cima para baixo",
     "settings_accent_gradient_end": "Cor final",
     "settings_accent_gradient_name": "%1$@ – %2$@",
+    "settings_accent_gradient_on_live_activities": "Gradiente nas Live Activities",
+    "settings_accent_gradient_on_watch": "Gradiente no Apple Watch",
+    "settings_accent_gradient_on_widgets": "Gradiente nos widgets",
     "settings_accent_gradient_start": "Cor inicial",
+    "settings_accent_gradient_style_angular": "Angular",
+    "settings_accent_gradient_style_linear": "Linear",
+    "settings_accent_gradient_style_mesh": "Malha",
+    "settings_accent_gradient_style_radial": "Radial",
     "settings_accent_gradients": "Gradientes",
     "settings_account_library_system": "Sistema da biblioteca",
     "settings_account_ntust_system": "Sistema académico",

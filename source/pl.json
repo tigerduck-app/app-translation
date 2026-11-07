@@ -1,5 +1,7 @@
 {
   "shared": {
+    "a11y_accent_gradient_stop": "Kolor %1$lld",
+    "a11y_accent_gradient_stop_count": "Kolory: %1$lld",
     "a11y_assignment_open_moodle_hint": "Podwójne stuknięcie, aby otworzyć zadanie w Moodle",
     "a11y_calendar_day": "%1$@, %2$lld wydarzeń",
     "a11y_calendar_nav_next": "Następny miesiąc",
@@ -1109,7 +1111,14 @@
     "settings_accent_gradient_direction_top_to_bottom": "Od góry do dołu",
     "settings_accent_gradient_end": "Kolor końcowy",
     "settings_accent_gradient_name": "%1$@ i %2$@",
+    "settings_accent_gradient_on_live_activities": "Gradient w Live Activities",
+    "settings_accent_gradient_on_watch": "Gradient na Apple Watch",
+    "settings_accent_gradient_on_widgets": "Gradient w widżetach",
     "settings_accent_gradient_start": "Kolor początkowy",
+    "settings_accent_gradient_style_angular": "Kątowy",
+    "settings_accent_gradient_style_linear": "Liniowy",
+    "settings_accent_gradient_style_mesh": "Siatka",
+    "settings_accent_gradient_style_radial": "Radialny",
     "settings_accent_gradients": "Gradienty",
     "settings_account_library_system": "System biblioteczny",
     "settings_account_ntust_system": "System uczelniany",
