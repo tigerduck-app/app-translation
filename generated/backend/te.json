@@ -815,7 +815,7 @@
   "notification_assignment_reminder_body_5m": "చాలా ఆలస్యమైంది... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "ఇంకా సమయం ఉంది! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "అసైన్‌మెంట్ రిమైండర్: %1$s",
-  "notification_assignment_reminder_title_time_left": "అసైన్‌మెంట్ రిమైండర్: %1$s మిగిలి ఉంది",
+  "notification_assignment_reminder_title_time_left": "అసైన్‌మెంట్ రిమైండర్: మిగిలిన సమయం %1$s",
   "notification_assignment_safety_net_body": "మీరు పూర్తయినట్లు గుర్తించారు లేదా విస్మరించారు, కానీ ఇంకా సమర్పించబడలేదు: %1$s — %2$s",
   "notification_assignment_safety_net_title": "హోంవర్క్ ఇంకా సమర్పించబడలేదు",
   "notification_bulletin_silent_channel_description": "ఆపరేటర్ పంపిన నిశ్శబ్ద ఒక్కసారి నోటిఫికేషన్‌లు",

@@ -815,7 +815,7 @@
   "notification_assignment_reminder_body_5m": "Příliš pozdě... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Stále je čas to napravit! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Připomenutí úkolu: %1$s",
-  "notification_assignment_reminder_title_time_left": "Připomenutí úkolu: zbývá %1$s",
+  "notification_assignment_reminder_title_time_left": "Připomenutí úkolu: termín za %1$s",
   "notification_assignment_safety_net_body": "Označil(a) jsi ho jako hotový nebo ignoroval(a), ale stále není odevzdán: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Úkol stále není odevzdán",
   "notification_bulletin_silent_channel_description": "Jednorázová oznámení od operátora doručovaná bez zvuku",

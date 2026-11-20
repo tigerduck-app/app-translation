@@ -816,7 +816,7 @@
     "notification_assignment_reminder_body_5m": "Tarde demais... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Ainda dá tempo de ajustar! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "Lembrete de tarefa: %1$s",
-    "notification_assignment_reminder_title_time_left": "Lembrete de tarefa: faltam %1$s",
+    "notification_assignment_reminder_title_time_left": "Lembrete de tarefa: vence em %1$s",
     "notification_assignment_safety_net_body": "Você marcou como concluído ou ignorou, mas ainda não foi enviado: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Dever de casa ainda não enviado",
     "notification_bulletin_silent_channel_description": "Notificações únicas enviadas pelo operador, entregues silenciosamente",

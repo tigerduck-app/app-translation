@@ -816,7 +816,7 @@
     "notification_assignment_reminder_body_5m": "ತಡವಾಗಿದೆ... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "ಸರಿಪಡಿಸಲು ಇನ್ನೂ ಸಮಯವಿದೆ! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "ಕಾರ್ಯಯೋಜನೆ ಜ್ಞಾಪನೆ: %1$s",
-    "notification_assignment_reminder_title_time_left": "ಕಾರ್ಯಯೋಜನೆ ಜ್ಞಾಪನೆ: %1$s ಉಳಿದಿದೆ",
+    "notification_assignment_reminder_title_time_left": "ಕಾರ್ಯಯೋಜನೆ ಜ್ಞಾಪನೆ: %1$s ಬಾಕಿ",
     "notification_assignment_safety_net_body": "ನೀವು ಪೂರ್ಣವೆಂದು ಗುರುತಿಸಿದ್ದೀರಿ ಅಥವಾ ನಿರ್ಲಕ್ಷಿಸಿದ್ದೀರಿ, ಆದರೆ ಇನ್ನೂ ಸಲ್ಲಿಸಿಲ್ಲ: %1$s — %2$s",
     "notification_assignment_safety_net_title": "ಹೋಮ್‌ವರ್ಕ್ ಇನ್ನೂ ಸಲ್ಲಿಸಿಲ್ಲ",
     "notification_bulletin_silent_channel_description": "ಆಪರೇಟರ್ ಕಳುಹಿಸಿದ ಒಂದು-ಬಾರಿ ಅಧಿಸೂಚನೆಗಳು ಶಾಂತವಾಗಿ ತಲುಪಿಸಲಾಗುತ್ತದೆ",

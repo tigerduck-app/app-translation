@@ -815,7 +815,7 @@
   "notification_assignment_reminder_body_5m": "Πολύ αργά... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Ακόμα καιρός να το φτιάξουμε! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Υπενθύμιση εργασίας: %1$s",
-  "notification_assignment_reminder_title_time_left": "Υπενθύμιση εργασίας: απομένουν %1$s",
+  "notification_assignment_reminder_title_time_left": "Υπενθύμιση εργασίας: λήγει σε %1$s",
   "notification_assignment_safety_net_body": "Την επισήμανες ως ολοκληρωμένη ή την αγνόησες, αλλά δεν έχει υποβληθεί ακόμη: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Η εργασία δεν έχει υποβληθεί ακόμη",
   "notification_bulletin_silent_channel_description": "Μεμονωμένες ειδοποιήσεις από τον διαχειριστή, αθόρυβης παράδοσης",

@@ -815,7 +815,7 @@
   "notification_assignment_reminder_body_5m": "Prea târziu... %1$s „%2$s”",
   "notification_assignment_reminder_body_multi_hour": "Încă mai ai timp să rezolvi! %1$s „%2$s”",
   "notification_assignment_reminder_title": "Memento temă: %1$s",
-  "notification_assignment_reminder_title_time_left": "Memento temă: mai sunt %1$s",
+  "notification_assignment_reminder_title_time_left": "Memento temă: expiră în %1$s",
   "notification_assignment_safety_net_body": "Ai marcat-o ca terminată sau ai ignorat-o, dar încă nu a fost predată: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Tema încă nu a fost predată",
   "notification_bulletin_silent_channel_description": "Notificări unice trimise de operator, livrate silențios",

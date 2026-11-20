@@ -815,7 +815,7 @@
   "notification_assignment_reminder_body_5m": "Troppo tardi... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Hai ancora tempo per sistemarlo! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Promemoria compito: %1$s",
-  "notification_assignment_reminder_title_time_left": "Promemoria compito: mancano %1$s",
+  "notification_assignment_reminder_title_time_left": "Promemoria compito: scade tra %1$s",
   "notification_assignment_safety_net_body": "L'hai segnato come fatto o ignorato, ma non è ancora consegnato: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Compito ancora non consegnato",
   "notification_bulletin_silent_channel_description": "Notifiche una-tantum emesse dall'operatore, consegnate silenziosamente",

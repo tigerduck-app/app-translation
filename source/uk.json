@@ -816,7 +816,7 @@
     "notification_assignment_reminder_body_5m": "Вже запізно… %1$s «%2$s»",
     "notification_assignment_reminder_body_multi_hour": "Ще є час виправити! %1$s «%2$s»",
     "notification_assignment_reminder_title": "Нагадування про завдання: %1$s",
-    "notification_assignment_reminder_title_time_left": "Нагадування про завдання: залишилося %1$s",
+    "notification_assignment_reminder_title_time_left": "Нагадування про завдання: термін через %1$s",
     "notification_assignment_safety_net_body": "Ти позначив(ла) як виконане або проігнорував(ла), але досі не здано: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Завдання досі не здано",
     "notification_bulletin_silent_channel_description": "Одноразові сповіщення від оператора, доставлені беззвучно",

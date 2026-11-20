@@ -815,7 +815,7 @@
   "notification_assignment_reminder_body_5m": "Za późno... %1$s „%2$s”",
   "notification_assignment_reminder_body_multi_hour": "Jeszcze zdążysz to uratować! %1$s „%2$s”",
   "notification_assignment_reminder_title": "Przypomnienie o zadaniu: %1$s",
-  "notification_assignment_reminder_title_time_left": "Przypomnienie o zadaniu: zostało %1$s",
+  "notification_assignment_reminder_title_time_left": "Przypomnienie o zadaniu: termin za %1$s",
   "notification_assignment_safety_net_body": "Oznaczyłeś jako zrobione lub zignorowałeś, ale nadal nie oddałeś: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Zadanie nadal nieoddane",
   "notification_bulletin_silent_channel_description": "Jednorazowe powiadomienia wysyłane przez operatora, dostarczane cicho",
