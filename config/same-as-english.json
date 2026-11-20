@@ -2,12 +2,20 @@
   {
     "reason": "TigerDuck's own names, spelled the same in every locale (CONVENTIONS.md, TigerDuck's own product names)",
     "keys": [
+      "shared.app_icon_name_tigerduck",
       "shared.app_name",
       "shared.cloud_sync_section_title",
       "shared.cloud_sync_title",
       "shared.onboarding_sync_title"
     ],
     "locales": "*"
+  },
+  {
+    "reason": "奶虎 names an app icon: its Chinese characters where readers read them, Naihu, its romanization, everywhere else",
+    "keys": [
+      "shared.app_icon_name_naihu"
+    ],
+    "except": ["ja", "ko", "yue-HK", "zh-Hans", "zh-Hant"]
   },
   {
     "reason": "Proper nouns every locale keeps: Moodle, NTUST, and the Android and Apple platforms",
@@ -87,6 +95,7 @@
       "shared.live_activity_settings_section_timing",
       "shared.onboarding_sync_shared_device_id",
       "shared.score_info_term",
+      "shared.settings_app_icon_default",
       "shared.settings_font_size_preview_section",
       "shared.settings_moodle_open_in_app",
       "shared.settings_section_display",

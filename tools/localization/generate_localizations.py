@@ -247,6 +247,8 @@ _RELATED_LOCALE_PAIRS: frozenset[frozenset[str]] = frozenset(
         ("de", "nl"),
         # German / Swedish -- shared Germanic words such as Kurs, Kalender, Konto
         ("de", "sv"),
+        # Danish / German -- shared Germanic words such as Standard, Kalender, Konto
+        ("da", "de"),
         # Kazakh / Ukrainian -- Kazakh's Russian loanwords such as Кафедра, Семестр
         ("kk", "uk"),
     )
