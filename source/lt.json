@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "Jau per vėlu... %1$s „%2$s“",
     "notification_assignment_reminder_body_multi_hour": "Dar spėsi viską sutvarkyti! %1$s „%2$s“",
     "notification_assignment_reminder_title": "Užduoties priminimas: %1$s",
+    "notification_assignment_reminder_title_time_left": "Užduoties priminimas: liko %1$s",
     "notification_assignment_safety_net_body": "Pažymėjai kaip atliktą arba ignoravai, bet vis dar nepateikta: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Užduotis vis dar nepateikta",
     "notification_bulletin_silent_channel_description": "Operatoriaus siunčiami vienkartiniai pranešimai be garso",

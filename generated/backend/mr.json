@@ -818,6 +818,7 @@
   "notification_assignment_reminder_body_5m": "उशीर झाला... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "अजून वेळ आहे! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "असाइनमेंट स्मरणपत्र: %1$s",
+  "notification_assignment_reminder_title_time_left": "असाइनमेंट स्मरणपत्र: %1$s बाकी",
   "notification_assignment_safety_net_body": "तुम्ही ते पूर्ण म्हणून चिन्हांकित केले किंवा दुर्लक्ष केले, पण अजून सबमिट केले नाही: %1$s — %2$s",
   "notification_assignment_safety_net_title": "होमवर्क अजून सबमिट केले नाही",
   "notification_bulletin_silent_channel_description": "ऑपरेटरने पाठवलेल्या एकवेळच्या सूचना शांतपणे वितरित केल्या",

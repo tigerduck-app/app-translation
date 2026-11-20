@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "Of seint... %1$s „%2$s“",
     "notification_assignment_reminder_body_multi_hour": "Enn er tími til að bjarga þessu! %1$s „%2$s“",
     "notification_assignment_reminder_title": "Verkefnaáminning: %1$s",
+    "notification_assignment_reminder_title_time_left": "Verkefnaáminning: %1$s eftir",
     "notification_assignment_safety_net_body": "Þú merktir það lokið eða hunsaðir, en það er enn ekki skilað: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Heimaverkefnið er enn ekki skilað",
     "notification_bulletin_silent_channel_description": "Einstaka tilkynningar frá rekstraraðila, sendar hljóðlægt",

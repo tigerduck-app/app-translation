@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "もう遅い… %1$s「%2$s」",
     "notification_assignment_reminder_body_multi_hour": "まだ間に合います！ %1$s「%2$s」",
     "notification_assignment_reminder_title": "課題リマインダー：%1$s",
+    "notification_assignment_reminder_title_time_left": "課題リマインダー：残り %1$s",
     "notification_assignment_safety_net_body": "完了とマークまたは無視しましたが、まだ提出されていません:%1$s「%2$s」",
     "notification_assignment_safety_net_title": "課題はまだ提出されていません",
     "notification_bulletin_silent_channel_description": "管理者が手動で送信するサイレントなワンタイム通知",

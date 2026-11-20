@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "Ennyi volt... %1$s „%2$s”",
     "notification_assignment_reminder_body_multi_hour": "Még van idő bepótolni! %1$s „%2$s”",
     "notification_assignment_reminder_title": "Házi feladat emlékeztető: %1$s",
+    "notification_assignment_reminder_title_time_left": "Házi feladat emlékeztető: még %1$s",
     "notification_assignment_safety_net_body": "Késznek jelölted vagy figyelmen kívül hagytad, de még nincs beadva: %1$s — %2$s",
     "notification_assignment_safety_net_title": "A házi feladat még nincs beadva",
     "notification_bulletin_silent_channel_description": "Az operátor által küldött egyszeri értesítések, néma kézbesítéssel",

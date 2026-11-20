@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "Trễ rồi... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Vẫn còn kịp sửa! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "Nhắc nhở bài tập: %1$s",
+    "notification_assignment_reminder_title_time_left": "Nhắc nhở bài tập: còn %1$s",
     "notification_assignment_safety_net_body": "Bạn đã đánh dấu hoàn thành hoặc bỏ qua, nhưng vẫn chưa nộp: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Bài tập vẫn chưa nộp",
     "notification_bulletin_silent_channel_description": "Thông báo một lần do người vận hành gửi, được chuyển phát im lặng",

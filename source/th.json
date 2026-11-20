@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "สายไปแล้ว... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "ยังพอแก้ตัวทัน! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "เตือนการบ้าน: %1$s",
+    "notification_assignment_reminder_title_time_left": "เตือนการบ้าน: เหลืออีก %1$s",
     "notification_assignment_safety_net_body": "คุณทำเครื่องหมายว่าเสร็จแล้วหรือเพิกเฉย แต่ยังไม่ได้ส่ง: %1$s — %2$s",
     "notification_assignment_safety_net_title": "ยังไม่ได้ส่งการบ้าน",
     "notification_bulletin_silent_channel_description": "การแจ้งเตือนครั้งเดียวที่ผู้ดูแลระบบส่ง โดยส่งแบบเงียบ",

@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "Liian myöhäistä... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Vielä ehtii korjata! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "Tehtävämuistutus: %1$s",
+    "notification_assignment_reminder_title_time_left": "Tehtävämuistutus: %1$s jäljellä",
     "notification_assignment_safety_net_body": "Merkitsit sen tehdyksi tai jätit huomiotta, mutta sitä ei ole vielä palautettu: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Tehtävää ei ole vielä palautettu",
     "notification_bulletin_silent_channel_description": "Operaattorin lähettämät kertailmoitukset, toimitetaan äänettömästi",

@@ -818,6 +818,7 @@
   "notification_assignment_reminder_body_5m": "Liiga hilja... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Ikka aega parandada! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Ülesande meeldetuletus: %1$s",
+  "notification_assignment_reminder_title_time_left": "Ülesande meeldetuletus: jäänud %1$s",
   "notification_assignment_safety_net_body": "Märkisid selle tehtuks või eirasid, kuid see pole veel esitatud: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Ülesanne pole veel esitatud",
   "notification_bulletin_silent_channel_description": "Operaatori ühekordne teatis, mis edastatakse vaikselt",

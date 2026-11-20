@@ -818,6 +818,7 @@
   "notification_assignment_reminder_body_5m": "बहुत देर हो गई... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "अभी भी सुधार का समय है! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "असाइनमेंट रिमाइंडर: %1$s",
+  "notification_assignment_reminder_title_time_left": "असाइनमेंट रिमाइंडर: %1$s बाकी",
   "notification_assignment_safety_net_body": "आपने इसे पूरा चिह्नित किया या अनदेखा किया, पर यह अब भी जमा नहीं हुआ: %1$s — %2$s",
   "notification_assignment_safety_net_title": "होमवर्क अब भी जमा नहीं हुआ",
   "notification_bulletin_silent_channel_description": "ऑपरेटर द्वारा भेजी गई एकबारगी सूचनाएँ, जो चुपचाप प्राप्त होती हैं",

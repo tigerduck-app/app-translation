@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "Zu spät... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Es ist immer noch Zeit, das Problem zu beheben! %1$s „%2$s“",
     "notification_assignment_reminder_title": "Zuweisungserinnerung: %1$s",
+    "notification_assignment_reminder_title_time_left": "Zuweisungserinnerung: noch %1$s",
     "notification_assignment_safety_net_body": "Du hast sie als erledigt markiert oder ignoriert, aber sie ist noch nicht abgegeben: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Aufgabe noch nicht abgegeben",
     "notification_bulletin_silent_channel_description": "Einmalige Benachrichtigungen vom Betreiber, lautlos zugestellt",

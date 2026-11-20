@@ -818,6 +818,7 @@
   "notification_assignment_reminder_body_5m": "Çok geç... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Düzeltmek için hâlâ zaman var! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Ödev hatırlatıcısı: %1$s",
+  "notification_assignment_reminder_title_time_left": "Ödev hatırlatıcısı: %1$s kaldı",
   "notification_assignment_safety_net_body": "Tamamlandı olarak işaretledin veya yok saydın ama hâlâ teslim edilmedi: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Ödev hâlâ teslim edilmedi",
   "notification_bulletin_silent_channel_description": "Operatör tarafından sessiz olarak gönderilen tek seferlik bildirimler",

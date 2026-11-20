@@ -818,6 +818,7 @@
   "notification_assignment_reminder_body_5m": "Te laat… %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Nog tijd om het te verbeteren! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Opdrachtherinnering: %1$s",
+  "notification_assignment_reminder_title_time_left": "Opdrachtherinnering: nog %1$s",
   "notification_assignment_safety_net_body": "Je hebt het als af gemarkeerd of genegeerd, maar het is nog niet ingeleverd: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Huiswerk nog niet ingeleverd",
   "notification_bulletin_silent_channel_description": "Eenmalige meldingen van de beheerder, stil afgeleverd",

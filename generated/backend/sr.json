@@ -818,6 +818,7 @@
   "notification_assignment_reminder_body_5m": "Прекасно је... %1$s „%2$s“",
   "notification_assignment_reminder_body_multi_hour": "Још има времена да то средиш! %1$s „%2$s“",
   "notification_assignment_reminder_title": "Подсетник за задатак: %1$s",
+  "notification_assignment_reminder_title_time_left": "Подсетник за задатак: још %1$s",
   "notification_assignment_safety_net_body": "Означио си га као готов или га игнорисао, али још није предат: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Задатак још није предат",
   "notification_bulletin_silent_channel_description": "Једнократна обавештења која шаље оператер, испоручена тихо",

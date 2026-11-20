@@ -819,6 +819,7 @@
     "notification_assignment_reminder_body_5m": "涼了... %1$s「%2$s」",
     "notification_assignment_reminder_body_multi_hour": "還來得及補救!%1$s「%2$s」",
     "notification_assignment_reminder_title": "作業提醒:%1$s",
+    "notification_assignment_reminder_title_time_left": "作業提醒：還有 %1$s",
     "notification_assignment_safety_net_body": "你已忽略或標記為完成，但作業還沒繳交:%1$s「%2$s」",
     "notification_assignment_safety_net_title": "作業還沒繳!",
     "notification_bulletin_silent_channel_description": "管理員手動發送、不需要聲音的一次性通知",
