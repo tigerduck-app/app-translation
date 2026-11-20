@@ -199,10 +199,11 @@ app shows the name the room booking site gives a building that has no key.
 
 ## Department names (Chinese and English only)
 
-The member pages name a student's department from the department code in the student ID, with
-`course_member_department_<code>` keys, where `<code>` is the department's course code in lower
-case (`course_member_department_cs` for CS, 資訊工程系). Each has a `_short` twin for the members
-list, where the English drops the leading "Department of". Like a building, a department has two
+The member pages name a student's department, graduate institute or program from the department
+code in the student ID, with `course_member_department_<code>` keys, where `<code>` is its course
+code in lower case (`course_member_department_cs` for CS, 資訊工程系). Each has a `_short` twin for
+the members list, where the English drops a leading "Department of" or "Graduate Institute of"; a
+program or honors program keeps its full name in `_short`. Like a building, a department has two
 names and no more: the Chinese name and the English name that the Office of Academic Affairs'
 course department code table (課程系所代碼表) gives it.
 
