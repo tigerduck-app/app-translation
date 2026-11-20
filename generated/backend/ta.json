@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle கோப்புகள்",
   "settings_downloaded_files_title": "பதிவிறக்கிய கோப்புகள்",
   "settings_feedback_bug_report": "கருத்து / சிக்கல் அறிக்கை",
+  "settings_flip_to_library_closed_note": "நூலகம் மூடியிருக்கும்போது இது இயங்காது.",
   "settings_flip_to_library_summary": "நூலக QR திறக்க தொலைபேசியை திரை கீழே வைத்து திருப்பவும்.",
   "settings_flip_to_library_title": "நூலக QR காட்ட திருப்பவும்",
   "settings_flip_to_library_unsupported": "உங்கள் சாதனத்தில் தேவையான சென்சார் இல்லை.",

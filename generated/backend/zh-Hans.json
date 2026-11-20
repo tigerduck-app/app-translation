@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle 文件",
   "settings_downloaded_files_title": "已下载的文件",
   "settings_feedback_bug_report": "回馈/问题回报",
+  "settings_flip_to_library_closed_note": "闭馆时间不会触发",
   "settings_flip_to_library_summary": "将手机屏幕朝下即可打开图书馆 QR",
   "settings_flip_to_library_title": "翻转显示图书馆 QR",
   "settings_flip_to_library_unsupported": "此设备缺少所需的传感器",

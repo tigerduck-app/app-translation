@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle-filer",
   "settings_downloaded_files_title": "Downloadede filer",
   "settings_feedback_bug_report": "Feedback / Rapportér problem",
+  "settings_flip_to_library_closed_note": "Udløses ikke, mens biblioteket er lukket.",
   "settings_flip_to_library_summary": "Vend telefonen med skærmen nedad for at åbne bibliotekets QR.",
   "settings_flip_to_library_title": "Vend om for at vise bibliotekets QR",
   "settings_flip_to_library_unsupported": "Din enhed mangler den nødvendige sensor.",

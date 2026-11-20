@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle files",
   "settings_downloaded_files_title": "Downloaded files",
   "settings_feedback_bug_report": "Feedback / Report issue",
+  "settings_flip_to_library_closed_note": "Doesn't trigger while the library is closed.",
   "settings_flip_to_library_summary": "Flip your phone face-down to open the library QR.",
   "settings_flip_to_library_title": "Flip to show library QR",
   "settings_flip_to_library_unsupported": "Your device doesn't have the required sensor.",

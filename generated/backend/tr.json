@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle dosyaları",
   "settings_downloaded_files_title": "İndirilen dosyalar",
   "settings_feedback_bug_report": "Geri bildirim / Sorun bildir",
+  "settings_flip_to_library_closed_note": "Kütüphane kapalıyken tetiklenmez.",
   "settings_flip_to_library_summary": "Kütüphane QR'ını açmak için telefonu ekran aşağı gelecek şekilde çevir.",
   "settings_flip_to_library_title": "Kütüphane QR'ını göstermek için çevir",
   "settings_flip_to_library_unsupported": "Cihazınızda gerekli sensör bulunmuyor.",

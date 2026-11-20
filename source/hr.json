@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Datoteke s Moodlea",
     "settings_downloaded_files_title": "Preuzete datoteke",
     "settings_feedback_bug_report": "Povratne informacije / Prijava problema",
+    "settings_flip_to_library_closed_note": "Ne pokreće se dok je knjižnica zatvorena.",
     "settings_flip_to_library_summary": "Preokrenite telefon zaslonom prema dolje da otvorite QR knjižnice.",
     "settings_flip_to_library_title": "Preokreni za prikaz QR-a knjižnice",
     "settings_flip_to_library_unsupported": "Uređaj nema potrebni senzor.",

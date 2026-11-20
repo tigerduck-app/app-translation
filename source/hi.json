@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Moodle फ़ाइलें",
     "settings_downloaded_files_title": "डाउनलोड की गई फ़ाइलें",
     "settings_feedback_bug_report": "फीडबैक / समस्या रिपोर्ट करें",
+    "settings_flip_to_library_closed_note": "लाइब्रेरी बंद होने पर यह चालू नहीं होता।",
     "settings_flip_to_library_summary": "लाइब्रेरी QR खोलने के लिए फ़ोन को स्क्रीन नीचे करके पलटें।",
     "settings_flip_to_library_title": "लाइब्रेरी QR दिखाने के लिए पलटें",
     "settings_flip_to_library_unsupported": "आपके डिवाइस में आवश्यक सेंसर नहीं है।",

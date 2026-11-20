@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Moodle'i failid",
     "settings_downloaded_files_title": "Allalaaditud failid",
     "settings_feedback_bug_report": "Tagasiside / Vea aruanne",
+    "settings_flip_to_library_closed_note": "Ei käivitu, kui raamatukogu on suletud.",
     "settings_flip_to_library_summary": "Pööra telefon ekraaniga allapoole, et avada raamatukogu QR.",
     "settings_flip_to_library_title": "Pööra raamatukogu QR-i näitamiseks",
     "settings_flip_to_library_unsupported": "Seadmel puudub vajalik andur.",

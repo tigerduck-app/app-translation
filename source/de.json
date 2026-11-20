@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Moodle-Dateien",
     "settings_downloaded_files_title": "Heruntergeladene Dateien",
     "settings_feedback_bug_report": "Feedback / Fehler melden",
+    "settings_flip_to_library_closed_note": "Wird nicht ausgelöst, solange die Bibliothek geschlossen ist.",
     "settings_flip_to_library_summary": "Lege das Handy mit dem Display nach unten, um den Bibliotheks-QR zu öffnen.",
     "settings_flip_to_library_title": "Bibliotheks-QR per Umdrehen anzeigen",
     "settings_flip_to_library_unsupported": "Dieses Gerät verfügt nicht über den erforderlichen Sensor.",
