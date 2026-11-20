@@ -428,6 +428,8 @@
   "course_card_assignment_content_description": "असाइनमेंट है",
   "course_card_cancelled": "रद्द",
   "course_card_current_class": "वर्तमान कक्षा",
+  "course_change_assessment": "मूल्यांकन",
+  "course_change_online": "ऑनलाइन",
   "course_classroom_value": "कक्षा: %1$s",
   "course_color_picker_custom_badge": "कस्टम",
   "course_color_picker_custom_label": "कस्टम रंग",

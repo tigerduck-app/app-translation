@@ -428,6 +428,8 @@
   "course_card_assignment_content_description": "Har oppgave",
   "course_card_cancelled": "Avlyst",
   "course_card_current_class": "Gjeldende time",
+  "course_change_assessment": "Vurdering",
+  "course_change_online": "Digitalt",
   "course_classroom_value": "Klasserom: %1$s",
   "course_color_picker_custom_badge": "Egendefinert",
   "course_color_picker_custom_label": "Egendefinert farge",

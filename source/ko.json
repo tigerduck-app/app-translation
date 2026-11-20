@@ -429,6 +429,8 @@
     "course_card_assignment_content_description": "과제 있음",
     "course_card_cancelled": "휴강",
     "course_card_current_class": "현재 수업",
+    "course_change_assessment": "평가",
+    "course_change_online": "온라인",
     "course_classroom_value": "강의실: %1$s",
     "course_color_picker_custom_badge": "사용자 지정",
     "course_color_picker_custom_label": "사용자 지정 색상",

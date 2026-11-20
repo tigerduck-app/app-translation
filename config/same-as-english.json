@@ -668,5 +668,12 @@
       "shared.a11y_accent_gradient_stop_count"
     ],
     "locales": ["ca"]
+  },
+  {
+    "reason": "Online is the word for a class held online in these languages",
+    "keys": [
+      "shared.course_change_online"
+    ],
+    "locales": ["cs", "da", "de", "fil", "hr", "hu", "it", "nl", "pl", "pt-PT", "ro", "sk", "sv"]
   }
 ]
