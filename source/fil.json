@@ -816,6 +816,7 @@
     "notification_assignment_reminder_body_5m": "Huli na... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Oras pa para ayusin ito! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "Paalala sa takdang-aralin: %1$s",
+    "notification_assignment_reminder_title_time_left": "Paalala sa takdang-aralin: %1$s pa ang natitira",
     "notification_assignment_safety_net_body": "Minarkahan mo bilang tapos o binalewala, pero hindi pa naipapasa: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Hindi pa naipapasa ang takdang-aralin",
     "notification_bulletin_silent_channel_description": "Mga isang-beses na abiso mula sa operator na inihahatid nang tahimik",

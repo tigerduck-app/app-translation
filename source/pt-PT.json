@@ -816,6 +816,7 @@
     "notification_assignment_reminder_body_5m": "Já é tarde demais... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Ainda dá para corrigir! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "Lembrete de tarefa: %1$s",
+    "notification_assignment_reminder_title_time_left": "Lembrete de tarefa: faltam %1$s",
     "notification_assignment_safety_net_body": "Marcaste como concluído ou ignoraste, mas ainda não foi submetido: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Trabalho ainda não submetido",
     "notification_bulletin_silent_channel_description": "Notificações únicas enviadas pelo operador, entregues silenciosamente",

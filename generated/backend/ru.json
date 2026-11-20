@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Слишком поздно… %1$s «%2$s»",
   "notification_assignment_reminder_body_multi_hour": "Ещё можно всё исправить! %1$s «%2$s»",
   "notification_assignment_reminder_title": "Напоминание о задании: %1$s",
+  "notification_assignment_reminder_title_time_left": "Напоминание о задании: осталось %1$s",
   "notification_assignment_safety_net_body": "Ты отметил как выполненное или проигнорировал, но оно ещё не сдано: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Задание всё ещё не сдано",
   "notification_bulletin_silent_channel_description": "Разовые уведомления от оператора, доставляемые без звука",

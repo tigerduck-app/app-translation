@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "വൈകിപ്പോയി... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "ഇനിയും തിരുത്താൻ സമയമുണ്ട്! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "അസൈൻമെന്റ് റിമൈൻഡർ: %1$s",
+  "notification_assignment_reminder_title_time_left": "അസൈൻമെന്റ് റിമൈൻഡർ: %1$s ബാക്കി",
   "notification_assignment_safety_net_body": "നിങ്ങൾ പൂർത്തിയായതായി അടയാളപ്പെടുത്തി അല്ലെങ്കിൽ അവഗണിച്ചു, പക്ഷേ ഇതുവരെ സമർപ്പിച്ചിട്ടില്ല: %1$s — %2$s",
   "notification_assignment_safety_net_title": "ഹോംവർക്ക് ഇതുവരെ സമർപ്പിച്ചിട്ടില്ല",
   "notification_bulletin_silent_channel_description": "ഓപ്പറേറ്റർ അയച്ച നിശബ്ദ ഒറ്റത്തവണ അറിയിപ്പുകൾ",

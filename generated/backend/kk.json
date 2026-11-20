@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Кеш қалды... %1$s «%2$s»",
   "notification_assignment_reminder_body_multi_hour": "Түзетуге уақыт бар! %1$s «%2$s»",
   "notification_assignment_reminder_title": "Тапсырма еске салғышы: %1$s",
+  "notification_assignment_reminder_title_time_left": "Тапсырма еске салғышы: %1$s қалды",
   "notification_assignment_safety_net_body": "Орындалды деп белгіледіңіз немесе елемедіңіз, бірақ әлі тапсырылмаған: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Үй тапсырмасы әлі тапсырылмаған",
   "notification_bulletin_silent_channel_description": "Оператор қолмен жіберетін дыбыссыз бір реттік хабарландырулар",

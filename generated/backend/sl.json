@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Prepozno... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Še čas za popravek! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Opomnik za nalogo: %1$s",
+  "notification_assignment_reminder_title_time_left": "Opomnik za nalogo: še %1$s",
   "notification_assignment_safety_net_body": "Označil si jo kot opravljeno ali prezrl, vendar še ni oddana: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Naloga še ni oddana",
   "notification_bulletin_silent_channel_description": "Enkratna obvestila, ki jih pošlje operater, dostavljena tiho",

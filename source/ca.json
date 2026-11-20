@@ -816,6 +816,7 @@
     "notification_assignment_reminder_body_5m": "Massa tard... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Encara sou a temps d'arreglar-ho! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "Recordatori de la tasca: %1$s",
+    "notification_assignment_reminder_title_time_left": "Recordatori de la tasca: queden %1$s",
     "notification_assignment_safety_net_body": "L'has marcada com a feta o l'has ignorada, però encara no s'ha lliurat: %1$s — %2$s",
     "notification_assignment_safety_net_title": "La tasca encara no s'ha lliurat",
     "notification_bulletin_silent_channel_description": "Notificacions úniques emeses per l'operador, lliurades en silenci",

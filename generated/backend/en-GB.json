@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Too late... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Still time to fix it! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Assignment reminder: %1$s",
+  "notification_assignment_reminder_title_time_left": "Assignment reminder: %1$s left",
   "notification_assignment_safety_net_body": "You marked or ignored this, but it isn't submitted yet: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Homework still not submitted",
   "notification_bulletin_silent_channel_description": "Operator-issued one-off notifications delivered silently",

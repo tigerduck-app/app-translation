@@ -816,6 +816,7 @@
     "notification_assignment_reminder_body_5m": "Terlambat... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "Masih ada masa untuk betulkan! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "Peringatan tugasan: %1$s",
+    "notification_assignment_reminder_title_time_left": "Peringatan tugasan: tinggal %1$s",
     "notification_assignment_safety_net_body": "Anda menandainya sebagai selesai atau mengabaikannya, tetapi masih belum dihantar: %1$s — %2$s",
     "notification_assignment_safety_net_title": "Kerja rumah masih belum dihantar",
     "notification_bulletin_silent_channel_description": "Pemberitahuan sekali sahaja yang dihantar oleh pengendali secara senyap",

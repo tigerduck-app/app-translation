@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Par vēlu... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Vēl ir laiks labot! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Uzdevuma atgādinājums: %1$s",
+  "notification_assignment_reminder_title_time_left": "Uzdevuma atgādinājums: atlicis %1$s",
   "notification_assignment_safety_net_body": "Atzīmēji kā paveiktu vai ignorēji, bet tas joprojām nav iesniegts: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Mājasdarbs joprojām nav iesniegts",
   "notification_bulletin_silent_channel_description": "Operatora sūtīti vienreizēji paziņojumi bez skaņas",

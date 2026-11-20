@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "ખૂબ મોડું થઈ ગયું... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "તેને ઠીક કરવાનો હજી સમય છે! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "સોંપણી રીમાઇન્ડર: %1$s",
+  "notification_assignment_reminder_title_time_left": "સોંપણી રીમાઇન્ડર: %1$s બાકી",
   "notification_assignment_safety_net_body": "તમે તેને પૂર્ણ ગણ્યું અથવા અવગણ્યું, પણ તે હજુ સબમિટ થયું નથી: %1$s — %2$s",
   "notification_assignment_safety_net_title": "હોમવર્ક હજુ સબમિટ થયું નથી",
   "notification_bulletin_silent_channel_description": "ઑપરેટર દ્વારા મોકલાયેલ એકવારની સૂચનાઓ, ચૂપચાપ પ્રાપ્ત",

@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Terlambat... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Masih ada waktu untuk memperbaikinya! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Pengingat tugas: %1$s",
+  "notification_assignment_reminder_title_time_left": "Pengingat tugas: sisa %1$s",
   "notification_assignment_safety_net_body": "Kamu menandainya selesai atau mengabaikannya, tapi belum dikumpulkan: %1$s — %2$s",
   "notification_assignment_safety_net_title": "PR masih belum dikumpulkan",
   "notification_bulletin_silent_channel_description": "Notifikasi satu kali yang dikirim operator, disampaikan tanpa suara",

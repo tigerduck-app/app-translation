@@ -816,6 +816,7 @@
     "notification_assignment_reminder_body_5m": "너무 늦었습니다... %1$s \"%2$s\"",
     "notification_assignment_reminder_body_multi_hour": "아직 수정할 시간이 있습니다! %1$s \"%2$s\"",
     "notification_assignment_reminder_title": "과제 알림: %1$s",
+    "notification_assignment_reminder_title_time_left": "과제 알림: %1$s 남음",
     "notification_assignment_safety_net_body": "완료로 표시하거나 무시했지만 아직 제출되지 않았어요: %1$s — %2$s",
     "notification_assignment_safety_net_title": "과제가 아직 제출되지 않았어요",
     "notification_bulletin_silent_channel_description": "운영자가 수동으로 보내는 무음 일회성 알림",

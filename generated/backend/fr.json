@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Trop tard... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "Il est encore temps de le réparer ! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "Rappel de la tâche : %1$s",
+  "notification_assignment_reminder_title_time_left": "Rappel de la tâche : encore %1$s",
   "notification_assignment_safety_net_body": "Vous l'avez marqué comme fait ou ignoré, mais il n'est toujours pas rendu : %1$s — %2$s",
   "notification_assignment_safety_net_title": "Devoir toujours non rendu",
   "notification_bulletin_silent_channel_description": "Notifications ponctuelles émises par l'opérateur, livrées silencieusement",

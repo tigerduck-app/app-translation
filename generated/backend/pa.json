@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "ਬਹੁਤ ਦੇਰ ਹੋ ਗਈ... %1$s \"%2$s\"",
   "notification_assignment_reminder_body_multi_hour": "ਅਜੇ ਸੁਧਾਰਨ ਦਾ ਸਮਾਂ ਹੈ! %1$s \"%2$s\"",
   "notification_assignment_reminder_title": "ਅਸਾਈਨਮੈਂਟ ਯਾਦ-ਦਹਾਨੀ: %1$s",
+  "notification_assignment_reminder_title_time_left": "ਅਸਾਈਨਮੈਂਟ ਯਾਦ-ਦਹਾਨੀ: %1$s ਬਾਕੀ",
   "notification_assignment_safety_net_body": "ਤੁਸੀਂ ਪੂਰਾ ਨਿਸ਼ਾਨਬੱਧ ਕੀਤਾ ਜਾਂ ਨਜ਼ਰਅੰਦਾਜ਼ ਕੀਤਾ, ਪਰ ਅਜੇ ਸਬਮਿਟ ਨਹੀਂ ਹੋਇਆ: %1$s — %2$s",
   "notification_assignment_safety_net_title": "ਹੋਮਵਰਕ ਅਜੇ ਸਬਮਿਟ ਨਹੀਂ ਹੋਇਆ",
   "notification_bulletin_silent_channel_description": "ਆਪਰੇਟਰ ਵੱਲੋਂ ਚੁੱਪ-ਚਾਪ ਭੇਜੀਆਂ ਇੱਕ-ਵਾਰ ਦੀਆਂ ਸੂਚਨਾਵਾਂ",

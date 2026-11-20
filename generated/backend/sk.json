@@ -815,6 +815,7 @@
   "notification_assignment_reminder_body_5m": "Už je neskoro... %1$s „%2$s“",
   "notification_assignment_reminder_body_multi_hour": "Ešte to stihneš zachrániť! %1$s „%2$s“",
   "notification_assignment_reminder_title": "Pripomienka úlohy: %1$s",
+  "notification_assignment_reminder_title_time_left": "Pripomienka úlohy: zostáva %1$s",
   "notification_assignment_safety_net_body": "Označil(a) si ju ako hotovú alebo ignoroval(a), no stále nie je odovzdaná: %1$s — %2$s",
   "notification_assignment_safety_net_title": "Úloha stále nie je odovzdaná",
   "notification_bulletin_silent_channel_description": "Jednorazové oznámenia odoslané operátorom, doručované ticho",
