@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Αρχεία Moodle",
   "settings_downloaded_files_title": "Ληφθέντα αρχεία",
   "settings_feedback_bug_report": "Σχόλια / Αναφορά προβλήματος",
+  "settings_flip_to_library_closed_note": "Δεν ενεργοποιείται όσο η βιβλιοθήκη είναι κλειστή.",
   "settings_flip_to_library_summary": "Αναποδογύρισε το τηλέφωνο με την οθόνη προς τα κάτω για να ανοίξεις τον QR της βιβλιοθήκης.",
   "settings_flip_to_library_title": "Αναποδογύρισε για να δεις τον QR της βιβλιοθήκης",
   "settings_flip_to_library_unsupported": "Η συσκευή σου δεν διαθέτει τον απαιτούμενο αισθητήρα.",

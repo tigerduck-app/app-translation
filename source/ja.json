@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Moodleのファイル",
     "settings_downloaded_files_title": "ダウンロードしたファイル",
     "settings_feedback_bug_report": "フィードバック / 不具合報告",
+    "settings_flip_to_library_closed_note": "図書館の閉館時間中は作動しません。",
     "settings_flip_to_library_summary": "スマホを画面下向きに裏返すと図書館 QR を開きます。",
     "settings_flip_to_library_title": "裏返して図書館 QR を表示",
     "settings_flip_to_library_unsupported": "このデバイスには必要なセンサーがありません。",

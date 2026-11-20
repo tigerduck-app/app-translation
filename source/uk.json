@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Файли Moodle",
     "settings_downloaded_files_title": "Завантажені файли",
     "settings_feedback_bug_report": "Відгук / Повідомити про проблему",
+    "settings_flip_to_library_closed_note": "Не спрацьовує, поки бібліотека зачинена.",
     "settings_flip_to_library_summary": "Переверніть телефон екраном донизу, щоб відкрити QR бібліотеки.",
     "settings_flip_to_library_title": "Перевернути для показу QR бібліотеки",
     "settings_flip_to_library_unsupported": "На вашому пристрої немає потрібного датчика.",

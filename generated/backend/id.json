@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "File Moodle",
   "settings_downloaded_files_title": "File yang diunduh",
   "settings_feedback_bug_report": "Umpan balik / Laporkan masalah",
+  "settings_flip_to_library_closed_note": "Tidak aktif saat perpustakaan tutup.",
   "settings_flip_to_library_summary": "Balik ponsel dengan layar menghadap bawah untuk membuka QR perpustakaan.",
   "settings_flip_to_library_title": "Balik untuk menampilkan QR perpustakaan",
   "settings_flip_to_library_unsupported": "Perangkat Anda tidak memiliki sensor yang diperlukan.",

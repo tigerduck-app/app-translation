@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Moodle-skrár",
     "settings_downloaded_files_title": "Sóttar skrár",
     "settings_feedback_bug_report": "Endurgjöf / Tilkynna villu",
+    "settings_flip_to_library_closed_note": "Virkjast ekki á meðan bókasafnið er lokað.",
     "settings_flip_to_library_summary": "Snúðu símann með skjánum niður til að opna QR kóða bókasafnsins.",
     "settings_flip_to_library_title": "Snúa til að sýna QR kóða bókasafnsins",
     "settings_flip_to_library_unsupported": "Tækið er ekki með nauðsynlegan skynjara.",

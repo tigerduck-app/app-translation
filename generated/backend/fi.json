@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle-tiedostot",
   "settings_downloaded_files_title": "Ladatut tiedostot",
   "settings_feedback_bug_report": "Palaute / Ilmoita ongelma",
+  "settings_flip_to_library_closed_note": "Ei käynnisty, kun kirjasto on suljettu.",
   "settings_flip_to_library_summary": "Käännä puhelin näyttö alaspäin avataksesi kirjaston QR-koodin.",
   "settings_flip_to_library_title": "Käännä kirjaston QR-koodin näyttämiseksi",
   "settings_flip_to_library_unsupported": "Laitteesta puuttuu tarvittava anturi.",

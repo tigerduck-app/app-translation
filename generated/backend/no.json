@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle-filer",
   "settings_downloaded_files_title": "Nedlastede filer",
   "settings_feedback_bug_report": "Tilbakemelding / Rapporter problem",
+  "settings_flip_to_library_closed_note": "Utløses ikke mens biblioteket er stengt.",
   "settings_flip_to_library_summary": "Snu telefonen med skjermen ned for å åpne bibliotekets QR.",
   "settings_flip_to_library_title": "Snu for å vise bibliotekets QR",
   "settings_flip_to_library_unsupported": "Enheten mangler den nødvendige sensoren.",

@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Súbory z Moodlu",
   "settings_downloaded_files_title": "Stiahnuté súbory",
   "settings_feedback_bug_report": "Spätná väzba / Nahlásenie problému",
+  "settings_flip_to_library_closed_note": "Nespustí sa, keď je knižnica zatvorená.",
   "settings_flip_to_library_summary": "Otočte telefón obrazovkou nadol a otvoríte QR knižnice.",
   "settings_flip_to_library_title": "Otočiť pre zobrazenie QR knižnice",
   "settings_flip_to_library_unsupported": "Vaše zariadenie nemá potrebný senzor.",

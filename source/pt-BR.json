@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Arquivos do Moodle",
     "settings_downloaded_files_title": "Arquivos baixados",
     "settings_feedback_bug_report": "Feedback / Reportar problema",
+    "settings_flip_to_library_closed_note": "Não é acionado enquanto a biblioteca está fechada.",
     "settings_flip_to_library_summary": "Vire o telefone com a tela para baixo para abrir o QR da biblioteca.",
     "settings_flip_to_library_title": "Virar para mostrar o QR da biblioteca",
     "settings_flip_to_library_unsupported": "Seu dispositivo não possui o sensor necessário.",

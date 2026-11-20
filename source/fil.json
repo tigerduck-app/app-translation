@@ -1172,6 +1172,7 @@
     "settings_downloaded_files_moodle": "Mga file sa Moodle",
     "settings_downloaded_files_title": "Mga na-download na file",
     "settings_feedback_bug_report": "Feedback / Mag-ulat ng isyu",
+    "settings_flip_to_library_closed_note": "Hindi ito gumagana habang sarado ang library.",
     "settings_flip_to_library_summary": "I-flip ang telepono naka-mukha ang screen pababa para buksan ang library QR.",
     "settings_flip_to_library_title": "I-flip para ipakita ang library QR",
     "settings_flip_to_library_unsupported": "Wala sa iyong device ang kinakailangang sensor.",

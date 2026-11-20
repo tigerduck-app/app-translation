@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Fișiere Moodle",
   "settings_downloaded_files_title": "Fișiere descărcate",
   "settings_feedback_bug_report": "Feedback / Raportare problemă",
+  "settings_flip_to_library_closed_note": "Nu se declanșează cât timp biblioteca este închisă.",
   "settings_flip_to_library_summary": "Întoarce telefonul cu ecranul în jos pentru a deschide QR-ul bibliotecii.",
   "settings_flip_to_library_title": "Întoarce pentru a afișa QR-ul bibliotecii",
   "settings_flip_to_library_unsupported": "Dispozitivul tău nu are senzorul necesar.",

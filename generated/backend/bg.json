@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Файлове от Moodle",
   "settings_downloaded_files_title": "Изтеглени файлове",
   "settings_feedback_bug_report": "Обратна връзка / Докладване на проблем",
+  "settings_flip_to_library_closed_note": "Не се задейства, докато библиотеката е затворена.",
   "settings_flip_to_library_summary": "Обърни телефона с екрана надолу, за да отвориш QR на библиотеката.",
   "settings_flip_to_library_title": "Обърни за показване на QR на библиотеката",
   "settings_flip_to_library_unsupported": "Устройството ти няма необходимия сензор.",

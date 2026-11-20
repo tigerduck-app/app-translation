@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle 파일",
   "settings_downloaded_files_title": "다운로드한 파일",
   "settings_feedback_bug_report": "피드백 / 문제 신고",
+  "settings_flip_to_library_closed_note": "도서관이 문을 닫은 시간에는 작동하지 않습니다.",
   "settings_flip_to_library_summary": "화면을 아래로 뒤집으면 도서관 QR이 열립니다.",
   "settings_flip_to_library_title": "뒤집어서 도서관 QR 표시",
   "settings_flip_to_library_unsupported": "이 기기에는 필요한 센서가 없습니다.",

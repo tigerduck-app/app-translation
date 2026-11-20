@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "Moodle 檔案",
   "settings_downloaded_files_title": "已下載的檔案",
   "settings_feedback_bug_report": "回饋/問題回報",
+  "settings_flip_to_library_closed_note": "閉館時間不會觸發",
   "settings_flip_to_library_summary": "將手機螢幕朝下即可開啟圖書館 QR",
   "settings_flip_to_library_title": "翻轉顯示圖書館 QR",
   "settings_flip_to_library_unsupported": "此裝置缺少所需的感應器",

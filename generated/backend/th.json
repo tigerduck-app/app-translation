@@ -1175,6 +1175,7 @@
   "settings_downloaded_files_moodle": "ไฟล์ Moodle",
   "settings_downloaded_files_title": "ไฟล์ที่ดาวน์โหลด",
   "settings_feedback_bug_report": "ความคิดเห็น / รายงานปัญหา",
+  "settings_flip_to_library_closed_note": "ไม่ทำงานในช่วงเวลาที่ห้องสมุดปิด",
   "settings_flip_to_library_summary": "พลิกโทรศัพท์คว่ำหน้าลงเพื่อเปิด QR ห้องสมุด",
   "settings_flip_to_library_title": "พลิกเพื่อแสดง QR ห้องสมุด",
   "settings_flip_to_library_unsupported": "อุปกรณ์ของคุณไม่มีเซ็นเซอร์ที่จำเป็น",
