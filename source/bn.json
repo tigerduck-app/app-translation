@@ -429,6 +429,8 @@
     "course_card_assignment_content_description": "অ্যাসাইনমেন্ট আছে",
     "course_card_cancelled": "বাতিল",
     "course_card_current_class": "বর্তমান ক্লাস",
+    "course_change_assessment": "মূল্যায়ন",
+    "course_change_online": "অনলাইন",
     "course_classroom_value": "শ্রেণিকক্ষ: %1$s",
     "course_color_picker_custom_badge": "কাস্টম",
     "course_color_picker_custom_label": "কাস্টম রঙ",

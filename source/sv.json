@@ -429,6 +429,8 @@
     "course_card_assignment_content_description": "Har uppgift",
     "course_card_cancelled": "Inställd",
     "course_card_current_class": "Pågående lektion",
+    "course_change_assessment": "Examination",
+    "course_change_online": "Online",
     "course_classroom_value": "Klassrum: %1$s",
     "course_color_picker_custom_badge": "Anpassad",
     "course_color_picker_custom_label": "Anpassad färg",
